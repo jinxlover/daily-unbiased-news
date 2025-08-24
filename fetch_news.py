@@ -20,6 +20,7 @@ import datetime
 import email.utils
 import html
 import os
+import concurrent.futures
 from urllib.parse import urlparse
 
 
@@ -120,7 +121,8 @@ def fetch_feed(url: str) -> list:
         with urllib.request.urlopen(url, timeout=20) as response:
             data = response.read()
             return extract_items(data)
-    except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError):
+    except Exception:
+        # Return an empty list if any error occurs so other feeds continue processing
         return []
 
 
@@ -138,15 +140,21 @@ def main():
 
     for category, urls in feeds.items():
         aggregated[category] = []
-        for url in urls:
-            items = fetch_feed(url)
-            for item in items:
-                # Deduplicate by title across all categories
-                title_key = item['title'].strip().lower()
-                if title_key in global_titles:
-                    continue
-                global_titles.add(title_key)
-                aggregated[category].append(item)
+        # Fetch all feeds for this category in parallel
+        with concurrent.futures.ThreadPoolExecutor(max_workers=len(urls) or 1) as executor:
+            futures = [executor.submit(fetch_feed, url) for url in urls]
+            for future in concurrent.futures.as_completed(futures):
+                try:
+                    items = future.result()
+                except Exception:
+                    items = []
+                for item in items:
+                    # Deduplicate by title across all categories
+                    title_key = item['title'].strip().lower()
+                    if title_key in global_titles:
+                        continue
+                    global_titles.add(title_key)
+                    aggregated[category].append(item)
         # Sort items by publication date descending and keep top 50
         aggregated[category].sort(key=lambda x: x['pubDate'], reverse=True)
         aggregated[category] = aggregated[category][:50]

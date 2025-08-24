@@ -26,6 +26,9 @@ manual intervention.
   the RSS feeds, deduplicates and sorts the results, then writes them to
   `data/news.json`. If the data changes, the action commits and pushes the
   updated JSON back to your repository.
+- **Concurrent fetching:** Feed URLs within each category are fetched in
+  parallel using Python's `ThreadPoolExecutor`, speeding up updates while
+  isolating failures to individual feeds.
 - **In-browser updates:** The front-end script automatically re-fetches
   `data/news.json` every 10 minutes so the page shows the latest headlines
   without requiring a manual refresh.
