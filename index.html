@@ -8,25 +8,27 @@
   <meta name="description" content="Daily unbiased news, refreshed automatically.">
 </head>
 <body>
-  <header>
-    <div class="container">
-      <h1>Daily Unbiased News</h1>
+  <div class="container">
+    <header class="header">
+      <h1 class="site-title">Daily Unbiased News</h1>
       <p class="tagline">Daily unbiased news, refreshed automatically.</p>
-      <input type="text" id="searchInput" placeholder="Search news..." aria-label="Search news">
+    </header>
+    <div class="searchbar">
+      <input type="search" id="searchInput" placeholder="Search news..." aria-label="Search news">
     </div>
-  </header>
-  <nav id="categoryNav" class="container">
-    <!-- Category buttons will be inserted here dynamically -->
-  </nav>
-  <div id="ticker" aria-live="polite">
-    <div id="tickerContent"></div>
+    <nav id="categoryNav" class="tabs" aria-label="News categories">
+      <!-- Category tabs inserted dynamically -->
+    </nav>
+    <div id="ticker" aria-live="polite">
+      <div id="tickerContent"></div>
+    </div>
+    <main id="content">
+      <!-- News sections inserted dynamically -->
+    </main>
+    <footer class="footer">
+      <p>&copy; <span id="year"></span> Daily Unbiased News. All rights reserved.</p>
+    </footer>
   </div>
-  <main id="content" class="container">
-    <!-- News sections will be inserted here dynamically -->
-  </main>
-  <footer>
-    <p>&copy; <span id="year"></span> Daily Unbiased News. All rights reserved.</p>
-  </footer>
   <script src="script.js"></script>
 </body>
 </html>
