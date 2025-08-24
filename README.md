@@ -1,20 +1,20 @@
-# Daily Unbiased News
+# Critical Event Monitor
 
-Daily Unbiased News is a simple, static news aggregator designed to pull the
-latest headlines from multiple reputable sources and surface them in a clean,
-mobile‑friendly interface. The site is automatically refreshed every 10 minutes
-via a GitHub Action, ensuring you always see up‑to‑date stories without any
-manual intervention.
+Critical Event Monitor provides a trustworthy stream of officially confirmed
+incidents without commentary or speculation. Only events with clear impact are
+recorded, focusing on life safety, major events and infrastructure failures.
+The site refreshes automatically every 10 minutes via a GitHub Action so the
+feed always reflects the latest reports.
 
 ## Features
 
-- **Multiple sources:** The aggregator pulls RSS feeds from a selection of
-  sources such as Reuters, BBC, Al Jazeera, NPR and AP (via Google News).
-  The feed URLs are defined in `feeds.json` and can easily be extended or
-  modified.
-- **Category sections:** News items are grouped into major categories
-  (World, Politics, Tech, Science, Business, Culture). Each section
-  displays up to 50 of the most recent unique headlines across all sources.
+- **Official sources:** The aggregator pulls RSS and Atom feeds from verified
+  outlets such as the USGS and National Weather Service, plus targeted Google
+  News queries scoped to reputable publishers. Feed URLs are defined in
+  `feeds.json` and can easily be extended or modified.
+- **Focused categories:** Reports are grouped into three sections—Life Safety,
+  Events and Infrastructure—each showing up to 50 of the most recent unique
+  entries.
 - **Duplicate filtering:** Articles are deduplicated by title across all
   categories to avoid repeating the same story from multiple outlets.
 - **Live ticker:** A horizontal ticker bar shows the latest headlines from
@@ -34,20 +34,18 @@ manual intervention.
 - **In-browser updates:** The front-end script automatically re-fetches
   `data/news.json` every 10 minutes so the page shows the latest headlines
   without requiring a manual refresh.
-- **Easy deployment:** Because the site is entirely static, it can be
+  - **Easy deployment:** Because the site is entirely static, it can be
   deployed to GitHub Pages, Netlify, Vercel or any other static hosting
-  platform. Simply point the host to the `news_site` directory and ensure
+  platform. Simply point the host to this repository's root and ensure
   that the GitHub Action has permission to push updates.
-- **Local comments:** Any comments you post are stored only in your
-  browser via `localStorage` and are never sent to a server.
 
 ## Getting Started
 
-1. **Clone this repository** and navigate into the `news_site` directory.
+1. **Clone this repository** and navigate into the project directory.
 
    ```sh
    git clone https://github.com/yourusername/daily-unbiased-news.git
-   cd daily-unbiased-news/news_site
+   cd daily-unbiased-news
    ```
 
 2. **Install Python dependencies** (no external packages required; the

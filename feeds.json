@@ -1,38 +1,14 @@
 {
-  "World": [
-    "http://feeds.reuters.com/reuters/worldNews",
-    "http://feeds.bbci.co.uk/news/world/rss.xml",
-    "https://news.google.com/rss/search?q=site:apnews.com+world&hl=en-US&gl=US&ceid=US:en",
-    "http://www.aljazeera.com/xml/rss/all.xml",
-    "https://feeds.npr.org/1004/rss.xml"
+  "Life Safety": [
+    "https://news.google.com/rss/search?q=site:apnews.com+(deaths+OR+injuries+OR+evacuation+OR+missing)&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=site:bbc.co.uk+(deaths+OR+injuries+OR+evacuation+OR+missing)&hl=en-US&gl=US&ceid=US:en"
   ],
-  "Politics": [
-    "http://feeds.reuters.com/Reuters/PoliticsNews",
-    "http://feeds.bbci.co.uk/news/politics/rss.xml",
-    "https://news.google.com/rss/search?q=site:apnews.com+politics&hl=en-US&gl=US&ceid=US:en",
-    "https://feeds.npr.org/1014/rss.xml"
+  "Events": [
+    "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_day.atom",
+    "https://news.google.com/rss/search?q=explosion+OR+strike+OR+attack+OR+fire+OR+flood+OR+\"industrial+accident\"&hl=en-US&gl=US&ceid=US:en"
   ],
-  "Tech": [
-    "http://feeds.reuters.com/reuters/technologyNews",
-    "http://feeds.bbci.co.uk/news/technology/rss.xml",
-    "https://news.google.com/rss/search?q=site:apnews.com+technology&hl=en-US&gl=US&ceid=US:en",
-    "https://feeds.npr.org/1019/rss.xml"
-  ],
-  "Science": [
-    "http://feeds.reuters.com/reuters/scienceNews",
-    "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-    "https://news.google.com/rss/search?q=site:apnews.com+science&hl=en-US&gl=US&ceid=US:en",
-    "https://feeds.npr.org/1007/rss.xml"
-  ],
-  "Business": [
-    "http://feeds.reuters.com/reuters/businessNews",
-    "http://feeds.bbci.co.uk/news/business/rss.xml",
-    "https://news.google.com/rss/search?q=site:apnews.com+business&hl=en-US&gl=US&ceid=US:en",
-    "https://feeds.npr.org/1006/rss.xml"
-  ],
-  "Culture": [
-    "http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
-    "https://news.google.com/rss/search?q=site:apnews.com+culture&hl=en-US&gl=US&ceid=US:en",
-    "https://feeds.npr.org/1045/rss.xml"
+  "Infrastructure": [
+    "https://alerts.weather.gov/cap/us.php?x=0",
+    "https://news.google.com/rss/search?q=outage+OR+alert+OR+\"transportation+failure\"&hl=en-US&gl=US&ceid=US:en"
   ]
 }
