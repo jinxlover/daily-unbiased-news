@@ -24,6 +24,17 @@ import concurrent.futures
 from urllib.parse import urlparse
 
 
+# Simple bias mapping by news domain. Values range from -1 (left) to +1 (right)
+# with 0 representing a centrist or unknown leaning.
+BIAS_RATINGS = {
+    'reuters.com': 0,
+    'bbc.co.uk': -1,
+    'apnews.com': 0,
+    'aljazeera.com': -1,
+    'npr.org': -1,
+    'news.google.com': 0,
+}
+
 def parse_pub_date(value: str) -> datetime.datetime:
     """Parse an RSS/Atom pubDate into a timezone‑aware datetime.
 
@@ -104,13 +115,15 @@ def extract_items(xml_data: bytes) -> list:
         pub_date = parse_pub_date(pub)
         netloc = urlparse(link).netloc
         source = netloc.replace('www.', '') if netloc else ''
+        bias = BIAS_RATINGS.get(source, 0)
         items.append({
             'title': html.unescape(title.strip()),
             'link': link.strip(),
             'description': html.unescape(description_text.strip()),
             'pubDate': pub_date.isoformat() + 'Z',
             'source': source,
-            'image': image_url
+            'image': image_url,
+            'bias': bias
         })
     return items
 
