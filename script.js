@@ -91,9 +91,13 @@ document.addEventListener('DOMContentLoaded', () => {
     const meta = document.createElement('div');
     meta.className = 'article-meta';
     const date = new Date(article.pubDate);
-    meta.textContent = `${article.source || ''} • ${date.toLocaleString(undefined, {
-      year: 'numeric', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit'
-    })}`;
+    const dateStr = isNaN(date)
+      ? ''
+      : date.toLocaleString(undefined, {
+          year: 'numeric', month: 'short', day: 'numeric',
+          hour: '2-digit', minute: '2-digit'
+        });
+    meta.textContent = `${article.source || ''}${dateStr ? ` • ${dateStr}` : ''}`;
     const desc = document.createElement('p');
     desc.className = 'article-description';
     // Truncate long descriptions to 200 characters

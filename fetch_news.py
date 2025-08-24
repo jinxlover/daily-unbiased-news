@@ -87,11 +87,16 @@ def extract_items(xml_data: bytes) -> list:
         pub_date = parse_pub_date(pub)
         netloc = urlparse(link).netloc
         source = netloc.replace('www.', '') if netloc else ''
+        # ``datetime.isoformat`` omits a timezone designator when the object is
+        # naïve.  Some browsers (notably Safari) refuse to parse such strings via
+        # ``new Date(...)`` which then causes the client script to fail when
+        # formatting the publication date.  Mark the timestamp explicitly as UTC
+        # with a trailing ``Z`` to ensure cross‑browser compatibility.
         items.append({
             'title': html.unescape(title.strip()),
             'link': link.strip(),
             'description': html.unescape(description_text.strip()),
-            'pubDate': pub_date.isoformat(),
+            'pubDate': pub_date.replace(microsecond=0).isoformat() + 'Z',
             'source': source
         })
     return items
