@@ -1,6 +1,7 @@
+---
 name: Update News
 
-on:
+'on':
   schedule:
     # Run once every 24 hours at midnight UTC
     - cron: '0 0 * * *'
@@ -25,12 +26,10 @@ jobs:
 
       - name: Fetch and update news
         run: |
-          cd news_site
           python fetch_news.py
 
       - name: Commit and push changes
         run: |
-          cd news_site
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/news.json
