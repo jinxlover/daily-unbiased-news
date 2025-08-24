@@ -61,6 +61,19 @@ body {
   font-size: 14px;
 }
 
+.theme-toggle {
+  margin-left: auto;
+  padding: 6px 12px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+  color: var(--text);
+  cursor: pointer;
+}
+.theme-toggle:hover {
+  background: var(--panel-hover);
+}
+
 /* ====== Search ====== */
 .searchbar {
   margin: 18px 0 8px;
