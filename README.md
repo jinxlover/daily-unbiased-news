@@ -26,6 +26,9 @@ manual intervention.
   the RSS feeds, deduplicates and sorts the results, then writes them to
   `data/news.json`. If the data changes, the action commits and pushes the
   updated JSON back to your repository.
+- **In-browser updates:** The front-end script automatically re-fetches
+  `data/news.json` every 10 minutes so the page shows the latest headlines
+  without requiring a manual refresh.
 - **Easy deployment:** Because the site is entirely static, it can be
   deployed to GitHub Pages, Netlify, Vercel or any other static hosting
   platform. Simply point the host to the `news_site` directory and ensure
