@@ -46,6 +46,13 @@ def parse_pub_date(value: str) -> datetime.datetime:
         return datetime.datetime.utcnow()
 
 
+def _html_parser() -> ET.XMLParser:
+    parser = ET.XMLParser()
+    for name, value in html.entities.html5.items():
+        parser.entity[name[:-1]] = value
+    return parser
+
+
 def extract_items(xml_data: bytes) -> list:
     """Extract a list of items from an RSS or Atom feed XML.
 
@@ -54,7 +61,7 @@ def extract_items(xml_data: bytes) -> list:
     """
     items = []
     try:
-        root = ET.fromstring(xml_data)
+        root = ET.fromstring(xml_data, parser=_html_parser())
     except ET.ParseError:
         return items
 
@@ -72,7 +79,10 @@ def extract_items(xml_data: bytes) -> list:
                 link = link_elem.attrib.get('href', '')
         description = elem.findtext('description') or elem.findtext('summary') or ''
         # Remove HTML tags from description
-        description_text = ET.fromstring(f'<div>{description}</div>').text or ''
+        try:
+            description_text = ET.fromstring(f'<div>{description}</div>', parser=_html_parser()).text or ''
+        except ET.ParseError:
+            description_text = ''
         pub = elem.findtext('pubDate') or elem.findtext('{http://www.w3.org/2005/Atom}published') or ''
         pub_date = parse_pub_date(pub)
         netloc = urlparse(link).netloc
