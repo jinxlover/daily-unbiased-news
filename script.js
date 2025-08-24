@@ -35,6 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
   function buildNav(categories) {
     categories.forEach((cat, index) => {
       const btn = document.createElement('button');
+      btn.className = 'tab';
       btn.textContent = cat;
       btn.addEventListener('click', () => {
         const section = document.getElementById(cat.toLowerCase());
@@ -59,17 +60,24 @@ document.addEventListener('DOMContentLoaded', () => {
       const section = document.createElement('section');
       section.id = category.toLowerCase();
       const heading = document.createElement('h2');
+      heading.className = 'section-title';
       heading.textContent = category;
       section.appendChild(heading);
+
+      const list = document.createElement('div');
+      list.className = 'article-list';
+
       if (articles.length === 0) {
         const p = document.createElement('p');
         p.textContent = 'No articles available.';
-        section.appendChild(p);
+        list.appendChild(p);
       } else {
         articles.forEach(article => {
-          section.appendChild(createArticleElement(article));
+          list.appendChild(createArticleElement(article));
         });
       }
+
+      section.appendChild(list);
       contentContainer.appendChild(section);
     });
   }
@@ -78,8 +86,18 @@ document.addEventListener('DOMContentLoaded', () => {
    * Create a DOM element for a single news article.
    */
   function createArticleElement(article) {
-    const wrapper = document.createElement('div');
+    const wrapper = document.createElement('article');
     wrapper.className = 'article';
+
+    const textWrap = document.createElement('div');
+
+    const meta = document.createElement('div');
+    meta.className = 'article-meta';
+    const date = new Date(article.pubDate);
+    meta.textContent = `${article.source || ''} • ${date.toLocaleString(undefined, {
+      year: 'numeric', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit'
+    })}`;
+
     const titleEl = document.createElement('h3');
     titleEl.className = 'article-title';
     const link = document.createElement('a');
@@ -88,27 +106,26 @@ document.addEventListener('DOMContentLoaded', () => {
     link.rel = 'noopener noreferrer';
     link.textContent = article.title;
     titleEl.appendChild(link);
-    const meta = document.createElement('div');
-    meta.className = 'article-meta';
-    const date = new Date(article.pubDate);
-    meta.textContent = `${article.source || ''} • ${date.toLocaleString(undefined, {
-      year: 'numeric', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit'
-    })}`;
+
     const desc = document.createElement('p');
-    desc.className = 'article-description';
-    // Truncate long descriptions to 200 characters
+    desc.className = 'article-excerpt';
     const trimmed = article.description.length > 200 ? article.description.slice(0, 197) + '…' : article.description;
     desc.textContent = trimmed;
-    wrapper.appendChild(titleEl);
-    wrapper.appendChild(meta);
+
+    textWrap.appendChild(meta);
+    textWrap.appendChild(titleEl);
+    if (trimmed) textWrap.appendChild(desc);
+    wrapper.appendChild(textWrap);
+
     if (article.image) {
       const img = document.createElement('img');
+      img.className = 'article-thumb';
       img.src = article.image;
       img.alt = article.title;
       img.loading = 'lazy';
       wrapper.appendChild(img);
     }
-    if (trimmed) wrapper.appendChild(desc);
+
     return wrapper;
   }
 
@@ -157,20 +174,26 @@ document.addEventListener('DOMContentLoaded', () => {
         if (!section) return;
         section.innerHTML = '';
         const heading = document.createElement('h2');
+        heading.className = 'section-title';
         heading.textContent = cat;
         section.appendChild(heading);
+
+        const list = document.createElement('div');
+        list.className = 'article-list';
+
         const matches = articles.filter(a => {
           return a.title.toLowerCase().includes(query) || a.description.toLowerCase().includes(query);
         });
         if (matches.length === 0) {
           const p = document.createElement('p');
           p.textContent = 'No results.';
-          section.appendChild(p);
+          list.appendChild(p);
         } else {
           matches.forEach(item => {
-            section.appendChild(createArticleElement(item));
+            list.appendChild(createArticleElement(item));
           });
         }
+        section.appendChild(list);
       });
     });
   }
