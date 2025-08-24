@@ -101,6 +101,13 @@ document.addEventListener('DOMContentLoaded', () => {
     desc.textContent = trimmed;
     wrapper.appendChild(titleEl);
     wrapper.appendChild(meta);
+    if (article.image) {
+      const img = document.createElement('img');
+      img.src = article.image;
+      img.alt = article.title;
+      img.loading = 'lazy';
+      wrapper.appendChild(img);
+    }
     if (trimmed) wrapper.appendChild(desc);
     return wrapper;
   }
