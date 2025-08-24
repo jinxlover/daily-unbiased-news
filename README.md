@@ -38,6 +38,8 @@ manual intervention.
   deployed to GitHub Pages, Netlify, Vercel or any other static hosting
   platform. Simply point the host to the `news_site` directory and ensure
   that the GitHub Action has permission to push updates.
+- **Local comments:** Any comments you post are stored only in your
+  browser via `localStorage` and are never sent to a server.
 
 ## Getting Started
 

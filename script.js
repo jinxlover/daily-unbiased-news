@@ -152,6 +152,42 @@
       wrapper.appendChild(img);
     }
 
+    // ===== Comment UI =====
+    const form = document.createElement('div');
+    form.className = 'comment-form';
+    const textarea = document.createElement('textarea');
+    textarea.placeholder = 'Add a comment';
+    textarea.rows = 2;
+    const postBtn = document.createElement('button');
+    postBtn.textContent = 'Post';
+    form.appendChild(textarea);
+    form.appendChild(postBtn);
+
+    const list = document.createElement('ul');
+    list.className = 'comment-list';
+
+    const storageKey = `comments_${article.link}`;
+    const comments = JSON.parse(localStorage.getItem(storageKey) || '[]');
+    comments.forEach(text => {
+      const li = document.createElement('li');
+      li.textContent = text;
+      list.appendChild(li);
+    });
+
+    postBtn.addEventListener('click', () => {
+      const text = textarea.value.trim();
+      if (!text) return;
+      comments.push(text);
+      localStorage.setItem(storageKey, JSON.stringify(comments));
+      const li = document.createElement('li');
+      li.textContent = text;
+      list.appendChild(li);
+      textarea.value = '';
+    });
+
+    wrapper.appendChild(form);
+    wrapper.appendChild(list);
+
     return wrapper;
   }
 
