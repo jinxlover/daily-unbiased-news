@@ -57,7 +57,8 @@ def extract_items(xml_data: bytes) -> list:
     """Extract a list of items from an RSS or Atom feed XML.
 
     Returns a list of dictionaries with keys: title, link, description,
-    pubDate and source. The source is inferred from the link's domain.
+    pubDate, source and image (if available). The source is inferred
+    from the link's domain.
     """
     items = []
     try:
@@ -83,6 +84,21 @@ def extract_items(xml_data: bytes) -> list:
             description_text = ET.fromstring(f'<div>{description}</div>', parser=_html_parser()).text or ''
         except ET.ParseError:
             description_text = ''
+
+        # Attempt to extract an image URL from common RSS/Atom fields
+        image_url = ''
+        media = elem.find('{http://search.yahoo.com/mrss/}content')
+        if media is not None:
+            image_url = media.attrib.get('url', '')
+        if not image_url:
+            enclosure = elem.find('enclosure')
+            if enclosure is not None and enclosure.attrib.get('type', '').startswith('image'):
+                image_url = enclosure.attrib.get('url', '')
+        if not image_url:
+            thumb = elem.find('{http://search.yahoo.com/mrss/}thumbnail')
+            if thumb is not None:
+                image_url = thumb.attrib.get('url', '')
+
         pub = elem.findtext('pubDate') or elem.findtext('{http://www.w3.org/2005/Atom}published') or ''
         pub_date = parse_pub_date(pub)
         netloc = urlparse(link).netloc
@@ -92,7 +108,8 @@ def extract_items(xml_data: bytes) -> list:
             'link': link.strip(),
             'description': html.unescape(description_text.strip()),
             'pubDate': pub_date.isoformat(),
-            'source': source
+            'source': source,
+            'image': image_url
         })
     return items
 
