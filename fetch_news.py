@@ -7,8 +7,8 @@ headline. The resulting structure is written to ``data/news.json``.
 
 The script is intentionally kept lightweight and uses only Python's
 standard library to avoid external dependencies. It should be run as part
-of a scheduled job (e.g. GitHub Action) to refresh the site contents
-daily. If any feeds fail to load or parse, the script will skip them
+of a scheduled job (e.g. GitHub Action) to refresh the site contents every
+10 minutes. If any feeds fail to load or parse, the script will skip them
 gracefully and continue processing the remaining feeds.
 """
 
