@@ -134,9 +134,18 @@
     const meta = document.createElement('div');
     meta.className = 'article-meta';
     const date = parseDate(article.pubDate);
-    meta.textContent = `${article.source || ''} • ${date.toLocaleString(undefined, {
+    const biasValue = typeof article.bias === 'number' ? article.bias : 0;
+    const biasMeter = document.createElement('span');
+    biasMeter.className = 'bias-meter';
+    biasMeter.title = `Bias: ${biasValue} (−1 left, 0 center, +1 right)`;
+    if (biasValue < 0) biasMeter.classList.add('bias-left');
+    else if (biasValue > 0) biasMeter.classList.add('bias-right');
+    meta.appendChild(biasMeter);
+    const metaText = document.createElement('span');
+    metaText.textContent = `${article.source || ''} • ${date.toLocaleString(undefined, {
       year: 'numeric', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit'
     })}`;
+    meta.appendChild(metaText);
 
     const titleEl = document.createElement('h3');
     titleEl.className = 'article-title';

@@ -21,6 +21,8 @@ manual intervention.
   across all categories. Links open in a new tab.
 - **Search:** A client‑side search bar lets you filter articles by
   keyword across titles and descriptions.
+- **Bias indicator:** Each article carries a simple bias score based on the
+  source domain, displayed as a small color-coded marker.
 - **Frequent refresh:** A GitHub Action defined in `.github/workflows/update.yml`
   runs the `fetch_news.py` script every 10 minutes. This script fetches
   the RSS feeds, deduplicates and sorts the results, then writes them to
@@ -70,6 +72,13 @@ manual intervention.
    Each key in the JSON corresponds to a category on the site. When adding
    new feeds, ensure they provide RSS or Atom content. The `fetch_news.py`
    script will automatically pick up the changes on the next run.
+
+## Bias Scale
+
+Sources are mapped to a bias score to provide quick context for readers. The
+score ranges from **-1** (left) to **0** (center/unknown) to **+1** (right). The
+mapping is defined in `fetch_news.py`'s `BIAS_RATINGS` dictionary and can be
+adjusted as needed.
 
 ## Notes
 
