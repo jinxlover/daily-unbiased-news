@@ -16,19 +16,34 @@ document.addEventListener('DOMContentLoaded', () => {
 
   const parseDate = str => new Date(str.endsWith('Z') ? str : `${str}Z`);
 
-  // Fetch the news JSON
-  fetch('data/news.json')
-    .then(res => res.json())
-    .then(data => {
-      const categories = Object.keys(data.news);
-      buildNav(categories);
-      buildSections(data.news);
-      buildTicker(data.news);
-      attachSearch(data.news);
-    })
-    .catch(err => {
-      console.error('Failed to load news data:', err);
-    });
+  /**
+   * Fetch the latest news JSON and rebuild the page.
+   * This is invoked on initial load and every 10 minutes thereafter to
+   * ensure the content stays fresh without requiring a full page refresh.
+   */
+  function fetchAndRender() {
+    fetch('data/news.json')
+      .then(res => res.json())
+      .then(data => {
+        // Clear existing content before rebuilding
+        navContainer.innerHTML = '';
+        contentContainer.innerHTML = '';
+        tickerContent.innerHTML = '';
+
+        const categories = Object.keys(data.news);
+        buildNav(categories);
+        buildSections(data.news);
+        buildTicker(data.news);
+        attachSearch(data.news);
+      })
+      .catch(err => {
+        console.error('Failed to load news data:', err);
+      });
+  }
+
+  // Initial fetch and subsequent refresh every 10 minutes
+  fetchAndRender();
+  setInterval(fetchAndRender, 10 * 60 * 1000);
 
   /**
    * Build the category navigation buttons.
@@ -160,7 +175,7 @@ document.addEventListener('DOMContentLoaded', () => {
         originalSections[cat] = section.innerHTML;
       }
     });
-    searchInput.addEventListener('input', () => {
+    searchInput.oninput = () => {
       const query = searchInput.value.trim().toLowerCase();
       if (!query) {
         // Restore original content
@@ -199,6 +214,6 @@ document.addEventListener('DOMContentLoaded', () => {
         }
         section.appendChild(list);
       });
-    });
+    };
   }
 });
