@@ -14,6 +14,8 @@ document.addEventListener('DOMContentLoaded', () => {
   const yearSpan = document.getElementById('year');
   yearSpan.textContent = new Date().getFullYear();
 
+  const parseDate = str => new Date(str.endsWith('Z') ? str : `${str}Z`);
+
   // Fetch the news JSON
   fetch('data/news.json')
     .then(res => res.json())
@@ -93,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const meta = document.createElement('div');
     meta.className = 'article-meta';
-    const date = new Date(article.pubDate);
+    const date = parseDate(article.pubDate);
     meta.textContent = `${article.source || ''} • ${date.toLocaleString(undefined, {
       year: 'numeric', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit'
     })}`;
@@ -138,10 +140,12 @@ document.addEventListener('DOMContentLoaded', () => {
       allItems.push(...arr);
     });
     // Sort globally by pubDate
-    allItems.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+    allItems.sort((a, b) => parseDate(b.pubDate) - parseDate(a.pubDate));
     const top = allItems.slice(0, 15);
     // Build markup: each item separated by bullet
-    const fragments = top.map(item => `<span class="ticker-item"><a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a></span>`);
+    const fragments = top.map(
+      item => `<span class="ticker-item"><a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a></span>`
+    );
     tickerContent.innerHTML = fragments.join(' • ');
   }
 

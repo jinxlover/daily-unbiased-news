@@ -107,7 +107,7 @@ def extract_items(xml_data: bytes) -> list:
             'title': html.unescape(title.strip()),
             'link': link.strip(),
             'description': html.unescape(description_text.strip()),
-            'pubDate': pub_date.isoformat(),
+            'pubDate': pub_date.isoformat() + 'Z',
             'source': source,
             'image': image_url
         })
