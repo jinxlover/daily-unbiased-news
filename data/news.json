@@ -1,7 +1,15 @@
 {
-  "lastUpdate": "2025-08-24T18:12:00.954475Z",
+  "lastUpdate": "2025-08-24T19:03:56.664597Z",
   "news": {
     "World": [
+      {
+        "title": "Zelensky vows to continue fighting as Ukraine marks independence day",
+        "link": "https://www.bbc.com/news/articles/czxy2v9dzgxo?at_medium=RSS&at_campaign=rss",
+        "description": "Russia said power and energy facilities had been targeted by Ukraine, which accused Russia of \"spreading manipulations\".",
+        "pubDate": "2025-08-24T18:42:54Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5492/live/2289f7b0-80f7-11f0-93a2-5b14be878525.jpg"
+      },
       {
         "title": "UK's Chagos Islands deal 'significant victory', says Pope",
         "link": "https://www.bbc.com/news/articles/cx2p1k1r2glo?at_medium=RSS&at_campaign=rss",
@@ -9,6 +17,14 @@
         "pubDate": "2025-08-24T17:56:10Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d3f/live/291e88f0-8063-11f0-a34f-318be3fb0481.jpg"
+      },
+      {
+        "title": "Amid Gaza famine, Palestinian girl struggles to survive",
+        "link": "https://www.aljazeera.com/news/2025/8/24/amid-gaza-famine-palestinian-girl-struggles-to-survive?traffic_source=rss",
+        "description": "UN official says Palestinians in Gaza are experiencing 'hell in all shapes' as Israel steps up its Gaza City assault.",
+        "pubDate": "2025-08-24T17:44:41Z",
+        "source": "aljazeera.com",
+        "image": ""
       },
       {
         "title": "Ghislaine Maxwell’s testimony says a lot about our dystopia",
@@ -97,14 +113,6 @@
         "pubDate": "2025-08-24T14:26:21Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20de/live/8804ba50-80e6-11f0-b8f2-7d2c83388047.jpg"
-      },
-      {
-        "title": "Zelensky vows to continue fighting as Ukraine marks independence day",
-        "link": "https://www.bbc.com/news/articles/czxy2v9dzgxo?at_medium=RSS&at_campaign=rss",
-        "description": "Russia said power and energy facilities had been targeted by Ukraine, which accused Russia of \"spreading manipulations\".",
-        "pubDate": "2025-08-24T14:15:28Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5492/live/2289f7b0-80f7-11f0-93a2-5b14be878525.jpg"
       },
       {
         "title": "Marc Marquez wins Hungarian MotoGP for seventh straight victory",
@@ -291,14 +299,6 @@
         "image": ""
       },
       {
-        "title": "Turkish first lady urges Melania Trump to speak out for Gaza’s children",
-        "link": "https://www.aljazeera.com/news/2025/8/24/turkish-first-lady-urges-melania-trump-to-speak-out-for-gazas-children?traffic_source=rss",
-        "description": "Emine Erdogan writes to Melania Trump after the US first lady's letter to Putin about children in Ukraine and Russia.",
-        "pubDate": "2025-08-24T09:42:44Z",
-        "source": "aljazeera.com",
-        "image": ""
-      },
-      {
         "title": "My trip to North Korea's 'Benidorm' - flanked by guards and full of rules",
         "link": "https://www.bbc.com/news/articles/c707d1ez0kno?at_medium=RSS&at_campaign=rss",
         "description": "Anastasia, one of the first Russian visitors to North Korea's new resort, tells of \"immaculate\" beaches, meaty meals and strict rules.",
@@ -405,20 +405,20 @@
     ],
     "Politics": [
       {
+        "title": "Government plans to overhaul asylum appeals system",
+        "link": "https://www.bbc.com/news/articles/cg4xp4ywk47o?at_medium=RSS&at_campaign=rss",
+        "description": "The government would establish a new and independent body, with the aim of hearing cases more quickly.",
+        "pubDate": "2025-08-24T18:19:40Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8501/live/e385e010-80ab-11f0-83cc-c5da98c419b8.jpg"
+      },
+      {
         "title": "Pub and travel bans proposed under sentencing rule changes",
         "link": "https://www.bbc.com/news/articles/c5ypej14j2xo?at_medium=RSS&at_campaign=rss",
         "description": "Ministers say the reforms are aimed at reducing reoffending and easing pressures on crowded prisons.",
         "pubDate": "2025-08-24T16:17:49Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36c5/live/38b8b3b0-80b5-11f0-a2f6-4feea1120fa7.jpg"
-      },
-      {
-        "title": "Government plans to overhaul asylum appeals system",
-        "link": "https://www.bbc.com/news/articles/cg4xp4ywk47o?at_medium=RSS&at_campaign=rss",
-        "description": "The government would establish a new and independent body, with the aim of hearing cases more quickly.",
-        "pubDate": "2025-08-24T16:01:58Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8501/live/e385e010-80ab-11f0-83cc-c5da98c419b8.jpg"
       },
       {
         "title": "At least 1 dead in Moscow shopping center explosion, 3 injured - AP News",
@@ -549,6 +549,14 @@
         "image": ""
       },
       {
+        "title": "FBI searches home and office of ex-Trump national security adviser John Bolton - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZTFyY0UtWThMeDJHaE1JeWZaYkF5dmVicFVaQTgxQ1JvYjBZSEQteUhMY1M1cGVFczNLdUl1WHJZOXFYNUd4QWc3S21mYVVIaWZ4VkYxRFE3ZzhSNGtkUEM1NUFBQkZKekpNckUtbUFjVG1hblMzT0gzUjV4ekJkV1JFQnh1emF4QW5NT0hrQ1BSb0swZUdtTnVERldFa0RJaDJpeA?oc=5",
+        "description": "",
+        "pubDate": "2025-08-23T01:33:00Z",
+        "source": "news.google.com",
+        "image": ""
+      },
+      {
         "title": "Are young women more left wing than men - and, if so, why?",
         "link": "https://www.bbc.com/news/articles/cqxg89jzvl1o?at_medium=RSS&at_campaign=rss",
         "description": "A divide appears to be opening up between young women and young men in the way they vote and view the world.",
@@ -621,6 +629,14 @@
         "image": ""
       },
       {
+        "title": "Costa Rican president appears before lawmakers and denies corruption allegations - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbm51VGdjaVh2WGlRa1MxVk1LcGZMeTdUSVdtMDg0d2FCNTdqU2U1S1V0bEVCQUdnb25PSzdUX3ZWbzZWNDIyME1pZV9vNjVVT2JXVDJkMHpJMFI3U0hYYWlpZlN5b203MjJXWU14OFFRSDFTeXlJNkh4Y19ad0FiMC12d0ZFRjMxMTVuTFl2VHRwUQ?oc=5",
+        "description": "",
+        "pubDate": "2025-08-22T19:54:00Z",
+        "source": "news.google.com",
+        "image": ""
+      },
+      {
         "title": "Justice Department releases transcripts from its conversations with Ghislaine Maxwell",
         "link": "https://www.npr.org/2025/08/22/nx-s1-5494553/epstein-maxwell-doj-interview-transcripts",
         "description": "Maxwell spoke with top DOJ officials over the course of two days in late July. Asked about President Trump, she said she had never witnessed him \"in any inappropriate setting in any way.\"",
@@ -643,14 +659,6 @@
         "pubDate": "2025-08-22T18:15:24Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/032a/live/93384dd0-7f4f-11f0-ace8-c7fe3706c172.jpg"
-      },
-      {
-        "title": "Kurdish political figure arrested in Iraq, sparking clashes that leave 5 dead - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVk84RE0yMTRyaGduZmgyeWdqYTdfaDBqUlBuelRtUEFHT0Q4REdVZHZkUVpneWRRMmdhT3FkWGhsWFMyVzZ6elJmbnRiS1FQMG5ZTWt3RV9xc2VIc195OUNWLWRobEN3Vi02UUZnY29VMzZBb3phTzRaeUQzazFuOVVpVnhZNFlkRUl6Q2hrem1tQU9IejVmV3YyeVYybXJFVWVkcTdxVUtMSm5mcXJ0YkhxYw?oc=5",
-        "description": "",
-        "pubDate": "2025-08-22T17:24:00Z",
-        "source": "news.google.com",
-        "image": ""
       },
       {
         "title": "Business magnate Lord Swraj Paul dies aged 94",
@@ -749,14 +757,6 @@
         "image": ""
       },
       {
-        "title": "Trump’s crackdown in DC leaves residents on edge as federal agents set up checkpoints - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSUhLZkVzSk1nZ2RUSEoydXRhenZCYUpTUTZIOUtqSWdQMXk3cXNwaW1kN2VzYzZCMWROS3RkM2JtbVZzc1BqVmhSS2ZlbDdLUTl0THg2QnRXUlE0Sng1Mjl0c2NRSXJZOWVOZW1tTXExLXhZTHNSMjJmSGhITC1Sdi1nRElYRHZHMzhOWTFYMzdZa1VPSElNSGRqZ1FsS2FhMWhUSTNTYU54OUlJQU13LWZLTXh3ZGEtSUE?oc=5",
-        "description": "",
-        "pubDate": "2025-08-22T00:56:00Z",
-        "source": "news.google.com",
-        "image": ""
-      },
-      {
         "title": "Defamation case against Fox News highlights role of its hosts in promoting 2020 election falsehoods - AP News",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMkVrYTNXV25SUUM2a25hTmptZHAwbmZ3MnNJTmRsOUU3c0hxQURwQWI0eWVBN0ZuWDFlWE1fU3J3WW5VVFlZaGluTjFoaXZ4YlBGNmdqcGpjVWlyeHA0Tnlta05DVnB5YnpheC15WmVBekZ6Vmw3RzBhZjNwWnByRVZqS0hFODJOR3RsVDlFeW01SmpMcDNCRUZ3X3l2LS11N1RzSng2aw?oc=5",
         "description": "",
@@ -847,14 +847,6 @@
         "image": ""
       },
       {
-        "title": "Costa Rican president appears before lawmakers and denies corruption allegations - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbm51VGdjaVh2WGlRa1MxVk1LcGZMeTdUSVdtMDg0d2FCNTdqU2U1S1V0bEVCQUdnb25PSzdUX3ZWbzZWNDIyME1pZV9vNjVVT2JXVDJkMHpJMFI3U0hYYWlpZlN5b203MjJXWU14OFFRSDFTeXlJNkh4Y19ad0FiMC12d0ZFRjMxMTVuTFl2VHRwUQ?oc=5",
-        "description": "",
-        "pubDate": "2025-08-22T19:54:00Z",
-        "source": "news.google.com",
-        "image": ""
-      },
-      {
         "title": "Apple TV+ raises subscription prices worldwide, including in UK",
         "link": "https://www.bbc.com/news/articles/c1le9l6pee5o?at_medium=RSS&at_campaign=rss",
         "description": "The streaming industry has seen a series of price hikes from its major players in the past year.",
@@ -899,6 +891,14 @@
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR21UN1RZY0tfTGlnbkJLSUZHUmdPSEFlTEU3YXJvck1wSFVQLWlaUEx0NjBTbFNNSDk1UTBsNDEtTERzTnFSN3U2SlVPMnQtR0ljdzJiay1DTHpxUk1uUnpNdmtnLUtoanJSOVEyTDlja2JwS1NfWlRicXEyS3JVTWxCX1FmQjNqbFc5TWJhYVNVZXVuTmpKZGU4Y04xRThmRVFzMkFzb0R6a3lYWnhUQ3BSNXd4TGtWcC11UDYtZw?oc=5",
         "description": "",
         "pubDate": "2025-08-22T01:41:00Z",
+        "source": "news.google.com",
+        "image": ""
+      },
+      {
+        "title": "Trump’s crackdown in DC leaves residents on edge as federal agents set up checkpoints - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSUhLZkVzSk1nZ2RUSEoydXRhenZCYUpTUTZIOUtqSWdQMXk3cXNwaW1kN2VzYzZCMWROS3RkM2JtbVZzc1BqVmhSS2ZlbDdLUTl0THg2QnRXUlE0Sng1Mjl0c2NRSXJZOWVOZW1tTXExLXhZTHNSMjJmSGhITC1Sdi1nRElYRHZHMzhOWTFYMzdZa1VPSElNSGRqZ1FsS2FhMWhUSTNTYU54OUlJQU13LWZLTXh3ZGEtSUE?oc=5",
+        "description": "",
+        "pubDate": "2025-08-22T00:56:00Z",
         "source": "news.google.com",
         "image": ""
       },
@@ -951,6 +951,14 @@
         "image": ""
       },
       {
+        "title": "Proposed data center prompts Tucson to regulate large water users, require conservation - AP News",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcGl1bzFIR2k1Z1VteTdPNS1SMXgtQlRYNEtJeUdWYjA1WkQ0Ty1IWWx4VU5NTVMzWlpfQkw4M0REV29JSEtsaEd4YkhwM1NHU2k2VDhaX3hlMkNUUE00eE9MdkxGbWZnVnVxdHdlMVg5NmQ3eG05NS1yek5WTmRMeF8wcW95Z3EtOGVZbU1kb3FNRkI2YXViTGRpbTB3TFZBVnRYaThhTXZPUHlNUkkyNXNqeDZ3eHVrelVwOFJLWFJTbzlHaXZRaHI2dzJ0aHoyUkVYWndlRkR2QQ?oc=5",
+        "description": "",
+        "pubDate": "2025-08-21T20:21:00Z",
+        "source": "news.google.com",
+        "image": ""
+      },
+      {
         "title": "A newscaster takes us along on her date with an AI companion",
         "link": "https://www.npr.org/2025/08/21/nx-s1-5500249-e1/a-newscaster-takes-us-along-on-her-date-with-an-ai-companion",
         "description": "Despite dating apps and social media advice, romantic connections can be hard to make. Enter artificial intelligence.",
@@ -959,10 +967,26 @@
         "image": ""
       },
       {
+        "title": "Andrew Luck’s return to Stanford football aims to revive struggling program - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUkZMem9mNmtwcm96QWlxNHAzOEdyay1lZEdaNjZsUWsyeWFSWjRIbk52d2lmMDJ2eG54MG9TZXd4MnhRUENwTzV0dFVuTFNWa3Z2RGwwN3VmcXFSWmhSRHRBcXMwTTlJODkwTEU2bk0xSHZWaDdRRXhGM05nZ0U0LUt5TzR1UzA?oc=5",
+        "description": "",
+        "pubDate": "2025-08-21T19:38:00Z",
+        "source": "news.google.com",
+        "image": ""
+      },
+      {
         "title": "Wisconsin court commissioner resigns after dispute over immigration warrant - AP News",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdHRwcXU4UUM0ajRRTU9qSjl2bWZkYVZZMEZqN1ByZzdpX1JmZ3pqRnJ2Qk02Mm9UWHEyR29iX185QjZwVUlPRFN2Sk1lU0I0bUhva3VidTJ6QWFVOWZCRUpONGZqMGxJcW9iY2pQNkRSVml3b2xvTl9LQzhBTjQ5SE9kQTBRUjQwMFBDUm9BNFI1TURfZnRXc0Y1aW5nN3pnaFNJSGJ4YnZ3djJBWWZrRGp3ZnlibDI1SWc?oc=5",
         "description": "",
         "pubDate": "2025-08-21T19:06:00Z",
+        "source": "news.google.com",
+        "image": ""
+      },
+      {
+        "title": "Iowa Democrats consider bringing back lead off caucuses, even if it means going 'rogue' in 2028 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdlc5NzJla2xDSEtRbFFaY0l1Z1kwQXlHcC16dEN3WUI2bkE5UV9xSFJoYVhEbDF2aDhwYkxJV3E0NDNGZkNNTTZjZnpBcGRuWEthNndtN3k3akNqTTlfaThEYjdDSDJ6U0NfTExKZnpJdG5WOU11VXlNaVVtWHdWanluMWlnTnpEZUF2blJLRXZ4MnNxc0huR21YOA?oc=5",
+        "description": "",
+        "pubDate": "2025-08-21T19:02:00Z",
         "source": "news.google.com",
         "image": ""
       },
@@ -1111,14 +1135,6 @@
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7c3/live/916254e0-7d58-11f0-a845-0926f58b08ed.jpg"
       },
       {
-        "title": "A Gaza-bound ship that left Cyprus with 1,200 tons of food aid nears Israeli port - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON2lITDRVOWd6QUJFT0xMbi1YaFN1ZWoyWTA1OERJcWxjS3VuanhxZ3czYjloUnFoNUhqaVBhdDJLaFVpazJxLTFjZjBFb0NoNENfT3NSSDJPRkZESk1WbFdBcXozTjBLcWpNblF6ZXExRTA1TGoyMlM2THZERENGa2pxUlVQYmd0YUQyYWI0UkVkRTJlWFVwWHBVVWJEZHM?oc=5",
-        "description": "",
-        "pubDate": "2025-08-20T03:57:00Z",
-        "source": "news.google.com",
-        "image": ""
-      },
-      {
         "title": "UK backs down in Apple privacy row, US says",
         "link": "https://www.bbc.com/news/articles/cdj2m3rrk74o?at_medium=RSS&at_campaign=rss",
         "description": "UK authorities have demanded access to Apple users' protected files when required for investigations.",
@@ -1187,22 +1203,6 @@
         "link": "https://www.npr.org/2025/08/18/nx-s1-5482921/memes-white-house-dhs-social-media-trump",
         "description": "White supremacist tropes and ironic viral jokes illustrate the administration's project of redefining who belongs in the United States.",
         "pubDate": "2025-08-18T09:48:28Z",
-        "source": "npr.org",
-        "image": ""
-      },
-      {
-        "title": "Should Europe wean itself off US tech?",
-        "link": "https://www.bbc.com/news/articles/c3dpr2zkny0o?at_medium=RSS&at_campaign=rss",
-        "description": "Just three US firms provide 70% of Europe's cloud-computing, leading to fears of overreliance.",
-        "pubDate": "2025-08-17T23:03:19Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b764/live/d13e3150-7831-11f0-a20f-3b86f375586a.jpg"
-      },
-      {
-        "title": "AI is driving a data center boom in rural America. Locals are divided on the benefits",
-        "link": "https://www.npr.org/2025/08/17/nx-s1-5461467/ai-is-driving-a-data-center-boom-in-rural-america-locals-are-divided-on-the-benefits",
-        "description": "Artificial intelligence is driving a data center building boom across rural America, including in central Washington. But critics say the centers do not produce enough jobs — and drain resources.",
-        "pubDate": "2025-08-17T13:02:15Z",
         "source": "npr.org",
         "image": ""
       }
@@ -1278,22 +1278,6 @@
         "description": "NPR's Hannah Chinn and Emily Kwong talk about the microbes behind great-tasting chocolate, possible reasons for daytime drowsiness, and a curious observation about the poop of seabirds.",
         "pubDate": "2025-08-21T20:20:13Z",
         "source": "npr.org",
-        "image": ""
-      },
-      {
-        "title": "Federal officials to take over inspections when troubled Boar’s Head plant reopens - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLVpPNkdyckRuckIxeHhkMkh0VmFNZG1rTnNla0RoY2JLSkVXUFpreFNYWXlJcGpjazBVY0oyMU1NbHVvaC1hbjB1TkdGMW4tbVVvazluOGxROW5XMWZ5SDNCYnJYTV80alVUenI0d0FWcnFPZTF0RlAwUUZVUVNNWXozcC14MHBjeUFfUTdiQW5yZ3cwajU0ZzRSTElDRFVP?oc=5",
-        "description": "",
-        "pubDate": "2025-08-21T19:44:00Z",
-        "source": "news.google.com",
-        "image": ""
-      },
-      {
-        "title": "Andrew Luck’s return to Stanford football aims to revive struggling program - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUkZMem9mNmtwcm96QWlxNHAzOEdyay1lZEdaNjZsUWsyeWFSWjRIbk52d2lmMDJ2eG54MG9TZXd4MnhRUENwTzV0dFVuTFNWa3Z2RGwwN3VmcXFSWmhSRHRBcXMwTTlJODkwTEU2bk0xSHZWaDdRRXhGM05nZ0U0LUt5TzR1UzA?oc=5",
-        "description": "",
-        "pubDate": "2025-08-21T19:38:00Z",
-        "source": "news.google.com",
         "image": ""
       },
       {
@@ -1607,6 +1591,22 @@
         "pubDate": "2025-07-02T15:01:49Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99f0/live/86b579b0-5683-11f0-b5c5-012c5796682d.jpg"
+      },
+      {
+        "title": "Recent droughts are 'slow-moving global catastrophe' - UN report",
+        "link": "https://www.bbc.com/news/articles/ckg33r1xgymo?at_medium=RSS&at_campaign=rss",
+        "description": "It says drought has compounded poverty, hunger, and energy insecurity worldwide.",
+        "pubDate": "2025-07-02T12:31:51Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f24/live/326fee30-5728-11f0-a129-bdd7ff3be6de.jpg"
+      },
+      {
+        "title": "Work begins to create artificial human DNA from scratch",
+        "link": "https://www.bbc.com/news/articles/c6256wpn97ro?at_medium=RSS&at_campaign=rss",
+        "description": "Scientists start a controversial project to create the building blocks of human life, in what is thought to be a world first.",
+        "pubDate": "2025-06-26T00:09:45Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32d1/live/2a9c9440-523e-11f0-a2ff-17a82c2e8bc4.jpg"
       }
     ],
     "Business": [
@@ -1771,14 +1771,6 @@
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/452a/live/f8d0d1b0-7e7a-11f0-96e5-5b061b987076.jpg"
       },
       {
-        "title": "A Berlin garden of flavorsome herbs revives a monastic health tradition from the Middle Ages - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMlNoMjBuS2hkN1lsR1hRd05UWlpCVjQydmRwVXZWdmdvWDdXS3k3N0xjSmYzcUdQSW0xT0ZoR2ZNOEY5MFpqalRxNkhjaW9NTDRhcnlYREJJSTFZc1RIQjFRdTUxX2FVaEZ6UUlqcTdNQWpWM3NHRFhIRlZ4UUl3Nzd5LXcyTE5tVk5Zb3E5WVRTUmNTSldHb2JKR2c2RzZOMVhmVy01TmpPdw?oc=5",
-        "description": "",
-        "pubDate": "2025-08-22T05:18:00Z",
-        "source": "news.google.com",
-        "image": ""
-      },
-      {
         "title": "'Significant disruption' as CrossCountry trains cut",
         "link": "https://www.bbc.com/news/articles/cwy5vplw54jo?at_medium=RSS&at_campaign=rss",
         "description": "RMT members will walk out on Saturday and Monday, but Sunday trains could also be cancelled.",
@@ -1795,10 +1787,10 @@
         "image": ""
       },
       {
-        "title": "Iowa Democrats consider bringing back lead off caucuses, even if it means going 'rogue' in 2028 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdlc5NzJla2xDSEtRbFFaY0l1Z1kwQXlHcC16dEN3WUI2bkE5UV9xSFJoYVhEbDF2aDhwYkxJV3E0NDNGZkNNTTZjZnpBcGRuWEthNndtN3k3akNqTTlfaThEYjdDSDJ6U0NfTExKZnpJdG5WOU11VXlNaVVtWHdWanluMWlnTnpEZUF2blJLRXZ4MnNxc0huR21YOA?oc=5",
+        "title": "New York Jets make trade for Phillips official and place Weaver on season-ending IR, cut Mathis - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWUFpY1BVQ3BmejJVdGEtRF9hOG82VXZjTVJYSkM5bVFjaEk3VmRWakRNMjZPQ1FUZXhtZWp4WnB5cFhXUHFzcjFIZ0FhUGxiMFZjcVk4SjFYQ2pwWGMyRmlTMlFrLXBHNkwyS1I4enBLNzJDR0lmXzlLNEpDM2Q0SUo1UkktUnpSUlF1dHFyaw?oc=5",
         "description": "",
-        "pubDate": "2025-08-21T19:02:00Z",
+        "pubDate": "2025-08-21T21:16:00Z",
         "source": "news.google.com",
         "image": ""
       },
@@ -1879,6 +1871,14 @@
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMUMzQmdkcEhEbzFVbzFxMEUyZk5zcWoyek4zMmJVM3ZMNnAzcjhuNWRtZW5vcFp3YWNKSldYVk53M1UwUDlsaTRNbWlhRmRKSVNsSlN6UmMtTGRsOE85NTJzdjROaHJqSENpYkIweDMxcXRlN2tzTTliQmRMZzVGNk1keHBKazNOTzlXMU03T00?oc=5",
         "description": "",
         "pubDate": "2025-08-20T22:19:00Z",
+        "source": "news.google.com",
+        "image": ""
+      },
+      {
+        "title": "Pirates are going to call up Bubba Chandler, baseball’s top pitching prospect - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWk0xVW9teEJvVmZ1TmQ2dkVDOUg2UkdEV0NqTmlJWlZNbm41N3FsYUhJTkM5LVFsbTZIY1NrMzl3VmQxMHhLUV9QUmFGY052ckQ2OU5Hblo1azZETHhYZ1Fab25EaG9FTzJ3YWdNTklaaU1zUy1sUDBCVXJHRk1NeDF3?oc=5",
+        "description": "",
+        "pubDate": "2025-08-20T20:41:00Z",
         "source": "news.google.com",
         "image": ""
       },
