@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily Unbiased News</title>
+  <link rel="stylesheet" href="styles.css">
+  <meta name="description" content="Daily unbiased news, refreshed automatically.">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Daily Unbiased News</h1>
+      <p class="tagline">Daily unbiased news, refreshed automatically.</p>
+      <input type="text" id="searchInput" placeholder="Search news..." aria-label="Search news">
+    </div>
+  </header>
+  <nav id="categoryNav" class="container">
+    <!-- Category buttons will be inserted here dynamically -->
+  </nav>
+  <div id="ticker" aria-live="polite">
+    <div id="tickerContent"></div>
+  </div>
+  <main id="content" class="container">
+    <!-- News sections will be inserted here dynamically -->
+  </main>
+  <footer>
+    <p>&copy; <span id="year"></span> Daily Unbiased News. All rights reserved.</p>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
