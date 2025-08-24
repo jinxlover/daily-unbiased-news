@@ -12,30 +12,7 @@
     const contentContainer = document.getElementById('content');
     const tickerContent = document.getElementById('tickerContent');
     const yearSpan = document.getElementById('year');
-    const themeToggle = document.getElementById('themeToggle');
     yearSpan.textContent = new Date().getFullYear();
-
-    // Set saved theme on load
-    const savedTheme = localStorage.getItem('theme');
-    if (savedTheme === 'light') {
-      document.documentElement.dataset.theme = 'light';
-      if (themeToggle) themeToggle.textContent = 'Dark Theme';
-    }
-
-    if (themeToggle) {
-      themeToggle.addEventListener('click', () => {
-        const isLight = document.documentElement.dataset.theme === 'light';
-        if (isLight) {
-          delete document.documentElement.dataset.theme;
-          localStorage.removeItem('theme');
-          themeToggle.textContent = 'Light Theme';
-        } else {
-          document.documentElement.dataset.theme = 'light';
-          localStorage.setItem('theme', 'light');
-          themeToggle.textContent = 'Dark Theme';
-        }
-      });
-    }
 
   const parseDate = str => new Date(str.endsWith('Z') ? str : `${str}Z`);
 

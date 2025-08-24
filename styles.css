@@ -60,20 +60,6 @@ body {
   color: var(--muted);
   font-size: 14px;
 }
-
-.theme-toggle {
-  margin-left: auto;
-  padding: 6px 12px;
-  border: 1px solid var(--line);
-  border-radius: 8px;
-  background: var(--panel);
-  color: var(--text);
-  cursor: pointer;
-}
-.theme-toggle:hover {
-  background: var(--panel-hover);
-}
-
 /* ====== Search ====== */
 .searchbar {
   margin: 18px 0 8px;
@@ -240,17 +226,3 @@ body {
   border-radius: 8px;
 }
 
-/* ====== Optional Light Theme ======
-   Add data-theme="light" to <html> to switch.
-*/
-html[data-theme="light"] {
-  --bg: #f8fafc;
-  --panel: #ffffff;
-  --panel-hover: #f6f8fb;
-  --text: #0b1220;
-  --muted: #566073;
-  --line: #e5e9f2;
-  --accent: #2468f2;
-  --accent-weak: #1545a7;
-  --shadow: 0 8px 24px rgba(16,24,40,.08);
-}
