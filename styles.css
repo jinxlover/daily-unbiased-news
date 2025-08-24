@@ -187,6 +187,49 @@ body {
   overflow: hidden;
 }
 
+/* ====== Comments ====== */
+.comment-form {
+  margin-top: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.comment-form textarea {
+  width: 100%;
+  min-height: 60px;
+  padding: 8px;
+  border-radius: 8px;
+  border: 1px solid var(--line);
+  background: var(--panel);
+  color: var(--text);
+  resize: vertical;
+}
+.comment-form button {
+  align-self: flex-end;
+  padding: 6px 12px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--accent);
+  color: #0b1220;
+  cursor: pointer;
+}
+.comment-form button:hover {
+  background: var(--accent-weak);
+  border-color: var(--accent-weak);
+}
+.comment-list {
+  list-style: none;
+  padding: 0;
+  margin: 12px 0 0;
+}
+.comment-list li {
+  background: var(--panel-hover);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 6px 8px;
+  margin-top: 6px;
+}
+
 /* ====== Utilities ====== */
 .small { font-size: 13px; color: var(--muted); }
 .kicker { color: var(--accent); font-weight: 600; margin-right: 8px; }
