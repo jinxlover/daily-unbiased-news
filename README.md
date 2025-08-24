@@ -2,8 +2,8 @@
 
 Daily Unbiased News is a simple, static news aggregator designed to pull the
 latest headlines from multiple reputable sources and surface them in a clean,
-mobile‑friendly interface. The site is automatically refreshed every day via
-a GitHub Action, ensuring you always see up‑to‑date stories without any
+mobile‑friendly interface. The site is automatically refreshed every 10 minutes
+via a GitHub Action, ensuring you always see up‑to‑date stories without any
 manual intervention.
 
 ## Features
@@ -21,8 +21,8 @@ manual intervention.
   across all categories. Links open in a new tab.
 - **Search:** A client‑side search bar lets you filter articles by
   keyword across titles and descriptions.
-- **Daily refresh:** A GitHub Action defined in `.github/workflows/update.yml`
-  runs the `fetch_news.py` script every 24 hours. This script fetches
+- **Frequent refresh:** A GitHub Action defined in `.github/workflows/update.yml`
+  runs the `fetch_news.py` script every 10 minutes. This script fetches
   the RSS feeds, deduplicates and sorts the results, then writes them to
   `data/news.json`. If the data changes, the action commits and pushes the
   updated JSON back to your repository.
@@ -56,8 +56,8 @@ manual intervention.
 
 4. **Configure and deploy.** Push your repository to GitHub and enable
    GitHub Pages or link it to a static hosting service like Netlify or
-   Vercel. Ensure that GitHub Actions are enabled so the daily refresh can
-   commit new data. You may wish to set the deployment branch to
+   Vercel. Ensure that GitHub Actions are enabled so the scheduled refresh can
+   commit new data every 10 minutes. You may wish to set the deployment branch to
    `main` or `gh-pages` depending on your chosen hosting platform.
 
 5. **Customize.** Edit `feeds.json` to add, remove or modify feed URLs.
