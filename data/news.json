@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-08-25T09:42:40.465040Z",
+  "lastUpdate": "2025-08-25T09:55:34.539337Z",
   "news": {
     "World": [
+      {
+        "title": "Four journalists among 15 dead in Israeli strike on hospital, Gaza officials say",
+        "link": "https://www.bbc.com/news/articles/cp89rp48246o?at_medium=RSS&at_campaign=rss",
+        "description": "The strikes on Nasser Hospital in Khan Younis are said to have killed journalists working for international media.",
+        "pubDate": "2025-08-25T09:42:57Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/523e/live/01d01320-8191-11f0-843f-7b3b652c1219.jpg",
+        "bias": 0
+      },
       {
         "title": "Al Jazeera journalist killed in Israeli attack on Nasser hospital in Gaza",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/8/25/al-jazeera-journalist-killed-in-israeli-attack-on-nasser-hospital-in-gaza?traffic_source=rss",
@@ -10,6 +19,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Multiple journalists killed by Israeli strikes on Gaza hospital - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTDNRUGFPdmxPclVMZW5GU2l4YUJSZXBuckF2TEU2VkFBVjQyOWg2SmR6aC1sU0RvWG10a2h1QnU3cUdDVlFta3EtcTJqSmt5R2J6dUs1R1IyRXVTOFBrN1J0bEtCUWZUOE1pZS1kVzhDRzc2OUEyeElyR0poNmV2NWdNdEFtNnJpZVBGeEVDVV9pY2lIcVYyc0UtZkU?oc=5",
+        "description": "",
+        "pubDate": "2025-08-25T09:13:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "South Korean President Lee to meet with Trump in Washington on Monday",
@@ -433,24 +451,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Why protesters in the UK are being arrested under ‘terror’ laws",
-        "link": "https://www.aljazeera.com/video/the-stream/2025/8/24/why-protesters-in-the-uk-are-being-arrested-under-terror-laws?traffic_source=rss",
-        "description": "Why some protests in the UK are being criminalised, and what that means for free speech.",
-        "pubDate": "2025-08-24T15:46:30Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Moscow says Russia and Ukraine exchange 146 prisoners each",
-        "link": "https://www.aljazeera.com/news/2025/8/24/moscow-says-russia-and-ukraine-exchange-146-prisoners-each?traffic_source=rss",
-        "description": "The exchange comes amid diplomatic efforts to solve the conflict and a Ukrainian drone attack on Russia overnight.",
-        "pubDate": "2025-08-24T14:57:09Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
@@ -752,15 +752,6 @@
         "bias": 0
       },
       {
-        "title": "New York City allows robotaxi company to test autonomous vehicles in Manhattan and Brooklyn - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb3A2RlRhSm5oa3Ezdjl0VlNycXdCRXQ3My1ybUNaR28xNUNwaWlWVGJQVnMzRHAxcklrZVAtWUVYMTRBV2lBN2ZqWGZWTUxKaDBpXzA3bFEtWVhfSTk5ZzM4aFVEZElGX3FrWWdNckZaNFJRRnktbWFWSmNWTC0zcE5sWGhienJIaks4?oc=5",
-        "description": "",
-        "pubDate": "2025-08-22T19:31:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Home Office seeks to appeal against court ruling on asylum hotel",
         "link": "https://www.bbc.com/news/articles/cy5p2ye95z9o?at_medium=RSS&at_campaign=rss",
         "description": "The High Court refused a last-minute request by the Home Office to intervene in the Epping asylum hotel case.",
@@ -902,6 +893,15 @@
         "pubDate": "2025-08-21T17:03:00Z",
         "source": "news.google.com",
         "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Woman jailed for race hate post released from prison",
+        "link": "https://www.bbc.com/news/articles/c5yl7p4l11po?at_medium=RSS&at_campaign=rss",
+        "description": "Lucy Connolly is released from HMP Peterborough after receiving a 31-month sentence in October.",
+        "pubDate": "2025-08-21T16:57:17Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93fb/live/e9f99a70-7e78-11f0-ab3e-bd52082cd0ae.jpg",
         "bias": 0
       }
     ],
@@ -1386,15 +1386,6 @@
         "bias": 0
       },
       {
-        "title": "Key things to know about how Trump's war on higher education has ensnared an unexpected campus - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWjdTUF8tSkNlVXBGN2VVQkdhaVVDT3pmNllsMnhYSHN3OG5tcG5iZnpmN09jS050dEgtVjdvSEo5YmdKMVNuUHBJcWtrRDdyRzZNdmtOalFXV1lYa1A1Y2lGVXVVai0wdm5aNGE1My0yYUo4WWxfeGlMeW5iaF9TMWVpM002S1J5YXBRd29KZjZhYTdna2pqVDFxVmhLU1J6QXJLUFZWQjRDY3ZSVXVSVWxFMA?oc=5",
-        "description": "",
-        "pubDate": "2025-08-23T15:29:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Hawaii's Kilauea volcano erupts again and shoots lava for 31st time since December",
         "link": "https://www.npr.org/2025/08/23/nx-s1-5513910/hawaii-kilauea-volcano-erupts-again-shoots-lava",
         "description": "Hawaii's Kilauea volcano resumed erupting Friday by shooting an arc of lava 100 feet into the air and across a section of its summit crater floor.",
@@ -1806,6 +1797,15 @@
         "pubDate": "2025-07-29T21:36:53Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ffa/live/73d3faa0-6cc3-11f0-96b5-2b05ac17417f.jpg",
+        "bias": 0
+      },
+      {
+        "title": "US to scrap landmark finding that sets limit on carbon emissions",
+        "link": "https://www.bbc.com/news/articles/c0mlzz1gy39o?at_medium=RSS&at_campaign=rss",
+        "description": "Experts warn the move will severely curb the federal government's ability to combat climate change.",
+        "pubDate": "2025-07-29T18:42:33Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d77f/live/c5b0d1d0-6c92-11f0-9a27-87bb9aa7e3da.jpg",
         "bias": 0
       }
     ],
@@ -2225,15 +2225,6 @@
         "bias": 0
       },
       {
-        "title": "Bills decline comment, while RB Cook cites 'business' as reason he didn't participate in practice - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV3FTZWhUZkQwVDNHNnpYcmhyWkthRzNLY21xNjBmNjlTckhsR05GMVNuZENWLWJFOXN3U1hrNHMxeE81UnJzVjVnSlJHZko0SEJ1WGd4dEVONENsLVF6TkxYV2Rwc3dGQzBZQ0ZjY2NRVlhqOHVacm96eEctbmRUNXNUSmtPWDNmWVZmR3NXX3FUeDZHY1gwSA?oc=5",
-        "description": "",
-        "pubDate": "2025-08-03T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Trump's global tariffs 'victory' may well come at a high price",
         "link": "https://www.bbc.com/news/articles/c0l6g13rlwko?at_medium=RSS&at_campaign=rss",
         "description": "The US president considers it a win - but if this all triggers a foundational realignment, the results may not break in his favour",
@@ -2258,6 +2249,15 @@
         "pubDate": "2025-06-11T07:00:00Z",
         "source": "news.google.com",
         "image": "",
+        "bias": 0
+      },
+      {
+        "title": "China's electric cars are becoming slicker and cheaper - but is there a deeper cost?",
+        "link": "https://www.bbc.com/news/articles/cy8d4v69jw6o?at_medium=RSS&at_campaign=rss",
+        "description": "The future for EVs will inevitably involve China. But where does that leave the UK and Europe markets – and what of the questions around national security?",
+        "pubDate": "2025-06-09T23:04:10Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1581/live/40c2a090-3d6a-11f0-af00-f94ff1cabcc0.png",
         "bias": 0
       }
     ],
@@ -2632,15 +2632,6 @@
         "bias": 0
       },
       {
-        "title": "Investigators search for Native American items stolen decades ago in New Mexico - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0pDeWQtUXBOT2ptUXNrOVBsWkJGUF9XTTZHYk1mQUl6cV9nUFVIeXIyRjgtSl9wMmJsSk5IU3NlYkxLYjFfTjVTaXBiV2FUY2loY2lLSWJ4LUF3S0h2MHd2SDM1RVlabzJ0R1UwdWRaMFg2ZXRHN1AyR1NGcDVRcHFzUkg5X1dETXN3Z2NvYjVOeVM1VEpiNk01MGNSMUV4bFNBUGZGLU81ZVdrWFE?oc=5",
-        "description": "",
-        "pubDate": "2025-08-12T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Bugs are popular pets in nature-loving Japan, buzzing with lessons about ecology and species - AP News",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZXFVRzN2Y0hqMTJaMlU4WmNxTE05N1U2TmtGVHpBRTNwSDhSLW1iVkw2UU40Tng2b1JWc21YNnJ4OUZuVkxfVGc2dF9UTzUxblB1b0hSR29QQ2R0cDFINEdhQnRSaVNjOGNnN2Y1M3A4a3dqc3NtdV9sUy04d0xzUjR1cmNJYjZ0LW1RN3dLa05NWmY4LUNROHdxdmdfRXln?oc=5",
         "description": "",
@@ -2677,15 +2668,6 @@
         "bias": 0
       },
       {
-        "title": "Mexico accuses Adidas of cultural appropriation for copying Indigenous sandal design - AP News",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQXd0Znp1RGhwTUNQZV9lVkZ5QWhETE9YX1NmX1VnLVlhSjRBYzhYck55elVCa1dzYjQwUk03R3FXVjEzeE9RdWtfWktxdlhPZ05qaDlDRWlEYnZfTld2R1dZcWY3SF9FbHlWS2tfN2hCVkhCQklZT3RwUGdObFByN0FjUHFoRXk3V0RDRFo1SVlEMEJ6MGZNSHh1NE9vLUhmVFByYmExTG5NZC1zblhSM0hQM3MxalNxWENLWGdLZnE1WUVwTnF5RkFQOTZGYlR6SU9kMzRxb2ZWZw?oc=5",
-        "description": "",
-        "pubDate": "2025-08-08T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Confederate statues in DC area to be restored and replaced in line with Trump's executive order - AP News",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTmVPbzRNSDVvNlhFOU5HY3hzRzNKS2poWFpVeFRkd0xQdUpnRk13ZWZ4LUVYTEJhS3BqRkNKUzJBeXlvV242elRPZkR4MVFFRU1wcmVtRHJsSVFZODdNX3BTemZOXzBEVTgyZFhkOTR2Y2ZLQmZHN19SbmswbnpSVkthV2cyOU9Fa2J2TFR4S1U4UWdqMTBVa3hYeU0zVFlIUTlVSG1jendTZHFTVDJMWjRn?oc=5",
         "description": "",
@@ -2695,19 +2677,37 @@
         "bias": 0
       },
       {
-        "title": "Benin hosts mask festival amid growing interest in country’s cultural heritage - AP News",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeDE2QUdzVkdVYjFfREMwLUpSeUNHWVRZaGZ4LXNLai1kVExSaWJMWmtFbmw4b1NmSDhPOFVKaWNtY3Z0OGRCZG1lOGoxejdielJ5aFNhZEpJMmNuQ00xd2NRZUJ5WWRJSzJQUzRyTUlvbzRyemQ3SUFDV2ZNUHVpeFE5LU1yLW85ekRndlhhdTNaZ2xLdVJHWE9RZ2MzVmhxNkgzd1E4ZUNMZThDVEc2RnhJWGdkV3NOOVd6V2ZaWV9OU1pObmdyQ2ROQ1o4UllQ?oc=5",
+        "title": "Matt Rogers talks bringing zeitgeisty Las Culturistas Awards to TV for the 1st time - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNDUzSWpwZG1ZUERKaVFTRlJyZGRaUnFPYUpHY2Z3RHRiRVRES09HRUpiZGI5QnJLY3lnaHp6dUlJVHV0LTlmczgzYVJNSVAxOGtxUGlxWEQ1aTE5a0t5WEpvel9GcE9vZmp1ekdqMEJTXzRJWVE0ZFprN3J2dHY3U0U1YWpScldCc1E1Wkp2eWZOdFNJMFRaMnBmUXZNSFk1VW1HZEk0RFBkbkMyUkk5c2Z3?oc=5",
         "description": "",
-        "pubDate": "2025-08-03T07:00:00Z",
+        "pubDate": "2025-08-01T07:00:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Matt Rogers talks bringing zeitgeisty Las Culturistas Awards to TV for the 1st time - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNDUzSWpwZG1ZUERKaVFTRlJyZGRaUnFPYUpHY2Z3RHRiRVRES09HRUpiZGI5QnJLY3lnaHp6dUlJVHV0LTlmczgzYVJNSVAxOGtxUGlxWEQ1aTE5a0t5WEpvel9GcE9vZmp1ekdqMEJTXzRJWVE0ZFprN3J2dHY3U0U1YWpScldCc1E1Wkp2eWZOdFNJMFRaMnBmUXZNSFk1VW1HZEk0RFBkbkMyUkk5c2Z3?oc=5",
+        "title": "Burial site of the Chancay culture found in the outskirts of Lima - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcnVvRG1rM01ENV90WjhNd2J5OEZacWdxaEpjTWRmdkIwM2NqSVhHZWh2UFRGQWxSWEZnbF9Bb3k4T0h2dnpUdjlnSjJ1cDc3d1R4R3VuMjJ5QzhJeDBvQ1hLMm5UV1hVcnJlZnFZUTdiOGM0Rm1ZZkUtV0JKczFtdGdvTm5FeTlMVkJaNnRsRGxQOWlKTzFYZTlueURGWEN0STBXWmlhLWxaX3Nvdk9RSlVMWkdxaHQyMW5pMVdPLWQ?oc=5",
         "description": "",
-        "pubDate": "2025-08-01T07:00:00Z",
+        "pubDate": "2025-07-31T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "The reverse migration: African Americans relocating to Kenya cite heritage and restoration - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeTlKTWd2aUIwVFFmYlBWUGlHT0szNnF1aTVCRHFwYU5FdGdiTWZqRG1BZDRuZEZnOUJrc0s5Q0twSnFrNjh6R1BVenI3OHc3Q3JwM292OE01ME1VcjFBVGFUZFlMNXBSaEtBbTRnc2hPQkxzcVBTaXgyVWhQWGNJdVBGZlVaVTUxSmFWSDBEMkNCbWIwTzB2LWxn?oc=5",
+        "description": "",
+        "pubDate": "2025-07-26T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Elijah Wood remembers Hulk Hogan as ‘fixture of pop culture’ - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbHRFbzlkcnMwRlliajlIWnRRNWlpUTI1SlVEWUVzejVJT0JrVjVTb3FuandSMmFseXJNWV9sWUJxNGRzWmhOYnlqRWVJWFJOLUxPYmtvRi04MnA3MDJtTEF6amV5OG5zaHdaazBNc3R1YmFmWXVCT0w4WF9FblRYdHhyQldzUl8wLWdXdW5YMUVPbGVudXlmVVBqZEk3NWUzOXVpQld6Y2FwaWFpQnRQMm5pdDRlWk0?oc=5",
+        "description": "",
+        "pubDate": "2025-07-24T07:00:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
