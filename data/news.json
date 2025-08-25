@@ -1,15 +1,24 @@
 {
-  "lastUpdate": "2025-08-25T11:31:02.888936Z",
+  "lastUpdate": "2025-08-25T11:45:23.778679Z",
   "news": {
     "World": [
       {
         "title": "Four journalists among 15 killed in Israeli strike on hospital, Gaza officials say",
         "link": "https://www.bbc.com/news/articles/cp89rp48246o?at_medium=RSS&at_campaign=rss",
         "description": "The Israeli military says it hit Nasser Hospital in Khan Younis and is investigating,  adding \"it does not target journalists as such\".",
-        "pubDate": "2025-08-25T11:19:09Z",
+        "pubDate": "2025-08-25T11:40:02Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/523e/live/01d01320-8191-11f0-843f-7b3b652c1219.jpg",
         "bias": 0
+      },
+      {
+        "title": "Bangladeshi leader demands justice for Rohingya, ‘safe return’ to Myanmar",
+        "link": "https://www.aljazeera.com/news/2025/8/25/bangladeshi-leader-demands-justice-for-rohingya-safe-return-to-myanmar?traffic_source=rss",
+        "description": "Nobel laureate Muhammad Yunus says justice and security are vital for Rohingya before returning to Myanmar.",
+        "pubDate": "2025-08-25T11:20:23Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Israel denies medical workers access to Gaza “to provide relief”",
@@ -183,6 +192,15 @@
         "bias": -1
       },
       {
+        "title": "Ukrainian veterans’ inspiring Bosphorus swim on Independence Day, in photos - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaVhWYzJWbmRvZUZ2MGxXWlpSNGtpYWxHSGUzRDRtRGVSM2RrRkpmOTlaZG83b2JuMzJEb21WejBtYnBDNmtocXd2YzdVYzJpckJMNU13dWl4MUppZWl2VXpUdVVmaWx6M3BZYW5VMG5Nd3B6QjROdUQ5REtfaWhwYkhvQnl2OEVwbFZqNGNxNDF3YmJa?oc=5",
+        "description": "",
+        "pubDate": "2025-08-25T05:31:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Live: Al Jazeera journalist among 20 killed in Israeli attack in Gaza",
         "link": "https://www.aljazeera.com/news/liveblog/2025/8/25/live-israel-intensifies-attacks-on-gaza-leaving-dozens-dead-in-a-day?traffic_source=rss",
         "description": "At least four journalists killed by Israeli attacks targeting rooftop of Nasser Medical Complex in southern Gaza.",
@@ -226,15 +244,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Russia-Ukraine | Breaking News & Live Updates - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05dU5fdEx0UThlV1ZJRHRsY2dpalBXU0lPdkdndHY3QXBvUUhoWDhabS1PNzlOelV1UWhjdkNTZ19EWnVjcndORXl1WlFVZw?oc=5",
-        "description": "",
-        "pubDate": "2025-08-25T03:56:15Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "US National Guard troops begin carrying weapons in Washington, DC",
@@ -442,18 +451,18 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Israel hits Yemen's Houthis after reports group used cluster bomb",
-        "link": "https://www.bbc.com/news/articles/c0kzy7r8pl1o?at_medium=RSS&at_campaign=rss",
-        "description": "The strikes come after Israel said the Houthis used cluster munitions in a missile fired at Israel.",
-        "pubDate": "2025-08-24T20:07:58Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abb2/live/a75af680-8118-11f0-a047-cdd47dc7115a.png",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Keurig Dr Pepper to buy Peet’s Coffee owner in $18 billion deal - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPelFQeDN1UDBweURXQ3VvU2RvX28wMUEzSmpvNmsyUzEzNWVjNUR3eHFickxaWC1TRUxlOTNHY1V1aENmZ0FqbUpNS1lzMm5ESF9oWk4xN2c4T3B1Nzdycm9FakZlTHVlN3h4V1JlWkJ1Q25VQ016OHVTMm04Nm9KTjdtUEhnaXdiMzZmXzRDX1cxVnF6Sno2SjV4cnhOQlpnZnVB?oc=5",
+        "description": "",
+        "pubDate": "2025-08-25T09:04:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Atlantic staff writer Michael Scherer on Laura Loomer's influence on President Trump",
         "link": "https://www.npr.org/2025/08/25/nx-s1-5511306/atlantic-staff-writer-michael-scherer-on-laura-loomers-influence-on-president-trump",
@@ -576,6 +585,15 @@
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYU5GUFlPZ2dTT2dJRUdxZ0U5aDdRdTVIbVBuLVVlUnpuMlJlZllhZUQ5X0d2YVZ3WFFHTnptVG1hTFVLUFZsNXhBUlpkTU9ibUM4ZXIzYlBYc2NRblNMazR6eEdSektGazUxWmRmdS1pMmJTalItRk4tVmphLU85ZUNTSGkzZFVMLWRDTHNLaWNqeEljSnNQcG1DdFl1V0s0N2U0cjBlN1QtWEJVYkVBeE1QSm4?oc=5",
         "description": "",
         "pubDate": "2025-08-23T15:51:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Key things to know about how Trump's war on higher education has ensnared an unexpected campus - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWjdTUF8tSkNlVXBGN2VVQkdhaVVDT3pmNllsMnhYSHN3OG5tcG5iZnpmN09jS050dEgtVjdvSEo5YmdKMVNuUHBJcWtrRDdyRzZNdmtOalFXV1lYa1A1Y2lGVXVVai0wdm5aNGE1My0yYUo4WWxfeGlMeW5iaF9TMWVpM002S1J5YXBRd29KZjZhYTdna2pqVDFxVmhLU1J6QXJLUFZWQjRDY3ZSVXVSVWxFMA?oc=5",
+        "description": "",
+        "pubDate": "2025-08-23T15:29:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -884,24 +902,6 @@
         "pubDate": "2025-08-21T20:31:00Z",
         "source": "news.google.com",
         "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Record 111,000 UK asylum applications in past year, figures show",
-        "link": "https://www.bbc.com/news/articles/cwy1kxv8xewo?at_medium=RSS&at_campaign=rss",
-        "description": "The latest data, which covers Labour's first year in office, also shows the government is processing cases faster.",
-        "pubDate": "2025-08-21T17:41:08Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d5a/live/c81e1580-7e9f-11f0-9b5a-93b6ac298424.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Woman jailed for race hate post released from prison",
-        "link": "https://www.bbc.com/news/articles/c5yl7p4l11po?at_medium=RSS&at_campaign=rss",
-        "description": "Lucy Connolly is released from HMP Peterborough after receiving a 31-month sentence in October.",
-        "pubDate": "2025-08-21T16:57:17Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93fb/live/e9f99a70-7e78-11f0-ab3e-bd52082cd0ae.jpg",
         "bias": 0
       }
     ],
@@ -1395,15 +1395,6 @@
         "bias": 0
       },
       {
-        "title": "Key things to know about how Trump's war on higher education has ensnared an unexpected campus - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWjdTUF8tSkNlVXBGN2VVQkdhaVVDT3pmNllsMnhYSHN3OG5tcG5iZnpmN09jS050dEgtVjdvSEo5YmdKMVNuUHBJcWtrRDdyRzZNdmtOalFXV1lYa1A1Y2lGVXVVai0wdm5aNGE1My0yYUo4WWxfeGlMeW5iaF9TMWVpM002S1J5YXBRd29KZjZhYTdna2pqVDFxVmhLU1J6QXJLUFZWQjRDY3ZSVXVSVWxFMA?oc=5",
-        "description": "",
-        "pubDate": "2025-08-23T15:29:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Hawaii's Kilauea volcano erupts again and shoots lava for 31st time since December",
         "link": "https://www.npr.org/2025/08/23/nx-s1-5513910/hawaii-kilauea-volcano-erupts-again-shoots-lava",
         "description": "Hawaii's Kilauea volcano resumed erupting Friday by shooting an arc of lava 100 feet into the air and across a section of its summit crater floor.",
@@ -1807,6 +1798,15 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2155/live/81c28a20-6091-11f0-960d-e9f1088a89fe.png",
         "bias": 0
+      },
+      {
+        "title": "Tiny creatures gorge, get fat, and help fight global warming",
+        "link": "https://www.bbc.com/news/articles/c628nnz3rp9o?at_medium=RSS&at_campaign=rss",
+        "description": "Scientists find out how the epic deep sea migration of a tiny animal is storing planet-warming carbon.",
+        "pubDate": "2025-07-04T23:10:52Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa52/live/c67072f0-58f7-11f0-960d-e9f1088a89fe.jpg",
+        "bias": 0
       }
     ],
     "Business": [
@@ -2045,15 +2045,6 @@
         "bias": 0
       },
       {
-        "title": "Students face new cellphone restrictions in 17 states as school year begins - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYkhpaFpxRGdnOFRFdk5YTFJlMVhCOUdIYm56NHpjcGJ1Z1dYWmhhUVdXZVEwZGlQVGhHVVFQTFl1ZElPbHkxc1lDb19DZGpmVE44RTIzZ2NsYktmZW1iOF95VmxRa2d2R1Z6LWMzSjZoSFpXZlJRaWRNNnBIc0FWcGtDTWt3UmJJeVl5YUhUOEt2MXpacmhlZjJjekZCU0ZWeVJXZmFn?oc=5",
-        "description": "",
-        "pubDate": "2025-08-21T15:34:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Tesco meal deal price rises by 25p",
         "link": "https://www.bbc.com/news/articles/clyr7renp51o?at_medium=RSS&at_campaign=rss",
         "description": "The move by the UK's largest supermarket is the latest example of rising food prices.",
@@ -2258,6 +2249,15 @@
         "pubDate": "2025-05-18T21:55:21Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e9e/live/19ef1430-3270-11f0-8519-3b5a01ebe413.png",
+        "bias": 0
+      },
+      {
+        "title": "Here’s a look inside Donald Trump’s $355 million civil fraud verdict - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdGxEQVdEcjJ2UU1Zd25FM0pUVGF0VXpSaUpRcUdtSnczbUcwWEhQWUdmVVBkOUprU2ZMXzVfbFNUUjkyNm9mNkVDUFp6ZG95OUQ4VTg3cXpzTy1ZWUIxM0t1dFJJZkJmazFrdkpCU2tza0tFeUp0VkdBUC1Sd2dYSlNPUmJoWGktcEtxUHJPQUZ6S05FU2ZoX2VLanlxUjRKWVZWMw?oc=5",
+        "description": "",
+        "pubDate": "2024-02-17T08:00:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       }
     ],
