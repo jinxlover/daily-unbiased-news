@@ -1,7 +1,34 @@
 {
-  "lastUpdate": "2025-08-26T07:39:39.095805Z",
+  "lastUpdate": "2025-08-26T07:50:14.002271Z",
   "news": {
     "World": [
+      {
+        "title": "Trump orders removal of Federal Reserve governor Lisa Cook",
+        "link": "https://www.bbc.com/news/articles/cx275n8gx0ro?at_medium=RSS&at_campaign=rss",
+        "description": "Cook says the US president \"has no authority to do so\" in defiance of Trump's escalatory move against the central bank.",
+        "pubDate": "2025-08-26T07:48:54Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0fc/live/251d1310-8212-11f0-a34f-318be3fb0481.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Botswana declares public health emergency over medicine shortage",
+        "link": "https://www.aljazeera.com/news/2025/8/26/botswana-declares-public-health-emergency-over-medicine-shortage?traffic_source=rss",
+        "description": "The crisis is linked to the high price of medicines, a shrinking national budget and cuts in US aid.",
+        "pubDate": "2025-08-26T07:31:47Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Japan lodges protest with China over ‘installation’ in East China Sea",
+        "link": "https://www.aljazeera.com/economy/2025/8/26/japan-lodges-protest-with-china-over-installation-in-east-china-sea?traffic_source=rss",
+        "description": "Tokyo urges Beijing to resume negotiations on implementation of 2008 agreement on exploiting natural resources.",
+        "pubDate": "2025-08-26T07:22:00Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "'Deeply disturbing': Australia blames Iran for antisemitic attacks",
         "link": "https://www.bbc.com/news/articles/c9d085n75q3o?at_medium=RSS&at_campaign=rss",
@@ -12,13 +39,13 @@
         "bias": 0
       },
       {
-        "title": "Trump orders removal of Federal Reserve governor Lisa Cook",
-        "link": "https://www.bbc.com/news/articles/cx275n8gx0ro?at_medium=RSS&at_campaign=rss",
-        "description": "Cook says the US president \"has no authority to do so\" in defiance of Trump's escalatory move against the central bank.",
-        "pubDate": "2025-08-26T07:02:40Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0fc/live/251d1310-8212-11f0-a34f-318be3fb0481.jpg",
-        "bias": 0
+        "title": "US President Trump tightens grip on security in Washington",
+        "link": "https://www.aljazeera.com/gallery/2025/8/26/us-president-trump-tightens-grip-on-security-in-washington?traffic_source=rss",
+        "description": "Trump increases security in Washington, DC, with National Guard, more police and inquiries into crime data manipulation.",
+        "pubDate": "2025-08-26T07:16:17Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Video captures Israeli bombing of Gaza residential building",
@@ -424,33 +451,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Israeli strikes kill 22, including 5 journalists, in a Gaza hospital",
-        "link": "https://www.npr.org/2025/08/25/nx-s1-5515630/israel-gaza-journalists-killed-hospital",
-        "description": "Israeli forces killed 22 people, including five journalists, in two strikes on Gaza's Nasser Hospital, drawing global condemnation and prompting a rare admission of regret from the Israeli government.",
-        "pubDate": "2025-08-25T20:26:07Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Some FEMA staff call out Trump cuts in public letter of dissent - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNVFtTmk5Y0J1dFJQM2t3YUZIMW02ZnJnY0hlUXYzQWlya3d6dEE4bFZxeElIOGdsWUh1Y25abmxTdEtlZHlnb2NZQ2hPaUl3LWxHS1RlUTlsb21hR2ZTRmV6WEhHdlR6aHBwYU4xY1c2LXVxSEJpdXRfSmp1eGI3cGc3UDd0SHFQMzRWUGZ0bXB0NTg1bGlyWg?oc=5",
-        "description": "",
-        "pubDate": "2025-08-25T20:19:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "French helicopter crew survive crash into lake",
-        "link": "https://www.bbc.com/news/videos/cdd3j708ngno?at_medium=RSS&at_campaign=rss",
-        "description": "The helicopter was attempting to collect water to fight wildfires at the time of the crash.",
-        "pubDate": "2025-08-25T19:54:02Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5b3/live/98f92300-81ea-11f0-ab3e-bd52082cd0ae.jpg",
-        "bias": 0
       }
     ],
     "Politics": [
@@ -540,6 +540,15 @@
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPelFQeDN1UDBweURXQ3VvU2RvX28wMUEzSmpvNmsyUzEzNWVjNUR3eHFickxaWC1TRUxlOTNHY1V1aENmZ0FqbUpNS1lzMm5ESF9oWk4xN2c4T3B1Nzdycm9FakZlTHVlN3h4V1JlWkJ1Q25VQ016OHVTMm04Nm9KTjdtUEhnaXdiMzZmXzRDX1cxVnF6Sno2SjV4cnhOQlpnZnVB?oc=5",
         "description": "",
         "pubDate": "2025-08-25T19:13:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Ukraine condemns Woody Allen for speaking at a Russian film festival - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYzdQRVNkZDJhSEQ1TnNBMllVX3dBeEdzZW9KOVJjSWRMVW5ZR0YzazdjOHlLb2lGdmdzcnZreGJwU3ViZmZ0ckZzb3ZqNzg2N0tfdXdxeVB6SjRNWlAyaTVzRkZabERKaXlRMTdnRkVSZ0YtSmh4c0ZmU1FyaXpOUEVGVW5QMFN5dE9VUUZfcUpFY2hY?oc=5",
+        "description": "",
+        "pubDate": "2025-08-25T19:12:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -891,15 +900,6 @@
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSElYWFEtT0ExeDI0aW5VUXhZcHZoclJPM0N1RkQxY0pKZXBwTDNZRlZaNk1HbllEWmdvcEZJN0xGZVFVeTF0TUJsU0M3eElKUzFxVlpib2VfSWU1NmkxS1B5cHFBX0w5M0NrbC1od1hmSTVhWWk5OVJ4Y1RUempvbk1EQTZxMzRoTU5sS1RBQmctWnRlOUUwdWFYa19QMGliMU5BNmZCV3o?oc=5",
         "description": "",
         "pubDate": "2025-08-22T05:33:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Appeals court throws out massive civil fraud penalty against President Donald Trump - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbTZXSldLREhyRzVUYmYySXAyaUFDV2dSTHpVVF9uOWxscTZlVHJwMVQ4NWxZZG0zdWYwX1g4am1GbEMzMWhRSW5jMEx6VUtBaDd3aUwzV0pRandMa1ZFSzhCN0tCbnFRTXlIclg1WllqZElhV28zLWtFaThHTnVJVkMzX2YzaHJEbDBMNmpSTQ?oc=5",
-        "description": "",
-        "pubDate": "2025-08-21T22:32:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1829,15 +1829,6 @@
         "bias": 0
       },
       {
-        "title": "Trump says he's firing Fed Governor Lisa Cook, opening new front in fight for central bank control - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbjJIWVI1WDA1YXFUby1fVlAwYm1zZkRydlRUMVVkSmE4RGJEWnd3VE1JSFZCcWNfcl9SeVBaUE55VUxsUFRrSmczclFtTUIzTXBQTTBYM3dLUTFxX3ZtTHJqU1RqYUczTGl6X2dCZjBnbEgyVVZadHpjYjN5aTZsRXZWYWV1Umo3a2VITmNYTmh3Tm5vOGc?oc=5",
-        "description": "",
-        "pubDate": "2025-08-26T03:22:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Dr Pepper will unwind its merger with Keurig after buying Peet's for $18 billion",
         "link": "https://www.npr.org/2025/08/25/g-s1-85104/dr-pepper-keurig-peets-purchase-merger-split",
         "description": "Seven years after they merged, the soft drink maker and coffee pod innovator will become separate companies again. CEO Timothy Cofer said separate coffee and beverage businesses would be more nimble.",
@@ -1917,6 +1908,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Pope affirms right of people to return home after unjust exile in meeting with Chagos refugees - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLTF3OXFvZG5YY3dfRmRXZk5odFJnREd2NzcxU2xMeVNrOUZ3aFJheDRrTE9MaXp3SGpPTm9kSGg3UEVibVEySmI2QWFNM2RpdGxiQkN5djk2dm0xRkl3LXJKaFlraU5ibTFrMVU5ckJQYkxQUkZMdTRta1lDZ2NzaDIzY0JOd0JDV1NyMWV4Z1M?oc=5",
+        "description": "",
+        "pubDate": "2025-08-23T15:40:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Trump administration halts work on an almost-finished wind farm",
@@ -2135,15 +2135,6 @@
         "bias": -1
       },
       {
-        "title": "Priscilla Presley’s ex-business partners sue her for more than $50 million, alleging fraud - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeElnZWRiSE5Tb2wyVENTbEtvd01PMmwwY1p1Z21Tb1ZmZkRuSUpzWHQ4S1hKX3J1NWpoWU9Td3paOURNLTRQT0tKUXRRb0RNT013ZVp3cGlUZDl3SnZ3RF9GUmdxN25vTEVWX2dmZkVFNnJsUGpoVTdFYU1LYlJoWFpHbG1qMS1xN0w5NnBIcTFDOUFFLXBrYUFhTnA2RFlPWXJr?oc=5",
-        "description": "",
-        "pubDate": "2025-08-13T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "The UK car industry is at a tipping point - can it be saved?",
         "link": "https://www.bbc.com/news/articles/c23p028p200o?at_medium=RSS&at_campaign=rss",
         "description": "Tariffs, Brexit, pandemic havoc... All of this caused short-term disruption - but the impact concealed a deeper problem for the UK automotive industry",
@@ -2240,6 +2231,15 @@
         "pubDate": "2025-05-18T21:55:21Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e9e/live/19ef1430-3270-11f0-8519-3b5a01ebe413.png",
+        "bias": 0
+      },
+      {
+        "title": "Guilty: Trump becomes first former US president convicted of felony crimes - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaTBFVlFleHBWQjNmQ2tzaUNiYkwxMVBoSnNrY3VTRVZzVHpURFN5bW1FQlEteUhjS2FrdlEwVzVsVjFzRVFsVDN6cUYtdE1UbHRualBTUmRFd3JfN3MyaXZ6REoyY3REQzdyd0hpSWdmc2NiR3BYdm9ucUp4UnlISGJ1OGJCQTNDNEV6UVJkSUNOanh5U2draGZ5d1YtMXNYMXBBcmxJaG80blJx?oc=5",
+        "description": "",
+        "pubDate": "2024-05-31T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -2587,10 +2587,10 @@
         "bias": 0
       },
       {
-        "title": "Bugs are popular pets in nature-loving Japan, buzzing with lessons about ecology and species - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZXFVRzN2Y0hqMTJaMlU4WmNxTE05N1U2TmtGVHpBRTNwSDhSLW1iVkw2UU40Tng2b1JWc21YNnJ4OUZuVkxfVGc2dF9UTzUxblB1b0hSR29QQ2R0cDFINEdhQnRSaVNjOGNnN2Y1M3A4a3dqc3NtdV9sUy04d0xzUjR1cmNJYjZ0LW1RN3dLa05NWmY4LUNROHdxdmdfRXln?oc=5",
+        "title": "Investigators search for Native American items stolen decades ago in New Mexico - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0pDeWQtUXBOT2ptUXNrOVBsWkJGUF9XTTZHYk1mQUl6cV9nUFVIeXIyRjgtSl9wMmJsSk5IU3NlYkxLYjFfTjVTaXBiV2FUY2loY2lLSWJ4LUF3S0h2MHd2SDM1RVlabzJ0R1UwdWRaMFg2ZXRHN1AyR1NGcDVRcHFzUkg5X1dETXN3Z2NvYjVOeVM1VEpiNk01MGNSMUV4bFNBUGZGLU81ZVdrWFE?oc=5",
         "description": "",
-        "pubDate": "2025-08-11T07:00:00Z",
+        "pubDate": "2025-08-12T07:00:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -2677,6 +2677,15 @@
         "bias": 0
       },
       {
+        "title": "Elijah Wood remembers Hulk Hogan as ‘fixture of pop culture’ - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbHRFbzlkcnMwRlliajlIWnRRNWlpUTI1SlVEWUVzejVJT0JrVjVTb3FuandSMmFseXJNWV9sWUJxNGRzWmhOYnlqRWVJWFJOLUxPYmtvRi04MnA3MDJtTEF6amV5OG5zaHdaazBNc3R1YmFmWXVCT0w4WF9FblRYdHhyQldzUl8wLWdXdW5YMUVPbGVudXlmVVBqZEk3NWUzOXVpQld6Y2FwaWFpQnRQMm5pdDRlWk0?oc=5",
+        "description": "",
+        "pubDate": "2025-07-24T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "‘We’re peeping toms now': Culture expert on THAT Coldplay moment - AP News",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNG56OVNYa2podkhJc1RoZ0wtV1NDcnkydWZEdzNtU1R6Vnh1M2I4dnFrd1lYQVlGV0JzTDFvbDJYMW9mOHA2RDRyTkxfbnM1WXc2VDdfU3NZUkJVZklFZVp1eUlGYm5IZ1JnYkhsUmRzejhMNDN2QXVETjZUcFNBbW91amlXbWpHMnZCcUJhdGxGQ1lYV09odTR2Qk1CRkg0U3lwdTkyRXNMOTVYWl82Szl1NDJpdTJ5RlE?oc=5",
         "description": "",
@@ -2686,10 +2695,10 @@
         "bias": 0
       },
       {
-        "title": "Malcolm-Jamal Warner, ‘Cosby Show’ actor, dies at 54 in Costa Rica drowning - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb1B2Q3l4U2NHc0xOZnFIWFBpcnhBUE13bzNmZERzZDBHYjN1SUI4WkNrOE1wTGZyY05ULWZiMEYtNnhLZnB5UDAwM1AxYVFoTjEwc1gwVEVFSDlyUkVWRmg4NTNnVkU1WGtsLVVEdV95MG5jY0dOZWduT1pZeEI0cnJnRnVUSFNWclNzYUJ1ejU5eDc3TlVPU3lB?oc=5",
+        "title": "Fusion between culture and modernity as children dance in Kenya’s refugee camps - AP News",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN3kyWGMzOVBWQTNpS2hKclJuNjlkdXlYNUx0WWM4V0NaZFdvMkNMaS1kT2MwSFkzWTJRYnN0Um9hdUJIWkZ0WDFjQlFrNDFGeGxOTE9nWERmcW5sTGZ5akJ4QXp2dzFwblloclV2cTR1UVVyREZNcXlDOUswaHlWa01aOFltR3Y5OHRXVHN6TGc2X3Y2T0R5UnZYTHZ0X2VVelVKWnRKODRKMFF0NWdXeU1oWDNoeFB0WDA4X0t1dFJQdjloUlJtQUh4UUtlcXRJZ3c?oc=5",
         "description": "",
-        "pubDate": "2025-07-21T07:00:00Z",
+        "pubDate": "2025-06-27T07:00:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -2699,15 +2708,6 @@
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdHRGS3pnYkl0OFc1NHRweXVrWDN5YVRSQlBKbElfYVVTTV9NMnV2OHZ3dVJvNktuWUhHZ0MwdWI1VGhlYTdId0ZXTXRxU3R4ZGVEbTB5N2tUNkliYTM1QmI5VUNJX0txaEFyMDNxRkJ3WjM5MG84YlExcHI0SnEyYXZFVW9HcG1yaU03NzIxN2llMXMwbVFBWWFrVmM?oc=5",
         "description": "",
         "pubDate": "2025-05-21T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Ukraine’s entry to Eurovision Song Contest celebrate their embattled country’s culture - AP News",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbjBKYkx4YmJzTW0wRklOUVhUSVNacWhRbVZhWjdoUnJjVVlwd3pOYm1VSGdYb1gybmRjdnZCWDBHOHl1Sk9HOGR1OHhhMlhiZ1ZqbzdsWWJfQ2l2SVNheXdsbC0yejFCdnFfRWlDcUVCYl9Pb3JOSlByNzJ0TUtibE9RQzhCZVNkX182Vi1tNTctNk1BZFNpd291b2FtQnMwWXc2X1BXVHlLY3ZCR2gxaUlGSDU2NmtyN1d6Tlc2UXFfMm91S3BUaExGeU5TVEJqNmxLZlZRSEJCQQ?oc=5",
-        "description": "",
-        "pubDate": "2025-05-16T07:00:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
