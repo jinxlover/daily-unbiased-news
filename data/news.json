@@ -1,16 +1,7 @@
 {
-  "lastUpdate": "2025-08-27T16:24:50.008005Z",
+  "lastUpdate": "2025-08-27T16:46:39.492749Z",
   "news": {
     "World": [
-      {
-        "title": "Children in Sudan’s el-Fasher ‘starving’ after 500 days of siege: UNICEF",
-        "link": "https://www.aljazeera.com/news/2025/8/27/children-in-sudans-el-fasher-starving-after-500-days-of-siege-unicef?traffic_source=rss",
-        "description": "UN agency warns children in North Darfur city remain cut off from aid and protection as fighting continues to rage.",
-        "pubDate": "2025-08-27T16:21:33Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
       {
         "title": "US disaster agency suspends workers who criticised Trump cuts, reports say",
         "link": "https://www.bbc.com/news/articles/c8denvzl0y8o?at_medium=RSS&at_campaign=rss",
@@ -219,6 +210,15 @@
         "bias": 0
       },
       {
+        "title": "Israel calls Gaza City evacuation ‘inevitable’ as US hosts talks on post-war Gaza - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa0pDdmw1QVZlV2FZWDh3aEZZaUt5QWd1akVleW1DQVFtUk1aTzNDYndTaE1tcFRMQk9oN0dkMlBEUGVhQnczN3l0ZmlnYzN0ZHE0MjRGSHpnNHhXdlBBcURNbDJoMUZPYmFWdGRBTTh2czlSek53T2t2RFB0MWJtSXR3c3ROMjJFWGpyZGFnZ09YZDQ?oc=5",
+        "description": "",
+        "pubDate": "2025-08-27T14:17:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Inside Israeli violence in the West Bank",
         "link": "https://www.aljazeera.com/video/between-us/2025/8/27/inside-israeli-violence-in-the-west-bank?traffic_source=rss",
         "description": "Al Jazeera’s Mat Nashed documents a relentless campaign to uproot Palestinians across the occupied West Bank.",
@@ -318,7 +318,7 @@
         "bias": 0
       },
       {
-        "title": "Thousands play with tomatoes at La Tomatina Festival",
+        "title": "Thousands have tomato fight at La Tomatina Festival",
         "link": "https://www.bbc.com/news/videos/c4gzdgx9jrpo?at_medium=RSS&at_campaign=rss",
         "description": "Tomatoes not fit for consumption are thrown at each other during the festival.",
         "pubDate": "2025-08-27T12:09:38Z",
@@ -399,6 +399,15 @@
         "bias": -1
       },
       {
+        "title": "US senators visit church attacked by Israeli settlers",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/8/27/us-senators-visit-church-attacked-by-israeli-settlers?traffic_source=rss",
+        "description": "US senators condemned violence against Palestinians as they visited a historic church in the occupied West Bank.",
+        "pubDate": "2025-08-27T10:28:32Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Does the US president have the power to sack a Federal Reserve governor?",
         "link": "https://www.bbc.com/news/articles/cedvj2d5538o?at_medium=RSS&at_campaign=rss",
         "description": "President Trump takes aim at Lisa Cook, a central bank official - we unpack what it all means.",
@@ -442,18 +451,27 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Police killed in Australia shooting named as manhunt continues",
-        "link": "https://www.bbc.com/news/articles/c4g6wlxd5kko?at_medium=RSS&at_campaign=rss",
-        "description": "Dezi Freeman allegedly opened fire on officers who were at his rural property to execute a warrant.",
-        "pubDate": "2025-08-27T08:08:55Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b47e/live/bde895d0-830f-11f0-ab3e-bd52082cd0ae.jpg",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Brexit: NI sea border for food 'in place until 2027'",
+        "link": "https://www.bbc.com/news/articles/ckgj9ly7pdmo?at_medium=RSS&at_campaign=rss",
+        "description": "The border for such goods will not be dismantled until 2027, the UK government is expected to confirm.",
+        "pubDate": "2025-08-27T16:29:55Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af01/live/2851dcc0-8319-11f0-ad25-d7b7e6500196.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Ed Davey to boycott Trump state banquet over Gaza",
+        "link": "https://www.bbc.com/news/articles/crlz6rp2ln8o?at_medium=RSS&at_campaign=rss",
+        "description": "The Lib Dem leader says he wants to send the president a message that he has the power to end the crisis.",
+        "pubDate": "2025-08-27T16:29:51Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8532/live/20a95930-835a-11f0-825f-ef3af8edf016.jpg",
+        "bias": 0
+      },
       {
         "title": "Reform UK retreats from child migrant deportations",
         "link": "https://www.bbc.com/news/articles/ce83x1457lyo?at_medium=RSS&at_campaign=rss",
@@ -461,6 +479,15 @@
         "pubDate": "2025-08-27T16:15:56Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99af/live/4fe3e9f0-8359-11f0-825f-ef3af8edf016.jpg",
+        "bias": 0
+      },
+      {
+        "title": "NHS to lose out on new drugs, pharma firm warns",
+        "link": "https://www.bbc.com/news/articles/c4gzk1p90q1o?at_medium=RSS&at_campaign=rss",
+        "description": "The claims from pharmaceutical giant Novartis comes amid a row over drug pricing deals.",
+        "pubDate": "2025-08-27T16:00:29Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b41/live/46ae8f00-8351-11f0-b896-1d41ed671e63.jpg",
         "bias": 0
       },
       {
@@ -515,15 +542,6 @@
         "pubDate": "2025-08-27T10:42:43Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3373/live/c2e192b0-832f-11f0-8c45-3b53ba1643fb.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Brexit: NI sea border for food 'in place until 2027'",
-        "link": "https://www.bbc.com/news/articles/ckgj9ly7pdmo?at_medium=RSS&at_campaign=rss",
-        "description": "The border for such goods will not be dismantled until 2027, the UK government is expected to confirm.",
-        "pubDate": "2025-08-27T09:34:05Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af01/live/2851dcc0-8319-11f0-ad25-d7b7e6500196.jpg",
         "bias": 0
       },
       {
@@ -698,6 +716,15 @@
         "bias": 0
       },
       {
+        "title": "Schools reopen in DC with parents anxious over Trump’s armed patrols - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWGpwVTFCSEVLWjRVeEZDZ3NDR3YyX1JJUi1VOVZxRzc1UmFlSnRZV2lqM055bFNHX05RbmNxZUtzbjhMS2ZUQzZDNVIyQ2JNRkM2TWh6Wl9RWlo0cEV3YjJVNlNwanowUG5hcURUUjRKcFFHZEtEejFETXN1MWltOV9lSG9KS0pGMmpnandQR1RiUkRHTjJLSmM2MVpQdEpHa01ybzI3b1B3ajlS?oc=5",
+        "description": "",
+        "pubDate": "2025-08-25T22:41:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "The US Open dating show: How Grand Slam tennis tournaments are shooting for a Gen Z audience - AP News",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZVhNSnRrUVZvTF8yOTZTOWNQeDdVWDNPeTVRWElOaGotTXRuYWpxQU9wWXpCblloWm9tZlUzTVE4cDB5ZGhCYlBrendxT3QzYTFsQnRpWnVDYTdGYkxfUkxadXhHZG90THZvd0h3M0hEdWZ4M0pzY0xkUlJDdllHZnEyOXNjNlNuQk1fRkxCVmpQaHJqQ2c?oc=5",
         "description": "",
@@ -740,15 +767,6 @@
         "pubDate": "2025-08-24T16:17:49Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36c5/live/38b8b3b0-80b5-11f0-a2f6-4feea1120fa7.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Photos show history lovers replaying ancient Roman battles in Romania - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYkl5Si15LTRQa1JLMVV0NHM1WW01Qzc5WE5vZlYzVUUzTU04WFJRbXY4RXdHdUl2OGY5bUVKaFFCejNlaEFtdURxVHc3UXhWb0tzSmFKZWo1aEJTdGZEb1BBSDdPc1BXcWdwUE1FWDVzamVjWWQxUWlKRzNrR2l5MVhidGtQdHl1NURlbF93SmE1WTh1V0ZFTWtpMnZKYVI0Q1k4dE5xclF0WC1XNFN0aQ?oc=5",
-        "description": "",
-        "pubDate": "2025-08-24T06:02:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -885,24 +903,6 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/024b/live/126688c0-7f31-11f0-ab3e-bd52082cd0ae.png",
         "bias": 0
-      },
-      {
-        "title": "Thailand's political path is shadowed by the ongoing dramas of former leader Thaksin Shinawatra - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVFVMMFFsMy1KRGtNNnRoZjJOTmlPemV6R2lFZEptWVVmM212c1RoVGlTN1NyOTRjaUI3Nk1CeGdSSXZDRGdGc1A5RjJpU3BYT3JJLTZ4WWlIWi14elBmMzFDNXh1a3JJZGdCS1FjcVNVejl0bTNacW43QnZUTEhKSjlYaDQxZUJtR1Nxc09qZlgtcDRXVW42WlQxdXJNRTFuOE9kRk9MMTdwRXhf?oc=5",
-        "description": "",
-        "pubDate": "2025-08-22T06:10:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Crackdown on child benefit claims from abroad after £17m saved",
-        "link": "https://www.bbc.com/news/articles/cr5r1zpl39jo?at_medium=RSS&at_campaign=rss",
-        "description": "The government is expecting the move to save £350m over the next five years, after a successful pilot.",
-        "pubDate": "2025-08-22T06:08:53Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/720d/live/b1b19560-7eae-11f0-a5e2-236e16f99597.jpg",
-        "bias": 0
       }
     ],
     "Tech": [
@@ -1037,15 +1037,6 @@
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMGRTalpud0Q5emVoN3piMmJHVHI4cVZZQl92aEloNkZKQzZYX2RiT21yYjFLX2VWbmFlc21UYkxHQXU0dVVia2dueVRxeDBrcEsycDA0U0FiazZqZzA2S3NpelFEdjBEbHlxZ3pNcHVNUWRXT0ZHSjB3dzZucktfNmxtdU1BaDVINVhtLTByOW4?oc=5",
         "description": "",
         "pubDate": "2025-08-25T14:42:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "India warns Pakistan of flood threat in first known official contact for months - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZlRqWUM5d0hCQzQwaGRqNW9yQlI4WC16NTNsa3NVUzZYeHJaLTFINjNLRDJwM3d5dFd6bW52WjNiUmVqYkVOajN3TVl5M1QtNjFOeXd2dHZDY0FiMkxCUHM3V2F3dWRGcjBYenFnS0pKb21uWmFkS1pnX2g1QjN3bTZ1eTBRS0tZNnpSVkhORmZVMWRieFZ3Nm9XQXBPQlJmVV82MlF5OTZLN3Zr?oc=5",
-        "description": "",
-        "pubDate": "2025-08-25T13:35:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1355,6 +1346,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "An AI divide is growing in schools. This camp wants to level the playing field",
+        "link": "https://www.npr.org/2025/08/19/nx-s1-5503984/ai-summer-camp-schools-education",
+        "description": "For years, research has shown a digital divide when it comes to schools teaching about new technologies. Educators worry that this could leave some students behind in an AI-powered economy.",
+        "pubDate": "2025-08-19T09:25:07Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
       }
     ],
     "Science": [
@@ -1431,6 +1431,15 @@
         "bias": 0
       },
       {
+        "title": "Democratic senator warns of 'Power 2' owning college sports if NCAA-backed SCORE Act becomes law - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMUZIMWJ3TzRNdGozeDNtUjFjelNWYmZJeTVUY0tpdFd3MzFmdUw0WTBkWFVCS2ZKYU5TUlpYTE9lMS1hOUg3ZGx3UG1sUV9iQ2VTYnhlRUd5SkotZUttZXhjSURmZDlwc0ZGVDdxMDZIRUR3YTExdzZFWTZfR2xwUFVOX0JhV2gxSEZBREphQklROXN4?oc=5",
+        "description": "",
+        "pubDate": "2025-08-25T16:43:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "These fish may feel pleasure while being groomed by other fish",
         "link": "https://www.npr.org/2025/08/25/nx-s1-5508851/fish-pleasure-pain-cleaning",
         "description": "An experiment with threadfin butterflyfish finds that these fish may experience pleasure while being cleaned by bluestreak cleaner wrasse — suggesting this capacity goes far back in animal evolution.",
@@ -1474,6 +1483,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Photos show history lovers replaying ancient Roman battles in Romania - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYkl5Si15LTRQa1JLMVV0NHM1WW01Qzc5WE5vZlYzVUUzTU04WFJRbXY4RXdHdUl2OGY5bUVKaFFCejNlaEFtdURxVHc3UXhWb0tzSmFKZWo1aEJTdGZEb1BBSDdPc1BXcWdwUE1FWDVzamVjWWQxUWlKRzNrR2l5MVhidGtQdHl1NURlbF93SmE1WTh1V0ZFTWtpMnZKYVI0Q1k4dE5xclF0WC1XNFN0aQ?oc=5",
+        "description": "",
+        "pubDate": "2025-08-24T06:02:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Nestor Cortes dominates the Dodgers, and the Padres surge into first place with a 5-1 victory - AP News",
@@ -1530,6 +1548,15 @@
         "bias": -1
       },
       {
+        "title": "NBA player Malik Beasley is no longer a target in federal gambling probe, according to report - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd2l6RjR5TzNjZnMyVnNVV1R0VzVDSHZWUTBRZWJtc0ZtQmlUZnV1UXBkbnBJTXZoMVA2ZkFNQzVwaTlueVIyYUswbXNmRHhOenpBQS15N19oSFZDUXpCX2djcUZPQUpQVUNWUmtOaDRmZmNJYzZDVzhrdGJsUm9BVTlXYnkzMHVLa3N2S3ZlNTQ?oc=5",
+        "description": "",
+        "pubDate": "2025-08-22T17:48:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "New dinosaur named after record-breaking sailor",
         "link": "https://www.bbc.com/news/articles/c87ew7qq4wwo?at_medium=RSS&at_campaign=rss",
         "description": "The medium-sized herbivore once roamed the floodplains of what is now the Island's south-west coast.",
@@ -1539,10 +1566,10 @@
         "bias": 0
       },
       {
-        "title": "Millie Bobby Brown and Jake Bongiovi welcome first child via adoption - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNHZhTjRydW5pSkR0d0I3dVczQllJM2pHZzMxWnBDNlp1ZnBVaFdiVEEyY3V6WGNmenhUUFpLUWkwVnkweGUzTVRCTTBYbERLWW5XUVU1MHhiNDhfb1VibF9Ldndtb0NOejNxWXMyOXhHZkFvNGhXdHJOMjE3OEYtY1JpVHRWa0wyWVVnNHJSMF83Mk1wX08xUGxxRGN2Zw?oc=5",
+        "title": "Trump administration is reviewing all 55 million foreigners with US visas for any violations - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc2Q3X3RRUXlwd0dUZVJma0w4SV81TExfallVcFFIQ3MxZ3FyVTJjWDd3OE1rMlkyQk51VExoYjE3R3kzZlp0NzRueUJJYUdobTJmN0hNc2hhQ2xicFpqTWgydFBPWWxXbzczbms5dGFVRWE5VVF4MkNNdzV1RGxOejV0X1VsY1BHZVdNcQ?oc=5",
         "description": "",
-        "pubDate": "2025-08-22T09:47:00Z",
+        "pubDate": "2025-08-22T00:52:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1572,15 +1599,6 @@
         "pubDate": "2025-08-20T19:10:59Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec00/live/e8c273b0-569c-11f0-90cf-2db8f0b9be7b.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Here’s what to know about the science behind hurricanes - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQci1TZW5MT2JTaktuRXZFdUpTVnVad3NaVUhMc2ljMlp4NWF2UVhQRGFqdDNycXJjR3pJUlh1a0U3S25xYXR4ekRmcmstTDBWRXk4YnRBeVV4OHdXNjQ1QjN6ekR3c0JkS1k3RlIzcUFCWER4TWFqQVpSZE0wNHhfdUZWTTdpU29mai1UTjRKY0RNWjZGc2U5Z0FVdmJzTW8wVFphTDRFZlFZOFVyVjdWMEp3?oc=5",
-        "description": "",
-        "pubDate": "2025-08-20T15:15:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -1638,6 +1656,15 @@
         "bias": 0
       },
       {
+        "title": "Scientists discover an ancient whale with a Pokémon face and a predator bite - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMnpDc0YzcGlpNG0yVE1iSzdOaFBqN0hybGE0Y0tFajEtdWl5bkNuMXpIYjlJVDdvQjFWcGsweUxRWWJscG9uMnd1dnBlS3BhZXZjNWIyTTQ2OWNtMVljR1lsOENHSlRIa3JHQXlCbGNaNWR0ZG9jYkd5UkVZRk5nWm12STg5cEwwM051Y2ducFlLcTNXT0k0N3ZhYXpvZkZmZmhCNXdFdVF4dUVQc0J4cjJCQzhIYVAxS25qTlMzSjA?oc=5",
+        "description": "",
+        "pubDate": "2025-08-15T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Hot, dry summers bring new 'firewave' risk to UK cities, scientists warn",
         "link": "https://www.bbc.com/news/articles/c9vd79x97zlo?at_medium=RSS&at_campaign=rss",
         "description": "Rising temperatures are increasing the chances of multiple wildfires at the same time, researchers say.",
@@ -1653,42 +1680,6 @@
         "pubDate": "2025-08-13T12:32:13Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bec7/live/0fad6450-786f-11f0-a975-cb151ca452f4.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Trump administration ordered to restore some withheld grant funding to UCLA - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSEd2M0xEZHhmaklUdnhLeE1TQUJpaEM1bE8zWXBUZWlmd3gzNlhXeVc0SV93cnJvUWtORkhXN3dmVnh2SkpuWDRPQXJZRXZJV2F6aDNqYUhDUHQ0Mjk0a2thMWJwdkhlZThHNmRiajRnenctNWQ4TFo1dkR5Nmp3dWk3elhWbnpzUVpzQ0hXMjFVdzQ?oc=5",
-        "description": "",
-        "pubDate": "2025-08-13T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "The robot chemists helping scientists in a university chemistry lab - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLVNyczk4T3ROaU9XRGJndkRLVjl2WWl4eWx4aFJpY3Qzb2pLUWgzME1SX3htMGtOcm9Gc1ZQRnFzSzhGMkJ4TXRkS21pNnRNT2ZRZUNhNG84VmpXU2U3bU0zVzFvQWlOVjdOM3ZkYVREREVuOWhfT1NSYUJCTzZSV1VhS0dYSXJqOTJtTmgzY0tGX2ZEel8zRkVpV05kcm9pWEdnaVRkdTVlUVdUYm10TWZNSlVYY3FqNEQyanFFVnd3WFk?oc=5",
-        "description": "",
-        "pubDate": "2025-08-12T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Scientists standing by to rescue rare manatee sighted in cold New England waters - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWEZweURmZDBnRXk0cU9KVFlTaWNCVDc1WWpmZmpoLXp2QzZiNmszSlNaRjJOaTNSczA4bFdpWi1mU0Y5VGFVaDhOd2pKMzhycTJkZWpkVUJHMVFiejVnckpjenhlREwzM1Y2ckdtRy1ENU1FYnE4aXZPUmR5NzRUS1FlUEw5aElISlpPOUFJZWptc0Y3UnNwQzVGMXZ5YjE4ckNvVlEtM3R6QlVEM2pGWWQwWTB0bXc?oc=5",
-        "description": "",
-        "pubDate": "2025-08-12T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Scientists search for DNA of an endangered salamander in Mexico City’s canals - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOHF3TDVhWTVmRG5KZDJvVkQ2Q3BLMXhTUHNVVDhvR2p0ZEhZWWxYMkJZZ3FodjRISlRUb3VHdXRrODI4aEFjSjdhbUpJWEtIQjU5UmtQTTVDbW02T3pEcnctd3RGTld6T2VwWnEwMnBKSjdxcWRDeHgwdlVoLU53aWhfeF9yZmlGV2dDUEhFbkJvQUwySExpVmsxNHlXSXlkaXpj?oc=5",
-        "description": "",
-        "pubDate": "2025-08-11T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -1764,15 +1755,6 @@
         "bias": 0
       },
       {
-        "title": "Scientists say they have solved the mystery of what killed more than 5 billion sea stars - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOC1DZUo5ZWtwVkZYT2VqVnZmcXNMY1RBaUxHQ0JZM2FHSkd3TEZSeS1fZFY0NWRTeDZxOHhzdUVvWXlqRldMSUFtanBDNjFkUjR2bXNoV1BCaWQ3Vlh0SFNfenJqWUdlTHpqNE53MnlOVXNWdHlFSlZSeGtHTUYzUHBrMlhacWFXcE1oODJYZ0VXZnEzRzNUYw?oc=5",
-        "description": "",
-        "pubDate": "2025-08-04T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Mission begins to save snails threatened by own beauty",
         "link": "https://www.bbc.com/news/articles/clyrv8ndzzjo?at_medium=RSS&at_campaign=rss",
         "description": "Researchers in Cuba and the UK are working together to reveal the biological secrets of the beautiful but endangered Polymita snail.",
@@ -1807,6 +1789,24 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "'Communities' of strange, extreme life seen for first time in deep ocean",
+        "link": "https://www.bbc.com/news/articles/c3wnqe5j99do?at_medium=RSS&at_campaign=rss",
+        "description": "A Chinese-led research team captures pictures of life at depths of more than 9km in the northwest Pacific Ocean.",
+        "pubDate": "2025-07-31T00:02:31Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05ed/live/6ef95290-6d50-11f0-8b42-cf5ae7bf0dcf.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Why did Russian mega earthquake not cause more tsunami damage?",
+        "link": "https://www.bbc.com/news/articles/c0l6pj7kjg7o?at_medium=RSS&at_campaign=rss",
+        "description": "The earthquake was one of the strongest ever recorded, but its tsunami was not as bad as feared.",
+        "pubDate": "2025-07-30T16:09:03Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/903e/live/6517c330-6d76-11f0-8dbd-f3d32ebd3327.jpg",
+        "bias": 0
       }
     ],
     "Business": [
@@ -1814,18 +1814,27 @@
         "title": "Ryanair to increase oversized bag bonus for staff",
         "link": "https://www.bbc.com/news/articles/c99mdv3y431o?at_medium=RSS&at_campaign=rss",
         "description": "Michael O'Leary told the BBC the change would come in November, and that he made no apology for it.",
-        "pubDate": "2025-08-27T16:08:32Z",
+        "pubDate": "2025-08-27T16:46:11Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9f7/live/afc840f0-8359-11f0-825f-ef3af8edf016.jpg",
         "bias": 0
       },
       {
-        "title": "NHS to lose out on new drugs, pharma firm warns",
-        "link": "https://www.bbc.com/news/articles/c4gzk1p90q1o?at_medium=RSS&at_campaign=rss",
-        "description": "The claims from pharmaceutical giant Novartis comes amid a row over drug pricing deals.",
-        "pubDate": "2025-08-27T16:00:29Z",
+        "title": "Solar-powered postboxes being rolled out across UK",
+        "link": "https://www.bbc.com/news/articles/cgln72rgrero?at_medium=RSS&at_campaign=rss",
+        "description": "Royal Mail says the revamped design will help it compete in small parcel deliveries.",
+        "pubDate": "2025-08-27T16:33:11Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b41/live/46ae8f00-8351-11f0-b896-1d41ed671e63.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb8a/live/be36a770-835f-11f0-b3de-c13d348c14aa.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Sea border for food and agricultural products 'in place until 2027'",
+        "link": "https://www.bbc.com/news/articles/ckgj9ly7pdmo?at_medium=RSS&at_campaign=rss",
+        "description": "The border for such goods will not be dismantled until 2027, the UK government is expected to confirm.",
+        "pubDate": "2025-08-27T16:29:55Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af01/live/2851dcc0-8319-11f0-ad25-d7b7e6500196.jpg",
         "bias": 0
       },
       {
@@ -1871,15 +1880,6 @@
         "pubDate": "2025-08-27T10:16:24Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddba/live/1cb52560-3bad-11f0-91a0-abc9c23352d4.png",
-        "bias": 0
-      },
-      {
-        "title": "Sea border for food and agricultural products 'in place until 2027'",
-        "link": "https://www.bbc.com/news/articles/ckgj9ly7pdmo?at_medium=RSS&at_campaign=rss",
-        "description": "The border for such goods will not be dismantled until 2027, the UK government is expected to confirm.",
-        "pubDate": "2025-08-27T09:34:05Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af01/live/2851dcc0-8319-11f0-ad25-d7b7e6500196.jpg",
         "bias": 0
       },
       {
@@ -2135,15 +2135,6 @@
         "bias": 0
       },
       {
-        "title": "Canada will match US tariff exemptions under USMCA trade pact, Prime Minister Carney says - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMkRGSzZQa1lLQzJSdUhYZGtDT3BGSm5KeG1FZWVQR2o3dVZIelItaDZjalJWR2RybWdicnhLdE40c1BrNGNZYnlEZVdEN201TEU5eS1fUUdtLUIwVDhCalpUNXhyQ0o2dGFSZGROVTBud1VIbzhEcV82Z1l1UHpleTBHbklJSllQTVF3OUJlUEVBNmc?oc=5",
-        "description": "",
-        "pubDate": "2025-08-22T20:34:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "The shop making people laugh for nearly 100 years",
         "link": "https://www.bbc.com/news/videos/czjmn21r194o?at_medium=RSS&at_campaign=rss",
         "description": "Hull's iconic Dinsdale's joke shop has remained pretty much untouched for almost a century.",
@@ -2216,15 +2207,6 @@
         "bias": -1
       },
       {
-        "title": "Priscilla Presley’s ex-business partners sue her for more than $50 million, alleging fraud - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeElnZWRiSE5Tb2wyVENTbEtvd01PMmwwY1p1Z21Tb1ZmZkRuSUpzWHQ4S1hKX3J1NWpoWU9Td3paOURNLTRQT0tKUXRRb0RNT013ZVp3cGlUZDl3SnZ3RF9GUmdxN25vTEVWX2dmZkVFNnJsUGpoVTdFYU1LYlJoWFpHbG1qMS1xN0w5NnBIcTFDOUFFLXBrYUFhTnA2RFlPWXJr?oc=5",
-        "description": "",
-        "pubDate": "2025-08-13T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "The UK car industry is at a tipping point - can it be saved?",
         "link": "https://www.bbc.com/news/articles/c23p028p200o?at_medium=RSS&at_campaign=rss",
         "description": "Tariffs, Brexit, pandemic havoc... All of this caused short-term disruption - but the impact concealed a deeper problem for the UK automotive industry",
@@ -2243,21 +2225,39 @@
         "bias": 0
       },
       {
-        "title": "Business spat between Daryl Hall and John Oates has been resolved in arbitration, attorneys say - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTDNrakxnMzg0cFc5UHNHb0tpRnRtVERrT0NQMm83UTJ0RXVRSmlfemhxYWdnMHBSb3E1Z1VNOGtPaW5yMFgtYkp4Y21XY0V2Sk5laUJsNl9ITkljWjVpWURIMmhuRFNCVUxFOTJqNHI3NjV1M1o0YUF4dmV0U0kyeTlFSHE?oc=5",
-        "description": "",
-        "pubDate": "2025-08-11T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "China's unemployed young adults who are pretending to have jobs",
         "link": "https://www.bbc.com/news/articles/cdd3ep76g3go?at_medium=RSS&at_campaign=rss",
         "description": "With Chinese youth unemployment high, individuals are paying to go into offices and pretend to work.",
         "pubDate": "2025-08-11T01:50:13Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9aeb/live/b97674d0-744c-11f0-a975-cb151ca452f4.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Why firms are merging HR and IT departments",
+        "link": "https://www.bbc.com/news/articles/cy0w8gvq84xo?at_medium=RSS&at_campaign=rss",
+        "description": "The emergence of AI is spurring some firms to make their HR and IT departments work closer together.",
+        "pubDate": "2025-08-07T23:13:47Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50c3/live/4494e6a0-55c6-11f0-960d-e9f1088a89fe.jpg",
+        "bias": 0
+      },
+      {
+        "title": "How Europe is vying for rare earth independence from China",
+        "link": "https://www.bbc.com/news/articles/cm2zp6m4gy7o?at_medium=RSS&at_campaign=rss",
+        "description": "The EU is aiming to increase its own production of rare earth metals, led by a facility in France.",
+        "pubDate": "2025-08-06T23:02:31Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04fd/live/a1e5b770-60bc-11f0-b5c5-012c5796682d.jpg",
+        "bias": 0
+      },
+      {
+        "title": "New study sheds light on ChatGPT’s alarming interactions with teens - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd3NrVjhNWDEzdVFXX3N0WjM4VDRTd1ZJQ185UllTcWc5OHVpd0N6bEl0NU1UbC1ZU0ZJTmFTd2hPNHpmQzJFV3lPcDd3MHRKckdzRmo0MW9BSGpQR3lWd0lndkFrQ0JaaVdibzVzQ0VKZ21GWm9wLVRxTmQ1TlZDbUQ4cDRSaUhOVVYzOHRkS09CT3lOVVpKN2pn?oc=5",
+        "description": "",
+        "pubDate": "2025-08-06T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       }
     ],
