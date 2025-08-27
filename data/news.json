@@ -1,7 +1,25 @@
 {
-  "lastUpdate": "2025-08-27T04:55:15.901433Z",
+  "lastUpdate": "2025-08-27T05:18:07.797837Z",
   "news": {
     "World": [
+      {
+        "title": "Protesters occupy Microsoft office as company reviews its work with Israel's military",
+        "link": "https://www.npr.org/2025/08/27/nx-s1-5518786/microsoft-protesters-office-israel",
+        "description": "Current and former Microsoft employees were among those arrested. Microsoft has said it is reviewing a report that Israel has used its platform to facilitate attacks on Palestinian targets.",
+        "pubDate": "2025-08-27T05:05:42Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "North Korea blasts South Korea’s Lee as ‘confrontation maniac’",
+        "link": "https://www.aljazeera.com/news/2025/8/27/north-korea-blasts-south-koreas-lee-as-confrontation-maniac?traffic_source=rss",
+        "description": "State media hits out at South Korean leader following speech on nuclear disarmament and security alliance with US.",
+        "pubDate": "2025-08-27T04:48:11Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Hamas challenges Israeli account of Gaza hospital attack that killed 21",
         "link": "https://www.aljazeera.com/news/2025/8/27/hamas-challenges-israeli-account-of-gaza-hospital-attack-that-killed-21?traffic_source=rss",
@@ -122,10 +140,10 @@
       {
         "title": "'I immediately freaked out' - Taylor Swift's engagement sends fans into frenzy",
         "link": "https://www.bbc.com/news/articles/c4gzdpk3xwjo?at_medium=RSS&at_campaign=rss",
-        "description": "From her flowers to the dress - and her overall love life - Swifties pore over every single detail about the superstar.",
+        "description": "As the news broke, many Swifties joke on social media they are happy for their \"close friend\" Swift.",
         "pubDate": "2025-08-27T01:13:36Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbba/live/6ba602f0-82c7-11f0-bdb9-35fb233afe71.png",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/406a/live/f5839560-8302-11f0-ab3e-bd52082cd0ae.jpg",
         "bias": 0
       },
       {
@@ -433,24 +451,6 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72b0/live/b396bf10-829e-11f0-a21f-a946aea0c353.jpg",
         "bias": 0
-      },
-      {
-        "title": "US envoy tells Arab journalists in Lebanon to ‘be civilised’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/8/26/us-envoy-tells-arab-journalists-in-lebanon-to-be-civilised?traffic_source=rss",
-        "description": "US envoy Thomas Barrack sparked outrage in Beirut after telling Arab journalists to act “civilised,” not “animalistic.\"",
-        "pubDate": "2025-08-26T18:04:26Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Deadly Israeli attack hits crowded Gaza market",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/8/26/deadly-israeli-attack-hits-crowded-gaza-market?traffic_source=rss",
-        "description": "Video captured the chaotic aftermath of a deadly Israeli attack on a crowded Gaza market near al-Ahli Arab Hospital.",
-        "pubDate": "2025-08-26T18:00:45Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
@@ -635,15 +635,6 @@
         "bias": -1
       },
       {
-        "title": "Why the Federal Reserve has historically been independent of the White House - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZWFhN0ttQXhuODJqa0w2Unowb2hVVjJIRzRuNkc0ckVZaXluZGNOQWFjYW5KT3RoV2IxSnJzOGFiQXl5cEY2d2czeF9Lc3UyNXlNSTRFQ0Zzd1lPVFZUX25GVTl4eC1OT2J5d1dXYzZvQUdHZG54MXRubGtPUlNBOElGelRGemNXbXUwbi1CUmdpbmp3OEtDeXJHTXZDdEZuR1Ew?oc=5",
-        "description": "",
-        "pubDate": "2025-08-26T01:40:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Schools, care homes and sports clubs sold off to pay spiralling council debt",
         "link": "https://www.bbc.com/news/articles/cq87497v8ypo?at_medium=RSS&at_campaign=rss",
         "description": "Hundreds of council-owned buildings being sold as local authorities seek to reduce debts of £122bn.",
@@ -794,6 +785,15 @@
         "pubDate": "2025-08-22T18:15:24Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/032a/live/93384dd0-7f4f-11f0-ace8-c7fe3706c172.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Kurdish political figure arrested in Iraq, sparking clashes that leave 5 dead - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVk84RE0yMTRyaGduZmgyeWdqYTdfaDBqUlBuelRtUEFHT0Q4REdVZHZkUVpneWRRMmdhT3FkWGhsWFMyVzZ6elJmbnRiS1FQMG5ZTWt3RV9xc2VIc195OUNWLWRobEN3Vi02UUZnY29VMzZBb3phTzRaeUQzazFuOVVpVnhZNFlkRUl6Q2hrem1tQU9IejVmV3YyeVYybXJFVWVkcTdxVUtMSm5mcXJ0YkhxYw?oc=5",
+        "description": "",
+        "pubDate": "2025-08-22T17:24:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -1566,21 +1566,21 @@
         "bias": 0
       },
       {
+        "title": "Scientists get a rare peek inside of an exploding star - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQblhRdUxiRlZvZGduMkhyTlNVcThrc1Z6S3pJQ3ktTUpmY001WEIzWmV4Qkx5RkFBd1lQbndaOU0xVkdxcmVfXzBONk9USEhFQ2gzWkFfV1dGOHI2OFhWV29XNnYtbnY5UlRUNTFoWFlWVS1ORUttTE5zekJKMGx5bHlySG9xRU5CMjZ0MTA0Z0IwZzZi?oc=5",
+        "description": "",
+        "pubDate": "2025-08-20T15:07:44Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Scientists make 'superfood' that could save honeybees",
         "link": "https://www.bbc.com/news/articles/c776kynn771o?at_medium=RSS&at_campaign=rss",
         "description": "We rely on honeybees to pollinate our crops and a new food could protect them from growing threats.",
         "pubDate": "2025-08-20T15:03:02Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7189/live/bf16e2a0-7deb-11f0-ab3e-bd52082cd0ae.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Scientists get a rare peek inside of an exploding star - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQblhRdUxiRlZvZGduMkhyTlNVcThrc1Z6S3pJQ3ktTUpmY001WEIzWmV4Qkx5RkFBd1lQbndaOU0xVkdxcmVfXzBONk9USEhFQ2gzWkFfV1dGOHI2OFhWV29XNnYtbnY5UlRUNTFoWFlWVS1ORUttTE5zekJKMGx5bHlySG9xRU5CMjZ0MTA0Z0IwZzZi?oc=5",
-        "description": "",
-        "pubDate": "2025-08-20T15:01:45Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -1810,6 +1810,15 @@
       }
     ],
     "Business": [
+      {
+        "title": "Tommy Coyle to hand out free school uniforms",
+        "link": "https://www.bbc.com/news/articles/cm21gme11zvo?at_medium=RSS&at_campaign=rss",
+        "description": "The event will take place at the TC60 gym in Hull, with one free uniform per child on offer.",
+        "pubDate": "2025-08-27T05:00:00Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2675/live/162dfeb0-826b-11f0-a34f-318be3fb0481.jpg",
+        "bias": 0
+      },
       {
         "title": "US restaurant chain Cracker Barrel scraps new logo after backlash",
         "link": "https://www.bbc.com/news/articles/ce835lry896o?at_medium=RSS&at_campaign=rss",
@@ -2542,6 +2551,15 @@
         "bias": 0
       },
       {
+        "title": "Investigators search for Native American items stolen decades ago in New Mexico - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0pDeWQtUXBOT2ptUXNrOVBsWkJGUF9XTTZHYk1mQUl6cV9nUFVIeXIyRjgtSl9wMmJsSk5IU3NlYkxLYjFfTjVTaXBiV2FUY2loY2lLSWJ4LUF3S0h2MHd2SDM1RVlabzJ0R1UwdWRaMFg2ZXRHN1AyR1NGcDVRcHFzUkg5X1dETXN3Z2NvYjVOeVM1VEpiNk01MGNSMUV4bFNBUGZGLU81ZVdrWFE?oc=5",
+        "description": "",
+        "pubDate": "2025-08-12T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Bugs are popular pets in nature-loving Japan, buzzing with lessons about ecology and species - AP News",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZXFVRzN2Y0hqMTJaMlU4WmNxTE05N1U2TmtGVHpBRTNwSDhSLW1iVkw2UU40Tng2b1JWc21YNnJ4OUZuVkxfVGc2dF9UTzUxblB1b0hSR29QQ2R0cDFINEdhQnRSaVNjOGNnN2Y1M3A4a3dqc3NtdV9sUy04d0xzUjR1cmNJYjZ0LW1RN3dLa05NWmY4LUNROHdxdmdfRXln?oc=5",
         "description": "",
@@ -2623,6 +2641,15 @@
         "bias": 0
       },
       {
+        "title": "Elijah Wood remembers Hulk Hogan as ‘fixture of pop culture’ - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbHRFbzlkcnMwRlliajlIWnRRNWlpUTI1SlVEWUVzejVJT0JrVjVTb3FuandSMmFseXJNWV9sWUJxNGRzWmhOYnlqRWVJWFJOLUxPYmtvRi04MnA3MDJtTEF6amV5OG5zaHdaazBNc3R1YmFmWXVCT0w4WF9FblRYdHhyQldzUl8wLWdXdW5YMUVPbGVudXlmVVBqZEk3NWUzOXVpQld6Y2FwaWFpQnRQMm5pdDRlWk0?oc=5",
+        "description": "",
+        "pubDate": "2025-07-24T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "‘We’re peeping toms now': Culture expert on THAT Coldplay moment - AP News",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNG56OVNYa2podkhJc1RoZ0wtV1NDcnkydWZEdzNtU1R6Vnh1M2I4dnFrd1lYQVlGV0JzTDFvbDJYMW9mOHA2RDRyTkxfbnM1WXc2VDdfU3NZUkJVZklFZVp1eUlGYm5IZ1JnYkhsUmRzejhMNDN2QXVETjZUcFNBbW91amlXbWpHMnZCcUJhdGxGQ1lYV09odTR2Qk1CRkg0U3lwdTkyRXNMOTVYWl82Szl1NDJpdTJ5RlE?oc=5",
         "description": "",
@@ -2663,24 +2690,6 @@
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaTJjaEtLUHhnTTVFT0o2UTh4SEg4ZVFzLVRBNmFaSFpWZE5ubVdGUUd4R2IyYzBTN3pfUEUtNFVqZWJhc3lNdGlVVHlhbC05eDBydVRDRkxtbG1MVUx6S3VQVE9RTjhpWDRhNkNqZTlXY3BuYnZvN0NXTGFkVUQyc3I1SWxHRWwwQWQ5VTUyV2NDOXdiOU12UC03Q2Q3RkpyVURabGpTOFlpUllKcXc?oc=5",
         "description": "",
         "pubDate": "2025-05-14T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Book Review: From incels to trad wives, culture critic probes 21st century backlash against feminism - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZGpTQTFlMjdMTVNzZU85VVpMU1liZE05UFpKcGVKeGRYcjhVMkQ1T3NGUHk3REk4aWVnUkdPMnREcThsUF9OLS1TZ25QS0VRUzVKd19HVW1OeWtSU3l6QlgxTWZVYXJZNll2aDhDTGlLOU00S0xNR0h0dFBvRUVaSGpsOXR6UlQ0ZG1mdXI2V2JjUWJUTUE?oc=5",
-        "description": "",
-        "pubDate": "2025-04-28T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Vikings continue to value culture in NFL draft with praise of Donovan Jackson’s selflessness - AP News",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNajlxcDQwV3E3V0RScWZsbldTc0tJckNaV1gzN2pkMEMwMjRWekl2Y1pXQkpGSzFSbFRnSkxtRWdmLVBYVkM0MG9OSTQtb3dTdHZyTks5c3JmRW1Ya0R2V0RBbkxSODVLS0xRMkFYZW0wQjdPbkZZR0t4QzRscVh2ak15UQ?oc=5",
-        "description": "",
-        "pubDate": "2025-04-26T07:00:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
