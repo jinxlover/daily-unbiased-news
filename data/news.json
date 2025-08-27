@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-27T15:21:19.105347Z",
+  "lastUpdate": "2025-08-27T15:40:45.963423Z",
   "news": {
     "World": [
       {
@@ -21,9 +21,9 @@
         "bias": -1
       },
       {
-        "title": "Shooting reported at Catholic school in Minneapolis",
+        "title": "US shooting at Minneapolis school leaves three dead, 20 injured",
         "link": "https://www.aljazeera.com/news/2025/8/27/shooting-reported-at-church-in-minneapolis-suspect-contained-city-says?traffic_source=rss",
-        "description": "This is a breaking news story.",
+        "description": "Justice Department confirms Minneapolis school shooting; emergency services caring for victims, investigation underway.",
         "pubDate": "2025-08-27T14:53:37Z",
         "source": "aljazeera.com",
         "image": "",
@@ -50,7 +50,7 @@
       {
         "title": "Dozens injured as Israeli forces raid Nablus in occupied West Bank",
         "link": "https://www.aljazeera.com/news/2025/8/27/child-arrested-at-least-80-injured-during-israeli-raid-on-nablus?traffic_source=rss",
-        "description": "At least 80 people were wounded, including several who were hit with live ammunition, medical sources say.",
+        "description": "At least 80 people are wounded, including several shot with live ammunition, medical sources say.",
         "pubDate": "2025-08-27T14:39:42Z",
         "source": "aljazeera.com",
         "image": "",
@@ -435,6 +435,15 @@
         "bias": 0
       },
       {
+        "title": "Father of slain Colombian candidate Miguel Uribe launches presidential bid - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRmVmZTVuZm1jNU1kVGI4ZkR1ZmFFMmhrb3c5VWVhUzB5RDhFcEQxTE9EWnBjRXFGNnpTb3ZJX2lzaTNtcklpdDZsUHNyWDR5eUFMdHNLWWRheWpzUGVjVEJtZ2R2aGk4RzhVQld6MGswQnJnOGtjVEFrNmhoTDF1X2Z4b0t3S3M2cGhDeGdLTUsyUzJ1THFVSkNOdks0dzlrR3AyMTNJSXlfeEpaRlRyVjd4cFd2cGhxQ3RTZ2QwdGxQNUgzZVhsNA?oc=5",
+        "description": "",
+        "pubDate": "2025-08-27T06:07:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Protesters occupy Microsoft office as company reviews its work with Israel's military",
         "link": "https://www.npr.org/2025/08/27/nx-s1-5518786/microsoft-protesters-office-israel",
         "description": "Current and former Microsoft employees were among those arrested. Microsoft has said it is reviewing a report that Israel has used its platform to facilitate attacks on Palestinian targets.",
@@ -442,18 +451,18 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Watch: World's tallest bridge completes key load-bearing test",
-        "link": "https://www.bbc.com/news/videos/c5y3rrvl3r2o?at_medium=RSS&at_campaign=rss",
-        "description": "Some 96 trucks were driven on China's Huajiang Grand Canyon Bridge in a test ahead of the scheduled opening next month.",
-        "pubDate": "2025-08-27T04:42:33Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f936/live/60c64a30-82fd-11f0-83cc-c5da98c419b8.jpg",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Conservative MSP Graham Simpson defects to Reform",
+        "link": "https://www.bbc.com/news/articles/cr74kg1vg4jo?at_medium=RSS&at_campaign=rss",
+        "description": "Simpson announced his move as he appeared at a press conference in Scotland with Reform leader Nigel Farage.",
+        "pubDate": "2025-08-27T15:39:09Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb78/live/0cabd050-8334-11f0-ab3e-bd52082cd0ae.jpg",
+        "bias": 0
+      },
       {
         "title": "Energy bills to rise by more than expected ahead of winter",
         "link": "https://www.bbc.com/news/articles/c78zgz7j576o?at_medium=RSS&at_campaign=rss",
@@ -480,15 +489,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Conservative MSP Graham Simpson defects to Reform",
-        "link": "https://www.bbc.com/news/articles/cr74kg1vg4jo?at_medium=RSS&at_campaign=rss",
-        "description": "Simpson announced his move as he appeared at a press conference in Scotland with Reform leader Nigel Farage.",
-        "pubDate": "2025-08-27T11:40:18Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb78/live/0cabd050-8334-11f0-ab3e-bd52082cd0ae.jpg",
-        "bias": 0
       },
       {
         "title": "The GOP is shying away from town halls. This Missouri congressman is doing 15 of them",
@@ -572,10 +572,10 @@
         "bias": -1
       },
       {
-        "title": "Spate of hoax calls about active shooters stir fear at college campuses around the US - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMEl2SlBRUGJ5MmlSWE9sQmVvYkJOalRGRWd3WjRxZ3ZzZTN4ZWt3cFJURWVxZnFBN2ZrWkk4M0dWbTBSc3NCb01WQ3ptUXZfdTJLWkhUM2NqU29sa1NBMlgxRzNLMXppQXNJazNUYkkxbDBFYVZoQmNrRHhMMFA1aWpyUlpUczR4LXpKcjdJOHBRcmh5NzRiZWxjNk04VHEzV2ZjWVNQaXFIN1VwOGVBRQ?oc=5",
+        "title": "Kilmar Abrego Garcia is back in jail and facing deportation. Here’s what to know - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOakd1SkkzZU10WHNsTkVMejY4QmFNaFRaSVF0THZnY01KR1NlYkgwVU9WODBETGoxTkE1RUFFb2RzUTh1Um5iUUlKNUs1dXpWMXQ0a0RLeDQ3U0VLWW1TNVdBUFByX21DNVNpbEJFNG1PNHlUeTE2RzN6NUM3R2hJVmQtSllrUFlxWnlZcDI5MWRkRlBkdGdCQnctTDdBRl9o?oc=5",
         "description": "",
-        "pubDate": "2025-08-27T00:06:00Z",
+        "pubDate": "2025-08-26T21:42:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -668,6 +668,15 @@
         "pubDate": "2025-08-26T09:47:56Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cd0/live/7ef59270-8246-11f0-bccb-316957b7965d.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Why the Federal Reserve has historically been independent of the White House - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZWFhN0ttQXhuODJqa0w2Unowb2hVVjJIRzRuNkc0ckVZaXluZGNOQWFjYW5KT3RoV2IxSnJzOGFiQXl5cEY2d2czeF9Lc3UyNXlNSTRFQ0Zzd1lPVFZUX25GVTl4eC1OT2J5d1dXYzZvQUdHZG54MXRubGtPUlNBOElGelRGemNXbXUwbi1CUmdpbmp3OEtDeXJHTXZDdEZuR1Ew?oc=5",
+        "description": "",
+        "pubDate": "2025-08-26T01:40:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -779,6 +788,15 @@
         "bias": 0
       },
       {
+        "title": "Truck driver accused by the Trump administration of being in the US illegally is denied bond - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONDFzbW42UDJ3eEQxM09lcngyZ1F1bFdXM2JES3hpTnFQeHRsUU1JSTVRdS1mNHc3NjQzTWR2cldtSkJVMEp2eEd5R3N3blhsNHFCTFk0SHhYb3hWTGIyTDFGejAxUmJiTHgzazBvN0h2REpXRVhYYjZIVjN3RkgxeGFZYjEycHhnTXBvWjE5OFhJVFZuUEJ0M0hRUkl4UkxNSHJoTlE3NDJmeFlmWnJZSjZR?oc=5",
+        "description": "",
+        "pubDate": "2025-08-23T19:55:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "What to know about visas for foreign truckers and the politics of a deadly Florida crash - AP News",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbFVSNk90UUF6bTZlM0xSV09aZUZEelJoUDVLQnhseGZIZlBtQUVtRURXNVFwU09QeTBOQ1BtOUhIMHZOM3BPLVRZcVhlVEFCaVN0SUc4TXhncVpzVENpVXIwRjRzWmEySHJ1S090UmNFekhuUG93aGZRd3MtM1FTRC1fWXh3dXN3ZGIzNng3MVFuT1pSLWh1eU1RX2VJT1RiTEVLb3hRaUI3WjFC?oc=5",
         "description": "",
@@ -801,6 +819,15 @@
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZHRuZXVJY1lQZ0hYMFd0X2VqOUxlXzN3UF9oSlJqaXlMTW5pSk9Id2lOSHJWeW9Jc0ZlQUtZM2ltaDVIOHVRZkdlbGtteV9wX0JUX2RuZzRFUm1JQmpHT2RQT19IWjRQWG03cTNpbEc1ZVRoZUZSbFBQRlE0eENFTHFwUHBuNDdQUERfMzVWdkZuVnFHeTlkRFZpaVp2VlVsRmM5ZXY3RFV2WHljWUo3MTd5aHo?oc=5",
         "description": "",
         "pubDate": "2025-08-23T05:01:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Joe Milton accounts for 2 TDs as Cowboys beat Falcons 31-13 in preseason finale - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHR2NE9LeW12eDd4RTNSMjJNSHFSMmNSeDFMVS1PbVVlVzZaZWdzdGxWbFNNbTFKb3lDUXp1Y3liZjhSMlNHYjRVa0Z3d0tqWlFSdVU5TGdkbF9DMExjYTFFMnFNODBhczAwVHlSWGo4c0FRZlR2ZTBvLVNlQWZjcks2LXBXTHZJYTVqYURxNGNBa05zTWc?oc=5",
+        "description": "",
+        "pubDate": "2025-08-23T04:05:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -876,52 +903,25 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dc4/live/c52bce00-7e93-11f0-bb23-61f665394239.jpg",
         "bias": 0
-      },
-      {
-        "title": "MSP Jeremy Balfour resigns from Tories over 'reactionary politics'",
-        "link": "https://www.bbc.com/news/articles/c5ylwxwlpx1o?at_medium=RSS&at_campaign=rss",
-        "description": "The Lothian representative claims senior MSPs are being ignored under Russell Findlay's leadership.",
-        "pubDate": "2025-08-22T11:46:26Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6794/live/8f43cd00-7f4d-11f0-ab3e-bd52082cd0ae.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Child benefit: What is it worth and who can claim it?",
-        "link": "https://www.bbc.com/news/articles/c5y3lyq28lgo?at_medium=RSS&at_campaign=rss",
-        "description": "There is a limit to the amount you or your partner can earn before you start to lose child benefit.",
-        "pubDate": "2025-08-22T10:00:14Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/024b/live/126688c0-7f31-11f0-ab3e-bd52082cd0ae.png",
-        "bias": 0
-      },
-      {
-        "title": "Thailand's political path is shadowed by the ongoing dramas of former leader Thaksin Shinawatra - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVFVMMFFsMy1KRGtNNnRoZjJOTmlPemV6R2lFZEptWVVmM212c1RoVGlTN1NyOTRjaUI3Nk1CeGdSSXZDRGdGc1A5RjJpU3BYT3JJLTZ4WWlIWi14elBmMzFDNXh1a3JJZGdCS1FjcVNVejl0bTNacW43QnZUTEhKSjlYaDQxZUJtR1Nxc09qZlgtcDRXVW42WlQxdXJNRTFuOE9kRk9MMTdwRXhf?oc=5",
-        "description": "",
-        "pubDate": "2025-08-22T06:10:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Tech": [
       {
-        "title": "HSBC apologises as app and online banking go down",
-        "link": "https://www.bbc.com/news/articles/cqjykl7ek9qo?at_medium=RSS&at_campaign=rss",
-        "description": "Thousands of people have reported problems during what is the latest in a long line of banking IT failures.",
-        "pubDate": "2025-08-27T13:30:08Z",
+        "title": "European banks hit by rogue PayPal payments worth 'billions'",
+        "link": "https://www.bbc.com/news/articles/cj6y42jggdyo?at_medium=RSS&at_campaign=rss",
+        "description": "Local media said German lenders had reported millions of suspicious direct debits from the payment firm.",
+        "pubDate": "2025-08-27T15:38:52Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21fa/live/2b1eb790-8349-11f0-a2c4-0f55e42ed0ec.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89de/live/75976e90-8356-11f0-825f-ef3af8edf016.jpg",
         "bias": 0
       },
       {
-        "title": "Kilmar Abrego Garcia is back in jail and facing deportation. Here’s what to know - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOakd1SkkzZU10WHNsTkVMejY4QmFNaFRaSVF0THZnY01KR1NlYkgwVU9WODBETGoxTkE1RUFFb2RzUTh1Um5iUUlKNUs1dXpWMXQ0a0RLeDQ3U0VLWW1TNVdBUFByX21DNVNpbEJFNG1PNHlUeTE2RzN6NUM3R2hJVmQtSllrUFlxWnlZcDI5MWRkRlBkdGdCQnctTDdBRl9o?oc=5",
-        "description": "",
-        "pubDate": "2025-08-26T21:42:00Z",
-        "source": "news.google.com",
-        "image": "",
+        "title": "HSBC resolves app and online banking  outage",
+        "link": "https://www.bbc.com/news/articles/cqjykl7ek9qo?at_medium=RSS&at_campaign=rss",
+        "description": "Thousands of people reported problems during what was the latest in a long line of banking IT failures.",
+        "pubDate": "2025-08-27T15:29:59Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21fa/live/2b1eb790-8349-11f0-a2c4-0f55e42ed0ec.jpg",
         "bias": 0
       },
       {
@@ -983,6 +983,15 @@
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTmVkOGFrY29heFE3bm9xdTVENXhsbG9CWFJPNTFXU1RXSm1nTVZXTWpsQWFrekRLRUdyd0N4UkgwN3BOSGtmWDNsOHdDUDhqS2NER3MySnNHTGhwWWI2dWdhNFFhVGloeUtCd3VCWjVldGh5QnJyR19ISG5nMW53NVVFYWhOVFNBcUM0WjdfTndtb0hYaXNiQUhQek5sNjRmakttenEyaTNZYTVQWnoyNg?oc=5",
         "description": "",
         "pubDate": "2025-08-25T15:12:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "UK police use facial recognition technology during the two-day Notting Hill Carnival - AP News",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcnJydHpvUVB4Vm5qa3BoX3BPX2lNc1FlZUo4ZUdRWEU4RnhycW5jaXotT3lPajVNdXh5cmI0aWxXZjB6djB2NUo5T21qVGVDczg5ZXpvTGQtRHRKV19UQzZ5RTNRcFdmUzRhZ0FGQzJYZW1ia3ZRdW4zZUdzbDdjRllHcmtETWxpeDBZeXVBbVo2T1kwTC1uUTRSNEczemFzaVdiVUZfV3dIUDNpc1V6UHhNQWZ0SjVOZE9oMWFYb0tnNFZORFc2Ym4wX2RyTkdTUlhsQ1JkNmZSdw?oc=5",
+        "description": "",
+        "pubDate": "2025-08-25T03:08:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1069,19 +1078,19 @@
         "bias": 0
       },
       {
-        "title": "Truck driver accused by the Trump administration of being in the US illegally is denied bond - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONDFzbW42UDJ3eEQxM09lcngyZ1F1bFdXM2JES3hpTnFQeHRsUU1JSTVRdS1mNHc3NjQzTWR2cldtSkJVMEp2eEd5R3N3blhsNHFCTFk0SHhYb3hWTGIyTDFGejAxUmJiTHgzazBvN0h2REpXRVhYYjZIVjN3RkgxeGFZYjEycHhnTXBvWjE5OFhJVFZuUEJ0M0hRUkl4UkxNSHJoTlE3NDJmeFlmWnJZSjZR?oc=5",
+        "title": "Key things to know about how Trump's war on higher education has ensnared an unexpected campus - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWjdTUF8tSkNlVXBGN2VVQkdhaVVDT3pmNllsMnhYSHN3OG5tcG5iZnpmN09jS050dEgtVjdvSEo5YmdKMVNuUHBJcWtrRDdyRzZNdmtOalFXV1lYa1A1Y2lGVXVVai0wdm5aNGE1My0yYUo4WWxfeGlMeW5iaF9TMWVpM002S1J5YXBRd29KZjZhYTdna2pqVDFxVmhLU1J6QXJLUFZWQjRDY3ZSVXVSVWxFMA?oc=5",
         "description": "",
-        "pubDate": "2025-08-23T19:55:00Z",
+        "pubDate": "2025-08-23T15:29:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Key things to know about how Trump's war on higher education has ensnared an unexpected campus - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWjdTUF8tSkNlVXBGN2VVQkdhaVVDT3pmNllsMnhYSHN3OG5tcG5iZnpmN09jS050dEgtVjdvSEo5YmdKMVNuUHBJcWtrRDdyRzZNdmtOalFXV1lYa1A1Y2lGVXVVai0wdm5aNGE1My0yYUo4WWxfeGlMeW5iaF9TMWVpM002S1J5YXBRd29KZjZhYTdna2pqVDFxVmhLU1J6QXJLUFZWQjRDY3ZSVXVSVWxFMA?oc=5",
+        "title": "Tour bus rollover kills 5 on interstate highway in western New York - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX1lEaE01U0hMRUl0dGYxcTl4MHFvNGRPcnNkV1V3OGlQOWhHam43NnR0emcxTW80bDQ4LWxaSkNCQjVKbUFxWl9tanNZUWJraURjWlQ5YzRvTkRCUEdOTFE1RnpsMHdqeFRZUVNuSVlaQTRUM2VOdXRQQlZWZzV4QXJxZ2VyMFQ2YnNJ?oc=5",
         "description": "",
-        "pubDate": "2025-08-23T15:29:00Z",
+        "pubDate": "2025-08-23T00:52:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1103,15 +1112,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Small Minnesota county bucking national news desert trend, has 3 family-owned newspapers - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSXBoYm1CS3hEWWx1SnhNMGtmR0o2UldDejRtblA5RnZwYzlTMWdzUzB3YnhJM3VmYkZGMlhwUnRlM3JFMVRHTWtHYU5KOVFSWXBDVy1lcWo4eDlwb1VJbno0clUzci00MXhqSzB1YjY1NTlxdzNPSjV1SDlJYW5VWE5wV1NENnBRQkE?oc=5",
-        "description": "",
-        "pubDate": "2025-08-22T20:13:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Photos of FBI searching the home and office of John Bolton, a former Trump ally turned critic - AP News",
@@ -1231,15 +1231,6 @@
         "bias": 0
       },
       {
-        "title": "Dodgers' Ohtani roughed up by Rockies, leaves game after getting hit on right thigh by line drive - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNklvU1Nuc3ZpY1N0TDI3SzhQUXR4bnlkNG1YYXlDNERzcURoX1F4RThlQjFJSFpwVHJyYjVVZWZxQV9KNFplOXZXN0s4REgtcXFBaUV4WmpxX1g2dTR6T2Ywc3RLMnRXNFJfUHczWk9zcTBPbXN4Z2ZaNVZwM2d5QTJtRjRPNUts?oc=5",
-        "description": "",
-        "pubDate": "2025-08-21T04:23:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Sony raises PlayStation 5 prices in US as tariff fears persist",
         "link": "https://www.bbc.com/news/articles/cy081prg9jjo?at_medium=RSS&at_campaign=rss",
         "description": "The Japanese technology giant cited economic challenges as it raised prices for the consoles by around $50.",
@@ -1355,6 +1346,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Should Europe wean itself off US tech?",
+        "link": "https://www.bbc.com/news/articles/c3dpr2zkny0o?at_medium=RSS&at_campaign=rss",
+        "description": "Just three US firms provide 70% of Europe's cloud-computing, leading to fears of overreliance.",
+        "pubDate": "2025-08-17T23:03:19Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b764/live/d13e3150-7831-11f0-a20f-3b86f375586a.jpg",
+        "bias": 0
       }
     ],
     "Science": [
@@ -1364,7 +1364,7 @@
         "description": "The animal has come as a surprise to experts, who now have to rethink how these armoured dinosaurs evolved",
         "pubDate": "2025-08-27T15:08:21Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3ca/live/a3879db0-8294-11f0-83cc-c5da98c419b8.png",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94ae/live/451a9d00-835b-11f0-ab3e-bd52082cd0ae.png",
         "bias": 0
       },
       {
@@ -1393,15 +1393,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Firefighter dies after cardiac emergency while battling Montana wildfire - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcThWMGdHUjNIX1RkMDNRV3hweTVCVU9pbFFNSzVYQUtWdzM0SU1xclprX2xhU0lEeVNGTWg4dXhOcHEycnhtTzdLdE5xZW9qUEVqX0JfUHp1T0lLUmV6cElWbUJtMVZtSzJndlZEUGhhb2hjUC1kNEg2a3hHZ3RWNVpQbzhsZWVpR204WGVQOHpTSWtVcng0WA?oc=5",
-        "description": "",
-        "pubDate": "2025-08-26T23:27:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Scientists give harsh grades to Trump administration work aimed at undoing a key climate finding - AP News",
@@ -1518,6 +1509,15 @@
         "pubDate": "2025-08-22T10:45:09Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf3a/live/19cf2810-7f3b-11f0-b7ed-0b17109072b5.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Orlando officials denounce removal of rainbow crosswalk near Pulse nightclub mass shooting site - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS2F3ekJYOVZmcFlObnRnMkxad3gteHdSRWwwMUZNY0xyc2prZ25MSGVVeThnTG1CRjJ6Uk5ydm1zbDAtNnlCc3owWGh1TUVkdV9oSlNEa1VZdDAwYTdCOTNlX1ZSUEMwZXk5XzlLRmpoakVyQUVnRFY1cmtLYmhJTHFNWFBBZkVvcTJvQ3duRFNyelhjMG1PMDFYT2kxNlk?oc=5",
+        "description": "",
+        "pubDate": "2025-08-21T20:42:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -1656,6 +1656,24 @@
         "bias": 0
       },
       {
+        "title": "Scientists standing by to rescue rare manatee sighted in cold New England waters - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWEZweURmZDBnRXk0cU9KVFlTaWNCVDc1WWpmZmpoLXp2QzZiNmszSlNaRjJOaTNSczA4bFdpWi1mU0Y5VGFVaDhOd2pKMzhycTJkZWpkVUJHMVFiejVnckpjenhlREwzM1Y2ckdtRy1ENU1FYnE4aXZPUmR5NzRUS1FlUEw5aElISlpPOUFJZWptc0Y3UnNwQzVGMXZ5YjE4ckNvVlEtM3R6QlVEM2pGWWQwWTB0bXc?oc=5",
+        "description": "",
+        "pubDate": "2025-08-12T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Scientists search for DNA of an endangered salamander in Mexico City’s canals - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOHF3TDVhWTVmRG5KZDJvVkQ2Q3BLMXhTUHNVVDhvR2p0ZEhZWWxYMkJZZ3FodjRISlRUb3VHdXRrODI4aEFjSjdhbUpJWEtIQjU5UmtQTTVDbW02T3pEcnctd3RGTld6T2VwWnEwMnBKSjdxcWRDeHgwdlVoLU53aWhfeF9yZmlGV2dDUEhFbkJvQUwySExpVmsxNHlXSXlkaXpj?oc=5",
+        "description": "",
+        "pubDate": "2025-08-11T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Record warm seas help to bring extraordinary new species to UK waters",
         "link": "https://www.bbc.com/news/articles/c05enyryqvmo?at_medium=RSS&at_campaign=rss",
         "description": "The UK's seas have had their warmest first seven months of the year on average since records began.",
@@ -1698,15 +1716,6 @@
         "pubDate": "2025-08-08T01:06:28Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98d6/live/572e1300-7384-11f0-8071-1788c7e8ae0e.png",
-        "bias": 0
-      },
-      {
-        "title": "Scientists thought this Argentine glacier was stable. Now they say it’s melting fast - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOalo3dFBDS2Itc0ZoaFJheVlZd29XYVVGT3ZfWWUxVWxYNFI0N0tuZ0tlWUlqTTl0TDNsR2FfQlJjcmhNOUJLUzh5eHR3VU9xZVlYT3V4REpHSzRKeVVNS3NUV1ZBT1FPa1NrVjhNeVlJZnNOcldoMS1FazNIZzY3bWZZVUt1TnltSmJ3cTV3aXZydTZnMmdNbTNkbUdoOFJlck5hcEJHS2l6Tno0X19vRDVMaVdmN3c?oc=5",
-        "description": "",
-        "pubDate": "2025-08-07T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -1770,15 +1779,6 @@
         "pubDate": "2025-08-02T23:06:56Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ae0/live/32850770-6ecf-11f0-af20-030418be2ca5.png",
-        "bias": 0
-      },
-      {
-        "title": "Judge allows the National Science Foundation to withhold hundreds of millions of research dollars - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbnpNUDVSRUhTc2hPN3QtdEdwRTU0WDhVR0psUy1ieUdZbU1ZRFZYN252eUdVRUozTTZtQlJGbElpZGhzcmRZaHFLOGJtY0NVd1pKaGZIWVZCa0RUdVRJN0w2VDNwX0pKeW9MWkExeWhXTDRPMkE3TE1fQUVqX2M4NDR3VnZ4RGJTczdmMG9lcHFtTEM0?oc=5",
-        "description": "",
-        "pubDate": "2025-08-01T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -2090,6 +2090,24 @@
         "bias": 0
       },
       {
+        "title": "Canada forward Jonathan David scores on Serie A debut as Juventus wins, Pisa draws at Atalanta - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM1g5TXFjVXpXamNOVG5TR3ZzamFvaWk5c0tkbzlzVlFrbXdqQmMtelZPWUl2dGQ4Q1hDWVNhMThSWVpRdkRldlVOVmc1V2tkeU1iTEEtVGZlN2x3c1ljNGhPVnlNMEZoLUNKcU9fMFBZQ2NrMXN6TWluUGtmSmctaHJFVEZfWGRqdWRwOFhLMHVDZ2M1Y1FkMUJUczhXbXJjc2c?oc=5",
+        "description": "",
+        "pubDate": "2025-08-24T21:49:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Sudan’s paramilitary forces kill 13 people in Darfur, mostly women and children, group says - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcm9WYkhRZXZFNzkxZDFSTFJ5Z0JVSTBmaEVUaWZuc0RzLXU0cVh2dmRBOTI3aDNueS01dEwxMFVhcnZzMjZoUkpyWWpiblJTZlVUQ0VtS2ZpN0R3ZE9OSHZ6U3AwWEtlQmtfanpVSEJMVGVyekxWU3FMX01fZnNhaGx1Z3RuUWFidzlmNDgzSjBJT3M?oc=5",
+        "description": "",
+        "pubDate": "2025-08-24T16:20:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Mirra Andreeva, Vicky Mboko, João Fonseca and Learner Tien are teens to watch at the US Open - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOem44NGlMbFQ4LVFJQUllU0hmZ090My0yeUFjMzhJS2I3UnoycjlsRXRSSlc3YjZJV0VmTzhYRzlOa1I1eWFKRDRBS2hOV2xTalhKYVh5REZXRzF3Y2k4SjdGU3lpajBzYnJmeXg2a2NJSUJ3NmNXbDR4SVZiN3BHUHF2MmhXWkJ3T2pJbm5jSVd6TFlrcEpIR3d5X2ljbDNMWjdaZmxxSFk?oc=5",
         "description": "",
@@ -2108,19 +2126,10 @@
         "bias": 0
       },
       {
-        "title": "What’s next after a court cut Donald Trump’s $515 million fine to $0 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTzJXd2ZVMDdfdW5ITV81WDg3ZVFFZFoxQkRaY0VLQ203M2RNczF4QXYxYUpyMTRxTXNxOXhONkhHX1V5N0RNMDN4Q2xqRG9LbmNsLVMtcE1la0VTNmJyYnVRN2p6M3pRZHRqdWdoUkpCb2pyR2lCV2d1TVZMQXRESXpPcnQ5a1BZblBlTzRMR01oRHFzLUMw?oc=5",
+        "title": "North Korea accuses South of ‘serious provocation’ over border warning shots - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSFlCUkhnTVBCZW85YWNqLWtxb0VZcTUyODZRa3ZJZXdEVzdtazQzdzZtNVhXTEZwMW9FaDV2ODZ1QUk4QnQtRkZPclh2bVMxUDFlSTZieVlaYW4xVzBqNERGdkI2aGpmcS1HVnlhZnJ6S09kdzZPeXNRSE40ZHZxcVQ0bGV5c1B4aHc5VHAwck4xekZ3bWNwRTlaazJ5TzlpS1RJb3A1dy1aQVU?oc=5",
         "description": "",
-        "pubDate": "2025-08-22T22:41:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "North Carolina Supreme Court says bars’ COVID-19 lawsuits can continue - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTUlMZHhIR015Vlp6SVNwXzdZai1FT1dRR3VnVEFsWlNTaWpYYzIweW9WNUJjV3pJRFY5MWlGdXp0YVJINVZHdldMMjBTX2xnVHpiWlZaZXVkTXlXMHNnU281OVlmZGNfdjRHOTNSVWxCZW1fUU9xUl9DbVBUWVdRSUZNOTlBeHhKRXRpZE5qRGxVc2VuRkoxVHlPdnlmVUtvLUNKbkdMS19TeDFHbjV2YkJxZmk?oc=5",
-        "description": "",
-        "pubDate": "2025-08-22T21:56:00Z",
+        "pubDate": "2025-08-23T01:34:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -2130,6 +2139,15 @@
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMkRGSzZQa1lLQzJSdUhYZGtDT3BGSm5KeG1FZWVQR2o3dVZIelItaDZjalJWR2RybWdicnhLdE40c1BrNGNZYnlEZVdEN201TEU5eS1fUUdtLUIwVDhCalpUNXhyQ0o2dGFSZGROVTBud1VIbzhEcV82Z1l1UHpleTBHbklJSllQTVF3OUJlUEVBNmc?oc=5",
         "description": "",
         "pubDate": "2025-08-22T20:34:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Small Minnesota county bucking national news desert trend, has 3 family-owned newspapers - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSXBoYm1CS3hEWWx1SnhNMGtmR0o2UldDejRtblA5RnZwYzlTMWdzUzB3YnhJM3VmYkZGMlhwUnRlM3JFMVRHTWtHYU5KOVFSWXBDVy1lcWo4eDlwb1VJbno0clUzci00MXhqSzB1YjY1NTlxdzNPSjV1SDlJYW5VWE5wV1NENnBRQkE?oc=5",
+        "description": "",
+        "pubDate": "2025-08-22T20:13:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -2180,15 +2198,6 @@
         "bias": 0
       },
       {
-        "title": "Microsoft employee protests lead to 18 arrests as company reviews its work with Israel's military - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQlpveGJxOGlNXzFtQlJQT0NfQlBBMWpvMllwY2NHVTFOdnZoWnNKWmNrUXBsT3BaMkNHVXVfZndaZGZSZGtDX3ZtaFZOeWY2bkdIQlMtZTlUX3BzNTZsQ3kya2Fwa0RRa09BU2VXbTFoWGhtQmlyTlpDN0dMb3J6cDZaYW5HaUVOV3pYZDRPU0pJZlBtY3M1eUMzNmE?oc=5",
-        "description": "",
-        "pubDate": "2025-08-20T23:04:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Target CEO to step down amid company struggles - AP News",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMnNiX0ZidmN5MDNNbTE3Q05XclpaSlAySFJyUkJ0YlBsUXhjY051WTYzV0dQQTdGOTlNb0V3UFlhdGI0QzVqUS1CTVFvTWxtY25tT3JYcFdFdDFkS3lEUmpkOGQ3WmZNWGRSQVhaUm5ILUZoOUN1anlfX0dUR0FLamtUMllnYmNaZFJQbDh1bHdibm95VnVOSHJrSE9nSnpi?oc=5",
         "description": "",
@@ -2205,15 +2214,6 @@
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0lw993j.jpg",
         "bias": -1
-      },
-      {
-        "title": "Priscilla Presley’s ex-business partners sue her for more than $50 million, alleging fraud - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeElnZWRiSE5Tb2wyVENTbEtvd01PMmwwY1p1Z21Tb1ZmZkRuSUpzWHQ4S1hKX3J1NWpoWU9Td3paOURNLTRQT0tKUXRRb0RNT013ZVp3cGlUZDl3SnZ3RF9GUmdxN25vTEVWX2dmZkVFNnJsUGpoVTdFYU1LYlJoWFpHbG1qMS1xN0w5NnBIcTFDOUFFLXBrYUFhTnA2RFlPWXJr?oc=5",
-        "description": "",
-        "pubDate": "2025-08-13T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "The UK car industry is at a tipping point - can it be saved?",
@@ -2560,33 +2560,6 @@
         "bias": 0
       },
       {
-        "title": "Investigators search for Native American items stolen decades ago in New Mexico - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0pDeWQtUXBOT2ptUXNrOVBsWkJGUF9XTTZHYk1mQUl6cV9nUFVIeXIyRjgtSl9wMmJsSk5IU3NlYkxLYjFfTjVTaXBiV2FUY2loY2lLSWJ4LUF3S0h2MHd2SDM1RVlabzJ0R1UwdWRaMFg2ZXRHN1AyR1NGcDVRcHFzUkg5X1dETXN3Z2NvYjVOeVM1VEpiNk01MGNSMUV4bFNBUGZGLU81ZVdrWFE?oc=5",
-        "description": "",
-        "pubDate": "2025-08-12T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Bugs are popular pets in nature-loving Japan, buzzing with lessons about ecology and species - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZXFVRzN2Y0hqMTJaMlU4WmNxTE05N1U2TmtGVHpBRTNwSDhSLW1iVkw2UU40Tng2b1JWc21YNnJ4OUZuVkxfVGc2dF9UTzUxblB1b0hSR29QQ2R0cDFINEdhQnRSaVNjOGNnN2Y1M3A4a3dqc3NtdV9sUy04d0xzUjR1cmNJYjZ0LW1RN3dLa05NWmY4LUNROHdxdmdfRXln?oc=5",
-        "description": "",
-        "pubDate": "2025-08-11T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Eve doesn’t think about her giant impact on hip-hop culture - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY250c0FiYU55TDRTM0U3dXI0UHFOQzlHYUxneWVyV1VUejEyZTZ5RnNaU0xDVlRTS2g5dzJVUF8wX2J0OUJlTlp6MUdPNUdvajd3Y0FXNFhwYW91bDhSNkRybE9aLTE0ZWtiVVJuejZ0cHFoMlMzdWkwdXlvajJ1VnJJR3RMV0djdjRCeGFiM0V0cGt3c2NjNGtsZENLVTV0MzNmWDYwVUlXNUR0blFaUkpWSEg0Szg?oc=5",
-        "description": "",
-        "pubDate": "2025-08-11T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Mexico accuses Adidas of cultural appropriation for copying Indigenous sandal design - AP News",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQXd0Znp1RGhwTUNQZV9lVkZ5QWhETE9YX1NmX1VnLVlhSjRBYzhYck55elVCa1dzYjQwUk03R3FXVjEzeE9RdWtfWktxdlhPZ05qaDlDRWlEYnZfTld2R1dZcWY3SF9FbHlWS2tfN2hCVkhCQklZT3RwUGdObFByN0FjUHFoRXk3V0RDRFo1SVlEMEJ6MGZNSHh1NE9vLUhmVFByYmExTG5NZC1zblhSM0hQM3MxalNxWENLWGdLZnE1WUVwTnF5RkFQOTZGYlR6SU9kMzRxb2ZWZw?oc=5",
         "description": "",
@@ -2605,26 +2578,8 @@
         "bias": 0
       },
       {
-        "title": "Benin hosts mask festival amid growing interest in country’s cultural heritage - AP News",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeDE2QUdzVkdVYjFfREMwLUpSeUNHWVRZaGZ4LXNLai1kVExSaWJMWmtFbmw4b1NmSDhPOFVKaWNtY3Z0OGRCZG1lOGoxejdielJ5aFNhZEpJMmNuQ00xd2NRZUJ5WWRJSzJQUzRyTUlvbzRyemQ3SUFDV2ZNUHVpeFE5LU1yLW85ekRndlhhdTNaZ2xLdVJHWE9RZ2MzVmhxNkgzd1E4ZUNMZThDVEc2RnhJWGdkV3NOOVd6V2ZaWV9OU1pObmdyQ2ROQ1o4UllQ?oc=5",
-        "description": "",
-        "pubDate": "2025-08-03T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Matt Rogers talks bringing zeitgeisty Las Culturistas Awards to TV for the 1st time - AP News",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNDUzSWpwZG1ZUERKaVFTRlJyZGRaUnFPYUpHY2Z3RHRiRVRES09HRUpiZGI5QnJLY3lnaHp6dUlJVHV0LTlmczgzYVJNSVAxOGtxUGlxWEQ1aTE5a0t5WEpvel9GcE9vZmp1ekdqMEJTXzRJWVE0ZFprN3J2dHY3U0U1YWpScldCc1E1Wkp2eWZOdFNJMFRaMnBmUXZNSFk1VW1HZEk0RFBkbkMyUkk5c2Z3?oc=5",
-        "description": "",
-        "pubDate": "2025-08-01T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Yang and Rogers bring Las Culturistas Culture Awards to TV - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLWxOX1UxejB0aW1FbzJxM2J0ZXE2ZG0wdGdNUHVNTXBodXl5d01vQUJzX0o5Nm1wRGNfUXl5VVZZX3pYTkZYRldVQ2dvMHJfNWNSY2YzMzdwZHA1Qk5UMjVocy1CTy1UbGJqQ0kxMEJTaG1hZW1jU1BVQzhtVXdzWndFWFB2M0pKd0h1c1hqUkRKZjRsRkxsM0EtS3BXLTl3OVZhdUk4SjY0VjAtTDlLNkw4RVBkNVE?oc=5",
         "description": "",
         "pubDate": "2025-08-01T07:00:00Z",
         "source": "news.google.com",
@@ -2636,6 +2591,15 @@
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcnVvRG1rM01ENV90WjhNd2J5OEZacWdxaEpjTWRmdkIwM2NqSVhHZWh2UFRGQWxSWEZnbF9Bb3k4T0h2dnpUdjlnSjJ1cDc3d1R4R3VuMjJ5QzhJeDBvQ1hLMm5UV1hVcnJlZnFZUTdiOGM0Rm1ZZkUtV0JKczFtdGdvTm5FeTlMVkJaNnRsRGxQOWlKTzFYZTlueURGWEN0STBXWmlhLWxaX3Nvdk9RSlVMWkdxaHQyMW5pMVdPLWQ?oc=5",
         "description": "",
         "pubDate": "2025-07-31T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "'KPop Demon Hunters': How Netflix's animated film became a hit - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRWgxWnJhWjlEOG1qZDZxMjJ6eGdMYTNCV0RTaTNhQ3QxY2VDS1NKQlE4S1JScHpzQmF6clRpRlkwZElWM1pKS3R0ZDdrWDI4NVhSdkFyZE1xOGdtSHdrYXdneXREUXROTjNHcHBtTVJvaDUtVm1QV3o2ME94Tk16TkIxSTBoY1hzT1lUdDVvRkYxLW5TQjIyVzB3THFQT3BZNzBhakt3VThfdXdu?oc=5",
+        "description": "",
+        "pubDate": "2025-07-30T07:00:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -2654,6 +2618,15 @@
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbHRFbzlkcnMwRlliajlIWnRRNWlpUTI1SlVEWUVzejVJT0JrVjVTb3FuandSMmFseXJNWV9sWUJxNGRzWmhOYnlqRWVJWFJOLUxPYmtvRi04MnA3MDJtTEF6amV5OG5zaHdaazBNc3R1YmFmWXVCT0w4WF9FblRYdHhyQldzUl8wLWdXdW5YMUVPbGVudXlmVVBqZEk3NWUzOXVpQld6Y2FwaWFpQnRQMm5pdDRlWk0?oc=5",
         "description": "",
         "pubDate": "2025-07-24T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Can you ever expect privacy in public? Coldplay kiss camera saga tells us a lot about the answer - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa1Z3eTQtbFh1aTh6cEhUS281d1lrVUw0Y3ctU2UxeWdxdHE1ZnBUZExFM25RVE56VVQ0V0oxVGlMMnJBeW5WNThEWHdUWHZDUkM4WmxHdG56eXZ5RFdJYkh6Yk45ZllyNlJNQlZ1OXI0eEN0VHU4S2g5aWJCQXVIa3p1d0kyUndJcGpJVGxiVXl3ZDVVYW5VYkNKSm5nUGdGUFoyR1lJUQ?oc=5",
+        "description": "",
+        "pubDate": "2025-07-22T07:00:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -2708,6 +2681,33 @@
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU3Z5YW0tY1NMWW9oSFpIeW5HSU01V0htM2g0a3FpTFlwblNHYUZsSVZMOE5UdTh1NVZVLTR3UWZla19vV0NfMUNuT3BnWmUtZmRRLTdCWW54R0M2NlFUT2h5S1lCcmpMa2d6a1gyeW9qWUxLajAyVUE2dHZPVUUzTmtpM2pLSFhCTVJ3?oc=5",
         "description": "",
         "pubDate": "2025-04-15T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Altar found in Guatemalan jungle evidence of mingling of Mayan and Teotihuacan cultures, experts say - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdk5wZU5zVktBeXFKY3Rkd09QLXNaV2pOdUlvUjlNbnBVX01MZ242OWtnc2g2WUJDZ0xIQ0ttaXdCY05HZURULWN1eHduUThYSlI5SmJsSzV0TENuZUZzRTBzY2lpOFMyTlFhLUp0TTdWWnY3Z1lGaXlNX0dqLU9sOWdRd2VaRXNiOWQ4NWRxRzAwQ2FWQVp1UkwtYjdOR25K?oc=5",
+        "description": "",
+        "pubDate": "2025-04-07T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "What to know about El Salvador's mega-prison after Trump sent hundreds of immigrants there - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa1E1dlB5Q3dfUkQyb0FiWkRDc1o2RzZyY0oxcFptUE8zTlNxWVZDY0tpRm5aYjBZNWxxWlRjNUpIUGg3ZDVRWWJLWGo4MkU2Q3Q0dmlVcmx1ZzhVTmU4QnJjaU5YTFB5N19Udl9WMnE1SGdRWnRqbU9lLVd3dnYwNGR1VUNrRVlhajk0a2o3anhLajJMM1pQNXlobw?oc=5",
+        "description": "",
+        "pubDate": "2025-03-16T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Alabama city divided over whether to abolish police department accused of \"culture of corruption\" - AP News",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWmJRLTV0VU54Q0N4SzZoTElhX0ZLUm41aFZuYkFNMG1jdGRRVmlsX1o0ZWxUdWpXaTBLd2Mtc19tcUg3WnpZb1VTclRxNWhfLXhnZXpIdmNMTjIwYlFaa1RoMXFPRGZKdExvcWM3VkpjUFBxTWNRTldXZ2I0ZEZPaUF5RjJGR2hYRVR4VVg1UzBJQTRhYmpFZjM2UjU4NDAwZklfdF9wUDgzWENjWndjVkdjeGE4WTBRTHF0Nkk1amVVRm0t?oc=5",
+        "description": "",
+        "pubDate": "2025-02-28T08:00:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
