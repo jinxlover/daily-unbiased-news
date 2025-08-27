@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-27T10:39:04.137638Z",
+  "lastUpdate": "2025-08-27T10:49:40.084385Z",
   "news": {
     "World": [
       {
@@ -8,6 +8,15 @@
         "description": "National Grandparents Day is Sep. 7. NPR wants to hear from new grandparents about how your life has changed.",
         "pubDate": "2025-08-27T10:32:12Z",
         "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "US senators visit church attacked by Israeli settlers",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/8/27/us-senators-visit-church-attacked-by-israeli-settlers?traffic_source=rss",
+        "description": "US senators condemned violence against Palestinians as they visited a historic church in the occupied West Bank.",
+        "pubDate": "2025-08-27T10:28:32Z",
+        "source": "aljazeera.com",
         "image": "",
         "bias": -1
       },
@@ -442,18 +451,18 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Trump loyalist who pushed false election claims takes on government role",
-        "link": "https://www.aljazeera.com/news/2025/8/26/trump-loyalist-who-pushed-false-election-claims-takes-on-government-role?traffic_source=rss",
-        "description": "Heather Honey, who supported Trump's false claims about the 2020 race, has been named to oversee 'election integrity'.",
-        "pubDate": "2025-08-26T23:47:04Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
+      {
+        "title": "Minister takes on Nigel Farage over Brexit deal",
+        "link": "https://www.bbc.com/news/articles/cvg3929q3ygo?at_medium=RSS&at_campaign=rss",
+        "description": "Nick Thomas-Symonds says Reform UK would \"take Britain backwards\" if it ripped up the Brexit reset.",
+        "pubDate": "2025-08-27T10:42:43Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3373/live/c2e192b0-832f-11f0-8c45-3b53ba1643fb.jpg",
+        "bias": 0
+      },
       {
         "title": "Conservative MSP Graham Simpson defects to Reform",
         "link": "https://www.bbc.com/news/articles/cr74kg1vg4jo?at_medium=RSS&at_campaign=rss",
@@ -869,15 +878,6 @@
         "bias": 0
       },
       {
-        "title": "Kurdish political figure arrested in Iraq, sparking clashes that leave 5 dead - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVk84RE0yMTRyaGduZmgyeWdqYTdfaDBqUlBuelRtUEFHT0Q4REdVZHZkUVpneWRRMmdhT3FkWGhsWFMyVzZ6elJmbnRiS1FQMG5ZTWt3RV9xc2VIc195OUNWLWRobEN3Vi02UUZnY29VMzZBb3phTzRaeUQzazFuOVVpVnhZNFlkRUl6Q2hrem1tQU9IejVmV3YyeVYybXJFVWVkcTdxVUtMSm5mcXJ0YkhxYw?oc=5",
-        "description": "",
-        "pubDate": "2025-08-22T17:24:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Federal appeals panel upholds Connecticut’s assault weapons ban - AP News",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORjk2aEctOVdMd3dXQnVDelBnNFBKSktGZ0U4Rng4dmpTZnNiTkRYMUY2UW1JMGtia2MtOTJVczJqbzVBWU9heERnR3B4N3NrU2dUQXBJY3NZTllHd2V3SGM5M3V6ZTlLM2xlSVhxc1M1N3FENDgtWUdwN0QyLWhTejZuZWtBWmZMbWtPYkV6elZ6MjBROFNjamFDQUE5bHM?oc=5",
         "description": "",
@@ -1082,15 +1082,6 @@
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONDFzbW42UDJ3eEQxM09lcngyZ1F1bFdXM2JES3hpTnFQeHRsUU1JSTVRdS1mNHc3NjQzTWR2cldtSkJVMEp2eEd5R3N3blhsNHFCTFk0SHhYb3hWTGIyTDFGejAxUmJiTHgzazBvN0h2REpXRVhYYjZIVjN3RkgxeGFZYjEycHhnTXBvWjE5OFhJVFZuUEJ0M0hRUkl4UkxNSHJoTlE3NDJmeFlmWnJZSjZR?oc=5",
         "description": "",
         "pubDate": "2025-08-23T19:55:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "The Menendez brothers were denied parole. They have to wait at least 18 months for their next chance - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb1JVOEZOVDNFN1pGMk1zSnppeWpuWHBsZldVUkpFRlZWU2F5ZlFVb0dNWlZLM1RMekEzTGhJS0FCbTlqSUN0UXNwRzd3SGItNWd4RERYV0hZV29tX0hSTUpfbzMwTDhCcnhVc2p4ZzVEbERJazE0SzJRdG50b1hUSTdGa3o3czBIR3BKVGE4ejcwT2ZBakxFdmhfTDRfN2twLWZqQ3RtcmZYcGpQZVZF?oc=5",
-        "description": "",
-        "pubDate": "2025-08-23T18:06:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1355,6 +1346,15 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc4e/live/67f0c250-76c2-11f0-a975-cb151ca452f4.jpg",
         "bias": 0
+      },
+      {
+        "title": "Meta investigated over AI having 'sensual' chats with children",
+        "link": "https://www.bbc.com/news/articles/c3dpmlvx1k2o?at_medium=RSS&at_campaign=rss",
+        "description": "The leak has led to backlash amid reports the tech giant's legal staff approved the conversations.",
+        "pubDate": "2025-08-18T12:04:06Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34a3/live/36f25ab0-7c17-11f0-a40e-2dd630055bb1.jpg",
+        "bias": 0
       }
     ],
     "Science": [
@@ -1431,15 +1431,6 @@
         "bias": 0
       },
       {
-        "title": "Democratic senator warns of 'Power 2' owning college sports if NCAA-backed SCORE Act becomes law - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMUZIMWJ3TzRNdGozeDNtUjFjelNWYmZJeTVUY0tpdFd3MzFmdUw0WTBkWFVCS2ZKYU5TUlpYTE9lMS1hOUg3ZGx3UG1sUV9iQ2VTYnhlRUd5SkotZUttZXhjSURmZDlwc0ZGVDdxMDZIRUR3YTExdzZFWTZfR2xwUFVOX0JhV2gxSEZBREphQklROXN4?oc=5",
-        "description": "",
-        "pubDate": "2025-08-25T16:43:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "These fish may feel pleasure while being groomed by other fish",
         "link": "https://www.npr.org/2025/08/25/nx-s1-5508851/fish-pleasure-pain-cleaning",
         "description": "An experiment with threadfin butterflyfish finds that these fish may experience pleasure while being cleaned by bluestreak cleaner wrasse — suggesting this capacity goes far back in animal evolution.",
@@ -1474,15 +1465,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Key things to know about how Trump's war on higher education has ensnared an unexpected campus - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWjdTUF8tSkNlVXBGN2VVQkdhaVVDT3pmNllsMnhYSHN3OG5tcG5iZnpmN09jS050dEgtVjdvSEo5YmdKMVNuUHBJcWtrRDdyRzZNdmtOalFXV1lYa1A1Y2lGVXVVai0wdm5aNGE1My0yYUo4WWxfeGlMeW5iaF9TMWVpM002S1J5YXBRd29KZjZhYTdna2pqVDFxVmhLU1J6QXJLUFZWQjRDY3ZSVXVSVWxFMA?oc=5",
-        "description": "",
-        "pubDate": "2025-08-23T15:29:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Hawaii's Kilauea volcano erupts again and shoots lava for 31st time since December",
@@ -1620,15 +1602,6 @@
         "bias": 0
       },
       {
-        "title": "Scientists discover an ancient whale with a Pokémon face and a predator bite - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMnpDc0YzcGlpNG0yVE1iSzdOaFBqN0hybGE0Y0tFajEtdWl5bkNuMXpIYjlJVDdvQjFWcGsweUxRWWJscG9uMnd1dnBlS3BhZXZjNWIyTTQ2OWNtMVljR1lsOENHSlRIa3JHQXlCbGNaNWR0ZG9jYkd5UkVZRk5nWm12STg5cEwwM051Y2ducFlLcTNXT0k0N3ZhYXpvZkZmZmhCNXdFdVF4dUVQc0J4cjJCQzhIYVAxS25qTlMzSjA?oc=5",
-        "description": "",
-        "pubDate": "2025-08-15T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Hot, dry summers bring new 'firewave' risk to UK cities, scientists warn",
         "link": "https://www.bbc.com/news/articles/c9vd79x97zlo?at_medium=RSS&at_campaign=rss",
         "description": "Rising temperatures are increasing the chances of multiple wildfires at the same time, researchers say.",
@@ -1660,6 +1633,15 @@
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLVNyczk4T3ROaU9XRGJndkRLVjl2WWl4eWx4aFJpY3Qzb2pLUWgzME1SX3htMGtOcm9Gc1ZQRnFzSzhGMkJ4TXRkS21pNnRNT2ZRZUNhNG84VmpXU2U3bU0zVzFvQWlOVjdOM3ZkYVREREVuOWhfT1NSYUJCTzZSV1VhS0dYSXJqOTJtTmgzY0tGX2ZEel8zRkVpV05kcm9pWEdnaVRkdTVlUVdUYm10TWZNSlVYY3FqNEQyanFFVnd3WFk?oc=5",
         "description": "",
         "pubDate": "2025-08-12T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Scientists search for DNA of an endangered salamander in Mexico City’s canals - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOHF3TDVhWTVmRG5KZDJvVkQ2Q3BLMXhTUHNVVDhvR2p0ZEhZWWxYMkJZZ3FodjRISlRUb3VHdXRrODI4aEFjSjdhbUpJWEtIQjU5UmtQTTVDbW02T3pEcnctd3RGTld6T2VwWnEwMnBKSjdxcWRDeHgwdlVoLU53aWhfeF9yZmlGV2dDUEhFbkJvQUwySExpVmsxNHlXSXlkaXpj?oc=5",
+        "description": "",
+        "pubDate": "2025-08-11T07:00:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1807,6 +1789,24 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6af0/live/8f49a040-633c-11f0-89ea-4d6f9851f623.jpg",
         "bias": 0
+      },
+      {
+        "title": "Kew Gardens' Palm House will close for five years for major makeover",
+        "link": "https://www.bbc.com/news/articles/cpwq08rxxklo?at_medium=RSS&at_campaign=rss",
+        "description": "The 175-year-old glass house will begin a £50m renovation in 2027.",
+        "pubDate": "2025-07-15T23:01:44Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffce/live/eca2eaa0-61ff-11f0-b5c5-012c5796682d.jpg",
+        "bias": 0
+      },
+      {
+        "title": "The fate of the Sycamore Gap tree has shed light on a deeper concern",
+        "link": "https://www.bbc.com/news/articles/cnvmpz5qqe5o?at_medium=RSS&at_campaign=rss",
+        "description": "The felling has prompted calls for stricter legal protections for other trees and drawn attention to wider issues",
+        "pubDate": "2025-07-15T00:04:28Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2155/live/81c28a20-6091-11f0-960d-e9f1088a89fe.png",
+        "bias": 0
       }
     ],
     "Business": [
@@ -1916,15 +1916,6 @@
         "pubDate": "2025-08-26T08:37:29Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9672/live/7fb1da60-8242-11f0-b860-650f1c8f721b.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Trump says he's firing Fed Governor Lisa Cook, opening new front in fight for central bank control - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbjJIWVI1WDA1YXFUby1fVlAwYm1zZkRydlRUMVVkSmE4RGJEWnd3VE1JSFZCcWNfcl9SeVBaUE55VUxsUFRrSmczclFtTUIzTXBQTTBYM3dLUTFxX3ZtTHJqU1RqYUczTGl6X2dCZjBnbEgyVVZadHpjYjN5aTZsRXZWYWV1Umo3a2VITmNYTmh3Tm5vOGc?oc=5",
-        "description": "",
-        "pubDate": "2025-08-26T08:18:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -2216,15 +2207,6 @@
         "bias": 0
       },
       {
-        "title": "New study sheds light on ChatGPT’s alarming interactions with teens - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd3NrVjhNWDEzdVFXX3N0WjM4VDRTd1ZJQ185UllTcWc5OHVpd0N6bEl0NU1UbC1ZU0ZJTmFTd2hPNHpmQzJFV3lPcDd3MHRKckdzRmo0MW9BSGpQR3lWd0lndkFrQ0JaaVdibzVzQ0VKZ21GWm9wLVRxTmQ1TlZDbUQ4cDRSaUhOVVYzOHRkS09CT3lOVVpKN2pn?oc=5",
-        "description": "",
-        "pubDate": "2025-08-06T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Will new greener brake pads be more expensive?",
         "link": "https://www.bbc.com/news/articles/cp3l4qz1l9qo?at_medium=RSS&at_campaign=rss",
         "description": "Automotive industry will have to change techniques and materials as new EU rules come into force in 2026",
@@ -2259,9 +2241,36 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1581/live/40c2a090-3d6a-11f0-af00-f94ff1cabcc0.png",
         "bias": 0
+      },
+      {
+        "title": "The secretive US factory that lays bare the contradiction in Trump's America First plan",
+        "link": "https://www.bbc.com/news/articles/cwywj0zgzwxo?at_medium=RSS&at_campaign=rss",
+        "description": "An exclusive look inside the closely guarded factory the president wants to become a foundation stone for a US golden age.",
+        "pubDate": "2025-05-18T21:55:21Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e9e/live/19ef1430-3270-11f0-8519-3b5a01ebe413.png",
+        "bias": 0
+      },
+      {
+        "title": "Here’s a look inside Donald Trump’s $355 million civil fraud verdict - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdGxEQVdEcjJ2UU1Zd25FM0pUVGF0VXpSaUpRcUdtSnczbUcwWEhQWUdmVVBkOUprU2ZMXzVfbFNUUjkyNm9mNkVDUFp6ZG95OUQ4VTg3cXpzTy1ZWUIxM0t1dFJJZkJmazFrdkpCU2tza0tFeUp0VkdBUC1Sd2dYSlNPUmJoWGktcEtxUHJPQUZ6S05FU2ZoX2VLanlxUjRKWVZWMw?oc=5",
+        "description": "",
+        "pubDate": "2024-02-17T08:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Culture": [
+      {
+        "title": "Lauren Laverne to host 2025 Mercury Prize",
+        "link": "https://www.bbc.com/news/articles/cg50ljpj01zo?at_medium=RSS&at_campaign=rss",
+        "description": "The 2025 ceremony in Newcastle marks the first time it will be held outside of London.",
+        "pubDate": "2025-08-27T09:57:48Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88b7/live/0566fef0-8325-11f0-b9f8-fb9cf79a2815.jpg",
+        "bias": 0
+      },
       {
         "title": "Mum's fight to jail daughter's killer becomes TV drama",
         "link": "https://www.bbc.com/news/articles/cn845xnz7g7o?at_medium=RSS&at_campaign=rss",
@@ -2623,6 +2632,15 @@
         "bias": 0
       },
       {
+        "title": "New study sheds light on ChatGPT’s alarming interactions with teens - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd3NrVjhNWDEzdVFXX3N0WjM4VDRTd1ZJQ185UllTcWc5OHVpd0N6bEl0NU1UbC1ZU0ZJTmFTd2hPNHpmQzJFV3lPcDd3MHRKckdzRmo0MW9BSGpQR3lWd0lndkFrQ0JaaVdibzVzQ0VKZ21GWm9wLVRxTmQ1TlZDbUQ4cDRSaUhOVVYzOHRkS09CT3lOVVpKN2pn?oc=5",
+        "description": "",
+        "pubDate": "2025-08-06T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Confederate statues in DC area to be restored and replaced in line with Trump's executive order - AP News",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTmVPbzRNSDVvNlhFOU5HY3hzRzNKS2poWFpVeFRkd0xQdUpnRk13ZWZ4LUVYTEJhS3BqRkNKUzJBeXlvV242elRPZkR4MVFFRU1wcmVtRHJsSVFZODdNX3BTemZOXzBEVTgyZFhkOTR2Y2ZLQmZHN19SbmswbnpSVkthV2cyOU9Fa2J2TFR4S1U4UWdqMTBVa3hYeU0zVFlIUTlVSG1jendTZHFTVDJMWjRn?oc=5",
         "description": "",
@@ -2690,24 +2708,6 @@
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNG56OVNYa2podkhJc1RoZ0wtV1NDcnkydWZEdzNtU1R6Vnh1M2I4dnFrd1lYQVlGV0JzTDFvbDJYMW9mOHA2RDRyTkxfbnM1WXc2VDdfU3NZUkJVZklFZVp1eUlGYm5IZ1JnYkhsUmRzejhMNDN2QXVETjZUcFNBbW91amlXbWpHMnZCcUJhdGxGQ1lYV09odTR2Qk1CRkg0U3lwdTkyRXNMOTVYWl82Szl1NDJpdTJ5RlE?oc=5",
         "description": "",
         "pubDate": "2025-07-22T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Springsteen doubles down on political criticism with a digital EP that includes anti-Trump comments - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdHRGS3pnYkl0OFc1NHRweXVrWDN5YVRSQlBKbElfYVVTTV9NMnV2OHZ3dVJvNktuWUhHZ0MwdWI1VGhlYTdId0ZXTXRxU3R4ZGVEbTB5N2tUNkliYTM1QmI5VUNJX0txaEFyMDNxRkJ3WjM5MG84YlExcHI0SnEyYXZFVW9HcG1yaU03NzIxN2llMXMwbVFBWWFrVmM?oc=5",
-        "description": "",
-        "pubDate": "2025-05-21T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "The Menendez brothers case reflects a shifting culture across decades - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaTJjaEtLUHhnTTVFT0o2UTh4SEg4ZVFzLVRBNmFaSFpWZE5ubVdGUUd4R2IyYzBTN3pfUEUtNFVqZWJhc3lNdGlVVHlhbC05eDBydVRDRkxtbG1MVUx6S3VQVE9RTjhpWDRhNkNqZTlXY3BuYnZvN0NXTGFkVUQyc3I1SWxHRWwwQWQ5VTUyV2NDOXdiOU12UC03Q2Q3RkpyVURabGpTOFlpUllKcXc?oc=5",
-        "description": "",
-        "pubDate": "2025-05-14T07:00:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
