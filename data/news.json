@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-08-27T07:31:39.772080Z",
+  "lastUpdate": "2025-08-27T07:45:35.637176Z",
   "news": {
     "World": [
+      {
+        "title": "Former player makes Aussie Rules history by coming out as bisexual",
+        "link": "https://www.bbc.com/news/articles/c4g6wwrze2xo?at_medium=RSS&at_campaign=rss",
+        "description": "Mitch Brown hopes his decision to speak on his sexuality will create a safer space for others.",
+        "pubDate": "2025-08-27T07:42:47Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f46c/live/79b0c0a0-8304-11f0-a34f-318be3fb0481.jpg",
+        "bias": 0
+      },
       {
         "title": "Tayvis are engaged - what we learned, and how fans reacted",
         "link": "https://www.bbc.com/news/articles/c4gzdpk3xwjo?at_medium=RSS&at_campaign=rss",
@@ -35,7 +44,7 @@
         "description": "Military says Russian advance \"is the first attack of such a large scale\" in industrial province.",
         "pubDate": "2025-08-27T06:19:21Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a61/live/9db03170-82a5-11f0-a21f-a946aea0c353.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/853d/live/641f0160-8319-11f0-ab3e-bd52082cd0ae.jpg",
         "bias": 0
       },
       {
@@ -46,15 +55,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Former player makes Aussie Rules history by coming out as bisexual",
-        "link": "https://www.bbc.com/news/articles/c4g6wwrze2xo?at_medium=RSS&at_campaign=rss",
-        "description": "Mitch Brown hopes his decision to speak on his sexuality will create a safer space for others.",
-        "pubDate": "2025-08-27T06:12:44Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f46c/live/79b0c0a0-8304-11f0-a34f-318be3fb0481.jpg",
-        "bias": 0
       },
       {
         "title": "LIVE: Israel destroys entire neighbourhoods in push to occupy Gaza City",
@@ -458,7 +458,7 @@
         "title": "Energy bills to rise by more than expected ahead of winter",
         "link": "https://www.bbc.com/news/articles/c78zgz7j576o?at_medium=RSS&at_campaign=rss",
         "description": "The £35 a year increase for a typical household is twice what analysts had predicted.",
-        "pubDate": "2025-08-27T06:51:48Z",
+        "pubDate": "2025-08-27T07:32:01Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0292/live/8eca9850-8311-11f0-a34f-318be3fb0481.jpg",
         "bias": 0
@@ -797,6 +797,15 @@
         "bias": 0
       },
       {
+        "title": "Migrants to Iowa strike different portraits where ‘American Gothic’ was created - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaG43SlAtbkxBVzBJRFE3WVl3VW82RDJBSDVwMmNBd2l2bW1oeW5GZDZEeHNCSTNlejhRMTY5a0lnbnpYdUtXQkdUYmdLbW1ZWEk2U3pCY3hkOFdwTVhmTTFndUMxTzkxdk93NG81SW4zeGZKdHJjbHVzR3lpV1VRY3Q3NFd5WG45b20wdjBWeHZISVprVzdXS1drU2w1MGFCcGY3QkxtR0dLQjAwOS1hZlZadzI3M0VuVjZN?oc=5",
+        "description": "",
+        "pubDate": "2025-08-22T20:49:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Home Office seeks to appeal against court ruling on asylum hotel",
         "link": "https://www.bbc.com/news/articles/cy5p2ye95z9o?at_medium=RSS&at_campaign=rss",
         "description": "The High Court refused a last-minute request by the Home Office to intervene in the Epping asylum hotel case.",
@@ -893,15 +902,6 @@
         "pubDate": "2025-08-22T06:10:00Z",
         "source": "news.google.com",
         "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Crackdown on child benefit claims from abroad after £17m saved",
-        "link": "https://www.bbc.com/news/articles/cr5r1zpl39jo?at_medium=RSS&at_campaign=rss",
-        "description": "The government is expecting the move to save £350m over the next five years, after a successful pilot.",
-        "pubDate": "2025-08-22T06:08:53Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/720d/live/b1b19560-7eae-11f0-a5e2-236e16f99597.jpg",
         "bias": 0
       }
     ],
@@ -1413,6 +1413,15 @@
         "bias": 0
       },
       {
+        "title": "Democratic senator warns of 'Power 2' owning college sports if NCAA-backed SCORE Act becomes law - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMUZIMWJ3TzRNdGozeDNtUjFjelNWYmZJeTVUY0tpdFd3MzFmdUw0WTBkWFVCS2ZKYU5TUlpYTE9lMS1hOUg3ZGx3UG1sUV9iQ2VTYnhlRUd5SkotZUttZXhjSURmZDlwc0ZGVDdxMDZIRUR3YTExdzZFWTZfR2xwUFVOX0JhV2gxSEZBREphQklROXN4?oc=5",
+        "description": "",
+        "pubDate": "2025-08-25T16:43:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "These fish may feel pleasure while being groomed by other fish",
         "link": "https://www.npr.org/2025/08/25/nx-s1-5508851/fish-pleasure-pain-cleaning",
         "description": "An experiment with threadfin butterflyfish finds that these fish may experience pleasure while being cleaned by bluestreak cleaner wrasse — suggesting this capacity goes far back in animal evolution.",
@@ -1447,6 +1456,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Key things to know about how Trump's war on higher education has ensnared an unexpected campus - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWjdTUF8tSkNlVXBGN2VVQkdhaVVDT3pmNllsMnhYSHN3OG5tcG5iZnpmN09jS050dEgtVjdvSEo5YmdKMVNuUHBJcWtrRDdyRzZNdmtOalFXV1lYa1A1Y2lGVXVVai0wdm5aNGE1My0yYUo4WWxfeGlMeW5iaF9TMWVpM002S1J5YXBRd29KZjZhYTdna2pqVDFxVmhLU1J6QXJLUFZWQjRDY3ZSVXVSVWxFMA?oc=5",
+        "description": "",
+        "pubDate": "2025-08-23T15:29:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Hawaii's Kilauea volcano erupts again and shoots lava for 31st time since December",
@@ -1518,15 +1536,6 @@
         "pubDate": "2025-08-20T19:10:59Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec00/live/e8c273b0-569c-11f0-90cf-2db8f0b9be7b.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Here’s what to know about the science behind hurricanes - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQci1TZW5MT2JTaktuRXZFdUpTVnVad3NaVUhMc2ljMlp4NWF2UVhQRGFqdDNycXJjR3pJUlh1a0U3S25xYXR4ekRmcmstTDBWRXk4YnRBeVV4OHdXNjQ1QjN6ekR3c0JkS1k3RlIzcUFCWER4TWFqQVpSZE0wNHhfdUZWTTdpU29mai1UTjRKY0RNWjZGc2U5Z0FVdmJzTW8wVFphTDRFZlFZOFVyVjdWMEp3?oc=5",
-        "description": "",
-        "pubDate": "2025-08-20T15:15:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -1602,6 +1611,15 @@
         "bias": 0
       },
       {
+        "title": "Scientists discover an ancient whale with a Pokémon face and a predator bite - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMnpDc0YzcGlpNG0yVE1iSzdOaFBqN0hybGE0Y0tFajEtdWl5bkNuMXpIYjlJVDdvQjFWcGsweUxRWWJscG9uMnd1dnBlS3BhZXZjNWIyTTQ2OWNtMVljR1lsOENHSlRIa3JHQXlCbGNaNWR0ZG9jYkd5UkVZRk5nWm12STg5cEwwM051Y2ducFlLcTNXT0k0N3ZhYXpvZkZmZmhCNXdFdVF4dUVQc0J4cjJCQzhIYVAxS25qTlMzSjA?oc=5",
+        "description": "",
+        "pubDate": "2025-08-15T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Hot, dry summers bring new 'firewave' risk to UK cities, scientists warn",
         "link": "https://www.bbc.com/news/articles/c9vd79x97zlo?at_medium=RSS&at_campaign=rss",
         "description": "Rising temperatures are increasing the chances of multiple wildfires at the same time, researchers say.",
@@ -1617,24 +1635,6 @@
         "pubDate": "2025-08-13T12:32:13Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bec7/live/0fad6450-786f-11f0-a975-cb151ca452f4.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Trump administration ordered to restore some withheld grant funding to UCLA - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSEd2M0xEZHhmaklUdnhLeE1TQUJpaEM1bE8zWXBUZWlmd3gzNlhXeVc0SV93cnJvUWtORkhXN3dmVnh2SkpuWDRPQXJZRXZJV2F6aDNqYUhDUHQ0Mjk0a2thMWJwdkhlZThHNmRiajRnenctNWQ4TFo1dkR5Nmp3dWk3elhWbnpzUVpzQ0hXMjFVdzQ?oc=5",
-        "description": "",
-        "pubDate": "2025-08-13T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "The robot chemists helping scientists in a university chemistry lab - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLVNyczk4T3ROaU9XRGJndkRLVjl2WWl4eWx4aFJpY3Qzb2pLUWgzME1SX3htMGtOcm9Gc1ZQRnFzSzhGMkJ4TXRkS21pNnRNT2ZRZUNhNG84VmpXU2U3bU0zVzFvQWlOVjdOM3ZkYVREREVuOWhfT1NSYUJCTzZSV1VhS0dYSXJqOTJtTmgzY0tGX2ZEel8zRkVpV05kcm9pWEdnaVRkdTVlUVdUYm10TWZNSlVYY3FqNEQyanFFVnd3WFk?oc=5",
-        "description": "",
-        "pubDate": "2025-08-12T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -1901,6 +1901,15 @@
         "bias": 0
       },
       {
+        "title": "Trump says he's firing Fed Governor Lisa Cook, opening new front in fight for central bank control - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbjJIWVI1WDA1YXFUby1fVlAwYm1zZkRydlRUMVVkSmE4RGJEWnd3VE1JSFZCcWNfcl9SeVBaUE55VUxsUFRrSmczclFtTUIzTXBQTTBYM3dLUTFxX3ZtTHJqU1RqYUczTGl6X2dCZjBnbEgyVVZadHpjYjN5aTZsRXZWYWV1Umo3a2VITmNYTmh3Tm5vOGc?oc=5",
+        "description": "",
+        "pubDate": "2025-08-26T08:18:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "How to stop AI agents going rogue",
         "link": "https://www.bbc.com/news/articles/cq87e0dwj25o?at_medium=RSS&at_campaign=rss",
         "description": "Agentic AI is taking decisions and acting on behalf of users, but how to stop that going wrong?",
@@ -2099,6 +2108,15 @@
         "bias": 0
       },
       {
+        "title": "In the US Open’s qualifying tournament, the smaller sportswear brands can shine - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaGt1ZXhTSVFQcWwzMXBLOXhjSEdkR2EzSVhidE1zNWZodFBlU3VmbV9GLThCWTRaRTNsMUhFZE5GU1dkV0JMZzFINF9VTUdSOTlyMm1xcFRuYUVsSFJhSEVjT1Jma3Y5b2FuUUhUS0wyWnl3RHlVYVgwRVRRXzZQSHBDTS1pZ3FjUlk3SnliMk81UF9nMnhvMGpucFlGendYbnZESkRDRmItVUlUNmFzMC1YamlmejVCc0E?oc=5",
+        "description": "",
+        "pubDate": "2025-08-21T21:08:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Students face new cellphone restrictions in 17 states as school year begins - AP News",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYkhpaFpxRGdnOFRFdk5YTFJlMVhCOUdIYm56NHpjcGJ1Z1dYWmhhUVdXZVEwZGlQVGhHVVFQTFl1ZElPbHkxc1lDb19DZGpmVE44RTIzZ2NsYktmZW1iOF95VmxRa2d2R1Z6LWMzSjZoSFpXZlJRaWRNNnBIc0FWcGtDTWt3UmJJeVl5YUhUOEt2MXpacmhlZjJjekZCU0ZWeVJXZmFn?oc=5",
         "description": "",
@@ -2225,28 +2243,10 @@
         "bias": 0
       },
       {
-        "title": "Mexican city of Culiacan is near a standstill over fears of cartel clashes - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc2RhLTJ6b2xNZ3d6NHdYcXFTNDhHbEt3SzlZSnJCcEdrbE84WG1iZlN2ZG9Gb3NNbVdQNzJwZ2JpWGhFaVZGMVROWktUUTE2bGZWenZmZFlYTFcxSXZiZEoySkZfTElaakFzMXZtR1BHcWhBVjF5dTBJajR0bVRZNEN6WkQtanM2MnNsc0FNZWtxYXJR?oc=5",
-        "description": "",
-        "pubDate": "2024-09-12T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Here’s a look inside Donald Trump’s $355 million civil fraud verdict - AP News",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdGxEQVdEcjJ2UU1Zd25FM0pUVGF0VXpSaUpRcUdtSnczbUcwWEhQWUdmVVBkOUprU2ZMXzVfbFNUUjkyNm9mNkVDUFp6ZG95OUQ4VTg3cXpzTy1ZWUIxM0t1dFJJZkJmazFrdkpCU2tza0tFeUp0VkdBUC1Sd2dYSlNPUmJoWGktcEtxUHJPQUZ6S05FU2ZoX2VLanlxUjRKWVZWMw?oc=5",
         "description": "",
         "pubDate": "2024-02-17T08:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-        "description": "",
-        "pubDate": "2016-07-23T01:28:10Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
