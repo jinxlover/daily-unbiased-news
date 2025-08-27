@@ -1,7 +1,25 @@
 {
-  "lastUpdate": "2025-08-27T20:40:43.004394Z",
+  "lastUpdate": "2025-08-27T20:55:51.548339Z",
   "news": {
     "World": [
+      {
+        "title": "Colleges see significant drop in international students as fall semester begins",
+        "link": "https://www.npr.org/2025/08/27/nx-s1-5498669/trump-college-international-student-visa",
+        "description": "Delays and increased screenings for visas mean that many students didn't make it to campus on time – and that has some big implications for the economy.",
+        "pubDate": "2025-08-27T20:46:33Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "'Exhausted, hungry, and scared': What it's like to be a journalist in Gaza",
+        "link": "https://www.bbc.com/news/articles/crm49zxyn0go?at_medium=RSS&at_campaign=rss",
+        "description": "Palestinian journalists give the BBC first-hand accounts of the hardship and dangers they face while reporting on the war.",
+        "pubDate": "2025-08-27T20:46:24Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f862/live/a109c510-8297-11f0-ab3e-bd52082cd0ae.png",
+        "bias": 0
+      },
       {
         "title": "European leaders boost Moldova in face of 'relentless' Russia",
         "link": "https://www.bbc.com/news/articles/cx2xzng4rwro?at_medium=RSS&at_campaign=rss",
@@ -21,7 +39,7 @@
         "bias": 0
       },
       {
-        "title": "Denmark apologises to Greenland's victims of forced contraception scandal",
+        "title": "Denmark apologises to Greenland's forced contraception victims",
         "link": "https://www.bbc.com/news/articles/c5yelp5466no?at_medium=RSS&at_campaign=rss",
         "description": "Mette Frederiksen says sorry to to women who were fitted with devices, sometimes without their knowledge.",
         "pubDate": "2025-08-27T19:44:37Z",
@@ -64,6 +82,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Missing baby in California likely died from ongoing parental abuse, prosecutor says - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYVdOV1ZPalI0bHdnS2dVMVlyVVBYd29aS25KcHI2dlB0Nmh4LVhMV1dld0JSM2pONS1qX2g1QlRaa2x2ZTBHdGljSkZDNnBjdEx1a1BsOXpVTEs0OTVwVzNTemJEQl9ZcjZfSGdxUDRlSG91ckEzeEhtOHRVeXh0dGd0WFRCUWxiZXNzZ3pQSEtVaDJKTFQweTlYeVJuQTNJSzFwbFln?oc=5",
+        "description": "",
+        "pubDate": "2025-08-27T19:15:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Blair joins White House meeting with Trump on post-war Gaza",
@@ -424,33 +451,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Why ICJ Judge Sebutinde faces calls to quit from Israel genocide case",
-        "link": "https://www.aljazeera.com/news/2025/8/27/why-icj-judge-sebutinde-faces-calls-to-quit-from-israel-genocide-case?traffic_source=rss",
-        "description": "Calls for an investigation come after Sebutinde says, 'The Lord is counting on me to stand on the side of Israel.'",
-        "pubDate": "2025-08-27T14:53:29Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Trump's 50% tariff on India kicks in as Modi urges self-reliance",
-        "link": "https://www.bbc.com/news/articles/c5ykznn158qo?at_medium=RSS&at_campaign=rss",
-        "description": "The US president's steep 50% tariffs on India have kicked in, sending Narendra Modi's government into firefighting mode.",
-        "pubDate": "2025-08-27T14:19:29Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e40/live/5f28ff50-81c8-11f0-b1b7-d5227004453f.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Australia, Canada and Philippines stage air defense drills off disputed shoal guarded by China - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVXBuMnNCanR2MFhWWkxRQWgzeTlGMG9Rai0wUF9pMXNZU1dscFZKWGJnWUhWREdNNlN4ZXpEVUVPbzdFQl9OYWpXam01MjZhb09uTW9tQkJvTXM3eS1YSzNXb1dTUUYxZTROdFdXal9UaGR6UktlcGdjQ0gyVHlzdEhTYkJ6SG0waFdEd2RMTGNzR1BKRnk5dVIzWlZNR29VNG05bjh5MzBkRXZGeXN5N19rbTlQZkNTVENOTXNVTkd2Yk0?oc=5",
-        "description": "",
-        "pubDate": "2025-08-27T14:01:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
@@ -639,15 +639,6 @@
         "link": "https://www.npr.org/2025/08/26/nx-s1-5511445/rep-emanuel-cleaver-says-redistricting-hurts-democrats-republicans-and-the-republic",
         "description": "NPR's Juana Summers talks with Democratic Rep. Emanuel Cleaver about possible redistricting in Missouri. His district, which includes part of Kansas City, may be targeted by state Republicans.",
         "pubDate": "2025-08-26T21:08:28Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "NEA cancels decades-long creative writing fellowship",
-        "link": "https://www.npr.org/2025/08/26/nx-s1-5518202/nea-cancels-creative-writing-fellowship",
-        "description": "For decades the program has supported writers who would become big names – Alice Walker, Michael Cunningham, Louise Erdrich and more. Last week, applicants got an email saying the program would be no more.",
-        "pubDate": "2025-08-26T20:39:57Z",
         "source": "npr.org",
         "image": "",
         "bias": -1
@@ -903,6 +894,15 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dc4/live/c52bce00-7e93-11f0-bb23-61f665394239.jpg",
         "bias": 0
+      },
+      {
+        "title": "MSP Jeremy Balfour resigns from Tories over 'reactionary politics'",
+        "link": "https://www.bbc.com/news/articles/c5ylwxwlpx1o?at_medium=RSS&at_campaign=rss",
+        "description": "The Lothian representative claims senior MSPs are being ignored under Russell Findlay's leadership.",
+        "pubDate": "2025-08-22T11:46:26Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6794/live/8f43cd00-7f4d-11f0-ab3e-bd52082cd0ae.jpg",
+        "bias": 0
       }
     ],
     "Tech": [
@@ -1087,15 +1087,6 @@
         "bias": 0
       },
       {
-        "title": "UK police use facial recognition technology during the two-day Notting Hill Carnival - AP News",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcnJydHpvUVB4Vm5qa3BoX3BPX2lNc1FlZUo4ZUdRWEU4RnhycW5jaXotT3lPajVNdXh5cmI0aWxXZjB6djB2NUo5T21qVGVDczg5ZXpvTGQtRHRKV19UQzZ5RTNRcFdmUzRhZ0FGQzJYZW1ia3ZRdW4zZUdzbDdjRllHcmtETWxpeDBZeXVBbVo2T1kwTC1uUTRSNEczemFzaVdiVUZfV3dIUDNpc1V6UHhNQWZ0SjVOZE9oMWFYb0tnNFZORFc2Ym4wX2RyTkdTUlhsQ1JkNmZSdw?oc=5",
-        "description": "",
-        "pubDate": "2025-08-25T03:08:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Women aren't just 'cosy gamers' - I play horror games and 600,000 watch",
         "link": "https://www.bbc.com/news/articles/cm21xy23npyo?at_medium=RSS&at_campaign=rss",
         "description": "Once thought of as a male-dominated pastime, the number of women streaming and playing video games is growing rapidly.",
@@ -1139,15 +1130,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Lions QB Kyle Allen, rookie WR Isaac TeSlaa solidify roster chances in 26-7 preseason loss to Texans - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR2RSMGc5bzdzdmEtUXgwbVp4NTcyMTNQZVFjbkxfOGVGUjRnNHZ1dU1RYkE2RmlCREhVbmxpTXpabm9CVHpNZHZYalE3T3lPQkZyaXdLYk5UcjZ5V21lOWhqZ0xYNDdKZWlrU3BxUEFrSXlnRU1TMXBuQVE3MFZzUHdJekE?oc=5",
-        "description": "",
-        "pubDate": "2025-08-23T20:58:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "American midfielder Gio Reyna leaves Borussia Dortmund for Gladbach - AP News",
@@ -1339,15 +1321,6 @@
         "bias": 0
       },
       {
-        "title": "How a ship that glides like a pelican could change travel and defense - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeHlLcmlwLXIxdEdseWhkeFZiN08zaXBBTk1QWmR4U1hONlliYjNiUTJhMmpod0dyLTBUS015QVNPVkdvRWwwNGtES3E2NEo5dVdfRXlGZU41bG5VcndDYXJldlZSdEVBVnlLajg5SkdOcUVNYUtsTGRHQ1NHc1JaQTRzT3hxeUhLT3pqS3lMYnU4Qm9jaS1jcWFB?oc=5",
-        "description": "",
-        "pubDate": "2025-08-20T17:04:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Microsoft boss troubled by rise in reports of 'AI psychosis'",
         "link": "https://www.bbc.com/news/articles/c24zdel5j18o?at_medium=RSS&at_campaign=rss",
         "description": "Mustafa Suleyman said there was still \"zero evidence of AI consciousness today\".",
@@ -1355,6 +1328,33 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cd8/live/925378b0-7e76-11f0-a34f-318be3fb0481.jpg",
         "bias": 0
+      },
+      {
+        "title": "These brain implants speak your mind — even when you don't want to",
+        "link": "https://www.npr.org/sections/shots-health-news/2025/08/20/nx-s1-5506334/brain-computer-implant-speak-inner-speech-mind",
+        "description": "Brain-implanted devices that allow paralyzed people to speak can also decode words they imagine, but don't intend to share.",
+        "pubDate": "2025-08-20T10:00:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "UK backs down in Apple privacy row, US says",
+        "link": "https://www.bbc.com/news/articles/cdj2m3rrk74o?at_medium=RSS&at_campaign=rss",
+        "description": "UK authorities have demanded access to Apple users' protected files when required for investigations.",
+        "pubDate": "2025-08-19T21:45:56Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52fc/live/19be9d90-7cdb-11f0-8600-6b5268f36518.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Tech Life",
+        "link": "https://www.bbc.co.uk/sounds/play/w3ct6zp4?at_medium=RSS&at_campaign=rss",
+        "description": "A special from Edinburgh, where art and performance meet tech with spectacular results.",
+        "pubDate": "2025-08-19T19:30:00Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0lxrjcx.jpg",
+        "bias": -1
       }
     ],
     "Science": [
@@ -1422,15 +1422,6 @@
         "bias": -1
       },
       {
-        "title": "Philippine president fires police chief, who led the arrests of Duterte and televangelist Quiboloy - AP News",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbktFMDB3bERjcEJ6cnJ1dzE3ZFkwQ0VpRkJvSEhSaVpHSDFMc2RUcEktVlEtODlBakFKLWt6OXpVWEVCNllXSXdGV216MVpUT1JxN3JOQmZrVkc2RWJ0VkI5VjNTMUVsZWxvcUVjaXhjRHhmZ0dONHc0SzFxbzBGMThrSzU5SnJrN3ZuYjFySkxFZGRwa2Q2c3Y4UGJmWHRJZGdfTDQ2eFlEenlDdjRwRkNaSm0xUHkyeGN4LUxwVHY2ZmVp?oc=5",
-        "description": "",
-        "pubDate": "2025-08-26T05:31:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Guardians’ frustrations boil over as they are shut out for 3rd straight game - AP News",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUjJCbGltUkROSzFzRk9iaUZCdzBwNEZzUE5mOHloNEpGOFdHc0dFTWpTQ0F6aEZ4UHA5MXo3b3lyZVZEQmR5TDRPVWVtSlVkek91RGhoU1hQSUFIWlI3V0txS1Vfd1RpQ0pCNU9iREg0b3d3Y285R084dk1RNkJEWGY2Y3NfT1A3TU16SHdCUjhDaFBxY3NOLW1R?oc=5",
         "description": "",
@@ -1449,10 +1440,28 @@
         "bias": 0
       },
       {
+        "title": "The U.S. confirms its first human case of New World screwworm. What is it?",
+        "link": "https://www.npr.org/2025/08/25/nx-s1-5515487/new-world-screwworm-us-human-case",
+        "description": "U.S. officials confirmed a case of the flesh-eating parasite in a person who traveled from El Salvador. Screwworm typically affects cattle in South America but has spread north in recent years.",
+        "pubDate": "2025-08-25T17:38:54Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Democratic senator warns of 'Power 2' owning college sports if NCAA-backed SCORE Act becomes law - AP News",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMUZIMWJ3TzRNdGozeDNtUjFjelNWYmZJeTVUY0tpdFd3MzFmdUw0WTBkWFVCS2ZKYU5TUlpYTE9lMS1hOUg3ZGx3UG1sUV9iQ2VTYnhlRUd5SkotZUttZXhjSURmZDlwc0ZGVDdxMDZIRUR3YTExdzZFWTZfR2xwUFVOX0JhV2gxSEZBREphQklROXN4?oc=5",
         "description": "",
         "pubDate": "2025-08-25T16:43:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Video shows pro wrestler violently assaulted by Raja Jackson, son of ex-UFC champ Rampage - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS2NGWEg2QWZJc0dBQmVXM3lycDRlQk50VHBKRThBTmNnWW8tYTg1YUdOdEtSUy1UdXFiSUtKd29JWUxYM3BNcFY3MVRySTBHdllTQm5reTRHMzhUakJYVXdnLV9KblI2cURtZW1sc3NMTkFORXVPUkFlUkFBcUhqTW5xOTlyNHpnWHc?oc=5",
+        "description": "",
+        "pubDate": "2025-08-25T16:39:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1537,15 +1546,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "North Korea accuses South of ‘serious provocation’ over border warning shots - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSFlCUkhnTVBCZW85YWNqLWtxb0VZcTUyODZRa3ZJZXdEVzdtazQzdzZtNVhXTEZwMW9FaDV2ODZ1QUk4QnQtRkZPclh2bVMxUDFlSTZieVlaYW4xVzBqNERGdkI2aGpmcS1HVnlhZnJ6S09kdzZPeXNRSE40ZHZxcVQ0bGV5c1B4aHc5VHAwck4xekZ3bWNwRTlaazJ5TzlpS1RJb3A1dy1aQVU?oc=5",
-        "description": "",
-        "pubDate": "2025-08-23T01:34:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "What’s next after a court cut Donald Trump’s $515 million fine to $0 - AP News",
@@ -2009,15 +2009,6 @@
         "bias": 0
       },
       {
-        "title": "Trump says he's firing Fed Governor Lisa Cook, opening new front in fight for central bank control - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbjJIWVI1WDA1YXFUby1fVlAwYm1zZkRydlRUMVVkSmE4RGJEWnd3VE1JSFZCcWNfcl9SeVBaUE55VUxsUFRrSmczclFtTUIzTXBQTTBYM3dLUTFxX3ZtTHJqU1RqYUczTGl6X2dCZjBnbEgyVVZadHpjYjN5aTZsRXZWYWV1Umo3a2VITmNYTmh3Tm5vOGc?oc=5",
-        "description": "",
-        "pubDate": "2025-08-26T08:18:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "How to stop AI agents going rogue",
         "link": "https://www.bbc.com/news/articles/cq87e0dwj25o?at_medium=RSS&at_campaign=rss",
         "description": "Agentic AI is taking decisions and acting on behalf of users, but how to stop that going wrong?",
@@ -2096,6 +2087,15 @@
         "pubDate": "2025-08-25T11:03:22Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6853/live/045447d0-81a3-11f0-ba2e-9321f123f193.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Lions QB Kyle Allen, rookie WR Isaac TeSlaa solidify roster chances in 26-7 preseason loss to Texans - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR2RSMGc5bzdzdmEtUXgwbVp4NTcyMTNQZVFjbkxfOGVGUjRnNHZ1dU1RYkE2RmlCREhVbmxpTXpabm9CVHpNZHZYalE3T3lPQkZyaXdLYk5UcjZ5V21lOWhqZ0xYNDdKZWlrU3BxUEFrSXlnRU1TMXBuQVE3MFZzUHdJekE?oc=5",
+        "description": "",
+        "pubDate": "2025-08-23T20:58:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -2207,6 +2207,15 @@
         "bias": 0
       },
       {
+        "title": "Business spat between Daryl Hall and John Oates has been resolved in arbitration, attorneys say - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTDNrakxnMzg0cFc5UHNHb0tpRnRtVERrT0NQMm83UTJ0RXVRSmlfemhxYWdnMHBSb3E1Z1VNOGtPaW5yMFgtYkp4Y21XY0V2Sk5laUJsNl9ITkljWjVpWURIMmhuRFNCVUxFOTJqNHI3NjV1M1o0YUF4dmV0U0kyeTlFSHE?oc=5",
+        "description": "",
+        "pubDate": "2025-08-11T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "China's unemployed young adults who are pretending to have jobs",
         "link": "https://www.bbc.com/news/articles/cdd3ep76g3go?at_medium=RSS&at_campaign=rss",
         "description": "With Chinese youth unemployment high, individuals are paying to go into offices and pretend to work.",
@@ -2250,15 +2259,6 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9029/live/75793c50-533f-11f0-8485-7bd50fa63665.jpg",
         "bias": 0
-      },
-      {
-        "title": "Trump's global tariffs 'victory' may well come at a high price",
-        "link": "https://www.bbc.com/news/articles/c0l6g13rlwko?at_medium=RSS&at_campaign=rss",
-        "description": "The US president considers it a win - but if this all triggers a foundational realignment, the results may not break in his favour",
-        "pubDate": "2025-07-31T23:01:04Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d47d/live/c1b3a180-6e1c-11f0-89ea-4d6f9851f623.png",
-        "bias": 0
       }
     ],
     "Culture": [
@@ -2269,6 +2269,15 @@
         "pubDate": "2025-08-27T19:42:00Z",
         "source": "news.google.com",
         "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Packed pub watches The Chase fan's posthumous win",
+        "link": "https://www.bbc.com/news/articles/c4glj74ey5qo?at_medium=RSS&at_campaign=rss",
+        "description": "Tim McCarthy died in July a month before the TV quiz episode he featured in was broadcast.",
+        "pubDate": "2025-08-27T17:15:52Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b78a/live/2f069290-8369-11f0-b3de-c13d348c14aa.jpg",
         "bias": 0
       },
       {
@@ -2335,30 +2344,12 @@
         "bias": 0
       },
       {
-        "title": "Teen avoids jail over plot to attack Taylor Swift Vienna concert",
-        "link": "https://www.bbc.com/news/articles/crlz72l66pro?at_medium=RSS&at_campaign=rss",
-        "description": "Mohamed A will serve an 18-month suspended sentence after sending bomb-making instructions.",
-        "pubDate": "2025-08-26T17:39:09Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d58d/live/ed9d9f70-829a-11f0-bda8-213e434b329e.jpg",
-        "bias": 0
-      },
-      {
         "title": "Bruce Willis's wife says he's in great health but brain failing",
         "link": "https://www.bbc.com/news/articles/c4gzkp8nzy0o?at_medium=RSS&at_campaign=rss",
         "description": "The Die Hard star's partner also says she hopes to advocate for fellow carers in her new book.",
         "pubDate": "2025-08-26T17:30:06Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e71b/live/af083310-829a-11f0-bda8-213e434b329e.jpg",
-        "bias": 0
-      },
-      {
-        "title": "TV actor abused two girls at party, trial told",
-        "link": "https://www.bbc.com/news/articles/cwyel8lkxg5o?at_medium=RSS&at_campaign=rss",
-        "description": "John Alford, who appeared in London's Burning, is accused of having sex with a 14-year-old girl.",
-        "pubDate": "2025-08-26T15:58:49Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f836/live/0a39dba0-8294-11f0-be97-fd5500e1b5ea.jpg",
         "bias": 0
       },
       {
@@ -2708,6 +2699,15 @@
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdHRGS3pnYkl0OFc1NHRweXVrWDN5YVRSQlBKbElfYVVTTV9NMnV2OHZ3dVJvNktuWUhHZ0MwdWI1VGhlYTdId0ZXTXRxU3R4ZGVEbTB5N2tUNkliYTM1QmI5VUNJX0txaEFyMDNxRkJ3WjM5MG84YlExcHI0SnEyYXZFVW9HcG1yaU03NzIxN2llMXMwbVFBWWFrVmM?oc=5",
         "description": "",
         "pubDate": "2025-05-21T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "The Menendez brothers case reflects a shifting culture across decades - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaTJjaEtLUHhnTTVFT0o2UTh4SEg4ZVFzLVRBNmFaSFpWZE5ubVdGUUd4R2IyYzBTN3pfUEUtNFVqZWJhc3lNdGlVVHlhbC05eDBydVRDRkxtbG1MVUx6S3VQVE9RTjhpWDRhNkNqZTlXY3BuYnZvN0NXTGFkVUQyc3I1SWxHRWwwQWQ5VTUyV2NDOXdiOU12UC03Q2Q3RkpyVURabGpTOFlpUllKcXc?oc=5",
+        "description": "",
+        "pubDate": "2025-05-14T07:00:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
