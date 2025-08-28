@@ -1,7 +1,34 @@
 {
-  "lastUpdate": "2025-08-28T10:42:38.425450Z",
+  "lastUpdate": "2025-08-28T10:55:23.541280Z",
   "news": {
     "World": [
+      {
+        "title": "What we know about the shooter who killed 2 and wounded 17 in Minneapolis - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb0tUOE9NRXMyN1ZfQ3ZqWk9kcEZ0UmhfdGpUQS1jOFIxaXpiSXY2emNUT1AzcWFUUWVfSDg4LVFtRVpSU3hUNHhlYkphUE9vWEx6QkFSeW5WV1hyV2pEZFpoNEpTd2YzVkdZUC1QTmotMkVORFNaSzV1ZW1QWXNDQTJqMjM5b2Q4Z0FIQzFFcFBpMENoNXdEMEJFNGVtX3FNZUE?oc=5",
+        "description": "",
+        "pubDate": "2025-08-28T10:45:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "'My friend got hit in the back': Witnesses describe terror of US school shooting",
+        "link": "https://www.bbc.com/news/articles/cev2w1elx7wo?at_medium=RSS&at_campaign=rss",
+        "description": "One young boy says he was protected from gunfire in a church by a friend who lay on top of him and was shot.",
+        "pubDate": "2025-08-28T10:36:36Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/717b/live/716dbea0-83f1-11f0-b391-6936825093bd.jpg",
+        "bias": 0
+      },
+      {
+        "title": "US CDC chief fired after weeks in role as other top officials quit agency",
+        "link": "https://www.aljazeera.com/news/2025/8/28/us-cdc-chief-fired-after-weeks-in-role-as-other-top-officials-quit-agency?traffic_source=rss",
+        "description": "Susan Monarez fired while four officials resign amid tensions over vaccine policies and public health directives.",
+        "pubDate": "2025-08-28T10:17:11Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Argentina’s president pelted with objects at campaign rally",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/8/28/argentinas-president-pelted-with-objects-at-campaign-rally?traffic_source=rss",
@@ -48,15 +75,6 @@
         "bias": -1
       },
       {
-        "title": "The road to famine: How U.S. policy failed Palestinians in Gaza",
-        "link": "https://www.npr.org/2025/08/28/nx-s1-5515620/israel-gaza-biden-famine",
-        "description": "As famine plagues Gaza, NPR exclusive reporting looks at the U.S.'s role in the humanitarian crisis. Many former officials NPR interviewed share a common refrain: Did we do enough to prevent this?",
-        "pubDate": "2025-08-28T09:00:00Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "What will the end of the 'de minimis' rule mean for U.S. consumers?",
         "link": "https://www.npr.org/2025/08/28/nx-s1-5519361/de-minimis-rule-tariffs-consumers-imports-trump",
         "description": "On Friday, the U.S. is ending its de minimis rule that made it easy for cheap goods to reach consumers. The change will affect roughly 4 million such packages processed each day.",
@@ -66,13 +84,13 @@
         "bias": -1
       },
       {
-        "title": "MLB | Latest News, Stats, and Scores - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-        "description": "",
-        "pubDate": "2025-08-28T08:50:35Z",
-        "source": "news.google.com",
+        "title": "The road to famine: How U.S. policy failed Palestinians in Gaza",
+        "link": "https://www.npr.org/2025/08/28/nx-s1-5515620/israel-gaza-biden-famine",
+        "description": "As famine plagues Gaza, NPR exclusive reporting looks at the U.S.'s role in the humanitarian crisis. Many former officials NPR interviewed share a common refrain: Did we do enough to prevent this?",
+        "pubDate": "2025-08-28T09:00:00Z",
+        "source": "npr.org",
         "image": "",
-        "bias": 0
+        "bias": -1
       },
       {
         "title": "Caning and fines for those caught in Singapore drug vape crackdown",
@@ -100,6 +118,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "MLB | Latest News, Stats, and Scores - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+        "description": "",
+        "pubDate": "2025-08-28T08:20:35Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Ex-Biden administration officials detail contentious talks over Israel's war in Gaza",
@@ -221,7 +248,7 @@
       {
         "title": "LIVE: Israel starves four more Palestinians to death in Gaza",
         "link": "https://www.aljazeera.com/news/liveblog/2025/8/28/live-israel-demolishes-all-buildings-in-gaza-citys-southern-zeitoun-area?traffic_source=rss",
-        "description": "Israeli attacks kill at least 20 people in Gaza, including a woman and her child in the Bureij camp.",
+        "description": "Israeli attacks kill at least 17 people in Gaza, including a woman and her child in the Bureij camp.",
         "pubDate": "2025-08-28T05:53:31Z",
         "source": "aljazeera.com",
         "image": "",
@@ -417,15 +444,6 @@
         "bias": 0
       },
       {
-        "title": "What we know about the shooter who killed 2 and wounded 17 in Minneapolis - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb0tUOE9NRXMyN1ZfQ3ZqWk9kcEZ0UmhfdGpUQS1jOFIxaXpiSXY2emNUT1AzcWFUUWVfSDg4LVFtRVpSU3hUNHhlYkphUE9vWEx6QkFSeW5WV1hyV2pEZFpoNEpTd2YzVkdZUC1QTmotMkVORFNaSzV1ZW1QWXNDQTJqMjM5b2Q4Z0FIQzFFcFBpMENoNXdEMEJFNGVtX3FNZUE?oc=5",
-        "description": "",
-        "pubDate": "2025-08-28T00:54:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Watch: Moment pilot is rescued after emergency water landing",
         "link": "https://www.bbc.com/news/videos/ce3j0vnn8yzo?at_medium=RSS&at_campaign=rss",
         "description": "New drone video shows rescuers rushing to the small plane off the coast of North Carolina and extracting the pilot in less than 30 seconds.",
@@ -433,24 +451,6 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e027/live/393623d0-83a4-11f0-ab3e-bd52082cd0ae.jpg",
         "bias": 0
-      },
-      {
-        "title": "Argentinian President Javier Milei leaves rally after protesters throw rocks",
-        "link": "https://www.aljazeera.com/news/2025/8/28/argentinian-president-javier-milei-leaves-rally-after-protesters-throw-rocks?traffic_source=rss",
-        "description": "The Milei government is weathering a bribery scandal as a pair of important elections approach in September and October.",
-        "pubDate": "2025-08-28T00:28:55Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Is Trump taking control of Corporate America?",
-        "link": "https://www.aljazeera.com/video/counting-the-cost/2025/8/27/is-trump-taking-control-of-corporate-america?traffic_source=rss",
-        "description": "Donald Trump pledges more deals like Intel stake, worrying business community.",
-        "pubDate": "2025-08-27T23:57:37Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
@@ -988,6 +988,15 @@
         "bias": 0
       },
       {
+        "title": "Spate of hoax calls about active shooters stir fear at college campuses around the US - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMEl2SlBRUGJ5MmlSWE9sQmVvYkJOalRGRWd3WjRxZ3ZzZTN4ZWt3cFJURWVxZnFBN2ZrWkk4M0dWbTBSc3NCb01WQ3ptUXZfdTJLWkhUM2NqU29sa1NBMlgxRzNLMXppQXNJazNUYkkxbDBFYVZoQmNrRHhMMFA1aWpyUlpUczR4LXpKcjdJOHBRcmh5NzRiZWxjNk04VHEzV2ZjWVNQaXFIN1VwOGVBRQ?oc=5",
+        "description": "",
+        "pubDate": "2025-08-27T00:06:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Kilmar Abrego Garcia is back in jail and facing deportation. Here’s what to know - AP News",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOakd1SkkzZU10WHNsTkVMejY4QmFNaFRaSVF0THZnY01KR1NlYkgwVU9WODBETGoxTkE1RUFFb2RzUTh1Um5iUUlKNUs1dXpWMXQ0a0RLeDQ3U0VLWW1TNVdBUFByX21DNVNpbEJFNG1PNHlUeTE2RzN6NUM3R2hJVmQtSllrUFlxWnlZcDI5MWRkRlBkdGdCQnctTDdBRl9o?oc=5",
         "description": "",
@@ -1346,15 +1355,6 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7849/live/086fde10-7e83-11f0-9e05-3dbec5559644.jpg",
         "bias": 0
-      },
-      {
-        "title": "Netflix signs up another YouTube star with Mark Rober deal",
-        "link": "https://www.bbc.com/news/articles/c20939pp04po?at_medium=RSS&at_campaign=rss",
-        "description": "The YouTuber and former Nasa engineer is working with Jimmy Kimmel to make a new competition show.",
-        "pubDate": "2025-08-21T11:26:08Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aee0/live/3a475b70-7e6f-11f0-a34f-318be3fb0481.jpg",
-        "bias": 0
       }
     ],
     "Science": [
@@ -1453,6 +1453,15 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMUJWYWxlejV5b0xYdWpMbGFCUzRxd0h4X3g5R05LYVFuYlJyOUViUm1US0t5R3V4djQxUUlnYkVZSVlrWUlHTUFINTJkVTJWSmZyaTZZOEgxWHR3ZlE3aWFtQ2ZoaGhobHhOUUUxTU96cDZRLTBoYUNRX2VCNTIyQUFjM0dGX3BJU01LTi1aREtCZ1Fkd18w?oc=5",
         "description": "",
         "pubDate": "2025-08-26T04:05:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "V of K-pop sensation BTS thrills fans with first pitch at Dodgers game and meets Shohei Ohtani - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZDUwWndyZDhoRDZiRTYxUi15TXVDanlWQVhTUkFEaFhNNWkwR2pwZTEtOGZOS0ZHTlBSZXk4c2pBU1drdEwxeF9HcElnZllNSEtkNWJIZHdKR3V2Tjh2R2MxREZkeUExWktmWWdEMlZuaTV6S0haSkdWX2F0bEJvX21HREZtdjB1LVM0X1NR?oc=5",
+        "description": "",
+        "pubDate": "2025-08-26T02:33:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1798,18 +1807,18 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ae0/live/32850770-6ecf-11f0-af20-030418be2ca5.png",
         "bias": 0
-      },
-      {
-        "title": "Judge allows the National Science Foundation to withhold hundreds of millions of research dollars - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbnpNUDVSRUhTc2hPN3QtdEdwRTU0WDhVR0psUy1ieUdZbU1ZRFZYN252eUdVRUozTTZtQlJGbElpZGhzcmRZaHFLOGJtY0NVd1pKaGZIWVZCa0RUdVRJN0w2VDNwX0pKeW9MWkExeWhXTDRPMkE3TE1fQUVqX2M4NDR3VnZ4RGJTczdmMG9lcHFtTEM0?oc=5",
-        "description": "",
-        "pubDate": "2025-08-01T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Business": [
+      {
+        "title": "Ryanair to increase oversized bag bonus for staff",
+        "link": "https://www.bbc.com/news/articles/c99mdv3y431o?at_medium=RSS&at_campaign=rss",
+        "description": "Michael O'Leary told the BBC the change would come in November, and that he made no apology for it.",
+        "pubDate": "2025-08-28T10:48:36Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9f7/live/afc840f0-8359-11f0-825f-ef3af8edf016.jpg",
+        "bias": 0
+      },
       {
         "title": "Electric cars eligible for £3,750 discount announced",
         "link": "https://www.bbc.com/news/articles/cvgvywyev1do?at_medium=RSS&at_campaign=rss",
@@ -1892,15 +1901,6 @@
         "bias": 0
       },
       {
-        "title": "Ryanair to increase oversized bag bonus for staff",
-        "link": "https://www.bbc.com/news/articles/c99mdv3y431o?at_medium=RSS&at_campaign=rss",
-        "description": "Michael O'Leary told the BBC the change would come in November, and that he made no apology for it.",
-        "pubDate": "2025-08-27T17:07:26Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9f7/live/afc840f0-8359-11f0-825f-ef3af8edf016.jpg",
-        "bias": 0
-      },
-      {
         "title": "Solar-powered postboxes being rolled out across UK",
         "link": "https://www.bbc.com/news/articles/cgln72rgrero?at_medium=RSS&at_campaign=rss",
         "description": "Royal Mail says the revamped design will help it compete in small parcel deliveries.",
@@ -1916,15 +1916,6 @@
         "pubDate": "2025-08-27T16:29:55Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af01/live/2851dcc0-8319-11f0-ad25-d7b7e6500196.jpg",
-        "bias": 0
-      },
-      {
-        "title": "As business of college football booms, the Chiefs bet big on Nebraska-Cincinnati game in Kansas City - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2JDNzYyU3ljamlHcVpYZm9iYTVSTktnU0ltVVRlOFdmalVfUGM3dEx5UC1FV2dxVzRGZU1PdFNqTmdNVm01eWVTWWNhQW10R1VKMlZCVy1SR19ZRkZUVVkxazVTTnpzbGt1MGRMb3pNLWUtOFhNcURuT3Roc0R2RDJKeUs2NXRNZGRySXNubVdwVmxaMG1tMGJRMExKQU45VGxxMlNyY05jX2RYWE40?oc=5",
-        "description": "",
-        "pubDate": "2025-08-27T16:23:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -2027,30 +2018,12 @@
         "bias": -1
       },
       {
-        "title": "Amari Cooper’s ‘unfinished business’ brings him back to the Raiders - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa1U0UzNGWkptTlhkdkNuQmxzbE5iZVFFRFBmbWNicEhvRWZXN0RlcTEwbHREMUJtT2VkRWJuZUtBd29RWE55SVNjV20xU1JOa3lxVGN4cVI3RHUwclZYbFZVc1I3Mk9nOUg0M2VkamVtM202ZEZOVVB1dTc4QV9QaGlVcU02WEE?oc=5",
-        "description": "",
-        "pubDate": "2025-08-27T01:16:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "US restaurant chain Cracker Barrel scraps new logo after backlash",
         "link": "https://www.bbc.com/news/articles/ce835lry896o?at_medium=RSS&at_campaign=rss",
         "description": "US President Donald Trump was among those criticising the company for unveiling a new, minimalistic version of its logo.",
         "pubDate": "2025-08-27T00:51:21Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b745/live/d61e1d50-82d8-11f0-b182-350836e22468.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Spate of hoax calls about active shooters stir fear at college campuses around the US - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMEl2SlBRUGJ5MmlSWE9sQmVvYkJOalRGRWd3WjRxZ3ZzZTN4ZWt3cFJURWVxZnFBN2ZrWkk4M0dWbTBSc3NCb01WQ3ptUXZfdTJLWkhUM2NqU29sa1NBMlgxRzNLMXppQXNJazNUYkkxbDBFYVZoQmNrRHhMMFA1aWpyUlpUczR4LXpKcjdJOHBRcmh5NzRiZWxjNk04VHEzV2ZjWVNQaXFIN1VwOGVBRQ?oc=5",
-        "description": "",
-        "pubDate": "2025-08-27T00:06:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -2256,6 +2229,33 @@
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeElnZWRiSE5Tb2wyVENTbEtvd01PMmwwY1p1Z21Tb1ZmZkRuSUpzWHQ4S1hKX3J1NWpoWU9Td3paOURNLTRQT0tKUXRRb0RNT013ZVp3cGlUZDl3SnZ3RF9GUmdxN25vTEVWX2dmZkVFNnJsUGpoVTdFYU1LYlJoWFpHbG1qMS1xN0w5NnBIcTFDOUFFLXBrYUFhTnA2RFlPWXJr?oc=5",
         "description": "",
         "pubDate": "2025-08-13T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "The UK car industry is at a tipping point - can it be saved?",
+        "link": "https://www.bbc.com/news/articles/c23p028p200o?at_medium=RSS&at_campaign=rss",
+        "description": "Tariffs, Brexit, pandemic havoc... All of this caused short-term disruption - but the impact concealed a deeper problem for the UK automotive industry",
+        "pubDate": "2025-08-12T23:00:58Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c892/live/457e4ce0-736d-11f0-8071-1788c7e8ae0e.png",
+        "bias": 0
+      },
+      {
+        "title": "Inside Australia's billion-dollar bid to take on China's rare earth dominance",
+        "link": "https://www.bbc.com/news/articles/cgm2z91mvlvo?at_medium=RSS&at_campaign=rss",
+        "description": "Recent moves by Beijing have got businesses worried - and Australia is looking to offer an alternative.",
+        "pubDate": "2025-08-12T22:05:03Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a471/live/fc000d40-7756-11f0-89ee-73563f6604dd.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Spirit Airlines sounds the alarm on its future ability to stay in business - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVEZ3SlFNd1BWdnEzTU9mV3RfaEJ3ay1RZkdBcGVGaF9rbUNoWkNRdGpkTV8wSFFGSFNwbFIzczBnWmI3b2Z3Wl9VeDZ2Z0ZOOXUwMFFKYm1NVzZKOGpwYVQ1eTlQb0Q2SEhfWXNXbGdGaVNrdGV5NXlWMm1LdF93cWxhamhDSjVybHBKYWxRNkRFazlINTRhdHFLcDgwcERtYnc?oc=5",
+        "description": "",
+        "pubDate": "2025-08-12T07:00:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -2641,15 +2641,6 @@
         "bias": 0
       },
       {
-        "title": "Investigators search for Native American items stolen decades ago in New Mexico - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0pDeWQtUXBOT2ptUXNrOVBsWkJGUF9XTTZHYk1mQUl6cV9nUFVIeXIyRjgtSl9wMmJsSk5IU3NlYkxLYjFfTjVTaXBiV2FUY2loY2lLSWJ4LUF3S0h2MHd2SDM1RVlabzJ0R1UwdWRaMFg2ZXRHN1AyR1NGcDVRcHFzUkg5X1dETXN3Z2NvYjVOeVM1VEpiNk01MGNSMUV4bFNBUGZGLU81ZVdrWFE?oc=5",
-        "description": "",
-        "pubDate": "2025-08-12T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Bugs are popular pets in nature-loving Japan, buzzing with lessons about ecology and species - AP News",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZXFVRzN2Y0hqMTJaMlU4WmNxTE05N1U2TmtGVHpBRTNwSDhSLW1iVkw2UU40Tng2b1JWc21YNnJ4OUZuVkxfVGc2dF9UTzUxblB1b0hSR29QQ2R0cDFINEdhQnRSaVNjOGNnN2Y1M3A4a3dqc3NtdV9sUy04d0xzUjR1cmNJYjZ0LW1RN3dLa05NWmY4LUNROHdxdmdfRXln?oc=5",
         "description": "",
@@ -2686,15 +2677,6 @@
         "bias": 0
       },
       {
-        "title": "Benin hosts mask festival amid growing interest in country’s cultural heritage - AP News",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeDE2QUdzVkdVYjFfREMwLUpSeUNHWVRZaGZ4LXNLai1kVExSaWJMWmtFbmw4b1NmSDhPOFVKaWNtY3Z0OGRCZG1lOGoxejdielJ5aFNhZEpJMmNuQ00xd2NRZUJ5WWRJSzJQUzRyTUlvbzRyemQ3SUFDV2ZNUHVpeFE5LU1yLW85ekRndlhhdTNaZ2xLdVJHWE9RZ2MzVmhxNkgzd1E4ZUNMZThDVEc2RnhJWGdkV3NOOVd6V2ZaWV9OU1pObmdyQ2ROQ1o4UllQ?oc=5",
-        "description": "",
-        "pubDate": "2025-08-03T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Matt Rogers talks bringing zeitgeisty Las Culturistas Awards to TV for the 1st time - AP News",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNDUzSWpwZG1ZUERKaVFTRlJyZGRaUnFPYUpHY2Z3RHRiRVRES09HRUpiZGI5QnJLY3lnaHp6dUlJVHV0LTlmczgzYVJNSVAxOGtxUGlxWEQ1aTE5a0t5WEpvel9GcE9vZmp1ekdqMEJTXzRJWVE0ZFprN3J2dHY3U0U1YWpScldCc1E1Wkp2eWZOdFNJMFRaMnBmUXZNSFk1VW1HZEk0RFBkbkMyUkk5c2Z3?oc=5",
         "description": "",
@@ -2704,10 +2686,28 @@
         "bias": 0
       },
       {
-        "title": "Yang and Rogers bring Las Culturistas Culture Awards to TV - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLWxOX1UxejB0aW1FbzJxM2J0ZXE2ZG0wdGdNUHVNTXBodXl5d01vQUJzX0o5Nm1wRGNfUXl5VVZZX3pYTkZYRldVQ2dvMHJfNWNSY2YzMzdwZHA1Qk5UMjVocy1CTy1UbGJqQ0kxMEJTaG1hZW1jU1BVQzhtVXdzWndFWFB2M0pKd0h1c1hqUkRKZjRsRkxsM0EtS3BXLTl3OVZhdUk4SjY0VjAtTDlLNkw4RVBkNVE?oc=5",
+        "title": "Burial site of the Chancay culture found in the outskirts of Lima - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcnVvRG1rM01ENV90WjhNd2J5OEZacWdxaEpjTWRmdkIwM2NqSVhHZWh2UFRGQWxSWEZnbF9Bb3k4T0h2dnpUdjlnSjJ1cDc3d1R4R3VuMjJ5QzhJeDBvQ1hLMm5UV1hVcnJlZnFZUTdiOGM0Rm1ZZkUtV0JKczFtdGdvTm5FeTlMVkJaNnRsRGxQOWlKTzFYZTlueURGWEN0STBXWmlhLWxaX3Nvdk9RSlVMWkdxaHQyMW5pMVdPLWQ?oc=5",
         "description": "",
-        "pubDate": "2025-08-01T07:00:00Z",
+        "pubDate": "2025-07-31T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "'KPop Demon Hunters': How Netflix's animated film became a hit - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRWgxWnJhWjlEOG1qZDZxMjJ6eGdMYTNCV0RTaTNhQ3QxY2VDS1NKQlE4S1JScHpzQmF6clRpRlkwZElWM1pKS3R0ZDdrWDI4NVhSdkFyZE1xOGdtSHdrYXdneXREUXROTjNHcHBtTVJvaDUtVm1QV3o2ME94Tk16TkIxSTBoY1hzT1lUdDVvRkYxLW5TQjIyVzB3THFQT3BZNzBhakt3VThfdXdu?oc=5",
+        "description": "",
+        "pubDate": "2025-07-30T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "The reverse migration: African Americans relocating to Kenya cite heritage and restoration - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeTlKTWd2aUIwVFFmYlBWUGlHT0szNnF1aTVCRHFwYU5FdGdiTWZqRG1BZDRuZEZnOUJrc0s5Q0twSnFrNjh6R1BVenI3OHc3Q3JwM292OE01ME1VcjFBVGFUZFlMNXBSaEtBbTRnc2hPQkxzcVBTaXgyVWhQWGNJdVBGZlVaVTUxSmFWSDBEMkNCbWIwTzB2LWxn?oc=5",
+        "description": "",
+        "pubDate": "2025-07-26T07:00:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
