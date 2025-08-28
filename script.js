@@ -12,7 +12,18 @@
     const contentContainer = document.getElementById('content');
     const tickerContent = document.getElementById('tickerContent');
     const yearSpan = document.getElementById('year');
+    const backToTopBtn = document.getElementById('backToTop');
     yearSpan.textContent = new Date().getFullYear();
+
+    backToTopBtn.addEventListener('click', () => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    function toggleBackToTop() {
+      backToTopBtn.style.display = window.scrollY > 100 ? 'block' : 'none';
+    }
+    window.addEventListener('scroll', toggleBackToTop);
+    toggleBackToTop();
 
   const parseDate = str => new Date(str.endsWith('Z') ? str : `${str}Z`);
 

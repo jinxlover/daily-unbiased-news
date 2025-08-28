@@ -238,3 +238,23 @@ body {
   border-radius: 8px;
 }
 
+/* ====== Back to Top Button ====== */
+.back-to-top {
+  position: fixed;
+  top: 12px;
+  right: 12px;
+  padding: 8px 12px;
+  font-size: 14px;
+  background: var(--accent);
+  color: #0b1220;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  z-index: 1000;
+  display: none;
+}
+
+.back-to-top:hover {
+  background: var(--accent-weak);
+}
+
