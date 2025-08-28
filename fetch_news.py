@@ -36,26 +36,25 @@ BIAS_RATINGS = {
 }
 
 def parse_pub_date(value: str) -> datetime.datetime:
-    """Parse an RSS/Atom pubDate into a timezone‑aware datetime.
+    """Parse an RSS/Atom pubDate into a timezone‑aware UTC datetime.
 
     Falls back to the current UTC time if parsing fails.
     """
     if not value:
-        return datetime.datetime.utcnow()
+        return datetime.datetime.now(datetime.timezone.utc)
     try:
-        # Some feeds include commas or other tokens in the date. The
-        # email.utils parser handles a variety of formats and returns a
-        # 9‑tuple with timezone offset in seconds.
-        dt_tuple = email.utils.parsedate_tz(value)
-        if dt_tuple is None:
-            raise ValueError
-        dt = datetime.datetime(*dt_tuple[:6])
-        tz_offset = dt_tuple[9]
-        if tz_offset is not None:
-            dt = dt - datetime.timedelta(seconds=tz_offset)
+        # ``email.utils.parsedate_to_datetime`` returns a :class:`datetime`
+        # object and handles many RSS/Atom date formats. It may produce a
+        # naive datetime when the input lacks timezone information, so in
+        # that case we explicitly assume UTC.
+        dt = email.utils.parsedate_to_datetime(value)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=datetime.timezone.utc)
+        else:
+            dt = dt.astimezone(datetime.timezone.utc)
         return dt
     except Exception:
-        return datetime.datetime.utcnow()
+        return datetime.datetime.now(datetime.timezone.utc)
 
 
 def _html_parser() -> ET.XMLParser:
@@ -120,7 +119,7 @@ def extract_items(xml_data: bytes) -> list:
             'title': html.unescape(title.strip()),
             'link': link.strip(),
             'description': html.unescape(description_text.strip()),
-            'pubDate': pub_date.isoformat() + 'Z',
+            'pubDate': pub_date.isoformat().replace('+00:00', 'Z'),
             'source': source,
             'image': image_url,
             'bias': bias
