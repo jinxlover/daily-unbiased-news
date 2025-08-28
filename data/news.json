@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-28T06:37:59.217015Z",
+  "lastUpdate": "2025-08-28T06:54:30.206327Z",
   "news": {
     "World": [
       {
@@ -41,7 +41,7 @@
       {
         "title": "‘Massive’ Russian attack on Ukraine’s Kyiv kills at least 8, wounds dozens",
         "link": "https://www.aljazeera.com/news/2025/8/28/massive-russian-attack-on-ukraines-kyiv-kills-at-least-4-dozens-hurt?traffic_source=rss",
-        "description": "Ukrainian authorities say two children among those killed in Russian attack that struck multiple areas of Kyiv.",
+        "description": "Ukrainian authorities say a child was among those killed in Russian attack that struck multiple areas of Kyiv.",
         "pubDate": "2025-08-28T04:54:39Z",
         "source": "aljazeera.com",
         "image": "",
@@ -662,15 +662,6 @@
         "bias": -1
       },
       {
-        "title": "Spate of hoax calls about active shooters stir fear at college campuses around the US - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMEl2SlBRUGJ5MmlSWE9sQmVvYkJOalRGRWd3WjRxZ3ZzZTN4ZWt3cFJURWVxZnFBN2ZrWkk4M0dWbTBSc3NCb01WQ3ptUXZfdTJLWkhUM2NqU29sa1NBMlgxRzNLMXppQXNJazNUYkkxbDBFYVZoQmNrRHhMMFA1aWpyUlpUczR4LXpKcjdJOHBRcmh5NzRiZWxjNk04VHEzV2ZjWVNQaXFIN1VwOGVBRQ?oc=5",
-        "description": "",
-        "pubDate": "2025-08-27T00:06:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "No 'cash for questions' investigation into former minister",
         "link": "https://www.bbc.com/news/articles/c07pr54dxzxo?at_medium=RSS&at_campaign=rss",
         "description": "Claims emerged that a company that he worked for helped him write questions to government in June.",
@@ -903,9 +894,27 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45f1/live/5d1e5150-7f4e-11f0-ace8-c7fe3706c172.jpg",
         "bias": 0
+      },
+      {
+        "title": "UK's third-largest steelworks collapses into government control",
+        "link": "https://www.bbc.com/news/articles/cy0818y4jdlo?at_medium=RSS&at_campaign=rss",
+        "description": "Hundreds of Liberty Steel workers in Rotherham and Sheffield face an uncertain future.",
+        "pubDate": "2025-08-22T12:12:21Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dc4/live/c52bce00-7e93-11f0-bb23-61f665394239.jpg",
+        "bias": 0
       }
     ],
     "Tech": [
+      {
+        "title": "AI boom boosts Nvidia despite 'geopolitical issues'",
+        "link": "https://www.bbc.com/news/articles/c3wnj8611y7o?at_medium=RSS&at_campaign=rss",
+        "description": "Nvidia remains exposed to geopolitical tensions between the US and China.",
+        "pubDate": "2025-08-28T06:38:35Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdd9/live/78c0e750-8391-11f0-a05c-756a38d533d4.jpg",
+        "bias": 0
+      },
       {
         "title": "Japanese town proposes two-hour daily limit on smartphones",
         "link": "https://www.bbc.com/news/articles/cqlew2rv337o?at_medium=RSS&at_campaign=rss",
@@ -922,15 +931,6 @@
         "pubDate": "2025-08-28T00:31:00Z",
         "source": "news.google.com",
         "image": "",
-        "bias": 0
-      },
-      {
-        "title": "AI boom boosts Nvidia despite 'geopolitical issues'",
-        "link": "https://www.bbc.com/news/articles/c3wnj8611y7o?at_medium=RSS&at_campaign=rss",
-        "description": "Nvidia remains exposed to geopolitical tensions between the US and China.",
-        "pubDate": "2025-08-27T22:19:13Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdd9/live/78c0e750-8391-11f0-a05c-756a38d533d4.jpg",
         "bias": 0
       },
       {
@@ -967,6 +967,15 @@
         "pubDate": "2025-08-27T03:10:08Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d61/live/f915bed0-82ec-11f0-a819-c948892e2dca.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Spate of hoax calls about active shooters stir fear at college campuses around the US - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMEl2SlBRUGJ5MmlSWE9sQmVvYkJOalRGRWd3WjRxZ3ZzZTN4ZWt3cFJURWVxZnFBN2ZrWkk4M0dWbTBSc3NCb01WQ3ptUXZfdTJLWkhUM2NqU29sa1NBMlgxRzNLMXppQXNJazNUYkkxbDBFYVZoQmNrRHhMMFA1aWpyUlpUczR4LXpKcjdJOHBRcmh5NzRiZWxjNk04VHEzV2ZjWVNQaXFIN1VwOGVBRQ?oc=5",
+        "description": "",
+        "pubDate": "2025-08-27T00:06:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -1222,6 +1231,15 @@
         "bias": -1
       },
       {
+        "title": "California bill would require restaurants to disclose food allergens on menus - AP News",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYV9Pb09nZzZEMERiSGNxSl82SkhyV1NLMHdEUER6eHEwT09QNjFHTXNadWkyX2VPNWphUEhpY1owVzVnb0UtV0t5N3c1YTNQd3QwUnlfZWVoOEFSTW9aSERXcmc4amUwMkVpcWxOVzl0RVZhMGxWdEd2LVdqQnZjVl80aGxmUXVEV0xXZnJHX0NVZkJKQXJqUFJHNVpFMThuWmZuNko5VWhRaTdoaHlNYXJMdWxrdlJtbW0ya1k4SQ?oc=5",
+        "description": "",
+        "pubDate": "2025-08-23T15:50:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Tour bus rollover kills 5 on interstate highway in western New York - AP News",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX1lEaE01U0hMRUl0dGYxcTl4MHFvNGRPcnNkV1V3OGlQOWhHam43NnR0emcxTW80bDQ4LWxaSkNCQjVKbUFxWl9tanNZUWJraURjWlQ5YzRvTkRCUEdOTFE1RnpsMHdqeFRZUVNuSVlaQTRUM2VOdXRQQlZWZzV4QXJxZ2VyMFQ2YnNJ?oc=5",
         "description": "",
@@ -1336,24 +1354,6 @@
         "pubDate": "2025-08-21T13:13:00Z",
         "source": "news.google.com",
         "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Hundreds of thousands of Grok chats exposed in Google results",
-        "link": "https://www.bbc.com/news/articles/cdrkmk00jy0o?at_medium=RSS&at_campaign=rss",
-        "description": "Elon Musk's artificial intelligence (AI) chatbot appears to have published messages without users' knowledge.",
-        "pubDate": "2025-08-21T12:55:28Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7849/live/086fde10-7e83-11f0-9e05-3dbec5559644.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Netflix signs up another YouTube star with Mark Rober deal",
-        "link": "https://www.bbc.com/news/articles/c20939pp04po?at_medium=RSS&at_campaign=rss",
-        "description": "The YouTuber and former Nasa engineer is working with Jimmy Kimmel to make a new competition show.",
-        "pubDate": "2025-08-21T11:26:08Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aee0/live/3a475b70-7e6f-11f0-a34f-318be3fb0481.jpg",
         "bias": 0
       }
     ],
@@ -1665,15 +1665,6 @@
         "bias": 0
       },
       {
-        "title": "Scientists discover an ancient whale with a Pokémon face and a predator bite - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMnpDc0YzcGlpNG0yVE1iSzdOaFBqN0hybGE0Y0tFajEtdWl5bkNuMXpIYjlJVDdvQjFWcGsweUxRWWJscG9uMnd1dnBlS3BhZXZjNWIyTTQ2OWNtMVljR1lsOENHSlRIa3JHQXlCbGNaNWR0ZG9jYkd5UkVZRk5nWm12STg5cEwwM051Y2ducFlLcTNXT0k0N3ZhYXpvZkZmZmhCNXdFdVF4dUVQc0J4cjJCQzhIYVAxS25qTlMzSjA?oc=5",
-        "description": "",
-        "pubDate": "2025-08-15T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Hot, dry summers bring new 'firewave' risk to UK cities, scientists warn",
         "link": "https://www.bbc.com/news/articles/c9vd79x97zlo?at_medium=RSS&at_campaign=rss",
         "description": "Rising temperatures are increasing the chances of multiple wildfires at the same time, researchers say.",
@@ -1737,15 +1728,6 @@
         "bias": 0
       },
       {
-        "title": "Suspected gunman and police officer dead in shooting near the CDC and Emory University, police say - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONkE4U2xtYk93Q3dRX3d2YkpVQ2k4YVk5VzVUajZoUmNEQmJSNHRoRVRPSmZBSy1BcGlmeU9BaUZrTWNRbVBfSG5xVldxLVd3ODhWeHFKYUNFczAzTUo2bzRzUlZic2toTkhHRHNsZjcyc1d6WWMwSFZBWmZ2N3BQZXhtQnVES1R1aG9DcVVIVkpKMjZEQjJZbw?oc=5",
-        "description": "",
-        "pubDate": "2025-08-08T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Southern European butterfly spotted in UK for first time",
         "link": "https://www.bbc.com/news/articles/cwy1wgly21zo?at_medium=RSS&at_campaign=rss",
         "description": "Experts have tracked the Southern Small White's expansion northwards through Europe over decades.",
@@ -1806,6 +1788,24 @@
         "pubDate": "2025-08-04T07:00:00Z",
         "source": "news.google.com",
         "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Mission begins to save snails threatened by own beauty",
+        "link": "https://www.bbc.com/news/articles/clyrv8ndzzjo?at_medium=RSS&at_campaign=rss",
+        "description": "Researchers in Cuba and the UK are working together to reveal the biological secrets of the beautiful but endangered Polymita snail.",
+        "pubDate": "2025-08-04T00:46:34Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d67/live/8dec6500-6ed3-11f0-ad0c-035b9044855d.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Russian volcano erupts for first time in more than 500 years",
+        "link": "https://www.bbc.com/news/articles/c0r7qlwg4zro?at_medium=RSS&at_campaign=rss",
+        "description": "The eruption of a volcano in Russia's Kamchatka peninsula may be linked to a massive earthquake last week, experts say.",
+        "pubDate": "2025-08-03T09:05:37Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca33/live/e0d71e40-7059-11f0-8dbd-f3d32ebd3327.jpg",
         "bias": 0
       }
     ],
@@ -1898,6 +1898,15 @@
         "pubDate": "2025-08-27T16:29:55Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af01/live/2851dcc0-8319-11f0-ad25-d7b7e6500196.jpg",
+        "bias": 0
+      },
+      {
+        "title": "As business of college football booms, the Chiefs bet big on Nebraska-Cincinnati game in Kansas City - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2JDNzYyU3ljamlHcVpYZm9iYTVSTktnU0ltVVRlOFdmalVfUGM3dEx5UC1FV2dxVzRGZU1PdFNqTmdNVm01eWVTWWNhQW10R1VKMlZCVy1SR19ZRkZUVVkxazVTTnpzbGt1MGRMb3pNLWUtOFhNcURuT3Roc0R2RDJKeUs2NXRNZGRySXNubVdwVmxaMG1tMGJRMExKQU45VGxxMlNyY05jX2RYWE40?oc=5",
+        "description": "",
+        "pubDate": "2025-08-27T16:23:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -2042,6 +2051,15 @@
         "pubDate": "2025-08-26T08:37:29Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9672/live/7fb1da60-8242-11f0-b860-650f1c8f721b.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Trump says he's firing Fed Governor Lisa Cook, opening new front in fight for central bank control - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbjJIWVI1WDA1YXFUby1fVlAwYm1zZkRydlRUMVVkSmE4RGJEWnd3VE1JSFZCcWNfcl9SeVBaUE55VUxsUFRrSmczclFtTUIzTXBQTTBYM3dLUTFxX3ZtTHJqU1RqYUczTGl6X2dCZjBnbEgyVVZadHpjYjN5aTZsRXZWYWV1Umo3a2VITmNYTmh3Tm5vOGc?oc=5",
+        "description": "",
+        "pubDate": "2025-08-26T08:18:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -2240,24 +2258,6 @@
         "pubDate": "2025-08-12T22:05:03Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a471/live/fc000d40-7756-11f0-89ee-73563f6604dd.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Spirit Airlines sounds the alarm on its future ability to stay in business - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVEZ3SlFNd1BWdnEzTU9mV3RfaEJ3ay1RZkdBcGVGaF9rbUNoWkNRdGpkTV8wSFFGSFNwbFIzczBnWmI3b2Z3Wl9VeDZ2Z0ZOOXUwMFFKYm1NVzZKOGpwYVQ1eTlQb0Q2SEhfWXNXbGdGaVNrdGV5NXlWMm1LdF93cWxhamhDSjVybHBKYWxRNkRFazlINTRhdHFLcDgwcERtYnc?oc=5",
-        "description": "",
-        "pubDate": "2025-08-12T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Kodak cautions on business operations but remains confident it can meet debt obligations - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVHRkdVo2UGlVckR0NTB1UjRqZ25GR0JuMTRSWnd3Ui03Wkk2azF0cEs2M2QwZ3JJem9oelJHeUxRdFJlT2ctOEJzYW9PdUhYa3Nmajh5a2lBWDRiRjNtZ2Jvc2hiLWdQQXEwQ2t5d1Noa2hIdUcyNFpDRmNVdklSOFdRM2o4ZlZJLWRsU1VkOXI1ZVNXTzZiSnpva29TNkllTWdR?oc=5",
-        "description": "",
-        "pubDate": "2025-08-12T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       }
     ],
