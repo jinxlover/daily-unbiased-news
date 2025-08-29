@@ -1,13 +1,58 @@
 {
-  "lastUpdate": "2025-08-29T10:57:20.727256Z",
+  "lastUpdate": "2025-08-29T11:19:08.645959Z",
   "news": {
     "World": [
+      {
+        "title": "Kyiv in mourning after strikes as allies discuss military support",
+        "link": "https://www.bbc.com/news/articles/cy9834jp9qno?at_medium=RSS&at_campaign=rss",
+        "description": "EU defence ministers are meeting to discuss further support following a large aerial attack on Kyiv.",
+        "pubDate": "2025-08-29T11:02:05Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c74/live/5287bda0-84b5-11f0-b98d-d308c56c1729.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Thai court removes PM over leaked phone call with Cambodian leader",
+        "link": "https://www.bbc.com/news/articles/ckgeqlw05rzo?at_medium=RSS&at_campaign=rss",
+        "description": "Court rules Paetongtarn Shinawatra breached ethics in call where she called Hun Sen \"uncle\" shortly before border conflict.",
+        "pubDate": "2025-08-29T10:52:03Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/1bbe1f30-84bf-11f0-acf0-71f4294565e0.jpg",
+        "bias": 0
+      },
+      {
+        "title": "I am a victim of nuclear testing. I have never been more afraid",
+        "link": "https://www.aljazeera.com/opinions/2025/8/29/i-am-a-victim-of-nuclear-testing-i-have-never-been-more-afraid?traffic_source=rss",
+        "description": "Decades after Semipalatinsk, the collapse of arms control leaves the world on the edge again.",
+        "pubDate": "2025-08-29T10:46:23Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Gauff thanks gymnast Biles for support in US Open tennis plight",
+        "link": "https://www.aljazeera.com/sports/2025/8/29/gauff-thanks-gymnast-biles-for-support-in-us-open-tennis-plight?traffic_source=rss",
+        "description": "Coco Gauff breaks down in tears following her second-round US Open tennis win before praising Biles's inspiration.",
+        "pubDate": "2025-08-29T10:46:00Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Thai court dismisses prime minister over compromising phone call with Cambodian leader",
         "link": "https://www.npr.org/2025/08/29/nx-s1-5521908/thai-court-dismisses-prime-minister-compromising-phone-call-cambodia",
         "description": "Thailand's Constitutional Court on Friday dismissed Paetongtarn Shinawatra from her position as prime minister, ruling that as the country's leader she violated constitutional rules on ethics.",
         "pubDate": "2025-08-29T10:45:18Z",
         "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "UN chief condemns Gaza horrors, calls for accountability amid famine",
+        "link": "https://www.aljazeera.com/gallery/2025/8/29/un-chief-condemns-gaza-horrors-calls-for-accountability-amid-famine?traffic_source=rss",
+        "description": "About two million Palestinians displaced, enduring famine and violence, as UN again demands immediate action.",
+        "pubDate": "2025-08-29T10:38:25Z",
+        "source": "aljazeera.com",
         "image": "",
         "bias": -1
       },
@@ -21,10 +66,37 @@
         "bias": 0
       },
       {
+        "title": "Thailand’s prime minister removed from office",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/8/29/thailands-prime-minister-removed-from-office?traffic_source=rss",
+        "description": "Thailand's Constitutional Court has removed the country's Prime Minister Paetongtarn Shinawatra from office.",
+        "pubDate": "2025-08-29T10:28:47Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Video shows Israeli soldiers tormenting boy detained over stone throwing",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/8/29/video-shows-israeli-soldiers-tormenting-boy-detained-over-stone-throwing?traffic_source=rss",
+        "description": "Israeli soldiers have filmed themselves tormenting a Palestinian boy who they arrested in the occupied West Bank.",
+        "pubDate": "2025-08-29T10:26:10Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "World shares are mostly lower ahead of a US inflation update - AP News",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZWd4VFJlcExVMmFYN0RXVGVyZVpQNnBOUXU0bzdGZjV5Um53VG9ZOWJ4THQ5NWRMVDg2Sl8tS1lmcUJaRWRwNXBLYWh4QUxCUVJNZURSVkttR3pFSmI4dlIzVTJ5VzRBOWVZYUJFdlg2MWQtZUtYV2oyeUtHaGFuZ242dzdLVmQxRjVEclFCWkNzNjVCaWJPR3ZxREs?oc=5",
         "description": "",
         "pubDate": "2025-08-29T09:47:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Tensions soar in Indonesia’s capital after police fatally struck delivery rider caught in rally - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdDFsU3RnYWFza0tHbnl0emhPMnZ5TE1pUDNTUUJsbjFkSE1Tam9HdWZ3a1U4TDNuZk1WNFBWY3lsczV5YlJzb3ZCaEYtLUF2MDlsM1VrdGstd25KME9nMmhaeGJrS09VTTlYYlVpQ25JQTFfcGxyMzUyRVBQMXlqZHFJMkxxQjh1ZWpSSjl2dHY?oc=5",
+        "description": "",
+        "pubDate": "2025-08-29T09:45:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -102,18 +174,9 @@
         "bias": 0
       },
       {
-        "title": "Kyiv in mourning after strikes as allies discuss military support",
-        "link": "https://www.bbc.com/news/articles/cy9834jp9qno?at_medium=RSS&at_campaign=rss",
-        "description": "EU defence ministers are meeting to discuss further support following a large aerial attack on Kyiv.",
-        "pubDate": "2025-08-29T08:51:33Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c74/live/5287bda0-84b5-11f0-b98d-d308c56c1729.jpg",
-        "bias": 0
-      },
-      {
         "title": "Thai court removes Prime Minister Paetongtarn Shinawatra from office",
         "link": "https://www.aljazeera.com/news/2025/8/29/thai-court-removes-prime-minister-paetongtarn-shinawatra-from-office?traffic_source=rss",
-        "description": "Court dismisses suspended prime minister for ethical misconduct over her handling of a border row with Cambodia.",
+        "description": "Court dismisses suspended prime minister for ethical misconduct over her handling of a border dispute with Cambodia.",
         "pubDate": "2025-08-29T08:48:02Z",
         "source": "aljazeera.com",
         "image": "",
@@ -138,7 +201,7 @@
         "bias": 0
       },
       {
-        "title": "‘It’s one of the worst things you can say to a Black tennis player’ – Osaka",
+        "title": "Ostapenko’s US Open words to Townsend ‘worst to say to Black tennis player’",
         "link": "https://www.aljazeera.com/sports/2025/8/29/its-one-of-the-worst-things-you-can-say-to-a-black-tennis-player-osaka?traffic_source=rss",
         "description": "Naomi Osaka blasts Jelena Ostapenko after alleged comments in a heated exchange with Taylor Townsend at the US Open.",
         "pubDate": "2025-08-29T08:13:54Z",
@@ -363,15 +426,6 @@
         "bias": 0
       },
       {
-        "title": "Venezuela’s Maduro says ‘no way’ US can invade as Trump deploys naval force",
-        "link": "https://www.aljazeera.com/news/2025/8/29/venezuelas-maduro-says-no-way-us-can-invade-as-trump-deploys-naval-force?traffic_source=rss",
-        "description": "Venezuelan President Nicolas Maduro says country ready to defend 'territorial integrity' amid US military buildup.",
-        "pubDate": "2025-08-29T02:17:44Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "Photos show highlights from the Venice Film Festival - AP News",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTjhtdjlTSENmVzE3b0dmT195TzJ0TDlldk1PODd3bUs5Mmx3eU01SnExckdFSm15WjlPOXNoMjNhbzZsWDRSaVBOZTJYQXBzNEE3QzVGdkEzRklncmhILUdmVjh5ek9RVXB6cVltMURUTFljVDQ1djRYWnRKeDRDUm5SV1gzM2FXbHgwWkRIN2FEOUFTZHc?oc=5",
         "description": "",
@@ -383,20 +437,11 @@
       {
         "title": "Survivors of South Africa's horrific building fire now live in fear of guns",
         "link": "https://www.bbc.com/news/articles/c04r6v49e16o?at_medium=RSS&at_campaign=rss",
-        "description": "The deadly fire was called a \"wake-up call\" but residents are waiting for permanent homes.",
+        "description": "The deadly fire was called a \"wake-up call\" but ex-residents now live in dangerous temporary shelters.",
         "pubDate": "2025-08-29T01:21:14Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa44/live/176408c0-844f-11f0-b391-6936825093bd.jpg",
         "bias": 0
-      },
-      {
-        "title": "Russia-Ukraine war: List of key events, day 1,282",
-        "link": "https://www.aljazeera.com/news/2025/8/29/russia-ukraine-war-list-of-key-events-day-1282?traffic_source=rss",
-        "description": "Here are the key events on day 1,282 of Russia’s war on Ukraine.",
-        "pubDate": "2025-08-29T01:03:36Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       },
       {
         "title": "The top photos of the day by AP’s photojournalists - AP News",
@@ -406,51 +451,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Florida may lose $218M on empty ‘Alligator Alcatraz’ as judge orders shutdown - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeU1QenNsVmpYbUNBeWRPVHZ1T3ZDaXpvMERQSFRlVmdiWjJzN1BWNi1rdUhQSEw4aEU5UEhPZ0JocFpIN3VhRzZ3M2oxa3pXOVFWWXBhY1UxSWR1UlB1R1ZFMENTOFQybFR4R2J0NTN3anQ2WVpCOWExWmhhd1JqZ1ZQSk1YWjB1ZE8tTldaX3VQLTFWS2FCRERzSnVNdXh2TGJxVw?oc=5",
-        "description": "",
-        "pubDate": "2025-08-29T00:35:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "UK, France and Germany move to reimpose UN sanctions on Iran",
-        "link": "https://www.bbc.com/news/articles/c4gmr3z49lxo?at_medium=RSS&at_campaign=rss",
-        "description": "The three powers trigger a process which could restore sanctions in 30 days, calling Iran's nuclear programme a threat to peace and security.",
-        "pubDate": "2025-08-29T00:34:55Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1264/live/5524ba70-8417-11f0-9cf6-cbf3e73ce2b9.jpg",
-        "bias": 0
-      },
-      {
-        "title": "New trial ordered for 3 Memphis ex-officers in connection with the beating death of Tyre Nichols - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUFYcm16b2thNjNQYWtyTlVIMkVBdWV6cFp0UnNOdENlWkxfZlZWbkpuR3pKcHhZd2JEY2dxeXVvcjYwbHgwSXpMQlhoN0JNdG42S2NqbWRPNFFoSnNueF9ad2JZb18zT3Z2NUtBRDNnTzNialBxMzctTFNuQVdnem1qc3RWQXpQc3VwQ2tuTVVDVmpNR1cwTUM3eTIwaFdh?oc=5",
-        "description": "",
-        "pubDate": "2025-08-29T00:32:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "New footage shows Israel struck Gaza's Nasser Hospital four times",
-        "link": "https://www.bbc.com/news/articles/cly6lxn1l4po?at_medium=RSS&at_campaign=rss",
-        "description": "New footage has revealed that two more strikes were carried out on hospital by Israel than initially reported.",
-        "pubDate": "2025-08-29T00:25:37Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aeb/live/51258ca0-8454-11f0-b391-6936825093bd.png",
-        "bias": 0
-      },
-      {
-        "title": "White House picks Robert Kennedy Jr’s deputy to replace ousted CDC director",
-        "link": "https://www.aljazeera.com/news/2025/8/29/white-house-picks-robert-kennedy-jrs-deputy-to-replace-ousted-cdc-director?traffic_source=rss",
-        "description": "Former CDC head was expelled after clashing with Trump administration over policies she says were not driven by science.",
-        "pubDate": "2025-08-29T00:23:49Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
@@ -770,6 +770,15 @@
         "bias": 0
       },
       {
+        "title": "Ukrainian drone attacks on oil refineries have some Russian regions running on empty - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeTYtbjFPZl9nZkNlYUxsWUs5UTN2ZmdKekIzWFZDZnpLNlh6RVZqbzJtZllVdzU2cnNUWDNQNlc5U0V4U010cUY2NGpOMVl4Mlh5b0FiXzFHWVhNOGZLMXJycVptRTVnNVBGY2c4YUxNVnR4dXBZMFdZUGFjeHNQNWswblNPYy1mVXc4N2l2cXhyX0hfcTJqVFJPeHM?oc=5",
+        "description": "",
+        "pubDate": "2025-08-27T17:37:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Reform UK retreats from child migrant deportations",
         "link": "https://www.bbc.com/news/articles/ce83x1457lyo?at_medium=RSS&at_campaign=rss",
         "description": "Nigel Farage has now ruled out the suggestion, after the party's former chair said it could happen.",
@@ -851,6 +860,15 @@
         "bias": 0
       },
       {
+        "title": "Why the Federal Reserve has historically been independent of the White House - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZWFhN0ttQXhuODJqa0w2Unowb2hVVjJIRzRuNkc0ckVZaXluZGNOQWFjYW5KT3RoV2IxSnJzOGFiQXl5cEY2d2czeF9Lc3UyNXlNSTRFQ0Zzd1lPVFZUX25GVTl4eC1OT2J5d1dXYzZvQUdHZG54MXRubGtPUlNBOElGelRGemNXbXUwbi1CUmdpbmp3OEtDeXJHTXZDdEZuR1Ew?oc=5",
+        "description": "",
+        "pubDate": "2025-08-26T01:40:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Clarkson for PM, attacks on police dogs: Do Parliament petitions make a difference?",
         "link": "https://www.bbc.com/news/articles/cg4xqn91rwlo?at_medium=RSS&at_campaign=rss",
         "description": "People love signing petitions to get issues they care about debated by MPs - but some can't resist having a laugh.",
@@ -885,27 +903,18 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Are young women more left wing than men - and, if so, why?",
-        "link": "https://www.bbc.com/news/articles/cqxg89jzvl1o?at_medium=RSS&at_campaign=rss",
-        "description": "A divide appears to be opening up between young women and young men in the way they vote and view the world.",
-        "pubDate": "2025-08-22T23:48:35Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e48a/live/1df3d340-7f82-11f0-83cc-c5da98c419b8.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Kurdish political figure arrested in Iraq, sparking clashes that leave 5 dead - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVk84RE0yMTRyaGduZmgyeWdqYTdfaDBqUlBuelRtUEFHT0Q4REdVZHZkUVpneWRRMmdhT3FkWGhsWFMyVzZ6elJmbnRiS1FQMG5ZTWt3RV9xc2VIc195OUNWLWRobEN3Vi02UUZnY29VMzZBb3phTzRaeUQzazFuOVVpVnhZNFlkRUl6Q2hrem1tQU9IejVmV3YyeVYybXJFVWVkcTdxVUtMSm5mcXJ0YkhxYw?oc=5",
-        "description": "",
-        "pubDate": "2025-08-22T17:24:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Tech": [
+      {
+        "title": "Musk files to dismiss lawsuit over his purchase of Twitter shares",
+        "link": "https://www.bbc.com/news/articles/cn47ey2wxkpo?at_medium=RSS&at_campaign=rss",
+        "description": "US regulators allege his late disclosure of Twitter share purchases allowed him to buy them at \"artificially low prices\".",
+        "pubDate": "2025-08-29T11:09:32Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f130/live/c58c5880-84bd-11f0-acf0-71f4294565e0.jpg",
+        "bias": 0
+      },
       {
         "title": "Taco Bell rethinks AI drive-through after man orders 18,000 waters",
         "link": "https://www.bbc.com/news/articles/ckgyk2p55g8o?at_medium=RSS&at_campaign=rss",
@@ -938,15 +947,6 @@
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc2xpZ3NjZGtwb3NXOUtwN1ZiTFFQeHd0VERQbWJtbjNLbEdEc01pbzJ2VHJ0c094U1pPbjhkMmFIX3lxNVhfSXgxUGkxeVJYcnJGMEtiWS1mZUZBQUZ5bmtuVzFZWmRZSGdid0ZUQm5BRnNQbjc4RThmeVZVMi1EekNhY2Z3ekRMU3NhbWNJVHFucTJqZ2Jid3JCMmFQTDk0VW1BbUxyaTdyWS1UelFneEtn?oc=5",
         "description": "",
         "pubDate": "2025-08-28T22:27:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Stocks add a bit to their records on Wall Street - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUHBVa3p6LWprZ2dlMXVQc19idmY1ZnJqNjV0QmZuSThaZ05kNHBqUTljWEJDTEZ6U1ZmNW9NMlVpMkNyUGFacVk1ZXpSLUpEZVlaM0VPM2dhZFNhNzE5TWNUc2RZMTJibkpCOWRiTzEwT2dSZWdPSmtUYVZPcTdyLTBGTGlQLVBwUnBfbFR2QndmR2x5djVubQ?oc=5",
-        "description": "",
-        "pubDate": "2025-08-28T21:43:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1066,15 +1066,6 @@
         "pubDate": "2025-08-27T18:30:12Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dea7/live/b4f76f30-835c-11f0-b3de-c13d348c14aa.png",
-        "bias": 0
-      },
-      {
-        "title": "Ukrainian drone attacks on oil refineries have some Russian regions running on empty - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeTYtbjFPZl9nZkNlYUxsWUs5UTN2ZmdKekIzWFZDZnpLNlh6RVZqbzJtZllVdzU2cnNUWDNQNlc5U0V4U010cUY2NGpOMVl4Mlh5b0FiXzFHWVhNOGZLMXJycVptRTVnNVBGY2c4YUxNVnR4dXBZMFdZUGFjeHNQNWswblNPYy1mVXc4N2l2cXhyX0hfcTJqVFJPeHM?oc=5",
-        "description": "",
-        "pubDate": "2025-08-27T17:37:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -1355,6 +1346,15 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "UK backs down in Apple privacy row, US says",
+        "link": "https://www.bbc.com/news/articles/cdj2m3rrk74o?at_medium=RSS&at_campaign=rss",
+        "description": "UK authorities have demanded access to Apple users' protected files when required for investigations.",
+        "pubDate": "2025-08-19T21:45:56Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52fc/live/19be9d90-7cdb-11f0-8600-6b5268f36518.jpg",
+        "bias": 0
       }
     ],
     "Science": [
@@ -1521,15 +1521,6 @@
         "bias": -1
       },
       {
-        "title": "Democratic senator warns of 'Power 2' owning college sports if NCAA-backed SCORE Act becomes law - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMUZIMWJ3TzRNdGozeDNtUjFjelNWYmZJeTVUY0tpdFd3MzFmdUw0WTBkWFVCS2ZKYU5TUlpYTE9lMS1hOUg3ZGx3UG1sUV9iQ2VTYnhlRUd5SkotZUttZXhjSURmZDlwc0ZGVDdxMDZIRUR3YTExdzZFWTZfR2xwUFVOX0JhV2gxSEZBREphQklROXN4?oc=5",
-        "description": "",
-        "pubDate": "2025-08-25T16:43:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Climate change pushing winemakers to blend wines from different years",
         "link": "https://www.bbc.com/news/articles/czxp41y3n7lo?at_medium=RSS&at_campaign=rss",
         "description": "Non-vintage still wine is now increasingly being made in response to more challenging weather.",
@@ -1658,6 +1649,15 @@
       {
         "title": "The robot chemists helping scientists in a university chemistry lab - AP News",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLVNyczk4T3ROaU9XRGJndkRLVjl2WWl4eWx4aFJpY3Qzb2pLUWgzME1SX3htMGtOcm9Gc1ZQRnFzSzhGMkJ4TXRkS21pNnRNT2ZRZUNhNG84VmpXU2U3bU0zVzFvQWlOVjdOM3ZkYVREREVuOWhfT1NSYUJCTzZSV1VhS0dYSXJqOTJtTmgzY0tGX2ZEel8zRkVpV05kcm9pWEdnaVRkdTVlUVdUYm10TWZNSlVYY3FqNEQyanFFVnd3WFk?oc=5",
+        "description": "",
+        "pubDate": "2025-08-12T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Scientists standing by to rescue rare manatee sighted in cold New England waters - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWEZweURmZDBnRXk0cU9KVFlTaWNCVDc1WWpmZmpoLXp2QzZiNmszSlNaRjJOaTNSczA4bFdpWi1mU0Y5VGFVaDhOd2pKMzhycTJkZWpkVUJHMVFiejVnckpjenhlREwzM1Y2ckdtRy1ENU1FYnE4aXZPUmR5NzRUS1FlUEw5aElISlpPOUFJZWptc0Y3UnNwQzVGMXZ5YjE4ckNvVlEtM3R6QlVEM2pGWWQwWTB0bXc?oc=5",
         "description": "",
         "pubDate": "2025-08-12T07:00:00Z",
         "source": "news.google.com",
@@ -1814,7 +1814,7 @@
         "title": "P&O Ferries boss who sacked 800 staff quits",
         "link": "https://www.bbc.com/news/articles/cdrk8j81km2o?at_medium=RSS&at_campaign=rss",
         "description": "Chief executive Peter Hebblethwaite led the company when it sacked hundreds of staff in March 2022.",
-        "pubDate": "2025-08-29T10:45:48Z",
+        "pubDate": "2025-08-29T11:08:31Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2cb/live/89b840f0-84bb-11f0-85ca-c5c26b7f555d.jpg",
         "bias": 0
@@ -2036,15 +2036,6 @@
         "bias": 0
       },
       {
-        "title": "As business of college football booms, the Chiefs bet big on Nebraska-Cincinnati game in Kansas City - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2JDNzYyU3ljamlHcVpYZm9iYTVSTktnU0ltVVRlOFdmalVfUGM3dEx5UC1FV2dxVzRGZU1PdFNqTmdNVm01eWVTWWNhQW10R1VKMlZCVy1SR19ZRkZUVVkxazVTTnpzbGt1MGRMb3pNLWUtOFhNcURuT3Roc0R2RDJKeUs2NXRNZGRySXNubVdwVmxaMG1tMGJRMExKQU45VGxxMlNyY05jX2RYWE40?oc=5",
-        "description": "",
-        "pubDate": "2025-08-27T16:23:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "NHS to lose out on new drugs, pharma firm warns",
         "link": "https://www.bbc.com/news/articles/c4gzk1p90q1o?at_medium=RSS&at_campaign=rss",
         "description": "The claims from pharmaceutical giant Novartis comes amid a row over drug pricing deals.",
@@ -2130,6 +2121,15 @@
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZkQ5NXJnVzFNdWYtMXFmWksya3VrdUZVRkhHNDJOWUhnUjU3ZDNzNlpBYk5lczNtRV8wOTVQcjVYbHkxOUNPWkJka2pLVE02NVJqNnFWeVdCanNzT1pBS2VET2N4amRCMmJReEROVXhRaWhLUVEzLVV4MlNxY0ZfRElKakpLaTlJVVV5MFB5SkdCRGM?oc=5",
         "description": "",
         "pubDate": "2025-08-26T21:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "UK’s hard-right Reform party says it will mass-deport migrants if it wins power - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNzA4Tmh5TGtXZGFEaFNyaExLWkxnU0prTElCYTY0Y2RkN3hCeXZTOV9FazJxQ3FabWY0M3lrcUdyTHp6c0dyb1NBb01JSHVmeFAtaEpMNDJQTi1EblVoWGtvWGs3d0dCY0xYTmhVWlZmTXdWaDFONUhXQXZpd1JwLURGM2ZDckJqbllMV3gzUElYbk96T3haek91NzlWcEFjeGF6TVVoZw?oc=5",
+        "description": "",
+        "pubDate": "2025-08-26T17:27:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -2527,7 +2527,7 @@
         "title": "The cultural significance of Sweden’s moving church - AP News",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOE1uNENaeHVqR2lEWXViTkwyd2hQdk1HUkNtVWFJdlpRX3YtVmRGQ0hWa3hVMW5JUnVrY0JGa0xOVFhJVTdfeFRUR3BPUUN0MWlfWTktNWdiU1RjR3U4eENXRldSVFN2Q1pkaWhhTV9UWWQwVnJXck5aMXZlUWJFNlp5MUlPNF9UT1I2cUFpQkZSeWJ3WGRDT29KWWE1Y1hNUGRZS2Fza01UZ2dj?oc=5",
         "description": "",
-        "pubDate": "2025-08-21T07:46:00Z",
+        "pubDate": "2025-08-21T07:00:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -2587,33 +2587,6 @@
         "bias": 0
       },
       {
-        "title": "Investigators search for Native American items stolen decades ago in New Mexico - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0pDeWQtUXBOT2ptUXNrOVBsWkJGUF9XTTZHYk1mQUl6cV9nUFVIeXIyRjgtSl9wMmJsSk5IU3NlYkxLYjFfTjVTaXBiV2FUY2loY2lLSWJ4LUF3S0h2MHd2SDM1RVlabzJ0R1UwdWRaMFg2ZXRHN1AyR1NGcDVRcHFzUkg5X1dETXN3Z2NvYjVOeVM1VEpiNk01MGNSMUV4bFNBUGZGLU81ZVdrWFE?oc=5",
-        "description": "",
-        "pubDate": "2025-08-12T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Bugs are popular pets in nature-loving Japan, buzzing with lessons about ecology and species - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZXFVRzN2Y0hqMTJaMlU4WmNxTE05N1U2TmtGVHpBRTNwSDhSLW1iVkw2UU40Tng2b1JWc21YNnJ4OUZuVkxfVGc2dF9UTzUxblB1b0hSR29QQ2R0cDFINEdhQnRSaVNjOGNnN2Y1M3A4a3dqc3NtdV9sUy04d0xzUjR1cmNJYjZ0LW1RN3dLa05NWmY4LUNROHdxdmdfRXln?oc=5",
-        "description": "",
-        "pubDate": "2025-08-11T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Eve doesn’t think about her giant impact on hip-hop culture - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY250c0FiYU55TDRTM0U3dXI0UHFOQzlHYUxneWVyV1VUejEyZTZ5RnNaU0xDVlRTS2g5dzJVUF8wX2J0OUJlTlp6MUdPNUdvajd3Y0FXNFhwYW91bDhSNkRybE9aLTE0ZWtiVVJuejZ0cHFoMlMzdWkwdXlvajJ1VnJJR3RMV0djdjRCeGFiM0V0cGt3c2NjNGtsZENLVTV0MzNmWDYwVUlXNUR0blFaUkpWSEg0Szg?oc=5",
-        "description": "",
-        "pubDate": "2025-08-11T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Mexico accuses Adidas of cultural appropriation for copying Indigenous sandal design - AP News",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQXd0Znp1RGhwTUNQZV9lVkZ5QWhETE9YX1NmX1VnLVlhSjRBYzhYck55elVCa1dzYjQwUk03R3FXVjEzeE9RdWtfWktxdlhPZ05qaDlDRWlEYnZfTld2R1dZcWY3SF9FbHlWS2tfN2hCVkhCQklZT3RwUGdObFByN0FjUHFoRXk3V0RDRFo1SVlEMEJ6MGZNSHh1NE9vLUhmVFByYmExTG5NZC1zblhSM0hQM3MxalNxWENLWGdLZnE1WUVwTnF5RkFQOTZGYlR6SU9kMzRxb2ZWZw?oc=5",
         "description": "",
@@ -2623,26 +2596,8 @@
         "bias": 0
       },
       {
-        "title": "Benin hosts mask festival amid growing interest in country’s cultural heritage - AP News",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeDE2QUdzVkdVYjFfREMwLUpSeUNHWVRZaGZ4LXNLai1kVExSaWJMWmtFbmw4b1NmSDhPOFVKaWNtY3Z0OGRCZG1lOGoxejdielJ5aFNhZEpJMmNuQ00xd2NRZUJ5WWRJSzJQUzRyTUlvbzRyemQ3SUFDV2ZNUHVpeFE5LU1yLW85ekRndlhhdTNaZ2xLdVJHWE9RZ2MzVmhxNkgzd1E4ZUNMZThDVEc2RnhJWGdkV3NOOVd6V2ZaWV9OU1pObmdyQ2ROQ1o4UllQ?oc=5",
-        "description": "",
-        "pubDate": "2025-08-03T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Matt Rogers talks bringing zeitgeisty Las Culturistas Awards to TV for the 1st time - AP News",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNDUzSWpwZG1ZUERKaVFTRlJyZGRaUnFPYUpHY2Z3RHRiRVRES09HRUpiZGI5QnJLY3lnaHp6dUlJVHV0LTlmczgzYVJNSVAxOGtxUGlxWEQ1aTE5a0t5WEpvel9GcE9vZmp1ekdqMEJTXzRJWVE0ZFprN3J2dHY3U0U1YWpScldCc1E1Wkp2eWZOdFNJMFRaMnBmUXZNSFk1VW1HZEk0RFBkbkMyUkk5c2Z3?oc=5",
-        "description": "",
-        "pubDate": "2025-08-01T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Yang and Rogers bring Las Culturistas Culture Awards to TV - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLWxOX1UxejB0aW1FbzJxM2J0ZXE2ZG0wdGdNUHVNTXBodXl5d01vQUJzX0o5Nm1wRGNfUXl5VVZZX3pYTkZYRldVQ2dvMHJfNWNSY2YzMzdwZHA1Qk5UMjVocy1CTy1UbGJqQ0kxMEJTaG1hZW1jU1BVQzhtVXdzWndFWFB2M0pKd0h1c1hqUkRKZjRsRkxsM0EtS3BXLTl3OVZhdUk4SjY0VjAtTDlLNkw4RVBkNVE?oc=5",
         "description": "",
         "pubDate": "2025-08-01T07:00:00Z",
         "source": "news.google.com",
@@ -2659,10 +2614,28 @@
         "bias": 0
       },
       {
+        "title": "'KPop Demon Hunters': How Netflix's animated film became a hit - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRWgxWnJhWjlEOG1qZDZxMjJ6eGdMYTNCV0RTaTNhQ3QxY2VDS1NKQlE4S1JScHpzQmF6clRpRlkwZElWM1pKS3R0ZDdrWDI4NVhSdkFyZE1xOGdtSHdrYXdneXREUXROTjNHcHBtTVJvaDUtVm1QV3o2ME94Tk16TkIxSTBoY1hzT1lUdDVvRkYxLW5TQjIyVzB3THFQT3BZNzBhakt3VThfdXdu?oc=5",
+        "description": "",
+        "pubDate": "2025-07-30T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "The reverse migration: African Americans relocating to Kenya cite heritage and restoration - AP News",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeTlKTWd2aUIwVFFmYlBWUGlHT0szNnF1aTVCRHFwYU5FdGdiTWZqRG1BZDRuZEZnOUJrc0s5Q0twSnFrNjh6R1BVenI3OHc3Q3JwM292OE01ME1VcjFBVGFUZFlMNXBSaEtBbTRnc2hPQkxzcVBTaXgyVWhQWGNJdVBGZlVaVTUxSmFWSDBEMkNCbWIwTzB2LWxn?oc=5",
         "description": "",
         "pubDate": "2025-07-26T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Elijah Wood remembers Hulk Hogan as ‘fixture of pop culture’ - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbHRFbzlkcnMwRlliajlIWnRRNWlpUTI1SlVEWUVzejVJT0JrVjVTb3FuandSMmFseXJNWV9sWUJxNGRzWmhOYnlqRWVJWFJOLUxPYmtvRi04MnA3MDJtTEF6amV5OG5zaHdaazBNc3R1YmFmWXVCT0w4WF9FblRYdHhyQldzUl8wLWdXdW5YMUVPbGVudXlmVVBqZEk3NWUzOXVpQld6Y2FwaWFpQnRQMm5pdDRlWk0?oc=5",
+        "description": "",
+        "pubDate": "2025-07-24T07:00:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -2708,6 +2681,33 @@
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaTJjaEtLUHhnTTVFT0o2UTh4SEg4ZVFzLVRBNmFaSFpWZE5ubVdGUUd4R2IyYzBTN3pfUEUtNFVqZWJhc3lNdGlVVHlhbC05eDBydVRDRkxtbG1MVUx6S3VQVE9RTjhpWDRhNkNqZTlXY3BuYnZvN0NXTGFkVUQyc3I1SWxHRWwwQWQ5VTUyV2NDOXdiOU12UC03Q2Q3RkpyVURabGpTOFlpUllKcXc?oc=5",
         "description": "",
         "pubDate": "2025-05-14T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Book Review: From incels to trad wives, culture critic probes 21st century backlash against feminism - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZGpTQTFlMjdMTVNzZU85VVpMU1liZE05UFpKcGVKeGRYcjhVMkQ1T3NGUHk3REk4aWVnUkdPMnREcThsUF9OLS1TZ25QS0VRUzVKd19HVW1OeWtSU3l6QlgxTWZVYXJZNll2aDhDTGlLOU00S0xNR0h0dFBvRUVaSGpsOXR6UlQ0ZG1mdXI2V2JjUWJUTUE?oc=5",
+        "description": "",
+        "pubDate": "2025-04-28T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Vikings continue to value culture in NFL draft with praise of Donovan Jackson’s selflessness - AP News",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNajlxcDQwV3E3V0RScWZsbldTc0tJckNaV1gzN2pkMEMwMjRWekl2Y1pXQkpGSzFSbFRnSkxtRWdmLVBYVkM0MG9OSTQtb3dTdHZyTks5c3JmRW1Ya0R2V0RBbkxSODVLS0xRMkFYZW0wQjdPbkZZR0t4QzRscVh2ak15UQ?oc=5",
+        "description": "",
+        "pubDate": "2025-04-26T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Fashion, heritage and talent: Players turn the WNBA draft into a cultural showcase - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU3Z5YW0tY1NMWW9oSFpIeW5HSU01V0htM2g0a3FpTFlwblNHYUZsSVZMOE5UdTh1NVZVLTR3UWZla19vV0NfMUNuT3BnWmUtZmRRLTdCWW54R0M2NlFUT2h5S1lCcmpMa2d6a1gyeW9qWUxLajAyVUE2dHZPVUUzTmtpM2pLSFhCTVJ3?oc=5",
+        "description": "",
+        "pubDate": "2025-04-15T07:00:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
