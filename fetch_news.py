@@ -168,8 +168,18 @@ def main():
                         continue
                     global_titles.add(title_key)
                     aggregated[category].append(item)
-        # Sort items by publication date descending and keep top 50
+        # For gaming news, enforce presence of title, link and image
+        if category == 'Gaming':
+            aggregated[category] = [
+                it for it in aggregated[category]
+                if it.get('title') and it.get('link') and it.get('image')
+            ]
+        # Sort items by publication date descending
         aggregated[category].sort(key=lambda x: x['pubDate'], reverse=True)
+        if category == 'Gaming':
+            # Stable sort to prioritize Steam entries
+            aggregated[category].sort(key=lambda x: x['source'] != 'store.steampowered.com')
+        # Keep top 50 items
         aggregated[category] = aggregated[category][:50]
 
     result = {

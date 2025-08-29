@@ -143,7 +143,7 @@ body {
   border-radius: 8px;
   object-fit: cover;
   border: 1px solid var(--line);
-  display: none; /* hidden by default; enabled at ≥720px */
+  display: block;
 }
 
 .article-meta {
@@ -224,7 +224,6 @@ body {
 /* ====== Responsive ====== */
 @media (min-width: 720px) {
   .article-list { grid-template-columns: 1fr 1fr; }
-  .article-thumb { display: block; }
 }
 @media (min-width: 1024px) {
   .article-list { grid-template-columns: 1fr 1fr 1fr; }
