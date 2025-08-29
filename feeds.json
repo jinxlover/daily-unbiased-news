@@ -1,4 +1,9 @@
 {
+  "Gaming": [
+    "https://store.steampowered.com/feeds/newreleases.xml",
+    "https://www.nintendo.com/whatsnew/feed/",
+    "https://itch.io/feed/new.xml"
+  ],
   "World": [
     "http://feeds.reuters.com/reuters/worldNews",
     "http://feeds.bbci.co.uk/news/world/rss.xml",

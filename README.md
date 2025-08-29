@@ -12,8 +12,11 @@ manual intervention.
   sources such as Reuters, BBC, Al Jazeera, NPR and AP (via Google News).
   The feed URLs are defined in `feeds.json` and can easily be extended or
   modified.
+- **Gaming first:** A lighthearted **Gaming** section kicks off the page with
+  fresh release announcements pulled from Steam, Nintendo and indie platforms
+  like itch.io.
 - **Category sections:** News items are grouped into major categories
-  (World, Politics, Tech, Science, Business, Culture). Each section
+  (Gaming, World, Politics, Tech, Science, Business, Culture). Each section
   displays up to 50 of the most recent unique headlines across all sources.
 - **Duplicate filtering:** Articles are deduplicated by title across all
   categories to avoid repeating the same story from multiple outlets.
