@@ -100,5 +100,5 @@ adjusted as needed.
 
 ## License
 
-This project is provided under the MIT License. See the [LICENSE](../LICENSE)
+This project is provided under the MIT License. See the [LICENSE](LICENSE)
 file for details.
