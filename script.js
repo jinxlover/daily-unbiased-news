@@ -95,14 +95,26 @@
       const list = document.createElement('div');
       list.className = 'article-list';
 
-      if (articles.length === 0) {
+      let displayArticles = articles;
+      if (category === 'Gaming') {
+        // Prioritize Steam entries
+        displayArticles = [...articles].sort((a, b) => {
+          return (a.source !== 'store.steampowered.com') - (b.source !== 'store.steampowered.com');
+        });
+      }
+
+      const elements = [];
+      displayArticles.forEach(article => {
+        const el = createArticleElement(article);
+        if (el) elements.push(el);
+      });
+
+      if (elements.length === 0) {
         const p = document.createElement('p');
         p.textContent = 'No articles available.';
         list.appendChild(p);
       } else {
-        articles.forEach(article => {
-          list.appendChild(createArticleElement(article));
-        });
+        elements.forEach(el => list.appendChild(el));
       }
 
       section.appendChild(list);
@@ -114,6 +126,7 @@
    * Create a DOM element for a single news article.
    */
   function createArticleElement(article) {
+    if (!article.image) return null;
     const wrapper = document.createElement('article');
     wrapper.className = 'article';
 
@@ -154,14 +167,12 @@
     if (trimmed) textWrap.appendChild(desc);
     wrapper.appendChild(textWrap);
 
-    if (article.image) {
-      const img = document.createElement('img');
-      img.className = 'article-thumb';
-      img.src = article.image;
-      img.alt = article.title;
-      img.loading = 'lazy';
-      wrapper.appendChild(img);
-    }
+    const img = document.createElement('img');
+    img.className = 'article-thumb';
+    img.src = article.image;
+    img.alt = article.title;
+    img.loading = 'lazy';
+    wrapper.appendChild(img);
 
     // Comments functionality has been removed to simplify the interface
 
@@ -174,7 +185,7 @@
   function buildTicker(newsData) {
     const allItems = [];
     Object.values(newsData).forEach(arr => {
-      allItems.push(...arr);
+      allItems.push(...arr.filter(a => a.image));
     });
     // Sort globally by pubDate
     allItems.sort((a, b) => parseDate(b.pubDate) - parseDate(a.pubDate));
@@ -225,14 +236,18 @@
         const matches = articles.filter(a => {
           return a.title.toLowerCase().includes(query) || a.description.toLowerCase().includes(query);
         });
-        if (matches.length === 0) {
+        const elements = [];
+        matches.forEach(item => {
+          const el = createArticleElement(item);
+          if (el) elements.push(el);
+        });
+
+        if (elements.length === 0) {
           const p = document.createElement('p');
           p.textContent = 'No results.';
           list.appendChild(p);
         } else {
-          matches.forEach(item => {
-            list.appendChild(createArticleElement(item));
-          });
+          elements.forEach(el => list.appendChild(el));
         }
         section.appendChild(list);
       });
