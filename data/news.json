@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-08-29T07:31:31.032367Z",
+  "lastUpdate": "2025-08-29T07:45:40.868191Z",
   "news": {
     "World": [
+      {
+        "title": "‘Everything has been lost’: Kashmir floods, landslides kill dozens",
+        "link": "https://www.aljazeera.com/features/2025/8/29/everything-has-been-lost-kashmir-floods-landslides-kill-dozens?traffic_source=rss",
+        "description": "Overflowing rivers devastate communities, prompt questions about whether lessons from past floods were ever learned.",
+        "pubDate": "2025-08-29T07:19:49Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "European leaders outraged after Russian strikes kill 23 and damage EU's HQ",
         "link": "https://www.bbc.com/news/articles/cvg3y7m2gz0o?at_medium=RSS&at_campaign=rss",
@@ -439,15 +448,6 @@
         "link": "https://www.aljazeera.com/video/newsfeed/2025/8/28/why-france-germany-and-the-uk-want-to-reimpose-sanctions-on-iran?traffic_source=rss",
         "description": "France, Germany, and the UK are starting a 30-day process to reimpose sanctions on Iran over its nuclear programme.",
         "pubDate": "2025-08-28T20:07:05Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Famous Sikh shrine partially submerged after flooding in Pakistan",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/8/28/famous-sikh-shrine-partially-submerged-after-flooding-in-pakistan?traffic_source=rss",
-        "description": "One of Pakistan’s most famous Sikh temples was flooded after heavy rains submerged parts of Punjab province.",
-        "pubDate": "2025-08-28T19:55:40Z",
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
@@ -1258,15 +1258,6 @@
         "bias": 0
       },
       {
-        "title": "A Ukrainian startup develops long-range drones and missiles to take the battle to Russia - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVXhlbVlvODdVbHM0UEJSRUUzUzhVMWc2YVRfcm5IUWYzOEZBX0xZOHhjSjhGaWEyQUVqZ3ZVQy1VMjJKSTVWTkx1XzFTMWZvSENLY2RVSjFoWVkwZzFPRHhBWk5ZdmhMVzAxdEpneklEdGxDWEx2Y2djanBudWg2ak5GUUJRNnBnMUdjcU1Vcmppci1FMnA1cF80aGloMEk?oc=5",
-        "description": "",
-        "pubDate": "2025-08-21T13:13:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Hundreds of thousands of Grok chats exposed in Google results",
         "link": "https://www.bbc.com/news/articles/cdrkmk00jy0o?at_medium=RSS&at_campaign=rss",
         "description": "Elon Musk's artificial intelligence (AI) chatbot appears to have published messages without users' knowledge.",
@@ -1291,6 +1282,15 @@
         "pubDate": "2025-08-21T07:51:05Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9433/live/df8ab920-7d33-11f0-b6c9-e1728577c12d.jpg",
+        "bias": 0
+      },
+      {
+        "title": "A Ukrainian startup develops long-range drones and missiles to take the battle to Russia - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVXhlbVlvODdVbHM0UEJSRUUzUzhVMWc2YVRfcm5IUWYzOEZBX0xZOHhjSjhGaWEyQUVqZ3ZVQy1VMjJKSTVWTkx1XzFTMWZvSENLY2RVSjFoWVkwZzFPRHhBWk5ZdmhMVzAxdEpneklEdGxDWEx2Y2djanBudWg2ak5GUUJRNnBnMUdjcU1Vcmppci1FMnA1cF80aGloMEk?oc=5",
+        "description": "",
+        "pubDate": "2025-08-21T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -1358,15 +1358,6 @@
       }
     ],
     "Science": [
-      {
-        "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-        "description": "",
-        "pubDate": "2025-08-29T04:39:46Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
       {
         "title": "Trump administration argues that more roads would help against wildfires",
         "link": "https://www.npr.org/2025/08/28/nx-s1-5468957/trump-administration-argues-that-more-roads-would-help-against-wildfires",
@@ -1620,15 +1611,6 @@
         "bias": 0
       },
       {
-        "title": "Scientists discover an ancient whale with a Pokémon face and a predator bite - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMnpDc0YzcGlpNG0yVE1iSzdOaFBqN0hybGE0Y0tFajEtdWl5bkNuMXpIYjlJVDdvQjFWcGsweUxRWWJscG9uMnd1dnBlS3BhZXZjNWIyTTQ2OWNtMVljR1lsOENHSlRIa3JHQXlCbGNaNWR0ZG9jYkd5UkVZRk5nWm12STg5cEwwM051Y2ducFlLcTNXT0k0N3ZhYXpvZkZmZmhCNXdFdVF4dUVQc0J4cjJCQzhIYVAxS25qTlMzSjA?oc=5",
-        "description": "",
-        "pubDate": "2025-08-15T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Hot, dry summers bring new 'firewave' risk to UK cities, scientists warn",
         "link": "https://www.bbc.com/news/articles/c9vd79x97zlo?at_medium=RSS&at_campaign=rss",
         "description": "Rising temperatures are increasing the chances of multiple wildfires at the same time, researchers say.",
@@ -1651,24 +1633,6 @@
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLVNyczk4T3ROaU9XRGJndkRLVjl2WWl4eWx4aFJpY3Qzb2pLUWgzME1SX3htMGtOcm9Gc1ZQRnFzSzhGMkJ4TXRkS21pNnRNT2ZRZUNhNG84VmpXU2U3bU0zVzFvQWlOVjdOM3ZkYVREREVuOWhfT1NSYUJCTzZSV1VhS0dYSXJqOTJtTmgzY0tGX2ZEel8zRkVpV05kcm9pWEdnaVRkdTVlUVdUYm10TWZNSlVYY3FqNEQyanFFVnd3WFk?oc=5",
         "description": "",
         "pubDate": "2025-08-12T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Scientists standing by to rescue rare manatee sighted in cold New England waters - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWEZweURmZDBnRXk0cU9KVFlTaWNCVDc1WWpmZmpoLXp2QzZiNmszSlNaRjJOaTNSczA4bFdpWi1mU0Y5VGFVaDhOd2pKMzhycTJkZWpkVUJHMVFiejVnckpjenhlREwzM1Y2ckdtRy1ENU1FYnE4aXZPUmR5NzRUS1FlUEw5aElISlpPOUFJZWptc0Y3UnNwQzVGMXZ5YjE4ckNvVlEtM3R6QlVEM2pGWWQwWTB0bXc?oc=5",
-        "description": "",
-        "pubDate": "2025-08-12T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Scientists search for DNA of an endangered salamander in Mexico City’s canals - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOHF3TDVhWTVmRG5KZDJvVkQ2Q3BLMXhTUHNVVDhvR2p0ZEhZWWxYMkJZZ3FodjRISlRUb3VHdXRrODI4aEFjSjdhbUpJWEtIQjU5UmtQTTVDbW02T3pEcnctd3RGTld6T2VwWnEwMnBKSjdxcWRDeHgwdlVoLU53aWhfeF9yZmlGV2dDUEhFbkJvQUwySExpVmsxNHlXSXlkaXpj?oc=5",
-        "description": "",
-        "pubDate": "2025-08-11T07:00:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1806,6 +1770,42 @@
         "pubDate": "2025-07-31T00:02:31Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05ed/live/6ef95290-6d50-11f0-8b42-cf5ae7bf0dcf.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Why did Russian mega earthquake not cause more tsunami damage?",
+        "link": "https://www.bbc.com/news/articles/c0l6pj7kjg7o?at_medium=RSS&at_campaign=rss",
+        "description": "The earthquake was one of the strongest ever recorded, but its tsunami was not as bad as feared.",
+        "pubDate": "2025-07-30T16:09:03Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/903e/live/6517c330-6d76-11f0-8dbd-f3d32ebd3327.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Ousted vaccine panel members say rigorous science is being abandoned - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYlJkTms0WjV5VHA0RDZvV1VFcFBnbFJjUVFDUVJQazNXUV9VZlVBNHA1SGg1OFItcGpVWUppSGNRc0tMTVRDYTJlTFBubmplR1E5UElIdFQxWXdQMzhkYUtLVVlmMFZHMi02V1RyR212WkhCLVYtVjRoZjRUVkxCWVhyblo2MnJx?oc=5",
+        "description": "",
+        "pubDate": "2025-07-30T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "A submersible finds sea creatures thriving in the deepest parts of the ocean - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUTZYSUUwUTBKYkZMeWstN0ZhSVFrVzMyTGJGYmV6N0pBaFpCVlBZYmViTlZLZFA0SGZiVWY1Wmx1YUxFU25wSFJGTnViU0Z6d09sVUFXOHRIcVZySW0yYnhRSVB2blpvQ1lDOEZ6UE4wMzB0TjdaZ1g3aE80SXJ3SEtES2RZa2tEMVJxNDJFTVNDanFiYUV3?oc=5",
+        "description": "",
+        "pubDate": "2025-07-30T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Why plane turbulence is becoming more frequent - and more severe",
+        "link": "https://www.bbc.com/news/articles/ckgy7jx082ro?at_medium=RSS&at_campaign=rss",
+        "description": "Flights are getting bumpier, thanks in part to climate change. But new studies are looking into innovative potential ways to turbulence-proof wings - using AI and owls",
+        "pubDate": "2025-07-29T23:00:12Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3593/live/d462d530-6c91-11f0-af20-030418be2ca5.png",
         "bias": 0
       }
     ],
@@ -1971,15 +1971,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Can a new tax save downtown Honolulu’s small businesses? - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN2VtV1EzYUdyWW1yd2FOaE8xTG9Oa0d6R0E1SWRyX2tnbWhMc0hxMGU3ZWdWTU5CVzFIOVZ4dnVFNGc2U0V4ZUNOSWdhSW4yNnA4ZEJzRzBaYmpsZkpKd2VHN3V5d0VFdjVoVHFnd0hMalQtNzQ3MC1qMUNkNExlMXVCMm4xMlNsM195V0FSUmIxbnVlZVRiVjdUYlBUYlJyUkZTaFJB?oc=5",
-        "description": "",
-        "pubDate": "2025-08-27T17:54:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Solar-powered postboxes being rolled out across UK",
@@ -2207,6 +2198,15 @@
         "bias": 0
       },
       {
+        "title": "A helicopter crash on Isle of Wight in England kills 3 people during a training flight - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSlZsdVVjcFVIS0VIemt5QVNRdTExNWl5Y3FKb3h6Y0M1N2xpS2tSeWFvbHdYRktVeWpzbXVuQWl3RWJWOGFYaXY5NG0xVXlQS1NUcU4zRVJNTEt1NE52UGxRT2dQQTJIemY0VmV0REFUU1FqWllseHhrYnNTMmtpUnI4SDFVbFdERXlqRzRTQWJWUEFmVk1qaF9Nd00?oc=5",
+        "description": "",
+        "pubDate": "2025-08-25T22:56:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Book Review: Icelandic detective stars in ‘The Mysterious Case of the Missing Crime Writer’ - AP News",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVXpMd05xTjk5bFJDYjJwWkkwQ0E5V1ZLWHZDOGo2ekpjN0Z4OXBrTXp6MXMwZjJFbFc0Nzl1Mm5hQjVSby1kYWtRdEVnUjdab2JfQjdBdXFrYUlZRk1Ocy1rMzR1ZlFaQTFsWmJFblVaaVVGM3RQaEJaTnpMVVdNRTVZbkwyRnBsY2ZpZDhNZG1ZMm1yTkxPSHhVdm9XRVlna01uVnRMRFpmQ0FrajhpTnlFM00?oc=5",
         "description": "",
@@ -2220,6 +2220,15 @@
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSTJ6REhWSFppYjZYa19WT0FxcVhKdS1HMmJvckVWMjhFenZScF9kNGJMQjByeTVHQ3pfY2R3Zk1tbExabEdGV0R4ZWJjaFZuc3Fsb3FnMzRpejBZaDlaczlwTFZoODZNUVpnX2JvZEtGTjZHd1JKUTJqNnRwd21rUWNpQ2p1eUpFTFZaeVdsV3J6Y1NhZkkzTlNxRQ?oc=5",
         "description": "",
         "pubDate": "2025-08-25T20:28:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Businesses on the Las Vegas Strip want to resume a court that banned repeat offenders from the Strip - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaVhRdTA3eExWdWJmUl9KSlNQMWM5N0k5aTA0UVQ1VzFDR2Zkd0R4TF94Q3h4YW5EaWl2MmNOZGpYalJ4d25rNlM3TWdhQ29Wd1FyQVFDLUE1b2xjM3c0cHBCWDc5ekpXWkJjQ3hSc3dGeTZyeEtmYnN0c0V0N1pQSXpUNUlXcVpYVDBsMWpGb0gtenh0b0ptV1p5X1QxaDlGMUFORHVhYWFVUWhFcmc?oc=5",
+        "description": "",
+        "pubDate": "2025-08-25T20:22:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -2247,15 +2256,6 @@
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYzdQRVNkZDJhSEQ1TnNBMllVX3dBeEdzZW9KOVJjSWRMVW5ZR0YzazdjOHlLb2lGdmdzcnZreGJwU3ViZmZ0ckZzb3ZqNzg2N0tfdXdxeVB6SjRNWlAyaTVzRkZabERKaXlRMTdnRkVSZ0YtSmh4c0ZmU1FyaXpOUEVGVW5QMFN5dE9VUUZfcUpFY2hY?oc=5",
         "description": "",
         "pubDate": "2025-08-25T19:12:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "West Virginia lags behind its neighbors in sites for new businesses, but it is moving to change that - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV2xGZ2FLdEF4R2RXMEtLSEtFNlpwVGNSQkJOd3pVbW5Ja2VCVmVOdFpIM3dNdmZDVUFfamtCdlM1cE81R1JYOHNVcmZ5TkxEMUNoa1NCYk5nc2doTmYtT3UyUV9TVEgycVV0d2hLZUJSNnRDeXc4Q21jRDR5UEdEZEVTUlNSQ2ZPaW53QUJ1cHJMQzdXVVBsUjJTTXR3ZlJtSl9Rcw?oc=5",
-        "description": "",
-        "pubDate": "2025-08-25T18:45:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -2677,6 +2677,15 @@
         "bias": 0
       },
       {
+        "title": "Elijah Wood remembers Hulk Hogan as ‘fixture of pop culture’ - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbHRFbzlkcnMwRlliajlIWnRRNWlpUTI1SlVEWUVzejVJT0JrVjVTb3FuandSMmFseXJNWV9sWUJxNGRzWmhOYnlqRWVJWFJOLUxPYmtvRi04MnA3MDJtTEF6amV5OG5zaHdaazBNc3R1YmFmWXVCT0w4WF9FblRYdHhyQldzUl8wLWdXdW5YMUVPbGVudXlmVVBqZEk3NWUzOXVpQld6Y2FwaWFpQnRQMm5pdDRlWk0?oc=5",
+        "description": "",
+        "pubDate": "2025-07-24T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "‘We’re peeping toms now': Culture expert on THAT Coldplay moment - AP News",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNG56OVNYa2podkhJc1RoZ0wtV1NDcnkydWZEdzNtU1R6Vnh1M2I4dnFrd1lYQVlGV0JzTDFvbDJYMW9mOHA2RDRyTkxfbnM1WXc2VDdfU3NZUkJVZklFZVp1eUlGYm5IZ1JnYkhsUmRzejhMNDN2QXVETjZUcFNBbW91amlXbWpHMnZCcUJhdGxGQ1lYV09odTR2Qk1CRkg0U3lwdTkyRXNMOTVYWl82Szl1NDJpdTJ5RlE?oc=5",
         "description": "",
@@ -2699,15 +2708,6 @@
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdHRGS3pnYkl0OFc1NHRweXVrWDN5YVRSQlBKbElfYVVTTV9NMnV2OHZ3dVJvNktuWUhHZ0MwdWI1VGhlYTdId0ZXTXRxU3R4ZGVEbTB5N2tUNkliYTM1QmI5VUNJX0txaEFyMDNxRkJ3WjM5MG84YlExcHI0SnEyYXZFVW9HcG1yaU03NzIxN2llMXMwbVFBWWFrVmM?oc=5",
         "description": "",
         "pubDate": "2025-05-21T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Ukraine’s entry to Eurovision Song Contest celebrate their embattled country’s culture - AP News",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbjBKYkx4YmJzTW0wRklOUVhUSVNacWhRbVZhWjdoUnJjVVlwd3pOYm1VSGdYb1gybmRjdnZCWDBHOHl1Sk9HOGR1OHhhMlhiZ1ZqbzdsWWJfQ2l2SVNheXdsbC0yejFCdnFfRWlDcUVCYl9Pb3JOSlByNzJ0TUtibE9RQzhCZVNkX182Vi1tNTctNk1BZFNpd291b2FtQnMwWXc2X1BXVHlLY3ZCR2gxaUlGSDU2NmtyN1d6Tlc2UXFfMm91S3BUaExGeU5TVEJqNmxLZlZRSEJCQQ?oc=5",
-        "description": "",
-        "pubDate": "2025-05-16T07:00:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
