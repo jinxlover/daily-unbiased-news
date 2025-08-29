@@ -130,7 +130,8 @@ def extract_items(xml_data: bytes) -> list:
 def fetch_feed(url: str) -> list:
     """Fetch and parse a single RSS/Atom feed URL, returning items list."""
     try:
-        with urllib.request.urlopen(url, timeout=20) as response:
+        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (compatible; DailyUnbiasedNews/1.0)'})
+        with urllib.request.urlopen(req, timeout=20) as response:
             data = response.read()
             return extract_items(data)
     except Exception:
