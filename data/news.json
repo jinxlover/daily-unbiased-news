@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-29T19:21:44.566604Z",
+  "lastUpdate": "2025-08-29T19:26:25.303785Z",
   "news": {
     "Gaming": [
       {
@@ -327,6 +327,15 @@
         "bias": 0
       },
       {
+        "title": "Echoes TD [Free] [Strategy]",
+        "link": "https://timelapseinteractive.itch.io/echoes-td",
+        "description": "Defend against the horde and use all the towers of the past with you in the future",
+        "pubDate": "2025-08-29T18:43:51Z",
+        "source": "timelapseinteractive.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIyOTQyNDQ3LnBuZw==/315x250%23c/mo9eKI.png",
+        "bias": 0
+      },
+      {
         "title": "fouron_week1_2025 [Free]",
         "link": "https://magicdoogies.itch.io/fouron-week1-2025",
         "description": "",
@@ -442,27 +451,9 @@
         "source": "halkind.itch.io",
         "image": "https://img.itch.zone/aW1nLzIyOTQyNjI3LnBuZw==/315x250%23c/Nr5oRQ.png",
         "bias": 0
-      },
-      {
-        "title": "LE - The Quest for the Castle [Free]",
-        "link": "https://visst.itch.io/le-the-quest-for-the-king",
-        "description": "",
-        "pubDate": "2025-08-29T17:35:06Z",
-        "source": "visst.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIyOTQyNTU4LnBuZw==/315x250%23c/%2B6SxDa.png",
-        "bias": 0
       }
     ],
     "World": [
-      {
-        "title": "How Israeli spy veterans are shaping US Big Tech",
-        "link": "https://www.aljazeera.com/video/the-take-2/2025/8/29/how-israeli-spy-veterans-are-shaping-us-big-tech?traffic_source=rss",
-        "description": "Hundreds of Israeli intelligence veterans are in US Big Tech and it’s raising questions about data and security.",
-        "pubDate": "2025-08-29T19:13:56Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
       {
         "title": "Children’s aid site in Gaza city shows ‘signs of famine everywhere’",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/8/29/childrens-aid-site-in-gaza-city-shows-signs-of-famine?traffic_source=rss",
@@ -902,6 +893,15 @@
         "pubDate": "2025-08-29T13:13:00Z",
         "source": "news.google.com",
         "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Fed Governor Cook in court to block Trump from firing her",
+        "link": "https://www.bbc.com/news/articles/cedvj2d5538o?at_medium=RSS&at_campaign=rss",
+        "description": "The legal case over Trump's move could have lasting implications for the central bank's independence.",
+        "pubDate": "2025-08-29T12:34:51Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c553/live/5e6d4270-8262-11f0-ba76-2552413beb48.jpg",
         "bias": 0
       }
     ],
@@ -1359,15 +1359,6 @@
     ],
     "Tech": [
       {
-        "title": "Tensions soar across Indonesia as protests against police erupt in multiple cities - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdDFsU3RnYWFza0tHbnl0emhPMnZ5TE1pUDNTUUJsbjFkSE1Tam9HdWZ3a1U4TDNuZk1WNFBWY3lsczV5YlJzb3ZCaEYtLUF2MDlsM1VrdGstd25KME9nMmhaeGJrS09VTTlYYlVpQ25JQTFfcGxyMzUyRVBQMXlqZHFJMkxxQjh1ZWpSSjl2dHY?oc=5",
-        "description": "",
-        "pubDate": "2025-08-29T17:02:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Court documents shed new light on UK-Apple row over user data",
         "link": "https://www.bbc.com/news/articles/cx293qg7z39o?at_medium=RSS&at_campaign=rss",
         "description": "The document suggests the government may still want access despite US officials saying it had dropped the demand.",
@@ -1807,18 +1798,18 @@
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0lxrjcx.jpg",
         "bias": -1
+      },
+      {
+        "title": "Research suggests doctors might quickly become dependent on AI",
+        "link": "https://www.npr.org/sections/shots-health-news/2025/08/19/nx-s1-5506292/doctors-ai-artificial-intelligence-dependent-colonoscopy",
+        "description": "A study in Poland found that doctors appeared less likely to detect abnormalities during colonoscopies on their own after they'd grown used to help from an AI tool.",
+        "pubDate": "2025-08-19T10:57:42Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
       }
     ],
     "Science": [
-      {
-        "title": "With CDC in chaos, scientists and physicians piece together replacements for agency's lost work - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX3I3THJIdUtBVHNsNjZKM2ZYX2tveERUbUdJRV9VcDlncGdqU0h1enVnMTBZNFpHbW9KY3JURHlzc3ZxTXF3OUlwVUZHWXZoOGdRYy01R3RuMkpMaWl6SE1mZEdha3JEcjFtelN4N2Z4RWx2TWNKUkRZaEZsMkpBckEwQnpVVExMYUc1cW1DVUdnMXZQTXJR?oc=5",
-        "description": "",
-        "pubDate": "2025-08-29T13:21:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
       {
         "title": "The Trump administration wants to build more roads through national forests",
         "link": "https://www.npr.org/2025/08/29/nx-s1-5521379/trump-administration-forest-roads-roadless-rule-firefighters-wildfire",
@@ -1827,15 +1818,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "CDC gets new acting director as leadership turmoil leaves agency reeling - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd180RUcwMEJPaERVdmZ1cnU5MkVqamxCV1hJVm5PTkJrenJEUUNjblI3anpOMXpfZ1NMa19neGI0Rkk4M3BZSi12ZWhwVFg3TTdicnBxZU1JOXRIaW4xSndsVHZrSHBKQm16a0tDTHNUZDN2cE01WlV3cFh6b3FMTXJOSnNFdEJTVW1fai1KbF9HbnFfYzVpMDc4R3NWandDa3BEYlptdDMxMUZy?oc=5",
-        "description": "",
-        "pubDate": "2025-08-29T00:04:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Trump administration argues that more roads would help against wildfires",
@@ -1901,15 +1883,6 @@
         "bias": -1
       },
       {
-        "title": "'Caught Stealing' review: Austin Butler shines in '90s crime caper - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWVNGT3Z3b01hZUlvcHUwdUhwN3J0OEQ0VC1Ga0FURVB4Vk5ERnRBU1ZpenpWRkhoQ01tMTNsNVFHNzMxdVlKNTlMVzE5UGQ4ejhfUUJENmcxX3hTaUpRWUhUZGZLTXFydzV3TFRSMTJrMXJ6cjhEMmZzVHRONkNvSWtvaFhGWXRJT1hScVdpeEFPenZabHExaEkzZGVmMEdvZTVoOTE2LWhSZw?oc=5",
-        "description": "",
-        "pubDate": "2025-08-27T16:15:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "'Punk rock' dinosaur with metre-long spikes discovered",
         "link": "https://www.bbc.com/news/articles/c5y2emnnn4po?at_medium=RSS&at_campaign=rss",
         "description": "The animal has come as a surprise to experts, who now have to rethink how these armoured dinosaurs evolved",
@@ -1955,30 +1928,12 @@
         "bias": -1
       },
       {
-        "title": "Scientists give harsh grades to Trump administration work aimed at undoing a key climate finding - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOXFIOXhNcGRHajRoU0lBV0Q2b2RweVpnd0l6REhCaWFfUldTZFVaby14bzNlUVpyUGY4dlkzdE9zcThyZTljMF9MYi1TbzlFYTNyUVFFRG1ZWFFNWTI3M3ZSNkxIYlBxSmx6dTdRVDNmdDBocHcxTXhsZENxNXRlbVptUkIyTHBuNVBzUEp6YkZZYlZYYi0zTDFKS2ZsVmhZT2pkcFpuN2o?oc=5",
-        "description": "",
-        "pubDate": "2025-08-26T15:56:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Summer 2025 'almost certainly' UK's hottest on record",
         "link": "https://www.bbc.com/weather/articles/c1kz18d3wjro?at_medium=RSS&at_campaign=rss",
         "description": "Provisional figures from the Met Office show that the UK is on course for its hottest summer on record with just a few days of the season remaining.",
         "pubDate": "2025-08-26T14:21:10Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b11/live/5d95c2a0-826c-11f0-a832-3d1a9236e27e.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Takeaways from scientists on the Trump administration's work on climate change and public health - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWExtRzlvM1Q3bXlhNzFrQi05M2ktZHhDYmRSWGZHZnhkSnFEVnZqZHZrb0dvcTQ5OUQtM0ZBNzBBRy1wWTZDaWlQMnYxcEIwN3o3ZXJGY0pCOXdkbzNxM3cxQmxCbkxyVGxHU2pRcTJOZzNMSWVwTXJ4TzhjWWxLSTJYNHFNTVpYNDllXzIwOF9aX3YyeG1saFI4R2JLREc1ZGxuSQ?oc=5",
-        "description": "",
-        "pubDate": "2025-08-26T13:05:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -2000,30 +1955,12 @@
         "bias": 0
       },
       {
-        "title": "Key things to know about how Trump's war on higher education has ensnared an unexpected campus - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWjdTUF8tSkNlVXBGN2VVQkdhaVVDT3pmNllsMnhYSHN3OG5tcG5iZnpmN09jS050dEgtVjdvSEo5YmdKMVNuUHBJcWtrRDdyRzZNdmtOalFXV1lYa1A1Y2lGVXVVai0wdm5aNGE1My0yYUo4WWxfeGlMeW5iaF9TMWVpM002S1J5YXBRd29KZjZhYTdna2pqVDFxVmhLU1J6QXJLUFZWQjRDY3ZSVXVSVWxFMA?oc=5",
-        "description": "",
-        "pubDate": "2025-08-23T15:29:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "New dinosaur named after record-breaking sailor",
         "link": "https://www.bbc.com/news/articles/c87ew7qq4wwo?at_medium=RSS&at_campaign=rss",
         "description": "The medium-sized herbivore once roamed the floodplains of what is now the Island's south-west coast.",
         "pubDate": "2025-08-22T10:45:09Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf3a/live/19cf2810-7f3b-11f0-b7ed-0b17109072b5.jpg",
-        "bias": 0
-      },
-      {
-        "title": "How many giraffe species are in Africa? New scientific analysis quadruples the count - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS1QxWDN3UWN5S2ttRjdpRjlJWGptUTZWR1BGUm1ZZl9Ca2hXbWJZRFFYVURDaDZPd2wtb0tFUVBmbkYzVVlmclY5X181RDBlblNQaG5FTEVucUtkTGdzNEhzUl94M0xVRkk4X0J0YzI0X0ZEdU42Qk9pekladFczQkhUREt1SHBrMlE?oc=5",
-        "description": "",
-        "pubDate": "2025-08-21T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -2042,24 +1979,6 @@
         "pubDate": "2025-08-20T15:03:02Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7189/live/bf16e2a0-7deb-11f0-ab3e-bd52082cd0ae.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Scientists get a rare peek inside of an exploding star - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQblhRdUxiRlZvZGduMkhyTlNVcThrc1Z6S3pJQ3ktTUpmY001WEIzWmV4Qkx5RkFBd1lQbndaOU0xVkdxcmVfXzBONk9USEhFQ2gzWkFfV1dGOHI2OFhWV29XNnYtbnY5UlRUNTFoWFlWVS1ORUttTE5zekJKMGx5bHlySG9xRU5CMjZ0MTA0Z0IwZzZi?oc=5",
-        "description": "",
-        "pubDate": "2025-08-20T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Here’s what to know about the science behind hurricanes - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQci1TZW5MT2JTaktuRXZFdUpTVnVad3NaVUhMc2ljMlp4NWF2UVhQRGFqdDNycXJjR3pJUlh1a0U3S25xYXR4ekRmcmstTDBWRXk4YnRBeVV4OHdXNjQ1QjN6ekR3c0JkS1k3RlIzcUFCWER4TWFqQVpSZE0wNHhfdUZWTTdpU29mai1UTjRKY0RNWjZGc2U5Z0FVdmJzTW8wVFphTDRFZlFZOFVyVjdWMEp3?oc=5",
-        "description": "",
-        "pubDate": "2025-08-20T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -2090,48 +2009,12 @@
         "bias": 0
       },
       {
-        "title": "Rabbits with ‘horns’ in Colorado are being called ‘Frankenstein bunnies.’ Here’s why - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZzRWcjctUkJSMnFzalZUOGN2ZHI3LTVjYmtyVWg3WDZCd1ZlcDEzOXZjRkROdWMtcktaSl9NN21OYjhOeDNneEN4UlU2UmROaG9lWVYwZnZjWG4zLWJzTlloSnI4Q0VERXFaYy0tQVZVSGxNUlNCUUZtTF9IYXVUeUxod3pPOHg4TG9FblVfczljM3J1MHFLQmVwaGNDSmlZUS1KWlpZcmRzdGJMU2lBbkpFazN3Snhid3c?oc=5",
-        "description": "",
-        "pubDate": "2025-08-15T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Scientists discover an ancient whale with a Pokémon face and a predator bite - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMnpDc0YzcGlpNG0yVE1iSzdOaFBqN0hybGE0Y0tFajEtdWl5bkNuMXpIYjlJVDdvQjFWcGsweUxRWWJscG9uMnd1dnBlS3BhZXZjNWIyTTQ2OWNtMVljR1lsOENHSlRIa3JHQXlCbGNaNWR0ZG9jYkd5UkVZRk5nWm12STg5cEwwM051Y2ducFlLcTNXT0k0N3ZhYXpvZkZmZmhCNXdFdVF4dUVQc0J4cjJCQzhIYVAxS25qTlMzSjA?oc=5",
-        "description": "",
-        "pubDate": "2025-08-15T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Hot, dry summers bring new 'firewave' risk to UK cities, scientists warn",
         "link": "https://www.bbc.com/news/articles/c9vd79x97zlo?at_medium=RSS&at_campaign=rss",
         "description": "Rising temperatures are increasing the chances of multiple wildfires at the same time, researchers say.",
         "pubDate": "2025-08-14T00:04:14Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aafe/live/849df340-78d0-11f0-8071-1788c7e8ae0e.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Trump administration ordered to restore some withheld grant funding to UCLA - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSEd2M0xEZHhmaklUdnhLeE1TQUJpaEM1bE8zWXBUZWlmd3gzNlhXeVc0SV93cnJvUWtORkhXN3dmVnh2SkpuWDRPQXJZRXZJV2F6aDNqYUhDUHQ0Mjk0a2thMWJwdkhlZThHNmRiajRnenctNWQ4TFo1dkR5Nmp3dWk3elhWbnpzUVpzQ0hXMjFVdzQ?oc=5",
-        "description": "",
-        "pubDate": "2025-08-13T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "The robot chemists helping scientists in a university chemistry lab - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLVNyczk4T3ROaU9XRGJndkRLVjl2WWl4eWx4aFJpY3Qzb2pLUWgzME1SX3htMGtOcm9Gc1ZQRnFzSzhGMkJ4TXRkS21pNnRNT2ZRZUNhNG84VmpXU2U3bU0zVzFvQWlOVjdOM3ZkYVREREVuOWhfT1NSYUJCTzZSV1VhS0dYSXJqOTJtTmgzY0tGX2ZEel8zRkVpV05kcm9pWEdnaVRkdTVlUVdUYm10TWZNSlVYY3FqNEQyanFFVnd3WFk?oc=5",
-        "description": "",
-        "pubDate": "2025-08-12T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -2162,24 +2045,6 @@
         "bias": 0
       },
       {
-        "title": "Scientists thought this Argentine glacier was stable. Now they say it’s melting fast - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOalo3dFBDS2Itc0ZoaFJheVlZd29XYVVGT3ZfWWUxVWxYNFI0N0tuZ0tlWUlqTTl0TDNsR2FfQlJjcmhNOUJLUzh5eHR3VU9xZVlYT3V4REpHSzRKeVVNS3NUV1ZBT1FPa1NrVjhNeVlJZnNOcldoMS1FazNIZzY3bWZZVUt1TnltSmJ3cTV3aXZydTZnMmdNbTNkbUdoOFJlck5hcEJHS2l6Tno0X19vRDVMaVdmN3c?oc=5",
-        "description": "",
-        "pubDate": "2025-08-07T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Harvard scientists say research could be set back years after funding freeze - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOGUyNEM5YXZIUkpNWVhDR2dhY3otNnkxU1FYdW9ZUE5XM3YtaFA5ck5hTG0ycVZEWEI4bnRNSW4zdGxjWUNnYkswb0ZDUTlIa1l6eXAxb2E1SEJTeWRtckZyX21qQkRXc0NLMk1wU1RaN3NURkExbmQzVG0wcFpTY1JJUU9kd1F3UjFHd2RmR1ZEdV91?oc=5",
-        "description": "",
-        "pubDate": "2025-08-07T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "New checks to stop waste tyres being sent to furnaces",
         "link": "https://www.bbc.com/news/articles/cj9wepemrj8o?at_medium=RSS&at_campaign=rss",
         "description": "Campaigners warn the move will not close all the recycling loopholes being exploited by criminals.",
@@ -2204,15 +2069,6 @@
         "pubDate": "2025-08-05T11:36:24Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fdf/live/4bea4430-71ec-11f0-a178-03cc5fabe4bc.png",
-        "bias": 0
-      },
-      {
-        "title": "Scientists say they have solved the mystery of what killed more than 5 billion sea stars - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOC1DZUo5ZWtwVkZYT2VqVnZmcXNMY1RBaUxHQ0JZM2FHSkd3TEZSeS1fZFY0NWRTeDZxOHhzdUVvWXlqRldMSUFtanBDNjFkUjR2bXNoV1BCaWQ3Vlh0SFNfenJqWUdlTHpqNE53MnlOVXNWdHlFSlZSeGtHTUYzUHBrMlhacWFXcE1oODJYZ0VXZnEzRzNUYw?oc=5",
-        "description": "",
-        "pubDate": "2025-08-04T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -2243,21 +2099,165 @@
         "bias": 0
       },
       {
-        "title": "Judge allows the National Science Foundation to withhold hundreds of millions of research dollars - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbnpNUDVSRUhTc2hPN3QtdEdwRTU0WDhVR0psUy1ieUdZbU1ZRFZYN252eUdVRUozTTZtQlJGbElpZGhzcmRZaHFLOGJtY0NVd1pKaGZIWVZCa0RUdVRJN0w2VDNwX0pKeW9MWkExeWhXTDRPMkE3TE1fQUVqX2M4NDR3VnZ4RGJTczdmMG9lcHFtTEM0?oc=5",
-        "description": "",
-        "pubDate": "2025-08-01T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
+        "title": "'Communities' of strange, extreme life seen for first time in deep ocean",
+        "link": "https://www.bbc.com/news/articles/c3wnqe5j99do?at_medium=RSS&at_campaign=rss",
+        "description": "A Chinese-led research team captures pictures of life at depths of more than 9km in the northwest Pacific Ocean.",
+        "pubDate": "2025-07-31T00:02:31Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05ed/live/6ef95290-6d50-11f0-8b42-cf5ae7bf0dcf.jpg",
         "bias": 0
       },
       {
-        "title": "Scientists in South Africa are making rhino horns radioactive to fight poaching - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV3UyVnZQa2ZMb0xQLVo5TWJKb29xOWdzNC0yYndDN0hFeXdyUzQ4WVdCUWhYQ2NRSTlYOS1fRUZwalFwNmtoRmRmM3lVSzdnTnJya3VodmJzdGk5ZTgxN0FGS2xZYWtxMkx0QUtHSFVGNThPYmZ0VDZZc2FvWGh4ZUxnWjNfSVBVQ283NWdmV195RTYzS1c2NGlsby0?oc=5",
-        "description": "",
-        "pubDate": "2025-07-31T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
+        "title": "Why did Russian mega earthquake not cause more tsunami damage?",
+        "link": "https://www.bbc.com/news/articles/c0l6pj7kjg7o?at_medium=RSS&at_campaign=rss",
+        "description": "The earthquake was one of the strongest ever recorded, but its tsunami was not as bad as feared.",
+        "pubDate": "2025-07-30T16:09:03Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/903e/live/6517c330-6d76-11f0-8dbd-f3d32ebd3327.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Why plane turbulence is becoming more frequent - and more severe",
+        "link": "https://www.bbc.com/news/articles/ckgy7jx082ro?at_medium=RSS&at_campaign=rss",
+        "description": "Flights are getting bumpier, thanks in part to climate change. But new studies are looking into innovative potential ways to turbulence-proof wings - using AI and owls",
+        "pubDate": "2025-07-29T23:00:12Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3593/live/d462d530-6c91-11f0-af20-030418be2ca5.png",
+        "bias": 0
+      },
+      {
+        "title": "Thousands of river pollution tests cancelled because of staff shortages",
+        "link": "https://www.bbc.com/news/articles/cx24xy8zgp4o?at_medium=RSS&at_campaign=rss",
+        "description": "Testing programmes affected include those monitoring the impact of drought.",
+        "pubDate": "2025-07-24T03:12:14Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c9b/live/16ba1c00-67e6-11f0-8dbd-f3d32ebd3327.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Unique 1.5m year-old ice to be melted to unlock mystery",
+        "link": "https://www.bbc.com/news/articles/c5ygwd6yj28o?at_medium=RSS&at_campaign=rss",
+        "description": "BBC News went inside -23C freezers to see the ice that could \"revolutionise\" our knowledge of climate change.",
+        "pubDate": "2025-07-18T00:18:22Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6af0/live/8f49a040-633c-11f0-89ea-4d6f9851f623.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Kew Gardens' Palm House will close for five years for major makeover",
+        "link": "https://www.bbc.com/news/articles/cpwq08rxxklo?at_medium=RSS&at_campaign=rss",
+        "description": "The 175-year-old glass house will begin a £50m renovation in 2027.",
+        "pubDate": "2025-07-15T23:01:44Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffce/live/eca2eaa0-61ff-11f0-b5c5-012c5796682d.jpg",
+        "bias": 0
+      },
+      {
+        "title": "The fate of the Sycamore Gap tree has shed light on a deeper concern",
+        "link": "https://www.bbc.com/news/articles/cnvmpz5qqe5o?at_medium=RSS&at_campaign=rss",
+        "description": "The felling has prompted calls for stricter legal protections for other trees and drawn attention to wider issues",
+        "pubDate": "2025-07-15T00:04:28Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2155/live/81c28a20-6091-11f0-960d-e9f1088a89fe.png",
+        "bias": 0
+      },
+      {
+        "title": "Tiny creatures gorge, get fat, and help fight global warming",
+        "link": "https://www.bbc.com/news/articles/c628nnz3rp9o?at_medium=RSS&at_campaign=rss",
+        "description": "Scientists find out how the epic deep sea migration of a tiny animal is storing planet-warming carbon.",
+        "pubDate": "2025-07-04T23:10:52Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa52/live/c67072f0-58f7-11f0-960d-e9f1088a89fe.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Ancient Egyptian history may be rewritten by DNA bone test",
+        "link": "https://www.bbc.com/news/articles/c1dnnyz0z6do?at_medium=RSS&at_campaign=rss",
+        "description": "A DNA bone test on a man who lived 4,500 years ago sheds new light on the rise of Ancient Egypt.",
+        "pubDate": "2025-07-02T15:01:49Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99f0/live/86b579b0-5683-11f0-b5c5-012c5796682d.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Recent droughts are 'slow-moving global catastrophe' - UN report",
+        "link": "https://www.bbc.com/news/articles/ckg33r1xgymo?at_medium=RSS&at_campaign=rss",
+        "description": "It says drought has compounded poverty, hunger, and energy insecurity worldwide.",
+        "pubDate": "2025-07-02T12:31:51Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f24/live/326fee30-5728-11f0-a129-bdd7ff3be6de.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Work begins to create artificial human DNA from scratch",
+        "link": "https://www.bbc.com/news/articles/c6256wpn97ro?at_medium=RSS&at_campaign=rss",
+        "description": "Scientists start a controversial project to create the building blocks of human life, in what is thought to be a world first.",
+        "pubDate": "2025-06-26T00:09:45Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32d1/live/2a9c9440-523e-11f0-a2ff-17a82c2e8bc4.jpg",
+        "bias": 0
+      },
+      {
+        "title": "India sends its first astronaut into space in 41 years",
+        "link": "https://www.bbc.com/news/articles/cz09lx2gjm4o?at_medium=RSS&at_campaign=rss",
+        "description": "Group Captain Shubhanshu Shukla has become only the second Indian to travel to space.",
+        "pubDate": "2025-06-25T06:38:38Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2062/live/c9ed9850-518f-11f0-b974-07211ef08f11.jpg",
+        "bias": 0
+      },
+      {
+        "title": "This burger was made from cow cells in a lab. Should it really be served in restaurants?",
+        "link": "https://www.bbc.com/news/articles/cgrxnlpln24o?at_medium=RSS&at_campaign=rss",
+        "description": "Lab-grown beef, chicken and even quail are served in restaurants in some countries around the world - and now some cultivated meats could soon be sold in the UK too",
+        "pubDate": "2025-06-24T23:02:55Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52e3/live/6a9aedb0-5105-11f0-a466-d54f65b60deb.png",
+        "bias": 0
+      },
+      {
+        "title": "First celestial image unveiled from revolutionary telescope",
+        "link": "https://www.bbc.com/news/articles/cj3rmjjgx6xo?at_medium=RSS&at_campaign=rss",
+        "description": "The telescope should detect killer asteroids and may even find the ninth planet in our solar system.",
+        "pubDate": "2025-06-23T16:35:11Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa1f/live/d674edd0-4dfc-11f0-86d5-3b52b53af158.jpg",
+        "bias": 0
+      },
+      {
+        "title": "What are the risks of bombing Iran's nuclear sites?",
+        "link": "https://www.bbc.com/news/articles/c5ykjvl1y9jo?at_medium=RSS&at_campaign=rss",
+        "description": "Destroying Iran's stores of enriched uranium would bring danger for people nearby but not trigger another Chernobyl.",
+        "pubDate": "2025-06-22T09:49:16Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da02/live/eb6293d0-4cf5-11f0-b48b-8b6357a99d04.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Plastic bag bans and fees curb US shoreline litter, study suggests",
+        "link": "https://www.bbc.com/news/articles/cdeznkxyek0o?at_medium=RSS&at_campaign=rss",
+        "description": "Shoreline litter data research shows policies caused a relative decrease in the percentage of plastic bags.",
+        "pubDate": "2025-06-19T18:01:05Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e908/live/364d1c40-4cff-11f0-86d5-3b52b53af158.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Huge Roman 'jigsaw' reveals 2,000-year-old wall paintings",
+        "link": "https://www.bbc.com/news/articles/c5y5w1ldz8do?at_medium=RSS&at_campaign=rss",
+        "description": "Thousands of fragments of plaster are pieced together to reveal frescos from a Roman London villa.",
+        "pubDate": "2025-06-19T05:23:43Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5621/live/bb41ced0-4ba3-11f0-8c47-237c2e4015f5.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Ship footage captures sound of Titan sub imploding",
+        "link": "https://www.bbc.com/news/articles/c5yg5qggvwjo?at_medium=RSS&at_campaign=rss",
+        "description": "Support ship video shows the wife of Oceangate CEO Stockton Rush hearing the sound of the implosion.",
+        "pubDate": "2025-05-22T21:58:22Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39dc/live/8edfd920-37d2-11f0-8519-3b5a01ebe413.jpg",
         "bias": 0
       }
     ],
@@ -2497,15 +2497,6 @@
         "bias": 0
       },
       {
-        "title": "As business of college football booms, the Chiefs bet big on Nebraska-Cincinnati game in Kansas City - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2JDNzYyU3ljamlHcVpYZm9iYTVSTktnU0ltVVRlOFdmalVfUGM3dEx5UC1FV2dxVzRGZU1PdFNqTmdNVm01eWVTWWNhQW10R1VKMlZCVy1SR19ZRkZUVVkxazVTTnpzbGt1MGRMb3pNLWUtOFhNcURuT3Roc0R2RDJKeUs2NXRNZGRySXNubVdwVmxaMG1tMGJRMExKQU45VGxxMlNyY05jX2RYWE40?oc=5",
-        "description": "",
-        "pubDate": "2025-08-27T16:23:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "NHS to lose out on new drugs, pharma firm warns",
         "link": "https://www.bbc.com/news/articles/c4gzk1p90q1o?at_medium=RSS&at_campaign=rss",
         "description": "The claims from pharmaceutical giant Novartis comes amid a row over drug pricing deals.",
@@ -2575,15 +2566,6 @@
         "pubDate": "2025-08-27T09:18:05Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0753/live/bb3f26e0-82f2-11f0-b74e-adf885bcdc20.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Amari Cooper’s ‘unfinished business’ brings him back to the Raiders - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa1U0UzNGWkptTlhkdkNuQmxzbE5iZVFFRFBmbWNicEhvRWZXN0RlcTEwbHREMUJtT2VkRWJuZUtBd29RWE55SVNjV20xU1JOa3lxVGN4cVI3RHUwclZYbFZVc1I3Mk9nOUg0M2VkamVtM202ZEZOVVB1dTc4QV9QaGlVcU02WEE?oc=5",
-        "description": "",
-        "pubDate": "2025-08-27T01:16:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -2686,15 +2668,6 @@
         "bias": 0
       },
       {
-        "title": "West Virginia lags behind its neighbors in sites for new businesses, but it is moving to change that - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV2xGZ2FLdEF4R2RXMEtLSEtFNlpwVGNSQkJOd3pVbW5Ja2VCVmVOdFpIM3dNdmZDVUFfamtCdlM1cE81R1JYOHNVcmZ5TkxEMUNoa1NCYk5nc2doTmYtT3UyUV9TVEgycVV0d2hLZUJSNnRDeXc4Q21jRDR5UEdEZEVTUlNSQ2ZPaW53QUJ1cHJMQzdXVVBsUjJTTXR3ZlJtSl9Rcw?oc=5",
-        "description": "",
-        "pubDate": "2025-08-25T18:45:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Terry McLaurin and the Commanders agree on a 3-year extension worth $96 million, AP source says - AP News",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVFNmcVl6NGh3a19DSEtvaDdqOGM1VkpxWDlfS0FyY3VLVGRlbWl4QUFnMjQyZmdLWkExUC1pYURhR0ZsUC13dGRvY3JOWDY5S3Z6amItZzgxejlIck1JXzNXMVZlTW9VUEJTbTYtTk9CTGxoa1JEOUJ5STJkbjUwakNobDdJb3dDRkY4VkN1VnB6S1NLTmVHNTVn?oc=5",
         "description": "",
@@ -2708,6 +2681,33 @@
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSGQzOWJNU1hNQkZzaDh3MzJVX0ZDSldBaGMzYWdMZ2hEdG9PZkZ2T0N4ZkJoX1BWUkVLSmhQQmtvYThNX3ZjNFFTZDAya0JsUlBPV2o5UFI5NlBFZWI4NnN4TDhYVTFwLW43LUxyUFdTMUt5R0pXeDVhUndIeU5tc1c3N2djWGMxQ3RLV004X3BJdWxtNXYwVjVyZGVWUQ?oc=5",
         "description": "",
         "pubDate": "2025-08-25T17:25:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "TFW you're doing a food shop, but something's not right",
+        "link": "https://www.bbc.com/news/videos/crlz4geld2zo?at_medium=RSS&at_campaign=rss",
+        "description": "TFW you're doing a food shop, but something's not right",
+        "pubDate": "2025-08-25T15:28:41Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6801/live/58668e60-7dc9-11f0-a34f-318be3fb0481.png",
+        "bias": 0
+      },
+      {
+        "title": "What to know about the delisting of property developer China Evergrande's shares in Hong Kong - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcWNzWnZOUDg0QkNDWDNGWE90WUdKMWJCLWFfQ0ZVM1E1MWNwS3drMHBBUEtlMVl3TE5rT2gwelQ4cHdlTXYyQ2xSbV9vaVU1ejUtU0lQV01lWEo4V3U3Sll6anZqSzZGajl0QVFNSFk5R18zQWtsTkl1c2tYU3V4ZnpmVGZERnVGaW45UUJmYTdRU3p1S0dfTQ?oc=5",
+        "description": "",
+        "pubDate": "2025-08-25T13:57:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Rahm and Legion XIII outlast DeChambeau and the Crushers in the LIV Golf team final - AP News",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tMUlFNUtCYW4zdGpwVU5yZVFwUld0V1NJbDZ0TUhOYTNTWWs1dFNPNnVNd3hPTDIxMVV4VERNcHVqbG5jSUlpUHNxWW03OU5BZy1VRXVUUUl0QUQ4RmNMcHdRMmlPbVJrenVpSm91NENOTmZJTlZR?oc=5",
+        "description": "",
+        "pubDate": "2025-08-25T01:47:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -2832,15 +2832,6 @@
         "bias": 0
       },
       {
-        "title": "Dolphins are reshaping their culture, with tips from Panthers’ championship blueprint - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbk4zbkMwand1WElnZ3FNdUZJMDc1LUM1cC10VWdacldMWnY5a01COXVNaDBZX1g3d25ZdEVqMzRwV28wdElnUGpnbmRPZ0ljZE1JTUVweUtxZDFIaDlqMFZfZXZmZGFlc1RNZHZyU1gtaUNvazYxdDZoREZMUVlnQTU5RXMzT2s?oc=5",
-        "description": "",
-        "pubDate": "2025-08-27T19:42:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "What difference will marriage make to Taylor Swift's music?",
         "link": "https://www.bbc.com/news/articles/c0ml7dmm1y9o?at_medium=RSS&at_campaign=rss",
         "description": "She's known as pop's most confessional songwriter, so how will domestic bliss change Taylor Swift?",
@@ -2859,30 +2850,12 @@
         "bias": 0
       },
       {
-        "title": "The first openly bisexual man in the Australian Football League is calling for a cultural change - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUGFjeHVRUVc5TFUzcE04UExmd0NQZlZwTF8tWnNlUUNfYllxMHMyZk1EdnFQWXVubFRxRnVTVkRrd1RQLThhZU9xbGdwLWcxenRYUnEzUXdYQmpMTUhMZk9PX2txSE9XbUxUTHdadDFWRk1GandzUDczMWtScnZ1b2dXOGRXN1FEWFM5NTZwUi1LVFh6Q0x0RWdxRDNhWDZsT0dpRQ?oc=5",
-        "description": "",
-        "pubDate": "2025-08-27T08:22:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Meghan on who said 'I love you' first, and what she misses about UK",
         "link": "https://www.bbc.com/news/articles/cp94ly9x9y4o?at_medium=RSS&at_campaign=rss",
         "description": "The Royal Family don't get a mention in part two of Meghan's TV show, nor does the rift within it.",
         "pubDate": "2025-08-26T14:06:17Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7751/live/000c02b0-8196-11f0-a34f-318be3fb0481.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Photos show thousands celebrating Caribbean culture at London’s Notting Hill Carnival - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbjRHNVM5YVB5aklPVVpEUFNOYmtfZW1kOU42NlpWNV9DbjNfMTk2RkpESXB2QU4zWjl6OXBLb3dHZ2JtdEtXTVh3Y2VFcVRRR1czTk1MM2swTVMwZEs4TW9vZS1KWnN0ZG9CVlNEam1TWlJqMmFFRWRjOHVxcEJrdGMtakdCX2ZncmFRT01SQmJubHRoakJrTUVsQXA2dWpjZVdlVHB0NWJDNjExN1E?oc=5",
-        "description": "",
-        "pubDate": "2025-08-26T00:22:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -2940,15 +2913,6 @@
         "bias": -1
       },
       {
-        "title": "Daniel Dae Kim is still waiting for his rom-com moment. In the meantime, there’s ‘Butterfly’ - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWXVPWXFMaXJWTy1VS2lCZnVIcm5KNXJjOWdfa3Y4MUNtYXhuaHlmYzVmX2xycjNfbDl0UDdYakVVX25xVm1vcnNyRVAxazFGaC01U0hoWTVYX3J5SDJRby1IaFYwRUd5RXcxeU1admU2MjZoX0VjdWt5aDZFbTNmV1Fmc3M1UmY5eUtmNGlyRTV0dlpMTWhicUtB?oc=5",
-        "description": "",
-        "pubDate": "2025-08-22T14:20:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "A box office record-setter you've never heard of and more in theaters this weekend",
         "link": "https://www.npr.org/2025/08/22/nx-s1-5508092/ne-zha-2-lurker-honey-dont-in-theaters-this-weekend",
         "description": "",
@@ -2967,15 +2931,6 @@
         "bias": 0
       },
       {
-        "title": "Pitt is hoping a little continuity can go a long way after second-half collapse last season - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaThIYUkyejZMT05xZFZuT3VHVmk1UDlzX0VvRmhMbC16QTJjT2RBQ2ZxZWIxOFJIRHBfd0RNUXFoYXc4Y3Zqb0w2MGtPbmZXUlJ6d21neUt0cmtxRzctODBQMHRIWnpkUG1haVpaSTJ6T1FSbXdpY2JwSHByQzlVLUhBeG9rQlJ4?oc=5",
-        "description": "",
-        "pubDate": "2025-08-21T10:10:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "In 'Lurker' a social striver squirms his way into a star's inner circle",
         "link": "https://www.npr.org/2025/08/21/nx-s1-5503422/lurker-movie-review",
         "description": "This new film about a fan who gets close with an up-and-coming pop star lingers on the ways a relationship that might seem parasitic is closer to symbiotic.",
@@ -2983,24 +2938,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "The cultural significance of Sweden’s moving church - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOE1uNENaeHVqR2lEWXViTkwyd2hQdk1HUkNtVWFJdlpRX3YtVmRGQ0hWa3hVMW5JUnVrY0JGa0xOVFhJVTdfeFRUR3BPUUN0MWlfWTktNWdiU1RjR3U4eENXRldSVFN2Q1pkaWhhTV9UWWQwVnJXck5aMXZlUWJFNlp5MUlPNF9UT1I2cUFpQkZSeWJ3WGRDT29KWWE1Y1hNUGRZS2Fza01UZ2dj?oc=5",
-        "description": "",
-        "pubDate": "2025-08-21T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "‘Boots on the Ground’ viral dance highlights Black trail ride culture - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZUdaaFhMMXVoNnpJdjR0bl82U083amcyNENTcU1qZlhtNElRcUtnYVluQ0czdU9ndTUxelE4TmtmVHBIYWNudFhvVGdhZ1ZLdEZ1bHlRcm9QTkNNLWtxbG1VNUJpQktteTJ3RFdLbmtqVk01MEhQdkpWbER6akNYakVIdWU5M0h5WXVMcUxkR2JUZnllQm4xMm14RFMwMnkyU2I1OFIyV1pjbk9tbVFfdF9peEd2NnpJR0tOckRUdm1Wc2c?oc=5",
-        "description": "",
-        "pubDate": "2025-08-20T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Downton Abbey 'iconic' props and costumes up for auction",
@@ -3036,132 +2973,6 @@
         "pubDate": "2025-08-14T10:08:20Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95ab/live/6530d310-78f3-11f0-8071-1788c7e8ae0e.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Mexican-American designer apologizes for Adidas sandal design accused of cultural appropriation - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcEZmUmZSYkhJQ3k1Q1NVSDY4aHZ1Rm9DVy1PSjZaRzI5SGVUN3pKQ1lPenlGeU9ZcUZpWEVwb0gzRTh3WjlnX0wwaXl1R1pDaHA2RTlpMG42a09yTWFpR0RRV01PR19sOFBHRmx0LUMyTE1QbkZKb0xmUnpGc2hPb2s5UjBxTTdnc21jYlpDZDdqZGpXSXBjWFhDd1VnaUlYREJoMi1PTTBzd1YwMkFCS2hkMDZ3QQ?oc=5",
-        "description": "",
-        "pubDate": "2025-08-12T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Bugs are popular pets in nature-loving Japan, buzzing with lessons about ecology and species - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZXFVRzN2Y0hqMTJaMlU4WmNxTE05N1U2TmtGVHpBRTNwSDhSLW1iVkw2UU40Tng2b1JWc21YNnJ4OUZuVkxfVGc2dF9UTzUxblB1b0hSR29QQ2R0cDFINEdhQnRSaVNjOGNnN2Y1M3A4a3dqc3NtdV9sUy04d0xzUjR1cmNJYjZ0LW1RN3dLa05NWmY4LUNROHdxdmdfRXln?oc=5",
-        "description": "",
-        "pubDate": "2025-08-11T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Eve doesn’t think about her giant impact on hip-hop culture - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY250c0FiYU55TDRTM0U3dXI0UHFOQzlHYUxneWVyV1VUejEyZTZ5RnNaU0xDVlRTS2g5dzJVUF8wX2J0OUJlTlp6MUdPNUdvajd3Y0FXNFhwYW91bDhSNkRybE9aLTE0ZWtiVVJuejZ0cHFoMlMzdWkwdXlvajJ1VnJJR3RMV0djdjRCeGFiM0V0cGt3c2NjNGtsZENLVTV0MzNmWDYwVUlXNUR0blFaUkpWSEg0Szg?oc=5",
-        "description": "",
-        "pubDate": "2025-08-11T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Mexican authorities accuse Adidas of cultural appropriation in their sandal design - AP News",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdzJyZTMtcXFJaUVRU0dfMHJsUUV2alFiR3dNd3JseGhaVFF2emRhVDBocjlpd05SdGVnbkt4U3pQWEdyRFNtOE5uZ2J3aDU0UGFXMGVuSEdOQlJFckhGcGVFUm9HMlR6NWRRWjcwWTVNTGdmTEhhTEdnaXQzemt4aVlLYUhtYnBLM0JuZnFVVWF1N2hZaUl4UFNMa2RaLW9qZWJ4dmRHX185UjFHeTNlSV90UGJjY3N4Q1JsQThlSG1qck1KVExHdGc1VkQ?oc=5",
-        "description": "",
-        "pubDate": "2025-08-09T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Mexico accuses Adidas of cultural appropriation for copying Indigenous sandal design - AP News",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQXd0Znp1RGhwTUNQZV9lVkZ5QWhETE9YX1NmX1VnLVlhSjRBYzhYck55elVCa1dzYjQwUk03R3FXVjEzeE9RdWtfWktxdlhPZ05qaDlDRWlEYnZfTld2R1dZcWY3SF9FbHlWS2tfN2hCVkhCQklZT3RwUGdObFByN0FjUHFoRXk3V0RDRFo1SVlEMEJ6MGZNSHh1NE9vLUhmVFByYmExTG5NZC1zblhSM0hQM3MxalNxWENLWGdLZnE1WUVwTnF5RkFQOTZGYlR6SU9kMzRxb2ZWZw?oc=5",
-        "description": "",
-        "pubDate": "2025-08-08T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Matt Rogers talks bringing zeitgeisty Las Culturistas Awards to TV for the 1st time - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNDUzSWpwZG1ZUERKaVFTRlJyZGRaUnFPYUpHY2Z3RHRiRVRES09HRUpiZGI5QnJLY3lnaHp6dUlJVHV0LTlmczgzYVJNSVAxOGtxUGlxWEQ1aTE5a0t5WEpvel9GcE9vZmp1ekdqMEJTXzRJWVE0ZFprN3J2dHY3U0U1YWpScldCc1E1Wkp2eWZOdFNJMFRaMnBmUXZNSFk1VW1HZEk0RFBkbkMyUkk5c2Z3?oc=5",
-        "description": "",
-        "pubDate": "2025-08-01T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Burial site of the Chancay culture found in the outskirts of Lima - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcnVvRG1rM01ENV90WjhNd2J5OEZacWdxaEpjTWRmdkIwM2NqSVhHZWh2UFRGQWxSWEZnbF9Bb3k4T0h2dnpUdjlnSjJ1cDc3d1R4R3VuMjJ5QzhJeDBvQ1hLMm5UV1hVcnJlZnFZUTdiOGM0Rm1ZZkUtV0JKczFtdGdvTm5FeTlMVkJaNnRsRGxQOWlKTzFYZTlueURGWEN0STBXWmlhLWxaX3Nvdk9RSlVMWkdxaHQyMW5pMVdPLWQ?oc=5",
-        "description": "",
-        "pubDate": "2025-07-31T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "'KPop Demon Hunters': How Netflix's animated film became a hit - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRWgxWnJhWjlEOG1qZDZxMjJ6eGdMYTNCV0RTaTNhQ3QxY2VDS1NKQlE4S1JScHpzQmF6clRpRlkwZElWM1pKS3R0ZDdrWDI4NVhSdkFyZE1xOGdtSHdrYXdneXREUXROTjNHcHBtTVJvaDUtVm1QV3o2ME94Tk16TkIxSTBoY1hzT1lUdDVvRkYxLW5TQjIyVzB3THFQT3BZNzBhakt3VThfdXdu?oc=5",
-        "description": "",
-        "pubDate": "2025-07-30T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "The reverse migration: African Americans relocating to Kenya cite heritage and restoration - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeTlKTWd2aUIwVFFmYlBWUGlHT0szNnF1aTVCRHFwYU5FdGdiTWZqRG1BZDRuZEZnOUJrc0s5Q0twSnFrNjh6R1BVenI3OHc3Q3JwM292OE01ME1VcjFBVGFUZFlMNXBSaEtBbTRnc2hPQkxzcVBTaXgyVWhQWGNJdVBGZlVaVTUxSmFWSDBEMkNCbWIwTzB2LWxn?oc=5",
-        "description": "",
-        "pubDate": "2025-07-26T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Elijah Wood remembers Hulk Hogan as ‘fixture of pop culture’ - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbHRFbzlkcnMwRlliajlIWnRRNWlpUTI1SlVEWUVzejVJT0JrVjVTb3FuandSMmFseXJNWV9sWUJxNGRzWmhOYnlqRWVJWFJOLUxPYmtvRi04MnA3MDJtTEF6amV5OG5zaHdaazBNc3R1YmFmWXVCT0w4WF9FblRYdHhyQldzUl8wLWdXdW5YMUVPbGVudXlmVVBqZEk3NWUzOXVpQld6Y2FwaWFpQnRQMm5pdDRlWk0?oc=5",
-        "description": "",
-        "pubDate": "2025-07-24T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "‘We’re peeping toms now': Culture expert on THAT Coldplay moment - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNG56OVNYa2podkhJc1RoZ0wtV1NDcnkydWZEdzNtU1R6Vnh1M2I4dnFrd1lYQVlGV0JzTDFvbDJYMW9mOHA2RDRyTkxfbnM1WXc2VDdfU3NZUkJVZklFZVp1eUlGYm5IZ1JnYkhsUmRzejhMNDN2QXVETjZUcFNBbW91amlXbWpHMnZCcUJhdGxGQ1lYV09odTR2Qk1CRkg0U3lwdTkyRXNMOTVYWl82Szl1NDJpdTJ5RlE?oc=5",
-        "description": "",
-        "pubDate": "2025-07-22T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Thousands of voices unite in song at traditional choir festival celebrating Estonia’s culture - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR3UzelFJS0hhQnVIU19ScF9mY05odVhnN3RER0o5cnVmNkZKeVE4Z2I4RTZkeE5nZWYzd0xLbHdlMHN5bjdzenBwdUtndmFPQVpsMlF0ckdaQ1ZoUFJ0TzJPcmxXa0xnVGdzYndNTVJnRi1LN1dkWk9Xc2hxdG8tX25pUTcxaUQ3YU42TGl4LTU5STF1blA1THk1TDdlbHM?oc=5",
-        "description": "",
-        "pubDate": "2025-07-06T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Springsteen doubles down on political criticism with a digital EP that includes anti-Trump comments - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdHRGS3pnYkl0OFc1NHRweXVrWDN5YVRSQlBKbElfYVVTTV9NMnV2OHZ3dVJvNktuWUhHZ0MwdWI1VGhlYTdId0ZXTXRxU3R4ZGVEbTB5N2tUNkliYTM1QmI5VUNJX0txaEFyMDNxRkJ3WjM5MG84YlExcHI0SnEyYXZFVW9HcG1yaU03NzIxN2llMXMwbVFBWWFrVmM?oc=5",
-        "description": "",
-        "pubDate": "2025-05-21T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "The Menendez brothers case reflects a shifting culture across decades - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaTJjaEtLUHhnTTVFT0o2UTh4SEg4ZVFzLVRBNmFaSFpWZE5ubVdGUUd4R2IyYzBTN3pfUEUtNFVqZWJhc3lNdGlVVHlhbC05eDBydVRDRkxtbG1MVUx6S3VQVE9RTjhpWDRhNkNqZTlXY3BuYnZvN0NXTGFkVUQyc3I1SWxHRWwwQWQ5VTUyV2NDOXdiOU12UC03Q2Q3RkpyVURabGpTOFlpUllKcXc?oc=5",
-        "description": "",
-        "pubDate": "2025-05-14T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       }
     ]
