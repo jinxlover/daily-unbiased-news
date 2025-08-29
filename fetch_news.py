@@ -21,6 +21,7 @@ import email.utils
 import html
 import os
 import concurrent.futures
+import re
 from urllib.parse import urlparse
 
 
@@ -109,6 +110,16 @@ def extract_items(xml_data: bytes) -> list:
             thumb = elem.find('{http://search.yahoo.com/mrss/}thumbnail')
             if thumb is not None:
                 image_url = thumb.attrib.get('url', '')
+        if not image_url:
+            img_tag = elem.find('imageurl')
+            if img_tag is not None:
+                image_url = img_tag.text or ''
+        if not image_url and description:
+            match = re.search(r'<img[^>]+src="([^"]+)"', description)
+            if not match:
+                match = re.search(r"<img[^>]+src='([^']+)'", description)
+            if match:
+                image_url = match.group(1)
 
         pub = elem.findtext('pubDate') or elem.findtext('{http://www.w3.org/2005/Atom}published') or ''
         pub_date = parse_pub_date(pub)
