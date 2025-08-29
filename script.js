@@ -42,8 +42,9 @@
         tickerContent.innerHTML = '';
 
         const categories = Object.keys(data.news);
+        categories.sort((a, b) => (a === 'Gaming' ? -1 : b === 'Gaming' ? 1 : 0));
         buildNav(categories);
-        buildSections(data.news);
+        buildSections(data.news, categories);
         buildTicker(data.news);
         attachSearch(data.news);
       })
@@ -83,8 +84,9 @@
   /**
    * Build the main news sections for each category.
    */
-  function buildSections(newsData) {
-    Object.entries(newsData).forEach(([category, articles]) => {
+  function buildSections(newsData, categories) {
+    categories.forEach(category => {
+      const articles = newsData[category] || [];
       const section = document.createElement('section');
       section.id = category.toLowerCase();
       const heading = document.createElement('h2');
