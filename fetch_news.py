@@ -161,6 +161,7 @@ def main():
 
     aggregated = {}
     global_titles = set()
+    today = datetime.datetime.utcnow().date()
 
     for category, urls in feeds.items():
         aggregated[category] = []
@@ -175,7 +176,10 @@ def main():
                 for item in items:
                     # Deduplicate by title across all categories
                     title_key = item['title'].strip().lower()
-                    if title_key in global_titles:
+                    pub_date = datetime.datetime.fromisoformat(
+                        item['pubDate'].replace('Z', '+00:00')
+                    ).date()
+                    if pub_date != today or title_key in global_titles:
                         continue
                     global_titles.add(title_key)
                     aggregated[category].append(item)
