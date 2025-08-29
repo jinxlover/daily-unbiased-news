@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-08-29T09:25:01.754291Z",
+  "lastUpdate": "2025-08-29T09:39:53.633017Z",
   "news": {
     "World": [
       {
@@ -10,6 +10,15 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "Fact check: Have mass shootings decreased in the US since 2022 law?",
+        "link": "https://www.aljazeera.com/news/2025/8/29/fact-check-have-mass-shootings-decreased-in-the-us-since-2022-law?traffic_source=rss",
+        "description": "Then-President Biden signed 2022 gun violence legislation aiming for reform, but its effect remains unclear.",
+        "pubDate": "2025-08-29T09:04:11Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Contract breach or banditry? Inside the collapse of the Taliban's oil deal with China",
@@ -41,16 +50,16 @@
       {
         "title": "Thai court removes Prime Minister Paetongtarn Shinawatra from office",
         "link": "https://www.aljazeera.com/news/2025/8/29/thai-court-removes-prime-minister-paetongtarn-shinawatra-from-office?traffic_source=rss",
-        "description": "Court dismisses suspended PM for ethical misconduct over a controversial phone call with Cambodia's former leader.",
+        "description": "Court dismisses suspended prime minister for ethical misconduct over her handling of a border row with Cambodia.",
         "pubDate": "2025-08-29T08:48:02Z",
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
       },
       {
-        "title": "Protests resume in Jakarta after ride-share driver killed",
+        "title": "Protests resume in Indonesia’s Jakarta after ride-share driver killed",
         "link": "https://www.aljazeera.com/news/2025/8/29/protests-resume-in-jakarta-after-ride-share-driver-killed-by-police?traffic_source=rss",
-        "description": "Affan Kurniawan was killed on Thursday after an armoured police vehicle ran into him.",
+        "description": "Affan Kurniawan was killed after an armoured police vehicle ran into him during a demonstration in the capital.",
         "pubDate": "2025-08-29T08:47:31Z",
         "source": "aljazeera.com",
         "image": "",
@@ -174,7 +183,7 @@
         "bias": 0
       },
       {
-        "title": "LIVE: Israel kills 30 Palestinians across Gaza, 5 in al-Mawasi ‘safe zone’",
+        "title": "LIVE: Israel kills 34 Palestinians across Gaza, 5 in al-Mawasi ‘safe zone’",
         "link": "https://www.aljazeera.com/news/liveblog/2025/8/29/live-israel-2?traffic_source=rss",
         "description": "The al-Mawasi area in southern Gaza is where Israel has told displaced people to go is among places targeted.",
         "pubDate": "2025-08-29T06:11:03Z",
@@ -318,6 +327,15 @@
         "bias": 0
       },
       {
+        "title": "Survivors of South Africa's horrific building fire now live in fear of guns",
+        "link": "https://www.bbc.com/news/articles/c04r6v49e16o?at_medium=RSS&at_campaign=rss",
+        "description": "The deadly fire was called a \"wake-up call\" but residents are waiting for permanent homes.",
+        "pubDate": "2025-08-29T01:21:14Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa44/live/176408c0-844f-11f0-b391-6936825093bd.jpg",
+        "bias": 0
+      },
+      {
         "title": "Russia-Ukraine war: List of key events, day 1,282",
         "link": "https://www.aljazeera.com/news/2025/8/29/russia-ukraine-war-list-of-key-events-day-1282?traffic_source=rss",
         "description": "Here are the key events on day 1,282 of Russia’s war on Ukraine.",
@@ -433,27 +451,27 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c808/live/91cb6440-8419-11f0-b391-6936825093bd.jpg",
         "bias": 0
-      },
-      {
-        "title": "'We love you, you will always be with us', says father of Minneapolis shooting victim",
-        "link": "https://www.bbc.com/news/videos/cwy5zzvgj44o?at_medium=RSS&at_campaign=rss",
-        "description": "Fletcher Merkel, 8, was one of two children killed in Wednesday's shooting at Annunciation Catholic School in Minneapolis.",
-        "pubDate": "2025-08-28T22:49:14Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2c1/live/7ab54e20-845e-11f0-9cf6-cbf3e73ce2b9.jpg",
-        "bias": 0
-      },
-      {
-        "title": "'India put us on the boat like captives - then threw us in the sea'",
-        "link": "https://www.bbc.com/news/articles/c4g0p0522zeo?at_medium=RSS&at_campaign=rss",
-        "description": "Rohingya refugees tell the BBC they were flown from Delhi and forced into the sea off the coast of Myanmar.",
-        "pubDate": "2025-08-28T22:44:27Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2aa/live/af0f5850-8184-11f0-843f-7b3b652c1219.jpg",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Greer and Mackay elected as Scottish Greens co-leaders",
+        "link": "https://www.bbc.com/news/articles/c8dezj76p86o?at_medium=RSS&at_campaign=rss",
+        "description": "The contest follows Patrick Harvie's decision to stand down as co-leader after 17 years in the role.",
+        "pubDate": "2025-08-29T09:31:21Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f396/live/45d6e4a0-84ba-11f0-84c8-99de564f0440.jpg",
+        "bias": 0
+      },
+      {
+        "title": "MSP accused of hiding camera in Scottish Parliament toilet",
+        "link": "https://www.bbc.com/news/articles/c9wy40rxrvxo?at_medium=RSS&at_campaign=rss",
+        "description": "The South Scotland MSP was earlier suspended by Labour over charges of possessing indecent child images.",
+        "pubDate": "2025-08-29T09:24:39Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ee/live/17f34340-84b9-11f0-b98d-d308c56c1729.jpg",
+        "bias": 0
+      },
       {
         "title": "Home Office set to pull 'balloon-craft' job at migrant detention centre",
         "link": "https://www.bbc.com/news/articles/c0qlxxxpq35o?at_medium=RSS&at_campaign=rss",
@@ -461,15 +479,6 @@
         "pubDate": "2025-08-29T08:10:11Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6206/live/2e7fc720-84ad-11f0-b98d-d308c56c1729.jpg",
-        "bias": 0
-      },
-      {
-        "title": "MSP locked out of parliament after secret toilet camera claims",
-        "link": "https://www.bbc.com/news/articles/c9wy40rxrvxo?at_medium=RSS&at_campaign=rss",
-        "description": "South Scotland MSP Colin Smyth is understood to have been charged by the police over the allegations.",
-        "pubDate": "2025-08-29T07:23:24Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a7f/live/0d34a750-8450-11f0-a3c1-59d14135dc1e.jpg",
         "bias": 0
       },
       {
@@ -488,15 +497,6 @@
         "pubDate": "2025-08-29T05:58:16Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54f1/live/5cc2a4b0-849c-11f0-9cf6-cbf3e73ce2b9.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Scottish Green Party to announce new co-leaders",
-        "link": "https://www.bbc.com/news/articles/c2kzw9kl242o?at_medium=RSS&at_campaign=rss",
-        "description": "The party will elect two co-leaders to lead the party after Patrick Harvie stood down.",
-        "pubDate": "2025-08-29T05:43:09Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5791/live/54f158f0-8418-11f0-869f-7f7139ba47d8.jpg",
         "bias": 0
       },
       {
@@ -896,25 +896,16 @@
         "bias": 0
       },
       {
-        "title": "Why the Federal Reserve has historically been independent of the White House - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZWFhN0ttQXhuODJqa0w2Unowb2hVVjJIRzRuNkc0ckVZaXluZGNOQWFjYW5KT3RoV2IxSnJzOGFiQXl5cEY2d2czeF9Lc3UyNXlNSTRFQ0Zzd1lPVFZUX25GVTl4eC1OT2J5d1dXYzZvQUdHZG54MXRubGtPUlNBOElGelRGemNXbXUwbi1CUmdpbmp3OEtDeXJHTXZDdEZuR1Ew?oc=5",
-        "description": "",
-        "pubDate": "2025-08-26T01:40:00Z",
-        "source": "news.google.com",
-        "image": "",
+        "title": "Clarkson for PM, attacks on police dogs: Do Parliament petitions make a difference?",
+        "link": "https://www.bbc.com/news/articles/cg4xqn91rwlo?at_medium=RSS&at_campaign=rss",
+        "description": "People love signing petitions to get issues they care about debated by MPs - but some can't resist having a laugh.",
+        "pubDate": "2025-08-23T23:40:38Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d717/live/7bf0f3a0-8046-11f0-9048-d5a54170a86f.png",
         "bias": 0
       }
     ],
     "Tech": [
-      {
-        "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-        "description": "",
-        "pubDate": "2025-08-29T04:39:46Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
       {
         "title": "Canada and India name new top envoys as they restore relations after a dispute - AP News",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV2RTX21HdEV6NEpHbmtiMjYybVVkdDZ0eFJBbkVuam83TU13X2YxRFZ2SzcyQVFJVlI2cmVQYTFZQVI5RGRETDRjcVhfR0s2MUx6VUhhazJ4dkJYbmRVcUVwaFVIa0lYSEp3THlYcVVXWWsxUl82cVN0TlAzNTQtbzRhV0hRWkcyaGJkQkQ3V3JuQQ?oc=5",
@@ -938,6 +929,15 @@
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc2xpZ3NjZGtwb3NXOUtwN1ZiTFFQeHd0VERQbWJtbjNLbEdEc01pbzJ2VHJ0c094U1pPbjhkMmFIX3lxNVhfSXgxUGkxeVJYcnJGMEtiWS1mZUZBQUZ5bmtuVzFZWmRZSGdid0ZUQm5BRnNQbjc4RThmeVZVMi1EekNhY2Z3ekRMU3NhbWNJVHFucTJqZ2Jid3JCMmFQTDk0VW1BbUxyaTdyWS1UelFneEtn?oc=5",
         "description": "",
         "pubDate": "2025-08-28T22:27:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Stocks add a bit to their records on Wall Street - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUHBVa3p6LWprZ2dlMXVQc19idmY1ZnJqNjV0QmZuSThaZ05kNHBqUTljWEJDTEZ6U1ZmNW9NMlVpMkNyUGFacVk1ZXpSLUpEZVlaM0VPM2dhZFNhNzE5TWNUc2RZMTJibkpCOWRiTzEwT2dSZWdPSmtUYVZPcTdyLTBGTGlQLVBwUnBfbFR2QndmR2x5djVubQ?oc=5",
+        "description": "",
+        "pubDate": "2025-08-28T21:43:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1521,15 +1521,6 @@
         "bias": 0
       },
       {
-        "title": "Key things to know about how Trump's war on higher education has ensnared an unexpected campus - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWjdTUF8tSkNlVXBGN2VVQkdhaVVDT3pmNllsMnhYSHN3OG5tcG5iZnpmN09jS050dEgtVjdvSEo5YmdKMVNuUHBJcWtrRDdyRzZNdmtOalFXV1lYa1A1Y2lGVXVVai0wdm5aNGE1My0yYUo4WWxfeGlMeW5iaF9TMWVpM002S1J5YXBRd29KZjZhYTdna2pqVDFxVmhLU1J6QXJLUFZWQjRDY3ZSVXVSVWxFMA?oc=5",
-        "description": "",
-        "pubDate": "2025-08-23T15:29:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "New dinosaur named after record-breaking sailor",
         "link": "https://www.bbc.com/news/articles/c87ew7qq4wwo?at_medium=RSS&at_campaign=rss",
         "description": "The medium-sized herbivore once roamed the floodplains of what is now the Island's south-west coast.",
@@ -1608,15 +1599,6 @@
         "pubDate": "2025-08-15T11:57:06Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aed6/live/6d043750-799b-11f0-a3c2-31369586f544.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Scientists discover an ancient whale with a Pokémon face and a predator bite - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMnpDc0YzcGlpNG0yVE1iSzdOaFBqN0hybGE0Y0tFajEtdWl5bkNuMXpIYjlJVDdvQjFWcGsweUxRWWJscG9uMnd1dnBlS3BhZXZjNWIyTTQ2OWNtMVljR1lsOENHSlRIa3JHQXlCbGNaNWR0ZG9jYkd5UkVZRk5nWm12STg5cEwwM051Y2ducFlLcTNXT0k0N3ZhYXpvZkZmZmhCNXdFdVF4dUVQc0J4cjJCQzhIYVAxS25qTlMzSjA?oc=5",
-        "description": "",
-        "pubDate": "2025-08-15T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -1807,9 +1789,36 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/903e/live/6517c330-6d76-11f0-8dbd-f3d32ebd3327.jpg",
         "bias": 0
+      },
+      {
+        "title": "Ousted vaccine panel members say rigorous science is being abandoned - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYlJkTms0WjV5VHA0RDZvV1VFcFBnbFJjUVFDUVJQazNXUV9VZlVBNHA1SGg1OFItcGpVWUppSGNRc0tMTVRDYTJlTFBubmplR1E5UElIdFQxWXdQMzhkYUtLVVlmMFZHMi02V1RyR212WkhCLVYtVjRoZjRUVkxCWVhyblo2MnJx?oc=5",
+        "description": "",
+        "pubDate": "2025-07-30T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "A submersible finds sea creatures thriving in the deepest parts of the ocean - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUTZYSUUwUTBKYkZMeWstN0ZhSVFrVzMyTGJGYmV6N0pBaFpCVlBZYmViTlZLZFA0SGZiVWY1Wmx1YUxFU25wSFJGTnViU0Z6d09sVUFXOHRIcVZySW0yYnhRSVB2blpvQ1lDOEZ6UE4wMzB0TjdaZ1g3aE80SXJ3SEtES2RZa2tEMVJxNDJFTVNDanFiYUV3?oc=5",
+        "description": "",
+        "pubDate": "2025-07-30T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Business": [
+      {
+        "title": "P&O Ferries boss who sacked 800 staff quits",
+        "link": "https://www.bbc.com/news/articles/cdrk8j81km2o?at_medium=RSS&at_campaign=rss",
+        "description": "Chief executive Peter Hebblethwaite led the company when it sacked hundreds of staff in March 2022.",
+        "pubDate": "2025-08-29T09:29:03Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d25d/live/2c7c7180-84b7-11f0-b98d-d308c56c1729.jpg",
+        "bias": 0
+      },
       {
         "title": "Bank apologises for firing staff in email asking to return laptops",
         "link": "https://www.bbc.com/news/articles/c776plg6n8vo?at_medium=RSS&at_campaign=rss",
@@ -2250,15 +2259,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Little legs, big dreams: More than 100 teams compete in Lithuania’s international Corgi race - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYW9QMk9xcGQ3TUxITVVxVHpiazJ2aExSZTJOT0FpRnNVVXgzMjdDTDNEcWVaNjdydzF5LVdMbnR6cHJaOGtoaXlsUllrcl9rbkUxLTh2TVZGV2U3Z0R1YnNnVHM2bF9Jc0RJSUhJaWladkZ1dVZCdkhXMFQzTFF3c1cxTU5HRnZkbjZ0VUhQMlpnRHQ4OFJCVA?oc=5",
-        "description": "",
-        "pubDate": "2025-08-25T00:46:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Culture": [
@@ -2270,6 +2270,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Wet Leg announced as Edinburgh's Hogmanay headliners",
+        "link": "https://www.bbc.com/news/articles/cwy5z24zw9xo?at_medium=RSS&at_campaign=rss",
+        "description": "The Indie-Rockers will play the world-famous event, held in Princes Street Gardens, for the first time.",
+        "pubDate": "2025-08-29T05:39:57Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df3d/live/61446e30-849a-11f0-a5ef-9757a62d92de.jpg",
+        "bias": 0
       },
       {
         "title": "'Expect energy' as Kneecap play home gig after year of controversy",
@@ -2441,15 +2450,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Pierce Brosnan felt 'huge responsibility' towards Thursday Murder Club fans",
-        "link": "https://www.bbc.com/news/articles/cn47gkpywk2o?at_medium=RSS&at_campaign=rss",
-        "description": "Dame Helen Mirren, Celia Imrie and Sir Ben Kingsley round out a quartet that unites to investigate murder.",
-        "pubDate": "2025-08-24T04:02:18Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21cc/live/c4ca22e0-7dcb-11f0-83cc-c5da98c419b8.jpg",
-        "bias": 0
       },
       {
         "title": "'Weapons' exposes the dark underbelly of American suburbia",
