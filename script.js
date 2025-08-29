@@ -36,6 +36,16 @@
     fetch('data/news.json')
       .then(res => res.json())
       .then(data => {
+        const today = new Date();
+        const isSameDay = d =>
+          d.getUTCFullYear() === today.getUTCFullYear() &&
+          d.getUTCMonth() === today.getUTCMonth() &&
+          d.getUTCDate() === today.getUTCDate();
+        Object.keys(data.news).forEach(cat => {
+          data.news[cat] = data.news[cat].filter(item =>
+            isSameDay(parseDate(item.pubDate))
+          );
+        });
         // Clear existing content before rebuilding
         navContainer.innerHTML = '';
         contentContainer.innerHTML = '';
@@ -53,9 +63,9 @@
       });
   }
 
-  // Initial fetch and subsequent refresh every 10 minutes
+  // Initial fetch and subsequent refresh every 15 minutes
   fetchAndRender();
-  setInterval(fetchAndRender, 10 * 60 * 1000);
+  setInterval(fetchAndRender, 15 * 60 * 1000);
 
   /**
    * Build the category navigation buttons.
