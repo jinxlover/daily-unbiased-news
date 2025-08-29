@@ -1,7 +1,34 @@
 {
-  "lastUpdate": "2025-08-29T11:41:04.932969Z",
+  "lastUpdate": "2025-08-29T11:55:21.967661Z",
   "news": {
     "World": [
+      {
+        "title": "Body of Israeli hostage recovered in Gaza, IDF says",
+        "link": "https://www.bbc.com/news/articles/crlzyne9jl2o?at_medium=RSS&at_campaign=rss",
+        "description": "Ilan Weiss was killed during Hamas's attack in southern Israel on 7 October 2023.",
+        "pubDate": "2025-08-29T11:52:26Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8743/live/bedcbc10-84cb-11f0-b391-6936825093bd.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Father of Minneapolis shooting victim speaks out. And, CDC announces new leadership",
+        "link": "https://www.npr.org/2025/08/29/g-s1-86278/up-first-newsletter-minneapolis-shooting-victim-family-cdc-director-china-russia-north-korea-meet",
+        "description": "The father of a boy killed in the Minneapolis church shooting speaks out on how he wants his son to be remembered. And, a new acting CDC director has been announced.",
+        "pubDate": "2025-08-29T11:49:23Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Indonesians angry over politicians’ “crazy” wage increase",
+        "link": "https://www.aljazeera.com/video/quotable/2025/8/29/indonesians-angry-over-politicians-crazy-wage-increase?traffic_source=rss",
+        "description": "Social platform co-founder Abigail Limuria talks about the anger in Indonesia, where politicians are getting a wage hike",
+        "pubDate": "2025-08-29T11:40:55Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Thai court removes PM over leaked phone call with Cambodian leader",
         "link": "https://www.bbc.com/news/articles/ckgeqlw05rzo?at_medium=RSS&at_campaign=rss",
@@ -192,6 +219,15 @@
         "bias": -1
       },
       {
+        "title": "Japan says security ties with the UK at ‘a new level’ as aircraft carrier arrives in Tokyo - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYVcwTmQ3NlpqbGtwWkdLS0RmQ0gxclMyQ3VhaTVCTUQyeEhJSUhsa1dFVXJtYTVDQ0gxZ096TE9oLUN3b2I4S3ZsQTRDLUEzTndYdHEtekc2LVl2TXBDNnRLU203ZDc1ZHROd1FjUEoxTFY4b003Y2MydmFJbVo1U0tNZk5iQmhRblFna2wwTGNFbU95T28yUjB0bGRLSUk?oc=5",
+        "description": "",
+        "pubDate": "2025-08-29T08:29:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Wife of ousted president Yoon, and ally, indicted by special prosecutors - AP News",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNEF0MXUzMGpnTl9GNFE0RzlpM0drTlRZWFg3LVViZklDUWZuTFI0YkVWcWpwamdRMGNIQWk3ZV9YR0pfYTJqdW5JeHA4bkFxank1RHFoSlpOa2h0Rm1DcUhkalVFaF80c1JucC14VUYyY0E0MFNZYXRtYVZjSUo5dl9ReUdYeG45MkV3Z1FNOFozQQ?oc=5",
         "description": "",
@@ -262,6 +298,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Outraged over Russian strike on Kyiv, European defense leaders pledge pressure to end the war - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeF9zSVBNNEJLZU11Ul9raENJcmpBTU9nUVZmVGd6Ung4Z0l2cG9jTkpLdTNWSktacmZsbF9KVG05UzE4b2tZSzlkT1hpRUZaY1Y0SnNCVWs1eUZnVmVFckd2MnNvQkZxZWxEMWM2WkZQcUl4ZlpXUHJlR1lTdkxpenluSDU5THEzM0E?oc=5",
+        "description": "",
+        "pubDate": "2025-08-29T07:46:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Microsoft fires four workers over protests against firm’s ties to Israel",
@@ -390,15 +435,6 @@
         "bias": -1
       },
       {
-        "title": "US police say Minneapolis church shooter ‘idolised’ mass murderers",
-        "link": "https://www.aljazeera.com/news/2025/8/29/us-police-say-minneapolis-church-shooter-idolised-mass-murderers?traffic_source=rss",
-        "description": "Authorities say 23-year-old who attacked church 'obsessed' with killing children and 'idolised' US school shooters.",
-        "pubDate": "2025-08-29T03:14:43Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "Minneapolis school attacker 'obsessed with idea of killing children', officials say",
         "link": "https://www.bbc.com/news/articles/c4g0lyny7ydo?at_medium=RSS&at_campaign=rss",
         "description": "The two children killed in the shooting have been identified as Fletcher Merkel, eight, and Harper Moyski, 10.",
@@ -412,42 +448,6 @@
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVGZfV3gzTlVwWFJGRXYza1dKVTJYVkxaQkNXOEhfSWJCMWhQbVJQNjRyT25nVGZaTGxSYWRhYmZmaEg0cG82Nl9DOWkyLWs1NC1HTEsybVZFclQ1Wml2QWJNdzhBRXBXZ01ZYjdZNFpfX01mekRXc1B5ZUt4Vmo2Nlp1SkUwMlNMQU9HWGtUU0l5T0tEeGhZU1lCSWhqN2xqSkxEVHUzSnBOVkk1VE9WNg?oc=5",
         "description": "",
         "pubDate": "2025-08-29T03:03:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "UN food agency chief says women and children are starving in Gaza and pressed Netanyahu on aid - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTUNVaTZrMmcxUlVrV2FpMGxab0dOb242OTdidm4wY0s3aHJ6d3J1WmZaZnI3NlUzSzBQY0tIQUhvQ0RMVkF3V1JtSHVBSlkxMVFjMmJZRjJWalpBOTRsRl9JNkhUMmdEU2l1cm1XYmVheV9Vd3ZnMVZYVjZmRDBaRnRsYWdnOHBWcE5oQUlTVGxiTFlmcnE4OGhQNEY3Q25naWc?oc=5",
-        "description": "",
-        "pubDate": "2025-08-29T02:24:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Photos show highlights from the Venice Film Festival - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTjhtdjlTSENmVzE3b0dmT195TzJ0TDlldk1PODd3bUs5Mmx3eU01SnExckdFSm15WjlPOXNoMjNhbzZsWDRSaVBOZTJYQXBzNEE3QzVGdkEzRklncmhILUdmVjh5ek9RVXB6cVltMURUTFljVDQ1djRYWnRKeDRDUm5SV1gzM2FXbHgwWkRIN2FEOUFTZHc?oc=5",
-        "description": "",
-        "pubDate": "2025-08-29T02:04:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Survivors of South Africa's horrific building fire now live in fear of guns",
-        "link": "https://www.bbc.com/news/articles/c04r6v49e16o?at_medium=RSS&at_campaign=rss",
-        "description": "The deadly fire was called a \"wake-up call\" but ex-residents now live in dangerous temporary shelters.",
-        "pubDate": "2025-08-29T01:21:14Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa44/live/176408c0-844f-11f0-b391-6936825093bd.jpg",
-        "bias": 0
-      },
-      {
-        "title": "The top photos of the day by AP’s photojournalists - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcENORkJtQzZmQzZDN0Z4clNLd0V6dkhzbzlUSWRBck1LZWRnLU9KZC1Ra0M4cDlDYndVZi1YZ3R0d2hPQU03NktxaktIcjlNUDZETFVXdVZIeVFGRFdrQ3ljQ3BkSi04NjY1aFRXS1lqSDdtckN3c19YWWRaMUdHTEJiSlBwYlRmOEtWOGJDTWJTYjAyM25uRm5XYUstdHM5YjExLVRrd2pZaURp?oc=5",
-        "description": "",
-        "pubDate": "2025-08-29T00:58:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -504,15 +504,6 @@
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYm0wVTlnYXQ2NkczZTRWVWM2enpCbDNLaFRxZEppQ0R0dXRMLWVxcEdTZW1qSUR0Nk56VlMtR3Nlc1VWX0txczVpTmstbGZBN3c0b2lRLVdfakpTOURQX09ZU0ZZOVI2WHZZYVUxc3dIenF4QXZhZmNjU01mVl9TRGVzN0FQRGxHcXJzd0xVeVdXRU1pOFdoMFZBOWMtYWEwY05zdw?oc=5",
         "description": "",
         "pubDate": "2025-08-29T09:07:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Japan says security ties with the UK at ‘a new level’ as aircraft carrier arrives in Tokyo - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYVcwTmQ3NlpqbGtwWkdLS0RmQ0gxclMyQ3VhaTVCTUQyeEhJSUhsa1dFVXJtYTVDQ0gxZ096TE9oLUN3b2I4S3ZsQTRDLUEzTndYdHEtekc2LVl2TXBDNnRLU203ZDc1ZHROd1FjUEoxTFY4b003Y2MydmFJbVo1U0tNZk5iQmhRblFna2wwTGNFbU95T28yUjB0bGRLSUk?oc=5",
-        "description": "",
-        "pubDate": "2025-08-29T08:29:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -806,15 +797,6 @@
         "bias": 0
       },
       {
-        "title": "Reform suspends councillor over asylum comments",
-        "link": "https://www.bbc.com/news/articles/clyvxy6npllo?at_medium=RSS&at_campaign=rss",
-        "description": "Durham county councillor Paul Bean is also a Home Office civil servant who processes asylum claims.",
-        "pubDate": "2025-08-27T13:54:07Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b61/live/a5897930-8339-11f0-8ded-85867f31a902.jpg",
-        "bias": 0
-      },
-      {
         "title": "How achievable is Reform's plan on migration?",
         "link": "https://www.bbc.com/news/articles/cx29l0wqlgeo?at_medium=RSS&at_campaign=rss",
         "description": "A Reform government could see the UK leaving the European Convention on Human Rights to deliver its plan.",
@@ -903,6 +885,24 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e48a/live/1df3d340-7f82-11f0-83cc-c5da98c419b8.jpg",
         "bias": 0
+      },
+      {
+        "title": "Kurdish political figure arrested in Iraq, sparking clashes that leave 5 dead - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVk84RE0yMTRyaGduZmgyeWdqYTdfaDBqUlBuelRtUEFHT0Q4REdVZHZkUVpneWRRMmdhT3FkWGhsWFMyVzZ6elJmbnRiS1FQMG5ZTWt3RV9xc2VIc195OUNWLWRobEN3Vi02UUZnY29VMzZBb3phTzRaeUQzazFuOVVpVnhZNFlkRUl6Q2hrem1tQU9IejVmV3YyeVYybXJFVWVkcTdxVUtMSm5mcXJ0YkhxYw?oc=5",
+        "description": "",
+        "pubDate": "2025-08-22T17:24:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Trump embraces tough-on-crime mantra amid DC takeover as he and Democrats claim political wins - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYno2QXpad0R3Y0dYM1NtWVB2VVpjMUNtbVVjclJyQUVTWTAtNmJBT3pIcUVPNTZPSjRsdHJLbVdJenNYYkhrbkJscUViZTVNNzFOWVQxOFZrbGNVY1o3YVJCZXpaQlRENjl4cW9pZk1qUk03cGZxUS1tdWo1X3c1bW51d1FDWFRUVkR6VXpPMXBwNnlJN3ZJZHZ4Vml6bXFueTZQTE45NUtTT3FFNjl0bjdHYw?oc=5",
+        "description": "",
+        "pubDate": "2025-08-22T16:33:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Tech": [
@@ -947,15 +947,6 @@
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc2xpZ3NjZGtwb3NXOUtwN1ZiTFFQeHd0VERQbWJtbjNLbEdEc01pbzJ2VHJ0c094U1pPbjhkMmFIX3lxNVhfSXgxUGkxeVJYcnJGMEtiWS1mZUZBQUZ5bmtuVzFZWmRZSGdid0ZUQm5BRnNQbjc4RThmeVZVMi1EekNhY2Z3ekRMU3NhbWNJVHFucTJqZ2Jid3JCMmFQTDk0VW1BbUxyaTdyWS1UelFneEtn?oc=5",
         "description": "",
         "pubDate": "2025-08-28T22:27:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "UK, France and Germany initiate 'snapback' sanctions on Iran over status of nuclear program - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOURQUVFlb1RfWk94UktqTlExaHFDMUg1eU1OeHJvRlJNNnFwNnJvLTNpYjVLMF9ONk5CUWxBVDI3cHFWeVVidUxzd2d0S2U4bUZCcDVucDFTTFpsUm1LdjRITTAxS2xxWm9DaHp1eEpnUGtCbXRoR28ydldDQ1NNNnpFbmlDNWJBWUo1VUVFTkFZREVVeDVJNzBwN1Y?oc=5",
-        "description": "",
-        "pubDate": "2025-08-28T20:31:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1057,6 +1048,15 @@
         "pubDate": "2025-08-27T18:30:12Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dea7/live/b4f76f30-835c-11f0-b3de-c13d348c14aa.png",
+        "bias": 0
+      },
+      {
+        "title": "'Caught Stealing' review: Austin Butler shines in '90s crime caper - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWVNGT3Z3b01hZUlvcHUwdUhwN3J0OEQ0VC1Ga0FURVB4Vk5ERnRBU1ZpenpWRkhoQ01tMTNsNVFHNzMxdVlKNTlMVzE5UGQ4ejhfUUJENmcxX3hTaUpRWUhUZGZLTXFydzV3TFRSMTJrMXJ6cjhEMmZzVHRONkNvSWtvaFhGWXRJT1hScVdpeEFPenZabHExaEkzZGVmMEdvZTVoOTE2LWhSZw?oc=5",
+        "description": "",
+        "pubDate": "2025-08-27T16:15:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -1431,15 +1431,6 @@
         "bias": -1
       },
       {
-        "title": "'Caught Stealing' review: Austin Butler shines in '90s crime caper - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWVNGT3Z3b01hZUlvcHUwdUhwN3J0OEQ0VC1Ga0FURVB4Vk5ERnRBU1ZpenpWRkhoQ01tMTNsNVFHNzMxdVlKNTlMVzE5UGQ4ejhfUUJENmcxX3hTaUpRWUhUZGZLTXFydzV3TFRSMTJrMXJ6cjhEMmZzVHRONkNvSWtvaFhGWXRJT1hScVdpeEFPenZabHExaEkzZGVmMEdvZTVoOTE2LWhSZw?oc=5",
-        "description": "",
-        "pubDate": "2025-08-27T16:15:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "'Punk rock' dinosaur with metre-long spikes discovered",
         "link": "https://www.bbc.com/news/articles/c5y2emnnn4po?at_medium=RSS&at_campaign=rss",
         "description": "The animal has come as a surprise to experts, who now have to rethink how these armoured dinosaurs evolved",
@@ -1519,6 +1510,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Democratic senator warns of 'Power 2' owning college sports if NCAA-backed SCORE Act becomes law - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMUZIMWJ3TzRNdGozeDNtUjFjelNWYmZJeTVUY0tpdFd3MzFmdUw0WTBkWFVCS2ZKYU5TUlpYTE9lMS1hOUg3ZGx3UG1sUV9iQ2VTYnhlRUd5SkotZUttZXhjSURmZDlwc0ZGVDdxMDZIRUR3YTExdzZFWTZfR2xwUFVOX0JhV2gxSEZBREphQklROXN4?oc=5",
+        "description": "",
+        "pubDate": "2025-08-25T16:43:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Climate change pushing winemakers to blend wines from different years",
@@ -1620,6 +1620,15 @@
         "bias": 0
       },
       {
+        "title": "Scientists discover an ancient whale with a Pokémon face and a predator bite - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMnpDc0YzcGlpNG0yVE1iSzdOaFBqN0hybGE0Y0tFajEtdWl5bkNuMXpIYjlJVDdvQjFWcGsweUxRWWJscG9uMnd1dnBlS3BhZXZjNWIyTTQ2OWNtMVljR1lsOENHSlRIa3JHQXlCbGNaNWR0ZG9jYkd5UkVZRk5nWm12STg5cEwwM051Y2ducFlLcTNXT0k0N3ZhYXpvZkZmZmhCNXdFdVF4dUVQc0J4cjJCQzhIYVAxS25qTlMzSjA?oc=5",
+        "description": "",
+        "pubDate": "2025-08-15T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Hot, dry summers bring new 'firewave' risk to UK cities, scientists warn",
         "link": "https://www.bbc.com/news/articles/c9vd79x97zlo?at_medium=RSS&at_campaign=rss",
         "description": "Rising temperatures are increasing the chances of multiple wildfires at the same time, researchers say.",
@@ -1642,6 +1651,24 @@
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLVNyczk4T3ROaU9XRGJndkRLVjl2WWl4eWx4aFJpY3Qzb2pLUWgzME1SX3htMGtOcm9Gc1ZQRnFzSzhGMkJ4TXRkS21pNnRNT2ZRZUNhNG84VmpXU2U3bU0zVzFvQWlOVjdOM3ZkYVREREVuOWhfT1NSYUJCTzZSV1VhS0dYSXJqOTJtTmgzY0tGX2ZEel8zRkVpV05kcm9pWEdnaVRkdTVlUVdUYm10TWZNSlVYY3FqNEQyanFFVnd3WFk?oc=5",
         "description": "",
         "pubDate": "2025-08-12T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Scientists standing by to rescue rare manatee sighted in cold New England waters - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWEZweURmZDBnRXk0cU9KVFlTaWNCVDc1WWpmZmpoLXp2QzZiNmszSlNaRjJOaTNSczA4bFdpWi1mU0Y5VGFVaDhOd2pKMzhycTJkZWpkVUJHMVFiejVnckpjenhlREwzM1Y2ckdtRy1ENU1FYnE4aXZPUmR5NzRUS1FlUEw5aElISlpPOUFJZWptc0Y3UnNwQzVGMXZ5YjE4ckNvVlEtM3R6QlVEM2pGWWQwWTB0bXc?oc=5",
+        "description": "",
+        "pubDate": "2025-08-12T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Scientists search for DNA of an endangered salamander in Mexico City’s canals - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOHF3TDVhWTVmRG5KZDJvVkQ2Q3BLMXhTUHNVVDhvR2p0ZEhZWWxYMkJZZ3FodjRISlRUb3VHdXRrODI4aEFjSjdhbUpJWEtIQjU5UmtQTTVDbW02T3pEcnctd3RGTld6T2VwWnEwMnBKSjdxcWRDeHgwdlVoLU53aWhfeF9yZmlGV2dDUEhFbkJvQUwySExpVmsxNHlXSXlkaXpj?oc=5",
+        "description": "",
+        "pubDate": "2025-08-11T07:00:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1779,33 +1806,6 @@
         "pubDate": "2025-07-31T00:02:31Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05ed/live/6ef95290-6d50-11f0-8b42-cf5ae7bf0dcf.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Why did Russian mega earthquake not cause more tsunami damage?",
-        "link": "https://www.bbc.com/news/articles/c0l6pj7kjg7o?at_medium=RSS&at_campaign=rss",
-        "description": "The earthquake was one of the strongest ever recorded, but its tsunami was not as bad as feared.",
-        "pubDate": "2025-07-30T16:09:03Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/903e/live/6517c330-6d76-11f0-8dbd-f3d32ebd3327.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Ousted vaccine panel members say rigorous science is being abandoned - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYlJkTms0WjV5VHA0RDZvV1VFcFBnbFJjUVFDUVJQazNXUV9VZlVBNHA1SGg1OFItcGpVWUppSGNRc0tMTVRDYTJlTFBubmplR1E5UElIdFQxWXdQMzhkYUtLVVlmMFZHMi02V1RyR212WkhCLVYtVjRoZjRUVkxCWVhyblo2MnJx?oc=5",
-        "description": "",
-        "pubDate": "2025-07-30T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "A submersible finds sea creatures thriving in the deepest parts of the ocean - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUTZYSUUwUTBKYkZMeWstN0ZhSVFrVzMyTGJGYmV6N0pBaFpCVlBZYmViTlZLZFA0SGZiVWY1Wmx1YUxFU25wSFJGTnViU0Z6d09sVUFXOHRIcVZySW0yYnhRSVB2blpvQ1lDOEZ6UE4wMzB0TjdaZ1g3aE80SXJ3SEtES2RZa2tEMVJxNDJFTVNDanFiYUV3?oc=5",
-        "description": "",
-        "pubDate": "2025-07-30T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       }
     ],
@@ -2162,6 +2162,15 @@
         "bias": 0
       },
       {
+        "title": "Trump says he's firing Federal Reserve board member Lisa Cook amid mortgage fraud allegations - AP News",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BTGN2bWZneGZKc0JUWWxvWk1DXzY5bldqTEppOVRZYjlxZUVubVNlcVVNUmxoN2MzOV9EOFh2WFpDMGMxNTBSaklCUkR3VHFyWGJiUXI0V0RPU3h3b2RVSnNUMmRpb1pqSWtr?oc=5",
+        "description": "",
+        "pubDate": "2025-08-26T02:02:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Maine clinics denied Medicaid funds during lawsuit after Trump cuts to abortion providers - AP News",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUnRNODRzRHBEOXdpSGI3bi1neG1WcUlaeDNjRzlaVl9TMTN1UDl6N0dTaHBWTUZma29QbTEyXzBGQy05Z0FUdk8ySjlaXzltbWQwcFZocVYwMklQNDNTbTNOTkNQNW9HdU9zTmtUVXgtSmJiOVdfUDlOZWNXWFc1a3FsUHBBanFCWS1aWFRVOE9XcDVNZWVYeA?oc=5",
         "description": "",
@@ -2249,15 +2258,6 @@
         "pubDate": "2025-08-25T15:28:41Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6801/live/58668e60-7dc9-11f0-a34f-318be3fb0481.png",
-        "bias": 0
-      },
-      {
-        "title": "What to know about the delisting of property developer China Evergrande's shares in Hong Kong - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcWNzWnZOUDg0QkNDWDNGWE90WUdKMWJCLWFfQ0ZVM1E1MWNwS3drMHBBUEtlMVl3TE5rT2gwelQ4cHdlTXYyQ2xSbV9vaVU1ejUtU0lQV01lWEo4V3U3Sll6anZqSzZGajl0QVFNSFk5R18zQWtsTkl1c2tYU3V4ZnpmVGZERnVGaW45UUJmYTdRU3p1S0dfTQ?oc=5",
-        "description": "",
-        "pubDate": "2025-08-25T13:57:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       }
     ],
@@ -2524,15 +2524,6 @@
         "bias": -1
       },
       {
-        "title": "The cultural significance of Sweden’s moving church - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOE1uNENaeHVqR2lEWXViTkwyd2hQdk1HUkNtVWFJdlpRX3YtVmRGQ0hWa3hVMW5JUnVrY0JGa0xOVFhJVTdfeFRUR3BPUUN0MWlfWTktNWdiU1RjR3U4eENXRldSVFN2Q1pkaWhhTV9UWWQwVnJXck5aMXZlUWJFNlp5MUlPNF9UT1I2cUFpQkZSeWJ3WGRDT29KWWE1Y1hNUGRZS2Fza01UZ2dj?oc=5",
-        "description": "",
-        "pubDate": "2025-08-21T07:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "‘Boots on the Ground’ viral dance highlights Black trail ride culture - AP News",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZUdaaFhMMXVoNnpJdjR0bl82U083amcyNENTcU1qZlhtNElRcUtnYVluQ0czdU9ndTUxelE4TmtmVHBIYWNudFhvVGdhZ1ZLdEZ1bHlRcm9QTkNNLWtxbG1VNUJpQktteTJ3RFdLbmtqVk01MEhQdkpWbER6akNYakVIdWU5M0h5WXVMcUxkR2JUZnllQm4xMm14RFMwMnkyU2I1OFIyV1pjbk9tbVFfdF9peEd2NnpJR0tOckRUdm1Wc2c?oc=5",
         "description": "",
@@ -2708,6 +2699,15 @@
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU3Z5YW0tY1NMWW9oSFpIeW5HSU01V0htM2g0a3FpTFlwblNHYUZsSVZMOE5UdTh1NVZVLTR3UWZla19vV0NfMUNuT3BnWmUtZmRRLTdCWW54R0M2NlFUT2h5S1lCcmpMa2d6a1gyeW9qWUxLajAyVUE2dHZPVUUzTmtpM2pLSFhCTVJ3?oc=5",
         "description": "",
         "pubDate": "2025-04-15T07:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Altar found in Guatemalan jungle evidence of mingling of Mayan and Teotihuacan cultures, experts say - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdk5wZU5zVktBeXFKY3Rkd09QLXNaV2pOdUlvUjlNbnBVX01MZ242OWtnc2g2WUJDZ0xIQ0ttaXdCY05HZURULWN1eHduUThYSlI5SmJsSzV0TENuZUZzRTBzY2lpOFMyTlFhLUp0TTdWWnY3Z1lGaXlNX0dqLU9sOWdRd2VaRXNiOWQ4NWRxRzAwQ2FWQVp1UkwtYjdOR25K?oc=5",
+        "description": "",
+        "pubDate": "2025-04-07T07:00:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
