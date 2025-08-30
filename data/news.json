@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-08-30T10:21:52.933086Z",
+  "lastUpdate": "2025-08-30T10:38:47.877928Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Arcanoid2D [Free] [Platformer] [Windows]",
+        "link": "https://hol3.itch.io/arcanoid2d",
+        "description": "Inspirado en el legendario juego Arkanoid",
+        "pubDate": "2025-08-30T10:18:06Z",
+        "source": "hol3.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIyOTUxMjk1LnBuZw==/315x250%23c/4sZW95.png",
+        "bias": 0
+      },
       {
         "title": "Space Bridge [Free] [Platformer]",
         "link": "https://vinciverse.itch.io/space-bridge",
@@ -138,33 +147,6 @@
         "bias": 0
       },
       {
-        "title": "DOGE INVADERS [Free] [Action]",
-        "link": "https://dsindieai.itch.io/doge-invaders",
-        "description": "GET 'EM DOGES",
-        "pubDate": "2025-08-30T08:15:39Z",
-        "source": "dsindieai.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIyOTUwMjg4LmpwZw==/315x250%23c/%2Fg23cu.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Santa Rosa TATORMEN [Free] [Platformer]",
-        "link": "https://natalioflorencio.itch.io/santa-rosa-tatormen",
-        "description": "Un paraguas lucha por su vida en medio de la Tormenta de Santa Rosa",
-        "pubDate": "2025-08-30T08:05:13Z",
-        "source": "natalioflorencio.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIyOTUwMzEyLmdpZg==/315x250%23c/4%2BfDBl.gif",
-        "bias": 0
-      },
-      {
-        "title": "Burger Catcher [Free] [Platformer] [Windows]",
-        "link": "https://hraba.itch.io/burger-catcher",
-        "description": "More buregr!!!",
-        "pubDate": "2025-08-30T07:56:00Z",
-        "source": "hraba.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIyOTUwNDUyLnBuZw==/315x250%23c/ax5R41.png",
-        "bias": 0
-      },
-      {
         "title": "Tell No King [Free]",
         "link": "https://gratja.itch.io/tell-no-king",
         "description": "bluff em",
@@ -211,6 +193,33 @@
       }
     ],
     "World": [
+      {
+        "title": "Top News: US & International Top News Stories Today - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBZSzlQOG9xaTBfR3RUQkVpZG12OWczYzFpdW1KZTZqbmo0dml1OXFGOHVWYm9DbWdOaHRERDFVVkZmaWVnQ0FvcGl3?oc=5",
+        "description": "",
+        "pubDate": "2025-08-30T10:33:57Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "The military-police pipeline",
+        "link": "https://www.aljazeera.com/video/business-of-war/2025/8/30/the-military-police-pipeline?traffic_source=rss",
+        "description": "Hind Hassan tracks the spread of the global weapons trade beyond the battlefield - to the militarised police.",
+        "pubDate": "2025-08-30T10:22:51Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Who can get updated COVID-19 vaccines in the US now?",
+        "link": "https://www.aljazeera.com/news/2025/8/30/who-can-get-updated-covid-19-vaccines-in-the-us-now?traffic_source=rss",
+        "description": "FDA has approved COVID shots for people aged 65+ and at high risk; others need a doctor’s order.",
+        "pubDate": "2025-08-30T10:13:44Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Queen's Classic 'Bohemian Rhapsody' finds a new voice in Zulu",
         "link": "https://www.npr.org/2025/08/30/nx-s1-5521906/queens-bohemianrhapsody-zulu-ndlovu-voice-choir",
