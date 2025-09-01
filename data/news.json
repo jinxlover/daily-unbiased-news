@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-09-01T21:40:30.848830Z",
+  "lastUpdate": "2025-09-01T21:55:35.627484Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Baldi's Basics But I Voice Everyone! [Free] [Survival]",
+        "link": "https://sabernathan.itch.io/baldis-basics-but-i-voice-everyone",
+        "description": "BBBIVE",
+        "pubDate": "2025-09-01T21:47:59Z",
+        "source": "sabernathan.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDA1MjkzLnBuZw==/315x250%23c/kVyPxQ.png",
+        "bias": 0
+      },
       {
         "title": "Mango's Modding Game [Free]",
         "link": "https://thatonedeve.itch.io/mangos-modding-game",
@@ -72,6 +81,24 @@
         "pubDate": "2025-09-01T21:04:11Z",
         "source": "naughty-mono.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMDA0NzQwLnBuZw==/315x250%23c/%2FLi8cI.png",
+        "bias": 0
+      },
+      {
+        "title": "GoatSouls [Free] [Action] [Windows] [macOS] [Linux]",
+        "link": "https://otizqn.itch.io/goatsouls",
+        "description": "A modest SoulsLike boss encounter",
+        "pubDate": "2025-09-01T21:03:49Z",
+        "source": "otizqn.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDA1MDAzLnBuZw==/315x250%23c/kkq2xe.png",
+        "bias": 0
+      },
+      {
+        "title": "Cursor Quest [Free] [Adventure]",
+        "link": "https://toxictornado.itch.io/cursor-quest",
+        "description": "",
+        "pubDate": "2025-09-01T20:54:28Z",
+        "source": "toxictornado.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDA0ODQzLnBuZw==/315x250%23c/60nXZA.png",
         "bias": 0
       },
       {
@@ -165,15 +192,6 @@
         "bias": 0
       },
       {
-        "title": "Five Nights in the Fast Food Club [Free] [Survival]",
-        "link": "https://mameka.itch.io/freefood",
-        "description": "Welcome to the club! also this is a sequel to Five Nights with Epic 2",
-        "pubDate": "2025-09-01T20:14:18Z",
-        "source": "mameka.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDAzOTkxLnBuZw==/315x250%23c/d56cl6.png",
-        "bias": 0
-      },
-      {
         "title": "Paleopolaroid [Free] [Simulation] [Windows]",
         "link": "https://olivier-roy.itch.io/palopolaroid",
         "description": "Photographiez des dinosaures!",
@@ -198,15 +216,6 @@
         "pubDate": "2025-09-01T19:40:50Z",
         "source": "itz-blanks.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMDAzOTc1LnBuZw==/315x250%23c/bVmjmv.png",
-        "bias": 0
-      },
-      {
-        "title": "Alpaka Attacka [Free] [Adventure] [Windows] [macOS] [Linux] [Android]",
-        "link": "https://lennox-studios.itch.io/alpacka-attacka",
-        "description": "Rette die Welt mit deinem Alpaka",
-        "pubDate": "2025-09-01T19:24:42Z",
-        "source": "lennox-studios.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDAzODc2LnBuZw==/315x250%23c/LB6y6o.png",
         "bias": 0
       },
       {
@@ -257,15 +266,6 @@
         "bias": 0
       },
       {
-        "title": "MLB - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-01T21:11:06Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Maduro says US naval forces aimed at regime change in Venezuela",
         "link": "https://www.aljazeera.com/news/2025/9/1/maduro-says-us-naval-forces-aimed-at-regime-change-in-venezuela?traffic_source=rss",
         "description": "US has deployed military forces to the Caribbean with the ostensible goal of combatting drug trafficking.",
@@ -291,6 +291,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "MLB - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-01T20:50:32Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "CEO who snatched boy's hat at US Open says he made 'huge mistake'",
@@ -839,15 +848,6 @@
     ],
     "Science": [
       {
-        "title": "Giraffes aren't just one species — they're four",
-        "link": "https://www.npr.org/2025/09/01/nx-s1-5518162/giraffes-arent-just-one-species-theyre-four",
-        "description": "We're used to thinking of giraffes as one species. Turns out, there are actually four distinct species of the world's tallest mammal.",
-        "pubDate": "2025-09-01T21:18:37Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "Summer 2025 confirmed as UK's hottest on record",
         "link": "https://www.bbc.com/weather/articles/c1kz18d3wjro?at_medium=RSS&at_campaign=rss",
         "description": "Provisional Met Office figures show that it has been the warmest summer on record - meaning the UK's five hottest summers have all occurred since 2000.",
@@ -858,6 +858,15 @@
       }
     ],
     "Business": [
+      {
+        "title": "Parents' dread as cost of attending school mounts",
+        "link": "https://www.bbc.com/news/articles/cjey8ngkqlko?at_medium=RSS&at_campaign=rss",
+        "description": "One parent says she starts planning months in advance for the costs of the new school term.",
+        "pubDate": "2025-09-01T21:53:12Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3de5/live/1cfefc80-8423-11f0-8920-cb71bf7274c6.jpg",
+        "bias": 0
+      },
       {
         "title": "Cost of living giveaway event for residents",
         "link": "https://www.bbc.com/news/articles/cn5e05p9krpo?at_medium=RSS&at_campaign=rss",
