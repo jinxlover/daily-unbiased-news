@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-09-01T10:44:36.594883Z",
+  "lastUpdate": "2025-09-01T10:55:37.102461Z",
   "news": {
     "Gaming": [
+      {
+        "title": "alarmclock2 [$1.00] [Windows]",
+        "link": "https://ongan.itch.io/alarmclock2",
+        "description": "",
+        "pubDate": "2025-09-01T10:54:01Z",
+        "source": "ongan.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIyOTk2Njk4LnBuZw==/315x250%23c/Wl7na2.png",
+        "bias": 0
+      },
       {
         "title": "Void Seekers [Free] [Shooter]",
         "link": "https://makutamatara.itch.io/void-seekers",
@@ -18,6 +27,15 @@
         "pubDate": "2025-09-01T10:06:54Z",
         "source": "jeppekjeldal.itch.io",
         "image": "https://img.itch.zone/aW1nLzIyOTk2MzEwLnBuZw==/315x250%23c/rBdmrN.png",
+        "bias": 0
+      },
+      {
+        "title": "Petal's Garden [Free] [Simulation] [Windows]",
+        "link": "https://murgn.itch.io/petals-garden",
+        "description": "Make flowers with Petal",
+        "pubDate": "2025-09-01T09:57:01Z",
+        "source": "murgn.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIyOTk2NjMxLmdpZg==/315x250%23c/tueRSU.gif",
         "bias": 0
       },
       {
@@ -129,30 +147,12 @@
         "bias": 0
       },
       {
-        "title": "X&O_GAME-IA [Free] [Adventure]",
-        "link": "https://ahmedsmida1234.itch.io/xo-game-ia",
-        "description": "Classic X vs O… but smarter, faster, cooler.",
-        "pubDate": "2025-09-01T08:30:33Z",
-        "source": "ahmedsmida1234.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIyOTk1NDU5LnBuZw==/315x250%23c/TmKoEd.png",
-        "bias": 0
-      },
-      {
         "title": "Gunman Messiah [Free] [Shooter]",
         "link": "https://krappygamez.itch.io/gunman-messiah",
         "description": "Mild bullet hell for ZX Spectrum 16K",
         "pubDate": "2025-09-01T08:23:23Z",
         "source": "krappygamez.itch.io",
         "image": "https://img.itch.zone/aW1nLzIyOTk1NDEzLnBuZw==/315x250%23c/%2F08e1R.png",
-        "bias": 0
-      },
-      {
-        "title": "roll a wheel ql [Free]",
-        "link": "https://saddysamoyed.itch.io/roll-a-wheel-ql",
-        "description": "",
-        "pubDate": "2025-09-01T08:22:50Z",
-        "source": "saddysamoyed.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIyOTk1NDAwLnBuZw==/315x250%23c/kROGC4.png",
         "bias": 0
       },
       {
@@ -165,16 +165,43 @@
         "bias": 0
       },
       {
-        "title": "為了不成為奶油龍蝦 [Free] [Platformer]",
-        "link": "https://leeeeen0315.itch.io/longxia",
-        "description": "你是一隻波士頓大龍蝦",
-        "pubDate": "2025-09-01T07:55:37Z",
-        "source": "leeeeen0315.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIyOTk1MjQ4LnBuZw==/315x250%23c/QoCLAu.png",
+        "title": "Hypercharge [Free]",
+        "link": "https://noji.itch.io/hypercharge",
+        "description": "",
+        "pubDate": "2025-09-01T03:42:07Z",
+        "source": "noji.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIyOTk2NjU2LnBuZw==/315x250%23c/S4tHlA.png",
         "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Man found dead at Burning Man festival",
+        "link": "https://www.bbc.com/news/articles/cp8z6x062y4o?at_medium=RSS&at_campaign=rss",
+        "description": "The man was found \"lying in a pool of blood\" at the Nevada desert festival on Saturday night, police said.",
+        "pubDate": "2025-09-01T10:34:49Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c58/live/d8dfab60-8717-11f0-8539-299a7a7c0d9c.jpg",
+        "bias": 0
+      },
+      {
+        "title": "UK Muslims report vandalism, attacks amid controversial flag campaign",
+        "link": "https://www.aljazeera.com/news/2025/9/1/uk-muslims-report-vandalism-attacks-amid-controversial-flag-campaign?traffic_source=rss",
+        "description": "Agitators target a mosque and assault Muslims as the St George flag is flown widely following anti-immigration protests.",
+        "pubDate": "2025-09-01T10:20:50Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Houthis fire missile at Israeli-owned tanker after prime minister killed",
+        "link": "https://www.aljazeera.com/news/2025/9/1/houthis-fire-missile-at-israeli-owned-tanker-after-prime-minister-killed?traffic_source=rss",
+        "description": "The missile attack comes amid Houthi pledges to target Israel-linked shipping over its ongoing war in Gaza.",
+        "pubDate": "2025-09-01T10:16:52Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Mob burns Nigerian woman to death for alleged blasphemy",
         "link": "https://www.bbc.com/news/articles/c5y21zxyd6mo?at_medium=RSS&at_campaign=rss",
@@ -642,9 +669,18 @@
     "Science": [],
     "Business": [
       {
+        "title": "College football | Latest News & Updates - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
+        "description": "",
+        "pubDate": "2025-09-01T10:53:45Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Royal Mail returns to profit for first time in three years",
         "link": "https://www.bbc.com/news/articles/cger3w129l0o?at_medium=RSS&at_campaign=rss",
-        "description": "The small profit comes as the company looks to turnaround its fortunes under new ownership.",
+        "description": "The small profit comes as the company looks to turn around its fortunes under new ownership.",
         "pubDate": "2025-09-01T09:56:07Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc72/live/bb7e68f0-8707-11f0-b391-6936825093bd.jpg",
