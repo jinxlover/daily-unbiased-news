@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-09-02T09:28:26.785961Z",
+  "lastUpdate": "2025-09-02T09:43:30.200608Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Monkey Out [Free] [Platformer] [Windows]",
+        "link": "https://lmacek1.itch.io/monkeyout",
+        "description": "A gravity platformer game for PC",
+        "pubDate": "2025-09-02T09:23:49Z",
+        "source": "lmacek1.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDExMDY4LnBuZw==/315x250%23c/rDBhgz.png",
+        "bias": 0
+      },
       {
         "title": "dermo2 [Free] [Windows] [macOS] [Linux] [Android]",
         "link": "https://d1ret.itch.io/dermo2",
@@ -192,24 +201,6 @@
         "bias": 0
       },
       {
-        "title": "Petris [Free] [Puzzle]",
-        "link": "https://zanksza.itch.io/petris",
-        "description": "",
-        "pubDate": "2025-09-02T06:45:58Z",
-        "source": "zanksza.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDA5Nzg5LnBuZw==/315x250%23c/gREC7Y.png",
-        "bias": 0
-      },
-      {
-        "title": "Super Hungry Shark [Free] [Action]",
-        "link": "https://wiul13002.itch.io/super-hungry-shark",
-        "description": "A game about eating fish",
-        "pubDate": "2025-09-02T06:34:44Z",
-        "source": "wiul13002.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDA5NzUxLnBuZw==/315x250%23c/jeUkdn.png",
-        "bias": 0
-      },
-      {
         "title": "Fuja da Bala [Free] [Windows]",
         "link": "https://dg-player.itch.io/fuja-da-bala",
         "description": "Ajude Robson a escapar dessa enrascada",
@@ -266,13 +257,31 @@
     ],
     "World": [
       {
-        "title": "MLB - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+        "title": "Top News: US & International Top News Stories Today - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBZSzlQOG9xaTBfR3RUQkVpZG12OWczYzFpdW1KZTZqbmo0dml1OXFGOHVWYm9DbWdOaHRERDFVVkZmaWVnQ0FvcGl3?oc=5",
         "description": "",
-        "pubDate": "2025-09-02T09:11:47Z",
+        "pubDate": "2025-09-02T09:37:27Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "MLB - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-02T09:30:53Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Al Jazeera reporter in aftermath of Israeli strike on crowded Gaza market",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/9/2/al-jazeera-reporter-in-aftermath-of-israeli-strike-on-crowded-gaza-market?traffic_source=rss",
+        "description": "Al Jazeera’s Moath al-Kahlout captured the chaos after the Israeli military targeted a crowded market in Gaza City on Mo",
+        "pubDate": "2025-09-02T09:23:45Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Morning news brief",
@@ -326,15 +335,6 @@
         "pubDate": "2025-09-02T08:45:25Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6a2/live/f5e16510-879d-11f0-a54b-b1b405e766a4.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Top News: US & International Top News Stories Today - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBZSzlQOG9xaTBfR3RUQkVpZG12OWczYzFpdW1KZTZqbmo0dml1OXFGOHVWYm9DbWdOaHRERDFVVkZmaWVnQ0FvcGl3?oc=5",
-        "description": "",
-        "pubDate": "2025-09-02T08:36:27Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
