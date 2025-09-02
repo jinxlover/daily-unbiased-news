@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-02T05:55:42.207936Z",
+  "lastUpdate": "2025-09-02T06:31:01.510074Z",
   "news": {
     "Gaming": [
       {
@@ -75,6 +75,15 @@
         "bias": 0
       },
       {
+        "title": "Cubemin [Free] [Platformer] [Windows] [Linux]",
+        "link": "https://jaromotions.itch.io/cubemin",
+        "description": "Flip gravity to escape the dungeon!",
+        "pubDate": "2025-09-02T04:14:05Z",
+        "source": "jaromotions.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDA4NzYxLnBuZw==/315x250%23c/xDkif5.png",
+        "bias": 0
+      },
+      {
         "title": "The Lands of Ar [Free] [Adventure] [Windows]",
         "link": "https://assistenginedev.itch.io/tloa",
         "description": "A 2D tile-based adventure game.",
@@ -147,24 +156,6 @@
         "bias": 0
       },
       {
-        "title": "Finn Epic Game lml [Free] [Platformer]",
-        "link": "https://enough667.itch.io/finn-epic-game-lml",
-        "description": "",
-        "pubDate": "2025-09-02T02:27:35Z",
-        "source": "enough667.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDA4MzMzLmpwZw==/315x250%23c/mVI0Sb.jpg",
-        "bias": 0
-      },
-      {
-        "title": "BASIC Craps [Free]",
-        "link": "https://mcoorlim.itch.io/basic-craps",
-        "description": "A text-based dice game",
-        "pubDate": "2025-09-02T02:18:45Z",
-        "source": "mcoorlim.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDA4MDkzLnBuZw==/315x250%23c/HoRRNZ.png",
-        "bias": 0
-      },
-      {
         "title": "I can belive my LLM be this cute [Free] [Simulation] [Windows]",
         "link": "https://amnotyetused.itch.io/i-can-belive-my-llm-be-this-cute",
         "description": "A game where you chat or speak with a nice llm",
@@ -210,6 +201,15 @@
         "bias": 0
       },
       {
+        "title": "Only Genius Survive [Free] [Survival]",
+        "link": "https://tarasdreams.itch.io/only-genius-survive",
+        "description": "A brutal, fast-paced minimalist arcade — how long can *you* last?",
+        "pubDate": "2025-09-02T00:57:25Z",
+        "source": "tarasdreams.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDA3MjYyLnBuZw==/315x250%23c/lvirBk.png",
+        "bias": 0
+      },
+      {
         "title": "Pescados e Guardados [Free] [Adventure]",
         "link": "https://nagazop.itch.io/pescados-e-guardados",
         "description": "Um jogo de pesca onde o formato importa tanto quanto a sorte",
@@ -217,18 +217,45 @@
         "source": "nagazop.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMDA3MTQwLnBuZw==/315x250%23c/Dt5V1P.png",
         "bias": 0
-      },
-      {
-        "title": "For Gregg [Free] [Interactive Fiction]",
-        "link": "https://barilleon.itch.io/for-gregg",
-        "description": "It's Time for a Performance Review",
-        "pubDate": "2025-09-02T00:11:59Z",
-        "source": "barilleon.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDA3MDM4LnBuZw==/315x250%23c/yx4SnC.png",
-        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Afghanistan earthquake live: Search for survivors on after 800 killed",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/9/2/afghanistan-earthquake-live-search-for-survivors-on-after-800-killed?traffic_source=rss",
+        "description": "Rescuers try to reach isolated villages in eastern Kunar province after a 6.0 quake kills 800 people and wounds 2,800.",
+        "pubDate": "2025-09-02T06:02:51Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Russia's Putin hails 'unprecedented' ties with China as talks begin",
+        "link": "https://www.bbc.com/news/articles/cr4e4ngvvnro?at_medium=RSS&at_campaign=rss",
+        "description": "The two leaders are seeking to promote \"a more just and reasonable global governance system\".",
+        "pubDate": "2025-09-02T05:59:33Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0a6/live/fe2efc70-87c3-11f0-9cf6-cbf3e73ce2b9.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Why Pakistan is rushing to mend fences with Bangladesh",
+        "link": "https://www.aljazeera.com/news/2025/9/2/why-pakistan-is-rushing-to-mend-fences-with-bangladesh?traffic_source=rss",
+        "description": "Pakistan intensifies outreach to Bangladesh, seeking new partnerships as regional power dynamics shift.",
+        "pubDate": "2025-09-02T05:31:00Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "LIVE: Israel kills 17 Palestinians in Gaza since dawn",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/9/2/live-israel-kills-17-palestinians-in-gaza-since-dawn?traffic_source=rss",
+        "description": "Israeli forces continue to attack people seeking food aid as the death toll from famine continues to rise in Gaza.",
+        "pubDate": "2025-09-02T05:30:35Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Trump says India offered to remove tariffs on US goods",
         "link": "https://www.bbc.com/news/articles/cn0r014p828o?at_medium=RSS&at_campaign=rss",
@@ -248,15 +275,6 @@
         "bias": 0
       },
       {
-        "title": "Russia's Putin hails 'unprecedented' ties with China as talks begin",
-        "link": "https://www.bbc.com/news/articles/cr4e4ngvvnro?at_medium=RSS&at_campaign=rss",
-        "description": "The Russian leader hailed relations between both countries saying they were on an \"unprecedented level\".",
-        "pubDate": "2025-09-02T04:49:37Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5063/live/d9c5a8e0-87b7-11f0-81bd-6be8b8b9638f.jpg",
-        "bias": 0
-      },
-      {
         "title": "US Open: Jannik Sinner demolishes Alexander Bublik, advances to quarters",
         "link": "https://www.aljazeera.com/sports/2025/9/2/us-open-jannik-sinner-demolishes-alexander-bublik-advances-to-quarters?traffic_source=rss",
         "description": "The world No 1 beat Bublik in round of 16, losing just three games and reversing a shock loss to the Kazakh in June.",
@@ -273,6 +291,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "China is showing off its weaponry in a tightly controlled military parade - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSHpkWkNIRnF3eHo1R2F2dU9WSnhpMlEzcFVsZ3ZDd2gtX2JKWGt6QzQ4OTBva0czOG1DYUZrQ3p5WDF6MXcydU9sd0dmRWhXUGRGV0JDRXM1SnpEbnE3SmFEdVp4SGNIc2tlWHNuSkp3NzZIQWFGS1BuVzllQnF2c2hCMEFRbUJEZDBucDExUFhJMk0?oc=5",
+        "description": "",
+        "pubDate": "2025-09-02T03:47:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Vietnam marks 80th independence anniversary with military parade",
@@ -365,6 +392,15 @@
         "bias": 0
       },
       {
+        "title": "MLB | Latest News, Stats, and Scores - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-02T01:01:34Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "NYC’s West Indian parade celebrates Caribbean culture with music, merriment and mayoral candidates - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTHdnZVZfaTNSeG92Vmp0N0F1RU1ZNi1tSmpiTGxRWGRycXJ4ZjJqTjRiV2ZYeW5sZHJkU3l1MGx2WVFJRlpSZVBVTmRIR0NmdUJ6LTdoQlNZWnV6MlMwbHY0RGh4MFJ4MUotaUcwa3VuMUtYd2VWUWJiU2NxYlMyamxHRzNDUm5MVWlfRWsxcG9mb3ZSaW1UV2VVcUx5a3hMU2pYQ1ZTUXBRQQ?oc=5",
         "description": "",
@@ -423,10 +459,10 @@
     ],
     "Tech": [
       {
-        "title": "Belichick’s college coaching debut ends with a UNC blowout loss to TCU - AP News",
+        "title": "Belichick’s college coaching debut at North Carolina ends in blowout loss to TCU - AP News",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcG1Xai15UlNLS0pic1cxdWZ0NlMyUnQtUWY5THRhbVBDbUxMcUhuTGg1bmZZQ3MwTGxaQmh1YVVPaDh0bXhKVGJrLXQzYlI5RDZQUms4azlwZlBTSjJpdXZTOTNYRXpsLW5jbFZzT200cU4wdGYzRlg2bm9QM0xZN2t1U1FlTHlmNlluYmQ1LS1uZw?oc=5",
         "description": "",
-        "pubDate": "2025-09-02T03:34:00Z",
+        "pubDate": "2025-09-02T05:30:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
