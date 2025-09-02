@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-02T15:21:41.561299Z",
+  "lastUpdate": "2025-09-02T15:41:42.755472Z",
   "news": {
     "Gaming": [
       {
@@ -9,6 +9,15 @@
         "pubDate": "2025-09-02T15:11:18Z",
         "source": "christian-w4.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMDE0NzI2LnBuZw==/315x250%23c/LwdGbf.png",
+        "bias": 0
+      },
+      {
+        "title": "hexgarden [Free] [Simulation]",
+        "link": "https://notchoc.itch.io/hexgarden",
+        "description": "glitchy little fields",
+        "pubDate": "2025-09-02T15:07:09Z",
+        "source": "notchoc.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDE0OTA2LnBuZw==/315x250%23c/PGOcIz.png",
         "bias": 0
       },
       {
@@ -39,11 +48,20 @@
         "bias": 0
       },
       {
+        "title": "[2025] LuckyBlox Launcher (Old Roblox Revival) [Free] [Windows]",
+        "link": "https://atpied.itch.io/luckybloxlauncher",
+        "description": "An a Old roblox launcher that contains 2008 to 2022 clients. Russian Laungage.",
+        "pubDate": "2025-09-02T14:51:28Z",
+        "source": "atpied.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDE0NTMwLnBuZw==/315x250%23c/aDI3%2BI.png",
+        "bias": 0
+      },
+      {
         "title": "Winter's wind [Free] [Visual Novel] [Windows] [macOS] [Linux]",
-        "link": "https://cloversonppluto.itch.io/winters-wind",
+        "link": "https://cloversonpluto.itch.io/winters-wind",
         "description": "Memories melt away like snow",
         "pubDate": "2025-09-02T14:40:20Z",
-        "source": "cloversonppluto.itch.io",
+        "source": "cloversonpluto.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMDE0NDA2LnBuZw==/315x250%23c/D43iJw.png",
         "bias": 0
       },
@@ -156,15 +174,6 @@
         "bias": 0
       },
       {
-        "title": "Climing into the madness [Free] [Platformer] [macOS]",
-        "link": "https://camst.itch.io/climing-into-the-madness",
-        "description": "Play as a little demon in this platformer, climbing disappearing platforms on your way from Hell to Heaven.",
-        "pubDate": "2025-09-02T13:13:11Z",
-        "source": "camst.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDEzMzUwLnBuZw==/315x250%23c/MpwhA%2F.png",
-        "bias": 0
-      },
-      {
         "title": "Slot Machine [Free] [Strategy]",
         "link": "https://moerderameise.itch.io/slotmachine",
         "description": "(click help when youre balance is 0 to get an extra 100)",
@@ -192,31 +201,58 @@
         "bias": 0
       },
       {
-        "title": "Requiem For The Internet [Free]",
-        "link": "https://container-magazine.itch.io/requiem-for-the-internet",
-        "description": "",
-        "pubDate": "2025-09-02T12:38:43Z",
-        "source": "container-magazine.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDEzMDU3LnBuZw==/315x250%23c/CqXhSN.png",
-        "bias": 0
-      },
-      {
-        "title": "Dungeon Trail [Free] [Adventure] [Windows] [Linux] [Android]",
-        "link": "https://juunshin.itch.io/dungeon-trail",
-        "description": "You are an adventurer, traversing a dungeon to seek treasure.",
-        "pubDate": "2025-09-02T12:00:05Z",
-        "source": "juunshin.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDEyNjE0LnBuZw==/315x250%23c/zDxOr%2B.png",
+        "title": "Hordes and Drones [Free] [Action] [Android]",
+        "link": "https://twin-cat-studios.itch.io/hordes-and-drones",
+        "description": "Command drones to battle alien hordes in this fast-paced shooter game!",
+        "pubDate": "2025-09-02T09:08:54Z",
+        "source": "twin-cat-studios.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDExMDEzLmpwZw==/315x250%23c/4%2BrO1V.jpg",
         "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Trial of Brazil’s Bolsonaro enters verdict phase over alleged coup plot",
+        "link": "https://www.aljazeera.com/news/2025/9/2/trial-of-brazils-bolsonaro-enters-verdict-phase-over-alleged-coup-plot?traffic_source=rss",
+        "description": "The former president is charged with five counts, including plotting the assassination of senior officials.",
+        "pubDate": "2025-09-02T15:26:41Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Live updates: Trump’s use of National Guard during LA immigration protests is illegal, judge rules - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rMnVROXBmN2ZObjhrQjNkVEhnRFU3b1ZTMlFPWnpQMWV4U0dBX1BhWlNRamhsTzlhVFdfVFFWVHNJUkh5Sm9TSXp5cVliTHh4N3JyRzFGMEhSekE0M21CRWdtTFdBaGlQaEE?oc=5",
+        "description": "",
+        "pubDate": "2025-09-02T15:22:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "US judge declares Trump’s military deployment to Los Angeles illegal",
+        "link": "https://www.aljazeera.com/news/2025/9/2/us-judge-declares-trumps-military-deployment-to-los-angeles-illegal?traffic_source=rss",
+        "description": "US District Judge Charles Breyer questioned Trump's rationale that the Los Angeles protests constituted a 'rebellion'.",
+        "pubDate": "2025-09-02T15:20:51Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "As many as 1,000 killed in Sudan landslide",
         "link": "https://www.npr.org/2025/09/02/nx-s1-5525607/sudan-mudslide",
         "description": "Up to 1,000 dead after a landslide levels a village in western Sudan, as displaced residents flee famine and war.",
         "pubDate": "2025-09-02T15:16:49Z",
         "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Gaza kids return to class in tents as education system crumbles",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/9/2/gaza-kids-return-to-class-in-tents-as-education-system-crumbles?traffic_source=rss",
+        "description": "The start of September is no longer the start of the school year for most of Gaza’s children.",
+        "pubDate": "2025-09-02T15:13:36Z",
+        "source": "aljazeera.com",
         "image": "",
         "bias": -1
       },
@@ -230,19 +266,46 @@
         "bias": 0
       },
       {
+        "title": "Indonesian students demand release of arrested protesters",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/9/2/indonesian-students-demand-release-of-arrested-protesters?traffic_source=rss",
+        "description": "A student group in Gorontalo, Indonesia, is demanding the release of 11 protesters arrested during a demonstration.",
+        "pubDate": "2025-09-02T15:07:35Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Signing Israel’s Solomon sparks fan outcry at Spain’s Villarreal",
+        "link": "https://www.aljazeera.com/sports/2025/9/2/signing-israels-solomon-sparks-fan-outcry-at-spains-villarreal?traffic_source=rss",
+        "description": "Villarreal's signing of Israel international Manor Solomon on transfer deadline day causes fan backlash.",
+        "pubDate": "2025-09-02T15:05:39Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Why is Brazil’s Jair Bolsonaro on trial — and what’s next?",
+        "link": "https://www.aljazeera.com/news/2025/9/2/why-is-brazils-jair-bolsonaro-on-trial-and-whats?traffic_source=rss",
+        "description": "Former Brazilian president in court along with seven others accused of failed power grab after 2022 election loss.",
+        "pubDate": "2025-09-02T15:05:36Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Burkina Faso's parliament votes to outlaw homosexual acts",
+        "link": "https://www.bbc.com/news/articles/c2060er4062o?at_medium=RSS&at_campaign=rss",
+        "description": "People could face up to five years in prison for breaking the new measure once signed into law.",
+        "pubDate": "2025-09-02T14:46:32Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eab3/live/71b36c80-880a-11f0-9cf6-cbf3e73ce2b9.jpg",
+        "bias": 0
+      },
+      {
         "title": "ICE is showing up to interview parents hoping to reunite with their children who entered US alone - AP News",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObW9yNjZBOEpnUkhVai1YNXVxTmQ3dkF5RDFPT0R1OWlEcWJ0LXlyYW56OUF6UjJzTGRobEwzSXVuTEJYbmVPWGl6NFBfY2lTSDBSUXlWZjZJVHBONWhxeDlOSURFdS01bzJMelJfOC04V0FCbnFrRVVCVDNVbU9WdlhFMG80YW9sZzJpNHB4dU9JQUxIUnB4RFB2bERsT3BUT29Hc3ZwRWVLUFk1?oc=5",
         "description": "",
         "pubDate": "2025-09-02T14:34:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Live updates: Trump’s use of National Guard during LA immigration protests is illegal, judge rules - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rMnVROXBmN2ZObjhrQjNkVEhnRFU3b1ZTMlFPWnpQMWV4U0dBX1BhWlNRamhsTzlhVFdfVFFWVHNJUkh5Sm9TSXp5cVliTHh4N3JyRzFGMEhSekE0M21CRWdtTFdBaGlQaEE?oc=5",
-        "description": "",
-        "pubDate": "2025-09-02T14:24:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -545,15 +608,6 @@
         "bias": 0
       },
       {
-        "title": "What if… the US stopped supporting Israel tomorrow?",
-        "link": "https://www.aljazeera.com/news/2025/9/2/what-if-the-us-stopped-supporting-israel-tomorrow?traffic_source=rss",
-        "description": "Half of US voters believe Israel is committing genocide and six in 10 oppose further military aid, polls suggest.",
-        "pubDate": "2025-09-02T09:40:47Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "14,000 US-bound migrants have returned south since Trump border changes, UN says - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM2U2RUFmNUpoUTFvQ3hubjJkSWd5UXJYaDlrUjhBa3NUbnc0OEl5elhIb3J5Njd5Q0RVbUc4dHNkRHkyTDlNeDYtWnl0R1Y5Z3Vrc3k3emVRdUhJM3NCOGwwd1d2c0NPM25LV0tRQk40RVRoNnBVTzZRdUVoYmdQdFFlcjJvZGhYLVMxb3F6RmJ5TG9GZDZMbXR5Uk1QUkt3Z3J6QkJZWVA?oc=5",
         "description": "",
@@ -561,15 +615,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Al Jazeera reporter in aftermath of Israeli strike on crowded Gaza market",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/9/2/al-jazeera-reporter-in-aftermath-of-israeli-strike-on-crowded-gaza-market?traffic_source=rss",
-        "description": "Al Jazeera’s Moath al-Kahlout captured the chaos after the Israeli military targeted a crowded market in Gaza City on Mo",
-        "pubDate": "2025-09-02T09:23:45Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       },
       {
         "title": "Xi and Putin reaffirm ‘old friend’ ties in the face of US challenges - AP News",
@@ -615,51 +660,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Brazil's ex-President Bolsonaro coup trial begins — here's what to know",
-        "link": "https://www.npr.org/2025/09/02/nx-s1-5520615/bolsonaro-trial-brazil-coup-trump",
-        "description": "Prosecutors in Jair Bolsonaro's coup-plotting trial deliver closing arguments this week, with the former Brazilian president facing a possible 40-year sentence.",
-        "pubDate": "2025-09-02T09:00:00Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Russia's Putin hails 'unprecedented' ties with China at talks in Beijing",
-        "link": "https://www.bbc.com/news/articles/cr4e4ngvvnro?at_medium=RSS&at_campaign=rss",
-        "description": "The two leaders are seeking to promote \"a more just and reasonable global governance system\".",
-        "pubDate": "2025-09-02T08:51:33Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0a6/live/fe2efc70-87c3-11f0-9cf6-cbf3e73ce2b9.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Indonesian police use tear gas on university campuses in ongoing protests",
-        "link": "https://www.aljazeera.com/news/2025/9/2/indonesian-police-use-tear-gas-on-university-campuses-in-ongoing-protests?traffic_source=rss",
-        "description": "The Islamic University of Bandung's student body says security officials 'brutally attacked' the campus with tear gas.",
-        "pubDate": "2025-09-02T08:47:18Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "‘It’s all theatre’: How are Europe and the US pulling apart on Ukraine?",
-        "link": "https://www.aljazeera.com/news/2025/9/2/its-all-theatre-are-europe-and-the-us-pulling-apart-on-ukraine?traffic_source=rss",
-        "description": "Each side is trying to spend the other’s money on security, as they shift to a new geopolitical equilibrium.",
-        "pubDate": "2025-09-02T08:25:21Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Aerial search for survivors after Afghan quake kills 800 people",
-        "link": "https://www.bbc.com/news/articles/cpqvqeg3nz5o?at_medium=RSS&at_campaign=rss",
-        "description": "Rescuers are hampered by mountainous terrain and roads strewn with debris.",
-        "pubDate": "2025-09-02T08:23:18Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce86/live/de70a340-87cb-11f0-9cf6-cbf3e73ce2b9.jpg",
-        "bias": 0
       }
     ],
     "Politics": [
@@ -679,6 +679,24 @@
         "pubDate": "2025-09-02T15:06:41Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72d2/live/8c7f0dc0-880b-11f0-b391-6936825093bd.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Hundreds mourn pro-Western Ukrainian politician who was gunned down in the street - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSVU0WU5RVk1ubWtIM0R3SE0ySWJneHBpeEliN1lkcThySU9SY0pNaEs5aENuaF92dEN2OVRlWkVSRi1TN2RQbVp2Nkt4T0tZTXJBTkk0UEJ0TjZUUk9ERGg1ZnlXaEZrbDBfWHVBSmdFUTB2WmRqblZ0RXNtNWo2bW4yZGZGLWp6TW1lZWpNMEQyQ25fYTd2ZWdPdUE5ckZpOEE?oc=5",
+        "description": "",
+        "pubDate": "2025-09-02T14:55:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Fracking in Lancashire not ruled out,  Reform says",
+        "link": "https://www.bbc.com/news/articles/cz9393gyl27o?at_medium=RSS&at_campaign=rss",
+        "description": "\"Safely, independently monitored\" shale gas extraction \"should be looked at\", says Richard Tice.",
+        "pubDate": "2025-09-02T14:48:36Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea54/live/63aacd80-87d4-11f0-9cf6-cbf3e73ce2b9.jpg",
         "bias": 0
       },
       {
@@ -810,12 +828,12 @@
     ],
     "Tech": [
       {
-        "title": "Kraft Heinz breaks up with changing consumer tastes and little appetite for big food companies - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSGh6M0pta3czb1JKWUJobVJHdVBmbHNXY0p6XzlpTl9jc1RSUzhVU0dFTmVYN0g3bjRTZEVBQThSNnlUbzhVTHZEeFhPUENzSGwtX3FkdnJYNW1mM0c0NDlBX1NMcHlOOTdJNUJUSHZ1Q200bXRJUGcyT0NYY2wzejExOTUyNWNWaG9QRlVuWno0OHlHeHZPeHln?oc=5",
-        "description": "",
-        "pubDate": "2025-09-02T13:53:00Z",
-        "source": "news.google.com",
-        "image": "",
+        "title": "ChatGPT to tell parents when their child is in 'acute distress'",
+        "link": "https://www.bbc.com/news/articles/cg505mn84ydo?at_medium=RSS&at_campaign=rss",
+        "description": "It's one of a number of parental controls being introduced by OpenAI, which is being sued over the death of a teenager in the US.",
+        "pubDate": "2025-09-02T15:35:38Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ae6/live/df52d600-8804-11f0-8c43-13009d7c5281.jpg",
         "bias": 0
       },
       {
@@ -834,6 +852,15 @@
         "pubDate": "2025-09-02T12:51:37Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d270/live/49dd2890-8805-11f0-8c43-13009d7c5281.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Kraft Heinz to split a decade after megafood merger - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSGh6M0pta3czb1JKWUJobVJHdVBmbHNXY0p6XzlpTl9jc1RSUzhVU0dFTmVYN0g3bjRTZEVBQThSNnlUbzhVTHZEeFhPUENzSGwtX3FkdnJYNW1mM0c0NDlBX1NMcHlOOTdJNUJUSHZ1Q200bXRJUGcyT0NYY2wzejExOTUyNWNWaG9QRlVuWno0OHlHeHZPeHln?oc=5",
+        "description": "",
+        "pubDate": "2025-09-02T11:50:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -856,6 +883,15 @@
       }
     ],
     "Science": [
+      {
+        "title": "Kraft Heinz undoes blockbuster merger after a decade of changing tastes - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSGh6M0pta3czb1JKWUJobVJHdVBmbHNXY0p6XzlpTl9jc1RSUzhVU0dFTmVYN0g3bjRTZEVBQThSNnlUbzhVTHZEeFhPUENzSGwtX3FkdnJYNW1mM0c0NDlBX1NMcHlOOTdJNUJUSHZ1Q200bXRJUGcyT0NYY2wzejExOTUyNWNWaG9QRlVuWno0OHlHeHZPeHln?oc=5",
+        "description": "",
+        "pubDate": "2025-09-02T15:11:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "These scientists found Alzheimer's in their genes. Here's what they did next",
         "link": "https://www.npr.org/sections/shots-health-news/2025/09/02/nx-s1-5522371/alzheimers-risk-apoe4-genes-scientists-treatment-advocacy",
