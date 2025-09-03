@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-03T06:58:32.715815Z",
+  "lastUpdate": "2025-09-03T07:23:43.191556Z",
   "news": {
     "Gaming": [
       {
@@ -12,12 +12,30 @@
         "bias": 0
       },
       {
+        "title": "Geovortex  project [Free]",
+        "link": "https://orvek-games.itch.io/geovortex-project",
+        "description": "Dodge, shoot, and survive. Can you do it?",
+        "pubDate": "2025-09-03T06:44:26Z",
+        "source": "orvek-games.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDIzMDIxLnBuZw==/315x250%23c/YlnRhc.png",
+        "bias": 0
+      },
+      {
         "title": "Clicker [Free] [Simulation]",
         "link": "https://labaskogama.itch.io/clicker",
         "description": "This is a clicker game",
         "pubDate": "2025-09-03T06:29:01Z",
         "source": "labaskogama.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMDIyODU0LmpwZWc=/315x250%23c/vbIO9s.jpeg",
+        "bias": 0
+      },
+      {
+        "title": "Classic Baccarat [$1.99] [Card Game] [Windows]",
+        "link": "https://troppoboy.itch.io/classic-baccarat",
+        "description": "Play the classic casino card game Baccarat - test your luck against the banker!",
+        "pubDate": "2025-09-03T06:24:04Z",
+        "source": "troppoboy.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDIzMDQ2LnBuZw==/315x250%23c/W%2FJEk8.png",
         "bias": 0
       },
       {
@@ -201,15 +219,6 @@
         "bias": 0
       },
       {
-        "title": "ryzeekee svg i made [Free]",
-        "link": "https://lilskittle13.itch.io/ryzeekee-svg-i-made",
-        "description": "",
-        "pubDate": "2025-09-03T02:43:19Z",
-        "source": "lilskittle13.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDIxNjAyLnBuZw==/315x250%23c/OuPikt.png",
-        "bias": 0
-      },
-      {
         "title": "Object Cabin [Free] [Survival] [Windows]",
         "link": "https://robat3.itch.io/object-cabin",
         "description": "can you survive 3 minutes in this cabin?",
@@ -235,18 +244,54 @@
         "source": "papaprika.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMDIxMTQyLnBuZw==/315x250%23c/G7S6mG.png",
         "bias": 0
-      },
-      {
-        "title": "EXIT 777 [Free] [Action] [Windows]",
-        "link": "https://thedoctor989.itch.io/exit-777",
-        "description": "A High speed Drive through Purgatory",
-        "pubDate": "2025-09-03T01:05:31Z",
-        "source": "thedoctor989.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDIxMDY0LmdpZg==/315x250%23c/2EuXsM.gif",
-        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "UNIFIL says Israeli drones drop grenades close to peacekeepers in Lebanon",
+        "link": "https://www.aljazeera.com/news/2025/9/3/unifil-says-israeli-drones-drop-grenades-close-to-peacekeepers-in-lebanon?traffic_source=rss",
+        "description": "'This is one of the most serious attacks on UNIFIL personnel and assets' since November ceasefire, UNIFIL says.",
+        "pubDate": "2025-09-03T07:10:29Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Putin thanks Kim for North Koreans fighting in Ukraine",
+        "link": "https://www.bbc.com/news/articles/cj9w9m1xz1go?at_medium=RSS&at_campaign=rss",
+        "description": "Thousands of North Korean soldiers are thought to have died while fighting for Russia in the war.",
+        "pubDate": "2025-09-03T07:03:22Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52f6/live/cd336870-888d-11f0-aed1-db23423f7cc8.png",
+        "bias": 0
+      },
+      {
+        "title": "Asia Cup 2025: Full match schedule, teams, format and India vs Pakistan",
+        "link": "https://www.aljazeera.com/sports/2025/9/3/asia-cup-2025-full-match-schedule-teams-when-is-india-vs-pakistan-final?traffic_source=rss",
+        "description": "When will India play Pakistan, and where? Which teams are in? Al Jazeera's lowdown on the T20 tournament's schedule.",
+        "pubDate": "2025-09-03T06:56:26Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Xi, Putin and Kim seen together for first time at China parade",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/9/3/xi-putin-and-kim-seen-together-for-first-time-at-china-parade?traffic_source=rss",
+        "description": "Chinese President Xi Jinping welcomed Russia and North Korea's leaders to a huge military parade in Beijing.",
+        "pubDate": "2025-09-03T06:55:37Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Xi Jinping leads Beijing parade displaying China’s military power",
+        "link": "https://www.aljazeera.com/gallery/2025/9/3/xi-jinping-leads-beijing-parade-displaying-chinas-military-power?traffic_source=rss",
+        "description": "Beijing holds a grand military parade, showcasing new hardware before world leaders at Tiananmen Square.",
+        "pubDate": "2025-09-03T06:46:54Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Hope fades for finding survivors after Afghan quake kills more than 1,400",
         "link": "https://www.aljazeera.com/news/2025/9/3/hope-fades-for-finding-survivors-after-afghan-quake-kills-more-than-1400?traffic_source=rss",
@@ -362,6 +407,15 @@
         "pubDate": "2025-09-03T05:06:03Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/151f/live/2e42e1f0-87de-11f0-9457-214de3f1fa91.jpg",
+        "bias": 0
+      },
+      {
+        "title": "A suicide bombing near a political rally in southwestern Pakistan kills 13 and wounds 30 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWTJoYUVWVHNCb2tnT0x6NEQ2cDIwVnJwMENkTnVKLW41aHZSeWs1bVBzTXA1RzB2REpnWWlTamxUNEdBMzZsS0h5SURPX2tTYVl5eXNfRXNJUFVQYldWYUYzSTh6eHpsTDNHRVpTU3lQOHF5LXBSQnR2WDd1MHNpamhuR19YQ3QtcFFKV1JuMkc0MV81TVEwTHdQOXRjWUdZa04yNkVIX0NOREJVbTA5bFlxLXhLX1lPUmc?oc=5",
+        "description": "",
+        "pubDate": "2025-09-03T05:05:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
