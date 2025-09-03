@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-03T23:40:29.829468Z",
+  "lastUpdate": "2025-09-03T23:55:34.553450Z",
   "news": {
     "Gaming": [
       {
@@ -9,6 +9,15 @@
         "pubDate": "2025-09-03T23:35:17Z",
         "source": "tts-studios.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMDMyMzI4LmpwZw==/315x250%23c/51sJA8.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Beatblox v2: Damnation (Fanmade!) [Free] [Rhythm]",
+        "link": "https://probably-demo.itch.io/beatblox-v2-damnation",
+        "description": "fanmade Beatblox v2 canned build",
+        "pubDate": "2025-09-03T23:35:05Z",
+        "source": "probably-demo.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDMyNzI4LnBuZw==/315x250%23c/JI6IrU.png",
         "bias": 0
       },
       {
@@ -44,7 +53,7 @@
         "description": "",
         "pubDate": "2025-09-03T23:12:11Z",
         "source": "veneno-56.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDMyNzMwLnBuZw==/315x250%23c/G%2FYeC6.png",
+        "image": "https://img.itch.zone/aW1nLzIzMDMyNzMzLnBuZw==/315x250%23c/xkDPkE.png",
         "bias": 0
       },
       {
@@ -63,6 +72,15 @@
         "pubDate": "2025-09-03T22:43:35Z",
         "source": "baconeggsrl.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMDMyMjY4LnBuZw==/315x250%23c/RNOmCx.png",
+        "bias": 0
+      },
+      {
+        "title": "CoreMaker [Free] [Puzzle]",
+        "link": "https://grogathar-games.itch.io/coremaker",
+        "description": "A multi-stage incremental game about finding your place when you place much higher than expected.",
+        "pubDate": "2025-09-03T22:35:31Z",
+        "source": "grogathar-games.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDMyMDIwLnBuZw==/315x250%23c/SEJmh%2F.png",
         "bias": 0
       },
       {
@@ -156,24 +174,6 @@
         "bias": 0
       },
       {
-        "title": "Godot Beginer - platform game [Free]",
-        "link": "https://nikolasmdr.itch.io/godot-platform-game",
-        "description": "",
-        "pubDate": "2025-09-03T21:14:06Z",
-        "source": "nikolasmdr.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDMxMzgyLnBuZw==/315x250%23c/IWsuQg.png",
-        "bias": 0
-      },
-      {
-        "title": "Cat-astrofe - Sofía Coppola y Gonzalo Pubill [Free]",
-        "link": "https://videojuegos-ipm-2025.itch.io/cat-astrofe-sofa-coppola-y-gonzalo-pubill",
-        "description": "",
-        "pubDate": "2025-09-03T21:09:34Z",
-        "source": "videojuegos-ipm-2025.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDMxMzQ1LnBuZw==/315x250%23c/Uoa12j.png",
-        "bias": 0
-      },
-      {
         "title": "Sci-Fi Cactus (Alpha) [Free] [Strategy] [Windows]",
         "link": "https://amount-games.itch.io/sci-fi-cactus",
         "description": "Tower Defense in Sci Fi style",
@@ -230,10 +230,19 @@
     ],
     "World": [
       {
+        "title": "Painting looted by Nazis recovered in Argentina",
+        "link": "https://www.bbc.com/news/articles/cdx26z142vko?at_medium=RSS&at_campaign=rss",
+        "description": "Portrait of a Lady had been missing for 80 years before it was spotted on an estate agent's website.",
+        "pubDate": "2025-09-03T23:42:37Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2474/live/53cd4fb0-8918-11f0-9cf6-cbf3e73ce2b9.jpg",
+        "bias": 0
+      },
+      {
         "title": "Live updates: Trump suggests sending National Guard troops to New Orleans next - AP News",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByVnRTMmU5UEYxeUR4QkxZZ1JCYm02R2xTUEZvUk9oaXZZYWotcHlsTTM3QUF5NFhYNXJmay1uWFdSMUlRMjVXVjFBb2JtOXJNcU1Kdk9XdkNkZEtqXzdINTR1dXQwbGJvVFE?oc=5",
         "description": "",
-        "pubDate": "2025-09-03T23:34:00Z",
+        "pubDate": "2025-09-03T23:42:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -291,6 +300,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Federal judge denies injunction for Michael Jordan’s team in NASCAR antitrust case - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTWRxMXFCcC1nZHFfZC0yV0x0R0xqMExUQTlnWTR4YzdLa01KMlUxMXRzTTRVT2FOeWFUYUZTYXRlaVhwNTVxbjcyRHplSkJfVVRfWC0xd21BTWJoTXJpVVFnNzd3SDRlSVBUZC1Yd19Fb1Itbl82a3VLTDFSdUc5TXZMZDdBQVVJaW1UU2ZpZTVjMHo3YWdyNlJxdi03REJqVnNkOVJ5c2U?oc=5",
+        "description": "",
+        "pubDate": "2025-09-03T22:27:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Israel intensifies Gaza City attacks as UN warns of 'horrific' consequences for displaced families",
@@ -353,15 +371,6 @@
         "pubDate": "2025-09-03T21:33:06Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48e2/live/68fa11f0-890b-11f0-b391-6936825093bd.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Federal judge denies injunction for Michael Jordan’s team in NASCAR antitrust case - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTWRxMXFCcC1nZHFfZC0yV0x0R0xqMExUQTlnWTR4YzdLa01KMlUxMXRzTTRVT2FOeWFUYUZTYXRlaVhwNTVxbjcyRHplSkJfVVRfWC0xd21BTWJoTXJpVVFnNzd3SDRlSVBUZC1Yd19Fb1Itbl82a3VLTDFSdUc5TXZMZDdBQVVJaW1UU2ZpZTVjMHo3YWdyNlJxdi03REJqVnNkOVJ5c2U?oc=5",
-        "description": "",
-        "pubDate": "2025-09-03T21:31:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -669,18 +678,27 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Search for painting looted by Nazis may have found more stolen art",
-        "link": "https://www.bbc.com/news/articles/cdx26z142vko?at_medium=RSS&at_campaign=rss",
-        "description": "The search of property in Argentina linked to the daughters of a fugitive Nazi may have unearthed more stolen artworks, say investigators.",
-        "pubDate": "2025-09-03T16:56:22Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94f6/live/fcb40cd0-88e2-11f0-90cc-69d2e7ebe707.jpg",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Union group urges Reeves to consider wealth taxes",
+        "link": "https://www.bbc.com/news/articles/cx27nxex9dlo?at_medium=RSS&at_campaign=rss",
+        "description": "TUC boss Paul Nowak says the chancellor should not take \"anything off the table\" ahead of November Budget.",
+        "pubDate": "2025-09-03T23:48:04Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54af/live/3d469d60-8912-11f0-8787-73db7d3c375e.jpg",
+        "bias": 0
+      },
+      {
+        "title": "June Cleaver the loggerhead turtle is released into the ocean off Florida after rehab - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOekRybUZ5WVM4NVFYbUh6c3owV1JBV2dGQWR2aXB3TG5LNkpjTWhzaWRBcWRCdzNuODlCSHYxUkFmRUdWYkVHTHNxSUNIYi1NS3RiX3N0clV5VE1hZ3RlcWtVUGd3WGFHdHpqS3EzRDNqOWlXTlVvdDN2Zk92aUpNRzR6cm1pT1F0WDU1MjFxZ0FkeW1UZkkzZWhQdGZBUllLUUE?oc=5",
+        "description": "",
+        "pubDate": "2025-09-03T21:44:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Rayner admits underpaying tax on Hove flat as PM backs her",
         "link": "https://www.bbc.com/news/articles/cy50446rq73o?at_medium=RSS&at_campaign=rss",
