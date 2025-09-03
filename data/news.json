@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-09-03T08:50:44.838067Z",
+  "lastUpdate": "2025-09-03T09:19:36.616413Z",
   "news": {
     "Gaming": [
+      {
+        "title": "HUNTED [Free]",
+        "link": "https://samburger360.itch.io/hunted",
+        "description": "A short point and click with four endings",
+        "pubDate": "2025-09-03T09:03:22Z",
+        "source": "samburger360.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDIzNzQxLnBuZw==/315x250%23c/r7Rk5G.png",
+        "bias": 0
+      },
       {
         "title": "​CASTLE the ASSAULT [Free] [Adventure] [Windows]",
         "link": "https://yashiminnie.itch.io/castle-the-assault",
@@ -12,12 +21,39 @@
         "bias": 0
       },
       {
+        "title": "YEE-Craft [Free] [Adventure] [Windows] [macOS]",
+        "link": "https://senseiyeet.itch.io/yee-craft",
+        "description": "2D Minecraft Game",
+        "pubDate": "2025-09-03T08:34:22Z",
+        "source": "senseiyeet.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDIzNjY0LnBuZw==/315x250%23c/30ECYS.png",
+        "bias": 0
+      },
+      {
+        "title": "Prehistoric Problems [Free] [Other]",
+        "link": "https://pigeonbat.itch.io/prehistoric-problems",
+        "description": "Hunt! Bugs! Guard! Nest! DON'T LET THEM PERISH!!",
+        "pubDate": "2025-09-03T08:07:35Z",
+        "source": "pigeonbat.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDIzNjE2LnBuZw==/315x250%23c/ItXnDz.png",
+        "bias": 0
+      },
+      {
         "title": "vinnie with gravity [Free] [Windows]",
         "link": "https://vinniestuff.itch.io/gravitywindow",
         "description": "window but with gravity",
         "pubDate": "2025-09-03T08:01:18Z",
         "source": "vinniestuff.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMDIzMzM2LnBuZw==/315x250%23c/LcrdK4.png",
+        "bias": 0
+      },
+      {
+        "title": "【やるきのないドーナツ】 [Free] [Shooter] [Windows]",
+        "link": "https://jinsei108.itch.io/yarukinonai-donuts",
+        "description": "やるきなし！ドーナツ２Dツインシューター！",
+        "pubDate": "2025-09-03T07:58:50Z",
+        "source": "jinsei108.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDIzMTY5LnBuZw==/315x250%23c/TmgOMB.png",
         "bias": 0
       },
       {
@@ -228,15 +264,6 @@
         "bias": 0
       },
       {
-        "title": "Man The Game VS The Cooperate Ladder [Free] [Action]",
-        "link": "https://bambo0zeld.itch.io/man-the-game-vs-the-cooperate-ladder",
-        "description": "An Ultrakill Inspired Scratch Game!",
-        "pubDate": "2025-09-03T03:01:09Z",
-        "source": "bambo0zeld.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDIxNzUwLnBuZw==/315x250%23c/AS6nG8.png",
-        "bias": 0
-      },
-      {
         "title": "The Lakeview Orb [$2.99] [Survival] [Windows]",
         "link": "https://agrandht.itch.io/the-lakeview-orb",
         "description": "A short first-person horror game about a crippled man who hires a courier to retrieve an orb of unnatural power.",
@@ -244,18 +271,54 @@
         "source": "agrandht.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMDIyMzkxLnBuZw==/315x250%23c/VxT5ny.png",
         "bias": 0
-      },
-      {
-        "title": "Object Cabin [Free] [Survival] [Windows]",
-        "link": "https://robat3.itch.io/object-cabin",
-        "description": "can you survive 3 minutes in this cabin?",
-        "pubDate": "2025-09-03T02:42:58Z",
-        "source": "robat3.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDIxNzYwLnBuZw==/315x250%23c/jDXzrM.png",
-        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Trump says 11 killed in US strike on drug-carrying vessel from Venezuela",
+        "link": "https://www.bbc.com/news/articles/cpwywjgynyxo?at_medium=RSS&at_campaign=rss",
+        "description": "The Trump administration has signalled a willingness to use military force against drug cartels.",
+        "pubDate": "2025-09-03T09:10:59Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/031c/live/5c166c90-8875-11f0-9cf6-cbf3e73ce2b9.png",
+        "bias": 0
+      },
+      {
+        "title": "China displays its military strength in a parade on the 80th anniversary of the end of WWII - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQjRpa1RPaW9wQWhYazJIbjlyMEVsRFBaZ3lmcmxraDlCS21vYXFtVW1PM1JhaHlXTENFNnR0TFVDbENIc0dIYU54YnNTV0pCemd5WGpNYVU2ejNHYlVQRkg0bERLbDhLX1BUS1lXenFseExRbXJvN0RVSlRlM3pMWm85RnlBZDdXYTJzY1ZwOFE2dWtCU3RoQ2F1ZU9wYU1ST2tBNA?oc=5",
+        "description": "",
+        "pubDate": "2025-09-03T09:06:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2025/09/03/nx-s1-5524819/morning-news-brief",
+        "description": "Efforts pick up in Congress to force vote on release of Jeffrey Epstein files, Trump family's cryptocurrency started trading Monday, China displays military might with elaborate parade.",
+        "pubDate": "2025-09-03T09:02:54Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Hundreds of women with brooms join protests as Indonesia leader flies to China",
+        "link": "https://www.bbc.com/news/articles/c7vlv2gpvvzo?at_medium=RSS&at_campaign=rss",
+        "description": "Hundreds of women brandishing broomsticks marched to parliament during fierce nationwide rallies.",
+        "pubDate": "2025-09-03T08:41:48Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cda8/live/a1f3af30-8892-11f0-aed1-db23423f7cc8.jpg",
+        "bias": 0
+      },
+      {
+        "title": "How much do India, Russia, China trade and what goods do they buy?",
+        "link": "https://www.aljazeera.com/news/2025/9/3/how-much-do-india-russia-china-trade-and-what-goods-do-they-buy?traffic_source=rss",
+        "description": "Trade among India, China and Russia is valued at $452bn in goods. Al Jazeera breaks down the numbers.",
+        "pubDate": "2025-09-03T08:32:55Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Putin thanks Kim for North Koreans fighting in Ukraine",
         "link": "https://www.bbc.com/news/articles/cj9w9m1xz1go?at_medium=RSS&at_campaign=rss",
@@ -410,15 +473,6 @@
         "bias": 0
       },
       {
-        "title": "China displays its military strength in a parade on the 80th anniversary of the end of WWII - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQjRpa1RPaW9wQWhYazJIbjlyMEVsRFBaZ3lmcmxraDlCS21vYXFtVW1PM1JhaHlXTENFNnR0TFVDbENIc0dIYU54YnNTV0pCemd5WGpNYVU2ejNHYlVQRkg0bERLbDhLX1BUS1lXenFseExRbXJvN0RVSlRlM3pMWm85RnlBZDdXYTJzY1ZwOFE2dWtCU3RoQ2F1ZU9wYU1ST2tBNA?oc=5",
-        "description": "",
-        "pubDate": "2025-09-03T06:11:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "India warns Pakistan of more cross-border flooding due to heavy monsoon rains - AP News",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTms4X3ltZUlxWGN4ejB3UjJuc3BrTFZocDVrdm1wSFU2STRMT3kxb3lBTFptR1djQ2FEQjBYYlFJLVo4SF9EeWJGMGRSd2JzYmxpUnVYUW1Ud1BnVUpPYjJGS0M3QndSLXFWWndwNHZJZnk0aVJ3ckNiQkNmRlNEak5wOWt3THp3QlRKdFJBb2ZCSHp3MkpNSHg0cWk?oc=5",
         "description": "",
@@ -470,15 +524,6 @@
         "pubDate": "2025-09-03T05:06:03Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/151f/live/2e42e1f0-87de-11f0-9457-214de3f1fa91.jpg",
-        "bias": 0
-      },
-      {
-        "title": "A suicide bombing near a political rally in southwestern Pakistan kills 13 and wounds 30 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWTJoYUVWVHNCb2tnT0x6NEQ2cDIwVnJwMENkTnVKLW41aHZSeWs1bVBzTXA1RzB2REpnWWlTamxUNEdBMzZsS0h5SURPX2tTYVl5eXNfRXNJUFVQYldWYUYzSTh6eHpsTDNHRVpTU3lQOHF5LXBSQnR2WDd1MHNpamhuR19YQ3QtcFFKV1JuMkc0MV81TVEwTHdQOXRjWUdZa04yNkVIX0NOREJVbTA5bFlxLXhLX1lPUmc?oc=5",
-        "description": "",
-        "pubDate": "2025-09-03T05:05:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -581,15 +626,6 @@
         "bias": -1
       },
       {
-        "title": "Trump says 11 killed in US strike on drug-carrying vessel from Venezuela",
-        "link": "https://www.bbc.com/news/articles/cpwywjgynyxo?at_medium=RSS&at_campaign=rss",
-        "description": "The Trump administration has signalled a willingness to use military force against drug cartels.",
-        "pubDate": "2025-09-03T03:26:28Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/031c/live/5c166c90-8875-11f0-9cf6-cbf3e73ce2b9.png",
-        "bias": 0
-      },
-      {
         "title": "Some 400 Indonesian school children fall ill after eating free school meals",
         "link": "https://www.aljazeera.com/news/2025/9/3/some-400-indonesian-school-children-fall-ill-after-eating-free-school-meals?traffic_source=rss",
         "description": "Indonesia President Prabowo's free meals programme hit by more mass illness as protests against government rock country.",
@@ -687,27 +723,45 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Jury clears Cardi B of assault on security guard in Los Angeles",
-        "link": "https://www.bbc.com/news/articles/cgjyj0dp3ego?at_medium=RSS&at_campaign=rss",
-        "description": "A number of viral moments thrust the civil case into the spotlight.",
-        "pubDate": "2025-09-03T00:19:19Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7956/live/9f3d8820-884b-11f0-b38f-71385d159105.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Trump says 11 killed in strike on alleged drug-carrying boat from Venezuela",
-        "link": "https://www.aljazeera.com/news/2025/9/3/trump-says-11-killed-in-strike-on-alleged-drug-carrying-boat-from-venezuela?traffic_source=rss",
-        "description": "The US military attack comes as the US surges military presence in the Caribbean, risking an escalation with Venezuela.",
-        "pubDate": "2025-09-03T00:11:15Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
+      {
+        "title": "Trump family's cryptocurrency started trading this week",
+        "link": "https://www.npr.org/2025/09/03/nx-s1-5525857/trump-familys-cryptocurrency-started-trading-this-week",
+        "description": "The Trump family's World Liberty Financial cryptocurrency started trading this week, highlighting the extraordinary degree to which the First Family is trying to profit from being in the Oval Office.",
+        "pubDate": "2025-09-03T09:00:29Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "'Founders Museum' from White House and PragerU blurs history, AI-generated fiction",
+        "link": "https://www.npr.org/2025/09/03/nx-s1-5521261/white-house-ai-founders-museum",
+        "description": "Historians say it's good to highlight America's founders, but the project takes too narrow a view of history.",
+        "pubDate": "2025-09-03T09:00:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Missouri Republicans begin efforts to redraw state's congressional map",
+        "link": "https://www.npr.org/2025/09/03/nx-s1-5525947/missouri-republicans-begin-efforts-to-redraw-states-congressional-map",
+        "description": "A special legislative session to redraw Missouri's congressional maps begins Wednesday. Republican lawmakers hope it will give the party a better shot at taking one U.S. House seat from Democrats.",
+        "pubDate": "2025-09-03T08:59:27Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "We may need to look at free speech laws, says Streeting",
+        "link": "https://www.bbc.com/news/articles/cx2922w73e1o?at_medium=RSS&at_campaign=rss",
+        "description": "The health secretary says ministers wanted police to focus on street crime rather than posts on social media.",
+        "pubDate": "2025-09-03T08:59:07Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5b3/live/be8e9bc0-889f-11f0-9b32-415f867a10dd.jpg",
+        "bias": 0
+      },
       {
         "title": "Reform boss denies press ban applied to councillors",
         "link": "https://www.bbc.com/news/articles/cqxgxzzjx3zo?at_medium=RSS&at_campaign=rss",
@@ -746,6 +800,15 @@
       }
     ],
     "Tech": [
+      {
+        "title": "Judge lets Google keep Chrome but orders other penalties in major antitrust ruling",
+        "link": "https://www.npr.org/2025/09/03/nx-s1-5526037/judge-lets-google-keep-chrome-but-orders-other-penalties-in-major-antitrust-ruling",
+        "description": "In a major antitrust ruling, a federal judge stopped short of ordering Google to sell off its popular Chrome browser, but ordered other penalties against the tech giant.",
+        "pubDate": "2025-09-03T09:02:28Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Family of dead teen say ChatGPT's new parental controls not enough",
         "link": "https://www.bbc.com/news/articles/cg505mn84ydo?at_medium=RSS&at_campaign=rss",
@@ -816,10 +879,19 @@
         "title": "Budget to be held on 26 November, Reeves confirms",
         "link": "https://www.bbc.com/news/articles/c7545yz0171o?at_medium=RSS&at_campaign=rss",
         "description": "The chancellor will set out her plans for the UK economy in November with speculation growing over tax rises.",
-        "pubDate": "2025-09-03T08:30:19Z",
+        "pubDate": "2025-09-03T09:06:10Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b4d/live/1a8eacf0-884e-11f0-a10c-1da1b2e7987b.jpg",
         "bias": 0
+      },
+      {
+        "title": "Food giant Kraft Heinz to split into two companies",
+        "link": "https://www.npr.org/2025/09/03/nx-s1-5525657/food-giant-kraft-heinz-to-split-into-two-companies",
+        "description": "Food giant Kraft Heinz is splitting up into two companies a decade after the merger that was arranged by billionaire investor Warren Buffett.",
+        "pubDate": "2025-09-03T09:02:02Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "UK cement production drops to lowest levels since 1950s",
