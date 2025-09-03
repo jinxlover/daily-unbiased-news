@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-03T07:23:43.191556Z",
+  "lastUpdate": "2025-09-03T07:37:51.452291Z",
   "news": {
     "Gaming": [
       {
@@ -18,6 +18,15 @@
         "pubDate": "2025-09-03T06:44:26Z",
         "source": "orvek-games.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMDIzMDIxLnBuZw==/315x250%23c/YlnRhc.png",
+        "bias": 0
+      },
+      {
+        "title": "Junkyard Universe [Free] [Other] [Windows]",
+        "link": "https://snail-ship.itch.io/junkyard-universe",
+        "description": "Dissolve space trash or repair it. Built relationships with allies and enemies. Search for your lost mother.",
+        "pubDate": "2025-09-03T06:30:03Z",
+        "source": "snail-ship.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDIyOTY3LnBuZw==/315x250%23c/8adAci.png",
         "bias": 0
       },
       {
@@ -134,7 +143,7 @@
         "description": "An urban planner meets an algebraic miracle",
         "pubDate": "2025-09-03T03:55:15Z",
         "source": "leonamollica.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDIyMzcxLnBuZw==/315x250%23c/AGL3WB.png",
+        "image": "https://img.itch.zone/aW1nLzIzMDIzMTY1LnBuZw==/315x250%23c/Ys0i8z.png",
         "bias": 0
       },
       {
@@ -225,15 +234,6 @@
         "pubDate": "2025-09-03T02:42:58Z",
         "source": "robat3.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMDIxNzYwLnBuZw==/315x250%23c/jDXzrM.png",
-        "bias": 0
-      },
-      {
-        "title": "Star Dodge 2D [$1.00] [Action] [Android]",
-        "link": "https://woodensoftwaredevelopment.itch.io/star-dodge-2d",
-        "description": "",
-        "pubDate": "2025-09-03T02:41:41Z",
-        "source": "woodensoftwaredevelopment.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDIxNjAwLnBuZw==/315x250%23c/uTg7q%2B.png",
         "bias": 0
       },
       {
@@ -369,15 +369,6 @@
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONmVvRXJLeUdvV0NrMHpzajJvVTBkbVU5Z1pQQzM0U2VQalZycXpQbU1Gak5OU01WQ2tjN0V6T0JXcGpDR2ZFanQtd1NqckVVaVhuNzRaaVdoQzVJcy1udmxRUlJIbkxXbXdIMHR2cWVWRURkLThCQ29pQTRZTjV0a0pqVU5uaXVBdVZ4VEI1d3ZZZFczLVZ3ZldZaW93UVZSeGk5TWZGUmtlQ0xW?oc=5",
         "description": "",
         "pubDate": "2025-09-03T05:39:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Argentine couple wins final of tango stage category in the Tango World Championship - AP News",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUVhIMjQ0R2dFd3p5aklpV0M1OUZLRDdlZmttSmNZNXpMb25QV0ZjTzlBTzl1NnJqQ09pNGVfWURaNUdGNXlIN3JzYm50UTktNmhFVlFsVTRjZjFQUE1qSG9TM0hNa2hpRWd0eUVHWE9tTWNVcDVzbVV3dWtMRFZTd1VzS05lMGpaS3V2WkpBTVVrV3lTd3czME82QllwemVfQWZyVFA1ckpBUnVWTVllU29pdjdxTlJqVndnY1dQT01iRk4wMXhlakhJMUV3MTk3NTF3ZERTRUw?oc=5",
-        "description": "",
-        "pubDate": "2025-09-03T05:30:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -684,6 +675,33 @@
     ],
     "Tech": [
       {
+        "title": "A let off or tougher than it looks? What the Google monopoly ruling means",
+        "link": "https://www.bbc.com/news/articles/cx2q2kkdedno?at_medium=RSS&at_campaign=rss",
+        "description": "The search giant is not being broken up -so how much will it be affected by the remedies a judge has instead ordered?",
+        "pubDate": "2025-09-03T07:28:22Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f3c/live/88e349c0-8855-11f0-b391-6936825093bd.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Sudan appeals for aid after landslide kills more than 1,000 people in single village in Darfur - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQemdSMEQ4TXNMdGFZNFlabmJ2OU1BZGt0eWU2UmM2YWkyd3F5UlYtU2R5eEVKQTNsb3BXREdrY2VmSHdxYUg2TWJhbE4zWmlwX1VnLUtCNk9nX2ZwN0dwaENWQzZTWm5CSnZIZHpLNG8zVGR4bjA1Mi1fT3dYSGI4aS1tcktTeGx2QlpPeVI0NFNoUG01Qmk0dHg1WQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-03T07:28:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Photos of China military parade marking the 80th anniversary of WWII’s end - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUGh5b2ZTUUNIWEZGYmFsUDhicF83bzZWY2NDT1FLUUd0aVh1cllyekVKZm1sUU5ONk9IcG1OdEV2YXdicEJqSi0wSGRkMURaN05MTEVmZjhGcXVPa3VkLXJEa2gwSm1YMkg1eHk5dFUwTUpYR1Q5UjVIcGZ3WEt6QkFOX1E4cDV5OVJBZmwwQ3VieDczcVRYSlF3?oc=5",
+        "description": "",
+        "pubDate": "2025-09-03T04:58:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Construction intensifies at site linked to Israel's suspected nuclear program, satellite photos show - AP News",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVV9fX2lraXZ1Y1NHSml5N2p5OFJaOG85UXVfU1g5VENzVTFRcm4wU3lIRUtkdThLRm5YV0J4azVyVkpQSHdmRjFnblppektVMHVaVmVHNGRwQkc4cDQzTHRvaUY4dDgxTHNrOXZFOC1uUFJIdlZ1dUlMN3k2eWxuRWtySlNzc1dXS2pYUWNaSkJnaFZIYkh6NS1DeGtQYXRwbWNVemphUDhkS0NWbWhB?oc=5",
         "description": "",
@@ -728,7 +746,7 @@
         "description": "Several parents criticise logos and emblems on uniforms, preventing them from buying generic items.",
         "pubDate": "2025-09-03T05:03:42Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c83/live/2ee9e6d0-881f-11f0-9c95-4f9ad5a1a24f.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c3b/live/b6461c60-8898-11f0-9557-a5b359b84140.jpg",
         "bias": 0
       }
     ],
