@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-09-04T11:37:26.789064Z",
+  "lastUpdate": "2025-09-04T11:47:25.640848Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Gleeby Light [Free] [Platformer]",
+        "link": "https://brandon-cachia.itch.io/gleeby-light",
+        "description": "Made for the 2025 48HR AIE Game Jam",
+        "pubDate": "2025-09-04T11:34:40Z",
+        "source": "brandon-cachia.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDM3NTkyLnBuZw==/315x250%23c/kYwvBy.png",
+        "bias": 0
+      },
       {
         "title": "The King’s Courier [Free] [Role Playing]",
         "link": "https://maltheris.itch.io/the-kings-courier",
@@ -201,30 +210,12 @@
         "bias": 0
       },
       {
-        "title": "Tiokawar [Free] [Survival] [Android]",
-        "link": "https://kuto110.itch.io/tiokawar",
-        "description": "",
-        "pubDate": "2025-09-04T09:07:23Z",
-        "source": "kuto110.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDM2NTQxLnBuZw==/315x250%23c/WcPkcL.png",
-        "bias": 0
-      },
-      {
         "title": "Little Guy Rocket Rescue [Free] [Platformer] [Windows]",
         "link": "https://tostea.itch.io/little-guy-rocket-rescue",
         "description": "",
         "pubDate": "2025-09-04T09:02:54Z",
         "source": "tostea.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMDM2NDM0LnBuZw==/315x250%23c/p%2FCLqa.png",
-        "bias": 0
-      },
-      {
-        "title": "Silenos : Venezuela y EEUU (MiniBook) [Free]",
-        "link": "https://silenos.itch.io/silenos-venezuelayeeuu",
-        "description": "",
-        "pubDate": "2025-09-04T08:59:13Z",
-        "source": "silenos.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDM2NDI5LnBuZw==/315x250%23c/AXR7UQ.png",
         "bias": 0
       },
       {
@@ -248,13 +239,22 @@
     ],
     "World": [
       {
-        "title": "Unhealed wounds: Anti-Japanese sentiment in post-war China",
-        "link": "https://www.aljazeera.com/video/101-east/2025/9/4/unhealed-wounds-anti-japanese-sentiment-in-post-war-china?traffic_source=rss",
-        "description": "101 East investigates why Chinese nationalists have committed violent, sometimes deadly acts against Japanese civilians.",
-        "pubDate": "2025-09-04T11:30:00Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
+        "title": "Dozens die after boat hits tree stump in Nigerian river",
+        "link": "https://www.bbc.com/news/articles/c3dr903xeleo?at_medium=RSS&at_campaign=rss",
+        "description": "The overloaded boat was carrying passengers including children when it hit a submerged tree stump.",
+        "pubDate": "2025-09-04T11:43:42Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3000/live/24323680-8968-11f0-9df7-33c9b75a833d.jpg",
+        "bias": 0
+      },
+      {
+        "title": "'Out of control': Witnesses describe fatal Lisbon funicular crash",
+        "link": "https://www.bbc.com/news/articles/c20v4g71zrpo?at_medium=RSS&at_campaign=rss",
+        "description": "At least 17 people were killed and 20 more injured, some critically, Portuguese authorities say.",
+        "pubDate": "2025-09-04T11:41:27Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2995/live/a2f7f230-8976-11f0-bdd3-7be793555c9e.jpg",
+        "bias": 0
       },
       {
         "title": "Who are the victims of the Lisbon funicular cable crash?",
@@ -302,24 +302,6 @@
         "bias": -1
       },
       {
-        "title": "Top News: US & International Top News Stories Today - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBZSzlQOG9xaTBfR3RUQkVpZG12OWczYzFpdW1KZTZqbmo0dml1OXFGOHVWYm9DbWdOaHRERDFVVkZmaWVnQ0FvcGl3?oc=5",
-        "description": "",
-        "pubDate": "2025-09-04T10:46:26Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Dozens die after boat hits tree stump in Nigeria",
-        "link": "https://www.bbc.com/news/articles/c3dr903xeleo?at_medium=RSS&at_campaign=rss",
-        "description": "The overloaded boat was carrying passengers including children when it hit a submerged tree stump.",
-        "pubDate": "2025-09-04T10:35:35Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3000/live/24323680-8968-11f0-9df7-33c9b75a833d.jpg",
-        "bias": 0
-      },
-      {
         "title": "Yemeni bodybuilder fighting to make international dream come true",
         "link": "https://www.aljazeera.com/sports/2025/9/4/yemeni-bodybuilder-fighting-to-make-international-dream-come-true?traffic_source=rss",
         "description": "Saleh Hussein al-Raidi is fighting against the odds in Yemen in an attempt to make his bodybuilding dreams a reality.",
@@ -327,15 +309,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "'Out of control': Witnesses describe fatal Lisbon funicular crash",
-        "link": "https://www.bbc.com/news/articles/c20v4g71zrpo?at_medium=RSS&at_campaign=rss",
-        "description": "The crash killed at least 17 people and injured 20 more, some critically, Portuguese authorities say.",
-        "pubDate": "2025-09-04T10:12:09Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2995/live/a2f7f230-8976-11f0-bdd3-7be793555c9e.jpg",
-        "bias": 0
       },
       {
         "title": "Israel threatens to unleash biblical plagues on Yemen’s Houthis",
@@ -693,6 +666,24 @@
         "link": "https://www.aljazeera.com/news/2025/9/4/lisbons-gloria-funicular-derails-what-we-know-about-cause-and-victims?traffic_source=rss",
         "description": "A Lisbon streetcar, one of the city’s major tourist attractions, derailed on Wednesday, leaving 15 dead and 18 injured.",
         "pubDate": "2025-09-04T00:51:59Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "NBA says it will open investigation into report that Clippers broke cap rules with Leonard deal - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUU5vek1qeFlGSFJOdFpOaHp2OHZ0bjNRNnF6ZWZpcXpydjB3N2tkV240Z3ZVS3hpUmdpYnBPLW11RGNqT0szVEZFR2puTkxpOUlQVEQ1ZDJhNlNTM0tiUy1TYjNXU3ljMXBiUnFHUjdCdzByd1RrLTk4d3FBOENrMllJUGxOTTVhUmZMTjI1a2Z5d2d3UGc?oc=5",
+        "description": "",
+        "pubDate": "2025-09-04T00:42:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "‘Shameful’: Survivors of Jeffrey Epstein’s abuse push for US transparency",
+        "link": "https://www.aljazeera.com/news/2025/9/4/shameful-survivors-of-jeffrey-epsteins-abuse-push-for-us-transparency?traffic_source=rss",
+        "description": "Some survivors spoke publicly for the first time at an event on Capitol Hill to support a bill to release files.",
+        "pubDate": "2025-09-04T00:41:57Z",
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
