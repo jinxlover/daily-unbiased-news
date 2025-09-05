@@ -1,7 +1,34 @@
 {
-  "lastUpdate": "2025-09-05T19:28:00.093728Z",
+  "lastUpdate": "2025-09-05T19:39:47.768610Z",
   "news": {
     "Gaming": [
+      {
+        "title": "tralala pc & mobile [Free] [Other] [Windows]",
+        "link": "https://zxmatheus26.itch.io/tralala-pc-and-mobile",
+        "description": "primeiro game mobile",
+        "pubDate": "2025-09-05T19:27:13Z",
+        "source": "zxmatheus26.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDU1OTQzLmpwZw==/315x250%23c/3hmqSu.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Big Guy and Little Guy [Free] [Platformer] [Windows]",
+        "link": "https://makfeee.itch.io/big-guy-and-little-guy",
+        "description": "Puzzle platformer about controlling two guys!",
+        "pubDate": "2025-09-05T19:17:38Z",
+        "source": "makfeee.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDU1NzU5LnBuZw==/315x250%23c/AryYxn.png",
+        "bias": 0
+      },
+      {
+        "title": "Tireless pig [$7.00] [Adventure]",
+        "link": "https://game-poly.itch.io/tireless-pig",
+        "description": "",
+        "pubDate": "2025-09-05T19:17:17Z",
+        "source": "game-poly.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDU1OTg3LnBuZw==/315x250%23c/rwDfEK.png",
+        "bias": 0
+      },
       {
         "title": "Color Switch Obby Game Kit Plug-&-Play [14.99€] [Platformer]",
         "link": "https://domigraphix.itch.io/color-switch-obby-game-kit-plug-play",
@@ -18,6 +45,15 @@
         "pubDate": "2025-09-05T19:13:25Z",
         "source": "tts-studios.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMDU1MjE1LmpwZw==/315x250%23c/qB%2FtW%2F.jpg",
+        "bias": 0
+      },
+      {
+        "title": "TerraCraft 2D Sandbox (Prototyp) [Free] [Survival]",
+        "link": "https://prit3k.itch.io/terracraft",
+        "description": "TerraCraft 2D Sandbox (Prototyp)",
+        "pubDate": "2025-09-05T19:12:30Z",
+        "source": "prit3k.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDU1NzQxLnBuZw==/315x250%23c/Jq2CN4.png",
         "bias": 0
       },
       {
@@ -45,6 +81,15 @@
         "pubDate": "2025-09-05T18:56:43Z",
         "source": "thegiddymeister.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMDU1NTM0LnBuZw==/315x250%23c/jIop2m.png",
+        "bias": 0
+      },
+      {
+        "title": "Silent Light [Free] [Action] [Windows]",
+        "link": "https://facelesscactus.itch.io/silent-light",
+        "description": "Abandoned. metroidvania project",
+        "pubDate": "2025-09-05T18:51:35Z",
+        "source": "facelesscactus.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDU1ODQ5LnBuZw==/315x250%23c/pb%2BFm7.png",
         "bias": 0
       },
       {
@@ -147,39 +192,21 @@
         "bias": 0
       },
       {
-        "title": "Ruby's Realms [Free] [Platformer] [Windows]",
-        "link": "https://thisisneat.itch.io/rubys-realms",
-        "description": "Ruby's Realms is a platformer blending metroidvania exploration with level-based challenges",
-        "pubDate": "2025-09-05T17:49:42Z",
-        "source": "thisisneat.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDU0ODQ1LnBuZw==/315x250%23c/J0R7Cc.png",
-        "bias": 0
-      },
-      {
-        "title": "Wizard Game [Free] [Shooter]",
-        "link": "https://chandlerwang70.itch.io/wizard-game",
-        "description": "A first-person shooter roguelike game where you play as a plucky wizard.",
-        "pubDate": "2025-09-05T17:46:01Z",
-        "source": "chandlerwang70.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDU0OTcxLnBuZw==/315x250%23c/GNnXs0.png",
-        "bias": 0
-      },
-      {
-        "title": "YAGIRI Adventure [Free]",
-        "link": "https://romamaa.itch.io/yagiri-adventure",
-        "description": "",
-        "pubDate": "2025-09-05T17:44:11Z",
-        "source": "romamaa.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDU0ODIyLnBuZw==/315x250%23c/zsqgVi.png",
-        "bias": 0
-      },
-      {
         "title": "Omnibellum [Free] [Role Playing] [Windows]",
         "link": "https://sewersoft.itch.io/omnibellum",
         "description": "Old school text RPG where you kill the Rat God",
         "pubDate": "2025-09-05T15:57:53Z",
         "source": "sewersoft.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMDU1MDA5LnBuZw==/315x250%23c/cKc9hV.png",
+        "bias": 0
+      },
+      {
+        "title": "Desolate [Free] [Action]",
+        "link": "https://crispulent-crisps.itch.io/desolate",
+        "description": "A top down action game made for the SNESDEV 2025 jam",
+        "pubDate": "2025-09-05T15:51:48Z",
+        "source": "crispulent-crisps.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDUzMjkwLnBuZw==/315x250%23c/tYdutP.png",
         "bias": 0
       },
       {
@@ -202,6 +229,24 @@
       }
     ],
     "World": [
+      {
+        "title": "Hundreds of South Koreans detained in massive ICE raid at Hyundai plant",
+        "link": "https://www.bbc.com/news/articles/cj6xe5d6103o?at_medium=RSS&at_campaign=rss",
+        "description": "Most of the 475 arrested were from South Korea, leading the country to express concern about the rights of those in custody.",
+        "pubDate": "2025-09-05T19:30:09Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b25/live/861faaa0-8a7e-11f0-b391-6936825093bd.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Lebanon’s cabinet welcomes army plan to disarm Hezbollah, gives no timeline",
+        "link": "https://www.aljazeera.com/news/2025/9/5/lebanons-cabinet-welcomes-army-plan-to-disarm-hezbollah-gives-no-timeline?traffic_source=rss",
+        "description": "Five Shia ministers walk out of cabinet debate as Hezbollah remains adamant it will hold onto its weapons.",
+        "pubDate": "2025-09-05T19:20:50Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Canada to give automakers a break on EV sales target as US tariffs weigh",
         "link": "https://www.aljazeera.com/economy/2025/9/5/canada-to-give-automakers-a-break-on-ev-sales-target-as-us-tariffs-weigh?traffic_source=rss",
@@ -273,15 +318,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Hundreds of South Koreans detained in massive ICE raid at Hyundai plant",
-        "link": "https://www.bbc.com/news/articles/cj6xe5d6103o?at_medium=RSS&at_campaign=rss",
-        "description": "Most of the 475 arrested were from South Korea, leading the country to express concern about the rights of those in custody.",
-        "pubDate": "2025-09-05T17:28:52Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b25/live/861faaa0-8a7e-11f0-b391-6936825093bd.jpg",
-        "bias": 0
       },
       {
         "title": "Three ways Epstein scandal could go for Trump",
@@ -408,6 +444,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Thousands of newborn stars dazzle in the latest snapshot by NASA's Webb Space Telescope - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM1N4V3NrWi1wZTdESHhDZmZEWVhhWlZXYURmdVI1eUUwbV8tUkJRb2M2WFZFa2ZocGxrUkN5UVlkWEdlUXR0LTE2WU81UHdnZXcxdlJfeGw3dy1LeDdNRzlmZnJJZUphUWFQV0pIMTRVdkRVVndLeFBWbjlndlZ4Y0JKM3g0QUZDT1cxZmRvMjZlMGY1d2FLUWNaRGhDSndwMXduQWJ6dlRvSXM?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T15:43:12Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "WHO adds weight-loss, diabetes drugs to essential medicines list",
@@ -626,15 +671,6 @@
         "bias": -1
       },
       {
-        "title": "Belarus arrests Polish priest on spying charges",
-        "link": "https://www.aljazeera.com/news/2025/9/5/belarus-arrests-polish-priest-on-spying-charges?traffic_source=rss",
-        "description": "Relations between Poland and Belarus have hit a new low amid Russia's invasion of Ukraine.",
-        "pubDate": "2025-09-05T12:32:02Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "Pakistan prime minister signs $8.5 billion in investment deals with China - AP News",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZFVCbW5TWEsxOGtFWERXUEtvR1hJVmgwRkF1eDR2Sk1TdDVJV2pzdTJBS25NelRyLVhHeGxYbjBQVHVrTmgtbTZFWDhQUHhkN3ZGTG0waF9Fdm14dHB2dzcyUVFvX1ZxVDNQRTlLSXpPZXktVWEyZmdjTUt1RlRCSGFuVkc3VGlmUE9TSGFxd0lRaDlsb3N0ejNDV1lyT2R2cmpyUHRB?oc=5",
         "description": "",
@@ -642,18 +678,18 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "UN decries crimes including gang rape, murder, torture in Congo conflict over last year - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbEtSdkxkYUtuNDR4LTJUVnFQaTFYMXJKbk5RbmlUc0NJdm9ocEltZ0puY2ZYY2dmWWZ1b1p2R2t5b3k4Unh0NXFsSzlLQkFQMUQySFlTR3FVbWpnM3FyeTg1YlRHcXhUTzgxZVVWLTh3eXZrZ0RfSmVPeGc3VzJFRG1oYkpLMlI0anVPaUZrWVNORnN6aUxYRXFBRmtyUQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-05T11:43:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Starmer carries out major reshuffle after Rayner resignation",
+        "link": "https://www.bbc.com/news/articles/cgmzgjywr8wo?at_medium=RSS&at_campaign=rss",
+        "description": "Angela Rayner's exit has prompted a major shake-up with David Lammy becoming deputy prime minister.",
+        "pubDate": "2025-09-05T19:38:21Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1614/live/b933a400-8a88-11f0-9cf6-cbf3e73ce2b9.jpg",
+        "bias": 0
+      },
       {
         "title": "Headed to the FBI, Missouri's Andrew Bailey opposed abortion, backed Trump",
         "link": "https://www.npr.org/2025/09/05/nx-s1-5527855/andrew-bailey-trump-fbi-missouri",
@@ -679,15 +715,6 @@
         "pubDate": "2025-09-05T19:15:02Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/995c/live/34eb79e0-8a8b-11f0-b4ed-15140726731b.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Starmer carries out major reshuffle after Rayner resignation",
-        "link": "https://www.bbc.com/news/articles/cgmzgjywr8wo?at_medium=RSS&at_campaign=rss",
-        "description": "Angela Rayner's exit has prompted a major shake-up with David Lammy becoming deputy prime minister.",
-        "pubDate": "2025-09-05T18:57:41Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1614/live/b933a400-8a88-11f0-9cf6-cbf3e73ce2b9.jpg",
         "bias": 0
       },
       {
@@ -992,10 +1019,181 @@
     ],
     "Science": [
       {
-        "title": "Scientists tap fresh water hiding under the sea, raising hopes and caution for a thirsty world - AP News",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaGZPbTVQTDJyeFdZR195MGozT0p6cTNnUkVrNnBvMWhWLWZVeUJjNnJZYWFTRUFyVnJpQTlOd1doU1ZMYURXVzQ4TmFNenFIejl2cGhEaDN1ODk4MS0xajBYTXJFZWZ1MTBYa25ZQ3F5d24ycmNyQmZ5QWw2dHFXcHI0c0hvaDNISW9ITkpNTjhxNUNwQ0ZHdFBjRl9oMVlBNGtZX1hsOFZjR3NOaUtMczBqcW5qMmF1TFd5VFFXMm5iek1rV0pMZnhVLTZhV3ktVUJLR2lSN2VBSVlNbWdycUlDQmMxZw?oc=5",
+        "title": "Putin says foreign troops deployed to Ukraine would be legitimate targets - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVpPMmdRWFctTW5wbDhuSEs0WGplTzhOVFBwU3NGUktYLUxVd0ljc182N1B2WGgtbGdObXdZZXhOWEEyYnJNZXJHamJhNGlxWWE2bXpYUnRVdlZ5aFdnY2ctSW1tNDJxcjQ1Y0VGVEUxcmVyRDMtUmFaSUI4V3hySC1vQ1NHRi03UXhiR2FmUm5DbXVBZHFSdU5ac0NVbDBiWHFzOHpQdWR3Sk1IUmYzUUhn?oc=5",
         "description": "",
-        "pubDate": "2025-09-05T12:05:00Z",
+        "pubDate": "2025-09-05T18:40:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Two DC teens arrested in congressional intern’s fatal shooting - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRUtKNVNVNFk0SnZ2LUNxak9UTHU2bzRPN0lPSmtILVRfZGFlWUduX3hwa3E2NzIwWE1vR2VVR0FYUUstSDZ5d1RhalhNNEY4dENBdW9Vbl9abnpEQXVxd2ZkNlJYbWRVS19XbVduZmhMd3NsWGR1Y25tdFN1Zjlpcl9LWndkZk9YNW02X3dyUGZ2NlcxYm9Eb29rb1FWV2tYSWJ2Wm94RHRqejByRmc?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T18:23:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Ex-pilot accused of trying to cut a passenger flight’s engines reaches plea deals, his lawyer says - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQm5QUXUxWUFBVjllMzhFM05vR3VtdVFZU1ZBOGFlNGFZREdPM041SHpkOVM1OHdMY056bTdUSFQ1Yi12akVhdjFtd29WMGpad0pGOERwaVdzeWN2VzNZZVVWWGZRbzh3V0QzOUhNWTd3eWtKS0lNTDQySmhKZzBRNkV3UzU2Q0ZrOEZMMDhpN2RRZnNpZDg4VjZOZUQweWlvZ0FEVEJ2eTVzd0hwdTRZ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T17:43:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "A death row inmate says judges are ruled by Satan as he tries to avoid execution - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV2k3TlpLNHM0LS1PQnlhMk5vME9JUkZQT2tnR21DSkoxSmhvbEF0UVJwYW5lTmFuMnNhZ0Vzb2xFY3BFSEFLYUliOVFtemdTd2RPekZkOTBrbEJZc1MzREJPd0s5UllqZGpNQVZETGlXYjZXSHlwNXp1SzRxcEdrLS14NnVwX09tSDlIRWtZZjJheHViSDI1NnFZLXk0VHRZV0hEM29mcWtwcVBzNVQxNUcyNA?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T17:42:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "What to know about the streetcar derailment in Lisbon - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRkIxenlBZENrMU5OaThEcFNva3hwMUFqVEtua0JzenNPQzVseGJ6NVRnSW5nRE9ld0FCbjVYMlh6SlpTZFJzemMwR0lnV2djWEhRcmE4czJUbHpISzZIbDBhcVFiblpkRTRFMjJDM0lqYk9CdXhtcEtoRGFsWWhrUk5XZlZnMC1PcFdsT1RDZ0hlVjJmcjFmVVE2NjRTTnY3UEZTWnlwVF9SZnc?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T17:32:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Trump executive order will rename the Department of Defense as the Department of War - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSUIyenNJV0x0NElhb0ZZckJIM3prVWxBQ25fQU0wdngtRlFNOFNfemNsX2h1NFF6MEhHV3doTFRrR2FObDJLT2FtNTE2TnhuWFI5aXpwcjdpdE1zbDdqWkVMRS01Q0pOa0tMblNzTzVrUUlZYVJFRTJZYW9hOGxrZXlzYVFxakdhS0x3?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T17:20:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Shiite ministers walk out as Lebanon’s Cabinet debates army plan to disarm Hezbollah - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR2FJb1N5cndzQld5Yk5IMWhpZV9memRVVTQ5YkR2SHA0X3ZRYnJGeVNnQ0NhUHBycjhwWV9rSjhKbUtIdzFRTy1kVXd5aW1kemdOYWowOVFSdlUzZVJwcklPVXlsc0RmTFBBeGF1eVNfY1Q5ODJDOUJibGhpTUx2bFh5UnFNRTVEck4xNGYwTW1tZ0dyUGdSOS1lbjhybVJVcGVkcg?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T17:04:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Taylor Swift is a good luck charm for soccer team hosting Travis Kelce’s 1st game in Brazil - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc1dqVXpVSi1nNnRvRTBYRlJOTllwMm5YbEhqVU5VbWVEVmliWjVzYng5Vk95b2F6a0JPR0NqYjBndjF6R183eXBkWXB2cTFNcnVzM3NpWWp1YVJ5bFBtd2dBYWVjbDdvSGYxdnhqanN6dS1lcXd1Q0Fza0p3Y3gtdlBYdjFid3NiZGs1anF3azBtQlg5eVRvamtqdw?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T16:52:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Jalen Carter awaits discipline from the NFL, which made sportsmanship a priority - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSF8wQ1ZobGhvRjVnWDg3SFJHYVlyNUJfR0owd2cyLS0wQzZfb2NwQW1OeEFEM3ZTVzNySDFURUlJTUhvU3NOM1pnejdQQndpbG5jb3JsY2t4R0c3U3V2NG5FbkowTkN3WmlJM2tpNlUyVTRFc3pXQUFxV21DUG1iQzNRRkgydTk0QVNvdFp4ZHhzRThQUDZQcGsyX2JyQQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T16:32:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Elon Musk is in line for a $1 trillion pay package if Tesla hits aggressive goals over next 10 years - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYUtwcGlEOF9rMVpIV0JXNF9EQUdrMzhmRjQ2ZjlNUmF4QW12ZE56Y3p1SjZ3ZUNQRWJQZmRBMm52eTZfdVI3TUdWMmJ3VGVEY2tOSUllcFF1RWd3VHhlR3l1U1ItSmRtZmstc0xrMU12dUxGOUw4ZHFKMFI3VjNDRVFfN0pMN28zZHc?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T16:19:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Pope feeds fish as he opens Vatican's ambitious model of sustainable farming and education - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZDBWSF81MXpiQXh2Qnc0R2hpVk5NckRxTkZsNl8xN3FEWk9ZLVkxWV9OT3Z5Z2hwRWlfTlhOeFRUYnlkQWpQMVc3SXRSM1RiYTRIdTRRb25VRmhLUFRCWkQ5WDFqR2lmYlNKQ1JFYTNpV3UxY1hiN3hpc1R0WE1nUGtJWlJ2cEFuMUhuYnFWcWxBY3NSckZRX0JVOWxaOVhqR2JNQ3VLUlVvY0hm?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T15:57:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Hurricane Kiko heads toward Hawaii as Lorena remnants linger near western Mexico - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaHgybDg5X0NkVl9kVzBxR3h3YjlfUTRBcW1GZnhOeXFSZ1NSUnpWbkVmZ2dNVmNhaWszb2N0Nk5nY1hmR1hTbDZpTUduQ0phOEFnMi1XamE2SDlMY2s1MENJYVFva1ZfazY4SDVSeFhxbWEwY0w2US04VDJHU1NzbUlqSFNKbmpSVWJQaE9YTm9vQUxNOWtTVDh5VFRoOEhZRHBCbg?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T15:45:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Don't look now, but there's an AI-generated Italian teacup on your child's phone. What does it mean? - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOEZEM3REZ0s3RTV3OTRKMjdUcjk0dGh5Uk4xbXlBNTRYQ2dkaVd3SURiT3NKLUR1cUF6OURCSU5HTnJRVFozQWlzajNlb2tVWDlfbzlHWGgyRGk3Ti1UMEM5UHhjMm9aQUdzN29KZlRtWkI1X1VFaUJJdllPODlKYzRYYlhrQWhDSzNWejRnLS1PNzVHZGNxdE9RWW1pa3pmWHpTemhReE8?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T15:36:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "A John Candy documentary gives Toronto film fest a tender and appropriately Canadian opening night - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU09sS1NPbm8tbFpSNGJRcW9UU0lNOUpxcEdNTVF5MU5oald6MV9zYzZKQ2d3clNGbklSLUJtRE04TW5IZ3NlUmU4NkNfN0NtSkN3cUpMV3ptai1nRVdwc2Q1dE4xUmk4bWJGSzU4S1djdUNjWjhEcnd1dUl0R2JFSkJ3a1FsR1BTMGdtUFVscmFSUVN4TmNsdjlVdlFFUQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T15:34:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Asia will get a prime view of this weekend’s total lunar eclipse - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbi01T3EyR0pwUHFmaU5HVUpYM3ZxSGhDNHMydml1LWdMdE5oTUdoaWxIaDJKUVdia0QwSzIxanJWQlpib3BvNkJCYjRvYjhKeHpoRE5YNzJvalFkcVotMjhXazBCSkVGRUhKMXR2Rl9ZbFJnTnMxQVg3bzRzLXhkd1FMRWE1NDZuNDZPU1ZiOVh4bERX?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T15:29:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Pentagon-funded research at colleges has aided the Chinese military, a House GOP report says - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlV5RlJTdjVvRWZIQ25WU0U5U0doZXpZTzBtM1d2OHRPd0Q3TGlRSEFoZzE0bjllWm01Z2hoRHRpUC0tTFFMTFhiaFZZSFd2TWtNQVRMZnJvZWZLNzdCZEpCb1UxNFJDVVRzemlMMWtnT29LaTBwYmhPNS1lNW1zdVluWnJIUXNjM21LNWMyMWtVYnlyc0tXMWNMVHVzbzRkNFE?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T14:22:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Cork won a rare Trump tariff exemption thanks to lobbying on both sides of the Atlantic - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVi05Z0hoaHdiTEVYUUdCUk02TGpzbVlxV3BfaGQ5UFM4cEhaU2E4MHo4elMwaVpKQ2IyVUwxcmxabjZwOXZkcDI1dDJMZGxTMGxyU3UtMGE5OU1VMFVCTUNMZDJKNnBsa1p5Y1BhMUpLWEF2X2VrdWQ3X01Hc2ViQ3hVb3ZLQ3luTG1XR0hCcEFqQk5NZ1ZTV0E5RktVNVo3OENkWmVhdEczNWs?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T14:20:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "A deadly crash, a divided nation: Why Sikh truckers are now in the crossfire - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMUdqTEZkNHpqTzl1QVZwX2JXTkZFX1hmYzE0NjJtX2o4a0FJQS1ncUNlSWJhSWxUQ0FweU0yUzJOWXNDaUl1MW5Pb1dVWWJEQlJpSG1KWXF3b3VPRUF6dHUxbUk1cWUwM0hCSjJveDh1OS1jV25lR1l2VF9wWlhxYjhUdERWQ2F4a2FiTGl0OGNaeHBlbWJ3YW1kOFVpWGlTeUNBTzU4NFl5OE0?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T12:46:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "European human rights body denounces arrest of Turkish activist critical of Erdogan - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNemFtUHZ3ckdtT0N6TVJQYkM4T25QMHlJc3BwSUNTLVctZ1dDbnVSVGF1NlcwbWlKQlZZOXp1c19mYl9ScThEMDBSaGFoZlZib2RCa2xOeDVaQlhIR0hJRnFJWDRoUXhwVEk1YUpxVlN5Qm16ZkpERm83ODh2S09uV1hMd3plOXlRejlNZmhONlV4bnlEZkxpTkROLV9DcnVxX1RBOEFCalAyOGw1NXVTMDh2cw?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T12:41:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Philippine forces deliver supplies and personnel to disputed South China Sea shoal despite tensions - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbnVWUFR4cXpOcGxDLWpfdFlnelZ4NGVhbnl1SExfeDBlZXZDQUdjQ2ZLcnU1MkZVR3dIRjFoeHRnb1dMNFJwSEVsM0Vsa28xSzAtZFYzN3N1RGZXV21xWmpIV1NWTmFsVXBaUklINFlGTlhuNU4xdjRhekZtcjYzMzhUQl84dW8xQ1lPenlxY3p0R0ltem13YUVJLThTSU9SdDJxSll5dFlTWDg?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T11:39:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1034,6 +1232,114 @@
         "pubDate": "2025-09-05T07:36:36Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e02e/live/5274e560-67cb-11f0-bdb3-2fec70b719ae.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Japan welcomes Trump’s order to implement lower tariffs on autos and other goods - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUHhjRFhzeXBPc0lZbkltaGZwdW1RRXVuenRvUVItZTRLUnRRTEU5WmszQ1R6NDhmRVpJMS1RZkpYWjFLNDBCdTIwY3Fsd3h1RG5lbHpaXzczRk9UdW9YQjY3ejhVVkx3MGJfSXFjbGRTaE5aVWpQNVVFS1BMVFUtQzdoaUNCd082VVVCRUh3dTlBWlBMVVFHbVF3?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T07:10:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Defending champion Eagles edge Cowboys 24-20 in wild, lightning-delayed NFL season opener - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRXZKT2JIWVh5cXk4bnpwSExpd3UtanRKTlJLaDVjaWsxWjlENTY2ejM5NkJkMjltSWwxY2pBeVh1RE1CdlV0a0RFTzZWblBDNXlLX3g1ZVBLbWdVd3FMVW1YOXVfXzZXUmNMb2pTalB6VlRXUnA2cGY5aGZEUm54aW1kbVhlbVk?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T06:13:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Fox News thrives two years after court settlement, but 2020 election coverage fight goes on - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONUhUZlZGb182Umo4LUJYT1FpZDRwR3NCUnJXX2tDcDNya0ozOWxOT2NUSGdOa0pRZElrNS1qMEpsWlFSbHlxaHlpZE96Z2ZMQkdGMFlwN19FNkhJZmJVNVZuLWU2V0txcjA3a0RzUWFUYjBOZlNjWUNaRFl3NlNPWm8yeXVFOURTaTZ5YnBvNnpKUQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T04:08:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Operation Warp Speed was one of Trump's biggest achievements. Then came RFK Jr. and vaccine skeptics - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT3lEX0IzMkx2WHFqQ2NESVVjaUs5LWtTbXRJcWI3bzVQSW1LaXFHOVhWbHhLcTE1OU5KM2t4Z0ZHa01WS0ZzZkh3LWx0ZU84YVdEdk9sX3E5TDl2bGZPSHdpNl9qYnZ4Y1ZYX3NwamtoS3N2dF9RSld1T2E5S2JKVW5weGJRc3hCQ2FtdXN3UExzTHg1cUtiRG9oSGNoYVhvTnFlVHV1WXVvZw?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T04:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "India’s solar industry, aiming to compete with China, finds strength as US tariffs hit home - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTmlwTS1xVllUVEJkY19ndVplOHVqS0VCTVc1dC1NQ29yR0N1eVAyOW9iOHBoWmRXcV9GamE0NFA5R284elZqcThwTlFiSllWRzVpM3daWkktT0RGeUdyX0xZUjlLUzZJM0plMkRZTExSd2ZEMkFJdHpONkhQUTN3OFBKQ0h1WGMxbTJ5SmxjYmJuMzFrTHlpMVhNMnJmcmM?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T03:17:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Trump hosts tech leaders for dinner at White House, but not Elon Musk - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QVFc1c0o4M0E3Q29yM2owYm5FY0VOV3ZUeG9SSmhyNmc0S2hZV3dZVkFRbG84aWhKY3FGY1JoUU4wT1QwSm1WUWhUeDgybkFVRVlXTjVFb09FbVBrUFpaRlFDVDhxdTYyNmc?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T02:21:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Caitlin Clark to miss the rest of the Fever’s season because of a right groin injury - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX081RWlPSWk3c25qZFZRYV9JaGptV0lxTU1Wd3lVb2VPenNqTTBRay1FMC1kd0RGcXVQVGtvZVRxYjZFQUhHSlBZWF90MEVwQ2VERzd0TDQ1TEJGU1ZBeXVwelRqbkU2blRoWWNRMFk5UWJsc3VXSjM0M2xmbXZhb1h2RHJONWdtOENzTlVuejU?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T01:57:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Daughter of Nazi officer who stole 'Portrait of a Lady' and her husband charged with cover-up - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcGVSRmxkWjhscnY3eTZxWDBFUHJOTk1rM1o2dktBNWFSbGpLRTlvWnd5dEVYbzhUYUpmOElRQ0hQaUpqQ1dXdG9BYXdpNUk4cDFZNC1UTUk3RnA5OEVEUXZWRTgwamNqZHRoXzVhZXVrb2xoUVRIQzNLTDJpY29XY3A4VDRKaDdkd3JHdF9Tc2l1VmtTMVQtMlR2WS1WS1JldEtzU1ZyMDlXR0FRNUdwUGdJSkp3Y0I3NHlSVWwwMDg3SlNnTlZnSDR3?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T01:53:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Jury convicts Florida matriarch in murder-for-hire killing of her former son-in-law - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT1NXb2ppWTZMeUd5SUdRd3JDb0hmMVdDalh1bFpuRmctbXRDc1l5cWFaTzJhSl9yYWpyZUJOVWRVdFNWUTBvVzNOOGVqM1c5eTdobnozaEV6b3BkRzNTZHpvSTlUM3ZydF9DWWdHMUNuZGMxbC1JbXF4Ml81TEZBOGhEZ2tvV0hGdkUwM3QxMkZybTV4Q2F6Nlh1bFdEQQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T00:44:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Trump admin ditches Biden-era plan to make airlines pay compensation for flight disruptions - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORlJ5LUFWT0ZWR08wOFEzOHBObzBYWFZsRFIwQWpXUVdXR1FhbHNQcTVCTlEwd1ZQRWR3czVpRC0xUW1sTDBfM0FodXk5Q0NFbERxQjlYQ3YyZzNzUFZ2VVhNUk9EeTJ1NHo3cGlVNjZUaVZRWVZRaDY5Qk0xNm9UdmpUX2pibUpFMFZkV2xQMkZfZWg1bmlSTlprcWlZOE1NVnc?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T00:39:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Body of missing man found in truck revealed by Lake Powell’s low water level - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd1FxX1BwNzdFMy0yU1IyU3ZHN1JWT3lfUTlPTXhUTWJPMENFNndKZ05UdXhnXzQzMmJTY3NHeXFrUm5qS1A5eXRfWjE1M2YxUjA5Vk5ScUpvckNVdVU4aVdBQ3dPNHFuUDJOZ0RmRk9KMVRpTUNvczZhZGVNNi0yYk1lTlF2dGR2bXlac3N6TV9ldTRjV2dUV3VpYXZnWC1NUUlkRQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T00:30:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Inter Miami's Luis Suárez apologizes for on-field antics after Leagues Cup final loss to Seattle - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa19rSGJNYjVWbVFaV3M0bXFwZDAxRG1oZjhaNURYYkZfbi1Ib3JBd3VWVWIzYnE5MTE4VURDVmNZM3BmYVFuZXZmWFdkQWtHNXNKODcwWGNuNXcyczF1N29iXy1nNjV6aEI4NFpyVGxONVVGbEJXR2hUMElyR0xrY0RxN0xfS0JzVmIwRXV0bUUxVG84T0Y3N0x1b0htTHFEd0E?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T00:17:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       }
     ],
@@ -1246,15 +1552,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Putin says foreign troops deployed to Ukraine would be legitimate targets - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVpPMmdRWFctTW5wbDhuSEs0WGplTzhOVFBwU3NGUktYLUxVd0ljc182N1B2WGgtbGdObXdZZXhOWEEyYnJNZXJHamJhNGlxWWE2bXpYUnRVdlZ5aFdnY2ctSW1tNDJxcjQ1Y0VGVEUxcmVyRDMtUmFaSUI4V3hySC1vQ1NHRi03UXhiR2FmUm5DbXVBZHFSdU5ac0NVbDBiWHFzOHpQdWR3Sk1IUmYzUUhn?oc=5",
-        "description": "",
-        "pubDate": "2025-09-05T13:16:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Prestigious painting prize picks youngest ever winner",
