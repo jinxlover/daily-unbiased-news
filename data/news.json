@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-05T13:34:47.074805Z",
+  "lastUpdate": "2025-09-05T13:46:54.519766Z",
   "news": {
     "Gaming": [
       {
@@ -27,6 +27,15 @@
         "pubDate": "2025-09-05T13:16:30Z",
         "source": "yassinola.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMDUxMjMxLnBuZw==/315x250%23c/oHfzq5.png",
+        "bias": 0
+      },
+      {
+        "title": "HeiGameBox - Sprummetr [Free] [Other]",
+        "link": "https://hei-games-studio.itch.io/sprummetr",
+        "description": "",
+        "pubDate": "2025-09-05T13:12:23Z",
+        "source": "hei-games-studio.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDUxMTMyLnBuZw==/315x250%23c/SodamU.png",
         "bias": 0
       },
       {
@@ -192,21 +201,21 @@
         "bias": 0
       },
       {
-        "title": "Breakout [Free] [Action] [Windows]",
-        "link": "https://gaelletim.itch.io/breakout",
-        "description": "",
-        "pubDate": "2025-09-05T11:47:57Z",
-        "source": "gaelletim.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDUwMzE3LnBuZw==/315x250%23c/ZmK1iB.png",
-        "bias": 0
-      },
-      {
         "title": "Celeste SNES demake [Free] [Platformer]",
         "link": "https://john-smit.itch.io/celeste-snes-demake",
         "description": "Demake of the Pico-8 Classic",
         "pubDate": "2025-09-05T11:39:39Z",
         "source": "john-smit.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMDUwMjc0LnBuZw==/315x250%23c/fV6c5%2F.png",
+        "bias": 0
+      },
+      {
+        "title": "Escape Line demo [Free] [Visual Novel]",
+        "link": "https://momomogos.itch.io/escape-line-demo",
+        "description": "Surviving on a desert island, listening to chimera: a deal with a siren.",
+        "pubDate": "2025-09-05T09:47:57Z",
+        "source": "momomogos.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDUwNjI4LnBuZw==/315x250%23c/UsptCK.png",
         "bias": 0
       },
       {
@@ -239,6 +248,24 @@
     ],
     "World": [
       {
+        "title": "South Koreans detained in ICE raid at Hyundai electric vehicle site in Georgia",
+        "link": "https://www.bbc.com/news/articles/cj6xe5d6103o?at_medium=RSS&at_campaign=rss",
+        "description": "The raid has sparked an angry response from South Korea which called it an unjust infringement of people's rights.",
+        "pubDate": "2025-09-05T13:41:16Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb3e/live/fd3be4b0-8a46-11f0-9cf6-cbf3e73ce2b9.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Israel is blasting through Gaza City neighborhoods, but people have nowhere to go",
+        "link": "https://www.npr.org/2025/09/05/g-s1-86628/gaza-city-israel-offensive",
+        "description": "Israel's military says it has gained \"operational control\" of 40% of Gaza City and plans to intensify its attacks in a large-scale ground offensive to fully occupy the city.",
+        "pubDate": "2025-09-05T13:39:34Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Lisbon funicular worker among those killed in crash",
         "link": "https://www.bbc.com/news/articles/cnvryg271ymo?at_medium=RSS&at_campaign=rss",
         "description": "Four employees of a non-profit organisation and a transport worker are among those who died.",
@@ -252,6 +279,24 @@
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlMGxaNVJfSHR6U1p0Z2RodXhHMGhoT1lyOVIzbUJEa1hPWUVkbVdoTlE3TFFvdVg4djMycXhqSDM2VGY5VG1VaHoteGZRNU1HempsNGx0dW9WS1NWVldTSm9VNE9oX3QzaVE?oc=5",
         "description": "",
         "pubDate": "2025-09-05T13:19:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Dissenting civil servants are silenced, says UK diplomat who quit over Gaza",
+        "link": "https://www.aljazeera.com/news/2025/9/5/dissenting-civil-servants-are-silenced-says-uk-diplomat-who-quit-over-gaza?traffic_source=rss",
+        "description": "Mark Smith resigned last August over the UK's failure to stop selling arms to Israel.",
+        "pubDate": "2025-09-05T13:18:17Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Stocks are higher and bond yields are lower as weak jobs report helps case for rate cut - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMnZwVDkzYzhxeXpGZk1OZm1QTmFxbEJLMVpZTUpYZnhzNjMzaE1BczhGRDVBdU1KbHhsTlR6dUtzM1RnR3BIVHNhanpJeEp4cFE4MEdqT2ZOeTI0SThNN18tUHh3Y0dGdlh1MFdMdk04X3dDNTNtMjNsQnpvQjZ1QldKMlFPd21EUmZGSkpMV1lnT2kxU2RLS29OR2ZoTmc?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T13:13:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -311,15 +356,6 @@
         "bias": -1
       },
       {
-        "title": "South Koreans detained in ICE raid at Hyundai electric vehicle site in Georgia",
-        "link": "https://www.bbc.com/news/articles/cj6xe5d6103o?at_medium=RSS&at_campaign=rss",
-        "description": "The raid has sparked an angry response from South Korea which called it an unjust infringement of people's rights.",
-        "pubDate": "2025-09-05T12:02:38Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb3e/live/fd3be4b0-8a46-11f0-9cf6-cbf3e73ce2b9.jpg",
-        "bias": 0
-      },
-      {
         "title": "FAST to retain power after Samoan election victory confirmed",
         "link": "https://www.aljazeera.com/news/2025/9/5/fast-to-retain-power-after-samoan-election-victory-confirmed?traffic_source=rss",
         "description": "While incumbent held on to power, the Polynesian island nation will have a new PM: Laaulialemalietoa Leuatea Schmidt.",
@@ -345,6 +381,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Sikh truckers see spike in anti-immigrant vitriol after deadly Florida crash - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMUdqTEZkNHpqTzl1QVZwX2JXTkZFX1hmYzE0NjJtX2o4a0FJQS1ncUNlSWJhSWxUQ0FweU0yUzJOWXNDaUl1MW5Pb1dVWWJEQlJpSG1KWXF3b3VPRUF6dHUxbUk1cWUwM0hCSjJveDh1OS1jV25lR1l2VF9wWlhxYjhUdERWQ2F4a2FiTGl0OGNaeHBlbWJ3YW1kOFVpWGlTeUNBTzU4NFl5OE0?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T11:05:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Australian parties all “very tough” on asylum seekers",
@@ -473,6 +518,15 @@
         "bias": -1
       },
       {
+        "title": "As summers grow deadlier, here’s what to know about utility shutoffs - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUnVBekhra2tEdk82Z3luNmV6UlQ3LUJod21oUm5HTWdIWGVGN2twVFFhRGhkc0Y1RzlhNHhTQ3B0SGdlcEs3elNYa1F1ajNpdG5QY2t3NE1TNFBBWmtlbXkzbm1pTFpYVVpTYzY0WnVpYW5PMGFXdzY1WVd3Qy1zQko0SzJ0dktFUWtpNmViZHFtWVkzczQ0YWFaanRTcEF6WHllQ3FEN3BOVU5q?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T10:06:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Ned is a perfectly nice snail, but a rare shell means a doomed love life - AP News",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbUVubzAyZ3JsMjFmOUhwNkxKX1NSSW8wVE53MUtsXzR0RGM2ZnNQTWdsMXdVZ2pmNHdiRFN4QTFHYVcwLW1XTEhGOHZHWG1FYk83OE1JYUJ1MnJqX0xFbkRPTi11dkxVMFBOSVluNzZfemszanBTYzFVVl9aZ3FMeWtraWFDeTl2V3FKWnEyblhocjQ0aFhxTw?oc=5",
         "description": "",
@@ -498,15 +552,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "World shares climb after another Wall Street record and hopes for cuts to U.S. interest rates - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMnZwVDkzYzhxeXpGZk1OZm1QTmFxbEJLMVpZTUpYZnhzNjMzaE1BczhGRDVBdU1KbHhsTlR6dUtzM1RnR3BIVHNhanpJeEp4cFE4MEdqT2ZOeTI0SThNN18tUHh3Y0dGdlh1MFdMdk04X3dDNTNtMjNsQnpvQjZ1QldKMlFPd21EUmZGSkpMV1lnT2kxU2RLS29OR2ZoTmc?oc=5",
-        "description": "",
-        "pubDate": "2025-09-05T09:12:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Former Israeli negotiator on Israel's settlement plan in the West Bank",
@@ -651,42 +696,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Osaka knocked out of US Open; Sabalenka to play Anisimova in final",
-        "link": "https://www.aljazeera.com/sports/2025/9/5/osaka-knocked-out-of-us-open-sabalenka-to-play-anisimova-in-final?traffic_source=rss",
-        "description": "Reigning champ Aryna Sabalenka beat Jessica Pegula while Amanda Anisimova upset Naomi Osaka to make first US Open final.",
-        "pubDate": "2025-09-05T05:34:52Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "102-year-old becomes the oldest person to summit Mount Fuji - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMm5rUlo4UkR2VVBhUlZmOVdWQzBwcDhTUGJNdzJORElNcTBrRW1iR2F2U3JORGlHeTVlNGpMLVdCYS1oNVIwZVEzdEh0STNsOXkxMUJ3Z1BCbXhUZWRfQlpORzFpU3NaaWEta3dGNU9YOEwwdTRXRmpVa3VxY2JZVVV0cGEtSlI4UjQtNV9RYlVvSl9ody1rejl3?oc=5",
-        "description": "",
-        "pubDate": "2025-09-05T05:26:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Julia Roberts, Anna Wintour, Ralph Lauren and more pay tribute to Giorgio Armani - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa29PekxPSWZiOTJYWUY0OFMyd1duODhROTBfUFQ1aDVoVTBGYUUxWDJJbjN4cEpUd3lrcWhTZ1lnUFRLWDNZeXcxME5oNDhka2xDU2JUbjlNNUFid1pvbTZaSDJhZVVVUGROWTN5dTJINkNiNG1HczhFSnZYWExKcWJJZkxsbnJ4T0puczRhXzNxdw?oc=5",
-        "description": "",
-        "pubDate": "2025-09-05T05:15:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Has India ‘weaponised water’ to deliberately flood Pakistan?",
-        "link": "https://www.aljazeera.com/news/2025/9/5/has-india-weaponised-water-to-deliberately-flood-pakistan?traffic_source=rss",
-        "description": "Pakistan blames India for floods that have killed hundreds, but experts urge focus on climate change.",
-        "pubDate": "2025-09-05T04:39:55Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
@@ -697,6 +706,15 @@
         "pubDate": "2025-09-05T13:15:11Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55d1/live/741795b0-8a43-11f0-b391-6936825093bd.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Israel strikes Gaza City high-rise building while ramping up offensive to take over the area - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ2w4SUNfRlpFVHo5RFZmUEdYdEtqVWpJQU1WNkNadUFPVlExbXZ3aVZWMmlSSVdoSHI4Z1RMbmJUSGQ2N3dxMzFZZnZkXzZMSkJvOGd2QVA3VC1LT0E5bk1xOThzWmhJR3k5Ukl2aG1NeDF2WWZ3X2pYeUlLbkxpeGVEemxpemxqWW05OHhTcWRCTkNSQ2UxeFc5Yi1lSEdRNkdvTkpObWg?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T12:58:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -844,6 +862,15 @@
         "bias": 0
       },
       {
+        "title": "Thailand's former Prime Minister Thaksin makes surprise departure ahead of a risky court ruling - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeklQRHc3TmdTUzhMT3dMSXItb1kyQUUzT0VQYnNmcHM5UG43N0NXazhRNjloQ2g4SzVwaEVIdjZjTlJKS3FyUVl5dFh0Nkg2a1J3ekllRDdfZHk4bzZYODJodjVlWXBnc1puOFAyVHNNdlN0SWhuWTIwRXhselBBZEJtODdITFdXVUhfS2VST3gxMjRmbGx3UUZSbWtRU0dWb09XR2UxV0gyZHdYU0ZiNDV4blV1ZHdZ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T04:04:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "President Trump plans to rename the Defense Department as the Department of War",
         "link": "https://www.npr.org/2025/09/04/nx-s1-5529420/trump-department-of-war-department-of-defense",
         "description": "The change would return the department to a name that it carried for much of its history, until it became the Department of Defense in the wake of World War II.",
@@ -860,9 +887,38 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "Telescope reveals a growing tail on the comet that’s visiting from another star - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbXB0djF3bFVFMFpCXy1abW9hdDdKVWN1UTR6b1lJM3Qtam9FLVJyeVpTRDlOZ1dqVlB2SXlsWGNWQkJ5TEUydFdqV082UDZpYXNFNjdocUVvdlpJMmZyZmdiVlpSZFA4X0owNExuZXlTdGx5NzFJTExCUmVCLWl2RERPbjNaSlJSZ2pDSXRkeURTSWZUamx5V2RMSkprU0lSX2tV?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T00:36:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Tech": [
+      {
+        "title": "Trump hosts biggest names in tech at White House dinner",
+        "link": "https://www.npr.org/2025/09/05/nx-s1-5529377/trump-hosts-biggest-names-in-tech-at-white-house-dinner",
+        "description": "Some of the biggest names in tech dined with President Trump at the White House Thursday night, as the administration pursues lawsuits against Silicon Valley companies.",
+        "pubDate": "2025-09-05T09:08:57Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Gamers frustrated as Hollow Knight: Silksong crashes stores on launch",
+        "link": "https://www.bbc.com/news/articles/ckgejpxzepko?at_medium=RSS&at_campaign=rss",
+        "description": "Social media users also struggle to grab the game on the Nintendo, PlayStation and Xbox game stores.",
+        "pubDate": "2025-09-05T03:27:29Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d305/live/d4dbcc00-89ac-11f0-978f-c724dfaf4309.png",
+        "bias": 0
+      }
+    ],
+    "Science": [
       {
         "title": "What to know about the streetcar derailment in Lisbon - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRkIxenlBZENrMU5OaThEcFNva3hwMUFqVEtua0JzenNPQzVseGJ6NVRnSW5nRE9ld0FCbjVYMlh6SlpTZFJzemMwR0lnV2djWEhRcmE4czJUbHpISzZIbDBhcVFiblpkRTRFMjJDM0lqYk9CdXhtcEtoRGFsWWhrUk5XZlZnMC1PcFdsT1RDZ0hlVjJmcjFmVVE2NjRTTnY3UEZTWnlwVF9SZnc?oc=5",
@@ -882,98 +938,6 @@
         "bias": 0
       },
       {
-        "title": "China to impose preliminary anti-dumping duties on pork from EU - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPby1RMERFblR6WjFQU1otbWNTNXNRc2lZRWU4ajFIMXJPNWdBNEduZzJkQkJsaWNUd2FhVllNTlZxekRidW5LMTU2dnFyd1ZnYndycWlVOGpYRHpDSmlmTlRid1A0bW5uaFZ3T1B6Y1dtUEZlSTNjRUtUaGxRLUJLVEh2aXd5eHdYY2F2VDU2NkVGVXM?oc=5",
-        "description": "",
-        "pubDate": "2025-09-05T10:06:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Trump hosts biggest names in tech at White House dinner",
-        "link": "https://www.npr.org/2025/09/05/nx-s1-5529377/trump-hosts-biggest-names-in-tech-at-white-house-dinner",
-        "description": "Some of the biggest names in tech dined with President Trump at the White House Thursday night, as the administration pursues lawsuits against Silicon Valley companies.",
-        "pubDate": "2025-09-05T09:08:57Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Australian friends claim world record for longest beach touch rugby game - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVHEtUzJIOTFrd0VtMTZYelVwWUd3N0hZM0pZREVrS3o3X2hKQUpFbTBmUTBkMEs1N1lHZ0duUEcxQS1ESHpfc1ZvZGxkZlhPby1KSHRnT2VTWW95eFYyMFo0NkJhUDlXeUFVWlJXbTdGci12RXpOUVZ5cURPalg4SnU4Y3FqVmM4X1JNdTZTb1NSMnBKZGw5VGtuV1JPT3ZLMU42OTRjRzlSa28?oc=5",
-        "description": "",
-        "pubDate": "2025-09-05T07:15:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Thailand's former Prime Minister Thaksin makes surprise departure ahead of a risky court ruling - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeklQRHc3TmdTUzhMT3dMSXItb1kyQUUzT0VQYnNmcHM5UG43N0NXazhRNjloQ2g4SzVwaEVIdjZjTlJKS3FyUVl5dFh0Nkg2a1J3ekllRDdfZHk4bzZYODJodjVlWXBnc1puOFAyVHNNdlN0SWhuWTIwRXhselBBZEJtODdITFdXVUhfS2VST3gxMjRmbGx3UUZSbWtRU0dWb09XR2UxV0gyZHdYU0ZiNDV4blV1ZHdZ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-05T04:04:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Gamers frustrated as Hollow Knight: Silksong crashes stores on launch",
-        "link": "https://www.bbc.com/news/articles/ckgejpxzepko?at_medium=RSS&at_campaign=rss",
-        "description": "Social media users also struggle to grab the game on the Nintendo, PlayStation and Xbox game stores.",
-        "pubDate": "2025-09-05T03:27:29Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d305/live/d4dbcc00-89ac-11f0-978f-c724dfaf4309.png",
-        "bias": 0
-      },
-      {
-        "title": "Trump to attend the US Open men's final Sunday, marking another trip to a major sporting event - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOajBNLUw0bkd0REFKNklfcUZmWDF1YVZFVVYwRUdMYU1xS1BxS19hb19YY3psbjBoa1d0WkZ6Z1Q3dVFiNzN6c1hHLThSMWduenU1YnVZYmwwNktWOWFhdkcxVVVUNEtXTVREMm1pQk96RVJWMFlOQ0lMRWQwVTVyYzRJTHNmRXBlcmFNSklMaDF1UTB3UmpKVDBGSHNXVEFE?oc=5",
-        "description": "",
-        "pubDate": "2025-09-05T02:39:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Nepal blocks Facebook, X, YouTube and others for failing to register with the government - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSTNEZXhDdHQ3Q1RUQ2JVOEd5M1JHWjFLYjZUUkVQY1h2Nmg2b0ZKSE1YbWtVMDRXdm83WDdxUkJQWkZrbVNINjJ0ZS1QalJDNV9XbGV3dkdJRGszMzJVdGtBUU5MWWgzLS1EUHR1LUExLVlvblhiQXhSWmZoMG1OZ0tLb1BSZUJRVDZaUlRlaDVtWDVRVXc?oc=5",
-        "description": "",
-        "pubDate": "2025-09-05T01:38:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Trump says Zohran Mamdani likely to be New York's next mayor unless 2 of his opponents quit the race - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZXB3Y0hRTm81ZHpmWk5Kblh4MjlBUXlGRFZNSzZ0cG1LbDc2N2RqUUR1bS1RVkpORUo0emZMal9WM2NVTlJYZUU3Vmo2NTdKc1BiQlVjbzRKTlNVaUJfck1YdGFTamZfclY0LVg0NWhLSG1KcVFTV3lZYTlScjZWZVJhT0RBWlA1Z3l5ZGhJd0lsR1VmZGdYS0s5eUlOb1E?oc=5",
-        "description": "",
-        "pubDate": "2025-09-05T00:55:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Body of missing man found in truck revealed by Lake Powell’s low water level - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd1FxX1BwNzdFMy0yU1IyU3ZHN1JWT3lfUTlPTXhUTWJPMENFNndKZ05UdXhnXzQzMmJTY3NHeXFrUm5qS1A5eXRfWjE1M2YxUjA5Vk5ScUpvckNVdVU4aVdBQ3dPNHFuUDJOZ0RmRk9KMVRpTUNvczZhZGVNNi0yYk1lTlF2dGR2bXlac3N6TV9ldTRjV2dUV3VpYXZnWC1NUUlkRQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-05T00:30:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Inter Miami's Luis Suárez apologizes for on-field antics after Leagues Cup final loss to Seattle - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa19rSGJNYjVWbVFaV3M0bXFwZDAxRG1oZjhaNURYYkZfbi1Ib3JBd3VWVWIzYnE5MTE4VURDVmNZM3BmYVFuZXZmWFdkQWtHNXNKODcwWGNuNXcyczF1N29iXy1nNjV6aEI4NFpyVGxONVVGbEJXR2hUMElyR0xrY0RxN0xfS0JzVmIwRXV0bUUxVG84T0Y3N0x1b0htTHFEd0E?oc=5",
-        "description": "",
-        "pubDate": "2025-09-05T00:17:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      }
-    ],
-    "Science": [
-      {
         "title": "Why solar flares are way hotter than researchers thought",
         "link": "https://www.npr.org/2025/09/05/nx-s1-5529330/solar-flares-even-hotter",
         "description": "The hottest parts of the sun are its solar flares, and a new study suggests these flares could be more than six times hotter than scientists used to believe.",
@@ -981,6 +945,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "China to impose preliminary anti-dumping duties on pork from EU - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPby1RMERFblR6WjFQU1otbWNTNXNRc2lZRWU4ajFIMXJPNWdBNEduZzJkQkJsaWNUd2FhVllNTlZxekRidW5LMTU2dnFyd1ZnYndycWlVOGpYRHpDSmlmTlRid1A0bW5uaFZ3T1B6Y1dtUEZlSTNjRUtUaGxRLUJLVEh2aXd5eHdYY2F2VDU2NkVGVXM?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T10:06:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "'One and done' dose of LSD keeps anxiety at bay",
@@ -1010,19 +983,64 @@
         "bias": 0
       },
       {
-        "title": "Pro Picks: Bills will defeat the Ravens in a playoff rematch - AP News",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92QUpIZ3J4eTNXcTEycTNaLU5ZakVKYnpCQ1lHLVl4QkRkWVd3alpROExlOEJmb1JfX3BvYjBCMlg0ZHgzd1pURS1KNUxzcy1INzIydDMzcS02Q0lCTjRGdzB3dTZsRVFyQXJLR2VMTXg4Sk11N3IzSFR4dzFsUGM?oc=5",
+        "title": "Australian friends claim world record for longest beach touch rugby game - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVHEtUzJIOTFrd0VtMTZYelVwWUd3N0hZM0pZREVrS3o3X2hKQUpFbTBmUTBkMEs1N1lHZ0duUEcxQS1ESHpfc1ZvZGxkZlhPby1KSHRnT2VTWW95eFYyMFo0NkJhUDlXeUFVWlJXbTdGci12RXpOUVZ5cURPalg4SnU4Y3FqVmM4X1JNdTZTb1NSMnBKZGw5VGtuV1JPT3ZLMU42OTRjRzlSa28?oc=5",
         "description": "",
-        "pubDate": "2025-09-05T04:30:00Z",
+        "pubDate": "2025-09-05T07:15:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Girls fell behind boys in math during the pandemic. Schools are trying to make up lost ground - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX0YzS0NxOUhLVVhtOVZhRWlEZ3RMY1pncDd0bF9nMDk1QXI1YnFtMkxJWEJXLVFWN0dHZzFOWHRTQ3czQlE2RUNsZFR1MzYwTjR2NzBLZDhpNXloVWNYRmJuMHF0TTJZMVdQcXhBalZnamd2Z2ZpaEs2dzZSeWZmeG5lUUoxT1o4RkJr?oc=5",
+        "title": "Trump to attend the US Open men's final Sunday, marking another trip to a major sporting event - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOajBNLUw0bkd0REFKNklfcUZmWDF1YVZFVVYwRUdMYU1xS1BxS19hb19YY3psbjBoa1d0WkZ6Z1Q3dVFiNzN6c1hHLThSMWduenU1YnVZYmwwNktWOWFhdkcxVVVUNEtXTVREMm1pQk96RVJWMFlOQ0lMRWQwVTVyYzRJTHNmRXBlcmFNSklMaDF1UTB3UmpKVDBGSHNXVEFE?oc=5",
         "description": "",
-        "pubDate": "2025-09-05T04:05:00Z",
+        "pubDate": "2025-09-05T02:39:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Nepal blocks Facebook, X, YouTube and others for failing to register with the government - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSTNEZXhDdHQ3Q1RUQ2JVOEd5M1JHWjFLYjZUUkVQY1h2Nmg2b0ZKSE1YbWtVMDRXdm83WDdxUkJQWkZrbVNINjJ0ZS1QalJDNV9XbGV3dkdJRGszMzJVdGtBUU5MWWgzLS1EUHR1LUExLVlvblhiQXhSWmZoMG1OZ0tLb1BSZUJRVDZaUlRlaDVtWDVRVXc?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T01:38:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Somalis defy militants with processions to mark Prophet Muhammad’s birthday - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVHFjSVVoN2lhc0tEUmRXR1J5UGV2aElFZ1ZEX01wT3MtNHBZWGhIdlk1YnRzSnViOGp5bzhQbGcwdHBIRWxjMEVKdUFxQzZBYXRrYllWaExYaEdKekJGMnJZR0thNHJzajlxajFualExZDkxMElnMk05UFl3bmltZjExQTUwaTQ4YnBwYVN4aGE?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T01:18:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Trump says Zohran Mamdani likely to be New York's next mayor unless 2 of his opponents quit the race - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZXB3Y0hRTm81ZHpmWk5Kblh4MjlBUXlGRFZNSzZ0cG1LbDc2N2RqUUR1bS1RVkpORUo0emZMal9WM2NVTlJYZUU3Vmo2NTdKc1BiQlVjbzRKTlNVaUJfck1YdGFTamZfclY0LVg0NWhLSG1KcVFTV3lZYTlScjZWZVJhT0RBWlA1Z3l5ZGhJd0lsR1VmZGdYS0s5eUlOb1E?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T00:55:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Body of missing man found in truck revealed by Lake Powell’s low water level - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd1FxX1BwNzdFMy0yU1IyU3ZHN1JWT3lfUTlPTXhUTWJPMENFNndKZ05UdXhnXzQzMmJTY3NHeXFrUm5qS1A5eXRfWjE1M2YxUjA5Vk5ScUpvckNVdVU4aVdBQ3dPNHFuUDJOZ0RmRk9KMVRpTUNvczZhZGVNNi0yYk1lTlF2dGR2bXlac3N6TV9ldTRjV2dUV3VpYXZnWC1NUUlkRQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T00:30:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Inter Miami's Luis Suárez apologizes for on-field antics after Leagues Cup final loss to Seattle - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa19rSGJNYjVWbVFaV3M0bXFwZDAxRG1oZjhaNURYYkZfbi1Ib3JBd3VWVWIzYnE5MTE4VURDVmNZM3BmYVFuZXZmWFdkQWtHNXNKODcwWGNuNXcyczF1N29iXy1nNjV6aEI4NFpyVGxONVVGbEJXR2hUMElyR0xrY0RxN0xfS0JzVmIwRXV0bUUxVG84T0Y3N0x1b0htTHFEd0E?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T00:17:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
