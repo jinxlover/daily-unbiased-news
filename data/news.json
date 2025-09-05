@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-05T07:45:57.914790Z",
+  "lastUpdate": "2025-09-05T07:56:43.718222Z",
   "news": {
     "Gaming": [
       {
@@ -237,15 +237,6 @@
         "bias": 0
       },
       {
-        "title": "UMBRELLA [Free] [Other]",
-        "link": "https://divertigos.itch.io/umbrella",
-        "description": "",
-        "pubDate": "2025-09-05T03:43:03Z",
-        "source": "divertigos.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDQ2ODY1LnBuZw==/315x250%23c/zwirpx.png",
-        "bias": 0
-      },
-      {
         "title": "Let's Drink Horror [Free] [Interactive Fiction] [Windows]",
         "link": "https://ravis-world.itch.io/lets-drink-horror",
         "description": "Make a very special death drink.",
@@ -282,6 +273,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "World News: Top & Breaking World News Today - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1PRFY2SmRjOGtzcEdoNlUzaU5aR2c4MnhydnlTTm9ZR3lOaEFNbzVhZGd3Zmh2S0IySTVERXRBX3pfTjA?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T06:44:33Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "US Department of Defense to be renamed ‘Department of War’: Report",
@@ -493,55 +493,6 @@
         "bias": 0
       },
       {
-        "title": "A Democrat governor, a Republican legislature: How Josh Stein is navigating North Carolina politics - AP News",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQN0U5a0I0bzJrdHVUZVp6dkpYWU9nRFdOOTBGRjVFZ254dmNfbW5NQ0Fja1ZXWWNmcWFpUmo2blYtTGt2OTlXU3NkN0QtdGNNZExyUlZVRDJ3bDNhV2JyazVNaUFXOEpFUXNOMUlZODhESDdEQ2pFa2V5SzlMbjFyRTMtenU3c2NjNnhfdWd3NzlzZWhETGppSmpyOE1aTWtVZDBodnJTM0ZoVUlPZWtsbnhsVnJkTFJuUWNoc0ZGODYwRVdVd0tIazlKdFF5SEh5R2Q1aVM0SGY2MURkVEpELTYxNjNNM080U2hR?oc=5",
-        "description": "",
-        "pubDate": "2025-09-05T04:07:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "President Trump plans to rename the Defense Department as the Department of War",
-        "link": "https://www.npr.org/2025/09/04/nx-s1-5529420/trump-department-of-war-department-of-defense",
-        "description": "The change would return the department to a name that it carried for much of its history, until it became the Department of Defense in the wake of World War II.",
-        "pubDate": "2025-09-05T02:18:13Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      }
-    ],
-    "Tech": [
-      {
-        "title": "Gamers frustrated as Hollow Knight: Silksong crashes stores on launch",
-        "link": "https://www.bbc.com/news/articles/ckgejpxzepko?at_medium=RSS&at_campaign=rss",
-        "description": "Social media users also struggle to grab the game on the Nintendo, PlayStation and Xbox game stores.",
-        "pubDate": "2025-09-05T03:27:29Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d305/live/d4dbcc00-89ac-11f0-978f-c724dfaf4309.png",
-        "bias": 0
-      },
-      {
-        "title": "Portuguese investigators search for cause of Lisbon streetcar crash that killed 16 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN1J1a2V6bm9SeEZ3MC1lV0hjZ2FmNm9HQUYtSHF1V2twaENJLTlmcjFRN1NoT3N3UkdwSG9IanY4LUVWT3p0MVVPd0V0Z09VVFdEVHlVcndFYkt3YmFZNnFIb3l3TWtZREdhSnc2RUVYTlduWmIwT09CR0hSWDI0TU9PVVZ6T3dYamo4aG0wTkIzZFY5bmt3SEpqaGZyWi1yM1MwM21qVQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-05T01:22:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      }
-    ],
-    "Science": [
-      {
-        "title": "How to see Sunday's 'Blood Moon' total lunar eclipse",
-        "link": "https://www.bbc.com/news/articles/c8739rrez23o?at_medium=RSS&at_campaign=rss",
-        "description": "A total lunar eclipse will be visible from the UK on Sunday evening, weather permitting.",
-        "pubDate": "2025-09-05T07:36:36Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e02e/live/5274e560-67cb-11f0-bdb3-2fec70b719ae.jpg",
-        "bias": 0
-      },
-      {
         "title": "Defending champion Eagles edge Cowboys 24-20 in wild, lightning-delayed NFL season opener - AP News",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRXZKT2JIWVh5cXk4bnpwSExpd3UtanRKTlJLaDVjaWsxWjlENTY2ejM5NkJkMjltSWwxY2pBeVh1RE1CdlV0a0RFTzZWblBDNXlLX3g1ZVBLbWdVd3FMVW1YOXVfXzZXUmNMb2pTalB6VlRXUnA2cGY5aGZEUm54aW1kbVhlbVk?oc=5",
         "description": "",
@@ -605,6 +556,15 @@
         "bias": 0
       },
       {
+        "title": "President Trump plans to rename the Defense Department as the Department of War",
+        "link": "https://www.npr.org/2025/09/04/nx-s1-5529420/trump-department-of-war-department-of-defense",
+        "description": "The change would return the department to a name that it carried for much of its history, until it became the Department of Defense in the wake of World War II.",
+        "pubDate": "2025-09-05T02:18:13Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "US designates 2 more gangs in Latin America as foreign terrorist groups - AP News",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQko0dVZtT3J0YTR4c0x1OVgyYm1xM0NiNHZHNHFDZGRCUVlYd0N3YXFMZUFvc2lyRXhtTFMycGdORVJZaklKSUtDbFZqeVc2Y240Q2c4ZTJueEVOeGdmZGIxaklqUEtoTGtGVmpwV1JtRjRnZEdBTzhDZWdLM2R0NnlBaFl3dWJfRzhXZEtEVjhaRS1rWW5FLXQ5eGpRb2VkV2xDbTFwMWh0b0VxQllSVA?oc=5",
         "description": "",
@@ -659,6 +619,15 @@
         "bias": 0
       },
       {
+        "title": "Portuguese investigators search for cause of Lisbon streetcar crash that killed 16 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN1J1a2V6bm9SeEZ3MC1lV0hjZ2FmNm9HQUYtSHF1V2twaENJLTlmcjFRN1NoT3N3UkdwSG9IanY4LUVWT3p0MVVPd0V0Z09VVFdEVHlVcndFYkt3YmFZNnFIb3l3TWtZREdhSnc2RUVYTlduWmIwT09CR0hSWDI0TU9PVVZ6T3dYamo4aG0wTkIzZFY5bmt3SEpqaGZyWi1yM1MwM21qVQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-05T01:22:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Trump says Zohran Mamdani likely to be New York's next mayor unless 2 of his opponents quit the race - AP News",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZXB3Y0hRTm81ZHpmWk5Kblh4MjlBUXlGRFZNSzZ0cG1LbDc2N2RqUUR1bS1RVkpORUo0emZMal9WM2NVTlJYZUU3Vmo2NTdKc1BiQlVjbzRKTlNVaUJfck1YdGFTamZfclY0LVg0NWhLSG1KcVFTV3lZYTlScjZWZVJhT0RBWlA1Z3l5ZGhJd0lsR1VmZGdYS0s5eUlOb1E?oc=5",
         "description": "",
@@ -701,6 +670,28 @@
         "pubDate": "2025-09-05T00:30:00Z",
         "source": "news.google.com",
         "image": "",
+        "bias": 0
+      }
+    ],
+    "Tech": [
+      {
+        "title": "Gamers frustrated as Hollow Knight: Silksong crashes stores on launch",
+        "link": "https://www.bbc.com/news/articles/ckgejpxzepko?at_medium=RSS&at_campaign=rss",
+        "description": "Social media users also struggle to grab the game on the Nintendo, PlayStation and Xbox game stores.",
+        "pubDate": "2025-09-05T03:27:29Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d305/live/d4dbcc00-89ac-11f0-978f-c724dfaf4309.png",
+        "bias": 0
+      }
+    ],
+    "Science": [
+      {
+        "title": "How to see Sunday's 'Blood Moon' total lunar eclipse",
+        "link": "https://www.bbc.com/news/articles/c8739rrez23o?at_medium=RSS&at_campaign=rss",
+        "description": "A total lunar eclipse will be visible from the UK on Sunday evening, weather permitting.",
+        "pubDate": "2025-09-05T07:36:36Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e02e/live/5274e560-67cb-11f0-bdb3-2fec70b719ae.jpg",
         "bias": 0
       }
     ],
