@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-09-06T07:27:38.228602Z",
+  "lastUpdate": "2025-09-06T07:39:36.070197Z",
   "news": {
     "Gaming": [
+      {
+        "title": "さる・かに合戦 [Free]",
+        "link": "https://moguratataki.itch.io/saru",
+        "description": "",
+        "pubDate": "2025-09-06T07:33:29Z",
+        "source": "moguratataki.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDYxOTExLnBuZw==/315x250%23c/3eTKU3.png",
+        "bias": 0
+      },
       {
         "title": "My Old Scratch [Free] [Simulation] [Windows]",
         "link": "https://cgdowik.itch.io/my-old-scratch",
@@ -246,15 +255,6 @@
         "bias": 0
       },
       {
-        "title": "Dream Lottery [Free] [Card Game]",
-        "link": "https://kingrain777.itch.io/dream-lottery",
-        "description": "Loteria inspired dream land",
-        "pubDate": "2025-09-06T03:44:27Z",
-        "source": "kingrain777.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDYwNTk2LnBuZw==/315x250%23c/fm%2F1cF.png",
-        "bias": 0
-      },
-      {
         "title": "釣り大会ゲーム　Fishing tournament [$1.00]",
         "link": "https://moguratataki.itch.io/fishingtournament",
         "description": "",
@@ -271,18 +271,18 @@
         "source": "falkonyt-studios.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMDYwMDk0LmpwZw==/315x250%23c/v%2FHkIn.jpg",
         "bias": 0
-      },
-      {
-        "title": "tool for teacher [Free]",
-        "link": "https://fawaz201321.itch.io/tool-for-teacher",
-        "description": "tool",
-        "pubDate": "2025-09-06T00:59:48Z",
-        "source": "fawaz201321.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDYwNjk3LnBuZw==/315x250%23c/C%2BrdlE.png",
-        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Male-only succession rules overshadow Japan prince’s coming-of-age",
+        "link": "https://www.aljazeera.com/gallery/2025/9/6/male-only-succession-rules-overshadow-japan-princes-coming-of-age?traffic_source=rss",
+        "description": "Prince Hisahito is first male royal to reach adulthood in 40 years. He could also be last in world's oldest monarchy.",
+        "pubDate": "2025-09-06T07:15:12Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Shark attack kills surfer off Sydney beach in Australia",
         "link": "https://www.aljazeera.com/news/2025/9/6/shark-attack-kills-surfer-off-sydney-beach-in-australia?traffic_source=rss",
@@ -320,6 +320,15 @@
         "bias": -1
       },
       {
+        "title": "Herbert outduels Mahomes to help the Chargers beat the Chiefs 27-21 in Brazil - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMzh4ak5fTnZOSGpWNXlrSGtqb3MyTjRXajhMQVRXTWlsLU1pWDY2MnJGOVdnMGpTUVdqRmRVMDBjbWdzVHJYN3ItWDNRbENfMUZoaXhWV25aOWtqNUhhM3ozMnJHTXlrMDRzTHdyNExjdXJLdW1wVHdvSjBIRklwc2lFTWZ4LS1V?oc=5",
+        "description": "",
+        "pubDate": "2025-09-06T04:35:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Xi, Putin video on ‘living to 150’ dropped as Chinese TV pulls permission",
         "link": "https://www.aljazeera.com/news/2025/9/6/xi-putin-video-on-living-to-150-dropped-as-chinese-tv-pulls-permission?traffic_source=rss",
         "description": "The unusually candid exchange between the world leaders was widely shared by broadcasters and on social media globally.",
@@ -345,15 +354,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Herbert outduels Mahomes to help the Chargers beat the Chiefs 27-21 in Brazil - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMzh4ak5fTnZOSGpWNXlrSGtqb3MyTjRXajhMQVRXTWlsLU1pWDY2MnJGOVdnMGpTUVdqRmRVMDBjbWdzVHJYN3ItWDNRbENfMUZoaXhWV25aOWtqNUhhM3ozMnJHTXlrMDRzTHdyNExjdXJLdW1wVHdvSjBIRklwc2lFTWZ4LS1V?oc=5",
-        "description": "",
-        "pubDate": "2025-09-06T03:27:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Photos: From violin mimics to victory fists, Djokovic steals the show - AP News",
@@ -495,7 +495,9 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
+      }
+    ],
+    "Business": [
       {
         "title": "Chiefs draw more fans in Brazil but some supporters disappointed Taylor Swift nowhere to be seen - AP News",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcjVncFRnRnBMTjhsQTN0d2hqM0xNMGFYTnQzeXM4bTI1SFhhS3I2ZHo2T0V0NFBRWU9BWTd3Z2ZCWk9vaEZwTHFEQlBMS3ZGajJEamJuc0RGS0N1ZjlrNXkyNDJ2Tjc4SFNmMDRyMlpjOHYwWWlGVUJjc0ExRWQ5UDU5clkzeksxR0xVYndpMzR2T2NyemJz?oc=5",
@@ -569,6 +571,15 @@
         "bias": 0
       },
       {
+        "title": "A John Candy documentary gives Toronto film fest a tender and appropriately Canadian opening night - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU09sS1NPbm8tbFpSNGJRcW9UU0lNOUpxcEdNTVF5MU5oald6MV9zYzZKQ2d3clNGbklSLUJtRE04TW5IZ3NlUmU4NkNfN0NtSkN3cUpMV3ptai1nRVdwc2Q1dE4xUmk4bWJGSzU4S1djdUNjWjhEcnd1dUl0R2JFSkJ3a1FsR1BTMGdtUFVscmFSUVN4TmNsdjlVdlFFUQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-06T00:20:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Maryland leaders tell Trump they don’t need the National Guard to curb gun violence - AP News",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTDBiN1B6d1RuVWJqcVhjb1FCbTBhVlVxV0wxTkZaLWViQXYyRC16WktxZk9aQW1yUTA0YVg0OExSVlpIejJYTXVZTkRxUWdhcUJIdnNCNUVhcmZndkRjb2lsT0h6LXNubzhsSms4b1hIMW44RTFsc0c2Zkp0cHM1MlEtUGVwRUdXOHM0Y3ZwZ0xuN3UzUzZLaUtObFZleXc5THhXeUUzbFFSc19HTUh5dGFoRQ?oc=5",
         "description": "",
@@ -596,7 +607,6 @@
         "bias": 0
       }
     ],
-    "Business": [],
     "Culture": []
   }
 }
