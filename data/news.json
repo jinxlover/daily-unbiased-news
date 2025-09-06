@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-06T19:25:58.012597Z",
+  "lastUpdate": "2025-09-06T19:37:20.215544Z",
   "news": {
     "Gaming": [
       {
@@ -9,6 +9,33 @@
         "pubDate": "2025-09-06T19:21:35Z",
         "source": "lettsmeeplayy.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMDY5MDQyLnBuZw==/315x250%23c/Xrba5O.png",
+        "bias": 0
+      },
+      {
+        "title": "NYAN CAT ROOM [Free] [Other]",
+        "link": "https://thekingofstal.itch.io/nyan-cat-room",
+        "description": "",
+        "pubDate": "2025-09-06T19:19:50Z",
+        "source": "thekingofstal.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDY5MDEzLmpwZw==/315x250%23c/EMQRwf.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Super Sokonyan [Free] [Puzzle]",
+        "link": "https://acedio.itch.io/super-sokonyan",
+        "description": "A color-mixing, block-pushing game written in a Forth for the SNES!",
+        "pubDate": "2025-09-06T19:18:59Z",
+        "source": "acedio.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDY5MDgwLnBuZw==/315x250%23c/5L6KjK.png",
+        "bias": 0
+      },
+      {
+        "title": "hehex [Free] [Puzzle] [Windows]",
+        "link": "https://krivogames.itch.io/hehex",
+        "description": "minimalistic addictive time-waster",
+        "pubDate": "2025-09-06T19:16:07Z",
+        "source": "krivogames.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDY5MDQxLnBuZw==/315x250%23c/%2BSk%2F8Q.png",
         "bias": 0
       },
       {
@@ -234,15 +261,6 @@
         "pubDate": "2025-09-06T17:56:09Z",
         "source": "theplayersidekick.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMDY3OTQ3LnBuZw==/315x250%23c/g1ZIrW.png",
-        "bias": 0
-      },
-      {
-        "title": "water tag v1 [Free] [Windows] [macOS] [Linux] [Android]",
-        "link": "https://emile-vanoverberghe.itch.io/water-tag-v1",
-        "description": "fun tagging with built in mods",
-        "pubDate": "2025-09-06T17:54:04Z",
-        "source": "emile-vanoverberghe.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDY4MTU3LnBuZw==/315x250%23c/SNOuuR.png",
         "bias": 0
       },
       {
@@ -1098,24 +1116,6 @@
     ],
     "Tech": [
       {
-        "title": "Reform UK is on the rise. Leader Nigel Farage hopes the Trump playbook can propel him to power - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ0tOcGU1cGQ4ZzdJSU5sa1ZzUjJDZFlqTmgxLWdmX1NIUllWdTNhVnFOTTRQbmlncGNFQjllLXJTdlpwTjdMQi1Db0NtVy1jU1d6anpNdW81T0pEUTloNU1VZTlBYVRDT1BUVVVfRlZESnFfTjV3NE9ibjVaajczMHZCNVhHZmc5dFZPY2t5bVJrN3gwUXJ2SlZlQQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-06T15:48:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "What to know about a large-scale immigration raid at a Georgia manufacturing plant - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNnh2Yk93R09GZEF6aEYyV2pfR1RwRC1ZUDVOSnZiU0JSZGpHaWxnMGZja3NJa0lPSkVYNmFBZmdfVDVLN0t5X1liV1R5RkkyQUtIdE00LXMwVDZCcXFQUm1rMUQwN3lUajJtb2NhSERWWkJrQUtDdU9NY3NBRVdSSGU4cEYxd1JFN19PSm41STVoRkVW?oc=5",
-        "description": "",
-        "pubDate": "2025-09-06T15:20:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "The U.S. government is taking a stake in Intel. It's rare — and it has some risks",
         "link": "https://www.npr.org/2025/09/06/nx-s1-5530190/government-stake-intel-ai-competition-china",
         "description": "In the past, the federal government has taken stakes in American companies during wars or economic crises. But now the government's motivation has more to do with the race for AI chips and technology.",
@@ -1123,15 +1123,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Driver who crashed into group of bicyclists in Arizona, killing 2, gets a year in jail - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWC0yZEQ4OGJqM0ZlQk81WWJzZGRKQmVGYUl5R2ZSX3l0NGdiU1BnQ0VjWXNVTUFfTkJFOGdQcXpnb21Ed0pvYWpkWUEyZkJrUkxjbDJnc3BtSUhCNlBZVkRHa0RDSDljbFdVd2g1MkZWcW5sREhGTXVRbDlNTmNwV2I5cm1WbXJNZFdLZGUxTFN6aC1VaGpLTGRkanFqTnBRVWZuUDMzZw?oc=5",
-        "description": "",
-        "pubDate": "2025-09-06T00:45:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Anthropic settles with authors in first-of-its-kind AI copyright infringement lawsuit",
@@ -1156,6 +1147,24 @@
     ],
     "Business": [
       {
+        "title": "Reform UK is on the rise. Leader Nigel Farage hopes the Trump playbook can propel him to power - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ0tOcGU1cGQ4ZzdJSU5sa1ZzUjJDZFlqTmgxLWdmX1NIUllWdTNhVnFOTTRQbmlncGNFQjllLXJTdlpwTjdMQi1Db0NtVy1jU1d6anpNdW81T0pEUTloNU1VZTlBYVRDT1BUVVVfRlZESnFfTjV3NE9ibjVaajczMHZCNVhHZmc5dFZPY2t5bVJrN3gwUXJ2SlZlQQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-06T15:48:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "What to know about a large-scale immigration raid at a Georgia manufacturing plant - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNnh2Yk93R09GZEF6aEYyV2pfR1RwRC1ZUDVOSnZiU0JSZGpHaWxnMGZja3NJa0lPSkVYNmFBZmdfVDVLN0t5X1liV1R5RkkyQUtIdE00LXMwVDZCcXFQUm1rMUQwN3lUajJtb2NhSERWWkJrQUtDdU9NY3NBRVdSSGU4cEYxd1JFN19PSm41STVoRkVW?oc=5",
+        "description": "",
+        "pubDate": "2025-09-06T15:20:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Opinion: Susan Stamberg, trailblazer and NPR Founding Mother, retires",
         "link": "https://www.npr.org/2025/09/06/nx-s1-5522120/opinion-susan-stamberg-trailblazer-and-npr-founding-mother-retires",
         "description": "NPR Founding Mother Susan Stamberg is retiring. She became the first woman to anchor a nightly national news program in 1972, and helped loosen up the serious, stodgy sound of radio hosts.",
@@ -1171,6 +1180,15 @@
         "pubDate": "2025-09-06T11:04:04Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e90/live/60d63cf0-88d5-11f0-93e2-8d258a752747.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Driver who crashed into group of bicyclists in Arizona, killing 2, gets a year in jail - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWC0yZEQ4OGJqM0ZlQk81WWJzZGRKQmVGYUl5R2ZSX3l0NGdiU1BnQ0VjWXNVTUFfTkJFOGdQcXpnb21Ed0pvYWpkWUEyZkJrUkxjbDJnc3BtSUhCNlBZVkRHa0RDSDljbFdVd2g1MkZWcW5sREhGTXVRbDlNTmNwV2I5cm1WbXJNZFdLZGUxTFN6aC1VaGpLTGRkanFqTnBRVWZuUDMzZw?oc=5",
+        "description": "",
+        "pubDate": "2025-09-06T00:45:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       }
     ],
