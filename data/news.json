@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-09-06T17:14:53.469014Z",
+  "lastUpdate": "2025-09-06T17:28:16.905827Z",
   "news": {
     "Gaming": [
+      {
+        "title": "2hour game [Free] [Action] [Android]",
+        "link": "https://jjiskingandthegoat.itch.io/2hour-game",
+        "description": "",
+        "pubDate": "2025-09-06T17:20:47Z",
+        "source": "jjiskingandthegoat.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDY3ODE5LmpwZw==/315x250%23c/1%2F9Z6B.jpg",
+        "bias": 0
+      },
       {
         "title": "Ecosystem Simulator [Free]",
         "link": "https://maurodot.itch.io/ecosystem-simulator",
@@ -9,6 +18,15 @@
         "pubDate": "2025-09-06T17:07:58Z",
         "source": "maurodot.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMDY3Njc2LnBuZw==/315x250%23c/T6E6kB.png",
+        "bias": 0
+      },
+      {
+        "title": "DUCK [Free] [Fighting] [Windows] [macOS] [Linux]",
+        "link": "https://abdlaziz.itch.io/duck",
+        "description": "",
+        "pubDate": "2025-09-06T17:06:48Z",
+        "source": "abdlaziz.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDY3NjI2LmpwZw==/315x250%23c/e7xFk%2B.jpg",
         "bias": 0
       },
       {
@@ -27,6 +45,15 @@
         "pubDate": "2025-09-06T16:58:09Z",
         "source": "pilotgames.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMDY3NTg3LnBuZw==/315x250%23c/Y8jJp%2F.png",
+        "bias": 0
+      },
+      {
+        "title": "C.O.H. [Free] [Adventure] [Windows] [Linux]",
+        "link": "https://a6710.itch.io/coh",
+        "description": "Digital Dream",
+        "pubDate": "2025-09-06T16:55:51Z",
+        "source": "a6710.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDY3MTUyLnBuZw==/315x250%23c/GZnBFr.png",
         "bias": 0
       },
       {
@@ -120,39 +147,12 @@
         "bias": 0
       },
       {
-        "title": "cells [Free] [Other] [Windows]",
-        "link": "https://mikeburf.itch.io/cells",
-        "description": "Conway's Game of Life in C++ with SDL3",
-        "pubDate": "2025-09-06T15:34:59Z",
-        "source": "mikeburf.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDY2NTA5LnBuZw==/315x250%23c/wxGHuW.png",
-        "bias": 0
-      },
-      {
         "title": "30 Night's In The Forest - In Mobile [Free] [Survival]",
         "link": "https://oliprocrack.itch.io/30-nights-in-the-forest-in-mobile",
         "description": "",
         "pubDate": "2025-09-06T15:33:58Z",
         "source": "oliprocrack.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMDY2MzY2LnBuZw==/315x250%23c/UHiYNd.png",
-        "bias": 0
-      },
-      {
-        "title": "Dream Land Sprunki (Old) (REAL) [Free] [Rhythm] [Windows] [macOS] [Linux] [Android]",
-        "link": "https://funbotitchreal.itch.io/dream-land-sprunki-old-real",
-        "description": "new version of classic Sprunki. just don't add black...",
-        "pubDate": "2025-09-06T15:27:54Z",
-        "source": "funbotitchreal.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDY2Mjk5LnBuZw==/315x250%23c/E2TZMj.png",
-        "bias": 0
-      },
-      {
-        "title": "Inspector's Table [Free]",
-        "link": "https://licoryte.itch.io/inspectors-table",
-        "description": "A Game where you have to spot the \"mole\" of the start-up company using finance history",
-        "pubDate": "2025-09-06T15:27:48Z",
-        "source": "licoryte.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDY2NDQ1LnBuZw==/315x250%23c/XF6o4A.png",
         "bias": 0
       },
       {
@@ -210,12 +210,30 @@
         "bias": 0
       },
       {
+        "title": "Chromaze [Free] [Action] [Windows]",
+        "link": "https://cax36940.itch.io/chromaze",
+        "description": "",
+        "pubDate": "2025-09-06T09:24:25Z",
+        "source": "cax36940.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDY3NjQwLnBuZw==/315x250%23c/xLmbfX.png",
+        "bias": 0
+      },
+      {
+        "title": "Tiger Taggers [Free]",
+        "link": "https://cybermonke4.itch.io/tiger-taggers",
+        "description": "",
+        "pubDate": "2025-09-06T01:58:43Z",
+        "source": "cybermonke4.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDU5NzgzLnBuZw==/315x250%23c/lbO3IH.png",
+        "bias": 0
+      },
+      {
         "title": "One Minute to Pedro [Free] [Action]",
         "link": "https://nicolas-labarre.itch.io/1mn-to-pedro",
         "description": "Pedro Pascal in on the red carpet... and so are you. Go get him, girl!",
         "pubDate": "2025-09-06T00:28:11Z",
         "source": "nicolas-labarre.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDY3MzM0LnBuZw==/315x250%23c/RukpNk.png",
+        "image": "https://img.itch.zone/aW1nLzIzMDY3OTAzLnBuZw==/315x250%23c/8Vh8lZ.png",
         "bias": 0
       }
     ],
@@ -228,6 +246,15 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8306/live/fbbb4c60-8b3c-11f0-a23b-03b8d466a85d.jpg",
         "bias": 0
+      },
+      {
+        "title": "‘God’s influencer’ Carlo Acutis to become first millennial saint",
+        "link": "https://www.aljazeera.com/news/2025/9/6/gods-influencer-carlo-acutis-to-become-first-millennial-saint?traffic_source=rss",
+        "description": "Italian cyber-apostle, who showed kindness to less fortunate, hailed for using precocious tech talent to spread word.",
+        "pubDate": "2025-09-06T16:50:13Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Hall of Fame Canadiens goaltender Ken Dryden dies of cancer at age 78 - AP News",
@@ -536,6 +563,15 @@
         "bias": 0
       },
       {
+        "title": "Iran paves over mass grave of 1979 revolution victims, turning it into a parking lot - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWGZJcnB0RVlvVDFQY3RkaFllTWVnTDY4ajhsZjlQM0hKX3Etc0FiZlFsWFU4UnlDeGI3dm84YTRHaHoxajc4aDE0dHpqUjY4ekJxYVRVeTRpWUtQVUxXU2dCY0hUbUdxMWFsZ21SN0JJNFdHdlplMFF5cEprWGtValN4YkZ5NWFzbzdpZFdKWklHU1R2ajNEeFZvMjJFd3d0dktXVTRmTjBVNHdCQUtnaGVlOA?oc=5",
+        "description": "",
+        "pubDate": "2025-09-06T05:25:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Man dies after suspected shark attack in Sydney",
         "link": "https://www.bbc.com/news/articles/cy8r9p28yp7o?at_medium=RSS&at_campaign=rss",
         "description": "A morning surfer \"died at the scene\" after being pulled out of the water, Australian police say.",
@@ -651,24 +687,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "US weighs strikes on cartels in Venezuela, F-35 warplanes deploy: Reports",
-        "link": "https://www.aljazeera.com/news/2025/9/6/us-weighs-strikes-on-cartels-in-venezuela-f-35-warplanes-deploy-reports?traffic_source=rss",
-        "description": "Ten F-35 stealth fighter jets reported to be joining US naval operation against Latin American drug cartels.",
-        "pubDate": "2025-09-06T01:57:33Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "DHS says 475 people were detained during an immigration raid in Georgia - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlMGxaNVJfSHR6U1p0Z2RodXhHMGhoT1lyOVIzbUJEa1hPWUVkbVdoTlE3TFFvdVg4djMycXhqSDM2VGY5VG1VaHoteGZRNU1HempsNGx0dW9WS1NWVldTSm9VNE9oX3QzaVE?oc=5",
-        "description": "",
-        "pubDate": "2025-09-06T01:31:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
@@ -682,57 +700,12 @@
         "bias": 0
       },
       {
-        "title": "Reform UK is on the rise. Leader Nigel Farage hopes the Trump playbook can propel him to power - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ0tOcGU1cGQ4ZzdJSU5sa1ZzUjJDZFlqTmgxLWdmX1NIUllWdTNhVnFOTTRQbmlncGNFQjllLXJTdlpwTjdMQi1Db0NtVy1jU1d6anpNdW81T0pEUTloNU1VZTlBYVRDT1BUVVVfRlZESnFfTjV3NE9ibjVaajczMHZCNVhHZmc5dFZPY2t5bVJrN3gwUXJ2SlZlQQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-06T15:48:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "What's changed about Reform since last year's conference?",
         "link": "https://www.bbc.com/news/videos/cdjzevrykrgo?at_medium=RSS&at_campaign=rss",
         "description": "The BBC's political reporter Joshua Nevett reports from the Reform UK conference. The BBC will be covering party conferences across September and October.",
         "pubDate": "2025-09-06T15:29:33Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d02/live/ff459780-8b2f-11f0-9cf6-cbf3e73ce2b9.jpg",
-        "bias": 0
-      },
-      {
-        "title": "What to know about a large-scale immigration raid at a Georgia manufacturing plant - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNnh2Yk93R09GZEF6aEYyV2pfR1RwRC1ZUDVOSnZiU0JSZGpHaWxnMGZja3NJa0lPSkVYNmFBZmdfVDVLN0t5X1liV1R5RkkyQUtIdE00LXMwVDZCcXFQUm1rMUQwN3lUajJtb2NhSERWWkJrQUtDdU9NY3NBRVdSSGU4cEYxd1JFN19PSm41STVoRkVW?oc=5",
-        "description": "",
-        "pubDate": "2025-09-06T15:20:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Israel calls on famine-stricken residents to flee and targets more high-rises in Gaza City - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd3BfNGMwS1M3YVZKSEdfbUY3OWhEdGZyTVNzOWR5M21Obi1LRklPeXB0c0JiYndSZTJnd2cxcC0yaWFVcmo5cEMzYlVkTUxOS3JyclVHb2VYY1NYVjVKSGhTd3lyMDhsRDc5Q1ZqV3YxRktqZEIzOUVzWXZNWWhsTnpZY1g3X2UxOGRaRlg3TWdSd3hoeTB0eGdibDJFNVJBeUY3MWJxWW8?oc=5",
-        "description": "",
-        "pubDate": "2025-09-06T14:59:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Secret audios, dramatic leaks, spying claims: A bribery scandal engulfs Argentina’s Milei - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbWF4OXlQWHZzSGRrSmdILWc5N2R6cVp0cXFmLS1nemlmbzYzX3VDQktlVXhteVhmNXZLVmtMYnltQzFHV0FZVDZwbXBWdE5EMldRSmRGdnJPM1JXNUpyeGd0amVjd1ZwMTViZnBTUUdESFk4RkpveTBPS21ZemhWU2NWdVNISWl5ZG5YS1Z3bmNIM3VjcWVtbUYzSVg2ZGNSMzJlM3dR?oc=5",
-        "description": "",
-        "pubDate": "2025-09-06T14:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Biden chooses Delaware for his presidential library as his team turns to raising money for it - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdEhMMmJqdHVUMnJxQ1p2SEdQQzZsUUpxRktDeXZJQjhNVVJMbVFDbExSU1Rab281SHh3bEI4VkI2MWtwMVZPWHdOU3dMaWZ3N1V4dGpkQlBVZDUtdUh0UnJvaTRMMExjZ3FkM0VWT3ZGVk9UWWluQnNBa3ZHZ3pJSXU3UVdDTTVONU02b05sZC1iVTlxanM1QlhuSQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-06T13:57:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -808,13 +781,22 @@
         "bias": -1
       },
       {
-        "title": "Where things stand with Trump's National Guard threats in Chicago and other cities",
+        "title": "Trump threatens 'Apocalypse Now' style action against Chicago to boost deportations",
         "link": "https://www.npr.org/2025/09/06/nx-s1-5532148/national-guard-chicago-baltimore-new-orleans",
-        "description": "Local officials and community members prepare for the possible arrival of National Guard troops under President Trump.",
+        "description": "President Trump threatened the city with the deportation of undocumented immigrants, posting a reference to the film Apocalypse Now with the quote: \"I love the smell of deportations in the morning.\"",
         "pubDate": "2025-09-06T09:00:00Z",
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Giorgio Armani’s fashion through the years, in photos - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdmk0Qlh6OVVhemFEb0F4WjhEZm5LZ1VrVzVWNTQ5ZzZqMk9Qd0FUU0Qxdnp2enQ2bV81WFVXbTh1dktRa0ZrZ0tfUjRwZzZZeS1oT3h4dmR0SC1xb0FuRDRrOF9UUmxkdTBTblU0d3BvVFM5blpPUTl4T2hqQkNSZ2xnd1VvT0xNTG1kMXlNVi0?oc=5",
+        "description": "",
+        "pubDate": "2025-09-06T08:59:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Aryna Sabalenka eyes a 2nd consecutive US Open title when she plays Amanda Anisimova in the final - AP News",
@@ -844,19 +826,10 @@
         "bias": -1
       },
       {
-        "title": "Trump hosts White House dinner for GOP lawmakers at paved space he dubbed 'Rose Garden Club' - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORVFBNUJuWVIzWjcyREc4dU9wM0NVTWwyR01jS0UtTFRmdzNGdkU0U1BBM2I2UEotdEtrN3dDcDBZQUlOXzFESzBkcEdjWjd3cmdQUlhOSGVVSWxheFRneVpoaThfQUlYcDBER0x6QzlaenFGbW9KbDdwbXh0QzhwaGszd2JxMzRZZHc?oc=5",
+        "title": "Drawing set for a Powerball jackpot that has ballooned to $1.8 billion - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWmtjUWRDMTRtang3aFpwZlBmNUcxYmV6R0htUGRWdlh4NUVZaFY0TE12cklxVkJoWG9tQS1iTzRvSXFZTDdKV0NaMzlYYzh5WDE1eUE1NXRjbmFCT0NseXJQX1dFRXkyUGRIM2pSSlBnY3hOQjVNQ19RZ1ZXVnkwMlJUb3FWcHNKQTRKWnFTRmFiX1NJWDhj?oc=5",
         "description": "",
-        "pubDate": "2025-09-06T00:53:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Driver who crashed into group of bicyclists in Arizona, killing 2, gets a year in jail - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWC0yZEQ4OGJqM0ZlQk81WWJzZGRKQmVGYUl5R2ZSX3l0NGdiU1BnQ0VjWXNVTUFfTkJFOGdQcXpnb21Ed0pvYWpkWUEyZkJrUkxjbDJnc3BtSUhCNlBZVkRHa0RDSDljbFdVd2g1MkZWcW5sREhGTXVRbDlNTmNwV2I5cm1WbXJNZFdLZGUxTFN6aC1VaGpLTGRkanFqTnBRVWZuUDMzZw?oc=5",
-        "description": "",
-        "pubDate": "2025-09-06T00:45:00Z",
+        "pubDate": "2025-09-06T04:03:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -864,10 +837,64 @@
     ],
     "Tech": [
       {
+        "title": "Reform UK is on the rise. Leader Nigel Farage hopes the Trump playbook can propel him to power - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ0tOcGU1cGQ4ZzdJSU5sa1ZzUjJDZFlqTmgxLWdmX1NIUllWdTNhVnFOTTRQbmlncGNFQjllLXJTdlpwTjdMQi1Db0NtVy1jU1d6anpNdW81T0pEUTloNU1VZTlBYVRDT1BUVVVfRlZESnFfTjV3NE9ibjVaajczMHZCNVhHZmc5dFZPY2t5bVJrN3gwUXJ2SlZlQQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-06T15:48:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "What to know about a large-scale immigration raid at a Georgia manufacturing plant - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNnh2Yk93R09GZEF6aEYyV2pfR1RwRC1ZUDVOSnZiU0JSZGpHaWxnMGZja3NJa0lPSkVYNmFBZmdfVDVLN0t5X1liV1R5RkkyQUtIdE00LXMwVDZCcXFQUm1rMUQwN3lUajJtb2NhSERWWkJrQUtDdU9NY3NBRVdSSGU4cEYxd1JFN19PSm41STVoRkVW?oc=5",
+        "description": "",
+        "pubDate": "2025-09-06T15:20:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Israel calls on famine-stricken residents to flee and targets more high-rises in Gaza City - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd3BfNGMwS1M3YVZKSEdfbUY3OWhEdGZyTVNzOWR5M21Obi1LRklPeXB0c0JiYndSZTJnd2cxcC0yaWFVcmo5cEMzYlVkTUxOS3JyclVHb2VYY1NYVjVKSGhTd3lyMDhsRDc5Q1ZqV3YxRktqZEIzOUVzWXZNWWhsTnpZY1g3X2UxOGRaRlg3TWdSd3hoeTB0eGdibDJFNVJBeUY3MWJxWW8?oc=5",
+        "description": "",
+        "pubDate": "2025-09-06T14:59:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "What to know about the trial of the man accused of trying to assassinate Trump in Florida - AP News",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU09CTWphcU4tVlcwYXFKcjN0amJGdUIxVEloajltNkhwVTYyMFpYYTdXVkt3OHphRzdZS0IyWmI0YVV2c0RaamZDbXkwNFl4WVJ6LXhURjlpUFFHUnZpcGJDUy05LURfS3RPWmRDLUN1aXBmVWowcUlsa053SEVQMkxPeS1PQ1p5R2RCbXR1YWNHdkd2c24xNFIyR1RPUnJ5ZUVWSA?oc=5",
         "description": "",
         "pubDate": "2025-09-06T14:02:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Secret audios, dramatic leaks, spying claims: A bribery scandal engulfs Argentina’s Milei - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbWF4OXlQWHZzSGRrSmdILWc5N2R6cVp0cXFmLS1nemlmbzYzX3VDQktlVXhteVhmNXZLVmtMYnltQzFHV0FZVDZwbXBWdE5EMldRSmRGdnJPM1JXNUpyeGd0amVjd1ZwMTViZnBTUUdESFk4RkpveTBPS21ZemhWU2NWdVNISWl5ZG5YS1Z3bmNIM3VjcWVtbUYzSVg2ZGNSMzJlM3dR?oc=5",
+        "description": "",
+        "pubDate": "2025-09-06T14:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Biden chooses Delaware for his presidential library as his team turns to raising money for it - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdEhMMmJqdHVUMnJxQ1p2SEdQQzZsUUpxRktDeXZJQjhNVVJMbVFDbExSU1Rab281SHh3bEI4VkI2MWtwMVZPWHdOU3dMaWZ3N1V4dGpkQlBVZDUtdUh0UnJvaTRMMExjZ3FkM0VWT3ZGVk9UWWluQnNBa3ZHZ3pJSXU3UVdDTTVONU02b05sZC1iVTlxanM1QlhuSQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-06T13:57:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Nepal’s festival season starts with a parade for a living goddess - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ0tHNTdVTWEwX2xJMnEyUEtscVZLS1NUekItTHlraXhMSWtoMlNZQkhBUGc1SkhqVzNRcnN0SHNXOEVQYXZoWlFHWm1WeGN5R3hyOHF0VlpETWQ1MFVPTlZGNTVWRkl5djdBclZ1TTdYcUVTbWFySHQ3REZIaDJZdHJwTmR4MzJNWG16QzJBTk93WVBIdDVDa3ZBTjdaTWJ4S0JTNGVyamt2UDg?oc=5",
+        "description": "",
+        "pubDate": "2025-09-06T13:36:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -882,19 +909,19 @@
         "bias": -1
       },
       {
-        "title": "Giorgio Armani’s fashion through the years, in photos - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdmk0Qlh6OVVhemFEb0F4WjhEZm5LZ1VrVzVWNTQ5ZzZqMk9Qd0FUU0Qxdnp2enQ2bV81WFVXbTh1dktRa0ZrZ0tfUjRwZzZZeS1oT3h4dmR0SC1xb0FuRDRrOF9UUmxkdTBTblU0d3BvVFM5blpPUTl4T2hqQkNSZ2xnd1VvT0xNTG1kMXlNVi0?oc=5",
+        "title": "Trump hosts White House dinner for GOP lawmakers at paved space he dubbed 'Rose Garden Club' - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORVFBNUJuWVIzWjcyREc4dU9wM0NVTWwyR01jS0UtTFRmdzNGdkU0U1BBM2I2UEotdEtrN3dDcDBZQUlOXzFESzBkcEdjWjd3cmdQUlhOSGVVSWxheFRneVpoaThfQUlYcDBER0x6QzlaenFGbW9KbDdwbXh0QzhwaGszd2JxMzRZZHc?oc=5",
         "description": "",
-        "pubDate": "2025-09-06T08:59:00Z",
+        "pubDate": "2025-09-06T00:53:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Drawing set for a Powerball jackpot that has ballooned to $1.8 billion - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWmtjUWRDMTRtang3aFpwZlBmNUcxYmV6R0htUGRWdlh4NUVZaFY0TE12cklxVkJoWG9tQS1iTzRvSXFZTDdKV0NaMzlYYzh5WDE1eUE1NXRjbmFCT0NseXJQX1dFRXkyUGRIM2pSSlBnY3hOQjVNQ19RZ1ZXVnkwMlJUb3FWcHNKQTRKWnFTRmFiX1NJWDhj?oc=5",
+        "title": "Driver who crashed into group of bicyclists in Arizona, killing 2, gets a year in jail - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWC0yZEQ4OGJqM0ZlQk81WWJzZGRKQmVGYUl5R2ZSX3l0NGdiU1BnQ0VjWXNVTUFfTkJFOGdQcXpnb21Ed0pvYWpkWUEyZkJrUkxjbDJnc3BtSUhCNlBZVkRHa0RDSDljbFdVd2g1MkZWcW5sREhGTXVRbDlNTmNwV2I5cm1WbXJNZFdLZGUxTFN6aC1VaGpLTGRkanFqTnBRVWZuUDMzZw?oc=5",
         "description": "",
-        "pubDate": "2025-09-06T04:03:00Z",
+        "pubDate": "2025-09-06T00:45:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -919,15 +946,6 @@
       }
     ],
     "Science": [
-      {
-        "title": "Nepal’s festival season starts with a parade for a living goddess - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ0tHNTdVTWEwX2xJMnEyUEtscVZLS1NUekItTHlraXhMSWtoMlNZQkhBUGc1SkhqVzNRcnN0SHNXOEVQYXZoWlFHWm1WeGN5R3hyOHF0VlpETWQ1MFVPTlZGNTVWRkl5djdBclZ1TTdYcUVTbWFySHQ3REZIaDJZdHJwTmR4MzJNWG16QzJBTk93WVBIdDVDa3ZBTjdaTWJ4S0JTNGVyamt2UDg?oc=5",
-        "description": "",
-        "pubDate": "2025-09-06T13:36:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
       {
         "title": "HHS responds to report about autism and acetaminophen",
         "link": "https://www.npr.org/sections/shots-health-news/2025/09/06/nx-s1-5532143/hhs-responds-to-report-about-autism-and-acetaminophen",
