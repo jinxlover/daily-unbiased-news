@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-09-07T15:40:09.941347Z",
+  "lastUpdate": "2025-09-07T15:50:39.464201Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Bump [Free] [Platformer] [Windows]",
+        "link": "https://necrozma222.itch.io/bump",
+        "description": "Bump is a simple platformer with editable level",
+        "pubDate": "2025-09-07T15:21:13Z",
+        "source": "necrozma222.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDgxMTQwLnBuZw==/315x250%23c/fHPzaM.png",
+        "bias": 0
+      },
       {
         "title": "Bio Evil Sega Edition [Free] [Survival] [Windows]",
         "link": "https://irishgames.itch.io/boi-evil-sega-edition",
@@ -54,6 +63,15 @@
         "pubDate": "2025-09-07T15:04:05Z",
         "source": "christinlatz.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMDgwNjA3LnBuZw==/315x250%23c/wIEC%2Bz.png",
+        "bias": 0
+      },
+      {
+        "title": "The Purrfect Interview [Free] [Simulation]",
+        "link": "https://lucorpo.itch.io/the-purrfect-interview",
+        "description": "Stop your CAT from wreaking havoc during your interview",
+        "pubDate": "2025-09-07T14:58:14Z",
+        "source": "lucorpo.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDgwODgzLnBuZw==/315x250%23c/4Dl4HR.png",
         "bias": 0
       },
       {
@@ -165,24 +183,6 @@
         "bias": 0
       },
       {
-        "title": "Lamumu Clicker Game [Free] [Other] [Windows]",
-        "link": "https://syl-and-max.itch.io/lamumu-clicker-game",
-        "description": "Click Buttons, purchase Lamumus. Its fun I swear",
-        "pubDate": "2025-09-07T13:52:19Z",
-        "source": "syl-and-max.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDc5OTIwLnBuZw==/315x250%23c/Wnehqc.png",
-        "bias": 0
-      },
-      {
-        "title": "Running [Free] [Platformer] [Windows]",
-        "link": "https://ritsy.itch.io/running",
-        "description": "Online Tag game",
-        "pubDate": "2025-09-07T13:49:11Z",
-        "source": "ritsy.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDc5NTU0LnBuZw==/315x250%23c/dbYEG%2B.png",
-        "bias": 0
-      },
-      {
         "title": "AutostereoGame [Free] [Puzzle] [Windows] [Linux]",
         "link": "https://hodget.itch.io/autostereogame",
         "description": "Magic Eye Escape Room",
@@ -198,6 +198,15 @@
         "pubDate": "2025-09-07T12:31:47Z",
         "source": "thereal-phoenix.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMDc4NDk2LnBuZw==/315x250%23c/0VEiW5.png",
+        "bias": 0
+      },
+      {
+        "title": "LEGO Breaking Bad [Free] [Adventure]",
+        "link": "https://chemmayt.itch.io/lego-breaking-bad",
+        "description": "",
+        "pubDate": "2025-09-07T12:26:47Z",
+        "source": "chemmayt.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDc4NDkyLnBuZw==/315x250%23c/%2ButddJ.png",
         "bias": 0
       },
       {
@@ -221,6 +230,15 @@
     ],
     "World": [
       {
+        "title": "UK police arrest almost 900 protesters at pro-Palestine Action rally",
+        "link": "https://www.aljazeera.com/news/2025/9/7/uk-police-arrest-almost-900-protesters-at-pro-palestine-action-rally?traffic_source=rss",
+        "description": "Organisers say detained demonstrators include 'vicars and priests, war veterans and descendants of Holocaust survivors'.",
+        "pubDate": "2025-09-07T15:21:43Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Microsoft cloud services disrupted by Red Sea cable cuts",
         "link": "https://www.bbc.com/news/articles/c3rvx470yg8o?at_medium=RSS&at_campaign=rss",
         "description": "Unexplained damage to the cables is causing delays in traffic going through the Middle East, Microsoft says.",
@@ -228,6 +246,15 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6627/live/1abc34d0-8bec-11f0-ab2a-4b19af1c03ef.jpg",
         "bias": 0
+      },
+      {
+        "title": "Ship’s log: A day on board the Global Sumud Flotilla heading for Gaza",
+        "link": "https://www.aljazeera.com/news/2025/9/7/ships-log-a-day-on-board-the-global-sumud-flotilla-heading-for-gaza?traffic_source=rss",
+        "description": "For the volunteers on one boat trying to reach Gaza, crew duties and history lessons, hope and anxiety coexist.",
+        "pubDate": "2025-09-07T15:09:37Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "LIVE: Carlos Alcaraz vs Jannik Sinner – US Open final 2025",
@@ -239,12 +266,39 @@
         "bias": -1
       },
       {
+        "title": "Trump attending the US Open as Rolex's guest despite Swiss tariffs. Any boos may not be seen on TV - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbmtyeTZEQTE3SGtITHVtZUJvRXBBNzIwZFhFa3lBdlU1NzEyaDNpd0xkbXZ1ZmZFWkY0cWJSaWNJUFRVNGpQYnlvZDNRYlpFNUpJNWhaeWNaZjNKMkRmOXpSdXV1amZ2MmRmMmlVS2w1Qno4WkZ3YzdERGVzNUdvZVpMZlBka1ZhUTdvWjFPY29EaW8zZ0ptZXpR?oc=5",
+        "description": "",
+        "pubDate": "2025-09-07T15:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Czech police finally catch up with 'phantom racing car driver'",
         "link": "https://www.bbc.com/news/articles/c4g7xl4p53ko?at_medium=RSS&at_campaign=rss",
         "description": "A red racing car has been sighted on motorways in the Czech Republic since 2019 but until now has evaded police.",
         "pubDate": "2025-09-07T14:51:04Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/984e/live/33cab460-8bfb-11f0-b391-6936825093bd.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Ukraine government building damaged in Kyiv in the largest Russian attack since the war began - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ0ZwV0hFN21VYVJDZFVMR25sZFcxblRYNjhCMGZIXzR3cXlEMUcydnlWOWNxa0plaS1Kcy15ZEw1emR3a25qbHhNVzdjMl93bTFzUmNnd0puUk14dVpycFY5Wk1xNEJhdnY3TlVvNld0U3JzNmY5V2FZMjBjLWhjdWY1T3Faa1g5Sk9fQ1hmTFo1eFhyNGtIZ0ZSUUFuVFRYdXpoWm02dE9qUQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-07T14:50:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "In one DC neighborhood after federal intervention, the notion of more authority is a mixed bag - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSzQ1M0c0YzhRRF9TeVRMc3FsMmlMUzg0bXpUcTdfTGI3eVFJQmNRQVVRQmhydTlqS1hZQVdEQnp6X0ViWkVtMnZneWlIS1ZtVVotRTE1X2NOY1pTal9COW4tVklhakV5SkxpX1dWbTV2UnZ2QW8wR1VsNUZKUmljam5jQUJhUF9xMnpfaFpLYnNZR1pDM3NZQUpWZE5uN3dFWUZ1aWVpSmpRRDh1T0dyNg?oc=5",
+        "description": "",
+        "pubDate": "2025-09-07T14:41:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -284,6 +338,15 @@
         "bias": 0
       },
       {
+        "title": "Aryna Sabalenka wins the US Open again after vowing to no longer lose control of her emotions - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLU5xRHJ4OWN3NHI4SG9nN1MzX3Fkb1JySWFwWjBNcmg0MzhacFlpQm90WDZFWEFrWkV6YjRzeExuOUJrWklzNzlLTmp3M3c4Z1duOFVFM1R5RmdjcDhXREw2RHhvby1BNS1pNkkyTFF2REFlSnVyaVp6Rk9FYjNsQjhEcEZtU2pJZXhZ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-07T13:44:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Colombia's lone Amazon port faces drying river and rising tensions with Peru",
         "link": "https://www.npr.org/2025/09/07/nx-s1-5525686/colombia-peru-amazon",
         "description": "Colombia's only Amazon port town could soon be cut off from the river that keeps it alive. As drought and a shifting river spark a tense border dispute with Peru, locals are scrambling to adapt—and politicians are raising flags, literally.",
@@ -291,15 +354,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Powerball lottery players in Missouri and Texas to split nearly $1.8 billion jackpot - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWmtjUWRDMTRtang3aFpwZlBmNUcxYmV6R0htUGRWdlh4NUVZaFY0TE12cklxVkJoWG9tQS1iTzRvSXFZTDdKV0NaMzlYYzh5WDE1eUE1NXRjbmFCT0NseXJQX1dFRXkyUGRIM2pSSlBnY3hOQjVNQ19RZ1ZXVnkwMlJUb3FWcHNKQTRKWnFTRmFiX1NJWDhj?oc=5",
-        "description": "",
-        "pubDate": "2025-09-07T13:24:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "UK protesters are not backing down over Palestine",
@@ -356,6 +410,15 @@
         "bias": -1
       },
       {
+        "title": "Police arrest almost 900 at London protest supporting banned group Palestine Action - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWjNjSFRHVGo0X0NES0JXbU9nX2hvNlBIYmFRLVdaMjFodlhtZkJMemNtNVM5dXJJOW1yNWMyRFBYUWRxcnJuNXhQYnBWb2JCM1hKODNTem5xSVNHWVpNbU5ZMVI2b1lZblBZMmwtMkNqc0M1dGVSbUxZQWtDVHBBTkpRWFIzcTh5RFZ0VTNpVEtGb2d1QXpveU5FUVcyazJmclE?oc=5",
+        "description": "",
+        "pubDate": "2025-09-07T12:35:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Thousands throng Jerusalem to press Netanyahu to make hostage release deal",
         "link": "https://www.bbc.com/news/articles/cn95x2vlv8ro?at_medium=RSS&at_campaign=rss",
         "description": "Saturday's protests in Israel were some of the largest so far, but PM Netanyahu says defeating Hamas is the way to secure the hostages' release.",
@@ -374,6 +437,24 @@
         "bias": -1
       },
       {
+        "title": "Secret audios, dramatic leaks, spying claims: A bribery scandal engulfs Argentina’s Milei - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbWF4OXlQWHZzSGRrSmdILWc5N2R6cVp0cXFmLS1nemlmbzYzX3VDQktlVXhteVhmNXZLVmtMYnltQzFHV0FZVDZwbXBWdE5EMldRSmRGdnJPM1JXNUpyeGd0amVjd1ZwMTViZnBTUUdESFk4RkpveTBPS21ZemhWU2NWdVNISWl5ZG5YS1Z3bmNIM3VjcWVtbUYzSVg2ZGNSMzJlM3dR?oc=5",
+        "description": "",
+        "pubDate": "2025-09-07T12:27:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Japan’s prime minister resigns after party suffered historic defeat in summer election - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRDZGSTF4X0RELVNNSzNacFd2TjBOd3BDamRpNHNnRk0zR08zQUUzT29XRFdHSWNQaFdsajRZb3B3UzZLaWh5SG5EZ2ZOM0xtdEttVHM4WVdwM2N3R1J4QnVnOUN6TXRnZzQ2dy1JTExtT0pRSlRvVms4UE4wM0RIay11emJPZFpweVB2dmYweTZzZDVPNjRmNS1B?oc=5",
+        "description": "",
+        "pubDate": "2025-09-07T12:22:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Palestinian statehood will be up for debate at the UNGA, with no Palestinian official",
         "link": "https://www.npr.org/2025/09/07/nx-s1-5529285/palestinian-statehood-will-be-up-for-debate-at-the-unga-with-no-palestinian-official",
         "description": "We look at what the U.S. block on Palestinian officials from attending the annual U.N. General Assembly meeting this month could mean for Palestinian statehood.",
@@ -381,6 +462,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "AI shakes up the call center industry, but some tasks are still better left to the humans - AP News",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb1YzQjZQQUl5TC11VVNzSVZaUE1SSTk5VzhTbXJhQzE2OUxHNHpoX2s5YTNlOElhRDRkY0FYRHhvTHk0UDNiUHZZY3ptbzBCY0MtRmg0SWN6S00tRkVqY1Y2NmdPa3IxVk5RRl9UYTdQcGJqLS1LYVRNeFV3UXV5MFlDcTV3dzd4OGgwRkpScHJlTV9UNlhLYVhXb3VjYmVUMEU5TzVqSHVFSEdWRTR1eXN1S25nMUptSlNlZA?oc=5",
+        "description": "",
+        "pubDate": "2025-09-07T12:15:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Pope Leo declares teen millennial , known as ‘God’s influencer’, a saint",
@@ -464,6 +554,15 @@
         "bias": 0
       },
       {
+        "title": "Pope Leo XIV declares teen computer whiz Carlo Acutis the first millennial saint - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaWcxcnZleDdSX2xLVWUwcHMwb0pfVk9DRGlSMDhPN2UtRGx2cXRJeE8zV2c0UThWS3NCd0p3SGVaX25qc3JfMm1XZzJyc1lULWxWeUZXTnRGdFVBOUNqV3plZWQ4dXAzM1AxQ1JtemE4Z2ZKeWlUTWxBbE82dk40OTJMelhDcWtLbnZranZVOEhuaW5XT3JzRnZaWVRja0RVa0ZiS2dJckJEQQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-07T10:14:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Japan's Prime Minister Shigeru Ishiba to resign",
         "link": "https://www.npr.org/2025/09/07/nx-s1-5533048/japan-prime-minister-ishiba-resign",
         "description": "Japan's Prime Minister Shigeru Ishiba has expressed his intention on Sunday to step down following growing calls from his party to take responsibility for a historic defeat in July's parliamentary election.",
@@ -518,6 +617,15 @@
         "bias": -1
       },
       {
+        "title": "Sweden's plans to mine rare-earth minerals could ruin the lives of Indigenous Sami reindeer herders - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLTl6cVMxTVU4ZUNaSk16d1Jua1NHbnBIcVoxdVR2MTBGSTRHTmpUeUw1SF81V0ZBOU5CaTFpNUhHbEtkMHlyaS1yaTNwVlZGS2E4SkVYUm9Xc3hRd0xRRkQ3SGZ1ZUtjOXBXZExraTlDM1ljTDF3M3FiOFhfMXN5LVI2Vlk5elVVOWFoci10X0NzWm9TcloySVhRdUlyTWtYUW95bGRsUkd4TEVSUFBPMzBISQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-07T08:02:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "A teen nicknamed 'God's influencer' has become the first millennial saint",
         "link": "https://www.npr.org/2025/09/07/nx-s1-5528970/millennial-saint-carlo-acutis-canonization-catholic-church",
         "description": "Carlo Acutis, who died of leukemia at 15 in 2006, is known in the Catholic Church as \"God's influencer\" for harnessing technology to spread the word about miracles.",
@@ -570,108 +678,18 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Pride march in Serbia condemns police violence at antigovernment rallies",
-        "link": "https://www.aljazeera.com/news/2025/9/7/pride-march-in-serbia-condemns-police-violence-at-antigovernment-rallies?traffic_source=rss",
-        "description": "The LGBTQ event in Belgrade comes the day after police arrested 42 demonstrators in the city of Novi Sad.",
-        "pubDate": "2025-09-07T07:07:15Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Recognition of Palestinian state is 'disastrous', US ambassador says",
-        "link": "https://www.bbc.com/news/videos/cvgqkpvq7vno?at_medium=RSS&at_campaign=rss",
-        "description": "Mike Huckabee, the United States Ambassador to Israel, has said that plans to recognise a Palestinian state have had \"disastrous consequences\".",
-        "pubDate": "2025-09-07T06:58:05Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e243/live/9c05bb30-8bb8-11f0-84c8-99de564f0440.png",
-        "bias": 0
-      },
-      {
-        "title": "Irfaan Ali re-elected for second term as oil-rich Guyana’s president",
-        "link": "https://www.aljazeera.com/news/2025/9/7/irfaan-ali-reelected-for-second-term-as-oil-rich-guyanas-president?traffic_source=rss",
-        "description": "Centre-left 45-year-old politician gets new mandate to manage the South American nation's newfound oil wealth.",
-        "pubDate": "2025-09-07T06:54:36Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Sanders, Mamdani rally progressive voters as NYC mayor’s race intensifies",
-        "link": "https://www.aljazeera.com/news/2025/9/7/sanders-mamdani-rally-progressive-voters-as-nyc-mayors-race-intensifies?traffic_source=rss",
-        "description": "Mamdani discusses how he plans to address income inequality and affordability issues in the largest US city.",
-        "pubDate": "2025-09-07T06:39:07Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Japan’s PM Shigeru Ishiba resigns weeks after election debacle",
-        "link": "https://www.aljazeera.com/news/2025/9/7/japans-pm-shigeru-ishiba-will-resign-weeks-after-election-debacle-nhk?traffic_source=rss",
-        "description": "Calls for his resignation had grown since his Liberal Democratic Party suffered a crushing loss in July.",
-        "pubDate": "2025-09-07T06:32:24Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "One of America's most wanted evaded the FBI for 21 years - only to be found in Wales",
-        "link": "https://www.bbc.com/news/articles/ckgjpn8gl97o?at_medium=RSS&at_campaign=rss",
-        "description": "The prime suspect for two bombings in California in 2003 was found in a Welsh cottage last year.",
-        "pubDate": "2025-09-07T06:08:20Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f75/live/b9e24860-8b29-11f0-8abb-4d8cd1fe8125.png",
-        "bias": 0
-      },
-      {
-        "title": "Freeze! Police ice cream trucks seek to portray officers in a positive light - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR2l5UWZ1X1I1UFppYWp4Z09aQmVidzgxcVo5WHN2YXpOSEU5YTJUV2pKRnhHV3J6QXZ4ZU5yR1lVWUhRN0JRLWQ0WFhOTWZZUWVSMFh1cmxjYl9HR0FvSV9XSlBKcFpvZERzd2o2cVBjZDM2b212bzBuVGpYUkFnSkdaMHJGRVZZenhR?oc=5",
-        "description": "",
-        "pubDate": "2025-09-07T05:16:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "The 2025 Venice Film Festival is over. Here’s everything you need to know - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd2xlRXdwVDFkSWV6MUxRNUJUb3Atc2FUa3RnYkt2eEdYbmY4VEN0ek9pdE9td3k2eXdtMi1MRHFaNDl3VFp1Z0VXRFI3QlREbTV3U1lUbnZrTlQwcmxBeTdlY2N3eE1qbExIWHRBWVYzSjNxNk8wVzlrWW1mQ3ZJNXNWZk00RF9jNWRzZ3JWSTlKUVhPR3R2cnpQWQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-07T04:09:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Raiola throws for 364 yards and 4 TDs to lead Nebraska to 68-0 win as Zips held to zip again - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUS1kZ2d0bmFTdG9lelZKaVoya201YUF1VWJ2ZjdqV1ozcm5BNTNzbFQ2SzA3NnhfWTd6U2JjNXRBSmhobFNZTVUycGhJd0NackNFQWY4LWthU1hDVnJEM3JZeGV2SXhJZHN1cVMwSkFXbjFuMVNfZzZEMm9GOU9mWnhUdGtCLURfcVZRX3dVemljTWE5VUE?oc=5",
-        "description": "",
-        "pubDate": "2025-09-07T03:51:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Aryna Sabalenka defeats Amanda Anisimova for her 2nd consecutive US Open title and 4th at a major - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaWs4aVBTcG9ZTmdvUHZRTUUzUk00MHBzNnZuU0FWNy1XMV8yM2c2cE1KY1VWLXlpWE4yQUJLVUFaTDZtZnVMMzJrSFgwWm1IUnpuRURnY1JQaVVGTEZ3ZUw4b3FpeW1sanRUNThKUnBfTkRYYzNTVU9SUEpwU1d0VXVaVUd6WlMwLXNORWt5SlpuUGktSG5pbHU3MUxDV2RS?oc=5",
-        "description": "",
-        "pubDate": "2025-09-07T02:37:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Gramatica's kick lifts South Florida to an 18-16 upset at No. 13 Florida and heats Napier's seat - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQzRDSk9HYmVqUDBjSGtCdEdCOXo5MHJwRTV6eENlbFNzLU1lOWpvVXQ2cGNJcDd0TDBrTXZiRE9veV9qMUszOTJQRVVUbDFUQVRRNFMzSkNLd2FUcGdCQ0h2Y1FfZFpMYlJfMkFoTVpnQ3BlSzY3QlRrMXNqWTh6VHh0UlltV1dlcjVtRlA4cmg?oc=5",
-        "description": "",
-        "pubDate": "2025-09-07T02:16:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Powerball lottery players in Missouri and Texas to split nearly $1.8 billion jackpot - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWmtjUWRDMTRtang3aFpwZlBmNUcxYmV6R0htUGRWdlh4NUVZaFY0TE12cklxVkJoWG9tQS1iTzRvSXFZTDdKV0NaMzlYYzh5WDE1eUE1NXRjbmFCT0NseXJQX1dFRXkyUGRIM2pSSlBnY3hOQjVNQ19RZ1ZXVnkwMlJUb3FWcHNKQTRKWnFTRmFiX1NJWDhj?oc=5",
+        "description": "",
+        "pubDate": "2025-09-07T13:24:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "'Labour will disprove the critics and the cynics'",
         "link": "https://www.bbc.com/news/videos/c701414p6jjo?at_medium=RSS&at_campaign=rss",
@@ -689,15 +707,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Police arrest almost 900 at London protest supporting banned group Palestine Action - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWjNjSFRHVGo0X0NES0JXbU9nX2hvNlBIYmFRLVdaMjFodlhtZkJMemNtNVM5dXJJOW1yNWMyRFBYUWRxcnJuNXhQYnBWb2JCM1hKODNTem5xSVNHWVpNbU5ZMVI2b1lZblBZMmwtMkNqc0M1dGVSbUxZQWtDVHBBTkpRWFIzcTh5RFZ0VTNpVEtGb2d1QXpveU5FUVcyazJmclE?oc=5",
-        "description": "",
-        "pubDate": "2025-09-07T12:35:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Politics chat: Trump's plans for Chicago, spending bill rebrand, redistricting fight",
@@ -752,14 +761,32 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a151/live/61694690-8271-11f0-a832-3d1a9236e27e.jpg",
         "bias": 0
+      },
+      {
+        "title": "Freeze! Police ice cream trucks seek to portray officers in a positive light - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR2l5UWZ1X1I1UFppYWp4Z09aQmVidzgxcVo5WHN2YXpOSEU5YTJUV2pKRnhHV3J6QXZ4ZU5yR1lVWUhRN0JRLWQ0WFhOTWZZUWVSMFh1cmxjYl9HR0FvSV9XSlBKcFpvZERzd2o2cVBjZDM2b212bzBuVGpYUkFnSkdaMHJGRVZZenhR?oc=5",
+        "description": "",
+        "pubDate": "2025-09-07T05:16:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Pride march in Serbia condemns police violence at anti-government rallies, seeks LGBTQ+ rights - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRENoYXFMVmZTbFhSVVBYdTYtaXZUTWRaNmpDaHhwR0IwTnBfamZTTXprRWN0UDBtT2NjaENsT1R1cGtQNC1IZU1RRzlYS0hOWGtUaklnU3lMUVJ0cTJLLXBNNF9lVnAtUlhBUVZ6TU82Z3NTdEZFMjhhOXAtVW5zd1did085NVUtN09QOTFrdDR6dmxGd09lbTVyUEw2QUdjQU1OS2VRNA?oc=5",
+        "description": "",
+        "pubDate": "2025-09-07T02:14:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Tech": [
       {
-        "title": "Pope Leo XIV declares teen computer whiz Carlo Acutis the first millennial saint - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaWcxcnZleDdSX2xLVWUwcHMwb0pfVk9DRGlSMDhPN2UtRGx2cXRJeE8zV2c0UThWS3NCd0p3SGVaX25qc3JfMm1XZzJyc1lULWxWeUZXTnRGdFVBOUNqV3plZWQ4dXAzM1AxQ1JtemE4Z2ZKeWlUTWxBbE82dk40OTJMelhDcWtLbnZranZVOEhuaW5XT3JzRnZaWVRja0RVa0ZiS2dJckJEQQ?oc=5",
+        "title": "See Nepal’s living goddess leave her palace to bless throngs of worshipers - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjB6alNhbVFGQTFCNm1rLV9nSnQwdFpNR3JiaVEyN3VUOFZWQWRveDJ6VzhoOVJOSnh0QXI3Um5jUDU4VTBSeHJVMFlWaTlYU0VuMkdZYkdTelVlQl8tN3ctMDdtNHp4MlRmd0h3RmJyaGhPZ3FPNkdOTk9Za1VoN3oxbDczRHZhT2hzeFdfUktmdThpRHFXdXl2NEp2TmxieElSdmFUNUxUdFU?oc=5",
         "description": "",
-        "pubDate": "2025-09-07T10:14:00Z",
+        "pubDate": "2025-09-07T10:28:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -774,174 +801,10 @@
         "bias": -1
       },
       {
-        "title": "Melo says 'I know what I gave to the game' in night of tears, memories for 2025 Hall of Fame class - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbmZCYmx4cURBd1NYUGVjVl9iVW0ycC1pN0VSZTVydkIwa1RnX19KdGY1MUh1aDlpMTFVMlRtbHJwckxmTGJsMVJHc0UzMTFQa2V3d2VaNk84SDlrbmxLVzBxMW1MVzJYV3NWd29WMFk0amJFS2VrT0dhNGpLel9XUW9KcGZGRFpscU5aY1VsTkQxN1ZtNkNTZ3NJRHV3NG5IYko0N21SaWZDU3hfSXc?oc=5",
-        "description": "",
-        "pubDate": "2025-09-07T01:45:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      }
-    ],
-    "Science": [
-      {
-        "title": "Trump attending the US Open as Rolex's guest despite Swiss tariffs. Any boos may not be seen on TV - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbmtyeTZEQTE3SGtITHVtZUJvRXBBNzIwZFhFa3lBdlU1NzEyaDNpd0xkbXZ1ZmZFWkY0cWJSaWNJUFRVNGpQYnlvZDNRYlpFNUpJNWhaeWNaZjNKMkRmOXpSdXV1amZ2MmRmMmlVS2w1Qno4WkZ3YzdERGVzNUdvZVpMZlBka1ZhUTdvWjFPY29EaW8zZ0ptZXpR?oc=5",
-        "description": "",
-        "pubDate": "2025-09-07T15:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "In one DC neighborhood after federal intervention, the notion of more authority is a mixed bag - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSzQ1M0c0YzhRRF9TeVRMc3FsMmlMUzg0bXpUcTdfTGI3eVFJQmNRQVVRQmhydTlqS1hZQVdEQnp6X0ViWkVtMnZneWlIS1ZtVVotRTE1X2NOY1pTal9COW4tVklhakV5SkxpX1dWbTV2UnZ2QW8wR1VsNUZKUmljam5jQUJhUF9xMnpfaFpLYnNZR1pDM3NZQUpWZE5uN3dFWUZ1aWVpSmpRRDh1T0dyNg?oc=5",
-        "description": "",
-        "pubDate": "2025-09-07T14:41:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Aryna Sabalenka wins the US Open again after vowing to no longer lose control of her emotions - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLU5xRHJ4OWN3NHI4SG9nN1MzX3Fkb1JySWFwWjBNcmg0MzhacFlpQm90WDZFWEFrWkV6YjRzeExuOUJrWklzNzlLTmp3M3c4Z1duOFVFM1R5RmdjcDhXREw2RHhvby1BNS1pNkkyTFF2REFlSnVyaVp6Rk9FYjNsQjhEcEZtU2pJZXhZ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-07T13:44:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Ukraine government building damaged in Kyiv in the largest Russian attack since the war began - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ0ZwV0hFN21VYVJDZFVMR25sZFcxblRYNjhCMGZIXzR3cXlEMUcydnlWOWNxa0plaS1Kcy15ZEw1emR3a25qbHhNVzdjMl93bTFzUmNnd0puUk14dVpycFY5Wk1xNEJhdnY3TlVvNld0U3JzNmY5V2FZMjBjLWhjdWY1T3Faa1g5Sk9fQ1hmTFo1eFhyNGtIZ0ZSUUFuVFRYdXpoWm02dE9qUQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-07T13:27:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Solar flares are hotter than previously thought",
-        "link": "https://www.npr.org/2025/09/07/nx-s1-5527011-e1/solar-flares-are-hotter-than-previously-thought",
-        "description": "Solar flares can be many times the size of Earth and can damage things like satellites. A new study suggests that eruptions from the sun can be even hotter than researchers thought.",
-        "pubDate": "2025-09-07T13:01:19Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Secret audios, dramatic leaks, spying claims: A bribery scandal engulfs Argentina’s Milei - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbWF4OXlQWHZzSGRrSmdILWc5N2R6cVp0cXFmLS1nemlmbzYzX3VDQktlVXhteVhmNXZLVmtMYnltQzFHV0FZVDZwbXBWdE5EMldRSmRGdnJPM1JXNUpyeGd0amVjd1ZwMTViZnBTUUdESFk4RkpveTBPS21ZemhWU2NWdVNISWl5ZG5YS1Z3bmNIM3VjcWVtbUYzSVg2ZGNSMzJlM3dR?oc=5",
-        "description": "",
-        "pubDate": "2025-09-07T12:27:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Japan’s prime minister resigns after party suffered historic defeat in summer election - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRDZGSTF4X0RELVNNSzNacFd2TjBOd3BDamRpNHNnRk0zR08zQUUzT29XRFdHSWNQaFdsajRZb3B3UzZLaWh5SG5EZ2ZOM0xtdEttVHM4WVdwM2N3R1J4QnVnOUN6TXRnZzQ2dy1JTExtT0pRSlRvVms4UE4wM0RIay11emJPZFpweVB2dmYweTZzZDVPNjRmNS1B?oc=5",
-        "description": "",
-        "pubDate": "2025-09-07T12:22:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "AI shakes up the call center industry, but some tasks are still better left to the humans - AP News",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb1YzQjZQQUl5TC11VVNzSVZaUE1SSTk5VzhTbXJhQzE2OUxHNHpoX2s5YTNlOElhRDRkY0FYRHhvTHk0UDNiUHZZY3ptbzBCY0MtRmg0SWN6S00tRkVqY1Y2NmdPa3IxVk5RRl9UYTdQcGJqLS1LYVRNeFV3UXV5MFlDcTV3dzd4OGgwRkpScHJlTV9UNlhLYVhXb3VjYmVUMEU5TzVqSHVFSEdWRTR1eXN1S25nMUptSlNlZA?oc=5",
-        "description": "",
-        "pubDate": "2025-09-07T12:15:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "The silent killer increases your risk of stroke and dementia. Here's how to control it",
-        "link": "https://www.npr.org/sections/shots-health-news/2025/09/07/nx-s1-5532108/the-silent-killer-increases-your-risk-of-stroke-and-dementia-heres-how-to-control-it",
-        "description": "New recommendations for early treatment for hypertension to prevent strokes, heart attacks and dementia come as an experimental medication is shown to lower blood pressure in hard to treat patients.",
-        "pubDate": "2025-09-07T11:00:00Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "See Nepal’s living goddess leave her palace to bless throngs of worshipers - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjB6alNhbVFGQTFCNm1rLV9nSnQwdFpNR3JiaVEyN3VUOFZWQWRveDJ6VzhoOVJOSnh0QXI3Um5jUDU4VTBSeHJVMFlWaTlYU0VuMkdZYkdTelVlQl8tN3ctMDdtNHp4MlRmd0h3RmJyaGhPZ3FPNkdOTk9Za1VoN3oxbDczRHZhT2hzeFdfUktmdThpRHFXdXl2NEp2TmxieElSdmFUNUxUdFU?oc=5",
-        "description": "",
-        "pubDate": "2025-09-07T10:28:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "How to see Sunday's 'Blood Moon' total lunar eclipse",
-        "link": "https://www.bbc.com/news/articles/c8739rrez23o?at_medium=RSS&at_campaign=rss",
-        "description": "A total lunar eclipse will be visible from parts of the UK on Sunday evening, weather permitting.",
-        "pubDate": "2025-09-07T08:56:28Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e02e/live/5274e560-67cb-11f0-bdb3-2fec70b719ae.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Sweden's plans to mine rare-earth minerals could ruin the lives of Indigenous Sami reindeer herders - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLTl6cVMxTVU4ZUNaSk16d1Jua1NHbnBIcVoxdVR2MTBGSTRHTmpUeUw1SF81V0ZBOU5CaTFpNUhHbEtkMHlyaS1yaTNwVlZGS2E4SkVYUm9Xc3hRd0xRRkQ3SGZ1ZUtjOXBXZExraTlDM1ljTDF3M3FiOFhfMXN5LVI2Vlk5elVVOWFoci10X0NzWm9TcloySVhRdUlyTWtYUW95bGRsUkd4TEVSUFBPMzBISQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-07T08:02:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "59-0. 49-0. 48-0. Those were some halftime scores across college football on a romp-filled Saturday - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWVMxSkVMY0ZEU01FNjZxY3pRc1RkUi02TnREalkzU000MkRNWThodHhBLVlGU2F0U25rRGZxdDAzN1ZLd01zOFhOa0Rna1h2QWxvUmpEUW10TURjd2ZkMTBwaHctenROVTN4MnpDdHRZQmhsdzZ3MUxDU1g2MFNwMW9Hdms5RXZ6RjFPZGhR?oc=5",
-        "description": "",
-        "pubDate": "2025-09-07T06:41:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Anutin Charnvirakul becomes Thailand’s new prime minister after royal endorsement - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ2hSblpkaFdHaFNrZnJWMW9QbW5vSjk1Yk1VUExFd3dpRDgzRVZjMlZDWjZjcnVSeDNvY2Nmek1ZWmNOUWx3U2xhNVRyT0tWSWIyWkJmeUljRUNkN21TOGNrMGEtQ2lXb3I0WGRka054Sy1MZGpYc2RiOUE5Y0Z2dGx1bTFhRzZJa25KWVRBY05wdERjYVdHVTZZamwxOEk4OG5NM2d1b2VncXR5?oc=5",
-        "description": "",
-        "pubDate": "2025-09-07T06:14:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Black man shot at while waiting to go to work says South Carolina needs hate crime law - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOHc4X2tCRHJsd1B2d0N3bnBydmZFV0JSNW15anJCTGpXVjNhTzBfalA5RjhoRkk1RzVLNnVhNzNZY1VYeGJrRFpTSDh5eC11Yk9EMlh2QWJTOHdBV3EwRy1wX1NDX0xpWkF1RmQ1Rlo3d1p2elREMmlWaVp3UFZJcUJuUVN6ZnJ6QzZSTl9oblRwams?oc=5",
-        "description": "",
-        "pubDate": "2025-09-07T05:14:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Coca leaves remain a source of work, faith and identity in Bolivia - AP News",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM2RQSHlUYzVUd01nNmlXd3ZMZk5HT25fQ2MwWWJwZ3B5RFQ3VmdQSXppalh2ZWkyN2ZHaVVZTnFNOXl3dF9JU3FhOEdtaW5UaFVDTEtMdjZ0R0F6c2FQV2s4RWtIRFpqZmxaUnpfT0dRN2N2QnpsSDVFWXdLS0lFVEctNWtXci0tUXkzbEdBUzR4TzZj?oc=5",
         "description": "",
         "pubDate": "2025-09-07T05:07:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Florida coach Billy Napier back on the proverbial hot seat after meltdown against USF - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT1VUYmx2a3dPTjd0MjJReGo1ZTAzSTdHTWlqTU53VjVkN2JUUWhlellQLXlLOTI5SlByX3NYSHN1LTY5SkN5TkVXN0tvNGVfM0Rna1dJLTYxYUlSTWdwTk1ZY1V3Ui1DMk9sSjFtZWEydFBNWWNLckVhUlUtQ0ZsLXF2RmduNEpfM3FOTFdwQWRpc19ESnBNOGV3c2M?oc=5",
-        "description": "",
-        "pubDate": "2025-09-07T04:23:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "After largely ignoring suffering in Gaza, Israeli media start to report on Palestinian hardships - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVFhOMUlGcmZOT3VxZDF2QVNxelZlUThMYWxKMFg5cEVIZjhXTEtnd1pjdkRIaXViZnNPRUx2SmRXQzNlSkplSmZfcWZBNm1fek5vLXhaZjhFZVduTVdlRFl2ZUFxYkVjc0d1VTE2aWhoa183OUlGY09qd29oMDAzdUhCSWNFQ2c4T2pVNDRUc3IzRlo5eE9kYzhUQjZILXZnWUtvTA?oc=5",
-        "description": "",
-        "pubDate": "2025-09-07T04:09:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -956,28 +819,10 @@
         "bias": 0
       },
       {
-        "title": "Yoshinobu Yamamoto was an out from a no-hitter. It somehow turned into another loss for the Dodgers - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLUowS0NnREV5WWlxVnVvbzdPc1RQUE4tMzQ2RWw1THpfbmZtd0ZCZnM4Q2JKb0xzMGZmdmFJeTFTeDhDeXE1dTZESW0wZF9ieUpnWERwZ2lFWHZhOFJFRFdJQmlsT2cxc081N1Q1TWdIY3dLVXVBdUx0Nm9yNlVYTHluMDluWlY0ZmJZZlJhVkxWS2lJemIxZkZrQ1A2U2JrTGZwRFBR?oc=5",
+        "title": "The MTV Video Music Awards are back. Taylor Swift and Beyoncé go head-to-head. Who will win? - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV2hqNEI3dGJEWW43N0RkVzhkdWpXbHlHOXdndUIwbXhlc0dIeE9CNV93VnV1Njc0MkhBQWtiS25mclRJWkdROTJweGxnMW5RdVR2SmZlbndOeDhjbWlmMzVMOE1TaHZWVGRNUVl3bV9rSFVvVzBjaEtvOGY3bmNDVlBtelU?oc=5",
         "description": "",
-        "pubDate": "2025-09-07T03:49:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Poll preview: Rankings could see no change in top 10; No. 13 Gators' loss to USF is biggest surprise - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNakxkbDU0ajhBNWxMbkIyQmZXR0x4MlFZTEdZb3RFOXpyX2RVNE1VR2lmbnVWZm81SzJHaVROYjVmYWVka0FSUnVob2VQNE1aLWNlNVNzaERqc1RPdTJ1VVMwaUM1bVN6UDN4bENoYXo0blo1MkRjdUxKc3A3eVhMVENMeExQMG1hR2pfNEhCZw?oc=5",
-        "description": "",
-        "pubDate": "2025-09-07T03:35:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Legal aid group sues to preemptively block US from deporting a dozen Honduran children - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS1FNdTdoeVZhRWRTWEhTY2NycVduQW9kdGNFZDZCcThxeFdQWjM2SUU0ZU1Yb1ZvQllCX2RIRWd0OTNZQ0daT2x1Z21pbTlmV05rNnhCZks5dmxISUQxcTItSmJTRlR2Zm1WNU5lei0yb29rMTVGclpTSnlmbFB5N21OLXBuMTRNY1gxRE11TUZnTk5WcUNDdWlNaWRwaG1rMWY4YXdTR0xkcHBvdmRMMC1LbkVoWDd3UUE?oc=5",
-        "description": "",
-        "pubDate": "2025-09-07T03:13:00Z",
+        "pubDate": "2025-09-07T04:01:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -990,23 +835,34 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      }
+    ],
+    "Science": [
+      {
+        "title": "Solar flares are hotter than previously thought",
+        "link": "https://www.npr.org/2025/09/07/nx-s1-5527011-e1/solar-flares-are-hotter-than-previously-thought",
+        "description": "Solar flares can be many times the size of Earth and can damage things like satellites. A new study suggests that eruptions from the sun can be even hotter than researchers thought.",
+        "pubDate": "2025-09-07T13:01:19Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
       },
       {
-        "title": "An out from being no-hit, the Orioles stun the Dodgers with 4 runs in the 9th to win 4-3 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa1BySUdQa1hnTU9KX1JhelRIUnQ3RTFuWkxLcVpHTHhnQ1ozTGpLQVBTcDM3bWVSdFpXaTFJcVVvRUZPamNIWHVkOTJ6bTExdGp6d3JQc2YzaTlhWFllV1ZISURjODBTSGNuY0U3Y2M3MXdyZG5ZVUVaN0dLTFJNMWtBb3FTLVVO?oc=5",
-        "description": "",
-        "pubDate": "2025-09-07T02:30:00Z",
-        "source": "news.google.com",
+        "title": "The silent killer increases your risk of stroke and dementia. Here's how to control it",
+        "link": "https://www.npr.org/sections/shots-health-news/2025/09/07/nx-s1-5532108/the-silent-killer-increases-your-risk-of-stroke-and-dementia-heres-how-to-control-it",
+        "description": "New recommendations for early treatment for hypertension to prevent strokes, heart attacks and dementia come as an experimental medication is shown to lower blood pressure in hard to treat patients.",
+        "pubDate": "2025-09-07T11:00:00Z",
+        "source": "npr.org",
         "image": "",
-        "bias": 0
+        "bias": -1
       },
       {
-        "title": "South Korea wins friendly 2-0 as fans again overwhelmingly support opponent at US home game - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc2IxTzJFUHRUN0ZBdk5zMUdUX2N0eTBtTVlyc25VX2JhMGVlREhSY1JueE8yN0JvQkhQSVd3a2hHQjFwN3lUSngtQnE3UzNwYUZ1c2ZOcndsWEM4X1B1cTQwb2xGMEFrRG9kUk9sN1IyQ3o1R0ZkbVh6RnVYZXVKeXpXd0lrR0U?oc=5",
-        "description": "",
-        "pubDate": "2025-09-07T01:21:00Z",
-        "source": "news.google.com",
-        "image": "",
+        "title": "How to see Sunday's 'Blood Moon' total lunar eclipse",
+        "link": "https://www.bbc.com/news/articles/c8739rrez23o?at_medium=RSS&at_campaign=rss",
+        "description": "A total lunar eclipse will be visible from parts of the UK on Sunday evening, weather permitting.",
+        "pubDate": "2025-09-07T08:56:28Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e02e/live/5274e560-67cb-11f0-bdb3-2fec70b719ae.jpg",
         "bias": 0
       }
     ],
