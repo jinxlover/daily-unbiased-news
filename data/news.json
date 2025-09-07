@@ -1,7 +1,25 @@
 {
-  "lastUpdate": "2025-09-07T07:16:23.975035Z",
+  "lastUpdate": "2025-09-07T07:28:55.704512Z",
   "news": {
     "Gaming": [
+      {
+        "title": "RhayThem (2023) [Free] [Rhythm] [Windows]",
+        "link": "https://joshua-yeoh.itch.io/rhaythem",
+        "description": "A Rhythm Shoot'Em Up Game",
+        "pubDate": "2025-09-07T07:09:39Z",
+        "source": "joshua-yeoh.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDc1NDgwLmdpZg==/315x250%23c/j3cu%2Be.gif",
+        "bias": 0
+      },
+      {
+        "title": "Space Shooter [Free] [Shooter] [Windows]",
+        "link": "https://hsa92.itch.io/space-shooter",
+        "description": "A fast arcade shooter.",
+        "pubDate": "2025-09-07T07:03:54Z",
+        "source": "hsa92.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDc1Mzc2LnBuZw==/315x250%23c/N%2FonwD.png",
+        "bias": 0
+      },
       {
         "title": "Pimble's Home [Free]",
         "link": "https://arcussarcuss.itch.io/pimbles-home",
@@ -12,7 +30,7 @@
         "bias": 0
       },
       {
-        "title": "Pig's Dice Alpha [Free] [Strategy]",
+        "title": "Pig's Dice [Free] [Strategy] [Windows]",
         "link": "https://hans8546.itch.io/pigs-dice-alpha",
         "description": "",
         "pubDate": "2025-09-07T06:29:44Z",
@@ -174,24 +192,6 @@
         "bias": 0
       },
       {
-        "title": "Tankyz (2023) [Free] [Survival] [Windows] [Android]",
-        "link": "https://joshua-yeoh.itch.io/tankyz",
-        "description": "A Hypercasual Game",
-        "pubDate": "2025-09-07T03:30:13Z",
-        "source": "joshua-yeoh.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDczODE4LmdpZg==/315x250%23c/rO8nE5.gif",
-        "bias": 0
-      },
-      {
-        "title": "8 Puzzle Game [Free] [Puzzle]",
-        "link": "https://lordofallscrubs.itch.io/8-puzzle-game",
-        "description": "",
-        "pubDate": "2025-09-07T03:26:33Z",
-        "source": "lordofallscrubs.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDczNzgxLnBuZw==/315x250%23c/ZJ8Sx7.png",
-        "bias": 0
-      },
-      {
         "title": "UFO RUN [Free] [Platformer] [Android]",
         "link": "https://b96er.itch.io/ufo-run",
         "description": "",
@@ -207,15 +207,6 @@
         "pubDate": "2025-09-07T02:31:13Z",
         "source": "roastedduckreel.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMDczMzg5LnBuZw==/315x250%23c/4HW2LS.png",
-        "bias": 0
-      },
-      {
-        "title": "The Side Quest [Free] [Action] [Windows]",
-        "link": "https://hammerstrike.itch.io/the-side-quest",
-        "description": "Pixel art action adventure game.",
-        "pubDate": "2025-09-07T02:28:48Z",
-        "source": "hammerstrike.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDczMzgzLnBuZw==/315x250%23c/GkR%2BLQ.png",
         "bias": 0
       },
       {
@@ -239,6 +230,15 @@
     ],
     "World": [
       {
+        "title": "Israeli forces destroy another Gaza City tower block",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/9/7/israeli-forces-destroy-another-gaza-city-tower-block?traffic_source=rss",
+        "description": "Watch the moment Israeli forces bomb al-Soussi Tower, a high-rise residential building in Gaza City.",
+        "pubDate": "2025-09-07T07:14:09Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Ukraine's main government building in Kyiv hit for first time, PM says",
         "link": "https://www.bbc.com/news/articles/cpq5dl5y4nlo?at_medium=RSS&at_campaign=rss",
         "description": "At least three people were killed in strikes on Ukraine, including a baby and woman in Kyiv, officials said.",
@@ -253,6 +253,24 @@
         "description": "Russia hit Ukraine's capital with drone and missiles Sunday in the largest aerial attack on the country since the war began.",
         "pubDate": "2025-09-07T07:07:28Z",
         "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Pride march in Serbia condemns police violence at antigovernment rallies",
+        "link": "https://www.aljazeera.com/news/2025/9/7/pride-march-in-serbia-condemns-police-violence-at-antigovernment-rallies?traffic_source=rss",
+        "description": "The LGBTQ event in Belgrade comes the day after police arrested 42 demonstrators in the city of Novi Sad.",
+        "pubDate": "2025-09-07T07:07:15Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Irfaan Ali re-elected for second term as oil-rich Guyana’s president",
+        "link": "https://www.aljazeera.com/news/2025/9/7/irfaan-ali-reelected-for-second-term-as-oil-rich-guyanas-president?traffic_source=rss",
+        "description": "Centre-left 45-year-old politician gets new mandate to manage the South American nation's newfound oil wealth.",
+        "pubDate": "2025-09-07T06:54:36Z",
+        "source": "aljazeera.com",
         "image": "",
         "bias": -1
       },
@@ -311,9 +329,9 @@
         "bias": 0
       },
       {
-        "title": "Russian attacks on Ukraine’s Kyiv kill at least 3, strike gov’t building",
+        "title": "Russian attacks on Ukraine’s Kyiv kill at least 3, gov’t building struck",
         "link": "https://www.aljazeera.com/news/2025/9/7/russian-attacks-on-ukraines-kyiv-kill-at-least-3-strike-govt-building?traffic_source=rss",
-        "description": "Kyiv Mayor Vitali Klitschko says attack early on Sunday sparked fires at several high-rise buildings in the capital.",
+        "description": "Kyiv Mayor Vitali Klitschko says the early Sunday attack sparked fires at several high-rises in the capital.",
         "pubDate": "2025-09-07T05:14:39Z",
         "source": "aljazeera.com",
         "image": "",
@@ -541,17 +559,7 @@
         "bias": 0
       }
     ],
-    "Business": [
-      {
-        "title": "Sanders and Mamdani energize supporters at town hall as NYC mayor's race enters final stretch - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN1RBZnFtLWhnSDd0cEJNSkZPdjRpZmN0UFdGZHBFQ09kVVFuYUE0RllZdkZQbWFXYVgySzNFRDZoNHZPZmV0VDNYSW5oSXlrYS1HTE1ENkpHbDNQSEtKU2lPcGxoYjJKajZCRzE4eV9LWWdKVkI3ZzF4bWFsZTQ5c2F4VkJ0ejY0Mm40UkFMSm1ESXdO?oc=5",
-        "description": "",
-        "pubDate": "2025-09-07T02:48:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      }
-    ],
+    "Business": [],
     "Culture": []
   }
 }
