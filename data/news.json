@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-07T07:39:25.820417Z",
+  "lastUpdate": "2025-09-07T07:49:54.152671Z",
   "news": {
     "Gaming": [
       {
@@ -230,6 +230,33 @@
     ],
     "World": [
       {
+        "title": "Ukraine's main government building in Kyiv hit for first time, PM says",
+        "link": "https://www.bbc.com/news/articles/cpq5dl5y4nlo?at_medium=RSS&at_campaign=rss",
+        "description": "Ukraine's air force reported a record number of drones and missiles were launched by Russia in the latest nightly attack.",
+        "pubDate": "2025-09-07T07:45:32Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e006/live/9d7ada90-8bae-11f0-94f7-a595856b120f.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Watch: BBC at the scene of Ukrainian government building strike",
+        "link": "https://www.bbc.com/news/videos/cy04lx67e1eo?at_medium=RSS&at_campaign=rss",
+        "description": "One of Kyiv's main government buildings was hit in overnight missile and drone strikes by Russia.",
+        "pubDate": "2025-09-07T07:41:25Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25eb/live/a79b0de0-8bba-11f0-9cf6-cbf3e73ce2b9.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Week in Pictures: From Israeli air raids in Gaza to protests in Serbia",
+        "link": "https://www.aljazeera.com/gallery/2025/9/7/week-in-pictures-from-israeli-air-raids-in-gaza-to-protests-in-serbia?traffic_source=rss",
+        "description": "A global roundup of some of last week’s events.",
+        "pubDate": "2025-09-07T07:32:18Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Israeli forces destroy another Gaza City tower block",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/9/7/israeli-forces-destroy-another-gaza-city-tower-block?traffic_source=rss",
         "description": "Watch the moment Israeli forces bomb al-Soussi Tower, a high-rise residential building in Gaza City.",
@@ -237,15 +264,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Ukraine's main government building in Kyiv hit for first time, PM says",
-        "link": "https://www.bbc.com/news/articles/cpq5dl5y4nlo?at_medium=RSS&at_campaign=rss",
-        "description": "At least three people were killed in strikes on Ukraine, including a baby and woman in Kyiv, officials said.",
-        "pubDate": "2025-09-07T07:12:31Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e006/live/9d7ada90-8bae-11f0-94f7-a595856b120f.jpg",
-        "bias": 0
       },
       {
         "title": "Russia assaults Ukraine with over 800 drones and decoys, the largest such attack in the war",
@@ -304,7 +322,7 @@
       {
         "title": "Japan’s PM Shigeru Ishiba will resign weeks after election debacle: NHK",
         "link": "https://www.aljazeera.com/news/2025/9/7/japans-pm-shigeru-ishiba-will-resign-weeks-after-election-debacle-nhk?traffic_source=rss",
-        "description": "This is a breaking news story.",
+        "description": "The ruling Liberal Democratic Party (LDP) no longer has a majority in either house of parliament.",
         "pubDate": "2025-09-07T06:32:24Z",
         "source": "aljazeera.com",
         "image": "",
@@ -556,17 +574,7 @@
         "bias": 0
       }
     ],
-    "Tech": [
-      {
-        "title": "'The Studio,' 'The Penguin' and Julie Andrews are among the winners at the Creative Arts Emmys - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQkRtazZOR250NTJxU25STkY3MFNyR1ZENm9OcGdOYjZrNWVTaVR0dGhfQU4yaGVaaGQ3aTlWNnc2VFJmTHRORzZ0TGdZUGlUd0N0MUJWMktCWjlqTE1HcGotTmRjdkJldGZ6NjBUQXc0a3lhV0NMZlNCRVFndVE5QXJTbXRQZmEtdl9aMFFPa0luaXVOeE5pdmlXbkNyemJERjJR?oc=5",
-        "description": "",
-        "pubDate": "2025-09-07T04:06:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      }
-    ],
+    "Tech": [],
     "Science": [
       {
         "title": "How to see Sunday's 'Blood Moon' total lunar eclipse",
@@ -578,7 +586,17 @@
         "bias": 0
       }
     ],
-    "Business": [],
+    "Business": [
+      {
+        "title": "Sanders and Mamdani energize supporters at town hall as NYC mayor's race enters final stretch - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN1RBZnFtLWhnSDd0cEJNSkZPdjRpZmN0UFdGZHBFQ09kVVFuYUE0RllZdkZQbWFXYVgySzNFRDZoNHZPZmV0VDNYSW5oSXlrYS1HTE1ENkpHbDNQSEtKU2lPcGxoYjJKajZCRzE4eV9LWWdKVkI3ZzF4bWFsZTQ5c2F4VkJ0ejY0Mm40UkFMSm1ESXdO?oc=5",
+        "description": "",
+        "pubDate": "2025-09-07T02:48:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ],
     "Culture": []
   }
 }
