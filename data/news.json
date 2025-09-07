@@ -1,7 +1,52 @@
 {
-  "lastUpdate": "2025-09-07T21:55:39.265836Z",
+  "lastUpdate": "2025-09-07T22:16:27.890673Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Clean everything [Free]",
+        "link": "https://polar-dev22.itch.io/clean-everythingfixedagain",
+        "description": "",
+        "pubDate": "2025-09-07T22:14:38Z",
+        "source": "polar-dev22.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDg2NDcwLnBuZw==/315x250%23c/wAQsny.png",
+        "bias": 0
+      },
+      {
+        "title": "WebGPU First Triangle [Free] [Windows]",
+        "link": "https://litebox-games.itch.io/webgpu-first-triangle",
+        "description": "",
+        "pubDate": "2025-09-07T21:59:42Z",
+        "source": "litebox-games.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDg2MzE5LnBuZw==/315x250%23c/Mcrcjo.png",
+        "bias": 0
+      },
+      {
+        "title": "Revealing Scout [Free] [Adventure]",
+        "link": "https://darkfrei.itch.io/revealing-scout",
+        "description": "Small game about scout",
+        "pubDate": "2025-09-07T21:49:30Z",
+        "source": "darkfrei.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDg2Mjk0LnBuZw==/315x250%23c/YjI9m1.png",
+        "bias": 0
+      },
+      {
+        "title": "Take The A Train [Free] [Simulation]",
+        "link": "https://greybeard4200.itch.io/take-the-a-train",
+        "description": "A NYC Subway Simulator Game made in PICO-8",
+        "pubDate": "2025-09-07T21:48:59Z",
+        "source": "greybeard4200.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDg2MjIzLnBuZw==/315x250%23c/FSthei.png",
+        "bias": 0
+      },
+      {
+        "title": "Health Up! [Free] [Other]",
+        "link": "https://mocha-2005.itch.io/health-up",
+        "description": "",
+        "pubDate": "2025-09-07T21:48:22Z",
+        "source": "mocha-2005.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDg2MjI2LnBuZw==/315x250%23c/fJUhXV.png",
+        "bias": 0
+      },
       {
         "title": "Night Defense for Micro Jam 046 [Free] [Action]",
         "link": "https://parentsbasementgames.itch.io/night-defense",
@@ -63,6 +108,15 @@
         "pubDate": "2025-09-07T21:20:17Z",
         "source": "hisshinogames.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMDg1ODQ1LmpwZw==/315x250%23c/5SOcZH.jpg",
+        "bias": 0
+      },
+      {
+        "title": "GoodSpirit City: Ministerio de Energía [Free] [Simulation]",
+        "link": "https://jowencapo.itch.io/goodspirit-city-ministerio-de-energa",
+        "description": "Fuiste nombrado como ministro de energía de la creciente GoodSpirit City.",
+        "pubDate": "2025-09-07T21:14:19Z",
+        "source": "jowencapo.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDg1ODk2LnBuZw==/315x250%23c/t2uHk7.png",
         "bias": 0
       },
       {
@@ -129,42 +183,6 @@
         "bias": 0
       },
       {
-        "title": "Clean everything [Free] [Platformer] [Windows]",
-        "link": "https://polar-dev22.itch.io/clean-everythingfixed",
-        "description": "",
-        "pubDate": "2025-09-07T20:55:50Z",
-        "source": "polar-dev22.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDg1NDEyLnBuZw==/315x250%23c/5YOAfR.png",
-        "bias": 0
-      },
-      {
-        "title": "Branchie [Free] [Action]",
-        "link": "https://darbu.itch.io/branchie",
-        "description": "Steal acorns, dodge rivals, and rule the treetops.",
-        "pubDate": "2025-09-07T20:55:41Z",
-        "source": "darbu.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDg1NTA2LmpwZw==/315x250%23c/oxjzQN.jpg",
-        "bias": 0
-      },
-      {
-        "title": "CUBEFIRE THE GAME [Free] [Platformer] [Windows]",
-        "link": "https://atomogame-studio.itch.io/cubefire-the-game",
-        "description": "",
-        "pubDate": "2025-09-07T20:48:36Z",
-        "source": "atomogame-studio.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDg1NTA0LnBuZw==/315x250%23c/g2Fapy.png",
-        "bias": 0
-      },
-      {
-        "title": "Phantom Path [Free] [Platformer]",
-        "link": "https://sandman-8.itch.io/phantom-path",
-        "description": "you play as a shadow and a spotlight and go through levels",
-        "pubDate": "2025-09-07T20:47:36Z",
-        "source": "sandman-8.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDg1NDkxLnBuZw==/315x250%23c/6B39Fw.png",
-        "bias": 0
-      },
-      {
         "title": "TRS-80 BASIC Pong80 [Free] [Sports]",
         "link": "https://mcoorlim.itch.io/trs-80-basic-pong80",
         "description": "A 2-player pong clone",
@@ -189,15 +207,6 @@
         "pubDate": "2025-09-07T20:42:16Z",
         "source": "plotoxdiscoding.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMDg1NjcyLnBuZw==/315x250%23c/fuVeMW.png",
-        "bias": 0
-      },
-      {
-        "title": "Pinball Eólico (Ya casi ya casi!) [Free] [Action]",
-        "link": "https://toothlessdog.itch.io/pinball-eolico",
-        "description": "Hacé girar los molinos y generá energía!",
-        "pubDate": "2025-09-07T20:33:48Z",
-        "source": "toothlessdog.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDg1NDMxLmpwZw==/315x250%23c/XXH8rU.jpg",
         "bias": 0
       },
       {
@@ -228,24 +237,6 @@
         "bias": 0
       },
       {
-        "title": "SRB2 Persona: Multiplayer Demo [Free] [Role Playing] [Windows] [macOS] [Linux]",
-        "link": "https://toondo.itch.io/srb2-persona-demo",
-        "description": "",
-        "pubDate": "2025-09-07T20:10:52Z",
-        "source": "toondo.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDg1MzQzLmpwZw==/315x250%23c/XncXXd.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Waifu Chronicle's - The Lost Truth - Demo [Free] [Adventure]",
-        "link": "https://horoichi.itch.io/waifu-chronicles-the-lost-truth-demo",
-        "description": "",
-        "pubDate": "2025-09-07T19:51:00Z",
-        "source": "horoichi.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDg1MTMzLmpwZw==/315x250%23c/8OOfQ9.jpg",
-        "bias": 0
-      },
-      {
         "title": "Ruthless: Ever After [Free] [Role Playing] [Windows] [macOS] [Linux]",
         "link": "https://rainhet.itch.io/ruthless-ever-after",
         "description": "A tired looking man is knocking at your door, he must've travelled far",
@@ -255,12 +246,12 @@
         "bias": 0
       },
       {
-        "title": "Procrastinator Blob [Free] [Rhythm] [Windows]",
-        "link": "https://somesamesane.itch.io/whyareyoureadingthisgoplaythegameplsyouhavebetterthingstodo",
-        "description": "I would write a description but I am too lazy to even try.",
-        "pubDate": "2025-09-07T18:16:39Z",
-        "source": "somesamesane.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDg1MTk1LnBuZw==/315x250%23c/N6FHSS.png",
+        "title": "علبة | Cup Shuffle Biscuit Game [Free] [Strategy]",
+        "link": "https://thurayax.itch.io/cup-shuffle-biscuit",
+        "description": "A fast-paced puzzle game! Track the boxes and find the sewing box before it's too late",
+        "pubDate": "2025-09-07T17:50:21Z",
+        "source": "thurayax.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMDg2Mzc0LnBuZw==/315x250%23c/MurBDU.png",
         "bias": 0
       },
       {
@@ -271,23 +262,41 @@
         "source": "ebuch17.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMDgyMzIyLmpwZw==/315x250%23c/8zVjru.jpg",
         "bias": 0
-      },
-      {
-        "title": "Fetch The Branches [Free] [Simulation] [Windows]",
-        "link": "https://rasslan.itch.io/fetch-the-branches",
-        "description": "A cozy game of fetch with your best friend.",
-        "pubDate": "2025-09-07T16:29:14Z",
-        "source": "rasslan.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMDgyMDQ4LnBuZw==/315x250%23c/TPU9yP.png",
-        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "What is happening to US and South Korea’s relations?",
+        "link": "https://www.aljazeera.com/video/inside-story/2025/9/7/what-is-happening-to-us-and-south-koreas?traffic_source=rss",
+        "description": "US immigration sweep on South Korean workers at Hyundai-LG electric vehicle battery plant sparks shock in Seoul.",
+        "pubDate": "2025-09-07T21:48:33Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Trump’s US Open visit sparks boos and long security lines - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbmtyeTZEQTE3SGtITHVtZUJvRXBBNzIwZFhFa3lBdlU1NzEyaDNpd0xkbXZ1ZmZFWkY0cWJSaWNJUFRVNGpQYnlvZDNRYlpFNUpJNWhaeWNaZjNKMkRmOXpSdXV1amZ2MmRmMmlVS2w1Qno4WkZ3YzdERGVzNUdvZVpMZlBka1ZhUTdvWjFPY29EaW8zZ0ptZXpR?oc=5",
+        "description": "",
+        "pubDate": "2025-09-07T21:40:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Aaron Rodgers looks right at home vs. Jets in Steelers debut with 4 TD passes in win - AP News",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUmF2Q0t3dDJtZnJZb0pHWVBsUm53X3JhVzZCU3hEeF94Mm44NjR5WkFWYk5xakV4aWRuSlNBc0lhQ1FtVmJVUGZ6VHhYUEVsOXJSWjlYWkFHd3BKZ2h4QXZYbzlpRlRMLXN6U0U2Yl9hM0RpYXVFczROUDFZX0RjOEtoSWRXamxybGxnMXFyNE4?oc=5",
         "description": "",
         "pubDate": "2025-09-07T21:31:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "AP Top 25 has record 11 SEC teams as Auburn and Missouri make the list - AP News",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91RWMtdHhmaWVhQ3NYMlZRMzJoRTl6QkFJZmJEM3JJellqWXRFVm1vbWlNSWZ4Y2x5Tm83MnlsaFZzaGNaZUt4eW5zdlQ4b1FrVmZEZGJOUVpZczE1dDdjSlk3NDFyZjZEbDdlUlpn?oc=5",
+        "description": "",
+        "pubDate": "2025-09-07T21:29:07Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -300,15 +309,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "AP Top 25 has record 11 SEC teams as Auburn and Missouri make the list - AP News",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91RWMtdHhmaWVhQ3NYMlZRMzJoRTl6QkFJZmJEM3JJellqWXRFVm1vbWlNSWZ4Y2x5Tm83MnlsaFZzaGNaZUt4eW5zdlQ4b1FrVmZEZGJOUVpZczE1dDdjSlk3NDFyZjZEbDdlUlpn?oc=5",
-        "description": "",
-        "pubDate": "2025-09-07T21:17:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Greta Thunberg's Gaza flotilla arrives in Tunisia",
@@ -324,15 +324,6 @@
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSzQ1M0c0YzhRRF9TeVRMc3FsMmlMUzg0bXpUcTdfTGI3eVFJQmNRQVVRQmhydTlqS1hZQVdEQnp6X0ViWkVtMnZneWlIS1ZtVVotRTE1X2NOY1pTal9COW4tVklhakV5SkxpX1dWbTV2UnZ2QW8wR1VsNUZKUmljam5jQUJhUF9xMnpfaFpLYnNZR1pDM3NZQUpWZE5uN3dFWUZ1aWVpSmpRRDh1T0dyNg?oc=5",
         "description": "",
         "pubDate": "2025-09-07T20:25:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Trump’s US Open visit sparks boos and long security lines - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbmtyeTZEQTE3SGtITHVtZUJvRXBBNzIwZFhFa3lBdlU1NzEyaDNpd0xkbXZ1ZmZFWkY0cWJSaWNJUFRVNGpQYnlvZDNRYlpFNUpJNWhaeWNaZjNKMkRmOXpSdXV1amZ2MmRmMmlVS2w1Qno4WkZ3YzdERGVzNUdvZVpMZlBka1ZhUTdvWjFPY29EaW8zZ0ptZXpR?oc=5",
-        "description": "",
-        "pubDate": "2025-09-07T20:15:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -386,7 +377,7 @@
         "title": "Associated Press News: Breaking News | Latest News Today - AP News",
         "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
         "description": "",
-        "pubDate": "2025-09-07T18:50:13Z",
+        "pubDate": "2025-09-07T18:50:26Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -459,6 +450,15 @@
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOXVxTVVvSFlVeWFIMGtoM09YOUYxOHVseHRpNnNUdzlWVFVOZ1F0Z09LSmc3cUw5ZkJ2TGQ1V0RJLW94SVhvU1luYjVpVXBmVEFKZlg3clR2Y3JGdXloZktla3FnelFZTUZ3eHA0OEVGczYtV3FJdjZlZEVDOEJSS1d1YWFQMXV0ai1mNERIRC00S0tXdmlaYkg1RGd0WDBmS0IwWDVZcUtrRVhxc0dsZzcyNHNMMVhiZXZF?oc=5",
         "description": "",
         "pubDate": "2025-09-07T17:36:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "‘The Conjuring: Last Rites’ creeps its way to another box office win for horror genre - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZXg0RHU5Y3IzVzBEU3oyYnhxc0piRV9fZ2pBZ2l5ajdBY2ZHOTh5dmJpaEg1aGVqNl9uVnMzc2tUdy03Q0t4MlZoYTlqZjJ6cHJOY29idGxibVA2MjFsX2tUQU1LZTFnQ1hBV09QdnU1MVdJaHlRZzVTQktVM29VcHZWckNqZFJqWmtBd0d2ZWxoNWk0UThvcWJMWVJEbmVHaE9sRXZsYXR3WEF1VEJMNS13?oc=5",
+        "description": "",
+        "pubDate": "2025-09-07T17:31:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -619,7 +619,7 @@
       {
         "title": "LIVE: Carlos Alcaraz vs Jannik Sinner – US Open final 2025",
         "link": "https://www.aljazeera.com/sports/liveblog/2025/9/7/live-alcaraz-vs-sinner-us-open-2025-mens-singles-final-score-photos-commentary-stream?traffic_source=rss",
-        "description": "Follow our live build-up, score, photos and text commentary stream from the US Open men's singles final in New York.",
+        "description": "Alcaraz wins his second Grand Slam of the year by beating Sinner in the US Open men's singles final in New York.",
         "pubDate": "2025-09-07T15:02:00Z",
         "source": "aljazeera.com",
         "image": "",
@@ -714,27 +714,27 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
+      }
+    ],
+    "Politics": [
       {
-        "title": "Several of Trump’s immigration policies have faced lawsuits, court rulings - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX3FZS0drOUVBNUJUdl9XcU5kWWJISjdjd2d1cDNtQ29EeHlHT3V2eHBxenNDUlFmempFdWVCYVJOdEplYU5oRUdiR2ZEZkpfN0UyaksyenJoMEdVTEFuRHVJT1M5TktyOXVZMWM1N19EV1RzSC1oSnRkd2h4Njk0SEVmQlVfLVJCQ201MXRPcEdiRl9fNlp1bkZ0akZQaHhwellRZVNOcE1PNFEwVVY0Wg?oc=5",
+        "title": "Aaron Rodgers throws 4 TD passes in his Steelers debut, leads 34-32 comeback win over Jets - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS3IxMmRPei11ZThiVHE1cF85emRQRVk0d0RzNFd6X2JfQTZhcnNhY2JxeG5YTG4xSWZnUl83UHY5UTFIMEctMVhMbS1kdGFFYk5ONmdUY0R5NmVCbEFMMUdBZGpMRWdLOUtDUDNpbE9OOE1mZm1LWENINFFjQXVmOFRKcThCZG81WDAtbWVCdHc?oc=5",
         "description": "",
-        "pubDate": "2025-09-07T12:54:00Z",
+        "pubDate": "2025-09-07T22:06:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Over 300 South Koreans to return home after arrests at US Hyundai plant",
-        "link": "https://www.aljazeera.com/news/2025/9/7/over-300-south-koreans-to-return-home-after-arrests-at-us-hyundai-plant?traffic_source=rss",
-        "description": "South Korean workers detained in an immigration raid in the US state of Georgia are to be released and flown home.",
-        "pubDate": "2025-09-07T12:41:48Z",
-        "source": "aljazeera.com",
+        "title": "Pope Leo XIV declares teen computer whiz Carlo Acutis the first millennial saint - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaWcxcnZleDdSX2xLVWUwcHMwb0pfVk9DRGlSMDhPN2UtRGx2cXRJeE8zV2c0UThWS3NCd0p3SGVaX25qc3JfMm1XZzJyc1lULWxWeUZXTnRGdFVBOUNqV3plZWQ4dXAzM1AxQ1JtemE4Z2ZKeWlUTWxBbE82dk40OTJMelhDcWtLbnZranZVOEhuaW5XT3JzRnZaWVRja0RVa0ZiS2dJckJEQQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-07T18:06:00Z",
+        "source": "news.google.com",
         "image": "",
-        "bias": -1
-      }
-    ],
-    "Politics": [
+        "bias": 0
+      },
       {
         "title": "Healey says more military sites could house asylum seekers",
         "link": "https://www.bbc.com/news/articles/c5yvxergw4xo?at_medium=RSS&at_campaign=rss",
@@ -770,6 +770,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Secret audios, dramatic leaks, spying claims: A bribery scandal engulfs Argentina’s Milei - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbWF4OXlQWHZzSGRrSmdILWc5N2R6cVp0cXFmLS1nemlmbzYzX3VDQktlVXhteVhmNXZLVmtMYnltQzFHV0FZVDZwbXBWdE5EMldRSmRGdnJPM1JXNUpyeGd0amVjd1ZwMTViZnBTUUdESFk4RkpveTBPS21ZemhWU2NWdVNISWl5ZG5YS1Z3bmNIM3VjcWVtbUYzSVg2ZGNSMzJlM3dR?oc=5",
+        "description": "",
+        "pubDate": "2025-09-07T12:27:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Politics chat: Trump's plans for Chicago, spending bill rebrand, redistricting fight",
@@ -826,6 +835,24 @@
         "bias": 0
       },
       {
+        "title": "Coca leaves remain a source of work, faith and identity in Bolivia - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM2RQSHlUYzVUd01nNmlXd3ZMZk5HT25fQ2MwWWJwZ3B5RFQ3VmdQSXppalh2ZWkyN2ZHaVVZTnFNOXl3dF9JU3FhOEdtaW5UaFVDTEtMdjZ0R0F6c2FQV2s4RWtIRFpqZmxaUnpfT0dRN2N2QnpsSDVFWXdLS0lFVEctNWtXci0tUXkzbEdBUzR4TzZj?oc=5",
+        "description": "",
+        "pubDate": "2025-09-07T05:07:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "After largely ignoring suffering in Gaza, Israeli media start to report on Palestinian hardships - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVFhOMUlGcmZOT3VxZDF2QVNxelZlUThMYWxKMFg5cEVIZjhXTEtnd1pjdkRIaXViZnNPRUx2SmRXQzNlSkplSmZfcWZBNm1fek5vLXhaZjhFZVduTVdlRFl2ZUFxYkVjc0d1VTE2aWhoa183OUlGY09qd29oMDAzdUhCSWNFQ2c4T2pVNDRUc3IzRlo5eE9kYzhUQjZILXZnWUtvTA?oc=5",
+        "description": "",
+        "pubDate": "2025-09-07T04:09:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Raiola throws for 364 yards and 4 TDs to lead Nebraska to 68-0 win as Zips held to zip again - AP News",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUS1kZ2d0bmFTdG9lelZKaVoya201YUF1VWJ2ZjdqV1ozcm5BNTNzbFQ2SzA3NnhfWTd6U2JjNXRBSmhobFNZTVUycGhJd0NackNFQWY4LWthU1hDVnJEM3JZeGV2SXhJZHN1cVMwSkFXbjFuMVNfZzZEMm9GOU9mWnhUdGtCLURfcVZRX3dVemljTWE5VUE?oc=5",
         "description": "",
@@ -844,10 +871,10 @@
         "bias": 0
       },
       {
-        "title": "Pride march in Serbia condemns police violence at anti-government rallies, seeks LGBTQ+ rights - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRENoYXFMVmZTbFhSVVBYdTYtaXZUTWRaNmpDaHhwR0IwTnBfamZTTXprRWN0UDBtT2NjaENsT1R1cGtQNC1IZU1RRzlYS0hOWGtUaklnU3lMUVJ0cTJLLXBNNF9lVnAtUlhBUVZ6TU82Z3NTdEZFMjhhOXAtVW5zd1did085NVUtN09QOTFrdDR6dmxGd09lbTVyUEw2QUdjQU1OS2VRNA?oc=5",
+        "title": "Sanders and Mamdani energize supporters at town hall as NYC mayor's race enters final stretch - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN1RBZnFtLWhnSDd0cEJNSkZPdjRpZmN0UFdGZHBFQ09kVVFuYUE0RllZdkZQbWFXYVgySzNFRDZoNHZPZmV0VDNYSW5oSXlrYS1HTE1ENkpHbDNQSEtKU2lPcGxoYjJKajZCRzE4eV9LWWdKVkI3ZzF4bWFsZTQ5c2F4VkJ0ejY0Mm40UkFMSm1ESXdO?oc=5",
         "description": "",
-        "pubDate": "2025-09-07T02:14:00Z",
+        "pubDate": "2025-09-07T02:48:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -864,10 +891,10 @@
     ],
     "Tech": [
       {
-        "title": "Pope Leo XIV declares teen computer whiz Carlo Acutis the first millennial saint - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaWcxcnZleDdSX2xLVWUwcHMwb0pfVk9DRGlSMDhPN2UtRGx2cXRJeE8zV2c0UThWS3NCd0p3SGVaX25qc3JfMm1XZzJyc1lULWxWeUZXTnRGdFVBOUNqV3plZWQ4dXAzM1AxQ1JtemE4Z2ZKeWlUTWxBbE82dk40OTJMelhDcWtLbnZranZVOEhuaW5XT3JzRnZaWVRja0RVa0ZiS2dJckJEQQ?oc=5",
+        "title": "See Nepal’s living goddess leave her palace to bless throngs of worshipers - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjB6alNhbVFGQTFCNm1rLV9nSnQwdFpNR3JiaVEyN3VUOFZWQWRveDJ6VzhoOVJOSnh0QXI3Um5jUDU4VTBSeHJVMFlWaTlYU0VuMkdZYkdTelVlQl8tN3ctMDdtNHp4MlRmd0h3RmJyaGhPZ3FPNkdOTk9Za1VoN3oxbDczRHZhT2hzeFdfUktmdThpRHFXdXl2NEp2TmxieElSdmFUNUxUdFU?oc=5",
         "description": "",
-        "pubDate": "2025-09-07T18:06:00Z",
+        "pubDate": "2025-09-07T10:28:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -880,18 +907,18 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      }
-    ],
-    "Science": [
+      },
       {
-        "title": "Aaron Rodgers throws 4 TD passes in his Steelers debut, leads 34-32 comeback win over Jets - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS3IxMmRPei11ZThiVHE1cF85emRQRVk0d0RzNFd6X2JfQTZhcnNhY2JxeG5YTG4xSWZnUl83UHY5UTFIMEctMVhMbS1kdGFFYk5ONmdUY0R5NmVCbEFMMUdBZGpMRWdLOUtDUDNpbE9OOE1mZm1LWENINFFjQXVmOFRKcThCZG81WDAtbWVCdHc?oc=5",
+        "title": "The MTV Video Music Awards are back. Taylor Swift and Beyoncé go head-to-head. Who will win? - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV2hqNEI3dGJEWW43N0RkVzhkdWpXbHlHOXdndUIwbXhlc0dIeE9CNV93VnV1Njc0MkhBQWtiS25mclRJWkdROTJweGxnMW5RdVR2SmZlbndOeDhjbWlmMzVMOE1TaHZWVGRNUVl3bV9rSFVvVzBjaEtvOGY3bmNDVlBtelU?oc=5",
         "description": "",
-        "pubDate": "2025-09-07T20:37:00Z",
+        "pubDate": "2025-09-07T04:01:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
+      }
+    ],
+    "Science": [
       {
         "title": "How to see Sunday's 'Blood Moon' total lunar eclipse",
         "link": "https://www.bbc.com/news/articles/c8739rrez23o?at_medium=RSS&at_campaign=rss",
@@ -911,15 +938,6 @@
         "bias": -1
       },
       {
-        "title": "Secret audios, dramatic leaks, spying claims: A bribery scandal engulfs Argentina’s Milei - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbWF4OXlQWHZzSGRrSmdILWc5N2R6cVp0cXFmLS1nemlmbzYzX3VDQktlVXhteVhmNXZLVmtMYnltQzFHV0FZVDZwbXBWdE5EMldRSmRGdnJPM1JXNUpyeGd0amVjd1ZwMTViZnBTUUdESFk4RkpveTBPS21ZemhWU2NWdVNISWl5ZG5YS1Z3bmNIM3VjcWVtbUYzSVg2ZGNSMzJlM3dR?oc=5",
-        "description": "",
-        "pubDate": "2025-09-07T12:27:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "The silent killer increases your risk of stroke and dementia. Here's how to control it",
         "link": "https://www.npr.org/sections/shots-health-news/2025/09/07/nx-s1-5532108/the-silent-killer-increases-your-risk-of-stroke-and-dementia-heres-how-to-control-it",
         "description": "New recommendations for early treatment for hypertension to prevent strokes, heart attacks and dementia come as an experimental medication is shown to lower blood pressure in hard to treat patients.",
@@ -929,28 +947,10 @@
         "bias": -1
       },
       {
-        "title": "Coca leaves remain a source of work, faith and identity in Bolivia - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM2RQSHlUYzVUd01nNmlXd3ZMZk5HT25fQ2MwWWJwZ3B5RFQ3VmdQSXppalh2ZWkyN2ZHaVVZTnFNOXl3dF9JU3FhOEdtaW5UaFVDTEtMdjZ0R0F6c2FQV2s4RWtIRFpqZmxaUnpfT0dRN2N2QnpsSDVFWXdLS0lFVEctNWtXci0tUXkzbEdBUzR4TzZj?oc=5",
+        "title": "Pride march in Serbia condemns police violence at anti-government rallies, seeks LGBTQ+ rights - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRENoYXFMVmZTbFhSVVBYdTYtaXZUTWRaNmpDaHhwR0IwTnBfamZTTXprRWN0UDBtT2NjaENsT1R1cGtQNC1IZU1RRzlYS0hOWGtUaklnU3lMUVJ0cTJLLXBNNF9lVnAtUlhBUVZ6TU82Z3NTdEZFMjhhOXAtVW5zd1did085NVUtN09QOTFrdDR6dmxGd09lbTVyUEw2QUdjQU1OS2VRNA?oc=5",
         "description": "",
-        "pubDate": "2025-09-07T05:07:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "After largely ignoring suffering in Gaza, Israeli media start to report on Palestinian hardships - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVFhOMUlGcmZOT3VxZDF2QVNxelZlUThMYWxKMFg5cEVIZjhXTEtnd1pjdkRIaXViZnNPRUx2SmRXQzNlSkplSmZfcWZBNm1fek5vLXhaZjhFZVduTVdlRFl2ZUFxYkVjc0d1VTE2aWhoa183OUlGY09qd29oMDAzdUhCSWNFQ2c4T2pVNDRUc3IzRlo5eE9kYzhUQjZILXZnWUtvTA?oc=5",
-        "description": "",
-        "pubDate": "2025-09-07T04:09:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Sanders and Mamdani energize supporters at town hall as NYC mayor's race enters final stretch - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN1RBZnFtLWhnSDd0cEJNSkZPdjRpZmN0UFdGZHBFQ09kVVFuYUE0RllZdkZQbWFXYVgySzNFRDZoNHZPZmV0VDNYSW5oSXlrYS1HTE1ENkpHbDNQSEtKU2lPcGxoYjJKajZCRzE4eV9LWWdKVkI3ZzF4bWFsZTQ5c2F4VkJ0ejY0Mm40UkFMSm1ESXdO?oc=5",
-        "description": "",
-        "pubDate": "2025-09-07T02:48:00Z",
+        "pubDate": "2025-09-07T02:14:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -995,6 +995,15 @@
       }
     ],
     "Culture": [
+      {
+        "title": "When filmmakers and actors go against the grain, does it work?",
+        "link": "https://www.npr.org/2025/09/07/nx-s1-5527240/when-filmmakers-and-actors-go-against-the-grain-does-it-work",
+        "description": "A lively review of cases when people both in front of and behind the camera took on a project that deviated from their past work, and whether it paid off or not.",
+        "pubDate": "2025-09-07T22:11:26Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "'The Long Walk' brings Stephen King's first novel to the movies",
         "link": "https://www.npr.org/2025/09/07/nx-s1-5508260/the-long-walk-brings-stephen-kings-first-novel-to-the-movies",
