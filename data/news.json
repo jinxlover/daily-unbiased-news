@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-08T11:15:55.118815Z",
+  "lastUpdate": "2025-09-08T11:29:05.209299Z",
   "news": {
     "Gaming": [
       {
@@ -129,7 +129,7 @@
         "bias": 0
       },
       {
-        "title": "ALT: Theater Games [Free] [Other]",
+        "title": "ALT: Theater Games [Free] [Other] [Windows] [macOS] [Linux] [Android]",
         "link": "https://uplb-gds.itch.io/alt-theater-games",
         "description": "Theater and video games go hand-in-hand!",
         "pubDate": "2025-09-08T09:18:15Z",
@@ -230,6 +230,15 @@
     ],
     "World": [
       {
+        "title": "At least 13 dead after protests against Nepal social media ban",
+        "link": "https://www.bbc.com/news/articles/c78nd2zy9jgo?at_medium=RSS&at_campaign=rss",
+        "description": "The protest was led by young people who oppose the ban in a country which relies heavily on social media platforms.",
+        "pubDate": "2025-09-08T11:17:01Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f505/live/94f63880-8c97-11f0-b882-771c24b6a718.jpg",
+        "bias": 0
+      },
+      {
         "title": "Tens of thousands of protesters support Bolsonaro ahead of coup trial verdict",
         "link": "https://www.npr.org/2025/09/08/nx-s1-5532105/tens-of-thousands-of-protesters-support-bolsonaro-ahead-of-coup-trial-verdict",
         "description": "In Brazil, tens of thousands of protesters mobilized across the country to support former President Jair Bolsonaro ahead of the verdict in his landmark coup trial.",
@@ -237,15 +246,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "At least 13 dead after protests against Nepal social media ban",
-        "link": "https://www.bbc.com/news/articles/c78nd2zy9jgo?at_medium=RSS&at_campaign=rss",
-        "description": "The protest was led by young people who oppose the ban in a country which relies heavily on social media platforms.",
-        "pubDate": "2025-09-08T10:52:07Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f505/live/94f63880-8c97-11f0-b882-771c24b6a718.jpg",
-        "bias": 0
       },
       {
         "title": "Distraction 101: Blow them up",
@@ -682,12 +682,30 @@
     ],
     "Politics": [
       {
+        "title": "Henry Zeffman: Why Shabana Mahmood's appointment could mean harder line on immigration",
+        "link": "https://www.bbc.com/news/articles/ce9rg9jj5kro?at_medium=RSS&at_campaign=rss",
+        "description": "Shabana Mahmood's move to the Home Office is the most significant change from last week's reshuffle.",
+        "pubDate": "2025-09-08T11:21:49Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5ea/live/381cfda0-8ca2-11f0-a721-a79c3c3eadc7.jpg",
+        "bias": 0
+      },
+      {
         "title": "UK could suspend visas for countries with no migrant return deals",
         "link": "https://www.bbc.com/news/articles/c4g7xyn03yno?at_medium=RSS&at_campaign=rss",
         "description": "New Home Secretary Shabana Mahmood made the comments at a security summit in London.",
-        "pubDate": "2025-09-08T11:10:55Z",
+        "pubDate": "2025-09-08T11:21:41Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96a2/live/b6c3b1b0-8c86-11f0-a91f-69625b70a4a8.jpg",
+        "bias": 0
+      },
+      {
+        "title": "McDonald rules herself out of Irish presidential election",
+        "link": "https://www.bbc.com/news/articles/cvgv708jzj4o?at_medium=RSS&at_campaign=rss",
+        "description": "Speaking on RTÉ's Morning Ireland, the Sinn Féin leader says her name is \"no longer in the mix\".",
+        "pubDate": "2025-09-08T11:19:11Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9290/live/19bc2ae0-8ca5-11f0-b6c9-fd3740fd2112.jpg",
         "bias": 0
       },
       {
@@ -727,15 +745,6 @@
         "bias": 0
       },
       {
-        "title": "Mary Lou McDonald rules herself out of Irish presidential election",
-        "link": "https://www.bbc.com/news/articles/cvgv708jzj4o?at_medium=RSS&at_campaign=rss",
-        "description": "Speaking on RTÉ's Morning Ireland, the Sinn Féin leader said her name is \"no longer in the mix\".",
-        "pubDate": "2025-09-08T09:33:07Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e916/live/95a382c0-8c87-11f0-a91f-69625b70a4a8.jpg",
-        "bias": 0
-      },
-      {
         "title": "How brightly colored do we want our food? For brands, it's a hill to dye on",
         "link": "https://www.npr.org/2025/09/08/nx-s1-5529276/sams-club-food-dye-taste-history",
         "description": "Sam's Club is among the food makers removing artificial dyes from products, yet hoping shoppers don't notice a difference in color. But why?",
@@ -767,6 +776,15 @@
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQVRLUHMtMHFRdkZsbzRsSHRDbFEtcnYxUmd0b1RDQ1NqNTd3LV9abFBtaFVfRXdtQXlyNGE2MHYwemhRYmNHWU12c0EzazVBY0UwRXNTNkFWc1k3OGQxSlRrbHBCbWRaTHotWnJPeWp1c0FYWXBRYmFxZExOb2xXMkRBS1REdEhsYWZ4WjM1YXlYZjJGMjUzYkJKWWtGLXVvdnNCdi1NcEgxMHFSdVY0?oc=5",
         "description": "",
         "pubDate": "2025-09-08T06:09:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Trump says ‘I think we’re going to have a deal on Gaza very soon’ - AP News",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSkh4N1ZJdnhHc0dXeVNZX2ZGbE1jMUdJU3BtTWZ3V2hTTDhBTzZva2QwNllFT3BPTDJoZ0ZQNFZ3RDhmdEhzck4yLTRfaUFPbnN6cTJFWE5FalphZzVvLTR0UXk5Y3VVNjM2a1hQYV92aU1odDVsYXNweU1jbzBUaHkyOFB5NEo5N0dmOU1UdkplbThBOWVWZkxqdnFVREdPR1d0WU9RbVlGR1FjUHhVNFNJMTV5a3lfN1prSQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-08T03:44:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -869,6 +887,15 @@
       }
     ],
     "Culture": [
+      {
+        "title": "Billy Porter pulls out of Cabaret on Broadway with sepsis",
+        "link": "https://www.bbc.com/news/articles/c9v7nwgz0nno?at_medium=RSS&at_campaign=rss",
+        "description": "Doctors are confident that the US actor will make \"a full recovery\", but he has been told to rest.",
+        "pubDate": "2025-09-08T11:10:24Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3582/live/8ed4be30-8c98-11f0-82f9-8f84bfd373ef.jpg",
+        "bias": 0
+      },
       {
         "title": "Leni Riefenstahl made movies for Hitler. A new documentary digs through her archives",
         "link": "https://www.npr.org/2025/09/08/nx-s1-5526066/leni-riefenstahl-nazi-filmmaker-new-documentary",
