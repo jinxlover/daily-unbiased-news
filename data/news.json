@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-09T22:45:44.532132Z",
+  "lastUpdate": "2025-09-09T22:55:45.736166Z",
   "news": {
     "Gaming": [
       {
@@ -63,6 +63,15 @@
         "pubDate": "2025-09-09T21:12:59Z",
         "source": "noahepa7.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMTEyNzk5LnBuZw==/315x250%23c/h%2FOyoz.png",
+        "bias": 0
+      },
+      {
+        "title": "PONG [Free] [Sports]",
+        "link": "https://agustinlaure.itch.io/pong",
+        "description": "An exciting sports game inspired by the classic PONG",
+        "pubDate": "2025-09-09T21:08:33Z",
+        "source": "agustinlaure.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTEzMjU0LnBuZw==/315x250%23c/KgbKGb.png",
         "bias": 0
       },
       {
@@ -183,15 +192,6 @@
         "bias": 0
       },
       {
-        "title": "Space War! [Free] [Other]",
-        "link": "https://springdragyn-gg.itch.io/space-war",
-        "description": "A practice game for me to test out Construct 3.",
-        "pubDate": "2025-09-09T19:57:42Z",
-        "source": "springdragyn-gg.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTEyMTI4LnBuZw==/315x250%23c/ydyXnR.png",
-        "bias": 0
-      },
-      {
         "title": "Game Controller Unity [Free]",
         "link": "https://dhruba-ogrady.itch.io/game-controller-unity",
         "description": "",
@@ -248,13 +248,13 @@
     ],
     "World": [
       {
-        "title": "Live updates: Chief Justice Roberts temporarily allows Trump’s freeze on billions in foreign aid - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80NlZMYXJYMjc5OXRBN3oxX1FOV2R5eTMtS3dyLVF2MDJNeUgyOERQaUpkbVN3ZUNJanJtYWU0Vndwd1lkZ2tDeHFXSmFFSGZlR2l0TlI3SXdPRFZsd3V0Q2FvcDlvemQ4VGc?oc=5",
+        "title": "Hollywood stars boycott Israeli film companies in response to Gaza crisis",
+        "link": "https://www.npr.org/2025/09/09/nx-s1-5535578/hollywood-stars-boycott-israeli-film-companies-in-response-to-gaza-crisis",
         "description": "",
-        "pubDate": "2025-09-09T22:35:10Z",
-        "source": "news.google.com",
+        "pubDate": "2025-09-09T22:45:15Z",
+        "source": "npr.org",
         "image": "",
-        "bias": 0
+        "bias": -1
       },
       {
         "title": "Apple's iPhone 17 line-up includes a new ultra-thin model and $100 price hike for Pro model - AP News",
@@ -412,6 +412,15 @@
       {
         "title": "Georgia governor's electric mobility dream for Georgia tested after South Koreans detained in raid - AP News",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd3BUT2ZORkd5WGxPSFJCMUo0bVNZOTNmbzZyMTFDSmZqdFRReTM0dlRkVWhSWV9hWXdhUWxQMXNBc0pCZFZjc3FmQmo3Q3RDYVFHLXNVek9fN2d0TkFzRzh2YjlMNWQ1N0h5WlZpS2hsbVFMa3pJQUJKUXZ6bXJkV280UWdWY0lRMzhvRFM5X0pDOEt3SzlIWHF0cE91RE5aVDNMQmFR?oc=5",
+        "description": "",
+        "pubDate": "2025-09-09T20:40:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Photos of fiery protests against a social media ban in Nepal - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON0tTeHp3WmhHQzVfQWZyeG9waUUwbVZDWnBzOE9Fb3gwUGtlbTV1bkVxbi1yRkU0VVltb0hwLTlPUjlINHNuZXVsUTBUdzY1UGFhZnBGU1d3Q0huUFQwWXljclNwbTB5VEVNSzNSdU5fTWVKa1l6OGpFWDBTTW5IbG1VVGx1WlJVM1BfcHhyQWRaQ2pqbXVRMHB4WWQwZktKRC1DQkhB?oc=5",
         "description": "",
         "pubDate": "2025-09-09T20:40:00Z",
         "source": "news.google.com",
@@ -687,15 +696,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Hamas official says leadership survived attack in Doha",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/9/9/hamas-official-says-leadership-survived-attack-in-doha?traffic_source=rss",
-        "description": "Hamas’s leadership that was targeted in an Israeli attack in Doha has survived but at least two others were killed.",
-        "pubDate": "2025-09-09T17:11:53Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
@@ -970,6 +970,15 @@
         "bias": 0
       },
       {
+        "title": "LeBron James writes op-ed for Chinese state media as NBA aims to rebuild in China - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR3ZObi1MSG55bERZMXdHMlFZVmJUUGR2N2FGTF8xVWI4SmFRYnQ1OHMyaVdKRmJKd0VyNzZaY1VPdTI3aEVxSURlZC0tWkV3Y0ZueGwzSEw4dkRwOUZ4b3E4Ym9BaGNKMWEtVHJRUk9Db2QzNTNjcE1oWnJaaXYyNGgtcG5uUXZMc0w1LVY2dU95Qy0yM1AycQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-09T14:21:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Who could replace Angela Rayner as Labour deputy leader?",
         "link": "https://www.bbc.com/news/articles/c8jm9lk19v3o?at_medium=RSS&at_campaign=rss",
         "description": "The winning candidate - voted for by Labour members - will be announced on 25 October.",
@@ -1004,6 +1013,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Live updates: Chief Justice Roberts temporarily allows Trump’s freeze on billions in foreign aid - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80NlZMYXJYMjc5OXRBN3oxX1FOV2R5eTMtS3dyLVF2MDJNeUgyOERQaUpkbVN3ZUNJanJtYWU0Vndwd1lkZ2tDeHFXSmFFSGZlR2l0TlI3SXdPRFZsd3V0Q2FvcDlvemQ4VGc?oc=5",
+        "description": "",
+        "pubDate": "2025-09-09T10:39:23Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Rayner's replacement will show which way political wind is blowing in Labour",
@@ -1116,15 +1134,6 @@
         "bias": 0
       },
       {
-        "title": "Los Angeles Dodgers narrowly miss pitching a no-hitter for the second time in three games - AP News",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSFhOTXhVRXJtbHZzdnFjaUdxUVpnS1JOQ3lYNURfNkxuUEFfRjlCc1BsdXJiWHhQZVJyc0x6V0FleW9CTnNZX0RvN2EwUUJCWGdPUVRvZVlSU1lwOXJNZ2x6MGRjaW1NY0pvU2dpWDlJcWFrNTFJaGhCLUhoYXBaZw?oc=5",
-        "description": "",
-        "pubDate": "2025-09-09T13:02:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Trump wants to win AI race, but his immigration policies could get in the way",
         "link": "https://www.npr.org/2025/09/09/nx-s1-5479090/trump-wants-to-win-ai-race-but-his-immigration-policies-could-get-in-the-way",
         "description": "President Trump says he wants the U.S. to be a world leader on AI development, but his administration's immigration policies could interfere with that goal.",
@@ -1160,15 +1169,6 @@
         "pubDate": "2025-09-09T22:04:56Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef32/live/413b6a60-8d48-11f0-a81f-056e06779609.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Georgia judge to toss landmark racketeering charges against ‘Cop City’ protesters - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYWVOTmtGc081TjRMUXduS0x2b1M0bHJyc19oZndyd3hZSUhmWU92TVhaYnhndW1fWk5QeXk3MlRkRndEdmt4WWFvdlJmWUlucmJuamJiamdTT1p2dm5WeDBwSjgxYjZiMk1HNmNPRG9zVUMxdjNQdFU0TW50emZYTkJpRXZmOWpQb2FBdThnYWRUbWZ5U3VN?oc=5",
-        "description": "",
-        "pubDate": "2025-09-09T19:36:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -1252,15 +1252,6 @@
         "pubDate": "2025-09-09T14:52:30Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f09/live/2fb85c20-8d8a-11f0-957d-3528fcc4a645.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Ethiopia launches Africa’s largest dam as neighbors eye power imports - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcjJRX19OREFIb3k2OTRxOHgxUWRiUENwZUpQeVo3NGg0aHNBc0lGUGdpbEpVT2JpYXQ5OHRYZzFzWkVxd2Q0OGVvSnRwN2xEV25HSTFpdXE3X0lUMTU3TXhDbC1lVDUwd0V4ckhUUnhMelpvWTFkTTQ5UHFaRU12SVVrNHZUUUREemFDcVlsYTZBcVAteGtHVzVqRFpqVFFQa2lPcENB?oc=5",
-        "description": "",
-        "pubDate": "2025-09-09T14:44:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
