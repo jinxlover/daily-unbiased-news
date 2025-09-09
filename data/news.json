@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-09-09T08:59:21.228632Z",
+  "lastUpdate": "2025-09-09T09:28:49.049045Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Poker Matcher [Free] [Card Game]",
+        "link": "https://jamesjoom321.itch.io/poker-matcher",
+        "description": "A fast-paced memory card matching game that challenges your focus and reflexes!",
+        "pubDate": "2025-09-09T08:57:36Z",
+        "source": "jamesjoom321.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTA1NTUyLnBuZw==/315x250%23c/lxS%2FBj.png",
+        "bias": 0
+      },
       {
         "title": "I Am Blizzard: The Unspeakable Tragedy [Free] [Adventure]",
         "link": "https://yeeter-thegod.itch.io/veryveryvery-scarygame-defavirus",
@@ -192,15 +201,6 @@
         "bias": 0
       },
       {
-        "title": "Pong 2D – Classic Arcade Remake 🏓 [Free] [Sports]",
-        "link": "https://sujalgajera.itch.io/pong-2d",
-        "description": "Whether you’re here for nostalgia or just want a quick pick-up-and-play challenge, Pong 2D is the perfect throwback!",
-        "pubDate": "2025-09-09T03:43:22Z",
-        "source": "sujalgajera.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTAzNDkzLnBuZw==/315x250%23c/ipLJsj.png",
-        "bias": 0
-      },
-      {
         "title": "porfolio1 [Free] [Action] [Windows]",
         "link": "https://jitendra12.itch.io/porfolio1",
         "description": "",
@@ -239,6 +239,60 @@
     ],
     "World": [
       {
+        "title": "Can the United Nations survive the Trump administration?",
+        "link": "https://www.npr.org/2025/09/09/nx-s1-5519276/can-the-united-nations-survive-the-trump-administration",
+        "description": "The U.N., created 80 years ago to maintain international peace and security, has recently struggled with the wars in Ukraine and Gaza. It also faces a new challenge — the Trump administration.",
+        "pubDate": "2025-09-09T09:03:59Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "French government collapses after prime minister loses confidence vote",
+        "link": "https://www.npr.org/2025/09/09/nx-s1-5534427/french-government-collapses-after-prime-minister-loses-confidence-vote",
+        "description": "French President Emmanuel Macron is searching for a fourth prime minister in 12 months after the National Assembly ousted François Bayrou in a no-confidence vote.",
+        "pubDate": "2025-09-09T09:03:44Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Nepali demonstrators defy government curfew after 19 killed during protests",
+        "link": "https://www.npr.org/2025/09/09/nx-s1-5534071/nepali-demonstrators-defy-government-curfew-after-19-killed-during-protests",
+        "description": "Demonstrators in Nepal are defying a government-imposed curfew in the capital after 19 people were killed in protests fueled by fury over elites flaunting their wealth online and a social media ban.",
+        "pubDate": "2025-09-09T09:03:02Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Trump urges Hamas to accept terms of new hostage release plan in 'last warning'",
+        "link": "https://www.npr.org/2025/09/09/nx-s1-5534373/trump-urges-hamas-to-accept-terms-of-new-hostage-release-plan-in-last-warning",
+        "description": "President Trump is urging Hamas to accept the terms of a new hostage release plan, issuing what he calls a \"last warning.\"",
+        "pubDate": "2025-09-09T09:02:55Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "US deployment in Caribbean ‘not training’, says defence chief Hegseth",
+        "link": "https://www.aljazeera.com/news/2025/9/9/us-deployment-in-caribbean-not-training-says-defence-chief-hegseth?traffic_source=rss",
+        "description": "US Defence Secretary Pete Hegseth's remarks in Puerto Rico come amid escalating tensions with Venezuela in Caribbean.",
+        "pubDate": "2025-09-09T08:55:22Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Slain New Zealand father kept bushland hideout with weapons, police say",
+        "link": "https://www.aljazeera.com/news/2025/9/9/slain-new-zealand-father-kept-bushland-hideout-with-weapons-police-say?traffic_source=rss",
+        "description": "Tom Phillips was shot dead by police after nearly four years on the run with his three children.",
+        "pubDate": "2025-09-09T08:34:40Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Nineteen killed in Nepal protests against corruption and internet bans",
         "link": "https://www.aljazeera.com/gallery/2025/9/9/nineteen-killed-in-nepal-protests-against-corruption-and-internet-bans?traffic_source=rss",
         "description": "Nepal protests turn deadly; home minister resigns as hospitals struggle to treat injured amid chaotic scenes.",
@@ -266,9 +320,18 @@
         "bias": 0
       },
       {
-        "title": "Nepal Gen Z protests live: Nepali Congress office, leaders’ homes on fire",
+        "title": "Years of activism resulted in a Hong Kong same-sex partnership bill, but a tough vote remains - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNczNrX1pvTWlpYVNLZlQ0ekVfU01zS3R6emJfcUZ3WlplcUVueWNYUmJWNWQ4YUZncXdlR1ZXRGtZNU10UkxoaVJySXE2dVB3R2RaMWhYZTFYcG1TMnJaNkNoZDF6ZU1CeVRjUXkzbGdubmxIN2FMU0hTcmo4UF9uWHR4c3Nvek9mMUtsSlJiaDI3cVlGNjNkaDczNA?oc=5",
+        "description": "",
+        "pubDate": "2025-09-09T07:52:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Nepal Gen Z protests live: PM Oli resigns as homes of top leaders torched",
         "link": "https://www.aljazeera.com/news/liveblog/2025/9/9/nepal-protests-live-nepali-congress-office-top-leaders-homes-set-on-fire?traffic_source=rss",
-        "description": "Protesters set fire to homes of some top political leaders, a day after security forces killed 19 people.",
+        "description": "Prime Minister K P Sharma Oli resigns, says aide, as protesters set fire to homes of some top political leaders' homes.",
         "pubDate": "2025-09-09T07:37:58Z",
         "source": "aljazeera.com",
         "image": "",
@@ -374,15 +437,6 @@
         "bias": 0
       },
       {
-        "title": "Nepal lifts social media ban after 19 killed in protests",
-        "link": "https://www.bbc.com/news/articles/cp98n1eg443o?at_medium=RSS&at_campaign=rss",
-        "description": "Thousands had taken to the streets demanding that the government lift the ban and tackle corruption.",
-        "pubDate": "2025-09-09T05:21:20Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba50/live/2749f2c0-8d16-11f0-8737-efba0c8331e8.jpg",
-        "bias": 0
-      },
-      {
         "title": "Nepal lifts social media ban following protests where police killed 19 people",
         "link": "https://www.npr.org/2025/09/09/nx-s1-5534953/nepal-social-media-ban-protests",
         "description": "Nepal's government lifted its ban on social media platforms Tuesday a day after police killed opened fire on mass street protests against the ban, killing 19 people.",
@@ -410,7 +464,7 @@
         "bias": -1
       },
       {
-        "title": "LIVE: Israel pounds Gaza City as Netanyahu tells residents to ‘leave now’",
+        "title": "LIVE: Israel pounds Gaza, killing at least 21 people, including aid seekers",
         "link": "https://www.aljazeera.com/news/liveblog/2025/9/9/live-israel-pounds-gaza-city-as-netanyahu-tells-residents-to-leave-now?traffic_source=rss",
         "description": "Israeli forces bomb more high-rise buildings in Gaza City as Netanyahu warns residents to flee.",
         "pubDate": "2025-09-09T05:00:58Z",
@@ -470,6 +524,15 @@
         "pubDate": "2025-09-09T04:05:46Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd7a/live/3f7a4ab0-8d4e-11f0-84c8-99de564f0440.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Home Depot stores, long a hub for day laborers, now draw immigration agents out on raids - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNblQ0TnFYWEs0VFJNTm5mYi1UU2dFdUpybHFrREt3el8wTnp0NVYwM2FucWk4aVJLZjU4Y2JfTXdKRHNuNFVFb1lLc2tDdXFPbnNFTUZ0QXFGOHB5a3FFRGVnS2Y3VUJsX19yUlZvdF9jelVjZDhadlY1RFptYXM0MUlNZF90NjlneDJqb3pudW15dDhiM1NsQkdMSC1oV3FQRGJQN284R3JFWWI4?oc=5",
+        "description": "",
+        "pubDate": "2025-09-09T04:05:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -581,15 +644,6 @@
         "bias": 0
       },
       {
-        "title": "US and European officials meet to discuss new sanctions on Russia - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcTVTN1preElSZWZiVUlEQ1BTYWRsUkhtUWVlNWhrZDJXazJGazVoU2dkT09ITklhRjIyZUVBNUxMeG5PRWVCRWk3TkUzcUU0eGpLYzlGUTlBdUVvTnRXRGNldHBIMWlvU2VwX0VXTV9hVDY3bDVJZGtMWWg2d19uRWJyNXNLamE4VldRNHRGMmZyTHREcmhMSVpoSHk5TERw?oc=5",
-        "description": "",
-        "pubDate": "2025-09-09T01:30:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Indonesian leader fires ministers of finance and security after deadly protests - AP News",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSmZGcEU3OGlmZGNUdUJRd1RWeHZYR1AxLTdiLVVBb3dFeVZHenI2N2o2SW1jVVJhdjFMV1c0VVc3ZnlXeHJ4WUh6eEwxa0QxR1A1anBJVFU0YXNTWkRTbnM2Yld4NDA1V3Y1VU9ReUhKRFhkZjhudEV1OXJpT2VKZ3V3WkNTdFpNcHFhSXdlSHp2S2VMVTdLZDJ3?oc=5",
         "description": "",
@@ -603,6 +657,15 @@
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMnBpU1RFZkFQV29NcFlGamZ6cW1SQXYtRDhwM3g5OFZicU5tTk5WQnZwXzBSdlFLeG1ZbXlPOTVNSVliMnZ0MzVRanEtLVVVWHFKM3dqSEtIcWxORFVxaGR6d3lnTlhTQ2N5N1BqZWtkbld6c1ZzU3Z5WmJSWEFJeGRyVlc4Zldvc0l4NWNGbTF6Q1F1ZEozZjhLQ0JOc0ZhVnFyV3Rn?oc=5",
         "description": "",
         "pubDate": "2025-09-09T01:02:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Palestinian gunmen kill 6 people in attack on Jerusalem bus stop - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd3gtV2FubEtfSXlELVB4VjVibXNqTUV5cXJ2aWdEbGJvbmVBTDVyQTZPSXdPVktLdk9mN3BieDdiMG4xMVpib1BYTnV0d0ZRMlJmOVdwT0Z1NTlCTVVKd1p6ZG5ES3hadnF0WnlvTWRkT09tSjBuVjZrR1E5Q0FWMm9PNnpITUhhRmVUbzRR?oc=5",
+        "description": "",
+        "pubDate": "2025-09-09T00:49:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -624,27 +687,27 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Hegseth and Caine visit Puerto Rico as US steps up military operations in the Caribbean - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMVJzZmFyUkV4eWhaTGlOY2RDMzFHM3FHVVBSdG54X3FMWl9UN240SmJGdVhkR1BXc1BFdG5BVGlRN0dkVi1qMnR6Y045d3czUlVZMXVXaXFjTDlIYkRnSjJRQUxRREQ1a0hTNldDWnpwbXFSR0R6SFJra3NjQ0otUGZENWVLSXpQd3Z2VWw1NjJLbk9Qc3FBTnpGM0YxSW1rQ01mMHBDc2JPWjIzUHUxVjBB?oc=5",
-        "description": "",
-        "pubDate": "2025-09-09T00:27:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Trump note to Epstein that he denies writing is released by Congress - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcjVZZHZyRzBWbGMwZFRCOXN0eVBCWXFRY1hIa1FsLWEySGVlRkhkTU5XUnExcnFYQ2p2a0EwV01jWUxMYUZKZlhOVjd4ekxmMGVTZ1RZSDBacWRLc1UtRTIxU0RDbkFNRzFkeUJDQTgxbVRoYWpqcTcwM1ItOUJzN0stR2I1SnJOclhweHY2VUhxWEdi?oc=5",
-        "description": "",
-        "pubDate": "2025-09-09T00:26:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Watch: First meeting of new cabinet inside Downing Street",
+        "link": "https://www.bbc.com/news/articles/ckg3nk15nz2o?at_medium=RSS&at_campaign=rss",
+        "description": "The gathering follows Angela Rayner's departure from government and a dramatic cabinet reshuffle.",
+        "pubDate": "2025-09-09T09:22:20Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4271/live/ff089be0-8d5b-11f0-b391-6936825093bd.jpg",
+        "bias": 0
+      },
+      {
+        "title": "House Committee releases some documents from Epstein's estate. Here's what's in them",
+        "link": "https://www.npr.org/2025/09/09/nx-s1-5534459/house-committee-releases-some-documents-from-epsteins-estate-heres-whats-in-them",
+        "description": "The House Oversight Committee released some documents from Jeffrey Epstein's estate, including a book made for the disgraced financier's 50th birthday that was allegedly signed by President Trump.",
+        "pubDate": "2025-09-09T09:02:39Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Bridget Phillipson enters Labour deputy contest",
         "link": "https://www.bbc.com/news/articles/c3rvqv9yg4eo?at_medium=RSS&at_campaign=rss",
@@ -664,30 +727,12 @@
         "bias": 0
       },
       {
-        "title": "Commercial shipping likely cut Red Sea cables that disrupted internet access, experts say - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUmkwUVdlVV9wRWdCU2YxbFV0T3VXcE5MMVMxT2Q1WGxPcDdLNzNtUTdlQjBPZVM1TzBRaGFRRlJycXd5WklocmdHcEllMEJkNWNiM0VqT1RRMkF0UnlveUZ3Y2daUkhmMmF4bHZyUHdOUnlCT3I0OWs5eThubXlCdmwwSUhUbUp6cnpuQUo4Y25vYnJyREdOX2lKVHowOEFlMXI1NjhrazFLSnc?oc=5",
-        "description": "",
-        "pubDate": "2025-09-09T06:25:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Mandelson called Epstein 'best pal' in birthday message",
         "link": "https://www.bbc.com/news/articles/cwy9dwe50leo?at_medium=RSS&at_campaign=rss",
         "description": "The description is contained an alleged 50th \"birthday book\" given to the disgraced financier that has been released by US lawmakers.",
         "pubDate": "2025-09-09T04:51:24Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48b1/live/29499d10-8d47-11f0-b391-6936825093bd.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Home Depot stores, long a hub for day laborers, now draw immigration agents out on raids - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNblQ0TnFYWEs0VFJNTm5mYi1UU2dFdUpybHFrREt3el8wTnp0NVYwM2FucWk4aVJLZjU4Y2JfTXdKRHNuNFVFb1lLc2tDdXFPbnNFTUZ0QXFGOHB5a3FFRGVnS2Y3VUJsX19yUlZvdF9jelVjZDhadlY1RFptYXM0MUlNZF90NjlneDJqb3pudW15dDhiM1NsQkdMSC1oV3FQRGJQN284R3JFWWI4?oc=5",
-        "description": "",
-        "pubDate": "2025-09-09T04:05:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -709,15 +754,6 @@
         "bias": 0
       },
       {
-        "title": "US firm makes a $500 million investment deal with Pakistan for critical minerals - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbEsyd0l1eDE2dWZObzZ6amZOdDZOcnNqN0JWaTJLVTJWQ0plT0JRYjNKeV9ERDNnOFQwb2V0WlQxbXdmZzlRNGY0Rkc1QlpqaElXcjdwc1RSMF92SkFwMlctaUlmSWhCNk9TNVZzal9DbzJyaUxtd29hdXl6YVRVekNTU3B2ZVgwOGNFQTZFMGNnS21FYjN0UXI4aHlMLXNNNXc?oc=5",
-        "description": "",
-        "pubDate": "2025-09-09T03:35:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Former PM Thaksin returns to Thailand ahead of court ruling that could lead to imprisonment - AP News",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeXJkZGIzV3lSaVlsTmZlOHk2ZVJCUXZzQmVjX0dlLV9UQ0dmMXJyVTh4Nkc0eXNJZDhIbFdxU3R6WlluY2lyRFJRR2pPcFk2RUZHSXFyY3BONU5yYnpSVG1aeEFlVlFOdHB2aTNFdlNfQnUxT1Iwck95NFhtLXRRc0JhQTFOTTZzckhfTGkxeGU5eE9WSHdfd2lWMjdneGNzMFhaTk1Qcw?oc=5",
         "description": "",
@@ -734,18 +770,27 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Palestinian gunmen kill 6 people in attack on Jerusalem bus stop - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd3gtV2FubEtfSXlELVB4VjVibXNqTUV5cXJ2aWdEbGJvbmVBTDVyQTZPSXdPVktLdk9mN3BieDdiMG4xMVpib1BYTnV0d0ZRMlJmOVdwT0Z1NTlCTVVKd1p6ZG5ES3hadnF0WnlvTWRkT09tSjBuVjZrR1E5Q0FWMm9PNnpITUhhRmVUbzRR?oc=5",
-        "description": "",
-        "pubDate": "2025-09-09T00:49:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Tech": [
+      {
+        "title": "Trump wants to win AI race, but his immigration policies could get in the way",
+        "link": "https://www.npr.org/2025/09/09/nx-s1-5479090/trump-wants-to-win-ai-race-but-his-immigration-policies-could-get-in-the-way",
+        "description": "President Trump says he wants the U.S. to be a world leader on AI development, but his administration's immigration policies could interfere with that goal.",
+        "pubDate": "2025-09-09T09:03:36Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Nepal lifts social media ban after 19 killed in protests",
+        "link": "https://www.bbc.com/news/articles/cp98n1eg443o?at_medium=RSS&at_campaign=rss",
+        "description": "Thousands had taken to the streets demanding that the government lift the ban and tackle corruption.",
+        "pubDate": "2025-09-09T05:21:20Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba50/live/2749f2c0-8d16-11f0-8737-efba0c8331e8.jpg",
+        "bias": 0
+      },
       {
         "title": "UCLA suspends backup QB Pierce Clarkson after arrest on felony charge - AP News",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNGNyN3dVY3B2TDBqcndJY3VjSTFMRGhZY2huZFkyOWo0cnJSQ2tlTWJIdWJpYTVJUXU2ZElBVmV2MUdya01EeFdWWnBiRm0zaHpCSUxOM2tNdlM3angxMUVCT0VyWC1iYlY4akpxUFJfZmJyb3F2WWN4U1YxN1ZSUGlKZ0dGZ2d1NDVHbm55YXJLd2Jm?oc=5",
@@ -756,7 +801,62 @@
         "bias": 0
       }
     ],
-    "Science": [],
+    "Science": [
+      {
+        "title": "Protect Arctic from 'dangerous' climate engineering, scientists warn",
+        "link": "https://www.bbc.com/news/articles/c5yqw996q1ko?at_medium=RSS&at_campaign=rss",
+        "description": "Controversial approaches to cooling the planet are unlikely to work, according to dozens of polar scientists.",
+        "pubDate": "2025-09-09T09:06:36Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9e3/live/ed87ffb0-8cce-11f0-9864-595ea7031b48.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Israeli military urges full evacuation of Gaza City ahead of expanded military operation - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSjRfVHNzdlZxOFhXcVVNclc1dDRGRFhqVm1mRGVkZmJTamFINHQzSF9tcmoyTVd1c1B0Z1dhUjl6a3l1YVJwd241NFJ6bHBjNUNKVmNUOEJvYnhTdmwyeGVfbU84S2dGZ1J2Zm5tZGpnSm9KUGdFUUpoQzdJakQ0M1F3XzJCdFpKUnA2MWZLZDR0clBTRUNraWpZS284a1JtMEc3YXJOVUI?oc=5",
+        "description": "",
+        "pubDate": "2025-09-09T06:30:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Commercial shipping likely cut Red Sea cables that disrupted internet access, experts say - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUmkwUVdlVV9wRWdCU2YxbFV0T3VXcE5MMVMxT2Q1WGxPcDdLNzNtUTdlQjBPZVM1TzBRaGFRRlJycXd5WklocmdHcEllMEJkNWNiM0VqT1RRMkF0UnlveUZ3Y2daUkhmMmF4bHZyUHdOUnlCT3I0OWs5eThubXlCdmwwSUhUbUp6cnpuQUo4Y25vYnJyREdOX2lKVHowOEFlMXI1NjhrazFLSnc?oc=5",
+        "description": "",
+        "pubDate": "2025-09-09T06:25:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Police say man killed retired Auburn University professor at a public park - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVDU4UGpZTHdLNWlnQk9DUFVZNThlMUdhekVtX2QzMGJyeGNway1IUHVFVldwSUVkZF9GQi1SeDlQOU5XdU5MWnNTdy1tT1djX2luMGhUdlJDUW9FcmNDX3pDZzA4ZnlfdVpiUG9MT0ZuUUJHTnRkMmhDTDFOWUJ3Ml9SOGdocThNNF9BNGQ1QUtCQ0RDMDJqQnU2VlNTbEdtcmZwVGpqbw?oc=5",
+        "description": "",
+        "pubDate": "2025-09-09T04:38:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "US firm makes a $500 million investment deal with Pakistan for critical minerals - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbEsyd0l1eDE2dWZObzZ6amZOdDZOcnNqN0JWaTJLVTJWQ0plT0JRYjNKeV9ERDNnOFQwb2V0WlQxbXdmZzlRNGY0Rkc1QlpqaElXcjdwc1RSMF92SkFwMlctaUlmSWhCNk9TNVZzal9DbzJyaUxtd29hdXl6YVRVekNTU3B2ZVgwOGNFQTZFMGNnS21FYjN0UXI4aHlMLXNNNXc?oc=5",
+        "description": "",
+        "pubDate": "2025-09-09T03:35:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "US and European officials meet to discuss new sanctions on Russia - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcTVTN1preElSZWZiVUlEQ1BTYWRsUkhtUWVlNWhrZDJXazJGazVoU2dkT09ITklhRjIyZUVBNUxMeG5PRWVCRWk3TkUzcUU0eGpLYzlGUTlBdUVvTnRXRGNldHBIMWlvU2VwX0VXTV9hVDY3bDVJZGtMWWg2d19uRWJyNXNLamE4VldRNHRGMmZyTHREcmhMSVpoSHk5TERw?oc=5",
+        "description": "",
+        "pubDate": "2025-09-09T01:30:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ],
     "Business": [],
     "Culture": [
       {
