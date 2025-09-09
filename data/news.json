@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-09T10:21:42.172558Z",
+  "lastUpdate": "2025-09-09T10:43:03.411319Z",
   "news": {
     "Gaming": [
       {
@@ -45,6 +45,15 @@
         "pubDate": "2025-09-09T09:33:14Z",
         "source": "yunuskoc.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMTA1OTQxLnBuZw==/315x250%23c/CRB57B.png",
+        "bias": 0
+      },
+      {
+        "title": "BIOLEECH [Free] [Shooter] [Windows]",
+        "link": "https://desalichaostudio.itch.io/bioleech",
+        "description": "Hybrid FPS with recycling mechanics, resource management and narrative mini-games in a satirical setting.",
+        "pubDate": "2025-09-09T09:30:27Z",
+        "source": "desalichaostudio.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTA1NjAxLmpwZw==/315x250%23c/SjRoqs.jpg",
         "bias": 0
       },
       {
@@ -201,24 +210,6 @@
         "bias": 0
       },
       {
-        "title": "Mini Golf Quest [Free] [Sports]",
-        "link": "https://80sonpurple.itch.io/mini-golf-quest",
-        "description": "Step up to the tee and make your move.",
-        "pubDate": "2025-09-09T04:42:00Z",
-        "source": "80sonpurple.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTAzODQ1LmpwZWc=/315x250%23c/EIqS0b.jpeg",
-        "bias": 0
-      },
-      {
-        "title": "Talking Maria [Free] [Role Playing]",
-        "link": "https://manolitodev.itch.io/talking-maria",
-        "description": "",
-        "pubDate": "2025-09-09T04:33:33Z",
-        "source": "manolitodev.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTAzODMwLnBuZw==/315x250%23c/GrAB4d.png",
-        "bias": 0
-      },
-      {
         "title": "Office 10 [Free] [Puzzle] [Windows]",
         "link": "https://anospb.itch.io/office-10",
         "description": "You are trapped in an endless office",
@@ -239,9 +230,18 @@
     ],
     "World": [
       {
+        "title": "Ethiopia inaugurates GERD dam amid downstream tensions with Egypt, Sudan",
+        "link": "https://www.aljazeera.com/news/2025/9/9/ethiopia-inaugurates-gerd-dam-amid-downstream-tensions-with-egypt-sudan?traffic_source=rss",
+        "description": "Ethiopia celebrates Africa's largest hydroelectric dam as Egypt and Sudan express fears over water security.",
+        "pubDate": "2025-09-09T10:16:08Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "At least 20 killed in Russian attack in eastern Ukraine, Zelenskyy says",
         "link": "https://www.aljazeera.com/news/2025/9/9/at-least-20-killed-in-russian-attack-in-eastern-ukraine-zelenskyy-says?traffic_source=rss",
-        "description": "'The Russians continue to destroy lives, but avoid new strong sanctions', Zelenskyy says.",
+        "description": "'The Russians continue to destroy lives, but avoid new strong sanctions,' Zelenskyy says.",
         "pubDate": "2025-09-09T10:08:57Z",
         "source": "aljazeera.com",
         "image": "",
@@ -253,7 +253,7 @@
         "description": "Global Sumud Flotilla says a fire was started but Tunisian authorities deny that a drone was involved.",
         "pubDate": "2025-09-09T10:08:50Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af01/live/6b9035f0-8d18-11f0-9cf6-cbf3e73ce2b9.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62e7/live/717ae500-8d68-11f0-ac8c-8129e35aa651.jpg",
         "bias": 0
       },
       {
@@ -563,15 +563,6 @@
         "bias": -1
       },
       {
-        "title": "Apple to unveil next iPhone amid Trump trade war that could result in higher prices - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSGVhOFM0czlTNy1zX0RFc2VzNmJxdVlVX3dIaTZPR2xyV25VaEhJMF95YXNONjVMUGhueG5fdEhKR2pPVnNIMDFRWktFN0hCbmEtcDg0c0JCNjJnRXJWZWMtZkJKc1pqV3ViMERLQzZ1aHhZMmJubWVRdXh0Ymd1NC1jTkI1VGUtVEMwV19hSC11djBUM2NSNkFYRQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-09T05:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "South Korea to send plane for workers detained in US immigration raid",
         "link": "https://www.aljazeera.com/news/2025/9/9/south-korea-to-send-plane-for-workers-detained-in-us-immigration-raid?traffic_source=rss",
         "description": "Flagship carrier Korean Air says plane could depart for Atlanta, Georgia, as soon as Wednesday.",
@@ -691,6 +682,24 @@
     ],
     "Politics": [
       {
+        "title": "Chris Mason: Rayner's replacement will show which way political wind is blowing in Labour",
+        "link": "https://www.bbc.com/news/articles/c0q701wy45po?at_medium=RSS&at_campaign=rss",
+        "description": "Nominations for the new deputy leader of the Labour Party open today with a winner announced on 25 October.",
+        "pubDate": "2025-09-09T10:38:41Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d453/live/39ec9070-8d45-11f0-b391-6936825093bd.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Rayner's replacement will show which way political wind is blowing in Labour",
+        "link": "https://www.bbc.com/news/articles/c0q701wy45po?at_medium=RSS&at_campaign=rss",
+        "description": "Nominations for the new deputy leader of the Labour Party open today with a winner announced on 25 October.",
+        "pubDate": "2025-09-09T10:38:41Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d453/live/39ec9070-8d45-11f0-b391-6936825093bd.jpg",
+        "bias": 0
+      },
+      {
         "title": "Bridget Phillipson enters Labour deputy contest",
         "link": "https://www.bbc.com/news/articles/c3rvqv9yg4eo?at_medium=RSS&at_campaign=rss",
         "description": "The education secretary is the most senior figure to enter the race to replace Angela Rayner so far.",
@@ -715,6 +724,15 @@
         "pubDate": "2025-09-09T09:43:30Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca96/live/77bb79c0-8a2a-11f0-b917-03bcebef22ec.png",
+        "bias": 0
+      },
+      {
+        "title": "Nepal’s prime minister resigns following violent protests against social media ban and corruption - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdDYzNkd1MHFWekNmekFBR2k3cXh5bjJQXzIzU2JqRGNEbDUwelVtN1hodENaNWlyeDRSaHpsblotRHBqdVJSUE5BUnFOQWlTNTlocGV1cFNSWXlwRlRHUnA3T3hFa3NNd1hCQUlMVmZQOTJpcFVhc1V2emY0SHZYTkdDUFpEVTg4clc5dDRJTTlmdWhs?oc=5",
+        "description": "",
+        "pubDate": "2025-09-09T09:33:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -760,24 +778,6 @@
         "pubDate": "2025-09-09T04:51:24Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48b1/live/29499d10-8d47-11f0-b391-6936825093bd.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Chris Mason: Rayner's replacement will show which way political wind is blowing in Labour",
-        "link": "https://www.bbc.com/news/articles/c0q701wy45po?at_medium=RSS&at_campaign=rss",
-        "description": "Nominations for the new deputy leader of the Labour Party open today with a winner announced on 25 October.",
-        "pubDate": "2025-09-09T03:56:14Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d453/live/39ec9070-8d45-11f0-b391-6936825093bd.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Rayner's replacement will show which way political wind is blowing in Labour",
-        "link": "https://www.bbc.com/news/articles/c0q701wy45po?at_medium=RSS&at_campaign=rss",
-        "description": "Nominations for the new deputy leader of the Labour Party open today with a winner announced on 25 October.",
-        "pubDate": "2025-09-09T03:56:14Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d453/live/39ec9070-8d45-11f0-b391-6936825093bd.jpg",
         "bias": 0
       },
       {
@@ -828,6 +828,15 @@
         "bias": 0
       },
       {
+        "title": "Apple to unveil next iPhone amid Trump trade war that could result in higher prices - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSGVhOFM0czlTNy1zX0RFc2VzNmJxdVlVX3dIaTZPR2xyV25VaEhJMF95YXNONjVMUGhueG5fdEhKR2pPVnNIMDFRWktFN0hCbmEtcDg0c0JCNjJnRXJWZWMtZkJKc1pqV3ViMERLQzZ1aHhZMmJubWVRdXh0Ymd1NC1jTkI1VGUtVEMwV19hSC11djBUM2NSNkFYRQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-09T05:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "UCLA suspends backup QB Pierce Clarkson after arrest on felony charge - AP News",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNGNyN3dVY3B2TDBqcndJY3VjSTFMRGhZY2huZFkyOWo0cnJSQ2tlTWJIdWJpYTVJUXU2ZElBVmV2MUdya01EeFdWWnBiRm0zaHpCSUxOM2tNdlM3angxMUVCT0VyWC1iYlY4akpxUFJfZmJyb3F2WWN4U1YxN1ZSUGlKZ0dGZ2d1NDVHbm55YXJLd2Jm?oc=5",
         "description": "",
@@ -848,24 +857,6 @@
         "bias": 0
       },
       {
-        "title": "Commercial shipping likely cut Red Sea cables that disrupted internet access, experts say - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUmkwUVdlVV9wRWdCU2YxbFV0T3VXcE5MMVMxT2Q1WGxPcDdLNzNtUTdlQjBPZVM1TzBRaGFRRlJycXd5WklocmdHcEllMEJkNWNiM0VqT1RRMkF0UnlveUZ3Y2daUkhmMmF4bHZyUHdOUnlCT3I0OWs5eThubXlCdmwwSUhUbUp6cnpuQUo4Y25vYnJyREdOX2lKVHowOEFlMXI1NjhrazFLSnc?oc=5",
-        "description": "",
-        "pubDate": "2025-09-09T06:25:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Police say man killed retired Auburn University professor at a public park - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVDU4UGpZTHdLNWlnQk9DUFVZNThlMUdhekVtX2QzMGJyeGNway1IUHVFVldwSUVkZF9GQi1SeDlQOU5XdU5MWnNTdy1tT1djX2luMGhUdlJDUW9FcmNDX3pDZzA4ZnlfdVpiUG9MT0ZuUUJHTnRkMmhDTDFOWUJ3Ml9SOGdocThNNF9BNGQ1QUtCQ0RDMDJqQnU2VlNTbEdtcmZwVGpqbw?oc=5",
-        "description": "",
-        "pubDate": "2025-09-09T04:38:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "US firm makes a $500 million investment deal with Pakistan for critical minerals - AP News",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbEsyd0l1eDE2dWZObzZ6amZOdDZOcnNqN0JWaTJLVTJWQ0plT0JRYjNKeV9ERDNnOFQwb2V0WlQxbXdmZzlRNGY0Rkc1QlpqaElXcjdwc1RSMF92SkFwMlctaUlmSWhCNk9TNVZzal9DbzJyaUxtd29hdXl6YVRVekNTU3B2ZVgwOGNFQTZFMGNnS21FYjN0UXI4aHlMLXNNNXc?oc=5",
         "description": "",
@@ -882,9 +873,28 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "The adventures of Emil the moose keep a corner of Austria on its toes - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMHNzWGZGODFiNWZaUmtJS21KN0lLYVBEME9WY1hUaGY2WnVBcGJUV0c2YUNJdGQ0dFI4NFZyWW8ybEVXYXpwUDNpb1Z6cUkydy14dFlWNjZoNkMtUzkxbldvVHJ6Zl9GU0VtUjJSdXUzRWsyVm1uazc0akpnNlpwR1Q3OC0?oc=5",
+        "description": "",
+        "pubDate": "2025-09-09T00:51:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
-    "Business": [],
+    "Business": [
+      {
+        "title": "Farmers feel abandoned as thousands of contracts cut",
+        "link": "https://www.bbc.com/news/articles/c4g9q7y8gj3o?at_medium=RSS&at_campaign=rss",
+        "description": "According to a Freedom of Information request, 5,830 Countryside Stewardship agreements will end.",
+        "pubDate": "2025-09-09T05:19:43Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3150/live/69937b30-ff34-11ef-8bc4-0f1da5ca8de4.jpg",
+        "bias": 0
+      }
+    ],
     "Culture": [
       {
         "title": "'No one is irreplaceable', says BBC chief after scandals",
