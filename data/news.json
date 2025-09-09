@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-09T05:23:59.233912Z",
+  "lastUpdate": "2025-09-09T05:40:22.338756Z",
   "news": {
     "Gaming": [
       {
@@ -9,6 +9,15 @@
         "pubDate": "2025-09-09T05:08:38Z",
         "source": "mrhapps.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMTAzOTU5LmdpZg==/315x250%23c/RgzGJ9.gif",
+        "bias": 0
+      },
+      {
+        "title": "Mother Ducker [Free] [Other]",
+        "link": "https://eravex.itch.io/mother-ducker",
+        "description": "Steal fast. Score smart. Quack louder.",
+        "pubDate": "2025-09-09T05:04:19Z",
+        "source": "eravex.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTA0MDA3LnBuZw==/315x250%23c/VlpmO1.png",
         "bias": 0
       },
       {
@@ -192,15 +201,6 @@
         "bias": 0
       },
       {
-        "title": "Terrible Trip (Prototype) [Free] [Platformer] [Windows]",
-        "link": "https://conchrastw.itch.io/terrible-trip-prototype",
-        "description": "a short prototype for a 2D climbing game",
-        "pubDate": "2025-09-09T02:29:13Z",
-        "source": "conchrastw.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTAyOTMxLnBuZw==/315x250%23c/4Fm4fK.png",
-        "bias": 0
-      },
-      {
         "title": "Dream So Long [$2.00] [Puzzle] [Windows]",
         "link": "https://1ruuu.itch.io/dream-so-long",
         "description": "",
@@ -208,9 +208,27 @@
         "source": "1ruuu.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMTAyMTY3LmpwZw==/315x250%23c/DhnZNr.jpg",
         "bias": 0
+      },
+      {
+        "title": "Ergosphere [Free] [Other] [Windows] [Linux]",
+        "link": "https://yalt.itch.io/ergosphere",
+        "description": "Research the anomalous sejanus singularity, and try to perform your duties without succumbing to it's influence.",
+        "pubDate": "2025-09-09T00:24:16Z",
+        "source": "yalt.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTAxOTQ3LnBuZw==/315x250%23c/mfpRcZ.png",
+        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Nepal lifts social media ban following protests where police killed 19 people",
+        "link": "https://www.npr.org/2025/09/09/nx-s1-5534953/nepal-social-media-ban-protests",
+        "description": "Nepal's government lifted its ban on social media platforms Tuesday a day after police killed opened fire on mass street protests against the ban, killing 19 people.",
+        "pubDate": "2025-09-09T05:15:16Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Thailand's former PM Thaksin Shinawatra to serve one-year prison term",
         "link": "https://www.npr.org/2025/09/09/g-s1-87726/thailands-former-pm-to-serve-one-year-prison-term",
@@ -221,7 +239,16 @@
         "bias": -1
       },
       {
-        "title": "LIVE: Israel pounds Gaza City as Netanyahu tells residents to leave now",
+        "title": "Indonesian President Prabowo replaces five ministers after deadly protests",
+        "link": "https://www.aljazeera.com/news/2025/9/9/indonesian-president-prabowo-replaces-five-ministers-after-deadly-protests?traffic_source=rss",
+        "description": "Finance Minister Sri Mulyani Indrawati was among those ousted days after protesters raided her home.",
+        "pubDate": "2025-09-09T05:06:02Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "LIVE: Israel pounds Gaza City as Netanyahu tells residents to ‘leave now’",
         "link": "https://www.aljazeera.com/news/liveblog/2025/9/9/live-israel-pounds-gaza-city-as-netanyahu-tells-residents-to-leave-now?traffic_source=rss",
         "description": "Israeli forces bomb more high-rise buildings in Gaza City as Netanyahu warns residents to flee.",
         "pubDate": "2025-09-09T05:00:58Z",
@@ -264,6 +291,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Charlotte leaders criticized over killing of Ukrainian woman as Trump, MAGA target another Dem city - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWFNjYk5URmpFWnRpTm8yN1YwNUNBbnRxYkY5WmhnN0h4NEltbFF2NGhNcUhNZHpZRGU2bFkteF9qZ0VwOXUwZjVYd0VtRUZvbHRRUlVESFVuQ3NydGxNNm1JcDFyendfQ3NFdGxVU0hhUXBXdk44TS1NUkVRSVN1VE1qTm1KZnV5OHdvclhIN1Y1R1dRZ1Rfa1FrbWZQcTlpQl9KV1hmdXFVMEpHVENKWkJ2d045R3gx?oc=5",
+        "description": "",
+        "pubDate": "2025-09-09T03:47:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "US lawmakers release Epstein 'birthday book' with alleged Trump note",
@@ -399,15 +435,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Charlotte officials under fire after man with long criminal history kills Ukrainian woman on train - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWFNjYk5URmpFWnRpTm8yN1YwNUNBbnRxYkY5WmhnN0h4NEltbFF2NGhNcUhNZHpZRGU2bFkteF9qZ0VwOXUwZjVYd0VtRUZvbHRRUlVESFVuQ3NydGxNNm1JcDFyendfQ3NFdGxVU0hhUXBXdk44TS1NUkVRSVN1VE1qTm1KZnV5OHdvclhIN1Y1R1dRZ1Rfa1FrbWZQcTlpQl9KV1hmdXFVMEpHVENKWkJ2d045R3gx?oc=5",
-        "description": "",
-        "pubDate": "2025-09-09T00:09:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
@@ -436,15 +463,6 @@
         "pubDate": "2025-09-09T03:24:12Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c025/live/ac8da4a0-8cf7-11f0-ad76-3f87e5d0a3dc.png",
-        "bias": 0
-      },
-      {
-        "title": "New Chicago ICE campaign prompts confusion over Trump’s plans for federal intervention - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5feTJpY2kxbHJCWC1KVnhKMzQzYTh3NXhUNnBuSnF4UTFJbkp2bmI1cnhnbEFaM1pPWEpERnZ1UC1YWUExemZCQy01TFN1U25MaW04RlBzS2JPMDhaWXM1SFNnRU9XUjhTaVE?oc=5",
-        "description": "",
-        "pubDate": "2025-09-09T01:20:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       }
     ],
