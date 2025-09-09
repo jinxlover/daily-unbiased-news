@@ -1,7 +1,25 @@
 {
-  "lastUpdate": "2025-09-09T04:57:56.025400Z",
+  "lastUpdate": "2025-09-09T05:23:59.233912Z",
   "news": {
     "Gaming": [
+      {
+        "title": "ECO: Última Semilla [Free]",
+        "link": "https://mrhapps.itch.io/eco-ultima-semilla",
+        "description": "",
+        "pubDate": "2025-09-09T05:08:38Z",
+        "source": "mrhapps.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTAzOTU5LmdpZg==/315x250%23c/RgzGJ9.gif",
+        "bias": 0
+      },
+      {
+        "title": "Fondo juego desde navegador [Free]",
+        "link": "https://conito-16.itch.io/fondo-juego-desde-navegador",
+        "description": "",
+        "pubDate": "2025-09-09T05:00:33Z",
+        "source": "conito-16.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTAzOTgxLnBuZw==/315x250%23c/5y9i5l.png",
+        "bias": 0
+      },
       {
         "title": "Mini Golf Quest [Free] [Sports]",
         "link": "https://80sonpurple.itch.io/mini-golf-quest",
@@ -174,48 +192,12 @@
         "bias": 0
       },
       {
-        "title": "The Labyrinth Of Time's Edge [Free] [Interactive Fiction]",
-        "link": "https://the-ventureweaver.itch.io/tlote4111",
-        "description": "",
-        "pubDate": "2025-09-09T02:31:08Z",
-        "source": "the-ventureweaver.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTAyOTcwLmpwZw==/315x250%23c/iDV7hB.jpg",
-        "bias": 0
-      },
-      {
         "title": "Terrible Trip (Prototype) [Free] [Platformer] [Windows]",
         "link": "https://conchrastw.itch.io/terrible-trip-prototype",
         "description": "a short prototype for a 2D climbing game",
         "pubDate": "2025-09-09T02:29:13Z",
         "source": "conchrastw.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMTAyOTMxLnBuZw==/315x250%23c/4Fm4fK.png",
-        "bias": 0
-      },
-      {
-        "title": "Social Cake [Free]",
-        "link": "https://safashaqsy.itch.io/socialcake",
-        "description": "",
-        "pubDate": "2025-09-09T02:28:08Z",
-        "source": "safashaqsy.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTAzMDE5LnBuZw==/315x250%23c/q%2B8qFo.png",
-        "bias": 0
-      },
-      {
-        "title": "My Daily Life Mini Game [Free] [Role Playing]",
-        "link": "https://anonie130.itch.io/my-daily-life-mini-game",
-        "description": "",
-        "pubDate": "2025-09-09T02:18:37Z",
-        "source": "anonie130.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTAyOTEzLnBuZw==/315x250%23c/okcZRR.png",
-        "bias": 0
-      },
-      {
-        "title": "STARJUMP_5 [Free] [Card Game]",
-        "link": "https://kingrain777.itch.io/starjump-5",
-        "description": "Real time blackjack. Race to save your jumpships!",
-        "pubDate": "2025-09-09T01:06:21Z",
-        "source": "kingrain777.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTAyNzkzLnBuZw==/315x250%23c/N5GIT1.png",
         "bias": 0
       },
       {
@@ -230,9 +212,36 @@
     ],
     "World": [
       {
-        "title": "Thai court says ex-premier Thaksin Shinawatra must serve 1 year in prison",
+        "title": "Thailand's former PM Thaksin Shinawatra to serve one-year prison term",
+        "link": "https://www.npr.org/2025/09/09/g-s1-87726/thailands-former-pm-to-serve-one-year-prison-term",
+        "description": "Thailand's Supreme Court said former Prime Minister Thaksin Shinawatra must serve a one-year prison term for previous convictions on graft and abuse of power charges.",
+        "pubDate": "2025-09-09T05:11:37Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "LIVE: Israel pounds Gaza City as Netanyahu tells residents to leave now",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/9/9/live-israel-pounds-gaza-city-as-netanyahu-tells-residents-to-leave-now?traffic_source=rss",
+        "description": "Israeli forces bomb more high-rise buildings in Gaza City as Netanyahu warns residents to flee.",
+        "pubDate": "2025-09-09T05:00:58Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "South Korea to send plane for workers detained in US immigration raid",
+        "link": "https://www.aljazeera.com/news/2025/9/9/south-korea-to-send-plane-for-workers-detained-in-us-immigration-raid?traffic_source=rss",
+        "description": "Flagship carrier Korean Air says plane could depart for Atlanta, Georgia, as soon as Wednesday.",
+        "pubDate": "2025-09-09T04:54:18Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Thai court says ex-premier Thaksin Shinawatra must serve year in prison",
         "link": "https://www.aljazeera.com/news/2025/9/9/thai-court-says-ex-premier-thaksin-shinawatra-must-serve-1-year-in-prison?traffic_source=rss",
-        "description": "Thailand's Supreme Court ruled that hospital stay does not count as time served for ex-prime minister.",
+        "description": "Thailand's Supreme Court ruled that hospital stay does not count as time served for the ex-prime minister.",
         "pubDate": "2025-09-09T04:17:01Z",
         "source": "aljazeera.com",
         "image": "",
@@ -322,6 +331,15 @@
       {
         "title": "US and European officials meet to discuss new sanctions on Russia - AP News",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcTVTN1preElSZWZiVUlEQ1BTYWRsUkhtUWVlNWhrZDJXazJGazVoU2dkT09ITklhRjIyZUVBNUxMeG5PRWVCRWk3TkUzcUU0eGpLYzlGUTlBdUVvTnRXRGNldHBIMWlvU2VwX0VXTV9hVDY3bDVJZGtMWWg2d19uRWJyNXNLamE4VldRNHRGMmZyTHREcmhMSVpoSHk5TERw?oc=5",
+        "description": "",
+        "pubDate": "2025-09-09T01:30:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Founder of a California-based porn empire sentenced to 27 years in federal prison - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaHFLbG5UWTBjTHBtamU1Y1FkeGNaSmJDZkp5Y2o4UGNIUERiZ01rRV9QQ0pQd1NNQjBXek5uX2RoRXg1dXo3aGZMZm1pTVJaeTZEaXhjbGxLaVZDZ3FUOXF5ZlZid1pkbExKamNxVXRscFZra25NcjJheVRFQnp4bkh1UWpiMGxLTlZFdUd3TjRxaW0xM3Jj?oc=5",
         "description": "",
         "pubDate": "2025-09-09T01:30:00Z",
         "source": "news.google.com",
@@ -421,10 +439,10 @@
         "bias": 0
       },
       {
-        "title": "Founder of a California-based porn empire sentenced to 27 years in federal prison - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaHFLbG5UWTBjTHBtamU1Y1FkeGNaSmJDZkp5Y2o4UGNIUERiZ01rRV9QQ0pQd1NNQjBXek5uX2RoRXg1dXo3aGZMZm1pTVJaeTZEaXhjbGxLaVZDZ3FUOXF5ZlZid1pkbExKamNxVXRscFZra25NcjJheVRFQnp4bkh1UWpiMGxLTlZFdUd3TjRxaW0xM3Jj?oc=5",
+        "title": "New Chicago ICE campaign prompts confusion over Trump’s plans for federal intervention - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5feTJpY2kxbHJCWC1KVnhKMzQzYTh3NXhUNnBuSnF4UTFJbkp2bmI1cnhnbEFaM1pPWEpERnZ1UC1YWUExemZCQy01TFN1U25MaW04RlBzS2JPMDhaWXM1SFNnRU9XUjhTaVE?oc=5",
         "description": "",
-        "pubDate": "2025-09-09T01:30:00Z",
+        "pubDate": "2025-09-09T01:20:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -435,7 +453,7 @@
         "title": "Nepal lifts social media ban after 19 killed in protests",
         "link": "https://www.bbc.com/news/articles/cp98n1eg443o?at_medium=RSS&at_campaign=rss",
         "description": "Thousands had taken to the streets demanding that the government lift the ban and tackle corruption.",
-        "pubDate": "2025-09-09T01:51:11Z",
+        "pubDate": "2025-09-09T05:21:20Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba50/live/2749f2c0-8d16-11f0-8737-efba0c8331e8.jpg",
         "bias": 0
