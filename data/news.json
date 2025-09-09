@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-09T07:45:38.018947Z",
+  "lastUpdate": "2025-09-09T07:55:51.677574Z",
   "news": {
     "Gaming": [
       {
@@ -39,7 +39,7 @@
         "bias": 0
       },
       {
-        "title": "finn [Free]",
+        "title": "finn [Free] [Windows]",
         "link": "https://aseraserr.itch.io/godot",
         "description": "",
         "pubDate": "2025-09-09T05:57:42Z",
@@ -230,6 +230,42 @@
     ],
     "World": [
       {
+        "title": "Murdochs reach deal in succession battle over media empire",
+        "link": "https://www.bbc.com/news/articles/cn825x71g4do?at_medium=RSS&at_campaign=rss",
+        "description": "Lachlan Murdoch will retain control the conservative Fox and News Corp empire under the deal.",
+        "pubDate": "2025-09-09T07:54:13Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3706/live/50d831a0-8cf4-11f0-bd6b-bb632e699d74.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Nepal protests live: Nepali Congress office, top leaders’ homes set on fire",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/9/9/nepal-protests-live-nepali-congress-office-top-leaders-homes-set-on-fire?traffic_source=rss",
+        "description": "Protesters set fire to homes of some top political leaders, a day after 19 people were killed by the security forces.",
+        "pubDate": "2025-09-09T07:37:58Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Palestinians on edge as Israel ramps up raids in wake of Jerusalem attack",
+        "link": "https://www.aljazeera.com/news/2025/9/9/palestinians-on-edge-as-israel-ramps-up-raids-in-wake-of-jerusalem-attack?traffic_source=rss",
+        "description": "Israeli forces storm towns, villages and carry out arrests in occupied West Bank after a deadly shooting on Monday.",
+        "pubDate": "2025-09-09T07:36:33Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Australian PM says Vanuatu security, climate agreement delayed",
+        "link": "https://www.aljazeera.com/news/2025/9/9/australian-pm-says-vanuatu-security-climate-agreement-delayed?traffic_source=rss",
+        "description": "PM Anthony Albanese says he won't sign Nakamal Agreement in Vanuatu, despite recent high-level talks on the pact.",
+        "pubDate": "2025-09-09T07:29:54Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "ICC opens war crimes hearing against Ugandan rebel Joseph Kony",
         "link": "https://www.aljazeera.com/news/2025/9/9/icc-opens-war-crimes-hearing-against-ugandan-rebel-joseph-kony?traffic_source=rss",
         "description": "Kony faces charges for the Lord's Resistance Army campaign of torture and abuse in Uganda in the early 2000s.",
@@ -266,21 +302,21 @@
         "bias": -1
       },
       {
+        "title": "Thailand's former PM Thaksin Shinawatra to serve 1-year prison term for previous convictions - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZmd4b3FlenVxTHNJV1gyWm5taTNVTWZzVTdpdnFSRnItcUJSX0IyT3M5Z2N5WmZLLXpiTkE5bG5iTWthT1BRN0owQjBpNGNFaFM2cXYtUEFMeHRJRmlNX1UzYURNR1FwYWkzVDd0RVFkeXE1Zkx3WlJFdUgxdWFYVjYwSWtySDluRjI3RG9UMFRPbndHdTRBWGhCYWlJRnVfSE9XXzAxZ3lyMXNBOW9VVlFR?oc=5",
+        "description": "",
+        "pubDate": "2025-09-09T06:43:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Thai court rules ex-PM Thaksin must serve one year in jail",
         "link": "https://www.bbc.com/news/articles/cly7k2g37g4o?at_medium=RSS&at_campaign=rss",
         "description": "The Supreme Court ruling is yet another blow to the influential Shinawatra political dynasty.",
         "pubDate": "2025-09-09T06:41:09Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cf3/live/300f0da0-8d48-11f0-84c8-99de564f0440.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Murdochs reach deal in succession battle over media empire",
-        "link": "https://www.bbc.com/news/articles/cn825x71g4do?at_medium=RSS&at_campaign=rss",
-        "description": "Lachlan Murdoch will retain control the conservative Fox and News Corp empire under the deal.",
-        "pubDate": "2025-09-09T06:30:24Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3706/live/50d831a0-8cf4-11f0-bd6b-bb632e699d74.jpg",
         "bias": 0
       },
       {
@@ -347,15 +383,6 @@
         "bias": 0
       },
       {
-        "title": "Thailand's former PM Thaksin Shinawatra to serve one-year prison term for previous convictions - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZmd4b3FlenVxTHNJV1gyWm5taTNVTWZzVTdpdnFSRnItcUJSX0IyT3M5Z2N5WmZLLXpiTkE5bG5iTWthT1BRN0owQjBpNGNFaFM2cXYtUEFMeHRJRmlNX1UzYURNR1FwYWkzVDd0RVFkeXE1Zkx3WlJFdUgxdWFYVjYwSWtySDluRjI3RG9UMFRPbndHdTRBWGhCYWlJRnVfSE9XXzAxZ3lyMXNBOW9VVlFR?oc=5",
-        "description": "",
-        "pubDate": "2025-09-09T04:58:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "South Korea to send plane for workers detained in US immigration raid",
         "link": "https://www.aljazeera.com/news/2025/9/9/south-korea-to-send-plane-for-workers-detained-in-us-immigration-raid?traffic_source=rss",
         "description": "Flagship carrier Korean Air says plane could depart for Atlanta, Georgia, as soon as Wednesday.",
@@ -371,6 +398,15 @@
         "pubDate": "2025-09-09T04:32:15Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d836/live/36608580-8d2f-11f0-81c8-8b6bfc6cbc97.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Nepal internet crackdown part of global trend toward suppressing online freedom - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaF9hdERWNjkwYWozS2hTOWgtRnJfN1ZiTmhZOHRmcVFsSVZuTWx6M3Nnc096dGNUQ3AyaU9GLVpoc0t2enh3QzdyNmUxMk1fcmVYTlNTLXV6OHRjc2RlSXFjTXVHaUloN2xuM2tDdVVBbkZyeU9JQmVKcllBanM3cGhmVlJsdWY2ckF1c1FmTk5lMlE?oc=5",
+        "description": "",
+        "pubDate": "2025-09-09T04:22:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -565,6 +601,15 @@
         "bias": 0
       },
       {
+        "title": "Mandelson called Epstein 'best pal' in birthday message",
+        "link": "https://www.bbc.com/news/articles/cwy9dwe50leo?at_medium=RSS&at_campaign=rss",
+        "description": "The description is contained an alleged 50th \"birthday book\" given to the disgraced financier that has been released by US lawmakers.",
+        "pubDate": "2025-09-09T04:51:24Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48b1/live/29499d10-8d47-11f0-b391-6936825093bd.jpg",
+        "bias": 0
+      },
+      {
         "title": "Home Depot stores, long a hub for day laborers, now draw immigration agents out on raids - AP News",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNblQ0TnFYWEs0VFJNTm5mYi1UU2dFdUpybHFrREt3el8wTnp0NVYwM2FucWk4aVJLZjU4Y2JfTXdKRHNuNFVFb1lLc2tDdXFPbnNFTUZ0QXFGOHB5a3FFRGVnS2Y3VUJsX19yUlZvdF9jelVjZDhadlY1RFptYXM0MUlNZF90NjlneDJqb3pudW15dDhiM1NsQkdMSC1oV3FQRGJQN284R3JFWWI4?oc=5",
         "description": "",
@@ -661,6 +706,15 @@
     ],
     "Business": [],
     "Culture": [
+      {
+        "title": "Def Leppard guitarist speaks of 'tension' onstage during Troubles",
+        "link": "https://www.bbc.com/news/articles/c8exkzj5n1eo?at_medium=RSS&at_campaign=rss",
+        "description": "The musician has revealed he'd \"shut up\" while performing in parts of Northern Ireland during the Troubles.",
+        "pubDate": "2025-09-09T06:28:20Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c577/live/a8e06140-8c8d-11f0-a91f-69625b70a4a8.jpg",
+        "bias": 0
+      },
       {
         "title": "Children's TV favourite Bagpuss to reawaken for new film",
         "link": "https://www.bbc.com/news/articles/crrjwlvxknko?at_medium=RSS&at_campaign=rss",
