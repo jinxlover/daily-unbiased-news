@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-10T13:15:58.570323Z",
+  "lastUpdate": "2025-09-10T13:38:35.499484Z",
   "news": {
     "Gaming": [
       {
@@ -48,6 +48,15 @@
         "bias": 0
       },
       {
+        "title": "Maidnight Massacre [Free] [Visual Novel] [Windows]",
+        "link": "https://funghi.itch.io/maidnight-massacre",
+        "description": "A horror visual novel where you play as the killer",
+        "pubDate": "2025-09-10T11:54:10Z",
+        "source": "funghi.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTE4OTM1LnBuZw==/315x250%23c/dcGtNx.png",
+        "bias": 0
+      },
+      {
         "title": "[es-ES] Not Enoguh Time - LocJAM 6 edition [Free] [Adventure]",
         "link": "https://agomeztranslator.itch.io/not-enoguh-time-es",
         "description": "",
@@ -93,15 +102,6 @@
         "bias": 0
       },
       {
-        "title": "idk7 [Free]",
-        "link": "https://wexelsdev.itch.io/idk7",
-        "description": "",
-        "pubDate": "2025-09-10T11:19:01Z",
-        "source": "wexelsdev.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTE4NjkyLnBuZw==/315x250%23c/NwvE3e.png",
-        "bias": 0
-      },
-      {
         "title": "Maze Escape: The Rolling Ball [Free] [Puzzle] [Windows]",
         "link": "https://sai-y.itch.io/maze-escape-the-rolling-ball",
         "description": "Control the Platform and reach the Goal.",
@@ -120,12 +120,12 @@
         "bias": 0
       },
       {
-        "title": "Out of 1-bit [Free] [Platformer] [Android]",
-        "link": "https://ilgarnabiyevspare-cell.itch.io/out-of-1-bit",
-        "description": "1-bit Platformer",
-        "pubDate": "2025-09-10T09:46:06Z",
-        "source": "ilgarnabiyevspare-cell.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTE4MTE3LnBuZw==/315x250%23c/JXtXA1.png",
+        "title": "Uncanny Tales: 1992 (Available now!) [$4.29] [Adventure] [Windows]",
+        "link": "https://vyastudio.itch.io/uncanny-tales-1992",
+        "description": "Uncanny Tales: 1992 - Anton, 14, faces a Soviet serial killer in a new city.",
+        "pubDate": "2025-09-10T05:53:32Z",
+        "source": "vyastudio.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTE2MzU3LnBuZw==/315x250%23c/SAki8J.png",
         "bias": 0
       },
       {
@@ -135,6 +135,15 @@
         "pubDate": "2025-09-10T04:25:07Z",
         "source": "twl-0802.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMTE1OTUxLnBuZw==/315x250%23c/O74r5H.png",
+        "bias": 0
+      },
+      {
+        "title": "R.3.D [Free] [Shooter]",
+        "link": "https://takokoro.itch.io/r3d",
+        "description": "Retrieve, Explore, Destroy",
+        "pubDate": "2025-09-10T02:33:03Z",
+        "source": "takokoro.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTE1MzYxLmpwZw==/315x250%23c/rKG9Uw.jpg",
         "bias": 0
       },
       {
@@ -148,6 +157,33 @@
       }
     ],
     "World": [
+      {
+        "title": "Video: Army deployed in Nepal after mass ‘Gen Z’ protests",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/9/10/video-army-deployed-in-nepal-after-mass-gen-z-protests?traffic_source=rss",
+        "description": "Soldiers have been patrolling the streets of Nepal’s capital to enforce a curfew after days of mass protests.",
+        "pubDate": "2025-09-10T13:25:57Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Pro-Palestinian protester speaks out on German police attack",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/9/10/pro-palestinian-protester-speaks-out-on-german-police-attack?traffic_source=rss",
+        "description": "Kitty O’Brien, an Irish protester, fears lasting injuries after being assaulted by German police at a Gaza rally.",
+        "pubDate": "2025-09-10T13:18:40Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Who’s leading Nepal after Oli resignation, what’s next for Gen Z protests?",
+        "link": "https://www.aljazeera.com/news/2025/9/10/whos-leading-nepal-after-oli-resignation-whats-next-for-gen-z-protests?traffic_source=rss",
+        "description": "Nepal's army has taken control of the streets and is effectively in charge for now, say experts. Here's what's next.",
+        "pubDate": "2025-09-10T13:05:27Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Iran and UN appear at odds over nuclear deal",
         "link": "https://www.aljazeera.com/news/2025/9/10/iran-and-un-appear-at-odds-over-nuclear-deal?traffic_source=rss",
@@ -306,15 +342,6 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYnlOT0FFRkU1TEpTUlcyVHVmeTBUVDJNZ05YRkRNMWswcTFXVEwxWkZ6M3RhajZpNHJJMFMwZzFXN2w0ZEU3OWJaZXlrUlJLTG9iWkR4ZVVHRDVXLTlBUjY4TzhMNll6YmtfLXhvVXpEdGxoSVlVc1FzWmh2WGk4UnR6b0ZJei1oVkpBa2ZpcGdsYVM5SVZj?oc=5",
         "description": "",
         "pubDate": "2025-09-10T11:15:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "250 arrested in France as protesters clash with police while Macron installs a new PM - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV3VHZFN3NkVHbEJIbnJnZG51T0tja0RwM2lQQWRMb3pSV1dEMUx5TDkxNEg2S0RubHFldzBrVmo2cnExMDFDUnhfR3BJY3dXN0pTekZDNlM4RmhkT0VWT3JiaFdya2J0N2tFNU8xMU9xVkM1d0g0U0hqTUVmM1Y1Nm1UMWJiWC1GdU0wYTdsaVZQYXFVQ3JJQXg4TFlqZ2pqcEVteS1hdkJDZw?oc=5",
-        "description": "",
-        "pubDate": "2025-09-10T11:12:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -545,15 +572,6 @@
         "bias": -1
       },
       {
-        "title": "Bolivia upset Brazil to clinch FIFA World Cup 2026 playoff spot",
-        "link": "https://www.aljazeera.com/sports/2025/9/10/bolivia-upset-brazil-to-clinch-fifa-world-cup-2026-playoff-spot?traffic_source=rss",
-        "description": "Bolivia pulled off one of the biggest shocks of the South American qualifiers to reach the World Cup playoff round.",
-        "pubDate": "2025-09-10T05:26:49Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "Plans in the works for Korean workers detained in raid to go home while fear lingers for residents - AP News",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUGEyZjJNbUpxTlFYN09BNlBJQndZNDlsWkt5SXp0R3lwQWVMR1h4bVZSZnJyTC1TSFB4dGVhQkFrRTdMUzdVejdWUFVXdjZFY28yLWJDcngtT2hWdUhnaXRHdFlDR2V4RFlRMDNnYXRKNDZ4ZFBXZzdyTU96UlZzblNTdE5BdDVlTFBTaWdwYWNnN2lVLVZNS3hUeXpYdDRqQ0Y2UU5fcw?oc=5",
         "description": "",
@@ -581,15 +599,6 @@
         "bias": 0
       },
       {
-        "title": "Australia to spend $1.1bn on underwater ‘Ghost Shark’ attack drones",
-        "link": "https://www.aljazeera.com/news/2025/9/10/australia-to-spend-1-1bn-on-underwater-ghost-shark-attack-drones?traffic_source=rss",
-        "description": "Australian Defence Minister Richard Marles says large underwater attack drones have 'very long range' of operations.",
-        "pubDate": "2025-09-10T04:15:12Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "Kilmar Abrego Garcia wants asylum. The US wants to deport him. What to know - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTjg1UTVMVWxRcUlOSlhlbGVYX2hlc2tRcHFBT1JOVkZmU0k3M3BnV0luSjhrVU9DMlhva0U3Zm04OXdUMEdhVDFlN0lvRTA2TFh1cHRkYmlWUEw0VkJiUEVxQ0stdzhaTFd2bTA5OVk1SEY1VXFueHA3ME1DQUdpN2JaZnVBa0t2M3lOcTVXclRZbTZaaG1jdjNOMnQtbXdET09UX0FkZFQtUDA?oc=5",
         "description": "",
@@ -601,12 +610,30 @@
     ],
     "Politics": [
       {
+        "title": "Photos of fiery protests against a social media ban in Nepal - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON0tTeHp3WmhHQzVfQWZyeG9waUUwbVZDWnBzOE9Fb3gwUGtlbTV1bkVxbi1yRkU0VVltb0hwLTlPUjlINHNuZXVsUTBUdzY1UGFhZnBGU1d3Q0huUFQwWXljclNwbTB5VEVNSzNSdU5fTWVKa1l6OGpFWDBTTW5IbG1VVGx1WlJVM1BfcHhyQWRaQ2pqbXVRMHB4WWQwZktKRC1DQkhB?oc=5",
+        "description": "",
+        "pubDate": "2025-09-10T13:26:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "More embarrassing Epstein exchanges to come, says Mandelson, as Starmer pressed at PMQs",
         "link": "https://www.bbc.com/news/articles/c5yevwvvneyo?at_medium=RSS&at_campaign=rss",
         "description": "The UK's ambassador to the US likens his past association with the convicted paedophile to \"an albatross around my neck\".",
         "pubDate": "2025-09-10T13:09:54Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e679/live/6d383560-8e30-11f0-9cf6-cbf3e73ce2b9.jpg",
+        "bias": 0
+      },
+      {
+        "title": "French police arrest 250 during clashes with protesters while Macron installs a new PM - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV3VHZFN3NkVHbEJIbnJnZG51T0tja0RwM2lQQWRMb3pSV1dEMUx5TDkxNEg2S0RubHFldzBrVmo2cnExMDFDUnhfR3BJY3dXN0pTekZDNlM4RmhkT0VWT3JiaFdya2J0N2tFNU8xMU9xVkM1d0g0U0hqTUVmM1Y1Nm1UMWJiWC1GdU0wYTdsaVZQYXFVQ3JJQXg4TFlqZ2pqcEVteS1hdkJDZw?oc=5",
+        "description": "",
+        "pubDate": "2025-09-10T13:07:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -623,6 +650,15 @@
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaFAybVZuWVItUHJJSHQ1Z0dpaEZQU3BzcUtNRmdEb2p1UXBpeDJfbURWemx1bDhnZ3VYTFdKVGZYQUc5X0gwejNBR0traFZaNWxsT3NJdUhIejlCYU1fbW1wVjUxMVFmc24wUGVFOHF2TmxfM2lGcHhodWdoTVVEOUxVMUVBYXNEUmlKNQ?oc=5",
         "description": "",
         "pubDate": "2025-09-10T11:56:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "EU chief says it's time for Europe's 'independence moment' faced with war and major power tensions - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUzk0N0xhaElhNERDUjY3RTYxRG0xNkotcEZkaVNJUlBLbDhvSjQ3YV9XSGNvYXZmUkNVQ3llMUZwYXdpN0dQZERKSjZGMm5UTUprNm9VTkZKeFFmb3dCeW1ta1VxdDNKeWI2TzJRQkdJRjJ6SUs2TEFIY2pGRVdtdWF4V0R5Y1NRX3RLTFV0TnNEbG1CSGxuOW5iby15TjYyRkJVVw?oc=5",
+        "description": "",
+        "pubDate": "2025-09-10T11:17:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -664,18 +700,18 @@
         "bias": 0
       },
       {
-        "title": "Trump's control of the D.C. police is due to expire tonight. Then what?",
-        "link": "https://www.npr.org/2025/09/10/nx-s1-5535534/trump-dc-police-control-expire",
-        "description": "Trump needs an extension from Congress to control D.C. police for more than 30 days. Some Republican lawmakers are focused on pursuing legislation that would exert power over D.C. in other ways.",
+        "title": "33 million voters have been run through a Trump administration citizenship check",
+        "link": "https://www.npr.org/2025/09/10/nx-s1-5477367/save-election-citizenship-data-trump",
+        "description": "Tens of millions of voters have had their information run through the tool — a striking portion of the U.S. public, considering little has been made public about the tool's accuracy or data security.",
         "pubDate": "2025-09-10T09:00:00Z",
         "source": "npr.org",
         "image": "",
         "bias": -1
       },
       {
-        "title": "33 million voters have been run through a Trump administration citizenship check",
-        "link": "https://www.npr.org/2025/09/10/nx-s1-5477367/save-election-citizenship-data-trump",
-        "description": "Tens of millions of voters have had their information run through the tool — a striking portion of the U.S. public, considering little has been made public about the tool's accuracy or data security.",
+        "title": "Trump's control of the D.C. police is due to expire tonight. Then what?",
+        "link": "https://www.npr.org/2025/09/10/nx-s1-5535534/trump-dc-police-control-expire",
+        "description": "Trump needs an extension from Congress to control D.C. police for more than 30 days. Some Republican lawmakers are focused on pursuing legislation that would exert power over D.C. in other ways.",
         "pubDate": "2025-09-10T09:00:00Z",
         "source": "npr.org",
         "image": "",
@@ -695,6 +731,15 @@
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR0xyUjlhWHRGN2QxLV9qNWVPTFRkZXJaYl9CTXZVYVpDQ1lBdW5JcHRpek1JU2JFQWo2akxOVi1LYWRpeWNfc1BoUmpJeFJzS01ZN2VheVYwVTYwdFNFalUtWmJHTFpPTXRMLThRcmFla0pSX3NadHBQNHBpWUZkWEhIV19TT2g2S2wyejJwRjBuLTh0MXNNNi1JVUg0TmNIbmMwQXNB?oc=5",
         "description": "",
         "pubDate": "2025-09-10T07:40:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Years of activism resulted in a Hong Kong same-sex partnership bill, but a tough vote remains - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNczNrX1pvTWlpYVNLZlQ0ekVfU01zS3R6emJfcUZ3WlplcUVueWNYUmJWNWQ4YUZncXdlR1ZXRGtZNU10UkxoaVJySXE2dVB3R2RaMWhYZTFYcG1TMnJaNkNoZDF6ZU1CeVRjUXkzbGdubmxIN2FMU0hTcmo4UF9uWHR4c3Nvek9mMUtsSlJiaDI3cVlGNjNkaDczNA?oc=5",
+        "description": "",
+        "pubDate": "2025-09-10T07:32:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -787,6 +832,15 @@
     ],
     "Business": [
       {
+        "title": "Almost half of homes have never switched from Power NI",
+        "link": "https://www.bbc.com/news/articles/cd07e3p1j4lo?at_medium=RSS&at_campaign=rss",
+        "description": "The Utility Regulator has previously urged more customers to shop around for the best deal.",
+        "pubDate": "2025-09-10T13:25:27Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d50e/live/28ef6180-8e2b-11f0-a7c8-151354d0eaad.jpg",
+        "bias": 0
+      },
+      {
         "title": "Weleda launches inquiry into Nazi camp skin test claims",
         "link": "https://www.bbc.com/news/articles/cy7pgd5nkr6o?at_medium=RSS&at_campaign=rss",
         "description": "A new study alleges the skincare brand's product was used for human experiments by a Nazi doctor.",
@@ -866,15 +920,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Almost half of homes have never switched from Power NI",
-        "link": "https://www.bbc.com/news/articles/cd07e3p1j4lo?at_medium=RSS&at_campaign=rss",
-        "description": "The Utility Regulator has previously urged more customers to shop around for the best deal.",
-        "pubDate": "2025-09-10T07:40:20Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d50e/live/28ef6180-8e2b-11f0-a7c8-151354d0eaad.jpg",
-        "bias": 0
       },
       {
         "title": "S Korea workers detained in US may see return home delayed",
