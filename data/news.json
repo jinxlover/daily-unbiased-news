@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-09-10T10:22:43.485072Z",
+  "lastUpdate": "2025-09-10T10:41:06.270895Z",
   "news": {
     "Gaming": [
+      {
+        "title": "LoveBetweenClubs-pc [Free] [Windows]",
+        "link": "https://azuredemi.itch.io/lovebetweenclubs-pc",
+        "description": "",
+        "pubDate": "2025-09-10T10:22:57Z",
+        "source": "azuredemi.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTE4MjgwLnBuZw==/315x250%23c/uLpzpe.png",
+        "bias": 0
+      },
       {
         "title": "8 Tile Puzzle [Free] [Puzzle]",
         "link": "https://oreo8u.itch.io/8-tile-puzzle",
@@ -9,6 +18,15 @@
         "pubDate": "2025-09-10T10:02:50Z",
         "source": "oreo8u.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMTE4MTk5LnBuZw==/315x250%23c/xM56Xh.png",
+        "bias": 0
+      },
+      {
+        "title": "Love Between Clubs [Free]",
+        "link": "https://azuredemi.itch.io/love-between-clubs",
+        "description": "",
+        "pubDate": "2025-09-10T09:27:30Z",
+        "source": "azuredemi.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTE3OTI4LnBuZw==/315x250%23c/opxJjG.png",
         "bias": 0
       },
       {
@@ -183,24 +201,6 @@
         "bias": 0
       },
       {
-        "title": "Sparkle Orbit (Pico-1k) [Free]",
-        "link": "https://sunrose.itch.io/sparkle-orbit-pico-1k",
-        "description": "Sparkly particle fun for the pico 1k jam!",
-        "pubDate": "2025-09-10T05:07:36Z",
-        "source": "sunrose.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTE2MTY3LnBuZw==/315x250%23c/1vtV1p.png",
-        "bias": 0
-      },
-      {
-        "title": "Rat Burglar: JAILBREAK [Free] [Visual Novel]",
-        "link": "https://captaincomets.itch.io/rat-burglar-jailbreak",
-        "description": "Part 2 of the Rat Burglar series! (Part 1 on Bloxels: https://play.bloxels.com/arcade/95367331)",
-        "pubDate": "2025-09-10T04:59:59Z",
-        "source": "captaincomets.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTE2MTQzLmpwZw==/315x250%23c/xO6Jcz.jpg",
-        "bias": 0
-      },
-      {
         "title": "Icey Fishery v1.1.1 [Free] [Simulation] [Windows] [Linux]",
         "link": "https://endperxd.itch.io/icey-fishery",
         "description": "A small relaxing ice fishing simulator game made for Father's Day 2024 and 2025",
@@ -230,12 +230,39 @@
     ],
     "World": [
       {
+        "title": "Shock as Kenyan lawyer killed in drive-by shooting in Nairobi",
+        "link": "https://www.bbc.com/news/articles/c20v34qpr98o?at_medium=RSS&at_campaign=rss",
+        "description": "Kyalo Mbobu was driving home when a gunman on a motorbike shot him dead on a busy street in the capital.",
+        "pubDate": "2025-09-10T10:27:44Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c2d/live/35468e50-8e11-11f0-8bee-8501c5d73579.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Invasive, disease-carrying tick found in Maine, the farthest northeast it has been spotted - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS0l2WFh5T3FKVTBHSWN0ZDY4S2N1Y0FaWmdpdW4xWEliM1FnNmNwd1J5ODVjWjFWbXNxeHQwQlBNdURDWFV3MzdEMEpud01Nb2JQd1pJQmdTZEhuNWlRV1UxVEJETlVBQlNaZ2pIY0lFeHh5QXBNRXI0elBZQUd2OGFRQWtPamZfMWxWbVp1bw?oc=5",
+        "description": "",
+        "pubDate": "2025-09-10T10:27:39Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Nepal protests 'hijacked', Gen Z claim, as army patrols the streets",
         "link": "https://www.bbc.com/news/articles/cjd1ndmrej0o?at_medium=RSS&at_campaign=rss",
         "description": "Fierce protests against corruption and nepotism spiralled into arson and violence on Tuesday.",
         "pubDate": "2025-09-10T10:17:58Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94fe/live/d4baadb0-8e05-11f0-9f52-518f0cda8f56.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Nepalese army moves to restore order after protest violence intensifies - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZkFSWnVBeExGQmt3eEY2Y1NZRmJDSDVhNzFrWDZpUk5YVllJeEs3b0Z3SlhDMkFrbTN2dU5tSkR3THRnc0JRRlpyVlZkSnIxM3B5UDV6cVNvQUVwWGxoT2tCclAyZkRiZmktWTZXaGhDZHdEdFZKbHFQaU5vT1AyMVVJbllBcEVXWTRtOUdSUUlaVzJF?oc=5",
+        "description": "",
+        "pubDate": "2025-09-10T09:51:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -246,6 +273,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Poland says it shot down Russian drones that violated its airspace during strikes on Ukraine - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYnlOT0FFRkU1TEpTUlcyVHVmeTBUVDJNZ05YRkRNMWswcTFXVEwxWkZ6M3RhajZpNHJJMFMwZzFXN2w0ZEU3OWJaZXlrUlJLTG9iWkR4ZVVHRDVXLTlBUjY4TzhMNll6YmtfLXhvVXpEdGxoSVlVc1FzWmh2WGk4UnR6b0ZJei1oVkpBa2ZpcGdsYVM5SVZj?oc=5",
+        "description": "",
+        "pubDate": "2025-09-10T09:41:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Military shuts down streets in bid to quell Nepal unrest",
@@ -293,15 +329,6 @@
         "bias": 0
       },
       {
-        "title": "Poland says it shot down Russian drones that violated its airspace during strikes on Ukraine - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYnlOT0FFRkU1TEpTUlcyVHVmeTBUVDJNZ05YRkRNMWswcTFXVEwxWkZ6M3RhajZpNHJJMFMwZzFXN2w0ZEU3OWJaZXlrUlJLTG9iWkR4ZVVHRDVXLTlBUjY4TzhMNll6YmtfLXhvVXpEdGxoSVlVc1FzWmh2WGk4UnR6b0ZJei1oVkpBa2ZpcGdsYVM5SVZj?oc=5",
-        "description": "",
-        "pubDate": "2025-09-10T08:41:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Netanyahu wants to “redraw the map of the Middle East”",
         "link": "https://www.aljazeera.com/video/quotable/2025/9/10/netanyahu-wants-to-redraw-the-map-of-the-middle-east?traffic_source=rss",
         "description": "“I think what we're seeing is … an evolution of Netanyahu's descent into insanity.”",
@@ -336,15 +363,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Shock as Kenyan lawyer killed in drive-by shooting in Nairobi",
-        "link": "https://www.bbc.com/news/articles/c20v34qpr98o?at_medium=RSS&at_campaign=rss",
-        "description": "Kyalo Mbobu was driving home when a gunman on a motorbike shot him dead on a busy street in the capital.",
-        "pubDate": "2025-09-10T07:32:17Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c2d/live/35468e50-8e11-11f0-8bee-8501c5d73579.jpg",
-        "bias": 0
       },
       {
         "title": "Pro-Palestinian protesters interrupt Trump dinner in DC",
@@ -401,15 +419,6 @@
         "bias": -1
       },
       {
-        "title": "Nepalese army moves to restore order after protest violence intensifies - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZkFSWnVBeExGQmt3eEY2Y1NZRmJDSDVhNzFrWDZpUk5YVllJeEs3b0Z3SlhDMkFrbTN2dU5tSkR3THRnc0JRRlpyVlZkSnIxM3B5UDV6cVNvQUVwWGxoT2tCclAyZkRiZmktWTZXaGhDZHdEdFZKbHFQaU5vT1AyMVVJbllBcEVXWTRtOUdSUUlaVzJF?oc=5",
-        "description": "",
-        "pubDate": "2025-09-10T06:35:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Russia-Ukraine war: List of key events, day 1,294",
         "link": "https://www.aljazeera.com/news/2025/9/10/russia-ukraine-war-list-of-key-events-day-1294?traffic_source=rss",
         "description": "Here are the key events on day 1,294 of Russia’s war on Ukraine.",
@@ -428,6 +437,15 @@
         "bias": -1
       },
       {
+        "title": "A murky pipeline deal to send Russian gas to China shows Beijing's dominance in the relationship - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYklBb05EMUVUMDNlcUIxUU1zU1lISFBzbl9XOTZsdTN3Qy1QTkdtQmk5bF8wdTgxNVAwVHA4T0RpYUdFUE9rMWotMmdIOUZYa00xZnJTeGxtYlBtWlhGOGw4dmh3eHNYbXREdnY1M2g3a1JUV0w5aXY4UEdYVFh5Qmc3dThOSkRuNktoUzBjdTJyaWJHQUpJeA?oc=5",
+        "description": "",
+        "pubDate": "2025-09-10T04:32:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Israeli military urges full evacuation of Gaza City ahead of expanded military operation - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSjRfVHNzdlZxOFhXcVVNclc1dDRGRFhqVm1mRGVkZmJTamFINHQzSF9tcmoyTVd1c1B0Z1dhUjl6a3l1YVJwd241NFJ6bHBjNUNKVmNUOEJvYnhTdmwyeGVfbU84S2dGZ1J2Zm5tZGpnSm9KUGdFUUpoQzdJakQ0M1F3XzJCdFpKUnA2MWZLZDR0clBTRUNraWpZS284a1JtMEc3YXJOVUI?oc=5",
         "description": "",
@@ -444,6 +462,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Kilmar Abrego Garcia wants asylum. The US wants to deport him. What to know - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTjg1UTVMVWxRcUlOSlhlbGVYX2hlc2tRcHFBT1JOVkZmU0k3M3BnV0luSjhrVU9DMlhva0U3Zm04OXdUMEdhVDFlN0lvRTA2TFh1cHRkYmlWUEw0VkJiUEVxQ0stdzhaTFd2bTA5OVk1SEY1VXFueHA3ME1DQUdpN2JaZnVBa0t2M3lOcTVXclRZbTZaaG1jdjNOMnQtbXdET09UX0FkZFQtUDA?oc=5",
+        "description": "",
+        "pubDate": "2025-09-10T04:11:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "US firms in China most pessimistic since 1999, survey says",
@@ -471,15 +498,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Texas Democrat James Talarico joins a widening US Senate race - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORjdPTE5OTEZqR2Uzbkk0bkpQTC1hbDF2V0hxdEdwWEtRaEtFVENKNHVENUFsZHVrSldwVXBlbkkxT2cyQ2ZYblhid3VFaWc1UEdZUmh3TkNRRGhSY2NGVjRoX19pMnlSYnptOF9RSDlmUDhtd3hPU1BBTFYza0FsUTRDTGdvV0lHZkRZTnByaFpLUDh2NXBSZDJxeUxxeTE0NGZFeENMWQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-10T02:59:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Trump dines at a restaurant near the White House to promote his federal law enforcement surge in DC - AP News",
@@ -590,6 +608,15 @@
         "bias": 0
       },
       {
+        "title": "Trump is upsetting the US allies needed to counter China - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUWZkM0ZPSzdQcVRDWXJzY3hXN3VyaWxIWm9WTEhfWWQ5cHF3dnRDR2FDSHRNZUtGN1g2enlXYjlxQ1FaQTd5TE9QNGc3NktSVmwtN3B5YmlDaTdkOEk2bGlJdEduWDd3di0wanQ2TExwd3htWEh5VlhtMF9Fcmxaa0RPRmJWR2dkSGRSTHpQcm5aWWE4azVsQTI0d1g?oc=5",
+        "description": "",
+        "pubDate": "2025-09-10T01:01:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "What to know about the mass Gen Z protests in Nepal",
         "link": "https://www.npr.org/2025/09/09/nx-s1-5535887/nepal-protests-gen-z-explained",
         "description": "At least 19 people have been killed in the protests and more than 200 others were admitted to the hospital due to injuries, according to Nepal's Civil Service Hospital.",
@@ -599,19 +626,19 @@
         "bias": -1
       },
       {
-        "title": "Democrat James Walkinshaw wins US House special election in Virginia - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVThfamR6UThQb0trWWxJN1BsNzdtWHpuakZrX3ZwR2dDZXFjV0lmcmpfa0JRengxY2FRS2RabFNyYURaRGxIWDQ1QUtNTVJzWTZrTFZhUWNPWGk5M204ZlgzTGFXbVZtOEtraHhXUlVyM3Zsbnp1ajBVbUxzaW1wa1BSTGNkT0NUSG1MQkpBOWwwR195YUN0LVUwNHA?oc=5",
+        "title": "Ethiopia inaugurates Africa’s largest hydroelectric dam as neighbors eye power imports - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcjJRX19OREFIb3k2OTRxOHgxUWRiUENwZUpQeVo3NGg0aHNBc0lGUGdpbEpVT2JpYXQ5OHRYZzFzWkVxd2Q0OGVvSnRwN2xEV25HSTFpdXE3X0lUMTU3TXhDbC1lVDUwd0V4ckhUUnhMelpvWTFkTTQ5UHFaRU12SVVrNHZUUUREemFDcVlsYTZBcVAteGtHVzVqRFpqVFFQa2lPcENB?oc=5",
         "description": "",
-        "pubDate": "2025-09-10T00:54:00Z",
+        "pubDate": "2025-09-10T00:46:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Ethiopia inaugurates Africa’s largest hydroelectric dam as neighbors eye power imports - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcjJRX19OREFIb3k2OTRxOHgxUWRiUENwZUpQeVo3NGg0aHNBc0lGUGdpbEpVT2JpYXQ5OHRYZzFzWkVxd2Q0OGVvSnRwN2xEV25HSTFpdXE3X0lUMTU3TXhDbC1lVDUwd0V4ckhUUnhMelpvWTFkTTQ5UHFaRU12SVVrNHZUUUREemFDcVlsYTZBcVAteGtHVzVqRFpqVFFQa2lPcENB?oc=5",
+        "title": "Over 350 Greenlandic women and girls forcibly given contraception by Danish officials, report says - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeldwdk00cjB6OFlqeFd2MnU2VXpuQ2lJZmtCZTBGVm9vaXBRSzNSU3k5eDROSFpEZTB1Rks4MlhBOTE0MUxEQUdzamh4YldlX0syOVN1WWdTNGFfakpuYm9TLXc0VEYxUy1SOHlKeFJkWE5TV1NXbzltemJlWHNTQTJ4a1NneUxndkdjY3pTSjlmbkpkaVdNOWgyNDBQRlFhZHdZLTJkcG9FTkVyZnRSNXdB?oc=5",
         "description": "",
-        "pubDate": "2025-09-10T00:46:00Z",
+        "pubDate": "2025-09-10T00:28:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -660,7 +687,7 @@
         "description": "The UK's ambassador to the US likens his past association with the convicted paedophile to \"an albatross around my neck\".",
         "pubDate": "2025-09-10T10:00:28Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6135/live/9d4f4e10-8d6c-11f0-b391-6936825093bd.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e679/live/6d383560-8e30-11f0-9cf6-cbf3e73ce2b9.jpg",
         "bias": 0
       },
       {
@@ -718,7 +745,7 @@
         "bias": -1
       },
       {
-        "title": "200 arrested in France as protesters clash with police, as Macron installs new PM - AP News",
+        "title": "200 arrested in France as protesters clash with police while Macron installs a new PM - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV3VHZFN3NkVHbEJIbnJnZG51T0tja0RwM2lQQWRMb3pSV1dEMUx5TDkxNEg2S0RubHFldzBrVmo2cnExMDFDUnhfR3BJY3dXN0pTekZDNlM4RmhkT0VWT3JiaFdya2J0N2tFNU8xMU9xVkM1d0g0U0hqTUVmM1Y1Nm1UMWJiWC1GdU0wYTdsaVZQYXFVQ3JJQXg4TFlqZ2pqcEVteS1hdkJDZw?oc=5",
         "description": "",
         "pubDate": "2025-09-10T08:54:00Z",
@@ -736,28 +763,19 @@
         "bias": 0
       },
       {
+        "title": "Qatar digs through the rubble of Israel’s attack on Hamas leaders in Doha - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaFAybVZuWVItUHJJSHQ1Z0dpaEZQU3BzcUtNRmdEb2p1UXBpeDJfbURWemx1bDhnZ3VYTFdKVGZYQUc5X0gwejNBR0traFZaNWxsT3NJdUhIejlCYU1fbW1wVjUxMVFmc24wUGVFOHF2TmxfM2lGcHhodWdoTVVEOUxVMUVBYXNEUmlKNQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-10T08:41:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Plans in the works for Korean workers detained in raid to go home while fear lingers for residents - AP News",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUGEyZjJNbUpxTlFYN09BNlBJQndZNDlsWkt5SXp0R3lwQWVMR1h4bVZSZnJyTC1TSFB4dGVhQkFrRTdMUzdVejdWUFVXdjZFY28yLWJDcngtT2hWdUhnaXRHdFlDR2V4RFlRMDNnYXRKNDZ4ZFBXZzdyTU96UlZzblNTdE5BdDVlTFBTaWdwYWNnN2lVLVZNS3hUeXpYdDRqQ0Y2UU5fcw?oc=5",
         "description": "",
         "pubDate": "2025-09-10T05:13:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "A murky pipeline deal to send Russian gas to China shows Beijing's dominance in the relationship - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYklBb05EMUVUMDNlcUIxUU1zU1lISFBzbl9XOTZsdTN3Qy1QTkdtQmk5bF8wdTgxNVAwVHA4T0RpYUdFUE9rMWotMmdIOUZYa00xZnJTeGxtYlBtWlhGOGw4dmh3eHNYbXREdnY1M2g3a1JUV0w5aXY4UEdYVFh5Qmc3dThOSkRuNktoUzBjdTJyaWJHQUpJeA?oc=5",
-        "description": "",
-        "pubDate": "2025-09-10T04:32:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Kilmar Abrego Garcia wants asylum. The US wants to deport him. What to know - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTjg1UTVMVWxRcUlOSlhlbGVYX2hlc2tRcHFBT1JOVkZmU0k3M3BnV0luSjhrVU9DMlhva0U3Zm04OXdUMEdhVDFlN0lvRTA2TFh1cHRkYmlWUEw0VkJiUEVxQ0stdzhaTFd2bTA5OVk1SEY1VXFueHA3ME1DQUdpN2JaZnVBa0t2M3lOcTVXclRZbTZaaG1jdjNOMnQtbXdET09UX0FkZFQtUDA?oc=5",
-        "description": "",
-        "pubDate": "2025-09-10T04:11:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -781,6 +799,15 @@
         "bias": 0
       },
       {
+        "title": "Texas Democrat James Talarico joins a widening US Senate race - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORjdPTE5OTEZqR2Uzbkk0bkpQTC1hbDF2V0hxdEdwWEtRaEtFVENKNHVENUFsZHVrSldwVXBlbkkxT2cyQ2ZYblhid3VFaWc1UEdZUmh3TkNRRGhSY2NGVjRoX19pMnlSYnptOF9RSDlmUDhtd3hPU1BBTFYza0FsUTRDTGdvV0lHZkRZTnByaFpLUDh2NXBSZDJxeUxxeTE0NGZFeENMWQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-10T02:59:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Protests against Nepal's social-media ban grow more violent as demonstrators set buildings on fire - AP News",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdDYzNkd1MHFWekNmekFBR2k3cXh5bjJQXzIzU2JqRGNEbDUwelVtN1hodENaNWlyeDRSaHpsblotRHBqdVJSUE5BUnFOQWlTNTlocGV1cFNSWXlwRlRHUnA3T3hFa3NNd1hCQUlMVmZQOTJpcFVhc1V2emY0SHZYTkdDUFpEVTg4clc5dDRJTTlmdWhs?oc=5",
         "description": "",
@@ -799,10 +826,10 @@
         "bias": 0
       },
       {
-        "title": "Trump is upsetting the US allies needed to counter China - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUWZkM0ZPSzdQcVRDWXJzY3hXN3VyaWxIWm9WTEhfWWQ5cHF3dnRDR2FDSHRNZUtGN1g2enlXYjlxQ1FaQTd5TE9QNGc3NktSVmwtN3B5YmlDaTdkOEk2bGlJdEduWDd3di0wanQ2TExwd3htWEh5VlhtMF9Fcmxaa0RPRmJWR2dkSGRSTHpQcm5aWWE4azVsQTI0d1g?oc=5",
+        "title": "Democrat James Walkinshaw wins US House special election in Virginia - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVThfamR6UThQb0trWWxJN1BsNzdtWHpuakZrX3ZwR2dDZXFjV0lmcmpfa0JRengxY2FRS2RabFNyYURaRGxIWDQ1QUtNTVJzWTZrTFZhUWNPWGk5M204ZlgzTGFXbVZtOEtraHhXUlVyM3Zsbnp1ajBVbUxzaW1wa1BSTGNkT0NUSG1MQkpBOWwwR195YUN0LVUwNHA?oc=5",
         "description": "",
-        "pubDate": "2025-09-10T01:01:00Z",
+        "pubDate": "2025-09-10T00:54:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -812,15 +839,6 @@
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWkJpWnlqSWJKYTNYSFpGYTJhdnNoYlhqNGgtWU5jUlN6NE1YYVBGMjJId0RPY3VtZEgyb2Y2ZFltZnJlc1lsNEM2dktYNHU4dHh5MDRVV1c5SGRYVENxcEY1Q0E3Y2JlQUtGc2NoVGdJaHR3aWxUZi10WVprRE9ZVVd3dEtGbmllcGdYZTJKQ1Y3TTE1bUg5X25TREhaSHJreGdweDFjamJmZThXUmR4R0xuTFFlZw?oc=5",
         "description": "",
         "pubDate": "2025-09-10T00:46:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Klarna prices IPO at $40, valuing buy now, pay later company at $15 billion ahead of trading debut - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYXhMcFNCM2diU09BOFkzM1NsRjZTMU01LVFsSVg5M1RTTjBaeUVvTDFJT1d3QXlwSk5adEY3N3NPcVR0eVBrLVFfLVZ2bGxzME1fNlJQLS01SkJJeEtVSHBlS2Z6RE1EMFg5QThyQTlXZXNIMklENk1aaG8zbVZPa0VVYV83blhjek1YcWVvaTdQazA3YmQwQUE4R1MzUEtGaElRMTEyVl91dDRTQUhNZA?oc=5",
-        "description": "",
-        "pubDate": "2025-09-10T00:45:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -848,15 +866,6 @@
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbDFqNVAwam0xTzVLMHByLWZIMk9zTWpnSFYxd2hpVDRpQjRINjNsOXp4TVVoQmVxQ2R0SmFrNnctOFVGOG8wcWdFeU9HYl9nb2xYSXVpSkplN1p4Mzk4SVRCczBfUHZZbEx3OEJqcV9hc19yWlFtazVaWm1YSlBTbW5EcnowYmdpdURabExDcEM?oc=5",
         "description": "",
         "pubDate": "2025-09-10T00:30:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Over 350 Greenlandic women and girls forcibly given contraception by Danish officials, report says - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeldwdk00cjB6OFlqeFd2MnU2VXpuQ2lJZmtCZTBGVm9vaXBRSzNSU3k5eDROSFpEZTB1Rks4MlhBOTE0MUxEQUdzamh4YldlX0syOVN1WWdTNGFfakpuYm9TLXc0VEYxUy1SOHlKeFJkWE5TV1NXbzltemJlWHNTQTJ4a1NneUxndkdjY3pTSjlmbkpkaVdNOWgyNDBQRlFhZHdZLTJkcG9FTkVyZnRSNXdB?oc=5",
-        "description": "",
-        "pubDate": "2025-09-10T00:28:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1009,6 +1018,15 @@
         "pubDate": "2025-09-10T01:06:08Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b92/live/2ed463d0-8cd1-11f0-b391-6936825093bd.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Klarna prices IPO at $40, valuing buy now, pay later company at $15 billion ahead of trading debut - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYXhMcFNCM2diU09BOFkzM1NsRjZTMU01LVFsSVg5M1RTTjBaeUVvTDFJT1d3QXlwSk5adEY3N3NPcVR0eVBrLVFfLVZ2bGxzME1fNlJQLS01SkJJeEtVSHBlS2Z6RE1EMFg5QThyQTlXZXNIMklENk1aaG8zbVZPa0VVYV83blhjek1YcWVvaTdQazA3YmQwQUE4R1MzUEtGaElRMTEyVl91dDRTQUhNZA?oc=5",
+        "description": "",
+        "pubDate": "2025-09-10T00:45:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       }
     ],
