@@ -1,7 +1,34 @@
 {
-  "lastUpdate": "2025-09-10T11:15:05.254534Z",
+  "lastUpdate": "2025-09-10T11:28:04.424066Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Pong [Free]",
+        "link": "https://vinnydiehl.itch.io/pong",
+        "description": "An implementation of Pong in DragonRuby.",
+        "pubDate": "2025-09-10T11:17:53Z",
+        "source": "vinnydiehl.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTE4Njg4LnBuZw==/315x250%23c/YhMAXF.png",
+        "bias": 0
+      },
+      {
+        "title": "Alge Baldi psych engine [Free]",
+        "link": "https://bartek116.itch.io/alge-baldi-psych-engine",
+        "description": "",
+        "pubDate": "2025-09-10T11:17:43Z",
+        "source": "bartek116.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTE4Njk4LmpwZw==/315x250%23c/m34iv0.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Vanish [Free] [Adventure]",
+        "link": "https://vojtechx.itch.io/vanish",
+        "description": "a short horror game with old-school graphics.",
+        "pubDate": "2025-09-10T10:28:22Z",
+        "source": "vojtechx.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTE4Njg2LnBuZw==/315x250%23c/b8EeXN.png",
+        "bias": 0
+      },
       {
         "title": "Run Away [Free] [Survival]",
         "link": "https://minakamigames.itch.io/run-away",
@@ -36,6 +63,15 @@
         "pubDate": "2025-09-10T10:02:50Z",
         "source": "oreo8u.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMTE4MTk5LnBuZw==/315x250%23c/xM56Xh.png",
+        "bias": 0
+      },
+      {
+        "title": "Out of 1-bit [Free] [Platformer] [Android]",
+        "link": "https://ilgarnabiyevspare-cell.itch.io/out-of-1-bit",
+        "description": "1-bit Platformer",
+        "pubDate": "2025-09-10T09:46:06Z",
+        "source": "ilgarnabiyevspare-cell.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTE4MTE3LnBuZw==/315x250%23c/JXtXA1.png",
         "bias": 0
       },
       {
@@ -156,24 +192,6 @@
         "bias": 0
       },
       {
-        "title": "The Thing on My Desktop [Free] [Other] [Windows]",
-        "link": "https://vexaar.itch.io/the-thing-on-my-desktop",
-        "description": "A little creature shows up at your door, you must care for it.",
-        "pubDate": "2025-09-10T07:37:58Z",
-        "source": "vexaar.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTE3MDUzLnBuZw==/315x250%23c/DS9Kh2.png",
-        "bias": 0
-      },
-      {
-        "title": "Wizard and Coins [Free] [Platformer]",
-        "link": "https://santsa1337.itch.io/wizard-and-coins",
-        "description": "its about a wizard that needs exactly 78 coins to open the door to promised land of jumppads.",
-        "pubDate": "2025-09-10T07:30:40Z",
-        "source": "santsa1337.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTE2OTE1LnBuZw==/315x250%23c/uvqvJW.png",
-        "bias": 0
-      },
-      {
         "title": "Spritz Parkour [Free] [Platformer]",
         "link": "https://b0g1nro.itch.io/spritz-parkour",
         "description": "",
@@ -181,45 +199,36 @@
         "source": "b0g1nro.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMTE2NzA1LmpwZw==/315x250%23c/iFHuWk.jpg",
         "bias": 0
-      },
-      {
-        "title": "Ink & Havoc [Free] [Other] [Windows]",
-        "link": "https://mikey361986.itch.io/ink-havoc",
-        "description": "Roguelite - Cartoon - Rubber Hose",
-        "pubDate": "2025-09-10T06:12:01Z",
-        "source": "mikey361986.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTE2NTcwLmpwZw==/315x250%23c/jBsA3i.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Puzzle Pals [Free] [Puzzle] [Windows]",
-        "link": "https://catsoulz.itch.io/puzzle-pals",
-        "description": "Local multiplayer tile dropping game",
-        "pubDate": "2025-09-10T06:11:44Z",
-        "source": "catsoulz.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTE2NjU1LnBuZw==/315x250%23c/fx25HE.png",
-        "bias": 0
-      },
-      {
-        "title": "健康知識ゲームNO.2 [Free]",
-        "link": "https://moguratataki.itch.io/kensiki",
-        "description": "",
-        "pubDate": "2025-09-10T06:08:09Z",
-        "source": "moguratataki.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTE2NDk3LnBuZw==/315x250%23c/RmIB%2FI.png",
-        "bias": 0
-      },
-      {
-        "title": "Do you love me mc?????  DEMO [Free] [Visual Novel] [Windows] [macOS] [Linux]",
-        "link": "https://kaith0ru.itch.io/do-you-love-me",
-        "description": "",
-        "pubDate": "2025-09-10T06:04:39Z",
-        "source": "kaith0ru.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTE2NTQ4LmpwZw==/315x250%23c/5YhYfo.jpg",
-        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Nepal protests 'hijacked', Gen Z claim, as army patrols the streets",
+        "link": "https://www.bbc.com/news/articles/cjd1ndmrej0o?at_medium=RSS&at_campaign=rss",
+        "description": "Fierce protests against corruption and nepotism spiralled into arson and violence on Tuesday.",
+        "pubDate": "2025-09-10T11:18:42Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94fe/live/d4baadb0-8e05-11f0-9f52-518f0cda8f56.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Poland says it shot down Russian drones that violated its airspace during strikes on Ukraine - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYnlOT0FFRkU1TEpTUlcyVHVmeTBUVDJNZ05YRkRNMWswcTFXVEwxWkZ6M3RhajZpNHJJMFMwZzFXN2w0ZEU3OWJaZXlrUlJLTG9iWkR4ZVVHRDVXLTlBUjY4TzhMNll6YmtfLXhvVXpEdGxoSVlVc1FzWmh2WGk4UnR6b0ZJei1oVkpBa2ZpcGdsYVM5SVZj?oc=5",
+        "description": "",
+        "pubDate": "2025-09-10T11:15:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "250 arrested in France as protesters clash with police while Macron installs a new PM - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV3VHZFN3NkVHbEJIbnJnZG51T0tja0RwM2lQQWRMb3pSV1dEMUx5TDkxNEg2S0RubHFldzBrVmo2cnExMDFDUnhfR3BJY3dXN0pTekZDNlM4RmhkT0VWT3JiaFdya2J0N2tFNU8xMU9xVkM1d0g0U0hqTUVmM1Y1Nm1UMWJiWC1GdU0wYTdsaVZQYXFVQ3JJQXg4TFlqZ2pqcEVteS1hdkJDZw?oc=5",
+        "description": "",
+        "pubDate": "2025-09-10T11:12:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Israel targets Hamas Qatar strike. And, JB Pritzker on Trump's threats to Chicago",
         "link": "https://www.npr.org/2025/09/10/g-s1-87939/up-first-newsletter-israel-qatar-hamas-trump-jb-pritzker-maha-election-citizenship",
@@ -266,15 +275,6 @@
         "bias": 0
       },
       {
-        "title": "Nepal protests 'hijacked', Gen Z claim, as army patrols the streets",
-        "link": "https://www.bbc.com/news/articles/cjd1ndmrej0o?at_medium=RSS&at_campaign=rss",
-        "description": "Fierce protests against corruption and nepotism spiralled into arson and violence on Tuesday.",
-        "pubDate": "2025-09-10T10:17:58Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94fe/live/d4baadb0-8e05-11f0-9f52-518f0cda8f56.jpg",
-        "bias": 0
-      },
-      {
         "title": "Nepalese army moves to restore order after protest violence intensifies - AP News",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZkFSWnVBeExGQmt3eEY2Y1NZRmJDSDVhNzFrWDZpUk5YVllJeEs3b0Z3SlhDMkFrbTN2dU5tSkR3THRnc0JRRlpyVlZkSnIxM3B5UDV6cVNvQUVwWGxoT2tCclAyZkRiZmktWTZXaGhDZHdEdFZKbHFQaU5vT1AyMVVJbllBcEVXWTRtOUdSUUlaVzJF?oc=5",
         "description": "",
@@ -291,15 +291,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Poland says it shot down Russian drones that violated its airspace during strikes on Ukraine - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYnlOT0FFRkU1TEpTUlcyVHVmeTBUVDJNZ05YRkRNMWswcTFXVEwxWkZ6M3RhajZpNHJJMFMwZzFXN2w0ZEU3OWJaZXlrUlJLTG9iWkR4ZVVHRDVXLTlBUjY4TzhMNll6YmtfLXhvVXpEdGxoSVlVc1FzWmh2WGk4UnR6b0ZJei1oVkpBa2ZpcGdsYVM5SVZj?oc=5",
-        "description": "",
-        "pubDate": "2025-09-10T09:41:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Military shuts down streets in bid to quell Nepal unrest",
@@ -338,21 +329,21 @@
         "bias": -1
       },
       {
-        "title": "200 arrested in France as protesters clash with police while Macron installs a new PM - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV3VHZFN3NkVHbEJIbnJnZG51T0tja0RwM2lQQWRMb3pSV1dEMUx5TDkxNEg2S0RubHFldzBrVmo2cnExMDFDUnhfR3BJY3dXN0pTekZDNlM4RmhkT0VWT3JiaFdya2J0N2tFNU8xMU9xVkM1d0g0U0hqTUVmM1Y1Nm1UMWJiWC1GdU0wYTdsaVZQYXFVQ3JJQXg4TFlqZ2pqcEVteS1hdkJDZw?oc=5",
-        "description": "",
-        "pubDate": "2025-09-10T08:54:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Watch: Mandelson says he regrets falling for Epstein's lies",
         "link": "https://www.bbc.com/news/videos/c5y5v8l14p6o?at_medium=RSS&at_campaign=rss",
         "description": "Watch: Mandelson says he regrets falling for Epstein's lies",
         "pubDate": "2025-09-10T08:51:03Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d397/live/ce60ad80-8e22-11f0-b391-6936825093bd.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Global shares mostly rise, cheered by Wall Street rally - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb196b2F3ZDBzVklzTFJ2LTZldlJ5YUlqOUJWNmlhd2VyU2VZQTRXb244SFJaM0ljV3JhZWFQYjdJX0xjVnc3S1dhcTgwY2IwT2JFUy1fcElhZDZkVDdVTHhueG9XcWZ0R1NBYVNxNTRsOG9kVTFOWVhtRmcwc2ZocW1HaXZLVENXRVpqSUc1bFA5SmJoU2d1TXg5Tk9xdGc?oc=5",
+        "description": "",
+        "pubDate": "2025-09-10T08:47:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -572,15 +563,6 @@
         "bias": -1
       },
       {
-        "title": "Chief Justice Roberts temporarily allows Trump’s freeze on billions in foreign aid - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80NlZMYXJYMjc5OXRBN3oxX1FOV2R5eTMtS3dyLVF2MDJNeUgyOERQaUpkbVN3ZUNJanJtYWU0Vndwd1lkZ2tDeHFXSmFFSGZlR2l0TlI3SXdPRFZsd3V0Q2FvcDlvemQ4VGc?oc=5",
-        "description": "",
-        "pubDate": "2025-09-10T02:16:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "The oldest pipe organ in the Christian world sounds after 800 years of silence - AP News",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa2xGZVpOTW1CVkRXSkxzSGdocW1SVHkwN1JsMkgtRWtCNXpvd2YzSHkwMTFVQ09YZkpnOW5hVlM3OUdOR005aVBIeXZvS2F5VmRZODdQUjE5VFJEUFYzVWZwSHFIQTVnWjlWd3R6RGFaeW1yNEtjS0FzS3RHa3hKT2gtS1FjQXV0V3duTUZrZk5PS3BYZkwyR1ZkZXB5eUQtdGNzaXh1WW5YZ1BYYzhEVg?oc=5",
         "description": "",
@@ -608,10 +590,10 @@
         "bias": 0
       },
       {
-        "title": "Israeli attack on Hamas leaders in quiet Qatar shocks Gulf allies and tests US ties - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMHloTDlhaW1jR0wwM0x2dWtxSlU2YlF4dGtqRmJWeTVnNThyLXpiNzUyUG5kcUp3U3BqcS1NdzNMZ3NLZXAwRXRiTEdkZld0WXhxTEo5aF9vYVFnZ0VaZHVnYUZKdXo3cDVibkRCR0ZtelhwNnVMZ2FBcnhhbzdkU21xMy02c1FJNDl2UWs0T3JXYzZNM0ZfVlNHejBXcWxJUkk1WDZpZUh1Nlp0cUtpV2Zmck1yaDBOX0tRMnZrU0dNRFk?oc=5",
+        "title": "Charlotte mayor Vi Lyles secures Democratic nomination despite political fallout of train killing - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOW4zQ0hubjJBWGtEeHpOX0xfelpLR3poSUJHUm5pZ1lYQlNkcmhNZS1WMklzYnppenZpWmlkVVhfbi13djBidXhBUlZ1NUVrUml5eUVadlVEUnZvT3VYMFlOUkp5eDlPUGRfTzNEaFJrcnYyUVlfb2ZXOHlvNmhDU0p2T3pUZGpxZXBvM0NMQjFmWmdvQndjZjYyYUVnN1psTkF1aFdCZDRRaXIwRGVOczFkMA?oc=5",
         "description": "",
-        "pubDate": "2025-09-10T02:03:00Z",
+        "pubDate": "2025-09-10T01:47:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -727,18 +709,18 @@
         "bias": 0
       },
       {
-        "title": "Trump's control of the D.C. police is due to expire tonight. Then what?",
-        "link": "https://www.npr.org/2025/09/10/nx-s1-5535534/trump-dc-police-control-expire",
-        "description": "Trump needs an extension from Congress to control D.C. police for more than 30 days. Some Republican lawmakers are focused on pursuing legislation that would exert power over D.C. in other ways.",
+        "title": "33 million voters have been run through a Trump administration citizenship check",
+        "link": "https://www.npr.org/2025/09/10/nx-s1-5477367/save-election-citizenship-data-trump",
+        "description": "Tens of millions of voters have had their information run through the tool — a striking portion of the U.S. public, considering little has been made public about the tool's accuracy or data security.",
         "pubDate": "2025-09-10T09:00:00Z",
         "source": "npr.org",
         "image": "",
         "bias": -1
       },
       {
-        "title": "33 million voters have been run through a Trump administration citizenship check",
-        "link": "https://www.npr.org/2025/09/10/nx-s1-5477367/save-election-citizenship-data-trump",
-        "description": "Tens of millions of voters have had their information run through the tool — a striking portion of the U.S. public, considering little has been made public about the tool's accuracy or data security.",
+        "title": "Trump's control of the D.C. police is due to expire tonight. Then what?",
+        "link": "https://www.npr.org/2025/09/10/nx-s1-5535534/trump-dc-police-control-expire",
+        "description": "Trump needs an extension from Congress to control D.C. police for more than 30 days. Some Republican lawmakers are focused on pursuing legislation that would exert power over D.C. in other ways.",
         "pubDate": "2025-09-10T09:00:00Z",
         "source": "npr.org",
         "image": "",
@@ -751,6 +733,15 @@
         "pubDate": "2025-09-10T08:49:16Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5778/live/c86425c0-8d72-11f0-9cf6-cbf3e73ce2b9.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Qatar digs through the rubble of Israel’s attack on Hamas leaders in Doha - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaFAybVZuWVItUHJJSHQ1Z0dpaEZQU3BzcUtNRmdEb2p1UXBpeDJfbURWemx1bDhnZ3VYTFdKVGZYQUc5X0gwejNBR0traFZaNWxsT3NJdUhIejlCYU1fbW1wVjUxMVFmc24wUGVFOHF2TmxfM2lGcHhodWdoTVVEOUxVMUVBYXNEUmlKNQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-10T08:41:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -790,15 +781,6 @@
         "bias": 0
       },
       {
-        "title": "Texas Democrat James Talarico joins a widening US Senate race - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORjdPTE5OTEZqR2Uzbkk0bkpQTC1hbDF2V0hxdEdwWEtRaEtFVENKNHVENUFsZHVrSldwVXBlbkkxT2cyQ2ZYblhid3VFaWc1UEdZUmh3TkNRRGhSY2NGVjRoX19pMnlSYnptOF9RSDlmUDhtd3hPU1BBTFYza0FsUTRDTGdvV0lHZkRZTnByaFpLUDh2NXBSZDJxeUxxeTE0NGZFeENMWQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-10T02:59:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Trump dines at a restaurant near the White House to promote his federal law enforcement surge in DC - AP News",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObUZUamp6Ykx2dHJ4NHc3ZVlYd08wZXJITWpGWGc3TjEtSFBXTW9fWVcxdHZXTDVyUjBVc1BsWmNLajh3X01jWjNjWGVkZ0JmSDZrWEh3M0pha0tvS00xdUZnaVZqdnNNbzFDU2FrWE55ZE9RNnhqcjBtT1JJYjJXSEd2dUhSalJJSEhyV1R5bWJsR0Frdlh4aUN3ZWw?oc=5",
         "description": "",
@@ -826,10 +808,10 @@
         "bias": 0
       },
       {
-        "title": "Charlotte mayor Vi Lyles secures Democratic nomination despite political fallout of train killing - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOW4zQ0hubjJBWGtEeHpOX0xfelpLR3poSUJHUm5pZ1lYQlNkcmhNZS1WMklzYnppenZpWmlkVVhfbi13djBidXhBUlZ1NUVrUml5eUVadlVEUnZvT3VYMFlOUkp5eDlPUGRfTzNEaFJrcnYyUVlfb2ZXOHlvNmhDU0p2T3pUZGpxZXBvM0NMQjFmWmdvQndjZjYyYUVnN1psTkF1aFdCZDRRaXIwRGVOczFkMA?oc=5",
+        "title": "Israeli attack on Hamas leaders in quiet Qatar shocks Gulf allies and tests US ties - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMHloTDlhaW1jR0wwM0x2dWtxSlU2YlF4dGtqRmJWeTVnNThyLXpiNzUyUG5kcUp3U3BqcS1NdzNMZ3NLZXAwRXRiTEdkZld0WXhxTEo5aF9vYVFnZ0VaZHVnYUZKdXo3cDVibkRCR0ZtelhwNnVMZ2FBcnhhbzdkU21xMy02c1FJNDl2UWs0T3JXYzZNM0ZfVlNHejBXcWxJUkk1WDZpZUh1Nlp0cUtpV2Zmck1yaDBOX0tRMnZrU0dNRFk?oc=5",
         "description": "",
-        "pubDate": "2025-09-10T01:47:00Z",
+        "pubDate": "2025-09-10T02:03:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -891,10 +873,10 @@
     ],
     "Tech": [
       {
-        "title": "Qatar digs through the rubble of Israel’s attack on Hamas leaders in Doha - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaFAybVZuWVItUHJJSHQ1Z0dpaEZQU3BzcUtNRmdEb2p1UXBpeDJfbURWemx1bDhnZ3VYTFdKVGZYQUc5X0gwejNBR0traFZaNWxsT3NJdUhIejlCYU1fbW1wVjUxMVFmc24wUGVFOHF2TmxfM2lGcHhodWdoTVVEOUxVMUVBYXNEUmlKNQ?oc=5",
+        "title": "Chief Justice Roberts temporarily allows Trump’s freeze on billions in foreign aid - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80NlZMYXJYMjc5OXRBN3oxX1FOV2R5eTMtS3dyLVF2MDJNeUgyOERQaUpkbVN3ZUNJanJtYWU0Vndwd1lkZ2tDeHFXSmFFSGZlR2l0TlI3SXdPRFZsd3V0Q2FvcDlvemQ4VGc?oc=5",
         "description": "",
-        "pubDate": "2025-09-10T08:41:00Z",
+        "pubDate": "2025-09-10T02:16:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -911,6 +893,15 @@
     ],
     "Science": [
       {
+        "title": "An activist flotilla on a mission to Gaza says it was attacked again in Tunisia - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUDZDZE8zWEllQy1ubkpybno1LTA3ZWhJSmFtSTVXWGsybU05dW5QOTRTN3VJUWlOOFNtYjhaTUZyTzljZ1poUFM5UklFMzNVRFgtS0xxZXhGNlZtXzRvVXFlQVB4bV83R2ZjUkdvOWllWUszRV9IaDhUOVVtS1NtSFFPZGhOT1hpWmhOM05Pa00?oc=5",
+        "description": "",
+        "pubDate": "2025-09-10T10:27:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "You're more likely to reach for that soda when it's hot outside",
         "link": "https://www.npr.org/2025/09/10/nx-s1-5529399/sugar-health-climate-change",
         "description": "",
@@ -926,6 +917,15 @@
         "pubDate": "2025-09-10T03:22:07Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e741/live/c059b6d0-8dd9-11f0-b391-6936825093bd.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Texas Democrat James Talarico joins a widening US Senate race - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORjdPTE5OTEZqR2Uzbkk0bkpQTC1hbDF2V0hxdEdwWEtRaEtFVENKNHVENUFsZHVrSldwVXBlbkkxT2cyQ2ZYblhid3VFaWc1UEdZUmh3TkNRRGhSY2NGVjRoX19pMnlSYnptOF9RSDlmUDhtd3hPU1BBTFYza0FsUTRDTGdvV0lHZkRZTnByaFpLUDh2NXBSZDJxeUxxeTE0NGZFeENMWQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-10T02:59:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       }
     ],
@@ -949,7 +949,7 @@
         "bias": 0
       },
       {
-        "title": "Strongbow and Jägermeister pull ads after complaints upheld",
+        "title": "Strongbow and Jägermeister pull ads after watchdog probe",
         "link": "https://www.bbc.com/news/articles/cj07244j6zvo?at_medium=RSS&at_campaign=rss",
         "description": "The social media ads were withdrawn after complaints over the way they presented their alcoholic drinks were upheld.",
         "pubDate": "2025-09-10T10:51:01Z",
@@ -1054,15 +1054,6 @@
         "pubDate": "2025-09-10T01:06:08Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b92/live/2ed463d0-8cd1-11f0-b391-6936825093bd.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Klarna prices IPO at $40, valuing buy now, pay later company at $15 billion ahead of trading debut - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYXhMcFNCM2diU09BOFkzM1NsRjZTMU01LVFsSVg5M1RTTjBaeUVvTDFJT1d3QXlwSk5adEY3N3NPcVR0eVBrLVFfLVZ2bGxzME1fNlJQLS01SkJJeEtVSHBlS2Z6RE1EMFg5QThyQTlXZXNIMklENk1aaG8zbVZPa0VVYV83blhjek1YcWVvaTdQazA3YmQwQUE4R1MzUEtGaElRMTEyVl91dDRTQUhNZA?oc=5",
-        "description": "",
-        "pubDate": "2025-09-10T00:45:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       }
     ],
