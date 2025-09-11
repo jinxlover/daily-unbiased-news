@@ -1,7 +1,25 @@
 {
-  "lastUpdate": "2025-09-11T21:47:44.367438Z",
+  "lastUpdate": "2025-09-11T21:57:43.902224Z",
   "news": {
     "Gaming": [
+      {
+        "title": "3D 2 [Free] [Simulation]",
+        "link": "https://lockanimations.itch.io/3d-2",
+        "description": "",
+        "pubDate": "2025-09-11T21:48:26Z",
+        "source": "lockanimations.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTM2NDUzLnBuZw==/315x250%23c/FdU%2B5N.png",
+        "bias": 0
+      },
+      {
+        "title": "10 min Game Jam, Press Space [Free]",
+        "link": "https://seokwonh.itch.io/10-min-game-jam-press-space",
+        "description": "",
+        "pubDate": "2025-09-11T21:44:52Z",
+        "source": "seokwonh.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTM2NDg3LnBuZw==/315x250%23c/ZgYG2S.png",
+        "bias": 0
+      },
       {
         "title": "Prototype2 [Free]",
         "link": "https://dhruba-ogrady.itch.io/prototype2",
@@ -147,15 +165,6 @@
         "bias": 0
       },
       {
-        "title": "Midnight Stealth [Free] [Other]",
-        "link": "https://vempr.itch.io/midnight-stealth",
-        "description": "finish your assignments in the middle of the night.",
-        "pubDate": "2025-09-11T19:59:47Z",
-        "source": "vempr.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTM1NDQ3LmpwZw==/315x250%23c/Jm77aQ.jpg",
-        "bias": 0
-      },
-      {
         "title": "Cookie Clicker (60 minutes game jam) [Free] [Other]",
         "link": "https://theflamelion.itch.io/cookie-clicker",
         "description": "",
@@ -180,15 +189,6 @@
         "pubDate": "2025-09-11T18:58:01Z",
         "source": "mtgprod.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMTM0ODEzLnBuZw==/315x250%23c/xa2hu0.png",
-        "bias": 0
-      },
-      {
-        "title": "Zombie Take Down [Free] [Android]",
-        "link": "https://rgt.itch.io/zombie-take-down",
-        "description": "Shoot zombies, avoid humans, and test your aim!",
-        "pubDate": "2025-09-11T15:03:13Z",
-        "source": "rgt.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTM1NTY4LnBuZw==/315x250%23c/82IIiB.png",
         "bias": 0
       },
       {
@@ -219,15 +219,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Trump administration: Pentagon 9/11 ceremony moved inside due to security concerns - AP News",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04MXFFbUE0d0NLS3NLbHlSRnoyUWNqU1M2SERaNThzbUZ5OUJCdDRoOXZnRkE3UnhLUGlpcUl1THFIR3Rjdmt1QWZvNGtzd2Q3Uk5PTjhZWHNvOXlXRGhGbjNpajJuSmdPa2JN?oc=5",
-        "description": "",
-        "pubDate": "2025-09-11T21:31:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Brazil's former President Bolsonaro found guilty of plotting coup",
@@ -660,9 +651,36 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a345/live/e0e3c660-8e7f-11f0-9cf6-cbf3e73ce2b9.png",
         "bias": 0
+      },
+      {
+        "title": "Ireland threatens to withdraw from Eurovision if Israel participates",
+        "link": "https://www.bbc.com/news/articles/c5yvd8158ywo?at_medium=RSS&at_campaign=rss",
+        "description": "The Irish broadcaster said that Ireland's participation in the contest \"would be unconscionable given the ongoing and appalling loss of lives in Gaza\".",
+        "pubDate": "2025-09-11T16:45:58Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c7b/live/b51006c0-362d-11f0-8947-7d6241f9fce9.jpg",
+        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Shrinking middle class threatens U.S. stability, says Michigan Democrat Elissa Slotkin",
+        "link": "https://www.npr.org/2025/09/11/nx-s1-5528972/shrinking-middle-class-threatens-u-s-stability-says-michigan-democrat-elissa-slotkin",
+        "description": "NPR's Mary Louise Kelly speaks to Sen. Elissa Slotkin, D-Michigan, about the U.S. intelligence community and national security.",
+        "pubDate": "2025-09-11T21:43:56Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Live updates: FBI releases photos of a person of interest in Charlie Kirk’s assassination - AP News",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54bVBDbWl5QzRNTzBVektrNDZHcWNSM21pSGZjYzA1aHYyZm5OXzdUaGJveGhqTklqX3lsajFHT0FoMFNWdDBCZXF5cXBOQXAwUWRCWjlRYkctQjZSRlI3QjRaeE9zV2UwQ01VLUkwbw?oc=5",
+        "description": "",
+        "pubDate": "2025-09-11T21:40:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Georgia built ties with South Korean companies over years. Then came the factory raid",
         "link": "https://www.npr.org/2025/09/11/nx-s1-5535635/georgia-built-ties-with-south-korean-companies-over-years-then-came-the-factory-raid",
@@ -671,6 +689,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Trump administration: Pentagon 9/11 ceremony moved inside due to security concerns - AP News",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04MXFFbUE0d0NLS3NLbHlSRnoyUWNqU1M2SERaNThzbUZ5OUJCdDRoOXZnRkE3UnhLUGlpcUl1THFIR3Rjdmt1QWZvNGtzd2Q3Uk5PTjhZWHNvOXlXRGhGbjNpajJuSmdPa2JN?oc=5",
+        "description": "",
+        "pubDate": "2025-09-11T21:31:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "For Charlie Kirk's followers, grief, shock and questions about the future",
@@ -689,6 +716,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "How Charlie Kirk shaped a generation of young people into a conservative force - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdnpKRHJBWVVER1p3dFllU2p3THl6TXMzcmZUY3duZGVmQUpza0dodmVJcGxzdmdrenZDWTZwSzVqaDdVTEhIUVB1NEd2V29XalgxZ0daNld6SUVfclA4bE96MTNTOE9iN3RSeFFHZGRYbC1nWEp0N3NGQ1psVi1wYlRkMlpCNXNLNXF3cUp0QVpMZVYyekRv?oc=5",
+        "description": "",
+        "pubDate": "2025-09-11T19:36:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Starmer facing fresh questions after Mandelson sacking",
@@ -880,6 +916,15 @@
         "bias": 0
       },
       {
+        "title": "Charlie Kirk assassinated at university event in Utah - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMVZ2dW5NSklIb0Fkb1FHUGhrNlhkVFhNbHpxQkpRdXBqZE4yT2djb204TUxwZkREY2d0ZEd5YXFfbm9vblk2Ri1QNzVEQTJ6MVVzeUJxcVRKOTdqUUFHV3kwYUE4aEgzakkxSlY2d0xWVm5mNkV2YWt4VXlDV2tQVEp3?oc=5",
+        "description": "",
+        "pubDate": "2025-09-11T03:17:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Trump blames rhetoric from left for political violence after killing of Charlie Kirk",
         "link": "https://www.npr.org/2025/09/10/nx-s1-5537187/trump-charlie-kirk-blames-left",
         "description": "In a video statement, Trump said Kirk's death was a direct consequence of people demonizing those they disagree, and then turned his ire to the political left.",
@@ -909,15 +954,6 @@
       {
         "title": "Milei reopens Argentina's interior ministry to build alliances with opposition after election defeat - AP News",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaUgwRXNiaEVWQXo1MVpRMjFORnlYRDU3U0tOaWFyRnRLU2UtajNNQVJySUs0R1ZQUjZCSDA5OHBWLS05ZkNHZE9EUmp0cnpxY3FzdHlFeEZjNXhiM2NLd1UwanRjOUxFRWZfNlRhbXNZRmZiWFFiQUl1SGlVR2pIOWVybnVocnRGenZKZEpiNTBYUmdvZlpvaUxHS04yTDB6emRkcjhXSUZWVzI4TnRLY1RTNW9FOXdCVWdYdXMwMk5pNjNTYVFF?oc=5",
-        "description": "",
-        "pubDate": "2025-09-11T00:32:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Flash floods in Indonesia leave at least 15 dead and 10 missing - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY013a2FMMkk0NzI1dzJYNllad0xFMUxacFhWSGh3WDNoa0l3N3ZMbWNiMnNqVlV2NGI2bmtjQUlXSjNOSGoxZjdPQk5fOG03NkZMOERLTUJxSmZRbkZkc0FfZGMyR1dCNUpSN0s3akJ1dlo5QWZicFlFWlIwcEVQdUdEWlRyeS1HaWxaMDBfNG5ubkRkY2pqSk9aQkpSOXd0Z002V0Y2a28zZw?oc=5",
         "description": "",
         "pubDate": "2025-09-11T00:32:00Z",
         "source": "news.google.com",
@@ -1001,24 +1037,6 @@
         "bias": -1
       },
       {
-        "title": "US official sees Greece as hub to boost American natural gas exports - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMzVtczNQMzU3eFNIWDV5QW5FYi1hUGlZTHNRTDhPbmFrV3l2b0R4NUI5VG5IdVBpNzhlanl1YkVQWmtGYnlPUHU2Mm51aTF6NUhOcDBZVEZHZU9wMWZNWERYWVhqbXhBNTkzSERJbWZUeGszZDhmZHVtUFZoXy1TdnppYXRlTEp0X2xnMUJPSmVhNkFzNHhvUjBtUQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-11T15:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Ghana receives 14 West African nationals deported from the US - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX2hHdFgyR2RyaklGR2p6TnFheHhkRkdzS2w3bGt2VTgxS1JPbk1kRnd6SjhJNVVyNXBubEtpMHlZaGNpS3VuWUdiQ0E0WVR6VE1OY1JYMURrbF9WUXNTM3lwN05vVEk1NEo4RHo5am16bWl1NGJEWmh4TGxfZlZ3UFVjV09vQXdCTHFuVmwxOTQ3cDFMR25Dc2xsdlhCRTBCMDRORA?oc=5",
-        "description": "",
-        "pubDate": "2025-09-11T10:38:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Wind and solar power fuel over one-third of Brazil’s electricity for first time - AP News",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS3ZZaU5BczF2OXJUeTNGS1RVQ2tuZnViYUNCRXM0WElTQUxhV0tHRlhCLUtranhpMkNBdzFIempEbDVKeFFGaTU1d1RlSU8xZTZBRFNwTk1Tb1RDWXpsdjRQZmkyYUx3MEd2a01ZVzJYeTF3dndub1RzZjNCNDdpSUluenNySGt5MnVsNmYtZlVselVHT1BaTG1qYm9tM1plVU5mQzhva2ppb1dpMG9tbGNn?oc=5",
         "description": "",
@@ -1062,18 +1080,18 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Child dead, 9 others injured after car crashes into daycare in Canada - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZWRfX3BkY0hDbmtEenVZaGZxSFBVVGpfZ3hhbGZwN2MyZXE5T18xSDczRDdodHBWTVBMc2phT2tGQ0lfS2hjR1BZV2gtUjlMSG44MmtzUms2TkhWVzRpS2RtRjhveFJFU05sdzdFTlB0dEYtNklnZGhuUkxDUjFNMUtfMWxJNnptWGtfNw?oc=5",
-        "description": "",
-        "pubDate": "2025-09-11T01:25:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Business": [
+      {
+        "title": "Warner Bros Discovery shares surge on buyout reports",
+        "link": "https://www.bbc.com/news/articles/cz9jed2qpq1o?at_medium=RSS&at_campaign=rss",
+        "description": "The reported bid would be for a business which includes news network CNN, HBO, and the film studio behind Barbie and Harry Potter.",
+        "pubDate": "2025-09-11T21:39:49Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d96/live/6ae12780-8f58-11f0-bdc4-01db39507e95.jpg",
+        "bias": 0
+      },
       {
         "title": "Hyundai says opening of raided plant to be delayed",
         "link": "https://www.bbc.com/news/articles/cn5q7d72q5vo?at_medium=RSS&at_campaign=rss",
@@ -1108,6 +1126,15 @@
         "pubDate": "2025-09-11T15:00:40Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8376/live/c5070a20-96b3-11ef-99af-372359b57a36.png",
+        "bias": 0
+      },
+      {
+        "title": "US official sees Greece as hub to boost American natural gas exports - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMzVtczNQMzU3eFNIWDV5QW5FYi1hUGlZTHNRTDhPbmFrV3l2b0R4NUI5VG5IdVBpNzhlanl1YkVQWmtGYnlPUHU2Mm51aTF6NUhOcDBZVEZHZU9wMWZNWERYWVhqbXhBNTkzSERJbWZUeGszZDhmZHVtUFZoXy1TdnppYXRlTEp0X2xnMUJPSmVhNkFzNHhvUjBtUQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-11T15:00:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -1156,6 +1183,15 @@
         "bias": 0
       },
       {
+        "title": "Ghana receives 14 West African nationals deported from the US - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX2hHdFgyR2RyaklGR2p6TnFheHhkRkdzS2w3bGt2VTgxS1JPbk1kRnd6SjhJNVVyNXBubEtpMHlZaGNpS3VuWUdiQ0E0WVR6VE1OY1JYMURrbF9WUXNTM3lwN05vVEk1NEo4RHo5am16bWl1NGJEWmh4TGxfZlZ3UFVjV09vQXdCTHFuVmwxOTQ3cDFMR25Dc2xsdlhCRTBCMDRORA?oc=5",
+        "description": "",
+        "pubDate": "2025-09-11T10:38:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "6 ways college students can get a better handle on their money",
         "link": "https://www.npr.org/2025/09/11/nx-s1-5519357/the-broke-college-students-guide-to-managing-money",
         "description": "For college students who don't have a lot of money, it can be tough to wrap your head around student loans, credit cards and a tight budget. A financial educator offers advice for first-year students.",
@@ -1180,6 +1216,15 @@
         "pubDate": "2025-09-11T05:08:39Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c895/live/dc8e4e90-8e35-11f0-8bfd-43c7ca883cc7.png",
+        "bias": 0
+      },
+      {
+        "title": "Child dead, 9 others injured after car crashes into daycare in Canada - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZWRfX3BkY0hDbmtEenVZaGZxSFBVVGpfZ3hhbGZwN2MyZXE5T18xSDczRDdodHBWTVBMc2phT2tGQ0lfS2hjR1BZV2gtUjlMSG44MmtzUms2TkhWVzRpS2RtRjhveFJFU05sdzdFTlB0dEYtNklnZGhuUkxDUjFNMUtfMWxJNnptWGtfNw?oc=5",
+        "description": "",
+        "pubDate": "2025-09-11T01:25:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       }
     ],
