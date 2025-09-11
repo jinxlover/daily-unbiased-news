@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-11T18:45:52.080927Z",
+  "lastUpdate": "2025-09-11T18:55:58.962194Z",
   "news": {
     "Gaming": [
       {
@@ -27,6 +27,24 @@
         "pubDate": "2025-09-11T18:25:29Z",
         "source": "tsubasagames.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMTM0NTA5LnBuZw==/315x250%23c/ETsMD3.png",
+        "bias": 0
+      },
+      {
+        "title": "20 Games Challenge - Flappy Bird [Free] [Other]",
+        "link": "https://terminatt.itch.io/20-games-challenge-flappy-bird",
+        "description": "It's just the first game I developed from myself. Simple Flappy Bird clone",
+        "pubDate": "2025-09-11T18:25:25Z",
+        "source": "terminatt.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTM0Nzc3LnBuZw==/315x250%23c/bRhenH.png",
+        "bias": 0
+      },
+      {
+        "title": "Mi pequeño Chispas [Free] [Simulation]",
+        "link": "https://ipedroanto.itch.io/mi-peque-chispas",
+        "description": "Mi pequeño Chispas: Un dragón tierno hasta que el hambre lo enciende.",
+        "pubDate": "2025-09-11T18:21:12Z",
+        "source": "ipedroanto.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTM0NzYzLmpwZw==/315x250%23c/RfoVAh.jpg",
         "bias": 0
       },
       {
@@ -192,15 +210,6 @@
         "bias": 0
       },
       {
-        "title": "Hands on the bar [Free] [Other]",
-        "link": "https://yairb27.itch.io/hands-on-the-bar",
-        "description": "",
-        "pubDate": "2025-09-11T13:18:02Z",
-        "source": "yairb27.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTMxNTE0LnBuZw==/315x250%23c/uLdF0U.png",
-        "bias": 0
-      },
-      {
         "title": "Chomp [Free]",
         "link": "https://decav.itch.io/chomp",
         "description": "",
@@ -217,18 +226,27 @@
         "source": "kingrain777.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMTI2OTU3LnBuZw==/315x250%23c/4xebpO.png",
         "bias": 0
-      },
-      {
-        "title": "Bridge to He [Free] [Other] [Windows] [Linux]",
-        "link": "https://indifoxgames.itch.io/bridgetohe",
-        "description": "The bridges that show you where the line is between life and freedom",
-        "pubDate": "2025-09-11T01:09:20Z",
-        "source": "indifoxgames.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTI3MDI1LnBuZw==/315x250%23c/J7gkwQ.png",
-        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Nato strengthens defences after Russian drones shot down over Poland",
+        "link": "https://www.bbc.com/news/articles/c0lkz2n34z6o?at_medium=RSS&at_campaign=rss",
+        "description": "Germany, the Netherlands and the Czech Republic will be sending Poland more support to defend Nato's eastern flank.",
+        "pubDate": "2025-09-11T18:55:18Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e15/live/be06b2b0-8f24-11f0-8111-31005f7c48fd.jpg",
+        "bias": 0
+      },
+      {
+        "title": "LIVE: Brazil’s Bolsonaro convicted of criminal organization, court says",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/9/11/live-brazil-supreme-court-panel-forms-majority-to-convict-bolsonaro?traffic_source=rss",
+        "description": "A five-member panel of Brazil's Supreme Court forms majority to convict former President Jair Bolsonaro.",
+        "pubDate": "2025-09-11T18:42:00Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "South Korean workers detained in immigration raid leave Atlanta and head home",
         "link": "https://www.npr.org/2025/09/11/g-s1-88213/south-korean-hyundai-workers-immigration-raid-atlanta-airport",
@@ -239,10 +257,28 @@
         "bias": -1
       },
       {
+        "title": "Live updates: FBI releases photos of a person of interest in Charlie Kirk’s assassination - AP News",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54bVBDbWl5QzRNTzBVektrNDZHcWNSM21pSGZjYzA1aHYyZm5OXzdUaGJveGhqTklqX3lsajFHT0FoMFNWdDBCZXF5cXBOQXAwUWRCWjlRYkctQjZSRlI3QjRaeE9zV2UwQ01VLUkwbw?oc=5",
+        "description": "",
+        "pubDate": "2025-09-11T18:33:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Wall Street’s record-setting run keeps motoring on expectations for easier interest rates - AP News",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORzdsWVhZOXN0MGtpOWltNEl6SVM1clhuMGljbXJleDk5TjRyS0dGQ1U2Vi1VbmtDdFNyUHFISWF2Y1I4czdTR0h0UkVmQlhSRWo1MGw2RDRFVVFBRnZjU0lKdDZLWVlmRnlybjZWbVc5TEhvUmhDa2tzMmFTTkxzQnhRMkZFRWxDNFBMOXUxQlE3alBT?oc=5",
         "description": "",
         "pubDate": "2025-09-11T18:22:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Trump administration live updates: Pentagon 9/11 ceremony moved inside due to security concerns - AP News",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04MXFFbUE0d0NLS3NLbHlSRnoyUWNqU1M2SERaNThzbUZ5OUJCdDRoOXZnRkE3UnhLUGlpcUl1THFIR3Rjdmt1QWZvNGtzd2Q3Uk5PTjhZWHNvOXlXRGhGbjNpajJuSmdPa2JN?oc=5",
+        "description": "",
+        "pubDate": "2025-09-11T18:15:43Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -437,15 +473,6 @@
         "bias": -1
       },
       {
-        "title": "What to know about Korean workers detained in immigration raid now on flight back home - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUGEyZjJNbUpxTlFYN09BNlBJQndZNDlsWkt5SXp0R3lwQWVMR1h4bVZSZnJyTC1TSFB4dGVhQkFrRTdMUzdVejdWUFVXdjZFY28yLWJDcngtT2hWdUhnaXRHdFlDR2V4RFlRMDNnYXRKNDZ4ZFBXZzdyTU96UlZzblNTdE5BdDVlTFBTaWdwYWNnN2lVLVZNS3hUeXpYdDRqQ0Y2UU5fcw?oc=5",
-        "description": "",
-        "pubDate": "2025-09-11T16:03:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Senate Republicans poised to change rules to speed up Trump’s nominees - AP News",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX0V1QU9YN3oySWtwR2F2SUloTUMwRlRNbG9OWFQyTEJBRFB5b1R2VV9ZbWMtWWdUWG5ldGxXN0xSWGhoUVR1a1JZeENLY0c4MjFvMUFOUldObmYtQVdBTDNiVzZDUkpyUXE4LVNHVy1WOVJqWHhtWjYxVW9VOGd2Q0RqN3BJTkZ4a3J4UWFOVGktamFJRFRlM0o4N1RzZmR4RWZiX1Jn?oc=5",
         "description": "",
@@ -471,15 +498,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Nato strengthens defences after Russian drones shot down over Poland",
-        "link": "https://www.bbc.com/news/articles/c0lkz2n34z6o?at_medium=RSS&at_campaign=rss",
-        "description": "Germany, the Netherlands and the Czech Republic will be sending Poland more support to defend Nato's eastern flank.",
-        "pubDate": "2025-09-11T15:43:36Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e15/live/be06b2b0-8f24-11f0-8111-31005f7c48fd.jpg",
-        "bias": 0
       },
       {
         "title": "Ban social media for under-15s, says French report warning of TikTok risks",
@@ -660,36 +678,9 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5eb6/live/cc08c700-8f23-11f0-84c8-99de564f0440.png",
         "bias": 0
-      },
-      {
-        "title": "Israel kills dozens in Gaza as Amnesty warns of ‘unlawful’ displacement",
-        "link": "https://www.aljazeera.com/news/2025/9/11/israel-kills-dozens-in-gaza-as-amnesty-warns-of-unlawful-displacement?traffic_source=rss",
-        "description": "Amnesty International urges Israel to 'immediately rescind' mass displacement order as WHO vows to remain in Gaza City.",
-        "pubDate": "2025-09-11T12:46:59Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Zambia presses China for more compensation over toxic mine spill",
-        "link": "https://www.bbc.com/news/articles/cwy9j8xqq2yo?at_medium=RSS&at_campaign=rss",
-        "description": "Zambia's Vice-President Mutale Nalumango says the compensation offered to communities \"may not be all\".",
-        "pubDate": "2025-09-11T12:45:39Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed11/live/875bc600-8f11-11f0-bf0b-13ad835103b3.jpg",
-        "bias": 0
       }
     ],
     "Politics": [
-      {
-        "title": "Live updates: FBI releases photos of a person of interest in Charlie Kirk’s assassination - AP News",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54bVBDbWl5QzRNTzBVektrNDZHcWNSM21pSGZjYzA1aHYyZm5OXzdUaGJveGhqTklqX3lsajFHT0FoMFNWdDBCZXF5cXBOQXAwUWRCWjlRYkctQjZSRlI3QjRaeE9zV2UwQ01VLUkwbw?oc=5",
-        "description": "",
-        "pubDate": "2025-09-11T18:33:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
       {
         "title": "Phillipson and Powell set for Labour deputy showdown",
         "link": "https://www.bbc.com/news/articles/c20v3l4qy11o?at_medium=RSS&at_campaign=rss",
@@ -697,15 +688,6 @@
         "pubDate": "2025-09-11T18:15:46Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b31f/live/0a25b290-8f25-11f0-84c8-99de564f0440.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Trump administration live updates: Pentagon 9/11 ceremony moved inside due to security concerns - AP News",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04MXFFbUE0d0NLS3NLbHlSRnoyUWNqU1M2SERaNThzbUZ5OUJCdDRoOXZnRkE3UnhLUGlpcUl1THFIR3Rjdmt1QWZvNGtzd2Q3Uk5PTjhZWHNvOXlXRGhGbjNpajJuSmdPa2JN?oc=5",
-        "description": "",
-        "pubDate": "2025-09-11T18:15:43Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -925,15 +907,6 @@
         "bias": 0
       },
       {
-        "title": "Longtime head of Mexican megachurch is indicted in New York on federal sex trafficking charges - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWGgwWEI0b25hN0xmTmNtMEFuaTFrSHR0SjdNWmh6ZEQxcW9vNnlGX1lNY1FPcmFwMlNHVWlTVVFxOHdnMEl6R1lubUtIeHpBNXVzZVdTb2lWQk11amJIeVlJcG1XdmFKYzFONWU2S3ZBVmNoaGs3SVF4WDAtMS1GWnRWQ0RiV3VuODNZWEpaZGo0MDB3OTQ5WExDdEY?oc=5",
-        "description": "",
-        "pubDate": "2025-09-11T04:39:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Senate Republicans defeat Democrats’ effort to force the release of Epstein files - AP News",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ1R3dEZNcmJJVWYxSkVMMHkwa0RJMV8tWTlIUTlkWjUwWjhNSVR2SzF6N0lqV1NlMDN0LTZCMHItNjk2RndLZjlxYzBmTEVPMGhmLUxxX21ad3dpNlg0NWNObFplSEtzUkVUQnBGVVdoblNMdG11dFlQeEhsWmM0YUV6RUxpQjBXNVdFLUt3MTlmMWFzaUZNQVRR?oc=5",
         "description": "",
@@ -947,15 +920,6 @@
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNUJQbWhKUjdXRVBZLVV0VGUxWE9IWkJkeHpEbnNPbDVzbDZFZks4OFRiZjhyVnJ3Ny1UQndYbXF6SHFnSUZxVzVSWmxOR1ZPbVF5NGs3clhwaXNuY0VmXzcwU3BHbHExODFwdzNzNDdPY3BqX3FkLTUtVktqMnZ4Q2ZsN0RfYUN6ejV1LXQxWVd0NDl6OC03TENtU3NxdHJndFZN?oc=5",
         "description": "",
         "pubDate": "2025-09-11T03:26:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Charlie Kirk assassinated at university event in Utah - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMVZ2dW5NSklIb0Fkb1FHUGhrNlhkVFhNbHpxQkpRdXBqZE4yT2djb204TUxwZkREY2d0ZEd5YXFfbm9vblk2Ri1QNzVEQTJ6MVVzeUJxcVRKOTdqUUFHV3kwYUE4aEgzakkxSlY2d0xWVm5mNkV2YWt4VXlDV2tQVEp3?oc=5",
-        "description": "",
-        "pubDate": "2025-09-11T03:17:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1004,15 +968,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "4 years, 3 protest movements: How public fury toppled leaders in Nepal, Sri Lanka and Bangladesh - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNblBPZUl4T0JTYVFUNi1lXy1zSU5nNGo2dmVFcmpvVEFySGx0bDd3d2IxRU9BbU9CbkxGT1pxSUl5Nzg4U1hLUXI1TE1aanFBUHk1b3BSMjRRMTB4QUE2bkRhM0NWX1pBVUpDMTByUGM1eVU4Z2I5Um9uNThJa3E1OFNPUlBmcXpCZU9JUEttX3RZX0R6amhyOWJTVWdPRTJ6bGc?oc=5",
-        "description": "",
-        "pubDate": "2025-09-11T00:39:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Tech": [
@@ -1021,6 +976,15 @@
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd3ZYbU9IR29WMlN6SDRtNTBSNGZEbWd1eGw4WHZuZHFvOXJxaXBsYUpJVk9WcWxzTi1SUkctTXpxMUpqVTczUG16RjdOWHlFb1Q1dl9YbkhxVXhvX1QwSDlSa2hZaWVxeWhEVVU0YUdkN1diMENNMGNHd3JqMmtqRjA0SE1nQ0luOGVuNkhod1Z1U0Q3NmZrOGxUUFpNUnEt?oc=5",
         "description": "",
         "pubDate": "2025-09-11T18:17:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Bob Menendez's wife says she was ex-senator's 'puppet' as she gets 4½ years in prison for bribery - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaFU2NXlJRFNnQlpVVlFmWmNHVDYwSl92cFpqMzlfYy1TNW1MTHp3WTFnLVJWcTNqdngtaWZLellmUkxYWWFDTGtFdGw5N2JtMUdDN1BrRFFBS25fcE5Wd3JVclpwQjd4c2JEZll0bmxvYmhiR3VDbHRoTklYNEVVWnJWS2t3OExLOUNwUXI1SWpLQzgwV29rSGstWXUtTkd6NDJ1aW02cWJzcWgtZHJEa2ItQUc?oc=5",
+        "description": "",
+        "pubDate": "2025-09-11T17:25:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1055,10 +1019,10 @@
     ],
     "Science": [
       {
-        "title": "Bob Menendez's wife says she was ex-senator's 'puppet' as she gets 4½ years in prison for bribery - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaFU2NXlJRFNnQlpVVlFmWmNHVDYwSl92cFpqMzlfYy1TNW1MTHp3WTFnLVJWcTNqdngtaWZLellmUkxYWWFDTGtFdGw5N2JtMUdDN1BrRFFBS25fcE5Wd3JVclpwQjd4c2JEZll0bmxvYmhiR3VDbHRoTklYNEVVWnJWS2t3OExLOUNwUXI1SWpLQzgwV29rSGstWXUtTkd6NDJ1aW02cWJzcWgtZHJEa2ItQUc?oc=5",
+        "title": "What to know about Korean workers detained in immigration raid now on flight back home - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUGEyZjJNbUpxTlFYN09BNlBJQndZNDlsWkt5SXp0R3lwQWVMR1h4bVZSZnJyTC1TSFB4dGVhQkFrRTdMUzdVejdWUFVXdjZFY28yLWJDcngtT2hWdUhnaXRHdFlDR2V4RFlRMDNnYXRKNDZ4ZFBXZzdyTU96UlZzblNTdE5BdDVlTFBTaWdwYWNnN2lVLVZNS3hUeXpYdDRqQ0Y2UU5fcw?oc=5",
         "description": "",
-        "pubDate": "2025-09-11T17:25:00Z",
+        "pubDate": "2025-09-11T16:03:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
