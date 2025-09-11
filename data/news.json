@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-11T21:36:42.048362Z",
+  "lastUpdate": "2025-09-11T21:47:44.367438Z",
   "news": {
     "Gaming": [
       {
@@ -9,6 +9,15 @@
         "pubDate": "2025-09-11T21:26:45Z",
         "source": "dhruba-ogrady.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMTM2MzM3LnBuZw==/315x250%23c/IFP5wK.png",
+        "bias": 0
+      },
+      {
+        "title": "Asteroids [Free] [Action]",
+        "link": "https://zachroney.itch.io/asteroids",
+        "description": "",
+        "pubDate": "2025-09-11T21:18:57Z",
+        "source": "zachroney.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTM2MjQ2LnBuZw==/315x250%23c/7UWDLu.png",
         "bias": 0
       },
       {
@@ -147,15 +156,6 @@
         "bias": 0
       },
       {
-        "title": "3D Pong [Free] [Action]",
-        "link": "https://aridevgames.itch.io/3d-pong",
-        "description": "Classic Pong, Reimagined in Three Dimensions",
-        "pubDate": "2025-09-11T19:57:52Z",
-        "source": "aridevgames.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTM1NTEyLnBuZw==/315x250%23c/%2F96Gvf.png",
-        "bias": 0
-      },
-      {
         "title": "Cookie Clicker (60 minutes game jam) [Free] [Other]",
         "link": "https://theflamelion.itch.io/cookie-clicker",
         "description": "",
@@ -171,15 +171,6 @@
         "pubDate": "2025-09-11T19:53:55Z",
         "source": "knunu.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMTM1ODgwLnBuZw==/315x250%23c/47lV6%2F.png",
-        "bias": 0
-      },
-      {
-        "title": "Shadows Under the Mountain(Linux) [Free] [Adventure]",
-        "link": "https://barnhartinteractive.itch.io/shadows-under-the-mountainlinux",
-        "description": "",
-        "pubDate": "2025-09-11T19:35:08Z",
-        "source": "barnhartinteractive.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTM1MjU2LnBuZw==/315x250%23c/7pGbWC.png",
         "bias": 0
       },
       {
@@ -221,13 +212,13 @@
     ],
     "World": [
       {
-        "title": "Live updates: FBI releases photos of a person of interest in Charlie Kirk’s assassination - AP News",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54bVBDbWl5QzRNTzBVektrNDZHcWNSM21pSGZjYzA1aHYyZm5OXzdUaGJveGhqTklqX3lsajFHT0FoMFNWdDBCZXF5cXBOQXAwUWRCWjlRYkctQjZSRlI3QjRaeE9zV2UwQ01VLUkwbw?oc=5",
-        "description": "",
-        "pubDate": "2025-09-11T21:32:00Z",
-        "source": "news.google.com",
+        "title": "Images of handcuffed workers after ICE raid at Hyundai plant sparked outrage in Seoul",
+        "link": "https://www.npr.org/2025/09/11/nx-s1-5537839/images-of-handcuffed-workers-after-ice-raid-at-hyundai-plant-sparked-outrage-in-seoul",
+        "description": "Hundreds of South Korean workers are headed home after last week's dramatic immigration raid at a Hyundai plant in Georgia. The images of handcuffed workers sparked outrage in Seoul.",
+        "pubDate": "2025-09-11T21:44:36Z",
+        "source": "npr.org",
         "image": "",
-        "bias": 0
+        "bias": -1
       },
       {
         "title": "Trump administration: Pentagon 9/11 ceremony moved inside due to security concerns - AP News",
@@ -246,6 +237,15 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c08c/live/b3c2e340-8f43-11f0-99aa-891e206c0496.jpg",
         "bias": 0
+      },
+      {
+        "title": "Majority of Brazil top court panel votes to convict Bolsonaro of coup plot",
+        "link": "https://www.aljazeera.com/news/2025/9/11/brazils-bolsonaro-found-guilty-of-coup-plot-by-top-court?traffic_source=rss",
+        "description": "Brazil's far-right former president faces the possibility of decades behind bars.",
+        "pubDate": "2025-09-11T21:26:19Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Majority of Brazilian Supreme Court panel convicts Bolsonaro of attempting a coup - AP News",
@@ -270,6 +270,15 @@
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY09jd19EZXctUmlTMjhoTEhFSzFING5ya3FBUFFPdGhOMXJNVk9UdmdncjZPWm9pNlNzT3N4cGVuVWRKZDJiR1BtdTZyR1FWNUo0aWVhY2pWcDVBQXYzMFozamY2V0s2M1lfNFNmcExaYnhTSU5JTVZuWWlEVTNmMVE5VXdTVXotQ3lmbEJsRmtOS1owcFJGTnFxdkpaWElwckhScHFqZEpkOHFBZk03WVh3a0UzTm8?oc=5",
         "description": "",
         "pubDate": "2025-09-11T21:06:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "NCAA investigates 13 former basketball players for sports betting violations - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObWs5ZDhMNk5qbzk3SkJMZTh1MXZLSEdtTkoyU3M3Q09LX3VSMWh5U0hLS0F3eGE3SG85TXRrT1NjRW5obzAzNUpNamlNbnZUMDY4SWJPRmxsYVllSF9nMTRreWd3TEJkbUJPMjlUODdmVFpOTFFzYTlyRUFpZHVMZmlfSGpnWFZYdV9MZ0lKZGVFVjFy?oc=5",
+        "description": "",
+        "pubDate": "2025-09-11T20:55:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -651,27 +660,18 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a345/live/e0e3c660-8e7f-11f0-9cf6-cbf3e73ce2b9.png",
         "bias": 0
-      },
-      {
-        "title": "Ireland threatens to withdraw from Eurovision if Israel participates",
-        "link": "https://www.bbc.com/news/articles/c5yvd8158ywo?at_medium=RSS&at_campaign=rss",
-        "description": "The Irish broadcaster said that Ireland's participation in the contest \"would be unconscionable given the ongoing and appalling loss of lives in Gaza\".",
-        "pubDate": "2025-09-11T16:45:58Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c7b/live/b51006c0-362d-11f0-8947-7d6241f9fce9.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Nepal cleans up burnt out police station after deadly protests",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/9/11/nepal-cleans-up-burnt-out-police-station-after-deadly-protests?traffic_source=rss",
-        "description": "Al Jazeera’s Rob McBride shows us what’s left of one police station after deadly protests in Nepal’s capital.",
-        "pubDate": "2025-09-11T16:24:59Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
+      {
+        "title": "Georgia built ties with South Korean companies over years. Then came the factory raid",
+        "link": "https://www.npr.org/2025/09/11/nx-s1-5535635/georgia-built-ties-with-south-korean-companies-over-years-then-came-the-factory-raid",
+        "description": "Democrats and Republicans are walking a fine line when it comes to the politics surrounding the Hyundai plant ICE raid, because many in Georgia spent years building ties with South Korean companies.",
+        "pubDate": "2025-09-11T21:36:25Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "For Charlie Kirk's followers, grief, shock and questions about the future",
         "link": "https://www.npr.org/2025/09/11/nx-s1-5537991/for-charlie-kirks-followers-grief-shock-and-questions-about-the-future",
@@ -724,15 +724,6 @@
         "pubDate": "2025-09-11T18:15:46Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b31f/live/0a25b290-8f25-11f0-84c8-99de564f0440.jpg",
-        "bias": 0
-      },
-      {
-        "title": "NCAA investigates 13 former basketball players for sports betting violations - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObWs5ZDhMNk5qbzk3SkJMZTh1MXZLSEdtTkoyU3M3Q09LX3VSMWh5U0hLS0F3eGE3SG85TXRrT1NjRW5obzAzNUpNamlNbnZUMDY4SWJPRmxsYVllSF9nMTRreWd3TEJkbUJPMjlUODdmVFpOTFFzYTlyRUFpZHVMZmlfSGpnWFZYdV9MZ0lKZGVFVjFy?oc=5",
-        "description": "",
-        "pubDate": "2025-09-11T18:13:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -880,15 +871,6 @@
         "bias": 0
       },
       {
-        "title": "As fighting escalates, kidnappings of aid workers surge in South Sudan - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWU1VMTdzQnRiOWNPV1Y4Zlp5TldxRmtzeTNQVmJ5MFV1LV85OFVsQ1JYc3IwTUZJTUU0S3FBdWxaMllrOTVHYjFnOXpDazJaTEFiYVRyUWEya0lBXy1zN2QyTHVIQ21JZXNacTlReW9LSUlXeXdNbWpFV0dxQ2VsSEh6cFdNbVZjTklCeE1hbGx4MzBzMk45dTVMOS1aaTd2Z05BMTNLX0NCaTQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-11T04:20:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Income inequality dipped and fewer people moved, according to largest survey of US life - AP News",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR3NkaWRCR2E4SXdrVWtXSmkyV2ZrR2hnTDVRVmdxQjdUT2paZTRWQkdOMmtuNXNSZDRoR1dnaVBzSFZoUUxEUmQwQ0JWMzhLc3htYUo4el9HUmp3RXJZNk51T1NxRjNXZ1FxdTZwRTVMY1I1VVZyeXV6TFh3OWJyZ1dPYm8zdEY1QUlIMU5NYXQydGxOdV9yVDdzV3R5LXlo?oc=5",
         "description": "",
@@ -990,10 +972,10 @@
         "bias": -1
       },
       {
-        "title": "Child dead, 9 others injured after car crashes into daycare in Canada - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZWRfX3BkY0hDbmtEenVZaGZxSFBVVGpfZ3hhbGZwN2MyZXE5T18xSDczRDdodHBWTVBMc2phT2tGQ0lfS2hjR1BZV2gtUjlMSG44MmtzUms2TkhWVzRpS2RtRjhveFJFU05sdzdFTlB0dEYtNklnZGhuUkxDUjFNMUtfMWxJNnptWGtfNw?oc=5",
+        "title": "As fighting escalates, kidnappings of aid workers surge in South Sudan - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWU1VMTdzQnRiOWNPV1Y4Zlp5TldxRmtzeTNQVmJ5MFV1LV85OFVsQ1JYc3IwTUZJTUU0S3FBdWxaMllrOTVHYjFnOXpDazJaTEFiYVRyUWEya0lBXy1zN2QyTHVIQ21JZXNacTlReW9LSUlXeXdNbWpFV0dxQ2VsSEh6cFdNbVZjTklCeE1hbGx4MzBzMk45dTVMOS1aaTd2Z05BMTNLX0NCaTQ?oc=5",
         "description": "",
-        "pubDate": "2025-09-11T01:25:00Z",
+        "pubDate": "2025-09-11T04:20:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1017,6 +999,24 @@
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
         "bias": -1
+      },
+      {
+        "title": "US official sees Greece as hub to boost American natural gas exports - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMzVtczNQMzU3eFNIWDV5QW5FYi1hUGlZTHNRTDhPbmFrV3l2b0R4NUI5VG5IdVBpNzhlanl1YkVQWmtGYnlPUHU2Mm51aTF6NUhOcDBZVEZHZU9wMWZNWERYWVhqbXhBNTkzSERJbWZUeGszZDhmZHVtUFZoXy1TdnppYXRlTEp0X2xnMUJPSmVhNkFzNHhvUjBtUQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-11T15:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Ghana receives 14 West African nationals deported from the US - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX2hHdFgyR2RyaklGR2p6TnFheHhkRkdzS2w3bGt2VTgxS1JPbk1kRnd6SjhJNVVyNXBubEtpMHlZaGNpS3VuWUdiQ0E0WVR6VE1OY1JYMURrbF9WUXNTM3lwN05vVEk1NEo4RHo5am16bWl1NGJEWmh4TGxfZlZ3UFVjV09vQXdCTHFuVmwxOTQ3cDFMR25Dc2xsdlhCRTBCMDRORA?oc=5",
+        "description": "",
+        "pubDate": "2025-09-11T10:38:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Wind and solar power fuel over one-third of Brazil’s electricity for first time - AP News",
@@ -1062,6 +1062,15 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "Child dead, 9 others injured after car crashes into daycare in Canada - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZWRfX3BkY0hDbmtEenVZaGZxSFBVVGpfZ3hhbGZwN2MyZXE5T18xSDczRDdodHBWTVBMc2phT2tGQ0lfS2hjR1BZV2gtUjlMSG44MmtzUms2TkhWVzRpS2RtRjhveFJFU05sdzdFTlB0dEYtNklnZGhuUkxDUjFNMUtfMWxJNnptWGtfNw?oc=5",
+        "description": "",
+        "pubDate": "2025-09-11T01:25:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Business": [
@@ -1099,15 +1108,6 @@
         "pubDate": "2025-09-11T15:00:40Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8376/live/c5070a20-96b3-11ef-99af-372359b57a36.png",
-        "bias": 0
-      },
-      {
-        "title": "US official sees Greece as hub to boost American natural gas exports - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMzVtczNQMzU3eFNIWDV5QW5FYi1hUGlZTHNRTDhPbmFrV3l2b0R4NUI5VG5IdVBpNzhlanl1YkVQWmtGYnlPUHU2Mm51aTF6NUhOcDBZVEZHZU9wMWZNWERYWVhqbXhBNTkzSERJbWZUeGszZDhmZHVtUFZoXy1TdnppYXRlTEp0X2xnMUJPSmVhNkFzNHhvUjBtUQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-11T15:00:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -1153,15 +1153,6 @@
         "pubDate": "2025-09-11T12:12:21Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a78b/live/555df690-8f12-11f0-bf0b-13ad835103b3.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Ghana receives 14 West African nationals deported from the US - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX2hHdFgyR2RyaklGR2p6TnFheHhkRkdzS2w3bGt2VTgxS1JPbk1kRnd6SjhJNVVyNXBubEtpMHlZaGNpS3VuWUdiQ0E0WVR6VE1OY1JYMURrbF9WUXNTM3lwN05vVEk1NEo4RHo5am16bWl1NGJEWmh4TGxfZlZ3UFVjV09vQXdCTHFuVmwxOTQ3cDFMR25Dc2xsdlhCRTBCMDRORA?oc=5",
-        "description": "",
-        "pubDate": "2025-09-11T10:38:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
