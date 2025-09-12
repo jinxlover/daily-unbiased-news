@@ -1,7 +1,25 @@
 {
-  "lastUpdate": "2025-09-12T07:36:39.302267Z",
+  "lastUpdate": "2025-09-12T07:47:41.422669Z",
   "news": {
     "Gaming": [
+      {
+        "title": "TheLegendOfZenep [Free] [Action]",
+        "link": "https://ahmetcildan.itch.io/thelegendofzenep",
+        "description": "",
+        "pubDate": "2025-09-12T07:43:17Z",
+        "source": "ahmetcildan.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTQwMzk5LnBuZw==/315x250%23c/AXwrm1.png",
+        "bias": 0
+      },
+      {
+        "title": "Down the tower [Free] [Platformer]",
+        "link": "https://tomasz0p0.itch.io/down-the-tower",
+        "description": "A small project created to practice level generation and pixel art graphics.",
+        "pubDate": "2025-09-12T07:06:58Z",
+        "source": "tomasz0p0.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTQwMjg3LnBuZw==/315x250%23c/6CrlGl.png",
+        "bias": 0
+      },
       {
         "title": "Rock N Roll [Free]",
         "link": "https://missio-moss.itch.io/rock-n-roll",
@@ -172,18 +190,27 @@
         "source": "endresau.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMTM4NjA1LnBuZw==/315x250%23c/axXCmT.png",
         "bias": 0
-      },
-      {
-        "title": "Flower and Rhen [Free] [Role Playing] [Windows]",
-        "link": "https://flower98816.itch.io/flower-and-rhen",
-        "description": "You are still full of determination today -_-",
-        "pubDate": "2025-09-12T01:06:07Z",
-        "source": "flower98816.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTM4MTQxLnBuZw==/315x250%23c/ANe8re.png",
-        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "South Korean workers detained in US raid arrive home",
+        "link": "https://www.bbc.com/news/articles/cn0r434g5k1o?at_medium=RSS&at_campaign=rss",
+        "description": "Media and some protesters gather at the airport as more than 300 workers detained in the US last week return.",
+        "pubDate": "2025-09-12T07:46:12Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4754/live/ed5f2710-8fa4-11f0-a14f-a32aad03416f.jpg",
+        "bias": 0
+      },
+      {
+        "title": "South African rapist loses bid to block Netflix film about his life",
+        "link": "https://www.bbc.com/news/articles/cq65ygpv7p1o?at_medium=RSS&at_campaign=rss",
+        "description": "The court rules that his rape conviction is already in the public domain.",
+        "pubDate": "2025-09-12T07:31:18Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26cb/live/e30e7aa0-8fa8-11f0-a14f-a32aad03416f.jpg",
+        "bias": 0
+      },
       {
         "title": "LIVE: Israel kills dozens in Gaza, UNSC condemns Doha attack",
         "link": "https://www.aljazeera.com/news/liveblog/2025/9/12/live-israel-kills-dozens-in-gaza-unsc-condemns-doha-attack?traffic_source=rss",
@@ -201,15 +228,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "South Korean workers detained in US raid arrive home",
-        "link": "https://www.bbc.com/news/articles/cn0r434g5k1o?at_medium=RSS&at_campaign=rss",
-        "description": "Media and some protesters gather at the airport as more than 300 workers detained in the US last week return.",
-        "pubDate": "2025-09-12T07:01:16Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4754/live/ed5f2710-8fa4-11f0-a14f-a32aad03416f.jpg",
-        "bias": 0
       },
       {
         "title": "UN warns online scam centres hitting Southeast Asia moving to East Timor",
@@ -261,6 +279,15 @@
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYUNjcWNFUWFvcVFhU0hDNk8tUFRYb3Q4OW1kYkhJNUZVWHMtdzNBeTY4U19wbXMybURtRjhWZE45WlpseHRiSE04MGhNT1EwWWZpNi1FOHdGbFp6OWtrY2xRVDJyRm4zY3loa2NsRjhBTTEzZGtvWGFDdWFKU2NnN051ZU9Fekp2N3ctSmNpMGNMT3FXSFlaZUxNa1VLZW04RGNr?oc=5",
         "description": "",
         "pubDate": "2025-09-12T06:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Israeli soldiers, and their mothers, increasingly reject calls to return to Gaza - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMHMxYmtYbVNPWEdJNXpIN0xlZ01CMG9Obk1ydjNoaFdDdTJhaXhpTFlWVkItaWJSYWJlS2dldERYeHg3TnI3UGNZb2VYN2FYTVU4TmZhaW1PdmNyRXh1aHR1d1hIS0ZXdkFPY2w3WUdyXzA5bXBzTkJQX1N1Y1BJMXZrdFpmQXFIQXB3dW5vSmVTel8yYzBUUEllNWJXYzFacEhKOUNQczRUQlhiSWI4TXFKek1CRXM?oc=5",
+        "description": "",
+        "pubDate": "2025-09-12T05:50:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -335,6 +362,15 @@
         "pubDate": "2025-09-12T05:14:00Z",
         "source": "news.google.com",
         "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Ros Atkins on... Israel's war in Gaza and proportionality",
+        "link": "https://www.bbc.com/news/articles/cr5r76e127do?at_medium=RSS&at_campaign=rss",
+        "description": "BBC Verify asked experts, in the UK and elsewhere, if Israel’s actions in Gaza have been proportionate.",
+        "pubDate": "2025-09-12T05:00:28Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cce2/live/63957800-8bca-11f0-b391-6936825093bd.png",
         "bias": 0
       },
       {
@@ -518,19 +554,19 @@
         "bias": 0
       },
       {
-        "title": "UK fires ambassador to the US Peter Mandelson over his links to Jeffrey Epstein - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRVlFRFctdEdzZkhheTFsOFVTNVRBcFMyMUZfWGZHYWg5aGJ2MXZtaFgxVTRrd0E3Zmpic1VqTWdLQkN0YWI2cXpwNDN0STZTVV9wUzFaVkFMLUlZM0tnQzRqZlI1NV9VcXNzOGhlME5lOGxIWlZSM1VVaXFvTmZiOTB0eGV1czg?oc=5",
+        "title": "Americans mark the 24th anniversary of the 9/11 attacks with emotional ceremonies - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ1N2aUZjeG1pVTNCQ0hCVkQ2UUN2Mmk3QlNPOHdTN1VhMkZuV2lHaGplLUhPdlZyUk9qSnRxVHpXZmI3aERxTmNreXJ3TlVRWGRjdm44Z3RsTWlsOG5aUVM0WmtnaVZ4Q2xNTFZhMS0xc2hyc21mUUJFVUxDTEZ5bl83TFFlSGx3bm9ySjFlS0EybUNtU0dQNVB0dHF4eDhOc25NOQ?oc=5",
         "description": "",
-        "pubDate": "2025-09-12T00:47:00Z",
+        "pubDate": "2025-09-12T00:42:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Americans mark the 24th anniversary of the 9/11 attacks with emotional ceremonies - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ1N2aUZjeG1pVTNCQ0hCVkQ2UUN2Mmk3QlNPOHdTN1VhMkZuV2lHaGplLUhPdlZyUk9qSnRxVHpXZmI3aERxTmNreXJ3TlVRWGRjdm44Z3RsTWlsOG5aUVM0WmtnaVZ4Q2xNTFZhMS0xc2hyc21mUUJFVUxDTEZ5bl83TFFlSGx3bm9ySjFlS0EybUNtU0dQNVB0dHF4eDhOc25NOQ?oc=5",
+        "title": "Photos from Utah Valley University before and after the shooting of Charlie Kirk - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRW1zUmxRd1VyVnhETndJSm8xU3pRQnhSZ2N1RzhzVXZDVy13MDEtMU1QQy1Cc1d1UWltOTZmYkFEY1lfVFlZa1FjRlpfc0VQb1A4S3NVTEVicDNkS0szLUdBUHRVSEtuY2FVNUpwOWh0eWFmVWFiMFFLYkRFNWNBUkFpZVFpNWhoUlhCYlprYTRqa3pO?oc=5",
         "description": "",
-        "pubDate": "2025-09-12T00:42:00Z",
+        "pubDate": "2025-09-12T00:36:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -583,6 +619,15 @@
     ],
     "Politics": [
       {
+        "title": "Labour MPs despondent as Mandelson follows Rayner out the door - minister",
+        "link": "https://www.bbc.com/news/articles/cx238pwwqg6o?at_medium=RSS&at_campaign=rss",
+        "description": "Keir Starmer is facing questions over why he picked Mandelson for the Washington job despite his links to Jeffrey Epstein.",
+        "pubDate": "2025-09-12T07:37:08Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d1c/live/46d1d600-8fa8-11f0-9cf6-cbf3e73ce2b9.jpg",
+        "bias": 0
+      },
+      {
         "title": "Reform ex-Tory says too many Tory rejects in party",
         "link": "https://www.bbc.com/news/articles/cj3yeggzm34o?at_medium=RSS&at_campaign=rss",
         "description": "Blackpool Reform UK councillor criticises party over Tory 'rejects'",
@@ -617,6 +662,15 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "UK fires ambassador to the US Peter Mandelson over his links to Jeffrey Epstein - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRVlFRFctdEdzZkhheTFsOFVTNVRBcFMyMUZfWGZHYWg5aGJ2MXZtaFgxVTRrd0E3Zmpic1VqTWdLQkN0YWI2cXpwNDN0STZTVV9wUzFaVkFMLUlZM0tnQzRqZlI1NV9VcXNzOGhlME5lOGxIWlZSM1VVaXFvTmZiOTB0eGV1czg?oc=5",
+        "description": "",
+        "pubDate": "2025-09-12T00:47:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Tech": [
@@ -645,8 +699,8 @@
       {
         "title": "UK economy saw zero growth in July",
         "link": "https://www.bbc.com/news/articles/c203edl1zq3o?at_medium=RSS&at_campaign=rss",
-        "description": "The economy failed to grow, official figures show, following a 0.4% expansion in June.",
-        "pubDate": "2025-09-12T06:46:22Z",
+        "description": "The economy failed to grow following the biggest contraction in manufacturing output for a year.",
+        "pubDate": "2025-09-12T07:41:52Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8122/live/765e3600-8d93-11f0-86a6-31d968008d8a.jpg",
         "bias": 0
