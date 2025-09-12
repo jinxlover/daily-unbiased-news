@@ -1,7 +1,34 @@
 {
-  "lastUpdate": "2025-09-12T10:55:23.726763Z",
+  "lastUpdate": "2025-09-12T11:15:00.999448Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Bloxy Jump [Free] [Platformer]",
+        "link": "https://lovefound-studios.itch.io/bloxy-jump",
+        "description": "",
+        "pubDate": "2025-09-12T11:07:36Z",
+        "source": "lovefound-studios.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTQxNzY0LnBuZw==/315x250%23c/I98fez.png",
+        "bias": 0
+      },
+      {
+        "title": "Vámonos de aquí [Free]",
+        "link": "https://gaburov.itch.io/vamonos-de-aqui",
+        "description": "Es una experiencia, no un juego",
+        "pubDate": "2025-09-12T11:05:49Z",
+        "source": "gaburov.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTQxODQyLnBuZw==/315x250%23c/PQAlad.png",
+        "bias": 0
+      },
+      {
+        "title": "Abyssixty [Free] [Card Game]",
+        "link": "https://nube97.itch.io/abyssixty",
+        "description": "Your goal : survive !",
+        "pubDate": "2025-09-12T10:57:01Z",
+        "source": "nube97.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTQxNzE5LnBuZw==/315x250%23c/R2iLYt.png",
+        "bias": 0
+      },
       {
         "title": "Baluno [Free] [Card Game]",
         "link": "https://symon91.itch.io/baluno",
@@ -9,6 +36,15 @@
         "pubDate": "2025-09-12T10:14:15Z",
         "source": "symon91.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMTQxNDA5LnBuZw==/315x250%23c/N2wMQ6.png",
+        "bias": 0
+      },
+      {
+        "title": "Cyber Maiden: Neon Assault [Free] [Shooter] [Windows]",
+        "link": "https://samllfishdev.itch.io/cybermaiden-neonassault",
+        "description": "2D cyberpunk style horizontal shooting game",
+        "pubDate": "2025-09-12T10:14:13Z",
+        "source": "samllfishdev.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTQxNTQ5LnBuZw==/315x250%23c/6IcGVh.png",
         "bias": 0
       },
       {
@@ -165,15 +201,6 @@
         "bias": 0
       },
       {
-        "title": "Down the tower [Free] [Platformer]",
-        "link": "https://tomasz0p0.itch.io/down-the-tower",
-        "description": "A small project created to practice level generation and pixel art graphics.",
-        "pubDate": "2025-09-12T07:06:58Z",
-        "source": "tomasz0p0.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTQwMjg3LnBuZw==/315x250%23c/6CrlGl.png",
-        "bias": 0
-      },
-      {
         "title": "Robot Invasion [Free] [Platformer] [Windows]",
         "link": "https://popejos3.itch.io/robot-invasion",
         "description": "",
@@ -184,6 +211,24 @@
       }
     ],
     "World": [
+      {
+        "title": "Ukraine launches 221 drones on Russia, Moscow says",
+        "link": "https://www.bbc.com/news/articles/cderllgw84ro?at_medium=RSS&at_campaign=rss",
+        "description": "The overnight attack is the largest since May, but follows much larger bombardments from Russia.",
+        "pubDate": "2025-09-12T11:04:16Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5a1/live/c3982f80-8fc7-11f0-9cf6-cbf3e73ce2b9.jpg",
+        "bias": 0
+      },
+      {
+        "title": "‘Show of humiliation’ as Israeli army lays siege to West Bank’s Tulkarem",
+        "link": "https://www.aljazeera.com/news/2025/9/12/show-of-humiliation-as-israeli-army-lays-siege-to-west-banks-tulkarem?traffic_source=rss",
+        "description": "Palestinians face mass arrests, displacement in the occupied territory as Netanyahu pushes settlement expansion.",
+        "pubDate": "2025-09-12T10:48:10Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Police share video of Charlie Kirk shooting person of interest. And, prices rise",
         "link": "https://www.npr.org/2025/09/12/g-s1-88389/up-first-newsletter-charlie-kirk-shooting-suspect-inflation-jobs-jair-bolsonaro",
@@ -255,15 +300,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Ukraine launches 221 drones on Russia, Moscow says",
-        "link": "https://www.bbc.com/news/articles/cderllgw84ro?at_medium=RSS&at_campaign=rss",
-        "description": "The overnight attack is the largest since May, but follows much larger bombardments from Russia.",
-        "pubDate": "2025-09-12T09:13:19Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc21/live/5fd72010-8fb2-11f0-9cf6-cbf3e73ce2b9.jpg",
-        "bias": 0
       },
       {
         "title": "Gaza’s worst fear is no longer bombs but ‘humanitarian cities’",
@@ -362,15 +398,6 @@
         "pubDate": "2025-09-12T07:46:12Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4754/live/ed5f2710-8fa4-11f0-a14f-a32aad03416f.jpg",
-        "bias": 0
-      },
-      {
-        "title": "China’s newest aircraft carrier sails through Taiwan Strait for the first time - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZGNJUVM5NjU0a3M1Tk9BUjJxZFcwU1pwaEJuamNSU3A4M0tGTk1lTE1adUZTWVNiLU8zNnR1TzJmNFFUT3lyaVJnNk1OckFNMzFlTzZ4WUtYTmdMOWFNWnZRUnNtUXlvM2h4RmlnRUhLLUpWa0NINVQwTzNTUE5LMjlVdUllRE42b0xMYWNPYlB3dzZ5UnpXdDZn?oc=5",
-        "description": "",
-        "pubDate": "2025-09-12T07:43:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -637,6 +664,24 @@
     ],
     "Politics": [
       {
+        "title": "UK economy saw zero growth in July",
+        "link": "https://www.bbc.com/news/articles/c203edl1zq3o?at_medium=RSS&at_campaign=rss",
+        "description": "The economy failed to grow following the biggest contraction in manufacturing output for a year.",
+        "pubDate": "2025-09-12T10:56:19Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8122/live/765e3600-8d93-11f0-86a6-31d968008d8a.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Lords urged to scrutinise but not block assisted dying law",
+        "link": "https://www.bbc.com/news/articles/cly0d1vg0e2o?at_medium=RSS&at_campaign=rss",
+        "description": "MPs in the Commons backed the Terminally Ill Adults Bill by a majority of 23 in June this year.",
+        "pubDate": "2025-09-12T10:55:07Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad9d/live/254527a0-8fbf-11f0-9cf6-cbf3e73ce2b9.png",
+        "bias": 0
+      },
+      {
         "title": "Labour MPs' growing fury over Mandelson appointment",
         "link": "https://www.bbc.com/news/articles/cx238pwwqg6o?at_medium=RSS&at_campaign=rss",
         "description": "No 10 say Mandelson was sacked after new information about his links to Jeffrey Epstein came to light.",
@@ -646,30 +691,12 @@
         "bias": 0
       },
       {
-        "title": "Lords urged to scrutinise but not block assisted dying law",
-        "link": "https://www.bbc.com/news/articles/cly0d1vg0e2o?at_medium=RSS&at_campaign=rss",
-        "description": "MPs in the Commons backed the Terminally Ill Adults Bill by a majority of 23 in June this year.",
-        "pubDate": "2025-09-12T10:41:04Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad9d/live/254527a0-8fbf-11f0-9cf6-cbf3e73ce2b9.png",
-        "bias": 0
-      },
-      {
         "title": "Who could replace Angela Rayner as Labour deputy leader?",
         "link": "https://www.bbc.com/news/articles/c8jm9lk19v3o?at_medium=RSS&at_campaign=rss",
         "description": "The winning candidate - voted for by Labour members - will be announced on 25 October.",
         "pubDate": "2025-09-12T09:20:50Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7b0/live/73a045d0-8f04-11f0-b391-6936825093bd.jpg",
-        "bias": 0
-      },
-      {
-        "title": "UK economy saw zero growth in July",
-        "link": "https://www.bbc.com/news/articles/c203edl1zq3o?at_medium=RSS&at_campaign=rss",
-        "description": "The economy failed to grow following the biggest contraction in manufacturing output for a year.",
-        "pubDate": "2025-09-12T09:07:46Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8122/live/765e3600-8d93-11f0-86a6-31d968008d8a.jpg",
         "bias": 0
       },
       {
@@ -691,6 +718,15 @@
         "bias": -1
       },
       {
+        "title": "China’s newest aircraft carrier sails through Taiwan Strait for the first time - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZGNJUVM5NjU0a3M1Tk9BUjJxZFcwU1pwaEJuamNSU3A4M0tGTk1lTE1adUZTWVNiLU8zNnR1TzJmNFFUT3lyaVJnNk1OckFNMzFlTzZ4WUtYTmdMOWFNWnZRUnNtUXlvM2h4RmlnRUhLLUpWa0NINVQwTzNTUE5LMjlVdUllRE42b0xMYWNPYlB3dzZ5UnpXdDZn?oc=5",
+        "description": "",
+        "pubDate": "2025-09-12T07:43:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Reform ex-Tory says too many Tory rejects in party",
         "link": "https://www.bbc.com/news/articles/cj3yeggzm34o?at_medium=RSS&at_campaign=rss",
         "description": "Blackpool Reform UK councillor criticises party over Tory 'rejects'",
@@ -709,28 +745,10 @@
         "bias": 0
       },
       {
-        "title": "What to know about the fatal shooting of Charlie Kirk, the co-founder of Turning Point USA - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZDVCeTN0R2hRbVR2TmZJbmdoOTNhendvNnNfdlhhNU93SEFoZ0s2Qm5PaWNfWmRFVUtlMzR6MGNyeU9rcnBvY09rSElxWGJNYzlWdl9UTVBVczlod3U2SVFxRXY1OHVheVBlVV83R3dKYU5UWEpCVHBwZmhlV3JXMW5ROUp4NDgtTTI2NTdKVXpEWFdIOEVqamJfcjc?oc=5",
-        "description": "",
-        "pubDate": "2025-09-12T03:55:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Aaron Judge hits 361st home run to tie Joe DiMaggio for 4th place in Yankees history - AP News",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWEFVOWJDWVBoTFdSbDBjSnhTOGtyVlk3WDVFd214Z1FmWUI5eVcyNTJURlRFV3oxZjBJMVcwRmpxeG0ybU1QdUM0RHB1X01yMXJGUGpGSjZCc0JWVHJhR2pOVFB2UmNRV2FmZGhoMHVVWVhXWGhBakNHdVYyNFlTUjJVSnJ0eVlhZEY2U19HX2RlVlNJMWtF?oc=5",
         "description": "",
         "pubDate": "2025-09-12T03:52:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Officials release video of person of interest in Charlie Kirk assassination - AP News",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54bVBDbWl5QzRNTzBVektrNDZHcWNSM21pSGZjYzA1aHYyZm5OXzdUaGJveGhqTklqX3lsajFHT0FoMFNWdDBCZXF5cXBOQXAwUWRCWjlRYkctQjZSRlI3QjRaeE9zV2UwQ01VLUkwbw?oc=5",
-        "description": "",
-        "pubDate": "2025-09-12T03:09:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -743,11 +761,20 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "Luzardo retires 22 straight after rough start as Phillies sweep Mets and eye NL East title - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZFF1ZlF4NkU4cFZYZkRTcnZrdldqNWJHQXo2RjBtREtaQVBlNVNSLW5SZjlCU0FUWUdGNTRDaGthWUVCbmlUaVZMRHpTWEtkZDBiY0FvOTJ3SjRuOF84LW1mcXpOZDBWX3FJaUxxVEVuRlhJWjhKTXFnV3gwZGFJNVlZb1h2SkZMZzNHQnV1eGc?oc=5",
+        "description": "",
+        "pubDate": "2025-09-12T01:54:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Tech": [
       {
-        "title": "AI 'companion' chatbots investigated over child protection",
+        "title": "AI 'friend' chatbots probed over child protection",
         "link": "https://www.bbc.com/news/articles/c74933vzx2yo?at_medium=RSS&at_campaign=rss",
         "description": "The Federal Trade Commission is probing seven tech companies including Snap, Meta, OpenAI and XAI.",
         "pubDate": "2025-09-12T10:36:53Z",
@@ -766,6 +793,15 @@
       }
     ],
     "Science": [
+      {
+        "title": "Russian drones force Europe to defend itself, perhaps alone, as Putin puts 'down a marker' to NATO - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ0NyY19sc1RwWFlaT2lnQkMybzVnY25ZSExPQV82bFlmaDFBZ2NWT1BtZDVYMDZSbm52TXpSNnVMcG81aDNocms2NDJqOWJtajRLS25FeUVYY2FMc0w3cjNGTzE0SnpTd09TUFJYOWJQWEhYNFA0NkRfd3l5c3RpbnI5bEdXRVotTjFwV1ZtMjVXaDgwZ0ZlUGxUci1EQQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-12T10:23:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Insect populations drop even without direct human interference, a new study finds",
         "link": "https://www.npr.org/2025/09/12/nx-s1-5535551/insect-populations-human-interference-study",
@@ -833,6 +869,15 @@
       }
     ],
     "Culture": [
+      {
+        "title": "South Park episode lampooning Charlie Kirk pulled from Comedy Central",
+        "link": "https://www.bbc.com/news/articles/cx2500p3qjyo?at_medium=RSS&at_campaign=rss",
+        "description": "The one with the character Clyde Donovan has been cut from Comedy Central but remains on Paramount+.",
+        "pubDate": "2025-09-12T11:02:31Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce81/live/3d5899a0-8fb3-11f0-8b60-91a9d6182437.jpg",
+        "bias": 0
+      },
       {
         "title": "UK should withdraw from Eurovision if Israel takes part, says winning songwriter",
         "link": "https://www.bbc.com/news/articles/c87y11e37y3o?at_medium=RSS&at_campaign=rss",
