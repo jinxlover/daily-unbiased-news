@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-12T09:55:59.577970Z",
+  "lastUpdate": "2025-09-12T10:21:22.703133Z",
   "news": {
     "Gaming": [
       {
@@ -72,6 +72,15 @@
         "pubDate": "2025-09-12T08:14:38Z",
         "source": "titaniumowen.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMTQwNjc2LnBuZw==/315x250%23c/olswiK.png",
+        "bias": 0
+      },
+      {
+        "title": "Light the Summit [Free] [Adventure] [Windows]",
+        "link": "https://pinickio.itch.io/light-the-summit",
+        "description": "Short turn-based moth RPG made in a week-long game jam.",
+        "pubDate": "2025-09-12T08:14:01Z",
+        "source": "pinickio.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTQwNzQ5LnBuZw==/315x250%23c/f%2FXlUA.png",
         "bias": 0
       },
       {
@@ -174,33 +183,6 @@
         "bias": 0
       },
       {
-        "title": "OwlTetris [Free] [Strategy]",
-        "link": "https://handsomexue1.itch.io/owltetrisss",
-        "description": "Catch tetris(animals) from left to right and try to keep them on the right!",
-        "pubDate": "2025-09-12T06:08:34Z",
-        "source": "handsomexue1.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTM5Nzk0LnBuZw==/315x250%23c/EjmO1q.png",
-        "bias": 0
-      },
-      {
-        "title": "I'm a Gensokyo observer 2: Chen's duty (Demo) [Free] [Windows]",
-        "link": "https://paulor94.itch.io/im-a-gensokyo-observer-2-chens-duty",
-        "description": "",
-        "pubDate": "2025-09-12T05:52:22Z",
-        "source": "paulor94.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTM5NzE3LnBuZw==/315x250%23c/2PgRUq.png",
-        "bias": 0
-      },
-      {
-        "title": "Novum Universum [Free] [Strategy] [Windows] [macOS] [Linux]",
-        "link": "https://bestsatyr.itch.io/novum-universalum",
-        "description": "Colonize the Americas!",
-        "pubDate": "2025-09-12T05:37:17Z",
-        "source": "bestsatyr.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTM5NjYwLnBuZw==/315x250%23c/EYM4GA.png",
-        "bias": 0
-      },
-      {
         "title": "Robot Invasion [Free] [Platformer] [Windows]",
         "link": "https://popejos3.itch.io/robot-invasion",
         "description": "",
@@ -211,6 +193,15 @@
       }
     ],
     "World": [
+      {
+        "title": "Fact-checking claims about sniper’s identity in Charlie Kirk shooting",
+        "link": "https://www.aljazeera.com/news/2025/9/12/fact-checking-claims-about-snipers-identity-in-charlie-kirk-shooting?traffic_source=rss",
+        "description": "The shooter of Charlie Kirk is still at large and unidentified.",
+        "pubDate": "2025-09-12T09:57:04Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Prince Harry makes surprise visit to Ukraine in support of wounded troops",
         "link": "https://www.npr.org/2025/09/12/nx-s1-5539034/prince-harry-visit-ukraine-wounded-troops",
@@ -295,7 +286,7 @@
       {
         "title": "South African rapist loses bid to block Netflix film about his life",
         "link": "https://www.bbc.com/news/articles/cq65ygpv7p1o?at_medium=RSS&at_campaign=rss",
-        "description": "The court rules that his rape conviction is already in the public domain.",
+        "description": "Thabo Bester had argued the documentary would affect his trial for allegedly faking his death to escape prison.",
         "pubDate": "2025-09-12T08:17:47Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26cb/live/e30e7aa0-8fa8-11f0-a14f-a32aad03416f.jpg",
@@ -581,15 +572,6 @@
         "bias": 0
       },
       {
-        "title": "Aaron Judge hits 361st home run to tie Joe DiMaggio for 4th place in Yankees history - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWEFVOWJDWVBoTFdSbDBjSnhTOGtyVlk3WDVFd214Z1FmWUI5eVcyNTJURlRFV3oxZjBJMVcwRmpxeG0ybU1QdUM0RHB1X01yMXJGUGpGSjZCc0JWVHJhR2pOVFB2UmNRV2FmZGhoMHVVWVhXWGhBakNHdVYyNFlTUjJVSnJ0eVlhZEY2U19HX2RlVlNJMWtF?oc=5",
-        "description": "",
-        "pubDate": "2025-09-12T03:52:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Trump draws cheers and boos while marking 9/11 by attending a New York Yankees game - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT2VqOGNCYndxWDhOUC1IMHlXRkpQc3N6Z3B6bTRuNU4tVG5BYWZKeTdyN2Z1b0gxY1BFRTFodUxnSnI3bzdERV9kWVhwZmFZWFlVbktEdk81a3k4ejFGT2xlZ3l4YzNEbmh6MGxXWHRxVmY3TWxGV1JfX0sxak00Z0VQZmRyWmo1RS0wZkgtdVR6SS1FcXdfVVNEaFBUYmU2V1NMdXk3SzBiUQ?oc=5",
         "description": "",
@@ -626,6 +608,15 @@
         "bias": 0
       },
       {
+        "title": "Officials release video of person of interest in Charlie Kirk assassination - AP News",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54bVBDbWl5QzRNTzBVektrNDZHcWNSM21pSGZjYzA1aHYyZm5OXzdUaGJveGhqTklqX3lsajFHT0FoMFNWdDBCZXF5cXBOQXAwUWRCWjlRYkctQjZSRlI3QjRaeE9zV2UwQ01VLUkwbw?oc=5",
+        "description": "",
+        "pubDate": "2025-09-12T03:09:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "'Looks like a toy, but it's real': BBC examines a downed Russian drone",
         "link": "https://www.bbc.com/news/videos/czewd31724lo?at_medium=RSS&at_campaign=rss",
         "description": "Drones like this one were shot down over Polish airspace in the early hours of Wednesday.",
@@ -648,15 +639,6 @@
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY1hqUXA3R2lzZVJmUDQ2a2dSSzNoWjVydElJSzVDNkczUFZzS3pvblV1aHlsVXE2NkxUM3JTbGxoTnF2dWM1QkdXdTk1QXJQRExnN3dSMGVxYnJHWWtVY083emh4VmpIdnB0M1BQMlZucFd3S1o3WEY2ZGJEN0tONEpIcm9iWG12UFY4Z003STRCSUhX?oc=5",
         "description": "",
         "pubDate": "2025-09-12T02:24:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Luzardo retires 22 straight after rough start as Phillies sweep Mets and eye NL East title - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZFF1ZlF4NkU4cFZYZkRTcnZrdldqNWJHQXo2RjBtREtaQVBlNVNSLW5SZjlCU0FUWUdGNTRDaGthWUVCbmlUaVZMRHpTWEtkZDBiY0FvOTJ3SjRuOF84LW1mcXpOZDBWX3FJaUxxVEVuRlhJWjhKTXFnV3gwZGFJNVlZb1h2SkZMZzNHQnV1eGc?oc=5",
-        "description": "",
-        "pubDate": "2025-09-12T01:54:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -691,18 +673,18 @@
         "bias": 0
       },
       {
-        "title": "These fired DOJ lawyers are finding new ways to make a difference",
-        "link": "https://www.npr.org/2025/09/12/nx-s1-5534402/justice-department-trump-firing-lawyers",
-        "description": "Four prosecutors who worked on Capitol riot cases have found a way to continue public service after leaving the Justice Department. They're all colleagues again.",
+        "title": "CBS shifts to accommodate the right under new owner",
+        "link": "https://www.npr.org/2025/09/12/nx-s1-5537152/cbs-news-ellison-steps-appease-trump",
+        "description": "",
         "pubDate": "2025-09-12T09:00:00Z",
         "source": "npr.org",
         "image": "",
         "bias": -1
       },
       {
-        "title": "CBS shifts to accommodate the right under new owner",
-        "link": "https://www.npr.org/2025/09/12/nx-s1-5537152/cbs-news-ellison-steps-appease-trump",
-        "description": "",
+        "title": "These fired DOJ lawyers are finding new ways to make a difference",
+        "link": "https://www.npr.org/2025/09/12/nx-s1-5534402/justice-department-trump-firing-lawyers",
+        "description": "Four prosecutors who worked on Capitol riot cases have found a way to continue public service after leaving the Justice Department. They're all colleagues again.",
         "pubDate": "2025-09-12T09:00:00Z",
         "source": "npr.org",
         "image": "",
@@ -727,21 +709,21 @@
         "bias": 0
       },
       {
+        "title": "Aaron Judge hits 361st home run to tie Joe DiMaggio for 4th place in Yankees history - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWEFVOWJDWVBoTFdSbDBjSnhTOGtyVlk3WDVFd214Z1FmWUI5eVcyNTJURlRFV3oxZjBJMVcwRmpxeG0ybU1QdUM0RHB1X01yMXJGUGpGSjZCc0JWVHJhR2pOVFB2UmNRV2FmZGhoMHVVWVhXWGhBakNHdVYyNFlTUjJVSnJ0eVlhZEY2U19HX2RlVlNJMWtF?oc=5",
+        "description": "",
+        "pubDate": "2025-09-12T03:52:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Assisted dying bill to be debated in House of Lords",
         "link": "https://www.bbc.com/news/articles/ckge8jwwnepo?at_medium=RSS&at_campaign=rss",
         "description": "Opponents of the proposed law for England and Wales say there should be further scrutiny before peers discuss the issue.",
         "pubDate": "2025-09-12T03:46:30Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bee/live/da3dd3c0-8f86-11f0-b391-6936825093bd.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Officials release video of person of interest in Charlie Kirk assassination - AP News",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54bVBDbWl5QzRNTzBVektrNDZHcWNSM21pSGZjYzA1aHYyZm5OXzdUaGJveGhqTklqX3lsajFHT0FoMFNWdDBCZXF5cXBOQXAwUWRCWjlRYkctQjZSRlI3QjRaeE9zV2UwQ01VLUkwbw?oc=5",
-        "description": "",
-        "pubDate": "2025-09-12T03:09:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -814,6 +796,15 @@
     ],
     "Business": [
       {
+        "title": "When is the Budget and what might be in it?",
+        "link": "https://www.bbc.com/news/articles/cj4w44w42j5o?at_medium=RSS&at_campaign=rss",
+        "description": "Chancellor Rachel Reeves will set out her economic plans in her second Budget on 26 November.",
+        "pubDate": "2025-09-12T10:05:41Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8376/live/c5070a20-96b3-11ef-99af-372359b57a36.png",
+        "bias": 0
+      },
+      {
         "title": "Why mothers in the U.S. are scaling back on their work lives",
         "link": "https://www.npr.org/2025/09/12/nx-s1-5537129/why-mothers-in-the-u-s-are-scaling-back-on-their-work-lives",
         "description": "Workforce participation for moms in the U.S. has been dropping for most of this year, and the reasons are more complicated than return-to-office mandates. The team from \"The Indicator\" explains why.",
@@ -833,6 +824,15 @@
       }
     ],
     "Culture": [
+      {
+        "title": "UK should withdraw from Eurovision if Israel takes part, says winning songwriter",
+        "link": "https://www.bbc.com/news/articles/c87y11e37y3o?at_medium=RSS&at_campaign=rss",
+        "description": "The songwriter said people in the UK and Ireland are 'equally disgusted by what's going on in Gaza'.",
+        "pubDate": "2025-09-12T09:55:43Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a98/live/98b278c0-8fae-11f0-8b60-91a9d6182437.jpg",
+        "bias": 0
+      },
       {
         "title": "Prince Harry makes surprise Ukraine visit to support war wounded",
         "link": "https://www.bbc.com/news/articles/c3dr859vxxjo?at_medium=RSS&at_campaign=rss",
