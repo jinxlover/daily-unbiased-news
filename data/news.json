@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-09-13T03:29:52.417333Z",
+  "lastUpdate": "2025-09-13T03:42:13.641867Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Remnants of the Settlers [Free] [Strategy]",
+        "link": "https://lawrey.itch.io/remnants-of-the-settlers",
+        "description": "A prototype turn-based city-builder strategy game. This build is for internal testing purposes only.",
+        "pubDate": "2025-09-13T03:32:42Z",
+        "source": "lawrey.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTUwNzg1LnBuZw==/315x250%23c/PQLw0s.png",
+        "bias": 0
+      },
       {
         "title": "The Maze of the Ghost [Free] [Other]",
         "link": "https://quixotix.itch.io/the-maze-of-the-ghost",
@@ -174,15 +183,6 @@
         "bias": 0
       },
       {
-        "title": "Zombie Dungeon [Free] [Shooter]",
-        "link": "https://apolloplease36.itch.io/zombie-dungeon",
-        "description": "Simple shooter where you find keys and shoot zombies to unlock doors to the final arena to face off more zombies",
-        "pubDate": "2025-09-13T00:43:24Z",
-        "source": "apolloplease36.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTQ5NzEyLnBuZw==/315x250%23c/rRZlqH.png",
-        "bias": 0
-      },
-      {
         "title": "Rage Quit Flight [Free] [Platformer]",
         "link": "https://pk727537.itch.io/rage-quit-flight",
         "description": "",
@@ -216,15 +216,6 @@
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSVE4NEFpdmNnaGI0V2QtOUV2V1lNQ2MySGN4QnUwYjZuNnhuczhnbzh2eVRsVmxUTUs1Q0NGUlRmdnVxeHlTRzlMMWdXQkdQNVRUT09wS3M3dm1FLXVEem5JN0tac05ZQ2ozWE82RUxfYlJycVNHTG84bmVCS0NBZmhsbDhUZndheHFKanc3dnFLemhlaHZfUlAtcGlYOTlmQzhaNUVjTQ?oc=5",
         "description": "",
         "pubDate": "2025-09-13T03:16:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Suspect in Charlie Kirk killing became more political, opposed activist's views, authorities say - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYUNjcWNFUWFvcVFhU0hDNk8tUFRYb3Q4OW1kYkhJNUZVWHMtdzNBeTY4U19wbXMybURtRjhWZE45WlpseHRiSE04MGhNT1EwWWZpNi1FOHdGbFp6OWtrY2xRVDJyRm4zY3loa2NsRjhBTTEzZGtvWGFDdWFKU2NnN051ZU9Fekp2N3ctSmNpMGNMT3FXSFlaZUxNa1VLZW04RGNr?oc=5",
-        "description": "",
-        "pubDate": "2025-09-13T03:00:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -331,10 +322,28 @@
     ],
     "Politics": [
       {
+        "title": "Suspect in Charlie Kirk killing became more political, opposed activist's views, authorities say - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYUNjcWNFUWFvcVFhU0hDNk8tUFRYb3Q4OW1kYkhJNUZVWHMtdzNBeTY4U19wbXMybURtRjhWZE45WlpseHRiSE04MGhNT1EwWWZpNi1FOHdGbFp6OWtrY2xRVDJyRm4zY3loa2NsRjhBTTEzZGtvWGFDdWFKU2NnN051ZU9Fekp2N3ctSmNpMGNMT3FXSFlaZUxNa1VLZW04RGNr?oc=5",
+        "description": "",
+        "pubDate": "2025-09-13T03:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "What to know about the killing of Charlie Kirk, the co-founder of Turning Point USA - AP News",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZDVCeTN0R2hRbVR2TmZJbmdoOTNhendvNnNfdlhhNU93SEFoZ0s2Qm5PaWNfWmRFVUtlMzR6MGNyeU9rcnBvY09rSElxWGJNYzlWdl9UTVBVczlod3U2SVFxRXY1OHVheVBlVV83R3dKYU5UWEpCVHBwZmhlV3JXMW5ROUp4NDgtTTI2NTdKVXpEWFdIOEVqamJfcjc?oc=5",
         "description": "",
         "pubDate": "2025-09-13T01:28:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Steven Spielberg celebrates 'awesome' 50th anniversary 'Jaws' exhibition at Academy Museum - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeTYyZHplVUxWbUotLUFJREFoVXlUcHlzVDdWZHpPbGRKM0J6Wnh4OVIwOHh5RHdMUE1BNmI4U1BYNGhiMG5iQkIwQzJCem5tY0g3cUVnbFp5UUc4UkJwOWZQMlNMbEQ4ZXhXallIbmlxbDdrckN3R2VTTVhuMmJOY0x5OVZCc29TWHNCdXBKWmhuOENHQXBpeW8wcTAtQQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-13T00:06:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -355,15 +364,6 @@
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU25iMDZjUWRlUWMxbEt4SGRodW1xaTFVeXZEejNGeVBfOFg1b3RnUGJSUDFkZ2lqZzEyMUdNaGVxWEFoQTJCUzlETGdKZlNEbThPRTQxYXBhZnZMUkJZaDhIenFJbS1BVGhyTng1N3ZVaTN1dnBiUmhBbzhJSFM3NUtMd1ZxaVFjOWMzVHA5Y2I1VElscXc?oc=5",
         "description": "",
         "pubDate": "2025-09-13T01:05:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Steven Spielberg celebrates 'awesome' 50th anniversary 'Jaws' exhibition at Academy Museum - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeTYyZHplVUxWbUotLUFJREFoVXlUcHlzVDdWZHpPbGRKM0J6Wnh4OVIwOHh5RHdMUE1BNmI4U1BYNGhiMG5iQkIwQzJCem5tY0g3cUVnbFp5UUc4UkJwOWZQMlNMbEQ4ZXhXallIbmlxbDdrckN3R2VTTVhuMmJOY0x5OVZCc29TWHNCdXBKWmhuOENHQXBpeW8wcTAtQQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-13T00:06:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
