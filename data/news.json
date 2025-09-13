@@ -1,7 +1,25 @@
 {
-  "lastUpdate": "2025-09-13T14:45:19.571767Z",
+  "lastUpdate": "2025-09-13T14:55:29.553874Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Morsel Muncher [Free]",
+        "link": "https://cozi.itch.io/morsel-muncher",
+        "description": "",
+        "pubDate": "2025-09-13T14:47:14Z",
+        "source": "cozi.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTU1NzU4LnBuZw==/315x250%23c/PCvcWd.png",
+        "bias": 0
+      },
+      {
+        "title": "I MUST FEAST [Free] [Action]",
+        "link": "https://nakano-games.itch.io/i-must-feast",
+        "description": "",
+        "pubDate": "2025-09-13T14:45:29Z",
+        "source": "nakano-games.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTU1Njg3LnBuZw==/315x250%23c/4QM5jA.png",
+        "bias": 0
+      },
       {
         "title": "They Watch In The Dark [Free] [Other] [Windows]",
         "link": "https://kostasvin.itch.io/they-watch-in-the-dark",
@@ -18,6 +36,15 @@
         "pubDate": "2025-09-13T14:27:50Z",
         "source": "jadael.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMTU1NDgyLnBuZw==/315x250%23c/%2Fz4eEX.png",
+        "bias": 0
+      },
+      {
+        "title": "88 taggers [Free] [Windows] [macOS] [Linux] [Android]",
+        "link": "https://blast-tag.itch.io/88-taggers",
+        "description": "",
+        "pubDate": "2025-09-13T14:25:50Z",
+        "source": "blast-tag.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTU1NDgzLnBuZw==/315x250%23c/ZOhjug.png",
         "bias": 0
       },
       {
@@ -201,12 +228,12 @@
         "bias": 0
       },
       {
-        "title": "Losing Ann [Free] [Simulation]",
-        "link": "https://paupyro.itch.io/losing-ann",
-        "description": "",
-        "pubDate": "2025-09-13T11:56:43Z",
-        "source": "paupyro.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTU0Mjg4LnBuZw==/315x250%23c/aKCuW2.png",
+        "title": "Hyper Hive [Commodore 64] [Free] [Shooter]",
+        "link": "https://richard-tnd.itch.io/hyper-hive",
+        "description": "Futuristic SEUCK Reduxarcade blaster",
+        "pubDate": "2025-09-13T12:04:28Z",
+        "source": "richard-tnd.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTU0NTA2LnBuZw==/315x250%23c/uecc0j.png",
         "bias": 0
       },
       {
@@ -262,6 +289,15 @@
         "description": "The US president said it was 'shocking' that members of the alliance continue to buy Russian oil.",
         "pubDate": "2025-09-13T14:08:00Z",
         "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Trump tells NATO members they must move first on Russia sanctions over Ukraine",
+        "link": "https://www.npr.org/2025/09/13/nx-s1-5540664/trump-russia-sanctions-nato-ukraine",
+        "description": "Trump tells NATO members they need to cut off Russia energy purchases before he will take bigger steps to isolate Russia over its war in Ukraine.",
+        "pubDate": "2025-09-13T14:05:36Z",
+        "source": "npr.org",
         "image": "",
         "bias": -1
       },
@@ -437,21 +473,21 @@
         "bias": -1
       },
       {
+        "title": "Palestinian factions hand over truckloads of weapons in Lebanon’s largest refugee camp - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeDRuSGg1YWo0WjVBLVFHai1aUVZ3SmVvRWRYd0dibTlCeGpIVHd6TXlWWGxsUjZFVXd0NjZlbjBrSHdhQ0VkRDNoT3RNbkw0TmFxcVgzdDN0blZlcDFIMGFJa2JNV2pJZFZYbzNPMVRpUnoyNktLUUR0aHpUWndRSnNLWFNQS25JalZZeUZXLUhLbE9VM05zRVp0MzczOVF6T1BRQg?oc=5",
+        "description": "",
+        "pubDate": "2025-09-13T10:17:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Neo-Nazi Golden Dawn leader released from prison early",
         "link": "https://www.bbc.com/news/articles/c80gy4k9r10o?at_medium=RSS&at_campaign=rss",
         "description": "Nikos Michaloliakos, 67, who gave Hitler salutes at rallies, is allowed to serve the remainder of his sentence from home.",
         "pubDate": "2025-09-13T10:15:50Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1114/live/7863e1e0-9084-11f0-b391-6936825093bd.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Pakistani army says clashes near the Afghan border killed 12 soldiers and 35 militants - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZnlEYkNYdXIzV19CNUJrVkk5YmJxUG9OXzBrOVRCMG0tSmV5OUpFWHNDaHZRcksyZjhENzQ3bHAwdkdGTjRnTjM1aUcyWGtDLXhsbjNyb1F2M3lpX0x6ZG0zOGgxSEpiOU9POHBCZHd6T2h6QWx2eG54UG81bndVOV9aMWtfNUl5VGtYTmdnUUVySmRud3BEOXlLOWdzbVhVYi0tNWhnVVF0RnpWT25CTFNidzRZUDRUQmx3?oc=5",
-        "description": "",
-        "pubDate": "2025-09-13T10:15:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -669,15 +705,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Yankees' Luis Gil pulled after 6 no-hit innings. Reliever Fernando Cruz gives up a homer in the 7th - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUE1sMGJPdnR1aVUtNW1TYVZlOWllSWQzSFBPcHo4VnNwZzNBN1RGal9pRC03ZWFsamlPNWhzMFFBVnJGUGRZQTczOEgyNDFKQ0MtM0lPOHhlMjVlNF8zRGlpTUc1Vnh6Mnl2eW1GZ0d5eVNLUFZBZnlNMllMb1RQa203UlBEd3cxR2ZYTUtPV1lmT3ctd0U5Rzdn?oc=5",
-        "description": "",
-        "pubDate": "2025-09-13T03:48:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
@@ -772,19 +799,19 @@
         "bias": -1
       },
       {
-        "title": "Mario weakens to tropical depression off Mexico’s Pacific coast - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVlFLa3FNMUw0Z0VNbWI1UGlUWHBUYV9raXdYYURWZzZ6V2pYZ0VzQXpsYzRaMDZFR3R0UGlXNUwxeDlEWlJVb3RzVzhHdHVuTUJfem5TaVh2cUQ4M0tYTjh0SExFeFFhc0w4UzNRWG5SWXhGRTFnSWtueW8xNFl2aEJ6NkpWY25FNFdvbmJiVTNxZk5tOTYwNnF5VXgtUmlobUVPbjcxMTk?oc=5",
+        "title": "Schools tried to ban phones and avoid politics. Then came Charlie Kirk’s assassination - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNVA4aVF3VktzdmtqcWhEQlJudWJ3dV9Ed0hLXzNaZl9CQndJM0tWdjNtS0tvdmIwQ25PMW9DNWYtLWpjNjFIZHNjNEhlYXBvTERGVEcyWlN0cXgta2UydzM4b2UtXzBIY0ZTM2VFejdIRWYtelJQRVdaVkpMZ2w5Qi1zNEw4cl96N3ZBYTZuLXl2S2dqSkJISk5n?oc=5",
         "description": "",
-        "pubDate": "2025-09-13T05:08:00Z",
+        "pubDate": "2025-09-13T04:01:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Schools tried to ban phones and avoid politics. Then came Charlie Kirk’s assassination - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNVA4aVF3VktzdmtqcWhEQlJudWJ3dV9Ed0hLXzNaZl9CQndJM0tWdjNtS0tvdmIwQ25PMW9DNWYtLWpjNjFIZHNjNEhlYXBvTERGVEcyWlN0cXgta2UydzM4b2UtXzBIY0ZTM2VFejdIRWYtelJQRVdaVkpMZ2w5Qi1zNEw4cl96N3ZBYTZuLXl2S2dqSkJISk5n?oc=5",
+        "title": "What to know about the killing of Charlie Kirk, the co-founder of Turning Point USA - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZDVCeTN0R2hRbVR2TmZJbmdoOTNhendvNnNfdlhhNU93SEFoZ0s2Qm5PaWNfWmRFVUtlMzR6MGNyeU9rcnBvY09rSElxWGJNYzlWdl9UTVBVczlod3U2SVFxRXY1OHVheVBlVV83R3dKYU5UWEpCVHBwZmhlV3JXMW5ROUp4NDgtTTI2NTdKVXpEWFdIOEVqamJfcjc?oc=5",
         "description": "",
-        "pubDate": "2025-09-13T04:01:00Z",
+        "pubDate": "2025-09-13T03:38:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -801,6 +828,15 @@
     ],
     "Tech": [
       {
+        "title": "Pakistani army says clashes near the Afghan border killed 12 soldiers and 35 militants - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZnlEYkNYdXIzV19CNUJrVkk5YmJxUG9OXzBrOVRCMG0tSmV5OUpFWHNDaHZRcksyZjhENzQ3bHAwdkdGTjRnTjM1aUcyWGtDLXhsbjNyb1F2M3lpX0x6ZG0zOGgxSEpiOU9POHBCZHd6T2h6QWx2eG54UG81bndVOV9aMWtfNUl5VGtYTmdnUUVySmRud3BEOXlLOWdzbVhVYi0tNWhnVVF0RnpWT25CTFNidzRZUDRUQmx3?oc=5",
+        "description": "",
+        "pubDate": "2025-09-13T10:15:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Why parents need to talk to their teens about AI — and how to start the conversation",
         "link": "https://www.npr.org/2025/09/13/nx-s1-5506114/why-parents-need-talk-teens-ai-how-to-start-conversation",
         "description": "Many teens are using artificial intelligence chatbots like ChatGPT for everything from homework to relationship advice. Experts say parents must lead the way in helping them understand the technology.",
@@ -808,6 +844,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Mario weakens to tropical depression off Mexico’s Pacific coast - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVlFLa3FNMUw0Z0VNbWI1UGlUWHBUYV9raXdYYURWZzZ6V2pYZ0VzQXpsYzRaMDZFR3R0UGlXNUwxeDlEWlJVb3RzVzhHdHVuTUJfem5TaVh2cUQ4M0tYTjh0SExFeFFhc0w4UzNRWG5SWXhGRTFnSWtueW8xNFl2aEJ6NkpWY25FNFdvbmJiVTNxZk5tOTYwNnF5VXgtUmlobUVPbjcxMTk?oc=5",
+        "description": "",
+        "pubDate": "2025-09-13T05:08:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Science": [
@@ -822,15 +867,6 @@
       }
     ],
     "Business": [
-      {
-        "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-13T09:58:11Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
       {
         "title": "Rising cost of school uniform is scary, says mum",
         "link": "https://www.bbc.com/news/articles/c179ev9ge5qo?at_medium=RSS&at_campaign=rss",
