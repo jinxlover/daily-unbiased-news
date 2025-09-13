@@ -1,7 +1,25 @@
 {
-  "lastUpdate": "2025-09-13T05:46:01.082623Z",
+  "lastUpdate": "2025-09-13T05:56:44.208375Z",
   "news": {
     "Gaming": [
+      {
+        "title": "window tower [Free]",
+        "link": "https://its-good-studios.itch.io/window-tower",
+        "description": "",
+        "pubDate": "2025-09-13T05:45:41Z",
+        "source": "its-good-studios.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTUxNzIyLnBuZw==/315x250%23c/z5TkfD.png",
+        "bias": 0
+      },
+      {
+        "title": "The Last Hour [Free] [Visual Novel]",
+        "link": "https://faridead.itch.io/the-last-hour",
+        "description": "60 minutes before exam... what should you do?",
+        "pubDate": "2025-09-13T05:36:50Z",
+        "source": "faridead.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTUxNzI3LmpwZWc=/315x250%23c/kQXEAC.jpeg",
+        "bias": 0
+      },
       {
         "title": "Many Doors, Many Worlds [Free] [Visual Novel]",
         "link": "https://alexisgaray04.itch.io/many-doors",
@@ -98,7 +116,7 @@
         "description": "Satisfying Top-Down 2D Space Shooter",
         "pubDate": "2025-09-13T03:56:40Z",
         "source": "seth-sherpaa.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTUxNzAwLnBuZw==/315x250%23c/Xlqb24.png",
+        "image": "https://img.itch.zone/aW1nLzIzMTUxNzY0LnBuZw==/315x250%23c/mc9FeE.png",
         "bias": 0
       },
       {
@@ -192,15 +210,6 @@
         "bias": 0
       },
       {
-        "title": "Paseo Caotico [Free] [Other]",
-        "link": "https://tonymontania.itch.io/paseo-caotico",
-        "description": "Tercer Prototipo de la JAM (Tematica: Animal de Compañia) Seminario II UNSO",
-        "pubDate": "2025-09-13T02:38:59Z",
-        "source": "tonymontania.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTUwNTk4LnBuZw==/315x250%23c/KfGQVl.png",
-        "bias": 0
-      },
-      {
         "title": "FlappyBot Build 0.0.1 [Free] [Action] [Windows]",
         "link": "https://enyas-gamedev.itch.io/flappybot-build-001",
         "description": "FlappyBot, a clone of that one bird game",
@@ -221,6 +230,15 @@
     ],
     "World": [
       {
+        "title": "LIVE: School sheltering displaced Palestinians hit by Israeli strike",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/9/13/live-school-sheltering-displaced-palestinians-hit-by-israeli-strike?traffic_source=rss",
+        "description": "The Israeli offensive on Gaza City is displacing thousands of starving Palestinians.",
+        "pubDate": "2025-09-13T05:42:27Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Alvarez, Crawford weigh-in at 167.5lbs before super middleweight fight",
         "link": "https://www.aljazeera.com/sports/2025/9/13/alvarez-crawford-weigh-in-at-167-5lbs-before-super-middleweight-fight?traffic_source=rss",
         "description": "Terence Crawford completed his two-division step up by tipping in at same weight as Canelo Alvarez ahead of their bout.",
@@ -228,15 +246,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Netanyahu gambled by targeting Hamas leaders in Qatar. It appears to have backfired - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRU1wQ21LZXFNWVV0cDcwOUU3XzREblpheG56OTdzV2kwczNaSENwbGxZQVdOVG14dERaVXl0YXdYVHJIdmotUEoyaktSVDlwRkRkOFNWaUxQUFpNU21DUk5oaUZxMlBfUG03dlBGS0N4RlZpSWlPdHNNbzkzcUF1cnZJMXdaV3dhemZQTFkySTU4WGFibHc0dlpadFdXQk9HMkxpSU1XRGpjbUpN?oc=5",
-        "description": "",
-        "pubDate": "2025-09-13T05:10:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Photo highlights from Day 1 of the Tokyo World Athletic Championships - AP News",
@@ -347,21 +356,21 @@
         "bias": 0
       },
       {
+        "title": "ICE agent shoots dead man who tried to drive at agents, officials say",
+        "link": "https://www.bbc.com/news/articles/cn839xqdn5po?at_medium=RSS&at_campaign=rss",
+        "description": "The driver, Silverio Villegas-Gonzales, was pronounced dead in hospital shortly after the incident.",
+        "pubDate": "2025-09-13T01:50:31Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/665c/live/d2da5ac0-900f-11f0-9cf6-cbf3e73ce2b9.jpg",
+        "bias": 0
+      },
+      {
         "title": "John Daly makes a 19 to set wrong kind of PGA Tour Champions record - AP News",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU25iMDZjUWRlUWMxbEt4SGRodW1xaTFVeXZEejNGeVBfOFg1b3RnUGJSUDFkZ2lqZzEyMUdNaGVxWEFoQTJCUzlETGdKZlNEbThPRTQxYXBhZnZMUkJZaDhIenFJbS1BVGhyTng1N3ZVaTN1dnBiUmhBbzhJSFM3NUtMd1ZxaVFjOWMzVHA5Y2I1VElscXc?oc=5",
         "description": "",
         "pubDate": "2025-09-13T01:41:00Z",
         "source": "news.google.com",
         "image": "",
-        "bias": 0
-      },
-      {
-        "title": "The 'iron lady' taking a shot at Ivory Coast's presidency",
-        "link": "https://www.bbc.com/news/articles/c62n6k6v7yxo?at_medium=RSS&at_campaign=rss",
-        "description": "Feared by some, loved by others, ex-first lady Simone Gbagbo is vying to become the country's next leader.",
-        "pubDate": "2025-09-13T01:31:52Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbe6/live/500ac480-8fde-11f0-84c8-99de564f0440.jpg",
         "bias": 0
       },
       {
@@ -429,6 +438,15 @@
       }
     ],
     "Politics": [
+      {
+        "title": "What to know about the killing of Charlie Kirk, the co-founder of Turning Point USA - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZDVCeTN0R2hRbVR2TmZJbmdoOTNhendvNnNfdlhhNU93SEFoZ0s2Qm5PaWNfWmRFVUtlMzR6MGNyeU9rcnBvY09rSElxWGJNYzlWdl9UTVBVczlod3U2SVFxRXY1OHVheVBlVV83R3dKYU5UWEpCVHBwZmhlV3JXMW5ROUp4NDgtTTI2NTdKVXpEWFdIOEVqamJfcjc?oc=5",
+        "description": "",
+        "pubDate": "2025-09-13T03:38:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Starmer defended Mandelson after officials knew about Epstein emails, BBC understands",
         "link": "https://www.bbc.com/news/articles/c5yq455w36vo?at_medium=RSS&at_campaign=rss",
