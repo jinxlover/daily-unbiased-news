@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-13T11:48:11.265599Z",
+  "lastUpdate": "2025-09-13T11:58:23.999447Z",
   "news": {
     "Gaming": [
       {
@@ -27,6 +27,15 @@
         "pubDate": "2025-09-13T11:32:19Z",
         "source": "andgael1967itchio1595657.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMTUzOTU0LmpwZWc=/315x250%23c/gUaX3s.jpeg",
+        "bias": 0
+      },
+      {
+        "title": "Space Pet 13 [Free] [Other] [Windows] [Linux]",
+        "link": "https://spacevini.itch.io/space-pet-13",
+        "description": "Remake of Space Pet 14, inspired by SS13/14",
+        "pubDate": "2025-09-13T11:22:44Z",
+        "source": "spacevini.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTUzODY4LnBuZw==/315x250%23c/RpSnK0.png",
         "bias": 0
       },
       {
@@ -207,15 +216,6 @@
         "pubDate": "2025-09-13T08:35:27Z",
         "source": "lexus-mystery.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMTUzMjQ5LmpwZw==/315x250%23c/GYAC59.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Trapped: Forced To Kill [Free] [Adventure] [Windows] [macOS] [Linux]",
-        "link": "https://tjs-productions.itch.io/trapped-forced-to-kill",
-        "description": "Trapped with strangers...and someone who knows your darkest secrets...",
-        "pubDate": "2025-09-13T08:24:03Z",
-        "source": "tjs-productions.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTUyNjgwLnBuZw==/315x250%23c/R6TNpY.png",
         "bias": 0
       },
       {
@@ -437,7 +437,7 @@
         "bias": -1
       },
       {
-        "title": "LIVE: 16 killed as shelters, aid seekers hit by Israeli strikes in Gaza",
+        "title": "LIVE: 23 killed as shelters, aid seekers hit by Israeli strikes in Gaza",
         "link": "https://www.aljazeera.com/news/liveblog/2025/9/13/live-school-sheltering-displaced-palestinians-hit-by-israeli-strike?traffic_source=rss",
         "description": "The Israeli offensive on Gaza City is displacing thousands of starving Palestinians.",
         "pubDate": "2025-09-13T05:42:27Z",
@@ -664,10 +664,46 @@
     ],
     "Politics": [
       {
-        "title": "The California redistricting measure cites Texas, highlighting the partisan stakes",
-        "link": "https://www.npr.org/2025/09/13/nx-s1-5527103/california-redistricting-ballot-measure-language-texas",
-        "description": "A ballot measure in California will ask voters if they OK a new congressional map. In a sign of how rare the proposal is, it specifically cites Texas Republicans' new districts in the measure's title.",
-        "pubDate": "2025-09-13T09:00:00Z",
+        "title": "Latest updates on the investigation into the assassination of Charlie Kirk",
+        "link": "https://www.npr.org/2025/09/13/nx-s1-5539550/latest-updates-on-the-investigation-into-the-assassination-of-charlie-kirk",
+        "description": "The shooting of conservative activist Charlie Kirk unsettled the nation and is now leading to speculation about the suspect's potential motives.",
+        "pubDate": "2025-09-13T11:44:09Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Missouri approves Trump-supported redistricting plan that may benefit Republicans",
+        "link": "https://www.npr.org/2025/09/13/nx-s1-5538108/missouri-approves-trump-supported-redistricting-plan-that-may-benefit-republicans",
+        "description": "Missouri passed a redistricting plan, the latest in a series of moves triggered by Trump's call on GOP-led states to redraw their congressional maps to help maintain the party's narrow House majority.",
+        "pubDate": "2025-09-13T11:44:02Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "What's next now that Trump's 'crime emergency' in D.C. has ended? Residents weigh in",
+        "link": "https://www.npr.org/2025/09/13/nx-s1-5537097/whats-next-now-that-trumps-crime-emergency-in-d-c-has-ended-residents-weigh-in",
+        "description": "President Trump's crime emergency in Washington, D.C., has ended. But both supporters and critics in D.C. say it will have lasting change.",
+        "pubDate": "2025-09-13T11:43:58Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Why reaction to Charlie Kirk's killing has many concerned about the country's future",
+        "link": "https://www.npr.org/2025/09/13/nx-s1-5538053/why-reaction-to-charlie-kirks-killing-has-many-concerned-about-the-countrys-future",
+        "description": "NPR's Scott Simon talks with political commentator Charlie Sykes about the killing of conservative activist Charlie Kirk and its effect on political discourse.",
+        "pubDate": "2025-09-13T11:43:57Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Week in Politics: Charlie Kirk's assassination; reaction; National Guard to Memphis",
+        "link": "https://www.npr.org/2025/09/13/nx-s1-5536708/week-in-politics-charlie-kirks-assassination-reaction-national-guard-to-memphis",
+        "description": "Reaction to Charlie Kirk's assassination showed how polarized American politics have become, prompting Utah's governor to call for calm and reflection.",
+        "pubDate": "2025-09-13T11:43:49Z",
         "source": "npr.org",
         "image": "",
         "bias": -1
@@ -676,6 +712,15 @@
         "title": "People are losing jobs due to social media posts about Charlie Kirk",
         "link": "https://www.npr.org/2025/09/13/nx-s1-5538476/charlie-kirk-jobs-target-social-media-critics-resign",
         "description": "",
+        "pubDate": "2025-09-13T09:00:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "The California redistricting measure cites Texas, highlighting the partisan stakes",
+        "link": "https://www.npr.org/2025/09/13/nx-s1-5527103/california-redistricting-ballot-measure-language-texas",
+        "description": "A ballot measure in California will ask voters if they OK a new congressional map. In a sign of how rare the proposal is, it specifically cites Texas Republicans' new districts in the measure's title.",
         "pubDate": "2025-09-13T09:00:00Z",
         "source": "npr.org",
         "image": "",
@@ -695,15 +740,6 @@
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNVA4aVF3VktzdmtqcWhEQlJudWJ3dV9Ed0hLXzNaZl9CQndJM0tWdjNtS0tvdmIwQ25PMW9DNWYtLWpjNjFIZHNjNEhlYXBvTERGVEcyWlN0cXgta2UydzM4b2UtXzBIY0ZTM2VFejdIRWYtelJQRVdaVkpMZ2w5Qi1zNEw4cl96N3ZBYTZuLXl2S2dqSkJISk5n?oc=5",
         "description": "",
         "pubDate": "2025-09-13T04:01:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "What to know about the killing of Charlie Kirk, the co-founder of Turning Point USA - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZDVCeTN0R2hRbVR2TmZJbmdoOTNhendvNnNfdlhhNU93SEFoZ0s2Qm5PaWNfWmRFVUtlMzR6MGNyeU9rcnBvY09rSElxWGJNYzlWdl9UTVBVczlod3U2SVFxRXY1OHVheVBlVV83R3dKYU5UWEpCVHBwZmhlV3JXMW5ROUp4NDgtTTI2NTdKVXpEWFdIOEVqamJfcjc?oc=5",
-        "description": "",
-        "pubDate": "2025-09-13T03:38:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -738,7 +774,17 @@
         "bias": 0
       }
     ],
-    "Science": [],
+    "Science": [
+      {
+        "title": "What you should know about the poisonous death cap mushroom species",
+        "link": "https://www.npr.org/2025/09/13/nx-s1-5537111/what-you-should-know-about-the-poisonous-death-cap-mushroom-species",
+        "description": "NPR's Scott Simon speaks to Prof. Anne Pringle, a mycologist at the University of Wisconsin, Madison, about the latest research on death cap mushrooms, revealing new information about the enigmatic fungus.",
+        "pubDate": "2025-09-13T11:43:53Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      }
+    ],
     "Business": [
       {
         "title": "Rising cost of school uniform is scary, says mum",
