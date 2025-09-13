@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-13T19:26:00.419866Z",
+  "lastUpdate": "2025-09-13T19:37:16.248234Z",
   "news": {
     "Gaming": [
       {
@@ -18,6 +18,15 @@
         "pubDate": "2025-09-13T18:54:49Z",
         "source": "genaydre.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMTU3NjQxLnBuZw==/315x250%23c/%2BCWXaH.png",
+        "bias": 0
+      },
+      {
+        "title": "Simple 2D universe [Free] [Simulation] [Windows]",
+        "link": "https://crendel50.itch.io/simple-2d-universe",
+        "description": "",
+        "pubDate": "2025-09-13T18:51:53Z",
+        "source": "crendel50.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTU3ODkzLnBuZw==/315x250%23c/87DVrL.png",
         "bias": 0
       },
       {
@@ -229,6 +238,15 @@
       }
     ],
     "World": [
+      {
+        "title": "Israel ramps up strikes on Gaza City and hospital says at least 32 are dead",
+        "link": "https://www.npr.org/2025/09/13/g-s1-88654/israel-gaza-hamas-hospital-32-dead",
+        "description": "The dead included 12 children, according to Shifa Hospital. Israel in recent days has destroyed multiple high-rise buildings and accused Hamas of putting surveillance equipment in them.",
+        "pubDate": "2025-09-13T19:26:44Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Taliban claim an agreement is reached with US envoys on a prisoner swap as they seek better ties - AP News",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTGZJcEhSNGU2bTMydFZVbzJZQTVTaXdzX0lMRWttbU1ucjZCQWZ6bElfLWduM2hvUGxtQjl6QkZ2WFRfU3dxTTB0UGQtaXA1bjUzRG4zVUFGMXBBTnA0RzRWWjFrNC1XaEhQZXpCQ2c5S3JYZ3VJUzR1Ul9OU1VZZkV1Vk1TMS02bHZ6NGhLV3Y2Zk42cE5F?oc=5",
@@ -669,15 +687,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "New Nato mission to bolster eastern flank after Russia drone incursion",
-        "link": "https://www.bbc.com/news/articles/c0q719qg1wko?at_medium=RSS&at_campaign=rss",
-        "description": "France, Denmark and Germany will send jets to Poland after Russian drones flew into its airspace.",
-        "pubDate": "2025-09-13T07:10:14Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e759/live/2d898a10-904f-11f0-9cf6-cbf3e73ce2b9.jpg",
-        "bias": 0
       }
     ],
     "Politics": [
