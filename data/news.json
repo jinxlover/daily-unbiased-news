@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-14T16:56:23.634913Z",
+  "lastUpdate": "2025-09-14T17:15:01.056030Z",
   "news": {
     "Gaming": [
       {
@@ -18,6 +18,15 @@
         "pubDate": "2025-09-14T15:57:45Z",
         "source": "yewbo.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMTY3OTUzLnBuZw==/315x250%23c/f%2FFOut.png",
+        "bias": 0
+      },
+      {
+        "title": "Ping Pong [Free] [Action]",
+        "link": "https://alreemm.itch.io/ping-pong",
+        "description": "",
+        "pubDate": "2025-09-14T15:51:10Z",
+        "source": "alreemm.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTY4MjU1LmpwZw==/315x250%23c/TruK6J.jpg",
         "bias": 0
       },
       {
@@ -138,24 +147,6 @@
         "bias": 0
       },
       {
-        "title": "PyroTiles [Free] [Puzzle] [Windows]",
-        "link": "https://larrybtoys.itch.io/pyrotiles",
-        "description": "Great addicting fun for ALL ages!",
-        "pubDate": "2025-09-14T14:57:14Z",
-        "source": "larrybtoys.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTY3MTM0LmpwZw==/315x250%23c/U4uFLX.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Invincible: The Invincible War [Free] [Fighting] [Windows]",
-        "link": "https://wowthatsprettycool.itch.io/invincible-the-invincible-war",
-        "description": "Battle in a free for all fight to the DEATH!!!",
-        "pubDate": "2025-09-14T14:53:53Z",
-        "source": "wowthatsprettycool.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTY3ODAxLnBuZw==/315x250%23c/5oZVqC.png",
-        "bias": 0
-      },
-      {
         "title": "The Gladiatus [Free] [Action]",
         "link": "https://yolostime.itch.io/the-gladiatus",
         "description": "",
@@ -220,6 +211,15 @@
       }
     ],
     "World": [
+      {
+        "title": "Final stage of Vuelta abandoned because of protests",
+        "link": "https://www.bbc.com/sport/cycling/articles/crl5dele2wro?at_medium=RSS&at_campaign=rss",
+        "description": "The final stage of the Vuelta a Espana is abandoned after pro-Palestinian protesters enter the course in the centre of Madrid.",
+        "pubDate": "2025-09-14T17:10:06Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eeeb/live/97c78650-918c-11f0-9f13-01e9f580d459.jpg",
+        "bias": 0
+      },
       {
         "title": "Final stage of Spanish Vuelta cycling race interrupted by pro-Palestinian protesters - AP News",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUh1V1gxRnFFbG1LNkRzSElfd29VOG9wZkg3NXRPdTF1SWhyYVBabHpjSWxHSzE4NTJJMmlFMUNMdmZjOGVkZjFHLWpKZXlleEFTLTRRS3dHT1hNS2JkWG5Oa3ItWlA4cmRsNWlZOEpWLTAyZmRRWDZ2UlZMeDZVQ3BFNjZhYTdVYmxCX0UzNXBZUXY2V0o2aUtR?oc=5",
@@ -660,15 +660,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Israel intensifies Gaza strikes, issues threat to residents to move south",
-        "link": "https://www.aljazeera.com/gallery/2025/9/14/israel-intensifies-gaza-strikes-issues-threat-to-residents-to-move-south?traffic_source=rss",
-        "description": "Thousands remain in Gaza City, citing overcrowded shelters and unsafe conditions in the south.",
-        "pubDate": "2025-09-14T08:14:25Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
@@ -765,7 +756,8 @@
         "bias": 0
       }
     ],
-    "Science": [
+    "Science": [],
+    "Business": [
       {
         "title": "Gio Lopez accounts for 3 TDs as North Carolina dominates Richmond for Belichick's first home win - AP News",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN1FQTU1oT3R1UGJfRnEyT0dQN2pPaFlZT016SVRWTUNQZVhyc21Ta013QzBNakYwdVdyUUFReDgtdWRLODk5UzJsYzMyN2pnYTRLQTJjZm1vMU84OGd4eVRzRU1RRUlsVy1DZTF5VGhSYko5QkdQZ0FER0xQajhqSWVZM0UxbVU3U1hBbnBuY0I2ejZQXzdtLUdHS0tzZEU?oc=5",
@@ -776,7 +768,6 @@
         "bias": 0
       }
     ],
-    "Business": [],
     "Culture": [
       {
         "title": "Studio chief recalls Bohemian Rhapsody recording 50 years on",
