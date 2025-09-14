@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-14T09:55:28.527772Z",
+  "lastUpdate": "2025-09-14T10:16:42.904033Z",
   "news": {
     "Gaming": [
       {
@@ -9,6 +9,15 @@
         "pubDate": "2025-09-14T09:43:32Z",
         "source": "potato-tw.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMTYzNTYxLnBuZw==/315x250%23c/n5nVPq.png",
+        "bias": 0
+      },
+      {
+        "title": "Platformaz [Free] [Platformer] [Windows] [macOS] [Linux]",
+        "link": "https://gteam-games.itch.io/platformaz",
+        "description": "A broken platformer game",
+        "pubDate": "2025-09-14T09:29:53Z",
+        "source": "gteam-games.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTYzNTg4LnBuZw==/315x250%23c/u2V%2B9A.png",
         "bias": 0
       },
       {
@@ -72,6 +81,15 @@
         "pubDate": "2025-09-14T08:33:48Z",
         "source": "mr-clown-the-cooker.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMTYzMTcwLmpwZw==/315x250%23c/kgtanK.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Space10 [Free] [Adventure]",
+        "link": "https://copycath.itch.io/space10",
+        "description": "you think you are alone in space and want to escape solitude",
+        "pubDate": "2025-09-14T08:29:54Z",
+        "source": "copycath.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTYyODc2LnBuZw==/315x250%23c/MwbbZ1.png",
         "bias": 0
       },
       {
@@ -208,18 +226,63 @@
         "source": "natsusaka-calice.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMTYyMTM0LnBuZw==/315x250%23c/Gq54rZ.png",
         "bias": 0
-      },
-      {
-        "title": "Heart Eater [Free] [Adventure]",
-        "link": "https://efalke.itch.io/heart-eater",
-        "description": "",
-        "pubDate": "2025-09-14T04:47:50Z",
-        "source": "efalke.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTYxMjkwLnBuZw==/315x250%23c/2C4xgu.png",
-        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Pot breaks as Nigerian chef attempts largest pot of jollof rice",
+        "link": "https://www.bbc.com/news/articles/c306m1j542po?at_medium=RSS&at_campaign=rss",
+        "description": "Hilda Baci and a team of assistants took several hours to complete the popular West African dish.",
+        "pubDate": "2025-09-14T10:15:42Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a76/live/d81f4730-904f-11f0-9cf6-cbf3e73ce2b9.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Netanyahu is only obstacle to bringing hostages home, families say",
+        "link": "https://www.bbc.com/news/articles/c1dqrg32zd9o?at_medium=RSS&at_campaign=rss",
+        "description": "Israel's strike on Qatar shows that \"every time a deal approaches, Netanyahu sabotages it\", the group says.",
+        "pubDate": "2025-09-14T10:14:33Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e95c/live/95d13a90-914a-11f0-b391-6936825093bd.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Rubio arrives in Israel as Israeli strikes intensify in northern Gaza",
+        "link": "https://www.npr.org/2025/09/14/nx-s1-5541260/rubio-israel-gaza-qatar-strike",
+        "description": "U.S. Secretary of State Marco Rubio arrived in Israel on Sunday, as Israel intensified its attacks against northern Gaza.",
+        "pubDate": "2025-09-14T10:05:14Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Israeli army carries out its latest ground incursion in southern Syria",
+        "link": "https://www.aljazeera.com/news/2025/9/14/israeli-army-carries-out-its-latest-ground-incursion-in-southern-syria?traffic_source=rss",
+        "description": "Israel has repeatedly entered Syria since the fall of al-Assad and has carried out air raids across the country.",
+        "pubDate": "2025-09-14T10:02:53Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Palestinians flee Israeli bombing of Gaza City to ‘unknown’ in al-Mawasi",
+        "link": "https://www.aljazeera.com/news/2025/9/14/palestinians-flee-israeli-bombing-of-gaza-city-to-unknown-in-al-mawasi?traffic_source=rss",
+        "description": "As Israel displaces thousands from the north of the enclave, concerns are growing about conditions in the south.",
+        "pubDate": "2025-09-14T09:40:11Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "LIVE: India vs Pakistan – Asia Cup 2025",
+        "link": "https://www.aljazeera.com/sports/liveblog/2025/9/14/live-india-vs-pakistan-asia-cup-2025-score-updates-commentary-stream-dubai?traffic_source=rss",
+        "description": "Follow our live build-up, on-ground updates, score, text and photo commentary stream from the cricket match in Dubai.",
+        "pubDate": "2025-09-14T09:32:08Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "China’s military warns Philippines against provocations in South China Sea",
         "link": "https://www.aljazeera.com/news/2025/9/14/chinas-military-warns-philippines-against-provocations-in-south-china-sea?traffic_source=rss",
@@ -237,15 +300,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Pot breaks as Nigerian chef attempts largest pot of jollof rice",
-        "link": "https://www.bbc.com/news/articles/c306m1j542po?at_medium=RSS&at_campaign=rss",
-        "description": "Hilda Baci and a team of assistants took several hours to complete the popular West African dish.",
-        "pubDate": "2025-09-14T09:01:06Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a76/live/d81f4730-904f-11f0-9cf6-cbf3e73ce2b9.jpg",
-        "bias": 0
       },
       {
         "title": "Nepal's interim PM to hand over power within six months",
@@ -297,6 +351,15 @@
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVE9IMWtJbEphdnB3RTFZTldJZTl1V0pqNXhfbHNkTDA0WkQ3Z2pEaWhuNFVYUG9ILXE5S3QtWGp5X0ZvaElwYkdzZWRHOGZkcVNTY2lrM2pEdDYzRTJQalV6OENVdVlpQ29kcVVWOFJGR2tJU2M5VHVDdXFCTS1fUmlyTzlSNG1hLTR0bXRSN19laVozQWJOUw?oc=5",
         "description": "",
         "pubDate": "2025-09-14T07:58:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Denver school shooting suspect posted online about mass shootings and neo-Nazi views, report says - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc2JqR09tUGREMmI2VXJIS2JlMHB2bk84UVYwSTN6UGxxMlJiR2M1cWtsSUE1TnFoUExOZ0NZVnc3cDdKVDFBbG54UUgzd3I3dldBcEg4OTBzQl9KZE5ORENSMkEtYjVJN2hsVDk2d2F6ZmZVck1LNDdMNGo0SURJd1JPcjZVdW5LUEtaTDE0UDRUVXc?oc=5",
+        "description": "",
+        "pubDate": "2025-09-14T07:39:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -473,30 +536,12 @@
         "bias": 0
       },
       {
-        "title": "Gio Lopez accounts for 3 TDs as North Carolina dominates Richmond for Belichick's first home win - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN1FQTU1oT3R1UGJfRnEyT0dQN2pPaFlZT016SVRWTUNQZVhyc21Ta013QzBNakYwdVdyUUFReDgtdWRLODk5UzJsYzMyN2pnYTRLQTJjZm1vMU84OGd4eVRzRU1RRUlsVy1DZTF5VGhSYko5QkdQZ0FER0xQajhqSWVZM0UxbVU3U1hBbnBuY0I2ejZQXzdtLUdHS0tzZEU?oc=5",
-        "description": "",
-        "pubDate": "2025-09-14T02:49:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "They witnessed Charlie Kirk’s assassination. Now students reckon with the trauma - AP News",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMzNDZTVuMjQxYTZ5TDJkR1VBZ2VzTnVyVEtxY2daQ2Q0anZMYXlFM1hjM1FEWHczUWxKVEs3SHk4Xy0wUWRqZjlESlNzYXdJdXVxQTFndzhhbGZmUF9DWUZFaDlaRHo0NlBnbkJMT1FLa2tHRWVGWEhBYU1aSE95N1dIM3FKUkIxWGEyenR3VjYySDY2RmotSjMxaS16cWtFdEdVN0FLLW9HVmkxNkE?oc=5",
         "description": "",
         "pubDate": "2025-09-14T02:28:00Z",
         "source": "news.google.com",
         "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Netanyahu is only obstacle to bringing hostages home, families say",
-        "link": "https://www.bbc.com/news/articles/c1dqrg32zd9o?at_medium=RSS&at_campaign=rss",
-        "description": "Israel's strike on Qatar shows that \"every time a deal approaches, Netanyahu sabotages it\", the group says.",
-        "pubDate": "2025-09-14T02:12:29Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e95c/live/95d13a90-914a-11f0-b391-6936825093bd.jpg",
         "bias": 0
       },
       {
@@ -565,12 +610,30 @@
     ],
     "Politics": [
       {
+        "title": "After Missouri, what state is next? A redistricting race started by Trump continues",
+        "link": "https://www.npr.org/2025/09/14/nx-s1-5538407/after-missouri-what-state-is-next-a-redistricting-race-started-by-trump-continues",
+        "description": "First Trump got Texas to redistrict to help Republicans win five House seats there",
+        "pubDate": "2025-09-14T10:00:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Trump's coming to Britain. Let the royal schmooze-fest begin",
         "link": "https://www.bbc.com/news/articles/cq5jgdvnll4o?at_medium=RSS&at_campaign=rss",
         "description": "If anyone can get the president's attention, King Charles and the Royal Family must be close to the top of the list.",
         "pubDate": "2025-09-14T05:00:11Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efb1/live/e69250c0-8fd5-11f0-b391-6936825093bd.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Gio Lopez accounts for 3 TDs as North Carolina dominates Richmond for Belichick's first home win - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN1FQTU1oT3R1UGJfRnEyT0dQN2pPaFlZT016SVRWTUNQZVhyc21Ta013QzBNakYwdVdyUUFReDgtdWRLODk5UzJsYzMyN2pnYTRLQTJjZm1vMU84OGd4eVRzRU1RRUlsVy1DZTF5VGhSYko5QkdQZ0FER0xQajhqSWVZM0UxbVU3U1hBbnBuY0I2ejZQXzdtLUdHS0tzZEU?oc=5",
+        "description": "",
+        "pubDate": "2025-09-14T02:49:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
