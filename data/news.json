@@ -1,11 +1,20 @@
 {
-  "lastUpdate": "2025-09-15T10:42:39.083747Z",
+  "lastUpdate": "2025-09-15T10:55:50.404247Z",
   "news": {
     "Gaming": [
       {
-        "title": "Trick 'n' Treat [Free] [Other]",
+        "title": "2d Platformer [Free] [Platformer]",
+        "link": "https://gustabo33.itch.io/2d-platformer",
+        "description": "A simple 2d platformer godot test",
+        "pubDate": "2025-09-15T10:32:00Z",
+        "source": "gustabo33.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTc4Mzg1LnBuZw==/315x250%23c/bmC4lg.png",
+        "bias": 0
+      },
+      {
+        "title": "Trick 'n' Treat [Free] [Other] [Windows]",
         "link": "https://minimalcat.itch.io/trick-n-treat",
-        "description": "",
+        "description": "Cozy Horror",
         "pubDate": "2025-09-15T10:20:53Z",
         "source": "minimalcat.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMTY0ODE5LnBuZw==/315x250%23c/dScV0h.png",
@@ -210,15 +219,6 @@
         "bias": 0
       },
       {
-        "title": "Milk Run [Free] [Other] [Windows]",
-        "link": "https://neuro-o.itch.io/milk",
-        "description": "Working the nightshift at the grocery store and you have sudden craving for milk! Also, there's ghosts...",
-        "pubDate": "2025-09-15T06:33:29Z",
-        "source": "neuro-o.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTc2ODcxLnBuZw==/315x250%23c/v0kwVa.png",
-        "bias": 0
-      },
-      {
         "title": "[Demo] Paid By Blood [Free] [Visual Novel] [Windows]",
         "link": "https://211191.itch.io/demopaid-by-blood",
         "description": "",
@@ -365,15 +365,6 @@
         "bias": -1
       },
       {
-        "title": "Chaotic scenes in Madrid as pro-Palestinian protesters disrupt final stage of Vuelta cycling race - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUk1UQWdNbjJ4YnFjNnpEOVRNTXZGaHdHWThEWjBadHRnalZVaWNDQ29vRjdOaGN6MU1wZVBXVjRaWXFJVW1URUNhOWJ5c1doelB3bnlmYTFHQnphNE01R0JfM0Y2RmFieEpETnNKUEs4c2tTcWZaUGl0T1VUNzhCZjgzOUYxY19yMl95TWJJMlk5ck1GQ0pabkJR?oc=5",
-        "description": "",
-        "pubDate": "2025-09-15T09:13:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Germany’s ruling CDU wins local elections in key state, as AfD surges",
         "link": "https://www.aljazeera.com/news/2025/9/15/merzs-cdu-wins-election-in-key-german-state-as-support-for-afd-surges?traffic_source=rss",
         "description": "Nationalist party nearly triples share of vote in western state of North Rhine-Westphalia, preliminary results show.",
@@ -489,6 +480,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Japan and South Korea show enduring rift over sexual slavery issue in letters to UN - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZkhXVVBQMVR2RU9KSTlvOHB0SjRwZ21ZQjdFV1lZSUZPaHVvY2hNdmtaQnREQi1RTmFaTm1rRWxyM3d6b2pUUG0xYWFHSUlJeUR2VDhaVWxncld1VzFCMFFRY0pNaHdUbVJWUTlhcWRWLU5lVHdMd3NQQVRRcXltcU1rM0pQOGl6bGRDNmZqUmFXeUxoTW9paDJCVmdrWjhTUVNld2FObTcwZlZJ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-15T07:47:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Qatar hosting summit over the Israeli attack on Hamas in Doha, seeking to restrain such assaults - AP News",
@@ -718,30 +718,12 @@
         "bias": 0
       },
       {
-        "title": "British politicians condemn Elon Musk’s comments at anti-migrant rally - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdFNzV1YzSVdLQmFyTDNGcnNER2hDZll0eVp0bHlLZDJtWVBUbWtKR2pTeHNtZHBJbzJBSXA3bUpNZEJGMzk1X2liUDV0c01TcVl6bGFYaFVfeFRERHZDcXQwb0ktaWRUVHdoZzVyVklZNDFDYXdkdXk4cmFabjI2Ul9zajhtQ3ZILUhjV1hFdjhyTHlyV2d5c19n?oc=5",
-        "description": "",
-        "pubDate": "2025-09-15T09:52:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Starmer facing leadership questions after Mandelson sacking",
         "link": "https://www.bbc.com/news/articles/ce32qepq12qo?at_medium=RSS&at_campaign=rss",
         "description": "Some Labour MPs have become more vocal in their criticism of the prime minister after the departures of Angela Rayner and Peter Mandelson.",
         "pubDate": "2025-09-15T09:51:12Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7d2/live/de6d3750-91d0-11f0-b391-6936825093bd.jpg",
-        "bias": 0
-      },
-      {
-        "title": "The Fed faces economic uncertainty and political pressure as it decides whether to cut rates - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbERiOG42WWZkYlJndnF0ZzRtckU0X1JjMmhwaXFZV3Y0ZlJocWIxTllIZ2dPdXc0dmFIWk5mTjRYYVBPYW5zQmlWQjFBUU1ua3Z0TVY1TnhoLUJNQ21oelZMc2Y2cS1lbzJaYllXN3h5VEZYYmtmR1FqRFZfSUJwM19lcDhacG4xSXJNQVJnczBxYTlrTVZOVFZnRzY2SENtd09xakdDWVVZM3J2M1E?oc=5",
-        "description": "",
-        "pubDate": "2025-09-15T09:34:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
