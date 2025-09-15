@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-15T11:28:28.185164Z",
+  "lastUpdate": "2025-09-15T11:40:22.410659Z",
   "news": {
     "Gaming": [
       {
@@ -18,6 +18,15 @@
         "pubDate": "2025-09-15T11:13:25Z",
         "source": "altila.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMTc4NTg4LmdpZg==/315x250%23c/GtQnxi.gif",
+        "bias": 0
+      },
+      {
+        "title": "The Hidden Fortress [Free] [Strategy] [Windows]",
+        "link": "https://backslape.itch.io/the-hidden-fortress",
+        "description": "A 2D Tower Defense",
+        "pubDate": "2025-09-15T11:04:54Z",
+        "source": "backslape.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTc4NTMzLnBuZw==/315x250%23c/Vnsndi.png",
         "bias": 0
       },
       {
@@ -129,15 +138,6 @@
         "bias": 0
       },
       {
-        "title": "Lyin' Jack [Free] [Card Game]",
-        "link": "https://mcalmic.itch.io/lyin-jack",
-        "description": "Blackjack for your soul!",
-        "pubDate": "2025-09-15T09:08:57Z",
-        "source": "mcalmic.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTc4MDEyLnBuZw==/315x250%23c/cQShf7.png",
-        "bias": 0
-      },
-      {
         "title": "Expérience Slim 1383 et l'Assistant Masqué [Free] [Visual Novel] [Windows] [macOS] [Linux]",
         "link": "https://amigaux-cllb.itch.io/exprience-slim-1383-et-lassistant-masqu",
         "description": "Game Jam NUIE 2025 (hors concours)",
@@ -153,15 +153,6 @@
         "pubDate": "2025-09-15T09:00:44Z",
         "source": "moguratataki.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMTc3MzIwLnBuZw==/315x250%23c/uUvZmd.png",
-        "bias": 0
-      },
-      {
-        "title": "Wield A Sword! [Free] [Simulation]",
-        "link": "https://some-on-e.itch.io/wield-a-sword",
-        "description": "They think YOU_ARE_STUPID. Give up.",
-        "pubDate": "2025-09-15T08:47:01Z",
-        "source": "some-on-e.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTc3MjQ2LnBuZw==/315x250%23c/vdKPMM.png",
         "bias": 0
       },
       {
@@ -689,16 +680,25 @@
         "bias": 0
       },
       {
-        "title": "The top photos of the day by AP’s photojournalists - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdWcxN0N5bHFlQTRqbV9qbzlfUWRKZ2NSaXFOZHQta2dveTdJTXVLd0ctSGdQOTlVVE1mVmF3RXc4WVd0WExobjN5bjhoeTJIN1h1dDZFa25Hbjd1LWE2T0RnVk1Na1pETEZEZ2JZbHRlQTh4Rm8xMjVyNFd3TDhQUVMwbnVqQUFzalJUV3JwV2JmcEd6bFdFeFQ3TGR6LU5DZjlwTGZfNU16aGg0ZXJUNw?oc=5",
+        "title": "Australia and Papua New Guinea to sign defense pact as China’s influence grows - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdWF1Rmpxa3c5WGxBLXJoNjI4YlRWZG10U2RaM3Vra2syTDdPQjh5ZDdzeERDaUI1RzdkZXo5X1MwbGx3NXRnY2dpOG5Hc3JNVUtwSnRLT0tuaEVYa2RWOXY5ajhxWWtJdktuUHg0WGJpXzhYeWJaUkhHVDFtYThKcy1pQlE1T3l4WlRPSTJxM1VaVlMyUDB1Si1ZdUxZa1ZCeXc?oc=5",
         "description": "",
-        "pubDate": "2025-09-15T05:22:00Z",
+        "pubDate": "2025-09-15T05:28:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Tory MP and shadow minister Danny Kruger defects to Reform",
+        "link": "https://www.bbc.com/news/articles/ce802dmgnyro?at_medium=RSS&at_campaign=rss",
+        "description": "The East Wiltshire MP said the Conservatives were no longer the main party of opposition.",
+        "pubDate": "2025-09-15T11:30:39Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/287e/live/7aa0fe80-9222-11f0-9cf6-cbf3e73ce2b9.jpg",
+        "bias": 0
+      },
       {
         "title": "UK and US unveil nuclear energy deal ahead of Trump visit",
         "link": "https://www.bbc.com/news/articles/ckgzevzwxwro?at_medium=RSS&at_campaign=rss",
@@ -709,30 +709,12 @@
         "bias": 0
       },
       {
-        "title": "Conservative MP Danny Kruger defects to Reform UK",
-        "link": "https://www.bbc.com/news/articles/ce802dmgnyro?at_medium=RSS&at_campaign=rss",
-        "description": "The East Wiltshire MP said the Conservatives were no longer the main party of opposition.",
-        "pubDate": "2025-09-15T10:59:39Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/287e/live/7aa0fe80-9222-11f0-9cf6-cbf3e73ce2b9.jpg",
-        "bias": 0
-      },
-      {
         "title": "Starmer facing leadership questions after Mandelson sacking",
         "link": "https://www.bbc.com/news/articles/ce32qepq12qo?at_medium=RSS&at_campaign=rss",
         "description": "Some Labour MPs have become more vocal in their criticism of the prime minister after the departures of Angela Rayner and Peter Mandelson.",
         "pubDate": "2025-09-15T09:51:12Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7d2/live/de6d3750-91d0-11f0-b391-6936825093bd.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Nepal's PM appoints 3 new ministers as interim government prepares to hold fresh elections in March - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNGY3bjdUblQ0VnRRUzZCT21jc3dWMlZETmZFRzdtc2FSekhvdjVBU3BLR3BNajVaLVRjYkMzaUZkMmNLdUpNUHRId3U5VEFrWXM0SWNZSVpzMjJDV3o4cFN3RHg4OWs3ZURORkkyNTdMUWM2dUFDWHZaMEtuSjJHRXREb2pGa1hJRjhvc1JVMUxlR3BOZUJpOUFkZVVucEVETFE?oc=5",
-        "description": "",
-        "pubDate": "2025-09-15T09:02:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -824,21 +806,21 @@
     ],
     "Culture": [
       {
+        "title": "Manchester to host 30th Mobo Awards in 2026",
+        "link": "https://www.bbc.com/news/articles/cd63j6zw7wqo?at_medium=RSS&at_campaign=rss",
+        "description": "The awards - which celebrate black music, culture and excellence - will be held at Co-Op Live Arena.",
+        "pubDate": "2025-09-15T11:38:50Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32bb/live/e434efb0-920d-11f0-9cf6-cbf3e73ce2b9.jpg",
+        "bias": 0
+      },
+      {
         "title": "'I'm just a mixed-race kid from flats in Kirkby'",
         "link": "https://www.bbc.com/news/articles/cx2rjgdwweyo?at_medium=RSS&at_campaign=rss",
         "description": "Stephen Graham is emotional as he accepts an Emmy award for his role in the hit series Adolescence.",
         "pubDate": "2025-09-15T10:44:43Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f76/live/4e797e50-921c-11f0-9626-27d4fe3cc3f8.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Manchester to host 30th Mobo Awards in 2026",
-        "link": "https://www.bbc.com/news/articles/cd63j6zw7wqo?at_medium=RSS&at_campaign=rss",
-        "description": "The awards - which celebrate black music, culture and excellence - will be held at Co-Op Live Arena.",
-        "pubDate": "2025-09-15T09:00:53Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32bb/live/e434efb0-920d-11f0-9cf6-cbf3e73ce2b9.jpg",
         "bias": 0
       },
       {
