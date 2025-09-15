@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-09-15T23:21:39.780980Z",
+  "lastUpdate": "2025-09-15T23:37:10.610292Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Godot Mirror Ball [Free] [Action] [Windows] [macOS] [Linux]",
+        "link": "https://f1dg3t.itch.io/godot-mirror-ball",
+        "description": "Real Time Reflection Test made in Godot 4.5",
+        "pubDate": "2025-09-15T23:18:07Z",
+        "source": "f1dg3t.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTg2NzYxLnBuZw==/315x250%23c/qJr4wp.png",
+        "bias": 0
+      },
       {
         "title": "AdamEvangelista - IT201-021 - Quiz1 [Free]",
         "link": "https://adamevangelista.itch.io/adamevangelista-it201-quiz1",
@@ -59,7 +68,7 @@
       {
         "title": "Atlas Mind [Free] [Interactive Fiction]",
         "link": "https://fabiano-silva-barbafire.itch.io/atlas-mind",
-        "description": "An escape room. A game concept, abstract.",
+        "description": "Final Game Design Project. An escape room,  game concept, abstract.",
         "pubDate": "2025-09-15T22:26:34Z",
         "source": "fabiano-silva-barbafire.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMTg2NDYxLnBuZw==/315x250%23c/RplIS6.png",
@@ -72,33 +81,6 @@
         "pubDate": "2025-09-15T22:11:40Z",
         "source": "vpinto.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMTg2MzI3LnBuZw==/315x250%23c/fH4Iy5.png",
-        "bias": 0
-      },
-      {
-        "title": "Hollow Knight Silksong Android (playmods.com) [Free] [Android]",
-        "link": "https://duv2dgu2db2u.itch.io/hollow-knight-silksong-android-playmodscom",
-        "description": "",
-        "pubDate": "2025-09-15T22:00:03Z",
-        "source": "duv2dgu2db2u.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTg2MDUwLmpwZWc=/315x250%23c/CF6ccs.jpeg",
-        "bias": 0
-      },
-      {
-        "title": "Guardianes de la Biodiversidad [Free] [Adventure]",
-        "link": "https://robinyan.itch.io/guardianes-de-la-biodiversidad",
-        "description": "Un juego educativo",
-        "pubDate": "2025-09-15T21:59:38Z",
-        "source": "robinyan.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTg2MDQ4LnBuZw==/315x250%23c/vaAivE.png",
-        "bias": 0
-      },
-      {
-        "title": "Unspoken Blood Crystal [Free] [Shooter]",
-        "link": "https://jdanielx.itch.io/unspoken-blood-crystal",
-        "description": "",
-        "pubDate": "2025-09-15T21:52:25Z",
-        "source": "jdanielx.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTg2MDY2LnBuZw==/315x250%23c/wbCKap.png",
         "bias": 0
       },
       {
@@ -239,10 +221,37 @@
     ],
     "World": [
       {
+        "title": "Netanyahu does not rule out further strikes on Hamas leaders abroad",
+        "link": "https://www.bbc.com/news/articles/czxw4xkxg51o?at_medium=RSS&at_campaign=rss",
+        "description": "At a joint press conference with US Secretary of State Marco Rubio, Netanyahu said every country had the right \"to defend itself beyond its borders\".",
+        "pubDate": "2025-09-15T23:26:52Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5f6/live/46f38540-920d-11f0-85c7-5bdf6c05d36f.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Live updates: Trump says US again struck a boat allegedly carrying drugs from Venezuela - AP News",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ieGI2dFJmdFd3QzN3ZW05UUtwaUlPaEFveDlVem5mSS1NWnNJbC1ncTYwbklTN3UtckYyRVFMTDB2WW4zN0d0bzFoOEZMLTViLU1sNFhMR2xKekRaOEFabk9zOVNuaGI3V0FB?oc=5",
+        "description": "",
+        "pubDate": "2025-09-15T23:15:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "US and China reach a framework deal for the ownership of TikTok - AP News",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaWJBamFBWTExcW5wZlVZWTloQl9iVVVGdmFxN1dDcmFNaEloTWhhTkRieERWWmEzRVpWTjNNZmNCbC0yYVAtZnp6NUp6YnNtU0MyQUhZckxhR0FGQ1FndG9CVEZyNURmYnd3Ym5CZVo5U1ptcklfVWNhQXhhWEpXUG5kS2U?oc=5",
         "description": "",
         "pubDate": "2025-09-15T23:14:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Fingerprint on rifle scope matches man accused of trying to assassinate Trump, FBI analyst testifies - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSk9YX1lqRGRVWUpwN04wUF9QVkh5SHZQVlVvTS1sNTJGck8tWnFxdXdwaWVBNkVIU0ZzOWxNVjAySWkwMC1vVlpvb1B2VEV4MFNUc3JrRHNUajgteWp3NktjOC1mOXloUHIxOXo1dXJUZ2VQNWpTZy05UEZmVkZuZFAxY2FTT3VKRVAyLXA3LVJoX05rWDR5T21FeXBiLU1jcEhqTk5mUFVJZw?oc=5",
+        "description": "",
+        "pubDate": "2025-09-15T22:35:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -410,15 +419,6 @@
         "bias": 0
       },
       {
-        "title": "Judge rules Trump administration illegally fired thousands of probationary workers - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZnNwV0pJd3ZCNzF4XzZiR3dsQTYxUVM1TWV2dnBRaE5tQkNWaXo3RXB4OGVwTHhtWVJyRmFjTmpxcVNSbi1HdTEwLUY0UV85S3hOa3k4YnVuMXM0U3hNMzlhakRNVmNicWJEcTQxQkdFUzZzVjNuMERHc1BjNm8wNWRjRkRXR19wNXNoSndNbDg4Sms5UWZSbzhR?oc=5",
-        "description": "",
-        "pubDate": "2025-09-15T19:58:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Researchers solve decades-old color mystery in iconic Jackson Pollock painting - AP News",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWFF6ZHNnalBCZEVlU2hadEd1RVZSWUg4TFMyUm9NMHFMV0RsNDJmRm0xX1Z5UG1ieFJYczVLT2NaVjU4Q084TDhlV0RGWjBUVVhaV0YtU2h6Wk9SSDE3LWlFNTFYcGNHZ2t4WWI1RS1fZmwxUTVUSjFDOWVFUUxOZlRuSnNEVWRGdFNreEZUaV9nZTlZT1dBNzlGSVNZSjBsMHhmb1pBRQ?oc=5",
         "description": "",
@@ -581,15 +581,6 @@
         "bias": 0
       },
       {
-        "title": "Wisconsin Democrat Kelda Roys launches run for governor against ‘extremists’ - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN1l3LVlsWXRXNkltanFkZndnZGxsQTB6Q2tIbjQ3V0ItSEhFM1BoSE5PaEJQRDJsUjRiTDl1U3NRbW9MNjUxcm96ZFM2aEZYcVdGbFhiQ0xxdVNwMmNQZ25XcUpDeUVTR2M3NTdsazdsZjR1U3BrOEloY3M1dERSRS1ZemtnZTZjUzdTU3JRYUtodk5TM3RzTXhFOUlYb2s?oc=5",
-        "description": "",
-        "pubDate": "2025-09-15T16:58:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Scottie Scheffler warms up for Ryder Cup by winning for the 6th time this year - AP News",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMEFzQ3k2OXUwYTFSclpCOHk1TVJfa0w1cFZnTWs5cXJxOXdMMm1NNlVadGpmTDdfZUZNUGwzWF9wa0h5anZHZ3YxZHI0MjF2UTdiSms3WlpIRVpQSEhHMEppUl9Ea29feVVZMk1ITG5Vam1weW9oby1lOWRqVlVsZ1ZKby1BWW9vTEYwNkQ0amFLMWQycVJpQ0NiaFNFbVRQU1liNXpTaTBoLWFfUTBQdEdPRWlaNmc?oc=5",
         "description": "",
@@ -678,27 +669,9 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Emmy Awards highlights: Tramell Tillman, Colbert wins and a teen who stepped out of his comfort zone - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNnZOUHZvMHRhd29JbENUNHA5NHdJRW1ZTVRrRG5KeE1EWnVEQnV0ZVh1OGNLdm03eU4zNERwTzZrVTlpYlppemtwNjhlRWRCdHJVQmdqVC1YMEVJWW5ReXBjZHhiSXZVc3JZV3ZmejA4T3dreWVKWDd6aUdHQlZXc1hheGZ1bU45bHpGZ3RpRU5oYk0xcldSQXFLZ3FwRktU?oc=5",
-        "description": "",
-        "pubDate": "2025-09-15T15:43:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
-      {
-        "title": "Live updates: Trump says US again struck a boat allegedly carrying drugs from Venezuela - AP News",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ieGI2dFJmdFd3QzN3ZW05UUtwaUlPaEFveDlVem5mSS1NWnNJbC1ncTYwbklTN3UtckYyRVFMTDB2WW4zN0d0bzFoOEZMLTViLU1sNFhMR2xKekRaOEFabk9zOVNuaGI3V0FB?oc=5",
-        "description": "",
-        "pubDate": "2025-09-15T23:15:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
       {
         "title": "Why Trump's state visit is mired with potential pitfalls despite careful planning",
         "link": "https://www.bbc.com/news/articles/c4gw25w9841o?at_medium=RSS&at_campaign=rss",
@@ -844,6 +817,15 @@
         "bias": 0
       },
       {
+        "title": "Wisconsin Democrat Kelda Roys launches run for governor against ‘extremists’ - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN1l3LVlsWXRXNkltanFkZndnZGxsQTB6Q2tIbjQ3V0ItSEhFM1BoSE5PaEJQRDJsUjRiTDl1U3NRbW9MNjUxcm96ZFM2aEZYcVdGbFhiQ0xxdVNwMmNQZ25XcUpDeUVTR2M3NTdsazdsZjR1U3BrOEloY3M1dERSRS1ZemtnZTZjUzdTU3JRYUtodk5TM3RzTXhFOUlYb2s?oc=5",
+        "description": "",
+        "pubDate": "2025-09-15T16:58:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Tory MP and shadow minister Danny Kruger defects to Reform",
         "link": "https://www.bbc.com/news/articles/ce802dmgnyro?at_medium=RSS&at_campaign=rss",
         "description": "The East Wiltshire MP said the Conservatives were no longer the main party of opposition.",
@@ -907,10 +889,28 @@
         "bias": -1
       },
       {
+        "title": "J.J. McCarthy’s rough home debut: What went wrong for the Vikings? - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVExSaG5QWnpSdlpidWliUkZEWlBreFlQV0RORkNYcDZORDV5Z2d3dmFhUmlfRmFJQ3RPQnN5b3h6aTlQSDJUUDVzRGpDNHE3Mkx3QmpyQWhIQ1V5bl9tc0VuamtIZWdyejhleVVBZF9PUFNIMy1DY1YwNU5Ya21ObkRfODd0eEtacmFLeHp3WQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-15T05:12:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "What to Stream: Cardi B, a movie about Bumble, ‘Morning Show’ and a look at Lilith Fair - AP News",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMmlyRkJaUzNWR2tpSjByWURpSWw5VHA1a01wbFlYRzBlR2RUUmZQUmxaZlJzMGhaSDhxMDVsc29YcXVnSTlEXy1YbDVRclNUekpKRE90eEpGM0tvYWkyZl9ZU24wV194WE5WWEtIeThYOHNUcTN2YXhPaGVxNzlkVFF3VUFfZ3NWNWRiM0R0clJ1UUF2WUI1djlfUHpmTlQzcGc?oc=5",
         "description": "",
         "pubDate": "2025-09-15T04:01:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Emmys host Nate Bargatze pokes fun at the TV industry and fails with gag to keep speeches short - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc3BPUkRrVGVCSVpGS2hScEx3SEw1NmFyaTZWZ0RJcm9XQ2JlQk1JSlBiamc3RTc2M25QY0lzX1Iya21UeklpQ2ctaVV6U1FkN0JfM0NzNWJFZnpjNDBTMjR6ZHN0dVROWm9NQnBmX1YzVmxKWVd3UzJ4UzdVZTVPdkdKbFlaNGpLX2V4dDN5amgwTlhR?oc=5",
+        "description": "",
+        "pubDate": "2025-09-15T03:33:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -958,6 +958,15 @@
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV0FjUHY4emlySDQxWlNMdkc5OU5RSGNZV3NvYWhwUjdtNjdqT3BBT0VQZ2tBVlF2ZUNtT3llRjVSaFZVcUtINGNycEtmazkwOFBGbUFRYy1TS1piZXctY3ZSdGJBMzFncndTNXRRb0txa055Mi1mN1BWMERfY0NWRXBreWFhRXYtSGdSYUhQZ2tmTU5YbHhIZ0JRZVJYLTRRWlNhWXN2M2g?oc=5",
         "description": "",
         "pubDate": "2025-09-15T21:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Judge rules Trump administration illegally fired thousands of probationary workers - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZnNwV0pJd3ZCNzF4XzZiR3dsQTYxUVM1TWV2dnBRaE5tQkNWaXo3RXB4OGVwTHhtWVJyRmFjTmpxcVNSbi1HdTEwLUY0UV85S3hOa3k4YnVuMXM0U3hNMzlhakRNVmNicWJEcTQxQkdFUzZzVjNuMERHc1BjNm8wNWRjRkRXR19wNXNoSndNbDg4Sms5UWZSbzhR?oc=5",
+        "description": "",
+        "pubDate": "2025-09-15T19:58:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1053,10 +1062,10 @@
         "bias": 0
       },
       {
-        "title": "Australia and Papua New Guinea to sign defense pact as China’s influence grows - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdWF1Rmpxa3c5WGxBLXJoNjI4YlRWZG10U2RaM3Vra2syTDdPQjh5ZDdzeERDaUI1RzdkZXo5X1MwbGx3NXRnY2dpOG5Hc3JNVUtwSnRLT0tuaEVYa2RWOXY5ajhxWWtJdktuUHg0WGJpXzhYeWJaUkhHVDFtYThKcy1pQlE1T3l4WlRPSTJxM1VaVlMyUDB1Si1ZdUxZa1ZCeXc?oc=5",
+        "title": "Ohtani's lawyers say he was victim of likeness misuse in real estate deal, move to dismiss lawsuit - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbXpiX3JHM3pUUmg3ai1EX2V6QVI1dWdyRWxPWWNvcFJZenVha2F1bkViSGtJRHBMaVhXSlM0eHhZVjR3aXNPMDRPS3dhN2RPVkVpcUlMcXRiZXdPMXY1LWVVakM1VXRkTUNsYmpvd3g3R1NYd1NWV3F5VUVTbHRDdU0ySjZ2aGNUN0xPS0F3R3lwb0pyWHlETmQwdmJxOGNxNWc?oc=5",
         "description": "",
-        "pubDate": "2025-09-15T05:28:00Z",
+        "pubDate": "2025-09-15T00:24:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1068,15 +1077,6 @@
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcEVNWUlSdkI0ZGpjQXRyVEhkYW1FdENjZXdTdUZUSUdyVkxLbnRrUDVUalRJRTJPUmtxZDV2RWVrUjEzaXNKV3B6OVJUNTZleF85SmlUOGhjY0QyVHN2c0EwWVlQejlFQ190WWRSbDlYN2x4TVh3QXpIM3N3RjBrVnBRTTFNaENib200TkZ5ZEQ?oc=5",
         "description": "",
         "pubDate": "2025-09-15T11:44:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "No handshakes between India and Pakistan players as political tension spills onto cricket field - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWkp2anJMT2EySEFhS0tRNGJsZkpuRTAyVDQwWm9zZnRzb25vb2ZjVF91bFNxNWNzN0RpMTRDaDd1U3dkRnVVV1RLZGFHaDhjN3lYaHR1SUViVUQwenhHSDk2d01EdnVJVzlNN28xZ09DWldYRURxcXBvZEd3NnQ2X0syWndRZHlVTi1zaEtwTU4?oc=5",
-        "description": "",
-        "pubDate": "2025-09-15T10:05:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
