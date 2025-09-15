@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-15T09:28:57.354163Z",
+  "lastUpdate": "2025-09-15T09:43:52.297191Z",
   "news": {
     "Gaming": [
       {
@@ -30,12 +30,21 @@
         "bias": 0
       },
       {
-        "title": "Tower of Mystery (ZX Spectrum) [Free] [Adventure]",
+        "title": "Tower of Mystery (ZX Spectrum) [Free] [Interactive Fiction]",
         "link": "https://theshich.itch.io/tower-of-mystery",
         "description": "BASIC text adventure for ZX Spectrum",
         "pubDate": "2025-09-15T08:43:58Z",
         "source": "theshich.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMTc3NDcxLnBuZw==/315x250%23c/3WGpnR.png",
+        "bias": 0
+      },
+      {
+        "title": "ChroroCraft demo [Free] [Adventure] [Windows]",
+        "link": "https://h-studio123.itch.io/chroro-craft",
+        "description": "ChroroCraft",
+        "pubDate": "2025-09-15T08:42:11Z",
+        "source": "h-studio123.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTc3MTY3LnBuZw==/315x250%23c/pvmPFQ.png",
         "bias": 0
       },
       {
@@ -138,15 +147,6 @@
         "bias": 0
       },
       {
-        "title": "SpellCheck [Free] [Windows]",
-        "link": "https://max-reformed.itch.io/spellcheck",
-        "description": "",
-        "pubDate": "2025-09-15T07:01:37Z",
-        "source": "max-reformed.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTc2NDU5LnBuZw==/315x250%23c/b1BGNh.png",
-        "bias": 0
-      },
-      {
         "title": "Milk Run [Free] [Other] [Windows]",
         "link": "https://neuro-o.itch.io/milk",
         "description": "Working the nightshift at the grocery store and you have sudden craving for milk! Also, there's ghosts...",
@@ -170,7 +170,7 @@
         "description": "platformer, narrative",
         "pubDate": "2025-09-15T06:18:43Z",
         "source": "p01ako.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTc2MjE4LnBuZw==/315x250%23c/dMcbKG.png",
+        "image": "https://img.itch.zone/aW1nLzIzMTc3NTg4LnBuZw==/315x250%23c/lVJgsQ.png",
         "bias": 0
       },
       {
@@ -192,12 +192,12 @@
         "bias": 0
       },
       {
-        "title": "[Error] [Free] [Adventure]",
-        "link": "https://taogyre.itch.io/error",
-        "description": "Do you have what it takes to work for Error.corp?",
-        "pubDate": "2025-09-15T03:56:33Z",
-        "source": "taogyre.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTc0MjcwLnBuZw==/315x250%23c/Y8TeRu.png",
+        "title": "Book of Bark [Free] [Adventure] [Windows]",
+        "link": "https://10scribbles.itch.io/book-of-bark",
+        "description": "A cozy witchy shopkeeping adventure told through the eyes of a very good boy.",
+        "pubDate": "2025-09-15T04:00:31Z",
+        "source": "10scribbles.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTc3NTYxLnBuZw==/315x250%23c/wTqkrF.png",
         "bias": 0
       },
       {
@@ -211,6 +211,60 @@
       }
     ],
     "World": [
+      {
+        "title": "NPR revisits HIV/AIDS patients who lost access to meds after Trump cut foreign aid",
+        "link": "https://www.npr.org/2025/09/15/nx-s1-5527021/npr-revisits-hiv-aids-patients-who-lost-access-to-meds-after-trump-cut-foreign-aid",
+        "description": "In April 2025, NPR looked at the impact of President Trump's cuts to foreign aid on HIV positive individuals in Zambia. Many were falling sick  without access to their HIV medications. We returned to those people, as well as others who keep close tabs on the HIV/AIDS situation, to see where things stand now. Reporter: Gabrielle Emanuel. Editor: Rebecca Davis. Digital Editor: Marc Silver.",
+        "pubDate": "2025-09-15T09:30:20Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Secretary of State Marco Rubio to talk with Netanyahu amid tensions in Middle East",
+        "link": "https://www.npr.org/2025/09/15/nx-s1-5540730/secretary-of-state-marco-rubio-to-talk-with-netanyahu-amid-tensions-in-middle-east",
+        "description": "Secretary of State Marco Rubio is in Israel where he'll meet with Prime Minister Netanyahu Monday, as leaders of Arab and Islamic countries also prepare for an emergency summit.",
+        "pubDate": "2025-09-15T09:29:47Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Arab foreign ministers to meet Monday for emergency summit. Here's what we can expect",
+        "link": "https://www.npr.org/2025/09/15/nx-s1-5539206/arab-foreign-ministers-to-meet-monday-for-emergency-summit-heres-what-we-can-expect",
+        "description": "Aaron David Miller, a former State Department Middle East analyst and negotiator, discusses what we might expect from Monday's emergency gathering of Arab leaders in Qatar.",
+        "pubDate": "2025-09-15T09:29:37Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Nepal limps back to normalcy after massive protests toppled government",
+        "link": "https://www.npr.org/2025/09/15/nx-s1-5539142/nepal-limps-back-to-normalcy-after-massive-protests-toppled-government",
+        "description": "Nepal was shaken to its core last week after massive anti-corruption protests toppled the government. NPR talks to residents about what comes next after the uprisings.",
+        "pubDate": "2025-09-15T09:29:25Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Russian drone enters Romanian airspace heightening NATO tensions",
+        "link": "https://www.npr.org/2025/09/15/nx-s1-5541339/russian-drone-enters-romanian-airspace-heightening-nato-tensions",
+        "description": "A Russian drone entered Romanian airspace from Ukraine Saturday. It's the latest violation of NATO airspace, coming just days after Russian drones were shot down by NATO aircraft over Poland.",
+        "pubDate": "2025-09-15T09:29:03Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "India court stays key provisions of controversial new law on Muslim properties",
+        "link": "https://www.bbc.com/news/articles/cgq4vx2l45no?at_medium=RSS&at_campaign=rss",
+        "description": "The court refused to strike down the entire law saying \"the grant of stay is only in the rarest of rare category\".",
+        "pubDate": "2025-09-15T09:24:18Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a973/live/d6475620-9200-11f0-a4c2-47171ae8fffb.jpg",
+        "bias": 0
+      },
       {
         "title": "Arab-Islamic summit expected to yield concrete measures against Israel",
         "link": "https://www.aljazeera.com/news/2025/9/15/arab-islamic-summit-expected-to-yield-concrete-measures-against-israel?traffic_source=rss",
@@ -248,18 +302,18 @@
         "bias": 0
       },
       {
-        "title": "Trump, fascinated by the royals, gets a rare second U.K. state visit",
-        "link": "https://www.npr.org/2025/09/15/nx-s1-5507253/trump-royals-uk-state-visit",
-        "description": "Trump has long expressed fascination with the royal family. The U.K. government will tap into that this week during a state visit that combines pageantry and politics.",
+        "title": "Melting glaciers mean an uncertain future for Europe's rivers",
+        "link": "https://www.npr.org/2025/09/15/nx-s1-5535161/europe-melting-glaciers-switzerland-alps",
+        "description": "Europe is warming faster than any continent. That's speeding up glacial melt, which is already threatening Europe's largest rivers.",
         "pubDate": "2025-09-15T09:00:00Z",
         "source": "npr.org",
         "image": "",
         "bias": -1
       },
       {
-        "title": "Melting glaciers mean an uncertain future for Europe's rivers",
-        "link": "https://www.npr.org/2025/09/15/nx-s1-5535161/europe-melting-glaciers-switzerland-alps",
-        "description": "Europe is warming faster than any continent. That's speeding up glacial melt, which is already threatening Europe's largest rivers.",
+        "title": "Trump, fascinated by the royals, gets a rare second U.K. state visit",
+        "link": "https://www.npr.org/2025/09/15/nx-s1-5507253/trump-royals-uk-state-visit",
+        "description": "Trump has long expressed fascination with the royal family. The U.K. government will tap into that this week during a state visit that combines pageantry and politics.",
         "pubDate": "2025-09-15T09:00:00Z",
         "source": "npr.org",
         "image": "",
@@ -309,6 +363,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Pilgrims turn Spain’s Santiago de Compostela into the world’s latest overtourism flashpoint - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLXY0WkxQT1RJWlN6a01KMGNjSGZGRGdCZGJ1b2hIdXM1OTRGclNRU0IyQ3g0VGxTM1M4cmhNRHF5dWwtSHJscW5TdXBCaktiU2dpUnotclN1a0UtZmNnbE8zY1AxdVgxS2k0UFVGdHhBSUtYbmhnLVpIU0RqNFRSVzBZRlgzMnBjTThCY0tuLXpwRWp1UGZuVUN5ZTJEVklPeWYwUllneHZPYWJCMjllNFRUcHZDZWxlazNtQ09pQjY?oc=5",
+        "description": "",
+        "pubDate": "2025-09-15T08:24:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Cash for speeches and big wins for The Pitt and The Studio - Emmys highlights",
@@ -554,6 +617,15 @@
         "bias": 0
       },
       {
+        "title": "The National Center for Civil and Human Rights expands at a critical moment in US history - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTmYwMDMyaDV3ZWlvd3JUQXg3Y3llTXVFR2l1Mmg1NmFMVXdzRnlnRmQ3cGhKTkROTzBFRUxnT2xMQ3ZaVFRYQnJHQjV3alFjbG5DbHc4ZmxIdmZzMWs1cFZFQmFEakZVSlp3aHVKV2l4QnNYMXBZbHVWUXlJb1hVSWtzdHoyaTVXb0hBT19XVjMzS3FZeTdMc0pkMGN0TWF4ZGFxNFhjQQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-15T04:03:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Tramell Tillman makes Emmys history with his ‘Severance’ win - AP News",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOajZDajdRMHBBR0NmWjl2cENLMnRFVHA0NG5uUzNxdVZiQ09wanJIRWE0aElpbk5vV01GSVd1ZzI1cXZMTngxYWRvWnR1VmJyVHhCMklodHQyVGxOVjdJNUx5Z3NnZ3dGOVA4SVl0a0RBdzcwOTg4Rm9Mcy1UbHRPQUJqNW15ZVdwYjBHX3VCRklTRE9aVHc2aGJoRGw?oc=5",
         "description": "",
@@ -588,94 +660,22 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "US, South Korea and Japan open joint air and naval exercise - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPamI2blVsWUQzOXdfRnloTGh4Rm5FRG12NFNHUTlkY1ROdktHbFA0QXl5WloyNkxHaXJjOFZhU21SSFdxTUdZMlRLSUczdDFDcUNGN1k5NHREaE1xSGtNVXVHbUQ2Z2dRMjF1V2xtZ09CdElnOXZ0YlRnaEJsS3I4d2tsOUJVYVVNY0JhNm45clAwcDQtOU9oSUd6TFpKeDQ3bFE?oc=5",
-        "description": "",
-        "pubDate": "2025-09-15T03:17:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "New York Gov. Kathy Hochul endorses Zohran Mamdani for NYC mayor - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRFBHMDN1ZnVoVFdITFVBbTNaUUVDOGpFeERpcjY4cGxIWGVOY3hOcy1Ebzk5Z2tuVWdpRnFzZzJ6SEF6d0hvMlJxeXVYa3otWkhpMldHVTNUbGs2RXZXX2c4ZHdFVHBKRGxEbXBrNUJTaFZrVmhpX3VaX0wtSmRHSU1SdWdvWGNPR1E3Y3NYU3RZSkJXbmFzR3N1d0NJeTA?oc=5",
-        "description": "",
-        "pubDate": "2025-09-15T02:48:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Watch: Soda truck falls into sinkhole in Mexico City",
-        "link": "https://www.bbc.com/news/videos/cj9zex1r3kjo?at_medium=RSS&at_campaign=rss",
-        "description": "Initial reports suggested the sinkhole was caused by a collapsed drainage system, according to Iztapalapa's mayor.",
-        "pubDate": "2025-09-15T02:13:50Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae52/live/d47a8200-91d7-11f0-9cf6-cbf3e73ce2b9.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Russia-Ukraine war: List of key events, day 1,299",
-        "link": "https://www.aljazeera.com/news/2025/9/15/russia-ukraine-war-list-of-key-events-day-1299?traffic_source=rss",
-        "description": "Here are the key events on day 1,299 of Russia’s war on Ukraine.",
-        "pubDate": "2025-09-15T02:05:59Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Watch: Best looks from the Emmys red carpet",
-        "link": "https://www.bbc.com/news/videos/c8xr8ke550vo?at_medium=RSS&at_campaign=rss",
-        "description": "Jenny Ortega, Sydney Sweeney and Pedro Pascal were among the stars to walk the red carpet.",
-        "pubDate": "2025-09-15T01:54:05Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e08/live/b5e9e580-9202-11f0-9cf6-cbf3e73ce2b9.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Authorities say over 100,000 at pro-Palestinian protests that forced early end to Spanish Vuelta - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUh1V1gxRnFFbG1LNkRzSElfd29VOG9wZkg3NXRPdTF1SWhyYVBabHpjSWxHSzE4NTJJMmlFMUNMdmZjOGVkZjFHLWpKZXlleEFTLTRRS3dHT1hNS2JkWG5Oa3ItWlA4cmRsNWlZOEpWLTAyZmRRWDZ2UlZMeDZVQ3BFNjZhYTdVYmxCX0UzNXBZUXY2V0o2aUtR?oc=5",
-        "description": "",
-        "pubDate": "2025-09-15T01:47:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Scottie Scheffler warms up for Ryder Cup by winning for the 6th time this year - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMEFzQ3k2OXUwYTFSclpCOHk1TVJfa0w1cFZnTWs5cXJxOXdMMm1NNlVadGpmTDdfZUZNUGwzWF9wa0h5anZHZ3YxZHI0MjF2UTdiSms3WlpIRVpQSEhHMEppUl9Ea29feVVZMk1ITG5Vam1weW9oby1lOWRqVlVsZ1ZKby1BWW9vTEYwNkQ0amFLMWQycVJpQ0NiaFNFbVRQU1liNXpTaTBoLWFfUTBQdEdPRWlaNmc?oc=5",
-        "description": "",
-        "pubDate": "2025-09-15T01:24:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Bobby Hart, co-wrote ‘Last Train to Clarksville’ and other hits for the Monkees, dead at 86 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPektVeHdQckhZS19lNGw3cmh0emVILWh1X1ctci1ESS0ycWhDRC11c0kzZUUyd2w3WVF1a1hadkRiNEYwOTVua3YzUjhqSFFsX2JUelJJaXUtYno1WXJzN1JuQVV2bHYyOG5GNVpFSmVhQTBMcGdCb3BVbTJRNjVHbXFqOGVNQ1pPRUI0LXk3MA?oc=5",
-        "description": "",
-        "pubDate": "2025-09-15T01:22:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
       {
-        "title": "Democrats will 'either adapt or die' as strategists push them onto new platforms",
-        "link": "https://www.npr.org/2025/09/15/nx-s1-5484125/democrats-social-media-strategy-influencers",
-        "description": "Prominent Democratic lawmakers and influencers are encouraging their fellow Democrats to embrace social media and online video to reach voters or risk being left behind.",
+        "title": "A record number of Congressional lawmakers aren't running for reelection in 2026. Here's the list",
+        "link": "https://www.npr.org/2025/09/15/nx-s1-5534254/house-senate-retirement-tracker-2026",
+        "description": "NPR is tracking the record number of lawmakers in Congress who have already announced they don't plan to run for reelection ahead of the 2026 midterms.",
         "pubDate": "2025-09-15T09:00:00Z",
         "source": "npr.org",
         "image": "",
         "bias": -1
       },
       {
-        "title": "A record number of Congressional lawmakers aren't running for reelection in 2026. Here's the list",
-        "link": "https://www.npr.org/2025/09/15/nx-s1-5534254/house-senate-retirement-tracker-2026",
-        "description": "NPR is tracking the record number of lawmakers in Congress who have already announced they don't plan to run for reelection ahead of the 2026 midterms.",
+        "title": "Democrats will 'either adapt or die' as strategists push them onto new platforms",
+        "link": "https://www.npr.org/2025/09/15/nx-s1-5484125/democrats-social-media-strategy-influencers",
+        "description": "Prominent Democratic lawmakers and influencers are encouraging their fellow Democrats to embrace social media and online video to reach voters or risk being left behind.",
         "pubDate": "2025-09-15T09:00:00Z",
         "source": "npr.org",
         "image": "",
@@ -713,6 +713,15 @@
       }
     ],
     "Business": [
+      {
+        "title": "Elon Musk could become the world's 1st trillionaire. Here's the effect it could have",
+        "link": "https://www.npr.org/2025/09/15/nx-s1-5534086/elon-musk-could-become-the-worlds-1st-trillionaire-heres-the-effect-it-could-have",
+        "description": "Elon Musk could become the world's first trillionaire if Tesla's new compensation package gets approved. Brookings Institution Senior Fellow Darrell West talks about the implications of the offer.",
+        "pubDate": "2025-09-15T09:28:58Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "'Killer' child car seats still on sale 10 years on",
         "link": "https://www.bbc.com/news/articles/c8643d1p85zo?at_medium=RSS&at_campaign=rss",
