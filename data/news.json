@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-15T22:20:30.592710Z",
+  "lastUpdate": "2025-09-15T22:38:52.446536Z",
   "news": {
     "Gaming": [
       {
@@ -102,6 +102,15 @@
         "bias": 0
       },
       {
+        "title": "Mise en Sauce [Free] [Survival] [Windows]",
+        "link": "https://arielsol.itch.io/mise-en-sauce",
+        "description": "Delicious, deluxe, and deadly",
+        "pubDate": "2025-09-15T20:47:58Z",
+        "source": "arielsol.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTg2MjQ5LnBuZw==/315x250%23c/ni664n.png",
+        "bias": 0
+      },
+      {
         "title": "Game of Pure GOPS [Free] [Card Game]",
         "link": "https://quinnenbestprogrammerever.itch.io/game-of-pure-gops",
         "description": "a little game i made using a \"standard\" deck of cards",
@@ -138,30 +147,12 @@
         "bias": 0
       },
       {
-        "title": "The Hole [Free] [Windows]",
-        "link": "https://baconeggsrl.itch.io/the-hole",
+        "title": "Crystal Herder [Free]",
+        "link": "https://kitbash.itch.io/crystal-herder",
         "description": "",
-        "pubDate": "2025-09-15T20:22:36Z",
-        "source": "baconeggsrl.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTg1MjU3LnBuZw==/315x250%23c/Rz2zEa.png",
-        "bias": 0
-      },
-      {
-        "title": "pico1k plinko type thing [Free] [Other]",
-        "link": "https://p851523.itch.io/pico1k-2025",
-        "description": "",
-        "pubDate": "2025-09-15T20:17:06Z",
-        "source": "p851523.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTg1NDEzLnBuZw==/315x250%23c/4Wp%2B3R.png",
-        "bias": 0
-      },
-      {
-        "title": "Wicked Runners [Free] [Other]",
-        "link": "https://theredgorilla.itch.io/wicked-runners",
-        "description": "",
-        "pubDate": "2025-09-15T20:13:27Z",
-        "source": "theredgorilla.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTg1MTQ3LnBuZw==/315x250%23c/9aQZXc.png",
+        "pubDate": "2025-09-15T20:24:27Z",
+        "source": "kitbash.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTg2NDA4LnBuZw==/315x250%23c/Px9esR.png",
         "bias": 0
       },
       {
@@ -189,15 +180,6 @@
         "pubDate": "2025-09-15T19:56:12Z",
         "source": "antonio-cedillo.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMTg0NjQyLnBuZw==/315x250%23c/zbpW9O.png",
-        "bias": 0
-      },
-      {
-        "title": "The Adventures of the Coin Hunter [Free] [Platformer]",
-        "link": "https://alvaro-ahumada.itch.io/the-adventures-of-the-coin-hunter",
-        "description": "Juego de plataformas 2D donde guías a un cerdito aventurero a recolectar todas las monedas para lograr la victoria.",
-        "pubDate": "2025-09-15T19:47:13Z",
-        "source": "alvaro-ahumada.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTg0NjkwLnBuZw==/315x250%23c/BST5kI.png",
         "bias": 0
       },
       {
@@ -233,10 +215,37 @@
         "title": "Live updates: Trump says US again struck a boat allegedly carrying drugs from Venezuela - AP News",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ieGI2dFJmdFd3QzN3ZW05UUtwaUlPaEFveDlVem5mSS1NWnNJbC1ncTYwbklTN3UtckYyRVFMTDB2WW4zN0d0bzFoOEZMLTViLU1sNFhMR2xKekRaOEFabk9zOVNuaGI3V0FB?oc=5",
         "description": "",
-        "pubDate": "2025-09-15T22:07:00Z",
+        "pubDate": "2025-09-15T22:31:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "US destroys alleged Venezuelan drug boat, killing three",
+        "link": "https://www.bbc.com/news/articles/cx2jel4gyezo?at_medium=RSS&at_campaign=rss",
+        "description": "The attack came after the Venezuelan president said Caracas would defend itself against US \"aggression\".",
+        "pubDate": "2025-09-15T22:21:43Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f40/live/3bfcd330-9271-11f0-b8e5-3be75a11e2ba.png",
+        "bias": 0
+      },
+      {
+        "title": "Trump deploys National Guard to Memphis, calling it a 'replica' of his crackdown on Washington - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdkczLTdaME9FcUZKb09SNjZ4c1g5eUVoamJUWjcydUxwY2RORDYxblJZYXp1R3FndGc0OVB3VnBpTE9ZRENjNHROY1VrUl9kWHhGeUhFRFFKZjNzRThndkt0MWx6NGd3U3BGZ0sySWRXYkVyblpRUzdGU3V0NTItd0tJNGlZeGZnb0ZMOVJ1OVE4bmprSV9DdEpHZ2tfbDRLdHhrZDBKQ2NNUGpqZk14a2NXNWV2ZjQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-15T22:15:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Trump warns Hamas against using Israeli captives in Gaza as ‘human shields’",
+        "link": "https://www.aljazeera.com/news/2025/9/15/trump-warns-hamas-against-using-israeli-captives-in-gaza-as-human-shields?traffic_source=rss",
+        "description": "US president says if reports of captives being moved above ground to hinder Israeli assault true, 'all bets are off'.",
+        "pubDate": "2025-09-15T22:09:29Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Workers commenting on Kirk’s death learn the limits of free speech in and out of their jobs - AP News",
@@ -302,6 +311,15 @@
         "bias": -1
       },
       {
+        "title": "China accuses Nvidia of violating anti-monopoly laws",
+        "link": "https://www.aljazeera.com/economy/2025/9/15/china-accuses-nvidia-of-violating-anti-monopoly-laws?traffic_source=rss",
+        "description": "The claim came as the US and China held trade talks in Madrid that concluded on Monday.",
+        "pubDate": "2025-09-15T21:06:58Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Arab, Muslim leaders unite at Doha summit following Israeli attack",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/9/15/arab-muslim-leaders-unite-at-doha-summit-following-israeli-attack?traffic_source=rss",
         "description": "Israel's attack on Hamas negotiators in Doha brought together dozens of Arab and Muslim leaders for a show of unity.",
@@ -329,15 +347,6 @@
         "bias": 0
       },
       {
-        "title": "US destroys alleged Venezuelan drug boat, killing three",
-        "link": "https://www.bbc.com/news/articles/cx2jel4gyezo?at_medium=RSS&at_campaign=rss",
-        "description": "The attack came after the Venezuelan president said Caracas would defend itself against US \"aggression\".",
-        "pubDate": "2025-09-15T20:31:06Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f40/live/3bfcd330-9271-11f0-b8e5-3be75a11e2ba.png",
-        "bias": 0
-      },
-      {
         "title": "Wall Street rises to more records as Tesla vrooms higher - AP News",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX0lWSnF1UThJY19MUTE1Umhzd1M1NUNjSDJNOWpVd0VPWGprOHZNZUUwVFlKSkY2RTFYNXJEOEEzbjVISmRTMG9oLVNCMnZ2eVBsNkt6UnFNTDE4SDBucXkydGxmMnZNa3NkZU1Ba3pXRm5jcGNWbVVjWUJzUzh2SGI4NXQtYUtqTXY2SkxNQUp4RzRMeWV6OHV0YkIwUQ?oc=5",
         "description": "",
@@ -354,15 +363,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Kennedy’s vaccine committee plans to vote on COVID-19, hepatitis B and chickenpox shots - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUnZKSTBncUVLU3VVVGJYM1ZFTElRVll5VExFQ1NyT1p4d2kxNm92TmhHdGhkdHgzZFBRaHJ3cHNwcFpNa0ZoNnM4bmVuYmVvcFN1VjFvdm9KSjU1SmRXMmFoeWh6VTVxaFl0TkJkdEd5OWl1b0pYdFpvaDNBOUZ6R1IzX2FaQ3hPR0JmVjk5NVFoTWhBQ0dsTkhOd051SzEt?oc=5",
-        "description": "",
-        "pubDate": "2025-09-15T20:05:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Suspect in Seattle home invasions of Macklemore and celebrity athletes pleads not guilty - AP News",
@@ -437,6 +437,15 @@
         "bias": -1
       },
       {
+        "title": "The oldest mummies in the world may hail from southeastern Asia and date back 12,000 years - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN1NiaklNLTZkb2pvRDgyY2ZCTFBoejhEQlNMQXF2ekd3SzJ6dURxaTlkRWRzZHVYc2RISDA0NFJZd3FLSXlQaGFEUUlmVXp4YnhhZUxPc1ZtbnY4Y1RnTmpCVll3clR3TU9hVTZTcEdVVk90OHlYN1ZiT3JZRl81WE1WdTc0Z0l1NHhrelFMMmpBa0FpOWwwNXBqMGd1bFhvSk5SSndyV3Ixb3pzS2c?oc=5",
+        "description": "",
+        "pubDate": "2025-09-15T19:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Italian skier Franzoso dies following a crash in training in Chile. He was 25 - AP News",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX1RrMGVyTXY3M0hpcjNHcWx2c1EteWVkcU45VnJqUlZWQTFoQkg0ak8xNjNjZjhrWTRUd25wSmtWbFotRDd4Q0hCSTFBWGZnam5NZUNyOTBRNjhGS1RYcURHRklRN244X3k5ZmhsY0lzb3R1NlNQS0ZNeUgzbjdGdHJ4VDMxNVNUSEgyeExUaUdLMm92TUE?oc=5",
         "description": "",
@@ -452,15 +461,6 @@
         "pubDate": "2025-09-15T18:37:26Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11fb/live/13eb0eb0-9231-11f0-9503-a35e38a7e112.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Summit leads to little action after Israeli strike on Hamas in Doha - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNckRfdHBjUk1jQkVrb3F0aFFSTlJqQlZrbkFvNFdrRjFrYmJjbWU3b1Fidm1BdjlmX3BkanRVRmZ2ZUdUeEpkb3ZVZzlYUXdKSUJSRjVlZmpnQkRxUkpYVFBiaFhrYzktdUpRQUV2c0xKQmtYSm4zZDZpNk15QlFDQmF3anktWFp5WmxnemdVVnQ0SlJTc05uSkpFeF91dEVDaGN3?oc=5",
-        "description": "",
-        "pubDate": "2025-09-15T18:27:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -506,15 +506,6 @@
         "pubDate": "2025-09-15T17:38:00Z",
         "source": "news.google.com",
         "image": "",
-        "bias": 0
-      },
-      {
-        "title": "China accuses Nvidia of violating anti-monopoly laws",
-        "link": "https://www.bbc.com/news/articles/cj9zedgkm21o?at_medium=RSS&at_campaign=rss",
-        "description": "The accusation comes as the US and China hold talks to de-escalate the trade war between the two.",
-        "pubDate": "2025-09-15T17:28:53Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c97/live/50940040-9224-11f0-8fd6-f3e5d0b160a2.jpg",
         "bias": 0
       },
       {
@@ -669,15 +660,6 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad20/live/c586f540-923a-11f0-84c8-99de564f0440.png",
         "bias": 0
-      },
-      {
-        "title": "Netanyahu does not rule out further strikes on Hamas leaders",
-        "link": "https://www.bbc.com/news/articles/czxw4xkxg51o?at_medium=RSS&at_campaign=rss",
-        "description": "At a joint press conference with US Secretary of State Marco Rubio, Netanyahu said every country had the right \"to defend itself beyond its borders\".",
-        "pubDate": "2025-09-15T15:26:38Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5f6/live/46f38540-920d-11f0-85c7-5bdf6c05d36f.jpg",
-        "bias": 0
       }
     ],
     "Politics": [
@@ -718,6 +700,15 @@
         "bias": 0
       },
       {
+        "title": "Summit leads to little action after Israeli strike on Hamas in Doha - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNckRfdHBjUk1jQkVrb3F0aFFSTlJqQlZrbkFvNFdrRjFrYmJjbWU3b1Fidm1BdjlmX3BkanRVRmZ2ZUdUeEpkb3ZVZzlYUXdKSUJSRjVlZmpnQkRxUkpYVFBiaFhrYzktdUpRQUV2c0xKQmtYSm4zZDZpNk15QlFDQmF3anktWFp5WmxnemdVVnQ0SlJTc05uSkpFeF91dEVDaGN3?oc=5",
+        "description": "",
+        "pubDate": "2025-09-15T21:20:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Vance hosted Charlie Kirk's show Monday in episode that was part tribute, part outrage",
         "link": "https://www.npr.org/2025/09/15/nx-s1-5542195/vance-hosted-charlie-kirks-show-monday-in-episode-that-was-part-tribute-part-outrage",
         "description": "Vice President JD Vance hosted Charlie Kirk's radio program Monday — following last week's murder of the conservative activist.",
@@ -731,6 +722,24 @@
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ2pkVktQTm53ZEpzQ2VjQkVYSXJuVGxEUDFmV2NsNURMNWUyb1lRZVFjNDFzdGx6XzhySjRyeHJBRlVWWUNFZURDMmYyY2ZNcVBtb2tRbUdoRXJabmttYWxETFhGMmduckdIWGQ5TXRGUk00QThTZnpOVnEwNFhZOEJRdlRSVnYzclZDN0xvM2dfMjlKemVMOXZULXlKMGV6RXQzakF3amg?oc=5",
         "description": "",
         "pubDate": "2025-09-15T21:12:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Kennedy’s vaccine committee plans to vote on COVID-19, hepatitis B and chickenpox shots - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUnZKSTBncUVLU3VVVGJYM1ZFTElRVll5VExFQ1NyT1p4d2kxNm92TmhHdGhkdHgzZFBRaHJ3cHNwcFpNa0ZoNnM4bmVuYmVvcFN1VjFvdm9KSjU1SmRXMmFoeWh6VTVxaFl0TkJkdEd5OWl1b0pYdFpvaDNBOUZ6R1IzX2FaQ3hPR0JmVjk5NVFoTWhBQ0dsTkhOd051SzEt?oc=5",
+        "description": "",
+        "pubDate": "2025-09-15T21:02:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Congress asks whether Boar's Head deli meat plant tied to deadly outbreak will be fit to reopen - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV0FjUHY4emlySDQxWlNMdkc5OU5RSGNZV3NvYWhwUjdtNjdqT3BBT0VQZ2tBVlF2ZUNtT3llRjVSaFZVcUtINGNycEtmazkwOFBGbUFRYy1TS1piZXctY3ZSdGJBMzFncndTNXRRb0txa055Mi1mN1BWMERfY0NWRXBreWFhRXYtSGdSYUhQZ2tmTU5YbHhIZ0JRZVJYLTRRWlNhWXN2M2g?oc=5",
+        "description": "",
+        "pubDate": "2025-09-15T21:00:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -853,10 +862,10 @@
         "bias": -1
       },
       {
-        "title": "What to Stream: Cardi B, a movie about Bumble, ‘Morning Show’ and a look at Lilith Fair - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMmlyRkJaUzNWR2tpSjByWURpSWw5VHA1a01wbFlYRzBlR2RUUmZQUmxaZlJzMGhaSDhxMDVsc29YcXVnSTlEXy1YbDVRclNUekpKRE90eEpGM0tvYWkyZl9ZU24wV194WE5WWEtIeThYOHNUcTN2YXhPaGVxNzlkVFF3VUFfZ3NWNWRiM0R0clJ1UUF2WUI1djlfUHpmTlQzcGc?oc=5",
+        "title": "Rubio is in Israel in wake of Qatar attack as Israeli strikes intensify in northern Gaza - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb2NQOXl6bGRFMnV3VHExa0pUU1ZCeVRCWFVXbzN0c0ZtR1J3NkoxSV9wdWdYQVlrNnNwTXNBZ1E0VTQ4elNaNGRmR3ViWFN2M3hKRU5tdWdlWWxUSExQV1V3Q0dxRjVfTDFSQmd5bVF5a241emJKR2pqc3pTOFJLZFhUNjdhQlRZbWZESTVKb1RZd24zUlV4UUJtMGtja2hOMmEtM3gyMHY?oc=5",
         "description": "",
-        "pubDate": "2025-09-15T04:01:00Z",
+        "pubDate": "2025-09-15T05:32:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -891,19 +900,19 @@
         "bias": 0
       },
       {
-        "title": "Trump meets with Tennessee's governor after saying he'd deploy National Guard troops to Memphis - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdkczLTdaME9FcUZKb09SNjZ4c1g5eUVoamJUWjcydUxwY2RORDYxblJZYXp1R3FndGc0OVB3VnBpTE9ZRENjNHROY1VrUl9kWHhGeUhFRFFKZjNzRThndkt0MWx6NGd3U3BGZ0sySWRXYkVyblpRUzdGU3V0NTItd0tJNGlZeGZnb0ZMOVJ1OVE4bmprSV9DdEpHZ2tfbDRLdHhrZDBKQ2NNUGpqZk14a2NXNWV2ZjQ?oc=5",
+        "title": "Gang attack on armored vehicle in Haiti leaves 2 police officers injured and 1 driver dead - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSDZMTjVvMkxpQjNBdUJKdER3M1BGcjAzOXFZOWxkVkNMUzJaRXZ5bUxLUkg0T3ZjaVdyem5BcUNoQVJSakpVYnZNLWpIQkNCVGdiYlJqaGNNNXVPeGFobl9KZ3Rma1J2clBjekROWUFOWl81djRUWi1EZklSU1pYemw3OFM3Qnc1RzUzWWdUcmJhbjhWUG4yeTJJSHFJU1B4dVl5Z2lXQQ?oc=5",
         "description": "",
-        "pubDate": "2025-09-15T20:48:00Z",
+        "pubDate": "2025-09-15T19:26:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Gang attack on armored vehicle in Haiti leaves 2 police officers injured and 1 driver dead - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSDZMTjVvMkxpQjNBdUJKdER3M1BGcjAzOXFZOWxkVkNMUzJaRXZ5bUxLUkg0T3ZjaVdyem5BcUNoQVJSakpVYnZNLWpIQkNCVGdiYlJqaGNNNXVPeGFobl9KZ3Rma1J2clBjekROWUFOWl81djRUWi1EZklSU1pYemw3OFM3Qnc1RzUzWWdUcmJhbjhWUG4yeTJJSHFJU1B4dVl5Z2lXQQ?oc=5",
+        "title": "Joy Reid and Percival Everett are among winners of the 46th annual American Book Awards - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTlJoV2VsMF92U3ZZNVU2MlY1b3ZMX0M2MDRDQTJkMmZ0NXE5clRNNHpJYUE3RG14ZFc1eWpUeU5FcG1YTGYwRUpDUGQ4YWRUNzhQVzBIQjc1VDQ3X01UZWtkN3BPR3RUQnlhSERoMHY1aC00SHpYcTZIZV9lWDZmYWZfSWhsNTN1TTh4SG5Gc09sbzRCVHBVZkxkZmNBMkV4RFlfNGhQWEQtQQ?oc=5",
         "description": "",
-        "pubDate": "2025-09-15T19:26:00Z",
+        "pubDate": "2025-09-15T18:52:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -972,24 +981,6 @@
         "bias": 0
       },
       {
-        "title": "UK drops charges against 2 men accused of spying for China - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdkNIeThiUXZWaHhTOXNvaThsbjJzUDhHNzg0bFhkR0ZqSmMwcTJGOHoyWGlyMS10RC1ZNmJvbEk4ZHRGQVgwQUZDS2pSRDNhTzJOaEltYmNCUzJsa0w2NWVEUk5HZGJnWm8ydVhGYy1SVl9BSHE4WG8wSUxZUG9EcXkzVWtsa3ZtVDlpWS1GRXZPcDB0UjJTSTJDRW5Fck0?oc=5",
-        "description": "",
-        "pubDate": "2025-09-15T12:40:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "No handshakes between India and Pakistan players as political tension spills onto cricket field - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWkp2anJMT2EySEFhS0tRNGJsZkpuRTAyVDQwWm9zZnRzb25vb2ZjVF91bFNxNWNzN0RpMTRDaDd1U3dkRnVVV1RLZGFHaDhjN3lYaHR1SUViVUQwenhHSDk2d01EdnVJVzlNN28xZ09DWldYRURxcXBvZEd3NnQ2X0syWndRZHlVTi1zaEtwTU4?oc=5",
-        "description": "",
-        "pubDate": "2025-09-15T10:05:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Australia and Papua New Guinea to sign defense pact as China’s influence grows - AP News",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdWF1Rmpxa3c5WGxBLXJoNjI4YlRWZG10U2RaM3Vra2syTDdPQjh5ZDdzeERDaUI1RzdkZXo5X1MwbGx3NXRnY2dpOG5Hc3JNVUtwSnRLT0tuaEVYa2RWOXY5ajhxWWtJdktuUHg0WGJpXzhYeWJaUkhHVDFtYThKcy1pQlE1T3l4WlRPSTJxM1VaVlMyUDB1Si1ZdUxZa1ZCeXc?oc=5",
         "description": "",
@@ -1001,6 +992,15 @@
     ],
     "Science": [
       {
+        "title": "UK drops charges against 2 men accused of spying for China - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdkNIeThiUXZWaHhTOXNvaThsbjJzUDhHNzg0bFhkR0ZqSmMwcTJGOHoyWGlyMS10RC1ZNmJvbEk4ZHRGQVgwQUZDS2pSRDNhTzJOaEltYmNCUzJsa0w2NWVEUk5HZGJnWm8ydVhGYy1SVl9BSHE4WG8wSUxZUG9EcXkzVWtsa3ZtVDlpWS1GRXZPcDB0UjJTSTJDRW5Fck0?oc=5",
+        "description": "",
+        "pubDate": "2025-09-15T18:56:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Is it the magnesium or the massage? The facts about magnesium lotion for sleep",
         "link": "https://www.npr.org/2025/09/15/nx-s1-5529375/magnesium-lotion-massage-sleep",
         "description": "Social media influencers claim that using lotion with magnesium promotes sleep. But there's little evidence magnesium taken in this way is effective.",
@@ -1008,6 +1008,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Flood survivors begin to return home in Pakistan’s eastern Punjab as water recedes - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTU03R3N4NHRGOXVEU1BmSUlnVjN4ak9mUmVveU8wYUNlMkxCa0QxbFUzSlZwUC12bnRHNG9ma3I1eWZpcmJoaGw0ZDhJODE5QUFOaTdCRHhwbnh5aklxc1Zreng5aW5FWmN6M0lxX2tvLXlpU29yOThlYkN0bFJ5N3dWT3RSeVdQVG9ZSnZjNzl5ZG04eXAwdVkydnBPQ2FQdksyR2tB?oc=5",
+        "description": "",
+        "pubDate": "2025-09-15T08:08:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Australia approves vaccine to protect koalas from chlamydia",
