@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-16T05:35:08.160523Z",
+  "lastUpdate": "2025-09-16T05:45:57.966857Z",
   "news": {
     "Gaming": [
       {
@@ -45,6 +45,15 @@
         "pubDate": "2025-09-16T04:47:36Z",
         "source": "bennyboi365.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMTg5Mjg0LnBuZw==/315x250%23c/F%2B%2F%2Fhm.png",
+        "bias": 0
+      },
+      {
+        "title": "Starter Kit - Inventory [$24.75]",
+        "link": "https://just-a-guy-dev.itch.io/starter-kit-inventory",
+        "description": "A fully functional and easy-to-integrate inventory system for Godot Engine",
+        "pubDate": "2025-09-16T04:46:36Z",
+        "source": "just-a-guy-dev.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTg5Mjk2LnBuZw==/315x250%23c/4RraQ6.png",
         "bias": 0
       },
       {
@@ -228,15 +237,6 @@
         "bias": 0
       },
       {
-        "title": "Campfire Keeper [Free] [Windows] [macOS] [Linux] [Android]",
-        "link": "https://jerb817.itch.io/campfire-keeper",
-        "description": "Infinite Camp Game",
-        "pubDate": "2025-09-16T02:21:05Z",
-        "source": "jerb817.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTg4MzAxLmpwZw==/315x250%23c/8pifS%2F.jpg",
-        "bias": 0
-      },
-      {
         "title": "Egg Defense Shooter [Free] [Shooter] [Windows] [Linux]",
         "link": "https://shadowbusters.itch.io/egg-defense-shooter",
         "description": "Survive as your eggiest self in this hard pointy world...",
@@ -256,6 +256,24 @@
       }
     ],
     "World": [
+      {
+        "title": "US appeals court blocks Trump’s bid to fire Lisa Cook from Federal Reserve",
+        "link": "https://www.aljazeera.com/economy/2025/9/16/us-appeals-court-blocks-trumps-bid-to-fire-lisa-cook-from-federal-reserve?traffic_source=rss",
+        "description": "Cook's claim that she was denied due process has a 'strong likelihood of success', court rules",
+        "pubDate": "2025-09-16T05:33:08Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Trump says the U.S. military targeted a boat allegedly carrying drugs from Venezuela",
+        "link": "https://www.npr.org/2025/09/16/g-s1-88985/u-s-military-again-targeted-boat-carrying-drugs-venezuela",
+        "description": "President Trump said the U.S. military on Monday again targeted a boat allegedly carrying drugs from Venezuela, killing three aboard the vessel.",
+        "pubDate": "2025-09-16T05:31:04Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "US and China reach a framework deal for the ownership of TikTok - AP News",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaWJBamFBWTExcW5wZlVZWTloQl9iVVVGdmFxN1dDcmFNaEloTWhhTkRieERWWmEzRVpWTjNNZmNCbC0yYVAtZnp6NUp6YnNtU0MyQUhZckxhR0FGQ1FndG9CVEZyNURmYnd3Ym5CZVo5U1ptcklfVWNhQXhhWEpXUG5kS2U?oc=5",
@@ -281,6 +299,15 @@
         "pubDate": "2025-09-16T04:20:10Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc9b/live/287dd5b0-9236-11f0-a06c-f10cee3fef66.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Gov. Whitmer to address Michigan’s economy as possible state and federal shutdowns loom - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSENNUGQ1bWxydGdrTTd5aTlNYTFZeFVqWFJRR1dqZFdfNHdjY2xfSXEtczVJdjN6bnRkQlBIdnFRQTBlNXVDem12YjBZNVdtUWFhNFN0RF9ZMmtJZHZWYUIxZFFzejF4QTZ3QmdCbk1neEt6aUtxRWphMUN5cjRRU2t6a0UxTVQ3V1NCeFBGLW84QXZTQ2k0aTFhZGxnOHo2VHBQZ2VIMEtJeUVxaXREZlpR?oc=5",
+        "description": "",
+        "pubDate": "2025-09-16T04:10:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -546,15 +573,6 @@
         "pubDate": "2025-09-16T04:00:15Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/389b/live/674d8820-9287-11f0-a951-dbb92f84a2fc.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Breanna Stewart has MRI on her left knee, injured in Game 1 win, AP source says - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNUN4LTl1OU51NFhyTTZ0Mzc3cHJMOXZjcktRa29JNTlveUx4cWZqd0FIcGJicFJJbjJJdFl5MkljZG9fU21qQ0pfYVFoR3FDSTZkQ3paTE5EOGctek1ZdFMyVmVYXzZYdlZHanIzaFZqTV85UHh4a1I1ZENxOXVjaFhQNTNHYkNzbUkxNFRoQmhtR0FSeURyWnd3?oc=5",
-        "description": "",
-        "pubDate": "2025-09-16T00:17:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       }
     ],
