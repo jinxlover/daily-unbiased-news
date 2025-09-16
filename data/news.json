@@ -1,7 +1,25 @@
 {
-  "lastUpdate": "2025-09-16T10:20:06.565154Z",
+  "lastUpdate": "2025-09-16T10:38:49.086559Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Ender & Turing [Free] [Puzzle]",
+        "link": "https://mikelcreajuegos.itch.io/ender-turing",
+        "description": "A game poem about my cats",
+        "pubDate": "2025-09-16T10:18:20Z",
+        "source": "mikelcreajuegos.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTkxMjQyLmpwZw==/315x250%23c/9%2BSL%2Fg.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Operation Giant Dormant [Free] [Shooter] [Windows]",
+        "link": "https://tismeydubloc.itch.io/operation-giant-dormant",
+        "description": "Arma Inspired project",
+        "pubDate": "2025-09-16T10:02:51Z",
+        "source": "tismeydubloc.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTkxMTY0LnBuZw==/315x250%23c/CPO%2FbU.png",
+        "bias": 0
+      },
       {
         "title": "The Hollow Sounds [Free] [Survival] [Windows]",
         "link": "https://salaj.itch.io/the-hollow-sounds",
@@ -9,6 +27,15 @@
         "pubDate": "2025-09-16T09:59:50Z",
         "source": "salaj.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMTkxMTU0LnBuZw==/315x250%23c/wTLz0H.png",
+        "bias": 0
+      },
+      {
+        "title": "Pigeon* [Free] [Platformer]",
+        "link": "https://23332.itch.io/pigeon-sprint-3",
+        "description": "Finished!",
+        "pubDate": "2025-09-16T09:50:48Z",
+        "source": "23332.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTkxMzM4LmdpZg==/315x250%23c/2ZMwzC.gif",
         "bias": 0
       },
       {
@@ -183,24 +210,6 @@
         "bias": 0
       },
       {
-        "title": "President Life [Free]",
-        "link": "https://smit-studios.itch.io/president-life",
-        "description": "",
-        "pubDate": "2025-09-16T06:28:27Z",
-        "source": "smit-studios.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTg5NzMwLnBuZw==/315x250%23c/PsAXng.png",
-        "bias": 0
-      },
-      {
-        "title": "Arcade Nightmare Demo [Free] [Visual Novel]",
-        "link": "https://firdauskotp.itch.io/nightmare-arcade",
-        "description": "",
-        "pubDate": "2025-09-16T06:20:55Z",
-        "source": "firdauskotp.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTg5NjYxLnBuZw==/315x250%23c/9b8ey6.png",
-        "bias": 0
-      },
-      {
         "title": "Lendas Selvagens [Free] [Platformer]",
         "link": "https://doka-indie.itch.io/lendas-selvagens",
         "description": "",
@@ -219,16 +228,7 @@
         "bias": 0
       },
       {
-        "title": "Santo: 骰徒 Prototype [Free] [Card Game]",
-        "link": "https://rancestors.itch.io/santo",
-        "description": "",
-        "pubDate": "2025-09-16T05:16:05Z",
-        "source": "rancestors.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTg5MzI3LnBuZw==/315x250%23c/YnyjNo.png",
-        "bias": 0
-      },
-      {
-        "title": "The Alukah Games [Free] [Fighting]",
+        "title": "The Alukah Games [Free] [Fighting] [Windows]",
         "link": "https://canarchifou.itch.io/the-alukah-games",
         "description": "Fight for survival in these death games !",
         "pubDate": "2025-09-16T00:47:18Z",
@@ -238,6 +238,24 @@
       }
     ],
     "World": [
+      {
+        "title": "Kenya issues arrest warrant for British national over young mother's murder",
+        "link": "https://www.bbc.com/news/articles/cwywng4jp08o?at_medium=RSS&at_campaign=rss",
+        "description": "The 21-year-old was killed in 2012 and her body found in a septic tank in the garrison town of Nanyuki.",
+        "pubDate": "2025-09-16T10:32:38Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b640/live/ef332a10-92e1-11f0-b391-6936825093bd.png",
+        "bias": 0
+      },
+      {
+        "title": "Huge photo of Trump and Epstein unfurled in UK ahead of US state visit",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/9/16/huge-photo-of-trump-and-epstein-unfurled-in-uk-ahead-of-us-state-visit?traffic_source=rss",
+        "description": "Activists unfurled a giant photograph of Donald Trump with convicted sex offender Jeffrey Epstein near Windsor Castle.",
+        "pubDate": "2025-09-16T09:58:13Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Google owner reveals £5bn AI investment in UK ahead of Trump visit",
         "link": "https://www.bbc.com/news/articles/crmek723dz9o?at_medium=RSS&at_campaign=rss",
@@ -439,7 +457,7 @@
       {
         "title": "UN inquiry says Israel’s war on Gaza is genocide, holds gov’t responsible",
         "link": "https://www.aljazeera.com/news/2025/9/16/first-head-of-united-nations-body-declares-israels-gaza-war-a-genocide?traffic_source=rss",
-        "description": "A UN report finds from statements of Israeli officials and evidence on the ground that Israel is committing genocide.",
+        "description": "Using statements of Israeli officials and evidence on the ground, a UN report finds Israel is committing genocide.",
         "pubDate": "2025-09-16T07:02:55Z",
         "source": "aljazeera.com",
         "image": "",
@@ -669,24 +687,6 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c200/live/da2c1f40-92a1-11f0-b391-6936825093bd.jpg",
         "bias": 0
-      },
-      {
-        "title": "Nepal, Bangladesh, Sri Lanka: Is South Asia fertile for Gen Z revolutions?",
-        "link": "https://www.aljazeera.com/features/2025/9/16/sri-lanka-bangladesh-nepal-is-south-asia-fertile-for-gen-z-revolutions?traffic_source=rss",
-        "description": "The contexts and triggers were different, but analysts say there's a common thread tying South Asia's youth revolts.",
-        "pubDate": "2025-09-16T02:51:31Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Belarusians detained after drone flown over Polish president’s residence",
-        "link": "https://www.aljazeera.com/news/2025/9/16/belarusians-detained-after-drone-flown-over-polish-presidents-residence?traffic_source=rss",
-        "description": "Polish Prime Minister Donald Tusk says an investigation is under way after drone spotted over government buildings.",
-        "pubDate": "2025-09-16T02:49:44Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
@@ -698,6 +698,15 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d70/live/eca4eba0-92c1-11f0-aabe-7b11bbfd55ab.jpg",
         "bias": 0
+      },
+      {
+        "title": "Sen. Chris Murphy discusses the canceling of critics of Charlie Kirk and free speech",
+        "link": "https://www.npr.org/2025/09/16/nx-s1-5542190/sen-chris-murphy-discusses-the-canceling-of-critics-of-charlie-kirk-and-free-speech",
+        "description": "Sen. Chris Murphy, D-Conn., talks about the cancel culture that has followed Charlie Kirk's assassination and what it means for free speech.",
+        "pubDate": "2025-09-16T10:11:59Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "On Texas border, uninsured people stress the health system. It's set to get worse",
@@ -772,6 +781,15 @@
         "bias": 0
       },
       {
+        "title": "California man who landed plane twice on island naval base pleads guilty to charges - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaFVZV1RMeU1scDdBbzFaMWdPT1dfdDBfTFItdzJiLVpJX243elAtV0kxdXFJUF9DV1JGVU91ZndwYW50dzkzUi1pd3ZuQTlvOG45RWhBOVhuNEdIUmRndklxQ3JLZDhqRUtLUzFvLWo3RVdqcGtjRkpVM1BOVEVxQzhfOEludFFuellvd28tc2trS0hZTFBmSnV0dTlWZw?oc=5",
+        "description": "",
+        "pubDate": "2025-09-16T01:10:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Mason: Reform UK amplifies jitters for Labour and Conservatives",
         "link": "https://www.bbc.com/news/articles/cj4y2ejlpdjo?at_medium=RSS&at_campaign=rss",
         "description": "The BBC's political editor says people at the top of government acknowledge the last few weeks have been dreadful for them.",
@@ -808,15 +826,6 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc9b/live/287dd5b0-9236-11f0-a06c-f10cee3fef66.jpg",
         "bias": 0
-      },
-      {
-        "title": "California man who landed plane twice on island naval base pleads guilty to charges - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaFVZV1RMeU1scDdBbzFaMWdPT1dfdDBfTFItdzJiLVpJX243elAtV0kxdXFJUF9DV1JGVU91ZndwYW50dzkzUi1pd3ZuQTlvOG45RWhBOVhuNEdIUmRndklxQ3JLZDhqRUtLUzFvLWo3RVdqcGtjRkpVM1BOVEVxQzhfOEludFFuellvd28tc2trS0hZTFBmSnV0dTlWZw?oc=5",
-        "description": "",
-        "pubDate": "2025-09-16T01:10:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Science": [
@@ -831,6 +840,15 @@
       }
     ],
     "Business": [
+      {
+        "title": "Cafe owner helping others in memory of friend",
+        "link": "https://www.bbc.com/news/articles/c749ev79jgjo?at_medium=RSS&at_campaign=rss",
+        "description": "Owner Sam Elliott says she gave up drugs after the death of her friend due to crack cocaine use.",
+        "pubDate": "2025-09-16T10:34:49Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afde/live/7104bbe0-9250-11f0-b9c5-fd64e0842f34.jpg",
+        "bias": 0
+      },
       {
         "title": "JLR could face disruption until November after cyber hack, claim sources",
         "link": "https://www.bbc.com/news/articles/czewlj57e24o?at_medium=RSS&at_campaign=rss",
@@ -848,6 +866,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Wedgwood factory in 90-day pause after low demand",
+        "link": "https://www.bbc.com/news/articles/cm2zkx0zmkeo?at_medium=RSS&at_campaign=rss",
+        "description": "The pottery firm's Barlaston site will pause production from 29 September, with 70 workers on temporary leave.",
+        "pubDate": "2025-09-16T09:34:34Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/689c/live/2ee0f300-92dc-11f0-84c8-99de564f0440.jpg",
+        "bias": 0
       },
       {
         "title": "How long can the UK afford the pension triple lock?",
@@ -883,15 +910,6 @@
         "pubDate": "2025-09-16T08:38:55Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/829c/live/70bf2ad0-5bff-11f0-960d-e9f1088a89fe.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Cost of vet bills causing pet owner sleepless nights",
-        "link": "https://www.bbc.com/news/articles/cr70ng2k9lvo?at_medium=RSS&at_campaign=rss",
-        "description": "Alison spends the majority of her salary on her 12 pets and is \"financially unable to insure all of them\".",
-        "pubDate": "2025-09-16T04:22:12Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acb2/live/e67aa080-8d58-11f0-89c5-f9c523ebae74.jpg",
         "bias": 0
       },
       {
