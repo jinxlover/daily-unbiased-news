@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-09-16T18:48:44.423331Z",
+  "lastUpdate": "2025-09-16T18:59:13.559074Z",
   "news": {
     "Gaming": [
+      {
+        "title": "櫻之刃 SakuraBlade [$1.00] [Action]",
+        "link": "https://owljuice.itch.io/sakurablade",
+        "description": "",
+        "pubDate": "2025-09-16T18:46:09Z",
+        "source": "owljuice.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTk2NDczLnBuZw==/315x250%23c/tUbFi1.png",
+        "bias": 0
+      },
       {
         "title": "Treasure Hunter [Free] [Platformer]",
         "link": "https://jynnx.itch.io/treasure-hunter",
@@ -102,6 +111,15 @@
         "bias": 0
       },
       {
+        "title": "The Rules We Play By [Free]",
+        "link": "https://beccabaker2004.itch.io/the-rules-we-play-by",
+        "description": "",
+        "pubDate": "2025-09-16T17:18:00Z",
+        "source": "beccabaker2004.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTk1NzUyLmpwZWc=/315x250%23c/orb%2FHZ.jpeg",
+        "bias": 0
+      },
+      {
         "title": "WHISPERS IN THE DARK The House full game 1.0 [Free] [Adventure]",
         "link": "https://suno101.itch.io/whispers-in-the-dark-the-house-full-game-10",
         "description": "text-based horror adventure game",
@@ -165,30 +183,12 @@
         "bias": 0
       },
       {
-        "title": "FlappyBzya [Free] [Platformer]",
-        "link": "https://echpchmkch.itch.io/flappybzya",
-        "description": "Just a game with a concept of \"Flappy Bird\", but with Bzya the dog. It's my first game made on Unity!",
-        "pubDate": "2025-09-16T16:17:45Z",
-        "source": "echpchmkch.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTk0MzIxLnBuZw==/315x250%23c/it2DTe.png",
-        "bias": 0
-      },
-      {
         "title": "Crystal Quest - Theo [Free]",
         "link": "https://profjofradev.itch.io/crystal-quest-theo",
         "description": "Um jogo criado pelo aluno Theo no curso de Desenvolvimento de jogos Pleno",
         "pubDate": "2025-09-16T15:43:13Z",
         "source": "profjofradev.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMTk0MjQwLnBuZw==/315x250%23c/zNqtHO.png",
-        "bias": 0
-      },
-      {
-        "title": "PAST YOUR BEDTIME [Free] [Puzzle] [Windows]",
-        "link": "https://henrlx.itch.io/past-your-bedtime",
-        "description": "Children see things adults don't.",
-        "pubDate": "2025-09-16T13:42:38Z",
-        "source": "henrlx.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTk0NjMwLnBuZw==/315x250%23c/0gvUDP.png",
         "bias": 0
       },
       {
@@ -247,6 +247,15 @@
       }
     ],
     "World": [
+      {
+        "title": "Landmark ruling convicts seven FARC ex-leaders of wartime crimes",
+        "link": "https://www.aljazeera.com/news/2025/9/16/landmark-ruling-convicts-seven-farc-ex-leaders-of-wartime-crimes?traffic_source=rss",
+        "description": "Colombia’s JEP issues first individual sentences under 2016 peace deal, focusing on victims’ justice and reconciliation.",
+        "pubDate": "2025-09-16T18:42:49Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Trump says he will sue New York Times for $15bn",
         "link": "https://www.bbc.com/news/articles/cevz419pk8vo?at_medium=RSS&at_campaign=rss",
@@ -345,6 +354,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Senate Democrats raise concerns over Pentagon plan to use military lawyers as immigration judges - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTWstVENMZFFPYXMzdS1aOTRtb1dDQVhWc0Y3dE1NcWREYnFUZXBnRmRJQ0gzUUF2dUszVjZ0bUQybGJCTndybUdvRnBGQlFMazdqUE5Vb1RUVzhxTVZTTUx5c3JPeWhpVmJRTVc0cGxWamVRazJnaXo4Q2EzOG95NUtaejBNNDVUaVZ0VDkzb1BLSV9LU3BpSGhoTmtnUTJydDBpLUQ4dw?oc=5",
+        "description": "",
+        "pubDate": "2025-09-16T17:13:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Michigan Gov. Whitmer calls on state lawmakers to finish budget as shutdown creeps closer - AP News",
@@ -563,6 +581,15 @@
         "bias": 0
       },
       {
+        "title": "Target steps up next-day parcel delivery as discounter tries to narrow gap with rivals - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWTJwR3YxV18tYzhMMkVWREVzak9NcU1tbUJITnJKVHVTcldWc0N5blpDcXRqcEQ0d01CclhnTnNEaGNSeW5QRmYtYmxHOEtZZEFVaEJ1ckRaX0djN3FBaWlGWFpTcUFtUGhvTk9Jc0NPLTYtQXZYRXY3T2ZSTGtONlZvVTh0NGlFTDI4QlMyUEw3OFA4Znc?oc=5",
+        "description": "",
+        "pubDate": "2025-09-16T15:34:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "What is at stake in Malawi's elections as cost-of-living bites?",
         "link": "https://www.bbc.com/news/articles/ckgy3g7zpl3o?at_medium=RSS&at_campaign=rss",
         "description": "Campaigns were overshadowed by price rises and fuel shortages.",
@@ -669,33 +696,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Tim Walz, the 2024 Democratic VP candidate, says he’ll seek a third term as Minnesota’s governor - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcHdXaWNHdU1VQUJmdmJTeW5LeXpnbHZjMkl5ZVBHSnFnem5XX2hTZDIySnBCeGRLUHVKZ1JuR2hwOTZXaS1XRFQ2dTN4NWw4d1NYZUZoVTZ2ZGtpV1lkOVBnTTFUejNmeDNPWjRFYlhmVGZFc3RjTkpwRHR5bHc0SEIzTkZlNlk2YkJIMjhCR01nMmtNeDh6LVZDSjZFV00?oc=5",
-        "description": "",
-        "pubDate": "2025-09-16T14:27:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "A U.N. inquiry accuses Israel of genocide in Gaza, joining a rising chorus",
-        "link": "https://www.npr.org/2025/09/16/g-s1-89014/israel-gaza-genocide-un-inquiry",
-        "description": "The report issued Tuesday by experts commissioned by the United Nations' Human Rights Council calls on the international community to end the genocide and take steps to punish those responsible.",
-        "pubDate": "2025-09-16T14:26:15Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Deal is done to keep TikTok in the US, says Trump",
-        "link": "https://www.bbc.com/news/articles/c7847q9xvwgo?at_medium=RSS&at_campaign=rss",
-        "description": "The social media platform had faced a ban in the US over national security concerns.",
-        "pubDate": "2025-09-16T14:12:26Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11b2/live/3d8f2930-9304-11f0-a647-dff301f4a439.jpg",
-        "bias": 0
       }
     ],
     "Politics": [
@@ -703,7 +703,7 @@
         "title": "Eritrean man wins block on removal to France under 'one in, one out' deal",
         "link": "https://www.bbc.com/news/articles/c1dqe2443l1o?at_medium=RSS&at_campaign=rss",
         "description": "Some migrants who arrived in the UK by small boat had been told they would be put on flights to France as early as Tuesday.",
-        "pubDate": "2025-09-16T18:09:50Z",
+        "pubDate": "2025-09-16T18:57:08Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd92/live/93f892f0-930b-11f0-9cf6-cbf3e73ce2b9.jpg",
         "bias": 0
@@ -1029,16 +1029,25 @@
         "title": "Live updates: FBI’s Patel and Sen. Booker shout over each other at congressional hearing - AP News",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92Z0Z6bUhtYUxVeGJsNjRHRW5feFlnYU9naHNfc2tVLWtObENDUUpRMEp0dkUxTF9LMWR4cEtrU25odVdsX0NsYVhReXlzRVctV0FfZWFZRmJOYVlQTUVoU05sQTVETnluV3hN?oc=5",
         "description": "",
-        "pubDate": "2025-09-16T18:40:00Z",
+        "pubDate": "2025-09-16T18:55:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Robert Redford, Oscar-winning director, actor and indie patriarch, dies at 89 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYlY2d0VOUUNLVnQ4UUFQNGxyS1ZPYmdWeVZrNGVKQWowVjVIZ2pBcDRENWxVZHNxV1Q1MGt1ckw1dVdiOVg1bHN2ZnhRNnRBUXJlc1FieEpsaVRHNFRLdzBGN1gtaVhyUnJXeXI0WC1oUkRtek1RRFlXQm1uV1dKMDJQaExlUQ?oc=5",
+        "title": "Jane Fonda, Leonardo DiCaprio, Morgan Freeman and more mourn the death of Robert Redford - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd205UTlvUVBVenJXWU5Pa2VtTVFsQTVZMUFWQzd6eGdfTkQwRXJ1cVhyRURPLXZIUmNXRGp4TVljRlZCZHBncXduYWh2VzBtTm1YYWVzaWVEcjJhdnFaeXVmTlJGN1V1Q082bGdqU1dVVjROYkxaeTdCdF9kRHprSEF5WVl6by1DZWQtMTVzY3E4TWNMQUM0?oc=5",
         "description": "",
-        "pubDate": "2025-09-16T16:33:00Z",
+        "pubDate": "2025-09-16T18:44:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Finding happiness in amber: On Germany's Baltic coast, people go hunting for the precious pieces - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObEZnOGlVaHhxU2lJN21iaGtta3gzcUh6UEE0ZnpBaGI5RkZITHF2cC03Q0kxVFd3Ui1CRTlXM2NzVWlzMXpqWC1ib3Z2SThUS2V4dmtYOUtYWHpfejF6U1dUU0VOR2RvY203dFd6UkRuZlZqbV9pTDZCbEVCS3lVWUtKNE5EREN1T3YyMWE0aVBiczNuYmlWWDZzbw?oc=5",
+        "description": "",
+        "pubDate": "2025-09-16T12:16:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1050,15 +1059,6 @@
         "pubDate": "2025-09-16T04:20:10Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc9b/live/287dd5b0-9236-11f0-a06c-f10cee3fef66.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Trump says US again struck a boat allegedly carrying drugs from Venezuela - AP News",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ieGI2dFJmdFd3QzN3ZW05UUtwaUlPaEFveDlVem5mSS1NWnNJbC1ncTYwbklTN3UtckYyRVFMTDB2WW4zN0d0bzFoOEZMLTViLU1sNFhMR2xKekRaOEFabk9zOVNuaGI3V0FB?oc=5",
-        "description": "",
-        "pubDate": "2025-09-16T00:56:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       }
     ],
@@ -1091,19 +1091,19 @@
         "bias": 0
       },
       {
-        "title": "Jane Fonda, Ron Howard, Kerry Washington and more mourn the death of Robert Redford - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd205UTlvUVBVenJXWU5Pa2VtTVFsQTVZMUFWQzd6eGdfTkQwRXJ1cVhyRURPLXZIUmNXRGp4TVljRlZCZHBncXduYWh2VzBtTm1YYWVzaWVEcjJhdnFaeXVmTlJGN1V1Q082bGdqU1dVVjROYkxaeTdCdF9kRHprSEF5WVl6by1DZWQtMTVzY3E4TWNMQUM0?oc=5",
+        "title": "Malawi counts votes in a presidential election where economic turmoil is the top issue - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTzk1dkRuTG9BT0dlUnhyVzVUcjhQSjNSR043c0R4NkVRRElJLUpFTHk3eE1rSzRqUm9BQzA4VDdNSWcwUXdhSVVTYzNlTkJaX0c0TkZ3X1N1aExkODBYTnhoR29zY2N3X1F5eU5Xb0cwUXM0dUhPVV8tRUladUQzMkIzb1dDRWhfTEtELWJJMHdlbTJSZ2xxU2ZjN3VmcURtX2U5RUZoVWR3Q0tCM3BMNWNB?oc=5",
         "description": "",
-        "pubDate": "2025-09-16T17:23:00Z",
+        "pubDate": "2025-09-16T17:22:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Malawi counts votes in a presidential election where economic turmoil is the top issue - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTzk1dkRuTG9BT0dlUnhyVzVUcjhQSjNSR043c0R4NkVRRElJLUpFTHk3eE1rSzRqUm9BQzA4VDdNSWcwUXdhSVVTYzNlTkJaX0c0TkZ3X1N1aExkODBYTnhoR29zY2N3X1F5eU5Xb0cwUXM0dUhPVV8tRUladUQzMkIzb1dDRWhfTEtELWJJMHdlbTJSZ2xxU2ZjN3VmcURtX2U5RUZoVWR3Q0tCM3BMNWNB?oc=5",
+        "title": "Robert Redford, Oscar-winning director, actor and indie patriarch, dies at 89 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYlY2d0VOUUNLVnQ4UUFQNGxyS1ZPYmdWeVZrNGVKQWowVjVIZ2pBcDRENWxVZHNxV1Q1MGt1ckw1dVdiOVg1bHN2ZnhRNnRBUXJlc1FieEpsaVRHNFRLdzBGN1gtaVhyUnJXeXI0WC1oUkRtek1RRFlXQm1uV1dKMDJQaExlUQ?oc=5",
         "description": "",
-        "pubDate": "2025-09-16T17:22:00Z",
+        "pubDate": "2025-09-16T16:33:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1136,15 +1136,6 @@
         "bias": -1
       },
       {
-        "title": "Finding happiness in amber: On Germany's Baltic coast, people go hunting for the precious pieces - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObEZnOGlVaHhxU2lJN21iaGtta3gzcUh6UEE0ZnpBaGI5RkZITHF2cC03Q0kxVFd3Ui1CRTlXM2NzVWlzMXpqWC1ib3Z2SThUS2V4dmtYOUtYWHpfejF6U1dUU0VOR2RvY203dFd6UkRuZlZqbV9pTDZCbEVCS3lVWUtKNE5EREN1T3YyMWE0aVBiczNuYmlWWDZzbw?oc=5",
-        "description": "",
-        "pubDate": "2025-09-16T12:16:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "On 9/16/25, celebrate a date of mathematical beauty",
         "link": "https://www.npr.org/2025/09/16/nx-s1-5535545/pythagorean-triple-square-day-9-16-25",
         "description": "Pythagorean Triple Square Day, as one man affectionately calls 9/16/25, is a day like no other this century.",
@@ -1152,6 +1143,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Mexico City propane tanker explosion death toll reaches 15 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObk1jZEplcFhEeFVFTk1rTkc3Tm0xSTFPTS0wM3dFcEVINmJvSTRUekRXdFZLWmktS0dqRE52VlVsd0p0MUFVVmQ1RW8tbFFWZktxWkpFcy1KMDdvdDQzOG5WVzVnXy1fQ0QyVGlwRjRvNHhTSEZJeHdZUzFicmpzVU1xVGYxQ0p6R3cyUkszR29xQQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-16T00:47:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Business": [
