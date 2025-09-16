@@ -1,7 +1,25 @@
 {
-  "lastUpdate": "2025-09-16T10:38:49.086559Z",
+  "lastUpdate": "2025-09-16T10:49:50.310245Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Grawl — Rogue Survival [Free] [Survival]",
+        "link": "https://cccthspixelgame.itch.io/grawl-rogue-survival",
+        "description": "Roguelike survival en pixel art. Construis, combats, survie — dispo sur Android.",
+        "pubDate": "2025-09-16T10:36:05Z",
+        "source": "cccthspixelgame.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTkxNDAxLnBuZw==/315x250%23c/IDV8I5.png",
+        "bias": 0
+      },
+      {
+        "title": "Avixy [Free] [Puzzle] [Windows]",
+        "link": "https://kovnikel.itch.io/avixy",
+        "description": "2D puzzle game made in GZDoom",
+        "pubDate": "2025-09-16T10:29:51Z",
+        "source": "kovnikel.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTM4ODczLnBuZw==/315x250%23c/ykjmwZ.png",
+        "bias": 0
+      },
       {
         "title": "Ender & Turing [Free] [Puzzle]",
         "link": "https://mikelcreajuegos.itch.io/ender-turing",
@@ -192,7 +210,7 @@
         "bias": 0
       },
       {
-        "title": "Beatdown tower [Free] [Fighting]",
+        "title": "Beatdown tower [Free] [Fighting] [Android]",
         "link": "https://beatemup-studios.itch.io/beatdown-tower",
         "description": "",
         "pubDate": "2025-09-16T06:53:57Z",
@@ -219,15 +237,6 @@
         "bias": 0
       },
       {
-        "title": "Pixel Pastry: Idle Bakery [Free] [Simulation] [Windows] [Android]",
-        "link": "https://youxdev.itch.io/pixelpastry",
-        "description": "The ultimate retro idle clicker game! Tap your way to a massive donut empire.",
-        "pubDate": "2025-09-16T06:15:23Z",
-        "source": "youxdev.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTg5ODIyLnBuZw==/315x250%23c/oWsAqN.png",
-        "bias": 0
-      },
-      {
         "title": "The Alukah Games [Free] [Fighting] [Windows]",
         "link": "https://canarchifou.itch.io/the-alukah-games",
         "description": "Fight for survival in these death games !",
@@ -239,13 +248,67 @@
     ],
     "World": [
       {
+        "title": "Trump says he will sue New York Times for $15bn",
+        "link": "https://www.bbc.com/news/articles/cevz419pk8vo?at_medium=RSS&at_campaign=rss",
+        "description": "He has accused the paper of defamation and libel, saying it served as a \"mouthpiece\" for Democrats.",
+        "pubDate": "2025-09-16T10:49:14Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2832/live/710c7e40-92b7-11f0-84c8-99de564f0440.jpg",
+        "bias": 0
+      },
+      {
         "title": "Kenya issues arrest warrant for British national over young mother's murder",
         "link": "https://www.bbc.com/news/articles/cwywng4jp08o?at_medium=RSS&at_campaign=rss",
         "description": "The 21-year-old was killed in 2012 and her body found in a septic tank in the garrison town of Nanyuki.",
-        "pubDate": "2025-09-16T10:32:38Z",
+        "pubDate": "2025-09-16T10:47:28Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b640/live/ef332a10-92e1-11f0-b391-6936825093bd.png",
         "bias": 0
+      },
+      {
+        "title": "Ukrainians horrified by killing of refugee Iryna Zarutska, US culture wars",
+        "link": "https://www.aljazeera.com/news/2025/9/16/ukrainians-horrified-by-killing-of-refugee-iryna-zarutska-us-culture-wars?traffic_source=rss",
+        "description": "Ukraine's official response has been muted as pro-Trump activists exploit the murder in North Carolina.",
+        "pubDate": "2025-09-16T10:39:15Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Doha strikes are an example of Israel “manipulating” the US",
+        "link": "https://www.aljazeera.com/video/quotable/2025/9/16/doha-strikes-are-an-example-of-israel-manipulating-the-us?traffic_source=rss",
+        "description": "A former US intelligence officer explains why he thinks it's unlikely Israel will carry out another strike on Qatar.",
+        "pubDate": "2025-09-16T10:38:53Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Justin Bieber and Sabrina Carpenter to headline Coachella 2026",
+        "link": "https://www.bbc.com/news/articles/cr5q8zg0zy9o?at_medium=RSS&at_campaign=rss",
+        "description": "Karol G will also top the bill at the festival held in the Californian desert.",
+        "pubDate": "2025-09-16T10:34:04Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/956b/live/1d37bdc0-92df-11f0-950e-eb051178bae0.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Artefacts recovered from Titanic's sunk sister ship",
+        "link": "https://www.bbc.com/news/articles/cn4wq2we4jxo?at_medium=RSS&at_campaign=rss",
+        "description": "Items retrieved from the wreck of HMHS Britannic in the Aegean include a bell and binoculars, Greece says.",
+        "pubDate": "2025-09-16T10:30:20Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dc3/live/51558e60-92db-11f0-96cd-e56f773c8236.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Fact check: Can taking Tylenol during pregnancy cause autism in children?",
+        "link": "https://www.aljazeera.com/news/2025/9/16/fact-check-can-taking-tylenol-during-pregnancy-cause-autism-in-children?traffic_source=rss",
+        "description": "Experts consider Tylenol safe in pregnancy, though studies show mixed results on acetaminophen's link to autism.",
+        "pubDate": "2025-09-16T10:10:58Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Huge photo of Trump and Epstein unfurled in UK ahead of US state visit",
@@ -532,7 +595,7 @@
         "description": "Guinness World Records confirms the achievement, saying the rice weighed in at a staggering 8,780kg.",
         "pubDate": "2025-09-16T05:44:39Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5593/live/da753ec0-92b8-11f0-84c8-99de564f0440.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4687/live/72587380-92e9-11f0-b391-6936825093bd.jpg",
         "bias": 0
       },
       {
@@ -578,15 +641,6 @@
         "pubDate": "2025-09-16T05:00:37Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da02/live/49ac2c10-924e-11f0-9cf6-cbf3e73ce2b9.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Trump says he will sue New York Times for $15bn",
-        "link": "https://www.bbc.com/news/articles/cevz419pk8vo?at_medium=RSS&at_campaign=rss",
-        "description": "He has accused the paper of defamation and libel, saying it served as a \"mouthpiece\" for Democrats.",
-        "pubDate": "2025-09-16T04:57:35Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2832/live/710c7e40-92b7-11f0-84c8-99de564f0440.jpg",
         "bias": 0
       },
       {
@@ -642,54 +696,18 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Luigi Mangione due in court amid double jeopardy fight in UnitedHealthcare CEO’s killing - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWmQwM1lnOEwzelJsOXNRQzRvdkJJS1JaY1MxR2JsX09fMWNMbmVkMEdfRVRpYU9tMDJkV1lOT1psWTlTYmFqQTVzZDItZS1Yd19XUnVtZHNWbUY1SmF0cDdiN1dEdHR4dUxHSEIwY2FYdzRxd0lxdWVNNzFJbWQ4TnhXQjdIVmhFMVRCRWtDaUNmSTF5RTNVSHJYN3ZpN1NtU19qcWZ0a19Yb0E?oc=5",
-        "description": "",
-        "pubDate": "2025-09-16T04:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Baker Mayfield and Rachaad White rally Bucs to 20-19 win over Texans - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdWJOcks0TlNFME5JSEZ1dUdWV1AtZElIT2M0T0hvRVF0WWtwZU5YN01Jamh0UXdXaVBoVFo1cmg1d3FxeWxRVkotQXMtNlZ5VlAzSF9Yb0VHeF82RlU0dGtNd3hyeWVTc0JodXA1T25lWVFVbGRXR2VKaHhXZEdsOTFSUi1CbUNNWjdZ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-16T03:26:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Tyler Robinson’s DNA found at scene of Charlie Kirk’s murder, FBI head says",
-        "link": "https://www.aljazeera.com/news/2025/9/16/suspect-in-charlie-kirks-murder-linked-to-scene-by-dna-fbi-chief-says?traffic_source=rss",
-        "description": "FBI Director Kash Patel says 22-year-old suspect also expressed wish to 'take out' Kirk in text message exchange.",
-        "pubDate": "2025-09-16T03:17:08Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "What to know about the aftermath of Charlie Kirk’s assassination - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX2pNZ1haSmhPNUpzLW9BYUZ5UWZpZlRwWHF1eW90M2txMmozSnhiT0x3dnJZZnlXN3JQVnJrZTRINlNUcWdMOS02RWFIcnNWaDhreVhleEJock9DaW90NnBwUmE5elNFMGF5YnBSandSamRjQ1lZN1FVbXZBZTE1MHpPY2xVR0dERGJMeFRXSXNNeTBVN0otMS1DLTBFTjNwNG9OR3NvRQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-16T02:59:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "'Tinder Swindler' con artist arrested in Georgia",
-        "link": "https://www.bbc.com/news/articles/cn95jjn1q40o?at_medium=RSS&at_campaign=rss",
-        "description": "Israeli Simon Leviev, accused of defrauding multiple women of up to $10m, is taken into custody at an airport.",
-        "pubDate": "2025-09-16T02:53:36Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c200/live/da2c1f40-92a1-11f0-b391-6936825093bd.jpg",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Former Tory minister Maria Caulfield defects to Reform",
+        "link": "https://www.bbc.com/news/articles/c1wg3zx4r0qo?at_medium=RSS&at_campaign=rss",
+        "description": "Caulfield lost her seat at last year's general election, after nearly nine years as the MP for Lewes.",
+        "pubDate": "2025-09-16T10:44:26Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5830/live/12ad9cb0-92e1-11f0-950e-eb051178bae0.png",
+        "bias": 0
+      },
       {
         "title": "State pension likely to rise by 4.7% in April",
         "link": "https://www.bbc.com/news/articles/c62lnzdndkeo?at_medium=RSS&at_campaign=rss",
@@ -781,15 +799,6 @@
         "bias": 0
       },
       {
-        "title": "California man who landed plane twice on island naval base pleads guilty to charges - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaFVZV1RMeU1scDdBbzFaMWdPT1dfdDBfTFItdzJiLVpJX243elAtV0kxdXFJUF9DV1JGVU91ZndwYW50dzkzUi1pd3ZuQTlvOG45RWhBOVhuNEdIUmRndklxQ3JLZDhqRUtLUzFvLWo3RVdqcGtjRkpVM1BOVEVxQzhfOEludFFuellvd28tc2trS0hZTFBmSnV0dTlWZw?oc=5",
-        "description": "",
-        "pubDate": "2025-09-16T01:10:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Mason: Reform UK amplifies jitters for Labour and Conservatives",
         "link": "https://www.bbc.com/news/articles/cj4y2ejlpdjo?at_medium=RSS&at_campaign=rss",
         "description": "The BBC's political editor says people at the top of government acknowledge the last few weeks have been dreadful for them.",
@@ -826,6 +835,15 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc9b/live/287dd5b0-9236-11f0-a06c-f10cee3fef66.jpg",
         "bias": 0
+      },
+      {
+        "title": "California man who landed plane twice on island naval base pleads guilty to charges - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaFVZV1RMeU1scDdBbzFaMWdPT1dfdDBfTFItdzJiLVpJX243elAtV0kxdXFJUF9DV1JGVU91ZndwYW50dzkzUi1pd3ZuQTlvOG45RWhBOVhuNEdIUmRndklxQ3JLZDhqRUtLUzFvLWo3RVdqcGtjRkpVM1BOVEVxQzhfOEludFFuellvd28tc2trS0hZTFBmSnV0dTlWZw?oc=5",
+        "description": "",
+        "pubDate": "2025-09-16T01:10:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Science": [
@@ -840,6 +858,24 @@
       }
     ],
     "Business": [
+      {
+        "title": "Winter fuel payments stopped for 9.3 million people before government U-turn",
+        "link": "https://www.bbc.com/news/articles/cgrq5049j0yo?at_medium=RSS&at_campaign=rss",
+        "description": "Official data shows the number of people who received winter fuel payments after now-reversed government cuts.",
+        "pubDate": "2025-09-16T10:39:00Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e9b/live/791a51f0-9237-11f0-a06c-f10cee3fef66.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Winter fuel payments fell by 9.3 million before U-turn",
+        "link": "https://www.bbc.com/news/articles/cgrq5049j0yo?at_medium=RSS&at_campaign=rss",
+        "description": "Official data shows the number of people who received winter fuel payments after now-reversed government cuts.",
+        "pubDate": "2025-09-16T10:39:00Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e9b/live/791a51f0-9237-11f0-a06c-f10cee3fef66.jpg",
+        "bias": 0
+      },
       {
         "title": "Cafe owner helping others in memory of friend",
         "link": "https://www.bbc.com/news/articles/c749ev79jgjo?at_medium=RSS&at_campaign=rss",
@@ -883,24 +919,6 @@
         "pubDate": "2025-09-16T09:04:55Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c07a/live/b2ce65e0-92cc-11f0-a72d-3fad567a173a.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Winter fuel payments stopped for 9.3 million people before government U-turn",
-        "link": "https://www.bbc.com/news/articles/cgrq5049j0yo?at_medium=RSS&at_campaign=rss",
-        "description": "Official data shows the number of people who received winter fuel payments after now-reversed government cuts.",
-        "pubDate": "2025-09-16T08:55:44Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e9b/live/791a51f0-9237-11f0-a06c-f10cee3fef66.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Winter fuel payments fell by 9.3 million before U-turn",
-        "link": "https://www.bbc.com/news/articles/cgrq5049j0yo?at_medium=RSS&at_campaign=rss",
-        "description": "Official data shows the number of people who received winter fuel payments after now-reversed government cuts.",
-        "pubDate": "2025-09-16T08:55:44Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e9b/live/791a51f0-9237-11f0-a06c-f10cee3fef66.jpg",
         "bias": 0
       },
       {
