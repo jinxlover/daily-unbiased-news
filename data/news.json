@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-09-16T14:22:09.283051Z",
+  "lastUpdate": "2025-09-16T14:42:58.808466Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Elementrix [Free] [Simulation] [Windows]",
+        "link": "https://pdxd3v.itch.io/elementrix",
+        "description": "",
+        "pubDate": "2025-09-16T14:28:06Z",
+        "source": "pdxd3v.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTkzNDAxLnBuZw==/315x250%23c/W3ejcm.png",
+        "bias": 0
+      },
       {
         "title": "FearFul Pursuit Ape [Free] [Android]",
         "link": "https://thepurpleape.itch.io/fearful-pursuit-ape",
@@ -44,7 +53,7 @@
         "description": "Raccoon Thief vs Cat Guard",
         "pubDate": "2025-09-16T13:42:09Z",
         "source": "chrsvas.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTkzMzExLnBuZw==/315x250%23c/KmsQt4.png",
+        "image": "https://img.itch.zone/aW1nLzIzMTkzMzY5LmpwZw==/315x250%23c/sCJBEA.jpg",
         "bias": 0
       },
       {
@@ -165,24 +174,6 @@
         "bias": 0
       },
       {
-        "title": "Wicked Bowling [Free]",
-        "link": "https://chrsvas.itch.io/wicked-bowling",
-        "description": "A twisted game of bowling",
-        "pubDate": "2025-09-16T12:34:03Z",
-        "source": "chrsvas.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTkyMzI0LmpwZw==/315x250%23c/tGbtbk.jpg",
-        "bias": 0
-      },
-      {
-        "title": "The Unmaking Gospel [Free] [Visual Novel] [Windows] [macOS]",
-        "link": "https://bowspam.itch.io/the-unmaking-gospel",
-        "description": "Your interpretation will become reality.",
-        "pubDate": "2025-09-16T12:29:39Z",
-        "source": "bowspam.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMTkyMjM4LnBuZw==/315x250%23c/Jk6a92.png",
-        "bias": 0
-      },
-      {
         "title": "Union Jack Crossword [$5.00] [Puzzle]",
         "link": "https://lettergolem.itch.io/union-jack-crossword",
         "description": "decipher the famous names from the United Kingdom",
@@ -201,9 +192,9 @@
         "bias": 0
       },
       {
-        "title": "RELIANCE [Free] [Interactive Fiction]",
+        "title": "RELIANCE [Free] [Interactive Fiction] [Windows]",
         "link": "https://reliance-4202.itch.io/reliance",
-        "description": "在依賴與背叛之間，選擇你的未來",
+        "description": "在信賴與背叛之間，選擇你的未來",
         "pubDate": "2025-09-16T11:40:39Z",
         "source": "reliance-4202.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMTkzMTY5LmpwZw==/315x250%23c/MU6mUf.jpg",
@@ -217,35 +208,89 @@
         "source": "sokilua.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMTg5NTg5LnBuZw==/315x250%23c/wzwMUv.png",
         "bias": 0
+      },
+      {
+        "title": "Unhinged Shooty Game (demo) [Free] [Shooter]",
+        "link": "https://unhingedgamescorp.itch.io/unhinged-shooty-game",
+        "description": "an unhinged 2d shooter game",
+        "pubDate": "2025-09-16T00:17:15Z",
+        "source": "unhingedgamescorp.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMTg3MzQ4LmpwZw==/315x250%23c/at84OH.jpg",
+        "bias": 0
       }
     ],
     "World": [
       {
-        "title": "Watch: The Sundance Kid's life in the spotlight",
-        "link": "https://www.bbc.com/news/videos/ce9rvmk8xdzo?at_medium=RSS&at_campaign=rss",
-        "description": "BBC's David Sillito takes a look at the career of the Hollywood icon who has died aged 89.",
-        "pubDate": "2025-09-16T14:09:21Z",
+        "title": "Acting legend Robert Redford dies aged 89",
+        "link": "https://www.bbc.com/news/articles/c1dqe9ey0kgo?at_medium=RSS&at_campaign=rss",
+        "description": "The acting star was famous for roles in The Sting and Butch Cassidy and the Sundance Kid.",
+        "pubDate": "2025-09-16T14:40:12Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b24/live/0a01eab0-9306-11f0-84c8-99de564f0440.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/267c/live/0e01a960-92f8-11f0-ba89-ad7477f3387f.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Ghana insists immigrants deported by the US have been sent home, contradicting lawyers - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdEhHalprOGUtZUVDWElSeTNPSU9DWU1KUW1hZkNfZVp5OWFzdThYbUtrNVF2WHM0Rlh1V21WOV8ydU5ZUEhSb0Y5TDVyemlaWXlfYkNzNElQRFJQc19OTzNMWjRrbzRkSFZ0TE13VUthTmR4ZV82cDc3TkFqYW5ZdkI0YUUwbTFhMUQtbGxMMjRCV283WDM3ZnBjRnZxdWs5Y1Zvb29mRHVyVXJHSFd3?oc=5",
+        "description": "",
+        "pubDate": "2025-09-16T14:29:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
         "title": "Judge dismisses terrorism charges against Luigi Mangione",
         "link": "https://www.bbc.com/news/articles/cj4y2p8qq5qo?at_medium=RSS&at_campaign=rss",
         "description": "Judge Gregory Carro also ruled a second-degree murder charge against Mangione could stand during a hearing on Tuesday.",
-        "pubDate": "2025-09-16T14:02:19Z",
+        "pubDate": "2025-09-16T14:27:27Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fed/live/c0e29970-9309-11f0-9cf6-cbf3e73ce2b9.jpg",
         "bias": 0
       },
       {
-        "title": "Acting legend Robert Redford dies aged 89",
-        "link": "https://www.bbc.com/news/articles/c1dqe9ey0kgo?at_medium=RSS&at_campaign=rss",
-        "description": "The acting star was famous for roles in The Sting and Butch Cassidy and the Sundance Kid.",
-        "pubDate": "2025-09-16T13:55:50Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/267c/live/0e01a960-92f8-11f0-ba89-ad7477f3387f.jpg",
+        "title": "New York judge tosses terrorism charges against Luigi Mangione, lets murder count stand - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWmQwM1lnOEwzelJsOXNRQzRvdkJJS1JaY1MxR2JsX09fMWNMbmVkMEdfRVRpYU9tMDJkV1lOT1psWTlTYmFqQTVzZDItZS1Yd19XUnVtZHNWbUY1SmF0cDdiN1dEdHR4dUxHSEIwY2FYdzRxd0lxdWVNNzFJbWQ4TnhXQjdIVmhFMVRCRWtDaUNmSTF5RTNVSHJYN3ZpN1NtU19qcWZ0a19Yb0E?oc=5",
+        "description": "",
+        "pubDate": "2025-09-16T14:27:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
+      },
+      {
+        "title": "A UN inquiry accuses Israel of genocide in Gaza, joining a rising chorus",
+        "link": "https://www.npr.org/2025/09/16/g-s1-89014/israel-gaza-genocide-un-inquiry",
+        "description": "The report issued Tuesday by experts commissioned by the United Nations' Human Rights Council calls on the international community to end the genocide and take steps to punish those responsible.",
+        "pubDate": "2025-09-16T14:26:15Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Watch: The Sundance Kid's life in the spotlight",
+        "link": "https://www.bbc.com/news/videos/ce9rvmk8xdzo?at_medium=RSS&at_campaign=rss",
+        "description": "The BBC's David Sillito takes a look at the career of the Hollywood icon who has died aged 89.",
+        "pubDate": "2025-09-16T14:09:21Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b24/live/0a01eab0-9306-11f0-84c8-99de564f0440.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Trump’s UK visit: What’s on the agenda, schedule, what to expect",
+        "link": "https://www.aljazeera.com/news/2025/9/16/trumps-uk-visit-whats-on-the-agenda-schedule-what-to-expect?traffic_source=rss",
+        "description": "The visit comes at a sensitive time for the UK, which plans to lay on a display of royal pageantry for the US president.",
+        "pubDate": "2025-09-16T14:07:13Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Charlie Kirk killing live: Murder suspect Robinson to appear in Utah court",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/9/16/charlie-kirk-killing-live-murder-suspect-robinson-to-appear-in-utah-court?traffic_source=rss",
+        "description": "Tyler Robinson, 22, expected to face formal charges in the assassination of conservative activist Charlie Kirk.",
+        "pubDate": "2025-09-16T14:00:43Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Kipyegon wins historic fourth world 1500m gold",
@@ -275,15 +320,6 @@
         "bias": 0
       },
       {
-        "title": "New York judge tosses terrorism charges against Luigi Mangione, lets murder count stand - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWmQwM1lnOEwzelJsOXNRQzRvdkJJS1JaY1MxR2JsX09fMWNMbmVkMEdfRVRpYU9tMDJkV1lOT1psWTlTYmFqQTVzZDItZS1Yd19XUnVtZHNWbUY1SmF0cDdiN1dEdHR4dUxHSEIwY2FYdzRxd0lxdWVNNzFJbWQ4TnhXQjdIVmhFMVRCRWtDaUNmSTF5RTNVSHJYN3ZpN1NtU19qcWZ0a19Yb0E?oc=5",
-        "description": "",
-        "pubDate": "2025-09-16T13:41:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Israel launches series of strikes on Yemen’s Red Sea port Hodeidah",
         "link": "https://www.aljazeera.com/news/2025/9/16/israeli-military-attacks-yemens-red-sea-port-hodeidah-houthi-linked-tv?traffic_source=rss",
         "description": "The attack on Tuesday was first confirmed by the Houthi-affiliated Al Masirah TV station.",
@@ -302,6 +338,15 @@
         "bias": -1
       },
       {
+        "title": "It’s ‘do or die’ for electric vehicle maker Rivian as it breaks ground on a $5 billion plant - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZHhaOXNEMm52N0ZEaGZNX0VuZmxWWEIyd0h1WmhSVTFySVNtNHZfeHR2dFhNYWR3UVVrcGVpMnNGamVzNkh4Q2UwOVd0MFFoVEFrLVhRMUlJZmJPWUZWdENtVVN2OEdyOUVmRkdCaXFpYWdMbF83VE12QzVIWVl1cnJ2R2VXWWJfeWl4MEVHQmtOYUE1MHJvNVZCRHFEcUNnUUpScU5icw?oc=5",
+        "description": "",
+        "pubDate": "2025-09-16T13:30:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Israel launches ground offensive on Gaza City",
         "link": "https://www.bbc.com/news/articles/c749q1245pwo?at_medium=RSS&at_campaign=rss",
         "description": "It comes as a UN commission of inquiry found that Israel was committing genocide in Gaza.",
@@ -315,6 +360,15 @@
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZFNDUFV0dS1ZYTVXeWNZbE9XVHcyRHpwenVVNmxZSUxraUw3T09PZnRuRGZvRHluTFFydC1qNk1NN3NEMXJDdzkzbThHOXI5Z3EtQUlIaVRRVGM5d2gyMDNmcnNkaUJELXBUc1Ixc3dXUWhIY1JoT0p5UFFPWlV6Ukpob0ZMdHljSDZMWFVhTW1QbFRRbEZjb2EyQ0IxOTI2RWdzUU1sQ3Y0RnA5R01KSw?oc=5",
         "description": "",
         "pubDate": "2025-09-16T13:18:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Tensions flare as Chinese and Philippine ships collide near disputed shoal in South China Sea - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYnU0TklnVm80RzdkRXJrU202Z1BuNVpoM3VsMjl5Q1pteVFEWXItUnhDRnQ2R0tJY0N3cGhBT3NtWjdQY3FPQUFWWW5mUE5DRWlZUkFKc0pJSV9zNlpiM0hIVmVjZVN4SFBxTk5EWElMeEFIdFd2QlRvcjVqdlpwS3JDRHU4OGVoMndBa0xCZC1SRlk5SGc1bWN2NWpPMXBCZkJBX09CUEU3ZFVOMEZSaFlyWlBZdw?oc=5",
+        "description": "",
+        "pubDate": "2025-09-16T13:09:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -358,7 +412,7 @@
       {
         "title": "Oscar-winning actor, director and activist Robert Redford passes away at 89",
         "link": "https://www.aljazeera.com/news/2025/9/16/oscar-winning-actor-director-and-activist-robert-redford-passes-away-at-89?traffic_source=rss",
-        "description": "Redford was a liberal activist and godfather for independent cinema under the name of one of his best-loved characters,",
+        "description": "Redford was a liberal activist and godfather for independent cinema under the name of one of his best-loved characters.",
         "pubDate": "2025-09-16T12:42:53Z",
         "source": "aljazeera.com",
         "image": "",
@@ -518,15 +572,6 @@
         "bias": 0
       },
       {
-        "title": "It’s ‘do or die’ for electric vehicle maker Rivian as it breaks ground on a $5 billion plant - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZHhaOXNEMm52N0ZEaGZNX0VuZmxWWEIyd0h1WmhSVTFySVNtNHZfeHR2dFhNYWR3UVVrcGVpMnNGamVzNkh4Q2UwOVd0MFFoVEFrLVhRMUlJZmJPWUZWdENtVVN2OEdyOUVmRkdCaXFpYWdMbF83VE12QzVIWVl1cnJ2R2VXWWJfeWl4MEVHQmtOYUE1MHJvNVZCRHFEcUNnUUpScU5icw?oc=5",
-        "description": "",
-        "pubDate": "2025-09-16T11:05:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Kenya issues arrest warrant for British national over young mother's murder",
         "link": "https://www.bbc.com/news/articles/cwywng4jp08o?at_medium=RSS&at_campaign=rss",
         "description": "The 21-year-old was killed in 2012 and her body found in a septic tank in the garrison town of Nanyuki.",
@@ -581,15 +626,6 @@
         "bias": -1
       },
       {
-        "title": "Doha strikes are an example of Israel “manipulating” the US",
-        "link": "https://www.aljazeera.com/video/quotable/2025/9/16/doha-strikes-are-an-example-of-israel-manipulating-the-us?traffic_source=rss",
-        "description": "A former US intelligence officer explains why he thinks it's unlikely Israel will carry out another strike on Qatar.",
-        "pubDate": "2025-09-16T10:38:53Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "Justin Bieber and Sabrina Carpenter to headline Coachella 2026",
         "link": "https://www.bbc.com/news/articles/cr5q8zg0zy9o?at_medium=RSS&at_campaign=rss",
         "description": "Karol G will also top the bill at the festival held in the Californian desert.",
@@ -626,15 +662,6 @@
         "bias": 0
       },
       {
-        "title": "Fact check: Can taking Tylenol during pregnancy cause autism in children?",
-        "link": "https://www.aljazeera.com/news/2025/9/16/fact-check-can-taking-tylenol-during-pregnancy-cause-autism-in-children?traffic_source=rss",
-        "description": "Experts consider Tylenol safe in pregnancy, though studies show mixed results on acetaminophen's link to autism.",
-        "pubDate": "2025-09-16T10:10:58Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "The surprising truth about dividend growth stocks - AP News",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTk82aGNPZlZvcThDUjJFZUFuTmlyTEJuTGkxN09zV0JzckpyOWs0aFhPR2EyMlpzc2EyemhTeWtxTFdmaVpMTk4waElnbF8tejlMemZvMlZzOUhIMWRobHlXeFRZbzQxVEVFQnNHZXNJRC1RMnNkYWFNczJLZkJqU1VzNGFZMGo3QVBZd1BIcUswamU3UHV2eWhIOVBpMmc?oc=5",
         "description": "",
@@ -642,33 +669,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Australia warns social media platforms against age verification for all ahead of a ban on children - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNmYxZTV3czU1YUlPQjloLU9JbWltekY0a3NyTTg2MldUWVZRcngtUVlaelRPckZHMl9BRXlXQi1jMTJRTldMX1F2bkFMTTJHU0lUR0RlUS1BdkdGY1RvVzRnRUhXOEZYZ3ctek1fOHQ3QkNueENQR1llV1BYRjlRZXRwb2dBMjhhZHFqZlQycnFLcGx6TTFPZkNIM2RNdw?oc=5",
-        "description": "",
-        "pubDate": "2025-09-16T09:38:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "US and China reach a framework deal for the ownership of TikTok - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaWJBamFBWTExcW5wZlVZWTloQl9iVVVGdmFxN1dDcmFNaEloTWhhTkRieERWWmEzRVpWTjNNZmNCbC0yYVAtZnp6NUp6YnNtU0MyQUhZckxhR0FGQ1FndG9CVEZyNURmYnd3Ym5CZVo5U1ptcklfVWNhQXhhWEpXUG5kS2U?oc=5",
-        "description": "",
-        "pubDate": "2025-09-16T09:10:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Protests threaten to overshadow President Trump's U.K. state visit",
-        "link": "https://www.npr.org/2025/09/16/nx-s1-5541976/protests-threaten-to-overshadow-president-trumps-u-k-state-visit",
-        "description": "President Trump will arrive in the U.K. Tuesday night for a rare second state visit. But protests threaten to overshadow all the planned pomp and pageantry.",
-        "pubDate": "2025-09-16T08:53:38Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
@@ -715,6 +715,15 @@
         "pubDate": "2025-09-16T12:04:43Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f79/live/e34101a0-92f0-11f0-ad9f-17dac350ed4d.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Wall Street mostly higher ahead of retail sales data and Wednesday's Fed interest rate decision - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdGtNNEVBc092Tmo5YV92Mnl6SzFaT0xtekRPNEtCc0lERUNISDVVTW8wUHZLM2FqazdqelJJWWQ3a2hCYzNKQnlJa0VXcTZnT1Z4YS16cm5PNnhodXhneHA3N2RQdGdUd1NEZEJsc0xzX3BIV1R0QkRJVVUzdTVqS0poc1lhODhfem1YOFEtWnZndWVKTjdFY280cjNaNXc?oc=5",
+        "description": "",
+        "pubDate": "2025-09-16T11:49:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -817,18 +826,18 @@
         "bias": 0
       },
       {
-        "title": "On Texas border, uninsured people stress the health system. It's set to get worse",
-        "link": "https://www.npr.org/sections/shots-health-news/2025/09/16/nx-s1-5542408/health-insurance-obbba-texas-uninsurance-rates",
-        "description": "In South Texas' Rio Grande Valley, many people go without health insurance, and the health system struggles as a result. Similar communities dot the nation.",
+        "title": "FBI Director Patel testifies on Capitol Hill amid questions over his leadership",
+        "link": "https://www.npr.org/2025/09/16/g-s1-88926/fbi-director-patel-testimony-congress",
+        "description": "Kash Patel's appearance in the Senate comes at a delicate time for the director, who is a loyalist of President Trump but has no experience leading an organization like the FBI.",
         "pubDate": "2025-09-16T09:00:00Z",
         "source": "npr.org",
         "image": "",
         "bias": -1
       },
       {
-        "title": "FBI Director Patel testifies on Capitol Hill amid questions over his leadership",
-        "link": "https://www.npr.org/2025/09/16/g-s1-88926/fbi-director-patel-testimony-congress",
-        "description": "Kash Patel's appearance in the Senate comes at a delicate time for the director, who is a loyalist of President Trump but has no experience leading an organization like the FBI.",
+        "title": "On Texas border, uninsured people stress the health system. It's set to get worse",
+        "link": "https://www.npr.org/sections/shots-health-news/2025/09/16/nx-s1-5542408/health-insurance-obbba-texas-uninsurance-rates",
+        "description": "In South Texas' Rio Grande Valley, many people go without health insurance, and the health system struggles as a result. Similar communities dot the nation.",
         "pubDate": "2025-09-16T09:00:00Z",
         "source": "npr.org",
         "image": "",
@@ -859,15 +868,6 @@
         "pubDate": "2025-09-16T08:00:05Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdeb/live/e3cb4710-927e-11f0-84c8-99de564f0440.jpg",
-        "bias": 0
-      },
-      {
-        "title": "US judge won’t intervene in Trump administration’s deportations of West Africans to Ghana - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdEhHalprOGUtZUVDWElSeTNPSU9DWU1KUW1hZkNfZVp5OWFzdThYbUtrNVF2WHM0Rlh1V21WOV8ydU5ZUEhSb0Y5TDVyemlaWXlfYkNzNElQRFJQc19OTzNMWjRrbzRkSFZ0TE13VUthTmR4ZV82cDc3TkFqYW5ZdkI0YUUwbTFhMUQtbGxMMjRCV283WDM3ZnBjRnZxdWs5Y1Zvb29mRHVyVXJHSFd3?oc=5",
-        "description": "",
-        "pubDate": "2025-09-16T07:50:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -918,15 +918,6 @@
         "bias": 0
       },
       {
-        "title": "Robert Redford, Oscar-winning actor, director and indie patriarch, dies at 89 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYlY2d0VOUUNLVnQ4UUFQNGxyS1ZPYmdWeVZrNGVKQWowVjVIZ2pBcDRENWxVZHNxV1Q1MGt1ckw1dVdiOVg1bHN2ZnhRNnRBUXJlc1FieEpsaVRHNFRLdzBGN1gtaVhyUnJXeXI0WC1oUkRtek1RRFlXQm1uV1dKMDJQaExlUQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-16T12:46:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Retail sales up 0.6% in August from July even as tariffs hurt jobs and lead to price hikes - AP News",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa2hhRk5EbEJBZ0VpOFh2LU9MY2NJbHo5LXd1bnZPTHNDYXZTVy10Yjc1NkpBMzdrYUMyemtVazlxOEdncDBQd0FvSHpCRmp1WVZ3UWRsU0V6bGg1eGhGSzZISFZYaUhuZ1ptalVwMEh2emQtcU4zdEI2R1g1MkxIc0lfUVRnOE0?oc=5",
         "description": "",
@@ -936,19 +927,19 @@
         "bias": 0
       },
       {
-        "title": "Tensions flare as Chinese and Philippine ships collide near disputed shoal in South China Sea - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYnU0TklnVm80RzdkRXJrU202Z1BuNVpoM3VsMjl5Q1pteVFEWXItUnhDRnQ2R0tJY0N3cGhBT3NtWjdQY3FPQUFWWW5mUE5DRWlZUkFKc0pJSV9zNlpiM0hIVmVjZVN4SFBxTk5EWElMeEFIdFd2QlRvcjVqdlpwS3JDRHU4OGVoMndBa0xCZC1SRlk5SGc1bWN2NWpPMXBCZkJBX09CUEU3ZFVOMEZSaFlyWlBZdw?oc=5",
+        "title": "Ford to drop up to 1,000 jobs at German plant as demand for electric cars in Europe lags forecasts - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZXFndFc1RTZ4bzJzNEVGb3V0SWctdUU0UmY3N3JLTmlxRWFVU0NEMHR4bDFta3pZdG5fb2pjNWJMeDdRQ1VXX2p2bWdSMlJvSnFPa1hIQzJnYUdwRldnQ1dqRmVMWXNqazA1cWJPQ1I2V2JFZkl5MS1MdWlNVDRtekRhZGh1RHNVWFBRcnRUdGNoVVpqZmZidnIyQmp4dw?oc=5",
         "description": "",
-        "pubDate": "2025-09-16T11:50:00Z",
+        "pubDate": "2025-09-16T12:08:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Wall Street mostly higher ahead of retail sales data and Wednesday's Fed interest rate decision - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdGtNNEVBc092Tmo5YV92Mnl6SzFaT0xtekRPNEtCc0lERUNISDVVTW8wUHZLM2FqazdqelJJWWQ3a2hCYzNKQnlJa0VXcTZnT1Z4YS16cm5PNnhodXhneHA3N2RQdGdUd1NEZEJsc0xzX3BIV1R0QkRJVVUzdTVqS0poc1lhODhfem1YOFEtWnZndWVKTjdFY280cjNaNXc?oc=5",
+        "title": "Taliban leader bans WIFI in an Afghan province to ‘prevent immorality’ - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOai1nTk9Pai1TWlRISklXb0tVbm9iNmhLYzk3c21JVFExb21vLUlZdklzSkVwQUFiWGpYQ1o5YzdyQ3NYX1JOVmRJYWQ0blpYTlJ0eGtlUEZUZ0ZHOXdRelJrWXJOS0dTRlJPRnMwTmxMNUIxaWktU3Npa19sVUI4OTNQVVBZY01RREg5d1hyNkFOWkgwMEs1VF9yZmJ3ZHM?oc=5",
         "description": "",
-        "pubDate": "2025-09-16T11:49:00Z",
+        "pubDate": "2025-09-16T11:26:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -967,15 +958,6 @@
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeTJnZGtTT2huaGJOZ0E4czFseHBONWRKN24xOHJwTEZiZ1lLV0FrXzhWUmRrTElONzZvUXRSbDZVRi1EcmMxNF9waHZ3VUlvSDhHLUtvR1FObzVFZUwtMDRPQ2k2UmhQWE1idTk5T25QS2h1a2FkVFdnZk5HXzhsYWZIQnlnaXpjQ2Y0SndpdW02Zw?oc=5",
         "description": "",
         "pubDate": "2025-09-16T10:47:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Ford to drop up to 1,000 jobs at German plant as demand for electric cars in Europe lags forecasts - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZXFndFc1RTZ4bzJzNEVGb3V0SWctdUU0UmY3N3JLTmlxRWFVU0NEMHR4bDFta3pZdG5fb2pjNWJMeDdRQ1VXX2p2bWdSMlJvSnFPa1hIQzJnYUdwRldnQ1dqRmVMWXNqazA1cWJPQ1I2V2JFZkl5MS1MdWlNVDRtekRhZGh1RHNVWFBRcnRUdGNoVVpqZmZidnIyQmp4dw?oc=5",
-        "description": "",
-        "pubDate": "2025-09-16T10:26:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1028,19 +1010,19 @@
         "bias": -1
       },
       {
-        "title": "Tim Walz, the 2024 Democratic VP candidate, says he’ll seek a third term as Minnesota’s governor - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcHdXaWNHdU1VQUJmdmJTeW5LeXpnbHZjMkl5ZVBHSnFnem5XX2hTZDIySnBCeGRLUHVKZ1JuR2hwOTZXaS1XRFQ2dTN4NWw4d1NYZUZoVTZ2ZGtpV1lkOVBnTTFUejNmeDNPWjRFYlhmVGZFc3RjTkpwRHR5bHc0SEIzTkZlNlk2YkJIMjhCR01nMmtNeDh6LVZDSjZFV00?oc=5",
+        "title": "Partial solar eclipse at the bottom of the world closes out the year's sun and moon spectacles - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNFVXWF9EMUFqOERaRU9NNnVXUEloU3M4ZWdjUm84UlUzZnlmdzdKLTBLXzhrXy1TOC0tdnpyakVQdXl4bDRzRjl3MTBWSmRBYlphbWMzYkxObjctd2NpUDIwVXFZOWtUdGdNdDZGblpIMXJzcVVBVmRhZnV2Y3pVbUg4ZVdMYVNSN2hOYlBXUlJpXzEtQVZ1SUcwVXFXUQ?oc=5",
         "description": "",
-        "pubDate": "2025-09-16T13:13:00Z",
+        "pubDate": "2025-09-16T13:07:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Taliban leader bans WIFI in an Afghan province to ‘prevent immorality’ - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOai1nTk9Pai1TWlRISklXb0tVbm9iNmhLYzk3c21JVFExb21vLUlZdklzSkVwQUFiWGpYQ1o5YzdyQ3NYX1JOVmRJYWQ0blpYTlJ0eGtlUEZUZ0ZHOXdRelJrWXJOS0dTRlJPRnMwTmxMNUIxaWktU3Npa19sVUI4OTNQVVBZY01RREg5d1hyNkFOWkgwMEs1VF9yZmJ3ZHM?oc=5",
+        "title": "Robert Redford, Oscar-winning actor, director and indie patriarch, dies at 89 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYlY2d0VOUUNLVnQ4UUFQNGxyS1ZPYmdWeVZrNGVKQWowVjVIZ2pBcDRENWxVZHNxV1Q1MGt1ckw1dVdiOVg1bHN2ZnhRNnRBUXJlc1FieEpsaVRHNFRLdzBGN1gtaVhyUnJXeXI0WC1oUkRtek1RRFlXQm1uV1dKMDJQaExlUQ?oc=5",
         "description": "",
-        "pubDate": "2025-09-16T11:26:00Z",
+        "pubDate": "2025-09-16T12:46:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1056,6 +1038,15 @@
       }
     ],
     "Business": [
+      {
+        "title": "Sky to cut 600 jobs in streaming move plans",
+        "link": "https://www.bbc.com/news/articles/cpd945gv7z1o?at_medium=RSS&at_campaign=rss",
+        "description": "A consultation has been launched on proposed changes, which affect 900 roles.",
+        "pubDate": "2025-09-16T14:26:56Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88a6/live/7617c9d0-9307-11f0-a647-dff301f4a439.jpg",
+        "bias": 0
+      },
       {
         "title": "Poorer Americans hit hardest as tariffs fuel price rises",
         "link": "https://www.bbc.com/news/articles/cm2ze83x7j0o?at_medium=RSS&at_campaign=rss",
@@ -1149,21 +1140,21 @@
     ],
     "Culture": [
       {
+        "title": "Japanese girl group release AI-assisted single after fan vote",
+        "link": "https://www.bbc.com/news/articles/c1kwvlyrjyxo?at_medium=RSS&at_campaign=rss",
+        "description": "Pop group AKB48 asked fans to pick their next single from a song written by humans and another by AI.",
+        "pubDate": "2025-09-16T14:26:04Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfbf/live/452a1dc0-92fb-11f0-ba89-ad7477f3387f.jpg",
+        "bias": 0
+      },
+      {
         "title": "Eden Project architect Sir Nicholas Grimshaw dies",
         "link": "https://www.bbc.com/news/articles/cj079z4lgn4o?at_medium=RSS&at_campaign=rss",
         "description": "The architect is remembered as having \"endless curiosity about how things are made\".",
         "pubDate": "2025-09-16T14:16:49Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ca4/live/3c62da40-926c-11f0-b8e5-3be75a11e2ba.jpg",
-        "bias": 0
-      },
-      {
-        "title": "King at Duchess of Kent's funeral but ill Queen not attending",
-        "link": "https://www.bbc.com/news/articles/cpq5eynnn8ro?at_medium=RSS&at_campaign=rss",
-        "description": "Mourners, including the King and other senior royals, are gathering at Westminster Cathedral.",
-        "pubDate": "2025-09-16T14:01:09Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/000b/live/3ce36360-9305-11f0-b391-6936825093bd.jpg",
         "bias": 0
       },
       {
