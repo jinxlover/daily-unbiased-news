@@ -1,7 +1,25 @@
 {
-  "lastUpdate": "2025-09-17T14:38:05.639330Z",
+  "lastUpdate": "2025-09-17T14:48:47.221047Z",
   "news": {
     "Gaming": [
+      {
+        "title": "MazeThing [Free]",
+        "link": "https://northem.itch.io/mazething",
+        "description": "",
+        "pubDate": "2025-09-17T14:42:14Z",
+        "source": "northem.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMjA1OTcxLnBuZw==/315x250%23c/YsVCt2.png",
+        "bias": 0
+      },
+      {
+        "title": "Solar System [Free] [Educational] [Windows]",
+        "link": "https://nunley.itch.io/solar-system",
+        "description": "Class Project #1",
+        "pubDate": "2025-09-17T14:41:11Z",
+        "source": "nunley.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMjA2MTM4LmpwZw==/315x250%23c/D8gxUK.jpg",
+        "bias": 0
+      },
       {
         "title": "Rambao DeBoners [Free] [Action]",
         "link": "https://jvfranco16.itch.io/rambao-deboners",
@@ -81,6 +99,15 @@
         "pubDate": "2025-09-17T13:39:32Z",
         "source": "jono78.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMjA1NjEzLnBuZw==/315x250%23c/RWnG05.png",
+        "bias": 0
+      },
+      {
+        "title": "Etherwave [Free] [Action]",
+        "link": "https://xarilas.itch.io/etherwave",
+        "description": "Become a slime master.",
+        "pubDate": "2025-09-17T13:38:18Z",
+        "source": "xarilas.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMjA1MjQ3LnBuZw==/315x250%23c/91p6yE.png",
         "bias": 0
       },
       {
@@ -192,24 +219,6 @@
         "bias": 0
       },
       {
-        "title": "Froggy Run [Free] [Platformer] [Windows]",
-        "link": "https://streetblood-studio.itch.io/froggy-run",
-        "description": "Froggy Run, un platformer coloré où une grenouille intrépide saute entre pièges, créatures étranges et mystères.",
-        "pubDate": "2025-09-17T11:58:42Z",
-        "source": "streetblood-studio.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMjA0OTYxLnBuZw==/315x250%23c/CcvNZy.png",
-        "bias": 0
-      },
-      {
-        "title": "Doloris' Secret [Free] [Interactive Fiction]",
-        "link": "https://oldzombie14.itch.io/doloris-secret",
-        "description": "",
-        "pubDate": "2025-09-17T11:13:22Z",
-        "source": "oldzombie14.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMjA0NjExLnBuZw==/315x250%23c/Tny2ar.png",
-        "bias": 0
-      },
-      {
         "title": "A Flight To New York [Free] [Simulation]",
         "link": "https://phoeniverse.itch.io/a-flight-to-new-york",
         "description": "Enduring a long cabin experience on the flight to New York.",
@@ -220,6 +229,33 @@
       }
     ],
     "World": [
+      {
+        "title": "Has Elon Musk really been awarded a $1 trillion pay deal?",
+        "link": "https://www.aljazeera.com/news/2025/9/17/has-elon-musk-really-been-awarded-a-1-trillion-pay-deal?traffic_source=rss",
+        "description": "And why has the South African entrepreneur been busy buying up shares in Tesla?",
+        "pubDate": "2025-09-17T14:22:48Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Palestinians under relentless attack as Israel steps up Gaza City assault",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/9/17/palestinians-under-relentless-attack-as-israel-steps-up-gaza-city-assault?traffic_source=rss",
+        "description": "This is what Palestinians in Gaza City are facing as Israeli forces relentlessly bomb the area.",
+        "pubDate": "2025-09-17T14:19:15Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "King Charles greets Trump with royal pageantry in UK’s Windsor Castle",
+        "link": "https://www.aljazeera.com/gallery/2025/9/17/king-charles-greets-trump-with-royal-pageantry-in-uks-windsor-castle?traffic_source=rss",
+        "description": "US President Trump receives a royal welcome at the UK's Windsor Castle, with a dazzling display of military bands.",
+        "pubDate": "2025-09-17T14:10:29Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Will a boycott over Israel divide the Eurovision Song Contest?",
         "link": "https://www.aljazeera.com/news/2025/9/17/will-a-boycott-over-israel-divide-the-eurovision-song-contest?traffic_source=rss",
@@ -428,15 +464,6 @@
         "bias": -1
       },
       {
-        "title": "German suspect in Madeleine McCann disappearance is released after serving time in unrelated case - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOTlITURLVFFfWEtCWE0wWk1UMm9lWWkxd1hBVjBFWXc4eF9Fa0NZdjBxaXlodjY3OEFuQUYzM1ZsSFo2Z29heWd4M1RJYV8yT2FPVUk5VU00SlhNWXJyQzdaVHUzYTdfV0JNalotaFhQZWpDdklPR2hMMExldHh1bkF1ak45VU1mSHNzeEN3VEpiWnA4WDRZ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-17T11:24:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Video: Israeli strike targets vehicle carrying displaced Palestinians",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/9/17/video-israeli-strike-targets-vehicle-carrying-displaced-palestinians?traffic_source=rss",
         "description": "An Israeli strike targeted a vehicle carrying displaced Palestinians who were evacuating Gaza City.",
@@ -599,7 +626,7 @@
         "bias": -1
       },
       {
-        "title": "Horse-drawn carriages and a royal salute for Trump's unprecedented second state visit",
+        "title": "Pomp and protests for Trump's unprecedented second U.K. state visit",
         "link": "https://www.npr.org/2025/09/17/nx-s1-5543349/trump-king-uk-state-visit",
         "description": "President Trump is in the United Kingdom for a rare second state visit that includes pageantry, policy and protests.",
         "pubDate": "2025-09-17T08:49:49Z",
@@ -651,24 +678,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Few Lebanese families return to villages in south destroyed by Israel war",
-        "link": "https://www.aljazeera.com/news/2025/9/17/few-lebanese-families-return-to-villages-in-south-destroyed-by-israel-war?traffic_source=rss",
-        "description": "Almost a year after the start of a fragile ceasefire, the Israeli army continues to occupy areas in southern Lebanon.",
-        "pubDate": "2025-09-17T08:34:22Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "India v Pakistan",
-        "link": "https://www.aljazeera.com/video/game-theory/2025/9/17/india-v-pakistan?traffic_source=rss",
-        "description": "One of the fiercest rivalries in sport",
-        "pubDate": "2025-09-17T08:31:46Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
@@ -684,7 +693,7 @@
       {
         "title": "Is the UK-France migrants returns deal workable?",
         "link": "https://www.bbc.com/news/articles/ced5gyg2e09o?at_medium=RSS&at_campaign=rss",
-        "description": "An Eritrean man managed to block his removal to France - is the government facing a stumbling block or a more serious problem?",
+        "description": "An Eritrean man managed to temporarily block his removal to France - is the government facing a stumbling block or a more serious problem?",
         "pubDate": "2025-09-17T13:45:57Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd92/live/93f892f0-930b-11f0-9cf6-cbf3e73ce2b9.jpg",
@@ -790,6 +799,15 @@
         "bias": 0
       },
       {
+        "title": "Hong Kong leader unveils plans to boost economy and nurture emerging industries beyond finance - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN3BGV3dRTGUyRE93VDZ4UVpxUHhicXk3dmZ2Nk4yQ1BXaWlmTi1RbEFOckxwd1hnNUZ3eGc2eGRrQUYxdXBXM2lWVDlwVFg2WlZyOWFXQXV0a3U2akw4NEM1bnk4cnA4bmQtdlhyZHdLazFOY2lyV3JmaHJKZkhMeEVYR1hQWGlncTZFZVlNVS1sb1FRNFBtaA?oc=5",
+        "description": "",
+        "pubDate": "2025-09-17T06:35:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "The blossoming relationship between Trump and Swinney",
         "link": "https://www.bbc.com/news/articles/c3e75d7g49no?at_medium=RSS&at_campaign=rss",
         "description": "The politicians are at odds on a whole range of issues – but something has fundamentally changed in their relationship.",
@@ -840,16 +858,16 @@
         "title": "Israeli troops press forward into Gaza City as Palestinians flee and death toll passes 65,000 - AP News",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc18tb2lIaWxVUEtKVE9vZDFlODA1RjIyYTFTQ2VSdzVfNDdKTlJRUUdDLUZOWm5PNGxiYkRuR2RhcW9qYkM3NzAtOTdqM1dCT0NsREgxM1ktVWFBdjFGNGNPdU11ZUVMVTJPeTkzZy1ieDJPb3huTU9Ud0NZdzA0QWN5dXNCaW9hdDh3OVo1Uklhdw?oc=5",
         "description": "",
-        "pubDate": "2025-09-17T13:54:00Z",
+        "pubDate": "2025-09-17T14:23:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Trivial Pursuit, Furbies and even snow might join the Toy Hall of Fame - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWmRxRnphcWNRTHlIUVFNRXUyYkkydDJvMXhtUExIRzg3N2wtUDUyNDg4aXVvX3JXOUhyZXhlaWdscnlqdXB5Yl9KXzZQWW92QTFBR1M1TWk2N2NLdVFTa2lYZUdmZ25TVlRjNnRvaksyZ0hrZ0RJUjFrR1dGdFdNWk5tUXlsMzdIcFBWZHdWSl9BVFQ4X2c4RjlHYmEwZkFw?oc=5",
+        "title": "German suspect in Madeleine McCann disappearance is released after serving time in unrelated case - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOTlITURLVFFfWEtCWE0wWk1UMm9lWWkxd1hBVjBFWXc4eF9Fa0NZdjBxaXlodjY3OEFuQUYzM1ZsSFo2Z29heWd4M1RJYV8yT2FPVUk5VU00SlhNWXJyQzdaVHUzYTdfV0JNalotaFhQZWpDdklPR2hMMExldHh1bkF1ak45VU1mSHNzeEN3VEpiWnA4WDRZ?oc=5",
         "description": "",
-        "pubDate": "2025-09-17T12:30:00Z",
+        "pubDate": "2025-09-17T11:24:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -982,7 +1000,7 @@
         "description": "The winner of the BBC One show's 11th series is announced during Tuesday's episode.",
         "pubDate": "2025-09-17T14:27:35Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e099/live/720bd2b0-93b0-11f0-bd0e-75d70011515a.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a49/live/38d1f8c0-93d4-11f0-9cf6-cbf3e73ce2b9.jpg",
         "bias": 0
       },
       {
