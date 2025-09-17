@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-09-17T06:51:53.614674Z",
+  "lastUpdate": "2025-09-17T07:17:44.773323Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Crash Coin Racer [Free]",
+        "link": "https://hggamesstudio.itch.io/crash-coin-racer",
+        "description": "",
+        "pubDate": "2025-09-17T06:46:36Z",
+        "source": "hggamesstudio.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMjAyNDE5LnBuZw==/315x250%23c/7niGSK.png",
+        "bias": 0
+      },
       {
         "title": "Cyber Samurai [Free] [Action] [Windows]",
         "link": "https://tessacole.itch.io/cyber-samurai",
@@ -208,18 +217,54 @@
         "source": "steelecitrone.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMjAxNTM1LnBuZw==/315x250%23c/t60hpn.png",
         "bias": 0
-      },
-      {
-        "title": "Conway's Game of Life [Free] [Windows] [Linux]",
-        "link": "https://eldskald.itch.io/conways-game-of-life",
-        "description": "An implementation of Conway's Game of Life in C and raylib",
-        "pubDate": "2025-09-17T03:05:12Z",
-        "source": "eldskald.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMjAxMjg5LnBuZw==/315x250%23c/2tBxsb.png",
-        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Who is Sushila Karki, Nepal’s new 73-year-old interim prime minister?",
+        "link": "https://www.aljazeera.com/news/2025/9/17/who-is-sushila-karki-nepals-new-73-year-old-interim-prime-minister?traffic_source=rss",
+        "description": "Karki became Nepal's interim PM after days of deadly 'Gen Z' protests.",
+        "pubDate": "2025-09-17T07:06:14Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Trump and Epstein images projected onto UK’s Windsor Castle",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/9/17/trump-and-epstein-images-projected-onto-uks-windsor-castle?traffic_source=rss",
+        "description": "Images of US President Donald Trump and the UK’s Prince Andrew with Jeffrey Epstein were projected onto Windsor Castle.",
+        "pubDate": "2025-09-17T07:05:26Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Messi scores goal, delivers assist as Inter Miami beat Seattle Sounders",
+        "link": "https://www.aljazeera.com/sports/2025/9/17/messi-scores-goal-delivers-assist-as-inter-miami-beats-seattle-sounders?traffic_source=rss",
+        "description": "Lionel Messi leads the way as Inter gain revenge on the Sounders for their Leagues Cup final defeat in August.",
+        "pubDate": "2025-09-17T06:36:07Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Iran executes man it says spied for Israel, activists say false confession",
+        "link": "https://www.aljazeera.com/news/2025/9/17/iran-executes-man-it-says-spied-for-israel-activists-say-false-confession?traffic_source=rss",
+        "description": "Iranian judiciary’s news outlet Mizan reports that Babak Shahbazi relayed sensitive information about security.",
+        "pubDate": "2025-09-17T06:33:44Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "China accuses New Zealand of harassing its citizens at airports",
+        "link": "https://www.aljazeera.com/news/2025/9/17/china-accuses-new-zealand-of-harassing-its-citizens-at-airports?traffic_source=rss",
+        "description": "Chinese embassy says it lodged a 'serious representation' over interrogations and seizures of electronic devices.",
+        "pubDate": "2025-09-17T06:32:34Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "LIVE: Israel kills a dozen Palestinians as Gaza City invasion intensifies",
         "link": "https://www.aljazeera.com/news/liveblog/2025/9/17/live-israel-kills-a-dozen-palestinians-as-gaza-city-invasion-intensifies?traffic_source=rss",
@@ -306,6 +351,15 @@
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTlg1MnhSTGh0V2dzYTF3bGgyVGNfNWFaMGFnY3dmN1lJTEE0VWprUXVJRHpSSE1DMnNSTWZzeERDVXFLY0E2U1lIbFlteWVQaEVkdHpudzJEUjc3UDY1ajdmc3hDa0xsemlwMHZ0cUFVYmZmejVsWmRMYlpCT1JFdlRDQmIxTkRRUnJ2TGczZkJ5Rk5NR2hJazZfa2kzSWstQlY2emxtVllEYlY2SllrR3hn?oc=5",
         "description": "",
         "pubDate": "2025-09-17T04:09:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Trump’s threat to target ‘radical left’ after Kirk killing raises fears he’s trying to silence foes - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTUFhei1WSWtFeTRVUzlkR2VMNkJvUkNFMnlEM1Rob2t5LXJrNkV4T1UxNWxIQU4tTFFFdmRFY2tvNzVySmlLQXdPbFpuOUVoempmdjNaUmlxQ0hJdGVCV2pBblh1UTY4UWxWclRCRFliN0J2UVZhOFU3TXNUdnZwNWEyQTRJRUpxSHBJemFuV1licUw2bm1LTk1DeXNKTU4wenVrYUhiQ0pzdld0MzN0dU9B?oc=5",
+        "description": "",
+        "pubDate": "2025-09-17T04:02:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -410,6 +464,15 @@
         "bias": 0
       },
       {
+        "title": "FBI Director Kash Patel clashes with Democrats at congressional hearing - AP News",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92Z0Z6bUhtYUxVeGJsNjRHRW5feFlnYU9naHNfc2tVLWtObENDUUpRMEp0dkUxTF9LMWR4cEtrU25odVdsX0NsYVhReXlzRVctV0FfZWFZRmJOYVlQTUVoU05sQTVETnluV3hN?oc=5",
+        "description": "",
+        "pubDate": "2025-09-17T01:56:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Brazil’s Bolsonaro taken to hospital after feeling unwell",
         "link": "https://www.aljazeera.com/news/2025/9/17/brazils-bolsonaro-taken-to-hospital-after-feeling-unwell?traffic_source=rss",
         "description": "Convicted ex-leader rushed to a hospital in Brasilia after falling ill at his residence, his son says.",
@@ -502,6 +565,15 @@
     ],
     "Politics": [
       {
+        "title": "Donald Trump's second UK state visit: Here's what we know",
+        "link": "https://www.bbc.com/news/articles/c8rynvlm6zjo?at_medium=RSS&at_campaign=rss",
+        "description": "US President Donald Trump and his wife Melania are in the UK for an unprecedented second state visit.",
+        "pubDate": "2025-09-17T07:05:53Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d3a/live/1ad58ef0-51b1-11f0-b52c-c776a241c026.jpg",
+        "bias": 0
+      },
+      {
         "title": "The blossoming relationship between Trump and Swinney",
         "link": "https://www.bbc.com/news/articles/c3e75d7g49no?at_medium=RSS&at_campaign=rss",
         "description": "The politicians are at odds on a whole range of issues – but something has fundamentally changed in their relationship.",
@@ -545,15 +617,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "FBI Director Kash Patel clashes with Democrats at congressional hearing - AP News",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92Z0Z6bUhtYUxVeGJsNjRHRW5feFlnYU9naHNfc2tVLWtObENDUUpRMEp0dkUxTF9LMWR4cEtrU25odVdsX0NsYVhReXlzRVctV0FfZWFZRmJOYVlQTUVoU05sQTVETnluV3hN?oc=5",
-        "description": "",
-        "pubDate": "2025-09-17T01:56:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Tech": [
@@ -569,6 +632,24 @@
     ],
     "Science": [],
     "Business": [
+      {
+        "title": "GSK pledges $30bn US investment as UK's pharma woes deepen",
+        "link": "https://www.bbc.com/news/articles/c4g58x3441ko?at_medium=RSS&at_campaign=rss",
+        "description": "The company is the latest pharma firm to have either reduced spending in the UK or diverted it to the US.",
+        "pubDate": "2025-09-17T07:01:06Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9eb7/live/a5a65440-9385-11f0-be5e-997e604e63b2.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Ben & Jerry's co-founder quits over social activism row",
+        "link": "https://www.bbc.com/news/articles/c4g58xx1eero?at_medium=RSS&at_campaign=rss",
+        "description": "His resignation marks the latest development in a dispute with parent company Unilever.",
+        "pubDate": "2025-09-17T06:46:28Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0be2/live/5ab55040-9389-11f0-a204-efc48116e9d6.jpg",
+        "bias": 0
+      },
       {
         "title": "Inflation remains at 3.8% in August as food costs rise",
         "link": "https://www.bbc.com/news/articles/cderznjj4r7o?at_medium=RSS&at_campaign=rss",
@@ -594,15 +675,6 @@
         "pubDate": "2025-09-17T05:03:21Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f62/live/5c7e3e90-92c7-11f0-a03a-79264f13f66e.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Many ask where the hurricanes are this season as the Atlantic remains quiet - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZV9LTm5wS2pmMUphaFhydG1aWmRmNDROQzZWS3VSY2NDeWFsVkNzcHh6LVJpaGIzOGstelBUY01zUHl6OEJHWUF1LV9ST2IwLUdZV1E5c3NIbVJoX0h4cW54bVk2V1QxdXg2Q25XZWtRV1lFNi04YlhlcmdSajJ3ZnhNUjhfXzJ4XzUtTGZIVm5xcmhxYzU5TmZnc3AyWXhzaXdWbTBR?oc=5",
-        "description": "",
-        "pubDate": "2025-09-17T00:44:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       }
     ],
