@@ -1,7 +1,25 @@
 {
-  "lastUpdate": "2025-09-18T05:34:41.716130Z",
+  "lastUpdate": "2025-09-18T05:45:33.368952Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Wizard's Voice [Free] [Action] [Windows]",
+        "link": "https://talmagett.itch.io/wizards-voice",
+        "description": "A game using voice recognition",
+        "pubDate": "2025-09-18T05:33:09Z",
+        "source": "talmagett.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMjEyOTkyLmpwZw==/315x250%23c/N%2BCGZB.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Solar System [Free] [macOS]",
+        "link": "https://jiaweiyan.itch.io/solar-system",
+        "description": "A model of Solar System",
+        "pubDate": "2025-09-18T05:18:09Z",
+        "source": "jiaweiyan.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMjEyOTIwLnBuZw==/315x250%23c/WUUa7H.png",
+        "bias": 0
+      },
       {
         "title": "Gear Grinder [Free] [Strategy] [Windows]",
         "link": "https://gibuscubed.itch.io/gear-grinder",
@@ -35,7 +53,7 @@
         "description": "A psychological horror prototype where your sanity slips as the environment turns against you.",
         "pubDate": "2025-09-18T04:40:29Z",
         "source": "freeknockout.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMjEyOTUxLnBuZw==/315x250%23c/%2F%2F7JpT.png",
+        "image": "https://img.itch.zone/aW1nLzIzMjEzMDE5LnBuZw==/315x250%23c/1RhmOe.png",
         "bias": 0
       },
       {
@@ -210,15 +228,6 @@
         "bias": 0
       },
       {
-        "title": "Flight of Icarus [Free] [Adventure]",
-        "link": "https://tankprogramming.itch.io/flight-of-icarus",
-        "description": "Take your wax candle, and explore a monster-infested attic as you attempt to ascend as far as possible!",
-        "pubDate": "2025-09-18T02:32:48Z",
-        "source": "tankprogramming.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMjExODgxLnBuZw==/315x250%23c/Bxjvl8.png",
-        "bias": 0
-      },
-      {
         "title": "Solar System Navigator Supreme [Free] [macOS]",
         "link": "https://iiknite.itch.io/solar-system-navigator-supreme",
         "description": "An interactive model of the solar system, complete with some quality-of-life features and camera controls!",
@@ -238,6 +247,33 @@
       }
     ],
     "World": [
+      {
+        "title": "Australia announces higher emissions cuts by 2035",
+        "link": "https://www.bbc.com/news/articles/cvgn6mvvxm3o?at_medium=RSS&at_campaign=rss",
+        "description": "The country is one of the world's biggest carbon emitters per capita.",
+        "pubDate": "2025-09-18T05:22:01Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c2d/live/618ce1d0-9451-11f0-b391-6936825093bd.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Saudi Arabia signs mutual defense pact with nuclear-armed Pakistan after Israel attacks Qatar - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWUtRQWpGb2xGMkFJMnhqX2JLNGRXRDROMVhrSlNqY2VDR0xhNjJhak1nZUhsM0lodTJTbmlvcnlmVHdTZG9weEVMeUlnTWo1Sy1zT3R2MndNdk00NFhUUjBRTGRjWXR1U0F1R25WT0pnRy1fYy1aaV9LOEFlRGgxTTFvdjRXMEg3cFpRV0h1c0l5eEx5MzA3MFJfLVc1ZzdHZHJLeg?oc=5",
+        "description": "",
+        "pubDate": "2025-09-18T05:17:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "US judge orders deportation of Palestinian activist Mahmoud Khalil",
+        "link": "https://www.bbc.com/news/articles/cj9zv8xnml8o?at_medium=RSS&at_campaign=rss",
+        "description": "An immigration judge ordered Khalil be deported to Algeria or Syria over claims he omitted information on a green card application.",
+        "pubDate": "2025-09-18T05:12:29Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/971e/live/c748c4c0-9443-11f0-8d92-3f4d3cef6afd.jpg",
+        "bias": 0
+      },
       {
         "title": "Denmark to buy ‘long-range’ weapons amid Russia ‘paradigm shift’",
         "link": "https://www.aljazeera.com/news/2025/9/18/denmark-to-buy-long-range-weapons-amid-russia-paradigm-shift?traffic_source=rss",
@@ -264,6 +300,24 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Sex abuse charges against top Australian radio host downgraded",
+        "link": "https://www.bbc.com/news/articles/c5y8ldlvpzgo?at_medium=RSS&at_campaign=rss",
+        "description": "He faces 27 charges which allege that he indecently assaulted or groped nine men from 2001 to 2019.",
+        "pubDate": "2025-09-18T04:30:21Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aaaa/live/c70f9f40-9436-11f0-bcfb-291ec8ba7700.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Why America is at a dangerous crossroads following the Charlie Kirk shooting",
+        "link": "https://www.bbc.com/news/articles/c78n0e83ye0o?at_medium=RSS&at_campaign=rss",
+        "description": "This moment has parallels with other periods of discord in US history, but it is more complicated than simply repeating them.",
+        "pubDate": "2025-09-18T04:18:51Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18e9/live/4ff31d80-93b2-11f0-b391-6936825093bd.png",
+        "bias": 0
       },
       {
         "title": "Lionel Messi nears contract extension with Inter Miami: Report",
@@ -293,7 +347,16 @@
         "bias": 0
       },
       {
-        "title": "‘A script’: Texts of alleged Charlie Kirk killer fuel conspiracy theories",
+        "title": "Controversial church leader denies bribing ex-South Korea first lady",
+        "link": "https://www.bbc.com/news/articles/ckg65k7eleko?at_medium=RSS&at_campaign=rss",
+        "description": "The church is accused of bribing former first lady Kim Keon Hee with Chanel bags and a diamond necklace.",
+        "pubDate": "2025-09-18T03:41:28Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b09/live/42f258e0-943d-11f0-b7b8-3dfeb1f07780.jpg",
+        "bias": 0
+      },
+      {
+        "title": "‘A script’: Alleged Charlie Kirk assassin’s texts fuel conspiracy theories",
         "link": "https://www.aljazeera.com/news/2025/9/18/a-script-texts-of-alleged-charlie-kirk-killer-fuel-conspiracy-theories?traffic_source=rss",
         "description": "Tyler Robinson's alleged texts to his partner have been met with scepticism across the ideological spectrum.",
         "pubDate": "2025-09-18T03:35:21Z",
@@ -302,21 +365,30 @@
         "bias": -1
       },
       {
-        "title": "Saudi Arabia signs mutual defense pact with nuclear-armed Pakistan after Israel attacks Qatar - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWUtRQWpGb2xGMkFJMnhqX2JLNGRXRDROMVhrSlNqY2VDR0xhNjJhak1nZUhsM0lodTJTbmlvcnlmVHdTZG9weEVMeUlnTWo1Sy1zT3R2MndNdk00NFhUUjBRTGRjWXR1U0F1R25WT0pnRy1fYy1aaV9LOEFlRGgxTTFvdjRXMEg3cFpRV0h1c0l5eEx5MzA3MFJfLVc1ZzdHZHJLeg?oc=5",
-        "description": "",
-        "pubDate": "2025-09-18T03:27:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Jimmy Kimmel taken off air over Charlie Kirk comments",
         "link": "https://www.bbc.com/news/articles/c203n52x1y9o?at_medium=RSS&at_campaign=rss",
         "description": "The late-night host said on Monday that Trump's allies were \"doing everything they can to score political points from\" Kirk's death.",
         "pubDate": "2025-09-18T03:19:07Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63f6/live/3e5c43e0-941a-11f0-9cf6-cbf3e73ce2b9.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Air India crash victims' families sue aerospace firms Boeing and Honeywell",
+        "link": "https://www.bbc.com/news/articles/c07vdx9e1ygo?at_medium=RSS&at_campaign=rss",
+        "description": "They accuse the manufacturers of doing \"nothing\" despite being aware of the plane's risks.",
+        "pubDate": "2025-09-18T03:17:37Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb02/live/389e0a50-943e-11f0-b7b8-3dfeb1f07780.jpg",
+        "bias": 0
+      },
+      {
+        "title": "'Ultimate in cancel culture': Fans outside Jimmy Kimmel studio react to show's axing",
+        "link": "https://www.bbc.com/news/videos/c5yqp5n01e0o?at_medium=RSS&at_campaign=rss",
+        "description": "The BBC spoke to fans who expressed surprise and disappointment after the late night show was taken off air \"indefinitely\" over Charlie Kirk comments.",
+        "pubDate": "2025-09-18T03:05:43Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66f3/live/291fda20-943b-11f0-b391-6936825093bd.jpg",
         "bias": 0
       },
       {
@@ -428,15 +500,6 @@
         "bias": 0
       },
       {
-        "title": "Southern California judge who killed his wife sentenced to 35 years to life for murder - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT3prdlh3MTRtUWJPQzB4ZnRheW9XRjJhN1llMkVjWnlEM2ZDR1pSYW8zZnZmOTAweTJySjVxZ1Bsd2ZpcWVPUUtVZ1FORGNfcGR4eERwS0pNYnQtaVJ5dU1XV1FqMEc0RldSZ0hLRTB5Q1NhUzMybml6VGRQanhNVTd0dmFCeDltYVcyV0FETkY5Zw?oc=5",
-        "description": "",
-        "pubDate": "2025-09-18T00:39:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Björn Borg tells the AP about drug overdoses and quitting tennis in his 20s - AP News",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcllMb2YxeW80cVVReEprMTVmakRiVmd3dXR3OTdFNDJUdGc2anhscWdjdzdkTDQ0NGZKTFlwb0NJenFKNUN1cVY3cmVCaDVoWF9wMUowUEpnaU9QeU1UU0NlSmtpRi1wWWIwXzZnY3RMR3hfeV9NemJiald6WGcyNnFSWnp6RU9TaWFpODNmbVgtT0NPNUV4NzZtTnQ3S3BmN1E?oc=5",
         "description": "",
@@ -523,17 +586,18 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Air India crash victims' families sue aerospace firms Boeing and Honeywell",
-        "link": "https://www.bbc.com/news/articles/c07vdx9e1ygo?at_medium=RSS&at_campaign=rss",
-        "description": "They accuse the manufacturers of doing \"nothing\" despite being aware of the plane's risks.",
-        "pubDate": "2025-09-18T03:17:37Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb02/live/389e0a50-943e-11f0-b7b8-3dfeb1f07780.jpg",
-        "bias": 0
       }
     ],
-    "Culture": []
+    "Culture": [
+      {
+        "title": "Fashion risks going backwards on diversity, says ex-Vogue boss",
+        "link": "https://www.bbc.com/news/articles/c3e758v449yo?at_medium=RSS&at_campaign=rss",
+        "description": "The former British Vogue editor says being \"super-thin\" and European is often seen as \"the norm\" again.",
+        "pubDate": "2025-09-18T05:00:33Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d1f/live/ea6f0590-92d1-11f0-8331-8bf79809c794.jpg",
+        "bias": 0
+      }
+    ]
   }
 }
