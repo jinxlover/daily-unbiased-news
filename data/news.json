@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-19T21:39:44.002571Z",
+  "lastUpdate": "2025-09-19T21:50:13.198050Z",
   "news": {
     "Gaming": [
       {
@@ -9,6 +9,15 @@
         "pubDate": "2025-09-19T21:26:24Z",
         "source": "aincita.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMjM2MDIzLnBuZw==/315x250%23c/IIvfHk.png",
+        "bias": 0
+      },
+      {
+        "title": "AlgoLab [Free] [Puzzle] [Windows] [Linux]",
+        "link": "https://andre-lucs.itch.io/algolab",
+        "description": "",
+        "pubDate": "2025-09-19T21:23:27Z",
+        "source": "andre-lucs.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMjM1NzE5LnBuZw==/315x250%23c/oG1%2BAR.png",
         "bias": 0
       },
       {
@@ -93,15 +102,6 @@
         "bias": 0
       },
       {
-        "title": "Secret Gift Songkran [Free] [Windows]",
-        "link": "https://pim-03.itch.io/secretgiftsongkran",
-        "description": "",
-        "pubDate": "2025-09-19T20:08:44Z",
-        "source": "pim-03.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMjM2MDExLnBuZw==/315x250%23c/0n1ARm.png",
-        "bias": 0
-      },
-      {
         "title": "FusionJigsawPuzzles [$5.00] [Puzzle] [Windows]",
         "link": "https://unpacomasn2023.itch.io/fusionjigsawpuzzles",
         "description": "",
@@ -153,15 +153,6 @@
         "pubDate": "2025-09-19T19:36:21Z",
         "source": "violet-kitten.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMjM0ODUzLnBuZw==/315x250%23c/laHFpC.png",
-        "bias": 0
-      },
-      {
-        "title": "Junky's Cleanup [Free] [Windows]",
-        "link": "https://bac0nator.itch.io/junkys-cleanup",
-        "description": "Little game about picking up trash",
-        "pubDate": "2025-09-19T19:36:07Z",
-        "source": "bac0nator.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMjM0ODgyLnBuZw==/315x250%23c/EVQgXw.png",
         "bias": 0
       },
       {
@@ -671,13 +662,13 @@
         "bias": -1
       },
       {
-        "title": "AP Decision Notes: What to expect in Arizona’s special congressional election - AP News",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd3VqZ0tOeWFrdkZETjA1Z0tpMnJZUVU5ZEIxVWRoNlFwNEVldDV0Y0hkTENOc2dDVW03V0p4R3pjV0FGN051ZmgwdG5HSWdpU05ZVk1jY2FuczJOZmJoNFVIZm5scHRZbkt0NnVjUDlfRkMtN0N2czkyNWlzdmZudkFDU3lTQnY5RXF0bzBmU1NJYzA0S28ycVlrSEk5TVFLRlFVbGRkSmdRVDlTYUtDTFl0a3BiTGlfOFU4M2NB?oc=5",
-        "description": "",
-        "pubDate": "2025-09-19T13:50:00Z",
-        "source": "news.google.com",
+        "title": "Taliban releases elderly British couple from Afghanistan detention",
+        "link": "https://www.aljazeera.com/news/2025/9/19/taliban-releases-elderly-british-couple-from-afghanistan-detention?traffic_source=rss",
+        "description": "UK thanks Qatar for leading negotiations for the release of the pair after their arrest in February.",
+        "pubDate": "2025-09-19T13:08:53Z",
+        "source": "aljazeera.com",
         "image": "",
-        "bias": 0
+        "bias": -1
       }
     ],
     "Politics": [
@@ -806,15 +797,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Kimmel’s rise from radio to cultural icon hits roadblock with ABC’s suspension of late-night TV show - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ3ZvUXF3cGhKOUw3cE0tYW03ckR3MkVUUDNGdWMzVFV4ZjBNeDUyWW1uSTZmUUM4aWo4bHlnRVVMVDV1X2FHY2xhc2s0Zk5qRFRvT0dRYkd3VjZ2dFBDVVoxOHVqLVk1X0RPblN1dDV6c0dXQno0dENwMkpfRXZtdEIyVWdSdw?oc=5",
-        "description": "",
-        "pubDate": "2025-09-19T17:40:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Jimmy Kimmel's suspension shows power of FCC's Brendan Carr",
@@ -961,6 +943,15 @@
         "bias": 0
       },
       {
+        "title": "AP Decision Notes: What to expect in Arizona’s special congressional election - AP News",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd3VqZ0tOeWFrdkZETjA1Z0tpMnJZUVU5ZEIxVWRoNlFwNEVldDV0Y0hkTENOc2dDVW03V0p4R3pjV0FGN051ZmgwdG5HSWdpU05ZVk1jY2FuczJOZmJoNFVIZm5scHRZbkt0NnVjUDlfRkMtN0N2czkyNWlzdmZudkFDU3lTQnY5RXF0bzBmU1NJYzA0S28ycVlrSEk5TVFLRlFVbGRkSmdRVDlTYUtDTFl0a3BiTGlfOFU4M2NB?oc=5",
+        "description": "",
+        "pubDate": "2025-09-19T13:50:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Mayor loses no confidence vote in airport row",
         "link": "https://www.bbc.com/news/articles/cn5qeer3gzlo?at_medium=RSS&at_campaign=rss",
         "description": "Ros Jones, Labour's elected Mayor of Doncaster, says she is \"not going anywhere\" following the vote.",
@@ -1078,6 +1069,15 @@
         "bias": 0
       },
       {
+        "title": "Boston has go-ahead basket with 7.4 seconds left as Fever beat Dream 87-85 to reach WNBA semifinals - AP News",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY3RQOThkTmJDTFE1c1FrNloyTGszVEtWUUp6OG5mN20xa004bFFyUGNQNHlHUy1ELTFNbHBMdDNNS0RmUTBOYjRjTXhwbWxtV3Y5eDdTN0JuV2dWYmJOSGxfUURKS2tDa1BIazhRS1RvcnM5RXdhbTYzUlRGOUF1eXB0NA?oc=5",
+        "description": "",
+        "pubDate": "2025-09-19T04:13:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Trump says he didn't want London Mayor Sadiq Khan at state banquet",
         "link": "https://www.bbc.com/news/articles/cwyl01x9pllo?at_medium=RSS&at_campaign=rss",
         "description": "The mayor of London did not seek or expect an invite to the state banquet, the BBC understands.",
@@ -1100,15 +1100,6 @@
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaEZXcnY0ZVBiQWxiMVB6a0VpYUp5QjNiZU1lLVBKTHR5RXl1Tno1S0QzN0dVdnBRYklQTFU4OFBEaWVwNUdKb3VtYmdnd0xoVTJjYmNpWXd4VVI3S3AxU2Yzd1hldGRDeXJTSm0xNjI5LVozek9TakxCUFNRMUJteUhCUDBPLTZueHBSNHpadGlxVzJ3ZkpnakpsNC1Ddm9vV0dzZQ?oc=5",
         "description": "",
         "pubDate": "2025-09-19T02:36:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Democrats introduce bill to protect free speech following Kimmel suspension - AP News",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DbC1sVE5TcWZsTFdJOXl2TWo5SWVmVGVEVjkwMzlQLWVnMGNWYmkzSENFaF9ZcEVJbUFfOGJER1ItRFVKUjB4ZVFSdm1GMVdaUzhwaF9lYi03V1NTdFFkc2J6X0NJZExjWG1F?oc=5",
-        "description": "",
-        "pubDate": "2025-09-19T00:26:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1138,6 +1129,15 @@
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVjF6WV9tUktPSWFtZ1JvR1pIeDBBN19hZTVZSTFsdzhaZ2RtczFiSHRsWXVMZjlIWjBLMVAxdmw1aE1sMF9VcEdjWml0N1FUMWdRQXZLOHNITjBpRnQ0QURJMnRCTkp6UDJzNjFBQW56Nmt6QTJjUDUwcGtNV3Vqbk9kUHNNQ2pSMDB0SzRoZ1ZzUENDUk9QVmpGNlNoVVk?oc=5",
         "description": "",
         "pubDate": "2025-09-19T18:20:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Kimmel’s rise from radio to cultural icon hits roadblock with ABC’s suspension of late-night TV show - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ3ZvUXF3cGhKOUw3cE0tYW03ckR3MkVUUDNGdWMzVFV4ZjBNeDUyWW1uSTZmUUM4aWo4bHlnRVVMVDV1X2FHY2xhc2s0Zk5qRFRvT0dRYkd3VjZ2dFBDVVoxOHVqLVk1X0RPblN1dDV6c0dXQno0dENwMkpfRXZtdEIyVWdSdw?oc=5",
+        "description": "",
+        "pubDate": "2025-09-19T17:40:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1203,15 +1203,6 @@
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS2JFNmNDUE9LRDdxU0h0WTVWX1BjdFJwUjYxeC1VWnZESVQ3QmJITkhDYktWNnllNk1fWXE1dWxZSld4WllPeVZ6cERIM3FZalAzdFJoeHR0LXdpR2lqUFI5X1MzR2hpci0yU0lnQ2ltSDllczRrb1BveUp3V01PcUx5NDVKeUk0OU1wdkpTM0pRdWkwclVnczVUb0ZCQzYzd1lTdnV5S3ZwZFVJ?oc=5",
         "description": "",
         "pubDate": "2025-09-19T20:44:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "D4vd tour dates removed from websites after the discovery of a girl’s body in Los Angeles - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQy1jZlV2ME5OREhvbjh5aUZWanQ0c1FueE1GMHJsOXM5WVJKVTJEYS0yZFRYQUNIZHVubHZiN2lMYnZaRmpTN1E0SFFmMzlwYlAwNks2Q1d4OHBGMkp6NVFnWExab0FGX1JPZjhkTXZxX3pfbnR1N1dNeXNMcVdmaGlQdkxvWjFzWWc1WEE3UWFGajdWSlpfZElLQ2NJSUEwaXVKNGF3?oc=5",
-        "description": "",
-        "pubDate": "2025-09-19T20:42:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
