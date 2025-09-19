@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-09-19T04:43:02.366389Z",
+  "lastUpdate": "2025-09-19T04:56:01.312581Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Incredibox - meet the grahams [Free] [Other]",
+        "link": "https://puglol.itch.io/incredibox-meet-the-grahams",
+        "description": "",
+        "pubDate": "2025-09-19T04:50:06Z",
+        "source": "puglol.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMjI2MzQ4LnBuZw==/315x250%23c/dxTjjU.png",
+        "bias": 0
+      },
       {
         "title": "Monkey Jumping [Free]",
         "link": "https://yuhanghu.itch.io/monkey-jumping",
@@ -45,6 +54,15 @@
         "pubDate": "2025-09-19T04:25:40Z",
         "source": "juniperboy96.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMjI2MjAzLnBuZw==/315x250%23c/NppWoj.png",
+        "bias": 0
+      },
+      {
+        "title": "Meteor Maze [Free] [Simulation]",
+        "link": "https://alimian.itch.io/meteor-maze",
+        "description": "Do your best to dodge the meteors!",
+        "pubDate": "2025-09-19T04:16:33Z",
+        "source": "alimian.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMjI2MDk5LnBuZw==/315x250%23c/EfqtgH.png",
         "bias": 0
       },
       {
@@ -174,39 +192,12 @@
         "bias": 0
       },
       {
-        "title": "Love Aquilegia [Free] [Visual Novel] [Windows] [macOS]",
-        "link": "https://memoryofmoonlight.itch.io/love-aquilegia",
-        "description": "Visual Novel for girls who love girls",
-        "pubDate": "2025-09-19T02:53:22Z",
-        "source": "memoryofmoonlight.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMjI1NDg2LnBuZw==/315x250%23c/a%2BdAst.png",
-        "bias": 0
-      },
-      {
-        "title": "Mad Hill Racing 2D [Free] [Racing]",
-        "link": "https://hggamesstudio.itch.io/mad-hill-racing-2d",
-        "description": "",
-        "pubDate": "2025-09-19T02:51:54Z",
-        "source": "hggamesstudio.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMjI1NDI3LnBuZw==/315x250%23c/2wABhT.png",
-        "bias": 0
-      },
-      {
         "title": "Space Invaders [Free]",
         "link": "https://jpsingh4340.itch.io/space-invaders",
         "description": "\"Defend Earth from waves of relentless alien invaders in this retro-inspired classic shooter.\"",
         "pubDate": "2025-09-19T02:51:29Z",
         "source": "jpsingh4340.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMjI1NDI2LnBuZw==/315x250%23c/jWYGG%2F.png",
-        "bias": 0
-      },
-      {
-        "title": "Rong [Free] [Action] [Windows]",
-        "link": "https://maxratcat.itch.io/rong",
-        "description": "",
-        "pubDate": "2025-09-19T02:47:37Z",
-        "source": "maxratcat.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMjI1NDQwLnBuZw==/315x250%23c/KNYckv.png",
         "bias": 0
       },
       {
@@ -309,15 +300,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-19T02:04:35Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "UK’s MI6 spy agency launches dark web portal, seeks out foreign spies",
@@ -439,7 +421,17 @@
         "bias": 0
       }
     ],
-    "Tech": [],
+    "Tech": [
+      {
+        "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-19T02:04:35Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ],
     "Science": [],
     "Business": [
       {
