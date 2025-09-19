@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-19T17:31:41.951092Z",
+  "lastUpdate": "2025-09-19T17:46:03.901213Z",
   "news": {
     "Gaming": [
       {
@@ -48,6 +48,15 @@
         "bias": 0
       },
       {
+        "title": "emo game [Free] [Fighting]",
+        "link": "https://kotosmiornica.itch.io/emo-game",
+        "description": "My first ever game that I am making SO I CAN GO TO TOKIOOO LETSGOOO WE ARE DOING IT GUYSSS",
+        "pubDate": "2025-09-19T16:48:27Z",
+        "source": "kotosmiornica.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMjMyNzI5LnBuZw==/315x250%23c/K%2BVSHa.png",
+        "bias": 0
+      },
+      {
         "title": "WAVEBEAM [Free] [Action] [Windows] [macOS]",
         "link": "https://ryanmakesboardgames.itch.io/wavebeam",
         "description": "Neon-soaked arena game where darkness is your enemy. Use pings and weapon fire to reveal foes in a twin-stick shooter.",
@@ -63,6 +72,15 @@
         "pubDate": "2025-09-19T16:36:55Z",
         "source": "dhruba-ogrady.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMjMyNTgxLmpwZw==/315x250%23c/vPXJJw.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Projeto Lótus [Free] [Shooter]",
+        "link": "https://viniciuspimentel.itch.io/projeto-ltus",
+        "description": "Thirs-Person Shooter Roguelike",
+        "pubDate": "2025-09-19T16:34:57Z",
+        "source": "viniciuspimentel.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMjMzMzM5LnBuZw==/315x250%23c/nIGAWw.png",
         "bias": 0
       },
       {
@@ -192,15 +210,6 @@
         "bias": 0
       },
       {
-        "title": "Word Flow (Vertical Slice) [Free] [Puzzle]",
-        "link": "https://hersheys97.itch.io/word-flow",
-        "description": "Connect letters to form words. Earn coins to spend on decoration items.",
-        "pubDate": "2025-09-19T14:37:47Z",
-        "source": "hersheys97.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMjMxMzI4LnBuZw==/315x250%23c/sjeSi0.png",
-        "bias": 0
-      },
-      {
         "title": "My brother won't let me finish this RPG unless I complete every secondary quest! [Free] [Adventure]",
         "link": "https://juan-muela.itch.io/my-brother-wont-let-me-finish-this-rpg-unless-i-complete-every-secondary-quest",
         "description": "Your brother won't allow you to finish this RPG unless you complete every secondary quest!",
@@ -233,7 +242,34 @@
         "title": "Live updates: Federal judge tosses Trump's $15B defamation lawsuit against The New York Times - AP News",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Jakc1TUVxa3JNUTliQnNRRDlfeTBwRHp2WWRmaEdLYVFlOGpFXzViYjNsN0ZKdXltNTBabU5ndHBER0lxNjExekJIWEZTU1EwOFloUG9ZTlhiSk9SdUQ2Q1NCeTlvZk9TMV9r?oc=5",
         "description": "",
-        "pubDate": "2025-09-19T17:28:00Z",
+        "pubDate": "2025-09-19T17:44:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Nato intercepts Russian warplanes violating Estonian airspace",
+        "link": "https://www.bbc.com/news/articles/czrp6p5mj3zo?at_medium=RSS&at_campaign=rss",
+        "description": "Estonia says three Russian MiG-31 fighter jets remained in Estonian airspace for 12 minutes.",
+        "pubDate": "2025-09-19T17:43:03Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8007/live/0dfedb80-956f-11f0-aa3a-ddc192c3f339.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Senate rejects competing bills to fund government, increasing risk of shutdown on Oct. 1 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNenRWVVpDeVBwWjRfX1B0TW1DN0NscURDSkpjZmZHYWp3YTczcGNQejRVSlJ1cjJiUWVBNXFLSkZtbkZ5akpMZHZGWDl4M1l0c1p0ZU5VSm9sekRjeGhCM2JTeHFzRjR5Y3BUbWQ2MFJaM01RUjhIZlpmS0lkRm5pYTdhckN2aElMWkI2SWJwTWhZN0t5b0ZBN0NybWFzLWMzeFQ5NWMyM28?oc=5",
+        "description": "",
+        "pubDate": "2025-09-19T17:26:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Trump says he and Xi will meet in South Korea in coming weeks and he’ll later go to China - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWll6dlc0MGtoM0ZBamNrQllRcUd1NzhaczVKb2NPcm0waXVNMS01U0RLUXpFVDFVcWhQWFlxSG1QajZJakVwbjg5VGN0a1gtbG9WenNpVlAyQXBIeWdhcUFEZ0RCUzBDYTdTOEtNMjdUSUNnUjRwbnhxQWJna1FVQ1lGT0ZENmxldEM1T2xjc3VyYW1KYTJIRFFmVQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-19T17:21:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -266,15 +302,6 @@
         "bias": 0
       },
       {
-        "title": "Nato intercepts Russian warplanes violating Estonian airspace",
-        "link": "https://www.bbc.com/news/articles/czrp6p5mj3zo?at_medium=RSS&at_campaign=rss",
-        "description": "Estonia says three Russian MiG-31 fighter jets remained in Estonian airspace for 12 minutes.",
-        "pubDate": "2025-09-19T16:33:13Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8007/live/0dfedb80-956f-11f0-aa3a-ddc192c3f339.jpg",
-        "bias": 0
-      },
-      {
         "title": "Hollywood stars back boycott as Israel's minister targets film academy",
         "link": "https://www.npr.org/2025/09/19/nx-s1-5536976/einbinder-bardem-israeli-film-boycott-gaza",
         "description": "Javier Bardem and Hannah Einbinder join a Hollywood boycott of Israel's film industry over Gaza, as Israel's culture minister also moves against its film academy.",
@@ -288,15 +315,6 @@
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWHItR2RmVmQ5aDdPcUQyWXVhVDBUU2IyTnJWeHJsWFNzZFAzMWRpbHpjY3QydFBiNzAxb1pneFluOXhSVnRPaWVaZ0w2VTB6REdaQ2xQaVJkcFRGc3ZZMHJLSXEzT3pLWEF3eUZlZzl1LXU4YUFOVnNrWFk3NFpNT3ZLeGExMVhJT0x2SmxidEdnc2FnOGVFeUJHX2huR1E?oc=5",
         "description": "",
         "pubDate": "2025-09-19T16:20:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Trump says he and Xi will meet in South Korea next month and he’ll later go to China - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWll6dlc0MGtoM0ZBamNrQllRcUd1NzhaczVKb2NPcm0waXVNMS01U0RLUXpFVDFVcWhQWFlxSG1QajZJakVwbjg5VGN0a1gtbG9WenNpVlAyQXBIeWdhcUFEZ0RCUzBDYTdTOEtNMjdUSUNnUjRwbnhxQWJna1FVQ1lGT0ZENmxldEM1T2xjc3VyYW1KYTJIRFFmVQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-19T16:14:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -336,15 +354,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "House passes a bill to avoid a partial government shutdown, but prospects in the Senate look dim - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNenRWVVpDeVBwWjRfX1B0TW1DN0NscURDSkpjZmZHYWp3YTczcGNQejRVSlJ1cjJiUWVBNXFLSkZtbkZ5akpMZHZGWDl4M1l0c1p0ZU5VSm9sekRjeGhCM2JTeHFzRjR5Y3BUbWQ2MFJaM01RUjhIZlpmS0lkRm5pYTdhckN2aElMWkI2SWJwTWhZN0t5b0ZBN0NybWFzLWMzeFQ5NWMyM28?oc=5",
-        "description": "",
-        "pubDate": "2025-09-19T15:55:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Trump says Xi approves of TikTok deal as leaders plan South Korea meeting",
@@ -545,6 +554,15 @@
         "bias": -1
       },
       {
+        "title": "A mysterious envelope from Czechoslovakia’s founding father has been found - AP News",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM1FDSEx4X0xiWlJScmlJY1haYUM2V0VIeFpiUUNBNkN6NFY1ZkROenJCak1YZkpFT2JHMmFHenFLZERxUnhHeWRuNFdZV0k1RGlNbmJJZTdObjFGamdfR0x4T1RVX1BydWE1UFFMZTFob1NEN3d2b00zUU9wdEd4YnN2VDdtY1dsRnNZaWx0VzMtTE9LSjdKdG9sYk03MEJsRzlJcHJEWjctWktsRjNJT01jTW5ZRVBzYmdORg?oc=5",
+        "description": "",
+        "pubDate": "2025-09-19T12:30:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Does Jimmy Kimmel’s removal over Charlie Kirk violate freedom of speech?",
         "link": "https://www.aljazeera.com/news/2025/9/19/does-jimmy-kimmels-removal-over-charlie-kirk-violate-freedom-of-speech?traffic_source=rss",
         "description": "Disney-owned ABC pulled Kimmel's late-night show off the air after he made comments about MAGA and Tyler Robinson.",
@@ -669,18 +687,18 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "20 years later, Israelis ask if the Gaza exit backfired — and if it's time to go back",
-        "link": "https://www.npr.org/2025/09/19/g-s1-89192/israel-gaza-withdrawal-2005",
-        "description": "Twenty years ago, Israel dismantled its settlements and withdrew from the Gaza Strip. Now, Israelis ask if it helped pave the way for the Oct. 7 attack, and some want to resettle there.",
-        "pubDate": "2025-09-19T09:00:00Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
+      {
+        "title": "How FCC chair Brendan Carr is leading Trump's charge against the media",
+        "link": "https://www.npr.org/2025/09/19/nx-s1-5546764/fcc-brendan-carr-kimmel-trump-free-speech",
+        "description": "In the eight months since becoming chair of the Federal Communications Commission, Brendan Carr has waged war against the free speech of those who have reported on, criticized, or satirized the president.",
+        "pubDate": "2025-09-19T17:27:58Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Phillipson suggests two-child benefit cap could be lifted",
         "link": "https://www.bbc.com/news/articles/cwy917g0420o?at_medium=RSS&at_campaign=rss",
@@ -853,6 +871,15 @@
         "bias": 0
       },
       {
+        "title": "Day and night get equal billing Monday as fall equinox arrives. Here’s what to know - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRjVscTljLU9QOUcydG9ONG54cE01Yl9HcW5yUHRybkUtM3ZpMU15NVNBZDNlSjlab1ppSXJqMUpWZjI4ZFk4bmNjQUV3d0J3d2VYbElnRElfbDMwZ2dsOXNDSnE0U19NTW56VlFhMWxxVm0tV3BubGRHeVYzMGp1cmd3QkFyLUdSNUJ4SDlVenFPdWk5cUhDZHRxeGlndG9ZQUd6cUFQWWE5VnlsLVE?oc=5",
+        "description": "",
+        "pubDate": "2025-09-19T10:05:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Photos show South Sudan’s hunger crisis amid violence, aid cuts and corruption - AP News",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZVJqeVFzUnFKR2hCaVZiM0tMeHRRMHFOVEZ5Y1RZVkc2b1UxWWhhelUwMExTSUFnRFpZaGlxbDdhWXR6aWRKakoxVmFlR1Y5LXZlVGF0NXNBdFo2a1d2ZEN3ZktCOTBrQkFIb296YXBLVXNRWFBOSFdvMmhoM0tPT2hVX1Q5c3NwYjAzaFdUWVRSXzlPV09HUGF2VFdMTHM?oc=5",
         "description": "",
@@ -936,10 +963,10 @@
         "bias": 0
       },
       {
-        "title": "Pakistan says its nuclear program can be made available to Saudi Arabia under defense pact - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM1cxSnVId1A1NG1Xc2NwOU9UY0dtVDVreUZnajBiVnhwWW5qclR0M2swTjBSWWJNMUNtb2tBTS1aTzNXbTJac0hUQVRGU2hPaHI1ZjRKY3ViVWRNaDJfN2w2RXFOWkFuYTNIV3VSODFfVlVuamRQbTJMdUhaYVF6dEtKaFpqYmFwYl94bzY2YW5jbzE3X2dnOTA0SQ?oc=5",
+        "title": "For many US Jews, High Holy Days will be a mix of anxiety and determination - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYUg2eWlsVXhWZ1dsQTQ3VENyLUJFd1R4Z2NfM2ltMXZYVkRKN1p5eUNFRTdTQXpLWms1WVZxbTJCbnB4UUhrRDFTMXBiSUE2MmJUSGFrT3BuNWVqU0lSODZ3UE9HYjh3S3F5ajdaSTJPY2pKSUVVQmV5N3ZEd28tcWJEWjZTX3F3UTh2Tm0yYURJZS00RVhrbmtGTGhXVERiV3pWLXB3?oc=5",
         "description": "",
-        "pubDate": "2025-09-19T14:57:00Z",
+        "pubDate": "2025-09-19T15:37:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -954,37 +981,10 @@
         "bias": 0
       },
       {
-        "title": "A mysterious envelope from Czechoslovakia’s founding father has been found - AP News",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM1FDSEx4X0xiWlJScmlJY1haYUM2V0VIeFpiUUNBNkN6NFY1ZkROenJCak1YZkpFT2JHMmFHenFLZERxUnhHeWRuNFdZV0k1RGlNbmJJZTdObjFGamdfR0x4T1RVX1BydWE1UFFMZTFob1NEN3d2b00zUU9wdEd4YnN2VDdtY1dsRnNZaWx0VzMtTE9LSjdKdG9sYk03MEJsRzlJcHJEWjctWktsRjNJT01jTW5ZRVBzYmdORg?oc=5",
-        "description": "",
-        "pubDate": "2025-09-19T12:30:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Russia appeals global aviation agency's decision blaming it for downing MH17 over Ukraine in 2014 - AP News",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOWd0UUdCMjlPZ1M3QVVpSHEzTFJfTWlHX3h5ZVJNUzg0d1pYbERuUG92UnpZZXdfMWtIUV84Tl9wVWVEN0RwbjNRLU9IeGtBc1N4VC1ncTRVZUtSUllKX2VTVEFZUE5JQUVPckhJTG1FQndBX1pLQzItUGM1S0NneEluV01LQjVkUERDcHliUklOVGxLd2ZON3g3RmwzLTRnaWc?oc=5",
         "description": "",
         "pubDate": "2025-09-19T10:40:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "McLaughlin-Levrone says hurdles-400 double is possible. But would she want to do it? - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR0dZZzc4TWJaZmwtT3Z1enBzMGJnQVZEdnlrN2RudXd0d3A1SXYxUjk1d2RkQVFkY3RzME1PcEZ0N0FycWhnUWgwSVJwcWJnalpsdngzam1uLXF3a2tqRXhvcV93a0lhUjlBSGZ2NEhKaDVJUm5UMFltdzJzQ0hoU3pxeTFCU3JYaE1HN0hIaUs1VTBDTFJvVnQxZXJrM0FPaWQ1djVn?oc=5",
-        "description": "",
-        "pubDate": "2025-09-19T10:27:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Day and night get equal billing Monday as fall equinox arrives. Here’s what to know - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRjVscTljLU9QOUcydG9ONG54cE01Yl9HcW5yUHRybkUtM3ZpMU15NVNBZDNlSjlab1ppSXJqMUpWZjI4ZFk4bmNjQUV3d0J3d2VYbElnRElfbDMwZ2dsOXNDSnE0U19NTW56VlFhMWxxVm0tV3BubGRHeVYzMGp1cmd3QkFyLUdSNUJ4SDlVenFPdWk5cUhDZHRxeGlndG9ZQUd6cUFQWWE5VnlsLVE?oc=5",
-        "description": "",
-        "pubDate": "2025-09-19T10:05:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -997,6 +997,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Earthquake causes scattered damage in Indonesia’s Papua region - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR0c0Q0xWOXVHbkFOM0dmbzNCdXctUk55aEpxSjBBZ1pfanpnSnV3ZU1ydV9VVjN4RDM0ZWNHSHpuN0QtejZ2U3J3b3BYSW5sNkZCRmpCTEhqbThETFI5alhDb1hRR1lmRFVBX2s3Ry1RSjllSThBcnQtWXQ4YTRwTXFlSXdGMGNEdjlJd1cyQWFsQUtpZlpRVw?oc=5",
+        "description": "",
+        "pubDate": "2025-09-19T05:35:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Iran withdraws resolution banning attacks on nuclear sites following US pressure - AP News",
@@ -1019,10 +1028,37 @@
     ],
     "Science": [
       {
+        "title": "Photos of Venezuelan fishing communities affected by US military strike - AP News",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZmtWT05nSEZiRnBDd1U1Uy15RURJaURDamVVRkMyYzRZeFo5MXR4RlNVN0tPdVoyWmZUc2tNR2xULXNMeFdRTDlfdFdSWi11T1lUNGdfZXFsRWpFWUF2Zm5yRGdpZk5zUHE5ejlBODlZQkVtNk40LXMxNHB0YkFmcVdKNFEtVkNjRHlicjN3VzRIUVhWdWpCTWVibjBVek9zdUV3bmZOSVhUWHZQR1BSYzFyZWg3RnBqdHVqQ25n?oc=5",
+        "description": "",
+        "pubDate": "2025-09-19T16:31:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "What to know about Brendan Carr, the head of the Federal Communications Commission - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUVplU1l6eWM3LXF0eEUtMlBuRkptbEVJMGMtTWpLLW1JcG9xaU8xQV9kaEpRRmRVUlRQOWZZRjBxa1J4eDhZRjFGMGNreFZiTDBYSF9wQVp0OEFubWQyNm1CNlBfZE9PM3Vfd2F1UTAxemRuclZMZmZrbEdTT1AzUUxqMGVyVVM1YlhNWUlEYXdBU0RqcVlPQ1dJekxiX1k?oc=5",
+        "description": "",
+        "pubDate": "2025-09-19T12:44:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Photos showcase individuality alongside performance at the world athletics championships in Tokyo - AP News",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSWVNeHdWOVk0eVdjUkdWbWd2OTJLQkdCbDFTQlBzSGw0b2cxZUdIamFGZ096UzJENlFFUGtrbHUya1NuczJwRVdINlNTaWxTZUtkQkFEYUZsUkpxWUVMbGg2N0dYczdHZGt5T1FoMk02cVZTb2ZKMUxwQVFKQUxicFFpTTUzSlZMWGpHeC1DY01IdVpJdUlia3F2dVJxRzA3cHZoWDFrT0N2X0kxdlIwY3RJbTMzT0JUdmhVMEZBVmdzSTFUVjZsdFVBWWpDYWVwb2pRM19NZ2stUm5kbldobWI0WkFLSzZwLTRv?oc=5",
         "description": "",
         "pubDate": "2025-09-19T11:43:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "McLaughlin-Levrone says hurdles-400 double is possible. But would she want to do it? - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR0dZZzc4TWJaZmwtT3Z1enBzMGJnQVZEdnlrN2RudXd0d3A1SXYxUjk1d2RkQVFkY3RzME1PcEZ0N0FycWhnUWgwSVJwcWJnalpsdngzam1uLXF3a2tqRXhvcV93a0lhUjlBSGZ2NEhKaDVJUm5UMFltdzJzQ0hoU3pxeTFCU3JYaE1HN0hIaUs1VTBDTFJvVnQxZXJrM0FPaWQ1djVn?oc=5",
+        "description": "",
+        "pubDate": "2025-09-19T10:27:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
