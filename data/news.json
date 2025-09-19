@@ -1,7 +1,25 @@
 {
-  "lastUpdate": "2025-09-19T19:48:48.080528Z",
+  "lastUpdate": "2025-09-19T19:59:18.946885Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Lomando [Free]",
+        "link": "https://geflg.itch.io/lomando",
+        "description": "",
+        "pubDate": "2025-09-19T19:54:09Z",
+        "source": "geflg.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMjM0ODk1LnBuZw==/315x250%23c/GpVeYg.png",
+        "bias": 0
+      },
+      {
+        "title": "Junky's Cleanup [Free] [Windows]",
+        "link": "https://bac0nator.itch.io/junkys-cleanup",
+        "description": "Little game about picking up trash",
+        "pubDate": "2025-09-19T19:36:07Z",
+        "source": "bac0nator.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMjM0ODgyLnBuZw==/315x250%23c/EVQgXw.png",
+        "bias": 0
+      },
       {
         "title": "Time Shooter (Beta) [Free] [Shooter] [Windows]",
         "link": "https://vzankls.itch.io/time-shooter-beta",
@@ -156,48 +174,12 @@
         "bias": 0
       },
       {
-        "title": "Block Tomato [Free] [Puzzle]",
-        "link": "https://takaneichinose.itch.io/block-tomato",
-        "description": "",
-        "pubDate": "2025-09-19T17:56:29Z",
-        "source": "takaneichinose.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMjMzNjM1LnBuZw==/315x250%23c/nforhD.png",
-        "bias": 0
-      },
-      {
         "title": "Dragon Drops [Free] [Puzzle]",
         "link": "https://astrosaurus-games.itch.io/dragon-drops",
         "description": "Spinning block! Make it stop! Help the dragon drag and drop!",
         "pubDate": "2025-09-19T17:38:24Z",
         "source": "astrosaurus-games.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMjMzODg2LnBuZw==/315x250%23c/zImD9C.png",
-        "bias": 0
-      },
-      {
-        "title": "1K Randoom #Pico1k [Free] [Platformer]",
-        "link": "https://skyberron.itch.io/1k-randoom",
-        "description": "A demake of Randoom, a game for the C64 by Picaro Games. In 1024 Compressed Bytes of code for PICO-1K Jam 2025",
-        "pubDate": "2025-09-19T17:27:15Z",
-        "source": "skyberron.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMjMzNzM4LnBuZw==/315x250%23c/vqAtWy.png",
-        "bias": 0
-      },
-      {
-        "title": "Don't touch the.lava! [Free] [Windows]",
-        "link": "https://an84.itch.io/dont-touch-thelava",
-        "description": "لعبة بسيطه انصنعت في ثلاث ايام",
-        "pubDate": "2025-09-19T17:10:15Z",
-        "source": "an84.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMjMzODQ3LnBuZw==/315x250%23c/%2FASifp.png",
-        "bias": 0
-      },
-      {
-        "title": "Mario Practice game [Free] [Adventure]",
-        "link": "https://ebrimayt.itch.io/game",
-        "description": "",
-        "pubDate": "2025-09-19T16:20:07Z",
-        "source": "ebrimayt.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMjMyMzU5LnBuZw==/315x250%23c/fbuJsb.png",
         "bias": 0
       },
       {
@@ -244,15 +226,6 @@
         "source": "ironreplica.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMjMzOTQxLnBuZw==/315x250%23c/Tq1sZT.png",
         "bias": 0
-      },
-      {
-        "title": "Quiz Doors [Free]",
-        "link": "https://jtastic2star.itch.io/portal-doorz",
-        "description": "",
-        "pubDate": "2025-09-19T03:56:57Z",
-        "source": "jtastic2star.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMjMzNjU0LmpwZw==/315x250%23c/%2F7pG15.jpg",
-        "bias": 0
       }
     ],
     "World": [
@@ -264,6 +237,24 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8007/live/0dfedb80-956f-11f0-aa3a-ddc192c3f339.jpg",
         "bias": 0
+      },
+      {
+        "title": "PA arrests Palestinian suspect decades after deadly Paris restaurant attack",
+        "link": "https://www.aljazeera.com/news/2025/9/19/pa-arrests-palestinian-suspect-decades-after-paris-restaurant-attack?traffic_source=rss",
+        "description": "French official says arrest of suspect Hicham Harb was made possible by upcoming recognition of Palestinian state.",
+        "pubDate": "2025-09-19T19:41:21Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "India avoid Oman upset at Asia Cup with 21-run T20 win",
+        "link": "https://www.aljazeera.com/sports/2025/9/19/india-avoid-oman-upset-at-asia-cup-with-21-run-t20-win?traffic_source=rss",
+        "description": "India given scare by Oman but winning run continues after 21-run victory at 2025 Asia Cup.",
+        "pubDate": "2025-09-19T19:33:23Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Russia becoming ‘more dangerous’, EU foreign affairs head warns",
@@ -536,6 +527,15 @@
         "bias": 0
       },
       {
+        "title": "UN votes to let Palestinian leader address General Assembly by video after US visa denial - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObDhqOHN3YlpKWXJaV1JwZmtCNXhrWUZXQUIyYU9MR21GSmJUaEJ0aHFJLWI3U0wyWlVRN3VybzdwT1draFF6S1djS3ZNXzZDRlUwcnZ2S1VqYVMxM0Rlc0o1ZWNCZmJkckZGZlBHMmZRbWNxdnBTeXhfbDFnV2NJLXN5eFZ5VVlUeEhGaUhjSmhTbGllRWt0clVVblRjbDZseDJSNkh6U0o?oc=5",
+        "description": "",
+        "pubDate": "2025-09-19T14:52:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Willie Nelson and Neil Young highlight 40th Farm Aid concert - AP News",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRFlFdjJ3Y2hHN3NTeDV4VWRqUFJwcm1paXJVWThkWHQ1ZzZrd2NqYXhaSUFlcU04WWlSdjNUYlZ0cmhPZ1VMTFh6Y0xxRno2SkQ3Q2pyaFBMWjk1SVZoSDhXbU5kcGp2R1pBZ1VxakJFNk1qVGZVLWdZeU15QjB1MzVDckJ2bGV4SmtwaXVB?oc=5",
         "description": "",
@@ -678,41 +678,32 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Dutch MP sent out of parliament for wearing colours of Palestine flag",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/9/19/dutch-mp-sent-out-of-parliament-for-wearing-colours-of-palestine-flag?traffic_source=rss",
-        "description": "Dutch MP Esther Ouwehand was told to change her outfit after wearing the colours of the Palestinian flag in parliament.",
-        "pubDate": "2025-09-19T12:44:15Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Does Jimmy Kimmel’s removal over Charlie Kirk violate freedom of speech?",
-        "link": "https://www.aljazeera.com/news/2025/9/19/does-jimmy-kimmels-removal-over-charlie-kirk-violate-freedom-of-speech?traffic_source=rss",
-        "description": "Disney-owned ABC pulled Kimmel's late-night show off the air after he made comments about MAGA and Tyler Robinson.",
-        "pubDate": "2025-09-19T12:27:09Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Trump-China TikTok deal in the works to avoid looming US ban: What we know",
-        "link": "https://www.aljazeera.com/economy/2025/9/19/trump-china-tiktok-deal-in-the-works-to-avoid-looming-us-ban-what-we-know?traffic_source=rss",
-        "description": "US lawmakers voted to ban the app in 2024 amid concerns that Beijing could access user data.",
-        "pubDate": "2025-09-19T12:25:08Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
+      {
+        "title": "More than 400 arrests made in Chicago area operation so far, top immigration official says - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQzBGRHB6M0JQelhvalI0QWZLOGdfQmVXcHJTLVlBcm02MmNWeWU3VGFTSUlYY1N1Ym02S1pLVXJpSkUxUkNhTTRRYmlVMEdZeFBBMU11dHY0X2VmakxuYTcwMXlpQzFNd1pxd1B2MHpOVVVoeUZ4Ym9NN1dWakVEQldBVkM3WFEwdWtNOEhXOUxuNm1sVXhVWmNmakdOc0ZTRWZVVTk4TDltVEVhZFE?oc=5",
+        "description": "",
+        "pubDate": "2025-09-19T19:18:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Mudslides trap drivers, bury roads and damage homes in Southern California - AP News",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVVo5cmhqcHZ0anh2Sld1R3hxY2FabmUtZ1AwbzV6WkJJeHNuR3FBU3ZXTnNKZjU1OG5PVWhUeGYwTUsxOTZBNU92d2hhUDNKeWlOYUlSUzlFTGlHNE9pbDVwTmZaMk9FZlF2eU5uOW1OV2lhMnIyVEYwTFFSa1NTMU55eGRRdThpLW15Z21VcGN1cFQzaHQ1U191Zw?oc=5",
         "description": "",
         "pubDate": "2025-09-19T18:37:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "A timeline of Trump’s fights with media, including Jimmy Kimmel and The New York Times - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVjF6WV9tUktPSWFtZ1JvR1pIeDBBN19hZTVZSTFsdzhaZ2RtczFiSHRsWXVMZjlIWjBLMVAxdmw1aE1sMF9VcEdjWml0N1FUMWdRQXZLOHNITjBpRnQ0QURJMnRCTkp6UDJzNjFBQW56Nmt6QTJjUDUwcGtNV3Vqbk9kUHNNQ2pSMDB0SzRoZ1ZzUENDUk9QVmpGNlNoVVk?oc=5",
+        "description": "",
+        "pubDate": "2025-09-19T18:20:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -736,7 +727,16 @@
         "bias": -1
       },
       {
-        "title": "How FCC chair Brendan Carr is leading Trump's charge against the media",
+        "title": "US attorney whose office is investigating Letitia James is told he's being removed, AP source says - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOVF3UHNLbHdBa0tZeEd4UkRQTEpidnpuR0ViaDVUSEgxWGlPaDJXSkZVM2NrMks0WWJGTkk3Ry0yTmdFRngwWUdBV1YzOVNJNVVpMTk2ZGt6SjBVMFd3TGk1SUM1cWxTNEdNWlZ6UFBCRkVsNlVnZlRfcUJQWXgyUk9FUG5lR05oOU5rd04zNGJzNmVCN1cxQjZCLXZGNk9EMU1yTjY5MlZ3Zw?oc=5",
+        "description": "",
+        "pubDate": "2025-09-19T17:34:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Jimmy Kimmel's suspension shows power of FCC's Brendan Carr",
         "link": "https://www.npr.org/2025/09/19/nx-s1-5546764/fcc-brendan-carr-kimmel-trump-free-speech",
         "description": "In the eight months since becoming chair of the Federal Communications Commission, Brendan Carr has waged war against the free speech of those who have reported on, criticized, or satirized the president.",
         "pubDate": "2025-09-19T17:27:58Z",
@@ -760,15 +760,6 @@
         "pubDate": "2025-09-19T17:13:26Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/490f/live/e24a1d80-956c-11f0-bc5b-7ff2de9d2e33.jpg",
-        "bias": 0
-      },
-      {
-        "title": "US attorney whose office is investigating Letitia James is told he's being removed, AP source says - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOVF3UHNLbHdBa0tZeEd4UkRQTEpidnpuR0ViaDVUSEgxWGlPaDJXSkZVM2NrMks0WWJGTkk3Ry0yTmdFRngwWUdBV1YzOVNJNVVpMTk2ZGt6SjBVMFd3TGk1SUM1cWxTNEdNWlZ6UFBCRkVsNlVnZlRfcUJQWXgyUk9FUG5lR05oOU5rd04zNGJzNmVCN1cxQjZCLXZGNk9EMU1yTjY5MlZ3Zw?oc=5",
-        "description": "",
-        "pubDate": "2025-09-19T17:12:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -868,15 +859,6 @@
         "pubDate": "2025-09-19T15:04:26Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/792e/live/4f028260-9567-11f0-bc5b-7ff2de9d2e33.png",
-        "bias": 0
-      },
-      {
-        "title": "UN votes to let Palestinian leader address General Assembly by video after US visa denial - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObDhqOHN3YlpKWXJaV1JwZmtCNXhrWUZXQUIyYU9MR21GSmJUaEJ0aHFJLWI3U0wyWlVRN3VybzdwT1draFF6S1djS3ZNXzZDRlUwcnZ2S1VqYVMxM0Rlc0o1ZWNCZmJkckZGZlBHMmZRbWNxdnBTeXhfbDFnV2NJLXN5eFZ5VVlUeEhGaUhjSmhTbGllRWt0clVVblRjbDZseDJSNkh6U0o?oc=5",
-        "description": "",
-        "pubDate": "2025-09-19T14:52:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -1042,15 +1024,6 @@
         "bias": 0
       },
       {
-        "title": "Democrats introduce bill to protect free speech following Kimmel suspension - AP News",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DbC1sVE5TcWZsTFdJOXl2TWo5SWVmVGVEVjkwMzlQLWVnMGNWYmkzSENFaF9ZcEVJbUFfOGJER1ItRFVKUjB4ZVFSdm1GMVdaUzhwaF9lYi03V1NTdFFkc2J6X0NJZExjWG1F?oc=5",
-        "description": "",
-        "pubDate": "2025-09-19T00:26:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Chris Mason: Delight and relief in government after state visit",
         "link": "https://www.bbc.com/news/articles/cvgn3445655o?at_medium=RSS&at_campaign=rss",
         "description": "Trump's disagreements with Sir Keir were somehow channelled past him, rather than at him, writes the BBC's political editor.",
@@ -1061,15 +1034,6 @@
       }
     ],
     "Tech": [
-      {
-        "title": "A timeline of Trump’s fights with media, including Jimmy Kimmel and The New York Times - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVjF6WV9tUktPSWFtZ1JvR1pIeDBBN19hZTVZSTFsdzhaZ2RtczFiSHRsWXVMZjlIWjBLMVAxdmw1aE1sMF9VcEdjWml0N1FUMWdRQXZLOHNITjBpRnQ0QURJMnRCTkp6UDJzNjFBQW56Nmt6QTJjUDUwcGtNV3Vqbk9kUHNNQ2pSMDB0SzRoZ1ZzUENDUk9QVmpGNlNoVVk?oc=5",
-        "description": "",
-        "pubDate": "2025-09-19T18:20:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
       {
         "title": "Paramilitary drone attack on a mosque in Sudan kills at least 70 people, army says - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUVB1bGladWhPNGlsbnMwTHFkdFlNT1EtRlpHX2dTYXQ1c1hJcWJrSzNjRmNVX2ZEQ2dMYUV4NzY3d0Z3Z01iX3F2d3B1X1ZaUUg0U2JDSi1mN2NrNmhaMHRtR1BDcnkyXzgtY3V3R0tIUG5pTFlrbXVvcDJTS3AzZ3JzZ0xDcVpDNDRLRmtoNGxCTGc5U3JydnlGbGsxSHRCNW9rZEZ1Yzk?oc=5",
@@ -1163,15 +1127,6 @@
     ],
     "Science": [
       {
-        "title": "A Mississippi college football player dies after a game - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSGtROF85dHY5UmpTX0NSY2R4WWQ3R25ZOXBOU0pDOTlVR0t0NE1uYU5fc3JPXzFKQXpCZkMxSHhPZmJROXVxdzd3VVlhZlJWX2NCQldDUnBudmk5WE9maFJSLUp6WjkxWHhIeTh2OUlNTHVoa1JRQm4yR0hnS0tyNjFqZ1NRaXNlek9jRHNFd2VMVXF0eVlyTEMtWjVuLWt6QWlBWFp2SVEwdG9U?oc=5",
-        "description": "",
-        "pubDate": "2025-09-19T17:21:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Photos of Venezuelan fishing communities affected by US military strike - AP News",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZmtWT05nSEZiRnBDd1U1Uy15RURJaURDamVVRkMyYzRZeFo5MXR4RlNVN0tPdVoyWmZUc2tNR2xULXNMeFdRTDlfdFdSWi11T1lUNGdfZXFsRWpFWUF2Zm5yRGdpZk5zUHE5ejlBODlZQkVtNk40LXMxNHB0YkFmcVdKNFEtVkNjRHlicjN3VzRIUVhWdWpCTWVibjBVek9zdUV3bmZOSVhUWHZQR1BSYzFyZWg3RnBqdHVqQ25n?oc=5",
         "description": "",
@@ -1199,15 +1154,6 @@
         "bias": 0
       },
       {
-        "title": "McLaughlin-Levrone says hurdles-400 double is possible. But would she want to do it? - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR0dZZzc4TWJaZmwtT3Z1enBzMGJnQVZEdnlrN2RudXd0d3A1SXYxUjk1d2RkQVFkY3RzME1PcEZ0N0FycWhnUWgwSVJwcWJnalpsdngzam1uLXF3a2tqRXhvcV93a0lhUjlBSGZ2NEhKaDVJUm5UMFltdzJzQ0hoU3pxeTFCU3JYaE1HN0hIaUs1VTBDTFJvVnQxZXJrM0FPaWQ1djVn?oc=5",
-        "description": "",
-        "pubDate": "2025-09-19T10:27:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Wildfire smoke is killing Americans. A new study quantifies how much",
         "link": "https://www.npr.org/2025/09/19/nx-s1-5544451/wildfire-smoke-death-increases",
         "description": "More intense future wildfires, fueled by further climate change, could lead to 70,000 deaths from smoke exposure a year, according to a new study.",
@@ -1227,6 +1173,15 @@
       }
     ],
     "Business": [
+      {
+        "title": "How FCC chair Brendan Carr is leading Trump's charge against the media",
+        "link": "https://www.npr.org/2025/09/19/nx-s1-5546764/fcc-brendan-carr-kimmel-trump-free-speech",
+        "description": "In the eight months since becoming chair of the Federal Communications Commission, Brendan Carr has waged war against the free speech of those who have reported on, criticized, or satirized the president.",
+        "pubDate": "2025-09-19T17:27:58Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "'Labour must step up to help JLR supply chain'",
         "link": "https://www.bbc.com/news/articles/c36kjx8w793o?at_medium=RSS&at_campaign=rss",
