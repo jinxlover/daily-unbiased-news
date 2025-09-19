@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-19T05:18:54.694202Z",
+  "lastUpdate": "2025-09-19T05:35:18.269683Z",
   "news": {
     "Gaming": [
       {
@@ -203,6 +203,33 @@
     ],
     "World": [
       {
+        "title": "Trump says TV networks 'against' him should 'maybe' lose licence, after Kimmel suspension",
+        "link": "https://www.bbc.com/news/articles/cr4qe0rz2zvo?at_medium=RSS&at_campaign=rss",
+        "description": "His comments came as the head of the US broadcast regulator vowed to keep holding networks \"accountable\".",
+        "pubDate": "2025-09-19T05:32:57Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/393f/live/f2563770-950f-11f0-84c8-99de564f0440.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Kim Jong Un declares AI military drone development a ‘top priority’",
+        "link": "https://www.aljazeera.com/news/2025/9/19/kim-jong-un-declares-ai-military-drone-development-a-top-priority?traffic_source=rss",
+        "description": "North Korea 'is in its strongest strategic position in decades', US military intelligence said in May.",
+        "pubDate": "2025-09-19T05:06:58Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "‘Crisis of justice’ as floods devastate: Pakistan’s climate change minister",
+        "link": "https://www.aljazeera.com/news/2025/9/19/impact-of-climate-change-a-harsh-reality-facing-pakistan?traffic_source=rss",
+        "description": "Pakistan ranks among top 10 most climate-vulnerable nations but contributes less than 1 percent of global emissions.",
+        "pubDate": "2025-09-19T05:02:28Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Canada, Mexico to work together in face of Trump’s US tariff threats",
         "link": "https://www.aljazeera.com/news/2025/9/19/canada-mexico-to-work-together-in-face-of-trumps-us-tariff-threats?traffic_source=rss",
         "description": "Canadian and Mexican leaders pledge closer coordination on trade amid US President Donald Trump's trade war.",
@@ -383,15 +410,6 @@
         "bias": 0
       },
       {
-        "title": "Trump says TV networks 'against' him should 'maybe' lose licence, after Kimmel suspension",
-        "link": "https://www.bbc.com/news/articles/cr4qe0rz2zvo?at_medium=RSS&at_campaign=rss",
-        "description": "His comments came as the head of the US broadcast regulator vowed to keep holding networks \"accountable\".",
-        "pubDate": "2025-09-19T00:47:03Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/393f/live/f2563770-950f-11f0-84c8-99de564f0440.jpg",
-        "bias": 0
-      },
-      {
         "title": "Russia-Ukraine war: List of key events, day 1,303",
         "link": "https://www.aljazeera.com/news/2025/9/19/russia-ukraine-war-list-of-key-events-day-1303?traffic_source=rss",
         "description": "Here are the key events on day 1,303 of Russia’s war on Ukraine.",
@@ -408,6 +426,15 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "3 members of federal control board in Puerto Rico sue Trump and others for illegal firings - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYk9pZ1RQTWQwOWZ5bUs1NjlRUDRCM1JrMkk3MWtmWjBaemNMcDI2ZTBoLTRMT0V4anRUR2JVaU93NWNWMWlIRi1iOFl0Nnk3OFNNVUJQbnk5eVY5T1ltelJPbjVEQndFZjVhbUs4aEh5Y0h4bHNSc0dhdGhMV2tZVnlQMmR2Y0h5amRULU5xRDdoUWpGT29GSXlDN3RUMFBfeE5LTldSQ2xxQQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-19T00:25:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Politics": [
@@ -421,9 +448,37 @@
         "bias": 0
       }
     ],
-    "Tech": [],
+    "Tech": [
+      {
+        "title": "Cardi releases highly anticipated ‘Am I the Drama’ album - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTklBNGpvaWxlNzBibzdKdGNmaXU2akFVMjdnbWxwQ0NGS1NqMl9wUUtBWHByLURJWmJMbGlZR1NqX1NOMmxsaGZsQ3FMMzhkS2pabmdjeTVNSWJHMU80OXFEZnVhcEhCUmRidnV6djZUb2ZuYkNjZk1jQWFGdTNlbGFtSnQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-19T04:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Pair of bombings hours apart kill 8 people, wound 23 in southwest Pakistan - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONUMxZHkyRlc1eXNQVkNJZGFsTWlpZ1N0bGtmcUJ5Q2FHTFhma0NiSmRPTkJTUkM3WEtqWm1aYS16Zzk1dEhWTVR5RHBSUG5kT1ZsMEU4MEdhNklwMlFfanpORVM3cVk1ZE9KZ1lnSUFfQ2NmUzFpWkJoQWF6Uy1VTU8ySG5ETDRfWnRtR01tZldQUHdjYTFlOHRLaXNqNkM4Z0FldnFR?oc=5",
+        "description": "",
+        "pubDate": "2025-09-19T00:31:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ],
     "Science": [],
     "Business": [
+      {
+        "title": "Butcher calls for more support for small businesses",
+        "link": "https://www.bbc.com/news/articles/c4gw8nqwpqxo?at_medium=RSS&at_campaign=rss",
+        "description": "Rachel Edmonds, who started The Butcheress in 2017, says there has been a big rise in meat prices.",
+        "pubDate": "2025-09-19T05:18:28Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85fb/live/07c1aaa0-94a6-11f0-8f1b-8f631071b9ef.jpg",
+        "bias": 0
+      },
       {
         "title": "Why students like me are happier living at home",
         "link": "https://www.bbc.com/news/articles/c15kwylxjglo?at_medium=RSS&at_campaign=rss",
