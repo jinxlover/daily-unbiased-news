@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-09-19T08:27:18.524836Z",
+  "lastUpdate": "2025-09-19T08:46:40.972082Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Robber Thing [Free] [Interactive Fiction]",
+        "link": "https://evie-hamilton.itch.io/robber-thing",
+        "description": "You rob a bank.",
+        "pubDate": "2025-09-19T08:38:05Z",
+        "source": "evie-hamilton.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMjI3OTg1LnBuZw==/315x250%23c/0mrCXn.png",
+        "bias": 0
+      },
       {
         "title": "Blocky Snake3D [Free] [Action]",
         "link": "https://hggamesstudio.itch.io/blockysnake",
@@ -9,6 +18,15 @@
         "pubDate": "2025-09-19T08:11:17Z",
         "source": "hggamesstudio.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMjI3NzQ4LnBuZw==/315x250%23c/dj1%2BeI.png",
+        "bias": 0
+      },
+      {
+        "title": "Donut Truck - Make More Donuts [Free] [Simulation] [Windows]",
+        "link": "https://joyijoyi.itch.io/donut-truck",
+        "description": "Make and sell donuts, compete to become the champion!",
+        "pubDate": "2025-09-19T08:10:06Z",
+        "source": "joyijoyi.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMjI3NjgxLmpwZw==/315x250%23c/Wc%2F3D8.jpg",
         "bias": 0
       },
       {
@@ -165,30 +183,12 @@
         "bias": 0
       },
       {
-        "title": "Stretcher Dash [Free] [Action]",
-        "link": "https://hashbrown0011.itch.io/stretcher-dash",
-        "description": "GB Jam 2025",
-        "pubDate": "2025-09-19T05:32:03Z",
-        "source": "hashbrown0011.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMjI2NzQ5LnBuZw==/315x250%23c/JfY9Pv.png",
-        "bias": 0
-      },
-      {
         "title": "the sanctuary of hope. prototype [Free] [Adventure] [Windows]",
         "link": "https://srizzalox.itch.io/the-sanctuary-of-hope",
         "description": "",
         "pubDate": "2025-09-19T05:17:33Z",
         "source": "srizzalox.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMjI3MzU1LnBuZw==/315x250%23c/Rmm4nk.png",
-        "bias": 0
-      },
-      {
-        "title": "Raw Concrete [Free] [Adventure] [Windows]",
-        "link": "https://pink-blood.itch.io/raw-concrete",
-        "description": "I hate my job.",
-        "pubDate": "2025-09-19T04:49:07Z",
-        "source": "pink-blood.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMjI2Njc3LnBuZw==/315x250%23c/Krc6QF.png",
         "bias": 0
       },
       {
@@ -203,9 +203,18 @@
     ],
     "World": [
       {
+        "title": "Afghanistan rejects US return to Bagram airbase",
+        "link": "https://www.aljazeera.com/news/2025/9/19/afghanistan-rejects-us-return-to-bagram-airbase?traffic_source=rss",
+        "description": "President Trump reiterated call to reclaim huge airbase; Taliban says US must engage without seeking military presence.",
+        "pubDate": "2025-09-19T08:21:25Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Trump says TV networks opposed to him should 'maybe' lose licence",
         "link": "https://www.bbc.com/news/articles/cr4qe0rz2zvo?at_medium=RSS&at_campaign=rss",
-        "description": "Concerns grow that the Trump administration is curtailing criticism after ABC host Jimmi Kimmel's show was cancelled.",
+        "description": "Concerns grow that the Trump administration is curtailing criticism after ABC host Jimmy Kimmel's show was cancelled.",
         "pubDate": "2025-09-19T08:21:16Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e6d/live/f369d710-951f-11f0-b391-6936825093bd.jpg",
@@ -545,6 +554,15 @@
         "bias": -1
       },
       {
+        "title": "Democrats introduce bill to protect free speech following Kimmel suspension - AP News",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DbC1sVE5TcWZsTFdJOXl2TWo5SWVmVGVEVjkwMzlQLWVnMGNWYmkzSENFaF9ZcEVJbUFfOGJER1ItRFVKUjB4ZVFSdm1GMVdaUzhwaF9lYi03V1NTdFFkc2J6X0NJZExjWG1F?oc=5",
+        "description": "",
+        "pubDate": "2025-09-19T00:26:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "3 members of federal control board in Puerto Rico sue Trump and others for illegal firings - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYk9pZ1RQTWQwOWZ5bUs1NjlRUDRCM1JrMkk3MWtmWjBaemNMcDI2ZTBoLTRMT0V4anRUR2JVaU93NWNWMWlIRi1iOFl0Nnk3OFNNVUJQbnk5eVY5T1ltelJPbjVEQndFZjVhbUs4aEh5Y0h4bHNSc0dhdGhMV2tZVnlQMmR2Y0h5amRULU5xRDdoUWpGT29GSXlDN3RUMFBfeE5LTldSQ2xxQQ?oc=5",
         "description": "",
@@ -576,7 +594,7 @@
       {
         "title": "Highest government borrowing in August for five years",
         "link": "https://www.bbc.com/news/articles/cly9m4lqznro?at_medium=RSS&at_campaign=rss",
-        "description": "Increased tax receipts were outstripped by higher spending on public services, benefits and debt interest.",
+        "description": "Increased tax receipts were outstripped by higher spending on public services, benefits and debt interest, latest figures show.",
         "pubDate": "2025-09-19T08:05:38Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22fc/live/e7f6b590-9521-11f0-8d9d-ffe2d3393044.jpg",
@@ -619,15 +637,6 @@
         "bias": 0
       },
       {
-        "title": "Democrats introduce bill to protect free speech following Kimmel suspension - AP News",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DbC1sVE5TcWZsTFdJOXl2TWo5SWVmVGVEVjkwMzlQLWVnMGNWYmkzSENFaF9ZcEVJbUFfOGJER1ItRFVKUjB4ZVFSdm1GMVdaUzhwaF9lYi03V1NTdFFkc2J6X0NJZExjWG1F?oc=5",
-        "description": "",
-        "pubDate": "2025-09-19T00:26:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Chris Mason: Delight and relief in government after state visit",
         "link": "https://www.bbc.com/news/articles/cvgn3445655o?at_medium=RSS&at_campaign=rss",
         "description": "Trump's disagreements with Sir Keir were somehow channelled past him, rather than at him, writes the BBC's political editor.",
@@ -648,24 +657,6 @@
         "bias": 0
       },
       {
-        "title": "House voting on funding patch as parties trade blame for potential shutdown - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNenRWVVpDeVBwWjRfX1B0TW1DN0NscURDSkpjZmZHYWp3YTczcGNQejRVSlJ1cjJiUWVBNXFLSkZtbkZ5akpMZHZGWDl4M1l0c1p0ZU5VSm9sekRjeGhCM2JTeHFzRjR5Y3BUbWQ2MFJaM01RUjhIZlpmS0lkRm5pYTdhckN2aElMWkI2SWJwTWhZN0t5b0ZBN0NybWFzLWMzeFQ5NWMyM28?oc=5",
-        "description": "",
-        "pubDate": "2025-09-19T04:07:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Pair of bombings hours apart kill 8 people, wound 23 in southwest Pakistan - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONUMxZHkyRlc1eXNQVkNJZGFsTWlpZ1N0bGtmcUJ5Q2FHTFhma0NiSmRPTkJTUkM3WEtqWm1aYS16Zzk1dEhWTVR5RHBSUG5kT1ZsMEU4MEdhNklwMlFfanpORVM3cVk1ZE9KZ1lnSUFfQ2NmUzFpWkJoQWF6Uy1VTU8ySG5ETDRfWnRtR01tZldQUHdjYTFlOHRLaXNqNkM4Z0FldnFR?oc=5",
-        "description": "",
-        "pubDate": "2025-09-19T00:31:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Top Fortnite streamer Ninja tells BBC: Trolls mock me for being less popular",
         "link": "https://www.bbc.com/news/articles/cvg98zd9q75o?at_medium=RSS&at_campaign=rss",
         "description": "Tyler Blevins says trolls attack him every day for being less popular than he was at the height of his fame.",
@@ -675,7 +666,17 @@
         "bias": 0
       }
     ],
-    "Science": [],
+    "Science": [
+      {
+        "title": "Pair of bombings hours apart kill 8 people, wound 23 in southwest Pakistan - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONUMxZHkyRlc1eXNQVkNJZGFsTWlpZ1N0bGtmcUJ5Q2FHTFhma0NiSmRPTkJTUkM3WEtqWm1aYS16Zzk1dEhWTVR5RHBSUG5kT1ZsMEU4MEdhNklwMlFfanpORVM3cVk1ZE9KZ1lnSUFfQ2NmUzFpWkJoQWF6Uy1VTU8ySG5ETDRfWnRtR01tZldQUHdjYTFlOHRLaXNqNkM4Z0FldnFR?oc=5",
+        "description": "",
+        "pubDate": "2025-09-19T00:31:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ],
     "Business": [
       {
         "title": "India regulator rejects US firm's fraud claims against Adani Group",
