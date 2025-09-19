@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-19T05:35:18.269683Z",
+  "lastUpdate": "2025-09-19T05:46:00.113903Z",
   "news": {
     "Gaming": [
       {
@@ -27,6 +27,15 @@
         "pubDate": "2025-09-19T04:49:12Z",
         "source": "charliewichman.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMjI2MzQ0LnBuZw==/315x250%23c/aZBhYo.png",
+        "bias": 0
+      },
+      {
+        "title": "Raw Concrete [Free] [Adventure] [Windows]",
+        "link": "https://pink-blood.itch.io/raw-concrete",
+        "description": "I hate my job.",
+        "pubDate": "2025-09-19T04:49:07Z",
+        "source": "pink-blood.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMjI2Njc3LnBuZw==/315x250%23c/Krc6QF.png",
         "bias": 0
       },
       {
@@ -320,15 +329,6 @@
         "bias": -1
       },
       {
-        "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-19T02:04:35Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "UK’s MI6 spy agency launches dark web portal, seeks out foreign spies",
         "link": "https://www.aljazeera.com/news/2025/9/19/uks-mi6-spy-agency-launches-dark-web-portal-seeks-out-foreign-spies?traffic_source=rss",
         "description": "Platform to allow people to securely pass on information anywhere in the world, or offer their own services to MI6.",
@@ -498,6 +498,34 @@
         "bias": 0
       }
     ],
-    "Culture": []
+    "Culture": [
+      {
+        "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-19T02:45:17Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Joy Crookes 'let go' of perfectionism - her music is better for it",
+        "link": "https://www.bbc.com/news/articles/c5y4k7eypd4o?at_medium=RSS&at_campaign=rss",
+        "description": "The singer says she avoided the second-album slump as she \"has always got something to say\".",
+        "pubDate": "2025-09-19T00:31:10Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3ae/live/fdbdf980-93a8-11f0-9cf6-cbf3e73ce2b9.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Top Fortnite streamer Ninja tells BBC: Trolls mock me for being less popular",
+        "link": "https://www.bbc.com/news/articles/cvg98zd9q75o?at_medium=RSS&at_campaign=rss",
+        "description": "Tyler Blevins says trolls attack him every day for being less popular than he was at the height of his fame.",
+        "pubDate": "2025-09-19T00:06:52Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dcc/live/d99c9110-9470-11f0-bc01-a3a35aa734ac.jpg",
+        "bias": 0
+      }
+    ]
   }
 }
