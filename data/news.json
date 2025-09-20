@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-09-20T06:27:51.162190Z",
+  "lastUpdate": "2025-09-20T06:46:18.096606Z",
   "news": {
     "Gaming": [
+      {
+        "title": "RETURN [Free] [Interactive Fiction]",
+        "link": "https://melodiastudios.itch.io/return",
+        "description": "For Nix Voltare's birthday (09/20/25)",
+        "pubDate": "2025-09-20T06:34:19Z",
+        "source": "melodiastudios.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMjQwNDgzLmpwZw==/315x250%23c/LhYpDp.jpg",
+        "bias": 0
+      },
       {
         "title": "Unshackled [Free] [Action]",
         "link": "https://benjaminlrj.itch.io/unshackled",
@@ -210,21 +219,12 @@
         "bias": 0
       },
       {
-        "title": "Juego de escala un brainrot [Free] [Adventure] [Windows]",
-        "link": "https://benja50b.itch.io/juego-de-escala-un-brainrot-xdd",
-        "description": "Este juego es muy bueno pruebalo",
-        "pubDate": "2025-09-20T03:47:37Z",
-        "source": "benja50b.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMjM5Mzc1LmpwZWc=/315x250%23c/YK4Oqz.jpeg",
-        "bias": 0
-      },
-      {
-        "title": "Mycelio [Free]",
-        "link": "https://narth0287.itch.io/mycelio",
-        "description": "Click and drag to grow mycelium and eat apple cores while avoiding worms.",
-        "pubDate": "2025-09-20T03:05:08Z",
-        "source": "narth0287.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMjM4OTYxLnBuZw==/315x250%23c/z4pbmv.png",
+        "title": "AiGirlFriend [Free] [Other] [Windows]",
+        "link": "https://atmark1.itch.io/aigirlfriend",
+        "description": "",
+        "pubDate": "2025-09-20T03:21:50Z",
+        "source": "atmark1.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMjQwNTY1LnBuZw==/315x250%23c/LjMTzn.png",
         "bias": 0
       },
       {
@@ -235,18 +235,18 @@
         "source": "horrornight298.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMjM4MzkzLnBuZw==/315x250%23c/5nPNBB.png",
         "bias": 0
-      },
-      {
-        "title": "REVERSUS ONLINE [Free] [Card Game] [Windows] [macOS] [Linux] [Android]",
-        "link": "https://x4el.itch.io/reversus-online",
-        "description": "Card Game + Board Game",
-        "pubDate": "2025-09-20T01:00:25Z",
-        "source": "x4el.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMjM5MjExLnBuZw==/315x250%23c/FAcxns.png",
-        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Trump adds $100,000 fee for skilled worker visa applicants",
+        "link": "https://www.bbc.com/news/articles/cm2zk4l8g26o?at_medium=RSS&at_campaign=rss",
+        "description": "\"Train Americans,\" the US commerce secretary told big companies, some of which have relied on foreign high-skilled workers for years.",
+        "pubDate": "2025-09-20T06:42:15Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa5f/live/38c3b210-95af-11f0-9cf6-cbf3e73ce2b9.jpg",
+        "bias": 0
+      },
       {
         "title": "Son of British couple held by Taliban 'ecstatic' as they return to UK",
         "link": "https://www.bbc.com/news/articles/cly6ve2dg66o?at_medium=RSS&at_campaign=rss",
@@ -449,7 +449,17 @@
     "Politics": [],
     "Tech": [],
     "Science": [],
-    "Business": [],
+    "Business": [
+      {
+        "title": "Event to help islanders cut down on energy bills",
+        "link": "https://www.bbc.com/news/articles/cwynpn6rnkko?at_medium=RSS&at_campaign=rss",
+        "description": "Organisers say a number of businesses will be at the session to offer tips and advice to islanders.",
+        "pubDate": "2025-09-20T06:33:44Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd0c/live/10c5e030-956e-11f0-bc5b-7ff2de9d2e33.jpg",
+        "bias": 0
+      }
+    ],
     "Culture": []
   }
 }
