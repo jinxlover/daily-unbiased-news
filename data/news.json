@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-09-20T08:48:21.036179Z",
+  "lastUpdate": "2025-09-20T08:58:29.986686Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Instability of security [Free] [Action] [Windows]",
+        "link": "https://mohammedazzam625-lab.itch.io/instability-of-security",
+        "description": "no استقرار الامان",
+        "pubDate": "2025-09-20T08:44:17Z",
+        "source": "mohammedazzam625-lab.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMjQxNTA3LnBuZw==/315x250%23c/Q5Gpqa.png",
+        "bias": 0
+      },
       {
         "title": "UPIH RACER-Nuh Hariz [Free]",
         "link": "https://pikokoi.itch.io/upih-racer-nuh-hariz",
@@ -210,30 +219,12 @@
         "bias": 0
       },
       {
-        "title": "Multi-Pass [Free] [Platformer]",
-        "link": "https://xcrossbite.itch.io/multi-pass",
-        "description": "Every door, a trap.",
-        "pubDate": "2025-09-20T05:22:21Z",
-        "source": "xcrossbite.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMjQwMDY0LnBuZw==/315x250%23c/wzeLpv.png",
-        "bias": 0
-      },
-      {
         "title": "Crazy Contracts (really early alpha holy hell) [Free] [Role Playing] [Windows]",
         "link": "https://ballinbanditqueen.itch.io/crazy-contracts-alpha",
         "description": "extremely early alpha, basically just a proof of concept if anything",
         "pubDate": "2025-09-20T05:11:23Z",
         "source": "ballinbanditqueen.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMjM5OTY1LmpwZw==/315x250%23c/7SMV%2FT.jpg",
-        "bias": 0
-      },
-      {
-        "title": "HTtyper [Free]",
-        "link": "https://anritool.itch.io/ht-typer",
-        "description": "Simple typer game",
-        "pubDate": "2025-09-20T04:56:30Z",
-        "source": "anritool.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMjM5ODMxLnBuZw==/315x250%23c/Luoi%2Fn.png",
         "bias": 0
       },
       {
@@ -256,6 +247,15 @@
       }
     ],
     "World": [
+      {
+        "title": "Malawi police arrest eight for alleged election fraud",
+        "link": "https://www.bbc.com/news/articles/cx239dj0yx7o?at_medium=RSS&at_campaign=rss",
+        "description": "Officials are on high alert after the 2019 presidential election result was annulled due to vote tampering.",
+        "pubDate": "2025-09-20T08:45:46Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7da2/live/384397e0-95f7-11f0-84c8-99de564f0440.jpg",
+        "bias": 0
+      },
       {
         "title": "Portugal confirms it will recognise Palestinian state",
         "link": "https://www.bbc.com/news/articles/c5yek72jqk4o?at_medium=RSS&at_campaign=rss",
@@ -473,15 +473,6 @@
         "bias": -1
       },
       {
-        "title": "Trump and Xi discuss future of TikTok in US",
-        "link": "https://www.bbc.com/news/articles/c4g7l7yl832o?at_medium=RSS&at_campaign=rss",
-        "description": "Trump said a deal had been approved but Chinese state media did not confirm that an agreement had been reached.",
-        "pubDate": "2025-09-20T00:34:04Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c7f/live/e25d5330-9573-11f0-bc5b-7ff2de9d2e33.jpg",
-        "bias": 0
-      },
-      {
         "title": "Sikh granny's arrest by US immigration sparks community anger",
         "link": "https://www.bbc.com/news/articles/ckgq63lgn7zo?at_medium=RSS&at_campaign=rss",
         "description": "Harjit Kaur, a 73-year-old who unsuccessfully applied for asylum, was arrested by immigration authorities last week.",
@@ -529,7 +520,17 @@
         "bias": 0
       }
     ],
-    "Tech": [],
+    "Tech": [
+      {
+        "title": "Trump and Xi discuss future of TikTok in US",
+        "link": "https://www.bbc.com/news/articles/c4g7l7yl832o?at_medium=RSS&at_campaign=rss",
+        "description": "Trump said a deal had been approved but Chinese state media did not confirm that an agreement had been reached.",
+        "pubDate": "2025-09-20T00:34:04Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c7f/live/e25d5330-9573-11f0-bc5b-7ff2de9d2e33.jpg",
+        "bias": 0
+      }
+    ],
     "Science": [],
     "Business": [
       {
