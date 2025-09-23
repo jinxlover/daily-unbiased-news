@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-23T10:39:12.890603Z",
+  "lastUpdate": "2025-09-23T10:50:13.705533Z",
   "news": {
     "Gaming": [
       {
@@ -9,6 +9,15 @@
         "pubDate": "2025-09-23T10:21:08Z",
         "source": "patrickb545.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMjg5NjY3LnBuZw==/315x250%23c/JkQOFI.png",
+        "bias": 0
+      },
+      {
+        "title": "Belle promenade [Free] [Educational] [Android]",
+        "link": "https://kirrril.itch.io/belle-promenade",
+        "description": "Road trip across France",
+        "pubDate": "2025-09-23T09:33:09Z",
+        "source": "kirrril.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMjg5NTg1LmpwZw==/315x250%23c/dN1QKo.jpg",
         "bias": 0
       },
       {
@@ -192,15 +201,6 @@
         "bias": 0
       },
       {
-        "title": "Tetris [Free]",
-        "link": "https://umuttaylanduran.itch.io/tetris",
-        "description": "",
-        "pubDate": "2025-09-23T07:29:01Z",
-        "source": "umuttaylanduran.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMjg4NDY5LnBuZw==/315x250%23c/PNjxls.png",
-        "bias": 0
-      },
-      {
         "title": "StairJumper [Free] [Action]",
         "link": "https://alex-vine.itch.io/stairjumper",
         "description": "",
@@ -256,6 +256,24 @@
       }
     ],
     "World": [
+      {
+        "title": "Jimmy Kimmel show to return after suspension over Charlie Kirk comments",
+        "link": "https://www.bbc.com/news/articles/c701jr01dj2o?at_medium=RSS&at_campaign=rss",
+        "description": "The late-night comic's show will return to air after Disney said it had \"thoughtful conversations\" with him.",
+        "pubDate": "2025-09-23T10:40:36Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a8f/live/3a2c90b0-97fb-11f0-be80-2974137b337f.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Why is Jimmy Kimmel returning to ABC, what did his suspension cost Disney?",
+        "link": "https://www.aljazeera.com/news/2025/9/23/why-is-jimmy-kimmel-returning-to-abc-what-did-his-suspension-cost-disney?traffic_source=rss",
+        "description": "Kimmel's show was suspended last week following his comments about Trump and MAGA responses to Charlie Kirk's murder.",
+        "pubDate": "2025-09-23T10:10:47Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Trump’s Tylenol announcement: What causes autism – and is Cuba autism free?",
         "link": "https://www.aljazeera.com/news/2025/9/23/trumps-tylenol-announcement-what-causes-autism-and-is-cuba-autism-free?traffic_source=rss",
@@ -500,6 +518,15 @@
         "bias": 0
       },
       {
+        "title": "Drone attack in gang-controlled slum in Haiti kills at least 8 children, injures 6 others - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU2RwdHJvbVM2U1dKZnAyOFpNY3QtSUMyWEQ2YnpGRnpDeVNLWTlGMDQxT2VueWFGUDhhSDE0eHRpR3lLQmN6dG1qN1lDMGlXNFFyT3o4WmNqMTVSMUtpZ0Y3U0pZNkRINnlrRmVkZGlZSVJBOFZNaWtINVBjYnRVZU5rdk1BZndNaUhDTXp5LTh6Y2ZndFNtNkQxblZsbk9XZnh5RElSQk1PUQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-23T05:49:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Copenhagen and Oslo airports forced to close temporarily due to drone sightings",
         "link": "https://www.bbc.com/news/articles/cn4lj1yvgvgo?at_medium=RSS&at_campaign=rss",
         "description": "Both airports have been reopened, with Danish police unable to confirm origin of drones.",
@@ -581,6 +608,15 @@
         "bias": -1
       },
       {
+        "title": "Man representing himself against charges of trying to kill Trump to give closing argument - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd3JXRlFMT0tFQW9CYUN0d0h5NmF5ZENMR0lqYnM5MWhaZllMRXg3LWNLMmxPR0pCbGNXU1p5cEs3R1JpaHZydk02bS1vbzJwWXI5RGNSSVBWM0lsSDRPTTRGN210TlRfTE9NUjZ6Zm9wcGhKcUJ6UmNNa1Y1c2g5SGNuX3FaREQ2cUtiZkdsWUc4RmFh?oc=5",
+        "description": "",
+        "pubDate": "2025-09-23T04:09:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Kentucky distillery bounces back from massive flood that briefly halted bourbon production - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNm9VaThFWGRmT1pmSUEzUTJ4YVlSVGY0eFhWYXdIZjdjZU5GV1YwWmpxUDVwaVpRZG52UXFWaUVOOUFmRk1WYW9PT3FyWEJvc0VsY0s5U21ieFVHWW5wVkljZ1ZBMDZmR0ktc2tRczRHUFdIQlN6TXB2OWZZWVZVa1F6dGl1ekRjY01iWTBCWTN1MXg5eklweFd0V053V3V0ZExqV1ZJd0lpVTg?oc=5",
         "description": "",
@@ -653,15 +689,6 @@
         "bias": 0
       },
       {
-        "title": "ABC ends Jimmy Kimmel’s suspension and his show will return Tuesday - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRE90QTQtWFJCYWZtVXFIbmxwSkxrNC1BbEpfOWhYOWNGS3AyeU9ybkdKTmV4bllhaGF4NTdfMUx1STRXT1pTTzQ5SXM1aUlJOWRlRDhIUHJuYWJWdHFuMWVmMFU0Y2swRFd3RXFqU2lrTUVaSnZCNjZ5S3B2WWk2NkR3U1huaFpEYlgzaHNWNTF5WlFENUp4TGFB?oc=5",
-        "description": "",
-        "pubDate": "2025-09-23T02:17:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "For China, TikTok becomes bargaining chip amid tensions with US",
         "link": "https://www.aljazeera.com/economy/2025/9/23/for-china-tiktok-becomes-a-useful-bargaining-chip-amid-tensions-with-us?traffic_source=rss",
         "description": "Beijing's stance on selling the video-sharing platform has softened amid other disputes with Washington.",
@@ -677,33 +704,6 @@
         "pubDate": "2025-09-23T02:13:48Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88a2/live/a397f400-9822-11f0-bc57-4d7791b02125.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Pakistan floods spark cholera fears amid other rising health risks",
-        "link": "https://www.aljazeera.com/news/2025/9/23/pakistan-floods-spark-cholera-fears-amid-other-rising-health-risks?traffic_source=rss",
-        "description": "Health experts warn of rising cholera cases in Pakistan amid catastrophic floods and strained healthcare.",
-        "pubDate": "2025-09-23T01:59:58Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Drone attack in gang-controlled slum in Haiti kills at least 8 children, injures 6 others - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU2RwdHJvbVM2U1dKZnAyOFpNY3QtSUMyWEQ2YnpGRnpDeVNLWTlGMDQxT2VueWFGUDhhSDE0eHRpR3lLQmN6dG1qN1lDMGlXNFFyT3o4WmNqMTVSMUtpZ0Y3U0pZNkRINnlrRmVkZGlZSVJBOFZNaWtINVBjYnRVZU5rdk1BZndNaUhDTXp5LTh6Y2ZndFNtNkQxblZsbk9XZnh5RElSQk1PUQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-23T01:27:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Trump to address UN General Assembly after France recognises Palestinian state",
-        "link": "https://www.bbc.com/news/articles/cd9ykqw22zlo?at_medium=RSS&at_campaign=rss",
-        "description": "Donald Trump will address UN leaders on Tuesday, as more European countries look set to join the French policy change.",
-        "pubDate": "2025-09-23T01:26:27Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8617/live/879fa280-9835-11f0-928c-71dbb8619e94.jpg",
         "bias": 0
       }
     ],
@@ -772,10 +772,10 @@
         "bias": 0
       },
       {
-        "title": "NYC mayoral candidate Zohran Mamdani agrees to local town hall after ABC reinstates Jimmy Kimmel - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUElPTEJiZTYwWWFYNDlqYkpOTzZRWWhOSE1LSnJpdDcwanVsT3dwSzAyX0wzUGZfZ2h2Z0hHVUNkVWJYNGhZRXA2SzZzTzlBSEFSX1NqN1YyQTJQSHFta2N6RmJuLVRET0lKV3N2bGgtUUI2YXBabGs3bkZDVDdrdm0zT1p1YnNkM1FEVlhSZnNVbVlTRFE?oc=5",
+        "title": "ABC ends Jimmy Kimmel’s suspension and his show will return Tuesday - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRE90QTQtWFJCYWZtVXFIbmxwSkxrNC1BbEpfOWhYOWNGS3AyeU9ybkdKTmV4bllhaGF4NTdfMUx1STRXT1pTTzQ5SXM1aUlJOWRlRDhIUHJuYWJWdHFuMWVmMFU0Y2swRFd3RXFqU2lrTUVaSnZCNjZ5S3B2WWk2NkR3U1huaFpEYlgzaHNWNTF5WlFENUp4TGFB?oc=5",
         "description": "",
-        "pubDate": "2025-09-23T00:09:00Z",
+        "pubDate": "2025-09-23T02:17:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -841,6 +841,15 @@
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZGZ4S3VvLWFxQzlrYTl0aEw4WFRnRHVuUU5kT0Z2dE5JTzQzRlkyUjdOT3NvX2lycVFwcEhCSGp5em1YWlJ6anpBVnNXZkNYQmhKR1ZCWnRTMmFwQWJTaHdiNDh6bmUxVTZuNU9uZGZnZ1d4ZzhUN0RrdTAyQTBYLTJHZktFQlhHc3FCV0x4MkpVSmpYTWh5dWpLaGQxQ2MtR1VSR184LUdjaV9MTkw2NQ?oc=5",
         "description": "",
         "pubDate": "2025-09-23T00:30:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "NYC mayoral candidate Zohran Mamdani agrees to local town hall after ABC reinstates Jimmy Kimmel - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUElPTEJiZTYwWWFYNDlqYkpOTzZRWWhOSE1LSnJpdDcwanVsT3dwSzAyX0wzUGZfZ2h2Z0hHVUNkVWJYNGhZRXA2SzZzTzlBSEFSX1NqN1YyQTJQSHFta2N6RmJuLVRET0lKV3N2bGgtUUI2YXBabGs3bkZDVDdrdm0zT1p1YnNkM1FEVlhSZnNVbVlTRFE?oc=5",
+        "description": "",
+        "pubDate": "2025-09-23T00:09:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
