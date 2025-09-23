@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-23T11:23:32.931381Z",
+  "lastUpdate": "2025-09-23T11:37:30.474049Z",
   "news": {
     "Gaming": [
       {
@@ -36,6 +36,15 @@
         "pubDate": "2025-09-23T10:13:53Z",
         "source": "dickerdackel.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMjg5NjkyLnBuZw==/315x250%23c/G4sv1A.png",
+        "bias": 0
+      },
+      {
+        "title": "1kWorms [Free] [Other]",
+        "link": "https://enzofr.itch.io/1kworms",
+        "description": "Worms like game for the PICO-1K Jam 2025",
+        "pubDate": "2025-09-23T09:55:37Z",
+        "source": "enzofr.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMjg5NjUwLmpwZw==/315x250%23c/fWCHEX.jpg",
         "bias": 0
       },
       {
@@ -192,15 +201,6 @@
         "bias": 0
       },
       {
-        "title": "Yeizon snakehouse fuck schhouse y una vaina REUPLOAD [Free]",
-        "link": "https://baldi-fan-2763.itch.io/yeizon-snakehouse-reupload",
-        "description": "Sorry I don't have the PC version.",
-        "pubDate": "2025-09-23T07:51:43Z",
-        "source": "baldi-fan-2763.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMjg4NjQ2LnBuZw==/315x250%23c/19ZVZj.png",
-        "bias": 0
-      },
-      {
         "title": "Rufus the Demon Core [Free] [Platformer]",
         "link": "https://jahviez.itch.io/rufus-the-demon-core",
         "description": "Escape the nuclear facility using your core! Jump on shadows!",
@@ -216,15 +216,6 @@
         "pubDate": "2025-09-23T07:34:39Z",
         "source": "baldi2522.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMjg4MjczLnBuZw==/315x250%23c/SN6ffS.png",
-        "bias": 0
-      },
-      {
-        "title": "StairJumper [Free] [Action]",
-        "link": "https://alex-vine.itch.io/stairjumper",
-        "description": "",
-        "pubDate": "2025-09-23T07:28:51Z",
-        "source": "alex-vine.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMjg4NDEwLnBuZw==/315x250%23c/d7yJMp.png",
         "bias": 0
       },
       {
@@ -257,11 +248,29 @@
     ],
     "World": [
       {
+        "title": "Jimmy Kimmel show to return after suspension over Charlie Kirk comments",
+        "link": "https://www.bbc.com/news/articles/c701jr01dj2o?at_medium=RSS&at_campaign=rss",
+        "description": "The late-night comic's show will return to air after Disney said it had \"thoughtful conversations\" with him.",
+        "pubDate": "2025-09-23T11:31:12Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a8f/live/3a2c90b0-97fb-11f0-be80-2974137b337f.jpg",
+        "bias": 0
+      },
+      {
         "title": "ICC charges former Philippine President Duterte crimes against humanity",
         "link": "https://www.npr.org/2025/09/23/g-s1-90024/icc-charges-former-philippine-president-duterte-crimes-against-humanity",
         "description": "Duterte was arrested in March by Philippine authorities on a warrant issued by the ICC. He is now being held at an ICC facility in the Netherlands.",
         "pubDate": "2025-09-23T11:17:49Z",
         "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "‘Killed us twice’: Families of US drone victims seek reparations in Somalia",
+        "link": "https://www.aljazeera.com/features/2025/9/23/killed-us-twice-families-of-us-drone-victims-seek-reparations-in-somalia?traffic_source=rss",
+        "description": "In letters seen by Al Jazeera, US AFRICOM admits to killing civilians in air raids, but refuses 'condolence payment'.",
+        "pubDate": "2025-09-23T11:17:06Z",
+        "source": "aljazeera.com",
         "image": "",
         "bias": -1
       },
@@ -275,13 +284,40 @@
         "bias": 0
       },
       {
+        "title": "Vigil held for Ukrainian refugee stabbed to death on US train",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/9/23/vigil-held-for-ukrainian-refugee-stabbed-to-death-on-us-train?traffic_source=rss",
+        "description": "Hundreds of people gathered for a vigil honouring Ukrainian refugee Iryna Zarutska, who was stabbed on a train.",
+        "pubDate": "2025-09-23T11:08:04Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Mass evacuations as southern China braces for strongest storm of the year",
         "link": "https://www.bbc.com/news/articles/c3rvjj7dp7ro?at_medium=RSS&at_campaign=rss",
         "description": "Ragasa is the strongest storm anywhere on Earth so far this year.",
         "pubDate": "2025-09-23T11:06:26Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2c3/live/ed07fb80-9859-11f0-b567-dbb771c68d85.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13fb/live/76c24e50-9870-11f0-af62-91486a511a31.png",
         "bias": 0
+      },
+      {
+        "title": "UN General Assembly 2025 live: Trump, Erdogan, Qatari emir to give address",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/9/23/un-general-assembly-2025-live-day-one?traffic_source=rss",
+        "description": "First day of high-level meeting to kick off with speeches from world leaders, including from Brazil, US, Turkiye, Qatar.",
+        "pubDate": "2025-09-23T11:00:11Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Floods devastate India’s breadbasket of Punjab",
+        "link": "https://www.aljazeera.com/gallery/2025/9/23/floods-devastate-indias-breadbasket-of-punjab?traffic_source=rss",
+        "description": "Record monsoon rains devastate Punjab, flooding farms, harming livelihoods, and worsening food security risks.",
+        "pubDate": "2025-09-23T10:59:06Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Trump-led US culture war presents Europe with pivotal moment: Report",
@@ -317,15 +353,6 @@
         "pubDate": "2025-09-23T10:41:00Z",
         "source": "news.google.com",
         "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Jimmy Kimmel show to return after suspension over Charlie Kirk comments",
-        "link": "https://www.bbc.com/news/articles/c701jr01dj2o?at_medium=RSS&at_campaign=rss",
-        "description": "The late-night comic's show will return to air after Disney said it had \"thoughtful conversations\" with him.",
-        "pubDate": "2025-09-23T10:40:36Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a8f/live/3a2c90b0-97fb-11f0-be80-2974137b337f.jpg",
         "bias": 0
       },
       {
@@ -390,6 +417,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "European recognition of Palestinian state shows US still only power that counts",
+        "link": "https://www.bbc.com/news/articles/c87y4ljx85qo?at_medium=RSS&at_campaign=rss",
+        "description": "Britain and France's decision to recognise a Palestinian state is a historic moment, but it only becomes feasible with US support.",
+        "pubDate": "2025-09-23T09:09:46Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6892/live/394b2530-985a-11f0-858a-a904eacbef23.jpg",
+        "bias": 0
       },
       {
         "title": "Spread of diseases overwhelms Khartoum hospitals in war-ravaged Sudan",
@@ -660,54 +696,18 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Lions run over the Ravens, sack Lamar Jackson 7 times in a 38-30 win over Baltimore - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYTNTRlkzT1k4NDZqdjVtVXl5bS1GRVBvLVk5dlVpS2ZnY3F1YUoyZjJWQVN1U1JfaUo1SUM4anNuSGFaS3JpVmNUN2ltMVB6UHpUOU1pbWZrLU9fZ3NvY2l5UkliZ2NzQTFoNDJoWmU4dXdNY2tQMUt2c1VEM1Q3Tl9OQ0M?oc=5",
-        "description": "",
-        "pubDate": "2025-09-23T04:37:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "New Zealand mother guilty of killing her children, hiding bodies in luggage",
-        "link": "https://www.aljazeera.com/news/2025/9/23/new-zealand-woman-guilty-of-murdering-2-children-hiding-bodies-in-luggage?traffic_source=rss",
-        "description": "Hakyung Lee, 45, found guilty of killing her children, Minu Jo, 6, and Yuna Jo, 8, and hiding bodies in storage.",
-        "pubDate": "2025-09-23T04:32:10Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Dr. Trump? The president reprises his COVID era, this time sharing unproven medical advice on autism - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVhDbGJnbG5ON3B6Y2VNN3BPanhETkY0dFpHaWp3OVVIb002T0ZKUmk2YkdTQXliTkdSYTMzTWZ1em9fMHAzbFdic0V0OGpldlRhYzZicE9selZtVk51a25ZNTN6TFdCV216QVVOOVRkRl9WZmk1b0V3WHNjbTMtV1VHZTRNZjhVN3pMeEFleXJGWWpYa2V1WGFpM0p4U3hzOE9SSmt3VndScnJmNWJ0bl9ka0NsWHc?oc=5",
-        "description": "",
-        "pubDate": "2025-09-23T04:21:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Trump makes unfounded claims about Tylenol and repeats discredited link between vaccines and autism - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQemFkRnAyT2ZtQzQtN0xJRm5rR2FsLTdmRnR2UVlXSnZib3czZ1J2WVl5QktxVU5jZDBuT0V2Q1RFQVVJa1MxNGxGMG9RRGhuOTJIalpHQ21JMGE1bEZpanNhMGxFR29pZXBxdER4NFJNRlFGcm9WV0RKX2dVejlpVi1WSWxUS0NrUW1FWUpoRk1SQ3c0bV96ZGFB?oc=5",
-        "description": "",
-        "pubDate": "2025-09-23T04:15:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Egyptian-British activist Alaa Abd El-Fattah freed after Sisi pardon",
-        "link": "https://www.aljazeera.com/news/2025/9/23/egyptian-british-activist-alaa-abd-el-fattah-freed-after-sisi-pardon?traffic_source=rss",
-        "description": "Alaa Abd El-Fattah is considered to be among the most high-profile political prisoners held in Egypt's prisons.",
-        "pubDate": "2025-09-23T04:11:31Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
+      {
+        "title": "JLR shutdown extended again as ministers meet suppliers",
+        "link": "https://www.bbc.com/news/articles/c15kpxnn2p2o?at_medium=RSS&at_campaign=rss",
+        "description": "The business secretary will also meet suppliers of the car maker who are at risk of closure.",
+        "pubDate": "2025-09-23T11:34:48Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29df/live/f5cf25f0-984e-11f0-b742-5374a6e86615.jpg",
+        "bias": 0
+      },
       {
         "title": "UK forecast to have highest inflation among richest nations",
         "link": "https://www.bbc.com/news/articles/cx2n4877j7lo?at_medium=RSS&at_campaign=rss",
@@ -727,15 +727,6 @@
         "bias": 0
       },
       {
-        "title": "JLR shutdown extended again as ministers meet suppliers",
-        "link": "https://www.bbc.com/news/articles/c15kpxnn2p2o?at_medium=RSS&at_campaign=rss",
-        "description": "The business secretary will also meet suppliers of the car maker who are at risk of closure.",
-        "pubDate": "2025-09-23T10:04:40Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29df/live/f5cf25f0-984e-11f0-b742-5374a6e86615.jpg",
-        "bias": 0
-      },
-      {
         "title": "More experts see genocide in Israel’s wartime conduct in Gaza - AP News",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQUQzT3IzeTNVOHVvVTR0dUNhR1MtcW9GOFJxbm5OSWZDWkVZSF9hcHIzT1JpeXdjRko4dnBHQmtnWmU5UFlMRnNxZTRLdVBUa3pqcWZoRGJZclN0d2xrSmNVY0I0ZXhwZjg1RXZHYzk1ZkNLLUFiV2Z6TDUxd2dHXzVkWFRHOUx0OUYtQ1RCS01QeW44WUI5YWROMm9YbFVuUzJoY1QxWGF3TXlCd3Yw?oc=5",
         "description": "",
@@ -745,18 +736,18 @@
         "bias": 0
       },
       {
-        "title": "Georgia senators demand answers on more than a dozen deaths in immigration detention",
-        "link": "https://www.npr.org/2025/09/23/nx-s1-5549411/ossoff-warnock-noem-immigration-detention-death",
-        "description": "Sens. Jon Ossoff and Raphael Warnock are asking Homeland Security Secretary Kristi Noem for answers after more than a dozen people died in immigration detention, as the department rushes to expand.",
+        "title": "5 takeaways from Kamala Harris' new book about her sprint for the presidency",
+        "link": "https://www.npr.org/2025/09/23/nx-s1-5550250/kamala-harris-book-107-days-highlights",
+        "description": "Former Vice President Kamala Harris writes about her brief run for the presidency last year and her relationship with former President Joe Biden in her new book, out on Tuesday.",
         "pubDate": "2025-09-23T09:00:00Z",
         "source": "npr.org",
         "image": "",
         "bias": -1
       },
       {
-        "title": "5 takeaways from Kamala Harris' new book about her sprint for the presidency",
-        "link": "https://www.npr.org/2025/09/23/nx-s1-5550250/kamala-harris-book-107-days-highlights",
-        "description": "Former Vice President Kamala Harris writes about her brief run for the presidency last year and her relationship with former President Joe Biden in her new book, out on Tuesday.",
+        "title": "Georgia senators demand answers on more than a dozen deaths in immigration detention",
+        "link": "https://www.npr.org/2025/09/23/nx-s1-5549411/ossoff-warnock-noem-immigration-detention-death",
+        "description": "Sens. Jon Ossoff and Raphael Warnock are asking Homeland Security Secretary Kristi Noem for answers after more than a dozen people died in immigration detention, as the department rushes to expand.",
         "pubDate": "2025-09-23T09:00:00Z",
         "source": "npr.org",
         "image": "",
@@ -785,6 +776,15 @@
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2tZU2ZFUFkwM004SmY2SzAtNGVHaFlpLUF1aDBZTERjWUJ2TmJJaGFobXV6VFZyVUtnQnZ0UDEweFhuODlPQ1VEQXpOV2NqSGVMLTQzOUd1azNpY3hmbDcwLV94R3BwaEZyX2QzeU83MzZDejFacmZjUk5YMGRkVXZBejV1d284QmhkdnhaS2RYMW42NU9rVA?oc=5",
         "description": "",
         "pubDate": "2025-09-23T04:09:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "NYC mayoral candidate Zohran Mamdani agrees to local town hall after ABC reinstates Jimmy Kimmel - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUElPTEJiZTYwWWFYNDlqYkpOTzZRWWhOSE1LSnJpdDcwanVsT3dwSzAyX0wzUGZfZ2h2Z0hHVUNkVWJYNGhZRXA2SzZzTzlBSEFSX1NqN1YyQTJQSHFta2N6RmJuLVRET0lKV3N2bGgtUUI2YXBabGs3bkZDVDdrdm0zT1p1YnNkM1FEVlhSZnNVbVlTRFE?oc=5",
+        "description": "",
+        "pubDate": "2025-09-23T00:09:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -844,19 +844,19 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "NYC mayoral candidate Zohran Mamdani agrees to local town hall after ABC reinstates Jimmy Kimmel - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUElPTEJiZTYwWWFYNDlqYkpOTzZRWWhOSE1LSnJpdDcwanVsT3dwSzAyX0wzUGZfZ2h2Z0hHVUNkVWJYNGhZRXA2SzZzTzlBSEFSX1NqN1YyQTJQSHFta2N6RmJuLVRET0lKV3N2bGgtUUI2YXBabGs3bkZDVDdrdm0zT1p1YnNkM1FEVlhSZnNVbVlTRFE?oc=5",
-        "description": "",
-        "pubDate": "2025-09-23T00:09:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Science": [],
     "Business": [
+      {
+        "title": "Super-complaint launched against 'broken' insurance industry",
+        "link": "https://www.bbc.com/news/articles/c87yey5neggo?at_medium=RSS&at_campaign=rss",
+        "description": "A consumer group says making a claim can be more distressing than the original incident itself.",
+        "pubDate": "2025-09-23T11:35:31Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cc0/live/2fccfc10-983f-11f0-b7ec-c31f4e2abede.jpg",
+        "bias": 0
+      },
       {
         "title": "When is the Budget and what might be in it?",
         "link": "https://www.bbc.com/news/articles/cj4w44w42j5o?at_medium=RSS&at_campaign=rss",
@@ -911,15 +911,6 @@
         "pubDate": "2025-09-23T07:06:41Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7082/live/6627ccd0-9769-11f0-a8dc-135f553b0693.jpg",
-        "bias": 0
-      },
-      {
-        "title": "'Why does China prefer war?' The K-drama line that infuriated the Chinese internet",
-        "link": "https://www.bbc.com/news/articles/c3vznlzwrw3o?at_medium=RSS&at_campaign=rss",
-        "description": "China's ban on K-drama seemed to be easing - until Jun Ji-hyun's Tempest came along.",
-        "pubDate": "2025-09-23T03:17:23Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/557a/live/4d9f17a0-9821-11f0-befc-99941d4a5862.jpg",
         "bias": 0
       },
       {
