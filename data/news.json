@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-23T05:36:19.723821Z",
+  "lastUpdate": "2025-09-23T05:46:55.342095Z",
   "news": {
     "Gaming": [
       {
@@ -9,6 +9,24 @@
         "pubDate": "2025-09-23T05:22:26Z",
         "source": "zanderesmith.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMjg3Njg2LnBuZw==/315x250%23c/Q6JkEM.png",
+        "bias": 0
+      },
+      {
+        "title": "Powdered Sugar [Free] [Simulation]",
+        "link": "https://sno-dragon.itch.io/powerded-sugar",
+        "description": "A simple powder simulation",
+        "pubDate": "2025-09-23T05:19:32Z",
+        "source": "sno-dragon.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMjg3Nzg1LnBuZw==/315x250%23c/72bhOJ.png",
+        "bias": 0
+      },
+      {
+        "title": "Dragons Never Die [Free] [Strategy]",
+        "link": "https://nikotov.itch.io/dragons-never-die",
+        "description": "Dragons",
+        "pubDate": "2025-09-23T05:16:18Z",
+        "source": "nikotov.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMjg3ODM3LmpwZw==/315x250%23c/qULPh1.jpg",
         "bias": 0
       },
       {
@@ -228,24 +246,6 @@
         "bias": 0
       },
       {
-        "title": "Gastones y Dragones [Free] [Other]",
-        "link": "https://santimeza.itch.io/gastones-y-dragones",
-        "description": "Un gaston para cada dragon",
-        "pubDate": "2025-09-23T03:00:04Z",
-        "source": "santimeza.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMjg2NTkxLnBuZw==/315x250%23c/g5Rj%2Bq.png",
-        "bias": 0
-      },
-      {
-        "title": "Steel Dawn 2 [Free]",
-        "link": "https://brandon-c-indie-game-dev.itch.io/steel-dawn-2",
-        "description": "Steel Dawn - Where flesh meets steel, and only one survives.",
-        "pubDate": "2025-09-23T02:58:09Z",
-        "source": "brandon-c-indie-game-dev.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMjg2NjY0LnBuZw==/315x250%23c/98DBA6.png",
-        "bias": 0
-      },
-      {
         "title": "light domus [Free] [Interactive Fiction]",
         "link": "https://derukaeru.itch.io/lightup",
         "description": "Lighthouse keeper. Purpose. Alone.",
@@ -262,6 +262,15 @@
         "source": "red-herb-games.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMjg3Mjg0LmpwZw==/315x250%23c/94UPLw.jpg",
         "bias": 0
+      },
+      {
+        "title": "Panic Patch [Free] [Survival] [Windows] [Linux]",
+        "link": "https://elatetugboat.itch.io/panic-patch",
+        "description": "",
+        "pubDate": "2025-09-23T01:44:11Z",
+        "source": "elatetugboat.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMjg3NTcyLnBuZw==/315x250%23c/nVxMtr.png",
+        "bias": 0
       }
     ],
     "World": [
@@ -273,15 +282,6 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3b8/live/b82541c0-97f0-11f0-be9f-872dac3e9076.jpg",
         "bias": 0
-      },
-      {
-        "title": "Calls for probe after killing of civilians reported in northwest Pakistan",
-        "link": "https://www.aljazeera.com/news/2025/9/23/calls-for-probe-after-killing-of-civilians-reported-in-northwest-pakistan?traffic_source=rss",
-        "description": "No official word on killing of 24 people, including 14 fighters, as opposition politicians blame military for blasts.",
-        "pubDate": "2025-09-23T05:21:48Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       },
       {
         "title": "New Zealand woman guilty of murdering 2 children, hiding bodies in luggage",
@@ -569,12 +569,30 @@
     "Science": [],
     "Business": [
       {
+        "title": "Couples seek 'value for money' wedding ceremonies",
+        "link": "https://www.bbc.com/news/articles/c4g97zg8nl1o?at_medium=RSS&at_campaign=rss",
+        "description": "Couples are choosing hotels over marquees and adding DIY touches to their weddings.",
+        "pubDate": "2025-09-23T05:40:23Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6280/live/ef4504c0-8e49-11f0-b199-41ee52afc86b.jpg",
+        "bias": 0
+      },
+      {
         "title": "Food banks warn demand has reached crisis point",
         "link": "https://www.bbc.com/news/articles/c4gzwp2j0zxo?at_medium=RSS&at_campaign=rss",
         "description": "Trussell Trust statistics show more than 14.1 million people went hungry in the last year.",
         "pubDate": "2025-09-23T04:59:12Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b1d/live/95f754d0-9179-11f0-974d-05c67cdfea1c.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Porsche shares plunge after announcing EV rollout delay",
+        "link": "https://www.bbc.com/news/articles/cdr6z6ryxv3o?at_medium=RSS&at_campaign=rss",
+        "description": "European carmakers face intense competition from Chinese rivals and weak demand for luxury cars.",
+        "pubDate": "2025-09-23T03:38:44Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fff3/live/11abf140-981d-11f0-9558-4785c3b59242.jpg",
         "bias": 0
       }
     ],
@@ -586,15 +604,6 @@
         "pubDate": "2025-09-23T04:59:45Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7082/live/6627ccd0-9769-11f0-a8dc-135f553b0693.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-23T03:46:22Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
