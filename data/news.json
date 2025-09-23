@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-09-23T19:37:14.885566Z",
+  "lastUpdate": "2025-09-23T19:48:03.172917Z",
   "news": {
     "Gaming": [
+      {
+        "title": "🍋 [Free] [Windows]",
+        "link": "https://loafscreen.itch.io/lillemonboy",
+        "description": "idk man",
+        "pubDate": "2025-09-23T19:32:24Z",
+        "source": "loafscreen.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMjk1NDA4LnBuZw==/315x250%23c/FYDmxC.png",
+        "bias": 0
+      },
       {
         "title": "Mission of moon [Free] [Simulation]",
         "link": "https://universal-26.itch.io/mission-of-moon",
@@ -12,7 +21,7 @@
         "bias": 0
       },
       {
-        "title": "Lemonoids [Free] [Shooter] [Windows]",
+        "title": "Lemonoids [Free] [Shooter]",
         "link": "https://hanntuch.itch.io/lemonoids",
         "description": "Lemonoids",
         "pubDate": "2025-09-23T19:20:10Z",
@@ -192,33 +201,6 @@
         "bias": 0
       },
       {
-        "title": "Monster Beside My Bed [Free] [Puzzle]",
-        "link": "https://skiconcepcion.itch.io/monster-beside-my-bed",
-        "description": "",
-        "pubDate": "2025-09-23T17:58:50Z",
-        "source": "skiconcepcion.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMjk0Mzg1LnBuZw==/315x250%23c/W66koi.png",
-        "bias": 0
-      },
-      {
-        "title": "Level Creator Game [Free] [Role Playing] [Windows]",
-        "link": "https://cre4tos.itch.io/lvl-creator-game",
-        "description": "",
-        "pubDate": "2025-09-23T17:31:52Z",
-        "source": "cre4tos.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMjk0MDQzLnBuZw==/315x250%23c/zwdxIX.png",
-        "bias": 0
-      },
-      {
-        "title": "FISH POWER! [Free] [Survival] [Windows] [Android]",
-        "link": "https://gogogoivoni.itch.io/fish-power",
-        "description": "Fishing is seriously intense!",
-        "pubDate": "2025-09-23T17:26:17Z",
-        "source": "gogogoivoni.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMjkzOTAxLnBuZw==/315x250%23c/PTAWCH.png",
-        "bias": 0
-      },
-      {
         "title": "SCRAPYARD SKEDADDLE ZX [Free] [Other]",
         "link": "https://mavtherave.itch.io/scrapyard-skedaddle-zx",
         "description": "ZX Spectrum 48K , A Top down Arcade-Style Action Maze Race Game",
@@ -228,16 +210,7 @@
         "bias": 0
       },
       {
-        "title": "Lambda lucy. [Free] [Visual Novel] [Windows] [Android]",
-        "link": "https://llium1337.itch.io/lambda-lucy",
-        "description": "",
-        "pubDate": "2025-09-23T17:19:32Z",
-        "source": "llium1337.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMjk0MDY4LmpwZw==/315x250%23c/lj3AHQ.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Taccute [Free] [Shooter]",
+        "title": "Taccute [Free] [Shooter] [Windows]",
         "link": "https://mrfroggito.itch.io/taccute",
         "description": "",
         "pubDate": "2025-09-23T16:08:47Z",
@@ -266,6 +239,24 @@
     ],
     "World": [
       {
+        "title": "Israel seeks permanent Gaza control, Jewish majority in West Bank: UN",
+        "link": "https://www.aljazeera.com/news/2025/9/23/israel-seeks-permanent-gaza-control-jewish-majority-in-west-bank-un?traffic_source=rss",
+        "description": "A new report from the UN finds Israel has been 'systematically destroying Palestinian life in Gaza'.",
+        "pubDate": "2025-09-23T19:39:16Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Qatar’s emir accuses Israel of trying to derail Gaza truce talks",
+        "link": "https://www.aljazeera.com/news/2025/9/23/qatars-emir-accuses-israel-of-trying-to-derail-gaza-truce-talks?traffic_source=rss",
+        "description": "Qatari Emir Sheikh Tamim bin Hamad Al Thani says the Israeli attack on Doha undermines efforts to end the Gaza genocide.",
+        "pubDate": "2025-09-23T19:36:41Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Pakistan beat Sri Lanka by five wickets in Asia Cup Super Fours match",
         "link": "https://www.aljazeera.com/sports/2025/9/23/pakistan-beat-sri-lanka-by-five-wickets-in-asia-cup-super-fours-match?traffic_source=rss",
         "description": "The win in Abu Dhabi sends Pakistan second on the Super Fours points table while Sri Lanka are all but out.",
@@ -281,6 +272,15 @@
         "pubDate": "2025-09-23T19:07:26Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7923/live/5aad1640-9894-11f0-b42a-999ed0e03e41.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Trump tells UN in speech that it is ‘not even coming close to living up’ to its potential - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOFZOczg0Rkl4N005NVd1WjYwOGx5UV9zcWZTUjhpdTdZaDlTWGtSa2R2LWN2THdXckxyWDVZVjh3MjYtUWkyT25QNWNjVTlsaHFnTWVUVG9qV0l2eGlvNE0ybFF4NzEyN21Ud3hQSzkyUlpPU2pJYl9zOXpwNHFDS0F3ckdmT1F3Q2wybnhZMU9tQzdxQks0?oc=5",
+        "description": "",
+        "pubDate": "2025-09-23T19:04:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -356,6 +356,24 @@
         "bias": 0
       },
       {
+        "title": "How a SIM farm like the one found near the UN threatens telecom networks - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZlJsTW52OFVScUdISVN5N2VQTlFHaVNUVUhPVlZnSHRBd3dGY1VSZlc2VXBLa0xKbWo3a2hDMXJGbHlKdkhtSDJ4ekpUdHkxczRHdWVCZmJ5SkVUbkE4QlRRZDlJTml4Zm5tSEVPM2VhMzgtVkQzTHcyZGtiOHBsQmpvUlRHbDAxSG5kclctSTBxdERI?oc=5",
+        "description": "",
+        "pubDate": "2025-09-23T17:59:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Oklahoma State fires football coach Mike Gundy after 20-plus years - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWWE3aFQxRmNjVWZBWXpWTU5oaW1YVl9Pb0VUcERGbzlNbjdEMEh6ejlrS0lFY3d2Wm9LRXM1b3oxVlhZckhBRlhvWGRaSGFldDBZcktYZl9yZnJaQUl0VkhiM0pheXZGV1dOYTNSUm9QQUVsSkRDYWl3d1dGYjlDTEZwdkF4djBGLUR4U19YcUZGc3NicWc?oc=5",
+        "description": "",
+        "pubDate": "2025-09-23T17:59:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Jimmy Kimmel is set to return to his late-night show after ABC lifts suspension - AP News",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOW5DdVR0VmRsOE9fajlhejdHT2tyTm1BOXJhN3IzTUN5YjQ2VWUtSlRwZHZaemRlZFNlT0FaNTNqOTBvaFE5b1R2UXVUOVE2S3llelRaSHdjcXdEM2hlMXRyOHpCNmp3ZGJZekZhMFp3SFlmakVablBIX0xITjd2WDg5ZDN6ZVJwaUVaNHFUVHFXZElqRm9KV1A4QUJjTjhvbXVIaWVnVQ?oc=5",
         "description": "",
@@ -408,15 +426,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Trump tells UN in speech that it is ‘not even coming close to living up’ to its potential - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOFZOczg0Rkl4N005NVd1WjYwOGx5UV9zcWZTUjhpdTdZaDlTWGtSa2R2LWN2THdXckxyWDVZVjh3MjYtUWkyT25QNWNjVTlsaHFnTWVUVG9qV0l2eGlvNE0ybFF4NzEyN21Ud3hQSzkyUlpPU2pJYl9zOXpwNHFDS0F3ckdmT1F3Q2wybnhZMU9tQzdxQks0?oc=5",
-        "description": "",
-        "pubDate": "2025-09-23T17:27:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Erdogan questions world’s conscience over atrocities in Gaza",
@@ -678,54 +687,9 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "'We need solutions': Palestinians in West Bank fear recognition is not enough",
-        "link": "https://www.bbc.com/news/articles/cre5x8qxrqno?at_medium=RSS&at_campaign=rss",
-        "description": "Many are concerned Israel may attempt to annex the occupied territory in response to several countries recognising Palestinian statehood.",
-        "pubDate": "2025-09-23T13:53:14Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa78/live/ea24a750-987d-11f0-b146-278281693603.jpg",
-        "bias": 0
-      },
-      {
-        "title": "British-Egyptian activist reunited with family after release from prison",
-        "link": "https://www.bbc.com/news/articles/cvg9772q3e1o?at_medium=RSS&at_campaign=rss",
-        "description": "Alaa Abdel Fattah, who was imprisoned in Egypt for six years, is reunited with his family in Cairo after being pardoned.",
-        "pubDate": "2025-09-23T13:52:16Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/439d/live/d38107e0-985b-11f0-858a-a904eacbef23.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Former cricket umpire Dickie Bird dies aged 92",
-        "link": "https://www.aljazeera.com/sports/2025/9/23/former-cricket-umpire-dickie-bird-dies-aged-92?traffic_source=rss",
-        "description": "Bird, whose eccentric and humorous character endeared him to cricket fans worldwide, was as popular as the players.",
-        "pubDate": "2025-09-23T13:51:18Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Secret Service disrupts telecom threat near UN General Assembly",
-        "link": "https://www.bbc.com/news/articles/cn4w0d8zz22o?at_medium=RSS&at_campaign=rss",
-        "description": "Investigators say the scheme could have shut down the cellular network in New York City.",
-        "pubDate": "2025-09-23T13:46:30Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99d6/live/6a80f7a0-9883-11f0-928c-71dbb8619e94.jpg",
-        "bias": 0
       }
     ],
     "Politics": [
-      {
-        "title": "How a SIM farm like the one found near the UN threatens telecom networks - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZlJsTW52OFVScUdISVN5N2VQTlFHaVNUVUhPVlZnSHRBd3dGY1VSZlc2VXBLa0xKbWo3a2hDMXJGbHlKdkhtSDJ4ekpUdHkxczRHdWVCZmJ5SkVUbkE4QlRRZDlJTml4Zm5tSEVPM2VhMzgtVkQzTHcyZGtiOHBsQmpvUlRHbDAxSG5kclctSTBxdERI?oc=5",
-        "description": "",
-        "pubDate": "2025-09-23T17:59:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
       {
         "title": "Trump says London wants 'to go to sharia law'",
         "link": "https://www.bbc.com/news/articles/cp3qxrgl05lo?at_medium=RSS&at_campaign=rss",
@@ -943,6 +907,15 @@
         "bias": 0
       },
       {
+        "title": "Trump administration wants to hand out $2.4 billion it took from California's high-speed railroad - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX2k5X3FlN0o2M1JxUE11cndNNkpmRENTVXRXSjNYMzl3NndjSmFKbV83UDB0a2gwbDBQR3ZKdFJjLTRKbmd5RVk2alJRcDAxS3JJUS03WXB1Q2gtUkhfN2FQbkhXUHBoRkZBQ3k5bjFpVWlZTkNBU285V0tYVWMtR0RFaTRNRk05cnRuUm1GSlU5Z1FHdDZzX1c3UXZURnJZYmdaeFlhSVM3U2tJelVJdmFkbw?oc=5",
+        "description": "",
+        "pubDate": "2025-09-23T01:10:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Man who fired a gun into ABC affiliate office had note to 'do the next scary thing,' prosecutors say - AP News",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMVU4N1NSQTg1RHBwc3hNMWJNNklCWTBkU0tDUkY1QUE3WFl3UGE2RVRBdHR4bVo4cTNldVdoRWQ3TFRENjRmRlhsRlEzYmtvcVNmUjNXN0pJQWozZmVlWEFDa0o2M08zdThXRGpGUEFiT0RqZEliajlweko1d1RnRU5WYUUxempnb1NQbXVOQ2g0azlHZmhDTFNLdDA2REpqQ2h1OC1wZw?oc=5",
         "description": "",
@@ -976,15 +949,6 @@
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMDdEMDBHYzl0dHM5MUlfQ1pob2NONm1ySUJ6aDNCNkUwTHlidVVOQW1XMmd6WkF2bmxYMTVVWEx4MHFUWHkzVmNRS0RxUGdEQlFDM3EtUlNEMGhTZXRqdDZkZnVPR1JEWFI4WFI5T1hQUkJjbWdtQnBQSmNuWTJNU0MwT1IyWUxNTHhMMFdB?oc=5",
         "description": "",
         "pubDate": "2025-09-23T15:42:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Nadal alerts about fake videos of him offering financial advice - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbTlTR0hLZkhhcEZjLVNVdFVFMEp5NTJZT1lyVllsdlVzLU16azZudHI5b3U3Vk9RWEg1ajRSaFNIZXRMc0lGVmhWdmZuQ01LaHEwQ0NCRmNrRXB5Y0tDZ1k2dFZxNWVjZFF6eDdHVjFza3JoU2trc0NndE93MEE5Y2JmSXBKeEtVckh1UE5MdjZEdWNG?oc=5",
-        "description": "",
-        "pubDate": "2025-09-23T12:32:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1025,6 +989,15 @@
         "pubDate": "2025-09-23T15:29:27Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e57/live/d786ec00-9898-11f0-9b4d-3db5bd560027.png",
+        "bias": 0
+      },
+      {
+        "title": "Nadal alerts about fake videos of him offering financial advice - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbTlTR0hLZkhhcEZjLVNVdFVFMEp5NTJZT1lyVllsdlVzLU16azZudHI5b3U3Vk9RWEg1ajRSaFNIZXRMc0lGVmhWdmZuQ01LaHEwQ0NCRmNrRXB5Y0tDZ1k2dFZxNWVjZFF6eDdHVjFza3JoU2trc0NndE93MEE5Y2JmSXBKeEtVckh1UE5MdjZEdWNG?oc=5",
+        "description": "",
+        "pubDate": "2025-09-23T12:32:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
