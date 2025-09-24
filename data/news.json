@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-24T21:16:20.416685Z",
+  "lastUpdate": "2025-09-24T21:30:15.848838Z",
   "news": {
     "Gaming": [
       {
@@ -138,7 +138,7 @@
         "bias": 0
       },
       {
-        "title": "Untitled God Game [Free] [Simulation] [Windows]",
+        "title": "Untitled God Game [Free] [Simulation] [Windows] [Linux]",
         "link": "https://selentre.itch.io/untitled-god-game",
         "description": "Made for the Halcyon Frequency Adventure Jam (https://itch.io/jam/hf-adventure-jam-2025)",
         "pubDate": "2025-09-24T19:56:25Z",
@@ -219,15 +219,6 @@
         "bias": 0
       },
       {
-        "title": "After the horizon [Free] [Adventure] [Android]",
-        "link": "https://sunflower-dog-studio.itch.io/after-the-horizon",
-        "description": "",
-        "pubDate": "2025-09-24T16:08:31Z",
-        "source": "sunflower-dog-studio.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzA3OTQ1LmpwZw==/315x250%23c/29iMfs.jpg",
-        "bias": 0
-      },
-      {
         "title": "Tape Man [Free] [Visual Novel]",
         "link": "https://samclaydon.itch.io/tape-man",
         "description": "When things break, only one man can save the day.",
@@ -260,7 +251,7 @@
         "title": "Live updates: Homeland Security says 1 detainee killed and 2 critically injured after shooting at ICE facility - AP News",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01Nm5uajRPUWxMYV9ieEhSRGczRjJQZHZLYl9BVlg4am9NVW83aDBzVDFvWlJHVXJLUnQyaWh0WUFjeEJGNU4xWWwxSXhhT3V3cmpGbVU5cUhZNkVTa2lvN3J5NXVldi1jNHFj?oc=5",
         "description": "",
-        "pubDate": "2025-09-24T21:06:00Z",
+        "pubDate": "2025-09-24T21:26:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -275,6 +266,15 @@
         "bias": 0
       },
       {
+        "title": "Greenland contraception scandal victims hear Danish PM's emotional apology",
+        "link": "https://www.bbc.com/news/articles/c80gxd4x0z5o?at_medium=RSS&at_campaign=rss",
+        "description": "One woman was given an ovation for saying the apology was crucial for the victims to move on.",
+        "pubDate": "2025-09-24T21:01:06Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7a7/live/bedad280-995f-11f0-af62-91486a511a31.jpg",
+        "bias": 0
+      },
+      {
         "title": "1 detainee killed and 2 others critically injured in Dallas ICE facility, Homeland Security says - AP News",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQWVhc3dRdHdRRmFmMjhjT1gxNW9fdy1DYU9DSmlESmlybkk0ZFkycGV6RktxaFMxTUtlR0V3dkg1WURZa0ZwZTJ0OVUycUY3M0Q5emprWFRzU1I1X05MMS1leHNTczgtamtyRVdWVGNWUWd4UzlNMHJ1RUIwbFczRjdJMTlCNExPbkhkN1pTT1ZkRGJhcWhpdXQwa25tQmNkcWc?oc=5",
         "description": "",
@@ -282,6 +282,33 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "‘War has rules’: UN event urges action to protect Palestinian children",
+        "link": "https://www.aljazeera.com/news/2025/9/24/war-has-rules-un-event-urges-action-to-protect-palestinian-children?traffic_source=rss",
+        "description": "Palestinian children face devastating losses as diplomats push for change during a UN assembly event.",
+        "pubDate": "2025-09-24T20:56:24Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Treasury Secretary Bessent tells NYC to ‘drop dead’ if it elects Mamdani",
+        "link": "https://www.aljazeera.com/economy/2025/9/24/treasury-secretary-bessent-tells-nyc-to-drop-dead-if-it-elects-mamdani?traffic_source=rss",
+        "description": "Bessent told Fox Business that if Mamdani is elected as NYC mayor, federal gov't would not bail out the city if needed.",
+        "pubDate": "2025-09-24T20:55:40Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Spain to join Italy in deploying naval ship to escort Gaza flotilla",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/9/24/spain-to-join-italy-in-deploying-naval-ship-to-escort-gaza-flotilla?traffic_source=rss",
+        "description": "A Spanish naval vessel will join the Global Sumud Flotilla for Gaza to provide assistance and conduct rescues if needed.",
+        "pubDate": "2025-09-24T20:53:31Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "How important is this year’s UNGA for world leaders and the UN?",
@@ -302,12 +329,30 @@
         "bias": -1
       },
       {
+        "title": "Foraging revival: How wild food enthusiasts are reconnecting with nature - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLUVtOHdMSEZkM0tqa21zMUVSbE52ckNRN1VKOTVaZVY1T3dzcFFONzZQUmZQMjM3bmllUTd1Rlh1OUV1c3I1TUxER0N6UG04VkVRUE1Ob2JVWkVZbGludFpQX19CQmpSb1cwM1Uxd050NHl3TzdTX1IxY0FfQzF2Yk9PT2tzWmdsSlBYYVhzdGVNMzNFYTM1ZlJoZ0pmTzhEYV95aA?oc=5",
+        "description": "",
+        "pubDate": "2025-09-24T20:35:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Watch: White House replaces President Biden portrait with image of an autopen",
         "link": "https://www.bbc.com/news/videos/c9qne1jr7lwo?at_medium=RSS&at_campaign=rss",
         "description": "President Donald Trump has previously claimed Biden used an autopen to sign important documents, including pardons.",
         "pubDate": "2025-09-24T20:27:03Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5fe/live/2e3d49f0-9974-11f0-97f5-bd38218a3641.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Trump snubs Biden with autopen photo on new Presidential Walk of Fame - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPazkwRVRWMDNKYWVLdDFjYkhoZUI1dWE2ZGRaVUVzZFhiRWF2NVF6TzhUTnFPNlptZkFUUnYyS1REVjlpSTFmbzc2aUQzR2FFMXFLYzNNTTAxZGtySHV0dFpHVllfcU9UMVlORmh2LW0zdmZFT2ZhejhTSHJYREtLaVNGSDdGMjJkWkczdXZnMEllY0F0VnNNVGM1OW5vQUFQaDVfNGt3ZUYzM19yV3dSZUdpekM?oc=5",
+        "description": "",
+        "pubDate": "2025-09-24T20:20:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -324,6 +369,15 @@
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNHVZOGlUZ05XdUpiQ0JSTEphMzJLNG9kMVEtOGNwZmx4X1Q1ZTV0T3FnZEFQdXR3N0g1a1Jpa3lwUW45eWtQeUFtTXM0WGxaNmwyMV9KeV9BQTA1MVFVVUptVXlJdVdjOHpOZjM4bUsxNDF4TFBqdXRWYUhBRi1SZmFISmw3NkZCS3puc2pB?oc=5",
         "description": "",
         "pubDate": "2025-09-24T20:12:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "'Eleanor the Great' review: June Squibb shines in Johansson's directorial debut - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONDZSQ2ZiSHNhN1Rab3F2UmJ6UmNuWWxVSEs5ODNsOFZIRVdFUXRXTjJqSVAwQS1tRm92bGNYb0dTb2VCRnI0VnN6bjh0R0dicTZYeWMzYWtvQ0FfWWFaeFUxckpwc1RNUjZ4MUJqWGJEOHg1Uk9rLTB4VW9EZ1RwdFl1R0JoUDI1aHVha3o1RQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-24T19:50:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -642,69 +696,6 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9eda/live/fe33ab00-9914-11f0-928c-71dbb8619e94.jpg",
         "bias": 0
-      },
-      {
-        "title": "Russia, Iran sign nuclear power plants deal as sanctions loom",
-        "link": "https://www.aljazeera.com/news/2025/9/24/russia-iran-sign-nuclear-power-plants-deal-as-sanctions-loom?traffic_source=rss",
-        "description": "Agreement between Rosatom and Iran targets energy expansion with eight new nuclear plants planned by 2040.",
-        "pubDate": "2025-09-24T15:45:00Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Italy condemns 'drone attack' on Gaza aid flotilla and deploys frigate",
-        "link": "https://www.bbc.com/news/articles/ce3yz939qnpo?at_medium=RSS&at_campaign=rss",
-        "description": "Italy's defence minister directs a navy vessel to assist the flotilla's boats after what he says was a drone attack by unidentified perpetrators off Crete.",
-        "pubDate": "2025-09-24T15:42:31Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f062/live/594bd320-9945-11f0-b42e-f379dfea869d.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Ukraine's Zelenskyy issues a stark warning about a global arms race and AI war",
-        "link": "https://www.npr.org/2025/09/24/nx-s1-5552206/ukraine-zelenskyy-un-general-assembly-trump",
-        "description": "Ukrainian President Volodymyr Zelenskyy addressed the U.N. General Assembly a day after President Trump made another shift in his stance on Russia's war in Ukraine.",
-        "pubDate": "2025-09-24T15:41:51Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "The economy was a strength for Trump in his first term. Not anymore, according to recent polling - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVW5uRnBvbkRWa1ZNeWY4eHBwb3hrX2dvSEpPUFhXMDgyRkcyVk80Q3dsUlQ3TW94LW16a1JWNVZwZTlPVUJTc1hTQS1kUnNwVXhOdTdQckt1azdHdzRFc2dmbXROVklCU2R2a0lPRTVRekZFNS1Ycjhsd0Q3NXJva3VSNmtVVkh4b0RWQnBGYnA5cUFuM25OWklZQ1R3Zmlyc1ByTU9vYVdYdUh5a1R6OExR?oc=5",
-        "description": "",
-        "pubDate": "2025-09-24T15:22:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "'Eleanor the Great' review: June Squibb shines in Johansson's directorial debut - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONDZSQ2ZiSHNhN1Rab3F2UmJ6UmNuWWxVSEs5ODNsOFZIRVdFUXRXTjJqSVAwQS1tRm92bGNYb0dTb2VCRnI0VnN6bjh0R0dicTZYeWMzYWtvQ0FfWWFaeFUxckpwc1RNUjZ4MUJqWGJEOHg1Uk9rLTB4VW9EZ1RwdFl1R0JoUDI1aHVha3o1RQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-24T15:18:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Israeli forces near Gaza City centre as Hamas reportedly prepares for street-to-street fighting",
-        "link": "https://www.bbc.com/news/articles/c4gk9dreldxo?at_medium=RSS&at_campaign=rss",
-        "description": "Thousands of Palestinians have been forced to flee Gaza City since Israel launched its ground offensive last week.",
-        "pubDate": "2025-09-24T15:06:31Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f31e/live/80326710-9922-11f0-9a4d-cda90a899290.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Veterans who lack citizenship fear being swept up in Trump’s deportations - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWDlfQVMwd05FdndtQW5yVW1fQW5YZEwzd3kteEFRdFA3Y1hncFVSdVZCWVpnOHVLclVXMVFzUzRqUXhXVDNvdnU2S19CWmdrSDFMVkFqVi1DTWlha0pYOV9BdkdrME1rdVBCUWdmZDlKZHZsMnhvczhXcVZYd0pvb3d1bmpGY1ROZ1drRkhNZDRhTzEzM3hUNWgwQXdHV2hs?oc=5",
-        "description": "",
-        "pubDate": "2025-09-24T15:04:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
@@ -961,6 +952,15 @@
         "bias": 0
       },
       {
+        "title": "New York Liberty part ways with championship-winning coach Sandy Brondello - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSWVxZnN1NUVXeUhYcVZtLWZlYTUzZWpXaDRzSEdtSFc1ckZhaWZNVVpMOGgxMGxQN0ZFUlNBeWR3enl6eEpGeHl1NnFadHc4a1g4NXZ3SmVhV3BEWkpBZE1oTVJfS09Kc1ByVDEwTjRsU1NxNGRqdEtQZXlZcVlHdXlrRktRSjRXNklN?oc=5",
+        "description": "",
+        "pubDate": "2025-09-24T01:28:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Colombia’s president calls for criminal investigation against Trump over Caribbean strikes - AP News",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSGozdmJzZ1RyVzFCcnlCbld3RGF3Nzd1WEp2MmJJcWY3ZlRlWk1IY0I5SE5YYThMOVBheWJiMm9PcFFfMnlfek91ZXpjQmUxVGlqdldLVllJYU5YRlBpZ0JBM1ZJLXo2OFVwUVpvYjdKRXVlV1VoNUdWU2lJQzJxR1haX0wwVEhkUGlRQVpWWlZUM0hoTlM4Z1FTcVMyODE1S2thS3hBUEhqRnFy?oc=5",
         "description": "",
@@ -1017,6 +1017,15 @@
         "bias": 0
       },
       {
+        "title": "FBI says ammunition at Dallas shooting scene contained anti-ICE messaging - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVWFsM3I4WGtTUDRrY1VZdzlMcjR4cUdWUzlqZ0V2N1d6VF9GbHpmdmxSUGhfQThzREh5WkVBZ3hITG9PZHlXcUd5VzY0NjBtQ0liTG5jc2gwT2JCQ2JRNmxBbDlQODJndGVDblhqbUxsWlo3MXJqZE14S0dVRWdwZGxCN0M4YlBqaUdtYUpnaDg0VVlzY21mOVlQRDdiRFRMY1Q5a1RJTWR1a2tzaGRTZTQxVHlvYTNxRnF3aE8wdXZ3cnJOdHFKMjIwTQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-24T16:11:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Man arrested in connection with cyber-attack on airports",
         "link": "https://www.bbc.com/news/articles/c62ldxyj431o?at_medium=RSS&at_campaign=rss",
         "description": "The National Crime Agency (NCA) said a man in his forties was arrested in West Sussex.",
@@ -1039,6 +1048,24 @@
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaUtyc053QUpqUGladWxYNk5CcV9YNHlkTEh0OS1CcmdjWHNOclQ1TnlPX2VoYnNQVlMzSjFwemttSk5xSDVvTGNKbkZGMXZodmdrRlJjLU1ocm1tRk1TNmZXUzQ2aTJtRnRYRjRTUUZiVDU1eFhkbGJvYUJCQnhSbWZXTDBqSVprVTM3cVZZbXlBcmlHemZtSmdwMURlaHhH?oc=5",
         "description": "",
         "pubDate": "2025-09-24T05:48:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Shohei Ohtani has 3rd straight dominant outing on mound with 6 scoreless innings - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc2NqOFdXYkgxYzhwRXRQMzJzMlc5M3JCNlBfdnpqS05aVVRPLW1aU1F5UVhTUE9sYnJMa01ZZkk4NkF1QXF5bkNzMmZOcVVjSEdQYnl5TEhkOHkySGp5ZWRGM2dpS0dITTloWDNXeTY3dnhTNTIybGZMWHN2MEdZNGVDWE00dFEtbm9mWlNvd3lpeF9Z?oc=5",
+        "description": "",
+        "pubDate": "2025-09-24T05:12:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Camp Mystic plans to reopen in Texas next summer, a year after floods killed 27 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWmtuZEpsT0lZNUVvWlBuclV6NXpIZlpITmZLT1hRYXdKZm01YjRhWnd6Y0RMSGx1UGtCZzVLcEdWaXNRTTAwNVVyeGYxSXdtal9rdHdFWV9ROXNoVk9qUGhtRTl4VWVCWE5rWkZxQzRKX3dWSlRTNW9SNVR3b2toS1g2MGw2cTZOM3RPejFzSGZTS0s3X1ppQ25HczRfTUZEWkM3Ui1IT3c?oc=5",
+        "description": "",
+        "pubDate": "2025-09-24T03:42:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1073,28 +1100,10 @@
         "bias": 0
       },
       {
-        "title": "Shohei Ohtani has 3rd straight dominant outing on mound with 6 scoreless innings - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc2NqOFdXYkgxYzhwRXRQMzJzMlc5M3JCNlBfdnpqS05aVVRPLW1aU1F5UVhTUE9sYnJMa01ZZkk4NkF1QXF5bkNzMmZOcVVjSEdQYnl5TEhkOHkySGp5ZWRGM2dpS0dITTloWDNXeTY3dnhTNTIybGZMWHN2MEdZNGVDWE00dFEtbm9mWlNvd3lpeF9Z?oc=5",
+        "title": "Costa Rica president celebrates after effort to strip his immunity fails - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcS0tUzlCMEVrZ1hEUHJueEFqNWE0bHVWWFlkYllRUmd5b1VVeGh5YzhOR1pkOTJQM1BqbEdpYmpvMnI0Q1p6WDEzUmJxUzJTM0NuZXVjU1dmRFRtWGZTQ2tLTmJ6SkFiUjBPRWhGSmlXY2k2YmEzUHQ2N05qeWNVUTl1ZWtuNE5GVFpfQVRDd3drSTZUUVlBRE80bzM?oc=5",
         "description": "",
-        "pubDate": "2025-09-24T05:12:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Camp Mystic plans to reopen in Texas next summer, a year after floods killed 27 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWmtuZEpsT0lZNUVvWlBuclV6NXpIZlpITmZLT1hRYXdKZm01YjRhWnd6Y0RMSGx1UGtCZzVLcEdWaXNRTTAwNVVyeGYxSXdtal9rdHdFWV9ROXNoVk9qUGhtRTl4VWVCWE5rWkZxQzRKX3dWSlRTNW9SNVR3b2toS1g2MGw2cTZOM3RPejFzSGZTS0s3X1ppQ25HczRfTUZEWkM3Ui1IT3c?oc=5",
-        "description": "",
-        "pubDate": "2025-09-24T03:42:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Part of hospital’s roof ripped off and patients evacuated as damaging storms hit Oklahoma - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObzBobzRMeXNia2lpWGFEMmZXaTc4TjRVRHpOeXJMbldITzl3NmFaTlowVW9fUDVhZllia2tMRU9mWXMtOUhrOFlsMUtZRWVLM2psUWtURGd1dFZST3dSOVc2ZEtnS2xQbkVveG9RQ1RyY094S2Y4VXJtOU8ySmlkOENpQzZoTDdRNzBmaVh5TTAxX2todVU0dS1scW52aHpYbE5pR0l4N1Q?oc=5",
-        "description": "",
-        "pubDate": "2025-09-24T00:05:00Z",
+        "pubDate": "2025-09-24T01:21:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1117,15 +1126,6 @@
         "pubDate": "2025-09-24T18:44:11Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f75/live/8ea880d0-994b-11f0-9a00-eba1f5856efc.jpg",
-        "bias": 0
-      },
-      {
-        "title": "FBI says ammunition at Dallas shooting scene contained anti-ICE messaging - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVWFsM3I4WGtTUDRrY1VZdzlMcjR4cUdWUzlqZ0V2N1d6VF9GbHpmdmxSUGhfQThzREh5WkVBZ3hITG9PZHlXcUd5VzY0NjBtQ0liTG5jc2gwT2JCQ2JRNmxBbDlQODJndGVDblhqbUxsWlo3MXJqZE14S0dVRWdwZGxCN0M4YlBqaUdtYUpnaDg0VVlzY21mOVlQRDdiRFRMY1Q5a1RJTWR1a2tzaGRTZTQxVHlvYTNxRnF3aE8wdXZ3cnJOdHFKMjIwTQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-24T16:11:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
