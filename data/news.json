@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-09-24T10:19:53.650031Z",
+  "lastUpdate": "2025-09-24T10:39:28.057494Z",
   "news": {
     "Gaming": [
+      {
+        "title": "RPG Maker MZ Perspective Plugin [Free]",
+        "link": "https://vandressler.itch.io/rpg-maker-mz-perspective-plugin",
+        "description": "RPG Maker MZ Perspective Plugin",
+        "pubDate": "2025-09-24T10:22:30Z",
+        "source": "vandressler.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzAyMTk2LnBuZw==/315x250%23c/nr9CVq.png",
+        "bias": 0
+      },
       {
         "title": "Sprunkmojis Phase 3 [Free] [Other]",
         "link": "https://thatsnice123.itch.io/sprunkmojis-phase-3",
@@ -147,15 +156,6 @@
         "bias": 0
       },
       {
-        "title": "CRIKEY! It's An Emeeergency! [Free] [Puzzle]",
-        "link": "https://hypnotikgamesau.itch.io/crikey-its-an-emeeergency",
-        "description": "A fun short point & click game about helping people biten by various things found around Australia",
-        "pubDate": "2025-09-24T06:07:25Z",
-        "source": "hypnotikgamesau.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzAwNjg4LnBuZw==/315x250%23c/owkQ5u.png",
-        "bias": 0
-      },
-      {
         "title": "Seven Seven Seven [Free] [Puzzle] [Windows] [macOS] [Linux]",
         "link": "https://masterofgiraffe.itch.io/seven-seven-seven",
         "description": "A puzzle game where you match falling blocks for multiples of seven.",
@@ -171,24 +171,6 @@
         "pubDate": "2025-09-24T05:43:47Z",
         "source": "zenericguy.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzAwNTAyLnBuZw==/315x250%23c/n0I70r.png",
-        "bias": 0
-      },
-      {
-        "title": "Lands of XON Demo [Free] [Puzzle]",
-        "link": "https://imagofx.itch.io/lands-of-xon-demo",
-        "description": "Explore, discover and solve the mysteries of this alien world.",
-        "pubDate": "2025-09-24T05:21:57Z",
-        "source": "imagofx.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzAwNDQ4LmpwZw==/315x250%23c/VrSryl.jpg",
-        "bias": 0
-      },
-      {
-        "title": "RogueLite: Hollow Streets [Free] [Action] [Windows]",
-        "link": "https://sujalgajera.itch.io/roguelite-hollow-streets",
-        "description": "The dungeon keeps changing. So do you.",
-        "pubDate": "2025-09-24T05:11:00Z",
-        "source": "sujalgajera.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzAwNDI2LnBuZw==/315x250%23c/xaAxtP.png",
         "bias": 0
       },
       {
@@ -212,6 +194,42 @@
     ],
     "World": [
       {
+        "title": "Kyiv can win all of Ukraine back from Russia, Trump says",
+        "link": "https://www.bbc.com/news/articles/c07vm35rryeo?at_medium=RSS&at_campaign=rss",
+        "description": "The US president says Ukraine can win back land with support from Nato and Europe, marking a major shift in his position.",
+        "pubDate": "2025-09-24T10:26:41Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3794/live/982fd820-98aa-11f0-928c-71dbb8619e94.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Russia-Ukraine war: List of key events, day 1,308",
+        "link": "https://www.aljazeera.com/news/2025/9/24/russia-ukraine-war-list-of-key-events-day-1308-2?traffic_source=rss",
+        "description": "Here are the key events on day 1,308 of Russia’s war on Ukraine.",
+        "pubDate": "2025-09-24T10:26:01Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Kimmel pulls no punches as he ramps up battle with Trump",
+        "link": "https://www.bbc.com/news/articles/c0r09qdnd4yo?at_medium=RSS&at_campaign=rss",
+        "description": "Being at the centre of a storm about free speech seems to have hardened the US comedian's resolve.",
+        "pubDate": "2025-09-24T10:22:53Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5594/live/65cc81f0-9920-11f0-9a4d-cda90a899290.jpg",
+        "bias": 0
+      },
+      {
+        "title": "President Trump to meet with Brazil's president after months of tension",
+        "link": "https://www.npr.org/2025/09/24/nx-s1-5551159/president-trump-to-meet-with-brazils-president-after-months-of-tension",
+        "description": "Despite months of tension, President Trump says he'll meet with Brazil's president next week, claiming they had \"excellent chemistry\" during a brief exchange at the U.N. General Assembly.",
+        "pubDate": "2025-09-24T10:21:46Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Six West Africans deported from US sent to Togo despite legal fight",
         "link": "https://www.bbc.com/news/articles/c4g790k7d8go?at_medium=RSS&at_campaign=rss",
         "description": "They had started legal action against Ghana for agreeing to accept them from the US.",
@@ -219,6 +237,24 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dae/live/e8b65f20-991e-11f0-85dd-bf0234260a08.jpg",
         "bias": 0
+      },
+      {
+        "title": "How effective is UK’s one-in-one-out migrant deal with France so far?",
+        "link": "https://www.aljazeera.com/news/2025/9/24/how-effective-is-uks-one-in-one-out-migrant-deal-with-france-so-far?traffic_source=rss",
+        "description": "Just four people have been deported to France under migrant deal with the UK.",
+        "pubDate": "2025-09-24T10:13:22Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Trump’s team backed an expert review of Epstein note. How would it work?",
+        "link": "https://www.aljazeera.com/news/2025/9/24/trumps-team-backed-an-expert-review-of-epstein-note-how-would-it-work?traffic_source=rss",
+        "description": "Handwriting analysis is considered relatively reliable, but original documents are needed for accuracy, experts say.",
+        "pubDate": "2025-09-24T10:12:34Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Moment sinkhole pulls down power lines in busy Bangkok street",
@@ -236,6 +272,15 @@
         "pubDate": "2025-09-24T10:00:28Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb66/live/720acc90-9927-11f0-858a-a904eacbef23.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Decades after they endured forced contraception, Greenlandic women still suffer from the trauma - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRnZRbGtTLWdQQ0I4YnBYenN5SHA4ZWRSbElHQklEZGs3dGVhbUVUQTQxLU5FdEQwN2pSNDRzSUNyTC1iZy1hT2dyR1Q3bUdxQUVGSUFYZ3hHX1VLTThtZGJ4a3NTTm1jTThLcGMzNzhDVEZwd3dCRi1lckVCdGRRR3RKcTVfSXZLaWRkY3BuZFdLN1FfaUNCTVJmcTFMeXpWUnFuYVRta1hwVTNNZHg1T2ln?oc=5",
+        "description": "",
+        "pubDate": "2025-09-24T09:48:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -266,7 +311,7 @@
         "bias": -1
       },
       {
-        "title": "Syria, Israel edge closer to ‘deescalation’ pact: US envoy",
+        "title": "Syria, Israel edge closer to ‘de-escalation’ pact: US envoy",
         "link": "https://www.aljazeera.com/news/2025/9/24/syria-israel-edge-closer-to-deescalation-pact-us-envoy?traffic_source=rss",
         "description": "Syria’s al-Sharaa voices hope for deal, warns of regional risks due to Israeli attempts to fragment country.",
         "pubDate": "2025-09-24T09:25:56Z",
@@ -299,15 +344,6 @@
         "pubDate": "2025-09-24T08:57:06Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9eda/live/fe33ab00-9914-11f0-928c-71dbb8619e94.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Kyiv can win all of Ukraine back from Russia, Trump says",
-        "link": "https://www.bbc.com/news/articles/c07vm35rryeo?at_medium=RSS&at_campaign=rss",
-        "description": "The US president says Ukraine can win back land with support from Nato and Europe, marking a major shift in his position.",
-        "pubDate": "2025-09-24T08:55:28Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3794/live/982fd820-98aa-11f0-928c-71dbb8619e94.jpg",
         "bias": 0
       },
       {
@@ -455,18 +491,9 @@
         "bias": 0
       },
       {
-        "title": "Tears and trauma: Greenlandic women recall forced contraception as a nation seeks forgiveness - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRnZRbGtTLWdQQ0I4YnBYenN5SHA4ZWRSbElHQklEZGs3dGVhbUVUQTQxLU5FdEQwN2pSNDRzSUNyTC1iZy1hT2dyR1Q3bUdxQUVGSUFYZ3hHX1VLTThtZGJ4a3NTTm1jTThLcGMzNzhDVEZwd3dCRi1lckVCdGRRR3RKcTVfSXZLaWRkY3BuZFdLN1FfaUNCTVJmcTFMeXpWUnFuYVRta1hwVTNNZHg1T2ln?oc=5",
-        "description": "",
-        "pubDate": "2025-09-24T06:16:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "LIVE: Israel kills dozens of Palestinians in attacks on war-devastated Gaza",
+        "title": "LIVE: Israel kills more than 50 Palestinians in war-devastated Gaza",
         "link": "https://www.aljazeera.com/news/liveblog/2025/9/24/live-israel-kills-dozens-of-palestinians-in-attacks-on-war-devastated-gaza?traffic_source=rss",
-        "description": "Death toll surges in early Israeli bombardment with the heaviest carnage in besieged Gaza City.",
+        "description": "Despite President Trump saying war must end now, Israel army escalates deadly attacks on besieged Palestinian territory.",
         "pubDate": "2025-09-24T06:13:06Z",
         "source": "aljazeera.com",
         "image": "",
@@ -529,7 +556,7 @@
       {
         "title": "Super Typhoon Ragasa kills 15 in Taiwan, hits Hong Kong with fierce winds",
         "link": "https://www.aljazeera.com/news/2025/9/24/super-typhoon-ragasa-kills-14-in-taiwan?traffic_source=rss",
-        "description": "Taiwanese authorities say 124 people are missing after barrier lake burst its banks in rural township.",
+        "description": "In China, nearly two million people have already been evacuated from flood-prone areas before the typhoon hits there,",
         "pubDate": "2025-09-24T04:36:43Z",
         "source": "aljazeera.com",
         "image": "",
@@ -590,15 +617,6 @@
         "bias": 0
       },
       {
-        "title": "Ryan Routh is found guilty of trying to assassinate Trump at Florida golf course - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdTdmX2dPN1FZdnFVVEtETHQ5UDJkbUxxRTdPbnR2RWlNRUlSSVR0bmdhb1R0UWE1eXNJZ2pKUlBkZ1IwWThnV2hQNnpVQWg5M0Fvb3dlS0pxcGZldk5KTmZlV2hLak9wdklxa0F1RVhPX01sRUdNUXFBQVkyQTlhQnhVcTRkOG5WeWc?oc=5",
-        "description": "",
-        "pubDate": "2025-09-24T03:52:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Trump says he now believes Ukraine can win back all territory lost to Russia with NATO's help - AP News",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeU92QnF2eFRzMlZZZ0hYbVNFUmhZQUlGV1NMd2lVX0ZpLXlJeUhVY1lNRkNoeU5RamplMXNrUzB1N1RjalRtVDJtUkgyODNYTVMzeFFYLXB5TGdkZlNDUHhRdnBPelVmRGN0ZHRKalNKRndIclYzU3NLMVhhZFJjS0R0RmhscDl1ZnBsa2E1WWtGMXdKRTBqVmVjN0Y1dw?oc=5",
         "description": "",
@@ -624,45 +642,27 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Trump administration rehires hundreds of federal employees laid off by DOGE - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZzNtMC1HZnJJUVpKcm42cDcyOWRJR1pERjVKM2NpN0pEMU5mbmV1Ym9NVGhQN1lheDVSSy01LTZIU3pHaHB4UHBFaDVUbTJRZ1ZHV2NpT29iZWZ1MjVYbnpyQ3pIQkxYUVBnSHlib1JJaEM5Njg5bXN3a0hRWGRfNGd6YUpsLXJ2MzljWldoc0QyRmxncGxpN2pXVQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-24T03:26:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Yankees head to postseason for 8th time in 9 seasons with AL East race still up for grabs - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSDdPTkVQV0FOYnBPY0hVc1lBSi1DZnBsd1IwVHNsN1RCUWs5WXYwWjJvaWI5MzJ3S3ktWU8wN1dDWjktWXVDSTRvVUgwY2d1M0txeFV5YU1wN2tWajgzYkszakRwcW1xUk1ZdVNTNlRBOU5KSnBqZEJMcHllUmVMempMSEVCcnVv?oc=5",
-        "description": "",
-        "pubDate": "2025-09-24T03:22:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Guardians' David Fry hospitalized after being hit in face by pitch during crucial win over Tigers - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQek1BVXVnQkRoSTdjakhoOHVuUXdreFBjcUdHX1VUTGJaODNFRFhQaGZKMTRueGhwWFZReTZZdGhFTDMtdWhwNlQzN01GRFBZcG1wUEcybllNazZUVEszd0gyUTFxb1puYi1HeTdjSXdiZC15czIzOTAzRnpSMGRVT0NmOXFLeklKY3N1U3RqTWd1Wi1YdWpqZGZZVQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-24T03:17:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Jimmy Kimmel returns to ABC with emotional monologue: Key takeaways",
-        "link": "https://www.aljazeera.com/news/2025/9/24/where-and-how-to-watch-jimmy-kimmel-live-and-who-is-boycotting?traffic_source=rss",
-        "description": "As Kimmel returns, he addressed the controversy that led major station groups to drop his late-night show.",
-        "pubDate": "2025-09-24T03:07:55Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
+      {
+        "title": "Trump cancels meeting with top Democrats as threat of government shutdown looms",
+        "link": "https://www.npr.org/2025/09/24/nx-s1-5551193/trump-cancels-meeting-with-top-democrats-as-threat-of-government-shutdown-looms",
+        "description": "President Trump canceled a meeting to discuss government funding with top Democrats in Congress, leaving no clear path to avoiding a government shutdown next week.",
+        "pubDate": "2025-09-24T10:21:56Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Democratic strategist on how Democrats should approach shutdown negotiations",
+        "link": "https://www.npr.org/2025/09/24/nx-s1-5551067/democratic-strategist-on-how-democrats-should-approach-shutdown-negotiations",
+        "description": "As a government shutdown looms, how should Democrats approach negotiations with Republican leaders? NPR speaks with Democratic strategist Maria Cardona.",
+        "pubDate": "2025-09-24T10:21:51Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Urgent review ordered into asylum seeker taxi costs",
         "link": "https://www.bbc.com/news/articles/cx2j3regpdno?at_medium=RSS&at_campaign=rss",
@@ -700,22 +700,13 @@
         "bias": 0
       },
       {
-        "title": "'We have to speak out,' Jimmy Kimmel says in his late night return",
+        "title": "'We have to speak out,' Jimmy Kimmel says in his late-night return",
         "link": "https://www.npr.org/2025/09/24/nx-s1-5551277/jimmy-kimmel-live-abc-back-on-air-glen-powell-fcc-trump",
         "description": "The comedian was suspended for nearly a week by ABC's parent company, Disney, before returning to airwaves on Tuesday night.",
         "pubDate": "2025-09-24T06:01:06Z",
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "A Bangkok road collapse creates a sinkhole disrupting traffic and prompting evacuations - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaUtyc053QUpqUGladWxYNk5CcV9YNHlkTEh0OS1CcmdjWHNOclQ1TnlPX2VoYnNQVlMzSjFwemttSk5xSDVvTGNKbkZGMXZodmdrRlJjLU1ocm1tRk1TNmZXUzQ2aTJtRnRYRjRTUUZiVDU1eFhkbGJvYUJCQnhSbWZXTDBqSVprVTM3cVZZbXlBcmlHemZtSmdwMURlaHhH?oc=5",
-        "description": "",
-        "pubDate": "2025-09-24T05:48:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "After mechanical challenges, UN says Trump's team to blame for nonworking escalator and teleprompter - AP News",
@@ -744,6 +735,15 @@
         "pubDate": "2025-09-24T09:03:45Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e45a/live/386998d0-989c-11f0-8e62-81f400027fcb.png",
+        "bias": 0
+      },
+      {
+        "title": "A Bangkok road collapse creates a sinkhole disrupting traffic and prompting evacuations - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaUtyc053QUpqUGladWxYNk5CcV9YNHlkTEh0OS1CcmdjWHNOclQ1TnlPX2VoYnNQVlMzSjFwemttSk5xSDVvTGNKbkZGMXZodmdrRlJjLU1ocm1tRk1TNmZXUzQ2aTJtRnRYRjRTUUZiVDU1eFhkbGJvYUJCQnhSbWZXTDBqSVprVTM3cVZZbXlBcmlHemZtSmdwMURlaHhH?oc=5",
+        "description": "",
+        "pubDate": "2025-09-24T05:48:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -816,6 +816,15 @@
     ],
     "Culture": [
       {
+        "title": "Italian actress and star of The Leopard Claudia Cardinale dies aged 87",
+        "link": "https://www.bbc.com/news/articles/c237elg3rr3o?at_medium=RSS&at_campaign=rss",
+        "description": "The actress, who starred in Fellini's 8 1/2, is synonymous with the golden age of Italian cinema.",
+        "pubDate": "2025-09-24T10:25:04Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf74/live/3dba72e0-992e-11f0-afaa-7fca54876f7d.jpg",
+        "bias": 0
+      },
+      {
         "title": "Finalists revealed for 2025 Booker Prize",
         "link": "https://www.bbc.com/news/articles/c62lej4x148o?at_medium=RSS&at_campaign=rss",
         "description": "The Sex and the City star is one of the judges for this year's award and has revealed its shortlist.",
@@ -849,15 +858,6 @@
         "pubDate": "2025-09-24T03:42:38Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00d8/live/19001af0-98e7-11f0-882d-79512009c263.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Italian actress and star of The Leopard Claudia Cardinale dies aged 87",
-        "link": "https://www.bbc.com/news/articles/c237elg3rr3o?at_medium=RSS&at_campaign=rss",
-        "description": "The actress, who starred in Fellini's 8 1/2, is synonymous with the golden age of Italian cinema.",
-        "pubDate": "2025-09-24T02:16:26Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4639/live/d8a17ff0-98e9-11f0-8370-cbf41ac97b25.jpg",
         "bias": 0
       }
     ]
