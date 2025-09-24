@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-09-24T20:40:59.787357Z",
+  "lastUpdate": "2025-09-24T20:55:18.999586Z",
   "news": {
     "Gaming": [
+      {
+        "title": "ROMONK BETA TEST [Free] [Adventure] [Android]",
+        "link": "https://cheezit1.itch.io/romonk-beta-test",
+        "description": "",
+        "pubDate": "2025-09-24T20:47:50Z",
+        "source": "cheezit1.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzA5MjAyLnBuZw==/315x250%23c/7JJzdC.png",
+        "bias": 0
+      },
       {
         "title": "MONSTER IN THE SMALL CITY [Free] [Shooter] [Windows]",
         "link": "https://shark-metal.itch.io/monster-in-the-small-cyti",
@@ -165,30 +174,21 @@
         "bias": 0
       },
       {
+        "title": "Grave Dash [Free] [Action] [Windows]",
+        "link": "https://adr-games.itch.io/grave-dash",
+        "description": "Fast Fun and Challenging",
+        "pubDate": "2025-09-24T18:35:18Z",
+        "source": "adr-games.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzA5MTI3LnBuZw==/315x250%23c/Eb9ELE.png",
+        "bias": 0
+      },
+      {
         "title": "VideoBrain APL/S Roulette in 10 Minutes [Free] [Simulation]",
         "link": "https://solarbreeze.itch.io/videobrain-apls-roulette-in-10-minutes",
         "description": "An exciting game of chance! Can you break the bank?",
         "pubDate": "2025-09-24T18:29:37Z",
         "source": "solarbreeze.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzA3NjY1LnBuZw==/315x250%23c/bQl8UU.png",
-        "bias": 0
-      },
-      {
-        "title": "Plane Game(alpha) [Free]",
-        "link": "https://exarid.itch.io/plane-gamealpha",
-        "description": "",
-        "pubDate": "2025-09-24T18:26:18Z",
-        "source": "exarid.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzA3NTQ5LnBuZw==/315x250%23c/NzeiLJ.png",
-        "bias": 0
-      },
-      {
-        "title": "Everything Must Go [Free] [Adventure]",
-        "link": "https://stephentbw.itch.io/everything-must-go",
-        "description": "Hunt a vampire in a furniture store--before they hunt you!",
-        "pubDate": "2025-09-24T18:04:14Z",
-        "source": "stephentbw.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzA3MjUxLnBuZw==/315x250%23c/G%2F2xID.png",
         "bias": 0
       },
       {
@@ -251,10 +251,19 @@
         "title": "Live updates: Homeland Security says 1 detainee killed and 2 critically injured after shooting at ICE facility - AP News",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01Nm5uajRPUWxMYV9ieEhSRGczRjJQZHZLYl9BVlg4am9NVW83aDBzVDFvWlJHVXJLUnQyaWh0WUFjeEJGNU4xWWwxSXhhT3V3cmpGbVU5cUhZNkVTa2lvN3J5NXVldi1jNHFj?oc=5",
         "description": "",
-        "pubDate": "2025-09-24T20:32:00Z",
+        "pubDate": "2025-09-24T20:52:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "Sharma hits 75 as India beat Bangladesh to reach Asia Cup final",
+        "link": "https://www.aljazeera.com/sports/2025/9/24/sharma-hits-75-as-india-beat-bangladesh-to-reach-asia-cup-final?traffic_source=rss",
+        "description": "India book their place in Sunday's final of the 2025 Asia Cup with their 41-run Super Fours victory against Bangladesh.",
+        "pubDate": "2025-09-24T20:37:21Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "'Anti-ICE' message on ammunition at Dallas shooting that killed immigration detainee",
@@ -279,6 +288,24 @@
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQWVhc3dRdHdRRmFmMjhjT1gxNW9fdy1DYU9DSmlESmlybkk0ZFkycGV6RktxaFMxTUtlR0V3dkg1WURZa0ZwZTJ0OVUycUY3M0Q5emprWFRzU1I1X05MMS1leHNTczgtamtyRVdWVGNWUWd4UzlNMHJ1RUIwbFczRjdJMTlCNExPbkhkN1pTT1ZkRGJhcWhpdXQwa25tQmNkcWc?oc=5",
         "description": "",
         "pubDate": "2025-09-24T20:25:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "US stocks slip again as Wall Street’s rally loses steam - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOGpJNm5aTkpNWDBXT1ZqTk5HdThUdFl5d2pxWVVxUEM0ejBReV92cE1hejJwVUpaMm1lNlpaN0hCYmdVUWJMS3ppMFR0cm9ReTVKQVBCS2lZaDd2N1lEYUVhQTdZTzEwTE45dFY4bjVHOG5sSjF0TWlxZVhIVnd1bUJsLXMwNlhEZ3F4NnIzWG9CQ3VMSVNqVF9IXy1ja0JC?oc=5",
+        "description": "",
+        "pubDate": "2025-09-24T20:14:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "For the first time in nearly six decades, a Syrian president steps up to speak at the UN - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNHVZOGlUZ05XdUpiQ0JSTEphMzJLNG9kMVEtOGNwZmx4X1Q1ZTV0T3FnZEFQdXR3N0g1a1Jpa3lwUW45eWtQeUFtTXM0WGxaNmwyMV9KeV9BQTA1MVFVVUptVXlJdVdjOHpOZjM4bUsxNDF4TFBqdXRWYUhBRi1SZmFISmw3NkZCS3puc2pB?oc=5",
+        "description": "",
+        "pubDate": "2025-09-24T20:12:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -333,6 +360,15 @@
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR2lFYzFmM1FvVzJMcHEwdzZtczE3YWFjZHd4ZkZGeXF3aF9pa3JhZzZCYWJqWkpHX3lvQWk5UlJvVHpZVGR5TFY4MEFSQ0pkREMwWXpXSzFZMmVfeHRoZWpUT2lweDZ6bGZhcjB4R0xyMnYzbThCeTFDdk5MMzBxVkZiZWJmUG9XN1d0UGd5Zw?oc=5",
         "description": "",
         "pubDate": "2025-09-24T19:08:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Some leaders at UN condemn 'sick expression of joy,' 'macabre response' to Charlie Kirk's killing - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ2tQTEZaZ3lWUVBVNFctd25aMm5KSF9saUZzTWVBS3FxZkZsUHcwOFVKa3llU0lSV0ltVFlwWXcyc3h1MEFrOFFqMzl6ZDZKTzAxdUl2LTZtekowc3c0ZU95OVB5a1h4QVAySks1cnJyZ2FTSlFJcmxWREt0WVhUSmYzeGNhbXFfa1l3LW1IcnV0MEhQNDIzVWszNEFOekVw?oc=5",
+        "description": "",
+        "pubDate": "2025-09-24T18:54:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -453,15 +489,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Tom Brady dismisses conflict of interest concerns, calls critics ‘paranoid and distrustful’ - AP News",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVkgxcFRIOGVSMk1hekFZeEc2cDFTSWZGMWRBNVNoTEZ6bDhqSUVDYk1vS1RCMHM2eDZMcnZmeFFhWTM0M2tpLVhOWWJ1X3QtM1Yxd1JxOW9xMllYaXd5THJjdW44eG5Cc2wzQlNwOEV0Zm5mS09Gam00eVppdGhJMWFhdw?oc=5",
-        "description": "",
-        "pubDate": "2025-09-24T17:26:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Black church leaders reject Charlie Kirk martyrdom and point to his race rhetoric - AP News",
@@ -644,15 +671,6 @@
         "bias": 0
       },
       {
-        "title": "YouTube to start bringing back creators banned for COVID-19 and election misinformation - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNHBrS3lsRnBPYnh0T0pwRkJZTjYwWmE5Yjg1TTB0MFBUVE9NYUo1azMwc2dUakdVRll4NFlSckZERGRHRUg1WmpkWHZjSDNicXJ2b0U2MXFva1pLamVaQXItTVhtREk2QTB3Vk04VWRnY0lRYnFGOHZYVjdKcEVvMnVJZnpLZVJxRVV5emp2dTNERk1ONE1aVnota015SUlBa3QzZmJvMzBfNjZ2M0NxMg?oc=5",
-        "description": "",
-        "pubDate": "2025-09-24T15:13:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Israeli forces near Gaza City centre as Hamas reportedly prepares for street-to-street fighting",
         "link": "https://www.bbc.com/news/articles/c4gk9dreldxo?at_medium=RSS&at_campaign=rss",
         "description": "Thousands of Palestinians have been forced to flee Gaza City since Israel launched its ground offensive last week.",
@@ -678,27 +696,18 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Europe has a Russian drone problem. Here are ways it could be solved - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTkZmeG5lTkd0cVdjWVpyM0lUbDNYUHh4MHFndlJ3X0Y3MURjMHFHUEx6ZnpVQVVXR1QtR2NzT3N3RGFHWEFYWFlTS1dnNTJ2MzkxdWdCYTkzRzRfVzA5RjZyZkdBODBwOV9mTW9aZHRrN0lJSnhNQk10UXhxaVVpZG15UXJQcThqWFB6NG9xQnk5c2JkdEdhc0ZFNlBzVlRESzN4TzZ3?oc=5",
-        "description": "",
-        "pubDate": "2025-09-24T14:56:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "In front of drowning nations, Trump calls climate change a 'con job.' Here are the facts and context - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc1VBV0RXaGVpZk0tN0lldlZVWkRHYXMtcnZzZ0d6cGdyRFdmcG1KWUNyWkU5MWd0Zm96dUFqNjdOcnhDRWdqSmExRlA4dTJ0WktPOTI0UE53Z28wZWJIVUZfVzNDRC15QU1kSTU2cDZJR0R6YzI3ZVl0X1dvVzJ5M0l3REUzY0NqU1lEVkJ4azhlcng4aUcxQlROa0tDMjZxY2c?oc=5",
-        "description": "",
-        "pubDate": "2025-09-24T14:47:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "What to know about the shooting at a Dallas immigration facility - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVm8xcVBCam43YURCN0ZXYlZ1S2JXQktCTmNiTW9HaE90RFlsUlZJUzZlM2JRYTlYSk5zaVZWTU5LQXZzZFkxWUpsTzk0Mm51Y25OekZvLWpvX1FfcWZrV0NISk9xXzR2MlFhS2dDYVFWenFwXzM1VzE3Q0VRa0lrNXpSUmdRVm8yODczdEMwbnhITFZ3clF4dk9aRmYydTA?oc=5",
+        "description": "",
+        "pubDate": "2025-09-24T20:11:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Xcel Energy will pay $640M to settle claims from Denver-area wildfire that burned 1,000 structures - AP News",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM2NXMzZWOVhobk9NUjR2TU1naWNWcmpBdkhxN2dfS190LWhKVlFSR0h2U0s2VVZZYUgyc3dRclpwM09DaWhjUkNweE1mVW40c0tmRVVpemQ1Rk5LX2I1RHVtQlNxSkQxdlhGcWtWMmlHRE9tMU0zSENOZDRRUGpQbEk2cmhlUFlDTXJmQ0pTMy1jRkppb0VJMVp4dmc?oc=5",
@@ -736,8 +745,8 @@
         "bias": 0
       },
       {
-        "title": "Wall Street drifts lower as its big rally loses steam - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOGpJNm5aTkpNWDBXT1ZqTk5HdThUdFl5d2pxWVVxUEM0ejBReV92cE1hejJwVUpaMm1lNlpaN0hCYmdVUWJMS3ppMFR0cm9ReTVKQVBCS2lZaDd2N1lEYUVhQTdZTzEwTE45dFY4bjVHOG5sSjF0TWlxZVhIVnd1bUJsLXMwNlhEZ3F4NnIzWG9CQ3VMSVNqVF9IXy1ja0JC?oc=5",
+        "title": "Tom Brady dismisses conflict of interest concerns, calls critics ‘paranoid and distrustful’ - AP News",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVkgxcFRIOGVSMk1hekFZeEc2cDFTSWZGMWRBNVNoTEZ6bDhqSUVDYk1vS1RCMHM2eDZMcnZmeFFhWTM0M2tpLVhOWWJ1X3QtM1Yxd1JxOW9xMllYaXd5THJjdW44eG5Cc2wzQlNwOEV0Zm5mS09Gam00eVppdGhJMWFhdw?oc=5",
         "description": "",
         "pubDate": "2025-09-24T17:26:00Z",
         "source": "news.google.com",
@@ -781,6 +790,15 @@
         "bias": 0
       },
       {
+        "title": "YouTube to start bringing back creators banned for COVID-19 and election misinformation - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNHBrS3lsRnBPYnh0T0pwRkJZTjYwWmE5Yjg1TTB0MFBUVE9NYUo1azMwc2dUakdVRll4NFlSckZERGRHRUg1WmpkWHZjSDNicXJ2b0U2MXFva1pLamVaQXItTVhtREk2QTB3Vk04VWRnY0lRYnFGOHZYVjdKcEVvMnVJZnpLZVJxRVV5emp2dTNERk1ONE1aVnota015SUlBa3QzZmJvMzBfNjZ2M0NxMg?oc=5",
+        "description": "",
+        "pubDate": "2025-09-24T15:13:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Al Gore’s satellite and AI system is now tracking sources of deadly soot pollution - AP News",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd29jVTRmYU9EdVREN0dmQVpZaVRoZTVUMGxtTEtfOUhkVUZ5S1kwc3pib0lsYl9NUzJwR3RrTHRrdHdHWkl3amFtRmNyM09Ya0JRX1Z1S2tNSElQN2xaaHp0S3VFQzU1bElXeDFiQkJDYlFKcEhmNlZtOHJIWklxZV9XTVdLanBCOHRtbl9xdXRLTzhlanlnXzRxTGc?oc=5",
         "description": "",
@@ -794,6 +812,15 @@
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM2I1cDV6MkM1dk8zRWlvdmVSREJWSFBOX0c5bk5SRWtlNG0wckhpZGdSdDNCUXpfUVZIU0xtMnUyXzlqWG53WFNZUE8xNWhFUFluaGUxejNhWmIxVUdwbUN2aWV0dUZEanJBVng5ZDVuT0lZZGZoMlNPSnpHUXVJcG1tRms0T01NVE9OREUwTQ?oc=5",
         "description": "",
         "pubDate": "2025-09-24T13:15:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Districts around the US are mulling school closures as student enrollment falls - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY014YTFTYmZhWWNkUW9VMUhWVFY3SzhUWk1nbVhGbjVDbGxSQkRfTW9yRmgxdjFtc3BlVlp2WTdhcGoyMGhSZjc3bnF5QXZmNVI5QkMtdmhnZTNSTUFJVXRsNklyMkc3UFpuZFFpQUFmTS1xaG94cjBpT3FYMVBJM0x2TXhPdEpySmM2MW5Xc3ZNMFBTSUxmR3IxZlB0ZExyckt4UFlB?oc=5",
+        "description": "",
+        "pubDate": "2025-09-24T12:52:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -907,10 +934,10 @@
         "bias": 0
       },
       {
-        "title": "Guardians' David Fry hospitalized after being hit in face by pitch during crucial win over Tigers - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQek1BVXVnQkRoSTdjakhoOHVuUXdreFBjcUdHX1VUTGJaODNFRFhQaGZKMTRueGhwWFZReTZZdGhFTDMtdWhwNlQzN01GRFBZcG1wUEcybllNazZUVEszd0gyUTFxb1puYi1HeTdjSXdiZC15czIzOTAzRnpSMGRVT0NmOXFLeklKY3N1U3RqTWd1Wi1YdWpqZGZZVQ?oc=5",
+        "title": "Rembrandt copied another artist’s canine for his famous ‘Night Watch’ - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaktjTEdMSUZCZUM2UVViY2ItQmFmTkh5U2I0QkVOMzlscEhISlREOFl0T2JyODhZOGp5RG1mNTlaUUdGY0NFQkc2Um5Ra0ZWbkdYYmhGODdDYVF6Tk5RMkFtREVFbk5pY09QM0YtZnJGX3dmdF9YSFNMWXd3ck9VNXBtVjA4cmRadzcxNHh2MUM2eHpHNmZuVkQyR1N3VU5ULTZ0dEJBYkkyaXRmVU45b0dWdw?oc=5",
         "description": "",
-        "pubDate": "2025-09-24T03:17:00Z",
+        "pubDate": "2025-09-24T02:20:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -981,15 +1008,6 @@
         "bias": 0
       },
       {
-        "title": "Build-A-Bear continues to rack up market gains, despite tariffs and teetering mall traffic - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMWZyZ2VvZGdOX1JJWVJMenhXcGFxMVBSSTd4cGRqdjBxRGtqNEM5SHphNEhiSGlfVEVDNDl2N1RYTXBOTFVGRHExcXhTdGRWeEVuVFZGV1JFa2FMS21BMzJoOUhRcy1KMk9MZnFDM29vTzhNNHN3a0Utb2JkaEpEZDhDdWJtZnVEc3U1eUNaUXhxWkZtOTRRR21qeDFLRFVN?oc=5",
-        "description": "",
-        "pubDate": "2025-09-24T09:12:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "YouTube content creators contributed £2.2bn to UK economy in 2024",
         "link": "https://www.bbc.com/news/articles/c0knpm6v36go?at_medium=RSS&at_campaign=rss",
         "description": "The data has been released to coincide with the launch of a new group of MPs representing creators and influencers.",
@@ -1028,21 +1046,21 @@
     ],
     "Science": [
       {
-        "title": "In California, dinner scraps are being recycled to protect the coastline",
-        "link": "https://www.npr.org/2025/09/24/nx-s1-5518318/in-california-dinner-scraps-are-being-recycled-to-protect-the-coastline",
-        "description": "A restaurant recycling program in Southern California is helping divert food waste from landfills while restoring oyster beds along the shoreline.",
-        "pubDate": "2025-09-24T20:24:44Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "China makes landmark pledge to cut its climate emissions",
         "link": "https://www.bbc.com/news/articles/cj4y159190go?at_medium=RSS&at_campaign=rss",
         "description": "It is China's first firm goal to reduce emissions but falls well short of what is needed to meet global targets.",
         "pubDate": "2025-09-24T18:57:20Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73e0/live/86e8f090-97d0-11f0-9dd8-57dfaa725755.jpg",
+        "bias": 0
+      },
+      {
+        "title": "China’s Xi takes a step back, putting a lieutenant in the limelight at UN meeting - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOEVEalJjUnBQS3RXR0tGWkVLWG5DSHNaVWc3MGRiVmFBUTJhQ2JIeC1vNnlnNzlVU1pmYl82WG1xaW52ZnRlTDhfdmZqNlFKOU5iSGxSYXFFUHEyV2RKREpiTWJUUTMzRkVHbEkxeXBEY0lGcF9hREdRRzl5c2FxWWZkdUlHS3VJU29sV1BmWDlrMnJBLTJPUzB0dHVqQQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-24T17:07:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -1055,10 +1073,19 @@
         "bias": 0
       },
       {
-        "title": "Costa Rica president celebrates after effort to strip his immunity fails - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcS0tUzlCMEVrZ1hEUHJueEFqNWE0bHVWWFlkYllRUmd5b1VVeGh5YzhOR1pkOTJQM1BqbEdpYmpvMnI0Q1p6WDEzUmJxUzJTM0NuZXVjU1dmRFRtWGZTQ2tLTmJ6SkFiUjBPRWhGSmlXY2k2YmEzUHQ2N05qeWNVUTl1ZWtuNE5GVFpfQVRDd3drSTZUUVlBRE80bzM?oc=5",
+        "title": "Camp Mystic plans to reopen in Texas next summer, a year after floods killed 27 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWmtuZEpsT0lZNUVvWlBuclV6NXpIZlpITmZLT1hRYXdKZm01YjRhWnd6Y0RMSGx1UGtCZzVLcEdWaXNRTTAwNVVyeGYxSXdtal9rdHdFWV9ROXNoVk9qUGhtRTl4VWVCWE5rWkZxQzRKX3dWSlRTNW9SNVR3b2toS1g2MGw2cTZOM3RPejFzSGZTS0s3X1ppQ25HczRfTUZEWkM3Ui1IT3c?oc=5",
         "description": "",
-        "pubDate": "2025-09-24T01:21:00Z",
+        "pubDate": "2025-09-24T03:42:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Part of hospital’s roof ripped off and patients evacuated as damaging storms hit Oklahoma - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObzBobzRMeXNia2lpWGFEMmZXaTc4TjRVRHpOeXJMbldITzl3NmFaTlowVW9fUDVhZllia2tMRU9mWXMtOUhrOFlsMUtZRWVLM2psUWtURGd1dFZST3dSOVc2ZEtnS2xQbkVveG9RQ1RyY094S2Y4VXJtOU8ySmlkOENpQzZoTDdRNzBmaVh5TTAxX2todVU0dS1scW52aHpYbE5pR0l4N1Q?oc=5",
+        "description": "",
+        "pubDate": "2025-09-24T00:05:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1069,7 +1096,7 @@
         "title": "Government considers financial support for JLR suppliers",
         "link": "https://www.bbc.com/news/articles/c62nv0xx32go?at_medium=RSS&at_campaign=rss",
         "description": "Fears are growing that some of the car maker's suppliers could go bust without support.",
-        "pubDate": "2025-09-24T20:30:28Z",
+        "pubDate": "2025-09-24T20:44:22Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c79/live/56b321e0-997c-11f0-b6a6-3b33e4575a79.png",
         "bias": 0
