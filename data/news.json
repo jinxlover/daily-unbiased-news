@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-24T15:26:49.016109Z",
+  "lastUpdate": "2025-09-24T15:42:23.474478Z",
   "news": {
     "Gaming": [
       {
@@ -36,6 +36,15 @@
         "pubDate": "2025-09-24T14:58:28Z",
         "source": "nixonn613.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzA0OTkxLnBuZw==/315x250%23c/gasQoD.png",
+        "bias": 0
+      },
+      {
+        "title": "Unbreaking Chrysalis [Free] [Other]",
+        "link": "https://linking-finn.itch.io/unbreaking-chrysalis",
+        "description": "A tiny, tiny game made by me. 2D 'Horror' Walking Sim.",
+        "pubDate": "2025-09-24T14:41:18Z",
+        "source": "linking-finn.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzA1MDcyLnBuZw==/315x250%23c/juJahA.png",
         "bias": 0
       },
       {
@@ -165,15 +174,6 @@
         "bias": 0
       },
       {
-        "title": "[PT-BR] Not Enough Time [Free] [Adventure]",
-        "link": "https://leticiaamboni.itch.io/not-enough-time",
-        "description": "Brazilian Portuguese translation of Not Enough Time",
-        "pubDate": "2025-09-24T12:07:13Z",
-        "source": "leticiaamboni.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzAzNjc1LnBuZw==/315x250%23c/QALW49.png",
-        "bias": 0
-      },
-      {
         "title": "G@&0t [Free] [Action] [Windows]",
         "link": "https://ahmed-000-000.itch.io/g0t",
         "description": "",
@@ -198,15 +198,6 @@
         "pubDate": "2025-09-24T10:47:45Z",
         "source": "aibyzz.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzAzOTQwLnBuZw==/315x250%23c/olmKnc.png",
-        "bias": 0
-      },
-      {
-        "title": "Las Crónicas de Elyhón. Libro I: El Errante [Free] [Adventure]",
-        "link": "https://reysorknes.itch.io/las-crnicas-de-elyhn-libro-i-el-errante",
-        "description": "",
-        "pubDate": "2025-09-24T09:50:05Z",
-        "source": "reysorknes.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzAzNjk1LnBuZw==/315x250%23c/CHmSHe.png",
         "bias": 0
       },
       {
@@ -238,6 +229,15 @@
       }
     ],
     "World": [
+      {
+        "title": "Israeli forces near Gaza City centre as Hamas reportedly prepares for street-to-street fighting",
+        "link": "https://www.bbc.com/news/articles/c4gk9dreldxo?at_medium=RSS&at_campaign=rss",
+        "description": "Thousands of Palestinians have been forced to flee Gaza City since Israel launched its ground offensive last week.",
+        "pubDate": "2025-09-24T15:06:31Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f31e/live/80326710-9922-11f0-9a4d-cda90a899290.jpg",
+        "bias": 0
+      },
       {
         "title": "Protests seeking statehood in India’s Ladakh turn deadly",
         "link": "https://www.aljazeera.com/news/2025/9/24/protests-seeking-statehood-in-indias-ladakh-turn-deadly?traffic_source=rss",
@@ -342,6 +342,15 @@
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTkZmeG5lTkd0cVdjWVpyM0lUbDNYUHh4MHFndlJ3X0Y3MURjMHFHUEx6ZnpVQVVXR1QtR2NzT3N3RGFHWEFYWFlTS1dnNTJ2MzkxdWdCYTkzRzRfVzA5RjZyZkdBODBwOV9mTW9aZHRrN0lJSnhNQk10UXhxaVVpZG15UXJQcThqWFB6NG9xQnk5c2JkdEdhc0ZFNlBzVlRESzN4TzZ3?oc=5",
         "description": "",
         "pubDate": "2025-09-24T13:30:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "3 people shot at immigration facility in Dallas and the shooter is dead, official says - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQWVhc3dRdHdRRmFmMjhjT1gxNW9fdy1DYU9DSmlESmlybkk0ZFkycGV6RktxaFMxTUtlR0V3dkg1WURZa0ZwZTJ0OVUycUY3M0Q5emprWFRzU1I1X05MMS1leHNTczgtamtyRVdWVGNWUWd4UzlNMHJ1RUIwbFczRjdJMTlCNExPbkhkN1pTT1ZkRGJhcWhpdXQwa25tQmNkcWc?oc=5",
+        "description": "",
+        "pubDate": "2025-09-24T13:24:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -669,32 +678,32 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dae/live/e8b65f20-991e-11f0-85dd-bf0234260a08.jpg",
         "bias": 0
-      },
-      {
-        "title": "How effective is UK’s one-in-one-out migrant deal with France so far?",
-        "link": "https://www.aljazeera.com/news/2025/9/24/how-effective-is-uks-one-in-one-out-migrant-deal-with-france-so-far?traffic_source=rss",
-        "description": "Just four people have been deported to France under migrant deal with the UK.",
-        "pubDate": "2025-09-24T10:13:22Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Moment sinkhole pulls down power lines in busy Bangkok street",
-        "link": "https://www.bbc.com/news/videos/cqjeg47v0k4o?at_medium=RSS&at_campaign=rss",
-        "description": "Social media footage showed the massive crater in Thailand's capital leaving cars teetering on the edge.",
-        "pubDate": "2025-09-24T10:10:40Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/595b/live/eddd8800-992a-11f0-858a-a904eacbef23.jpg",
-        "bias": 0
       }
     ],
     "Politics": [
       {
+        "title": "Phillipson: I've been the victim of sexist briefings",
+        "link": "https://www.bbc.com/news/articles/c1jz9w7xkyeo?at_medium=RSS&at_campaign=rss",
+        "description": "Education Secretary Bridget Phillipson is running against Lucy Powell for Labour's deputy leadership.",
+        "pubDate": "2025-09-24T15:36:11Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea0b/live/a92f6f90-995a-11f0-af62-91486a511a31.png",
+        "bias": 0
+      },
+      {
         "title": "Live updates: Hundreds of federal employees laid off by DOGE are rehired - AP News",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01Nm5uajRPUWxMYV9ieEhSRGczRjJQZHZLYl9BVlg4am9NVW83aDBzVDFvWlJHVXJLUnQyaWh0WUFjeEJGNU4xWWwxSXhhT3V3cmpGbVU5cUhZNkVTa2lvN3J5NXVldi1jNHFj?oc=5",
         "description": "",
-        "pubDate": "2025-09-24T15:13:00Z",
+        "pubDate": "2025-09-24T15:26:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Fearing another war with Israel, Iran begins rebuilding missile sites, but key component is missing - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQckliUmtjZURfLWJONlpPTGVIeXdWeW9kc2hseHdYTVpfNlBlclhQZXl3V1dpOUZJbWNZMFpMS1BFM0pwak95QjdSTDhOd19idmpoV19aNEdOUXRXWTRpRVYxb2JuU2xabXozS0JlZUlPeTZ1OEM5REtYcUFKQWdRbUtDMjk2a0t6eno5R3FsM3RfYTlqN1Rza19PZVJIS0U3YV93?oc=5",
+        "description": "",
+        "pubDate": "2025-09-24T15:17:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -706,15 +715,6 @@
         "pubDate": "2025-09-24T14:10:15Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e31d/live/af107160-994c-11f0-9a00-eba1f5856efc.jpg",
-        "bias": 0
-      },
-      {
-        "title": "3 people shot at immigration facility in Dallas and the shooter is dead, official says - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQWVhc3dRdHdRRmFmMjhjT1gxNW9fdy1DYU9DSmlESmlybkk0ZFkycGV6RktxaFMxTUtlR0V3dkg1WURZa0ZwZTJ0OVUycUY3M0Q5emprWFRzU1I1X05MMS1leHNTczgtamtyRVdWVGNWUWd4UzlNMHJ1RUIwbFczRjdJMTlCNExPbkhkN1pTT1ZkRGJhcWhpdXQwa25tQmNkcWc?oc=5",
-        "description": "",
-        "pubDate": "2025-09-24T13:24:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -799,15 +799,6 @@
         "bias": 0
       },
       {
-        "title": "A piano, a pregnant woman and a prison: Raymond Chandler’s ‘Nightmare’ is revealed - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON1B0TmlZU3pidDh2YjQtZmxhSVNpUDBDdFZsNWdnSEdZX0kyclBISGZWNS1sbGk2YU5LWTV3bF9PLWREWTJCOWRQQnBfemlja2daclY3UzcyS2YzRjlQWnJmeDRJMkdDUzZZZi12bllHUHUtREZIN2o5WlM3ME1UcDNpci14STZyN1d0cmduN1lQV3NZdWFYRk8tb1duNUxrYXc?oc=5",
-        "description": "",
-        "pubDate": "2025-09-24T04:05:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Trump administration rehires hundreds of federal employees laid off by DOGE - AP News",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZzNtMC1HZnJJUVpKcm42cDcyOWRJR1pERjVKM2NpN0pEMU5mbmV1Ym9NVGhQN1lheDVSSy01LTZIU3pHaHB4UHBFaDVUbTJRZ1ZHV2NpT29iZWZ1MjVYbnpyQ3pIQkxYUVBnSHlib1JJaEM5Njg5bXN3a0hRWGRfNGd6YUpsLXJ2MzljWldoc0QyRmxncGxpN2pXVQ?oc=5",
         "description": "",
@@ -817,19 +808,28 @@
         "bias": 0
       },
       {
-        "title": "After mechanical challenges, UN says Trump's team to blame for nonworking escalator and teleprompter - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV0xEZGc2WlktSTRZdnFOQWs0NVFPZG04amJYT2ZwQ1Nia0E1dFBrOHp3THpFOVBuOFF4REl6WkhyTTlReDBQaXhwZGUwNkN4SGMzOHV3THdtWmJZSUJhUHhGTGRrdGwtOWJVajIwQmxmZm12Ql9uVFdUNVdZQ0ItM1dfNl83TWY4OUxoSU12X2I3bjR1RlE?oc=5",
+        "title": "Yankees head to postseason for 8th time in 9 seasons with AL East race still up for grabs - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSDdPTkVQV0FOYnBPY0hVc1lBSi1DZnBsd1IwVHNsN1RCUWs5WXYwWjJvaWI5MzJ3S3ktWU8wN1dDWjktWXVDSTRvVUgwY2d1M0txeFV5YU1wN2tWajgzYkszakRwcW1xUk1ZdVNTNlRBOU5KSnBqZEJMcHllUmVMempMSEVCcnVv?oc=5",
         "description": "",
-        "pubDate": "2025-09-24T02:28:00Z",
+        "pubDate": "2025-09-24T03:22:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Colombia’s president calls for criminal investigation against Trump over Caribbean strikes - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSGozdmJzZ1RyVzFCcnlCbld3RGF3Nzd1WEp2MmJJcWY3ZlRlWk1IY0I5SE5YYThMOVBheWJiMm9PcFFfMnlfek91ZXpjQmUxVGlqdldLVllJYU5YRlBpZ0JBM1ZJLXo2OFVwUVpvYjdKRXVlV1VoNUdWU2lJQzJxR1haX0wwVEhkUGlRQVpWWlZUM0hoTlM4Z1FTcVMyODE1S2thS3hBUEhqRnFy?oc=5",
+        "title": "Guardians' David Fry hospitalized after being hit in face by pitch during crucial win over Tigers - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQek1BVXVnQkRoSTdjakhoOHVuUXdreFBjcUdHX1VUTGJaODNFRFhQaGZKMTRueGhwWFZReTZZdGhFTDMtdWhwNlQzN01GRFBZcG1wUEcybllNazZUVEszd0gyUTFxb1puYi1HeTdjSXdiZC15czIzOTAzRnpSMGRVT0NmOXFLeklKY3N1U3RqTWd1Wi1YdWpqZGZZVQ?oc=5",
         "description": "",
-        "pubDate": "2025-09-24T01:20:00Z",
+        "pubDate": "2025-09-24T03:17:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "After mechanical challenges, UN says Trump's team to blame for nonworking escalator and teleprompter - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV0xEZGc2WlktSTRZdnFOQWs0NVFPZG04amJYT2ZwQ1Nia0E1dFBrOHp3THpFOVBuOFF4REl6WkhyTTlReDBQaXhwZGUwNkN4SGMzOHV3THdtWmJZSUJhUHhGTGRrdGwtOWJVajIwQmxmZm12Ql9uVFdUNVdZQ0ItM1dfNl83TWY4OUxoSU12X2I3bjR1RlE?oc=5",
+        "description": "",
+        "pubDate": "2025-09-24T02:28:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -873,6 +873,15 @@
         "bias": 0
       },
       {
+        "title": "Shohei Ohtani has 3rd straight dominant outing on mound with 6 scoreless innings - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc2NqOFdXYkgxYzhwRXRQMzJzMlc5M3JCNlBfdnpqS05aVVRPLW1aU1F5UVhTUE9sYnJMa01ZZkk4NkF1QXF5bkNzMmZOcVVjSEdQYnl5TEhkOHkySGp5ZWRGM2dpS0dITTloWDNXeTY3dnhTNTIybGZMWHN2MEdZNGVDWE00dFEtbm9mWlNvd3lpeF9Z?oc=5",
+        "description": "",
+        "pubDate": "2025-09-24T05:12:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "TikTok child data protection inadequate, Canadian privacy officials say",
         "link": "https://www.bbc.com/news/articles/c4gj5lqq52lo?at_medium=RSS&at_campaign=rss",
         "description": "TikTok says it will introduce measures to \"strengthen our platform\" although it disputes some of the findings.",
@@ -900,26 +909,7 @@
         "bias": 0
       }
     ],
-    "Science": [
-      {
-        "title": "Pope names successor for embattled New Orleans archbishop after sex abuse settlement - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMFdpX0NGQ1Y1VWZzZEJjS0lxOTFZYmQ1d25FVURyUkswUWJmLVB5MDhnN3J1YTNnbDQzVWhXYmszc0RMSVRsQXBqaGNTNW9vNF82Z3REbW9kSGU0OENyXzBkTWw4em1GTlM3emF0Y202dXJ5Y0RJWENtMFotY3lFaG4tTVNETmRnZ1YwbUxteUMtYUlFYnNHOGZwRlEwcms?oc=5",
-        "description": "",
-        "pubDate": "2025-09-24T11:35:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "See the world in vertical: Top photos by AP’s photojournalists - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObDlHdTdQUFp1ZHdxVWxRYkxSdUJCUU90T2tEZHJDaXFoMllvel9iVUxFRDdFdnUwY1BVUVh6RlgwWkpRbS13MmdpY21BdG1yXzNZRG5EN3AxTnRBUDBGelVSbm1sOEtPUEFtRTJvLURZMnJLTTJWcnFGTDJjMWgwT2V2LXpCTFpRbjhKQ0pWdTdDQURWZWNFMGhxU3MzZXFuNXc?oc=5",
-        "description": "",
-        "pubDate": "2025-09-24T09:02:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      }
-    ],
+    "Science": [],
     "Business": [
       {
         "title": "How will the EU's new border system work?",
