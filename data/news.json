@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-24T14:48:15.623526Z",
+  "lastUpdate": "2025-09-24T14:58:36.502331Z",
   "news": {
     "Gaming": [
       {
@@ -45,6 +45,15 @@
         "pubDate": "2025-09-24T13:59:03Z",
         "source": "theepiccookie.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzA0NDk4LnBuZw==/315x250%23c/DX4CaO.png",
+        "bias": 0
+      },
+      {
+        "title": "Clicker [Free] [Other]",
+        "link": "https://ghost3-135.itch.io/clicker",
+        "description": "",
+        "pubDate": "2025-09-24T13:39:29Z",
+        "source": "ghost3-135.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzA0MDU1LnBuZw==/315x250%23c/bXx7ol.png",
         "bias": 0
       },
       {
@@ -224,10 +233,19 @@
         "title": "Live updates: Hundreds of federal employees laid off by DOGE are rehired - AP News",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01Nm5uajRPUWxMYV9ieEhSRGczRjJQZHZLYl9BVlg4am9NVW83aDBzVDFvWlJHVXJLUnQyaWh0WUFjeEJGNU4xWWwxSXhhT3V3cmpGbVU5cUhZNkVTa2lvN3J5NXVldi1jNHFj?oc=5",
         "description": "",
-        "pubDate": "2025-09-24T14:44:00Z",
+        "pubDate": "2025-09-24T14:52:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "Zelenskyy slams UN’s weakness over Gaza, Ukraine and Sudan wars",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/9/24/zelenskyy-slams-uns-weakness-over-gaza-ukraine-and-sudan-wars?traffic_source=rss",
+        "description": "Ukrainian President Volodymyr Zelenskyy slammed the UN as being too weak to stop wars in Gaza, Sudan, Syria, and Ukraine",
+        "pubDate": "2025-09-24T14:32:56Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Rosenberg: Russia brushes off Trump's claim of 'paper tiger' in aimless war",
@@ -277,7 +295,7 @@
       {
         "title": "At least one person killed in shooting at US immigration facility in Texas",
         "link": "https://www.aljazeera.com/news/2025/9/24/three-wounded-in-shooting-at-us-immigration-facility-in-dallas-texas?traffic_source=rss",
-        "description": "US officials say the suspected shooter is also dead from a 'self-inflicted gunshot wound'",
+        "description": "US officials say the suspected sniper also died from a 'self-inflicted gunshot wound'.",
         "pubDate": "2025-09-24T13:40:06Z",
         "source": "aljazeera.com",
         "image": "",
@@ -653,15 +671,6 @@
         "bias": 0
       },
       {
-        "title": "Statue of Donald Trump and Jeffrey Epstein appears in US capital",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/9/24/statue-of-donald-trump-and-jeffrey-epstein-appears-in-us-capital?traffic_source=rss",
-        "description": "A pop-up statue showing Donald Trump holding hands with sex offender Jeffrey Epstein appeared near the US Capitol.",
-        "pubDate": "2025-09-24T09:39:39Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "Iran starts rebuilding missile sites hit by Israel, but experts say a key component is missing - AP News",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQckliUmtjZURfLWJONlpPTGVIeXdWeW9kc2hseHdYTVpfNlBlclhQZXl3V1dpOUZJbWNZMFpMS1BFM0pwak95QjdSTDhOd19idmpoV19aNEdOUXRXWTRpRVYxb2JuU2xabXozS0JlZUlPeTZ1OEM5REtYcUFKQWdRbUtDMjk2a0t6eno5R3FsM3RfYTlqN1Rza19PZVJIS0U3YV93?oc=5",
         "description": "",
@@ -672,6 +681,15 @@
       }
     ],
     "Politics": [
+      {
+        "title": "Wall Street drifts as it hits a lull following its big rally - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOGpJNm5aTkpNWDBXT1ZqTk5HdThUdFl5d2pxWVVxUEM0ejBReV92cE1hejJwVUpaMm1lNlpaN0hCYmdVUWJMS3ppMFR0cm9ReTVKQVBCS2lZaDd2N1lEYUVhQTdZTzEwTE45dFY4bjVHOG5sSjF0TWlxZVhIVnd1bUJsLXMwNlhEZ3F4NnIzWG9CQ3VMSVNqVF9IXy1ja0JC?oc=5",
+        "description": "",
+        "pubDate": "2025-09-24T14:47:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Corbyn sorry for 'confusion' as new party membership launched",
         "link": "https://www.bbc.com/news/articles/cm2zvy74e1eo?at_medium=RSS&at_campaign=rss",
@@ -734,15 +752,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Global shares trade mixed after Wall Street rally takes a pause - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOGpJNm5aTkpNWDBXT1ZqTk5HdThUdFl5d2pxWVVxUEM0ejBReV92cE1hejJwVUpaMm1lNlpaN0hCYmdVUWJMS3ppMFR0cm9ReTVKQVBCS2lZaDd2N1lEYUVhQTdZTzEwTE45dFY4bjVHOG5sSjF0TWlxZVhIVnd1bUJsLXMwNlhEZ3F4NnIzWG9CQ3VMSVNqVF9IXy1ja0JC?oc=5",
-        "description": "",
-        "pubDate": "2025-09-24T09:20:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "New York City may move its mayoral elections to even years. It'd be part of a trend",
@@ -884,10 +893,10 @@
     ],
     "Science": [
       {
-        "title": "Districts around the US are mulling school closures as student enrollment falls - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY014YTFTYmZhWWNkUW9VMUhWVFY3SzhUWk1nbVhGbjVDbGxSQkRfTW9yRmgxdjFtc3BlVlp2WTdhcGoyMGhSZjc3bnF5QXZmNVI5QkMtdmhnZTNSTUFJVXRsNklyMkc3UFpuZFFpQUFmTS1xaG94cjBpT3FYMVBJM0x2TXhPdEpySmM2MW5Xc3ZNMFBTSUxmR3IxZlB0ZExyckt4UFlB?oc=5",
+        "title": "Pope names successor for embattled New Orleans archbishop after sex abuse settlement - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMFdpX0NGQ1Y1VWZzZEJjS0lxOTFZYmQ1d25FVURyUkswUWJmLVB5MDhnN3J1YTNnbDQzVWhXYmszc0RMSVRsQXBqaGNTNW9vNF82Z3REbW9kSGU0OENyXzBkTWw4em1GTlM3emF0Y202dXJ5Y0RJWENtMFotY3lFaG4tTVNETmRnZ1YwbUxteUMtYUlFYnNHOGZwRlEwcms?oc=5",
         "description": "",
-        "pubDate": "2025-09-24T12:52:00Z",
+        "pubDate": "2025-09-24T11:35:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
