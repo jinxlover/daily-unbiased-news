@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-09-24T23:18:30.431721Z",
+  "lastUpdate": "2025-09-24T23:29:54.414187Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Notnoobs Basics 2 Development Build [Free]",
+        "link": "https://notnoob14.itch.io/notnoobs-basics-2-development-build",
+        "description": "A goofy game!",
+        "pubDate": "2025-09-24T23:12:11Z",
+        "source": "notnoob14.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzEwNDUyLnBuZw==/315x250%23c/JfvREP.png",
+        "bias": 0
+      },
       {
         "title": "lo [Free]",
         "link": "https://xxpoyumps.itch.io/lo",
@@ -12,7 +21,7 @@
         "bias": 0
       },
       {
-        "title": "The bloody Quill [Free] [Visual Novel]",
+        "title": "The Bloody Quill [Free] [Visual Novel]",
         "link": "https://darkziwolf.itch.io/the-bloody-quill",
         "description": "#MurderMystery",
         "pubDate": "2025-09-24T22:54:06Z",
@@ -183,24 +192,6 @@
         "bias": 0
       },
       {
-        "title": "Darkwaar3 [Free]",
-        "link": "https://darkwood-fr.itch.io/darkwaar3",
-        "description": "",
-        "pubDate": "2025-09-24T20:25:22Z",
-        "source": "darkwood-fr.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzA4OTgxLnBuZw==/315x250%23c/1wSR20.png",
-        "bias": 0
-      },
-      {
-        "title": "Nebula Warfare [Free]",
-        "link": "https://umuttaylanduran.itch.io/nebula-warfare",
-        "description": "",
-        "pubDate": "2025-09-24T20:10:33Z",
-        "source": "umuttaylanduran.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzA5MDYxLnBuZw==/315x250%23c/CzbxaR.png",
-        "bias": 0
-      },
-      {
         "title": "Biker Fox: Wild Road [Free] [Racing]",
         "link": "https://adam-howell.itch.io/biker-fox-wild-road",
         "description": "Endless racing iOS game",
@@ -226,14 +217,32 @@
         "source": "adr-games.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzA5MTI3LnBuZw==/315x250%23c/Eb9ELE.png",
         "bias": 0
+      },
+      {
+        "title": "Mountain Climbing [Free] [Platformer]",
+        "link": "https://g-mcadoo.itch.io/mountain-climbing",
+        "description": "Climb a Mountain and earn your wish at the Peak.",
+        "pubDate": "2025-09-24T15:49:29Z",
+        "source": "g-mcadoo.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzEwNTE5LnBuZw==/315x250%23c/F3UsSr.png",
+        "bias": 0
       }
     ],
     "World": [
       {
+        "title": "Senegal: Gaza has ‘become hell for thousands of souls’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/9/24/senegal-gaza-has-become-hell-for-thousands-of?traffic_source=rss",
+        "description": "At the 80th UNGA, Senegal President Bassirou Faye condemned the war in Gaza, calling it a “humanitarian catastrophe.\"",
+        "pubDate": "2025-09-24T23:22:37Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Live updates: Trump vows more crackdowns after ICE facility shooting, but doesn’t mention the victims - AP News",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01Nm5uajRPUWxMYV9ieEhSRGczRjJQZHZLYl9BVlg4am9NVW83aDBzVDFvWlJHVXJLUnQyaWh0WUFjeEJGNU4xWWwxSXhhT3V3cmpGbVU5cUhZNkVTa2lvN3J5NXVldi1jNHFj?oc=5",
         "description": "",
-        "pubDate": "2025-09-24T23:06:00Z",
+        "pubDate": "2025-09-24T23:21:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -626,6 +635,15 @@
         "bias": -1
       },
       {
+        "title": "Tom Brady dismisses conflict of interest concerns, calls critics ‘paranoid and distrustful’ - AP News",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVkgxcFRIOGVSMk1hekFZeEc2cDFTSWZGMWRBNVNoTEZ6bDhqSUVDYk1vS1RCMHM2eDZMcnZmeFFhWTM0M2tpLVhOWWJ1X3QtM1Yxd1JxOW9xMllYaXd5THJjdW44eG5Cc2wzQlNwOEV0Zm5mS09Gam00eVppdGhJMWFhdw?oc=5",
+        "description": "",
+        "pubDate": "2025-09-24T17:26:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Black church leaders reject Charlie Kirk martyrdom and point to his race rhetoric - AP News",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVVZaOTM1NmR4a0pVSXp4UVA0d3FwYU16dW1wZVJDZVBSZFpoaTdXaVVGM1FEQnI1bU5YeEEwWU4xRGhRSkJJZWVzRFM4T2ptR1BBQ1BfbXNHbUhmYlRNQUpKRWljMzY3eWNiVzZMdENyeWl5dnRrWkdWTk9uUmNOTUhxZmstS0ZHa3pnS2luZnFQdm44RVdveUNGajVsQUNRMjVGUDc0MkMzVUJhaHc?oc=5",
         "description": "",
@@ -657,24 +675,6 @@
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUFpBajhXZFVIZmp2ZWtJU1N1ODl3MzM2RzBWeFZtQ2tOLUhtNEVJM3d2Mk5VS2lIak1PaWdLQ3BRVkZ0RlZ6dU4yR2ljMjlwOGg5dzVFUERhMTBKejdlZnc0cFcybjNwNnZxbFk4RF9SdWtyT0lOVVZJcnRlRWthalJXbWl0UXhDdTZGR2I5NmMyMjN2Q2lsT2k5WDhpOGtRRXJMdTNuVQ?oc=5",
         "description": "",
         "pubDate": "2025-09-24T16:49:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Kenya’s president demands African seat at UN Security Council",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/9/24/kenyas-president-demands-african-seat-at-un-security-council?traffic_source=rss",
-        "description": "President William Ruto told the UNGA that Africa’s exclusion from permanent membership on the Security Council is unfair",
-        "pubDate": "2025-09-24T16:44:16Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Fearing another war with Israel, Iran begins rebuilding missile sites, but key component is missing - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQckliUmtjZURfLWJONlpPTGVIeXdWeW9kc2hseHdYTVpfNlBlclhQZXl3V1dpOUZJbWNZMFpMS1BFM0pwak95QjdSTDhOd19idmpoV19aNEdOUXRXWTRpRVYxb2JuU2xabXozS0JlZUlPeTZ1OEM5REtYcUFKQWdRbUtDMjk2a0t6eno5R3FsM3RfYTlqN1Rza19PZVJIS0U3YV93?oc=5",
-        "description": "",
-        "pubDate": "2025-09-24T16:42:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -808,19 +808,19 @@
         "bias": -1
       },
       {
-        "title": "4 killed and dozens injured in remote Ladakh as protesters seeking self-rule clash with India police - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdmZrZVlCVDRjT2U0ZHl4cXhqWW1FVkExNzlOam81NWt2NUgxTTBOaU5xQVFoQnRReERvczAxZ0lCQnFZQ2xNWk0zZVgzVFpvWnloZm10TGtaTndKbkpXNEVwbFV0NjkwMGR2Y04zc21kUWUzckVDenc2Q1lnSWJiLWZIZ09mMHJJRVFqQ3Z2YlU4Z1U?oc=5",
+        "title": "FBI says ammunition at Dallas shooting scene contained anti-ICE messaging - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVWFsM3I4WGtTUDRrY1VZdzlMcjR4cUdWUzlqZ0V2N1d6VF9GbHpmdmxSUGhfQThzREh5WkVBZ3hITG9PZHlXcUd5VzY0NjBtQ0liTG5jc2gwT2JCQ2JRNmxBbDlQODJndGVDblhqbUxsWlo3MXJqZE14S0dVRWdwZGxCN0M4YlBqaUdtYUpnaDg0VVlzY21mOVlQRDdiRFRMY1Q5a1RJTWR1a2tzaGRTZTQxVHlvYTNxRnF3aE8wdXZ3cnJOdHFKMjIwTQ?oc=5",
         "description": "",
-        "pubDate": "2025-09-24T15:16:00Z",
+        "pubDate": "2025-09-24T16:11:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Al Gore’s satellite and AI system is now tracking sources of deadly soot pollution - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd29jVTRmYU9EdVREN0dmQVpZaVRoZTVUMGxtTEtfOUhkVUZ5S1kwc3pib0lsYl9NUzJwR3RrTHRrdHdHWkl3amFtRmNyM09Ya0JRX1Z1S2tNSElQN2xaaHp0S3VFQzU1bElXeDFiQkJDYlFKcEhmNlZtOHJIWklxZV9XTVdLanBCOHRtbl9xdXRLTzhlanlnXzRxTGc?oc=5",
+        "title": "4 killed and dozens injured in remote Ladakh as protesters seeking self-rule clash with India police - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdmZrZVlCVDRjT2U0ZHl4cXhqWW1FVkExNzlOam81NWt2NUgxTTBOaU5xQVFoQnRReERvczAxZ0lCQnFZQ2xNWk0zZVgzVFpvWnloZm10TGtaTndKbkpXNEVwbFV0NjkwMGR2Y04zc21kUWUzckVDenc2Q1lnSWJiLWZIZ09mMHJJRVFqQ3Z2YlU4Z1U?oc=5",
         "description": "",
-        "pubDate": "2025-09-24T13:39:00Z",
+        "pubDate": "2025-09-24T15:16:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1093,6 +1093,15 @@
     ],
     "Business": [
       {
+        "title": "Government considers financial support for JLR suppliers",
+        "link": "https://www.bbc.com/news/articles/c62nv0xx32go?at_medium=RSS&at_campaign=rss",
+        "description": "Fears are growing that some of the car maker's suppliers could go bust without support.",
+        "pubDate": "2025-09-24T23:20:25Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c79/live/56b321e0-997c-11f0-b6a6-3b33e4575a79.png",
+        "bias": 0
+      },
+      {
         "title": "Labubu dolls made up 90% of fake toys seized at UK border",
         "link": "https://www.bbc.com/news/articles/c8645pdq4e0o?at_medium=RSS&at_campaign=rss",
         "description": "Of the 259,000 fake toys seized in 2025, 236,000 were counterfeit Labubus, the Home Office says.",
@@ -1108,15 +1117,6 @@
         "pubDate": "2025-09-24T23:02:32Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee66/live/f64f50c0-9972-11f0-8386-d166d7be2209.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Government considers financial support for JLR suppliers",
-        "link": "https://www.bbc.com/news/articles/c62nv0xx32go?at_medium=RSS&at_campaign=rss",
-        "description": "Fears are growing that some of the car maker's suppliers could go bust without support.",
-        "pubDate": "2025-09-24T22:08:31Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c79/live/56b321e0-997c-11f0-b6a6-3b33e4575a79.png",
         "bias": 0
       },
       {
@@ -1207,15 +1207,6 @@
         "pubDate": "2025-09-24T03:35:45Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4f0/live/177593c0-97bd-11f0-a84a-b1e2efa36bf3.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Part of hospital’s roof ripped off and patients evacuated as damaging storms hit Oklahoma - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObzBobzRMeXNia2lpWGFEMmZXaTc4TjRVRHpOeXJMbldITzl3NmFaTlowVW9fUDVhZllia2tMRU9mWXMtOUhrOFlsMUtZRWVLM2psUWtURGd1dFZST3dSOVc2ZEtnS2xQbkVveG9RQ1RyY094S2Y4VXJtOU8ySmlkOENpQzZoTDdRNzBmaVh5TTAxX2todVU0dS1scW52aHpYbE5pR0l4N1Q?oc=5",
-        "description": "",
-        "pubDate": "2025-09-24T00:05:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       }
     ],
