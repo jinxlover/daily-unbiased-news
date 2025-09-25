@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-09-25T20:56:03.127050Z",
+  "lastUpdate": "2025-09-25T21:17:08.256272Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Clean the Classroom [Free] [Puzzle]",
+        "link": "https://ylee899.itch.io/clean-the-classroom",
+        "description": "",
+        "pubDate": "2025-09-25T21:05:57Z",
+        "source": "ylee899.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzIxNTgxLnBuZw==/315x250%23c/qR%2FKEW.png",
+        "bias": 0
+      },
       {
         "title": "Talking Bag [Free]",
         "link": "https://lookc.itch.io/talking-bag",
@@ -23,7 +32,7 @@
       {
         "title": "Rise Adventure [Free] [Adventure] [Windows]",
         "link": "https://ulyssespita.itch.io/rise-adventure",
-        "description": "A Unity game prototype with a dynamic teleport system, item pickups, and portal progression.",
+        "description": "",
         "pubDate": "2025-09-25T20:37:30Z",
         "source": "ulyssespita.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzIxMjYyLmpwZw==/315x250%23c/3vFLK3.jpg",
@@ -219,15 +228,6 @@
         "bias": 0
       },
       {
-        "title": "Class Attack [Free] [Fighting] [Windows]",
-        "link": "https://mathias171.itch.io/class-attack",
-        "description": "✈️ Voe alto com seu avião de papel e sobreviva ao caos da sala de aula! 📚🔥",
-        "pubDate": "2025-09-25T18:37:56Z",
-        "source": "mathias171.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzIwMDMwLnBuZw==/315x250%23c/1MY8w4.png",
-        "bias": 0
-      },
-      {
         "title": "Our Fish Tank [Free] [Survival] [Windows]",
         "link": "https://patata1236.itch.io/our-fish-tank",
         "description": "Feed the fish as a fish. Make sure nobody dies.",
@@ -302,19 +302,28 @@
     ],
     "World": [
       {
-        "title": "Hegseth abruptly summons top military commanders to a meeting in Virginia next week - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTlk1ajJlVzFhTG1vMkEtdHBQWUpERHVOUnVZTy1LQXVrWFcwVXcwSnlqTWJZNl9WMlQ3Q0JPZlRldVA3N3VwTGpEaC15Q255YVNaMDJud1ZaajB1ekxmajhPeEJSblJENDlsMHNMbmhkS1YyTmJjSmtncmwtXzlwbTJkSWZRR19FbzhjLTFmdUJ4SUxiT1lVOXp6S2tqcTlLdUREWlFOOA?oc=5",
+        "title": "Live updates: Trump signs order to put TikTok under US ownership, says China’s Xi agreed - AP News",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XTGh1SGJ3Z2xfb0lQTjEwRDA1ZmlfQzRsTTVYZzNubHRwVm9yVU8yMW9BY2FIMXlpT05RcFVSVUkwLTg4c1NZVlhuOUNuRVNEYldsVkdJald0WG5qZjN5cmdtX1BkZTcwa3RR?oc=5",
         "description": "",
-        "pubDate": "2025-09-25T20:39:00Z",
+        "pubDate": "2025-09-25T21:12:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Live updates: Hegseth summons top military commanders for sudden meeting next week - AP News",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XTGh1SGJ3Z2xfb0lQTjEwRDA1ZmlfQzRsTTVYZzNubHRwVm9yVU8yMW9BY2FIMXlpT05RcFVSVUkwLTg4c1NZVlhuOUNuRVNEYldsVkdJald0WG5qZjN5cmdtX1BkZTcwa3RR?oc=5",
+        "title": "Trump says China’s Xi has approved of proposed deal putting TikTok under US ownership - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWHAxb2hySHBlajZoblBkQU1JMk1mUG1WU1J5UU5HWUZrUmNtTEFOa0VpNENPWjB2M3h2NlhXTEhPWGlWdXNhZFVoWUhjNmhIZEREbnRlN2ZYZjMyZGFONjZES2ZfR3VCVU4tVlpxRDdSbDg3RVlyVHZZV3lHcUl1bE9ibTlfVlQ1OXl2T3YxVy0tU3ZSekdHWg?oc=5",
         "description": "",
-        "pubDate": "2025-09-25T20:36:00Z",
+        "pubDate": "2025-09-25T20:55:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Hegseth abruptly summons top military commanders to a meeting in Virginia next week - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTlk1ajJlVzFhTG1vMkEtdHBQWUpERHVOUnVZTy1LQXVrWFcwVXcwSnlqTWJZNl9WMlQ3Q0JPZlRldVA3N3VwTGpEaC15Q255YVNaMDJud1ZaajB1ekxmajhPeEJSblJENDlsMHNMbmhkS1YyTmJjSmtncmwtXzlwbTJkSWZRR19FbzhjLTFmdUJ4SUxiT1lVOXp6S2tqcTlLdUREWlFOOA?oc=5",
+        "description": "",
+        "pubDate": "2025-09-25T20:39:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -741,15 +750,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Can Israel survive economic isolation?",
-        "link": "https://www.aljazeera.com/video/counting-the-cost/2025/9/25/can-israel-survive-economic-isolation?traffic_source=rss",
-        "description": "PM Benjamin Netanyahu admits Israel's growing isolation and urges Israelis to brace for a self-sufficient economy.",
-        "pubDate": "2025-09-25T15:30:00Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
@@ -1042,15 +1042,6 @@
         "bias": 0
       },
       {
-        "title": "Tropical Storm Humberto forms in the Atlantic as Hurricane Gabrielle takes aim at the Azores - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT1dIZDluMk56UmFKb1VFZzltUzktaVdlbElTa2ZWOFphbVZVSVRTdEFIZmNXSDVvSnluSzNQOG1CZTMzTXhaUElZcjNmVk1NbXlhcXBkakQ1Q3o1YWRqX1RqZjNPVGQwU3o1TmhldFl6QWVuYUFNcGp4ZGlpV05wWkp1c2RFU0VFTHpHZ0M2QXd2OF84UUpqVWc3OVlYeEREOG13ZTdJenhNekc1bmtvM1RiTFlReWE1?oc=5",
-        "description": "",
-        "pubDate": "2025-09-25T03:44:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "White House threatens layoffs — not furloughs — if the government shuts down",
         "link": "https://www.npr.org/2025/09/24/nx-s1-5552789/trump-government-shutdown-plan-memo",
         "description": "In past government shutdowns, workers have been put on temporary furloughs until funding resumes. This time, the Trump White House is looking for bigger and more permanent cuts, a new memo shows.",
@@ -1097,6 +1088,15 @@
       }
     ],
     "Tech": [
+      {
+        "title": "Trump's TikTok deal terms criticized by experts as a 'shakedown'",
+        "link": "https://www.npr.org/2025/09/25/nx-s1-5552512/trumps-tiktok-deal-terms-criticized-by-experts-as-a-shakedown",
+        "description": "The U.S. government will collect a multibillion-dollar fee from the American investors who will take over TikTok. Some experts call the fee and other deals like it \"extortion.\"",
+        "pubDate": "2025-09-25T20:50:40Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Children's names, pictures and addresses stolen in nursery chain hack",
         "link": "https://www.bbc.com/news/articles/c62ldyvpwv9o?at_medium=RSS&at_campaign=rss",
@@ -1271,15 +1271,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Saudi Arabia’s crown prince freezes rents in Riyadh for 5 years after prices rapidly rose - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRklBYVVMc2RnR2xOWmtab3h6WUdTWVVSVG5hdElJTHo3dFpXeDdvYzlScm8xdkU3REc3N0RKUlRzOTV3alFNb1pJUjRvVWRkVy1ldFVENWdkQWFKUG50c2RaMWc1NmlMd184ZFJkZVVWaWJQN3JocV91SzJDeG91YTZEYjZGdUlkNm82b2NIeDdlT2hhSkVv?oc=5",
-        "description": "",
-        "pubDate": "2025-09-25T13:29:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Government could buy car parts to protect Jaguar Land Rover suppliers",
