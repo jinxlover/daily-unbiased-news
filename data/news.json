@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-09-25T13:42:39.274934Z",
+  "lastUpdate": "2025-09-25T13:55:43.123125Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Godot vs Robots [Free] [Platformer]",
+        "link": "https://siporipogames.itch.io/godot-vs-robots",
+        "description": "Not Exactly what I wanted to make but still okay.",
+        "pubDate": "2025-09-25T13:43:20Z",
+        "source": "siporipogames.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzE2NTYyLnBuZw==/315x250%23c/vamUkv.png",
+        "bias": 0
+      },
       {
         "title": "CTRL Z [Free] [Platformer]",
         "link": "https://cait-15.itch.io/ctrl-z",
@@ -31,10 +40,10 @@
       },
       {
         "title": "Exochorda (prototype) [Free] [Visual Novel] [Windows] [macOS]",
-        "link": "https://audeol.itch.io/exochorda-prototype",
+        "link": "https://sunisyel.itch.io/exochorda-prototype",
         "description": "",
         "pubDate": "2025-09-25T13:08:42Z",
-        "source": "audeol.itch.io",
+        "source": "sunisyel.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzE2MDgxLnBuZw==/315x250%23c/OXDzwq.png",
         "bias": 0
       },
@@ -219,21 +228,21 @@
         "bias": 0
       },
       {
-        "title": "Mother Frogger [Free] [Adventure] [Windows]",
-        "link": "https://j-joe.itch.io/mother-frogger",
-        "description": "You are the freakiest frog of em all",
-        "pubDate": "2025-09-25T11:21:28Z",
-        "source": "j-joe.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzE1MDQxLnBuZw==/315x250%23c/05F7LY.png",
-        "bias": 0
-      },
-      {
         "title": "FOCUS on the MONOMERS [Free] [Rhythm] [Windows]",
         "link": "https://tsioubiou.itch.io/focus-on-the-monomers",
         "description": "Short rhythm game. Music by me.",
         "pubDate": "2025-09-25T10:31:49Z",
         "source": "tsioubiou.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzE1MTEwLnBuZw==/315x250%23c/16dRjO.png",
+        "bias": 0
+      },
+      {
+        "title": "ORGANICA [Free] [Action] [Windows]",
+        "link": "https://veryc0smic.itch.io/organica",
+        "description": "Fight. Survive. Augment.",
+        "pubDate": "2025-09-25T09:04:07Z",
+        "source": "veryc0smic.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzE0Njc4LnBuZw==/315x250%23c/XsZobE.png",
         "bias": 0
       },
       {
@@ -247,6 +256,15 @@
       }
     ],
     "World": [
+      {
+        "title": "Australian film altered in China to make gay couple straight",
+        "link": "https://www.bbc.com/news/articles/cp8w9492lg6o?at_medium=RSS&at_campaign=rss",
+        "description": "A scene featuring a same-sex couple was digitally altered to depict a heterosexual couple.",
+        "pubDate": "2025-09-25T13:47:51Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d44d/live/fe650870-9a0a-11f0-928c-71dbb8619e94.jpg",
+        "bias": 0
+      },
       {
         "title": "Former French president Sarkozy given five year sentence after Libya case",
         "link": "https://www.bbc.com/news/articles/cp98kepmj9lo?at_medium=RSS&at_campaign=rss",
@@ -320,6 +338,15 @@
         "bias": 0
       },
       {
+        "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-25T12:16:47Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Iran has likely carried out an undeclared missile test, satellite photos analyzed by the AP show - AP News",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeVppVEcyelhud3MzYVRDNC01TG1LYS0tR1ZjbmRqc1J5ZHU1YXNyYmlzdEEzc1lBelQwa3NMTFhIVlJRTzRfNXUxTHo3ZF95MzFmM3YtazRzcEx0UEFteWMxbDFQc3d6RnhYMTBQRGFqWk5iUDZpRWVRWlVaRHBDNmJDYU9mN3UxMHptd3dsT19RR0hJQTRB?oc=5",
         "description": "",
@@ -338,17 +365,17 @@
         "bias": -1
       },
       {
-        "title": "Wall Street points toward losses in premarket as recent red-hot rally appears to be petering out - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOGZ5YWs3bWxYNWY2djJfYmZjYnE5NEdaSDlPclJzNHVSbk14dFRHcXpyVlBVUXBMRGozZHlYNzV3R24tLXJmRUVSaThyaEEwbVczNGJpTmVxNWtWbk9lOTRUSnRoVXZjbnFwLWlWa2VWb0t1RTZ2RGoyeVFqNXpDVE9mZENlRllrSDJlVjJSVzVUR0JOVER0TXdR?oc=5",
+        "title": "Danish officials believe drone flyovers at 4 airports are meant to sow fear and division - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS1RBQ3pKdFBrX1A1WHM3YW9ZREQtLUFTMEhweTEzYkRGckZRRld3RVRxMHV3RFhJZTdJeVByMHd4bW1mNjJuWllrUFFfUF9OaDA1VkdCZlpYdVFWa0VRNnJIVlhrbG92d2s4N1NXNU9yZExvM3A2ZjNYMVRuWlBwWTlwVzh0X2ZGalk3eXRXYm5UUDE5bkZmLUxnT0I1VzIxVVRXWThzT3F5QQ?oc=5",
         "description": "",
-        "pubDate": "2025-09-25T12:08:00Z",
+        "pubDate": "2025-09-25T12:03:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Danish officials believe drone flyovers at 4 airports are meant to sow fear and division - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS1RBQ3pKdFBrX1A1WHM3YW9ZREQtLUFTMEhweTEzYkRGckZRRld3RVRxMHV3RFhJZTdJeVByMHd4bW1mNjJuWllrUFFfUF9OaDA1VkdCZlpYdVFWa0VRNnJIVlhrbG92d2s4N1NXNU9yZExvM3A2ZjNYMVRuWlBwWTlwVzh0X2ZGalk3eXRXYm5UUDE5bkZmLUxnT0I1VzIxVVRXWThzT3F5QQ?oc=5",
+        "title": "Trump hosts Turkey's Erdogan at the White House as the US considers lifting a ban on F-35 sales - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQnVxakQzc19DbGlCVko2cDVZU1pZTENHLTJxU292VU9ldTdaSFlLdzMwR2pSUU53YVhVSlZHTU9JQ19RTnR3d3pUVjZJYVF6VlNUUUppbVR6Tm5Pd0swdDV1b0g0b3A4YXNzUWdQbk5NVlBOWmVUR0ZrZVBtY1NqMlBuUzlRYV9CZEMtMmlSaEx1TGlQenc?oc=5",
         "description": "",
         "pubDate": "2025-09-25T12:03:00Z",
         "source": "news.google.com",
@@ -428,15 +455,6 @@
         "bias": -1
       },
       {
-        "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-25T11:15:28Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Sonic the Hedgehog boss on how the series keeps up to speed",
         "link": "https://www.bbc.com/news/articles/cy8ry1vn097o?at_medium=RSS&at_campaign=rss",
         "description": "The video game icon has been taking shots at an old rival, but the real competition comes from newer games.",
@@ -500,7 +518,7 @@
         "bias": 0
       },
       {
-        "title": "LIVE: Pakistan vs Bangladesh – 2025 Asia Cup Super Fours",
+        "title": "LIVE: Pakistan vs Bangladesh – Asia Cup 2025 Super Fours match",
         "link": "https://www.aljazeera.com/sports/liveblog/2025/9/25/live-pakistan-vs-bangladesh-2025-asia-cup-super-fours?traffic_source=rss",
         "description": "Follow our live build-up, team news, toss and score updates before our text commentary streams from the match in Dubai.",
         "pubDate": "2025-09-25T10:30:30Z",
@@ -561,6 +579,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "World shares are mostly lower after Wall Street’s rally loses steam - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOGZ5YWs3bWxYNWY2djJfYmZjYnE5NEdaSDlPclJzNHVSbk14dFRHcXpyVlBVUXBMRGozZHlYNzV3R24tLXJmRUVSaThyaEEwbVczNGJpTmVxNWtWbk9lOTRUSnRoVXZjbnFwLWlWa2VWb0t1RTZ2RGoyeVFqNXpDVE9mZENlRllrSDJlVjJSVzVUR0JOVER0TXdR?oc=5",
+        "description": "",
+        "pubDate": "2025-09-25T09:43:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "‘Strategic handshake’: How Pakistan is wooing Trump with critical minerals",
@@ -678,24 +705,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "A question of intent: Is what's happening in Gaza genocide?",
-        "link": "https://www.npr.org/2025/09/25/g-s1-89678/israel-gaza-genocide-debates-united-nations",
-        "description": "As accusations of genocide in Gaza mount against Israel, NPR looks at how the term is defined legally and why previously reticent scholars have changed their minds.",
-        "pubDate": "2025-09-25T09:00:00Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "French ex-president Sarkozy gets 5-year jail term in Libya campaign case",
-        "link": "https://www.aljazeera.com/news/2025/9/25/french-ex-president-sarkozy-guilty-of-conspiracy-in-libya-campaign-case?traffic_source=rss",
-        "description": "Paris criminal court finds Nicolas Sarkozy partly guilty in trial related to alleged campaign funds from Libya.",
-        "pubDate": "2025-09-25T08:59:45Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
@@ -733,6 +742,15 @@
         "pubDate": "2025-09-25T12:36:23Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86f4/live/0fa11a10-99b2-11f0-8ba8-03c56d5ecc75.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Wall Street points toward losses in premarket as recent red-hot rally appears to be petering out - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOGZ5YWs3bWxYNWY2djJfYmZjYnE5NEdaSDlPclJzNHVSbk14dFRHcXpyVlBVUXBMRGozZHlYNzV3R24tLXJmRUVSaThyaEEwbVczNGJpTmVxNWtWbk9lOTRUSnRoVXZjbnFwLWlWa2VWb0t1RTZ2RGoyeVFqNXpDVE9mZENlRllrSDJlVjJSVzVUR0JOVER0TXdR?oc=5",
+        "description": "",
+        "pubDate": "2025-09-25T12:08:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -913,15 +931,6 @@
         "bias": 0
       },
       {
-        "title": "Paris court rules former President Sarkozy will have to go to prison even if he appeals - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ0x1Z2paTmNRU3NEbHMwS0dRSkhrUHVZWEdFd0lNMUlfS3Q0ZkM2VTMwbF84dVFjVmFOV2hFV1FyM2lfaS1pVmVTdXVHd3h3a1FwbGxPSUp2Vm8xLU52TnRFQjNwaFBpWjhNdXpiZWUwbllzVkZFTXU0MlhXY01RdHp0cS1RRU0yOWl3U2hITUZwQndZbmZQdlEtZ2FOWGU3?oc=5",
-        "description": "",
-        "pubDate": "2025-09-25T11:27:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Ticketmaster agrees to better price information after Oasis complaints",
         "link": "https://www.bbc.com/news/articles/cqxzqvw4lv8o?at_medium=RSS&at_campaign=rss",
         "description": "The company will have to give fans more information, after an investigation into Oasis ticket sales.",
@@ -946,15 +955,6 @@
         "pubDate": "2025-09-25T09:46:25Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee66/live/f64f50c0-9972-11f0-8386-d166d7be2209.jpg",
-        "bias": 0
-      },
-      {
-        "title": "World shares are mostly lower after Wall Street’s rally loses steam - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOGZ5YWs3bWxYNWY2djJfYmZjYnE5NEdaSDlPclJzNHVSbk14dFRHcXpyVlBVUXBMRGozZHlYNzV3R24tLXJmRUVSaThyaEEwbVczNGJpTmVxNWtWbk9lOTRUSnRoVXZjbnFwLWlWa2VWb0t1RTZ2RGoyeVFqNXpDVE9mZENlRllrSDJlVjJSVzVUR0JOVER0TXdR?oc=5",
-        "description": "",
-        "pubDate": "2025-09-25T09:43:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -986,6 +986,15 @@
       }
     ],
     "Culture": [
+      {
+        "title": "Matthew Rhys says Michael Sheen puts Welsh actors to shame",
+        "link": "https://www.bbc.com/news/articles/clyqxe186n9o?at_medium=RSS&at_campaign=rss",
+        "description": "The Emmy Award winning actor is set to play Richard Burton in a show raising money for the Welsh National Theatre.",
+        "pubDate": "2025-09-25T13:35:27Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d890/live/32e877b0-9a12-11f0-aaf4-b9479fdf41dd.jpg",
+        "bias": 0
+      },
       {
         "title": "Pokémon did not give permission for ICE deportation video",
         "link": "https://www.bbc.com/news/articles/c8ex9n8gxdwo?at_medium=RSS&at_campaign=rss",
