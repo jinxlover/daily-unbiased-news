@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-25T07:46:11.230097Z",
+  "lastUpdate": "2025-09-25T07:56:26.728756Z",
   "news": {
     "Gaming": [
       {
@@ -9,6 +9,15 @@
         "pubDate": "2025-09-25T07:42:57Z",
         "source": "just-a-guy-yt.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzEzNTc0LnBuZw==/315x250%23c/gTPz6c.png",
+        "bias": 0
+      },
+      {
+        "title": "SonicSpinClash [Free] [Platformer] [Android]",
+        "link": "https://zekkerdev.itch.io/sonicspinclash",
+        "description": "Simulation game inspired by Sonic 3",
+        "pubDate": "2025-09-25T07:37:57Z",
+        "source": "zekkerdev.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzEzNTg2LnBuZw==/315x250%23c/hw2w7n.png",
         "bias": 0
       },
       {
@@ -225,15 +234,6 @@
         "pubDate": "2025-09-25T02:46:54Z",
         "source": "kadzy.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzEyMzQ4LmpwZWc=/315x250%23c/GzYxQH.jpeg",
-        "bias": 0
-      },
-      {
-        "title": "Timespan [Free] [Simulation]",
-        "link": "https://clu46373.itch.io/timespan",
-        "description": "Time Travel Sim",
-        "pubDate": "2025-09-25T02:20:23Z",
-        "source": "clu46373.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzExNzk1LnBuZw==/315x250%23c/7XwELr.png",
         "bias": 0
       },
       {
@@ -628,21 +628,21 @@
     ],
     "Politics": [
       {
-        "title": "Labour MPs are privately urging me to challenge PM, says Burnham",
-        "link": "https://www.bbc.com/news/articles/c7v1m873mjyo?at_medium=RSS&at_campaign=rss",
-        "description": "Andy Burnham tells the Telegraph MPs have privately urged him to challenge Sir Keir Starmer to be PM.",
-        "pubDate": "2025-09-25T07:16:20Z",
+        "title": "Government considers financial support for JLR suppliers",
+        "link": "https://www.bbc.com/news/articles/c62nv0xx32go?at_medium=RSS&at_campaign=rss",
+        "description": "Fears are growing that some of the carmaker's suppliers could go bust without support.",
+        "pubDate": "2025-09-25T07:49:23Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4660/live/05a268f0-99dc-11f0-92db-77261a15b9d2.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86f4/live/0fa11a10-99b2-11f0-8ba8-03c56d5ecc75.jpg",
         "bias": 0
       },
       {
-        "title": "Government considers financial support for JLR suppliers",
-        "link": "https://www.bbc.com/news/articles/c62nv0xx32go?at_medium=RSS&at_campaign=rss",
-        "description": "Fears are growing that some of the car maker's suppliers could go bust without support.",
-        "pubDate": "2025-09-25T06:31:38Z",
+        "title": "Labour MPs are privately urging me to challenge PM, says Burnham",
+        "link": "https://www.bbc.com/news/articles/c7v1m873mjyo?at_medium=RSS&at_campaign=rss",
+        "description": "Andy Burnham tells the Telegraph MPs have privately urged him to challenge Sir Keir Starmer to be PM.",
+        "pubDate": "2025-09-25T07:46:25Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86f4/live/0fa11a10-99b2-11f0-8ba8-03c56d5ecc75.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4660/live/05a268f0-99dc-11f0-92db-77261a15b9d2.jpg",
         "bias": 0
       },
       {
@@ -664,23 +664,22 @@
         "bias": -1
       }
     ],
-    "Tech": [
-      {
-        "title": "Off-duty officer shoots and wounds man inside New York City's busy Penn Station, police say - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNU1uRkNMMHE4SjJ0VFI3LURscVNEUzBFRGtVX0R2REhWM2hPOFhPVHQyeEVNbkZHeVpvSkVkX3R2ZWxZZ29ZUFpQMDROR044Q1h5NDhOWHlBbFVfRDFwbjVJekpFNG1nQVNUR2JvSkROZUNwVkVtNG9ybjNvQXhFa04wbTd0M0Z6UHhoSmV6VmQxQm83aWZobF9Vb05uLVVoV0FTTTJn?oc=5",
-        "description": "",
-        "pubDate": "2025-09-25T03:55:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      }
-    ],
+    "Tech": [],
     "Science": [
       {
         "title": "Weaker Ragasa pushes across China's southern coast toward Vietnam after causing flooding - AP News",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOTgwallVOGJjUC1FRmVrZURVazZOS0RkekQyeHFmWFR1N3o0eElMYnZrTEJMZnFnNTJXdURFbk9LSTUzRDd0WW5RT1VRQmdOTVBJZ1lzRnN4Y2NFQzlxejVZTk9qVDFNbkJkZkF3YzJoNXNaZVJVNnlSY3g0VVBaYmxKTU92QU0?oc=5",
         "description": "",
         "pubDate": "2025-09-25T04:18:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Off-duty officer shoots and wounds man inside New York City's busy Penn Station, police say - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNU1uRkNMMHE4SjJ0VFI3LURscVNEUzBFRGtVX0R2REhWM2hPOFhPVHQyeEVNbkZHeVpvSkVkX3R2ZWxZZ29ZUFpQMDROR044Q1h5NDhOWHlBbFVfRDFwbjVJekpFNG1nQVNUR2JvSkROZUNwVkVtNG9ybjNvQXhFa04wbTd0M0Z6UHhoSmV6VmQxQm83aWZobF9Vb05uLVVoV0FTTTJn?oc=5",
+        "description": "",
+        "pubDate": "2025-09-25T03:55:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
