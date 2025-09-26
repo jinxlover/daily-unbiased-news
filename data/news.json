@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-09-26T04:43:59.512784Z",
+  "lastUpdate": "2025-09-26T04:55:26.974995Z",
   "news": {
     "Gaming": [
+      {
+        "title": "The Sinking Ship [Free]",
+        "link": "https://geoff-bee.itch.io/the-sinking-ship",
+        "description": "Fix the leaks and save the ship",
+        "pubDate": "2025-09-26T04:40:06Z",
+        "source": "geoff-bee.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzI1MzkzLmpwZw==/315x250%23c/TrukA9.jpg",
+        "bias": 0
+      },
       {
         "title": "Starfall Survivors [Free] [Windows]",
         "link": "https://isaiahellis1234.itch.io/starfall-survivors",
@@ -203,6 +212,15 @@
     ],
     "World": [
       {
+        "title": "Microsoft cuts Israeli military’s access to some cloud computing, AI",
+        "link": "https://www.aljazeera.com/news/2025/9/26/microsoft-cuts-israeli-militarys-access-to-some-cloud-computing-ai?traffic_source=rss",
+        "description": "Microsoft said Israel's use of Azure to store data obtained through mass surveillance of Palestinians violated its terms",
+        "pubDate": "2025-09-26T04:37:31Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Trump to place import taxes on drugs, home furnishings and heavy trucks",
         "link": "https://www.npr.org/2025/09/26/nx-s1-5553721/trump-tariffs-drugs-home-furnishings-trucks",
         "description": "President Trump said he will put import taxes of 100% on pharmaceutical drugs, 50% on kitchen cabinets and bathroom vanities, 30% on upholstered furniture and 25% on heavy trucks starting on Oct. 1.",
@@ -338,6 +356,15 @@
         "bias": 0
       },
       {
+        "title": "James Comey’s son-in-law quits Justice Department after former FBI director’s indictment - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYUhGbmp0RF9xUC1RLXdvajJlUERFRG5tTm5EdEN4eGo3MUVTWmdFTlpGSUJ0ZTNfT0pKcGJzWXdHTW5pbk9RUnUxMklDcVJrdkhYSXV5Wm9wNy1oMDdiYXozUFh5UVREcGdQamdGemxWWDNpV3laUzUzdGxULVNnWnpFLVFIdnNSVFlhVQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-26T00:20:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Trump orders crackdown on 'domestic terrorists' in escalation of a campaign against political rivals - AP News",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRFV5NG1yNVdsRGZWWHByUk1kT3ZDNkNqUnY4WTU0dTNlQUFfWk5RZjdMazhWSC02ajJvRmRnenlYb1NjNGZxNVBVTlhrUmRRN2xnM1JwMU14LUw2NGk0Z25uYkROM1J4cnotNHd4cWtWTGx6ZExhNmE0Vk9Ea2g4Sk9qRGVsbHNDMVM3RWs5bXJnMDZRVklSRzBCMDY1Y3lGNWtjWFFsdzB2MlQwdXc?oc=5",
         "description": "",
@@ -374,18 +401,37 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c21d/live/6043f970-98b7-11f0-97ac-f7b1eb4c1aa8.jpg",
         "bias": 0
+      }
+    ],
+    "Tech": [
+      {
+        "title": "Jason Myers boots 52-yard FG on final play, lifting Seahawks to 23-20 win over Cardinals - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWmZEa1M4MDZlQnh0OXBGNzM4OUV1eU5IR1hRV3dDSTJQeEdRQlpHNFE0WW5XNEEteUoyaWx2Tkwyb2tvUDlNWV9hN1FBaWNLZXR2M185bUIyWVlmNTQwMmRIeVZDV202Y25TcHo4cEJmeGRPdUhhXzVCSzZhX3hpMEd6T0s3SFlYSHBnNQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-26T03:32:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
-        "title": "James Comey’s son-in-law quits Justice Department after former FBI director’s indictment - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYUhGbmp0RF9xUC1RLXdvajJlUERFRG5tTm5EdEN4eGo3MUVTWmdFTlpGSUJ0ZTNfT0pKcGJzWXdHTW5pbk9RUnUxMklDcVJrdkhYSXV5Wm9wNy1oMDdiYXozUFh5UVREcGdQamdGemxWWDNpV3laUzUzdGxULVNnWnpFLVFIdnNSVFlhVQ?oc=5",
+        "title": "Federal Bureau of Prisons moves to end union protections for its workers - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZy1LNjdEalBzUEhrX2RpVWlld3c5WWpjVjFRbjdSR3hSRzFhQVhfUWhSSE9nX1RrY3BaU1J2ME9zaU1JZVZlbDNKZTFJSEpUcEZINVNQeVlDR1FBMExYUkdvUkZRaUNTT2xwdG4yb0tOakxRU3ZsZ200SWZqV3NmR3JvYXhodF8yVmpTekVZZ2hxY3R6dElFS1B1cWc?oc=5",
         "description": "",
-        "pubDate": "2025-09-26T00:20:00Z",
+        "pubDate": "2025-09-26T02:31:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "South Korea fires warning shots to repel North Korean vessel breaching sea boundary - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcV9DczBsSWJZWEtacWNPN0N1RTVQSERsaWlrUnRVSzdwazRnSFQ4QW1QeXF0OS1ObGFPbS02bmFEM2JHMVZxc29kQUpxdGpSS2FPQThLUUYyenJZbHVCLXN2c1JYQW5XemI3MDlXQlB6Rm45NnlPX19YOTgzUGR2dnJRSDM5RDdsaXNhUS1OYmVQcHhpOThXWFJyakRURUhobFdSaQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-26T02:05:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       }
     ],
-    "Tech": [],
     "Science": [],
     "Business": [
       {
