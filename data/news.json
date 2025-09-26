@@ -1,7 +1,25 @@
 {
-  "lastUpdate": "2025-09-26T07:55:33.194815Z",
+  "lastUpdate": "2025-09-26T08:26:51.224735Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Waste Management System [Free] [Android]",
+        "link": "https://circus-playtime-studio.itch.io/waste-management-system",
+        "description": "",
+        "pubDate": "2025-09-26T08:15:55Z",
+        "source": "circus-playtime-studio.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzI2NjQ5LnBuZw==/315x250%23c/ImwHme.png",
+        "bias": 0
+      },
+      {
+        "title": "カマソッソの冬休み [Free] [Visual Novel]",
+        "link": "https://tanchi551.itch.io/camazotz4",
+        "description": "カマソッソシリーズ第4作",
+        "pubDate": "2025-09-26T07:31:05Z",
+        "source": "tanchi551.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzI2MzcyLnBuZw==/315x250%23c/VthS5S.png",
+        "bias": 0
+      },
       {
         "title": "Garapon Efficiency Collection Game -6ARAPON- [Free] [Simulation]",
         "link": "https://egg-3d.itch.io/6arapon",
@@ -84,6 +102,15 @@
         "bias": 0
       },
       {
+        "title": "カマソッソの謎 [Free] [Visual Novel]",
+        "link": "https://tanchi551.itch.io/camazotz2",
+        "description": "カマソッソシリーズ第2作",
+        "pubDate": "2025-09-26T05:21:59Z",
+        "source": "tanchi551.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzI1NjE3LnBuZw==/315x250%23c/L2fJwP.png",
+        "bias": 0
+      },
+      {
         "title": "CPSC Project 1 [Free] [Platformer] [Windows]",
         "link": "https://tootgod.itch.io/cpsc-project-1",
         "description": "Simple Platformer made as Project 1 of my game design class",
@@ -113,7 +140,7 @@
       {
         "title": "カマソッソの誕生 [Free] [Visual Novel]",
         "link": "https://tanchi551.itch.io/camazotz1",
-        "description": "カマソッソの伝説シリーズ第1作",
+        "description": "カマソッソシリーズ第1作",
         "pubDate": "2025-09-26T04:55:32Z",
         "source": "tanchi551.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzI1NDYzLnBuZw==/315x250%23c/P7f5SX.png",
@@ -174,30 +201,12 @@
         "bias": 0
       },
       {
-        "title": "Dog Pat [Free] [Other]",
-        "link": "https://chiiizu.itch.io/dog-pat",
-        "description": "",
-        "pubDate": "2025-09-26T03:51:33Z",
-        "source": "chiiizu.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzI1MTE1LnBuZw==/315x250%23c/frXZFi.png",
-        "bias": 0
-      },
-      {
         "title": "Computer Crashout [Free] [Role Playing] [Windows]",
         "link": "https://volx64.itch.io/computer-crashout",
         "description": "Oh no, I forgot to re-register for university and the deadline is due tomorrow so I have to do it asap!",
         "pubDate": "2025-09-26T03:39:42Z",
         "source": "volx64.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzI2MTEzLnBuZw==/315x250%23c/VoBNjk.png",
-        "bias": 0
-      },
-      {
-        "title": "Buster Buster - A Breakout Spinoff [Free] [Action] [Windows]",
-        "link": "https://duality583.itch.io/buster-buster",
-        "description": "An Atari Breakout spinoff arcade game!",
-        "pubDate": "2025-09-26T03:30:52Z",
-        "source": "duality583.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzI1MzEyLnBuZw==/315x250%23c/VjBICX.png",
         "bias": 0
       },
       {
@@ -212,13 +221,58 @@
     ],
     "World": [
       {
-        "title": "Tropical storm kills at least 4, displaces 400,000 in Philippines",
+        "title": "Belarus opposition leader at UNGA urge Trump to help free political prisoners",
+        "link": "https://www.npr.org/2025/09/26/nx-s1-5546750/belarus-opposition-leader-at-unga-urge-trump-to-help-free-political-prisoners",
+        "description": "A top opponent of the Lukashenko regime in Belarus is at the U.N. General Assembly to champion their cause and call on the Trump administration to help secure the release of political prisoners.",
+        "pubDate": "2025-09-26T08:11:53Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Aftermath of Israeli strikes on Yemen’s capital",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/9/26/aftermath-of-israeli-strikes-on-yemens-capital?traffic_source=rss",
+        "description": "Several residential buildings in Yemen’s capital, Sanaa, have been destroyed by Israeli airstrikes.",
+        "pubDate": "2025-09-26T08:08:38Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Trump announces ‘national security’ tariffs on drugs, trucks, furniture",
+        "link": "https://www.aljazeera.com/news/2025/9/26/trump-announces-national-security-tariffs-on-drugs-trucks-furniture?traffic_source=rss",
+        "description": "The 100% tariff on pharmaceuticals, 25% on trucks, and 30% on furniture will come into effect on October 1.",
+        "pubDate": "2025-09-26T07:47:50Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Does international recognition mean Palestine is going to be a state?",
+        "link": "https://www.aljazeera.com/news/2025/9/26/does-international-recognition-mean-palestine-is-going-to-be-a-state?traffic_source=rss",
+        "description": "Despite 157 UN member states recognising a Palestine state, it remains under Israeli control. Here's why.",
+        "pubDate": "2025-09-26T07:47:43Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Tropical storm Bualoi kills at least 4, displaces 400,000 in Philippines",
         "link": "https://www.aljazeera.com/news/2025/9/26/tropical-storm-kills-at-least-4-displaces-400000-in-philippines?traffic_source=rss",
         "description": "Tropical Storm Bualoi, the 15th tropical cyclone to hit the Philippines in 2025, on a course towards Vietnam.",
         "pubDate": "2025-09-26T07:44:23Z",
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Asian shares tumble after Trump says he will impose new tariffs on drugs and other goods - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb2YycVFkbk1TZC0wY3JjMU5lejhGY1JrZEk5LWhVd2tsd1BtbVZTcGhXMno1bE9neC15My16OUVpNnp1dW1MWG9PT2hMQXc0aXV6LTVXRFZJbkk5eDFfdjNGQ0F3MVRoeWx2eFAyS0xGOGVoZnRTNkZpMEhaazBfdEZlai1FUWFMOFhZa2hHUlB1VWVScHNrSEpB?oc=5",
+        "description": "",
+        "pubDate": "2025-09-26T07:26:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "East Timor MPs bow to protesters, vote to scrap lifetime pensions",
@@ -401,17 +455,17 @@
         "bias": -1
       },
       {
-        "title": "Hezbollah defies Lebanon PM’s ban to honor fallen leaders with coastal light show - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbERfT3ZsVW03b3ZvLTlOOER5NS16VHowbmZmdV96azNFWkZENnp5WVNsRFlsMHFwQzRvZjNnaUVka3Z5NV9NNHFhMUk4cHJYUjZ3YUZrcExsZC1tTkEtemlqcmN6aVlnQ0ZzOUNGbEJKblFwcDhJQVVRajZ3emkyTXYwbU9tbnJZSlQ3ODJYUldTVEQ3ODhwNEZ0T3BGV0h6bXZrQ21tTDJiQQ?oc=5",
+        "title": "South Korea fires warning shots to repel North Korean vessel breaching sea boundary - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcV9DczBsSWJZWEtacWNPN0N1RTVQSERsaWlrUnRVSzdwazRnSFQ4QW1QeXF0OS1ObGFPbS02bmFEM2JHMVZxc29kQUpxdGpSS2FPQThLUUYyenJZbHVCLXN2c1JYQW5XemI3MDlXQlB6Rm45NnlPX19YOTgzUGR2dnJRSDM5RDdsaXNhUS1OYmVQcHhpOThXWFJyakRURUhobFdSaQ?oc=5",
         "description": "",
-        "pubDate": "2025-09-26T02:05:00Z",
+        "pubDate": "2025-09-26T02:21:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "South Korea fires warning shots to repel North Korean vessel breaching sea boundary - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcV9DczBsSWJZWEtacWNPN0N1RTVQSERsaWlrUnRVSzdwazRnSFQ4QW1QeXF0OS1ObGFPbS02bmFEM2JHMVZxc29kQUpxdGpSS2FPQThLUUYyenJZbHVCLXN2c1JYQW5XemI3MDlXQlB6Rm45NnlPX19YOTgzUGR2dnJRSDM5RDdsaXNhUS1OYmVQcHhpOThXWFJyakRURUhobFdSaQ?oc=5",
+        "title": "Hezbollah defies Lebanon PM’s ban to honor fallen leaders with coastal light show - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbERfT3ZsVW03b3ZvLTlOOER5NS16VHowbmZmdV96azNFWkZENnp5WVNsRFlsMHFwQzRvZjNnaUVka3Z5NV9NNHFhMUk4cHJYUjZ3YUZrcExsZC1tTkEtemlqcmN6aVlnQ0ZzOUNGbEJKblFwcDhJQVVRajZ3emkyTXYwbU9tbnJZSlQ3ODJYUldTVEQ3ODhwNEZ0T3BGV0h6bXZrQ21tTDJiQQ?oc=5",
         "description": "",
         "pubDate": "2025-09-26T02:05:00Z",
         "source": "news.google.com",
@@ -574,12 +628,30 @@
     ],
     "Politics": [
       {
-        "title": "Starmer says Labour had 'shied away' from concerns over illegal immigration",
+        "title": "Trump administration threatens large-scale layoffs if government shuts down",
+        "link": "https://www.npr.org/2025/09/26/nx-s1-5553544/trump-administration-threatens-large-scale-layoffs-if-government-shuts-down",
+        "description": "The government is just days away from shutting down if Congress can't reach a deal. President Trump upped the stakes, threatening large-scale layoffs if Democrats don't provide the necessary votes.",
+        "pubDate": "2025-09-26T08:14:04Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "House Democratic Caucus chair on Trump's threat of layoffs if there's a shut down",
+        "link": "https://www.npr.org/2025/09/26/nx-s1-5553372/house-democratic-caucus-chair-on-trumps-threat-of-layoffs-if-theres-a-shut-down",
+        "description": "House Democratic Caucus Chair Pete Aguilar, D-Calif., talks about the Trump administration's threat to terminate federal workers if the government shuts down Oct. 1.",
+        "pubDate": "2025-09-26T08:11:46Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "New digital ID will be mandatory for workers in the UK",
         "link": "https://www.bbc.com/news/articles/cn832y43ql5o?at_medium=RSS&at_campaign=rss",
-        "description": "The prime minister is expected to announce plans for a compulsory UK-wide digital ID scheme.",
-        "pubDate": "2025-09-26T06:38:42Z",
+        "description": "The scheme will make it tougher to work in the UK illegally and offer \"countless benefits\" to citizens, PM says.",
+        "pubDate": "2025-09-26T08:11:19Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb5f/live/89c583d0-9a66-11f0-97f5-bd38218a3641.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b37/live/ced7fc90-9aa8-11f0-b4e7-254680b9a68e.jpg",
         "bias": 0
       },
       {
@@ -610,6 +682,15 @@
         "bias": 0
       },
       {
+        "title": "Slovenia bans Israeli Prime Minister Netanyahu from entering, citing an ICC arrest warrant - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNmxqS0Y2LTAtMjlHdm9YVDFDWVhYVVZBZG5BSkJWWTRpZmw5U0x2azNSazhxSkMwd2QxQnNXdU9mMDVsUE1zcTdob3JKVjRoaU5JWTdUeFNJNjVXdTg2YUdGS09oU3VHNG1qdU9zVTJHWEdiMzFodzRWY1U1UUFOSTF3SE1tZG5IbVRIdXlNUmpwWnpvWmNjTndLOA?oc=5",
+        "description": "",
+        "pubDate": "2025-09-26T03:54:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Reform faces questions over tech investor's role in cost-cutting drive",
         "link": "https://www.bbc.com/news/articles/c4gzwn42xdvo?at_medium=RSS&at_campaign=rss",
         "description": "Harriet Green, founder of Basis Capital, is working with the party's cost-cutting unit Doge.",
@@ -619,17 +700,7 @@
         "bias": 0
       }
     ],
-    "Tech": [
-      {
-        "title": "Slovenia bans Israeli Prime Minister Netanyahu from entering, citing an ICC arrest warrant - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNmxqS0Y2LTAtMjlHdm9YVDFDWVhYVVZBZG5BSkJWWTRpZmw5U0x2azNSazhxSkMwd2QxQnNXdU9mMDVsUE1zcTdob3JKVjRoaU5JWTdUeFNJNjVXdTg2YUdGS09oU3VHNG1qdU9zVTJHWEdiMzFodzRWY1U1UUFOSTF3SE1tZG5IbVRIdXlNUmpwWnpvWmNjTndLOA?oc=5",
-        "description": "",
-        "pubDate": "2025-09-26T03:54:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      }
-    ],
+    "Tech": [],
     "Science": [
       {
         "title": "Ratmageddon: Why rats are overrunning our cities",
@@ -643,6 +714,24 @@
     ],
     "Business": [
       {
+        "title": "Amazon agrees to pay $2.5 billion to settle U.S. lawsuit over Prime program",
+        "link": "https://www.npr.org/2025/09/26/nx-s1-5553533/amazon-agrees-to-pay-2-5-billion-to-settle-u-s-lawsuit-over-prime-program",
+        "description": "Millions of Amazon shoppers might be getting a refund after the company agreed to pay $2.5 billion to settle a lawsuit over its Prime membership program.",
+        "pubDate": "2025-09-26T08:14:48Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Trump announces new tariffs on drugs, trucks and kitchen cabinets",
+        "link": "https://www.bbc.com/news/articles/crkjreprp3po?at_medium=RSS&at_campaign=rss",
+        "description": "The US president said the move aims to help protect American manufacturers from foreign imports.",
+        "pubDate": "2025-09-26T08:01:27Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed0c/live/0f72d480-9a6a-11f0-b39f-8faa1a82cdd5.jpg",
+        "bias": 0
+      },
+      {
         "title": "PM 'remains committed' to Northern Powerhouse Rail",
         "link": "https://www.bbc.com/news/articles/ce86n868nyzo?at_medium=RSS&at_campaign=rss",
         "description": "Sir Keir said he wanted to \"get it right\" following the unravelling of HS2 plans.",
@@ -652,12 +741,12 @@
         "bias": 0
       },
       {
-        "title": "Trump announces new tariffs on drugs, trucks and kitchen cabinets",
-        "link": "https://www.bbc.com/news/articles/crkjreprp3po?at_medium=RSS&at_campaign=rss",
-        "description": "The US president said the move aims to help protect American manufacturers from foreign imports.",
-        "pubDate": "2025-09-26T07:04:50Z",
+        "title": "Sign off for Highlands green freeport plan for 11,000 jobs",
+        "link": "https://www.bbc.com/news/articles/cvgrjlz2xg2o?at_medium=RSS&at_campaign=rss",
+        "description": "Inverness and Cromarty Firth Green Freeport has reached the final stage of a five-year planning process.",
+        "pubDate": "2025-09-26T07:19:03Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed0c/live/0f72d480-9a6a-11f0-b39f-8faa1a82cdd5.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/365b/live/b8f005d0-9aa3-11f0-b4e7-254680b9a68e.jpg",
         "bias": 0
       },
       {
@@ -671,6 +760,15 @@
       }
     ],
     "Culture": [
+      {
+        "title": "Word that baffled Race Across the World producers added to dictionary",
+        "link": "https://www.bbc.com/news/articles/cwydlj2nll3o?at_medium=RSS&at_campaign=rss",
+        "description": "Fin Gough and Sioned Cray's saying poody confused producers but is in the Oxford English Dictionary.",
+        "pubDate": "2025-09-26T05:10:04Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ccc/live/426d0c50-9a1c-11f0-92bd-0166dfabcb1b.jpg",
+        "bias": 0
+      },
       {
         "title": "How US megastar Luke Combs helped Britain fall in love with country music",
         "link": "https://www.bbc.com/news/articles/c87yl745xqlo?at_medium=RSS&at_campaign=rss",
