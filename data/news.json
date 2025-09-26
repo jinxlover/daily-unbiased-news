@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-09-26T05:35:56.916885Z",
+  "lastUpdate": "2025-09-26T05:46:42.629061Z",
   "news": {
     "Gaming": [
+      {
+        "title": "DinoClicker [Free] [Other] [Android]",
+        "link": "https://guverz.itch.io/dinoclicker",
+        "description": "Dinosaurs themed clicker. Save them by feeding them.",
+        "pubDate": "2025-09-26T05:37:05Z",
+        "source": "guverz.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzI1NjgwLnBuZw==/315x250%23c/pXM2Uu.png",
+        "bias": 0
+      },
       {
         "title": "CPSC Project 1 [Free] [Platformer] [Windows]",
         "link": "https://tootgod.itch.io/cpsc-project-1",
@@ -183,24 +192,6 @@
         "bias": 0
       },
       {
-        "title": "2:49 AM (WEB) [Free] [Adventure]",
-        "link": "https://kikuuuu.itch.io/249-am-web",
-        "description": "El reflejo distorsionado de lo que alguna vez fue.",
-        "pubDate": "2025-09-26T02:36:28Z",
-        "source": "kikuuuu.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzI0NDg0LnBuZw==/315x250%23c/d2kf%2Bt.png",
-        "bias": 0
-      },
-      {
-        "title": "P.C.B. [Free] [Strategy] [Windows] [macOS] [Linux]",
-        "link": "https://tioandresdev.itch.io/pcb",
-        "description": "P.C.B. - Power, Charge & Block!",
-        "pubDate": "2025-09-26T02:31:49Z",
-        "source": "tioandresdev.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzI0NjcxLnBuZw==/315x250%23c/LrfX4e.png",
-        "bias": 0
-      },
-      {
         "title": "The Pandami [Free] [Platformer]",
         "link": "https://nikadmi31.itch.io/the-pandami-adventure",
         "description": "Help Pandami escape. You can do it.",
@@ -226,18 +217,18 @@
         "source": "tinheartinteractive.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzI0MzA5LnBuZw==/315x250%23c/qntvNp.png",
         "bias": 0
-      },
-      {
-        "title": "Super Mario Pong [Free] [Strategy]",
-        "link": "https://osp16gaming.itch.io/super-mario-pong",
-        "description": "",
-        "pubDate": "2025-09-26T01:36:40Z",
-        "source": "osp16gaming.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzI0NzYyLmpwZw==/315x250%23c/ELD9DO.jpg",
-        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "South Korea’s fires warning shots as North Korean ship crosses sea boundary",
+        "link": "https://www.aljazeera.com/news/2025/9/26/south-koreas-fires-warning-shots-as-north-korean-ship-crosses-sea-boundary?traffic_source=rss",
+        "description": "South Korean military fired dozens of warning shots at a North Korean vessel that crossed a contested sea boundary.",
+        "pubDate": "2025-09-26T05:16:59Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Microsoft cuts Israeli military’s access to some cloud computing, AI",
         "link": "https://www.aljazeera.com/news/2025/9/26/microsoft-cuts-israeli-militarys-access-to-some-cloud-computing-ai?traffic_source=rss",
@@ -430,21 +421,21 @@
     ],
     "Politics": [
       {
+        "title": "Chris Mason: Starmer's irritation with Burnham shows as he seeks to tackle critics",
+        "link": "https://www.bbc.com/news/articles/cly19zld70qo?at_medium=RSS&at_campaign=rss",
+        "description": "Andy Burnham's recent remarks seem to have narked the prime minister, our political editor writes.",
+        "pubDate": "2025-09-26T05:36:16Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b01/live/3c600720-9a9b-11f0-b741-177e3e2c2fc7.jpg",
+        "bias": 0
+      },
+      {
         "title": "No 'pensioner deportations' under Reform, says Kruger",
         "link": "https://www.bbc.com/news/articles/cy9nyex12j5o?at_medium=RSS&at_campaign=rss",
         "description": "The MP for East Wiltshire was responding to concerns about scrapping indefinite leave to remain.",
         "pubDate": "2025-09-26T05:00:53Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e88/live/a141b980-9a47-11f0-97bc-a980e58f8f49.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Chris Mason: Starmer's irritation with Burnham shows as he seeks to tackle critics",
-        "link": "https://www.bbc.com/news/articles/cly19zld70qo?at_medium=RSS&at_campaign=rss",
-        "description": "Andy Burnham's recent remarks seem to have narked the prime minister, our political editor writes.",
-        "pubDate": "2025-09-26T04:30:21Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a419/live/0b04f540-9a79-11f0-928c-71dbb8619e94.jpg",
         "bias": 0
       },
       {
@@ -475,7 +466,8 @@
         "bias": 0
       }
     ],
-    "Tech": [
+    "Tech": [],
+    "Science": [
       {
         "title": "Jason Myers boots 52-yard FG on final play, lifting Seahawks to 23-20 win over Cardinals - AP News",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWmZEa1M4MDZlQnh0OXBGNzM4OUV1eU5IR1hRV3dDSTJQeEdRQlpHNFE0WW5XNEEteUoyaWx2Tkwyb2tvUDlNWV9hN1FBaWNLZXR2M185bUIyWVlmNTQwMmRIeVZDV202Y25TcHo4cEJmeGRPdUhhXzVCSzZhX3hpMEd6T0s3SFlYSHBnNQ?oc=5",
@@ -495,7 +487,6 @@
         "bias": 0
       }
     ],
-    "Science": [],
     "Business": [
       {
         "title": "'I'll be living off vegetables' - people fear rising food costs",
