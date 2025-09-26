@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-26T22:32:21.145938Z",
+  "lastUpdate": "2025-09-26T22:45:53.591853Z",
   "news": {
     "Gaming": [
       {
@@ -9,6 +9,15 @@
         "pubDate": "2025-09-26T22:17:42Z",
         "source": "projectsummer.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzM1MDA1LnBuZw==/315x250%23c/x9R94l.png",
+        "bias": 0
+      },
+      {
+        "title": "The Hunt [Free] [Other]",
+        "link": "https://weeblbull.itch.io/the-hunt",
+        "description": "Non-interactive aerial pursuit",
+        "pubDate": "2025-09-26T22:15:34Z",
+        "source": "weeblbull.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzM1MDEwLmdpZg==/315x250%23c/jO15N0.gif",
         "bias": 0
       },
       {
@@ -129,39 +138,12 @@
         "bias": 0
       },
       {
-        "title": "Business Tycoon [Free] [Other]",
-        "link": "https://ctrlplayofficial.itch.io/business-tycoon",
-        "description": "",
-        "pubDate": "2025-09-26T20:42:42Z",
-        "source": "ctrlplayofficial.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzM0MTY3LnBuZw==/315x250%23c/32CCtc.png",
-        "bias": 0
-      },
-      {
         "title": "Hardest – Rock Paper Scissor Card Game Roguelike [Free] [Card Game] [Windows] [Linux] [Android]",
         "link": "https://horridparlor.itch.io/hardest-roguelike",
         "description": "Rock Paper Scissor Card Game Roguelike",
         "pubDate": "2025-09-26T20:40:31Z",
         "source": "horridparlor.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzM0MTMxLnBuZw==/315x250%23c/8AlXyb.png",
-        "bias": 0
-      },
-      {
-        "title": "GorillaFilms [Free] [Windows]",
-        "link": "https://orangeegames.itch.io/gorillafilms",
-        "description": "",
-        "pubDate": "2025-09-26T20:33:23Z",
-        "source": "orangeegames.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzMzOTI1LmpwZw==/315x250%23c/iyMcYr.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Fries Collector [Free] [Platformer]",
-        "link": "https://rahul5632.itch.io/fries-collector",
-        "description": "",
-        "pubDate": "2025-09-26T20:33:08Z",
-        "source": "rahul5632.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzM0MTAwLnBuZw==/315x250%23c/OONqVt.png",
         "bias": 0
       },
       {
@@ -239,6 +221,24 @@
     ],
     "World": [
       {
+        "title": "Assata Shakur, a fugitive Black militant sought by the U.S. since 1979, dies in Cuba",
+        "link": "https://www.npr.org/2025/09/26/g-s1-90790/assata-shakur-joanne-chesimard-dies",
+        "description": "Assata Shakur, a Black liberation activist who was given political asylum in Cuba after her 1979 escape from a U.S. prison, has died. Officials in New Jersey, where Shakur had been arrested, convicted and imprisoned, said she was 78.",
+        "pubDate": "2025-09-26T22:26:35Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Netanyahu UNGA address sees props, accusations, and protests",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/9/26/netanyahu-unga-address-sees-props-accusations-and-protests?traffic_source=rss",
+        "description": "Israel’s Benjamin Netanyahu brought props and angry accusations to the UN General Assembly.",
+        "pubDate": "2025-09-26T22:19:07Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Live updates: Trump predicts others will face criminal charges after former FBI Director Comey indicted - AP News",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YXy1mejkyY0YwcEZmc2xDQzJLZWhkUE5yMkM4YWYyelBGR0pVZ2dqbUJPQm5VNDU2RWRqSDRTd28teEdZMjgwRU9ZUklXaTBDZ29LUjN6Yi1pSHAyN09seUlhVlI4cUhpOXI4?oc=5",
         "description": "",
@@ -264,6 +264,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "UN Security Council rejects Russia and China’s last-ditch effort to delay sanctions on Iran - AP News",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSy1iYnpXUXJPUE9nNVJCM1JDMklKYWJsbmhnbFpDNTJGdWhQWkplMXJpQ0xwZzhwa2dON0FVQ1NDSFEwb0QtOXlVZzctY244UkJGYkxCM3lzRXlrVDA3UDJ6b01EdEZlWW0zMEFUWGJhdG9mdm5PblBrT0E3TTFRcmhjQzhYYnZ1ZC1PYU1QVEF0WEVPUGxudXZEMDB4cFREZnlmdXQ1bl9Pa29yUVNick5jdjN5Q0tOeUZRdVhB?oc=5",
+        "description": "",
+        "pubDate": "2025-09-26T21:47:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Recognising Palestine vs holding Israel accountable?",
@@ -428,15 +437,6 @@
         "bias": 0
       },
       {
-        "title": "GOP lawmaker with 'joebidennnn69' screen name to plead guilty to sharing child sex abuse videos - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaS1VcHhnTENiR0gwTWdzVllWanIxT0RHaTlCQ0I2b21uTF9pLUY3M2NQQnJPUmZCel9nZ0FfbXhsYWFNWl9TdmJNS1BGZGtnd0JJMEw5ZmpzOXBrQUN4d3k1Z25kaGVsU09LbzBRNHQ1RVR6RTFLMERHd0hUYkMwZ0pSMnRkVmczQ0xkeTdoRnh3TzByQzgyZXlTYkUtOEZmWTUw?oc=5",
-        "description": "",
-        "pubDate": "2025-09-26T18:39:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Malta PM: I can’t bear to see ‘pain and suffering’ of Gaza’s children",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/9/26/malta-pm-i-cant-bear-to-see-pain-and-suffering-of-gazas-children?traffic_source=rss",
         "description": "Prime Minister of Malta Robert Abela spoke of victims of Israel’s war in Gaza who get medical care in his country.",
@@ -453,6 +453,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "A train stabbing in North Carolina becomes fuel for old racial tropes in politics and media - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTkVTTFl1U1EzU25DWm0tUFZLcVU5Rm9jMHllalQzRDFlQlJvSkFHTXgxWkc5N2VlLTlQVXpsYm1JY2F2d2JzdHJGaFlFRzh5cGlid01LcGQ5X3BoY1F0V2NZbklLNXV2UzFLLWEyZE4zdml0T2JINzRUYWY5eE1MeldhcUNIV3U0VGpYNjNQNi1LX2NlM1Nsd0Z3cnRQQmFzZEFWbHd2UQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-26T17:48:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "What to know about James Comey's indictment and what happens next",
@@ -480,6 +489,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Bryson DeChambeau put a charge into the Ryder Cup crowd. Europe has snuffed it out - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZTY5NkRXSnlRSlYyTXAtOFB6N3hGdmItdjF2ODdqcXZWaUhmbjhNUG9wQjBhampacjg0bWp0WkE0U1d4allWUUZBRk5pY1dKV25tMkF1ejBfR3RvUkZjQVlOd3NHelRBaUhHdndLbU5sZVNDRjBqbzFDWmpfMjByVllvU0o?oc=5",
+        "description": "",
+        "pubDate": "2025-09-26T17:17:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Atletico Madrid vs Real Madrid: La Liga – teams, start, lineups",
@@ -599,15 +617,6 @@
         "bias": -1
       },
       {
-        "title": "Hurricane Helene hit the reset button on one town’s goal of becoming an outdoor tourism mecca - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc01qbTVNRWhRdmlIam5KNTM1djB1cThsczhBdHV1WUF1Q3BLY24xUXktSnRFUmZKbmU4UGRZTkdReWN3S3JnN2F6ck9GSHRLaG56SGwwU1JkSmNZdlc2c0gwZU9RU1dNVC10RmVFOVNtQm85NDhaaDdkV1dnUDhEc1lXb3Z1Q0ZGNXJSQUlrQXZjTGViSTB3UlJic1NkVkE4QVVYMGVJTFFpbHY2?oc=5",
-        "description": "",
-        "pubDate": "2025-09-26T14:37:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Belarus proposes a new nuclear plant to supply energy to Russian-occupied Ukraine - AP News",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZkJQWF9jcUl2RnhTMGNTR21xVi1ZcFh6RW9QZk9rX19wSUN4SUtzS24tZFFHY2dHUGYwS1V3RVNCLUpSVE54TkJ6WE9PaWw1RWZGVDFVMzJpQVNlRkh5NGlsLUMteHdJVUpHZk04RERIeGQ2OGUtY1FuOUVQS3NrbS1fN2xVYkJlLXlzcFVCVTB6UWdZd2szVDBPaXA?oc=5",
         "description": "",
@@ -660,50 +669,23 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Delegates at UNGA walk out as Israeli Prime Minister Netanyahu speaks - AP News",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSWxwQmJTUWZmUDNLSGY3OV9MOWRxbEd1ZG9ocUFiQUNGMmQwa015eVRSRTNRUEFGRkdBOFlTMHNFNEdXR3J1YXMyZjVncThzd1F1NFBCeWtSTEozT2V6eTQ1RTdlUGdzSFNfYkVuUWVNUnI4YzNSMTFKNVVfTVd5V3FEblhPU0xjRkhYUE9icFUwY2JOd1ZRWFVDNUtXNDVIRmdKc2M1VVJTa1RvRzB2Zlk2eUlPb0JZaE1kRkNwbGdNVG4ya0E?oc=5",
-        "description": "",
-        "pubDate": "2025-09-26T13:23:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Neko Case’s ‘formidable’ new album invites multiple musicians for a big sound - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa3NtNS1jNXltSHlISlBDZFl2Z2dyNl9lblZSOC00V01xQTlLTXhnZjh1NjRRVVg0RXo3WEUwVXZaOWRzay05VHI4dVJGdlVPV2lyZGUzTHdWcTVTbUFyOFRGYzA0d01YYTFNVkpQd0lQRmN2c1kzMXNwS3JVdlBQcmF2OGdxZ280X2E3TlhQVHB0TVltTUdvQWhoVndRQS1USnc?oc=5",
-        "description": "",
-        "pubDate": "2025-09-26T13:14:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Iran and Russia sign $25bn nuclear plant deal",
-        "link": "https://www.aljazeera.com/news/2025/9/26/iran-and-russia-sign-25bn-nuclear-plant-deal?traffic_source=rss",
-        "description": "Rosatom has agreed to build new reactors with total capacity of 5GW in the southern Hormozgan province.",
-        "pubDate": "2025-09-26T13:00:53Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
+      {
+        "title": "Assata Shakur, a fugitive Black militant sought by the US since 1979, dies in Cuba - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNHV5djdzeEo2QmMtYWI5blMwcE5fQlVBdzc4ZzRnWTRVZ2pUMldSeHhEUU5qRkZpRzFhNXAzaFRCVFJmUjhobE0xM05rWS1VUld5YVF2LUNQVmZWMEN2WVJqVndNSFVLMlg1OThnc1JwOXRUV0MwbUt1dnVKNzgtcjVEQ1JQZHFjblBGYnd0cjBKQUJvNWtv?oc=5",
+        "description": "",
+        "pubDate": "2025-09-26T22:23:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Nexstar and Sinclair bring Jimmy Kimmel’s show back to local TV stations - AP News",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSjBuUW1XYm9BRE9Na2tDVGZiWjNMVWhST1A3alBFZ2NTLVcyanNuakRya0RuQVZ0SVdLcFM2Z2F6LWJQUUxBSnAtQ05CSEZKQ3l5UTAtYkNJUk9vRnlxYVVLVW00Sm80RWJrVUhiZHA3VEVPbmZ2dS0yYThRa2p2dmwxLXRCZ3BmS2Z6a1NwdE9nTzhsSDVB?oc=5",
         "description": "",
         "pubDate": "2025-09-26T22:09:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "UN Security Council rejects Russia and China’s last-ditch effort to delay sanctions on Iran - AP News",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSy1iYnpXUXJPUE9nNVJCM1JDMklKYWJsbmhnbFpDNTJGdWhQWkplMXJpQ0xwZzhwa2dON0FVQ1NDSFEwb0QtOXlVZzctY244UkJGYkxCM3lzRXlrVDA3UDJ6b01EdEZlWW0zMEFUWGJhdG9mdm5PblBrT0E3TTFRcmhjQzhYYnZ1ZC1PYU1QVEF0WEVPUGxudXZEMDB4cFREZnlmdXQ1bl9Pa29yUVNick5jdjN5Q0tOeUZRdVhB?oc=5",
-        "description": "",
-        "pubDate": "2025-09-26T21:47:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -718,6 +700,24 @@
         "bias": 0
       },
       {
+        "title": "China's No. 2 leader, in debut of sorts on world stage at UN, echoes his nation's concern about US - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUl8tUEVFcnc5RnBZdDRSekxCbU5JbnI2RVpqcURPUmFxNTBpQzEzNVRDWTA5Z3pEcjlPUEZMb05RNmZ5ZGFMN3gtWWtaV25hSm9qcTVPcjBWUUgwODZGaE9HbkdqeWotRFM5MG9tU1gwdzFDa2c1elFQVG5lWU1IekR4TTVMRFNHV1lIZnRoTnRnNFluOXpRd0N2UmU?oc=5",
+        "description": "",
+        "pubDate": "2025-09-26T21:39:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Trump escalates retribution campaign with charges against Comey and threats against liberal groups - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa1NzS1lKOVdlaUdzcXhuUTNNREozN1BUYVhOOVRqUHJKdnpUV0Riakk2MkNnbEh1NFNPdkxzSU12YzZRQVRJaDktUmRmWW1YMmRSMWZVYWp4clQtNzgwcm5XX1l6Wm90RU1wVHhLellzVkF4YkU3VHo3NDZDZnBLdWp1dnJZSnAwWjU0?oc=5",
+        "description": "",
+        "pubDate": "2025-09-26T21:38:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Redistricting could test Maryland Gov. Wes Moore's bipartisanship.",
         "link": "https://www.npr.org/2025/09/26/nx-s1-5538419/redistricting-could-test-maryland-gov-wes-moores-bipartisanship",
         "description": "Maryland Gov. Wes Moore has committed to being a bipartisan bridgebuilder. But he's also under pressure to redistrict the state's one GOP congressman out of his House seat.",
@@ -727,10 +727,10 @@
         "bias": -1
       },
       {
-        "title": "Sara Jane Moore, who tried to assassinate President Gerald Ford in 1975, dies at 95 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM29oUkgyd2VwdE5Ya0szS0dReVVuUE12NHloU0l0dDI0N2pjbUs3bHJsY2x3eEFJV2MxTnBfRUtxamdXb012YVB1LXFyRHF2MTdPaUNzcEJTdXZxM3JwMlc0T0xUT3ctUUZoWncteUpLNzBndU9jVV9KeFp1RkNLTGQtUWt4WjhLUTlPaHJOcUtZVkh5T3paUGZB?oc=5",
+        "title": "Wisconsin Republican Bill Berrien quits governor's race amid fallout over sexually explicit links - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMHVjalBWWDBmc3o3eTBEU3k1NUZkUVY5d0dVRlNpQThGeTVpWktELXRSTV9oeVRvUWdpcHdiMFJQY0txTlNJeXprWUYtazE3cmFnUXVwczdXZk9tLWY3OHhFcS15dXFvRzhNeVk5V0ptSWFtVENaRGt1ZjBjekFFWlQ0bHZIR181ekhNRWtUeFBDYWdUdjVybEtQTml0V0k2Zmh3bTdOVXZuZ2dD?oc=5",
         "description": "",
-        "pubDate": "2025-09-26T20:57:00Z",
+        "pubDate": "2025-09-26T21:29:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -749,6 +749,15 @@
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOFhHQlFXTV9xSUJpQXhDbXJxY0lIX09OTGxDc0tqdUUxVjVDbHNQVktPNVpqQ1ZvUm9ZZ0xKbEwwbktwTmhIbG1Ob2J5M0JzVzF6STJfWnIzdkQ3TTMycGVsaUJ0bkVmQmRON2NPX2dNQU9DbUQyRmZ6SHNYc1NGUGNfRjFEQ05Wd19Tbkp5OA?oc=5",
         "description": "",
         "pubDate": "2025-09-26T20:38:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Powerhouse attorney Robert B. Barnett, known for representing the Obamas and Clintons, dies - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMjNzX0VJQW96cHdQTVYyMGhqZFl4VXdqT3ZyY2hpWXg4YjVkbkhtRFlsM1ZYcDJBRkJRZ2dWUjMycHdxcGdBM0lfNzNJbWkzT3JwN2NlNTVoR3c4ZFJMMzc3dFpqWlE2bFJzR01zUG1ZZGNuaE5vRkdPbGxaRktpM2pJRVp5OERHUkZWQThySjFxTUtSd0lrb2JXSk40WHREUTVxZG1fMWY0dWxLM2Nz?oc=5",
+        "description": "",
+        "pubDate": "2025-09-26T20:25:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -799,15 +808,6 @@
         "bias": 0
       },
       {
-        "title": "Assata Shakur, a fugitive Black militant sought by the US since 1979, dies in Cuba - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNHV5djdzeEo2QmMtYWI5blMwcE5fQlVBdzc4ZzRnWTRVZ2pUMldSeHhEUU5qRkZpRzFhNXAzaFRCVFJmUjhobE0xM05rWS1VUld5YVF2LUNQVmZWMEN2WVJqVndNSFVLMlg1OThnc1JwOXRUV0MwbUt1dnVKNzgtcjVEQ1JQZHFjblBGYnd0cjBKQUJvNWtv?oc=5",
-        "description": "",
-        "pubDate": "2025-09-26T20:02:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Ex-Green deputy leader launches new legal action against party",
         "link": "https://www.bbc.com/news/articles/c15k0k448j4o?at_medium=RSS&at_campaign=rss",
         "description": "Shahrar Ali, who won his last case against the Greens, has accused the party of continuing to discriminate against him for his gender critical beliefs.",
@@ -817,21 +817,21 @@
         "bias": 0
       },
       {
-        "title": "Trump escalates retribution campaign with charges against Comey and threats against liberal groups - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa1NzS1lKOVdlaUdzcXhuUTNNREozN1BUYVhOOVRqUHJKdnpUV0Riakk2MkNnbEh1NFNPdkxzSU12YzZRQVRJaDktUmRmWW1YMmRSMWZVYWp4clQtNzgwcm5XX1l6Wm90RU1wVHhLellzVkF4YkU3VHo3NDZDZnBLdWp1dnJZSnAwWjU0?oc=5",
-        "description": "",
-        "pubDate": "2025-09-26T19:11:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Labour readmits McDonnell and Begum after benefit cap rebellion",
         "link": "https://www.bbc.com/news/articles/ce3yegn3k5vo?at_medium=RSS&at_campaign=rss",
         "description": "Labour has softened its commitment to keeping the two-child benefit cap in recent months.",
         "pubDate": "2025-09-26T19:06:59Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a81/live/9dda41f0-9aff-11f0-8272-7f0194ae8142.jpg",
+        "bias": 0
+      },
+      {
+        "title": "GOP lawmaker with 'joebidennnn69' screen name to plead guilty to sharing child sex abuse videos - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaS1VcHhnTENiR0gwTWdzVllWanIxT0RHaTlCQ0I2b21uTF9pLUY3M2NQQnJPUmZCel9nZ0FfbXhsYWFNWl9TdmJNS1BGZGtnd0JJMEw5ZmpzOXBrQUN4d3k1Z25kaGVsU09LbzBRNHQ1RVR6RTFLMERHd0hUYkMwZ0pSMnRkVmczQ0xkeTdoRnh3TzByQzgyZXlTYkUtOEZmWTUw?oc=5",
+        "description": "",
+        "pubDate": "2025-09-26T18:39:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -853,15 +853,6 @@
         "bias": 0
       },
       {
-        "title": "A train stabbing in North Carolina becomes fuel for old racial tropes in politics and media - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTkVTTFl1U1EzU25DWm0tUFZLcVU5Rm9jMHllalQzRDFlQlJvSkFHTXgxWkc5N2VlLTlQVXpsYm1JY2F2d2JzdHJGaFlFRzh5cGlid01LcGQ5X3BoY1F0V2NZbklLNXV2UzFLLWEyZE4zdml0T2JINzRUYWY5eE1MeldhcUNIV3U0VGpYNjNQNi1LX2NlM1Nsd0Z3cnRQQmFzZEFWbHd2UQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-26T17:48:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "What we know about the indictment filed against ex-FBI chief James Comey - AP News",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYlpTS2RrYi1GZG5TWjh3WURyS040WVd0MTNtZmI3eGxSclhRVmJtSVpDWS1oMV95bEkxdDNWRHVfV2NOUzlRT1pyRDRValEtQ0pqQVVqV0ZIOHloQnBFLTgwMUNsNlhmbEJIcVRIVEV6UV91czdEZ0FTUEtxZ0xGbGtVLXVHSWJmZTdWSlBSQ1NJYm9VTjdqYTM2U1ZxbUxl?oc=5",
         "description": "",
@@ -877,15 +868,6 @@
         "pubDate": "2025-09-26T17:34:13Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59c0/live/60a69630-9b04-11f0-92db-77261a15b9d2.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Bryson DeChambeau put a charge into the Ryder Cup crowd. Europe has snuffed it out - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZTY5NkRXSnlRSlYyTXAtOFB6N3hGdmItdjF2ODdqcXZWaUhmbjhNUG9wQjBhampacjg0bWp0WkE0U1d4allWUUZBRk5pY1dKV25tMkF1ejBfR3RvUkZjQVlOd3NHelRBaUhHdndLbU5sZVNDRjBqbzFDWmpfMjByVllvU0o?oc=5",
-        "description": "",
-        "pubDate": "2025-09-26T17:17:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -940,6 +922,15 @@
         "pubDate": "2025-09-26T15:28:49Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cd9/live/99a5d2c0-9acd-11f0-92db-77261a15b9d2.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Hurricane Helene hit the reset button on one town’s goal of becoming an outdoor tourism mecca - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc01qbTVNRWhRdmlIam5KNTM1djB1cThsczhBdHV1WUF1Q3BLY24xUXktSnRFUmZKbmU4UGRZTkdReWN3S3JnN2F6ck9GSHRLaG56SGwwU1JkSmNZdlc2c0gwZU9RU1dNVC10RmVFOVNtQm85NDhaaDdkV1dnUDhEc1lXb3Z1Q0ZGNXJSQUlrQXZjTGViSTB3UlJic1NkVkE4QVVYMGVJTFFpbHY2?oc=5",
+        "description": "",
+        "pubDate": "2025-09-26T14:37:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -1033,15 +1024,6 @@
         "bias": 0
       },
       {
-        "title": "A British court throws out a terror-related charge against a member of the Irish rap group Kneecap - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeERRVXlFMjNfVEFWRTNia0U5anduMGxZYS1fZFRkeVJFeWhOQ0IxRmZXRHluV0hNb2U5dUNzNnVTX2dhYnNjd3ZjNXpnN3A1Zzc0cWllRGZ2UEttUDZYTTBJVl96WWdXb2c5TDF0T1ozVXBOMUcyOUlSejk4Vk56b3hKd0xQenY5cmlncWRvclM0WHlfTVhGRXRPZHZmN0JYa0xhMw?oc=5",
-        "description": "",
-        "pubDate": "2025-09-26T12:26:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "What is the plan for digital IDs and will they be mandatory?",
         "link": "https://www.bbc.com/news/articles/clyl3lzzed2o?at_medium=RSS&at_campaign=rss",
         "description": "The IDs will not have to be carried day-to-day, but they will be compulsory for anyone wanting to work.",
@@ -1051,10 +1033,10 @@
         "bias": 0
       },
       {
-        "title": "UK says it will introduce digital ID cards, reviving a contentious idea - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbWtaWlRLa0xHXzZkYUN3VGNuRlRWTldQX1pjSnRXQklFTi1iOTlEeDNrcVAxZ1lreG9XU3JKbF9valRNVGEwUUtqVENESUJrSF9HY3NqTFBKZ3dMX3VUWVBsc2pFa1hhejdBYmJWd01QQ2ZFSUlfMC1iYkV2SnloalBjTW9xWjJMY2I1Y0RVcDgyeDAtcTNz?oc=5",
+        "title": "Russian forays into NATO airspace are causing alarm. Here’s why they might be happening - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWEhCTXFfcnlqZ0huSzZFUy1ZZWw3cDlzazlsaUEwaC1ZUnBlUWpMLTQxcjhWaVJhSDJEdWgxdXNoN1hKMmVZX2dKTVZMSmdvd0hrVU9QdU9JS2ZUVEJWSHg0Q3RsWlkxN0VTUFYtUTJqVk9LUjZyRGNuSEFac0pYQ3NXNEE3R183WWV2REs5UXpPUzR5TnVzV1ZnWTE0NV95R01R?oc=5",
         "description": "",
-        "pubDate": "2025-09-26T11:07:00Z",
+        "pubDate": "2025-09-26T11:48:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1082,6 +1064,15 @@
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYmNvWEk1TWE0RElEc3l2SV9BNUFaN1RVTDdCVUgyZlFicXJHWHRUeU4zU1VIVUctaXRTM0RZS214N3ZaZ29RZWl1SktsVTNjTVBDcGVzQ0ZzcFNRQVZYWm84R3ZYZUk4NF9oWUkwd3B1MXRDMi1ZdXRRZm1zbmsyeC1RYzdEZE5GT2lDcnBn?oc=5",
         "description": "",
         "pubDate": "2025-09-26T10:45:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Ukraine’s front line grows bigger as Russia shifts tactics, top commander says - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX1E4dXBjd1NLQ05HSFpKWEN5NGhkQlhNalBjOGFEeWRMeEJhNFBvRUdldFFxdkRSajF0dFdXU01vaVJiY0ZHcjdqeC1iTFA2blBwa0JJWF9idjRaRGF2Z19LakRqTXRNMnhjUXNmazRsSE5qYWt0SmM4SXUtU0Jld1pKdDB5NURtRmNJY25WUFhoZzVCWXN0c1JrUlZwMVdpX0E?oc=5",
+        "description": "",
+        "pubDate": "2025-09-26T10:34:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1130,15 +1121,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Trump administration threatens large-scale layoffs if government shuts down",
-        "link": "https://www.npr.org/2025/09/26/nx-s1-5553544/trump-administration-threatens-large-scale-layoffs-if-government-shuts-down",
-        "description": "The government is just days away from shutting down if Congress can't reach a deal. President Trump upped the stakes, threatening large-scale layoffs if Democrats don't provide the necessary votes.",
-        "pubDate": "2025-09-26T08:14:04Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
       }
     ],
     "Tech": [
@@ -1147,6 +1129,15 @@
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOekg3OWtyVlFHeEo4eGM2WGFoZzBZNmNMRTFJcjM3Nk5xYlVJbF9WdUdTbnR0bFlzNmVOc0Nxc1hwVmNtbE44Sno1Z3gwTmVLQWRVc2doZVNQcFRySEFwa0ZQNzZmY1hZZXRUZHE3clpZcnYtMjMtWkNadnhRMnI2MUQxRkJESXRtNGY4bnZDVURZWGpzSmVYZkRvRQ?oc=5",
         "description": "",
         "pubDate": "2025-09-26T21:38:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Sara Jane Moore, who tried to assassinate President Gerald Ford in 1975, dies at 95 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM29oUkgyd2VwdE5Ya0szS0dReVVuUE12NHloU0l0dDI0N2pjbUs3bHJsY2x3eEFJV2MxTnBfRUtxamdXb012YVB1LXFyRHF2MTdPaUNzcEJTdXZxM3JwMlc0T0xUT3ctUUZoWncteUpLNzBndU9jVV9KeFp1RkNLTGQtUWt4WjhLUTlPaHJOcUtZVkh5T3paUGZB?oc=5",
+        "description": "",
+        "pubDate": "2025-09-26T20:57:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1186,18 +1177,18 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      }
-    ],
-    "Science": [
+      },
       {
-        "title": "Powerhouse attorney Robert B. Barnett, known for representing the Obamas and Clintons, dies - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMjNzX0VJQW96cHdQTVYyMGhqZFl4VXdqT3ZyY2hpWXg4YjVkbkhtRFlsM1ZYcDJBRkJRZ2dWUjMycHdxcGdBM0lfNzNJbWkzT3JwN2NlNTVoR3c4ZFJMMzc3dFpqWlE2bFJzR01zUG1ZZGNuaE5vRkdPbGxaRktpM2pJRVp5OERHUkZWQThySjFxTUtSd0lrb2JXSk40WHREUTVxZG1fMWY0dWxLM2Nz?oc=5",
+        "title": "Texas man executed for the ‘exorcism’ killing of his girlfriend’s 13-month-old daughter - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTy1SZC1EcmxOeTFpVXBIQ0c0RDZGQkdoX3cxZTlCanhiZkdaNEo3MTJyV3hOa296OXZKamR2RVlfSDdKWm9VYUNjeFJaQXlmWmRiOFJla1BlTU9ucTlEeng0Y2JhZEVRd0dUMUlKY09jRHd1RE9tbk9kaU5JYnpyT1htYTl6WG1Sa1Vxc3RLUXdUZnNybWhvRnE3TmJ6M2lrVFpmUTVsODQ?oc=5",
         "description": "",
-        "pubDate": "2025-09-26T20:25:00Z",
+        "pubDate": "2025-09-26T00:45:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
+      }
+    ],
+    "Science": [
       {
         "title": "'Long history of blaming mothers': Trump's Tylenol warning echoes past misconceptions",
         "link": "https://www.npr.org/2025/09/26/nx-s1-5551164/pregnant-women-tylenol-autism-refrigerator-mom-theory",
