@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-26T11:36:59.302151Z",
+  "lastUpdate": "2025-09-26T11:47:51.824237Z",
   "news": {
     "Gaming": [
       {
@@ -183,15 +183,6 @@
         "bias": 0
       },
       {
-        "title": "idki-intro [Free]",
-        "link": "https://ghimirermn.itch.io/idki-intro",
-        "description": "",
-        "pubDate": "2025-09-26T09:59:43Z",
-        "source": "ghimirermn.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzI3MzYxLmpwZw==/315x250%23c/6DCYTM.jpg",
-        "bias": 0
-      },
-      {
         "title": "Echo Room [Free] [Puzzle]",
         "link": "https://aluminumalloy.itch.io/echo-room",
         "description": "A story driven puzzle game.",
@@ -201,9 +192,18 @@
         "bias": 0
       },
       {
+        "title": "Flappy Unity：フラッピーユニティ [Free] [Action] [Windows] [macOS]",
+        "link": "https://okamotodo.itch.io/flappyunity",
+        "description": "イライラ2Dアクションゲーム",
+        "pubDate": "2025-09-26T09:46:30Z",
+        "source": "okamotodo.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzI3MTEzLnBuZw==/315x250%23c/oa64Jq.png",
+        "bias": 0
+      },
+      {
         "title": "Refresh Rebait [Free] [Other]",
         "link": "https://robin-bareham.itch.io/refresh-rebait",
-        "description": "",
+        "description": "A casual click and drag game managing what's posted on social media",
         "pubDate": "2025-09-26T09:44:17Z",
         "source": "robin-bareham.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzI3MTY5LnBuZw==/315x250%23c/ytWFWw.png",
@@ -237,21 +237,21 @@
         "bias": 0
       },
       {
+        "title": "BurGer Tray [Free]",
+        "link": "https://aeeey.itch.io/burger-tray",
+        "description": "",
+        "pubDate": "2025-09-26T09:18:14Z",
+        "source": "aeeey.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzI3MTQ3LmpwZw==/315x250%23c/IDeuEo.jpg",
+        "bias": 0
+      },
+      {
         "title": "Suspense [Free] [Survival] [Windows]",
         "link": "https://jp2021.itch.io/suspense",
         "description": "Run and Hide Horror Concept",
         "pubDate": "2025-09-26T08:48:52Z",
         "source": "jp2021.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzI2ODYwLnBuZw==/315x250%23c/GKk3eD.png",
-        "bias": 0
-      },
-      {
-        "title": "MBZ001 [Free]",
-        "link": "https://chrismicrowave.itch.io/mbk001",
-        "description": "The latest model of the best selling Mosquito Beam Zapper #MBZ001",
-        "pubDate": "2025-09-26T07:51:09Z",
-        "source": "chrismicrowave.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzI3MzMwLnBuZw==/315x250%23c/5mAE7B.png",
         "bias": 0
       },
       {
@@ -266,6 +266,15 @@
     ],
     "World": [
       {
+        "title": "Trump’s latest 100 percent tariff on pharmaceuticals: What we know",
+        "link": "https://www.aljazeera.com/news/2025/9/26/trumps-latest-100-percent-tariff-on-pharmaceuticals-what-we-know?traffic_source=rss",
+        "description": "The US largely imports pharmaceutical products from India and Europe.",
+        "pubDate": "2025-09-26T11:26:57Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Namibians warned against holding parties at cemeteries after 'disgraceful' event",
         "link": "https://www.bbc.com/news/articles/cx27p7ked9yo?at_medium=RSS&at_campaign=rss",
         "description": "One resident said the cemetery in the capital had been left littered with discarded bottles and cans.",
@@ -273,6 +282,15 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15ca/live/1e3d4040-9ac9-11f0-99cb-e5b0dff735aa.jpg",
         "bias": 0
+      },
+      {
+        "title": "What you need to know about the Ryder Cup",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/9/26/what-you-need-to-know-about-the-ryder-cup?traffic_source=rss",
+        "description": "Al Jazeera’s Joanna Gasiorowska explains the Ryder Cup.",
+        "pubDate": "2025-09-26T11:14:54Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "UN General Assembly 2025 live: Netanyahu, Sharif, Li to speak",
@@ -336,6 +354,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "A British court throws out terror-related charge against Irish-language hip-hop group Kneecap member - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeERRVXlFMjNfVEFWRTNia0U5anduMGxZYS1fZFRkeVJFeWhOQ0IxRmZXRHluV0hNb2U5dUNzNnVTX2dhYnNjd3ZjNXpnN3A1Zzc0cWllRGZ2UEttUDZYTTBJVl96WWdXb2c5TDF0T1ozVXBOMUcyOUlSejk4Vk56b3hKd0xQenY5cmlncWRvclM0WHlfTVhGRXRPZHZmN0JYa0xhMw?oc=5",
+        "description": "",
+        "pubDate": "2025-09-26T10:06:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Mass arrests for sextortion and romance scams in sting operation across Africa",
@@ -617,6 +644,15 @@
         "bias": 0
       },
       {
+        "title": "Israel’s Netanyahu to address UN as pressure mounts over Gaza war - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSGpkbmVNcjZ5Vk1fbEtRYlRGRDN0ZVBXbmdJaWlGMXJkYjhGS3ljcVVDSFk5amZtWldfdmpyZm1LVGVQSElRX21kcGpDcE01WHB1ZHBSRkVBWVkzaS1UTUFwNjNGa1JXYy1WWksyVVRZMU9yaU9GX25yMDVaRGVtNU1QNURLY2ctekVuN1lVVWw4OWV3dGxPRnBjaXRNY3JmWXF0LUpn?oc=5",
+        "description": "",
+        "pubDate": "2025-09-26T04:05:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Boat strikes, warships and Venezuela rhetoric raise questions about Trump’s goals - AP News",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd0VvX1pnWWtFcHRPS29DQlcxbElMV3pQT1hfbTRmTkpKbDNMS0VEV2JpeVAzR1QxYUh5SjVacmNFSG45QXlVQktEbGxRRGtjd0xTQTljRFUtVmZIOWVPWDRaendKRlZKZDlvSXFEMFA0RUFrMGFLMmdmMU1FUUJha05xNjdNLU8tY3F5RjBRMEhJLTFhRjVxTjBNWFp0UQ?oc=5",
         "description": "",
@@ -671,15 +707,6 @@
         "bias": -1
       },
       {
-        "title": "South Korea fires warning shots to repel North Korean vessel breaching sea boundary - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcV9DczBsSWJZWEtacWNPN0N1RTVQSERsaWlrUnRVSzdwazRnSFQ4QW1QeXF0OS1ObGFPbS02bmFEM2JHMVZxc29kQUpxdGpSS2FPQThLUUYyenJZbHVCLXN2c1JYQW5XemI3MDlXQlB6Rm45NnlPX19YOTgzUGR2dnJRSDM5RDdsaXNhUS1OYmVQcHhpOThXWFJyakRURUhobFdSaQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-26T02:21:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Hezbollah defies Lebanon PM’s ban to honor fallen leaders with coastal light show - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbERfT3ZsVW03b3ZvLTlOOER5NS16VHowbmZmdV96azNFWkZENnp5WVNsRFlsMHFwQzRvZjNnaUVka3Z5NV9NNHFhMUk4cHJYUjZ3YUZrcExsZC1tTkEtemlqcmN6aVlnQ0ZzOUNGbEJKblFwcDhJQVVRajZ3emkyTXYwbU9tbnJZSlQ3ODJYUldTVEQ3ODhwNEZ0T3BGV0h6bXZrQ21tTDJiQQ?oc=5",
         "description": "",
@@ -687,61 +714,25 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Microsoft reduces Israel's access to cloud and AI products over reports of mass surveillance in Gaza - AP News",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS1JYU05zX0xINDFhS1RNa01SNHdhZ29aU2NFajRReUlBUVNXbmJYeEI4NXpoOGFRV2p4TE1BZXZUUlZ3T0FiTGs2eTAwT29IR2E0d21YT1dVV0pfcUg0azQtc3FkZGt4NHk2WlBlQkI3Zm9ZcVRLRzV5NDdiNVhHTnc1RmthdXB6aTJQX3FQaV9OcllwQW5SamZOazUtM0pFaU1mamVhaEZUcU1pWkU3M295MkZBc1J1bEtHYw?oc=5",
-        "description": "",
-        "pubDate": "2025-09-26T01:52:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Mariners fan who gave away Cal Raleigh's 60th home run ball to child gets to meet the slugger - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYVV5UXA0WmZyREhuSUplV0VmaEh3d2plTE9yS29qN3FEc21EdDdlUWFtZkFEUW5JSUttaFpHX0xCR19NMVRhRkNwMkRvQnlKNi1OeWw4WXNaNzR4bzJ3bGJhT0ZaeXZ3bnF6LXd4X1BSS042MEE2V25XX1VubTl2ZHdJNmFkZzRSWlF2RUF0dVJCLWNuLVI2YXR3?oc=5",
-        "description": "",
-        "pubDate": "2025-09-26T01:52:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Former FBI Director Comey indicted on charges of making false statement, obstruction - AP News",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XTGh1SGJ3Z2xfb0lQTjEwRDA1ZmlfQzRsTTVYZzNubHRwVm9yVU8yMW9BY2FIMXlpT05RcFVSVUkwLTg4c1NZVlhuOUNuRVNEYldsVkdJald0WG5qZjN5cmdtX1BkZTcwa3RR?oc=5",
-        "description": "",
-        "pubDate": "2025-09-26T01:34:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
       {
-        "title": "Former Lib Dem leader Sir Menzies Campbell dies aged 84",
-        "link": "https://www.bbc.com/news/articles/cp8j7jnjd6ro?at_medium=RSS&at_campaign=rss",
-        "description": "Sir Menzies led the Liberal Democrats from 2006 to 2007 and was the MP for North East Fife at Westminster for 28 years.",
-        "pubDate": "2025-09-26T11:17:31Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37fd/live/0cd7d650-9ac2-11f0-8459-f985f888de2a.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Another tropical storm hits the Philippines, causing 4 deaths and new evacuations - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLU81OS13a0lmcG0yV3FGbmxNaHYzNnVrZ09oMDI0bFA1Z0pLdndlazI5VlAtSEtBcTBuaEN6Q0FVMml2NWRVQTVBQkRXQmcwMzJlUEJWU1VpS2hHMzJ6dzBUeXhhXzdCenZYSko0VEx5aDVCUlkzbzdzLXYzTGtWNGdKbXlpSXN5Q2JlRDZLUHVWckRFMjJnWDE3cXRvVmxabUxB?oc=5",
-        "description": "",
-        "pubDate": "2025-09-26T10:46:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "New digital ID will be mandatory to work in the UK",
         "link": "https://www.bbc.com/news/articles/cn832y43ql5o?at_medium=RSS&at_campaign=rss",
         "description": "The scheme will make it tougher to work in the UK illegally and offer \"countless benefits\" to citizens, PM says.",
-        "pubDate": "2025-09-26T10:36:57Z",
+        "pubDate": "2025-09-26T11:43:20Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b37/live/ced7fc90-9aa8-11f0-b4e7-254680b9a68e.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Former Lib Dem leader Sir Menzies Campbell dies aged 84",
+        "link": "https://www.bbc.com/news/articles/cp8j7jnjd6ro?at_medium=RSS&at_campaign=rss",
+        "description": "Sir Menzies led the Liberal Democrats from 2006 to 2007 and was the MP for North East Fife at Westminster for 28 years.",
+        "pubDate": "2025-09-26T11:42:50Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cd9/live/99a5d2c0-9acd-11f0-92db-77261a15b9d2.jpg",
         "bias": 0
       },
       {
@@ -808,12 +799,39 @@
         "bias": 0
       },
       {
+        "title": "South Korea fires warning shots to repel North Korean vessel breaching sea boundary - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcV9DczBsSWJZWEtacWNPN0N1RTVQSERsaWlrUnRVSzdwazRnSFQ4QW1QeXF0OS1ObGFPbS02bmFEM2JHMVZxc29kQUpxdGpSS2FPQThLUUYyenJZbHVCLXN2c1JYQW5XemI3MDlXQlB6Rm45NnlPX19YOTgzUGR2dnJRSDM5RDdsaXNhUS1OYmVQcHhpOThXWFJyakRURUhobFdSaQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-26T02:21:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Reform faces questions over tech investor's role in cost-cutting drive",
         "link": "https://www.bbc.com/news/articles/c4gzwn42xdvo?at_medium=RSS&at_campaign=rss",
         "description": "Harriet Green, founder of Basis Capital, is working with the party's cost-cutting unit Doge.",
         "pubDate": "2025-09-26T01:21:21Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c21d/live/6043f970-98b7-11f0-97ac-f7b1eb4c1aa8.jpg",
+        "bias": 0
+      },
+      {
+        "title": "What we know about the indictment filed against ex-FBI chief James Comey - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYlpTS2RrYi1GZG5TWjh3WURyS040WVd0MTNtZmI3eGxSclhRVmJtSVpDWS1oMV95bEkxdDNWRHVfV2NOUzlRT1pyRDRValEtQ0pqQVVqV0ZIOHloQnBFLTgwMUNsNlhmbEJIcVRIVEV6UV91czdEZ0FTUEtxZ0xGbGtVLXVHSWJmZTdWSlBSQ1NJYm9VTjdqYTM2U1ZxbUxl?oc=5",
+        "description": "",
+        "pubDate": "2025-09-26T01:03:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Portions of the Grand Canyon’s North Rim are opening soon after a devastating wildfire - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeWlqMWRFazh3YVpEUUhVMmRiWEZvRGZqMFkzRXRBOVR1WVREaTFsQ2xXWDRZQlUydF9TWldwZU1wX0VUVy1FQjRmLWV6U05Ec0NEd3NabE9TM1E0UDNEeG04SDBWbTR2aWU3NklHaGNwLXpHN2ROUUdHbmJtLXhOUmZDcHg4VjF0dmpZY3hVYXNPR1FJb09OdWtoTUd3SDdvOGxpNUFwOHRhdTg?oc=5",
+        "description": "",
+        "pubDate": "2025-09-26T00:36:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       }
     ],
@@ -828,6 +846,15 @@
         "bias": 0
       },
       {
+        "title": "Another tropical storm hits the Philippines, causing 4 deaths and new evacuations - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLU81OS13a0lmcG0yV3FGbmxNaHYzNnVrZ09oMDI0bFA1Z0pLdndlazI5VlAtSEtBcTBuaEN6Q0FVMml2NWRVQTVBQkRXQmcwMzJlUEJWU1VpS2hHMzJ6dzBUeXhhXzdCenZYSko0VEx5aDVCUlkzbzdzLXYzTGtWNGdKbXlpSXN5Q2JlRDZLUHVWckRFMjJnWDE3cXRvVmxabUxB?oc=5",
+        "description": "",
+        "pubDate": "2025-09-26T10:46:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Nursery hackers threaten to publish more children's profiles online",
         "link": "https://www.bbc.com/news/articles/c07vxv8v89lo?at_medium=RSS&at_campaign=rss",
         "description": "The criminals say they will share 30 more profiles along with 100 employees' data if a ransom is not paid.",
@@ -835,24 +862,6 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2273/live/808869a0-9abf-11f0-b832-7b9888705b9b.jpg",
         "bias": 0
-      },
-      {
-        "title": "A British court throws out terror-related charge against Irish-language hip-hop group Kneecap member - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeERRVXlFMjNfVEFWRTNia0U5anduMGxZYS1fZFRkeVJFeWhOQ0IxRmZXRHluV0hNb2U5dUNzNnVTX2dhYnNjd3ZjNXpnN3A1Zzc0cWllRGZ2UEttUDZYTTBJVl96WWdXb2c5TDF0T1ozVXBOMUcyOUlSejk4Vk56b3hKd0xQenY5cmlncWRvclM0WHlfTVhGRXRPZHZmN0JYa0xhMw?oc=5",
-        "description": "",
-        "pubDate": "2025-09-26T10:06:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Trump's TikTok deal payment criticized as 'shake-down scheme' by experts",
-        "link": "https://www.npr.org/2025/09/26/g-s1-90598/tiktok-deal-trump-oracle",
-        "description": "The U.S. government will collect a multibillion-dollar fee from the American investors who will take over TikTok. Some experts call the fee and other deals like it \"extortion.\"",
-        "pubDate": "2025-09-26T09:00:00Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
       },
       {
         "title": "Slovenia bans Israeli Prime Minister Netanyahu from entering, citing an ICC arrest warrant - AP News",
@@ -884,6 +893,15 @@
         "bias": 0
       },
       {
+        "title": "Arizona judge blocks Trump administration from deporting migrant Guatemalan and Honduran children - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUXNlZk9OUmp5a0pfMkp1NVZ6Vm05ZC02RURGZXA5cVVIbV9NUTdMcnFCRnRkbHlmRnMyMHF5MUJ2d083WGVqS2V0OFBFblBmRkh2cFBXTmRxVVlBaDgzbkxNZkNEQ2hJSGkwbXJOTGthY0otWnBkTFdtZFc5d2pYRkg5QUhsODNqbnRMdWJkTU5WWkVTVmRjam5Dc0FPdWRxMDRDMnNnX1R1Y3doTGwzZGpaY3Y?oc=5",
+        "description": "",
+        "pubDate": "2025-09-26T05:32:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "World leaders step up efforts behind the scenes at the UN to end the war in Sudan - AP News",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcmQwVW1YTXhJUldBclVzaktJVnpPN0hYdFNJWWhPZVF4VmUzV2tLMTh1XzVBNUExbXdXSmtWazJaam1hMTZEN2Fha1dfRWx2RGtDNEJvM2cwbF9WaWNNNjZUckp5dkk4aDUxOWNBZ09uaW1TTHFwb1NRUjJNUEhYNDJBYTBfWTliYTdFLVJURFk4dw?oc=5",
         "description": "",
@@ -898,7 +916,7 @@
         "title": "Trump announces new tariffs on drugs, trucks and kitchen cabinets",
         "link": "https://www.bbc.com/news/articles/crkjreprp3po?at_medium=RSS&at_campaign=rss",
         "description": "The US president said the move aims to help protect American manufacturers from foreign imports.",
-        "pubDate": "2025-09-26T11:34:58Z",
+        "pubDate": "2025-09-26T11:44:17Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed0c/live/0f72d480-9a6a-11f0-b39f-8faa1a82cdd5.jpg",
         "bias": 0
@@ -950,6 +968,15 @@
       }
     ],
     "Culture": [
+      {
+        "title": "Eurovision body to hold vote on Israel's participation",
+        "link": "https://www.bbc.com/news/articles/cgq4e4l7dv8o?at_medium=RSS&at_campaign=rss",
+        "description": "Israel's continued participation in the contest has been controversial due to the ongoing Gaza war.",
+        "pubDate": "2025-09-26T11:39:36Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2cf/live/abd5d2f0-9ac4-11f0-b741-177e3e2c2fc7.jpg",
+        "bias": 0
+      },
       {
         "title": "Kneecap rapper's terror case thrown out",
         "link": "https://www.bbc.com/news/articles/ce846r2drg8o?at_medium=RSS&at_campaign=rss",
