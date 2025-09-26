@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-26T07:45:22.768017Z",
+  "lastUpdate": "2025-09-26T07:55:33.194815Z",
   "news": {
     "Gaming": [
       {
@@ -212,6 +212,15 @@
     ],
     "World": [
       {
+        "title": "Tropical storm kills at least 4, displaces 400,000 in Philippines",
+        "link": "https://www.aljazeera.com/news/2025/9/26/tropical-storm-kills-at-least-4-displaces-400000-in-philippines?traffic_source=rss",
+        "description": "Tropical Storm Bualoi, the 15th tropical cyclone to hit the Philippines in 2025, on a course towards Vietnam.",
+        "pubDate": "2025-09-26T07:44:23Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "East Timor MPs bow to protesters, vote to scrap lifetime pensions",
         "link": "https://www.aljazeera.com/news/2025/9/26/east-timor-mps-bow-to-protesters-vote-to-scrap-lifetime-pensions?traffic_source=rss",
         "description": "Demonstrators were angered by a plan to spend $4.2m on cars for lawmakers in one of Southeast Asia's poorest countries.",
@@ -239,6 +248,15 @@
         "bias": -1
       },
       {
+        "title": "Taiwan convicts ex-presidential aide of spying for China",
+        "link": "https://www.bbc.com/news/articles/cp8w0j16pyno?at_medium=RSS&at_campaign=rss",
+        "description": "A court said the espionage was carried out \"over a long period\"  and involved \"important intelligence\".",
+        "pubDate": "2025-09-26T06:42:39Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/430b/live/31269ed0-9a93-11f0-b531-6d0bfd30d322.jpg",
+        "bias": 0
+      },
+      {
         "title": "US to fight efforts to ban Israel’s football team from World Cup 2026",
         "link": "https://www.aljazeera.com/news/2025/9/26/us-to-fight-efforts-to-ban-israels-football-team-from-world-cup-2026?traffic_source=rss",
         "description": "Pressure is growing to ban Israel from the 2026 World Cup, with a key vote reportedly expected as early as next week.",
@@ -257,9 +275,9 @@
         "bias": 0
       },
       {
-        "title": "LIVE: Israel kills at least 13 Palestinians as Gaza attacks resume",
+        "title": "LIVE: Israel kills at least 27 Palestinians as Gaza attacks resume",
         "link": "https://www.aljazeera.com/news/liveblog/2025/9/26/live-israel-kills-at-least-10-palestinians-as-gaza-attacks-resume?traffic_source=rss",
-        "description": "At least 13 people killed and others wounded, including children, in the latest bombardment of besieged Gaza.",
+        "description": "At leas 27 people killed and others wounded, including children, in the latest bombardment of besieged Gaza.",
         "pubDate": "2025-09-26T06:17:03Z",
         "source": "aljazeera.com",
         "image": "",
@@ -275,7 +293,7 @@
         "bias": 0
       },
       {
-        "title": "South Korea’s fires warning shots as North Korean ship crosses sea boundary",
+        "title": "South Korea fires warning shots as North Korean ship crosses sea boundary",
         "link": "https://www.aljazeera.com/news/2025/9/26/south-koreas-fires-warning-shots-as-north-korean-ship-crosses-sea-boundary?traffic_source=rss",
         "description": "South Korean military fired dozens of warning shots at a North Korean vessel that crossed a contested sea boundary.",
         "pubDate": "2025-09-26T05:16:59Z",
@@ -351,6 +369,15 @@
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd0VvX1pnWWtFcHRPS29DQlcxbElMV3pQT1hfbTRmTkpKbDNMS0VEV2JpeVAzR1QxYUh5SjVacmNFSG45QXlVQktEbGxRRGtjd0xTQTljRFUtVmZIOWVPWDRaendKRlZKZDlvSXFEMFA0RUFrMGFLMmdmMU1FUUJha05xNjdNLU8tY3F5RjBRMEhJLTFhRjVxTjBNWFp0UQ?oc=5",
         "description": "",
         "pubDate": "2025-09-26T04:02:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Trump to put import taxes on pharmaceutical drugs, kitchen cabinets, furniture and heavy trucks - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcGdoTVR0aE1HUF9heENPbllSbl90VkE4VFZsQlJzQnZ5ZEY3RWZzSm9tekJValVoaFVpemRXWTRaVkpKTy1ZTzBQQnBfejZ1X0tpQW5NME5yYmU1NktrNnpDMnJMUGZXMVhXRXhqTXJOZ1M1NmhHTGszSnN1d0haQzZmbUlTZFF4VTJkWldVMnMyb0NDYW5TOVBQZTNudnpwR051MWd0bC16OEpVai1qenViWQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-26T02:53:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -583,15 +610,6 @@
         "bias": 0
       },
       {
-        "title": "Trump to put import taxes on pharmaceutical drugs, kitchen cabinets, furniture and heavy trucks - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcGdoTVR0aE1HUF9heENPbllSbl90VkE4VFZsQlJzQnZ5ZEY3RWZzSm9tekJValVoaFVpemRXWTRaVkpKTy1ZTzBQQnBfejZ1X0tpQW5NME5yYmU1NktrNnpDMnJMUGZXMVhXRXhqTXJOZ1M1NmhHTGszSnN1d0haQzZmbUlTZFF4VTJkWldVMnMyb0NDYW5TOVBQZTNudnpwR051MWd0bC16OEpVai1qenViWQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-26T02:53:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Reform faces questions over tech investor's role in cost-cutting drive",
         "link": "https://www.bbc.com/news/articles/c4gzwn42xdvo?at_medium=RSS&at_campaign=rss",
         "description": "Harriet Green, founder of Basis Capital, is working with the party's cost-cutting unit Doge.",
@@ -624,6 +642,15 @@
       }
     ],
     "Business": [
+      {
+        "title": "PM 'remains committed' to Northern Powerhouse Rail",
+        "link": "https://www.bbc.com/news/articles/ce86n868nyzo?at_medium=RSS&at_campaign=rss",
+        "description": "Sir Keir said he wanted to \"get it right\" following the unravelling of HS2 plans.",
+        "pubDate": "2025-09-26T07:54:59Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b886/live/9bf4da60-9aa2-11f0-b4e7-254680b9a68e.jpg",
+        "bias": 0
+      },
       {
         "title": "Trump announces new tariffs on drugs, trucks and kitchen cabinets",
         "link": "https://www.bbc.com/news/articles/crkjreprp3po?at_medium=RSS&at_campaign=rss",
