@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-09-26T09:25:44.458505Z",
+  "lastUpdate": "2025-09-26T09:40:30.025006Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Bacon invaders 1K [Free] [Shooter]",
+        "link": "https://alistair-crompton.itch.io/bacon-invaders-1k",
+        "description": "space invaders pico1k jam pigs",
+        "pubDate": "2025-09-26T09:17:14Z",
+        "source": "alistair-crompton.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzI3MDU5LnBuZw==/315x250%23c/OAW8H%2F.png",
+        "bias": 0
+      },
       {
         "title": "Jaws of time [Free] [Strategy] [Windows]",
         "link": "https://andorgast.itch.io/jaws-of-time",
@@ -9,6 +18,15 @@
         "pubDate": "2025-09-26T09:00:58Z",
         "source": "andorgast.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzI2ODkzLnBuZw==/315x250%23c/pUdFNu.png",
+        "bias": 0
+      },
+      {
+        "title": "DARK HYDRO [Free] [Shooter]",
+        "link": "https://ghostboi16.itch.io/dark-hydro",
+        "description": "",
+        "pubDate": "2025-09-26T08:57:08Z",
+        "source": "ghostboi16.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzI2ODQ1LnBuZw==/315x250%23c/K1tGxb.png",
         "bias": 0
       },
       {
@@ -45,6 +63,15 @@
         "pubDate": "2025-09-26T07:18:26Z",
         "source": "egg-3d.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzI2MzYzLmdpZg==/315x250%23c/xH8EOX.gif",
+        "bias": 0
+      },
+      {
+        "title": "Last Cat Standing [Free] [Role Playing]",
+        "link": "https://ankushkun.itch.io/cat",
+        "description": "Lone cat, on an island, will you survive?",
+        "pubDate": "2025-09-26T07:17:13Z",
+        "source": "ankushkun.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzI2Mjk4LnBuZw==/315x250%23c/u1yS4r.png",
         "bias": 0
       },
       {
@@ -174,15 +201,6 @@
         "bias": 0
       },
       {
-        "title": "Rosco The Roswell Racer Two [Free]",
-        "link": "https://breadbox64.itch.io/rosco-the-roswell-racer-two",
-        "description": "",
-        "pubDate": "2025-09-26T04:52:31Z",
-        "source": "breadbox64.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzI1NjMyLnBuZw==/315x250%23c/QQdbGH.png",
-        "bias": 0
-      },
-      {
         "title": "smolbox [Free] [Other]",
         "link": "https://kabez.itch.io/smolbox",
         "description": "See how long you can survive.",
@@ -198,15 +216,6 @@
         "pubDate": "2025-09-26T04:46:34Z",
         "source": "lattecito.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzI1NDM2LnBuZw==/315x250%23c/yrexxU.png",
-        "bias": 0
-      },
-      {
-        "title": "The Sinking Ship [Free]",
-        "link": "https://geoff-bee.itch.io/the-sinking-ship",
-        "description": "Fix the leaks and save the ship",
-        "pubDate": "2025-09-26T04:40:06Z",
-        "source": "geoff-bee.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzI1MzkzLmpwZw==/315x250%23c/TrukA9.jpg",
         "bias": 0
       },
       {
@@ -229,6 +238,33 @@
       }
     ],
     "World": [
+      {
+        "title": "Former FBI director James Comey indicted on two charges",
+        "link": "https://www.bbc.com/news/articles/cy50ggv35zpo?at_medium=RSS&at_campaign=rss",
+        "description": "James Comey says he is innocent and the charges are politically motivated, as they follow Trump pressure on prosecutors to act.",
+        "pubDate": "2025-09-26T09:28:37Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48d1/live/58829c20-9ab8-11f0-92db-77261a15b9d2.jpg",
+        "bias": 0
+      },
+      {
+        "title": "UK plans compulsory digital ID as populist pressure over immigration rises",
+        "link": "https://www.aljazeera.com/news/2025/9/26/uk-plans-compulsory-digital-id-as-populist-pressure-over-immigration-rises?traffic_source=rss",
+        "description": "The scheme, provoked by heat on the government, has drawn criticism from across the political spectrum.",
+        "pubDate": "2025-09-26T09:00:38Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Trump suggests FIFA World Cup could be moved from unsafe cities",
+        "link": "https://www.aljazeera.com/sports/2025/9/26/trump-suggests-fifa-world-cup-could-be-moved-from-unsafe-cities?traffic_source=rss",
+        "description": "The 2026 edition of the FIFA World Cup is being staged in United States, Canada and Mexico with the final in New Jersey.",
+        "pubDate": "2025-09-26T09:00:05Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Russia’s law against books by ‘foreign agents’ signals tightening grip",
         "link": "https://www.aljazeera.com/news/2025/9/26/russias-law-against-books-by-foreign-agents-signals-tightening-grip?traffic_source=rss",
@@ -374,15 +410,6 @@
         "bias": -1
       },
       {
-        "title": "Former FBI director James Comey indicted on two charges",
-        "link": "https://www.bbc.com/news/articles/cy50ggv35zpo?at_medium=RSS&at_campaign=rss",
-        "description": "James Comey says he is innocent and the charges are politically motivated, as they follow Trump pressure on prosecutors to act.",
-        "pubDate": "2025-09-26T06:05:42Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48d1/live/58829c20-9ab8-11f0-92db-77261a15b9d2.jpg",
-        "bias": 0
-      },
-      {
         "title": "South Korea fires warning shots as North Korean ship crosses sea boundary",
         "link": "https://www.aljazeera.com/news/2025/9/26/south-koreas-fires-warning-shots-as-north-korean-ship-crosses-sea-boundary?traffic_source=rss",
         "description": "South Korean military fired dozens of warning shots at a North Korean vessel that crossed a contested sea boundary.",
@@ -405,15 +432,6 @@
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVUlMcEFPMHJwUHdCSjFkaS1vM1lESzg1Ynp6LXkzOFJSVU9lakdQVUMzaEltSnhMRVptc0xhQVFOQnZHc2hfeUpEOFo5dmRSV2dTNEd1ekVUdmxPX0YycHY5V04tUlRTUW9iOGRTNHI0aTI2bEhRbmdKUzZvWm9YV2g4OWdpQ1lteDBscTB3SzBuTUlqNmt6aEY1LWp4MEowUlE?oc=5",
         "description": "",
         "pubDate": "2025-09-26T04:58:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Jason Myers boots 52-yard FG on final play, lifting Seahawks to 23-20 win over Cardinals - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWmZEa1M4MDZlQnh0OXBGNzM4OUV1eU5IR1hRV3dDSTJQeEdRQlpHNFE0WW5XNEEteUoyaWx2Tkwyb2tvUDlNWV9hN1FBaWNLZXR2M185bUIyWVlmNTQwMmRIeVZDV202Y25TcHo4cEJmeGRPdUhhXzVCSzZhX3hpMEd6T0s3SFlYSHBnNQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-26T04:43:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -669,27 +687,9 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "The Indian who caught 'Bikini killer' twice - and is now Netflix hero",
-        "link": "https://www.bbc.com/news/articles/cq65gvjqz88o?at_medium=RSS&at_campaign=rss",
-        "description": "Inspector Zende tells the story of an Indian police officer who captured notorious killer Charles Sobhraj twice.",
-        "pubDate": "2025-09-26T00:08:11Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6a6/live/60910a00-8edd-11f0-bb83-ad56c4d5c170.jpg",
-        "bias": 0
       }
     ],
     "Politics": [
-      {
-        "title": "What schools stand to lose in the battle over the next federal education budget",
-        "link": "https://www.npr.org/2025/09/26/nx-s1-5544177/trump-school-funding-federal-budget",
-        "description": "Education researchers warn budget proposals from the White House and House Republicans would impose steep cuts on some of the nation's most vulnerable students and disadvantaged school communities.",
-        "pubDate": "2025-09-26T09:00:00Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
       {
         "title": "Trump's TikTok deal payment criticized as 'shake-down scheme' by experts",
         "link": "https://www.npr.org/2025/09/26/g-s1-90598/tiktok-deal-trump-oracle",
@@ -703,6 +703,15 @@
         "title": "Fired feds, Trump lovers and veterans: Meet the people applying for ICE jobs",
         "link": "https://www.npr.org/2025/09/26/nx-s1-5534437/dhs-ice-job-fair",
         "description": "At a recent DHS career expo in Provo, Utah, many attendees hoped to get hired to help with the Trump administration's deportation efforts.",
+        "pubDate": "2025-09-26T09:00:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "What schools stand to lose in the battle over the next federal education budget",
+        "link": "https://www.npr.org/2025/09/26/nx-s1-5544177/trump-school-funding-federal-budget",
+        "description": "Education researchers warn budget proposals from the White House and House Republicans would impose steep cuts on some of the nation's most vulnerable students and disadvantaged school communities.",
         "pubDate": "2025-09-26T09:00:00Z",
         "source": "npr.org",
         "image": "",
@@ -851,6 +860,15 @@
       }
     ],
     "Culture": [
+      {
+        "title": "Actress and West End star Amber Davies joins Strictly line-up",
+        "link": "https://www.bbc.com/news/articles/cp8w0zx58neo?at_medium=RSS&at_campaign=rss",
+        "description": "Davies will make her Strictly debut on Saturday and will be dancing the waltz with Nikita Kuzmin.",
+        "pubDate": "2025-09-26T09:36:32Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a2d/live/d72f0140-9ab7-11f0-a90f-d9832abb6eee.jpg",
+        "bias": 0
+      },
       {
         "title": "Word that baffled Race Across the World producers added to dictionary",
         "link": "https://www.bbc.com/news/articles/cwydlj2nll3o?at_medium=RSS&at_campaign=rss",
