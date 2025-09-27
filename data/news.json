@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-27T05:45:36.624598Z",
+  "lastUpdate": "2025-09-27T05:55:45.253404Z",
   "news": {
     "Gaming": [
       {
@@ -9,6 +9,15 @@
         "pubDate": "2025-09-27T05:37:43Z",
         "source": "santy-r.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzM4NTU1LmpwZw==/315x250%23c/HIM5rr.jpg",
+        "bias": 0
+      },
+      {
+        "title": "The Sanctuary of Cicadas [Free] [Adventure] [Windows] [macOS] [Linux] [Android]",
+        "link": "https://emma2xm.itch.io/thesanctuaryofthecicadas",
+        "description": "",
+        "pubDate": "2025-09-27T05:30:54Z",
+        "source": "emma2xm.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzM4NTM4LmpwZw==/315x250%23c/PfAHSH.jpg",
         "bias": 0
       },
       {
@@ -225,15 +234,6 @@
         "pubDate": "2025-09-27T02:31:26Z",
         "source": "piploop.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzM3NjgxLnBuZw==/315x250%23c/S19hOT.png",
-        "bias": 0
-      },
-      {
-        "title": "Corruption Crucible - PUBLIC DEMO [Free] [Shooter] [Windows]",
-        "link": "https://subsupreme.itch.io/corruption-crucible-public-demo",
-        "description": "",
-        "pubDate": "2025-09-27T01:50:07Z",
-        "source": "subsupreme.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzM2ODk3LnBuZw==/315x250%23c/2hnVH2.png",
         "bias": 0
       }
     ],
@@ -466,8 +466,7 @@
         "bias": 0
       }
     ],
-    "Tech": [],
-    "Science": [
+    "Tech": [
       {
         "title": "16 states sue the Trump administration over threats to pull funding for sex ed on gender diversity - AP News",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOelE0X2dLZ0lESU1GUkJuRjJVMkZzWk5wU05TUDFjc3FmbE9RSDFxSHJwdk1KZlhfcXlzNVJtSFdhdjdzeDNiaW9QYnVTVGtuMkcxdUtWc1l6YUliOXdFNW9HWXVmYkVVc2JrOGtGbjBTR1pOeVYyZzJpcjZUSzAtX0U2Q01CckZrX3A4TkVmenFYbjF2VV9nVDR0Vl8wWG42NlE5Q2xTeUJEcGR3ak1R?oc=5",
@@ -478,6 +477,7 @@
         "bias": 0
       }
     ],
+    "Science": [],
     "Business": [
       {
         "title": "As federal funds wane, NPR ruefully clashes with CPB",
@@ -487,6 +487,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Financier accused of abusing women in soundproofed ‘dungeon’ in NYC penthouse - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMnVJZkFhVldhUTZNbmVwc3htOGtIU0JBOWd0alFUcmNQQk1kbnAtU3VmNllMb1lNb1FXTUY0NnhJeDBiTVpHcGM1TWR1U3N5WmF0bUU0WHg2a3dTbVBnMG1CWVpGcm5jemc4LTFfYzNrdktsRWhFOVFvOTlXOTBDNFZJS1U0SWFCWUFnRVpiXzZsMklsbExmMllkcHJPajQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-27T00:20:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Culture": [
