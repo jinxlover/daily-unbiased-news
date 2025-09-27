@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-09-27T08:43:24.576538Z",
+  "lastUpdate": "2025-09-27T08:55:56.832723Z",
   "news": {
     "Gaming": [
+      {
+        "title": "DEG [Free] [Puzzle] [Windows]",
+        "link": "https://doseo.itch.io/deg",
+        "description": "",
+        "pubDate": "2025-09-27T08:34:15Z",
+        "source": "doseo.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzM5NDc1LnBuZw==/315x250%23c/bYcVmf.png",
+        "bias": 0
+      },
       {
         "title": "MiniTrip 1.1 beta (win64/32, linux, macos) [Free] [Adventure] [Windows] [macOS] [Linux]",
         "link": "https://premiumdonutt.itch.io/minitrip-11-beta",
@@ -27,15 +36,6 @@
         "pubDate": "2025-09-27T08:16:48Z",
         "source": "lettergolem.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzM5NTQwLmpwZw==/315x250%23c/D8u2PB.jpg",
-        "bias": 0
-      },
-      {
-        "title": "sprunki retake v2 [Free]",
-        "link": "https://mandriy2131.itch.io/sprunki-retake-v2",
-        "description": "sprunki creator:NyankoBfLol and sprunki retake:Coolskull212",
-        "pubDate": "2025-09-27T07:46:40Z",
-        "source": "mandriy2131.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzM5Mjg5LnBuZw==/315x250%23c/%2FkwXIn.png",
         "bias": 0
       },
       {
@@ -174,15 +174,6 @@
         "bias": 0
       },
       {
-        "title": "Spell & Stone (iOS - completely $ and ad free!) [Free] [Strategy]",
-        "link": "https://dorn-rogal.itch.io/spell-and-stone",
-        "description": "Semi-idle strategy & spectacle (completely free!)",
-        "pubDate": "2025-09-27T04:18:04Z",
-        "source": "dorn-rogal.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzM4MDc5LnBuZw==/315x250%23c/ygz2HZ.png",
-        "bias": 0
-      },
-      {
         "title": "Shadow of Scintilla Playtest [Free] [Action] [Windows]",
         "link": "https://mengli.itch.io/shadow-of-scintilla",
         "description": "Hack and slash your way through two worlds by time-traveling between the past and present in this action roguelike.",
@@ -202,6 +193,15 @@
       }
     ],
     "World": [
+      {
+        "title": "Iran recalls envoys to UK, France, Germany as UN sanctions reimposed",
+        "link": "https://www.aljazeera.com/news/2025/9/27/iran-recalls-envoys-to-uk-france-germany-as-un-sanctions-reimposed?traffic_source=rss",
+        "description": "The E3 countries triggered the mechanism one month ago to reimpose sanctions, which come into effect on Sunday.",
+        "pubDate": "2025-09-27T08:31:33Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Watch: Polar bears occupy abandoned Soviet-era research station",
         "link": "https://www.bbc.com/news/videos/c0ezre2x3gvo?at_medium=RSS&at_campaign=rss",
@@ -565,6 +565,24 @@
         "bias": 0
       },
       {
+        "title": "Reds overtake Mets for NL’s 3rd wild-card spot by beating Brewers 3-1 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMzZ3NERUU2JGeVhiYzh4emp5VFJZcTMwVlk0VFRObzg5N09qTGVKWnZGUUxMcjVyY0lJQVp0R21kMEQ2Y0VSV3lZbE95V1BzSnI3ZmVPdjFjdXVkdE4tSTRKVTNpVy1ESU9hTExKZkROLUVHRlhfUUMxMXNUSmdQU1Zfelo?oc=5",
+        "description": "",
+        "pubDate": "2025-09-27T02:44:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "16 states sue the Trump administration over threats to pull funding for sex ed on gender diversity - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOelE0X2dLZ0lESU1GUkJuRjJVMkZzWk5wU05TUDFjc3FmbE9RSDFxSHJwdk1KZlhfcXlzNVJtSFdhdjdzeDNiaW9QYnVTVGtuMkcxdUtWc1l6YUliOXdFNW9HWXVmYkVVc2JrOGtGbjBTR1pOeVYyZzJpcjZUSzAtX0U2Q01CckZrX3A4TkVmenFYbjF2VV9nVDR0Vl8wWG42NlE5Q2xTeUJEcGR3ak1R?oc=5",
+        "description": "",
+        "pubDate": "2025-09-27T00:59:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Chris Mason: Starmer unflinching as he seeks to take on Reform",
         "link": "https://www.bbc.com/news/articles/cvg41lljnryo?at_medium=RSS&at_campaign=rss",
         "description": "The prime minister has stepped up his framing of the \"open fight\" between Labour and Reform UK.",
@@ -589,24 +607,6 @@
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWUdWSHFyVEowUE91amtoVWF3b3hZM2JHTENJNHVWc1pRZWZrdXRVdzVhWkE0Sk51U3pyRkhlOFV1bWkySjNDekJ3UnRyMnhzRHdVMkt4T3QwSWNmTXFFSlJFdDZXTDdYaVI0R1V0Q1pRUGkzN3lDTHBSS1dBMXZPSUNyQTVkX0RSUjVubGFqclFMc1ZCT25pWVBUWElSMVVmZmZiaXBwMlZnRTB3?oc=5",
         "description": "",
         "pubDate": "2025-09-27T03:17:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Reds overtake Mets for NL’s 3rd wild-card spot by beating Brewers 3-1 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMzZ3NERUU2JGeVhiYzh4emp5VFJZcTMwVlk0VFRObzg5N09qTGVKWnZGUUxMcjVyY0lJQVp0R21kMEQ2Y0VSV3lZbE95V1BzSnI3ZmVPdjFjdXVkdE4tSTRKVTNpVy1ESU9hTExKZkROLUVHRlhfUUMxMXNUSmdQU1Zfelo?oc=5",
-        "description": "",
-        "pubDate": "2025-09-27T02:44:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "16 states sue the Trump administration over threats to pull funding for sex ed on gender diversity - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOelE0X2dLZ0lESU1GUkJuRjJVMkZzWk5wU05TUDFjc3FmbE9RSDFxSHJwdk1KZlhfcXlzNVJtSFdhdjdzeDNiaW9QYnVTVGtuMkcxdUtWc1l6YUliOXdFNW9HWXVmYkVVc2JrOGtGbjBTR1pOeVYyZzJpcjZUSzAtX0U2Q01CckZrX3A4TkVmenFYbjF2VV9nVDR0Vl8wWG42NlE5Q2xTeUJEcGR3ak1R?oc=5",
-        "description": "",
-        "pubDate": "2025-09-27T00:59:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
