@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-27T04:21:35.573862Z",
+  "lastUpdate": "2025-09-27T04:41:20.567967Z",
   "news": {
     "Gaming": [
       {
@@ -8,7 +8,7 @@
         "description": "",
         "pubDate": "2025-09-27T04:07:22Z",
         "source": "eleanor32n.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzM3ODg3LnBuZw==/315x250%23c/0NK%2BPI.png",
+        "image": "https://img.itch.zone/aW1nLzIzMzM4MTgwLnBuZw==/315x250%23c/CqOBQL.png",
         "bias": 0
       },
       {
@@ -45,6 +45,15 @@
         "pubDate": "2025-09-27T03:34:40Z",
         "source": "wormzzz.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzM3NzM5LnBuZw==/315x250%23c/4CCTIS.png",
+        "bias": 0
+      },
+      {
+        "title": "Happy and the Beasts [Free] [Visual Novel] [Windows]",
+        "link": "https://rairo355.itch.io/happy-and-the-beasts",
+        "description": "Grief. Pain. And above all: Hopecore.",
+        "pubDate": "2025-09-27T03:30:21Z",
+        "source": "rairo355.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzM4MTg2LnBuZw==/315x250%23c/9zk7Kz.png",
         "bias": 0
       },
       {
@@ -129,7 +138,7 @@
         "bias": 0
       },
       {
-        "title": "Cliffs & Castaways [Free] [Platformer]",
+        "title": "Cliffs & Castaways [Free] [Platformer] [Windows]",
         "link": "https://derea.itch.io/cliffs-castaways",
         "description": "",
         "pubDate": "2025-09-27T02:36:44Z",
@@ -198,15 +207,6 @@
         "pubDate": "2025-09-27T01:50:07Z",
         "source": "subsupreme.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzM2ODk3LnBuZw==/315x250%23c/2hnVH2.png",
-        "bias": 0
-      },
-      {
-        "title": "Bobgar's 3D game [Free] [Action]",
-        "link": "https://bobgar.itch.io/bobgars-3d-game",
-        "description": "An infinitely generating 3D game made in Pico-8",
-        "pubDate": "2025-09-27T01:33:20Z",
-        "source": "bobgar.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzM3MDA0LmdpZg==/315x250%23c/x8zeNa.gif",
         "bias": 0
       },
       {
@@ -405,7 +405,17 @@
     ],
     "Tech": [],
     "Science": [],
-    "Business": [],
+    "Business": [
+      {
+        "title": "As federal funds wane, NPR ruefully clashes with CPB",
+        "link": "https://www.npr.org/2025/09/27/nx-s1-5554882/as-federal-funds-wane-npr-ruefully-clashes-with-cpb",
+        "description": "",
+        "pubDate": "2025-09-27T04:32:05Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      }
+    ],
     "Culture": []
   }
 }
