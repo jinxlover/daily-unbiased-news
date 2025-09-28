@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-28T09:45:24.984095Z",
+  "lastUpdate": "2025-09-28T09:55:28.456505Z",
   "news": {
     "Gaming": [
       {
@@ -27,6 +27,15 @@
         "pubDate": "2025-09-28T09:17:18Z",
         "source": "andromedaghostgames.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzU0MDkwLnBuZw==/315x250%23c/Y5t%2BM2.png",
+        "bias": 0
+      },
+      {
+        "title": "Transfusion [Free] [Strategy]",
+        "link": "https://grjohns5.itch.io/transfusion",
+        "description": "An infection spreads",
+        "pubDate": "2025-09-28T09:16:53Z",
+        "source": "grjohns5.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzUzOTYzLmpwZw==/315x250%23c/vDZyD%2F.jpg",
         "bias": 0
       },
       {
@@ -102,7 +111,7 @@
         "bias": 0
       },
       {
-        "title": "Grave Bound [Free]",
+        "title": "Grave Bound [Free] [Adventure]",
         "link": "https://toxic-waffle.itch.io/grave-bound",
         "description": "Controls: Spacebar to jump How far can you run?",
         "pubDate": "2025-09-28T08:22:25Z",
@@ -201,15 +210,6 @@
         "bias": 0
       },
       {
-        "title": "とびだす！カマソッソの世界3D [Free] [Visual Novel]",
-        "link": "https://tanchi551.itch.io/camazotz6",
-        "description": "カマソッソシリーズ第6作",
-        "pubDate": "2025-09-28T07:24:15Z",
-        "source": "tanchi551.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzUzMDU1LnBuZw==/315x250%23c/uqAY7g.png",
-        "bias": 0
-      },
-      {
         "title": "The Custodian [Free]",
         "link": "https://hekinav.itch.io/the-custodian",
         "description": "A platformer game where you sacrifice yourself to save the multiverse",
@@ -226,15 +226,6 @@
         "source": "ouldreamer.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzUzNzIxLmpwZWc=/315x250%23c/XghlzM.jpeg",
         "bias": 0
-      },
-      {
-        "title": "FUNnel [Free] [Other] [Windows]",
-        "link": "https://unlimitedcg.itch.io/funnelgame",
-        "description": "A short horror game set in a mineshaft with your goal being to make it out alive... but you're not alone down here.",
-        "pubDate": "2025-09-28T04:21:41Z",
-        "source": "unlimitedcg.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzUzMTI5LnBuZw==/315x250%23c/AsOwfq.png",
-        "bias": 0
       }
     ],
     "World": [
@@ -242,10 +233,19 @@
         "title": "Zelensky condemns 'vile' Russian strikes lasting 12 hours",
         "link": "https://www.bbc.com/news/articles/c75qeqr5905o?at_medium=RSS&at_campaign=rss",
         "description": "More than 600 drones and missiles, predominantly aimed at Kyiv, hit factories and the Institute of Cardiology.",
-        "pubDate": "2025-09-28T09:27:01Z",
+        "pubDate": "2025-09-28T09:51:47Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e0c/live/0796d830-9c48-11f0-b741-177e3e2c2fc7.jpg",
         "bias": 0
+      },
+      {
+        "title": "LIVE: India vs Pakistan – Asia Cup 2025 final",
+        "link": "https://www.aljazeera.com/sports/liveblog/2025/9/28/live-india-vs-pakistan-2025-asia-cup-final?traffic_source=rss",
+        "description": "Follow our live build-up, with toss and team news coverage, before our full text commentary stream of the final.",
+        "pubDate": "2025-09-28T09:35:09Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Nepal celebrates historic cricket win over former champions West Indies",
@@ -374,6 +374,15 @@
         "bias": -1
       },
       {
+        "title": "Iran weighs how to respond to reimposed UN sanctions over its nuclear program - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYnMycGo0NDladjZZQl9GQ3A5Y2pvX0xkZktwY0FpcGRqVHRtMEhDa2U1Q0hlRnVwTndNTmxxcmhROEN2cXQ3MnM1VGtYaTdpQW5TQ2RSblRwdzRkd1RpRkZTVUI2QTFjZzU1cHBGbERQSkhsVHB5dTdUSU0za2R5VmV1Qi16MXR0cHM5aFBEQTYxTmNrVjh3dXRxQUVZSHFiU01pa1BJUEs?oc=5",
+        "description": "",
+        "pubDate": "2025-09-28T06:51:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Moldova holds parliamentary elections hit by claims of Russian interference",
         "link": "https://www.aljazeera.com/news/2025/9/28/moldova-holds-parliamentary-elections-hit-by-claims-of-russian-interference?traffic_source=rss",
         "description": "Most polls project the governing pro-EU Party of Action and Solidarity in the lead.",
@@ -408,15 +417,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Iran weighs how to respond to reimposed UN sanctions over its nuclear program - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYnMycGo0NDladjZZQl9GQ3A5Y2pvX0xkZktwY0FpcGRqVHRtMEhDa2U1Q0hlRnVwTndNTmxxcmhROEN2cXQ3MnM1VGtYaTdpQW5TQ2RSblRwdzRkd1RpRkZTVUI2QTFjZzU1cHBGbERQSkhsVHB5dTdUSU0za2R5VmV1Qi16MXR0cHM5aFBEQTYxTmNrVjh3dXRxQUVZSHFiU01pa1BJUEs?oc=5",
-        "description": "",
-        "pubDate": "2025-09-28T05:55:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "LIVE: Israel kills 31 people in Gaza since dawn, child dies of malnutrition",
