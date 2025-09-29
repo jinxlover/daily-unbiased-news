@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-29T15:18:59.259424Z",
+  "lastUpdate": "2025-09-29T15:35:46.449990Z",
   "news": {
     "Gaming": [
       {
@@ -21,12 +21,39 @@
         "bias": 0
       },
       {
-        "title": "Dicgeon Crawl [Free] [Fighting]",
+        "title": "Nori [Free] [Platformer] [Windows]",
+        "link": "https://yoshy-443.itch.io/nori",
+        "description": "",
+        "pubDate": "2025-09-29T14:59:40Z",
+        "source": "yoshy-443.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzc1ODI0LnBuZw==/315x250%23c/7lyf8C.png",
+        "bias": 0
+      },
+      {
+        "title": "Running Guy [Free] [Action]",
+        "link": "https://duojimeow.itch.io/running-guy",
+        "description": "",
+        "pubDate": "2025-09-29T14:55:13Z",
+        "source": "duojimeow.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzc1ODU4LnBuZw==/315x250%23c/eTyopG.png",
+        "bias": 0
+      },
+      {
+        "title": "Dicgeon Crawl [Free] [Fighting] [Windows]",
         "link": "https://steamcrank-games.itch.io/dicgeon-crawl",
         "description": "ScoreSpace Game Jam Entry",
         "pubDate": "2025-09-29T14:51:12Z",
         "source": "steamcrank-games.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzc1NTY0LnBuZw==/315x250%23c/xKrCpR.png",
+        "bias": 0
+      },
+      {
+        "title": "Cerenville 54 [Free] [Adventure]",
+        "link": "https://paupertony.itch.io/cerenville54",
+        "description": "A fairytale adventure",
+        "pubDate": "2025-09-29T14:41:18Z",
+        "source": "paupertony.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzc1MzkwLnBuZw==/315x250%23c/iEjOpN.png",
         "bias": 0
       },
       {
@@ -129,15 +156,6 @@
         "bias": 0
       },
       {
-        "title": "MuhammadAhsan_Unit1 [Free] [Racing]",
-        "link": "https://ahxan.itch.io/muhammadahsan-unit1",
-        "description": "",
-        "pubDate": "2025-09-29T13:55:26Z",
-        "source": "ahxan.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzc0NTMyLnBuZw==/315x250%23c/%2F3xlvN.png",
-        "bias": 0
-      },
-      {
         "title": "Hell's hunger [Free] [Adventure]",
         "link": "https://junpro.itch.io/hells-hunger",
         "description": "Mfw demons",
@@ -156,30 +174,12 @@
         "bias": 0
       },
       {
-        "title": "Patch It Up [Free] [Puzzle] [Windows]",
-        "link": "https://sekaiu.itch.io/patch-it-up",
-        "description": "From broken to beautiful—your doll workshop awaits!",
-        "pubDate": "2025-09-29T13:41:08Z",
-        "source": "sekaiu.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzc0NTAxLnBuZw==/315x250%23c/V%2B7wB9.png",
-        "bias": 0
-      },
-      {
         "title": "Stondle [Free] [Simulation] [Windows]",
         "link": "https://chemita-06.itch.io/stondle",
         "description": "This is a game about throwing rocks agains a wall.",
         "pubDate": "2025-09-29T13:23:39Z",
         "source": "chemita-06.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzc1MTk3LmpwZw==/315x250%23c/Hqcnjr.jpg",
-        "bias": 0
-      },
-      {
-        "title": "束縛姫/The Binding Princess [Free] [Adventure] [Windows]",
-        "link": "https://isekaiyouth.itch.io/the-binding-princess",
-        "description": "\"Eat. Run. Survive. Escape to Nara.\"",
-        "pubDate": "2025-09-29T13:20:49Z",
-        "source": "isekaiyouth.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzc0Mzg5LmpwZw==/315x250%23c/KV90t9.jpg",
         "bias": 0
       },
       {
@@ -230,6 +230,42 @@
     ],
     "World": [
       {
+        "title": "Eric Adams ends re-election bid for New York City mayor",
+        "link": "https://www.bbc.com/news/articles/cn761nkz6l5o?at_medium=RSS&at_campaign=rss",
+        "description": "Adams, elected in 2022 as a Democrat, was running as an independent after repeated scandals and indictment for alleged bribery.",
+        "pubDate": "2025-09-29T15:25:18Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c43/live/1bfac330-9c9e-11f0-be60-77dafac10a24.jpg",
+        "bias": 0
+      },
+      {
+        "title": "ICC Women’s World Cup 2025: Teams, schedule, tickets, India vs Pakistan",
+        "link": "https://www.aljazeera.com/sports/2025/9/29/icc-womens-world-cup-2025-teams-schedule-tickets-india-vs-pakistan?traffic_source=rss",
+        "description": "From tournament format to venues and top players to watch, here's Al Jazeera's guide to the Women's Cricket World Cup.",
+        "pubDate": "2025-09-29T15:18:23Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Moldova election results: Who won and did the diaspora play a role?",
+        "link": "https://www.aljazeera.com/news/2025/9/29/moldova-election-results-who-won-and-did-the-diaspora-play-a-role?traffic_source=rss",
+        "description": "Election was tense amid pro-EU government's fight to join the bloc and move further away from Russia.",
+        "pubDate": "2025-09-29T15:10:47Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "White House official claims gunman in Michigan attack ‘hated’ Mormons",
+        "link": "https://www.aljazeera.com/news/2025/9/29/white-house-official-claims-gunman-in-michigan-attack-hated-mormons?traffic_source=rss",
+        "description": "Authorities say they are still searching for a motive in shooting and fire that killed at least four people at a church.",
+        "pubDate": "2025-09-29T14:49:21Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Pro-Palestinian protester interrupts UK finance minister’s speech",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/9/29/pro-palestinian-protester-interrupts-uk-finance-ministers-speech?traffic_source=rss",
         "description": "UK minister Rachel Reeves was interrupted by a protester holding a Palestinian flag during her speech",
@@ -255,6 +291,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "What we know about the deadly shooting at a Michigan Mormon church - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS2NiV0lpUXBqWmEwazBucnJFdHcxampWVFFWa3N0OU9Sa1FnVzZpZjdSODZuQVlYSWd2QTZDUDdYX1VVRVNuSWpfNy1ZUVo2YjItX3BYaEEzUDlCNVdnZFBsOG9ZbThVTFo0TnJHU01kNEl3ZlhWVEhPcWNFOHJaYV9QS1B6Z3U4NlpPOXh0QXFIVDQyZHNjY0VFWm5VZw?oc=5",
+        "description": "",
+        "pubDate": "2025-09-29T14:06:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Trump's big bill is prompting urgent action in some Democratic states, but not in Republican ones - AP News",
@@ -300,15 +345,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "What we know about the deadly shooting at a Michigan Mormon church - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS2NiV0lpUXBqWmEwazBucnJFdHcxampWVFFWa3N0OU9Sa1FnVzZpZjdSODZuQVlYSWd2QTZDUDdYX1VVRVNuSWpfNy1ZUVo2YjItX3BYaEEzUDlCNVdnZFBsOG9ZbThVTFo0TnJHU01kNEl3ZlhWVEhPcWNFOHJaYV9QS1B6Z3U4NlpPOXh0QXFIVDQyZHNjY0VFWm5VZw?oc=5",
-        "description": "",
-        "pubDate": "2025-09-29T13:36:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Government shutdown draws closer as congressional leaders head to the White House - AP News",
@@ -642,42 +678,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Several killed as US shooter attacks Mormon church and sets it on fire",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/9/29/several-killed-as-us-shooter-attacks-mormon-church-and-sets-it-on-fire?traffic_source=rss",
-        "description": "A gunman opens fire at Mormon church in Michigan during Sunday service, then sets building ablaze.",
-        "pubDate": "2025-09-29T10:22:57Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "How to ‘fake’ food in Gaza",
-        "link": "https://www.aljazeera.com/features/2025/9/29/how-to-fake-food-amid-gazas-famine?traffic_source=rss",
-        "description": "The author's family has turned what meagre foods are available in Gaza into 'fakes' of things they are used to eating.",
-        "pubDate": "2025-09-29T10:22:29Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Al Jazeera reporter films Israeli strike on building in Gaza City",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/9/29/al-jazeera-reporter-films-israeli-strike-on-building-in-gaza-city?traffic_source=rss",
-        "description": "Ibrahim al-Khalili filmed the moment an Israeli strike targeted a building behind him in Gaza City.",
-        "pubDate": "2025-09-29T10:11:49Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Eagles send a message to the NFL and the 31 other teams with the fake tush push - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVkl2UjZDRzZSSTlzX0xHM0NWTG1WYUM2T0xaVnB1LWg0amJSbjg5RFVrNnBQbHJ3dFJLbmZEaVhBMVEwWWxhanY2d3Q5cTlzUnlRdXBFM084SU1QNTM1X1QtTFYxUTZLcmNBUHFkZFp2Z3pyaEtnYUhjVGtSbEc0S0o2Y044eGRKUGZUQkJxeUdJaWI0UFJEUTdvcUZYdGRRQWZwOHdscVJUTEdGTThCeUpUMUI0YTQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-29T10:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
@@ -761,6 +761,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "CEO of drugmaker GSK to step down by year’s end - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLUV0RkRlMGxCWktRWjVmQmR0aGdvTV9QMl9uSHVxSm56M2w1NXExaE1YU19MelRxbjNKSDBucWFsc2k2Z0ZZdXZScTVjcWVHdEFDTXVjYTN1ekxvOXlaaXVGT3VtR3BEN3ZZdGFOTnlaUWhCMHhFRTlfV1lTeHRnN0ZuZ2VzT1JmYl9xTnBPZEFaYkZ5My1saThoTQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-29T09:04:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Top congressional leaders head to the White House ahead of shutdown deadline",
@@ -859,15 +868,6 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcVQwQnVncmk1V2pGOTRaSFhoX0tKUkhRampveW5CVU1iZmItRnR4ZUhMYTNnM1loYjVUR1NkOXNVVFl1MWRSZWprY3ZDQW9Ua2l5eW0zZUxacDgydGQwbEFRTFlxdnVhZnBGc3AxUnFOeFVteXNJWVNocEp2TUFzODBmbnFsSmdocXBiNHZJS1lSWkdzN1RN?oc=5",
         "description": "",
         "pubDate": "2025-09-29T09:08:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "CEO of drugmaker GSK to step down by year’s end - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLUV0RkRlMGxCWktRWjVmQmR0aGdvTV9QMl9uSHVxSm56M2w1NXExaE1YU19MelRxbjNKSDBucWFsc2k2Z0ZZdXZScTVjcWVHdEFDTXVjYTN1ekxvOXlaaXVGT3VtR3BEN3ZZdGFOTnlaUWhCMHhFRTlfV1lTeHRnN0ZuZ2VzT1JmYl9xTnBPZEFaYkZ5My1saThoTQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-29T09:04:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
