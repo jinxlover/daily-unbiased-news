@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-09-29T16:39:05.313613Z",
+  "lastUpdate": "2025-09-29T16:49:48.388790Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Karat Kwest [Free] [Platformer]",
+        "link": "https://elliotody.itch.io/karat-kwest",
+        "description": "A bunny's quest for golden carrots.",
+        "pubDate": "2025-09-29T16:29:24Z",
+        "source": "elliotody.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzc2Njc0LnBuZw==/315x250%23c/N3y70w.png",
+        "bias": 0
+      },
       {
         "title": "Hand of the City [Free] [Card Game] [Windows] [macOS] [Linux]",
         "link": "https://kettle-games.itch.io/hand-of-the-city",
@@ -174,15 +183,6 @@
         "bias": 0
       },
       {
-        "title": "Altria Quest [Free] [Adventure] [Windows]",
-        "link": "https://toxicpyro.itch.io/altriaquest",
-        "description": "Escape the eeeeevil Lost Woods",
-        "pubDate": "2025-09-29T14:31:31Z",
-        "source": "toxicpyro.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzc1MjMxLnBuZw==/315x250%23c/RiyDJT.png",
-        "bias": 0
-      },
-      {
         "title": "Coral Guard [Free] [Action]",
         "link": "https://putanet.itch.io/coral-guard",
         "description": "Pilot a small submarine through the ocean, collect trash, and avoid colliding with corals!",
@@ -201,9 +201,9 @@
         "bias": 0
       },
       {
-        "title": "Coffee [Free]",
+        "title": "Run With Your Coffee [Free] [Platformer]",
         "link": "https://prti.itch.io/coffee",
-        "description": "A game about making coffee mugs and seeing what kinds of drinks you can make!",
+        "description": "A game about making coffee mugs and trying yourself in the hunting grounds.",
         "pubDate": "2025-09-29T14:07:46Z",
         "source": "prti.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzc2MTMyLnBuZw==/315x250%23c/X2m3F4.png",
@@ -226,15 +226,6 @@
         "source": "hexagonnico.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzcxNzUxLnBuZw==/315x250%23c/BblLsm.png",
         "bias": 0
-      },
-      {
-        "title": "Catch That Bluebird [Free] [Visual Novel] [Windows] [macOS] [Linux]",
-        "link": "https://thebetapop.itch.io/catch-that-bluebird",
-        "description": "Can you catch the infamous thief?",
-        "pubDate": "2025-09-29T02:17:30Z",
-        "source": "thebetapop.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzczNjMxLnBuZw==/315x250%23c/qKtPlV.png",
-        "bias": 0
       }
     ],
     "World": [
@@ -242,7 +233,7 @@
         "title": "Live updates: Netanyahu and Trump meet as pressure to end the war in Gaza mounts - AP News",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WR2xmbmd6Vlg0OTV6TEtVQlZ1bVI3N0NRNGF4aFJISFZMamxSMFJjR19yb2FCalY3LXd1dndUM0lGd0c2N0xmcUxQQ1Y3RXh3WGNmTjRvbzFpZVVNSUJudnFEODBQRmlwRTVn?oc=5",
         "description": "",
-        "pubDate": "2025-09-29T16:37:00Z",
+        "pubDate": "2025-09-29T16:41:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -266,21 +257,21 @@
         "bias": -1
       },
       {
+        "title": "Trump and Netanyahu meet at the White House as pressure mounts to end the war in Gaza - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTHZrNjNpQ3VnQ3RMMzgyWmZvbV9yR04ybm9QUHdvSUJzRTVEZFNhb25wS1dHc0Q4ZzFzelplbmFDcGNtOHFaVXI1WW5QMl9yMld6Qkx3NDFnMkgxdDRUamthek1aMTluREl1WkkwSmYyV0s0V2ZfWFZMOVhqVHU3cDlDZEQyeDV1ZGktZ1IzWlpTWUtTcmNzOURUSktlUQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-29T16:12:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "South Sudan court rejects ex-VP's bid to halt murder and treason trial",
         "link": "https://www.bbc.com/news/articles/ckg3088dqw5o?at_medium=RSS&at_campaign=rss",
         "description": "The special court rules that Riek Machar is not immune from prosecution and it can put him on trial.",
         "pubDate": "2025-09-29T15:45:20Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f73b/live/3d1b8590-9d25-11f0-8d30-39a07caee29f.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Trump and Netanyahu meet at the White House as pressure mounts to end the war in Gaza - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTHZrNjNpQ3VnQ3RMMzgyWmZvbV9yR04ybm9QUHdvSUJzRTVEZFNhb25wS1dHc0Q4ZzFzelplbmFDcGNtOHFaVXI1WW5QMl9yMld6Qkx3NDFnMkgxdDRUamthek1aMTluREl1WkkwSmYyV0s0V2ZfWFZMOVhqVHU3cDlDZEQyeDV1ZGktZ1IzWlpTWUtTcmNzOURUSktlUQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-29T15:44:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -482,6 +473,15 @@
         "bias": -1
       },
       {
+        "title": "Travelers bothered by their flight’s pollution can pay to reduce it elsewhere. Do offsets work? - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcDVlTEZNVzdTMFF0UUhRMDlHWGZIZVFUVjJHMTl2b0NYb3JqbE9sanBYbGh0WXV4dXBLUzQtZmlZVVh5Y0FaMG9zVExwemo2cTAwWjlpMGp2M2JPUENiN1k5dnNBXzZxa0VENlNsTWc0YVNEQjFxT1FqbXdya2dYLXJWSDBCT1JVeE8xdklxZmJJUVlqdTZhZ19hOGw5V09vNFhPVDBLZXNTb1NoMTRyOGU2YUNkUDhUcFJj?oc=5",
+        "description": "",
+        "pubDate": "2025-09-29T13:43:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Micah Parsons’ hyped return to Dallas ends with Cowboys and Packers in 40-40 tie - AP News",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaWMtNXVVdmY3S1lacjBqSGdJZDNxSXpoUUhnUGVWRTEtM3NpQnBLcnZzbnpTQjdzeUlLSDNsWUpIVmtObjNCZ21BTC1aam5uYjdSMlViWDdBWUVkcjZ0S3RIUmxIVUZ1cUlyYmZGZTV0X204MzNZVDkxbnVwVFAzOEhXYUVUbnhwYjZYTzBMdlQ5Znd4MFJSb2w5SQ?oc=5",
         "description": "",
@@ -518,15 +518,6 @@
         "bias": 0
       },
       {
-        "title": "Some air travelers bothered by their flight’s emissions turn to carbon offsets. Do they work? - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcDVlTEZNVzdTMFF0UUhRMDlHWGZIZVFUVjJHMTl2b0NYb3JqbE9sanBYbGh0WXV4dXBLUzQtZmlZVVh5Y0FaMG9zVExwemo2cTAwWjlpMGp2M2JPUENiN1k5dnNBXzZxa0VENlNsTWc0YVNEQjFxT1FqbXdya2dYLXJWSDBCT1JVeE8xdklxZmJJUVlqdTZhZ19hOGw5V09vNFhPVDBLZXNTb1NoMTRyOGU2YUNkUDhUcFJj?oc=5",
-        "description": "",
-        "pubDate": "2025-09-29T13:08:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Pro-Palestine activist interrupts UK minister speech at Labour conference",
         "link": "https://www.aljazeera.com/news/2025/9/29/pro-palestine-activist-interrupts-uk-minister-speech-at-labour-conference?traffic_source=rss",
         "description": "The protester disrupts Rachel Reeves' speech to demand the government end 'complicity' in the war in Gaza.",
@@ -534,6 +525,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Gunmen kill 12 forest guards in Nigeria’s northcentral region - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPY1kwaXNuQVprQVo1WFF1bTBXczdJT1o3bmgta0cxd3dWNHgtU2J6ZFc1OTl3QkR2Wnd0UWU3N0tPWVhhaF9rVEJ0VFJIb0lmcWlHX1BvdjBpYmstWjlYS2hBS3dybmt0T0dyT18zLXI4c0o5WndEMUt1bmJZN01yaE91WmFONVhPcWlGSGhOUEYtQlRuTGFVQkJR?oc=5",
+        "description": "",
+        "pubDate": "2025-09-29T12:59:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Al Jazeera follows forced displacement journeys from Gaza City",
@@ -678,15 +678,6 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24bb/live/c92eae90-9d11-11f0-a8fe-677b0b0b2d56.jpg",
         "bias": 0
-      },
-      {
-        "title": "China sentences 11 members of mafia family to death",
-        "link": "https://www.bbc.com/news/articles/c78nrx309kzo?at_medium=RSS&at_campaign=rss",
-        "description": "They were one of four families who turned a Myanmar town into a hub for gambling, drugs and scam centres.",
-        "pubDate": "2025-09-29T11:18:52Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90e4/live/dedfeba0-9d1b-11f0-aa0c-6923d2781ecc.jpg",
-        "bias": 0
       }
     ],
     "Politics": [
@@ -763,15 +754,6 @@
         "bias": 0
       },
       {
-        "title": "AP Top 25 Extra Points: Elliott would go from hot seat to hot coach if No. 24 Virginia keeps rising - AP News",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zY1dqelJFOVlTMTVISmJNS0xTQ2xWWnNUUGtzc0haa3JFaUFJT2d5akF2Sk91ODNUSkRzMU5acVI4bl84UjB2d2VIa2F2dTB3TklXQnhUQWt0S1lZWjBYSDdTNnBVMndsMkMwOGJhVVhNWkpqRzZmeA?oc=5",
-        "description": "",
-        "pubDate": "2025-09-29T11:37:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Dar Global to launch a $1 billion project in Saudi Arabia in a deal with Trump Organization - AP News",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTDZ3cklPRURQb01ESVRmeVUtSkxqQVZhd1V6ZkJudE5hRjFoaVJtbDBTNkhaaUNWMGhKUlRRczZoNEFJcUxqaHh5VVg1VzV3VUM5Z1BsMWh3YmlJSG9tY3ZCb3ZNWnU4QW1Fdms2ZHBFVlZlRjZJemRyVU5rYmNWYWNidk1FMlcycWpncHlDSjRYRGp4YWxURDQ3Q3FPaHljNWlRamVLdHZYYldVMHc?oc=5",
         "description": "",
@@ -806,15 +788,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "CEO of drugmaker GSK to step down by year’s end - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLUV0RkRlMGxCWktRWjVmQmR0aGdvTV9QMl9uSHVxSm56M2w1NXExaE1YU19MelRxbjNKSDBucWFsc2k2Z0ZZdXZScTVjcWVHdEFDTXVjYTN1ekxvOXlaaXVGT3VtR3BEN3ZZdGFOTnlaUWhCMHhFRTlfV1lTeHRnN0ZuZ2VzT1JmYl9xTnBPZEFaYkZ5My1saThoTQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-29T09:04:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Top congressional leaders head to the White House ahead of shutdown deadline",
@@ -918,21 +891,21 @@
         "bias": 0
       },
       {
+        "title": "CEO of drugmaker GSK to step down by year’s end - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLUV0RkRlMGxCWktRWjVmQmR0aGdvTV9QMl9uSHVxSm56M2w1NXExaE1YU19MelRxbjNKSDBucWFsc2k2Z0ZZdXZScTVjcWVHdEFDTXVjYTN1ekxvOXlaaXVGT3VtR3BEN3ZZdGFOTnlaUWhCMHhFRTlfV1lTeHRnN0ZuZ2VzT1JmYl9xTnBPZEFaYkZ5My1saThoTQ?oc=5",
+        "description": "",
+        "pubDate": "2025-09-29T09:04:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "'You'll never need to work again': Criminals offer reporter money to hack BBC",
         "link": "https://www.bbc.com/news/articles/c3w5n903447o?at_medium=RSS&at_campaign=rss",
         "description": "Reporter Joe Tidy was offered money if he would help cyber criminals access BBC systems.",
         "pubDate": "2025-09-29T05:00:28Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c59d/live/6c648fe0-9d11-11f0-92db-77261a15b9d2.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Ryder Cup summaries from the 12 singles matches - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUC10SXVYMURxdmNhNlVUeDFTQ3QtWGFfaHVpRUlDc0J5Tzg2MTZnbVFmUE5VUVA0RTVwbG0wZTJCZlpRWmI5cHFUcUJvX1lDRXU3a0ZxRjFVMWY5MXRqdlZLZm11QkludkVIVXp6anJOLVI3V3NwbVhyZjdrYVZHV0phUVJLaDBBUEI4YkRwNXFFc2daNE5Gc0hoSHpZTktsa3c?oc=5",
-        "description": "",
-        "pubDate": "2025-09-29T00:10:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       }
     ],
@@ -948,6 +921,24 @@
       }
     ],
     "Business": [
+      {
+        "title": "Compass-Anywhere real estate merger could squeeze small brokerages",
+        "link": "https://www.npr.org/2025/09/29/nx-s1-5554360/real-estate-compass-anywhere-brokerages",
+        "description": "The deal, announced earlier this week, would combine the two largest U.S. residential brokerages by sales volume.",
+        "pubDate": "2025-09-29T16:45:36Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Faisal Islam: Reeves pre-emptively justifies tax rises",
+        "link": "https://www.bbc.com/news/articles/cj6x07j9e43o?at_medium=RSS&at_campaign=rss",
+        "description": "The chancellor linked tough decisions \"in coming months\" to global headwinds and OBR productivity reassessment.",
+        "pubDate": "2025-09-29T16:36:04Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/934d/live/cc4166d0-9d53-11f0-95c2-53ceeaf2aec3.jpg",
+        "bias": 0
+      },
       {
         "title": "Trump renews threat to impose 100% tariffs on non-US made movies",
         "link": "https://www.bbc.com/news/articles/c4g78e809zqo?at_medium=RSS&at_campaign=rss",
@@ -1005,6 +996,15 @@
     ],
     "Culture": [
       {
+        "title": "Where is her husband?! Raye on her hit song and five-year plan to start a family",
+        "link": "https://www.bbc.com/news/articles/cjr5zzg1n29o?at_medium=RSS&at_campaign=rss",
+        "description": "Chatting with her sisters, the pop star says her new single, Where Is My Husband!, is a pop manifesto.",
+        "pubDate": "2025-09-29T16:43:39Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3444/live/a45a5040-9d1d-11f0-aa0c-6923d2781ecc.png",
+        "bias": 0
+      },
+      {
         "title": "Terry Farrell, architect who designed MI6 building, dies",
         "link": "https://www.bbc.com/news/articles/cxe2v471r03o?at_medium=RSS&at_campaign=rss",
         "description": "He also designed the headquarters for ITV's 80s breakfast show TV-am, with giant eggcups on the roof.",
@@ -1056,15 +1056,6 @@
         "pubDate": "2025-09-29T07:43:19Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52a6/live/5cf4bbc0-9d07-11f0-a8fe-677b0b0b2d56.jpg",
-        "bias": 0
-      },
-      {
-        "title": "The castle transformed for new Netflix show House of Guinness",
-        "link": "https://www.bbc.com/news/articles/cvgn8gnk0p8o?at_medium=RSS&at_campaign=rss",
-        "description": "New Netflix drama captures the Guinness legacy within the walls of Penrhyn Castle in north Wales.",
-        "pubDate": "2025-09-29T05:21:20Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f462/live/70d8fab0-9c45-11f0-b741-177e3e2c2fc7.png",
         "bias": 0
       },
       {
