@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-29T11:16:26.832037Z",
+  "lastUpdate": "2025-09-29T11:28:41.852447Z",
   "news": {
     "Gaming": [
       {
@@ -18,6 +18,15 @@
         "pubDate": "2025-09-29T11:02:58Z",
         "source": "lezog.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzcyNTE3LnBuZw==/315x250%23c/JVdA47.png",
+        "bias": 0
+      },
+      {
+        "title": "FrogMan [Free] [Platformer]",
+        "link": "https://ville1.itch.io/frogman",
+        "description": "FrogMan platformer",
+        "pubDate": "2025-09-29T10:55:53Z",
+        "source": "ville1.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzcyMzc0LnBuZw==/315x250%23c/dlHuwC.png",
         "bias": 0
       },
       {
@@ -129,6 +138,15 @@
         "bias": 0
       },
       {
+        "title": "Snake – Classic Arcade Remade in C++ [Free] [Windows]",
+        "link": "https://refikysg.itch.io/snake",
+        "description": "A fast, lightweight Snake game coded in C++ with smooth controls, retro feel, and modern polish.",
+        "pubDate": "2025-09-29T09:23:18Z",
+        "source": "refikysg.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzcyNDU2LnBuZw==/315x250%23c/dBQ%2BXx.png",
+        "bias": 0
+      },
+      {
         "title": "DAB 1K [Free] [Other]",
         "link": "https://godsb1t.itch.io/dab-1k",
         "description": "A basic little game of \"Dots and boxes\"",
@@ -165,24 +183,6 @@
         "bias": 0
       },
       {
-        "title": "Male Base Mesh Low Poly [Free] [Adventure]",
-        "link": "https://jonadb.itch.io/male-base-low-poly",
-        "description": "",
-        "pubDate": "2025-09-29T08:55:37Z",
-        "source": "jonadb.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzcxNTk4LnBuZw==/315x250%23c/5WFpGe.png",
-        "bias": 0
-      },
-      {
-        "title": "Banana Jumper [Free] [Platformer]",
-        "link": "https://opabratan.itch.io/banana-jumper",
-        "description": "2D Pixelart Sideview",
-        "pubDate": "2025-09-29T08:50:52Z",
-        "source": "opabratan.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzcxNTkwLnBuZw==/315x250%23c/96LmQ1.png",
-        "bias": 0
-      },
-      {
         "title": "Zombie Chaos [Free] [Survival] [Windows]",
         "link": "https://a-show.itch.io/zombie-chaos",
         "description": "",
@@ -210,15 +210,6 @@
         "bias": 0
       },
       {
-        "title": "Baby Fever!! [Free] [Action]",
-        "link": "https://tanukigirl83.itch.io/baby-fever",
-        "description": "Make some new parents happy and deliver their babies",
-        "pubDate": "2025-09-29T07:58:52Z",
-        "source": "tanukigirl83.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzcxNjQxLnBuZw==/315x250%23c/QqfuXc.png",
-        "bias": 0
-      },
-      {
         "title": "BananaBros [Free] [Platformer]",
         "link": "https://krispp2010.itch.io/bananabros",
         "description": "Co-op  puzzle platformer",
@@ -238,6 +229,24 @@
       }
     ],
     "World": [
+      {
+        "title": "China sentences 11 members of mafia family to death",
+        "link": "https://www.bbc.com/news/articles/c78nrx309kzo?at_medium=RSS&at_campaign=rss",
+        "description": "They were one of four families who turned a Myanmar town into a hub for gambling, drugs and scam centres.",
+        "pubDate": "2025-09-29T11:18:52Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90e4/live/dedfeba0-9d1b-11f0-aa0c-6923d2781ecc.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Army sent to battle fire in Namibia tourist hotspot",
+        "link": "https://www.bbc.com/news/articles/c9wdne7kdw8o?at_medium=RSS&at_campaign=rss",
+        "description": "Etosha National Park is home to endangered black rhinos and more than 100 diverse mammal species.",
+        "pubDate": "2025-09-29T11:17:09Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18ca/live/3bc97ba0-9c8c-11f0-95c6-7592d7636e22.jpg",
+        "bias": 0
+      },
       {
         "title": "Moldova's pro-EU party wins vote mired in claims of Russian interference",
         "link": "https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss",
@@ -282,15 +291,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Army sent to battle fire in Namibia tourist hotspot",
-        "link": "https://www.bbc.com/news/articles/c9wdne7kdw8o?at_medium=RSS&at_campaign=rss",
-        "description": "Etosha National Park is home to endangered black rhinos and more than 100 diverse mammal species.",
-        "pubDate": "2025-09-29T10:50:19Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18ca/live/3bc97ba0-9c8c-11f0-95c6-7592d7636e22.jpg",
-        "bias": 0
       },
       {
         "title": "Russian attacks keep “pushing the limits” of NATO countries",
@@ -678,18 +678,27 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Regulators struggle to keep up with the fast-moving and complicated landscape of AI therapy apps - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT2U5X09abXFXU0NoRUJnSEhybUtjT3RBR0dLbFFObTR6ZnNHaEp3TExjblA1WWVrMHhpRUVTdGVjYWJhUGRDN2VCWGl2OGYtYVd1c0xvRjFEMzNhZThwVWxKUGg4NFd0SC02Sl9lUEdYaHNhUjZ5M3F2N0tPLWNCZTgycmxER3NsSjV4TlhGcHMtU19IcGdn?oc=5",
-        "description": "",
-        "pubDate": "2025-09-29T04:01:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "What happened to plans for a Muslim war memorial?",
+        "link": "https://www.bbc.com/articles/c93d1wxzq60o?at_medium=RSS&at_campaign=rss",
+        "description": "In 2024 the Conservatives pledged £1m towards a Muslim war memorial. So what happened to it?",
+        "pubDate": "2025-09-29T11:15:50Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b144/live/d4fc4ef0-9576-11f0-84c8-99de564f0440.jpg",
+        "bias": 0
+      },
+      {
+        "title": "The latest on the Michigan church shooting. And, Trump's new plan to end war in Gaza",
+        "link": "https://www.npr.org/2025/09/29/g-s1-91016/up-first-newsletter-michigan-church-shooting-government-shutdown-israel-gaza",
+        "description": "The FBI is searching for answers as to why a man drove his truck into a church yesterday and opened fire. And, Trump has a new proposed plan to end the war in Gaza.",
+        "pubDate": "2025-09-29T11:11:39Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Mahmood to demand migrants earn right to settled status",
         "link": "https://www.bbc.com/news/articles/c0m4g3zvy02o?at_medium=RSS&at_campaign=rss",
@@ -711,7 +720,7 @@
       {
         "title": "Sen. Amy Klobuchar talks about the potential for a government shutdown",
         "link": "https://www.npr.org/2025/09/29/nx-s1-5554358/sen-amy-klobuchar-talks-about-the-potential-for-a-government-shutdown",
-        "description": "",
+        "description": "Sen. Amy Klobuchar, D-Minn., talks about the negotiations happening on Capitol Hill and at the White House over a potential government shutdown.",
         "pubDate": "2025-09-29T10:26:26Z",
         "source": "npr.org",
         "image": "",
@@ -833,6 +842,15 @@
       }
     ],
     "Culture": [
+      {
+        "title": "Stars turn out for final Armani fashion show in Milan",
+        "link": "https://www.bbc.com/news/articles/cjw78l98lg4o?at_medium=RSS&at_campaign=rss",
+        "description": "Cate Blanchett and Glenn Close are in the front row to see the late Italian designer's final collection.",
+        "pubDate": "2025-09-29T11:15:58Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6db/live/5cb634b0-9d1e-11f0-bc17-37f040c2fadb.jpg",
+        "bias": 0
+      },
       {
         "title": "Super Furry Animals to play first tour in a decade",
         "link": "https://www.bbc.com/news/articles/cdx2kyl66ryo?at_medium=RSS&at_campaign=rss",
