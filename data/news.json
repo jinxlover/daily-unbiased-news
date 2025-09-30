@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-09-30T09:20:04.730694Z",
+  "lastUpdate": "2025-09-30T09:36:43.779329Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Music Tiles - prototype [Free] [Survival]",
+        "link": "https://luckygoxer.itch.io/music-tiles-prototype",
+        "description": "In this game, you have to type the right letters to make them disappear.",
+        "pubDate": "2025-09-30T09:20:12Z",
+        "source": "luckygoxer.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzg4MjMzLnBuZw==/315x250%23c/JTtMDz.png",
+        "bias": 0
+      },
       {
         "title": "Раздор: правила «Штопора»! [Free] [Simulation]",
         "link": "https://atomefan.itch.io/strife-corkscrew-rules",
@@ -95,7 +104,7 @@
       {
         "title": "Don't Spill The Elixir! [Free] [Puzzle] [Windows]",
         "link": "https://skel150.itch.io/dont-spill-the-elixir",
-        "description": "Tetris-like puzzle game",
+        "description": "A simple, satisfying tetris-like puzzle game.",
         "pubDate": "2025-09-30T08:06:11Z",
         "source": "skel150.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzg4MDY3LnBuZw==/315x250%23c/QdIEnE.png",
@@ -156,15 +165,6 @@
         "bias": 0
       },
       {
-        "title": "CANTSLEEP [Free] [Visual Novel] [Windows] [macOS]",
-        "link": "https://zeroisless.itch.io/cantsleep",
-        "description": "",
-        "pubDate": "2025-09-30T07:06:39Z",
-        "source": "zeroisless.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzg3MDc1LmpwZw==/315x250%23c/w4scFq.jpg",
-        "bias": 0
-      },
-      {
         "title": "There Is Nothing Wrong Here [Free]",
         "link": "https://jadonz.itch.io/there-is-nothing-wrong-here",
         "description": "",
@@ -211,6 +211,33 @@
       }
     ],
     "World": [
+      {
+        "title": "5 takeaways from the U.S. ceasefire proposal for Israel and Hamas",
+        "link": "https://www.npr.org/2025/09/30/g-s1-91244/5-takeaways-from-the-u-s-ceasefire-proposal-for-israel-and-hamas",
+        "description": "",
+        "pubDate": "2025-09-30T09:26:27Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Chinese woman convicted after 'world's biggest' bitcoin seizure",
+        "link": "https://www.bbc.com/news/articles/cy0415kk3rzo?at_medium=RSS&at_campaign=rss",
+        "description": "UK police seized crypto worth over £5bn from Zhimin Qian, who was known as 'the goddess of wealth'.",
+        "pubDate": "2025-09-30T09:24:33Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e08/live/38630a80-9dbd-11f0-92db-77261a15b9d2.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Entire Ukrainian family killed in Russian drone strike, officials say",
+        "link": "https://www.bbc.com/news/articles/cdxqdpgznzeo?at_medium=RSS&at_campaign=rss",
+        "description": "The bodies of two young boys and their parents were recovered from their destroyed home in the Sumy region, rescuers say.",
+        "pubDate": "2025-09-30T09:20:57Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1e4/live/fa34b6d0-9ddc-11f0-9108-f9efa9785693.png",
+        "bias": 0
+      },
       {
         "title": "Former aide to far-right German politician jailed for spying for China",
         "link": "https://www.bbc.com/news/articles/c99g52y7k1xo?at_medium=RSS&at_campaign=rss",
@@ -266,6 +293,15 @@
         "bias": -1
       },
       {
+        "title": "Afghan women lose their 'last hope' as Taliban shuts down internet",
+        "link": "https://www.bbc.com/news/articles/c98dmq03n92o?at_medium=RSS&at_campaign=rss",
+        "description": "For many women, the internet was their last resource. An internet shutdown threatens to end this.",
+        "pubDate": "2025-09-30T08:24:05Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/062c/live/847c5980-9dc7-11f0-92db-77261a15b9d2.jpg",
+        "bias": 0
+      },
+      {
         "title": "Venezuela’s Maduro ready to declare state of emergency if US attacks",
         "link": "https://www.aljazeera.com/news/2025/9/30/venezuelas-maduro-says-ready-to-declare-state-of-emergency-if-us-attacks?traffic_source=rss",
         "description": "Maduro also gives himself special powers to mobilise army and give it authority over public services and oil industry.",
@@ -281,6 +317,15 @@
         "pubDate": "2025-09-30T08:14:00Z",
         "source": "news.google.com",
         "image": "",
+        "bias": 0
+      },
+      {
+        "title": "US shutdown looms after Trump and Democrats end meeting without a deal",
+        "link": "https://www.bbc.com/news/articles/c2kn3n315lko?at_medium=RSS&at_campaign=rss",
+        "description": "Democrats say there are still \"very large differences\" between the two sides, while Republicans have accused them of  \"not doing the right thing\".",
+        "pubDate": "2025-09-30T08:01:11Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4382/live/47d00c30-9d8a-11f0-92db-77261a15b9d2.jpg",
         "bias": 0
       },
       {
@@ -354,15 +399,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Leaders in Middle East and Europe welcome Trump's Gaza peace plan",
-        "link": "https://www.bbc.com/news/articles/c1dq9xwngv2o?at_medium=RSS&at_campaign=rss",
-        "description": "Donald Trump says if Hamas rejects the plan, Israel will have US backing to \"finish the job of destroying the threat\" from the armed group.",
-        "pubDate": "2025-09-30T06:42:55Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bf8/live/0b64c870-9dae-11f0-b741-177e3e2c2fc7.jpg",
-        "bias": 0
       },
       {
         "title": "FBI boss Kash Patel gave New Zealand officials 3D-printed guns illegal to possess under local laws - AP News",
@@ -581,15 +617,6 @@
         "bias": 0
       },
       {
-        "title": "Trump renews threat to impose 100% tariffs on non-US made movies",
-        "link": "https://www.bbc.com/news/articles/c4g78e809zqo?at_medium=RSS&at_campaign=rss",
-        "description": "The president believes the American film-making industry has been \"stolen\" by other countries.",
-        "pubDate": "2025-09-30T02:01:37Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e9c/live/964888c0-2994-11f0-8c66-ebf25fc2cfef.jpg",
-        "bias": 0
-      },
-      {
         "title": "Moldova’s pro-EU party wins clear parliamentary majority, defeating pro-Russian groups - AP News",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUzUwZ003eUtJMWhfWXNSQ2Q1NXhxMlJIalQ5ZlVBTEdkczJtNnZMNUxkVGZvWGJSZFhQMHlfTF9famhDdG90a1VSbUJ6OHVnS2Z4WlpkM3E1ZVBEb1ZwWlQzY1R6eW52d2tXYkppNU4wWnRQallTM2RGR2JxMERuMENRQXF2cTlUTWNyb18xNFZCSWc3NmJ1M2d5aTZ3Zw?oc=5",
         "description": "",
@@ -633,33 +660,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Judge suspends Trump administration’s plan to eliminate hundreds of Voice of America jobs - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYk5vZ2tNNjk4MnNEWjdGcnpGcWxiOHFtUWt0QUlYajg3bnZoWklaME54dTFTanZCYVhVdjItX01PbUVmRm5LQXpQdnM5MHlHTzZyYkpXMmhjekU0OUd3M3RBV1FpVm9kTGFqclZkbEhtWVFOSm1oS0ROZjcwdFhvdXpoTFVibWpJV0dXaDlpWnc0TGpOWWRr?oc=5",
-        "description": "",
-        "pubDate": "2025-09-30T00:22:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "LIVE: Israel kills 30 people in Gaza; Hamas reviews Trump’s plan to end war",
-        "link": "https://www.aljazeera.com/news/liveblog/2025/9/30/live-israel-kills-39-in-gaza-as-hamas-reviews-trumps-proposal-to-end-war?traffic_source=rss",
-        "description": "Palestinians in Gaza say the proposal raises questions around implementation as Israeli attacks continue.",
-        "pubDate": "2025-09-30T00:00:00Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Louisiana issues a warrant to arrest California doctor accused of mailing abortion pills - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcDBGR2VJT0JxdnNTdDVqa19YUFp3VHRXZUJ5eDdnUm92Q2lsMGhMZVFCYVNSZTY3XzRlam9RM2pRTG1jZEphQ2hTZ0J3bjlLMFpBVkRwUFhGTTIybk5Odl9ZVVBlcnRzWW01SDR3UmdPU3ozOU51M2FMdkFFYXIyTFhNeU9HMUlzTTJwN0JxV2k3Z2paRWpzT1FDaEwydk0tLW96eE9NTVpxYmVpSk9qQkJCZE9XU2lK?oc=5",
-        "description": "",
-        "pubDate": "2025-09-30T00:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
@@ -673,18 +673,18 @@
         "bias": -1
       },
       {
-        "title": "Federal workers who took Trump's buyout get final paychecks and an uncertain future",
-        "link": "https://www.npr.org/2025/09/30/nx-s1-5545715/federal-employees-fork-deferred-resignation-trump",
-        "description": "Federal workers who took the Trump administration's buyout offer come off the payroll at the end of September. Now some are confronting fear, regret and uncertainty as they figure out what's next.",
+        "title": "Government to shut down after midnight barring last minute breakthrough in Congress",
+        "link": "https://www.npr.org/2025/09/30/g-s1-91217/government-shutdown-midnight",
+        "description": "Democrats and Republicans have been unable to resolve an impasse over federal healthcare spending. The government will shutdown at the end of the day on Tuesday barring a last-minute breakthrough.",
         "pubDate": "2025-09-30T09:00:00Z",
         "source": "npr.org",
         "image": "",
         "bias": -1
       },
       {
-        "title": "Government to shut down after midnight barring last minute breakthrough in Congress",
-        "link": "https://www.npr.org/2025/09/30/g-s1-91217/government-shutdown-midnight",
-        "description": "Democrats and Republicans have been unable to resolve an impasse over federal healthcare spending. The government will shutdown at the end of the day on Tuesday barring a last-minute breakthrough.",
+        "title": "Federal workers who took Trump's buyout get final paychecks and an uncertain future",
+        "link": "https://www.npr.org/2025/09/30/nx-s1-5545715/federal-employees-fork-deferred-resignation-trump",
+        "description": "Federal workers who took the Trump administration's buyout offer come off the payroll at the end of September. Now some are confronting fear, regret and uncertainty as they figure out what's next.",
         "pubDate": "2025-09-30T09:00:00Z",
         "source": "npr.org",
         "image": "",
@@ -756,15 +756,6 @@
     ],
     "Tech": [
       {
-        "title": "Chinese woman convicted after 'world's biggest' bitcoin seizure",
-        "link": "https://www.bbc.com/news/articles/cy0415kk3rzo?at_medium=RSS&at_campaign=rss",
-        "description": "UK police seized crypto worth over £5bn from Zhimin Qian, who was known as 'the goddess of wealth'.",
-        "pubDate": "2025-09-30T09:05:41Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e08/live/38630a80-9dbd-11f0-92db-77261a15b9d2.jpg",
-        "bias": 0
-      },
-      {
         "title": "EV sales surge in the U.S. ahead of Sept. 30 tax credit deadline",
         "link": "https://www.npr.org/2025/09/30/nx-s1-5557153/ev-tax-credit-sales-spike",
         "description": "A $7,500 tax credit is available for the lease or purchase of many electric vehicles — but only if contracts are inked by midnight on Sept. 30. The result: The market for EVs is a little distorted.",
@@ -811,9 +802,27 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c1a/live/35d7be80-9a09-11f0-b0d6-53b1d4aa3a2a.jpg",
         "bias": 0
+      },
+      {
+        "title": "Trump renews threat to impose 100% tariffs on non-US made movies",
+        "link": "https://www.bbc.com/news/articles/c4g78e809zqo?at_medium=RSS&at_campaign=rss",
+        "description": "The president believes the American film-making industry has been \"stolen\" by other countries.",
+        "pubDate": "2025-09-30T02:01:37Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e9c/live/964888c0-2994-11f0-8c66-ebf25fc2cfef.jpg",
+        "bias": 0
       }
     ],
     "Culture": [
+      {
+        "title": "Lady Gaga serves mayhem and magic and guest stars as UK tour launches",
+        "link": "https://www.bbc.com/news/articles/cn829pjr2mpo?at_medium=RSS&at_campaign=rss",
+        "description": "The pop star brings her Mayhem Ball to the UK, throwing in a few unexpected surprises along the way.",
+        "pubDate": "2025-09-30T09:19:47Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19de/live/16001c30-9ddb-11f0-92db-77261a15b9d2.jpg",
+        "bias": 0
+      },
       {
         "title": "Nicole Kidman and Keith Urban separate after almost 20 years",
         "link": "https://www.bbc.com/news/articles/cdjz7r8jk3ko?at_medium=RSS&at_campaign=rss",
