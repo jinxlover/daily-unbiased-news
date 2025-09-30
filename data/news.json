@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-09-30T05:48:01.511992Z",
+  "lastUpdate": "2025-09-30T05:58:26.517973Z",
   "news": {
     "Gaming": [
+      {
+        "title": "GymScene [Free] [Sports]",
+        "link": "https://nathan-nichols.itch.io/gymscene",
+        "description": "created as a class project",
+        "pubDate": "2025-09-30T05:44:59Z",
+        "source": "nathan-nichols.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzg2NDE1LnBuZw==/315x250%23c/sKb8PB.png",
+        "bias": 0
+      },
       {
         "title": "Sans's Lazy Basics But Baldi the amalgamated laboratory [Free] [Android]",
         "link": "https://hsa7sy.itch.io/sanss-lazy-basics-but-baldi-the-amalgamated-laboratory",
@@ -9,6 +18,15 @@
         "pubDate": "2025-09-30T05:41:59Z",
         "source": "hsa7sy.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzg2NDE4LmpwZw==/315x250%23c/6xbq%2Fk.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Tiny Turtles (Code for a Cause x Micro Jam #2) [Free] [Puzzle]",
+        "link": "https://zacmadeagame.itch.io/tiny-turtles-tiny-but-mighty-game-jam",
+        "description": "a game created for the Code for a Cause x Micro Jam #2",
+        "pubDate": "2025-09-30T05:24:32Z",
+        "source": "zacmadeagame.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzg2MzM1LmpwZw==/315x250%23c/tsKZAy.jpg",
         "bias": 0
       },
       {
@@ -199,18 +217,18 @@
         "source": "ufo-studios.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzg0ODUxLnBuZw==/315x250%23c/xj3cW%2B.png",
         "bias": 0
-      },
-      {
-        "title": "All Imagining [Free] [Windows] [Android]",
-        "link": "https://ryanfina.itch.io/all-imagining",
-        "description": "An interactive experience where you submit questions to an all-knowing oracle and see its effect on the world around it.",
-        "pubDate": "2025-09-30T01:52:23Z",
-        "source": "ryanfina.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzg0OTk0LmpwZw==/315x250%23c/ws64B1.jpg",
-        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "VP Vance blames Democrats for looming US government shutdown",
+        "link": "https://www.aljazeera.com/news/2025/9/30/vp-vance-blames-democrats-for-looming-us-government-shutdown?traffic_source=rss",
+        "description": "Congressional Democrats and Republicans failed to reach a spending deal after meeting with US President Donald Trump.",
+        "pubDate": "2025-09-30T05:33:37Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Dolphins’ Tyreek Hill suffers severe knee injury against Jets in NFL",
         "link": "https://www.aljazeera.com/sports/2025/9/30/dolphins-tyreek-hill-suffers-severe-knee-injury-against-jets-in-nfl?traffic_source=rss",
@@ -232,7 +250,7 @@
       {
         "title": "Afghanistan sees telecom shutdown as Taliban cut off internet",
         "link": "https://www.bbc.com/news/articles/cdxqdy5nrlqo?at_medium=RSS&at_campaign=rss",
-        "description": "Phone and internet connections are down nationwide after the Taliban sever fibre-optic connections.",
+        "description": "Phone and internet links are down nationwide after the Taliban sever fibre-optic connections.",
         "pubDate": "2025-09-30T04:53:11Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0203/live/f08a4b00-9d68-11f0-a16f-ff7724a733bf.jpg",
@@ -471,7 +489,7 @@
         "description": "Patients will get the option of digital support when GPs refer them but only for certain conditions.",
         "pubDate": "2025-09-30T05:01:07Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6455/live/28e64820-5825-11f0-988d-abc8933015ea.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4c3/live/e83192d0-9dc0-11f0-997d-ad00b4a7a51e.jpg",
         "bias": 0
       },
       {
@@ -485,6 +503,15 @@
       }
     ],
     "Tech": [
+      {
+        "title": "Louisiana’s governor asks for National Guard deployment to New Orleans and other cities - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMkRxYzBHQURIQWtkdWh0NzdyMHJaR1hSVEVILXNzcHlJZmV4bHltdGtzclFDMHZOUUhPZXZXNGE3ekhyVDQzSENRMENLalRPbHRBVjdMU3VJMHhqU2xmMFM5TUhsT0JZc3otckpUNWxzMVNyVV9CbGRPdHVjaU5lQTNHYXN4NHJNOHBmcHVPVlVBcFNscE5FUHVWZm12SXdlYlZSYS14Vkp0dw?oc=5",
+        "description": "",
+        "pubDate": "2025-09-30T05:04:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Chinese woman convicted after 'world's biggest' bitcoin seizure",
         "link": "https://www.bbc.com/news/articles/cy0415kk3rzo?at_medium=RSS&at_campaign=rss",
