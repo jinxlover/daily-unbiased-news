@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-09-30T05:19:56.594203Z",
+  "lastUpdate": "2025-09-30T05:37:44.790387Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Mighty Climber [Free] [Platformer] [Windows]",
+        "link": "https://mrbanana5539.itch.io/mighty-climber",
+        "description": "Your a mighty climber.",
+        "pubDate": "2025-09-30T05:21:10Z",
+        "source": "mrbanana5539.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzg2MjcxLnBuZw==/315x250%23c/FXAe6K.png",
+        "bias": 0
+      },
       {
         "title": "CPU Deathmatch Simulator [Free] [Simulation] [Windows] [macOS] [Linux]",
         "link": "https://eyefly.itch.io/cpu-deathmatch-simulator",
@@ -45,6 +54,15 @@
         "pubDate": "2025-09-30T04:41:43Z",
         "source": "youngann.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzg1ODg1LnBuZw==/315x250%23c/qyfS2I.png",
+        "bias": 0
+      },
+      {
+        "title": "Caravan Defender [Free] [Action]",
+        "link": "https://idarklinkz.itch.io/caravan-defender",
+        "description": "Defend your Wagon!",
+        "pubDate": "2025-09-30T04:39:37Z",
+        "source": "idarklinkz.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzg1ODY2LmpwZw==/315x250%23c/i%2BWBwz.jpg",
         "bias": 0
       },
       {
@@ -165,30 +183,12 @@
         "bias": 0
       },
       {
-        "title": "Blob joyride [Free]",
-        "link": "https://dunsen.itch.io/blob-joyride",
-        "description": "Jetpack Joyride inspired game",
-        "pubDate": "2025-09-30T03:08:31Z",
-        "source": "dunsen.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzg0ODY4LnBuZw==/315x250%23c/N%2BNox3.png",
-        "bias": 0
-      },
-      {
         "title": "Galactic Showdown [Free] [Windows] [macOS]",
         "link": "https://tgaming92.itch.io/2d-shooter",
         "description": "",
         "pubDate": "2025-09-30T03:06:56Z",
         "source": "tgaming92.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzg0OTQ3LnBuZw==/315x250%23c/5OPQf1.png",
-        "bias": 0
-      },
-      {
-        "title": "Shifty Thief [Free]",
-        "link": "https://tcg-savage.itch.io/shifty-thief",
-        "description": "Run away from the cops while being careful to avoid obstacles",
-        "pubDate": "2025-09-30T03:03:39Z",
-        "source": "tcg-savage.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzg0OTUyLnBuZw==/315x250%23c/EAB7PJ.png",
         "bias": 0
       },
       {
@@ -217,18 +217,18 @@
         "source": "ryanfina.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzg0OTk0LmpwZw==/315x250%23c/ws64B1.jpg",
         "bias": 0
-      },
-      {
-        "title": "THE HELL PROVIDED [Free] [Visual Novel] [Windows] [macOS] [Linux] [Android]",
-        "link": "https://howling-angel-games.itch.io/the-hell-provided",
-        "description": "Suffocating in your flight suit.",
-        "pubDate": "2025-09-30T01:15:45Z",
-        "source": "howling-angel-games.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzgzODI4LnBuZw==/315x250%23c/u08%2Fh2.png",
-        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Dolphins’ Tyreek Hill suffers severe knee injury against Jets in NFL",
+        "link": "https://www.aljazeera.com/sports/2025/9/30/dolphins-tyreek-hill-suffers-severe-knee-injury-against-jets-in-nfl?traffic_source=rss",
+        "description": "The Miami Dolphins wide receiver suffered what is believed to be a season-ending injury against the New York Jets.",
+        "pubDate": "2025-09-30T05:06:59Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "‘Operation Sindoor’: How cricket became latest India-Pakistan weapon of war",
         "link": "https://www.aljazeera.com/news/2025/9/30/operation-sindoor-how-cricket-became-latest-india-pakistan-weapon-of-war?traffic_source=rss",
@@ -430,7 +430,7 @@
       {
         "title": "LIVE: Israel kills 39 in Gaza as Hamas reviews Trump’s proposal to end war",
         "link": "https://www.aljazeera.com/news/liveblog/2025/9/30/live-israel-kills-39-in-gaza-as-hamas-reviews-trumps-proposal-to-end-war?traffic_source=rss",
-        "description": "Palestinians in Gaza said the proposal raises questions around implementation as Israeli attacks continued on Monday.",
+        "description": "Palestinians in Gaza say the proposal raises questions around implementation as Israeli attacks continue.",
         "pubDate": "2025-09-30T00:00:00Z",
         "source": "aljazeera.com",
         "image": "",
@@ -464,6 +464,17 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c802/live/fd333420-9db8-11f0-9637-9931bd7a3435.png",
         "bias": 0
+      }
+    ],
+    "Tech": [
+      {
+        "title": "Chinese woman convicted after 'world's biggest' bitcoin seizure",
+        "link": "https://www.bbc.com/news/articles/cy0415kk3rzo?at_medium=RSS&at_campaign=rss",
+        "description": "UK police seized crypto worth over £5bn from Zhimin Qian, who was known as 'the goddess of wealth'.",
+        "pubDate": "2025-09-30T02:55:36Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e08/live/38630a80-9dbd-11f0-92db-77261a15b9d2.jpg",
+        "bias": 0
       },
       {
         "title": "Mexican marine biologist attacked by a shark near remote island in Costa Rica - AP News",
@@ -472,17 +483,6 @@
         "pubDate": "2025-09-30T01:32:00Z",
         "source": "news.google.com",
         "image": "",
-        "bias": 0
-      }
-    ],
-    "Tech": [
-      {
-        "title": "Chinese scammer convicted after 'world's biggest' bitcoin seizure",
-        "link": "https://www.bbc.com/news/articles/cy0415kk3rzo?at_medium=RSS&at_campaign=rss",
-        "description": "UK police seized cryptocurrency worth more than £5bn after a seven-year probe into a global money laundering web.",
-        "pubDate": "2025-09-30T02:55:36Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88d1/live/d2427980-9da2-11f0-ae8d-8fb47de53624.png",
         "bias": 0
       }
     ],
