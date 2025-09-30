@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-30T10:26:25.334129Z",
+  "lastUpdate": "2025-09-30T10:43:34.935287Z",
   "news": {
     "Gaming": [
       {
@@ -9,6 +9,15 @@
         "pubDate": "2025-09-30T10:23:31Z",
         "source": "tedypower.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzg4Njc2LnBuZw==/315x250%23c/zBGgRu.png",
+        "bias": 0
+      },
+      {
+        "title": "Red's Party World [Free] [Windows] [macOS] [Linux] [Android]",
+        "link": "https://indium-studios.itch.io/rpw",
+        "description": "",
+        "pubDate": "2025-09-30T10:21:36Z",
+        "source": "indium-studios.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzg4NjY5LnBuZw==/315x250%23c/H7lfwP.png",
         "bias": 0
       },
       {
@@ -27,6 +36,15 @@
         "pubDate": "2025-09-30T10:02:19Z",
         "source": "evangelos-giaxidis.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzMzg4NTE0LnBuZw==/315x250%23c/y%2FWQsY.png",
+        "bias": 0
+      },
+      {
+        "title": "home. [Free] [Interactive Fiction]",
+        "link": "https://comigo.itch.io/home",
+        "description": "A short Whimsy experience",
+        "pubDate": "2025-09-30T10:00:01Z",
+        "source": "comigo.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzg4NzE4LnBuZw==/315x250%23c/E8EEhO.png",
         "bias": 0
       },
       {
@@ -147,15 +165,6 @@
         "bias": 0
       },
       {
-        "title": "Overtime Graveyard Shift [Free] [Adventure] [Windows]",
-        "link": "https://jack-ham.itch.io/overtime-graveyard-shift",
-        "description": "Short horror game about working on a graveyard",
-        "pubDate": "2025-09-30T08:07:23Z",
-        "source": "jack-ham.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzg3NTM4LnBuZw==/315x250%23c/ojWKkw.png",
-        "bias": 0
-      },
-      {
         "title": "Don't Spill The Elixir! [Free] [Puzzle] [Windows]",
         "link": "https://skel150.itch.io/dont-spill-the-elixir",
         "description": "A simple, satisfying tetris-like puzzle game.",
@@ -194,6 +203,33 @@
     ],
     "World": [
       {
+        "title": "Flights in Afghanistan grounded after internet shutdown",
+        "link": "https://www.bbc.com/news/articles/cdxqdy5nrlqo?at_medium=RSS&at_campaign=rss",
+        "description": "The Taliban have yet to give an official reason for the shutdown, but said it would last indefinitely.",
+        "pubDate": "2025-09-30T10:38:23Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eba7/live/e581ee40-9de3-11f0-9108-f9efa9785693.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Germany thrived in the first China Shock. But the next one could prove catastrophic.",
+        "link": "https://www.npr.org/sections/planet-money/2025/09/30/g-s1-90937/germany-thrived-in-the-first-china-shock-but-the-next-one-could-prove-catastrophic",
+        "description": "The export-led industrial model that Germany has pursued for decades is now at a crossroads.",
+        "pubDate": "2025-09-30T10:30:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "2 killed in Cuba as Tropical Storm Imelda and Hurricane Humberto threaten Bahamas and Bermuda - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdVNWZUlTUGRkZnBVTEY3UUMtVmhRdWtWdzEydnpiRDB1djRObTkyOUNOcXloQzBjR1Vudlh6T2MwYXBPWXI4eklPUkRUVXZsRENVeld2d1BlOWRqenNRVFBqMkI3VDZhdTlMSFJUSFpxRnJIWU9RYnN2NUtWU2xnUExOX0F1ZTc2ZXA4TWRPZU5sUC1rZ1dfb3J3LVZuZVZzSE1Nb2hYckZVeWcx?oc=5",
+        "description": "",
+        "pubDate": "2025-09-30T10:23:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Former US vaccine chief says RFK Jr is a ‘chaos agent’",
         "link": "https://www.aljazeera.com/video/unmute/2025/9/30/aje-onl-unm-demetre-daskalakis-300925?traffic_source=rss",
         "description": "Former vaccine chief says the US health department is led by a ‘chaos agent’ trying to dismantle public health.",
@@ -219,6 +255,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "What to know about the Gaza peace plan agreed to by Trump and Netanyahu - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTG4xZ0lONkJCUVlab2JUeVdiOC14Tk0wYlpHTGNnMWpvVHBPa0EzRE9JYnNmQ1ZDMDF0VkJLRERzUFlJMjg3N2tIYWRXNk5HR1UwclRaMzJLOEFMd1RSX0NZWWpteEdTZ3ZXSVdRamZZUUlqbmZEYXZXOTZBMk5nU3E3cGFVY3ExQmppV0w0VF9TWl9KRmZ2ZkRrUWVGaS1JeXg4?oc=5",
+        "description": "",
+        "pubDate": "2025-09-30T09:32:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "5 takeaways from the U.S. ceasefire proposal for Israel and Hamas",
@@ -374,6 +419,15 @@
         "bias": -1
       },
       {
+        "title": "A car bombing outside a Pakistani security force headquarters kills at least 8 people - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaVNEV082MjRRQmJ5WE9faFpOU1RCUVBrQ0tsQ21tU1Fmd0w0ckc4YnoxOHpHbkpNZTdJbjliUW1vcTk1VVVtMHBqUlp3MWRLN3hGRXlqb3N0WGxiZDJLQ2hvZFpSQTZKb0hpOVI0cHhPOFVFVXhrdzlZZERSbnE1a3YxMWlRM3JWenJ2UDBKNWhtZUZjUGs3V2FFdHlZcVNNdGsyQUo3MTUzX292?oc=5",
+        "description": "",
+        "pubDate": "2025-09-30T07:52:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Thousands of workers in limbo as US-Africa trade deal set to expire",
         "link": "https://www.bbc.com/news/articles/c1kwrv9k4eno?at_medium=RSS&at_campaign=rss",
         "description": "The BBC visits a Kenyan garment factory facing job losses if the deal known as Agoa is not renewed.",
@@ -399,15 +453,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Afghanistan sees telecom shutdown as Taliban cut off internet",
-        "link": "https://www.bbc.com/news/articles/cdxqdy5nrlqo?at_medium=RSS&at_campaign=rss",
-        "description": "Phone and internet links are down nationwide after the Taliban sever fibre-optic connections.",
-        "pubDate": "2025-09-30T06:58:36Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0203/live/f08a4b00-9d68-11f0-a16f-ff7724a733bf.jpg",
-        "bias": 0
       },
       {
         "title": "Russia-Ukraine war: List of key events, day 1,314",
@@ -453,15 +498,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "2 killed in Cuba as Tropical Storm Imelda and Hurricane Humberto threaten Bahamas and Bermuda - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdVNWZUlTUGRkZnBVTEY3UUMtVmhRdWtWdzEydnpiRDB1djRObTkyOUNOcXloQzBjR1Vudlh6T2MwYXBPWXI4eklPUkRUVXZsRENVeld2d1BlOWRqenNRVFBqMkI3VDZhdTlMSFJUSFpxRnJIWU9RYnN2NUtWU2xnUExOX0F1ZTc2ZXA4TWRPZU5sUC1rZ1dfb3J3LVZuZVZzSE1Nb2hYckZVeWcx?oc=5",
-        "description": "",
-        "pubDate": "2025-09-30T05:52:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "VP Vance blames Democrats for looming US government shutdown",
@@ -563,15 +599,6 @@
         "bias": 0
       },
       {
-        "title": "China court sentences 11 members of Myanmar-based crime syndicate to death - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORjJ5WGJyQnVMSXBqVFlLei1iOS12VmdDZF9mLW1RMlY4d0xxQk82N2Y1QUR3T2Q5czlxNjVXNDdpNWlicUxtR0hJUFV1dWtrMDhvX0ZKX1FOdmNocFctd05hclN3c1o0aG1Sck9FMWpRVmZMR2J6R3EtQzBJenBRZ19RR0RWU2dmOTE5aWwwck9NS29YM3JhbUljWVRsNkxMRGpPMkszbw?oc=5",
-        "description": "",
-        "pubDate": "2025-09-30T04:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "YouTube to pay $24.5m to settle lawsuit over Trump’s account suspension",
         "link": "https://www.aljazeera.com/economy/2025/9/30/youtube-to-pay-24-5m-to-settle-lawsuit-over-trumps-account-suspension?traffic_source=rss",
         "description": "Video platform settles lawsuit filed in response to Trump's suspension over the January 6, 2021, riot at US Capitol.",
@@ -624,27 +651,36 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Moldova’s pro-EU party wins clear parliamentary majority, defeating pro-Russian groups - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUzUwZ003eUtJMWhfWXNSQ2Q1NXhxMlJIalQ5ZlVBTEdkczJtNnZMNUxkVGZvWGJSZFhQMHlfTF9famhDdG90a1VSbUJ6OHVnS2Z4WlpkM3E1ZVBEb1ZwWlQzY1R6eW52d2tXYkppNU4wWnRQallTM2RGR2JxMERuMENRQXF2cTlUTWNyb18xNFZCSWc3NmJ1M2d5aTZ3Zw?oc=5",
-        "description": "",
-        "pubDate": "2025-09-30T01:36:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Top diplomats of North Korea and China agree to deepen ties and push back at the United States - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYTFDV29sRmtoVU1oajZRMU1jSHNiOG9WRWw4YlRDM0x3QmtaejBlRWVJSzI5SzlqSkh0SEUybURhNkhfSzl5ckN6X2p3VTFVQU1iLUR6UVhzOFlHM0JtUnVTMkZnSEFDeDZqQzdQdURhTnVuYVBHc3hIN2Q3Mng3SklZVXZlS2U3VExUeHN4VEhDeVpEQnFEa3RQaDBJeWc?oc=5",
-        "description": "",
-        "pubDate": "2025-09-30T01:35:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Republicans and Democrats are at a standstill as government barrels toward shut down",
+        "link": "https://www.npr.org/2025/09/30/nx-s1-5556938/republicans-and-democrats-are-at-a-standstill-as-government-barrels-toward-shut-down",
+        "description": "The government will shut down at midnight tonight if Congress can't reach a deal. But Republicans and Democrats are at a standstill, each refusing to give in to the other's demands.",
+        "pubDate": "2025-09-30T10:26:57Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Sen. Elizabeth Warren talks about the potential for a government shutdown",
+        "link": "https://www.npr.org/2025/09/30/nx-s1-5555966/sen-elizabeth-warren-talks-about-the-potential-for-a-government-shutdown",
+        "description": "Sen. Elizabeth Warren, D-Mass., talks about the potential government shutdown, what congressional Democrats are demanding and whether she thinks President Trump will carry out his layoff threat.",
+        "pubDate": "2025-09-30T10:26:53Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "South Dakota Rep. Dusty Johnson talks about the possibility of a government shutdown",
+        "link": "https://www.npr.org/2025/09/30/nx-s1-5557365/south-dakota-rep-dusty-johnson-talks-about-the-possibility-of-a-government-shutdown",
+        "description": "NPR speaks with Rep. Dusty Johnson, R-S.D., about the impasse over the budget and the possibility of a government shutdown Wednesday.",
+        "pubDate": "2025-09-30T10:26:38Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Starmer to say Britain 'at a fork in the road'",
         "link": "https://www.bbc.com/news/articles/cn4w37x524wo?at_medium=RSS&at_campaign=rss",
@@ -734,6 +770,15 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92e1/live/dc7ba250-9dca-11f0-92db-77261a15b9d2.jpg",
         "bias": 0
+      },
+      {
+        "title": "China court sentences 11 members of Myanmar-based crime syndicate to death - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORjJ5WGJyQnVMSXBqVFlLei1iOS12VmdDZF9mLW1RMlY4d0xxQk82N2Y1QUR3T2Q5czlxNjVXNDdpNWlicUxtR0hJUFV1dWtrMDhvX0ZKX1FOdmNocFctd05hclN3c1o0aG1Sck9FMWpRVmZMR2J6R3EtQzBJenBRZ19RR0RWU2dmOTE5aWwwck9NS29YM3JhbUljWVRsNkxMRGpPMkszbw?oc=5",
+        "description": "",
+        "pubDate": "2025-09-30T04:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Tech": [
@@ -822,15 +867,6 @@
         "pubDate": "2025-09-30T09:19:47Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19de/live/16001c30-9ddb-11f0-92db-77261a15b9d2.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-        "description": "",
-        "pubDate": "2025-09-30T09:02:42Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
