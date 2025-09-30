@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-09-30T15:50:06.071286Z",
+  "lastUpdate": "2025-09-30T16:00:22.685323Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Gumball Runners [Free] [Android]",
+        "link": "https://stormyvrdev.itch.io/gumball-runners",
+        "description": "",
+        "pubDate": "2025-09-30T15:53:16Z",
+        "source": "stormyvrdev.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzkyMDk2LnBuZw==/315x250%23c/3R%2BuMi.png",
+        "bias": 0
+      },
       {
         "title": "bug. [Free] [Survival]",
         "link": "https://noteezteez.itch.io/bug",
@@ -129,24 +138,6 @@
         "bias": 0
       },
       {
-        "title": "2048 (macOS) [Free] [Other] [macOS]",
-        "link": "https://ropman.itch.io/2048",
-        "description": "A basic 2048 game looks like the real one",
-        "pubDate": "2025-09-30T14:19:35Z",
-        "source": "ropman.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzkwOTkzLnBuZw==/315x250%23c/YcCVEd.png",
-        "bias": 0
-      },
-      {
-        "title": "Kapi Clicker v1 [Free] [Other]",
-        "link": "https://crnsgael.itch.io/kapiclicker",
-        "description": "",
-        "pubDate": "2025-09-30T14:11:07Z",
-        "source": "crnsgael.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzkwODcxLnBuZw==/315x250%23c/ky%2Frkt.png",
-        "bias": 0
-      },
-      {
         "title": "What Can You See? [Free] [Platformer] [Windows]",
         "link": "https://taymosh.itch.io/what-can-you-see",
         "description": "_____ recreation (2% accuracy) - Jam submission",
@@ -156,21 +147,12 @@
         "bias": 0
       },
       {
-        "title": "the blue dungeon [Free]",
-        "link": "https://mellilla.itch.io/gungeon",
-        "description": "SWEN20003 project 2b",
-        "pubDate": "2025-09-30T14:00:15Z",
-        "source": "mellilla.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzkwNzc2LnBuZw==/315x250%23c/Cx8avY.png",
-        "bias": 0
-      },
-      {
-        "title": "The Love Sheriff (10th anniversary) [Free] [Shooter]",
-        "link": "https://jk5000.itch.io/the-love-sheriff-10th-anniversary",
-        "description": "",
-        "pubDate": "2025-09-30T13:30:42Z",
-        "source": "jk5000.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzMzkwNDY2LnBuZw==/315x250%23c/VQBVpJ.png",
+        "title": "CandleLight [Free] [Puzzle]",
+        "link": "https://aipig.itch.io/candlelight",
+        "description": "CandleAdventure",
+        "pubDate": "2025-09-30T13:11:34Z",
+        "source": "aipig.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzMzkwNDA1LnBuZw==/315x250%23c/SmEcbP.png",
         "bias": 0
       },
       {
@@ -184,6 +166,33 @@
       }
     ],
     "World": [
+      {
+        "title": "Live updates: Trump targets ‘the enemy from within’ in speech to top military leaders - AP News",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JTUpOeHo2YllfaTM5eTQzQWV0MndYb253SVZmSjhicEwzVGY5cnh1QlZ1cnhIOWNORjJsWk1qMDJ2X29NcF9QZzRYWUg5aWxmOFhvY20zcklCTVI3ZTlQRzR2bVBZR0N3eHVF?oc=5",
+        "description": "",
+        "pubDate": "2025-09-30T15:51:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Liberals are catalysts to catastrophe, again",
+        "link": "https://www.aljazeera.com/opinions/2025/9/30/liberals-are-catalysts-to-catastrophe-again?traffic_source=rss",
+        "description": "In their self-serving pursuit of maintaining the status quo, liberals continue to appease the right.",
+        "pubDate": "2025-09-30T15:40:25Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Madagascar president dissolves government after deadly protests",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/9/30/madagascar-president-dissolves-government-after-deadly-protests?traffic_source=rss",
+        "description": "Madagascar’s president has dissolved his government in response to youth-led protests that killed at least 22 people.",
+        "pubDate": "2025-09-30T15:28:36Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "US consumer confidence declines again as Americans fret over prices, job market - AP News",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ0lRSUZMUnp5QjF5LWNRY3dEWmxkSldYVVZlTWFadU5TWGR6MVViU3U2T0IwbkhyNEV3czhvcFVLcEdid0llZXBLUkJMMTFCNkZDbmQ0OFp4aWtYb1dhS1RCQjNCWTJ6c01kSko3Z3J2ZFE4QmFmQThTbnM1YXVqMEJuQjk4NzhjSEdNbmRPa3QzYlNTTG9uQmFmV0o1S0lnelJ4Mklvanlwd1RuNlE?oc=5",
@@ -246,6 +255,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Groups press for release of special counsel Jack Smith's report on Trump's classified documents case - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQkZTbFJPejhCYjY2bHlxcEVBUFBOd3hPQnZkZUh3SXVGa0UyS3dNdmVtcElyak9HOEVRX2NkNU5kTmlYTE55cFlWdWpjQjVaQlA3NDN6cklGa2hadE40bTMyMWFJU25jNVRNcm1jTG82Umh2Q0E2QnBYODdock5kT1A5eGJrZXYybEpETWdUOG1sZGQwVU9aZ3BQLWFmaVJOQUdmUElyRzFSbmdXYUkzMg?oc=5",
+        "description": "",
+        "pubDate": "2025-09-30T14:16:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Hundreds of Iranians held on US immigration charges will be deported to Iran, Tehran official says - AP News",
@@ -455,6 +473,15 @@
         "bias": 0
       },
       {
+        "title": "Worship leader Sean Feucht mismanaged millions in ministry funds, former associates say - AP News",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMnkyb1dCWHJIclZkUlp1eW1QTGNabGNOaklEeHVLMGx4SFNxZjMyZ0Z3dFRwclJHRmlJaDZxY1FvZlF6U0RMUzY3TzhzY0V6cWpxYnR3UUc4N19aWEhZVDFVYkh3ckVra2taYUtibERXMU8ySkNycFZrY3JxdUNTUjVHeGNtOWVPYlJJNkhCNXNaX3lnX2dubWZxOTE4bXlvekFlLVFBU3FjV3BmQVJXOVdVU0p2blYyaURxaC1KMWgzQ0N6?oc=5",
+        "description": "",
+        "pubDate": "2025-09-30T12:25:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Turkiye to join Gaza mediation talks in Doha, Qatar’s Foreign Ministry says",
         "link": "https://www.aljazeera.com/news/2025/9/30/turkiye-to-join-gaza-mediation-talks-in-doha-qatars-foreign-ministry-says?traffic_source=rss",
         "description": "Turkish President Recep Tayyip Erdogan has hailed Trump for his efforts to broker ceasefire and 'halting the bloodshed'.",
@@ -588,63 +615,9 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Car bomb outside Pakistan’s security force headquarters kills at least 10, dozens injured - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaVNEV082MjRRQmJ5WE9faFpOU1RCUVBrQ0tsQ21tU1Fmd0w0ckc4YnoxOHpHbkpNZTdJbjliUW1vcTk1VVVtMHBqUlp3MWRLN3hGRXlqb3N0WGxiZDJLQ2hvZFpSQTZKb0hpOVI0cHhPOFVFVXhrdzlZZERSbnE1a3YxMWlRM3JWenJ2UDBKNWhtZUZjUGs3V2FFdHlZcVNNdGsyQUo3MTUzX292?oc=5",
-        "description": "",
-        "pubDate": "2025-09-30T09:38:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "What to know about the Gaza peace plan agreed to by Trump and Netanyahu - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTG4xZ0lONkJCUVlab2JUeVdiOC14Tk0wYlpHTGNnMWpvVHBPa0EzRE9JYnNmQ1ZDMDF0VkJLRERzUFlJMjg3N2tIYWRXNk5HR1UwclRaMzJLOEFMd1RSX0NZWWpteEdTZ3ZXSVdRamZZUUlqbmZEYXZXOTZBMk5nU3E3cGFVY3ExQmppV0w0VF9TWl9KRmZ2ZkRrUWVGaS1JeXg4?oc=5",
-        "description": "",
-        "pubDate": "2025-09-30T09:32:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "5 takeaways from the U.S. ceasefire proposal for Israel and Hamas",
-        "link": "https://www.npr.org/2025/09/30/g-s1-91244/5-takeaways-from-the-u-s-ceasefire-proposal-for-israel-and-hamas",
-        "description": "The leaders of the U.S. and Israel say they have agreed to a broad plan that could end Israel's war in Gaza. But substantial uncertainties remain.",
-        "pubDate": "2025-09-30T09:26:27Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Three dead, dozens trapped after Indonesian school collapses on students",
-        "link": "https://www.bbc.com/news/articles/cj4y0zpvp8go?at_medium=RSS&at_campaign=rss",
-        "description": "The rescue was temporarily halted on Tuesday as authorities say the building is at risk of further collapse.",
-        "pubDate": "2025-09-30T09:22:04Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffeb/live/546bf270-9dd9-11f0-9f23-2534d63ace40.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Entire Ukrainian family killed in Russian drone strike, officials say",
-        "link": "https://www.bbc.com/news/articles/cdxqdpgznzeo?at_medium=RSS&at_campaign=rss",
-        "description": "The bodies of two young boys and their parents were recovered from their destroyed home in the Sumy region, rescuers say.",
-        "pubDate": "2025-09-30T09:20:57Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1e4/live/fa34b6d0-9ddc-11f0-9108-f9efa9785693.png",
-        "bias": 0
       }
     ],
     "Politics": [
-      {
-        "title": "Live updates: Hegseth declares an end to ‘politically correct’ leadership in the US military - AP News",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JTUpOeHo2YllfaTM5eTQzQWV0MndYb253SVZmSjhicEwzVGY5cnh1QlZ1cnhIOWNORjJsWk1qMDJ2X29NcF9QZzRYWUg5aWxmOFhvY20zcklCTVI3ZTlQRzR2bVBZR0N3eHVF?oc=5",
-        "description": "",
-        "pubDate": "2025-09-30T15:45:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
       {
         "title": "Watch: Key moments from Starmer's Labour conference speech",
         "link": "https://www.bbc.com/news/videos/cjd18mde13po?at_medium=RSS&at_campaign=rss",
@@ -664,19 +637,10 @@
         "bias": 0
       },
       {
-        "title": "Schwarzenegger downplays Trump and backs Vatican initiative to 'terminate' global warming - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaDZIZDhfZ3pZUE1YWFNwdktXN1NaQWFFdktWcTVvVUVKY3B3bEg3MjdxWXhpV2tEbmFucHFmelk1QnQtVnJiMFdDdFhHR1g1NUFqVmhfejUySEpVeURMX1Zfdk9UVmVoRm9nQ1pkSlVGYXpkd1dkT25iX2FVOWY4Q1p4cndVTHl0SlZIckRnaHdkTnpIX1V6bkppaFE?oc=5",
+        "title": "US job openings barely budged in August at 7.2 million - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdjBBNlF3T1ZHRFdNM2xzczlzRkVFRzhXSGFWRDByYnVtV2tmOEJtaG5obTlGNFR2ZldxTHUyc3FuSUpCd3NkM3pOSy0wcXlmdVZjLVRXdkdLdjNFN2VLS25KNGUxR1E0TEhXV1FBQldxQkE0SnRlb3RwMkVycV80NXl0RHZuU0Z4ZlNyMU9zWUZXNnBoV0NUV0sxcG9KMHFvUmtfOGtHLVNSVHdvbmpaUVNEd3RnXzNGZHc?oc=5",
         "description": "",
-        "pubDate": "2025-09-30T14:01:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Ukrainian detained in Poland over 2022 Nord Stream gas pipeline explosions - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbUw3emREQWlNLVpUejJrVkdBR09PcW1QRUZMbW5tMTlIOHk3akp3NkZlSElodjN3dHY3bTRKRWR0eHpOaC05S2xMdmVTWE94WmZhX0VWU0NqSXlPQ3Y0X1lHZzVPWXNCSmV6TnkxNHpBNE5pS29MdEctd0dRc2U5Y0NUYmJacUpKZWd0Q0ZyMWJaY2h3YktF?oc=5",
-        "description": "",
-        "pubDate": "2025-09-30T13:36:00Z",
+        "pubDate": "2025-09-30T14:18:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -835,15 +799,6 @@
         "bias": 0
       },
       {
-        "title": "Palestinian government supports Trump’s plan to end Israel-Hamas war - AP News",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WR2xmbmd6Vlg0OTV6TEtVQlZ1bVI3N0NRNGF4aFJISFZMamxSMFJjR19yb2FCalY3LXd1dndUM0lGd0c2N0xmcUxQQ1Y3RXh3WGNmTjRvbzFpZVVNSUJudnFEODBQRmlwRTVn?oc=5",
-        "description": "",
-        "pubDate": "2025-09-30T02:22:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Mexican marine biologist attacked by a shark near remote island in Costa Rica - AP News",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSmxraVhtMWkxcy1FTUlkMFViVzBPWklNXzZYb3ZkZ1JJTUV2Y0c0Zy1YYW1hTDdERDFJWFRPU1NOcUQ0YkxhQmNVVmdHb3pQM1lOcUdfTmpZRGNGMVcwa1NUdDV3N0lXVXZEdENlWjEwNlJSb3NlRTZsZHFQZDd2emxBTmdjVllHY3poTENFNndkVjhmQ1NkZ2xVRy02QTVFNVA0bDV3?oc=5",
         "description": "",
@@ -864,10 +819,28 @@
     ],
     "Tech": [
       {
+        "title": "Schwarzenegger downplays Trump and backs Vatican initiative to 'terminate' global warming - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaDZIZDhfZ3pZUE1YWFNwdktXN1NaQWFFdktWcTVvVUVKY3B3bEg3MjdxWXhpV2tEbmFucHFmelk1QnQtVnJiMFdDdFhHR1g1NUFqVmhfejUySEpVeURMX1Zfdk9UVmVoRm9nQ1pkSlVGYXpkd1dkT25iX2FVOWY4Q1p4cndVTHl0SlZIckRnaHdkTnpIX1V6bkppaFE?oc=5",
+        "description": "",
+        "pubDate": "2025-09-30T14:01:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "How to use tech in the garden and still keep your serenity - AP News",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLUcyMFlYR2R0ZUVDd2JQeFd5ZXFmRXozdTZ3cl9jRGVGcXA5UFdGaUZNSzRSMUM3OGJpanRUc3Q5ejR1Y1gxN0gxMjh6aXhwNzVFaHNJOUxablFfS2dkYmFWZ2ZWc1B5VUlFU0ROMGpoQm1abFI0TUhnLXNPclM0Qmxnaw?oc=5",
         "description": "",
         "pubDate": "2025-09-30T13:45:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Ukrainian detained in Poland over 2022 Nord Stream gas pipeline explosions - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbUw3emREQWlNLVpUejJrVkdBR09PcW1QRUZMbW5tMTlIOHk3akp3NkZlSElodjN3dHY3bTRKRWR0eHpOaC05S2xMdmVTWE94WmZhX0VWU0NqSXlPQ3Y0X1lHZzVPWXNCSmV6TnkxNHpBNE5pS29MdEctd0dRc2U5Y0NUYmJacUpKZWd0Q0ZyMWJaY2h3YktF?oc=5",
+        "description": "",
+        "pubDate": "2025-09-30T13:36:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -895,15 +868,6 @@
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOTVXQzlKbmVlQ2NOR3FHd1QtVzFzeXlLNlY3TU83eHJGV2NMX25STWcwaEtudTM5bEFkNjlfQmxsQTBDaTFTc1pWNHZvTHhCZlhIVTYzYmlSTElKZjZjLTFiRVJaZWhQNUlKLUhscFp2VzU4cEE0LTdiZnhGblJZaDRYX2JKOTBiY0FVQVd6S0xNOGI0c0cxdDBtWEhXRFV0SUR6ZnNMQmw?oc=5",
         "description": "",
         "pubDate": "2025-09-30T13:05:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Worship leader Sean Feucht mismanaged millions in ministry funds, former associates say - AP News",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMnkyb1dCWHJIclZkUlp1eW1QTGNabGNOaklEeHVLMGx4SFNxZjMyZ0Z3dFRwclJHRmlJaDZxY1FvZlF6U0RMUzY3TzhzY0V6cWpxYnR3UUc4N19aWEhZVDFVYkh3ckVra2taYUtibERXMU8ySkNycFZrY3JxdUNTUjVHeGNtOWVPYlJJNkhCNXNaX3lnX2dubWZxOTE4bXlvekFlLVFBU3FjV3BmQVJXOVdVU0p2blYyaURxaC1KMWgzQ0N6?oc=5",
-        "description": "",
-        "pubDate": "2025-09-30T12:25:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -960,6 +924,15 @@
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaHpBdnJOYWpSQURBc19MdDh4cGJHMDlBbUVIREloZkNfMW52V3JBRFFOVS0yaXNIN3NxRTdnYmZxeDhKdFdkSDJrc2RINnNZZkNMcHVaZG1QdTMtNWpiQmFfWGY0a0Y4MGJwMkZxb2VSWWZFWDVrS2Q3M2NrYnFWWG52Q1pRMzI5RmUwVERJVGxoT2ZZdFpSWjAtQXdzV3Z1RnJsNWplTmZEX3NUb0NYcXBn?oc=5",
         "description": "",
         "pubDate": "2025-09-30T02:41:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Moldova’s pro-EU party wins clear parliamentary majority, defeating pro-Russian groups - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUzUwZ003eUtJMWhfWXNSQ2Q1NXhxMlJIalQ5ZlVBTEdkczJtNnZMNUxkVGZvWGJSZFhQMHlfTF9famhDdG90a1VSbUJ6OHVnS2Z4WlpkM3E1ZVBEb1ZwWlQzY1R6eW52d2tXYkppNU4wWnRQallTM2RGR2JxMERuMENRQXF2cTlUTWNyb18xNFZCSWc3NmJ1M2d5aTZ3Zw?oc=5",
+        "description": "",
+        "pubDate": "2025-09-30T01:36:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1063,6 +1036,15 @@
         "pubDate": "2025-09-30T02:01:37Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e9c/live/964888c0-2994-11f0-8c66-ebf25fc2cfef.jpg",
+        "bias": 0
+      },
+      {
+        "title": "George Clooney calls for federal rebate after Trump’s foreign movie tariff proposal - AP News",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMmdSdFdvZ2NTSmdHN3pncGY4V3VuMkdBLUxYbE5wZHpRVVNNa1FTRWg2LTM1b1VCczJGb0FqX2dEUE9ybUFFVktycnc3aHdqV3lzazBtalRFX25GZFRjXy1aaGpvVGNPbXE5OVB6bWFBaVk3ZnNsQ1prQVVTWTFRNE1CUzdlVjVkTC0xN1QzalIybERLWWg3cUxENldEaVdqTl9VV0k5ZFAxZUU3Q1E3b3EzLUdUN1V2UUdaV0NaVTV1TGFGY01KbUdEMDRxZw?oc=5",
+        "description": "",
+        "pubDate": "2025-09-30T01:44:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       }
     ],
