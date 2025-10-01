@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-10-01T20:28:32.376479Z",
+  "lastUpdate": "2025-10-01T20:42:35.779893Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Paint beta [Free]",
+        "link": "https://lucaswee-png.itch.io/paint",
+        "description": "",
+        "pubDate": "2025-10-01T20:30:06Z",
+        "source": "lucaswee-png.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNDExMzYyLnBuZw==/315x250%23c/YZycBX.png",
+        "bias": 0
+      },
       {
         "title": "Sokaban [Free]",
         "link": "https://silverstar1243.itch.io/sokaban",
@@ -18,6 +27,15 @@
         "pubDate": "2025-10-01T20:13:12Z",
         "source": "asterielab.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNDExMTg4LnBuZw==/315x250%23c/pmt%2BQi.png",
+        "bias": 0
+      },
+      {
+        "title": "EchoSilence [Free] [Puzzle] [Windows]",
+        "link": "https://erickgabriel1.itch.io/echosilence",
+        "description": "top-down",
+        "pubDate": "2025-10-01T20:12:48Z",
+        "source": "erickgabriel1.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNDExMTg5LmpwZWc=/315x250%23c/GqVxK8.jpeg",
         "bias": 0
       },
       {
@@ -228,15 +246,6 @@
         "bias": 0
       },
       {
-        "title": "Impulse Block [Free] [Action]",
-        "link": "https://blumisse.itch.io/impulse-block",
-        "description": "2D action game",
-        "pubDate": "2025-10-01T13:25:11Z",
-        "source": "blumisse.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNDA2OTA5LnBuZw==/315x250%23c/ka%2B8rF.png",
-        "bias": 0
-      },
-      {
         "title": "Spejs Rejs [Free] [Other]",
         "link": "https://helghast92.itch.io/spejs-rejs",
         "description": "You're late for space work and everyone else is on the wrong side of the space road today!",
@@ -248,6 +257,15 @@
     ],
     "World": [
       {
+        "title": "Protesters and police clash as Morocco unrest escalates",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/10/1/protesters-and-police-clash-as-morocco-unrest-escalates?traffic_source=rss",
+        "description": "Police vehicles were filmed ramming into protesters as anti-government demonstrations escalated in Morocco on Tuesday.",
+        "pubDate": "2025-10-01T20:27:18Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Danish PM calls for strong answer from EU leaders to Russia's hybrid attacks",
         "link": "https://www.bbc.com/news/articles/cp8jdene16ro?at_medium=RSS&at_campaign=rss",
         "description": "Copenhagen is on alert as EU leaders discuss boosting their defences in response to disruption from drones and Russian war planes.",
@@ -257,6 +275,15 @@
         "bias": 0
       },
       {
+        "title": "Israeli navy moves to intercept Gaza aid flotilla",
+        "link": "https://www.npr.org/2025/10/01/nx-s1-5559831/israeli-navy-moves-to-intercept-gaza-aid-flotilla",
+        "description": "The aid flotilla, which includes activist Greta Thunberg, was headed for Gaza to break Israel's blockade",
+        "pubDate": "2025-10-01T20:25:35Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Government shutdown takes hold with mass layoffs looming and no end in sight - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN04zeG5NRHJjb2lybWd3VTFsQi1BMThaNk1iSW1YMGF0bUJKeDJlN2dqMTFPM3VEcW1MU2xOdDg4aFNITWR5aGctODJMZmdnMURxWEZaV3lEaG5mX1IxMUMwb2IwbmJGRVhMOE9KUzJRZ1BqZE5yWmhqTmo1MGtvWEJCNjB5MDUxWmE1V1lsbml6SGMxVWRkelp4bS1CRzlDOGliS2dqMFNKUQ?oc=5",
         "description": "",
@@ -264,6 +291,15 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "Morocco arrests hundreds of protesters as rallies turn violent",
+        "link": "https://www.aljazeera.com/news/2025/10/1/morocco-arrests-hundreds-of-protesters-as-rallies-turn-violent?traffic_source=rss",
+        "description": "Members of Moroccan security forces and civilians reported hurt as youth antigovernment protests turn violent.",
+        "pubDate": "2025-10-01T20:14:05Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Activists say Israel's navy has begun intercepting a Gaza-bound aid flotilla",
@@ -293,8 +329,8 @@
         "bias": -1
       },
       {
-        "title": "Colombia: The birthplace of cumbia",
-        "link": "https://www.npr.org/sections/the-picture-show/2025/10/01/nx-s1-5548566/cumbia-in-colombia",
+        "title": "A NPR visual series takes a look at the rhythm of cumbia",
+        "link": "https://www.npr.org/2025/10/01/g-s1-89852/npr-series-cumbia-across-latin-america",
         "description": "One of the most listened-to genres in the Americas, photographers and storytellers Karla Gachet and Ivan Kashinsky document cumbia in Colombia, Mexico, Ecuador, Peru, Argentina and the United States.",
         "pubDate": "2025-10-01T20:00:00Z",
         "source": "npr.org",
@@ -302,8 +338,8 @@
         "bias": -1
       },
       {
-        "title": "A NPR visual series takes a look at the rhythm of cumbia",
-        "link": "https://www.npr.org/2025/10/01/g-s1-89852/npr-series-cumbia-across-latin-america",
+        "title": "Colombia: The birthplace of cumbia",
+        "link": "https://www.npr.org/sections/the-picture-show/2025/10/01/nx-s1-5548566/cumbia-in-colombia",
         "description": "One of the most listened-to genres in the Americas, photographers and storytellers Karla Gachet and Ivan Kashinsky document cumbia in Colombia, Mexico, Ecuador, Peru, Argentina and the United States.",
         "pubDate": "2025-10-01T20:00:00Z",
         "source": "npr.org",
@@ -354,6 +390,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Morocco’s youth protest for fifth night, decry World Cup spending over schools and hospitals - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQzRzYU1Gdzg1Sl9hTF9IUjByZjg4NTQ2U05HRGFCcGhqVG5BNk1pRGQ4R2J5Q1pRX0RyZWgzWEwzNDZHSFVrOE02ZmlPazV2Y2l3ZGMwSnp4UFpuNlNabzJKRXJvT0l2SHFNTnBkNW1tbDF0eHZQWkFHZlNxWC03aTRn?oc=5",
+        "description": "",
+        "pubDate": "2025-10-01T19:17:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Wall Street rises to more records, but yields sink on discouraging data about the job market - AP News",
@@ -590,7 +635,7 @@
         "bias": -1
       },
       {
-        "title": "LIVE: Israeli forces kill 65 in Gaza; Israel begins to intercept aid ships",
+        "title": "LIVE: Israeli military intercepts Gaza aid flotilla, 65 killed in Gaza",
         "link": "https://www.aljazeera.com/news/liveblog/2025/10/1/live-a-least-61-killed-as-global-sumud-flotilla-nears-gaza?traffic_source=rss",
         "description": "At least 65 Palestinians have been killed in Gaza as Israeli navy begins to intercept a flotilla of more than 50 ships.",
         "pubDate": "2025-10-01T15:40:33Z",
@@ -653,49 +698,13 @@
         "bias": 0
       },
       {
-        "title": "Taliban denies intentionally banning internet services in Afghanistan",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/10/1/taliban-denies-intentionally-banning-internet-services-in-afghanistan?traffic_source=rss",
-        "description": "The Taliban has denied implementing a nationwide internet ban, following a communications blackout across Afghanistan.",
-        "pubDate": "2025-10-01T14:31:42Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Why was former DR Congo president Kabila sentenced to death?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/10/1/why-was-former-dr-congo-president-kabila-sentenced-to-death?traffic_source=rss",
-        "description": "A military court in the Democratic Republic of the Congo has sentenced ex-President Joseph Kabila to death in absentia.",
-        "pubDate": "2025-10-01T14:24:20Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Morocco's youth protest for fourth night, decry World Cup spending over schools and hospitals - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQzRzYU1Gdzg1Sl9hTF9IUjByZjg4NTQ2U05HRGFCcGhqVG5BNk1pRGQ4R2J5Q1pRX0RyZWgzWEwzNDZHSFVrOE02ZmlPazV2Y2l3ZGMwSnp4UFpuNlNabzJKRXJvT0l2SHFNTnBkNW1tbDF0eHZQWkFHZlNxWC03aTRn?oc=5",
+        "title": "Florida was a top destination for immigrants who came to the US under Biden - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM0xHZTBGX29zaU5Edi1abEZPLXRxbWdidEJWdDhaSWxGaExFU2lFbXc2Y1BPT0YtY0YyNHc1UHZJeGlKdlVuaElKUmJ4M08xVU1WanRMN00wOWQ2TnZ1dU1ZRFNpN3hmT0t1S0dHZFFOb2pXcnRKdG9VYzh2ZUFGX3E2TVJSeFRUMC10cmpHN0V1S01LcFE?oc=5",
         "description": "",
-        "pubDate": "2025-10-01T14:23:00Z",
+        "pubDate": "2025-10-01T14:37:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Morgan Wallen denied throwing chair off bar roof to police in 2024, footage shows - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd0NWRWlXUkdrX3RBa2RYRlh5WU44dzlfZzQtYXo3eXZ6cGhDS2JncmZvWjgxMWtWaDB0eE1ZdFVsdWNSYm1RYmJXbjFFTDFlOURKaTVSbThXXzlQcFhsY056clFfR0lWNHc1b2RiYTJJdmFqU1hfSFl0bWYxdEItMjRucTZudWxlYkQ5dlBwZEtlRzMwQnVPTUZ0VzBIdmpLNGhPZ0x6RQ?oc=5",
-        "description": "",
-        "pubDate": "2025-10-01T14:06:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "In Poland, migrant workers from Latin America report abuse, exploitation",
-        "link": "https://www.aljazeera.com/news/2025/10/1/latam-workers-in-poland?traffic_source=rss",
-        "description": "Latin Americans are increasingly flocking to Poland for work, lured by the false promise of secure salaries.",
-        "pubDate": "2025-10-01T14:01:20Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
@@ -707,6 +716,24 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Confusion over Afghan internet outage after purported Taliban statement revealed as false - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaHZXQngtQUk5bjFzbTVwOHl1ZHZpU0JOeEVKRmZtdFJMaDdoTXBxYWE4V2xtTUNvd05YN3Vpc2xHMzh1TkdGb2c0eWljc2dtSDA5WlhNT1FTWHBGWjQtdERIdlZ5M0JvcGhKVEhtRmx5aXZINXlLWWhwMnR2aklMOGdrNWZxdDNoakYxOVR3ZEtqZnVucXdEZVRQcw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-01T19:55:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Tennessee court sets execution date for the state's only woman on death row and 3 male inmates - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeWJ0bUoxSE5tU1FpVW5DODJaVXR4QXdVNGh3U2hGaVhNUnh6aXZKSjhRRVRBZGo3VnRHa00wcUxHck93RUl2alFzQ1ZYeFNqVmUxZ0JQSDVsTHZhR2JzTGo5MllzM2haTUJvanhxSkEtTmdUVXZwQnRiSjZzQmlTcHBNY2c5WUFlZllfMy1FNjNISzUzTGFuWDVFWlR0NGJ1bWtNakNUWTlaZw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-01T19:28:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Residents of a NYC public housing tower escape unharmed after a massive chimney collapses - AP News",
@@ -1044,15 +1071,6 @@
         "bias": 0
       },
       {
-        "title": "Confusion over Afghan internet outage after purported Taliban statement revealed as false - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaHZXQngtQUk5bjFzbTVwOHl1ZHZpU0JOeEVKRmZtdFJMaDdoTXBxYWE4V2xtTUNvd05YN3Vpc2xHMzh1TkdGb2c0eWljc2dtSDA5WlhNT1FTWHBGWjQtdERIdlZ5M0JvcGhKVEhtRmx5aXZINXlLWWhwMnR2aklMOGdrNWZxdDNoakYxOVR3ZEtqZnVucXdEZVRQcw?oc=5",
-        "description": "",
-        "pubDate": "2025-10-01T16:39:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Macron says a tanker off France is linked to Russia’s shadow oil fleet - AP News",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSkUzamxuWmxwb2VwdGtTSXJxdjZJVUExRVB3X2dfY2gyVUZndG9tbUFORjNBSG5WU1p3TWRVczJmUHZOMkVrLU9xY2RYd0wtM01UVmw4NUgzeTRMMUZqYVhTMGxwbkFVUFQtLWdCT1o5N0cwRkFzRk9PRUFJWGJvdEV5T1M3Y1djNXZoV1EwYzhoa1VzUWc?oc=5",
         "description": "",
@@ -1121,7 +1139,7 @@
         "title": "Conservationist Dame Jane Goodall dies aged 91",
         "link": "https://www.bbc.com/news/articles/czrp24myrl7o?at_medium=RSS&at_campaign=rss",
         "description": "Dr Goodall was a world-leading expert on chimpanzees and a renowned conservationist.",
-        "pubDate": "2025-10-01T19:55:11Z",
+        "pubDate": "2025-10-01T20:30:56Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3af8/live/da77bfb0-9f01-11f0-92db-77261a15b9d2.jpg",
         "bias": 0
@@ -1145,15 +1163,6 @@
         "bias": 0
       },
       {
-        "title": "Where immigrants went during an unprecedented influx at the US border, by the numbers - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVEJOdElhQk55R0xQTm9fNmVsUFdxVFRsdm5Wa1VSRUZuZEdFWXdIXzJEXzBUZWFMQVhhNVJ0SWRWUGtIaXVPQTFoMzN5a2lFQXRKeF9DUUVUeEU3T21LNXVNNWljY2M2STRDc29CckpNWWxhM1oxSER3TWFLdFlKWmFZRXlyWnNGVnJZZWxoZktwTmMyNVJCd1poVGRaZDl4dnVKbGxfSQ?oc=5",
-        "description": "",
-        "pubDate": "2025-10-01T14:32:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "What is fracking and why is it controversial?",
         "link": "https://www.bbc.com/news/articles/c9v73r1ljl0o?at_medium=RSS&at_campaign=rss",
         "description": "The government says it plans to pass legislation to permanently ban fracking for shale gas in England.",
@@ -1163,19 +1172,19 @@
         "bias": 0
       },
       {
-        "title": "Aces beat Fever 107-98 in OT of Game 5 of semis, advance to WNBA Finals to face the Phoenix Mercury - AP News",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOb1pLNVBBbTR1dDM5V3V1RVpTZDNkQlRvXzB6ZmlubVA3YXllOUw3cTdlY3dWOXowVVU0QjEwYldwaTBkWDU0V0E0NldUY2ZZdmRfb2FBWEdKUVF5LVJLb3p6NjZTQUJoX0l1akRlMUZZNVhpNUM2cFpjdEJqZ2l1Nw?oc=5",
+        "title": "New Mexico Democrats rush to shore up safety net programs after federal cuts - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNjVjMlFCVDN0bm4xeEVqeGR0WEN2a3QwZDBEOWVrSWZoczJuS1FPSHJVUGJfemlwSjJZNl9IeHVSbzVfcGZDWHFYblc0amo3TE8yVE5kQU9jdlFQQy15c0czQkE3WTNYQWZtRE9NclBvY0xsUnc1Q09KNnI2bUdaNWlwelh6QzF3QnRBRjFxU01nSDY3aWRZSWRUUGw?oc=5",
         "description": "",
-        "pubDate": "2025-10-01T12:15:00Z",
+        "pubDate": "2025-10-01T04:04:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Australian prime minister urges China to resume iron ore imports after reported trade disruption - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa1E3cndTYWVnaGxVVlVwX0huZHFic2pMcGE1TEZjLU54NGNxeDdxRjJrQ3BnT2lxRVVEM2syeGdoNzZ2a0tUMlVyUlE0QXgxMU0zWmZ1dXRIemVJTkZyLTFVbElfZWs3YlBidEpiem1YaUNnOU1WeEswZXlQUEd5OUFqd0x4cWJYQzJoMkxxclVsdw?oc=5",
+        "title": "Tarik Skubal’s 14-strikeout gem gives Tigers playoff momentum after late-season swoon - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbmEtMF9neUZXSmRTTThDY0ZvNHdBUkRyUHpYaG55QUEwMU1SY0ZfS2pORkZaVjdSMDVOUTA0MkFCRVlORHBvUDVJVEJTdkRHNzF2WVpZeW1YVGFSUHVQOEs2R1NKVUVpWkdST01US0JoOHk2SFhueG41YW9JS2E4SmJFbmhnZ2VsYW8w?oc=5",
         "description": "",
-        "pubDate": "2025-10-01T07:06:00Z",
+        "pubDate": "2025-10-01T01:07:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
