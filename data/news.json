@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-01T07:18:34.653946Z",
+  "lastUpdate": "2025-10-01T07:33:12.104432Z",
   "news": {
     "Gaming": [
       {
@@ -44,7 +44,7 @@
         "description": "Make your dreams come true!",
         "pubDate": "2025-10-01T05:47:55Z",
         "source": "tremmigames.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNDAzMTU1LmpwZw==/315x250%23c/Gy%2Ffze.jpg",
+        "image": "https://img.itch.zone/aW1nLzIzNDAzNjU0LnBuZw==/315x250%23c/hJHM3a.png",
         "bias": 0
       },
       {
@@ -248,12 +248,48 @@
     ],
     "World": [
       {
+        "title": "Australia sunscreen scandal grows as more products pulled off shelves",
+        "link": "https://www.bbc.com/news/articles/c62qdje2ll4o?at_medium=RSS&at_campaign=rss",
+        "description": "The scandal has prompted a massive backlash in the world's biggest skin cancer hotspot.",
+        "pubDate": "2025-10-01T07:24:50Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80c6/live/8ea388e0-9e5b-11f0-84a5-3b487a8b7460.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Pfizer strikes deal with Trump administration to cut US drug prices",
+        "link": "https://www.aljazeera.com/economy/2025/10/1/pfizer-strikes-deal-with-trump-administration-to-cut-us-drug-prices?traffic_source=rss",
+        "description": "US consumers not expected to start seeing lower prices under the Pfizer deal until 2026.",
+        "pubDate": "2025-10-01T07:11:02Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Asia Cup 2025: India and Pakistan turn cricket into militarised theatre",
+        "link": "https://www.aljazeera.com/opinions/2025/10/1/asia-cup-2025-india-and-pakistan-turn-cricket-into-militarised-theatre?traffic_source=rss",
+        "description": "Handshake snubs, trophy refusal and jingoism in Dubai show how their toxic rivalry threatens the game itself.",
+        "pubDate": "2025-10-01T07:07:30Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Bowen: Momentum is the strength of Trump's Gaza plan, but lack of detail is its weakness",
         "link": "https://www.bbc.com/news/articles/cn829deeje3o?at_medium=RSS&at_campaign=rss",
         "description": "The plan is a significant moment - but it lacks the nuts and bolts that determine whether diplomatic agreements hold together, or don't.",
         "pubDate": "2025-10-01T07:05:33Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/856b/live/1250dd50-9e7f-11f0-9e55-1fac313765d4.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Watch: One street away from collapsed school as relatives wait for news",
+        "link": "https://www.bbc.com/news/videos/cx2718plv27o?at_medium=RSS&at_campaign=rss",
+        "description": "The BBC reports from a nearby centre as rescuers race to find 38 people believed to still be trapped.",
+        "pubDate": "2025-10-01T07:00:05Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39b0/live/ce231ea0-9e91-11f0-b741-177e3e2c2fc7.jpg",
         "bias": 0
       },
       {
@@ -272,6 +308,15 @@
         "pubDate": "2025-10-01T06:38:41Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b62/live/ba18b790-9e36-11f0-928c-71dbb8619e94.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Watch: Moment houses topple into the sea in North Carolina",
+        "link": "https://www.bbc.com/news/videos/cy9n2dwlldyo?at_medium=RSS&at_campaign=rss",
+        "description": "Five unoccupied houses fell into the water in Buxton after being battered by dangerous surf.",
+        "pubDate": "2025-10-01T06:27:58Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc90/live/d2552600-9e85-11f0-928c-71dbb8619e94.jpg",
         "bias": 0
       },
       {
@@ -527,15 +572,6 @@
         "bias": 0
       },
       {
-        "title": "Australia sunscreen scandal grows as more products pulled off shelves",
-        "link": "https://www.bbc.com/news/articles/c62qdje2ll4o?at_medium=RSS&at_campaign=rss",
-        "description": "The scandal has prompted a massive backlash in the world's biggest skin cancer hotspot.",
-        "pubDate": "2025-10-01T02:15:44Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80c6/live/8ea388e0-9e5b-11f0-84a5-3b487a8b7460.jpg",
-        "bias": 0
-      },
-      {
         "title": "New Orleans police official says crime is down after governor requests National Guard troops - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZjlIaW9oUlBmaG9ZVmVlNl9EeWMyR21VZVlKSHpTdW1udXpiOG10T19VNzdIZ2hmVERwVWVTUDlsSTloTHo5djRvTVJlUEk2bHlMWHBCZHh1T2VhT0E2X012eWFqbnNveV9FcnAxQWNMWjRfejNIMFNyUV83eTVpX0NlcmxJM3I4M0NvSEdjZFpIeUYwOGl1SWsxRWw0dlZtTTJqVG55TlA2Zw?oc=5",
         "description": "",
@@ -677,6 +713,24 @@
     ],
     "Science": [],
     "Business": [
+      {
+        "title": "How much gas and electricity does a typical household use?",
+        "link": "https://www.bbc.com/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+        "description": "Typical gas and electricity bills will rise slightly in October when a new energy price cap begins.",
+        "pubDate": "2025-10-01T07:27:30Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e128/live/e48b62d0-8314-11f0-be81-6985215d22ca.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Why the US government has shut down and what happens now",
+        "link": "https://www.bbc.com/news/articles/crrj1znp0pyo?at_medium=RSS&at_campaign=rss",
+        "description": "Funding has been cut off after Republicans and Democrats failed to agree a way forward on a spending bill.",
+        "pubDate": "2025-10-01T07:18:07Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7af/live/b2c540c0-9e96-11f0-92db-77261a15b9d2.jpg",
+        "bias": 0
+      },
       {
         "title": "Graduates urged to look local for best chance at jobs",
         "link": "https://www.bbc.com/news/articles/cdx2lv50n1no?at_medium=RSS&at_campaign=rss",
