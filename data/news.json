@@ -1,14 +1,23 @@
 {
-  "lastUpdate": "2025-10-02T08:50:33.425672Z",
+  "lastUpdate": "2025-10-02T09:19:09.555356Z",
   "news": {
     "Gaming": [
       {
-        "title": "Snetris [Free]",
+        "title": "Snetris [Free] [Puzzle]",
         "link": "https://minty-2019.itch.io/snetris",
         "description": "Snake + Tetris; what's not to love",
         "pubDate": "2025-10-02T08:43:00Z",
         "source": "minty-2019.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNDE3MzQ1LnBuZw==/315x250%23c/mT9Ei7.png",
+        "bias": 0
+      },
+      {
+        "title": "Hungry Kinght [Free] [Adventure] [Windows]",
+        "link": "https://axel-gamedeb.itch.io/hungry",
+        "description": "You are a Kinght in a wolrd 2D Pixel Art , Action platforms",
+        "pubDate": "2025-10-02T08:39:58Z",
+        "source": "axel-gamedeb.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNDE3MjY3LnBuZw==/315x250%23c/TYC6w7.png",
         "bias": 0
       },
       {
@@ -102,15 +111,6 @@
         "bias": 0
       },
       {
-        "title": "Classic Pentix [Free] [Puzzle] [Windows] [macOS]",
-        "link": "https://tiger59.itch.io/clasic-pentix",
-        "description": "",
-        "pubDate": "2025-10-02T06:08:07Z",
-        "source": "tiger59.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNDE2NjYyLnBuZw==/315x250%23c/pIZ4dr.png",
-        "bias": 0
-      },
-      {
         "title": "D+G4EVA [Free] [Action]",
         "link": "https://9t1-studios.itch.io/dg4eva",
         "description": "Little dragon loves gold, avoid the ballista trying to shoot you!",
@@ -138,15 +138,6 @@
         "bias": 0
       },
       {
-        "title": "HappyTony_Unit2 [Free]",
-        "link": "https://hapstony.itch.io/happytony-unit2",
-        "description": "Player can move vertical and diagonal directions within the boundaries.",
-        "pubDate": "2025-10-02T05:30:37Z",
-        "source": "hapstony.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNDE1OTgzLmpwZw==/315x250%23c/jtzIFb.jpg",
-        "bias": 0
-      },
-      {
         "title": "VR Minimarket [Free] [Simulation] [Android]",
         "link": "https://raymondlhh.itch.io/vr-minimarket",
         "description": "",
@@ -167,11 +158,29 @@
     ],
     "World": [
       {
-        "title": "From Madagascar to Morocco: Gen Z demands change through protests in Africa",
-        "link": "https://www.npr.org/2025/10/02/nx-s1-5558288/from-madagascar-to-morocco-gen-z-demands-change-through-protests-in-africa",
-        "description": "Youth-led protests are shaking Africa, from the Indian Ocean to the Sahara, as Generation Z demands change after years of poor governance.",
-        "pubDate": "2025-10-02T08:46:10Z",
+        "title": "From Madagascar to Morocco: Gen Z protests shake Africa",
+        "link": "https://www.npr.org/2025/10/02/nx-s1-5558288/madagascar-morocco-gen-z-protests",
+        "description": "Gen Z-led protests in two diverse African countries highlight frustration over years of poor governance. Fueled by social media, these youth movements are demanding accountability.",
+        "pubDate": "2025-10-02T09:01:00Z",
         "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Survivors pulled from collapsed school in Indonesia",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/10/2/survivors-pulled-from-collapsed-school-in-indonesia?traffic_source=rss",
+        "description": "An Islamic school collapsed during prayers in Indonesia's East Java. At least six people have been killed.",
+        "pubDate": "2025-10-02T08:55:19Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "‘No signs of life’: Hopes turn to anguish in Indonesia school collapse",
+        "link": "https://www.aljazeera.com/news/2025/10/2/no-signs-of-life-hopes-turn-to-anguish-in-indonesia-school-collapse?traffic_source=rss",
+        "description": "Some families say they are still holding out hope that their loved ones will be found alive.",
+        "pubDate": "2025-10-02T08:54:45Z",
+        "source": "aljazeera.com",
         "image": "",
         "bias": -1
       },
@@ -181,6 +190,15 @@
         "description": "Israel has ordered all residents of Gaza City to leave to make way for an expanded ground operation. Anyone who does not leave will be treated as a Hamas member or sympathizer.",
         "pubDate": "2025-10-02T08:45:28Z",
         "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Hopes dim for survivors after Indonesia school building collapses",
+        "link": "https://www.aljazeera.com/gallery/2025/10/2/hopes-dim-for-survivors-after-indonesia-school-building-collapses?traffic_source=rss",
+        "description": "Hundreds await news of loved ones as rescue teams cautiously use heavy machinery in Indonesia school collapse mission.",
+        "pubDate": "2025-10-02T08:28:38Z",
+        "source": "aljazeera.com",
         "image": "",
         "bias": -1
       },
@@ -219,6 +237,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Israeli navy intercepts some flotilla boats but others are nearing the coast of Gaza, activists say - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb3JIdjIwS3hlekcyaVdCR0ZDN0l1MnhPX2NSaTAxUEthLWhVY0YtN2hCN0p0Z2tZaEs5OGZlSmhkZnN5LXAtNktxWDV6VUI3ejN6Y0djNzFqXy1HMEdOWjJJWHhsNDJ4akNPa0ZHX0tCVWJwb1dvRWVSNHp6ZC1GVnpnblUybFVSWC1lVWh0MzNYQ2IyUUxjRXZuNWxmUG5ZRGtJQTNn?oc=5",
+        "description": "",
+        "pubDate": "2025-10-02T07:54:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Zelenskyy meeting European leaders in Denmark to rally support for Ukraine",
@@ -329,6 +356,15 @@
         "bias": -1
       },
       {
+        "title": "Tropical storm edges toward the Philippines and may grow to a typhoon on path toward China - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUFJsX2pPV1puNVJyYUhzOTJ3UTBFVzQ4SkVTc1JwcU5jMUQwMlNaR0VWUWNEdm1EcWgzS1l4dHlRdVl5d2s4RjhnRFFsX3VjSUc3aVZDdEdLX1NST3pmS3l5QzBXcGxJLVhEbExqLTVRdExnSHVaZGJEV20ySWN0eWdselR0R3VVLXdOQVJUNHlobWRTRkpKbGZqT0h5R1RkdHkwcGg5S2wxYjZL?oc=5",
+        "description": "",
+        "pubDate": "2025-10-02T05:07:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Relief and new baby for asylum family of child suffocated in English Channel crossing",
         "link": "https://www.bbc.com/news/articles/c8d7l2pvdrro?at_medium=RSS&at_campaign=rss",
         "description": "The Alhashemi family have spent the past 15 years moving around Europe in a state of legal limbo.",
@@ -342,6 +378,15 @@
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOHJWX0pOSmxzYnRheWJYZUl6NG5JLUotaG5JYVI0Q0hSU3J6TDV1am5SQ05nZU5KQTRzcWtQbUUxSWpWNnU4TU9EWGZjYVRKNENhTDhjMzNtQ29Ga29wTm8tREVXeXNod2JHM1ZfV3FZdGZSeEh2aWQxRndhUG1JMXg1RExEQU1zMWFHTUZDOEJ2S2FpN0FSelhyblRTWTl2eDA5ZDlB?oc=5",
         "description": "",
         "pubDate": "2025-10-02T04:56:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Yoshinobu Yamamoto shines as Dodgers sweep Reds to reach NL Division Series - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2xieWhXTW1qRW1zSE5CcmQ2aHdSaUFFR2tQQW9RQ3RvdGZEMVhBWnRFYVByRm1iWG0wR0ZlSVJuWEU2UU45RVlhWnV4XzdBOTUzVTEzdktGaTEwc3Y4eHlzSV8xMVJ6azBfMFhZdTFMRDAxNFFHSnJYbE40WmFDUWxEajA?oc=5",
+        "description": "",
+        "pubDate": "2025-10-02T04:15:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -410,15 +455,6 @@
         "bias": 0
       },
       {
-        "title": "A postman, his family, and a chair: Van Gogh museum’s surprising reunion exhibition - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd0hyWHhBS2t2dExhd3NDUUQyMVFFTHdxLVJEWW9TaUI4SEJuOE11OEJMdGpQTkNpdlNoMm1uOGRDMFg4eVV5ODNMNEF1emdiQmEwbVRCbVRscGc0bXl4MFNWbE5SNlBBTjI1QzdLcUZCSTBoMUU2YWg4QlJ4d3JJajBVem5KNGpwMXBkV3hjaE4wd0JCbnBmUEEzXzFtb1ktbWU4?oc=5",
-        "description": "",
-        "pubDate": "2025-10-02T02:57:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Federal shutdown cuts off economic data vital to policymakers and investors - AP News",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObFJBczBJNzI4b2hIQVpKX3h3SS1TSzM0cHUzcmY1cmRzT0RnbWpBYjE5ZXdYMmg1Q0plb0pLZDNZYnpscllYNi03RU1KVF9BWHBHQTdaRHItMmRkcHFLMFYyZ1RRVzhEcE51UkhIZVY1T1ZIMEd1dlM1UEh3b1Q1RlRhMHpuUGxnbnVJczVPMjRzdFJGWmVhTmo0UzdaX28?oc=5",
         "description": "",
@@ -474,6 +510,24 @@
       }
     ],
     "Politics": [
+      {
+        "title": "Furloughs, closures and mass firings threats: What's next in the shutdown fight",
+        "link": "https://www.npr.org/2025/10/02/nx-s1-5559296/government-shutdown-trump-house",
+        "description": "On the first day of the government shutdown, Republicans and Democrats traded blame while a small bipartisan group of senators began to negotiate.",
+        "pubDate": "2025-10-02T09:00:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Air traffic controllers helped end the last government shutdown, and may again",
+        "link": "https://www.npr.org/2025/10/02/nx-s1-5560219/air-traffic-controllers-ending-government-shutdown",
+        "description": "A shortage of air traffic controllers may have played a role in ending the last government shutdown in 2019. U.S airlines are once again bracing for possible delays in commercial aviation.",
+        "pubDate": "2025-10-02T09:00:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Refugees to face longer route to UK settlement rights",
         "link": "https://www.bbc.com/news/articles/cddmpr21yr2o?at_medium=RSS&at_campaign=rss",
@@ -536,17 +590,26 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "A postman, his family, and a chair: Van Gogh museum’s surprising reunion exhibition - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd0hyWHhBS2t2dExhd3NDUUQyMVFFTHdxLVJEWW9TaUI4SEJuOE11OEJMdGpQTkNpdlNoMm1uOGRDMFg4eVV5ODNMNEF1emdiQmEwbVRCbVRscGc0bXl4MFNWbE5SNlBBTjI1QzdLcUZCSTBoMUU2YWg4QlJ4d3JJajBVem5KNGpwMXBkV3hjaE4wd0JCbnBmUEEzXzFtb1ktbWU4?oc=5",
+        "description": "",
+        "pubDate": "2025-10-02T02:57:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Tech": [
       {
-        "title": "Delta jets have ‘low-speed collision’ on the ground at New York’s LaGuardia, injuring 1 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUnFPdkVpcFBmR0h4ZktWUjM3RVBpc19Xa2ozdWpveENtLTdlamt5NURXVUtPb28xQ1FZMXh2anlRQkZ6YlRuZ21EYnU0c3JhUXdtZkNpYzJvUktQdzUtalhnTWlFaVQ3UjA5UmEyRGtHaXNtQTdDUlB5OTltalI1YUhtTUt4VW12ZndLdmN6R0FFU0RGNHlOc0o2N1U4S0dMcklV?oc=5",
-        "description": "",
-        "pubDate": "2025-10-02T04:46:00Z",
-        "source": "news.google.com",
+        "title": "Research, curriculum and grading: new data sheds light on how professors are using AI",
+        "link": "https://www.npr.org/2025/10/02/nx-s1-5550365/college-professors-ai-classroom",
+        "description": "It's not just students, more professors are using AI in the classroom. But they say more guidance is needed on how to use the technology.",
+        "pubDate": "2025-10-02T09:07:00Z",
+        "source": "npr.org",
         "image": "",
-        "bias": 0
+        "bias": -1
       }
     ],
     "Science": [
@@ -562,21 +625,21 @@
     ],
     "Business": [
       {
+        "title": "Thames Water lenders submit rescue plan to stave off collapse",
+        "link": "https://www.bbc.com/news/articles/cn82pm40915o?at_medium=RSS&at_campaign=rss",
+        "description": "",
+        "pubDate": "2025-10-02T09:02:15Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c6d/live/d88269a0-9f54-11f0-92db-77261a15b9d2.jpg",
+        "bias": 0
+      },
+      {
         "title": "Shein to open its first permanent outlets in France",
         "link": "https://www.bbc.com/news/articles/ckg2p87de58o?at_medium=RSS&at_campaign=rss",
         "description": "The Asian fast-fashion giant will open concessions in six department stores in the country.",
         "pubDate": "2025-10-02T07:34:21Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a7/live/34691f70-9f50-11f0-93d7-898124a81a47.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Thames Water lenders submit rescue plan to stave off collapse",
-        "link": "https://www.bbc.com/news/articles/cn82pm40915o?at_medium=RSS&at_campaign=rss",
-        "description": "",
-        "pubDate": "2025-10-02T07:01:56Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c6d/live/d88269a0-9f54-11f0-92db-77261a15b9d2.jpg",
         "bias": 0
       },
       {
@@ -596,18 +659,18 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d6c/live/2d3b8230-9ed6-11f0-9cc3-55b0375a170c.jpg",
         "bias": 0
-      },
-      {
-        "title": "Zoo charity launches voluntary redundancy scheme",
-        "link": "https://www.bbc.com/news/articles/cjd1jr2mp4jo?at_medium=RSS&at_campaign=rss",
-        "description": "The Zoological Society of London says it needs to reduce its annual costs by £2m.",
-        "pubDate": "2025-10-02T05:01:48Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2258/live/cb7a44e0-9d14-11f0-abcb-d59f6e1be404.jpg",
-        "bias": 0
       }
     ],
     "Culture": [
+      {
+        "title": "'Good Boy' tells the story of a haunted house from the perspective of a dog",
+        "link": "https://www.npr.org/2025/10/02/nx-s1-5515471/good-boy-tells-the-story-of-a-haunted-house-from-the-perspective-of-a-dog",
+        "description": "In \"Good Boy,\" a loyal dog faces off against dark forces to protect his owner. The horror story is told through the eyes of man's best friend.",
+        "pubDate": "2025-10-02T08:46:06Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Irish singer CMAT postpones UK tour due to wisdom teeth pain",
         "link": "https://www.bbc.com/news/articles/c20v22j3ve3o?at_medium=RSS&at_campaign=rss",
