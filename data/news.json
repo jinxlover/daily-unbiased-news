@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-10-02T07:37:03.213375Z",
+  "lastUpdate": "2025-10-02T07:47:29.416925Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Doe Diaries - \"The living book\" Pass: Gild [Free] [Other]",
+        "link": "https://forthefurther.itch.io/doe-diaries-the-living-book",
+        "description": "an interactive illustraedstory where Doe Boy, Gilda, Nyx and Gunn Thor jorney through fate, unlocking pages as you play",
+        "pubDate": "2025-10-02T07:21:21Z",
+        "source": "forthefurther.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNDE2NzYwLnBuZw==/315x250%23c/ZGwdit.png",
+        "bias": 0
+      },
       {
         "title": "Before We Say Goodbye [Free]",
         "link": "https://lukadeer.itch.io/before-we-say-goodbye",
@@ -138,15 +147,6 @@
         "bias": 0
       },
       {
-        "title": "ASAS 2.0 [Free] [Adventure]",
-        "link": "https://leonetounematbr.itch.io/asas-20",
-        "description": "ASAS 2.0",
-        "pubDate": "2025-10-02T04:01:21Z",
-        "source": "leonetounematbr.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNDE1NDU1LnBuZw==/315x250%23c/mBVGo1.png",
-        "bias": 0
-      },
-      {
         "title": "VR Minimarket [Free] [Simulation] [Android]",
         "link": "https://raymondlhh.itch.io/vr-minimarket",
         "description": "",
@@ -157,6 +157,15 @@
       }
     ],
     "World": [
+      {
+        "title": "Israel threatens all staying in Gaza City, kills at least 13 in enclave",
+        "link": "https://www.aljazeera.com/news/2025/10/2/israel-threatens-all-staying-in-gaza-city-kills-at-least-13-in-enclave?traffic_source=rss",
+        "description": "Israeli Defence Minister Katz says anyone who stays in Gaza City will be considered 'terrorists and terror supporters'.",
+        "pubDate": "2025-10-02T07:19:32Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Israeli naval ships intercept Gaza-bound flotilla",
         "link": "https://www.bbc.com/news/articles/c0lk292jww4o?at_medium=RSS&at_campaign=rss",
@@ -257,10 +266,10 @@
         "bias": 0
       },
       {
-        "title": "Yoshinobu Yamamoto shines as Dodgers sweep Reds to reach NL Division Series - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2xieWhXTW1qRW1zSE5CcmQ2aHdSaUFFR2tQQW9RQ3RvdGZEMVhBWnRFYVByRm1iWG0wR0ZlSVJuWEU2UU45RVlhWnV4XzdBOTUzVTEzdktGaTEwc3Y4eHlzSV8xMVJ6azBfMFhZdTFMRDAxNFFHSnJYbE40WmFDUWxEajA?oc=5",
+        "title": "Everybody in Washington hates a shutdown. Until you’re pushing for one - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcVpNQkhwbWlLWFcxTUdJLVlpVFpRNjAzTDhKLWhUX3psRmFSZTlMMVU4TzFla0xoSWppUllsUk40UUdtUTJuZ0NBVEpSRGZ0amdFbGZwUmExSlRTUXdxMGhuWnJYZTdXZnhYaTRCd1FfUTMxcjdjMjhqREw5alMwOUczZ1pZQXllQnNZNU9Kd1ZVSEdCbTI4aW41QWVLODVPU1c1YVUyRQ?oc=5",
         "description": "",
-        "pubDate": "2025-10-02T04:15:00Z",
+        "pubDate": "2025-10-02T04:03:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -419,18 +428,19 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
+      }
+    ],
+    "Tech": [
       {
-        "title": "Environmentalists, politicians, celebrities recall life and influence of primatologist Jane Goodall - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdzN1WlFMWGNhdVNzSW1HUERQWUNkeHk0a0R5NmdrYnZLdlVuVm1YaWd0OHJlZGJ6cktDalp5eW4xRWhaNGl6LTBxcWcxcjNwZTEtUlh5Xzd2YU16RExBNlp4cGRZNWQwNU00NXFFdmZrVzRKUG50QUVzY2lyUVZWSkxvWFdwY2w5TnZyMDRDUVZLZw?oc=5",
+        "title": "Yoshinobu Yamamoto shines as Dodgers sweep Reds to reach NL Division Series - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2xieWhXTW1qRW1zSE5CcmQ2aHdSaUFFR2tQQW9RQ3RvdGZEMVhBWnRFYVByRm1iWG0wR0ZlSVJuWEU2UU45RVlhWnV4XzdBOTUzVTEzdktGaTEwc3Y4eHlzSV8xMVJ6azBfMFhZdTFMRDAxNFFHSnJYbE40WmFDUWxEajA?oc=5",
         "description": "",
-        "pubDate": "2025-10-02T03:44:00Z",
+        "pubDate": "2025-10-02T04:15:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       }
     ],
-    "Tech": [],
     "Science": [],
     "Business": [
       {
