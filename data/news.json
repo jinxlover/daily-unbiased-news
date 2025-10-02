@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-02T11:27:15.060133Z",
+  "lastUpdate": "2025-10-02T11:39:17.830324Z",
   "news": {
     "Gaming": [
       {
@@ -27,6 +27,15 @@
         "pubDate": "2025-10-02T10:14:20Z",
         "source": "reuben-games.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNDE4MDg2LnBuZw==/315x250%23c/Js9zgu.png",
+        "bias": 0
+      },
+      {
+        "title": "Saboteur Survival [Free] [Survival]",
+        "link": "https://bangergames.itch.io/saboteur-survival",
+        "description": "",
+        "pubDate": "2025-10-02T10:11:29Z",
+        "source": "bangergames.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNDE4NjY3LnBuZw==/315x250%23c/FtxIPw.png",
         "bias": 0
       },
       {
@@ -165,24 +174,6 @@
         "bias": 0
       },
       {
-        "title": "Tim's Favorite [Free] [Survival]",
-        "link": "https://shinltm.itch.io/tims-favorite",
-        "description": "Be ready to defend your favorite plushie !",
-        "pubDate": "2025-10-02T07:22:24Z",
-        "source": "shinltm.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNDE2NzE2LnBuZw==/315x250%23c/VX5LWO.png",
-        "bias": 0
-      },
-      {
-        "title": "Doe Diaries - \"The living book\" Pass: Gild [Free] [Other]",
-        "link": "https://forthefurther.itch.io/doe-diaries-the-living-book",
-        "description": "an interactive illustraedstory where Doe Boy, Gilda, Nyx and Gunn Thor jorney through fate, unlocking pages as you play",
-        "pubDate": "2025-10-02T07:21:21Z",
-        "source": "forthefurther.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNDE2NzYwLnBuZw==/315x250%23c/ZGwdit.png",
-        "bias": 0
-      },
-      {
         "title": "D+G4EVA [Free] [Action]",
         "link": "https://9t1-studios.itch.io/dg4eva",
         "description": "Little dragon loves gold, avoid the ballista trying to shoot you!",
@@ -220,6 +211,15 @@
       }
     ],
     "World": [
+      {
+        "title": "First killings in Morocco since Gen Z protests erupted",
+        "link": "https://www.bbc.com/news/articles/cgrqpekyxpvo?at_medium=RSS&at_campaign=rss",
+        "description": "Police say they shot dead two people who were part of a crowd trying to storm a police station.",
+        "pubDate": "2025-10-02T11:31:03Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56aa/live/c7c27130-9f7e-11f0-8978-23dd7eb26e73.jpg",
+        "bias": 0
+      },
       {
         "title": "Pressure on Democrats grows to end shutdown. And, Gaza City receives evacuation orders",
         "link": "https://www.npr.org/2025/10/02/g-s1-91609/up-first-newsletter-government-shutdown-israel-gaza-andy-beshear",
@@ -275,6 +275,15 @@
         "bias": 0
       },
       {
+        "title": "The federal shutdown will cut off vital economic data, including Friday’s jobs report - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObFJBczBJNzI4b2hIQVpKX3h3SS1TSzM0cHUzcmY1cmRzT0RnbWpBYjE5ZXdYMmg1Q0plb0pLZDNZYnpscllYNi03RU1KVF9BWHBHQTdaRHItMmRkcHFLMFYyZ1RRVzhEcE51UkhIZVY1T1ZIMEd1dlM1UEh3b1Q1RlRhMHpuUGxnbnVJczVPMjRzdFJGWmVhTmo0UzdaX28?oc=5",
+        "description": "",
+        "pubDate": "2025-10-02T10:20:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "UK gov’t demand to access Apple users’ data raises civil liberties issues",
         "link": "https://www.aljazeera.com/news/2025/10/2/uk-govt-demand-to-access-apple-users-data-raises-civil-liberties-issues?traffic_source=rss",
         "description": "Second order this year focuses on UK users; earlier attempt included US user data, but was withdrawn under US pressure.",
@@ -284,10 +293,10 @@
         "bias": -1
       },
       {
-        "title": "Delta jets have a ‘low-speed collision’ on the ground at New York’s LaGuardia, injuring 1 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUnFPdkVpcFBmR0h4ZktWUjM3RVBpc19Xa2ozdWpveENtLTdlamt5NURXVUtPb28xQ1FZMXh2anlRQkZ6YlRuZ21EYnU0c3JhUXdtZkNpYzJvUktQdzUtalhnTWlFaVQ3UjA5UmEyRGtHaXNtQTdDUlB5OTltalI1YUhtTUt4VW12ZndLdmN6R0FFU0RGNHlOc0o2N1U4S0dMcklV?oc=5",
+        "title": "Israeli navy intercepts most flotilla boats and arrests activists. A single boat stops nears Gaza - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb3JIdjIwS3hlekcyaVdCR0ZDN0l1MnhPX2NSaTAxUEthLWhVY0YtN2hCN0p0Z2tZaEs5OGZlSmhkZnN5LXAtNktxWDV6VUI3ejN6Y0djNzFqXy1HMEdOWjJJWHhsNDJ4akNPa0ZHX0tCVWJwb1dvRWVSNHp6ZC1GVnpnblUybFVSWC1lVWh0MzNYQ2IyUUxjRXZuNWxmUG5ZRGtJQTNn?oc=5",
         "description": "",
-        "pubDate": "2025-10-02T10:08:00Z",
+        "pubDate": "2025-10-02T10:10:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -435,15 +444,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Israeli navy intercepts some flotilla boats but others are nearing the coast of Gaza, activists say - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb3JIdjIwS3hlekcyaVdCR0ZDN0l1MnhPX2NSaTAxUEthLWhVY0YtN2hCN0p0Z2tZaEs5OGZlSmhkZnN5LXAtNktxWDV6VUI3ejN6Y0djNzFqXy1HMEdOWjJJWHhsNDJ4akNPa0ZHX0tCVWJwb1dvRWVSNHp6ZC1GVnpnblUybFVSWC1lVWh0MzNYQ2IyUUxjRXZuNWxmUG5ZRGtJQTNn?oc=5",
-        "description": "",
-        "pubDate": "2025-10-02T07:54:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Zelenskyy meeting European leaders in Denmark to rally support for Ukraine",
@@ -626,15 +626,6 @@
         "bias": 0
       },
       {
-        "title": "Trump uses government shutdown to dole out firings and political punishment - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUWlhT3puVDhSV0pyM29jcnh1VFdfS0tNVXRsV0Y0VndXRFRfWGRoLU9CdnI4dUpGSkFMSEV0cC1mbW84MGJlVUhmZHVOSE9SR19fWWVZWW5aamZ1N05HZXZwc29iekZrcWJRQ0N2bmZNQ08yclROREQzekRaeTJjalBnMzdCdlczYzhrRU1CYUlPbmRJa09zcWpPaTJha20tMWFOUmNkcjJxeHR4?oc=5",
-        "description": "",
-        "pubDate": "2025-10-02T04:02:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Israel orders Palestinians to leave Gaza City, saying those who stay will be considered militants - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOXzR6dW42cWdGaktJUlpXeEJHS2dMOHhlbzk4dE1WYncxVW02U1BYaE1HQUdYVEVNdXBaelkzaHhUdzlMWmhSeTkxcmtMd1lneUI1RVdRRGpCeEJfeVRKanZ2ZXN0T3NEeDN2ZTgyUmt0U1U3LWxKLTRBOGUwMlhjXzZ4cV8tdlVnQVNYdXV6YnZsVEhLNkJhSklzMm1yUU9NZG1nNThoNXc?oc=5",
         "description": "",
@@ -682,10 +673,10 @@
         "bias": -1
       },
       {
-        "title": "The federal shutdown will cut off vital economic data, including Friday’s jobs report - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObFJBczBJNzI4b2hIQVpKX3h3SS1TSzM0cHUzcmY1cmRzT0RnbWpBYjE5ZXdYMmg1Q0plb0pLZDNZYnpscllYNi03RU1KVF9BWHBHQTdaRHItMmRkcHFLMFYyZ1RRVzhEcE51UkhIZVY1T1ZIMEd1dlM1UEh3b1Q1RlRhMHpuUGxnbnVJczVPMjRzdFJGWmVhTmo0UzdaX28?oc=5",
+        "title": "Delta jets have a ‘low-speed collision’ on the ground at New York’s LaGuardia, injuring 1 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUnFPdkVpcFBmR0h4ZktWUjM3RVBpc19Xa2ozdWpveENtLTdlamt5NURXVUtPb28xQ1FZMXh2anlRQkZ6YlRuZ21EYnU0c3JhUXdtZkNpYzJvUktQdzUtalhnTWlFaVQ3UjA5UmEyRGtHaXNtQTdDUlB5OTltalI1YUhtTUt4VW12ZndLdmN6R0FFU0RGNHlOc0o2N1U4S0dMcklV?oc=5",
         "description": "",
-        "pubDate": "2025-10-02T10:20:00Z",
+        "pubDate": "2025-10-02T10:08:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -745,6 +736,15 @@
         "bias": 0
       },
       {
+        "title": "Trump uses government shutdown to dole out firings and political punishment - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUWlhT3puVDhSV0pyM29jcnh1VFdfS0tNVXRsV0Y0VndXRFRfWGRoLU9CdnI4dUpGSkFMSEV0cC1mbW84MGJlVUhmZHVOSE9SR19fWWVZWW5aamZ1N05HZXZwc29iekZrcWJRQ0N2bmZNQ08yclROREQzekRaeTJjalBnMzdCdlczYzhrRU1CYUlPbmRJa09zcWpPaTJha20tMWFOUmNkcjJxeHR4?oc=5",
+        "description": "",
+        "pubDate": "2025-10-02T04:02:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "The federal shutdown puts nutrition aid for millions of new parents at risk",
         "link": "https://www.npr.org/2025/10/02/nx-s1-5557289/federal-shutdown-nutrition-aid-wic-snap-benefits-government-funding",
         "description": "Nearly seven million pregnant women and young children depend on WIC for healthy foods. Advocates say funding could run out in about two weeks, leaving states to close the gap if their budgets allow.",
@@ -775,15 +775,6 @@
       }
     ],
     "Science": [
-      {
-        "title": "Zelenskyy warns Russian drones endanger safety at Chernobyl and at Europe's biggest nuclear plant - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVmJjSEJkUTcyYUZ1UmFMcHJ4YUZPekhybER6S3pVUFhYTHJNeFVfNmRwZFVrN3ZYRW5Xd0p0cUZzcWlsRFBJdTh0MjZ0VGhtRGh3Mmx1TXRMSzZkQzJzN0xUN3lJSkV6Q2NlRGlJUm0yejJRRmdVQ2JCS2FBeTFlU1NlVDBHdUFEX29GZmlnTm5OMFcwU2t4QTZpRDl5aGRsYVdXckVUcHI?oc=5",
-        "description": "",
-        "pubDate": "2025-10-02T09:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
       {
         "title": "Remembering Jane Goodall: Legendary primatologist dies at age 91",
         "link": "https://www.npr.org/2025/10/02/nx-s1-5559832/remembering-jane-goodall-legendary-primatologist-dies-at-age-91",
