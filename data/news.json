@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-02T07:24:39.528101Z",
+  "lastUpdate": "2025-10-02T07:37:03.213375Z",
   "news": {
     "Gaming": [
       {
@@ -138,15 +138,6 @@
         "bias": 0
       },
       {
-        "title": "Infinite RPG [Free]",
-        "link": "https://amos-nimos.itch.io/infinite-rpg",
-        "description": "",
-        "pubDate": "2025-10-02T04:02:02Z",
-        "source": "amos-nimos.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNDE1NTEwLnBuZw==/315x250%23c/i2EoKE.png",
-        "bias": 0
-      },
-      {
         "title": "ASAS 2.0 [Free] [Adventure]",
         "link": "https://leonetounematbr.itch.io/asas-20",
         "description": "ASAS 2.0",
@@ -243,6 +234,15 @@
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOHJWX0pOSmxzYnRheWJYZUl6NG5JLUotaG5JYVI0Q0hSU3J6TDV1am5SQ05nZU5KQTRzcWtQbUUxSWpWNnU4TU9EWGZjYVRKNENhTDhjMzNtQ29Ga29wTm8tREVXeXNod2JHM1ZfV3FZdGZSeEh2aWQxRndhUG1JMXg1RExEQU1zMWFHTUZDOEJ2S2FpN0FSelhyblRTWTl2eDA5ZDlB?oc=5",
         "description": "",
         "pubDate": "2025-10-02T04:56:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "A collapse at a church under construction in Ethiopia kills at least 25 worshippers - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeEpWX21Ma2p4MmNZRDZUZTRxUEFOWk5JRFFEOTVnVWI5VUhMV0t4OERFeEszbmF4M3hlaXUzdnF6SUsyMTNlNUpRX0NsTTk0M3V1b2ZfQjJsQThJLUJZSVZtQ1ZLYnlnOVJNalFTdmZsVlRuR2pOc3EyTVBwVkJ0Y0tCeGdHOEl1SjZrVEZ3?oc=5",
+        "description": "",
+        "pubDate": "2025-10-02T04:31:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -419,11 +419,29 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Environmentalists, politicians, celebrities recall life and influence of primatologist Jane Goodall - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdzN1WlFMWGNhdVNzSW1HUERQWUNkeHk0a0R5NmdrYnZLdlVuVm1YaWd0OHJlZGJ6cktDalp5eW4xRWhaNGl6LTBxcWcxcjNwZTEtUlh5Xzd2YU16RExBNlp4cGRZNWQwNU00NXFFdmZrVzRKUG50QUVzY2lyUVZWSkxvWFdwY2w5TnZyMDRDUVZLZw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-02T03:44:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Tech": [],
     "Science": [],
     "Business": [
+      {
+        "title": "Shein to open its first permanent outlets in France",
+        "link": "https://www.bbc.com/news/articles/ckg2p87de58o?at_medium=RSS&at_campaign=rss",
+        "description": "The Asian fast-fashion giant will open concessions in six department stores in the country.",
+        "pubDate": "2025-10-02T07:34:21Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a7/live/34691f70-9f50-11f0-93d7-898124a81a47.jpg",
+        "bias": 0
+      },
       {
         "title": "Thames Water lenders submit rescue plan to stave off collapse",
         "link": "https://www.bbc.com/news/articles/cn82pm40915o?at_medium=RSS&at_campaign=rss",
