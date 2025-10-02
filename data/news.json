@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-10-02T20:00:00.929398Z",
+  "lastUpdate": "2025-10-02T20:28:09.134757Z",
   "news": {
     "Gaming": [
+      {
+        "title": "The Forgotten Dream [Free] [Platformer]",
+        "link": "https://10r6.itch.io/the-forgotten-dream",
+        "description": "",
+        "pubDate": "2025-10-02T20:10:32Z",
+        "source": "10r6.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNDI0Nzg5LnBuZw==/315x250%23c/VMevdv.png",
+        "bias": 0
+      },
       {
         "title": "HAZAFIAS SECURITY [Free] [Action]",
         "link": "https://gelegula.itch.io/hazafias-security",
@@ -72,15 +81,6 @@
         "pubDate": "2025-10-02T18:23:48Z",
         "source": "lamp-shade-light-games.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNDIzNTUyLnBuZw==/315x250%23c/uo3YIR.png",
-        "bias": 0
-      },
-      {
-        "title": "The Granny Revenage [Free] [Survival]",
-        "link": "https://10r6.itch.io/the-granny-revenage",
-        "description": "",
-        "pubDate": "2025-10-02T18:21:07Z",
-        "source": "10r6.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNDIzNDYxLnBuZw==/315x250%23c/LDZZ2D.png",
         "bias": 0
       },
       {
@@ -165,39 +165,12 @@
         "bias": 0
       },
       {
-        "title": "CheesRPG [Free]",
-        "link": "https://gamedevjunior.itch.io/cheesrpg",
-        "description": "",
-        "pubDate": "2025-10-02T17:25:27Z",
-        "source": "gamedevjunior.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNDIyODExLnBuZw==/315x250%23c/Epygl5.png",
-        "bias": 0
-      },
-      {
-        "title": "Dragons Of Atlantis Remake [Free] [Strategy]",
-        "link": "https://patryk2845.itch.io/dragons-of-atlantis-remake",
-        "description": "",
-        "pubDate": "2025-10-02T17:23:49Z",
-        "source": "patryk2845.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNDIyNzM5LnBuZw==/315x250%23c/NWbGeQ.png",
-        "bias": 0
-      },
-      {
         "title": "Project1 Adam Evangelista [Free]",
         "link": "https://adamevangelista.itch.io/project1-adam-evangelista",
         "description": "",
         "pubDate": "2025-10-02T16:51:51Z",
         "source": "adamevangelista.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNDIzMjQwLnBuZw==/315x250%23c/geoISV.png",
-        "bias": 0
-      },
-      {
-        "title": "Bloody Flappy Bird [Free] [Adventure] [Windows] [macOS] [Linux] [Android]",
-        "link": "https://cool-dudee.itch.io/bloody-flappy-bird",
-        "description": "",
-        "pubDate": "2025-10-02T16:43:36Z",
-        "source": "cool-dudee.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNDIyMjg4LnBuZw==/315x250%23c/CgmZC7.png",
         "bias": 0
       },
       {
@@ -212,10 +185,28 @@
     ],
     "World": [
       {
+        "title": "'Find common ground', tourists in Washington tell lawmakers amid shutdown",
+        "link": "https://www.bbc.com/news/videos/c701yk41x86o?at_medium=RSS&at_campaign=rss",
+        "description": "Several museums and landmarks around the US, including the Capitol and Washington Monument, have closed to visitors.",
+        "pubDate": "2025-10-02T20:10:49Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/674d/live/738d8920-9fc3-11f0-92db-77261a15b9d2.jpg",
+        "bias": 0
+      },
+      {
         "title": "Israeli navy intercepts boats attempting to break Gaza blockade and arrests activists - AP News",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb3JIdjIwS3hlekcyaVdCR0ZDN0l1MnhPX2NSaTAxUEthLWhVY0YtN2hCN0p0Z2tZaEs5OGZlSmhkZnN5LXAtNktxWDV6VUI3ejN6Y0djNzFqXy1HMEdOWjJJWHhsNDJ4akNPa0ZHX0tCVWJwb1dvRWVSNHp6ZC1GVnpnblUybFVSWC1lVWh0MzNYQ2IyUUxjRXZuNWxmUG5ZRGtJQTNn?oc=5",
         "description": "",
         "pubDate": "2025-10-02T19:52:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Caitlin Clark says Collier made 'valid' points and Commissioner Engelbert hasn't contacted her - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOW9RTUtXWjVBUXIyRng0UUN1VUhuWFZ3TnYweEl2NTRrZWhDV0JDd0lyUzM5bkJwbThJb21MUUJIazRFU1RsZTRmRC0wX0RheDVxU3VCUTlzMi1qQm1GVUhhTDZ1dWtpMzRTY1hjUThjNkxqOFIwZnNkc09ISFlHTU9lSzQ3ZFp2c01XbUotclhxaGJMNmRpaFZNU21XT3FGY01KbXNReE1sWTNWVkZxeA?oc=5",
+        "description": "",
+        "pubDate": "2025-10-02T19:30:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -266,6 +257,15 @@
         "bias": 0
       },
       {
+        "title": "Photos show the destruction and rescue efforts after an earthquake in the Philippines - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVVVwcEwtUW0xTUpJZmJsZTQ5NGlpVHQxV1ZtM3FuOHZfUnV2aW1Db0Q3RDJ5d3JZX0YtY3M3R3pMeUphdlVlSjA4ZlpsN1pJMTVRZlRCYkhVV1RBWkFxUVNscHdIVldYQkdjRUpIQ1kxbVJMQVUwa0VGbF9rMjZkZDl5NFBfWE1EM0RaNVZoUlRCaXRlQnl4SDhHaEFPUy1nS0xrb3hyUDBfZ0xONDIwdEtYdE9MSEp0NVE?oc=5",
+        "description": "",
+        "pubDate": "2025-10-02T18:54:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Trump uses government shutdown to dole out firings and political punishment - AP News",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUWlhT3puVDhSV0pyM29jcnh1VFdfS0tNVXRsV0Y0VndXRFRfWGRoLU9CdnI4dUpGSkFMSEV0cC1mbW84MGJlVUhmZHVOSE9SR19fWWVZWW5aamZ1N05HZXZwc29iekZrcWJRQ0N2bmZNQ08yclROREQzekRaeTJjalBnMzdCdlczYzhrRU1CYUlPbmRJa09zcWpPaTJha20tMWFOUmNkcjJxeHR4?oc=5",
         "description": "",
@@ -279,6 +279,15 @@
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMUM1V0lZMHU2TUd1ZFJBbHlDOEF1Rk1Kcng2QWo5VExzZHF6NkpZQ2QyTjVvVDZFNkF3U2ZRSV9Ba1RRRGswMXRnMkU3MHJ5MVlKVzNHNEREMHJjdkhuRllud2pQSFJhVE1mUWw0LTF4cmxFWDd2SF9vNUVQYkFXRy1OZkdacmU3Q0hGZjJha0M5bi1BdDZzby1VaU5UYWNBZHZrTGdLekpwdUV2YlE?oc=5",
         "description": "",
         "pubDate": "2025-10-02T18:33:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Israeli strikes kill dozens in Gaza as Hamas considers its response to Trump's peace proposal - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUWgyRmFvMUFZZWtHcG91SHdvbFpuN0VfM2dhVXZ1aGpBWHNzWW9VY2FfQy1SMGdCVTN0ci1fZUZKYkcxOEVadWl6cGpVbVEwNGZvY2FDLUlRbFlHQ3NNUGNSZHpJWldqNzhoN1YyanotWkEwWTB6WlpybWs3aGszNno3Sk5ldVM0eWU2ejhqZXBtOENaTTNtYXdyaGtOejhGdFY4Y0pFLV8?oc=5",
+        "description": "",
+        "pubDate": "2025-10-02T18:18:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -363,6 +372,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Photos show widespread protests after Israeli forces intercept Gaza-bound flotilla - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPck8tcE84RzhDYnJtdTZWcFZCelFoa2JKSWJUTTdLYUNtOUk4RzFZbGNud3R5b0NOOHh1WGZEUjdHMlhlcnlITkhLdHZ5RXBaN1FsWUx3alBlOFQtQ2xjVElfbE1PcDhmQlFqTktRZVViMXg0SGxfdENDSUllUzkyMjU0aEdZamxRQ0hWUWlxZGJMQVlsMDROek1CQ2dudDhtcXBtY2dfQTg?oc=5",
+        "description": "",
+        "pubDate": "2025-10-02T17:27:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "What we know about the synagogue attack in Manchester, England - AP News",
@@ -500,15 +518,6 @@
         "bias": 0
       },
       {
-        "title": "Israeli strikes kill dozens in Gaza as Hamas considers its response to Trump's peace proposal - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUWgyRmFvMUFZZWtHcG91SHdvbFpuN0VfM2dhVXZ1aGpBWHNzWW9VY2FfQy1SMGdCVTN0ci1fZUZKYkcxOEVadWl6cGpVbVEwNGZvY2FDLUlRbFlHQ3NNUGNSZHpJWldqNzhoN1YyanotWkEwWTB6WlpybWs3aGszNno3Sk5ldVM0eWU2ejhqZXBtOENaTTNtYXdyaGtOejhGdFY4Y0pFLV8?oc=5",
-        "description": "",
-        "pubDate": "2025-10-02T15:49:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Everybody in Washington hates a shutdown until it becomes a useful tool - AP News",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcVpNQkhwbWlLWFcxTUdJLVlpVFpRNjAzTDhKLWhUX3psRmFSZTlMMVU4TzFla0xoSWppUllsUk40UUdtUTJuZ0NBVEpSRGZ0amdFbGZwUmExSlRTUXdxMGhuWnJYZTdXZnhYaTRCd1FfUTMxcjdjMjhqREw5alMwOUczZ1pZQXllQnNZNU9Kd1ZVSEdCbTI4aW41QWVLODVPU1c1YVUyRQ?oc=5",
         "description": "",
@@ -624,52 +633,16 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7abb/live/f492ccd0-9f8a-11f0-92db-77261a15b9d2.jpg",
         "bias": 0
-      },
-      {
-        "title": "A freed political prisoner refuses to be deported from Belarus and promptly vanishes - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVzRSMmdfMHBCZUdreHpGeGtXY3ExYThXZkFJR0hLWXJQMWZVZ2lycVl0bE9vbnpNZTZheEgxRlhwVS15S1lxckMwVXlRdWNGalRZemJBYWVkMmF6S3VmQWsxVnU0QkwtWVJ5bjNPM1Iwb0NaVnozcUF4ZXFRcWRQZU5vb0JNeUotSVJiTWNGbkJjVE9GRGEweGktUDNsQ0dv?oc=5",
-        "description": "",
-        "pubDate": "2025-10-02T13:16:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "'My pay is being held hostage': Federal workers on US government shutdown",
-        "link": "https://www.bbc.com/news/articles/cvg0z2dx7w1o?at_medium=RSS&at_campaign=rss",
-        "description": "Government staff describe their uncertainty during a budget impasse - though not all of them oppose the shutdown.",
-        "pubDate": "2025-10-02T13:13:57Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/061d/live/3acb3ee0-9f94-11f0-928c-71dbb8619e94.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Al Jazeera reports from scene of Philippines earthquake in Cebu",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/10/2/al-jazeera-reports-from-scene-of-philippines-earthquake-in-cebu?traffic_source=rss",
-        "description": "Al Jazeera’s Barnaby Lo has been seeing the destruction left by a magnitude 6.9 earthquake in the Philippines.",
-        "pubDate": "2025-10-02T13:07:20Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Dodgers advance to NL Division Series with terrific offense, starting pitching and shaky bullpen - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMF8tZllrQ1NoWjBLYjFPWXJWOGhZVVBpcjVuNks2YnU3TGowZFprUld3ZTZYWXBQNnhweFNjNDczYnh2Ym5wU0doMjZ2dDdHdmg3SV9abFBtUDVOcUxZaHB0eGxlRUQ4MlRTRmllUjl5RzBwbGxoajN3TURyRkpKMmloSmhhSzFqYmZFa0NUTQ?oc=5",
-        "description": "",
-        "pubDate": "2025-10-02T13:05:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
       {
-        "title": "Live updates: Trump uses government shutdown to threaten firings and punishment - AP News",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLWFZ5dDEwVzhaM2lETUJhbnFhUkZkUTItdkljbEs2RExDcTJ2X29ZeTdGYXZiNmRra2lfQWlFZVZnWW5BVTZlMEV5ZVIxb0xnT1B0SlBFeGlsdnJnNTlhY2NPc2V5bFk0dWow?oc=5",
-        "description": "",
-        "pubDate": "2025-10-02T19:39:00Z",
-        "source": "news.google.com",
-        "image": "",
+        "title": "Starmer vows to protect Jewish communities after Manchester attack",
+        "link": "https://www.bbc.com/news/articles/czrpxgk6x68o?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister said Britain must defeat antisemitic hate, as the King, religious leaders and politicians issue statements.",
+        "pubDate": "2025-10-02T20:26:24Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47c8/live/d37a6010-9fcd-11f0-b741-177e3e2c2fc7.jpg",
         "bias": 0
       },
       {
@@ -679,15 +652,6 @@
         "pubDate": "2025-10-02T19:31:50Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20e1/live/5e7b5390-9fab-11f0-8410-854cfa733f11.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Starmer vows to protect Jewish communities after Manchester attack",
-        "link": "https://www.bbc.com/news/articles/czrpxgk6x68o?at_medium=RSS&at_campaign=rss",
-        "description": "The prime minister said Britain must defeat antisemitic hate, as the King, religious leaders and politicians issue statements.",
-        "pubDate": "2025-10-02T18:15:29Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b55f/live/89acb720-9fb5-11f0-8410-854cfa733f11.jpg",
         "bias": 0
       },
       {
@@ -954,6 +918,15 @@
         "bias": 0
       },
       {
+        "title": "The federal shutdown will cut off vital economic data, including Friday’s jobs report - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObFJBczBJNzI4b2hIQVpKX3h3SS1TSzM0cHUzcmY1cmRzT0RnbWpBYjE5ZXdYMmg1Q0plb0pLZDNZYnpscllYNi03RU1KVF9BWHBHQTdaRHItMmRkcHFLMFYyZ1RRVzhEcE51UkhIZVY1T1ZIMEd1dlM1UEh3b1Q1RlRhMHpuUGxnbnVJczVPMjRzdFJGWmVhTmo0UzdaX28?oc=5",
+        "description": "",
+        "pubDate": "2025-10-02T10:20:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Research, curriculum and grading: new data sheds light on how professors are using AI",
         "link": "https://www.npr.org/2025/10/02/nx-s1-5550365/college-professors-ai-classroom",
         "description": "It's not just students, more professors are using AI in the classroom. But they say more guidance is needed on how to use the technology.",
@@ -999,15 +972,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Yankees edge rival Red Sox 4-3 to send AL Wild Card Series to decisive Game 3 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbTNvTXpvcHRxdTQyaHA3dVpVTkNqSEhlNVloWXhLWHRtYlNoejNqTk5WN3JkZFhYZ0RlRE5YLTBhVFJQWGdlelk4MkRJX2swUUw2T0ZlSDk3TkpjZ3g3bUFHX1ZyZk42TzZYUk5rRmx2XzZSNXl2Z3JhTkdlUF9YQVBKZ0hBZUVodWtxY012VjBxNXpXUGRwd3lab1BKbEp2Rms3UXMzWUx3MnotaWc?oc=5",
-        "description": "",
-        "pubDate": "2025-10-02T02:23:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Business": [
@@ -1103,6 +1067,15 @@
       }
     ],
     "Culture": [
+      {
+        "title": "Ozzy Osbourne 'wouldn't change a thing', he told BBC film",
+        "link": "https://www.bbc.com/news/articles/c749dq3lw5go?at_medium=RSS&at_campaign=rss",
+        "description": "The delayed documentary shows the late star and his family return to the UK ahead of a farewell show.",
+        "pubDate": "2025-10-02T20:06:38Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f232/live/6246b020-9ebe-11f0-85b6-27ff7e482819.jpg",
+        "bias": 0
+      },
       {
         "title": "Only Fools and Horses actor dies aged 68",
         "link": "https://www.bbc.com/news/articles/cly18vlj7gjo?at_medium=RSS&at_campaign=rss",
