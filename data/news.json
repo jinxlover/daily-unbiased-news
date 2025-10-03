@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-10-03T07:30:42.640814Z",
+  "lastUpdate": "2025-10-03T07:45:48.380743Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Saturday cat-sitting [Free] [Interactive Fiction]",
+        "link": "https://sillybaka22.itch.io/saturday-cat-sitting",
+        "description": "",
+        "pubDate": "2025-10-03T07:23:06Z",
+        "source": "sillybaka22.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNDI5Nzc4LnBuZw==/315x250%23c/R5xcbq.png",
+        "bias": 0
+      },
       {
         "title": "Chess Board 2D & 3D [Free] [Educational]",
         "link": "https://shikhli.itch.io/chessboard",
@@ -9,6 +18,15 @@
         "pubDate": "2025-10-03T07:19:36Z",
         "source": "shikhli.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNDI5Njk1LmpwZw==/315x250%23c/jAN7sv.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Terra Cognita [6.00€] [Adventure] [Windows]",
+        "link": "https://megasole.itch.io/terra-cognita",
+        "description": "",
+        "pubDate": "2025-10-03T07:04:13Z",
+        "source": "megasole.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNDI5NzM5LmpwZw==/315x250%23c/XDvuk4.jpg",
         "bias": 0
       },
       {
@@ -192,30 +210,12 @@
         "bias": 0
       },
       {
-        "title": "Macbook Madness [Free]",
-        "link": "https://mirrors-edge.itch.io/macbook-madness",
-        "description": "",
-        "pubDate": "2025-10-03T03:59:07Z",
-        "source": "mirrors-edge.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNDI4NTYzLnBuZw==/315x250%23c/ZTdX8F.png",
-        "bias": 0
-      },
-      {
         "title": "The Endless Adventure of RedHead [Free] [Action]",
         "link": "https://hyper-link1986.itch.io/the-endless-adventure-of-redhead",
         "description": "This was a quick project I made to help Showcase my VideoGame art at an Art Gallery",
         "pubDate": "2025-10-03T03:58:23Z",
         "source": "hyper-link1986.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNDI4NTgyLnBuZw==/315x250%23c/RM%2Bt4V.png",
-        "bias": 0
-      },
-      {
-        "title": "Croc Run! [Free]",
-        "link": "https://anniemated.itch.io/croc-run",
-        "description": "The life of a fruit-consuming croc on the move",
-        "pubDate": "2025-10-03T03:57:41Z",
-        "source": "anniemated.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNDI4NjI2LnBuZw==/315x250%23c/BepMdZ.png",
         "bias": 0
       },
       {
@@ -266,6 +266,24 @@
     ],
     "World": [
       {
+        "title": "How much of Europe’s oil and gas still comes from Russia?",
+        "link": "https://www.aljazeera.com/news/2025/10/3/how-much-of-europes-oil-and-gas-still-comes-from-russia?traffic_source=rss",
+        "description": "In 2021, Russia supplied 45% of the EU’s gas and 27% of its oil. By 2024, these dropped to 19% and 3%.",
+        "pubDate": "2025-10-03T07:29:52Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Taylor Swift’s 12th studio album Showgirl shatters Spotify record",
+        "link": "https://www.aljazeera.com/news/2025/10/3/taylor-swifts-12th-studio-album-showgirl-shatters-spotify-record?traffic_source=rss",
+        "description": "Showgirl breaks Spotify records as Taylor Swift's most pre-saved album, highlighting her enduring popularity.",
+        "pubDate": "2025-10-03T07:13:26Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Schlittler strikes out 12 in postseason debut as Yankees beat Red Sox 4-0 to win Wild Card Series - AP News",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSmZDWXNXTXY4TVRYalFwRlZFQnBvQVJXU3l6UE55bzhyQllUOXJDX1pFaVJrRmhvOUhwZDNxYTZLM0NoUC15ZmFuYUJzREhZc2xwV01lZWpXdlVnWTZGTDhUc3VvRHl5emVHN29fRTRGekVWSnk4Y2U0Q0tFNFJmaHRzR2E2VG9CV3RMbXZzVXNReUJ2Z1dmZnJkTmJXdlluZHRUN0REQmFMcVQ2U1E?oc=5",
         "description": "",
@@ -273,6 +291,15 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "Last Gaza Flotilla boat ‘still sailing strong’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/10/3/last-gaza-flotilla-boat-still-sailing?traffic_source=rss",
+        "description": "The Marinette is the last vessel of the Global Sumud Flotilla still heading towards Gaza.",
+        "pubDate": "2025-10-03T07:05:58Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "US government shutdown enters third day, expected to last past weekend",
@@ -675,12 +702,30 @@
     ],
     "Tech": [
       {
+        "title": "Nvidia and Fujitsu agree to work together on AI robots and other technology - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ2lTaWI4UVVZRXMwRTZLUnV5MEFtQjBOTFNaLVpFeE9abkxqd3lkT204Z3haNFRZSzNmWFZ0a1ZHVWJ0MWxEOHNlODJnRWh2UjkyTFM1aUM2Zlp2bzZETk5uZHZPcTR2UzhqQUpOb1NSOTV5LWZlQVQxNlRVUWJTUTlwNXpXLU5DdmVFQ3dOS2Q3OUVOejVGZXFn?oc=5",
+        "description": "",
+        "pubDate": "2025-10-03T07:31:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Japan faces Asahi beer shortage after cyber-attack",
         "link": "https://www.bbc.com/news/articles/c0r0y14ly5ro?at_medium=RSS&at_campaign=rss",
         "description": "The drinks giant said this week that the attack had a major impact on its domestic operations.",
         "pubDate": "2025-10-03T06:46:01Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/697e/live/62a6c8a0-a00a-11f0-a884-c9c349ad39f4.jpg",
+        "bias": 0
+      },
+      {
+        "title": "From rooftops to honey jars, Athens is abuzz with urban beekeeping - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONEZTb3AxNDNMLTlJS0dPaGJCMGlXRzMyWFZTc1pTRFU5WDJHSGh5NUMyNW9hX2otajUxdndQTEF0VEYtSVQ5YWEtLVdodkVFWXVobDU0Rkh6OGlVamlJOXFuYVFjS2pvZkUtZnAySXJIMXo3TFNVQ0dNOHNnQkRJMFk3cUp3Z2RMbUJ6Q1NlTEhpRTJC?oc=5",
+        "description": "",
+        "pubDate": "2025-10-03T05:10:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
