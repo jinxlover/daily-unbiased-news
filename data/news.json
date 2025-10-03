@@ -1,14 +1,14 @@
 {
-  "lastUpdate": "2025-10-03T09:33:22.241322Z",
+  "lastUpdate": "2025-10-03T09:45:32.218415Z",
   "news": {
     "Gaming": [
       {
-        "title": "Joey's Slimeventure [Free] [Adventure] [Windows]",
-        "link": "https://pondsec.itch.io/joeys-slimeventure",
-        "description": "“A slime’s survival depends on the balance between light and darkness.”",
-        "pubDate": "2025-10-03T08:51:09Z",
-        "source": "pondsec.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNDMwMzY0LnBuZw==/315x250%23c/Dihe%2FY.png",
+        "title": "Fishionaires - Twilight Ops [Free] [Shooter] [Windows]",
+        "link": "https://frooooog.itch.io/fishionaires-twilight-ops",
+        "description": "Like Call Of Duty, but fish - made in a week for a challenge",
+        "pubDate": "2025-10-03T09:29:32Z",
+        "source": "frooooog.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNDMwNzk0LnBuZw==/315x250%23c/mSMame.png",
         "bias": 0
       },
       {
@@ -235,8 +235,17 @@
         "description": "The global superstar spoke to Radio 1's Greg James about how her new album reflects her current era.",
         "pubDate": "2025-10-03T09:10:28Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f79d/live/072e8f70-a038-11f0-92db-77261a15b9d2.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e5a/live/331743d0-a03c-11f0-92db-77261a15b9d2.jpg",
         "bias": 0
+      },
+      {
+        "title": "How 13-year-old Haikal survived Indonesia’s deadly boarding school collapse",
+        "link": "https://www.aljazeera.com/features/2025/10/3/how-13-year-old-haikal-survived-indonesias-deadly-boarding-school-collapse?traffic_source=rss",
+        "description": "Haikal survived for three days and two dark nights trapped beneath the rubble of his collapsed school in East Java.",
+        "pubDate": "2025-10-03T09:10:25Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "UK police release names of the 2 victims of the Manchester synagogue attack",
@@ -482,7 +491,7 @@
         "bias": -1
       },
       {
-        "title": "Last remaining boat in Gaza humanitarian flotilla intercepted by Israel",
+        "title": "Last boat in Gaza humanitarian flotilla intercepted by Israel",
         "link": "https://www.aljazeera.com/news/2025/10/3/israel-dismantles-gaza-humanitarian-flotilla-but-one-boat-sails?traffic_source=rss",
         "description": "The Israeli navy has intercepted all the ships that formed the 44-strong Global Sumud Flotilla.",
         "pubDate": "2025-10-03T04:14:42Z",
@@ -669,20 +678,11 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "FDA approves another generic abortion pill, prompting outrage from conservatives - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUlFVeDJldHNGQjlKYlI1aEM1TUZsamVocmhiX21tamx2RFhaUGdYbnNRU1d6SG1WWWU2X19IZlYxbWpHUDZYUWtPSDMzZlFNYmIxdUtpTFNqSmc4SHM1MmNoRHdGa0ZJcWxlaVg1MHgyR3VXVEY0STBJcWtVd1huRzdxQkhRbklqT3FFd2VXOTFFMzdUTzJJSXJNdTFsZ2tEVzBSMENTRU9hdVJncEx5cDVR?oc=5",
-        "description": "",
-        "pubDate": "2025-10-03T01:35:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
       {
-        "title": "Green leader Zack Polanski backs legalization of all drugs",
+        "title": "Green leader Zack Polanski backs legalisation of all drugs",
         "link": "https://www.bbc.com/news/articles/c20e20rzje2o?at_medium=RSS&at_campaign=rss",
         "description": "Zack Polanski speaks to BBC South East on the party's new approach ahead of the party's conference.",
         "pubDate": "2025-10-03T09:32:09Z",
@@ -718,18 +718,18 @@
         "bias": -1
       },
       {
-        "title": "Kiss reality goodbye: AI-generated social media has arrived",
-        "link": "https://www.npr.org/2025/10/03/nx-s1-5560200/openai-sora-social-media",
-        "description": "With the launch of Sora 2, OpenAI has opened a new chapter in addictive, and some worry dangerous, AI video content.",
+        "title": "As shutdown ripples through Georgia, voters consider who to blame",
+        "link": "https://www.npr.org/2025/10/03/g-s1-91862/shutdown-georgia-voters",
+        "description": "Voters in Georgia are grappling with the effects of the government shutdown — and with who in Washington bears the blame.",
         "pubDate": "2025-10-03T09:00:00Z",
         "source": "npr.org",
         "image": "",
         "bias": -1
       },
       {
-        "title": "As shutdown ripples through Georgia, voters consider who to blame",
-        "link": "https://www.npr.org/2025/10/03/g-s1-91862/shutdown-georgia-voters",
-        "description": "Voters in Georgia are grappling with the effects of the government shutdown — and with who in Washington bears the blame.",
+        "title": "Kiss reality goodbye: AI-generated social media has arrived",
+        "link": "https://www.npr.org/2025/10/03/nx-s1-5560200/openai-sora-social-media",
+        "description": "With the launch of Sora 2, OpenAI has opened a new chapter in addictive, and some worry dangerous, AI video content.",
         "pubDate": "2025-10-03T09:00:00Z",
         "source": "npr.org",
         "image": "",
@@ -742,6 +742,15 @@
         "pubDate": "2025-10-03T08:16:55Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba9d/live/3620ae20-9f8a-11f0-a934-075243299099.jpg",
+        "bias": 0
+      },
+      {
+        "title": "The Swiss Guards have a new uniform. Don’t worry, the iconic one remains - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObDZqNllfMjIyWmdaaHYydmpRdE1LUGwxOWVQbjJtbWxvX0pZWE96bHRuZERVaTRVRUNMeXdXX2x5cVRkVjdheVQzQ0k2bXB2QnV5dHBBekR5SWh4N05sbFo4MnNHSzlqSVNiQkxlNzcybXR6VnhOTmVVanZrenJKZHd4OHdDRjc3cnFIZXJkUXdyWXNHNE14Vg?oc=5",
+        "description": "",
+        "pubDate": "2025-10-03T07:17:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -810,10 +819,10 @@
     ],
     "Tech": [
       {
-        "title": "The Swiss Guards have a new uniform. Don’t worry, the iconic one remains - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObDZqNllfMjIyWmdaaHYydmpRdE1LUGwxOWVQbjJtbWxvX0pZWE96bHRuZERVaTRVRUNMeXdXX2x5cVRkVjdheVQzQ0k2bXB2QnV5dHBBekR5SWh4N05sbFo4MnNHSzlqSVNiQkxlNzcybXR6VnhOTmVVanZrenJKZHd4OHdDRjc3cnFIZXJkUXdyWXNHNE14Vg?oc=5",
+        "title": "Nvidia and Fujitsu agree to work together on AI robots and other technology - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ2lTaWI4UVVZRXMwRTZLUnV5MEFtQjBOTFNaLVpFeE9abkxqd3lkT204Z3haNFRZSzNmWFZ0a1ZHVWJ0MWxEOHNlODJnRWh2UjkyTFM1aUM2Zlp2bzZETk5uZHZPcTR2UzhqQUpOb1NSOTV5LWZlQVQxNlRVUWJTUTlwNXpXLU5DdmVFQ3dOS2Q3OUVOejVGZXFn?oc=5",
         "description": "",
-        "pubDate": "2025-10-03T07:17:00Z",
+        "pubDate": "2025-10-03T07:31:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
