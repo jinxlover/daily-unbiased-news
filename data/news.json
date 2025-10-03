@@ -1,7 +1,25 @@
 {
-  "lastUpdate": "2025-10-03T21:28:30.061654Z",
+  "lastUpdate": "2025-10-03T21:39:49.536823Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Thursday of the Dead (Demo) [Free] [Interactive Fiction]",
+        "link": "https://soniasulaiman.itch.io/thursday-of-the-dead-demo",
+        "description": "inspired by Palestinian folklore",
+        "pubDate": "2025-10-03T21:27:41Z",
+        "source": "soniasulaiman.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNDM4NzI5LnBuZw==/315x250%23c/JrpWrq.png",
+        "bias": 0
+      },
+      {
+        "title": "Cosmic Raider [Free] [Shooter] [Windows] [macOS]",
+        "link": "https://ksioun.itch.io/cosmic-raider",
+        "description": "2D shooter in space",
+        "pubDate": "2025-10-03T21:24:18Z",
+        "source": "ksioun.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNDM4NjU5LnBuZw==/315x250%23c/JyDeyP.png",
+        "bias": 0
+      },
       {
         "title": "EZ Racer [Free] [Racing]",
         "link": "https://moose-47.itch.io/ez-racer",
@@ -72,6 +90,15 @@
         "pubDate": "2025-10-03T20:41:05Z",
         "source": "thesmoljay.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNDM4MTg3LnBuZw==/315x250%23c/5Qunya.png",
+        "bias": 0
+      },
+      {
+        "title": "Mouse Tap [LGGJ3 Submission] [Free]",
+        "link": "https://michael-issa.itch.io/mouse-tap",
+        "description": "",
+        "pubDate": "2025-10-03T20:37:05Z",
+        "source": "michael-issa.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNDM4MzU3LnBuZw==/315x250%23c/BOuZeg.png",
         "bias": 0
       },
       {
@@ -156,24 +183,6 @@
         "bias": 0
       },
       {
-        "title": "Pong Clone [Free] [Other]",
-        "link": "https://longtruong.itch.io/pong-clone",
-        "description": "A clone of the popular Pong game back in 1972",
-        "pubDate": "2025-10-03T19:53:20Z",
-        "source": "longtruong.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNDM3NjE0LnBuZw==/315x250%23c/GbApgA.png",
-        "bias": 0
-      },
-      {
-        "title": "plant giver [Free]",
-        "link": "https://d6ob8r.itch.io/plant-giver",
-        "description": "",
-        "pubDate": "2025-10-03T19:45:17Z",
-        "source": "d6ob8r.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNDM3NjYzLmpwZw==/315x250%23c/dFt2HC.jpg",
-        "bias": 0
-      },
-      {
         "title": "Astroblast [Free]",
         "link": "https://jiturbe.itch.io/astroblast",
         "description": "",
@@ -230,6 +239,33 @@
     ],
     "World": [
       {
+        "title": "Little sign of peace after Trump Congo deal",
+        "link": "https://www.npr.org/2025/10/03/nx-s1-5557382/little-sign-of-peace-after-trump-congo-deal",
+        "description": "Peace in eastern Congo remains elusive, despite a U.S.-brokered deal that President Trump calls historic.",
+        "pubDate": "2025-10-03T21:30:44Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Hamas says it agrees to release Israeli hostages but seeks changes to US Gaza peace plan",
+        "link": "https://www.bbc.com/news/articles/cdxq7zp7002o?at_medium=RSS&at_campaign=rss",
+        "description": "The 20-point proposal seeks to end the fighting immediately in return for the release of hostages and detained Gazans.",
+        "pubDate": "2025-10-03T21:29:51Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a46e/live/6323eda0-a067-11f0-b2f9-dd258cdb2dcd.png",
+        "bias": 0
+      },
+      {
+        "title": "A timeline of Sean ‘Diddy’ Combs’ career and legal problems - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYVJCcjVHQTRJbUpVNFdaQWZLOG1Pa19RTllYSFZQTlhTeERXSk1VN29uUGJqSzltQzVQN3h0bjJPZV84V0xJQnZONFV6M1g5MlNqd0oxTTE3QUJRMGxHdlFqTndkc1BYSzY1OF9Qa2NqVmxWRTg1Q2VybmFDUHQwQ0ptZFdMTjhGU0NQcXdB?oc=5",
+        "description": "",
+        "pubDate": "2025-10-03T21:28:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "What to know about the attack at a synagogue in England on Yom Kippur - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa1E1NEw5VG9XWHItQzRzeEloRlVzNXJfdFNaZ05aSjRnOWY2NjFKajk1eXUySkdZdmZ5ZUlmNkdIU2FXY1Fsa0NoVTJnYVNxeHVWUUJMYnJjSUowOW8xVE9jdkllejVTZVZhNm1LMHR0T3F1U2xZVGJ0U19Tbm9WRGFSdnJ2Q1M0eDkzZGM3LUdFR2tfOHp1TVdraDFsYS1fbHB0LU1reWo?oc=5",
         "description": "",
@@ -254,15 +290,6 @@
         "pubDate": "2025-10-03T20:48:00Z",
         "source": "news.google.com",
         "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Hamas says it agrees to release Israeli hostages but seeks changes to US Gaza peace plan",
-        "link": "https://www.bbc.com/news/articles/cdxq7zp7002o?at_medium=RSS&at_campaign=rss",
-        "description": "The 20-point proposal seeks to end the fighting immediately in return for the release of hostages and detained Gazans.",
-        "pubDate": "2025-10-03T20:40:56Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a46e/live/6323eda0-a067-11f0-b2f9-dd258cdb2dcd.png",
         "bias": 0
       },
       {
@@ -360,6 +387,15 @@
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2ZPaTNGc3JtcmtYZG9RLVFyZzA4aEJpcTdTSmF4QzR2a0lma283UDZoaUg2Uk1pbDJTTkFpcWRVQjNoc1ZaWnJXbzVxaFZYMDJzdEoxZDhyQTNQZXc0QTlqQUlUeU1qTVFLeVVXRTZ2UEx4M1AxWFFFUS1xenBKNjUxMGNwX1ZrTkUxaDBZTmpWNWJ0LXhvZ0t2NDljdw?oc=5",
         "description": "",
         "pubDate": "2025-10-03T19:47:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Trump pauses $2.1B for Chicago infrastructure projects, leveraging shutdown to pressure Democrats - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSTJYb1pTVzdMN01MUFpOU2FKelZYSXRvRXJyc3IwOXg1ek5pWlloejdYREhWSmg4NklGT1d0WlY5eUJ6UHVubTNaUEtnV05qWTlVQ2xZYklabldJT2xwaG43TjhjNkVVcFQ5QTFhOTdsWjdneGZUSHZnNFhfR19kVWlTZm9qMDR4Wk81YldCTkFZWHdJcVIzcmZVWFZhLUxlRWJyTGdDSmluNnl4YnJj?oc=5",
+        "description": "",
+        "pubDate": "2025-10-03T19:33:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -518,15 +554,6 @@
         "bias": 0
       },
       {
-        "title": "Trump pauses $2.1B for Chicago infrastructure projects, leveraging shutdown to pressure Democrats - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSTJYb1pTVzdMN01MUFpOU2FKelZYSXRvRXJyc3IwOXg1ek5pWlloejdYREhWSmg4NklGT1d0WlY5eUJ6UHVubTNaUEtnV05qWTlVQ2xZYklabldJT2xwaG43TjhjNkVVcFQ5QTFhOTdsWjdneGZUSHZnNFhfR19kVWlTZm9qMDR4Wk81YldCTkFZWHdJcVIzcmZVWFZhLUxlRWJyTGdDSmluNnl4YnJj?oc=5",
-        "description": "",
-        "pubDate": "2025-10-03T17:07:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "What if … the world took action to end Israel’s war on Gaza next week?",
         "link": "https://www.aljazeera.com/features/2025/10/3/what-if-the-world-took-action-to-end-israels-war-on-gaza-next-week?traffic_source=rss",
         "description": "Experts tell Al Jazeera what could happen if countries decided to unite against Israel's genocide.",
@@ -563,9 +590,9 @@
         "bias": 0
       },
       {
-        "title": "Hamas agrees to parts of a Gaza peace plan after Trump gives a deadline",
+        "title": "Trump tells Israel to stop bombing Gaza after Hamas agrees to release Israeli hostages",
         "link": "https://www.npr.org/2025/10/03/nx-s1-5561801/trump-hamas-israel-gaza-peace-plan-deadline",
-        "description": "Hamas says it agrees to release the remaining Israeli hostages in exchange for Palestinian prisoners, but did not confirm its agreement with the full peace plan presented by the U.S.",
+        "description": "Hamas said it would agree to release the remaining Israeli hostages in exchange for Palestinian prisoners. Despite not agreeing to the full U.S. peace proposal, President Trump said the group seemed ready for peace.",
         "pubDate": "2025-10-03T16:26:36Z",
         "source": "npr.org",
         "image": "",
@@ -660,27 +687,27 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bac/live/eb6946a0-9f5f-11f0-af95-eb0d48238f5d.jpg",
         "bias": 0
-      },
-      {
-        "title": "Trump issues Sunday ultimatum for Hamas to accept Gaza plan",
-        "link": "https://www.aljazeera.com/news/2025/10/3/trump-issues-sunday-deadline-for-hamas-to-accept-gaza-peace-proposal?traffic_source=rss",
-        "description": "US president has pushed a 20-point plan to 'redevelop' Gaza that critics say fails to support Palestinian sovereignty.",
-        "pubDate": "2025-10-03T14:35:40Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "What Israeli settler encroachment, intimidation look like in the West Bank",
-        "link": "https://www.aljazeera.com/news/2025/10/3/what-israeli-settler-encroachment-intimidation-look-like-in-the-west-bank?traffic_source=rss",
-        "description": "After an Israeli settler shot an activist in Umm al-Khair, he has returned with impunity, harassing the villagers.",
-        "pubDate": "2025-10-03T14:29:25Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
+      {
+        "title": "UK will leave ECHR if Tories win election, Badenoch says",
+        "link": "https://www.bbc.com/news/articles/c1mxy2j2elro?at_medium=RSS&at_campaign=rss",
+        "description": "The European Convention on Human Rights has become a focal point in debates around changing immigration policy.",
+        "pubDate": "2025-10-03T21:23:15Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/299f/live/f343b7e0-a098-11f0-a918-e111dd54869c.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Sean ‘Diddy’ Combs gets 4 years in prison for case involving sex workers, violence and ‘freak-offs’ - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdDRLNFNjeFFfaUpIbHNWa3Fyam5LNWpLeUREMDczY1g4VnJhTWNBSjEwc0JQbVFOajNwRFZtaVpiNkYzTTJuaWFBMWFDbFh2UUVkMl9ZU1hTeWZvcUN5dFkxVkxoMXhGbGZGWGJJVGdXQzhNX05adXcxak50cERXODhrUEROTTlkZTVYejdIdGs?oc=5",
+        "description": "",
+        "pubDate": "2025-10-03T21:15:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Parents of two college students killed in a Tesla allege design flaw trapped them in the burning car - AP News",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN1BXa0otZUdWYTA5QU1ZcElWbVNCZGFkU2pOcFVsUXNRM0hXakFLeVVnX3kxWlZVUHptb04wREdzUEJFZW9xbmlqRDJha3FXOTNnaEtUTnpVeDRmOEFMZmdnZnZmamhRWi1yd0RYTENfRF9Lc3FYTFpoakd4azJ2dkdyYmFMdVV1VmxGTncwR2FfLUNnTE5QeWY1b1haOVBuNm4wVmRVMnpBSDRyWEJidDFLOGN4dWVKTlE?oc=5",
@@ -907,9 +934,9 @@
         "bias": -1
       },
       {
-        "title": "Kiss reality goodbye: AI-generated social media has arrived",
-        "link": "https://www.npr.org/2025/10/03/nx-s1-5560200/openai-sora-social-media",
-        "description": "With the launch of Sora 2, OpenAI has opened a new chapter in addictive, and some worry dangerous, AI video content.",
+        "title": "Memphis sees opportunity in Trump's plans for federal intervention",
+        "link": "https://www.npr.org/2025/10/03/nx-s1-5557215/memphis-national-guard-trump-tennessee",
+        "description": "Many in Memphis acknowledge that crime in the city is a real problem. And while President Trump's federal intervention might not be their ideal way to handle it, they're hoping it can provide some much-needed relief.",
         "pubDate": "2025-10-03T09:00:00Z",
         "source": "npr.org",
         "image": "",
@@ -961,15 +988,6 @@
         "bias": 0
       },
       {
-        "title": "Trump uses government shutdown to threaten firings and punishment - AP News",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLWFZ5dDEwVzhaM2lETUJhbnFhUkZkUTItdkljbEs2RExDcTJ2X29ZeTdGYXZiNmRra2lfQWlFZVZnWW5BVTZlMEV5ZVIxb0xnT1B0SlBFeGlsdnJnNTlhY2NPc2V5bFk0dWow?oc=5",
-        "description": "",
-        "pubDate": "2025-10-03T01:19:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Former Braves catcher David Ross says a return to Atlanta as team's next manager 'would be amazing' - AP News",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONEhESXcwOXZoMXo1YzY0dEZBb19CcjhWZE1xTGktMFU1OWZDYk9xa2JUdUoxbFA1LWNQclc4Vmp6ZjZ6UFdJUXRKOVZXdUlBUUk3alhJRFliM1lLV2lUaFRsV0llM2RDdWJMSzNQTHk1NDFJQ0NaT2puQ3BQMnVseEt4VzlsQQ?oc=5",
         "description": "",
@@ -998,6 +1016,15 @@
       }
     ],
     "Tech": [
+      {
+        "title": "Noem visits Chicago area ICE facility as agents detain multiple protesters outside - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYzFWZXFpeHUtLXNaVF9fcDQyTlo4QlJJdWVDWi02QzY3dWZPc2w1eDZXZkdrRU5oU29rNDZSUzlCMmhicy1VNGtxUFFvRGZlendqaDJqSnlsM0xjMUFkNDk4YXJGU0ttOXBnVXhLMXdQdTBsSFlQTjRCUXBna192a2RHR0tkVnhkeWFKSFR2UEJ1QUs4eU1OYk1jOURFeUJGazJ2RENEN2g4OHNfMGc?oc=5",
+        "description": "",
+        "pubDate": "2025-10-03T21:09:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "FBI cuts ties with Southern Poverty Law Center, Anti-Defamation League after conservative complaints - AP News",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWmxXcmJJZ1poVUJ3Y2g0WjlRbVNoRFhncUFZdTF2Z1gyWHdRWk5MOHdDM2VkbUhGdjRYNHUtU1U4RzRyaEk4eVMxUmpIb1MzdEUzek1iTGtDbzZoVGxJTlFUb29sM2hMQTBYczRueUFMNER6MGVjVHpCOWw5WGx1c2R3cGtadUtxbDJHTFlGa0dtWUNXTkdIdg?oc=5",
@@ -1080,10 +1107,28 @@
         "bias": -1
       },
       {
+        "title": "Kiss reality goodbye: AI-generated social media has arrived",
+        "link": "https://www.npr.org/2025/10/03/nx-s1-5560200/openai-sora-social-media",
+        "description": "With the launch of Sora 2, OpenAI has opened a new chapter in addictive, and some worry dangerous, AI video content.",
+        "pubDate": "2025-10-03T09:00:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Nvidia and Fujitsu agree to work together on AI robots and other technology - AP News",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ2lTaWI4UVVZRXMwRTZLUnV5MEFtQjBOTFNaLVpFeE9abkxqd3lkT204Z3haNFRZSzNmWFZ0a1ZHVWJ0MWxEOHNlODJnRWh2UjkyTFM1aUM2Zlp2bzZETk5uZHZPcTR2UzhqQUpOb1NSOTV5LWZlQVQxNlRVUWJTUTlwNXpXLU5DdmVFQ3dOS2Q3OUVOejVGZXFn?oc=5",
         "description": "",
         "pubDate": "2025-10-03T07:54:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "India and China to resume direct flights after a 5-year suspension - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYjMyMmxfZ3hjOFJWY1VYTnVIYmNPdlRQblE1ODAxWjRWVzlzekRRXy1VMU1UTzBHb2pJbXFJMWhZZU9UOFJlaFJlTndwTmxnZ2ExZHZzYWRYbndKN1ptNE9hUXdVckt6TXFXX0s2U1lXa3BRTzJvX2ZlNmNYYzdLQnFqZXgyUHl1UFpSYmNhVU1EeVNJNEcxZmZYdElQbWx5a2lYRnFnRWtYSzdDRlE?oc=5",
+        "description": "",
+        "pubDate": "2025-10-03T03:48:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1117,15 +1162,6 @@
       }
     ],
     "Science": [
-      {
-        "title": "Sean ‘Diddy’ Combs gets 4 years in prison for case involving sex workers, violence and ‘freak-offs’ - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdDRLNFNjeFFfaUpIbHNWa3Fyam5LNWpLeUREMDczY1g4VnJhTWNBSjEwc0JQbVFOajNwRFZtaVpiNkYzTTJuaWFBMWFDbFh2UUVkMl9ZU1hTeWZvcUN5dFkxVkxoMXhGbGZGWGJJVGdXQzhNX05adXcxak50cERXODhrUEROTTlkZTVYejdIdGs?oc=5",
-        "description": "",
-        "pubDate": "2025-10-03T21:15:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
       {
         "title": "This week in science: Fly migration, a surprise in the Amazon and fish noises",
         "link": "https://www.npr.org/2025/10/03/nx-s1-5552715/this-week-in-science-fly-migration-a-surprise-in-the-amazon-and-fish-noises",
