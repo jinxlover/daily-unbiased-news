@@ -1,7 +1,25 @@
 {
-  "lastUpdate": "2025-10-03T08:25:56.546376Z",
+  "lastUpdate": "2025-10-03T08:44:55.315701Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Shadow Lullaby (v0.1) [Free] [Action] [macOS]",
+        "link": "https://pinkpill.itch.io/shadow-lullaby",
+        "description": "Face yourself",
+        "pubDate": "2025-10-03T08:25:03Z",
+        "source": "pinkpill.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNDMwMzQ4LmpwZw==/315x250%23c/xNSkQT.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Victims Matter, Episode 0: The Elwell Enigma [Free] [Interactive Fiction]",
+        "link": "https://klueiq.itch.io/victims-matter-episode-0-the-elwell-enigma",
+        "description": "Step into Jazz Age intrigue—discover secrets and shape justice.",
+        "pubDate": "2025-10-03T08:23:37Z",
+        "source": "klueiq.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNDMwMDk4LnBuZw==/315x250%23c/yyVf9e.png",
+        "bias": 0
+      },
       {
         "title": "SarbuRun [Free] [Platformer]",
         "link": "https://sarbu.itch.io/sarburun",
@@ -21,7 +39,16 @@
         "bias": 0
       },
       {
-        "title": "Pinball + Soccer 2 [Free] [Sports]",
+        "title": "Imagina Ser Alcalde [Free] [Visual Novel] [Windows] [macOS] [Linux]",
+        "link": "https://gg-estudio.itch.io/imagina-ser-alcalde",
+        "description": "¡Todo por los votos!",
+        "pubDate": "2025-10-03T07:59:35Z",
+        "source": "gg-estudio.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNDI5OTIwLmpwZWc=/315x250%23c/Eyo9QT.jpeg",
+        "bias": 0
+      },
+      {
+        "title": "Pinball + Soccer 2 (only for Android) [Free] [Sports] [Android]",
         "link": "https://shikhli.itch.io/pinball-soccer-2",
         "description": "Simple Pinball with Soccer rules",
         "pubDate": "2025-10-03T07:47:12Z",
@@ -48,7 +75,7 @@
         "bias": 0
       },
       {
-        "title": "Chess Board 2D & 3D [Free] [Educational]",
+        "title": "Chess Board 2D & 3D (only for Android) [Free] [Educational] [Android]",
         "link": "https://shikhli.itch.io/chessboard",
         "description": "2D & 3D Chess Board for training",
         "pubDate": "2025-10-03T07:19:36Z",
@@ -102,7 +129,7 @@
         "bias": 0
       },
       {
-        "title": "AUTO mobile - Car Simulator [Free] [Simulation] [Android]",
+        "title": "AUTO mobile - Car Simulator (only for Android) [Free] [Simulation] [Android]",
         "link": "https://shikhli.itch.io/automobile",
         "description": "Driving simulator with realistic physics and control",
         "pubDate": "2025-10-03T06:40:00Z",
@@ -219,15 +246,6 @@
         "bias": 0
       },
       {
-        "title": "Muffin's Basics The Old House But Baldi The amalgamated laboratory with mod menu [Free] [Android]",
-        "link": "https://hsa7sy.itch.io/muffins-basics-the-old-house-but-baldi-the-amalgamated-laboratory-with-mod-menu",
-        "description": "",
-        "pubDate": "2025-10-03T04:40:05Z",
-        "source": "hsa7sy.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNDI4OTEwLmpwZw==/315x250%23c/GCWNix.jpg",
-        "bias": 0
-      },
-      {
         "title": "Jumper [Free] [Educational]",
         "link": "https://chanmink.itch.io/jumper",
         "description": "",
@@ -244,18 +262,27 @@
         "source": "otters-and-beavers.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNDI5MTI0LnBuZw==/315x250%23c/ONDAim.png",
         "bias": 0
-      },
-      {
-        "title": "Quietus [Free] [Interactive Fiction]",
-        "link": "https://phantom-howl.itch.io/quietus-jamsepticeye2025",
-        "description": "Death has given you an opportunity",
-        "pubDate": "2025-10-03T02:57:40Z",
-        "source": "phantom-howl.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNDI5MDE1LnBuZw==/315x250%23c/wiUGmE.png",
-        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Global protests erupt over Israeli interception of Gaza aid flotilla",
+        "link": "https://www.aljazeera.com/gallery/2025/10/3/global-protests-erupt-over-israeli-interception-of-gaza-aid-flotilla?traffic_source=rss",
+        "description": "Crowds in Europe, South America and beyond rally to support Gaza, which faces famine after two years of bombardment.",
+        "pubDate": "2025-10-03T08:29:18Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Munich airport reopens after drone sightings force closure",
+        "link": "https://www.bbc.com/news/articles/cpw1e7j5ew9o?at_medium=RSS&at_campaign=rss",
+        "description": "Dozens of flights were cancelled or redirected at Munich International Airport after drone sightings.",
+        "pubDate": "2025-10-03T08:26:10Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfe7/live/25831280-9ffb-11f0-b741-177e3e2c2fc7.jpg",
+        "bias": 0
+      },
       {
         "title": "March for 1968 Mexican student massacre eclipsed by support for Gaza",
         "link": "https://www.aljazeera.com/news/2025/10/3/march-for-1968-mexican-student-massacre-eclipsed-by-support-for-gaza?traffic_source=rss",
@@ -273,6 +300,33 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Animal bones found in search for girl who vanished 55 years ago",
+        "link": "https://www.bbc.com/news/articles/c5y8z8kmpgyo?at_medium=RSS&at_campaign=rss",
+        "description": "The \"area of interest\" flagged by a team of volunteers has turned out to be a false alarm.",
+        "pubDate": "2025-10-03T07:25:53Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/870f/live/2cd54b30-a027-11f0-b953-476f858a7e51.png",
+        "bias": 0
+      },
+      {
+        "title": "The Swiss Guards have a new uniform. Don’t worry, the iconic one remains - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObDZqNllfMjIyWmdaaHYydmpRdE1LUGwxOWVQbjJtbWxvX0pZWE96bHRuZERVaTRVRUNMeXdXX2x5cVRkVjdheVQzQ0k2bXB2QnV5dHBBekR5SWh4N05sbFo4MnNHSzlqSVNiQkxlNzcybXR6VnhOTmVVanZrenJKZHd4OHdDRjc3cnFIZXJkUXdyWXNHNE14Vg?oc=5",
+        "description": "",
+        "pubDate": "2025-10-03T07:17:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Zelenskyy warns that Russian drones endanger Chernobyl and other nuclear plants in Ukraine - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVmJjSEJkUTcyYUZ1UmFMcHJ4YUZPekhybER6S3pVUFhYTHJNeFVfNmRwZFVrN3ZYRW5Xd0p0cUZzcWlsRFBJdTh0MjZ0VGhtRGh3Mmx1TXRMSzZkQzJzN0xUN3lJSkV6Q2NlRGlJUm0yejJRRmdVQ2JCS2FBeTFlU1NlVDBHdUFEX29GZmlnTm5OMFcwU2t4QTZpRDl5aGRsYVdXckVUcHI?oc=5",
+        "description": "",
+        "pubDate": "2025-10-03T07:16:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Taylor Swift’s 12th studio album Showgirl shatters Spotify record",
@@ -329,6 +383,15 @@
         "bias": -1
       },
       {
+        "title": "Japan faces Asahi beer shortage after cyber-attack",
+        "link": "https://www.bbc.com/news/articles/c0r0y14ly5ro?at_medium=RSS&at_campaign=rss",
+        "description": "The drinks giant said this week that the attack had a major impact on its domestic operations.",
+        "pubDate": "2025-10-03T06:46:01Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/697e/live/62a6c8a0-a00a-11f0-a884-c9c349ad39f4.jpg",
+        "bias": 0
+      },
+      {
         "title": "Cambodian former opposition politician’s killer jailed for life in Thailand",
         "link": "https://www.aljazeera.com/news/2025/10/3/cambodian-former-opposition-politicians-killer-jailed-for-life-in-thailand?traffic_source=rss",
         "description": "Lim Kimya was killed in January by Ekkalak Paenoi while visiting Bangkok with his wife, Anne-Marie Lim.",
@@ -347,15 +410,6 @@
         "bias": -1
       },
       {
-        "title": "Munich airport reopens after drone sightings force closure",
-        "link": "https://www.bbc.com/news/articles/cpw1e7j5ew9o?at_medium=RSS&at_campaign=rss",
-        "description": "Dozens of flights were cancelled or redirected at Munich International Airport after drone sightings.",
-        "pubDate": "2025-10-03T05:40:23Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfe7/live/25831280-9ffb-11f0-b741-177e3e2c2fc7.jpg",
-        "bias": 0
-      },
-      {
         "title": "India and China to resume direct flights after a 5-year suspension",
         "link": "https://www.npr.org/2025/10/03/nx-s1-5561577/india-china-resume-direct-flights",
         "description": "The suspension, which began with the 2020 Covid outbreak, was prolonged by tensions along the Himalayan border.",
@@ -363,6 +417,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "India and China to resume direct flights after a five-year ban",
+        "link": "https://www.bbc.com/news/articles/ce9r5x472rzo?at_medium=RSS&at_campaign=rss",
+        "description": "India's IndiGo airline said that it would restart direct flights between Kolkata and Guangzhou from 26 October.",
+        "pubDate": "2025-10-03T05:24:11Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bd7/live/eb6c1cd0-a00f-11f0-ab74-f9fa33ca83dc.jpg",
+        "bias": 0
       },
       {
         "title": "Papua New Guinea cabinet signs landmark defence treaty with Australia",
@@ -491,12 +554,39 @@
         "bias": 0
       },
       {
+        "title": "Australian says he was improperly arrested in Thailand over his criticism of Malaysia - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVXNKU1hZQlJhX1ZwalVzaUkxRVRYU0VtUVA3VW91cVFvR3RCZ29pT2R5QW50RmhvanhxNDRTV0JkVFRHRFE0WGZ4aWpDSU1rY0JWX1ZJcGdqcDc1eW9sYU9IV3FkZk44cHdwNlVCcHNXR01YeWhrTDJFdTh4OUF4bzJ4LTRmUmg1aGp2NTlkQTI4ekx1Qm9uOHF4bmtzQUhCdHRxZ182NnQ3dzhQTlBNN0VMRFgtR3M2RGZj?oc=5",
+        "description": "",
+        "pubDate": "2025-10-03T03:04:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "'When I stand, I feel dizzy': Deadly earthquake leaves Filipinos struggling in ghost towns",
+        "link": "https://www.bbc.com/news/articles/c80g9ng3ed4o?at_medium=RSS&at_campaign=rss",
+        "description": "The powerful quake has killed 68 people, injured hundreds and destroyed homes and churches.",
+        "pubDate": "2025-10-03T02:59:13Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7799/live/bbb0b5d0-9f6c-11f0-92db-77261a15b9d2.jpg",
+        "bias": 0
+      },
+      {
         "title": "Morocco's youth-led protests demand better schools and hospitals, prime minister resignation - AP News",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdzlMSDhuNG1yOHF2QklIci15d3BvNnRPZlhtMzVQSjN3cXpVVEFEQ1NiRXZBM0Z3UXBycXlBLXZIaGJ6VVRxbWx4NGhnZUx4OG5rcU9fTmtsV1JnV2R0Z2RuQ1R5c2dwZlhqU2RQd2toQkh6Sjhyd1ZBSUk0a0p0SC1sdVFNZ2pMaXE4RURTOXA?oc=5",
         "description": "",
         "pubDate": "2025-10-03T02:38:00Z",
         "source": "news.google.com",
         "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Russia targets UK military satellites on weekly basis",
+        "link": "https://www.bbc.com/news/articles/c4gkyl1j6n9o?at_medium=RSS&at_campaign=rss",
+        "description": "Moscow is attempting to collect information from UK spacecraft, according to the MoD.",
+        "pubDate": "2025-10-03T02:31:57Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec8e/live/52f0a3b0-9fb3-11f0-8410-854cfa733f11.jpg",
         "bias": 0
       },
       {
@@ -691,6 +781,15 @@
         "bias": 0
       },
       {
+        "title": "Trump uses government shutdown to threaten firings and punishment - AP News",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLWFZ5dDEwVzhaM2lETUJhbnFhUkZkUTItdkljbEs2RExDcTJ2X29ZeTdGYXZiNmRra2lfQWlFZVZnWW5BVTZlMEV5ZVIxb0xnT1B0SlBFeGlsdnJnNTlhY2NPc2V5bFk0dWow?oc=5",
+        "description": "",
+        "pubDate": "2025-10-03T01:19:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "The blame game is on at federal agencies, where political messages fault Democrats for the shutdown - AP News",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdW1kRkpZdlI4SS1mWmpzVVNkRTZfYmlnV1duVjFnWjNvdGtIWUJCSHhGN09qUzg2bzktQjVEZk1naGdWNjQwMWVDUTRKR25kSVI0UW9NSHpUUFBWVGpMR0JWZ3VmM2lieGNnQklYcXBVME16N2V2OGdvejFyQmZ6Y2dWUlE1MUpxWFpWTWNhNUUxYzFWUmxDWlhhSmh3U0drSjdJU2FVSmRrQWtt?oc=5",
         "description": "",
@@ -720,15 +819,6 @@
         "bias": 0
       },
       {
-        "title": "Japan faces Asahi beer shortage after cyber-attack",
-        "link": "https://www.bbc.com/news/articles/c0r0y14ly5ro?at_medium=RSS&at_campaign=rss",
-        "description": "The drinks giant said this week that the attack had a major impact on its domestic operations.",
-        "pubDate": "2025-10-03T06:46:01Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/697e/live/62a6c8a0-a00a-11f0-a884-c9c349ad39f4.jpg",
-        "bias": 0
-      },
-      {
         "title": "TikTok recommends porn to children, says report",
         "link": "https://www.bbc.com/news/articles/c708v7qkeg1o?at_medium=RSS&at_campaign=rss",
         "description": "Researchers find TikTok's algorithm recommends sexual content to newly-created child accounts.",
@@ -738,17 +828,7 @@
         "bias": 0
       }
     ],
-    "Science": [
-      {
-        "title": "Russia targets UK military satellites on weekly basis",
-        "link": "https://www.bbc.com/news/articles/c4gkyl1j6n9o?at_medium=RSS&at_campaign=rss",
-        "description": "Moscow is attempting to collect information from UK spacecraft, according to the MoD.",
-        "pubDate": "2025-10-03T02:31:57Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec8e/live/52f0a3b0-9fb3-11f0-8410-854cfa733f11.jpg",
-        "bias": 0
-      }
-    ],
+    "Science": [],
     "Business": [],
     "Culture": [
       {
