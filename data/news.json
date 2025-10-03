@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-03T03:46:42.481975Z",
+  "lastUpdate": "2025-10-03T03:56:57.817536Z",
   "news": {
     "Gaming": [
       {
@@ -333,6 +333,15 @@
     ],
     "Tech": [
       {
+        "title": "Japan faces Asahi beer shortage after cyber-attack",
+        "link": "https://www.bbc.com/news/articles/c0r0y14ly5ro?at_medium=RSS&at_campaign=rss",
+        "description": "The drinks giant said this week that the attack had a major impact on its domestic operations.",
+        "pubDate": "2025-10-03T03:56:00Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/697e/live/62a6c8a0-a00a-11f0-a884-c9c349ad39f4.jpg",
+        "bias": 0
+      },
+      {
         "title": "TikTok recommends porn to children, says report",
         "link": "https://www.bbc.com/news/articles/c708v7qkeg1o?at_medium=RSS&at_campaign=rss",
         "description": "Researchers find TikTok's algorithm recommends sexual content to newly-created child accounts.",
@@ -353,17 +362,7 @@
         "bias": 0
       }
     ],
-    "Business": [
-      {
-        "title": "Japan faces Asahi beer shortage after cyber-attack",
-        "link": "https://www.bbc.com/news/articles/c0r0y14ly5ro?at_medium=RSS&at_campaign=rss",
-        "description": "The drinks giant said this week that the attack had a major impact on its domestic operations.",
-        "pubDate": "2025-10-03T03:42:51Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/697e/live/62a6c8a0-a00a-11f0-a884-c9c349ad39f4.jpg",
-        "bias": 0
-      }
-    ],
+    "Business": [],
     "Culture": []
   }
 }
