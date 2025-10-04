@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-10-04T11:48:41.019340Z",
+  "lastUpdate": "2025-10-04T11:59:06.671672Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Toy papus platformer [Free] [Platformer]",
+        "link": "https://jellyfishdeveloper.itch.io/toy-papus",
+        "description": "platformer",
+        "pubDate": "2025-10-04T11:48:04Z",
+        "source": "jellyfishdeveloper.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNDQ1MzQxLmpwZw==/315x250%23c/tgiQMA.jpg",
+        "bias": 0
+      },
       {
         "title": "Spooky Gorilla Game [Free] [Survival]",
         "link": "https://brodda-dorito.itch.io/spookygorillagame",
@@ -9,6 +18,15 @@
         "pubDate": "2025-10-04T11:38:55Z",
         "source": "brodda-dorito.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNDQ1MjAwLmpwZw==/315x250%23c/Yt5nb5.jpg",
+        "bias": 0
+      },
+      {
+        "title": "DUNGEON DWELLER [Free] [Role Playing] [Windows]",
+        "link": "https://gyizmo.itch.io/dungeon-dweller",
+        "description": "TEXT BASED RPG",
+        "pubDate": "2025-10-04T11:36:38Z",
+        "source": "gyizmo.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNDQ1MzY4LnBuZw==/315x250%23c/qBSdqJ.png",
         "bias": 0
       },
       {
@@ -219,51 +237,6 @@
         "bias": 0
       },
       {
-        "title": "MyReduxMyOwnSyaaa [Free]",
-        "link": "https://mrblackthedev2.itch.io/myreduxmyownsyaaa",
-        "description": "",
-        "pubDate": "2025-10-04T09:07:18Z",
-        "source": "mrblackthedev2.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNDQ0MTc3LnBuZw==/315x250%23c/2XHMrP.png",
-        "bias": 0
-      },
-      {
-        "title": "Adventures In BreezeClan - Endless Leafbare [Free] [Other] [Windows]",
-        "link": "https://gingertailmeow.itch.io/aibc-4",
-        "description": "Warrior Cats",
-        "pubDate": "2025-10-04T08:43:43Z",
-        "source": "gingertailmeow.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNDQzOTczLnBuZw==/315x250%23c/rKbp2d.png",
-        "bias": 0
-      },
-      {
-        "title": "The Shawshank Redemption II [Free] [Adventure]",
-        "link": "https://russe111.itch.io/the-shawshank-redemption-ii",
-        "description": "",
-        "pubDate": "2025-10-04T08:37:02Z",
-        "source": "russe111.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNDQzOTQ2LnBuZw==/315x250%23c/9%2ByLC6.png",
-        "bias": 0
-      },
-      {
-        "title": "Dodge The Creeps - 2D [Free] [Survival] [Windows]",
-        "link": "https://troubledhook.itch.io/dodge-the-creeps",
-        "description": "Godot's 2D game creation tutorial",
-        "pubDate": "2025-10-04T08:24:40Z",
-        "source": "troubledhook.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNDQzOTEyLnBuZw==/315x250%23c/89wvlS.png",
-        "bias": 0
-      },
-      {
-        "title": "Silent Hill 3 [50% Off] [$4.00] [Action] [Windows]",
-        "link": "https://crackerjack766.itch.io/silent-hill-3",
-        "description": "",
-        "pubDate": "2025-10-04T07:58:57Z",
-        "source": "crackerjack766.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNDQzODQ5LmpwZw==/315x250%23c/jr1boy.jpg",
-        "bias": 0
-      },
-      {
         "title": "html.RPG [Free] [Action]",
         "link": "https://snowboyjp.itch.io/htmlrpg",
         "description": "ドラクエ風RPG",
@@ -292,6 +265,15 @@
       }
     ],
     "World": [
+      {
+        "title": "Smear. Kill. Repeat.",
+        "link": "https://www.aljazeera.com/video/the-listening-post/2025/10/4/smear-kill-repeat?traffic_source=rss",
+        "description": "The chilling playbook Israel has developed for journalists in Gaza.",
+        "pubDate": "2025-10-04T11:13:33Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "As U.S. pressure mounts, Venezuela's foreign 'hostages' face growing uncertainty",
         "link": "https://www.npr.org/2025/10/04/nx-s1-5550317/venezuela-prisoners-hostages",
@@ -563,15 +545,6 @@
         "bias": 0
       },
       {
-        "title": "Trump orders Israel to stop bombing Gaza after Hamas partially accepts his peace plan - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNzBHLVpyWmk4Qy1nS2dwaTRiR29FNDE0ZG0tQUF5d0l0V0gzWTREcHNkQUExUS1ocUU1blQzb01fa1hZZFBzZkdVTFc0TUxDOWpETllLX3VCbW5VeVJuQmNhRHFpcFp6Mzg3ZjM0RkY1ZEZoY0E4SWhvYjI2THNRV1UtSjlZQ3BaT1NtMVRzRHZVbFVvUEpNbGdpWQ?oc=5",
-        "description": "",
-        "pubDate": "2025-10-04T02:49:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "From tequila cocktails to themed pop-ups, Taylor Swift fans celebrate ‘The Life of a Showgirl’ - AP News",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY3I1UWJfaU5MMmdmNlZoYTdBQmhSUUZ2OEJXYXJkR0RPRzZXOXNYV0EzN19sU3NqcUNGblN4OVF1QkM5NTFPT19UT011LUVxX2c3NHdwWXdjLXoxdUs2RjNjU0tMWVJ6MWNYWDlvczJWRlRBbXNCUTFBQ1dHN25ucEFJV3BkeGo1d1ZhUDFYdzhwekRfX2Zzek1WcFM?oc=5",
         "description": "",
@@ -596,6 +569,15 @@
         "pubDate": "2025-10-04T01:59:49Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2967/live/87b13f50-a0f4-11f0-ba5d-d711e2bf7ac8.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Decoding Taylor Swift’s ‘The Life of a Showgirl': A guide to her references - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcll5M21xTDREZk1HMDZCa3hJdk41MHpUZDJmZnZSX2VJeDFNdXhhS3dhT082Q3RCOXZpOVRjNC1HT0RFUFJEcTVLb0l5RWluNUlzUkRkV2RLZjZpbUFpakpyZFpCeWFwRldzaW81a3g5LUhxYkJpSVdpWEdrR0JPcnUwcVpNYVlhcGs5UFlHLUhaOHFJZ3diMWJlTHJFSDFNV0pKal9mVQ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-04T01:55:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -808,6 +790,15 @@
         "bias": 0
       },
       {
+        "title": "Trump orders Israel to stop bombing Gaza after Hamas partially accepts his peace plan - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNzBHLVpyWmk4Qy1nS2dwaTRiR29FNDE0ZG0tQUF5d0l0V0gzWTREcHNkQUExUS1ocUU1blQzb01fa1hZZFBzZkdVTFc0TUxDOWpETllLX3VCbW5VeVJuQmNhRHFpcFp6Mzg3ZjM0RkY1ZEZoY0E4SWhvYjI2THNRV1UtSjlZQ3BaT1NtMVRzRHZVbFVvUEpNbGdpWQ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-04T02:49:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Embattled figure in Native politics resigns as chairman of pueblo governors council in New Mexico - AP News",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaDVuUUhiWjhWNXhla2ZoSGJjb3dJVnAzeGRpRUFjb05xTGN4aWVISlFnMFItSXVCR2hwUFJWeVNvTi03OGZXY0NySmluRXczRDFMRk93Smcxck8yc0RHR1lwYnBaeDJXTnZGQ1d3a1lkeHI3Mk9uUGhReUlTTFllNlphYzZELUNuaFRiRmpaOHNqZ256cWF6VXM2VG5PT3d3cGlVcDhKeFQ3eE9PY2kyeWJrVHRFUQ?oc=5",
         "description": "",
@@ -832,15 +823,6 @@
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaDQ1UjktcXEzQUlUdlJJNmVXNnZsck0zQ2VGT1J3Sm05WnpxWFlJeEpvVTVfWkxiRFBFdGVDYTJDbTNFVC0tdG8yQklTTzdvMkF5QXJIZ21ZVFhYZlctWG9zU0JMQWE2dDhnY2l6YzVYaHlVN3FGdXl2U01vSl9kMW9QUUVuMEhSQUhCU1lnVUZwTU9sM2xhODdJTkF3QzRnRnhrVUVhWnJPa0ZjalNRVw?oc=5",
         "description": "",
         "pubDate": "2025-10-04T04:26:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Decoding Taylor Swift’s ‘The Life of a Showgirl': A guide to her references - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcll5M21xTDREZk1HMDZCa3hJdk41MHpUZDJmZnZSX2VJeDFNdXhhS3dhT082Q3RCOXZpOVRjNC1HT0RFUFJEcTVLb0l5RWluNUlzUkRkV2RLZjZpbUFpakpyZFpCeWFwRldzaW81a3g5LUhxYkJpSVdpWEdrR0JPcnUwcVpNYVlhcGs5UFlHLUhaOHFJZ3diMWJlTHJFSDFNV0pKal9mVQ?oc=5",
-        "description": "",
-        "pubDate": "2025-10-04T01:55:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
