@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-10-04T07:16:59.732201Z",
+  "lastUpdate": "2025-10-04T07:27:44.899005Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Hotel Staff [Free] [Other]",
+        "link": "https://aquasoul209.itch.io/hotel-staff",
+        "description": "A game where u can decide between 4 classes each being a role in a hotel",
+        "pubDate": "2025-10-04T07:21:27Z",
+        "source": "aquasoul209.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNDQzNDE5LnBuZw==/315x250%23c/LqJcep.png",
+        "bias": 0
+      },
       {
         "title": "NGG FIGHTING [Free] [Shooter]",
         "link": "https://jantemir.itch.io/ngg-fighting",
@@ -264,15 +273,6 @@
         "bias": 0
       },
       {
-        "title": "Sunlight Game(2D) [Free] [Puzzle]",
-        "link": "https://ha-ruto.itch.io/sunlight-game",
-        "description": "A board game to secure sunlight! Features CPU mode and face-to-face mode!",
-        "pubDate": "2025-10-04T02:51:58Z",
-        "source": "ha-ruto.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNDQyMjQyLnBuZw==/315x250%23c/b7sWpc.png",
-        "bias": 0
-      },
-      {
         "title": "El Protocolo Mutazion [Free] [Action] [Windows]",
         "link": "https://enemigomutante.itch.io/el-protocolo-mutazion",
         "description": "Demo beta + película gratis: tu misión contra los reptiles",
@@ -283,6 +283,15 @@
       }
     ],
     "World": [
+      {
+        "title": "Trump orders Israel to stop bombing Gaza, says Hamas ready for peace",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/10/4/trump-orders-israel-to-stop-bombing-gaza-says-hamas-ready-for-peace?traffic_source=rss",
+        "description": "US President Donald Trump has ordered Israel to halt its bombing of Gaza, saying Hamas is ready to make peace.",
+        "pubDate": "2025-10-04T07:17:34Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Iran executes six fighters accused of ties to Israel: State media",
         "link": "https://www.aljazeera.com/news/2025/10/4/iran-executes-six-fighters-accused-of-ties-to-israel-state-media?traffic_source=rss",
@@ -601,7 +610,10 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
+      }
+    ],
+    "Science": [],
+    "Business": [
       {
         "title": "Hamas accepts some elements of Trump’s peace plan for Gaza, others require negotiation - AP News",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lLU5MakVLdktDVkROakVRR3pTZkRuZmVtZ2lQbmVKRlE1alYxWHJVdER2d0gwRmIxak5MbnlrM1BzNWJZanY1UDdoU0w0LUdzcWF2X2t4S1VvajJMWmY3V050NVpJWXJlTnpz?oc=5",
@@ -612,8 +624,6 @@
         "bias": 0
       }
     ],
-    "Science": [],
-    "Business": [],
     "Culture": [
       {
         "title": "Sean 'Diddy' Combs sentenced to more than four years in prison",
