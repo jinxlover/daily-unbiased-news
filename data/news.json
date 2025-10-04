@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-10-04T06:55:59.175450Z",
+  "lastUpdate": "2025-10-04T07:16:59.732201Z",
   "news": {
     "Gaming": [
+      {
+        "title": "NGG FIGHTING [Free] [Shooter]",
+        "link": "https://jantemir.itch.io/ngg-fighting",
+        "description": "Shooting",
+        "pubDate": "2025-10-04T07:12:54Z",
+        "source": "jantemir.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNDQzNDA1LnBuZw==/315x250%23c/TQXvx3.png",
+        "bias": 0
+      },
       {
         "title": "Scoundrel [Free] [Card Game]",
         "link": "https://dragondagamedev.itch.io/scoundrel",
@@ -228,15 +237,6 @@
         "bias": 0
       },
       {
-        "title": "sprunki discovery centre sprummers [Free] [Windows] [macOS] [Linux] [Android]",
-        "link": "https://max-is-1-of-the-best.itch.io/sprunki-discovery-centre-sprummers",
-        "description": "",
-        "pubDate": "2025-10-04T04:07:30Z",
-        "source": "max-is-1-of-the-best.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNDQyMjYzLnBuZw==/315x250%23c/A08aOH.png",
-        "bias": 0
-      },
-      {
         "title": "Incoherence [Free] [Puzzle]",
         "link": "https://vine-moss-games.itch.io/incoherence",
         "description": "A collection of small encounters for a man limited in language",
@@ -284,9 +284,27 @@
     ],
     "World": [
       {
+        "title": "Iran executes six fighters accused of ties to Israel: State media",
+        "link": "https://www.aljazeera.com/news/2025/10/4/iran-executes-six-fighters-accused-of-ties-to-israel-state-media?traffic_source=rss",
+        "description": "Kurdish fighter Saman Mohammadi was also hanged for killing a Muslim leader, the Mizan News Agency reports.",
+        "pubDate": "2025-10-04T07:08:33Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "World leaders weigh in on Hamas’s positive response to Trump’s Gaza plan",
+        "link": "https://www.aljazeera.com/news/2025/10/4/world-leaders-weigh-in-on-hamass-positive-response-to-trumps-gaza-plan?traffic_source=rss",
+        "description": "Global reaction to Hamas’s response, which marks a potential turning point in Israel's two-year war on Gaza.",
+        "pubDate": "2025-10-04T06:58:42Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Japan’s LDP elects Takaichi as new leader, likely to be first female PM",
         "link": "https://www.aljazeera.com/news/2025/10/4/japans-ldp-elects-takaichi-as-new-leader-likely-to-be-first-female-pm?traffic_source=rss",
-        "description": "This is a breaking news story.",
+        "description": "If elected, Takaichi will face a host of issues, including an ageing population and growing unease about immigration.",
         "pubDate": "2025-10-04T06:14:51Z",
         "source": "aljazeera.com",
         "image": "",
@@ -536,7 +554,7 @@
         "bias": 0
       },
       {
-        "title": "LIVE: Trump says Hamas ‘ready for peace’, tells Israel to stop bombing Gaza",
+        "title": "LIVE: Israel kills 7 people after Trump tells it to ‘stop bombing’ Gaza",
         "link": "https://www.aljazeera.com/news/liveblog/2025/10/4/live-trumps-tells-israel-stop-bombing-gaza-after-hamas-ceasefire-reply?traffic_source=rss",
         "description": "US leader tells Israel it 'must immediately stop' bombing Gaza, says he believes Hamas is 'ready for a lasting peace'.",
         "pubDate": "2025-10-04T00:03:19Z",
@@ -596,6 +614,16 @@
     ],
     "Science": [],
     "Business": [],
-    "Culture": []
+    "Culture": [
+      {
+        "title": "Sean 'Diddy' Combs sentenced to more than four years in prison",
+        "link": "https://www.bbc.com/news/articles/czx0gx227z4o?at_medium=RSS&at_campaign=rss",
+        "description": "Combs apologised to his mother, children, and victims, specifically naming his two ex-girlfriends, Casandra Ventura and \"Jane\".",
+        "pubDate": "2025-10-04T01:54:53Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd6e/live/fc8e9cd0-a083-11f0-bb47-b30225268691.jpg",
+        "bias": 0
+      }
+    ]
   }
 }
