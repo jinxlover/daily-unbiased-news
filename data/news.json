@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2025-10-04T15:28:58.365883Z",
+  "lastUpdate": "2025-10-04T15:40:05.058788Z",
   "news": {
     "Gaming": [
       {
-        "title": "Would You Kill for a Home? [Free] [Platformer]",
+        "title": "Would You Kill for a Home? [Free] [Platformer] [macOS]",
         "link": "https://eoshadows.itch.io/would-you-kill-for-a-home",
         "description": "Bullet Hell Platformer, collect souls for the Grim Reaper so you can buy a house",
         "pubDate": "2025-10-04T14:42:10Z",
@@ -192,15 +192,6 @@
         "bias": 0
       },
       {
-        "title": "GET THE PIZZA [Free] [Survival] [Windows]",
-        "link": "https://veiledpixelz.itch.io/get-the-pizza",
-        "description": "Survival horror game",
-        "pubDate": "2025-10-04T11:41:45Z",
-        "source": "veiledpixelz.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNDQ1NDM1LnBuZw==/315x250%23c/WNerAy.png",
-        "bias": 0
-      },
-      {
         "title": "Dashidle [Free] [Simulation]",
         "link": "https://elsah.itch.io/dashidle",
         "description": "An incremental business management game. Produce, invest, and survive the challenges of growth.",
@@ -219,6 +210,15 @@
         "bias": 0
       },
       {
+        "title": "Pigs with Guns [Free] [Fighting]",
+        "link": "https://funnycreator789.itch.io/pigs-with-guns",
+        "description": "Pigs with guns are invading the castle! Help us!",
+        "pubDate": "2025-10-04T02:58:49Z",
+        "source": "funnycreator789.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNDQ3MTkwLnBuZw==/315x250%23c/ZNAlD5.png",
+        "bias": 0
+      },
+      {
         "title": "Minigame Game [Free] [Windows]",
         "link": "https://neaon-games.itch.io/minigame-game",
         "description": "Free Multiplayer Minigames",
@@ -230,21 +230,21 @@
     ],
     "World": [
       {
+        "title": "At least 30 injured in Russian strike on railway station, Zelensky says",
+        "link": "https://www.bbc.com/news/articles/czewkn06y1no?at_medium=RSS&at_campaign=rss",
+        "description": "Preliminary reports indicate that train staff and passengers were at the site of the strike, he says.",
+        "pubDate": "2025-10-04T15:34:49Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/706a/live/8c0bfc30-a11b-11f0-b741-177e3e2c2fc7.jpg",
+        "bias": 0
+      },
+      {
         "title": "Photos show widespread protests after Israeli forces intercept Gaza-bound flotilla - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPck8tcE84RzhDYnJtdTZWcFZCelFoa2JKSWJUTTdLYUNtOUk4RzFZbGNud3R5b0NOOHh1WGZEUjdHMlhlcnlITkhLdHZ5RXBaN1FsWUx3alBlOFQtQ2xjVElfbE1PcDhmQlFqTktRZVViMXg0SGxfdENDSUllUzkyMjU0aEdZamxRQ0hWUWlxZGJMQVlsMDROek1CQ2dudDhtcXBtY2dfQTg?oc=5",
         "description": "",
         "pubDate": "2025-10-04T14:48:00Z",
         "source": "news.google.com",
         "image": "",
-        "bias": 0
-      },
-      {
-        "title": "At least 30 injured in Russian strike on railway station, Zelensky says",
-        "link": "https://www.bbc.com/news/articles/czewkn06y1no?at_medium=RSS&at_campaign=rss",
-        "description": "Preliminary reports indicate that train staff and passengers were at the site of the strike, he says.",
-        "pubDate": "2025-10-04T14:28:58Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/706a/live/8c0bfc30-a11b-11f0-b741-177e3e2c2fc7.jpg",
         "bias": 0
       },
       {
@@ -801,6 +801,15 @@
     ],
     "Tech": [
       {
+        "title": "Fears of massive battery fires spark local opposition to energy storage projects - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOY0N6Z2U0R2hod0dISE9NUmYzcUt6eGZhcGNpLVZ0MjZmRHpnd2ZHZmhBd05OUUlZZFJtclBVcUx3c3ByWnZjY2NTQ3Njc2NpdzYwbFhqemI3TEJ3anZKWXd0V1BjWHlKeFo2T256WDFsY0p5UVlrTmx0WXpYY21RandqLTBSUkc4UzF6VzNBVTNld2c?oc=5",
+        "description": "",
+        "pubDate": "2025-10-04T10:04:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Maldives police arrest 8 demonstrators during opposition party protest - AP News",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaDQ1UjktcXEzQUlUdlJJNmVXNnZsck0zQ2VGT1J3Sm05WnpxWFlJeEpvVTVfWkxiRFBFdGVDYTJDbTNFVC0tdG8yQklTTzdvMkF5QXJIZ21ZVFhYZlctWG9zU0JMQWE2dDhnY2l6YzVYaHlVN3FGdXl2U01vSl9kMW9QUUVuMEhSQUhCU1lnVUZwTU9sM2xhODdJTkF3QzRnRnhrVUVhWnJPa0ZjalNRVw?oc=5",
         "description": "",
@@ -828,17 +837,7 @@
         "bias": 0
       }
     ],
-    "Science": [
-      {
-        "title": "Fears of massive battery fires spark local opposition to energy storage projects - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOY0N6Z2U0R2hod0dISE9NUmYzcUt6eGZhcGNpLVZ0MjZmRHpnd2ZHZmhBd05OUUlZZFJtclBVcUx3c3ByWnZjY2NTQ3Njc2NpdzYwbFhqemI3TEJ3anZKWXd0V1BjWHlKeFo2T256WDFsY0p5UVlrTmx0WXpYY21RandqLTBSUkc4UzF6VzNBVTNld2c?oc=5",
-        "description": "",
-        "pubDate": "2025-10-04T10:04:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      }
-    ],
+    "Science": [],
     "Business": [
       {
         "title": "Rail firm fined £1m over train passenger's death",
