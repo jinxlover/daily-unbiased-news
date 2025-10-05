@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-05T05:16:35.902559Z",
+  "lastUpdate": "2025-10-05T05:31:30.819073Z",
   "news": {
     "Gaming": [
       {
@@ -27,6 +27,15 @@
         "pubDate": "2025-10-05T04:49:15Z",
         "source": "novafactorial.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNDU1NjMyLnBuZw==/315x250%23c/AM7BMY.png",
+        "bias": 0
+      },
+      {
+        "title": "Intuition (Demo) [Free] [Visual Novel] [Windows] [macOS] [Linux]",
+        "link": "https://oldnewplay.itch.io/intuition",
+        "description": "grotesque, dark & hardcore visual novel",
+        "pubDate": "2025-10-05T04:46:48Z",
+        "source": "oldnewplay.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNDU1MzQ0LnBuZw==/315x250%23c/y1Jo1Y.png",
         "bias": 0
       },
       {
@@ -202,6 +211,15 @@
       }
     ],
     "World": [
+      {
+        "title": "LIVE: Negotiators head to Cairo for talks on end of Gaza war",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/10/5/live-negotiators-head-to-cairo-for-talks-on-end-of-gaza-war?traffic_source=rss",
+        "description": "Talks aim at ending nearly two years of war, with Israel's leader expressing hope that captives would be released.",
+        "pubDate": "2025-10-05T05:17:43Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Poland deploys air defences as Russia launches new strikes on Ukraine",
         "link": "https://www.aljazeera.com/news/2025/10/5/poland-deploys-air-defences-as-russia-launches-new-strikes-on-ukraine?traffic_source=rss",
@@ -421,6 +439,15 @@
     ],
     "Politics": [
       {
+        "title": "Japan's first female governing-party leader is an ultra-conservative star in a male-dominated group - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYWlrOUtfZXNOR1B2RVd4SXh3di1zWUk4T3hSVG0tNGtJYnktcTZCYm5wc3NLaThndWxZZERVOE9Pa0IxcVZaTlFyeU84MHJtcjlzQThrOFIxN0F0c3B3ek9oazktaEtQZTlOZ0hUWmZObXNuZkFzR2FaSlp6bktmTVFkZUt5b0VXOC1TV2drQ1NSZ3dZQUxSZUJhN1NFSjRVZ3pvaUE0d2xPZkx6aU12Y2tYOA?oc=5",
+        "description": "",
+        "pubDate": "2025-10-05T02:50:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "International journalists visit Gaza City under the supervision of Israel’s army - AP News",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMXItRTVoXzV5NUZRSHJkLWJrczJZTjZaUDBDQXdObWRIS0RadTJOeE1TUVRUcHUwS0Juc2pWb1hvcmdPRFlZZEQyQy03LTUzekF6Q1RhR0V4eUxZTldXcGhhNzhqRHNxd1Rub3JHZjVkNXdQREFVd0p2T3ROWWphcVpfdjF4cmhCS2VVdFJRdw?oc=5",
         "description": "",
@@ -431,17 +458,7 @@
       }
     ],
     "Tech": [],
-    "Science": [
-      {
-        "title": "Japan's first female governing-party leader is an ultra-conservative star in a male-dominated group - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYWlrOUtfZXNOR1B2RVd4SXh3di1zWUk4T3hSVG0tNGtJYnktcTZCYm5wc3NLaThndWxZZERVOE9Pa0IxcVZaTlFyeU84MHJtcjlzQThrOFIxN0F0c3B3ek9oazktaEtQZTlOZ0hUWmZObXNuZkFzR2FaSlp6bktmTVFkZUt5b0VXOC1TV2drQ1NSZ3dZQUxSZUJhN1NFSjRVZ3pvaUE0d2xPZkx6aU12Y2tYOA?oc=5",
-        "description": "",
-        "pubDate": "2025-10-05T02:50:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      }
-    ],
+    "Science": [],
     "Business": [],
     "Culture": []
   }
