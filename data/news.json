@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-10-06T16:47:34.194380Z",
+  "lastUpdate": "2025-10-06T16:57:55.296612Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Flappy Fan Game (APK) [Free] [Android]",
+        "link": "https://beedgt5.itch.io/flappy-fan-game-apk",
+        "description": "APK",
+        "pubDate": "2025-10-06T16:32:29Z",
+        "source": "beedgt5.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNDg2NjM0LnBuZw==/315x250%23c/BKXIlb.png",
+        "bias": 0
+      },
       {
         "title": "Fluff Heaven [Free] [Other] [Windows]",
         "link": "https://killianvendewinkele.itch.io/fluff-heaven",
@@ -84,6 +93,15 @@
         "bias": 0
       },
       {
+        "title": "A pact with the devil [Free] [Interactive Fiction]",
+        "link": "https://neo-en.itch.io/a-pact-with-the-devil",
+        "description": "An interactive fiction made for inkjam 2025 made by G.A.L.A.N. team",
+        "pubDate": "2025-10-06T16:00:59Z",
+        "source": "neo-en.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNDg2NzQ0LnBuZw==/315x250%23c/1e0%2BjL.png",
+        "bias": 0
+      },
+      {
         "title": "Lunar Burden [Free] [Adventure] [Windows]",
         "link": "https://digital-mosaic-games.itch.io/lunar-burden",
         "description": "Short Adventure Game",
@@ -138,24 +156,6 @@
         "bias": 0
       },
       {
-        "title": "Unwordy [Free] [Other]",
-        "link": "https://omiyagames.itch.io/unwordy",
-        "description": "Re-assemble common words into rare ones",
-        "pubDate": "2025-10-06T15:30:41Z",
-        "source": "omiyagames.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNDg1ODcxLnBuZw==/315x250%23c/qGjZZF.png",
-        "bias": 0
-      },
-      {
-        "title": "VENGANZA ENTRE ÓXIDO [Free] [Platformer] [Windows]",
-        "link": "https://doriwiiss.itch.io/venganza-entre-xido",
-        "description": "Prototipo muy vago de un juego 2d de plataformas",
-        "pubDate": "2025-10-06T15:27:43Z",
-        "source": "doriwiiss.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNDg1NzY1LnBuZw==/315x250%23c/PmVWrI.png",
-        "bias": 0
-      },
-      {
         "title": "War of Ayutthaya Tower Defense [Free] [Other] [Android]",
         "link": "https://namlai00.itch.io/war-of-ayutthaya-tower-defence",
         "description": "Defend the Ayutthaya Kingdom in an epic Tower Defense battle!",
@@ -192,12 +192,12 @@
         "bias": 0
       },
       {
-        "title": "TheInternetCollector [Free] [Puzzle] [Windows]",
-        "link": "https://yb-rabbit.itch.io/theinternetcollector",
-        "description": "Break through the computer’s virtual firewall, dive deep inside…",
-        "pubDate": "2025-10-06T03:59:23Z",
-        "source": "yb-rabbit.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNDc3ODYwLnBuZw==/315x250%23c/0nA8To.png",
+        "title": "I am so SLAY [Free]",
+        "link": "https://quensol.itch.io/rose",
+        "description": "Charm. Collect. Sacrifice.",
+        "pubDate": "2025-10-06T05:02:57Z",
+        "source": "quensol.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNDg2MDQyLnBuZw==/315x250%23c/HPMSFV.png",
         "bias": 0
       },
       {
@@ -215,7 +215,25 @@
         "title": "Live updates: Illinois and Chicago sue to stop Trump from deploying the National Guard - AP News",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KVXQtVkFhQXhneC12SE1tb2tqUGs5U2ZTOGdGSDVxYVdUQ1pzRDRmZl9LT2hEUnZKeGRBMjhlUVVnMWdkcnpQTzVlUkI0Y2xsYjZ4RVpQeDFiWEROMktidVB2eHp1YlBUOFE0?oc=5",
         "description": "",
-        "pubDate": "2025-10-06T16:44:00Z",
+        "pubDate": "2025-10-06T16:55:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Sudan militia leader convicted of war crimes during Darfur war",
+        "link": "https://www.bbc.com/news/articles/cly1egd5d0vo?at_medium=RSS&at_campaign=rss",
+        "description": "Ali Kushayb led the Janjaweed, a group whose campaign of terror led to hundreds and thousands of deaths.",
+        "pubDate": "2025-10-06T16:48:36Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c401/live/154d54b0-a2c2-11f0-9de5-4d449564150c.jpg",
+        "bias": 0
+      },
+      {
+        "title": "A shooting near Houston suburb leaves two children dead and two others in critical condition - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRGh4NUtSa3RwZkRNYjQ1LUdBY09JX3pSNmp6MGVzR0M5am1WQm51NENyaThxXzhrRnJCNTBFZUhhUkdWdEFIaS1fbTE2OXdITFNuelA4SGpoZTduNmd4UHRoTmxTWENxUU1DNGR1TjdFcXMtdzEtc0k3TDZlRmc0aWozamlrclVidHhiaDZpWQ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-06T16:43:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -262,7 +280,7 @@
         "description": "The British socialite is serving a 20-year prison sentence on sex-trafficking charges related to former boyfriend Jeffrey Epstein.",
         "pubDate": "2025-10-06T15:34:08Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f53/live/00c476c0-a2d3-11f0-b951-27b26e912455.png",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd26/live/1f0875e0-a2d4-11f0-92db-77261a15b9d2.jpg",
         "bias": 0
       },
       {
@@ -281,6 +299,15 @@
         "pubDate": "2025-10-06T15:30:00Z",
         "source": "news.google.com",
         "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Skydiving instructor killed after falling without parachute in Nashville",
+        "link": "https://www.bbc.com/news/articles/c2knw1nlgdyo?at_medium=RSS&at_campaign=rss",
+        "description": "The skydiver fell after becoming separated from his student and safety equipment.",
+        "pubDate": "2025-10-06T15:18:41Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bf3/live/acbed120-a2cc-11f0-92db-77261a15b9d2.jpg",
         "bias": 0
       },
       {
@@ -345,15 +372,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Sudan militia leader convicted of war crimes during Darfur war",
-        "link": "https://www.bbc.com/news/articles/cly1egd5d0vo?at_medium=RSS&at_campaign=rss",
-        "description": "Ali Kushayb led the Janjaweed, a group whose campaign of terror led to hundreds and thousands of deaths.",
-        "pubDate": "2025-10-06T14:45:11Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c401/live/154d54b0-a2c2-11f0-9de5-4d449564150c.jpg",
-        "bias": 0
       },
       {
         "title": "France in fresh political crisis as PM Lecornu quits after 26 days",
@@ -471,6 +489,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Pakistan’s Sidra Amin reprimanded for breaching ICC code of conduct against India - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTWdibENsWm1oZVFXTzZmRFI1OW1ZRHpNcTNLNmliSE5Sa2x1d01LVDJqeExMelRTOHd6ZFdvZjlGRmxTb1BUSzYxYmpTT1hVSzR3aFNPMHp4ZU9qTUdON3VzaGZRYnpraEtZVW5VRkJOSUduSDNOaERNZlE1eWdFM3R4U052ZkZSU2RKajZYUEdTakpqcWtJZmo0bw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-06T13:42:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Supreme Court rejects appeal from Ghislaine Maxwell, imprisoned former girlfriend of Jeffrey Epstein - AP News",
@@ -633,33 +660,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Video: Dozens killed in flash flooding and landslides in Nepal and India",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/10/6/video-dozens-killed-in-flash-flooding-and-landslides-in-nepal-and-india?traffic_source=rss",
-        "description": "Widespread flooding in Nepal and India has caused the deaths of at least 47 people.",
-        "pubDate": "2025-10-06T11:31:43Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Rescuers in India search for missing after landslides kill 24 in Darjeeling region - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX0UyM0c3SHVxN051NXN4ZkFCWlhuRGFlNXBTLXpjcmtXeW0zOG9BWl94MEhVVjNkcy16aWdMQWdqWTFEdGd2azY5WnVPZFI1VE9ZeXdRSnBUQ2xQSHcxV3hVZkpxOFhaSVZZbkFCdTkxLWQ2VVE4cEVGN3VVWmo3cDNqTVFoWXdzOW04TVdnODMwTFFkcW9j?oc=5",
-        "description": "",
-        "pubDate": "2025-10-06T11:23:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Republicans and Democrats at an impasse as government shutdown enters sixth day - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ2xTUHBNa3lONGVOdkhxQlNpc2lhakhSRV9EZVgweWpmemozZXVrMUpFNjhfV2tNb0s5c3k1eFBQSjE3QlVieThGdURtazBRNU9TZXExTmRwMlNxUFh4bnJqOVZ5b2ZzUzZYd2JhWFh5Qk8tXzhFbUtfQWZZSmVVb0l0RjBmZ0IyMWc3Zmp4ZHpVNzRCWFExWjdR?oc=5",
-        "description": "",
-        "pubDate": "2025-10-06T11:12:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
@@ -770,6 +770,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "ICE ad blitz aims to lure local law enforcement officers to join Trump mass deportation efforts - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWUNubG9MZEF0dk1aVkRnc3paN0l1OEZHZDNSM1htVXBMakJkYW1GdG5VUzI5bjJUVTRXbldDTWhYWE8zNnN5dnRyYW9jS1Roa1JVQkNXMzI1YzVsWk9hRllibjRZWXZUNnA1bG1YOHBWMlVoRnE1ZFl5d3dERXJBMDFvM05TTHlxRTN3blF0clhETk8wM0pVOHd3ZVcteVRYZTNZbGVR?oc=5",
+        "description": "",
+        "pubDate": "2025-10-06T10:56:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Democratic Sen. Chris Van Hollen of Maryland talks about the government shutdown",
