@@ -1,14 +1,23 @@
 {
-  "lastUpdate": "2025-10-07T05:55:43.085366Z",
+  "lastUpdate": "2025-10-07T06:29:51.319951Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Escape The Dark [Free]",
+        "link": "https://demtri.itch.io/escape-the-dark",
+        "description": "",
+        "pubDate": "2025-10-07T06:05:23Z",
+        "source": "demtri.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNDk4NDAyLnBuZw==/315x250%23c/I8lAn1.png",
+        "bias": 0
+      },
       {
         "title": "Manifest - Psychological Horror [Free] [Other]",
         "link": "https://ajwylie.itch.io/manifesthorror",
         "description": "Manifest your creations using the notepad.",
         "pubDate": "2025-10-07T05:40:16Z",
         "source": "ajwylie.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNDk4MDk4LnBuZw==/315x250%23c/ViSLOv.png",
+        "image": "https://img.itch.zone/aW1nLzIzNDk4MjU0LnBuZw==/315x250%23c/AOoqpU.png",
         "bias": 0
       },
       {
@@ -138,15 +147,6 @@
         "bias": 0
       },
       {
-        "title": "Chunkey Monkeys [Free] [Survival]",
-        "link": "https://egggdude.itch.io/chunkey-monkeys",
-        "description": "Chunkey Monkeys (CHM)",
-        "pubDate": "2025-10-07T03:17:46Z",
-        "source": "egggdude.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNDk3MTE3LnBuZw==/315x250%23c/XC%2F0ge.png",
-        "bias": 0
-      },
-      {
         "title": "The Witching Hour [Free] [Interactive Fiction]",
         "link": "https://ladymacabea.itch.io/the-witching-hour",
         "description": "Notes of sage and resignation.",
@@ -183,15 +183,6 @@
         "bias": 0
       },
       {
-        "title": "Rooms [Free]",
-        "link": "https://ididsomething.itch.io/rooms",
-        "description": "can you walk all the way?",
-        "pubDate": "2025-10-07T02:56:46Z",
-        "source": "ididsomething.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNDk3MDM0LmpwZw==/315x250%23c/YFvC%2B2.jpg",
-        "bias": 0
-      },
-      {
         "title": "Orange Moon: The Last Harvest [Free] [Action]",
         "link": "https://andrew-115.itch.io/orange-moon-last-harvest",
         "description": "When Farmer Fred was harvesting the last carrots of the season. The sun starts to set... and the orange moon rises......",
@@ -210,6 +201,15 @@
         "bias": 0
       },
       {
+        "title": "Eldritch Rabbit Pet Simulator [Free] [Simulation]",
+        "link": "https://jodhibodhi.itch.io/eldritch-rabbit-pet-simulator",
+        "description": "Cute. Cuddly. Catastrophic.",
+        "pubDate": "2025-10-07T01:57:02Z",
+        "source": "jodhibodhi.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNDk2NDAwLnBuZw==/315x250%23c/6jaQ%2BE.png",
+        "bias": 0
+      },
+      {
         "title": "The Mall [Free] [Visual Novel] [Windows] [macOS] [Linux] [Android]",
         "link": "https://seris3ri.itch.io/the-mall",
         "description": "Escape is possible. But not for everyone.",
@@ -221,6 +221,42 @@
     ],
     "World": [
       {
+        "title": "UNESCO board backs Egypt’s Khaled el-Enany as its next chief",
+        "link": "https://www.aljazeera.com/news/2025/10/7/unesco-board-backs-egypts-khaled-el-enany-as-its-next-chief?traffic_source=rss",
+        "description": "The Egyptologist and former minister of antiquities will be the first Arab to lead the UN's cultural organisation.",
+        "pubDate": "2025-10-07T06:07:05Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Venezuela’s Maduro says US Embassy ‘false flag’ bombing foiled in Caracas",
+        "link": "https://www.aljazeera.com/news/2025/10/7/venezuelas-maduro-says-us-embassy-false-flag-bombing-foiled-in-caracas?traffic_source=rss",
+        "description": "President Nicolas Maduro says right wing 'extremists' planned to bomb US embassy and blame his government for attack.",
+        "pubDate": "2025-10-07T06:01:41Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "After two years of war, do Israelis support Netanyahu?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/10/7/after-two-years-of-war-do-israelis-support-netanyahu?traffic_source=rss",
+        "description": "Before the October 7 attacks, Benjamin Netanyahu was facing down mass protests and a corruption trial.",
+        "pubDate": "2025-10-07T05:45:15Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Harvard ruled as legally liable for theft of body parts from morgue",
+        "link": "https://www.aljazeera.com/news/2025/10/7/harvard-ruled-as-legally-liable-for-theft-of-body-parts-from-morgue?traffic_source=rss",
+        "description": "Families can now sue the university for mishandling human remains donated for research and teaching puroses.",
+        "pubDate": "2025-10-07T05:44:36Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "A divided Israel marks 2 years since Oct. 7 attack as war in Gaza grinds on and hostages languish - AP News",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT2M3OW1obXA3SEFrb0hzeERqUVpJYTI5TnJiZGxyeUNpS1ZCRWZVb0ZMTFhva3F5Rlh3ckNLbW5rTUlSTVlfZWpMdGloVDJGZW1yTUdmZ2U5RjVMVy1fRjBWN3VQQ0VFcm9oMGtCZ05LOVZ3di1PWTYtV0Y2NjM1eDRuX0U1MU1jbE5VR2RyQ1c2QjRFSG9aQnNnOU1JZ2RvQTdmZ3dWRElOdFZ5N241TWNYdWRoOU5waWtHT3NYQQ?oc=5",
         "description": "",
@@ -230,7 +266,34 @@
         "bias": 0
       },
       {
-        "title": "Reports: Israel couldn’t wage wars on Gaza, Lebanon Iran without US support",
+        "title": "Live: Israel’s genocide continues across Gaza two years since start of war",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/10/7/live-israels-genocide-continues-across-gaza-two-years-since-start-of-war?traffic_source=rss",
+        "description": "As talks are in progress in Egypt to discuss plan to end the war in Gaza, deadly Israeli attacks continue in Gaza.",
+        "pubDate": "2025-10-07T05:30:37Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "LeBron James’ post causes retirement rumours as Lakers ticket prices rise",
+        "link": "https://www.aljazeera.com/sports/2025/10/7/lebron-james-post-causes-retirement-rumours-as-lakers-ticket-prices-rise?traffic_source=rss",
+        "description": "James' cryptic \"The Second Decision\" video sent tickets for the Los Angeles Lakers' final home game skyrocketing.",
+        "pubDate": "2025-10-07T05:28:09Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "One killed, several injured in Syrian Army, SDF clashes in Aleppo: Reports",
+        "link": "https://www.aljazeera.com/news/2025/10/7/one-killed-several-injured-in-syrian-army-sdf-clashes-in-aleppo-reports?traffic_source=rss",
+        "description": "A member of Syria's internal security forces killed and three others injured, along with civilians, in Aleppo clashes.",
+        "pubDate": "2025-10-07T05:27:45Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Reports: How the US funded Israel’s wars on Gaza, Lebanon, Iran",
         "link": "https://www.aljazeera.com/features/2025/10/7/reports-israel-couldnt-wage-wars-on-gaza-lebanon-iran-without-us-support?traffic_source=rss",
         "description": "Twin reports from the Costs of War Project find the US has backed Israel with more than $21bn since October 2023.",
         "pubDate": "2025-10-07T05:09:21Z",
@@ -293,6 +356,24 @@
         "bias": 0
       },
       {
+        "title": "US has given at least $21.7 billion in military aid to Israel since war in Gaza began, report says - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbWk2WXZGRlM2cXpJM1otcTFxSkkwb2E5SWFkNWdpb2ppSVBhZkM2ck5FUE14VjcyX1NwQk1BX24tVDg4bFFQUENyaUNjRktLdi1oOU5HekgzN0lqTmF5d0tRcWFERWhIaHlLN0dpbWVoQ0U3cUdpMjI1Q2l0MHhGOFRfNzdOWTFFcHBEWjQ5WldQUQ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-07T04:02:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Canadian PM Carney visits Trump as relations between the longtime allies remain at a low point - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNWRrazJ6am1SeG50bG5LRUJLenFQeGVHZW9KdWctMFVxUDhkNUF0OS1PcXNHWEF5M1hNUzFtWGtfTEpnYmdGNW9tOTRfNnBJVG5Bc1NlQWtnN0xCMzlhOHpIWC1lV1A2YWZibU1nckEzNU1PeXY5M1lrMDRCQ2RCaVo2WjM0MWxwOGVlY0F3cG5UWWIwUGc?oc=5",
+        "description": "",
+        "pubDate": "2025-10-07T04:01:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "The woman poised to be Japan’s first female prime minister faces challenges - AP News",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdEFjdnMwQnkyeUw2SWlmbjNjYzZnZ05NUHJvaTVmYlJuY3JwMjI3V0hMVFZaZi1SNWFWY0Z1aWJDcVlzOWRDZ2JMemlhQTN0czBENDE2Q04tUkJxNThoNHkzQXFDSFNYbHVFWXVEeE5rU3dhUzBjQndlRG5EdnVKRzBadFlldVZQaGQtQmQyWEtFQ3VL?oc=5",
         "description": "",
@@ -318,6 +399,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Trump non-committal about Ghislaine Maxwell pardon, says he ‘will speak to the DOJ’ - AP News",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONFByYXcxWlZIaU44TVM3OHNmVlVJV1N6aktjVmZrcWxjVWJMUXBKM2FtZ2lnWGFNbm9Bd3pRVFQxZ3JRTkplTWhlUlN6MEg5RXptS1p5T293LUJodkhrZEFsN3B5UEZwWVUtSGhhME1CSDVidVJnN0pNcHBfbFRLOHdEOE45dnFYYWFkZmQ5bVNFU2RrNXBWNjI3dEtrbUs3UDlFQVVPbS1rbU5fR21QeHhaY0NBRHNFcEFxREpkelpqQTJvd1d0bVVjT1BkVG1US3c?oc=5",
+        "description": "",
+        "pubDate": "2025-10-07T02:53:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "A beauty pageant for buffaloes in Thailand raises status of the humble animal - AP News",
@@ -446,15 +536,6 @@
         "bias": 0
       },
       {
-        "title": "President Maduro asks Pope Leo XIV to help maintain peace in Venezuela - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ2hvNnhZYzRROWh5bWRYUWw2a21maWphQnRHbTBibFVTc3JnOWhKSWV1eHNERzRvRU1zUUZES3Q0R3dIN1MtREM3N3Y1UWdXeC1zZXNocnJXOGYtbnh5N0NocG9OVUJmTTdhTFpQQjFWWmw4N1Rpcll5TUx0bmNyRVF3TmY3aVlxbE1obzNpSUQzcGtXbnc5ZU1aUXdDM1JmckhZS1oxNXFaUQ?oc=5",
-        "description": "",
-        "pubDate": "2025-10-07T01:13:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "UN refugee agency chief suggests that US deportation practices violate the law - AP News",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPanZOVUI0UGdEeFowMTFPVnlNcHRLOE04STFDdlg5YmRNLWNuSWlNUXZoVHNfR0tXQ1pKNno3TGtKa1BhSEc5WENQMVBGRzNqbWY0ZXRubVBFd0taY1dfNmdkMmdzcFRpcHNpWTVnMEZTTHU4bkMzVkJqN05FS0tmc21IcGlNN19aaDZZTWt4NksyUnpTeXRGOThPdGhPbjhqVTJV?oc=5",
         "description": "",
@@ -516,6 +597,15 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "Renewables overtake coal as world's biggest source of electricity",
+        "link": "https://www.bbc.com/news/articles/cx2rz08en2po?at_medium=RSS&at_campaign=rss",
+        "description": "Developing countries lead the historic clean energy charge but the US and EU rely more on fossil fuels than before, a think tank study shows.",
+        "pubDate": "2025-10-07T00:02:03Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43c1/live/9d78fac0-a2e4-11f0-ba2e-7d74c4f6f1cb.jpg",
+        "bias": 0
       }
     ],
     "Politics": [
@@ -545,6 +635,15 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ae6/live/a75376e0-a30e-11f0-8d57-2757fb03f316.jpg",
         "bias": 0
+      },
+      {
+        "title": "President Maduro asks Pope Leo XIV to help maintain peace in Venezuela - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ2hvNnhZYzRROWh5bWRYUWw2a21maWphQnRHbTBibFVTc3JnOWhKSWV1eHNERzRvRU1zUUZES3Q0R3dIN1MtREM3N3Y1UWdXeC1zZXNocnJXOGYtbnh5N0NocG9OVUJmTTdhTFpQQjFWWmw4N1Rpcll5TUx0bmNyRVF3TmY3aVlxbE1obzNpSUQzcGtXbnc5ZU1aUXdDM1JmckhZS1oxNXFaUQ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-07T01:13:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Tech": [
@@ -556,28 +655,9 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e73/live/5c336a40-a32b-11f0-b741-177e3e2c2fc7.jpg",
         "bias": 0
-      },
-      {
-        "title": "Canadian PM Carney visits Trump as relations between the longtime allies remain at a low point - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNWRrazJ6am1SeG50bG5LRUJLenFQeGVHZW9KdWctMFVxUDhkNUF0OS1PcXNHWEF5M1hNUzFtWGtfTEpnYmdGNW9tOTRfNnBJVG5Bc1NlQWtnN0xCMzlhOHpIWC1lV1A2YWZibU1nckEzNU1PeXY5M1lrMDRCQ2RCaVo2WjM0MWxwOGVlY0F3cG5UWWIwUGc?oc=5",
-        "description": "",
-        "pubDate": "2025-10-07T04:01:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
-    "Science": [
-      {
-        "title": "Renewables overtake coal as world's biggest source of electricity",
-        "link": "https://www.bbc.com/news/articles/cx2rz08en2po?at_medium=RSS&at_campaign=rss",
-        "description": "Developing countries lead the historic clean energy charge but the US and EU rely more on fossil fuels than before, a think tank study shows.",
-        "pubDate": "2025-10-07T00:02:03Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43c1/live/9d78fac0-a2e4-11f0-ba2e-7d74c4f6f1cb.jpg",
-        "bias": 0
-      }
-    ],
+    "Science": [],
     "Business": [
       {
         "title": "Vape tax plan confirmed in budget",
