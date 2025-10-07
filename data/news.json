@@ -1,9 +1,18 @@
 {
-  "lastUpdate": "2025-10-07T23:18:31.117828Z",
+  "lastUpdate": "2025-10-07T23:30:02.384768Z",
   "news": {
     "Gaming": [
       {
-        "title": "poppy playtime silly billy [Free] [Windows]",
+        "title": "Tower Trials Web [Free]",
+        "link": "https://coctaviano.itch.io/tower-trials-web",
+        "description": "",
+        "pubDate": "2025-10-07T23:21:33Z",
+        "source": "coctaviano.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNTA5MTQ2LnBuZw==/315x250%23c/n%2B9pOf.png",
+        "bias": 0
+      },
+      {
+        "title": "poppy playtime silly billy [Free]",
         "link": "https://vrguy77.itch.io/poppy-playtime-silly-billy",
         "description": "",
         "pubDate": "2025-10-07T23:12:07Z",
@@ -72,6 +81,15 @@
         "pubDate": "2025-10-07T22:35:09Z",
         "source": "meikty-studios-09.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNTA5MDU4LnBuZw==/315x250%23c/nOjQGp.png",
+        "bias": 0
+      },
+      {
+        "title": "Pong! New modes [Free] [Windows]",
+        "link": "https://rick-fuzi.itch.io/pong-new-modes",
+        "description": "Jogo feito com o curso NoNeClass",
+        "pubDate": "2025-10-07T22:25:17Z",
+        "source": "rick-fuzi.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNTA4NjY3LnBuZw==/315x250%23c/Z5m8%2BY.png",
         "bias": 0
       },
       {
@@ -147,15 +165,6 @@
         "bias": 0
       },
       {
-        "title": "Infinite Drive [Free] [Racing] [Windows]",
-        "link": "https://devscreen.itch.io/infinite-drive",
-        "description": "A physics-based car project built with Godot 4.",
-        "pubDate": "2025-10-07T21:53:51Z",
-        "source": "devscreen.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNTA4MzM2LnBuZw==/315x250%23c/Jldfko.png",
-        "bias": 0
-      },
-      {
         "title": "Rooms: Remastered [Free]",
         "link": "https://jreyes4127.itch.io/rooms-remastered",
         "description": "Rooms but in turbowarp",
@@ -219,15 +228,6 @@
         "bias": 0
       },
       {
-        "title": "Incredibox polobox simulator [Free] [Rhythm]",
-        "link": "https://marioman9260.itch.io/incredibox-polobox-simulator",
-        "description": "a soundbox and a incredibox game",
-        "pubDate": "2025-10-07T21:38:34Z",
-        "source": "marioman9260.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNTA3OTkwLnBuZw==/315x250%23c/usd37k.png",
-        "bias": 0
-      },
-      {
         "title": "Incredible Game 770 Congregation But Brock´s World [Free]",
         "link": "https://brockjf-321.itch.io/incredible-game-770-congregation-but-brocks-world",
         "description": "",
@@ -252,15 +252,6 @@
         "pubDate": "2025-10-07T19:54:52Z",
         "source": "rep3du.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNTA4NzMyLnBuZw==/315x250%23c/q34rW%2F.png",
-        "bias": 0
-      },
-      {
-        "title": "Duplicata [Free] [Puzzle] [Windows] [Linux]",
-        "link": "https://nuiresias.itch.io/duplicata",
-        "description": "Cloning yourself in a puzzle game can be usefull, but another body may come with restrictions.",
-        "pubDate": "2025-10-07T19:34:11Z",
-        "source": "nuiresias.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNTA2NDM2LnBuZw==/315x250%23c/vE%2BaUg.png",
         "bias": 0
       },
       {
@@ -293,6 +284,33 @@
     ],
     "World": [
       {
+        "title": "How to fix France’s deepening political crisis?",
+        "link": "https://www.aljazeera.com/video/inside-story/2025/10/7/how-to-fix-frances-deepening-political-crisis?traffic_source=rss",
+        "description": "President Emmanuel Macron under pressure as parliamentary paralysis persists.",
+        "pubDate": "2025-10-07T22:58:47Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "US National Guard troops arrive in Illinois as Trump escalates crackdown",
+        "link": "https://www.aljazeera.com/news/2025/10/7/us-national-guard-troops-arrive-in-illinois-as-trump-escalates-crackdown?traffic_source=rss",
+        "description": "Troops arrive despite active legal challenges from Chicago and the state of Illinois in the courts.",
+        "pubDate": "2025-10-07T22:56:37Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Ecuadorean President Daniel Noboa unharmed after attack on his car",
+        "link": "https://www.aljazeera.com/news/2025/10/7/ecuadorean-president-daniel-noboa-unharmed-after-attack-on-his-car?traffic_source=rss",
+        "description": "A minister claimed the attack was an assassination attempt, but protesters said they were targeted with violence, too.",
+        "pubDate": "2025-10-07T22:56:20Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "‘Not a punchline’: 15 dehumanising quotes on Gaza atrocities by US figures",
         "link": "https://www.aljazeera.com/news/2025/10/7/not-a-punchline-15-dehumanising-quotes-on-gaza-atrocities-by-us-figures?traffic_source=rss",
         "description": "Van Jones apologises for joke about dead Palestinian babies, but not alone when it comes to insensitive remarks on Gaza.",
@@ -324,6 +342,15 @@
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNWRrazJ6am1SeG50bG5LRUJLenFQeGVHZW9KdWctMFVxUDhkNUF0OS1PcXNHWEF5M1hNUzFtWGtfTEpnYmdGNW9tOTRfNnBJVG5Bc1NlQWtnN0xCMzlhOHpIWC1lV1A2YWZibU1nckEzNU1PeXY5M1lrMDRCQ2RCaVo2WjM0MWxwOGVlY0F3cG5UWWIwUGc?oc=5",
         "description": "",
         "pubDate": "2025-10-07T22:06:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Pro-Palestinian protests on the 2-year anniversary of Hamas’ attack on Israel - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcDlIX1RHWGRac2F3QlFuNXBnYUlLb2M1c1NTZlcxRUtuUWMzVmU2OFNPbUFwUFk4TWdmZkVubzh6bHhYTFJpeThjVnJZaEVDcnRJUjJzUlA1YXhWMnVpUWZiOU5ISW5FeHlSQmMtWVFDNUNHUThqbUtWdVhTRGxqRTMwZmFKTTBNalQ2Vk1FTnBpb0dpUWd5QjJ0UGRCN1R4SDRkdnU2RVoyY0NDQkVkRHBWNFZtbnBC?oc=5",
+        "description": "",
+        "pubDate": "2025-10-07T22:00:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -536,15 +563,6 @@
         "bias": 0
       },
       {
-        "title": "Pro-Palestinian protests on the 2-year anniversary of Hamas’ attack on Israel - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcDlIX1RHWGRac2F3QlFuNXBnYUlLb2M1c1NTZlcxRUtuUWMzVmU2OFNPbUFwUFk4TWdmZkVubzh6bHhYTFJpeThjVnJZaEVDcnRJUjJzUlA1YXhWMnVpUWZiOU5ISW5FeHlSQmMtWVFDNUNHUThqbUtWdVhTRGxqRTMwZmFKTTBNalQ2Vk1FTnBpb0dpUWd5QjJ0UGRCN1R4SDRkdnU2RVoyY0NDQkVkRHBWNFZtbnBC?oc=5",
-        "description": "",
-        "pubDate": "2025-10-07T19:01:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "US activist from Gaza flotilla alleges ‘psychological torture’ by Israel",
         "link": "https://www.aljazeera.com/news/2025/10/7/us-activist-from-gaza-flotilla-alleges-psychological-torture-by-israel?traffic_source=rss",
         "description": "David Adler says Sumud Flotilla activists were 'kidnapped, stripped, zip-tied, blindfolded' and sent to prison camp.",
@@ -662,6 +680,15 @@
         "bias": -1
       },
       {
+        "title": "Here are the 3 fashion trends that ruled spring runways - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaFRhYVR3N24wZHpSeHZOME5NZmpCcHFTcW11UU52Uy1ORTczY3hrbDRIZFVBVXc1dUM1RG5NcWs5MkF4NW5qY2NmZUdyWUxQTFVMSDItSzludUNaM0hPRXJOdUxYVlByM3lCMF9DZlRWU1ozRmRjZ3hSR1FSVkUya3BCOUxuWTZSVVBObWNR?oc=5",
+        "description": "",
+        "pubDate": "2025-10-07T16:55:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Photos of October’s supermoon: A stunning start to a trio of celestial events - AP News",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVDZUZnA4SWE5UHlOZkVEWFJUdHdFWW9HUnZjSEI0cS1KWVVVbF9odkprX0treExkdFo5QXlGd1UtRzhlaW5HRDRaMnN1N1pucDBaVFdhWUpIQ1BDOVlBc21lUzhQVlhGbGRuLVpHbGlhSjg0eTVrWlpyMVBHWEdzT0JLRFVvdVJRYkZlUmpGOXAxOV8zRHVoTlptaw?oc=5",
         "description": "",
@@ -702,42 +729,6 @@
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTzdpWE1LYnhYaU40amhoVlVMczhTQ0VHcXo2S0tkYnM1cU1ZQkE5dktkdGNlOTRUZmpqOUNDUTRydEEwMzZ5Y1ZGdEdORmF3UWx0MS1ua1lzUWhpY1lDRlE0ZUw2S0x6cXZGOEV4N05aSDRyMUpRRlZMRThtendvQ1hfclJxX0lIOWNMVE9QN0gxNTZmMXJ6Slh3ZFE?oc=5",
         "description": "",
         "pubDate": "2025-10-07T16:07:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Ceasefire declared between Syrian forces, Kurdish fighters after one killed",
-        "link": "https://www.aljazeera.com/news/2025/10/7/ceasefire-declared-between-syrian-forces-kurdish-fighters-after-one-killed?traffic_source=rss",
-        "description": "A landmark deal to integrate the SDF with state institutions has stalled as both sides accuse each other of violence.",
-        "pubDate": "2025-10-07T16:06:00Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Julia Roberts, Andrew Garfield and Ayo Edebiri on sex, lies and academics in ‘After the Hunt’ - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcHJxeno3T1RmVkdCbFhJOW91SC1iNmRHMm1Uamc5aGdTWUJoMzc5b1E5dDBmX3NFM2lUZlZEdDdyT0pad0dkeE5CRTY3NjN6b1Vrd3huWXVRR1BLRmxLMm4yRklmdFd2RHJ2cTA5Y0VFTFJSU0NyUC1iaHJtNzFXNDFwaDBTazlWQVRXSFFyM1lhcjJqNExMbGFyVjY0a0dEMlowMW53NTgtQQ?oc=5",
-        "description": "",
-        "pubDate": "2025-10-07T16:01:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Time may be running out for Master of clocks Macron: What next for France?",
-        "link": "https://www.bbc.com/news/articles/c0kn04453z8o?at_medium=RSS&at_campaign=rss",
-        "description": "After eight years in office, Emmanuel Macron's position as president is coming under increasing pressure as France's political crisis escalates.",
-        "pubDate": "2025-10-07T15:56:00Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbf/live/d73f4a40-a391-11f0-928c-71dbb8619e94.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Syrian government declares ceasefire after clashes with Kurdish fighters - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONDVmN240UGExY1VMbEIzbThiTURkOEtLRThPdHM5bWk4bjlpNjMyWVFPVUFVaVl1T1c0UVp3Um1yU2R1OXFWajVDNnRfNkpXcERPMXRHRjhDcDh0Y0s3Nmp0Mi01Vm53aXN1VEpFbGNNcmRNaHpIdmZib0VMNjc5MjNBQ3VodF8tZ25IRzBMVElmbmR4ek1iZ0ZrcGtvWk1m?oc=5",
-        "description": "",
-        "pubDate": "2025-10-07T15:55:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -812,15 +803,6 @@
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNGdZcUpYTUZjaUxCR0JGZzk4b2tIaHUxYWRQOGtTNE5nR0RrYVdNcUc2UThqdHFGaVZOeFY0X1ZHaWw1MUVVc1Y0N1FiY25OdDkyS1ZJdjE3Yk0tRlhRNzYyelJyRDd4V0h6bHFNSkJuLXZiZzRjd1ZnSk1BazdPWkpqeTVYT1JVUkVYZm81SGlzSDZ3cDA2R2hqSmxDcnRBLTVJQ0VoOW9VRnNmOVM5MjZzVlk?oc=5",
         "description": "",
         "pubDate": "2025-10-07T20:29:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Donald Trump - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
-        "description": "",
-        "pubDate": "2025-10-07T20:24:48Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -979,6 +961,15 @@
         "bias": -1
       },
       {
+        "title": "A tribe in Arizona planned to connect 600 homes to electricity. Then the funding was cut",
+        "link": "https://www.npr.org/2025/10/07/nx-s1-5453913/trump-hopi-tribes-native-americans-clean-energy",
+        "description": "The Hopi Tribe received a multimillion-dollar federal grant to install solar panels and battery storage systems for hundreds of homes. But the Trump administration has canceled the funding.",
+        "pubDate": "2025-10-07T09:00:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Trump's power to deploy National Guard, explained",
         "link": "https://www.npr.org/2025/10/07/nx-s1-5564010/national-guard-deployments-powers-trump",
         "description": "President Trump is bucking tradition and legal precedent in pushing to deploy the National Guard to Democratic-led cities like Portland, Ore., and Chicago due to what he says is rampant crime and to support his crackdown on illegal immigration.",
@@ -991,15 +982,6 @@
         "title": "Why some federal workers aren't scared by the threat of shutdown layoffs",
         "link": "https://www.npr.org/2025/10/07/nx-s1-5563872/government-shutdown-federal-workers-layoffs-rifs",
         "description": "Some federal workers support the government shutdown, even as President Trump threatens to use this moment to lay off employees and cut funding to programs.",
-        "pubDate": "2025-10-07T09:00:00Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Democrats press Bondi over concerns DOJ is being weaponized to target Trump's foes",
-        "link": "https://www.npr.org/2025/10/07/nx-s1-5563934/bondi-senate-judiciary-committee-testify",
-        "description": "Bondi defended her work as attorney general, rejecting allegations that DOJ investigations and prosecutions, including the recent indictment of former FBI Director James Comey, are driven by politics.",
         "pubDate": "2025-10-07T09:00:00Z",
         "source": "npr.org",
         "image": "",
@@ -1053,10 +1035,10 @@
         "bias": 0
       },
       {
-        "title": "Here are the 3 fashion trends that ruled spring runways - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaFRhYVR3N24wZHpSeHZOME5NZmpCcHFTcW11UU52Uy1ORTczY3hrbDRIZFVBVXc1dUM1RG5NcWs5MkF4NW5qY2NmZUdyWUxQTFVMSDItSzludUNaM0hPRXJOdUxYVlByM3lCMF9DZlRWU1ozRmRjZ3hSR1FSVkUya3BCOUxuWTZSVVBObWNR?oc=5",
+        "title": "Buildings are turning to ‘ice batteries’ for sustainable air conditioning - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOEpVYUhQZUIzTk9UWlV3RTIwYlFYbHNCeXN0a2Q0N2JzUFdWNm8xQ082djlqQ254Ylh1dE5VOGRSaWpWRlpzWEY2UFc0MmpYaWRjOUpQMGJpVzdLRDZzMlBBa3pxMWtPM1VpdUpnOE81N2JwTzBaWTJTVjdpTXBDZkgxVGRoWmZoQ25lT19heEQ1RU9hWlNkcW1xUTAzRldTaW44X3lB?oc=5",
         "description": "",
-        "pubDate": "2025-10-07T16:55:00Z",
+        "pubDate": "2025-10-07T15:33:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1093,6 +1075,15 @@
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZXVLa2k4UW1MVGFfbnVLeWVMZy1oRU5GTlZ6V215d2VRdlZsbk1CYzd5VU5TWXpCSEhydjRiX05jdGxxTWlRZUFmb0NCWHJZdTdnUjZydFZTam1NYzZhaGRwT2UxVk5FWTJfanhENzZrMVJVcFQ1NXVsN3FldWZmMmkwZVJ3MGp5OUx0b0M3Y3A1bm8wZGpNb2FkTDBmMUtJTUdZ?oc=5",
         "description": "",
         "pubDate": "2025-10-07T11:49:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Slovak leader announces a deal with US on a new nuclear reactor - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU1Uxa1g3M2FXc2ExWWZuRE1hRXVHZGN2UHczdDN0V1FZaGJqVGdvN3UwQ1J6dlNUSU1xVi1hcDJzeGNjWmJfVHVUQVBnZWtWNGFWVTdlNjRHSE13ZWthRjA1NnF3bnBwX3RGS0IyY3FBem5QM2xzTjhXYnhfTzl5bkd6d1ZFSXVLTVVXZUtVeFhFVTU5NHVORzhMLXpRc0lJTlE?oc=5",
+        "description": "",
+        "pubDate": "2025-10-07T11:33:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1176,15 +1167,6 @@
         "link": "https://www.npr.org/2025/10/07/g-s1-92351/nobel-prize-physics-quantum-mechanical-tunneling-clarke-devoret-martinis",
         "description": "The Nobel committee said that the laureates' work provides opportunities to develop \"the next generation of quantum technology, including quantum cryptography, quantum computers, and quantum sensors.\"",
         "pubDate": "2025-10-07T10:17:37Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "A tribe in Arizona planned to connect 600 homes to electricity. Then the funding was cut",
-        "link": "https://www.npr.org/2025/10/07/nx-s1-5453913/trump-hopi-tribes-native-americans-clean-energy",
-        "description": "The Hopi Tribe received a multimillion-dollar federal grant to install solar panels and battery storage systems for hundreds of homes. But the Trump administration has canceled the funding.",
-        "pubDate": "2025-10-07T09:00:00Z",
         "source": "npr.org",
         "image": "",
         "bias": -1
