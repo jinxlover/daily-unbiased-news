@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-10-07T10:55:19.276791Z",
+  "lastUpdate": "2025-10-07T11:15:59.690722Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Wild Dogs [Free] [Adventure] [Windows] [macOS]",
+        "link": "https://murray64.itch.io/wild-dogs",
+        "description": "",
+        "pubDate": "2025-10-07T10:38:48Z",
+        "source": "murray64.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNTAwMjc5LnBuZw==/315x250%23c/9nMOuT.png",
+        "bias": 0
+      },
       {
         "title": "Servida Crua [Free] [Other] [Windows]",
         "link": "https://11souls.itch.io/servida-crua",
@@ -18,6 +27,15 @@
         "pubDate": "2025-10-07T10:26:06Z",
         "source": "tkking.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNTAwMTgxLnBuZw==/315x250%23c/CEjo7V.png",
+        "bias": 0
+      },
+      {
+        "title": "Pick your poison! [Free] [Other] [Windows]",
+        "link": "https://g0bletg0blin.itch.io/pick-your-poison",
+        "description": "​Help your bird make it to the end of the level by avoiding the poison goo",
+        "pubDate": "2025-10-07T10:22:10Z",
+        "source": "g0bletg0blin.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNTAwNTA4LnBuZw==/315x250%23c/A7cMVE.png",
         "bias": 0
       },
       {
@@ -183,39 +201,12 @@
         "bias": 0
       },
       {
-        "title": "Mushroom Collector [Free] [Adventure]",
-        "link": "https://dazi77.itch.io/mushroom-collector",
-        "description": "The mushroom-picking season will never end",
-        "pubDate": "2025-10-07T08:19:42Z",
-        "source": "dazi77.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNDk5MjM3LnBuZw==/315x250%23c/aII5QI.png",
-        "bias": 0
-      },
-      {
         "title": "Smart City Dortmund [Free] [Adventure] [Windows]",
         "link": "https://smartcitydortmund.itch.io/smart-city-dortmund",
         "description": "Klassisches Point & Click Adventure",
         "pubDate": "2025-10-07T07:54:50Z",
         "source": "smartcitydortmund.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNDk5NzYxLnBuZw==/315x250%23c/P4xKDu.png",
-        "bias": 0
-      },
-      {
-        "title": "Pink 2048 [Free] [Puzzle] [Windows]",
-        "link": "https://ssarrayya.itch.io/pink-2048",
-        "description": "Very accessible 2048 clone!",
-        "pubDate": "2025-10-07T07:53:58Z",
-        "source": "ssarrayya.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNTAwMTcyLnBuZw==/315x250%23c/s7qUxO.png",
-        "bias": 0
-      },
-      {
-        "title": "Voxel-world_HTML [Free] [Other]",
-        "link": "https://sleepyprogrammer1012.itch.io/voxel-world-html",
-        "description": "",
-        "pubDate": "2025-10-07T07:43:52Z",
-        "source": "sleepyprogrammer1012.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNDk5MDkwLnBuZw==/315x250%23c/PEPOCO.png",
         "bias": 0
       },
       {
@@ -229,6 +220,33 @@
       }
     ],
     "World": [
+      {
+        "title": "Farah and Myriam: Childhood Under Siege in Gaza",
+        "link": "https://www.aljazeera.com/video/digidocs/2025/10/7/aje-onl-farahandmyriam_digidocs-071025?traffic_source=rss",
+        "description": "Two years on, Gaza’s children still bear the scars of war — Farah fears the night, Myriam survived the rubble.",
+        "pubDate": "2025-10-07T10:49:44Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "The second year of genocide was different",
+        "link": "https://www.aljazeera.com/opinions/2025/10/7/the-second-year-of-genocide-was-different?traffic_source=rss",
+        "description": "In the second year of the genocide, the Israelis got creative with new methods of mass murder and torture.",
+        "pubDate": "2025-10-07T10:49:15Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "French lawmaker “beaten” by Israeli police",
+        "link": "https://www.aljazeera.com/video/quotable/2025/10/7/aje-onl-qt-rima-hasan-100625?traffic_source=rss",
+        "description": "“I was beaten by two police officers as I was being put into the van.”",
+        "pubDate": "2025-10-07T10:34:17Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Canadian PM Carney visits Trump as relations between the longtime allies sit at a low point - AP News",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNWRrazJ6am1SeG50bG5LRUJLenFQeGVHZW9KdWctMFVxUDhkNUF0OS1PcXNHWEF5M1hNUzFtWGtfTEpnYmdGNW9tOTRfNnBJVG5Bc1NlQWtnN0xCMzlhOHpIWC1lV1A2YWZibU1nckEzNU1PeXY5M1lrMDRCQ2RCaVo2WjM0MWxwOGVlY0F3cG5UWWIwUGc?oc=5",
@@ -257,6 +275,15 @@
         "bias": -1
       },
       {
+        "title": "Motorists lift medical helicopter to rescue woman after crash injuring 3 on Sacramento highway - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUFBPeUFCWVNIbXNoWFZpTzBESEZOQ2NPSzBndG85bHZtZkVjTkxLbVpuY0o4MkYzMWk3blpGLV9iN2VnZXdyZDd5aU5XbHN0U29WUm1rYTI4Y2ZSTkYwc3hIVzZlUW5BWW1CYkNrMGU5ckxITzluSWhIbXNRb1d5S3c0UWxGSGI1QVlBdWdnWmpkMkxqZU54dmZpakVEUXc?oc=5",
+        "description": "",
+        "pubDate": "2025-10-07T10:09:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Al Jazeera reporter reflects on two years of war in Gaza",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/10/7/al-jazeera-reporter-reflects-on-two-years-of-war-in-gaza?traffic_source=rss",
         "description": "Al Jazeera’s Ibrahim al-Khalili reflects on the two years since Israel’s war on Gaza began.",
@@ -275,9 +302,9 @@
         "bias": -1
       },
       {
-        "title": "Nobel Prize for Physics awarded for quantum mechanic tunnelling",
+        "title": "Nobel Prize for Physics awarded to trio for quantum mechanics discoveries",
         "link": "https://www.aljazeera.com/news/2025/10/7/nobel-prize-for-physics-awarded-for-quantum-mechanic-tunnelling?traffic_source=rss",
-        "description": "This year's winners of the prize, John Clarke, Michel H. Devoret, and John M. Martinis, are based in the United States.",
+        "description": "Prize awarded for \"discovery of macroscopic quantum mechanical tunnelling, energy quantisation in an electric circuit\".",
         "pubDate": "2025-10-07T09:52:47Z",
         "source": "aljazeera.com",
         "image": "",
@@ -617,15 +644,6 @@
         "bias": -1
       },
       {
-        "title": "Why is the US military is being deployed in US cities?",
-        "link": "https://www.aljazeera.com/video/project-force-2/2025/10/7/why-is-the-us-military-is-being-deployed-in-us-cities?traffic_source=rss",
-        "description": "Al Jazeera's @AlexGatopoulos asks why the focus of the US military appears to be turning inward",
-        "pubDate": "2025-10-07T04:32:20Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "At the center of shutdown fight, health care is one of the most intractable issues in Congress - AP News",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQVVnUElNbFE5R2dCMjFBdHRrMmNoSFlOMlZxWXNSMkR2UjN6TlZoYWF6ZGN4SjlLYkM3ZGVhSnpDS1N4Vzc1Q3FNSVdWYXB3RWNuSVFvVThRWEk0dlNDUTRGalUxRFFaa2p1elBFXzdQVkp1YUxQclM5VmE0Zi1WTlRUY1pBNUZXQlVlVG1KSjlBT0JDTGU5ZkxLcnFqWDFYSWhWNmIybHEtcWhYcXc?oc=5",
         "description": "",
@@ -651,36 +669,18 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Phillies' high-priced stars Harper, Schwarber, Turner flop in NLDS and face elimination in Game 3 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUEhTUFR4Q1FtN1FHNy0yQk45XzNwNTBFQ0JUWkswTzRndlBWRkJtUmJrZHlvM1dDWnJPSFRpeWNJaTE2R2VERkZWM1NJbGswSFk4U2kwdllQR29rQXQ0Z1hVODR6SHdyc1l3OTI0ZWd1SEtNdWdWYUNlUDlYVDdFZUQ0NGlFOFRhQnJLbFZkMVlDa0dnLUV5bE9IbVp1Zkd2RWM1RkFiQUtjUQ?oc=5",
-        "description": "",
-        "pubDate": "2025-10-07T04:02:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "US has given at least $21.7 billion in military aid to Israel since war in Gaza began, report says - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbWk2WXZGRlM2cXpJM1otcTFxSkkwb2E5SWFkNWdpb2ppSVBhZkM2ck5FUE14VjcyX1NwQk1BX24tVDg4bFFQUENyaUNjRktLdi1oOU5HekgzN0lqTmF5d0tRcWFERWhIaHlLN0dpbWVoQ0U3cUdpMjI1Q2l0MHhGOFRfNzdOWTFFcHBEWjQ5WldQUQ?oc=5",
-        "description": "",
-        "pubDate": "2025-10-07T04:02:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "The woman poised to be Japan’s first female prime minister faces challenges - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdEFjdnMwQnkyeUw2SWlmbjNjYzZnZ05NUHJvaTVmYlJuY3JwMjI3V0hMVFZaZi1SNWFWY0Z1aWJDcVlzOWRDZ2JMemlhQTN0czBENDE2Q04tUkJxNThoNHkzQXFDSFNYbHVFWXVEeE5rU3dhUzBjQndlRG5EdnVKRzBadFlldVZQaGQtQmQyWEtFQ3VL?oc=5",
-        "description": "",
-        "pubDate": "2025-10-07T03:46:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "PM urges students not to join pro-Palestinian protests on 7 October",
+        "link": "https://www.bbc.com/news/articles/c1wgx5v90vyo?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister says it is \"un-British\" to hold pro-Palestinian protests on the second anniversary of Hamas's attacks on Israel.",
+        "pubDate": "2025-10-07T10:53:23Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d63/live/3a892d20-a313-11f0-92db-77261a15b9d2.jpg",
+        "bias": 0
+      },
       {
         "title": "New Hampshire Sen. Jeanne Shaheen on where negotiations to end the shutdown stand",
         "link": "https://www.npr.org/2025/10/07/nx-s1-5563893/new-hampshire-sen-jeanne-shaheen-on-where-negotiations-to-end-the-shutdown-stand",
@@ -697,15 +697,6 @@
         "pubDate": "2025-10-07T10:35:21Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62b7/live/292dd080-a368-11f0-b741-177e3e2c2fc7.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Motorists lift medical helicopter to rescue woman after crash injuring 3 on Sacramento highway - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUFBPeUFCWVNIbXNoWFZpTzBESEZOQ2NPSzBndG85bHZtZkVjTkxLbVpuY0o4MkYzMWk3blpGLV9iN2VnZXdyZDd5aU5XbHN0U29WUm1rYTI4Y2ZSTkYwc3hIVzZlUW5BWW1CYkNrMGU5ckxITzluSWhIbXNRb1d5S3c0UWxGSGI1QVlBdWdnWmpkMkxqZU54dmZpakVEUXc?oc=5",
-        "description": "",
-        "pubDate": "2025-10-07T10:09:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -736,18 +727,18 @@
         "bias": -1
       },
       {
-        "title": "A tribe in Arizona planned to connect 600 homes to electricity. Then the funding was cut",
-        "link": "https://www.npr.org/2025/10/07/nx-s1-5453913/trump-hopi-tribes-native-americans-clean-energy",
-        "description": "The Hopi Tribe received a multimillion-dollar federal grant to install solar panels and battery storage systems for hundreds of homes. But the Trump administration has canceled the funding.",
+        "title": "Bondi set to give testimony to Congress at first hearing since Comey indictment",
+        "link": "https://www.npr.org/2025/10/07/nx-s1-5563934/bondi-senate-judiciary-committee-testify",
+        "description": "Attorney General Pam Bondi is set to testify before a Senate panel Tuesday amid mounting concerns that the DOJ under her leadership is being weaponized to go after President Trump's perceived enemies.",
         "pubDate": "2025-10-07T09:00:00Z",
         "source": "npr.org",
         "image": "",
         "bias": -1
       },
       {
-        "title": "Bondi set to give testimony to Congress at first hearing since Comey indictment",
-        "link": "https://www.npr.org/2025/10/07/nx-s1-5563934/bondi-senate-judiciary-committee-testify",
-        "description": "Attorney General Pam Bondi is set to testify before a Senate panel Tuesday amid mounting concerns that the DOJ under her leadership is being weaponized to go after President Trump's perceived enemies.",
+        "title": "A tribe in Arizona planned to connect 600 homes to electricity. Then the funding was cut",
+        "link": "https://www.npr.org/2025/10/07/nx-s1-5453913/trump-hopi-tribes-native-americans-clean-energy",
+        "description": "The Hopi Tribe received a multimillion-dollar federal grant to install solar panels and battery storage systems for hundreds of homes. But the Trump administration has canceled the funding.",
         "pubDate": "2025-10-07T09:00:00Z",
         "source": "npr.org",
         "image": "",
@@ -808,15 +799,6 @@
         "bias": 0
       },
       {
-        "title": "Starmer urges students not to protest on 7 October",
-        "link": "https://www.bbc.com/news/articles/c1wgx5v90vyo?at_medium=RSS&at_campaign=rss",
-        "description": "The prime minister says it is \"un-British\" to hold pro-Palestinian protests on the second anniversary of Hamas's attacks on Israel.",
-        "pubDate": "2025-10-07T07:06:37Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d63/live/3a892d20-a313-11f0-92db-77261a15b9d2.jpg",
-        "bias": 0
-      },
-      {
         "title": "Social Security administrator is named to the newly created position of IRS CEO",
         "link": "https://www.npr.org/2025/10/07/nx-s1-5564547/social-security-irs-ceo-frank-bisignano",
         "description": "Social Security Administration Commissioner Frank Bisignano was named to the newly created position of CEO of the IRS on Monday, making him the latest member of the Trump administration to be put in charge of multiple federal agencies.",
@@ -830,6 +812,15 @@
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU3FIRjJTRmlWOV9NcUNhS1oyajJVYUxkLXQ4bkhIWmRnU29WdVY2OFVFNnNOMVZUeGJmVTZ1ZUg4ZVRoM0s4V1M5NzVmRDFOMTlTS2xIcXZDZHNxZC1EUnNWVFBET21tWmJTcTZMektFeGFKNndsa0tBRVZNc08xeXNTZEVVd1NrQWw1U2dfRXZlMmVTSnNKR0JDV0RpZWlmQUpJRVhNbnBQeE5MRmF6VQ?oc=5",
         "description": "",
         "pubDate": "2025-10-07T05:13:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Phillies' high-priced stars Harper, Schwarber, Turner flop in NLDS and face elimination in Game 3 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUEhTUFR4Q1FtN1FHNy0yQk45XzNwNTBFQ0JUWkswTzRndlBWRkJtUmJrZHlvM1dDWnJPSFRpeWNJaTE2R2VERkZWM1NJbGswSFk4U2kwdllQR29rQXQ0Z1hVODR6SHdyc1l3OTI0ZWd1SEtNdWdWYUNlUDlYVDdFZUQ0NGlFOFRhQnJLbFZkMVlDa0dnLUV5bE9IbVp1Zkd2RWM1RkFiQUtjUQ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-07T04:02:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -871,19 +862,10 @@
         "bias": 0
       },
       {
-        "title": "Photos of October’s supermoon: A stunning start to a trio of celestial events - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVDZUZnA4SWE5UHlOZkVEWFJUdHdFWW9HUnZjSEI0cS1KWVVVbF9odkprX0treExkdFo5QXlGd1UtRzhlaW5HRDRaMnN1N1pucDBaVFdhWUpIQ1BDOVlBc21lUzhQVlhGbGRuLVpHbGlhSjg0eTVrWlpyMVBHWEdzT0JLRFVvdVJRYkZlUmpGOXAxOV8zRHVoTlptaw?oc=5",
+        "title": "President Maduro asks Pope Leo XIV to help maintain peace in Venezuela - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ2hvNnhZYzRROWh5bWRYUWw2a21maWphQnRHbTBibFVTc3JnOWhKSWV1eHNERzRvRU1zUUZES3Q0R3dIN1MtREM3N3Y1UWdXeC1zZXNocnJXOGYtbnh5N0NocG9OVUJmTTdhTFpQQjFWWmw4N1Rpcll5TUx0bmNyRVF3TmY3aVlxbE1obzNpSUQzcGtXbnc5ZU1aUXdDM1JmckhZS1oxNXFaUQ?oc=5",
         "description": "",
-        "pubDate": "2025-10-07T02:24:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "US Treasury sanctions Mexican companies accused of aiding Sinaloa cartel's fentanyl production - AP News",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON3psNUpNUUhva3JOajNYZUNlMzhwY0NYa0NTblFTbFdhVlFUNVNUbDIzVjZqemV4dVlfWUlYTjFxTERfa1NnSWhsZmI3cWhKOGFkcGpPUDlUVXZKNDd1TUNCWFdMRjFrY0p6U056QzhVSUN2dGs2eFlvNUY4eDNYTUxVSGZRRTEtVmFIU2trclk4eVFKSlBQcGRLbXVvSlNOelhmSjR2ZU52Q3FVbTNVY2E1RVVYbUtJNm1uZQ?oc=5",
-        "description": "",
-        "pubDate": "2025-10-07T00:31:00Z",
+        "pubDate": "2025-10-07T01:13:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -891,21 +873,21 @@
     ],
     "Tech": [
       {
+        "title": "Hurricane Priscilla lashes western Mexico with heavy rain and strong winds - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNanNHU1lBb05zRkpieXItUldQTURuUTVvWktwczRLTUVyQnZTdFl0aFhSQ1g0VjNfQ1NISHRPd29BcmlYSHN5aXl4c29kZlV4SlpZUHRSdHJmNHlyWEdUNHpzWWFRNExZQ3hMWjNxdlNmUnJON0Z2dDB0aThLUkRqdVoxaUx2VkhNYXNaeXprcGFfMFdnVENwMU9GNGpzZnNqQlFnWg?oc=5",
+        "description": "",
+        "pubDate": "2025-10-07T05:53:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Chinese EV giant BYD sees UK sales soar by 880%",
         "link": "https://www.bbc.com/news/articles/c3w5jl2jgqwo?at_medium=RSS&at_campaign=rss",
         "description": "The Shenzhen-based electric car maker says the UK is now its biggest market outside China.",
         "pubDate": "2025-10-07T05:28:42Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e73/live/5c336a40-a32b-11f0-b741-177e3e2c2fc7.jpg",
-        "bias": 0
-      },
-      {
-        "title": "USDA warns that Hello Fresh meals may contain listeria-tainted spinach - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYWg4VDUtWFpEdzV5cm51emtrM3ZuUG81ZUdmUlpkR042a0xUcDVqLWUyNUhYVVpNNHBQSVZISUJrNjFLMktEWlF6Zk9kQ19KRGxiWTJ6RGtMUXR1TjBEUzRBQlVkLVFSUW1IWTJYSHhWcnh3OEVtTHU5QTNwckZtUkY0NUNrRXBzNDNCVXM2eHZOWUJmOVd2SnFQMldPelZoc0pUejA0TXU?oc=5",
-        "description": "",
-        "pubDate": "2025-10-07T03:34:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -945,15 +927,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Hurricane Priscilla lashes western Mexico with heavy rain and strong winds - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNanNHU1lBb05zRkpieXItUldQTURuUTVvWktwczRLTUVyQnZTdFl0aFhSQ1g0VjNfQ1NISHRPd29BcmlYSHN5aXl4c29kZlV4SlpZUHRSdHJmNHlyWEdUNHpzWWFRNExZQ3hMWjNxdlNmUnJON0Z2dDB0aThLUkRqdVoxaUx2VkhNYXNaeXprcGFfMFdnVENwMU9GNGpzZnNqQlFnWg?oc=5",
-        "description": "",
-        "pubDate": "2025-10-07T05:53:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Business": [
@@ -1000,6 +973,15 @@
         "pubDate": "2025-10-07T05:06:38Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8ac/live/962d3060-9ef7-11f0-a82b-45d169b94896.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Jaguars without starting DE Travon Walker for MNF. Chiefs WR Xavier Worthy available - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOVNFX2NNSTdMWlQ5bkhRM0JLRW8yejJTTUtRdXZ0MW5yaG5YVHdsaVl4bU5nTHd0WU8yUHRSdFpwems2eTJUVk5pa044S2JiZ2RTVTIwSzc2MldYZGxGbFF5SnFSbkVXdUY5Wk9MYkgzdkw3Wi1PUk5kWmJDbXNFZGljeHVhOFhVU2Z4Tw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-07T00:11:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       }
     ],
