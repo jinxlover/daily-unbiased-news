@@ -1,9 +1,18 @@
 {
-  "lastUpdate": "2025-10-08T16:25:59.186422Z",
+  "lastUpdate": "2025-10-08T16:46:25.938133Z",
   "news": {
     "Gaming": [
       {
-        "title": "Crossing the Crevice [Free] [Adventure] [Windows] [macOS]",
+        "title": "christmas run 2 [Free] [Windows]",
+        "link": "https://moomoocowgames.itch.io/christmas-run-2",
+        "description": "",
+        "pubDate": "2025-10-08T16:24:08Z",
+        "source": "moomoocowgames.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNTE5MTI1LnBuZw==/315x250%23c/d2JkrE.png",
+        "bias": 0
+      },
+      {
+        "title": "Crossing the Crevice [Free] [Adventure]",
         "link": "https://yon03.itch.io/crossing-the-crevice",
         "description": "COMP 521 - Assignment 1",
         "pubDate": "2025-10-08T16:08:52Z",
@@ -18,6 +27,15 @@
         "pubDate": "2025-10-08T16:03:14Z",
         "source": "linneab.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNTE4Nzg2LnBuZw==/315x250%23c/OIPw9S.png",
+        "bias": 0
+      },
+      {
+        "title": "Through Your Eyes [Free]",
+        "link": "https://undeveloped-games.itch.io/through-your-eyes",
+        "description": "A short point and click visual novel, from the perspective of a socially-anxious overthinker.",
+        "pubDate": "2025-10-08T16:01:55Z",
+        "source": "undeveloped-games.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNTE4ODUxLnBuZw==/315x250%23c/PiCj5v.png",
         "bias": 0
       },
       {
@@ -174,24 +192,6 @@
         "bias": 0
       },
       {
-        "title": "PerceptronSimples [Free] [Educational]",
-        "link": "https://profjefferson.itch.io/perceptron",
-        "description": "Rede neural 2 2 1",
-        "pubDate": "2025-10-08T14:13:09Z",
-        "source": "profjefferson.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNTE3Mzk2LnBuZw==/315x250%23c/ixBLRC.png",
-        "bias": 0
-      },
-      {
-        "title": "Bascheetteeno [Free] [Sports] [Android]",
-        "link": "https://z3no19.itch.io/bascheetteeno",
-        "description": "giocheeno bascheetteeno",
-        "pubDate": "2025-10-08T14:10:14Z",
-        "source": "z3no19.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNTE3MzcxLnBuZw==/315x250%23c/g6o21%2F.png",
-        "bias": 0
-      },
-      {
         "title": "Climbers [Free] [Platformer]",
         "link": "https://tujamuja.itch.io/climbers",
         "description": "Climb the endles mountain in this 1 v 1 battle for survival!",
@@ -239,6 +239,33 @@
     ],
     "World": [
       {
+        "title": "Comey pleads not guilty as lawyers signal intent to argue the case is politically motivated - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS1ExZTJydXNqZkRnZ3hZdkY2QUFRd2Z4M3puTW93dUpQWm9ucDZMTzc3cnNCMnN0anRsM3BCZnJCbXE5SDZkdkFORktFVm1qbjI4bTJxejJ5NEdCUmlWSWFidVFJVXY4TjlLcWtjT1lndzZRUXV6TGpUQlI0UmdWLUVyRzNpcnpHYzdkbWRCajZZZUJZREJlek1Lb1ZfUDZMOFVjS3Y0NGRiRUFFMkVIV010bm4?oc=5",
+        "description": "",
+        "pubDate": "2025-10-08T16:39:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Crunch moment in French crisis as outgoing PM tries to avert new election",
+        "link": "https://www.bbc.com/news/articles/cj9zkzl21kmo?at_medium=RSS&at_campaign=rss",
+        "description": "Sébastien Lecornu has been given until Wednesday evening to come up with a plan for the \"stability of the country\".",
+        "pubDate": "2025-10-08T16:32:39Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5724/live/0b88b620-a43b-11f0-b741-177e3e2c2fc7.jpg",
+        "bias": 0
+      },
+      {
+        "title": "‘Buckle up’: IMF chief warns of economic uncertainty",
+        "link": "https://www.aljazeera.com/economy/2025/10/8/buckle-up-imf-chief-warns-of-economic-uncertainty?traffic_source=rss",
+        "description": "IMF’s Kristalina Georgieva says 'uncertainty is the new normal' as tariffs weigh on the global economy.",
+        "pubDate": "2025-10-08T16:29:30Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Al Jazeera chief urges better protection for journalists in conflict zones",
         "link": "https://www.aljazeera.com/news/2025/10/8/al-jazeera-chief-urges-better-protection-for-journalists-in-conflict-zones?traffic_source=rss",
         "description": "Al Jazeera Director General Sheikh Nasser bin Faisal Al Thani says 'protecting journalists is protection of the truth.'",
@@ -273,15 +300,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Comey pleads not guilty as lawyers signal intent to argue the case is politically motivated - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS1ExZTJydXNqZkRnZ3hZdkY2QUFRd2Z4M3puTW93dUpQWm9ucDZMTzc3cnNCMnN0anRsM3BCZnJCbXE5SDZkdkFORktFVm1qbjI4bTJxejJ5NEdCUmlWSWFidVFJVXY4TjlLcWtjT1lndzZRUXV6TGpUQlI0UmdWLUVyRzNpcnpHYzdkbWRCajZZZUJZREJlek1Lb1ZfUDZMOFVjS3Y0NGRiRUFFMkVIV010bm4?oc=5",
-        "description": "",
-        "pubDate": "2025-10-08T15:38:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Key US and regional mediators join talks in push to end Gaza war",
@@ -635,15 +653,6 @@
         "bias": 0
       },
       {
-        "title": "Israeli military intercepts another flotilla heading to Gaza and detains scores of activists - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYXBGaVhMczNEUmlyZEhOLXA3NFZubnNULWhka3hpU0Z5MEZoNy1KbmhYT0RPNEpOWnZyMUloRmNiZURocUhPTzdDbWFpenk1Z2c0N20yOW5JUzRrTmpyMzlXQk5QSzFqMm1USlNhajN3eDFvR1htVWFBZGdUa1l6UUplUTd5SWljZHVBTExUc2VCdE01YWhLMkVDYlU5ZmdYano5TXFqYk8?oc=5",
-        "description": "",
-        "pubDate": "2025-10-08T12:24:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Regional powers signal objection to US reclaiming Afghanistan’s Bagram base",
         "link": "https://www.aljazeera.com/news/2025/10/8/regional-powers-signal-objection-to-us-reclaiming-afghanistans-bagram-base?traffic_source=rss",
         "description": "A forum of regional countries, including India, voiced opposition to any foreign military infrastructure in Afghanistan.",
@@ -659,15 +668,6 @@
         "pubDate": "2025-10-08T12:15:20Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34ee/live/88e540b0-a450-11f0-92db-77261a15b9d2.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Crunch moment in French crisis as outgoing PM tries to avert new election",
-        "link": "https://www.bbc.com/news/articles/cj9zkzl21kmo?at_medium=RSS&at_campaign=rss",
-        "description": "Sébastien Lecornu has been given until Wednesday evening to come up with a plan for the \"stability of the country\".",
-        "pubDate": "2025-10-08T12:04:43Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5724/live/0b88b620-a43b-11f0-b741-177e3e2c2fc7.jpg",
         "bias": 0
       },
       {
@@ -690,6 +690,15 @@
       }
     ],
     "Politics": [
+      {
+        "title": "Why gold is having its best year since 1979",
+        "link": "https://www.npr.org/2025/10/08/nx-s1-5566666/gold-hits-record-best-year-1979",
+        "description": "The price of gold hit $4,000 per ounce for the first time ever. It's a bad sign for the U.S. economy",
+        "pubDate": "2025-10-08T16:41:10Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Conservatives would scrap stamp duty, Badenoch announces",
         "link": "https://www.bbc.com/news/articles/c20zv94ldpko?at_medium=RSS&at_campaign=rss",
@@ -763,9 +772,9 @@
         "bias": -1
       },
       {
-        "title": "Republican Sen. Ron Johnson talks about the government shutdown",
-        "link": "https://www.npr.org/2025/10/08/nx-s1-5564781/republican-sen-ron-johnson-talks-about-the-government-shutdown",
-        "description": "NPR's Michel Martin speaks with Sen. Ron Johnson, R-Wis., about the latest developments around the government shutdown.",
+        "title": "Shutdowns serve as excuse for GOP and Democrats to spend more, says Sen. Ron Johnson",
+        "link": "https://www.npr.org/2025/10/08/nx-s1-5564781/federal-government-shutdown-negotiations-ron-johnson",
+        "description": "Sen. Ron Johnson, a Republican from Wisconsin, has a plan for how to avoid shutdown showdown negotiations, but it wouldn't be popular with Congress' \"uniparty,\" he told NPR.",
         "pubDate": "2025-10-08T10:46:20Z",
         "source": "npr.org",
         "image": "",
@@ -781,10 +790,10 @@
         "bias": -1
       },
       {
-        "title": "Photos of the mixed reactions to Trump’s bid to deploy troops to more US cities - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS1EyTktsekd4TUJOUk52dk1UM2lXb1E2OHI0OTE0N21pRWRNbjZGbW9NdWtNYnpFU1BzQkxJczNPYjBVdHoxTkV3bkhPeGJJclZjSjc5aDlYNHVpRTNFblhxNHJGb01ncG5iS0pRSFlvWDRXUWplRk0ybjk2SlFyb1Y0T0hEMVFwbFdPMG5xNHZuNlM3ekRhODZoa1kzWFpRSGM1cmVnZmtHNC1L?oc=5",
+        "title": "A divided Israel marks 2 years since Oct. 7 attack while war persists in Gaza and hostages languish - AP News",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT2M3OW1obXA3SEFrb0hzeERqUVpJYTI5TnJiZGxyeUNpS1ZCRWZVb0ZMTFhva3F5Rlh3ckNLbW5rTUlSTVlfZWpMdGloVDJGZW1yTUdmZ2U5RjVMVy1fRjBWN3VQQ0VFcm9oMGtCZ05LOVZ3di1PWTYtV0Y2NjM1eDRuX0U1MU1jbE5VR2RyQ1c2QjRFSG9aQnNnOU1JZ2RvQTdmZ3dWRElOdFZ5N241TWNYdWRoOU5waWtHT3NYQQ?oc=5",
         "description": "",
-        "pubDate": "2025-10-08T03:54:00Z",
+        "pubDate": "2025-10-08T06:30:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -814,15 +823,6 @@
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM0Q1SUkzRVNaV1pmTFF6TGZBTlFZYTAwSzExazY2UWlJRVpCdDZacmxkRnFHY2FoUmw5dWVxMTY1VTRDRzlXMzVZZHo1Zm9PekcyQklCcUNrenBESVRySU9neHJsdTJHUHdQb3F2aEY5QTktNDBKY3czcWZNWUo0MDhjN2RQQXF0aUh5TlZzOFVzNW5LUmdTZ2J2VzF4NVB6VE1jcjNB?oc=5",
         "description": "",
         "pubDate": "2025-10-08T15:02:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Elton John, Olivia Rodrigo, Doja Cat, Questlove, Twenty One Pilots and Raye to present at Rock Hall - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTTRFTUhSdTFxdjgzRzg4M1YzTlRfUzMxNF9aRlF4NzRYMWg0bHJjSnpmQ3lyS2tIbjFQZ3ZEaVBLLWNNV2owTVB5S1dseklZZjlRRmMtUU9lWDBrNUpYZUUtamhyWmlyM3JleVNVMVV1dDJUTHdfUkpZRFFoQm95R0V4OWdZR1lxdlRxNjdINk1PZWhfZ1pxSXhDS19IbS1PZDV5N3lSaGRCdw?oc=5",
-        "description": "",
-        "pubDate": "2025-10-08T14:45:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -859,6 +859,15 @@
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNjB2ekVaZlllaG04YW9Fc1JNSVFVeDhZWXRFSWdpamtLTG44V0VPR2dDemxrT1owR0dmVm01VXQ0RkliX0ljM1JpUkItdE5Yd3JiWXZ5NkFDNW9ybWplbUVfWC1LVjJZN24wQVNYb0QwRVZUcU9CZkx4QWFUMGE5eGhLdEtFdGdUcFRlS1BJV1BWME5jeUl4Rm9wcVd2Z0tsMzdzZWMyM25qV0xqcnladlk4Rk9LSmM?oc=5",
         "description": "",
         "pubDate": "2025-10-08T13:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Israeli military intercepts another flotilla heading to Gaza and detains scores of activists - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYXBGaVhMczNEUmlyZEhOLXA3NFZubnNULWhka3hpU0Z5MEZoNy1KbmhYT0RPNEpOWnZyMUloRmNiZURocUhPTzdDbWFpenk1Z2c0N20yOW5JUzRrTmpyMzlXQk5QSzFqMm1USlNhajN3eDFvR1htVWFBZGdUa1l6UUplUTd5SWljZHVBTExUc2VCdE01YWhLMkVDYlU5ZmdYano5TXFqYk8?oc=5",
+        "description": "",
+        "pubDate": "2025-10-08T12:24:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -971,6 +980,15 @@
         "pubDate": "2025-10-08T02:17:19Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfaf/live/efe8af80-a3d9-11f0-bc95-1520d15cd340.jpg",
+        "bias": 0
+      },
+      {
+        "title": "National Guard members from Texas are in Illinois in Trump's latest move to send troops to cities - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYndiOU9wWnJJaU1VSUEwVnI1VEhRRkxsV3RmWUZNWmR3OXFsM1VsMEFGYjRGbFdkT0dTc2NnNWtVeU1VX0h1ajFtTTJFWHctSGwweV9uMy1IcFdPUmxPZkQ5c2IzeFYyNGJjVzN5bEY3UzBtcXREazlwSkl0OHRHMmM2V3B4bmVxckN0WXJ3VWk0MTQxWkdQeEFyQXc0dw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-08T02:02:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       }
     ],
