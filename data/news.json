@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-10-09T17:35:03.189308Z",
+  "lastUpdate": "2025-10-09T17:45:57.247193Z",
   "news": {
     "Gaming": [
+      {
+        "title": "pseudo 1 [Free]",
+        "link": "https://redline-games.itch.io/pseudo-1",
+        "description": "",
+        "pubDate": "2025-10-09T17:36:43Z",
+        "source": "redline-games.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNTMzOTIzLnBuZw==/315x250%23c/cELydg.png",
+        "bias": 0
+      },
       {
         "title": "Ambrosia Collection [Free] [Other]",
         "link": "https://youpz.itch.io/ambrosia-collection",
@@ -163,24 +172,6 @@
         "source": "bigoof469.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNTMyMjI3LnBuZw==/315x250%23c/DBTKX%2B.png",
         "bias": 0
-      },
-      {
-        "title": "grandprix retro manager [Free] [Simulation]",
-        "link": "https://patrick3381.itch.io/grandprix-retro-manager",
-        "description": "retro f1 manager",
-        "pubDate": "2025-10-09T14:27:04Z",
-        "source": "patrick3381.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNTMxNzI0LnBuZw==/315x250%23c/jqs%2FiT.png",
-        "bias": 0
-      },
-      {
-        "title": "Ache o Norte [Free]",
-        "link": "https://akheralnhar.itch.io/ache-o-norte",
-        "description": "",
-        "pubDate": "2025-10-09T13:28:32Z",
-        "source": "akheralnhar.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNTMxMDQ3LmpwZw==/315x250%23c/BPDH0s.jpg",
-        "bias": 0
       }
     ],
     "World": [
@@ -194,13 +185,13 @@
         "bias": 0
       },
       {
-        "title": "Live updates: Israel and Hamas agree to a ceasefire, release of hostages and Palestinian prisoners - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tTWQtdHRKZ0UzOHVPV0tKd3h4TjU2OVczUDdGS0lmT1Q4bFJCZUt0Q195NUFVZnRFQUdpQ09idWNOLTBmVHFhVnl0S0xySnI3YTNNZHBCcjVnQVN1RUg2ekRPbGs?oc=5",
-        "description": "",
-        "pubDate": "2025-10-09T17:32:00Z",
-        "source": "news.google.com",
+        "title": "US court grants stay of execution for Robert Roberson in ‘shaken baby’ case",
+        "link": "https://www.aljazeera.com/news/2025/10/9/us-court-grants-stay-of-execution-for-robert-roberson-in-shaken-baby-case?traffic_source=rss",
+        "description": "The Texas Court of Criminal Appeals agreed to reopen Roberson's habeas petition but did not approve a new trial.",
+        "pubDate": "2025-10-09T17:27:02Z",
+        "source": "aljazeera.com",
         "image": "",
-        "bias": 0
+        "bias": -1
       },
       {
         "title": "French court extends sentence of man convicted of Gisele Pelicot rape",
@@ -464,6 +455,15 @@
         "bias": -1
       },
       {
+        "title": "Palestinians in Gaza express relief and caution as ceasefire deal raises hopes of ending the war - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNmZjZVBDWXc1d0F0LU1WSDBvTmRGYXJvbGhjMWRjQWtjRnRSX1BvMnlYRHVvQzI0R25GT2hJS1R6MjdVVHZyZU9reUFvUkF4QXBQUHo2R0JrcElxWDF5TWEzUUdFSnpTY3lmYzMxRmFSaG9rMmRaR2RYYjZiSFV5YjZCZU94MTF6X1cxX3d0WVJ3aHMwNkpKQ0xyRlg0VGZvMXRDaWZscE9qYXF5amRlMUdmOTQ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-09T15:18:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Israel and Hamas will exchange hostages and prisoners after agreeing to a pause in the war in Gaza - AP News",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORDRkS1VjS2NPOGhuY2RLZmwtaEYwUUFHV0pQSXEzNk5MOU00YTBxUVo2UXpfRWVfUVU4U0Jib1pzYVphQkRudmd5Wll3d01JY0hZRjBHbGIydlNEdFBHQ0swcUt4U3N4amh2VnExbzV3Ym5FcnBRRUoyeXBTQUd4RlFVWTh5aVBEclc5alpwSkZpdlVvdl8zZlVkNlpnZGc?oc=5",
         "description": "",
@@ -497,6 +497,15 @@
         "pubDate": "2025-10-09T15:00:11Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4db/live/10eb7370-a52e-11f0-b741-177e3e2c2fc7.jpg",
+        "bias": 0
+      },
+      {
+        "title": "US opens Tesla probe after more crashes involving its so-called full self-driving technology - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQnEtWURXRjNpUTFzRnlIQWFPNE9pSWpWR084aDM4SVlhdmRNcEwwTjMzeDNpaUMyYmdDTTN0Q2xyc0pCSnBLOHRZRzdFWjFSZ29DdjhkdmIzem1HM2xoQVF5c2ZJZ2NqR0JMRUt4MkNoTmpFSS1iaUFJNVZITjBvZFZiQ2JZSWxzejNScmlJM2pOQmIwekVCbVBWMTNKZDlVV28zeg?oc=5",
+        "description": "",
+        "pubDate": "2025-10-09T14:57:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -615,24 +624,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "How Gaza ceasefire news was announced",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/10/9/how-gaza-ceasefire-news-was-announced?traffic_source=rss",
-        "description": "Palestinians and Israelis celebrated after news of an agreement on the first phase of the Gaza ceasefire deal broke out.",
-        "pubDate": "2025-10-09T13:35:02Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "La Nina is back, but it's weak and may be brief. Will it still amp up the Atlantic hurricane season? - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUUFzRUE1VnJXbklaNWhBdS10bnFjYXRDd0RoWXFya2lHa2ZheW0zR3NmNUdwRExyR2F2bnhIRk5rTEtwN2J1S29lRHduNTJDUWpVd2Q5Q1M2QU80RmtMSkc3V0c3MEo3MVRuQ3l2UUFYSEhSU1RUMW9NQTNpdFNyYWZiOU9hZEdxVElmMl9OODAwRGlsYmVhLU10VDBhMGI4LWRZNmhR?oc=5",
-        "description": "",
-        "pubDate": "2025-10-09T13:26:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
@@ -640,9 +631,18 @@
         "title": "Starmer praises Trump over role in Gaza ceasefire deal",
         "link": "https://www.bbc.com/news/articles/c33rgd5gmrxo?at_medium=RSS&at_campaign=rss",
         "description": "The UK \"played an important part behind the scenes\" and had seen Trump's efforts, the PM says.",
-        "pubDate": "2025-10-09T16:54:57Z",
+        "pubDate": "2025-10-09T17:36:00Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4eb5/live/1e2f4f90-a527-11f0-94a8-5d6a26920553.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Five ways abolishing stamp duty could change the housing market",
+        "link": "https://www.bbc.com/news/articles/c9v7wppzm2ro?at_medium=RSS&at_campaign=rss",
+        "description": "Kemi Badenoch says a future Conservative government would scrap stamp duty, but what might the impact be?",
+        "pubDate": "2025-10-09T17:35:08Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e48c/live/cdb688c0-a4f5-11f0-8e74-1f6664d312e9.jpg",
         "bias": 0
       },
       {
@@ -682,21 +682,21 @@
         "bias": 0
       },
       {
-        "title": "Five ways abolishing stamp duty could change the housing market",
-        "link": "https://www.bbc.com/news/articles/c9v7wppzm2ro?at_medium=RSS&at_campaign=rss",
-        "description": "Kemi Badenoch says a future Conservative government would scrap stamp duty, but what might the impact be?",
-        "pubDate": "2025-10-09T14:36:03Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e48c/live/cdb688c0-a4f5-11f0-8e74-1f6664d312e9.jpg",
-        "bias": 0
-      },
-      {
         "title": "'Mob' protests outside home of Justice Minister Naomi Long",
         "link": "https://www.bbc.com/news/articles/cz9jdww3vd5o?at_medium=RSS&at_campaign=rss",
         "description": "Long's husband, councillor Michael Long, said \"about 40 people, some wearing masks, turned up at our house\".",
         "pubDate": "2025-10-09T13:12:38Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c27/live/7e0e0140-a2b6-11f0-b2c5-019105d9c0cd.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Tomb of former French justice minister Badinter defaced with graffiti before Panthéon ceremony - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMjNHY3lVQ0NVb25VcFN2eUFXbDJFZ3JIdmlpN2F2YlhtSThiNk9EN3BwV3AxMGZKVWtGMm9sOV9TaHI4bFZIN0J2WXJaa1lUWFV6Y2ljSjlIS3lKS1hoZC1hSDZkQVZjbkY2WC1ETzh6YVk5TGE2QXlDRXVMN2hxZ1daal9sWV9kYUFCSlVWSmNlM1BmQVd1Vm5fZXIxT2NM?oc=5",
+        "description": "",
+        "pubDate": "2025-10-09T12:05:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -781,6 +781,15 @@
         "bias": 0
       },
       {
+        "title": "Weakened Priscilla nears Mexico's Baja peninsula as Tropical Storm Jerry churns in the Atlantic - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWVMtd0tlZGtOeUhDR2w0VV96YXRkb2VLMmcwUDliWnB0Qnp4MFZxX09KQWp1ZGRIWDYxa0tCSE9nNVV3RWRRQms1dFVSOGd3d2Jja0dtdHhCRVg2N1l2V09zdWZBajEwTzM3Nl9xdGFxTjhxUUNGY1lldVUyMTREaGJ3UDJLaWY4eFJBX0trT3dKUFZJdHV1TndCZHlEZVVDcXJoMmFiV2VZZU0?oc=5",
+        "description": "",
+        "pubDate": "2025-10-09T03:38:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Prosecutors say no harm was done by social media posts about assassination of UnitedHealthcare CEO - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNmVtZHJGNnBIRVQzZzg0NXpwbEpoT3pJVlRzbTVMVWlsTUx1Ylc2eW42LS1XQTFxbzBGcThDbU85dG4zZUQyazdpeC1pYmctRnJ1SVZtOTlOa1BWWElQOHJPRVFXR01wV2poRkJ3Vk1mUllkSkxyVm1fQWlyVFJFT3pSaFFBUmhyOXdmNTRCNlQyN2Jfb1Y3RkFpMldUNkhYWVBHclYxeldNUUk?oc=5",
         "description": "",
@@ -801,10 +810,10 @@
     ],
     "Tech": [
       {
-        "title": "US opens Tesla probe after more crashes involving its so-called full self-driving technology - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQnEtWURXRjNpUTFzRnlIQWFPNE9pSWpWR084aDM4SVlhdmRNcEwwTjMzeDNpaUMyYmdDTTN0Q2xyc0pCSnBLOHRZRzdFWjFSZ29DdjhkdmIzem1HM2xoQVF5c2ZJZ2NqR0JMRUt4MkNoTmpFSS1iaUFJNVZITjBvZFZiQ2JZSWxzejNScmlJM2pOQmIwekVCbVBWMTNKZDlVV28zeg?oc=5",
+        "title": "Live updates: Israel and Hamas agree to a ceasefire, release of hostages and Palestinian prisoners - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tTWQtdHRKZ0UzOHVPV0tKd3h4TjU2OVczUDdGS0lmT1Q4bFJCZUt0Q195NUFVZnRFQUdpQ09idWNOLTBmVHFhVnl0S0xySnI3YTNNZHBCcjVnQVN1RUg2ekRPbGs?oc=5",
         "description": "",
-        "pubDate": "2025-10-09T13:59:00Z",
+        "pubDate": "2025-10-09T17:32:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
