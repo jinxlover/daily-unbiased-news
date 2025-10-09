@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-10-09T22:19:07.130898Z",
+  "lastUpdate": "2025-10-09T22:35:02.841185Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Fox Island [Free] [Adventure]",
+        "link": "https://wyrm-games.itch.io/fox",
+        "description": "Become a kitsune, learn to be a kitsune, stay a kitsune, or get back",
+        "pubDate": "2025-10-09T22:09:12Z",
+        "source": "wyrm-games.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNTM3MzA0LmpwZw==/315x250%23c/cO9%2FnL.jpg",
+        "bias": 0
+      },
       {
         "title": "Overtime [Free] [Visual Novel]",
         "link": "https://glass-quantum.itch.io/overtime",
@@ -192,15 +201,6 @@
         "bias": 0
       },
       {
-        "title": "Minecraft Browser [Free] [Action]",
-        "link": "https://yellowblack-studio.itch.io/minecraftbrowser",
-        "description": "Unofficial",
-        "pubDate": "2025-10-09T20:33:36Z",
-        "source": "yellowblack-studio.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNTM2MjAyLnBuZw==/315x250%23c/qchX9c.png",
-        "bias": 0
-      },
-      {
         "title": "The Paladin's Penitence [Free] [Adventure] [Windows]",
         "link": "https://xndcw.itch.io/the-paladins-penitence",
         "description": "Early dungeon game",
@@ -219,21 +219,12 @@
         "bias": 0
       },
       {
-        "title": "SKYGRAVE [$4.99] [Shooter]",
-        "link": "https://gallosreaper.itch.io/skygravefullgame",
-        "description": "Survive the skies. Conquer the grave.",
-        "pubDate": "2025-10-09T20:24:43Z",
-        "source": "gallosreaper.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNTM2NzE4LnBuZw==/315x250%23c/DMS85%2B.png",
-        "bias": 0
-      },
-      {
-        "title": "project3 [Free]",
-        "link": "https://gameingpc.itch.io/project3",
-        "description": "music and 4 creatures",
-        "pubDate": "2025-10-09T19:56:15Z",
-        "source": "gameingpc.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNTM1ODEyLnBuZw==/315x250%23c/hARqtC.png",
+        "title": "Infinity Castle [Free] [Survival]",
+        "link": "https://spk21.itch.io/infinity-castle",
+        "description": "Demon Slayer endless runner style game.",
+        "pubDate": "2025-10-09T20:26:22Z",
+        "source": "spk21.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNTM1ODI5LnBuZw==/315x250%23c/S01aLN.png",
         "bias": 0
       },
       {
@@ -244,41 +235,41 @@
         "source": "endlessniu.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNTM2MjY4LmpwZw==/315x250%23c/F8CDP8.jpg",
         "bias": 0
-      },
-      {
-        "title": "(!ALPHA)Undead Sed Butter [Free] [Other] [Windows]",
-        "link": "https://tsewiq.itch.io/undead-sed-butter",
-        "description": "",
-        "pubDate": "2025-10-09T17:47:56Z",
-        "source": "tsewiq.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNTM0Mjk1LnBuZw==/315x250%23c/%2FBCWxI.png",
-        "bias": 0
       }
     ],
     "World": [
       {
-        "title": "Live updates: New York Attorney General Letitia James indicted on fraud charge, AP source says - AP News",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1bHc3b3FyR212VkZrZ1FGeFRzNU1OeXRXMi1IRzBtektJRjJadU5hWEpHVnBnYW9XeFM0ZjJTSkNEYVRVaHlKQ21jZ3FsTnIxRFhsdG5aZ1BSSkR4bHdQdWlSWkJ0MFBZVUFz?oc=5",
+        "title": "Live updates: Israel and Hamas agree to a ceasefire, release of hostages and Palestinian prisoners - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tTWQtdHRKZ0UzOHVPV0tKd3h4TjU2OVczUDdGS0lmT1Q4bFJCZUt0Q195NUFVZnRFQUdpQ09idWNOLTBmVHFhVnl0S0xySnI3YTNNZHBCcjVnQVN1RUg2ekRPbGs?oc=5",
         "description": "",
-        "pubDate": "2025-10-09T22:17:00Z",
+        "pubDate": "2025-10-09T22:32:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "Live updates: New York Attorney General Letitia James indicted on fraud charge, AP source says - AP News",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1bHc3b3FyR212VkZrZ1FGeFRzNU1OeXRXMi1IRzBtektJRjJadU5hWEpHVnBnYW9XeFM0ZjJTSkNEYVRVaHlKQ21jZ3FsTnIxRFhsdG5aZ1BSSkR4bHdQdWlSWkJ0MFBZVUFz?oc=5",
+        "description": "",
+        "pubDate": "2025-10-09T22:23:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "US buys Argentinian pesos, finalises $20bn currency swap, says US Treasury",
+        "link": "https://www.aljazeera.com/news/2025/10/9/us-buys-argentinian-pesos-finalises-20bn-currency-swap-says-us-treasury?traffic_source=rss",
+        "description": "Argentina's right-wing President Milei, a close ally of President Trump, faces a critical midterm election this month.",
+        "pubDate": "2025-10-09T22:21:03Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "New York Attorney General Letitia James charged in fraud case after pressure campaign by Trump - AP News",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVFUzbFB1X3piVkhDWWFiUmNjS1M3dHZLQ00wU2xJOS1TcGh5ZlRJYWtiMjFNX09VcnRJVHQyVEE1bXNTakNSOGJacnJNZk9ZUEtETjA2Ry1GaklaQ2Y4eUpmdUp6YkdFcVVyVGdBUWVCRGFQbXdlTDlaLWVVM1FZd3phZ05TWHZxT1hPTzRGMC1faHlNMWdLdS1lUm01YlRTMmRMWlJYdzZXWEQ3U2RMdw?oc=5",
         "description": "",
         "pubDate": "2025-10-09T22:12:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Live updates: Israel and Hamas agree to a ceasefire, release of hostages and Palestinian prisoners - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tTWQtdHRKZ0UzOHVPV0tKd3h4TjU2OVczUDdGS0lmT1Q4bFJCZUt0Q195NUFVZnRFQUdpQ09idWNOLTBmVHFhVnl0S0xySnI3YTNNZHBCcjVnQVN1RUg2ekRPbGs?oc=5",
-        "description": "",
-        "pubDate": "2025-10-09T22:10:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -309,15 +300,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Tomb of former French Justice Minister Badinter defaced with graffiti before Panthéon ceremony - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMjNHY3lVQ0NVb25VcFN2eUFXbDJFZ3JIdmlpN2F2YlhtSThiNk9EN3BwV3AxMGZKVWtGMm9sOV9TaHI4bFZIN0J2WXJaa1lUWFV6Y2ljSjlIS3lKS1hoZC1hSDZkQVZjbkY2WC1ETzh6YVk5TGE2QXlDRXVMN2hxZ1daal9sWV9kYUFCSlVWSmNlM1BmQVd1Vm5fZXIxT2NM?oc=5",
-        "description": "",
-        "pubDate": "2025-10-09T21:11:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "The superintendent arrested by ICE had a consulting gig. His districts repeatedly hired the firm - AP News",
@@ -446,6 +428,15 @@
         "bias": -1
       },
       {
+        "title": "Ship parade kicks off events celebrating 250 years of the US Navy and Marine Corps - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRnQyV3YwUUZWOGhFQTZ3MkJKWmRMbVY0RXFsUWtJNmFPMHdGVDR4QmJJM2Rqbmo1RUJ1anNFcTd1UTZjb0NibXRRRjJqbTNLT1FxOG9fb1R5cW5Vc21GV2R1dEV5UnRMU0d5c3hyU3dnUEVWQ0MyMTl3NmJQMnlQc05qYVFTOHdoZ1BwNlRBZVZnODNyVm9Nb19RMHdEZ2QzRU1vSGx3?oc=5",
+        "description": "",
+        "pubDate": "2025-10-09T19:20:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "As Tropical Storm Jerry churns in the Atlantic, Priscilla and a nor'easter threaten US with flooding - AP News",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUzg4TUZmSDdqM3UxWEVNTjdwQ0hGaHVoaW5GMHJfWW83R0x2YVJWbTFjRmZuYm5jYlJVTUNhbTQ2eklMMGdaTTI3UkhKakV3Q3pEd0ZybHVXSVhENjdWSXBncnlPcEo2Z0pFZk5aVlZQN3MzQVF6OHdFWnZ1WVU2dVF2ZGxab0ZDd2dLaVdiQ3g4RmZj?oc=5",
         "description": "",
@@ -572,6 +563,15 @@
         "bias": 0
       },
       {
+        "title": "Common’s journey from Bulls ball boy to NBA theme song composer - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT1J5a0ZQRG5YY25Lck1mSmwwclJHamJPZVFTSE4zZ3JQajhmMUFINzVHOFlxQXJWS25KbjN2RlBkd3hub0ZRa1ljUGxFWjlYbEZYd2R0U0pwOVl4M1RSS0lFZkJaN0QwejBGM2ttLWJQY3N1ZlpXRC1nY3hRajN5YmpYM3FVQVdoWUVLUGc0N3BMLTVT?oc=5",
+        "description": "",
+        "pubDate": "2025-10-09T16:39:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "NBA games back in China for first time since Hong Kong row",
         "link": "https://www.bbc.com/news/articles/cj9zmld314ro?at_medium=RSS&at_campaign=rss",
         "description": "Two games in Macau this weekend will be the first since the league was effectively frozen out in 2019.",
@@ -686,24 +686,6 @@
         "pubDate": "2025-10-09T16:02:28Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f084/live/68dba210-a526-11f0-b741-177e3e2c2fc7.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Once-secret Emperor Commodus' passage to Rome Colosseum opens to public for the first time - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWE1SSVBlQUxweFNwOVBpQTZCQjQwRUJXYzM0WU0wdk01OW9ndExJRHBaam1Jby1qQjVYRTNVX3p2b2RqdFc4VF82ajB4RHhtQWdiYlR6TjRHRnJ6eDFFTXZkdlh5ZHByamJHLWxraEd4VnZiZlA3eVlnNThPN0FuYm9OMHluX0c0UWw5dnh1QW1lS0tZbGJ1SkFIOGNzT3BqNTRTYy04VnNPTHkwVGM0?oc=5",
-        "description": "",
-        "pubDate": "2025-10-09T15:57:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Man who appealed Pelicot rape conviction handed longer jail term",
-        "link": "https://www.bbc.com/news/articles/cq65e2jdd3lo?at_medium=RSS&at_campaign=rss",
-        "description": "A French court increases by a year the jail term of the only man who challenged his conviction for raping Gisèle Pelicot.",
-        "pubDate": "2025-10-09T15:52:51Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caa8/live/2d0a49a0-a524-11f0-adbe-83a1eb509ffb.jpg",
         "bias": 0
       }
     ],
@@ -835,15 +817,6 @@
         "bias": -1
       },
       {
-        "title": "Common’s journey from Bulls ball boy to NBA theme song composer - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT1J5a0ZQRG5YY25Lck1mSmwwclJHamJPZVFTSE4zZ3JQajhmMUFINzVHOFlxQXJWS25KbjN2RlBkd3hub0ZRa1ljUGxFWjlYbEZYd2R0U0pwOVl4M1RSS0lFZkJaN0QwejBGM2ttLWJQY3N1ZlpXRC1nY3hRajN5YmpYM3FVQVdoWUVLUGc0N3BMLTVT?oc=5",
-        "description": "",
-        "pubDate": "2025-10-09T16:39:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Ferrari reveals features of first fully electric vehicle, but its financial outlook mars the debut - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdnlJWVBlR0NfS2FTQVZHUk5KUGZfU1lpd0FqOXhMWFMyTzljUzhnWUVJc2RYbktJRGQ1U1A2aExZRnM2NEs0VTFMVmswOFdVbHExNGpWTmhpRkxZWmNQYnR0Y1gtbE9wcmlxUzdvc1VQQzllWkp6WTJUbFlkcDlraUhWZXVfNy0zNDRxVjRjamlROW9MOWxEWGlmWTZCSjY0TWxlSGF0YXE?oc=5",
         "description": "",
@@ -893,6 +866,15 @@
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUnZ5Q2pHVDNFN2VOc21fbnE2QmVBVjlaYmJQVGdrUVNvX09nNG9IRXBUQVRJTjB6WkxuZE83dVV6cTJyVk9EdGw4SU1qb1lVY01JajhpcTZMTWZ3VnRYZXVHVXJXYkRRZGRoVXVjX21TUmZpVGNEVVN3MlN0N19jV0UtcDFYMHgzRDFLTVB4X2pBcTZ4OTZsRmhNMG81elBLdlR6RnFOUEx4ck5F?oc=5",
         "description": "",
         "pubDate": "2025-10-09T13:08:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Tomb of former French justice minister Badinter defaced with graffiti before Panthéon ceremony - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMjNHY3lVQ0NVb25VcFN2eUFXbDJFZ3JIdmlpN2F2YlhtSThiNk9EN3BwV3AxMGZKVWtGMm9sOV9TaHI4bFZIN0J2WXJaa1lUWFV6Y2ljSjlIS3lKS1hoZC1hSDZkQVZjbkY2WC1ETzh6YVk5TGE2QXlDRXVMN2hxZ1daal9sWV9kYUFCSlVWSmNlM1BmQVd1Vm5fZXIxT2NM?oc=5",
+        "description": "",
+        "pubDate": "2025-10-09T12:05:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1016,6 +998,15 @@
       }
     ],
     "Tech": [
+      {
+        "title": "US sending about 200 troops to Israel to help support and monitor ceasefire deal in Gaza - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNkVURTk4Z2tqbS05bnZ5X2ZqbXpVaHZQcDFKRm5GaWlZdDlDb3p1c0dHRmJJaWgwYkoxSDVTUVJib2FOeHM0TVNIbGV3SFVXNDlKOHRqMVo1OTBaVUt5ZkphVHloZjN4RmFnOWtoSEpLbnVtUGgzWEQtT0h3LXB3T1VETU92S0VVTXc4NXJwcWotWW94d1p5WTdkUnVfZw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-09T22:08:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "What to do if your flight is delayed or canceled during the US government shutdown - AP News",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOckpZOWhVbDFyd3c1a2tBWjc4WXZzYkd0VXc2ZVc4eUc1NHJyWkNBaDFWVUhuRmpOSkQzUERnLTU1Wjc5VVhiQmJQMGxsVk9Ma1FTdXRjaXRJR2ZqQ09scDFERS1jSWY2dmpkejVIaGVmWWZobGwtR2RxNXBzOUpqYTRyVE5BN1Z2V21tXzV0X2NqcE5LczFtYVpQWVd2bmsyeU1nZmJJdlA5TE9uMWM0?oc=5",
@@ -1215,7 +1206,7 @@
         "title": "Celebrity Traitors episode two was as killer as Tom Daley's side-eye",
         "link": "https://www.bbc.com/news/articles/c1edwzpdlx4o?at_medium=RSS&at_campaign=rss",
         "description": "Alan Carr continues to worry the nation in the second instalment of this instant-hit celebrity spin-off.",
-        "pubDate": "2025-10-09T21:47:23Z",
+        "pubDate": "2025-10-09T22:26:06Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a13d/live/7b8cde60-a558-11f0-928c-71dbb8619e94.jpg",
         "bias": 0
