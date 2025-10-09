@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-09T06:37:08.155959Z",
+  "lastUpdate": "2025-10-09T06:54:03.631230Z",
   "news": {
     "Gaming": [
       {
@@ -9,6 +9,15 @@
         "pubDate": "2025-10-09T06:19:32Z",
         "source": "liamxia.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNTI3NjIwLnBuZw==/315x250%23c/MKCLvk.png",
+        "bias": 0
+      },
+      {
+        "title": "Memory Recall [Free] [Interactive Fiction]",
+        "link": "https://selkadombom1.itch.io/memory-recall",
+        "description": "",
+        "pubDate": "2025-10-09T06:16:16Z",
+        "source": "selkadombom1.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNTI3NzU0LmpwZw==/315x250%23c/SqfvKx.jpg",
         "bias": 0
       },
       {
@@ -84,15 +93,6 @@
         "bias": 0
       },
       {
-        "title": "Gatecrashers Demo [Free] [Interactive Fiction]",
-        "link": "https://kurobun.itch.io/gatecrashers-demo",
-        "description": "Yeah I'm not actually continuing this in *this* format, lol.",
-        "pubDate": "2025-10-09T05:28:38Z",
-        "source": "kurobun.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNTI3MjcyLnBuZw==/315x250%23c/DKgXNz.png",
-        "bias": 0
-      },
-      {
         "title": "GRIDSHIFT [Free] [Survival] [Windows]",
         "link": "https://sevenwave7.itch.io/gridshift",
         "description": "Survive as long as you can inside a space meteor",
@@ -158,7 +158,7 @@
         "bias": -1
       },
       {
-        "title": "Trump announces Gaza ceasefire deal: What we know and what’s next",
+        "title": "Trump announces Israel-Hamas ceasefire deal: What we know and what’s next",
         "link": "https://www.aljazeera.com/news/2025/10/9/trump-announces-gaza-ceasefire-deal-what-we-know-and-whats-next?traffic_source=rss",
         "description": "This is the first phase of a 20-point plan announced by Trump last week.",
         "pubDate": "2025-10-09T05:05:38Z",
@@ -367,6 +367,15 @@
     ],
     "Politics": [
       {
+        "title": "Starmer meets Modi on his first visit to India",
+        "link": "https://www.bbc.com/news/articles/czdj66llg9go?at_medium=RSS&at_campaign=rss",
+        "description": "The two leaders met in India's financial capital Mumbai to discuss ways to strengthen trade and business ties.",
+        "pubDate": "2025-10-09T06:27:25Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46b6/live/0cd29c00-a4cf-11f0-b9e2-5ff3a1edd7bf.jpg",
+        "bias": 0
+      },
+      {
         "title": "Liberal Democrat membership has halved in 5 years",
         "link": "https://www.bbc.com/news/articles/cy5069p70x2o?at_medium=RSS&at_campaign=rss",
         "description": "Analysis of available figures shows the number of party members has fallen by 49% since August 2020.",
@@ -377,6 +386,15 @@
       }
     ],
     "Tech": [
+      {
+        "title": "ID photos of 70,000 users may have been leaked, Discord says",
+        "link": "https://www.bbc.com/news/articles/c8jmzd972leo?at_medium=RSS&at_campaign=rss",
+        "description": "The platform says hackers targeted a firm that helped to verify the ages of its users.",
+        "pubDate": "2025-10-09T06:45:00Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ad5/live/f6fad0b0-a4af-11f0-bd4e-7755f432b75a.jpg",
+        "bias": 0
+      },
       {
         "title": "China tightens export rules for crucial rare earths",
         "link": "https://www.bbc.com/news/articles/ckgzl0nwvd7o?at_medium=RSS&at_campaign=rss",
@@ -411,7 +429,7 @@
         "title": "Water bills to rise further for millions after appeal",
         "link": "https://www.bbc.com/news/articles/cvg4jkexgl1o?at_medium=RSS&at_campaign=rss",
         "description": "Five water companies win permission for higher bills as they seek more investment to fix outdated infrastructure.",
-        "pubDate": "2025-10-09T06:20:54Z",
+        "pubDate": "2025-10-09T06:42:36Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/357a/live/0446f820-a4d3-11f0-9f74-77bc8773bf41.jpg",
         "bias": 0
