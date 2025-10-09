@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-10-09T19:27:42.828245Z",
+  "lastUpdate": "2025-10-09T19:39:34.399551Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Quick Draw [Free] [Fighting] [Windows]",
+        "link": "https://dvoragames.itch.io/quick-draw",
+        "description": "",
+        "pubDate": "2025-10-09T19:26:16Z",
+        "source": "dvoragames.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNTM1NDAzLnBuZw==/315x250%23c/%2Fn2tzq.png",
+        "bias": 0
+      },
       {
         "title": "Sprinko Revamp (Version IV) [Free]",
         "link": "https://sussycarxd.itch.io/sprinko-revamp",
@@ -54,6 +63,15 @@
         "pubDate": "2025-10-09T18:37:47Z",
         "source": "knotactuallyadev.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNTM0Mjc3LnBuZw==/315x250%23c/%2FY8CNI.png",
+        "bias": 0
+      },
+      {
+        "title": "The Tomb  of Family Malédis [Free] [Interactive Fiction] [Windows]",
+        "link": "https://dr-tt.itch.io/the-tomb-of-family-maldis",
+        "description": "A Family curse never dies",
+        "pubDate": "2025-10-09T18:36:04Z",
+        "source": "dr-tt.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNTM0OTgyLnBuZw==/315x250%23c/pDRhXc.png",
         "bias": 0
       },
       {
@@ -129,7 +147,7 @@
         "bias": 0
       },
       {
-        "title": "Doors and Corridors [Free] [Adventure]",
+        "title": "Doors and Corridors [Free] [Adventure] [Windows]",
         "link": "https://glagglelandpostingscratch.itch.io/doors-and-corridors",
         "description": "A 2D Doors semi-clone that has... EVERYTHING?!",
         "pubDate": "2025-10-09T18:11:37Z",
@@ -165,6 +183,15 @@
         "bias": 0
       },
       {
+        "title": "Marketia [Free]",
+        "link": "https://redspid.itch.io/marketia",
+        "description": "",
+        "pubDate": "2025-10-09T17:54:07Z",
+        "source": "redspid.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNTM0MTUzLnBuZw==/315x250%23c/S9ItwY.png",
+        "bias": 0
+      },
+      {
         "title": "Grau de Bike [Free] [Other]",
         "link": "https://jaopredodev.itch.io/grau-de-bike",
         "description": "Mantain the balance while doing a wheelie.",
@@ -189,15 +216,6 @@
         "pubDate": "2025-10-09T17:46:26Z",
         "source": "coubz.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNTMzNzIxLnBuZw==/315x250%23c/UPWg5V.png",
-        "bias": 0
-      },
-      {
-        "title": "Creator's Fall - Demo [Free] [Action] [Windows] [Linux]",
-        "link": "https://baroxxtech.itch.io/creators-fall",
-        "description": "Creator’s Fall is a action roguelike with various classes, where you can choose between different paths.",
-        "pubDate": "2025-10-09T17:30:52Z",
-        "source": "baroxxtech.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNTMzNzMzLnBuZw==/315x250%23c/YA6CDo.png",
         "bias": 0
       },
       {
@@ -244,18 +262,27 @@
         "source": "dennissssa.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNTMxNjU3LnBuZw==/315x250%23c/yh3dVb.png",
         "bias": 0
-      },
-      {
-        "title": "Strawberry elephant [Free]",
-        "link": "https://thatgreenone.itch.io/strawberry-elephant",
-        "description": "",
-        "pubDate": "2025-10-09T04:10:23Z",
-        "source": "thatgreenone.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNTI2NzkyLmpwZw==/315x250%23c/3gSVVX.jpg",
-        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Live updates: Israel and Hamas agree to a ceasefire, release of hostages and Palestinian prisoners - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tTWQtdHRKZ0UzOHVPV0tKd3h4TjU2OVczUDdGS0lmT1Q4bFJCZUt0Q195NUFVZnRFQUdpQ09idWNOLTBmVHFhVnl0S0xySnI3YTNNZHBCcjVnQVN1RUg2ekRPbGs?oc=5",
+        "description": "",
+        "pubDate": "2025-10-09T19:36:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Celebrate the ceasefire, but don’t forget: Gaza survived on its own",
+        "link": "https://www.aljazeera.com/opinions/2025/10/9/celebrate-the-ceasefire-but-dont-forget-gaza-survived-on-its-own?traffic_source=rss",
+        "description": "Western leaders now claim credit for 'peace', but Gaza’s survival belongs to its people alone.",
+        "pubDate": "2025-10-09T19:27:56Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Police fire tear gas, rubber bullets as Madagascar protesters rally",
         "link": "https://www.aljazeera.com/news/2025/10/9/police-fire-tear-gas-rubber-bullets-as-madagascar-protesters-rally?traffic_source=rss",
@@ -282,15 +309,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Live updates: Israel and Hamas agree to a ceasefire, release of hostages and Palestinian prisoners - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tTWQtdHRKZ0UzOHVPV0tKd3h4TjU2OVczUDdGS0lmT1Q4bFJCZUt0Q195NUFVZnRFQUdpQ09idWNOLTBmVHFhVnl0S0xySnI3YTNNZHBCcjVnQVN1RUg2ekRPbGs?oc=5",
-        "description": "",
-        "pubDate": "2025-10-09T19:18:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "At a key moment in talks that led to the Gaza ceasefire deal, Trump refused to take no for an answer - AP News",
@@ -696,18 +714,18 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Judge sets Nov. 14 deadline for new prosecutor in Georgia election case against Trump - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTnZ0cVdwYkNTeXp1dHdRN3RoUnRkMUpULXphVlZ5UE1QNTVuZzhzXzg4eUpFTG9uZTFLME96UV9MS0VfSmk4eGpzcnU5enRZaHNEU2hqRDBkNW1hdjRsRklTVlJQSVhIVmZiN0dfa1lBUDJDQUdCamhxOGxPWm53bkRGOGJQWEd3UW1PNktfV2Q1WXYwcnBsZUdFeGFYaXgzODFDcVVKRGlvVDV0SmRpVWFLRDg?oc=5",
-        "description": "",
-        "pubDate": "2025-10-09T15:12:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Sunak joins Microsoft and AI firm as paid advisor",
+        "link": "https://www.bbc.com/news/articles/clyqe22pz81o?at_medium=RSS&at_campaign=rss",
+        "description": "The former prime minister has been told not to lobby the UK government by the appointments watchdog.",
+        "pubDate": "2025-10-09T19:37:59Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75b5/live/f04264c0-a538-11f0-8469-192d9823e9a2.jpg",
+        "bias": 0
+      },
       {
         "title": "Starmer praises Trump over role in Gaza ceasefire deal",
         "link": "https://www.bbc.com/news/articles/c33rgd5gmrxo?at_medium=RSS&at_campaign=rss",
@@ -927,6 +945,15 @@
         "bias": 0
       },
       {
+        "title": "Frustrated lawmakers say lack of trust is making it harder to end the government shutdown - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONW9qRUY1NWxGYUdIdkJPQmYxd013QU9JYldTTVNBTmg3b1VCWmtjMk9pSi1mWUdtWW91QWVMLW9OX1RHR2ZIQXRDYUg4Y3JPclJvMEJxSHh5bkRYTXBuVTZlTlhaOEJRRWxOeUFnRDZHSGdYUVZGLUZ6N2lhNHB0MEtVQl96RWRuWlB2NFZETmk5cW9OcmhZaDZR?oc=5",
+        "description": "",
+        "pubDate": "2025-10-09T17:52:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "2 Pennsylvania state troopers wounded and a suspect was killed in exchange of gunfire after chase - AP News",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTGFlNmxkRzhrWEdhdWJEVGNXNUxSV1BNNmdwcU5xWmFVcFd0QVFvSUttSExWTEVUNEVVT2xFSG5RNVZIMldkdmtYTVEyV2ZYajFQcV9hMWZmRkNaWFNEUGZTREpESW9wRXltRDh6YWVKbnd2dnZYUkhOOGFza2pkYTUzNnBlWnZmbkZrbjhRN3FrM1hYbVBkSnFmbFp3OXpWMGFQbTRONWRZUklkdjNv?oc=5",
         "description": "",
@@ -936,19 +963,19 @@
         "bias": 0
       },
       {
-        "title": "Frustrated lawmakers say lack of trust is making it harder to end the government shutdown - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONW9qRUY1NWxGYUdIdkJPQmYxd013QU9JYldTTVNBTmg3b1VCWmtjMk9pSi1mWUdtWW91QWVMLW9OX1RHR2ZIQXRDYUg4Y3JPclJvMEJxSHh5bkRYTXBuVTZlTlhaOEJRRWxOeUFnRDZHSGdYUVZGLUZ6N2lhNHB0MEtVQl96RWRuWlB2NFZETmk5cW9OcmhZaDZR?oc=5",
+        "title": "Kiss rocker Gene Simmons recovering after crashing SUV - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRUhRRll3ZEUtM1RKVFJPTDBMWlZyVTVleGxvWmNyenF2SVpOcWUzMW9CT3E4enlwOGc4c1VGYUp6a05UQ3gxN3pLd3BRSFdvMjluYW9TYm5QenFYODdqRU9qVDlZZExfTDB2QlUxLXU5dUR1aF9ORW54bzAydmpIOGpPeTJmaGRXbmR3UldGVXV2ekFH?oc=5",
         "description": "",
-        "pubDate": "2025-10-09T15:33:00Z",
+        "pubDate": "2025-10-09T14:42:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Kiss rocker Gene Simmons recovering after crashing SUV - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRUhRRll3ZEUtM1RKVFJPTDBMWlZyVTVleGxvWmNyenF2SVpOcWUzMW9CT3E4enlwOGc4c1VGYUp6a05UQ3gxN3pLd3BRSFdvMjluYW9TYm5QenFYODdqRU9qVDlZZExfTDB2QlUxLXU5dUR1aF9ORW54bzAydmpIOGpPeTJmaGRXbmR3UldGVXV2ekFH?oc=5",
+        "title": "Poland charges former registry office employee with providing false identities for Russian spies - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSDltRVFta2dDZk44ejF6VGhSdjRaVU9Bc0pNVm1IYkFlMUVQOE4xMkJlbXVHZU92MUpmcEVjOEwwRWpVZXR2MDZyZ3dRMXRVUU1tbWRUd1Q2anBNYXFmZ19qd3JRbWdiemRnbm5SOFVMRjN1dnVBVWZmTGZzRC0zbVdzdjhqLXB4Wk5NajFhRTRnQllaS2dNYXVwOHVYUm9LVDhkRjJKdEZqYk5URWI2OXFESFBRQQ?oc=5",
         "description": "",
-        "pubDate": "2025-10-09T14:42:00Z",
+        "pubDate": "2025-10-09T14:36:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
