@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-10-09T21:45:52.237154Z",
+  "lastUpdate": "2025-10-09T21:56:17.507107Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Carnival Ducks [Free] [Shooter]",
+        "link": "https://wisdevgames.itch.io/carnival-duck",
+        "description": "",
+        "pubDate": "2025-10-09T21:42:26Z",
+        "source": "wisdevgames.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNTM2OTQyLnBuZw==/315x250%23c/E7Bg%2Bz.png",
+        "bias": 0
+      },
       {
         "title": "Xans Battle (Minigame) [Free] [Action] [Windows]",
         "link": "https://nicolas-navega.itch.io/xans-battle-minigame",
@@ -36,15 +45,6 @@
         "pubDate": "2025-10-09T21:17:42Z",
         "source": "indirewolf.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNTM2NzU1LnBuZw==/315x250%23c/iQRcPc.png",
-        "bias": 0
-      },
-      {
-        "title": "CAVE [Free]",
-        "link": "https://marcwilliamsstudio.itch.io/cave",
-        "description": "",
-        "pubDate": "2025-10-09T21:16:46Z",
-        "source": "marcwilliamsstudio.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNTM2NzA4LmpwZw==/315x250%23c/H%2F0m1%2F.jpg",
         "bias": 0
       },
       {
@@ -260,10 +260,19 @@
         "title": "Live updates: New York Attorney General Letitia James indicted on fraud charge, AP source says - AP News",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1bHc3b3FyR212VkZrZ1FGeFRzNU1OeXRXMi1IRzBtektJRjJadU5hWEpHVnBnYW9XeFM0ZjJTSkNEYVRVaHlKQ21jZ3FsTnIxRFhsdG5aZ1BSSkR4bHdQdWlSWkJ0MFBZVUFz?oc=5",
         "description": "",
-        "pubDate": "2025-10-09T21:40:00Z",
+        "pubDate": "2025-10-09T21:45:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "NY Attorney General Letitia James indicted on fraud charges: Reports",
+        "link": "https://www.aljazeera.com/economy/2025/10/9/ny-attorney-general-letitia-james-indicted-on-fraud-charges-reports?traffic_source=rss",
+        "description": "James had been a target of US President Trump since successfully suing him for overstating his wealth to dupe lenders.",
+        "pubDate": "2025-10-09T21:36:48Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Trump pressure key for Gaza deal to be more than ‘another one-phase’ truce",
@@ -273,6 +282,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Live updates: Israel and Hamas agree to a ceasefire, release of hostages and Palestinian prisoners - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tTWQtdHRKZ0UzOHVPV0tKd3h4TjU2OVczUDdGS0lmT1Q4bFJCZUt0Q195NUFVZnRFQUdpQ09idWNOLTBmVHFhVnl0S0xySnI3YTNNZHBCcjVnQVN1RUg2ekRPbGs?oc=5",
+        "description": "",
+        "pubDate": "2025-10-09T21:27:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Tomb of former French Justice Minister Badinter defaced with graffiti before Panthéon ceremony - AP News",
@@ -687,24 +705,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Sabalenka’s Wuhan winning streak reaches 19 matches. Swiatek and Gauff also advance - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObm5UVFlQaFdwWHBFRFVnY1liWHRacU5adVBTQ1ljOGt3Q04tYXp2aGN4clFReGh4N2t0Z2Rzc24yYUF1YmZ2N0U4OG9wVWdZWm1maXlKYVcyY29fZ2ctenl0UXliWmNlOFZRRWw0MXN1clBtV241RDFQU000cmFYSXdvRmxTX0JS?oc=5",
-        "description": "",
-        "pubDate": "2025-10-09T15:43:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Tesla investigated over self-driving cars on wrong side of road",
-        "link": "https://www.bbc.com/news/articles/cvg02rdxxz7o?at_medium=RSS&at_campaign=rss",
-        "description": "The US government said approximately 2.9 million cars could be impacted by the investigation.",
-        "pubDate": "2025-10-09T15:41:56Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c837/live/81b11470-a52e-11f0-b741-177e3e2c2fc7.jpg",
-        "bias": 0
       }
     ],
     "Politics": [
@@ -718,7 +718,7 @@
         "bias": -1
       },
       {
-        "title": "Letitia James, who prosecuted Trump in N.Y., is indicted for alleged bank fraud",
+        "title": "Justice Department indicts Letitia James after pressure from Trump",
         "link": "https://www.npr.org/2025/10/09/nx-s1-5569792/letitia-james-indictment-trump",
         "description": "The indictment comes after steady pressure from President Trump to prosecute James, who successfully sued Trump and his company for inflating the value of some of its properties.",
         "pubDate": "2025-10-09T21:05:14Z",
@@ -862,6 +862,15 @@
         "bias": 0
       },
       {
+        "title": "US sanctions Serbia’s main oil supplier, which is controlled by Russia - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQenc0VkhPckZ5NEo5MUpDMjBXdjJXWmtzSGVwOFg3UGh5cVJqdU5sSHhNQzJfLWNNRlNGLXNDeThlYkJLbmtUUEYybldjS1FtSjRjRjI2LWN2ZC1Qd1U5bmZ1UHd4c0pHc3Y2X3JuS2VmczhfOUtBWTBSTjFlUXRxakFWUHJZcjFBWXNtZVowVmVIVVg3?oc=5",
+        "description": "",
+        "pubDate": "2025-10-09T15:37:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Starmer hails India trade deal as 'launchpad' after meeting Modi",
         "link": "https://www.bbc.com/news/articles/czdj66llg9go?at_medium=RSS&at_campaign=rss",
         "description": "The two leaders met in India's financial capital Mumbai to discuss ways to strengthen trade and business ties.",
@@ -961,6 +970,15 @@
         "bias": 0
       },
       {
+        "title": "Indiana man convicted in 2001 rape and murder of teenager to be executed by lethal injection - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdjZnUTdVblNpQlAwcHUtWl9HcHlvNzU3Z1ZJWFRiT2FMM3N1bWpFV3BldEtpaW5sdk5vY1QxYUdDQV9GeTRSSE9ha2tWeEpKRnVkSkM2bjh1aks3b21iVDdBbUFlWnQ4S2VjVExUd0syUkEtZ0xsaGhjWDllLUIyNlRRNnFJVmFWMkFMdVUzQmhoRndhSEN2cU9laUJyOHhHOWY4?oc=5",
+        "description": "",
+        "pubDate": "2025-10-09T04:03:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Weakened Priscilla nears Mexico's Baja peninsula as Tropical Storm Jerry churns in the Atlantic - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWVMtd0tlZGtOeUhDR2w0VV96YXRkb2VLMmcwUDliWnB0Qnp4MFZxX09KQWp1ZGRIWDYxa0tCSE9nNVV3RWRRQms1dFVSOGd3d2Jja0dtdHhCRVg2N1l2V09zdWZBajEwTzM3Nl9xdGFxTjhxUUNGY1lldVUyMTREaGJ3UDJLaWY4eFJBX0trT3dKUFZJdHV1TndCZHlEZVVDcXJoMmFiV2VZZU0?oc=5",
         "description": "",
@@ -998,15 +1016,6 @@
       }
     ],
     "Tech": [
-      {
-        "title": "Live updates: Israel and Hamas agree to a ceasefire, release of hostages and Palestinian prisoners - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tTWQtdHRKZ0UzOHVPV0tKd3h4TjU2OVczUDdGS0lmT1Q4bFJCZUt0Q195NUFVZnRFQUdpQ09idWNOLTBmVHFhVnl0S0xySnI3YTNNZHBCcjVnQVN1RUg2ekRPbGs?oc=5",
-        "description": "",
-        "pubDate": "2025-10-09T21:27:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
       {
         "title": "What to do if your flight is delayed or canceled during the US government shutdown - AP News",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOckpZOWhVbDFyd3c1a2tBWjc4WXZzYkd0VXc2ZVc4eUc1NHJyWkNBaDFWVUhuRmpOSkQzUERnLTU1Wjc5VVhiQmJQMGxsVk9Ma1FTdXRjaXRJR2ZqQ09scDFERS1jSWY2dmpkejVIaGVmWWZobGwtR2RxNXBzOUpqYTRyVE5BN1Z2V21tXzV0X2NqcE5LczFtYVpQWVd2bmsyeU1nZmJJdlA5TE9uMWM0?oc=5",
@@ -1147,6 +1156,15 @@
     ],
     "Business": [
       {
+        "title": "US makes peso purchase in controversial Argentina rescue plan",
+        "link": "https://www.bbc.com/news/articles/c203vx56lqyo?at_medium=RSS&at_campaign=rss",
+        "description": "The US has taken the next step to support Argentina and its president, Trump ally Javier Milei.",
+        "pubDate": "2025-10-09T21:54:22Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d157/live/35fa1e00-a556-11f0-9384-df5a4052ae6a.jpg",
+        "bias": 0
+      },
+      {
         "title": "Solihull staff return to Range Rover production line after JLR cyber-attack",
         "link": "https://www.bbc.com/news/articles/c3w5g6683p8o?at_medium=RSS&at_campaign=rss",
         "description": "Workers return to West Midlands and Merseyside factories in a \"significant moment\" for the company.",
@@ -1193,6 +1211,15 @@
       }
     ],
     "Culture": [
+      {
+        "title": "Celebrity Traitors episode two was as killer as Tom Daley's side-eye",
+        "link": "https://www.bbc.com/news/articles/c1edwzpdlx4o?at_medium=RSS&at_campaign=rss",
+        "description": "Alan Carr continues to worry the nation in the second instalment of this instant-hit celebrity spin-off.",
+        "pubDate": "2025-10-09T21:47:23Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a13d/live/7b8cde60-a558-11f0-928c-71dbb8619e94.jpg",
+        "bias": 0
+      },
       {
         "title": "Five insights from Gavin and Stacey stars James Corden and Ruth Jones’ book",
         "link": "https://www.bbc.com/news/articles/cwy809dgd4zo?at_medium=RSS&at_campaign=rss",
@@ -1281,15 +1308,6 @@
         "pubDate": "2025-10-09T10:08:18Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43cc/live/0f472f90-a4fd-11f0-b741-177e3e2c2fc7.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Stars, secrets and slip-ups: Celebrity Traitors is off to a cracking start",
-        "link": "https://www.bbc.com/news/articles/c2038w7lgx1o?at_medium=RSS&at_campaign=rss",
-        "description": "Stephen Fry, Celia Imrie and Alan Carr are among the stars sitting at the round table in the new series.",
-        "pubDate": "2025-10-09T09:35:35Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd8f/live/6a850060-a4e6-11f0-b741-177e3e2c2fc7.jpg",
         "bias": 0
       },
       {
