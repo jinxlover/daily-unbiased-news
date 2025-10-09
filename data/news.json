@@ -1,7 +1,25 @@
 {
-  "lastUpdate": "2025-10-09T13:43:38.983031Z",
+  "lastUpdate": "2025-10-09T13:55:57.061376Z",
   "news": {
     "Gaming": [
+      {
+        "title": "ASA - DEMO [Free] [Puzzle] [Windows]",
+        "link": "https://moe-socks.itch.io/asa-demo",
+        "description": "A zombie trying to survive",
+        "pubDate": "2025-10-09T13:44:37Z",
+        "source": "moe-socks.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNTMxMjE2LnBuZw==/315x250%23c/4zS71Y.png",
+        "bias": 0
+      },
+      {
+        "title": "Tank vs Barrels: Prototype 1 [Free]",
+        "link": "https://sujan-naik.itch.io/tank-vs-barrels-prototype-1",
+        "description": "Built with Unity Junior Programmer Lesson 1 Tutorial [Prototype 1]",
+        "pubDate": "2025-10-09T13:40:10Z",
+        "source": "sujan-naik.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNTMxMjExLnBuZw==/315x250%23c/%2BTHqwn.png",
+        "bias": 0
+      },
       {
         "title": "Control a country [Free]",
         "link": "https://euromonke.itch.io/control-a-country",
@@ -120,24 +138,6 @@
         "bias": 0
       },
       {
-        "title": "Sonder [Free] [Interactive Fiction]",
-        "link": "https://bardsymphony.itch.io/sonder",
-        "description": "Short text-based game with choice about depression.",
-        "pubDate": "2025-10-09T11:50:06Z",
-        "source": "bardsymphony.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNTMwMjcwLnBuZw==/315x250%23c/pY0Iwk.png",
-        "bias": 0
-      },
-      {
-        "title": "PongPong [Free] [Other] [Windows]",
-        "link": "https://mauri2070.itch.io/pongpong",
-        "description": "PingPong Spaß für 1-2 Spieler",
-        "pubDate": "2025-10-09T11:45:45Z",
-        "source": "mauri2070.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNTMwMTIwLnBuZw==/315x250%23c/R3y8Sj.png",
-        "bias": 0
-      },
-      {
         "title": "Traumatic Panic [Free] [Adventure]",
         "link": "https://juanmeron.itch.io/traumatic-panic",
         "description": "Help Alex face his agoraphobia and leave the house without panicking.",
@@ -201,12 +201,21 @@
         "bias": 0
       },
       {
-        "title": "Aina's Milk Shop [30% Off] [$13.99]",
-        "link": "https://nanakaido.itch.io/aina-milk-shop",
+        "title": "I dreamed of jam [Free] [Puzzle]",
+        "link": "https://henspace.itch.io/i-dreamed-of-jam",
+        "description": "Submission for Unpolished Jam #4",
+        "pubDate": "2025-10-09T08:50:23Z",
+        "source": "henspace.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNTI4OTA0LnBuZw==/315x250%23c/w3mXWH.png",
+        "bias": 0
+      },
+      {
+        "title": "Foton [Free] [Adventure]",
+        "link": "https://joaoneto2.itch.io/foton",
         "description": "",
-        "pubDate": "2025-10-09T07:27:28Z",
-        "source": "nanakaido.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNTI3OTU2LmpwZw==/315x250%23c/RZTtYv.jpg",
+        "pubDate": "2025-10-09T02:58:41Z",
+        "source": "joaoneto2.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNTI1ODY3LmpwZw==/315x250%23c/e5HdsS.jpg",
         "bias": 0
       },
       {
@@ -221,6 +230,33 @@
     ],
     "World": [
       {
+        "title": "How Israel weaponises paid ads",
+        "link": "https://www.aljazeera.com/video/digital-dilemma/2025/10/9/how-israel-weaponises-paid-ads?traffic_source=rss",
+        "description": "Al Jazeera's Linh Nguyen looks at how Israel uses tech platforms to help manage its image on the world stage.",
+        "pubDate": "2025-10-09T13:45:10Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "How Gaza ceasefire news was announced",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/10/9/how-gaza-ceasefire-news-was-announced?traffic_source=rss",
+        "description": "Palestinians and Israelis celebrated after news of an agreement on the first phase of the Gaza ceasefire deal broke out.",
+        "pubDate": "2025-10-09T13:35:02Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "World Cup 2026 qualifiers: Why FIFA won’t ban Israel despite Gaza genocide",
+        "link": "https://www.aljazeera.com/sports/2025/10/9/world-cup-2026-qualifiers-why-fifa-wont-ban-israel-despite-gaza-genocide?traffic_source=rss",
+        "description": "Protection of political, economic and commercial interests has led to FIFA's 'double standards' in dealing with Israel.",
+        "pubDate": "2025-10-09T13:15:45Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Tanks fire towards Gaza civilians after ceasefire announcement",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/10/9/tanks-fire-towards-gaza-civilians-after-ceasefire-announcement?traffic_source=rss",
         "description": "Al Jazeera captured live video of Israeli tanks firing towards Palestinian civilians attempting to return to Gaza City.",
@@ -230,7 +266,7 @@
         "bias": -1
       },
       {
-        "title": "Israel confirms signing phase-one of Gaza ceasefire deal with Hamas",
+        "title": "Israel confirms signing phase one of Gaza ceasefire deal with Hamas",
         "link": "https://www.aljazeera.com/news/2025/10/9/israel-confirms-signing-phase-one-of-gaza-ceasefire-deal-with-hamas?traffic_source=rss",
         "description": "Ceasefire to go into effect within 24 hours of Israel's cabinet ratifying the deal tonight, says Israeli government.",
         "pubDate": "2025-10-09T13:12:52Z",
@@ -282,6 +318,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Tropical Storm Jerry churns in the Atlantic as Priscilla moves along Mexico’s Pacific coast - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUzg4TUZmSDdqM3UxWEVNTjdwQ0hGaHVoaW5GMHJfWW83R0x2YVJWbTFjRmZuYm5jYlJVTUNhbTQ2eklMMGdaTTI3UkhKakV3Q3pEd0ZybHVXSVhENjdWSXBncnlPcEo2Z0pFZk5aVlZQN3MzQVF6OHdFWnZ1WVU2dVF2ZGxab0ZDd2dLaVdiQ3g4RmZj?oc=5",
+        "description": "",
+        "pubDate": "2025-10-09T12:39:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Israel and Hamas will exchange hostages and prisoners after agreeing to a pause in the war in Gaza - AP News",
@@ -633,42 +678,6 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9fb/live/fcd1f390-a506-11f0-b748-37792a239250.png",
         "bias": 0
-      },
-      {
-        "title": "Renewable energy outpaces coal for electricity generation in historic first, report says",
-        "link": "https://www.npr.org/2025/10/09/nx-s1-5564746/renewable-energy-coal-electricity-first",
-        "description": "For the first time on record, renewable energy generated more electricity for the planet than coal, a new report says.",
-        "pubDate": "2025-10-09T09:01:00Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Khaman Maluach – From Refugee Camp to NBA",
-        "link": "https://www.aljazeera.com/video/game-theory/2025/10/9/khaman-maluach-from-refugee-camp-to-nba?traffic_source=rss",
-        "description": "Samantha Johnson looks at Khaman Maluach's journey from Refugee Camp to the NBA",
-        "pubDate": "2025-10-09T09:00:49Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Parents of fugitive New Zealand dad apologise for 'trouble' caused",
-        "link": "https://www.bbc.com/news/articles/cy7pl4e1y1zo?at_medium=RSS&at_campaign=rss",
-        "description": "It is the first time they have spoken publicly since Phillips was shot dead by police during a manhunt.",
-        "pubDate": "2025-10-09T09:00:34Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f65/live/685ae680-a4bc-11f0-bc5f-db0ef720eae0.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Ukraine’s new missiles and drones cause gas shortages in Russia, Zelenskyy says - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOUQ1UGVhVmRhaUVpbVhyZ0VaeVY2bTZUVmxsclJwWnhld1BOZ1hoUnZ3eFA1cndiT0tsTjdyWm1CM1dReUo5SllBM2pVS25zeFN5aklNWVhSaHpnblJHMmFRYWQ4ZTVpM01mdE9XcWx6NUNxc1pLaEdGeGVJYjhjQms4ZElGcTA0V2YyUTNEZ0xoZkRtUFc2TVBibktLbkYwLVYwd0ZOZw?oc=5",
-        "description": "",
-        "pubDate": "2025-10-09T08:58:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
@@ -804,7 +813,7 @@
         "title": "Live updates: Israel and Hamas agree to a ceasefire, release of hostages and Palestinian prisoners - AP News",
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tTWQtdHRKZ0UzOHVPV0tKd3h4TjU2OVczUDdGS0lmT1Q4bFJCZUt0Q195NUFVZnRFQUdpQ09idWNOLTBmVHFhVnl0S0xySnI3YTNNZHBCcjVnQVN1RUg2ekRPbGs?oc=5",
         "description": "",
-        "pubDate": "2025-10-09T13:34:00Z",
+        "pubDate": "2025-10-09T13:47:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -924,6 +933,15 @@
     ],
     "Culture": [
       {
+        "title": "Hungarian writer László Krasznahorkai wins the Nobel Prize in literature - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdjBUV3RvRHdwbHR3bllLZWU5ZS1GbWRLVGRzQ2dWa19RQWxHTzhsU0tqX3R2SjhBZHVpQ2RLOWdQdV94OGlUWXpnZHdvY0wtTFhZNjNFdFFDWmhFMGkzRllDVmN2aWxxejBvbFU5djJlTGYtVF9YNDBJcnBoRzZvRUJxMGJXM1hCOVE?oc=5",
+        "description": "",
+        "pubDate": "2025-10-09T13:37:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Hungarian author László Krasznahorkai wins Nobel Literature Prize",
         "link": "https://www.bbc.com/news/articles/c5y810rlmd8o?at_medium=RSS&at_campaign=rss",
         "description": "He was recognised “for his compelling and visionary oeuvre that, in the midst of apocalyptic terror, reaffirms the power of art”.",
@@ -939,15 +957,6 @@
         "pubDate": "2025-10-09T12:10:56Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cb9/live/1b9de330-a50f-11f0-ba60-dd95d022a9f0.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Hungarian writer László Krasznahorkai wins the Nobel Prize in literature - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdjBUV3RvRHdwbHR3bllLZWU5ZS1GbWRLVGRzQ2dWa19RQWxHTzhsU0tqX3R2SjhBZHVpQ2RLOWdQdV94OGlUWXpnZHdvY0wtTFhZNjNFdFFDWmhFMGkzRllDVmN2aWxxejBvbFU5djJlTGYtVF9YNDBJcnBoRzZvRUJxMGJXM1hCOVE?oc=5",
-        "description": "",
-        "pubDate": "2025-10-09T11:43:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
