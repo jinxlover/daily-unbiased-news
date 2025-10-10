@@ -1,14 +1,32 @@
 {
-  "lastUpdate": "2025-10-10T22:27:30.345544Z",
+  "lastUpdate": "2025-10-10T22:40:31.669705Z",
   "news": {
     "Gaming": [
       {
+        "title": "MatrixBulletTime [Free]",
+        "link": "https://xukeplays.itch.io/matrixbullettime",
+        "description": "",
+        "pubDate": "2025-10-10T22:24:33Z",
+        "source": "xukeplays.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNTUxMjEyLnBuZw==/315x250%23c/1LuZh9.png",
+        "bias": 0
+      },
+      {
         "title": "tutorialv2 [Free] [Action]",
         "link": "https://stefanoml.itch.io/tutorialv2",
-        "description": "Segunda versao do tutorial cumprindo tudo da rubrica",
+        "description": "Stefano Lindenbojm Segunda versao do tutorial cumprindo tudo da rubrica",
         "pubDate": "2025-10-10T22:03:41Z",
         "source": "stefanoml.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNTUxMDg3LnBuZw==/315x250%23c/ak0mki.png",
+        "bias": 0
+      },
+      {
+        "title": "Aberiel Milan Cathedral Jigsaw Puzzle [Free]",
+        "link": "https://aberielstudio.itch.io/aberiel-milan-cathedral-jigsaw-puzzle",
+        "description": "",
+        "pubDate": "2025-10-10T21:59:33Z",
+        "source": "aberielstudio.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNTUxMjk0LmpwZw==/315x250%23c/vchJz%2F.jpg",
         "bias": 0
       },
       {
@@ -30,7 +48,7 @@
         "bias": 0
       },
       {
-        "title": "Ghosts of Trastevere [Free] [Other] [Windows]",
+        "title": "Ghosts of Trastevere [Free] [Other]",
         "link": "https://we2-studios.itch.io/ghosts-of-trastevere",
         "description": "Made for the \"ITALOCURSO GAME JAM 2025\"",
         "pubDate": "2025-10-10T21:43:38Z",
@@ -239,12 +257,39 @@
     ],
     "World": [
       {
+        "title": "Trump threatens to impose additional 100% tariff on China",
+        "link": "https://www.bbc.com/news/articles/cn4wkd7729po?at_medium=RSS&at_campaign=rss",
+        "description": "",
+        "pubDate": "2025-10-10T22:38:14Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d52b/live/d6a268a0-a5ef-11f0-af09-bf7f0464c1dc.jpg",
+        "bias": 0
+      },
+      {
+        "title": "California’s landmark frontier AI law to bring transparency",
+        "link": "https://www.aljazeera.com/economy/2025/10/10/californias-landmark-frontier-ai-law-to-bring-transparency?traffic_source=rss",
+        "description": "While experts applaud the new law, a first in the US, for bringing in transparency, it is 'light touch regulation'.",
+        "pubDate": "2025-10-10T22:21:57Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Macron reappoints Lecornu as French PM after days of turmoil",
         "link": "https://www.bbc.com/news/articles/cy4j9zz54ypo?at_medium=RSS&at_campaign=rss",
         "description": "Sébastien Lecornu resigned on Monday after 26 days in the job and he said two days later his \"mission is over\".",
         "pubDate": "2025-10-10T22:00:15Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d88c/live/c47bff30-a615-11f0-92db-77261a15b9d2.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Trump threatens tech export limits, new 100% tariff on Chinese imports starting Nov. 1 or sooner - AP News",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14cDFwcENqWVZjSXpxTDVJZU1vNndOY1lLSVIydUJNb2h0VEU2Rmg0WlQ2c1RfN2d2UV83aHhiYWlKeVprUTJXbUlEOUhLOW9CN0dEUzYyLU5Oc2NnMUdhbWhwM3NuWDY5MU1QeDFHT1VmOHE1SzF1NFlGZnNTWTQ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-10T21:47:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -320,15 +365,6 @@
         "bias": 0
       },
       {
-        "title": "Trump threatens to impose additional 100% tariff on China",
-        "link": "https://www.bbc.com/news/articles/cn4wkd7729po?at_medium=RSS&at_campaign=rss",
-        "description": "",
-        "pubDate": "2025-10-10T21:07:35Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d52b/live/d6a268a0-a5ef-11f0-af09-bf7f0464c1dc.jpg",
-        "bias": 0
-      },
-      {
         "title": "Venezuela's 'Iron Lady' wins Nobel Peace Prize",
         "link": "https://www.npr.org/2025/10/10/nx-s1-5570749/venezuelas-iron-lady-wins-nobel-peace-prize",
         "description": "The 2025 Nobel Peace Prize has been awarded to Venezuela's leading opposition figure, Maria Corina Machado. The 58-year old democracy leader has been in hiding since 2024.",
@@ -381,6 +417,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "France’s Macron asks newly resigned Sebastian Lecorno to try again to form a government - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMFQ5LTJqRlVvajJtenpPRjBmYjZtU1dKTGRYR3FMelZVWDU0eU5rbkExYVJwREoxYjhFZUYtSmhDQ0t3SU9PYUVxODMyRTV0UVJOZ0tqNDlndno5M1UyMnRJU3dUaVBBeDFpWGpxeHpVRWZTdWF2ZWdTSU1kcDNGbUhhUlJsbXFvTS0zZTVDN1FBSEE?oc=5",
+        "description": "",
+        "pubDate": "2025-10-10T20:17:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "France’s Macron reappoints Sebastien Lecornu as prime minister",
@@ -473,6 +518,15 @@
         "bias": -1
       },
       {
+        "title": "President Donald Trump visits Walter Reed medical center for a ‘semiannual physical’ - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNXzdkT2Y4UXF6eUV0dEZPWXM0Mjc3ZThaQloycVFTX2RRSXhCRzZmZ0FEWjd2ZWhlbVVMOUVCT2lmVFBGRVRoNmJUWFhCSUtQS093UzRaVWkzV3BTdEhfZHBjZjBsSGh4ZU9HTUExMFNaeEc3TFFNa2FuNExpOGRBQW5BV3cwdnJzcjFIWUVRWkFoRU5HRjg1NA?oc=5",
+        "description": "",
+        "pubDate": "2025-10-10T19:06:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Melania Trump touts return of displaced children amid Russia-Ukraine war",
         "link": "https://www.aljazeera.com/news/2025/10/10/melania-trump-touts-return-of-displaced-children-amid-russia-ukraine-war?traffic_source=rss",
         "description": "In a brief speech, the US first lady revealed she had an 'open channel' of communication with Russian President Putin.",
@@ -531,6 +585,15 @@
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZVU3T2ZQaS0xSUJTRWRnaTdxMHU2VHpsV3RVMjNCYTlNYzBJeDFSMDZRZC12RENyZndEb0o0YXdSU1pRVWd1dkVKNnFQY180NzRpZFdNT2hsZHA1WFlWSk9IOU9oY1JSbmRKQkQ4TE1NMTA0SnJWUkhVcEowUUtvZUx2czQ0RXNDT0owX1F5T09hVHJQMUw3TjV3U0lrdmVsU1BLbDctSQ?oc=5",
         "description": "",
         "pubDate": "2025-10-10T18:28:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Russian strikes wound at least 20 in Ukraine’s capital as child is killed in separate attack - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVFFGWndhQTJweUFjZ0pzSkFXVDNISW9pWS1PTkRkcUcxVzZDN0g0cm1YWXYxUkJoZFZIa1NSMEhMNUlBa3VubnNtQnNZck9ieFNlMl91NFBlWFotcnVTOGF4VE9wR2NWRHNFMl9vMnpudTdDNjdKamdvZDk1QmpRWjhJRlh0ZVgtX0QyaVVUdVp3YjQ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-10T18:17:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -642,63 +705,9 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Russia’s Putin says ‘no big deal’ if US won’t extend nuclear warhead limits",
-        "link": "https://www.aljazeera.com/news/2025/10/10/russias-putin-says-no-big-deal-if-us-wont-extend-nuclear-warhead-limits?traffic_source=rss",
-        "description": "Russian president reveals development of new strategic weapons amid stalled nuclear treaty talks with United States.",
-        "pubDate": "2025-10-10T16:26:12Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Qatari defence minister meets with US counterpart at Pentagon",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/10/10/qatari-defence-minister-meets-with-us-counterpart-at-pentagon?traffic_source=rss",
-        "description": "Qatari Defence Minister met with his US counterpart Pete Hegseth at the Pentagon.",
-        "pubDate": "2025-10-10T16:22:56Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Pakistan and India: What’s the global cost of natural disasters?",
-        "link": "https://www.aljazeera.com/video/counting-the-cost/2025/10/10/pakistan-and-india-whats-the-global-cost-of-natural-disasters?traffic_source=rss",
-        "description": "Floods in Pakistan and India re-ignite the debate on the mounting cost of global disasters.",
-        "pubDate": "2025-10-10T16:15:00Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Federal judges in 2 states considering challenges to the government's treatment of Abrego Garcia - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMGVHd21YdHFEQnJsXzZjQzFhX2x5VXRDcG1QbG9sQkVxRk0tNWpiWGdCUFlTX3JjelY1anZxdlVUN1RuQnlUQ1hhd3Y5MGlZeDBtUWxfVGNlUjZNS0ZUekprVWxveDdlVzZBcThIZnRpMXlVVnNZbXlJRy0weVB4NDBjQzdTNk5fOXpuT2o4NHJmV3B3aTBSSWZaQmdMMG5PaFF5aVpSNTI5UQ?oc=5",
-        "description": "",
-        "pubDate": "2025-10-10T16:09:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Snubbed by Nobel, Trump to head to Middle East to celebrate Gaza ‘peace’",
-        "link": "https://www.aljazeera.com/news/2025/10/10/snubbed-by-nobel-trump-to-head-to-middle-east-to-celebrate-gaza-peace?traffic_source=rss",
-        "description": "White House decries Nobel Committee's decision not to hand Peace Prize to Donald Trump after Gaza ceasefire deal.",
-        "pubDate": "2025-10-10T15:32:15Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
-      {
-        "title": "Trump threatens tech export limits, new 100% tariff on Chinese imports starting Nov. 1 or sooner - AP News",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14cDFwcENqWVZjSXpxTDVJZU1vNndOY1lLSVIydUJNb2h0VEU2Rmg0WlQ2c1RfN2d2UV83aHhiYWlKeVprUTJXbUlEOUhLOW9CN0dEUzYyLU5Oc2NnMUdhbWhwM3NuWDY5MU1QeDFHT1VmOHE1SzF1NFlGZnNTWTQ?oc=5",
-        "description": "",
-        "pubDate": "2025-10-10T21:47:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
       {
         "title": "Federal judge rules Trump administration cannot put condition on domestic violence grants - AP News",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRnpMSmJ6SHFxaTB0b2JqQ3BucGlNcWhJX0JWQUk5TV92c2YxOXZ1S1d4MUZYQVowQWJkZFFabmVKTzRoSXBRX0JCZVJDRHZ2bXV0ZVRSQWtFdnR4cF9tOXhGS3FEMFgtUVlBMW1fUnJQTnJxY1lYOU9nbW4yTGdVSkxteHJsMzJJWmF6R1MzLXpmaGNKUndpVTR6MURSSWFIVHRERw?oc=5",
@@ -745,15 +754,6 @@
         "bias": 0
       },
       {
-        "title": "France’s Macron asks newly resigned Sebastian Lecorno to try again to form a government - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMFQ5LTJqRlVvajJtenpPRjBmYjZtU1dKTGRYR3FMelZVWDU0eU5rbkExYVJwREoxYjhFZUYtSmhDQ0t3SU9PYUVxODMyRTV0UVJOZ0tqNDlndno5M1UyMnRJU3dUaVBBeDFpWGpxeHpVRWZTdWF2ZWdTSU1kcDNGbUhhUlJsbXFvTS0zZTVDN1FBSEE?oc=5",
-        "description": "",
-        "pubDate": "2025-10-10T20:17:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Postal traffic to US still down 70% five weeks after duties exemption on low-value packages ended - AP News",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVWJZS29zMWltS1Q2YW1lbm4ySmluWDhZUG9FZjhNeEZEN25JOW5rYnpRdC12ZzNjUEt5T0JINlNoNW9fUlZMODAyRjJQYjBWcEdzZ3VqZUZmNWdFM2lPaHdsN0x5bzJZN3h5ZHYtT09pNmlUMFVoNWVQWjVYSnNTOXE3MUE1ZEJicUREYUJR?oc=5",
         "description": "",
@@ -769,15 +769,6 @@
         "pubDate": "2025-10-10T19:24:26Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f203/live/e5fc5b10-a60a-11f0-a188-efa4885b3354.jpg",
-        "bias": 0
-      },
-      {
-        "title": "President Donald Trump visits Walter Reed medical center for a ‘semiannual physical’ - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNXzdkT2Y4UXF6eUV0dEZPWXM0Mjc3ZThaQloycVFTX2RRSXhCRzZmZ0FEWjd2ZWhlbVVMOUVCT2lmVFBGRVRoNmJUWFhCSUtQS093UzRaVWkzV3BTdEhfZHBjZjBsSGh4ZU9HTUExMFNaeEc3TFFNa2FuNExpOGRBQW5BV3cwdnJzcjFIWUVRWkFoRU5HRjg1NA?oc=5",
-        "description": "",
-        "pubDate": "2025-10-10T19:06:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -817,10 +808,10 @@
         "bias": -1
       },
       {
-        "title": "Russian strikes wound at least 20 in Ukraine’s capital as child is killed in separate attack - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVFFGWndhQTJweUFjZ0pzSkFXVDNISW9pWS1PTkRkcUcxVzZDN0g0cm1YWXYxUkJoZFZIa1NSMEhMNUlBa3VubnNtQnNZck9ieFNlMl91NFBlWFotcnVTOGF4VE9wR2NWRHNFMl9vMnpudTdDNjdKamdvZDk1QmpRWjhJRlh0ZVgtX0QyaVVUdVp3YjQ?oc=5",
+        "title": "Maine Gov. Janet Mills will challenge Sen. Susan Collins in key 2026 Senate contest, AP sources say - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaVlxUE1saEhjanppLUQ2ZW1HdDFScTl6NUNvbHJEMFlFX1l0TFY1XzE1aHp2RnVtU0VveXFkYWpYNE53bWtZSW92WG10S0lSWFBBeVFIRlQtOHQ4NVdETERhZnpiQnVFT2R4MFpXVEpyelNNVTVzWmFpNUh2UWJrZ3pvakFGMHoyYnVKSE1xM3I4Vmw2MHc?oc=5",
         "description": "",
-        "pubDate": "2025-10-10T18:17:00Z",
+        "pubDate": "2025-10-10T18:25:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -952,15 +943,6 @@
         "bias": 0
       },
       {
-        "title": "Syria's foreign minister visits Lebanon as the two nations seek to rebuild ties after Assad's ouster - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX2N5VVc2VGw3UU0xNmhCT0I5dC1idkNvQ1B6Ym1LN21BUWVhRk5ZUDFwSkNDUXhLZ3FhN1kyNkhRVjlJQUhFWFYtVkViblJ4akxVQ0dlc2pSWUZJUHNSQmlVVVlWVmd4cUZCU1RnX01tbW5hcTREUXhia0RkQ2pULUxoZ3Y3eUlhdG9heVUxcHJMcF9KSURUenE4Q2Q3X0VGZWZ1U3RwWHI?oc=5",
-        "description": "",
-        "pubDate": "2025-10-10T12:34:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Farage 'stunned' ex-Wales Reform leader took bribes",
         "link": "https://www.bbc.com/news/articles/cdx21gzl9dlo?at_medium=RSS&at_campaign=rss",
         "description": "Nathan Gill has admitted taking money for pro-Russian statements as a European Parliament member.",
@@ -1089,6 +1071,15 @@
     ],
     "Tech": [
       {
+        "title": "Scrapple sculpture contest winner prevailed in Eagles country by putting the pig into pigskin - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT29aWEhtZWYwWkdqM1R0YklhbDJLa1MtWHBjWHBuWlZFT3hsNGlRbHBZTGFJcDBfdFpwcy02M3VzVlEycS0xVC1sSXhLTWVVaG5Ia1pISGZ4bENnU2t2WDNmcmN2Qm9zOHY4dmZ4SmtyT3R5Y19sV3ZLUkJpcWtuMi1MWXpIZmZFWDd3WklmRjZHLW1Qanc?oc=5",
+        "description": "",
+        "pubDate": "2025-10-10T20:56:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Live updates: Tens of thousands of Palestinians return to their homes as ceasefire takes effect - AP News",
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE02OF90ZF9rbnNkMUZjbFhGSHpDemgzbUZtbVRuUEs0YmNzZzlLejRNMEc3czhVczFSVkFhckZ3SDdDblRIb2VGZnhxS0ZRWnhlNmNzRlhiZ2JRZFhXb1BfVTJ0X2NnUQ?oc=5",
         "description": "",
@@ -1116,15 +1107,6 @@
         "bias": 0
       },
       {
-        "title": "Maine Gov. Janet Mills will challenge Sen. Susan Collins in key 2026 Senate contest, AP sources say - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaVlxUE1saEhjanppLUQ2ZW1HdDFScTl6NUNvbHJEMFlFX1l0TFY1XzE1aHp2RnVtU0VveXFkYWpYNE53bWtZSW92WG10S0lSWFBBeVFIRlQtOHQ4NVdETERhZnpiQnVFT2R4MFpXVEpyelNNVTVzWmFpNUh2UWJrZ3pvakFGMHoyYnVKSE1xM3I4Vmw2MHc?oc=5",
-        "description": "",
-        "pubDate": "2025-10-10T18:25:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Some Palestinians pack up and move north toward their homes in Gaza after ceasefire goes into effect - AP News",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTHY3Z2lJYm1QZTNQamJ4YnNidHpQeDVWWE5HVUNPdTdKeG01YmE2OTNobEhFV3hIQ2ljekdZNnZLM29FSFFOS3B2bTRtdGlTZ1h5YS1NRklaUVc2T25ZMHNRQk04Tk40OU4tYzBwSndZTGRqRjAtaUpNU2Vlandwbkw0cVpyb1Q3RFZJdmtQRVdlVmhZalI0TzM5bktZWk5ma0E4MndJbw?oc=5",
         "description": "",
@@ -1147,6 +1129,15 @@
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQXzFFbFFpak93WmhDQmtoU2k1ek1EMjBPQURXQkJDRm05Z3ZDV1NsbW94dG9oLWxBOTJmZEtfU19rbXo2anRxbTNPUThKVXI1Q2FseURZc2E5ZV9TbjdXRm51UjY1cDBjQjBZNk8tQy1iRDNnYWNtay10d2MwenYzbUU5QmNzTTRPcmVHY01kRUtLcW84TTM5bGlRV2lOcGlDbWxwbQ?oc=5",
         "description": "",
         "pubDate": "2025-10-10T15:24:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Top 20 Global Concert Tours from Pollstar - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVlE1Q082QnkwM0xOZkdKYl8tc3RHMDNtUTAwOVZrRzRPQ2VwWTlpT2VVRXRoak9SaXVEamp4THcwWDM1V1pfUUMtdDd6YVlEcm5lZTE4Rk9GcEJaWmg5azZFTGZHc2Zfb1lmV2VKX3RNZm5MamlYYWZjQU9FamRNdTR5S2lTMU1PaEtXazNmd0FWdEtCTW9Wb053c19KQXAxZG5Z?oc=5",
+        "description": "",
+        "pubDate": "2025-10-10T15:10:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1186,6 +1177,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Cam Skattebo runs for 3 TDs and Jaxson Dart shines as the Giants beat the Eagles 34-17 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZWh5Q05kWGRaX096b3g0dGl1ZzE1Z2lZaF9JX3N5SEhJb3pqdnFTc0oyYndqczVfWGU4eHdCS1hMaVNmd2dsQnkzeDh0MmRCTHJZNHJlMjJMYUpvZDFOYW9VR1R3VUVwUVExUm5kM2g3blNYQlhSd1VlY3BETmY2LW1kSVQtZw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-10T04:23:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Madagascar’s Gen Z protesters clash with police as they call for president to step down - AP News",
@@ -1248,15 +1248,6 @@
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSmpRbnZGRElBUDBzMVllUlE0WkoxNzJzZDF1REx2LWUxcmJvQzBFb1Frc0JTZWE4c2NiUW1zNlF1ck0ydGE1ZmMwalg1OEJydENmQmQweThmbzBTTFFxVDJMU0FqQ3d0cWpIcGFiMXlPcGJXdUd4d3I0emNERG1RME1DWHgtLUJCYW9ENjUzc1Y?oc=5",
         "description": "",
         "pubDate": "2025-10-10T18:57:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Indiana governor meets Indiana Republicans again on redistricting GOP-led state - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSkJFVzBBQ3NVMmJQRzhpNU5OWW8tbFVhZmNwWE5iaWRlUEotMTNvd3d1ZFVrVVhBR3NxVXdyWEpGXzZkSmhBZDVrTDFOV0Q2Tk9RaGdPanBtY1VVUHlkNGNzaTJKbUFlS2xTWDEtdUhtN0x3SjBSeVFuTTc1empWZWlaWEgxYkVIczBfRTBETVZhcjN5bmxvTUpPVEFyNjk1RTFF?oc=5",
-        "description": "",
-        "pubDate": "2025-10-10T18:01:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1342,15 +1333,6 @@
         "pubDate": "2025-10-10T13:56:34Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eea5/live/1c47a510-89a2-11f0-9a26-53a7b49d8dfd.png",
-        "bias": 0
-      },
-      {
-        "title": "Arctic seals and more than half of bird species are in trouble on latest list of threatened species - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTDFya0RQOUhmVTE0WU5SQ3pGS3pDWFZtNzJaNEpQbkJTQnhWQlF6SVBlcEp4OWlXRFBVVEJNWDlIVXFLMW5iRm8wWThwRF94b3JwMmVtX0ZrM2RqUFRKbjNLd0Z4X056UnFCcEdxMmxySllrYVVVM1dFQ3dLOHJhaHAtbDhrX1AySzlkaFVTSV9GMUFFRXFhMllhaUF2V0poX3RuSHRRbmc4bHc?oc=5",
-        "description": "",
-        "pubDate": "2025-10-10T12:09:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
