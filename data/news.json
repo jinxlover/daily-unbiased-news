@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-10-11T23:36:56.228185Z",
+  "lastUpdate": "2025-10-11T23:47:09.490391Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Dream Collector [Free]",
+        "link": "https://irsilva.itch.io/dream-collector",
+        "description": "",
+        "pubDate": "2025-10-11T23:35:19Z",
+        "source": "irsilva.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNTY1MTI2LnBuZw==/315x250%23c/IKBjWU.png",
+        "bias": 0
+      },
       {
         "title": "Guy Spaghetti 2.0 [Free] [Platformer]",
         "link": "https://rk02342n.itch.io/guy-spaghetti-20",
@@ -21,9 +30,18 @@
         "bias": 0
       },
       {
+        "title": "gTerrier's Gorilla Horror [Free] [Action] [Windows] [macOS] [Linux] [Android]",
+        "link": "https://gterrier.itch.io/gterriers-gorilla-horror",
+        "description": "A Gorilla Tag Horror Game!",
+        "pubDate": "2025-10-11T23:14:55Z",
+        "source": "gterrier.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNTY1MDgzLnBuZw==/315x250%23c/Ofegy3.png",
+        "bias": 0
+      },
+      {
         "title": "Tomada Vírus [Free] [Fighting] [Windows]",
         "link": "https://lucaphill.itch.io/tomada-vrus",
-        "description": "Lute contra um boss tomada infectado",
+        "description": "Lute contra uma tomada infectada",
         "pubDate": "2025-10-11T23:12:51Z",
         "source": "lucaphill.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNTY1MTA0LnBuZw==/315x250%23c/d%2BFgba.png",
@@ -120,9 +138,9 @@
         "bias": 0
       },
       {
-        "title": "Just before the storm [Free] [Other]",
+        "title": "Just before the storm [Free]",
         "link": "https://falc10.itch.io/just-before-the-storm",
-        "description": "Short horror game.",
+        "description": "Short experience game.",
         "pubDate": "2025-10-11T22:24:46Z",
         "source": "falc10.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNTY0NDU1LnBuZw==/315x250%23c/i8WI4C.png",
@@ -900,15 +918,6 @@
         "bias": 0
       },
       {
-        "title": "Flooding in central and southeast Mexico kills 28, and damages homes and hospitals - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNmxtdWRwZmhMMHhDUzVVRUQ3MmxhYjlwZm03cHhnc28zZk92ZmFOdnM4dmJWdHdhZGNjcGY4R3VGaFBBbUktQmtGYVNqemlaU2M3S0RNNDFidDFjNm9IS3NWUWJvYnlGeFZPSlRUeEgyT3JKc1J1eW5sV0JBdXhRMVM0ZVNoT1U2SUxyREdNSnI3ZlJ4NzBYNWhhcXBWU2M?oc=5",
-        "description": "",
-        "pubDate": "2025-10-11T04:49:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "How hackers forced brewing giant Asahi back to pen and paper",
         "link": "https://www.bbc.com/news/articles/cly64g5y744o?at_medium=RSS&at_campaign=rss",
         "description": "The maker of Japan's most popular beer, Super Dry, was hit by a major cyber-attack last month.",
@@ -938,15 +947,6 @@
     ],
     "Science": [
       {
-        "title": "President Donald Trump is in ‘exceptional health,’ his doctor says, after visit to Walter Reed - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNXzdkT2Y4UXF6eUV0dEZPWXM0Mjc3ZThaQloycVFTX2RRSXhCRzZmZ0FEWjd2ZWhlbVVMOUVCT2lmVFBGRVRoNmJUWFhCSUtQS093UzRaVWkzV3BTdEhfZHBjZjBsSGh4ZU9HTUExMFNaeEc3TFFNa2FuNExpOGRBQW5BV3cwdnJzcjFIWUVRWkFoRU5HRjg1NA?oc=5",
-        "description": "",
-        "pubDate": "2025-10-11T01:20:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "US clashes with Venezuela and allies at emergency UN meeting on US strikes in Caribbean - AP News",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdi03UjM0bThOeWxtOERRWTlDVFJ4UmNiVk4tenBicjJMZmUwemVqZUhWVGZUNDVVd0NrYnpNaUJRMXBNTi04M0FXdFcyX2lzdjBFZVpjdy1CdHRjSERXTTZqLXMzSHEzanFPYWpIcC04Rk4tV0RIdXQteHVybGFQR05zZ1hxUEltVWFqX3FablNDLVQ5ZUZ1Nnljc0dsYU5DOFFfd241U0tFMXNraXRYYU9Gcw?oc=5",
         "description": "",
@@ -961,7 +961,16 @@
         "title": "Heavy rain in Mexico sets off floods and landslides, killing at least 37 - AP News",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT0VDa3VJMUo1OXlFNU1IYU5tUkI5V3JwaTM4NVRRQXpBdmZPUEtxOTdwNHlpRHNsanRUTGlHTm1KNlBMZWdDSktyclBtd3R6bEx4VUNGWmhoWUxBZDV5WFp5T1ZmTS1xaVpsd3RTbWt4STRBdDliOWNWU0ZUSV8zdmR6WF9OdjhIVTVud1dEajQ1bU9JV0lOV0dKVHZiakxDenpsZnRBYjdpSUNRT1hGU1ZKZ0U?oc=5",
         "description": "",
-        "pubDate": "2025-10-11T17:34:00Z",
+        "pubDate": "2025-10-11T22:07:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Flooding in central and southeast Mexico kills 28, and damages homes and hospitals - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNmxtdWRwZmhMMHhDUzVVRUQ3MmxhYjlwZm03cHhnc28zZk92ZmFOdnM4dmJWdHdhZGNjcGY4R3VGaFBBbUktQmtGYVNqemlaU2M3S0RNNDFidDFjNm9IS3NWUWJvYnlGeFZPSlRUeEgyT3JKc1J1eW5sV0JBdXhRMVM0ZVNoT1U2SUxyREdNSnI3ZlJ4NzBYNWhhcXBWU2M?oc=5",
+        "description": "",
+        "pubDate": "2025-10-11T04:49:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
