@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-11T05:45:53.327426Z",
+  "lastUpdate": "2025-10-11T05:56:04.521416Z",
   "news": {
     "Gaming": [
       {
@@ -45,6 +45,15 @@
         "pubDate": "2025-10-11T05:17:35Z",
         "source": "hsa7sy.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNTU0NTY4LmpwZw==/315x250%23c/v5j8Ot.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Detour [Free] [Adventure] [Windows]",
+        "link": "https://adrenak.itch.io/detour",
+        "description": "Late night convenience store errand gone wrong.",
+        "pubDate": "2025-10-11T05:16:12Z",
+        "source": "adrenak.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNTU0Njc0LmdpZg==/315x250%23c/Icpewn.gif",
         "bias": 0
       },
       {
@@ -228,24 +237,6 @@
         "bias": 0
       },
       {
-        "title": "project snowy [Free] [Windows] [macOS] [Linux] [Android]",
-        "link": "https://zeke897.itch.io/project-snowyapk",
-        "description": "project snowy.apk v1",
-        "pubDate": "2025-10-11T02:01:08Z",
-        "source": "zeke897.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNTUzMTc3LnBuZw==/315x250%23c/v4CdcF.png",
-        "bias": 0
-      },
-      {
-        "title": "Time For Booty [Free] [Action]",
-        "link": "https://magisean.itch.io/time-for-booty",
-        "description": "3D pirate-themed beat-em-up prototype.",
-        "pubDate": "2025-10-11T01:57:31Z",
-        "source": "magisean.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNTUzNjAxLnBuZw==/315x250%23c/A%2FL0lT.png",
-        "bias": 0
-      },
-      {
         "title": "Raccoon Dreamer [Free] [Platformer]",
         "link": "https://rjungemann.itch.io/raccoon-dreamer",
         "description": "Follow a raccoon escaping a crashed meteor",
@@ -329,9 +320,9 @@
         "bias": -1
       },
       {
-        "title": "Denmark to boost Greenland defence with new ships, jets and HQ",
+        "title": "Denmark to boost Arctic defence with new ships, jets and HQ",
         "link": "https://www.bbc.com/news/articles/cy9n790j878o?at_medium=RSS&at_campaign=rss",
-        "description": "Denmark will buy US F-35 fighter jets and new ships to defend Greenland - a resource-rich Danish territory that President Trump wants to control.",
+        "description": "Denmark will buy US F-35 fighter jets and new ships to defend the Arctic, including Greenland.",
         "pubDate": "2025-10-11T01:56:45Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f381/live/df5bf250-a643-11f0-968a-efb7a719b7f7.jpg",
@@ -405,15 +396,6 @@
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeExRNGp6QVlfYWpucUREMU5YcENpT0RBQ19TNXdqb2xibTI1bnE4bVBYRmtVQm5sQ2xPcTI5MnFJNl9yWDAtZU94R0VnU2d4ZC05ZVh0aXFOS2paWmhJZl83Vi1tcHJnNnlnLXY4d2thWG4tN0oyWU1XNFFBcGJ5aF94VEhObUh5OXRYY1dSWG9GUQ?oc=5",
         "description": "",
         "pubDate": "2025-10-11T00:31:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Maine Gov. Janet Mills will challenge Sen. Susan Collins in key 2026 Senate contest, AP sources say - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaVlxUE1saEhjanppLUQ2ZW1HdDFScTl6NUNvbHJEMFlFX1l0TFY1XzE1aHp2RnVtU0VveXFkYWpYNE53bWtZSW92WG10S0lSWFBBeVFIRlQtOHQ4NVdETERhZnpiQnVFT2R4MFpXVEpyelNNVTVzWmFpNUh2UWJrZ3pvakFGMHoyYnVKSE1xM3I4Vmw2MHc?oc=5",
-        "description": "",
-        "pubDate": "2025-10-11T00:26:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -513,17 +495,7 @@
         "bias": 0
       }
     ],
-    "Science": [
-      {
-        "title": "US clashes with Venezuela and allies at emergency UN meeting on US strikes in Caribbean - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdi03UjM0bThOeWxtOERRWTlDVFJ4UmNiVk4tenBicjJMZmUwemVqZUhWVGZUNDVVd0NrYnpNaUJRMXBNTi04M0FXdFcyX2lzdjBFZVpjdy1CdHRjSERXTTZqLXMzSHEzanFPYWpIcC04Rk4tV0RIdXQteHVybGFQR05zZ1hxUEltVWFqX3FablNDLVQ5ZUZ1Nnljc0dsYU5DOFFfd241U0tFMXNraXRYYU9Gcw?oc=5",
-        "description": "",
-        "pubDate": "2025-10-11T00:57:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      }
-    ],
+    "Science": [],
     "Business": [],
     "Culture": []
   }
