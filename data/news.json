@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-11T16:37:30.154655Z",
+  "lastUpdate": "2025-10-11T16:48:02.063987Z",
   "news": {
     "Gaming": [
       {
@@ -9,6 +9,15 @@
         "pubDate": "2025-10-11T16:32:25Z",
         "source": "yodananas.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNTYwNDU1LnBuZw==/315x250%23c/AKyQaD.png",
+        "bias": 0
+      },
+      {
+        "title": "Bienvenido a la UMNG V1 [Free] [Visual Novel]",
+        "link": "https://juanfique.itch.io/bienvenido-a-la-umng-v1",
+        "description": "",
+        "pubDate": "2025-10-11T16:23:01Z",
+        "source": "juanfique.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNTYwMzI1LnBuZw==/315x250%23c/6elxit.png",
         "bias": 0
       },
       {
@@ -219,15 +228,6 @@
         "bias": 0
       },
       {
-        "title": "Brainrot Mercato [Free] [Strategy]",
-        "link": "https://toocat.itch.io/brainrot-mercato",
-        "description": "Brainrot fight!",
-        "pubDate": "2025-10-11T14:15:48Z",
-        "source": "toocat.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNTU4NjU1LmpwZw==/315x250%23c/gtfqbG.jpg",
-        "bias": 0
-      },
-      {
         "title": "Run of the Cavalry [Free] [Action] [Windows]",
         "link": "https://aircongamer.itch.io/run-of-the-cavalry",
         "description": "A 3D infinit runner",
@@ -301,6 +301,15 @@
       }
     ],
     "World": [
+      {
+        "title": "Palestinians return to ruins and US troops land in Israel as ceasefire holds - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYkdMYmpVY1JkZnVkc0w1Tm5VNTMxM1dUNi04RndVcW9Oc2JMQUVLVnhIWDN2OEY1dzRlcm10b0Z2VXQ1OG52TmIzdDRxWFdmZUJ4RWJwaWVEd05BWG9GaWExc1A5UkFjbnhsXzF4Z2JYTjBYenFPbkZacWVvazQySWhPTGdwMmt5cTJtYnV6SzV6UEc3djhTNQ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-11T16:01:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Trump administration starts laying off thousands of workers",
         "link": "https://www.bbc.com/news/articles/c1mxd1g71vxo?at_medium=RSS&at_campaign=rss",
@@ -381,15 +390,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Palestinians return to ruins and US troops land in Israel as ceasefire holds - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYkdMYmpVY1JkZnVkc0w1Tm5VNTMxM1dUNi04RndVcW9Oc2JMQUVLVnhIWDN2OEY1dzRlcm10b0Z2VXQ1OG52TmIzdDRxWFdmZUJ4RWJwaWVEd05BWG9GaWExc1A5UkFjbnhsXzF4Z2JYTjBYenFPbkZacWVvazQySWhPTGdwMmt5cTJtYnV6SzV6UEc3djhTNQ?oc=5",
-        "description": "",
-        "pubDate": "2025-10-11T14:48:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Analysis: Iran out in the cold as Mideast unites in support of Gaza ceasefire - AP News",
@@ -824,9 +824,27 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "US citizen detained and held at ICE building in Portland for hours before release, lawyer says - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMnJfRVVrU2dBT3BDTUlWeWdDRUxrbDNEeUo1T0k2eHRzb2ZDNXdncjQ5Zk54NDJNTFRZQmRrRFdxOUhUSVVmT2ZSZHgxaXZrRlZUaWFpc3ZkQU0zd2FvWkpESEpZUDFZSFZBcWRidk5aaVgtc21FSHRCbnRacU5kNGY1TXRvQ1VnSGd1ZWN2cHRzdFh2dFVyS3EyRjdoYWFL?oc=5",
+        "description": "",
+        "pubDate": "2025-10-11T01:33:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Tech": [
+      {
+        "title": "2 people shot to death during homecoming weekend in small Mississippi town - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc24ybUNScHdXQm9HZVFBc3g4Tng3MXNWek5oalVtZ1dGcm0zcFItVUFjVUdSZVdLUkY0emFhUTFvd182TlBqaUFRMWVfeEJZLUZUc3RqdTBYTTV6RjE4SXlYY0l4ekJrSi14ZnBHYWRidVlRbkRsbFFHdHVUekpkbHZnQTY4TjFHYnliLTVLLTd6QVFsZ01iWWZOTlZyNDdhbU1sSnhR?oc=5",
+        "description": "",
+        "pubDate": "2025-10-11T14:44:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Gauff overcomes double faults to beat Paolini, Pegula edges Sabalenka in Wuhan semifinals - AP News",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNlNqcmc1SUFQdmhKeGdXM2RVOHpSTEliUjNiWjEyM2dXbGVMWjdzX1NDcVg2dU0waHNrRFZUMlNpSHpJdkdsdFRCNUdWOVpnWkVVWkozeTFPNWd3bHhYN3BkeGZvaDV3NFRYNEVlZHBaMmh3RkFPZlBCaU1hY3JZQlY5a19rMHpYck05bF9RaE15S0Jf?oc=5",
@@ -850,15 +868,6 @@
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNmxtdWRwZmhMMHhDUzVVRUQ3MmxhYjlwZm03cHhnc28zZk92ZmFOdnM4dmJWdHdhZGNjcGY4R3VGaFBBbUktQmtGYVNqemlaU2M3S0RNNDFidDFjNm9IS3NWUWJvYnlGeFZPSlRUeEgyT3JKc1J1eW5sV0JBdXhRMVM0ZVNoT1U2SUxyREdNSnI3ZlJ4NzBYNWhhcXBWU2M?oc=5",
         "description": "",
         "pubDate": "2025-10-11T04:49:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "US citizen detained and held at ICE building in Portland for hours before release, lawyer says - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMnJfRVVrU2dBT3BDTUlWeWdDRUxrbDNEeUo1T0k2eHRzb2ZDNXdncjQ5Zk54NDJNTFRZQmRrRFdxOUhUSVVmT2ZSZHgxaXZrRlZUaWFpc3ZkQU0zd2FvWkpESEpZUDFZSFZBcWRidk5aaVgtc21FSHRCbnRacU5kNGY1TXRvQ1VnSGd1ZWN2cHRzdFh2dFVyS3EyRjdoYWFL?oc=5",
-        "description": "",
-        "pubDate": "2025-10-11T01:33:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
