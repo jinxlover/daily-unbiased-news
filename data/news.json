@@ -1,16 +1,7 @@
 {
-  "lastUpdate": "2025-10-12T19:47:55.401020Z",
+  "lastUpdate": "2025-10-12T19:58:26.054900Z",
   "news": {
     "Gaming": [
-      {
-        "title": "Time is UP [Free] [Windows]",
-        "link": "https://klika.itch.io/time-is-up",
-        "description": "",
-        "pubDate": "2025-10-12T19:44:30Z",
-        "source": "klika.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNTc4NjQ1LnBuZw==/315x250%23c/iOvVC0.png",
-        "bias": 0
-      },
       {
         "title": "3d fps [Free]",
         "link": "https://aleksander2299.itch.io/3d-fps",
@@ -18,6 +9,15 @@
         "pubDate": "2025-10-12T19:35:14Z",
         "source": "aleksander2299.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNTc4MjY1LnBuZw==/315x250%23c/W7TIPv.png",
+        "bias": 0
+      },
+      {
+        "title": "Exorcist Escape [Free] [Puzzle] [Windows]",
+        "link": "https://yourfriendwheat.itch.io/exorcist-escape",
+        "description": "",
+        "pubDate": "2025-10-12T19:34:28Z",
+        "source": "yourfriendwheat.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNTc4NzQyLmpwZw==/315x250%23c/A1D1E%2B.jpg",
         "bias": 0
       },
       {
@@ -93,9 +93,9 @@
         "bias": 0
       },
       {
-        "title": "GET IN THE CLAW SHINJI! [Free]",
+        "title": "GET IN THE CLAW SHINJI! [Free] [Windows]",
         "link": "https://inkkles.itch.io/the-claw",
-        "description": "enact the rapture",
+        "description": "inact the rapture",
         "pubDate": "2025-10-12T19:16:38Z",
         "source": "inkkles.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNTc4MTc4LnBuZw==/315x250%23c/ZVWPpz.png",
@@ -138,21 +138,21 @@
         "bias": 0
       },
       {
+        "title": "Echoforge [Free] [Strategy]",
+        "link": "https://nathan-mrx.itch.io/echoforge",
+        "description": "A tactical roguelike deckbuilder of deceit, echoes, and forbidden power.",
+        "pubDate": "2025-10-12T19:02:23Z",
+        "source": "nathan-mrx.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNTc4NzUwLnBuZw==/315x250%23c/%2FO2h6A.png",
+        "bias": 0
+      },
+      {
         "title": "Panderr [Free] [Other]",
         "link": "https://damyck.itch.io/panderr",
         "description": "Frogger like game",
         "pubDate": "2025-10-12T18:56:34Z",
         "source": "damyck.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNTc3OTU3LnBuZw==/315x250%23c/wfmFPX.png",
-        "bias": 0
-      },
-      {
-        "title": "Poppy Playtime: Broken Playhouse [Free] [Adventure]",
-        "link": "https://ikerproyectgames.itch.io/poppy-playtime-broken-playhouse",
-        "description": "",
-        "pubDate": "2025-10-12T18:44:03Z",
-        "source": "ikerproyectgames.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNTc4NDY5LnBuZw==/315x250%23c/4rcg01.png",
         "bias": 0
       },
       {
@@ -183,15 +183,6 @@
         "bias": 0
       },
       {
-        "title": "Knightfall Drop [Free] [Adventure] [Windows]",
-        "link": "https://matinhadzhiseid.itch.io/knightfall-drop",
-        "description": "",
-        "pubDate": "2025-10-12T17:57:40Z",
-        "source": "matinhadzhiseid.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNTc3MDgwLnBuZw==/315x250%23c/ItcLz7.png",
-        "bias": 0
-      },
-      {
         "title": "Untitled Card Game [Free] [Card Game] [Windows]",
         "link": "https://flutzzie.itch.io/untitled-card-game",
         "description": "Un jeux de carte avec vos cartes favorites officielles",
@@ -216,6 +207,15 @@
         "pubDate": "2025-10-12T16:45:04Z",
         "source": "proxy-mate.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNTc4MTEwLmpwZw==/315x250%23c/gWBVVo.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Chaos Forge [Free] [Action]",
+        "link": "https://teljen.itch.io/chaos-forge",
+        "description": "Defend against your own creations.",
+        "pubDate": "2025-10-12T16:21:02Z",
+        "source": "teljen.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNTc4NTkwLnBuZw==/315x250%23c/pwRcPj.png",
         "bias": 0
       },
       {
@@ -269,7 +269,7 @@
         "title": "Live updates: AP Top 25 poll sees biggest turnover in rankings since 2022 - AP News",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLV0I5UVllS0k5bEczejVobk5OdFlrSDRSQmFXa2lWZzEyTEM0MTVXTTZVa0NUNnBLamthR2NULWxaSkpncGxWaVlvdDJGVTJUUDFGbmxSUUJaV1dGQnlLUHIyTnNsYjJsRDMwcVQxZ00?oc=5",
         "description": "",
-        "pubDate": "2025-10-12T19:27:00Z",
+        "pubDate": "2025-10-12T19:55:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -282,6 +282,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Penn State fires coach James Franklin amid midseason free fall in a lost season - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOHVuRG9aek5Rb0hmVVRnT254VzNTdnNla19Ec25VQndZUWJsdF9pVV9OT0tKSE9ONXNiVXhQMm9ESDNqb3RZSnZJT21Ldzhzd2hRYWZKMUVzelZtVUtGSGFxeWR4UmRVYzUtZVV4aXBKNklaMVI5OXIwUndfc0d0LU5nOUZuQ3NkTkQ2T213NzQyeDN5UjdrSDlFZjlkOTRQbkZhWFc0akU?oc=5",
+        "description": "",
+        "pubDate": "2025-10-12T19:16:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Why does Israel arrest thousands of Palestinians?",
@@ -317,15 +326,6 @@
         "pubDate": "2025-10-12T18:32:42Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0295/live/f94c5e30-a796-11f0-8c9e-87f67f3eb58c.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Penn State fires coach James Franklin amid midseason freefall in a lost season - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOHVuRG9aek5Rb0hmVVRnT254VzNTdnNla19Ec25VQndZUWJsdF9pVV9OT0tKSE9ONXNiVXhQMm9ESDNqb3RZSnZJT21Ldzhzd2hRYWZKMUVzelZtVUtGSGFxeWR4UmRVYzUtZVV4aXBKNklaMVI5OXIwUndfc0d0LU5nOUZuQ3NkTkQ2T213NzQyeDN5UjdrSDlFZjlkOTRQbkZhWFc0akU?oc=5",
-        "description": "",
-        "pubDate": "2025-10-12T18:19:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -419,15 +419,6 @@
         "bias": -1
       },
       {
-        "title": "Vance warns ‘deeper’ cuts ahead for federal workers as shutdown enters 12th day - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWXVHTzdQaGlyUDdod0dGS0NCRlJyY3dTTkpnSXUwdHp2SkRjNmtEcTBleDNNaXJtOTc4N3FSYUUtZDdRSXVJdjg1bkNBQlRlSjBiajBncEZDbk9Yakg2VHNRWktVMFc4ckl5RkU5Tnd6SUtSbWFlbVhBSTlHTmZ6aExUZkpuUkJFYkZmZHJKWmp1U1BuS1IydkVMclFzZ1c5NlNMcEJuSWhKN1VJc3lIcHFsMGpOdw?oc=5",
-        "description": "",
-        "pubDate": "2025-10-12T17:20:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Traitor, survivor or influencer? Mexico rethinks story of conquistador translator Malinche - AP News",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM2sxcTlzYXJaUmdURmV3NXlyV3hGNlJ1c1hDRVZ6LV9LNmhUQWhGcERQdTRiWEZWTGlLeUFsQm92TjZ0UWVpUnEyTWo1NjFjYXdyck5wNjBnM1hidU4xUGFjMlhLVGdTcU8zbEVTZTJ1eFJYMnl2OVZoSFZncUctWlBJZFhEbVlFWXE5NHFOQmdSOGdMRFhScWhCOFpoczR0VFJvdTRLRnpCa0lJSkxhQU02MEpqNDhWWGxXUFpwM29TREE?oc=5",
         "description": "",
@@ -491,15 +482,6 @@
         "bias": -1
       },
       {
-        "title": "Diane Keaton, Oscar-winning star of ‘Annie Hall’ and ‘The Godfather,’ dies at 79 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd3RiYkVFS1JCNVF1LWRGUXl0ZVdQQnRQNUpya2t2ZmNjUnp0OUQ3NW9tVXNiQ1BDZVM2Zzd0LV84Ry1SSllNbkVyMDFndnBBMV9PblhrNWRaTkJ2ZUdLdTdMaWt6UjF2RmNjOHFmQ0g5QVJlaUhjeS1kczFhdTc0SGdJOA?oc=5",
-        "description": "",
-        "pubDate": "2025-10-12T15:51:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Mali imposes retaliatory visa bond fees on US travellers",
         "link": "https://www.aljazeera.com/news/2025/10/12/mali-imposes-retaliatory-visa-bond-fees-on-us-travellers?traffic_source=rss",
         "description": "The measure comes after the US added Mali to its list of African countries required to post bonds of $5,000 and $10,000.",
@@ -549,15 +531,6 @@
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNXpCeEFjOUxKc3VOY0phVTQwaVgyS1gyZ2gtZE12YklsSThFVURPVzU3MW1id29naGJHbUhqR204cWNmWkp5eGtrOFkxUTNvZkg1bnNiZWFfVjl0VzNSWHJRWmlTUkN0UDkwdkNmX0w4YnQtZWgxUGR3NnlDY1RNOTV3RURYYV9FeGpv?oc=5",
         "description": "",
         "pubDate": "2025-10-12T14:42:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Trump sets off for the Mideast to mark a ceasefire deal and urge Arab leaders to seize the moment - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPalF4MUQtQ0VvZmNhaFY0LXpGMC0zVWlOVXF1Tjg0X09TTWtyTkRpUzJwXzZHUEdfeFA3ZVU0RmVtMVRKcDYxTGFSbmpRRWhyQ0hydkxXdHFNYjVYbS1oN1hhZkFJOFpJWkNZaEF5UnI3Z2ZybTRTYzBoUmpYQ2xfQXpvc3paSElNOHhvWEs2YkZOaHpWa1B4T1J4UndXRXltdWswcTFITWVlNnMzUTAydjUtS00?oc=5",
-        "description": "",
-        "pubDate": "2025-10-12T14:24:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -714,18 +687,36 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a46/live/bcfeb300-a756-11f0-92db-77261a15b9d2.jpg",
         "bias": 0
+      },
+      {
+        "title": "Seychelles' opposition leader wins presidential poll",
+        "link": "https://www.bbc.com/news/articles/cy7p72rj2geo?at_medium=RSS&at_campaign=rss",
+        "description": "Patrick Herminie has defeated Wavel Ramkalawan in a runoff, gaining 52.7% of the vote, official results show.",
+        "pubDate": "2025-10-12T10:39:21Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bd3/live/d4e8a300-a755-11f0-86ee-bde5491c9148.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Preparations begin to ramp up aid in Gaza as ceasefire brings hope for end to 2-year war",
+        "link": "https://www.npr.org/2025/10/12/nx-s1-5572384/aid-gaza-ceasefire-preparations",
+        "description": "Preparations were also underway Sunday for the release of Israeli hostages held in Gaza and Palestinian prisoners held in Israel.",
+        "pubDate": "2025-10-12T09:52:17Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "China slams Trump’s 100 percent tariff threat, defends rare earth curbs",
+        "link": "https://www.aljazeera.com/news/2025/10/12/china-slams-trumps-100-percent-tariff-threat-defends-rare-earth-curbs?traffic_source=rss",
+        "description": "Beijing says it will not back down in the face of threats, urging the US to resolve differences through negotiations.",
+        "pubDate": "2025-10-12T09:15:59Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       }
     ],
     "Politics": [
-      {
-        "title": "What to know as Israel and Gaza await the release of hostages, prisoners, aid -- and Trump's visit - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObGkxcVRHTkg2WUt3R3RnLWdwYmt3YUlwd1B6Tkk2LXdPa2RvdFpfaUpPWWxiUGpaNE9RbnJweUlBdHZVc21RQ2tPZFg1bEZLU0xzTktRV3RVT3d3WWR0cXdlNzlQR2xIWk14MHNHYmxPbVMyN1BDSjE2RnFWM0pYUVV0alRaZk1vNDAzNVVyNGtqa0t0akF6NjBSa25zR0F3WjJBZkljNExta0x6MGJMTw?oc=5",
-        "description": "",
-        "pubDate": "2025-10-12T18:06:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
       {
         "title": "Ex-NFL QB Mark Sanchez released from custody a week after parking fight arrest and stabbing - AP News",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaTFvdnk0alVnei1iN1BuSlJzT2Via3FQWjJnU0loZnlUeUVab253OEx3ZmVBYmdfdHFzZWRMazBSWUx6X2lUSmo1OHZEa0xGeVd0X1ZpOWVsckZnWkl2SnRGXzhKSGpwWmNoc19HYUFFMWMtY3p5NlBkazZiRWpMMEFaaFVhMUUtZGNDdVZtTGxkXzNydWQ3aG9zN29EbE1ZRkE?oc=5",
@@ -745,6 +736,15 @@
         "bias": 0
       },
       {
+        "title": "Vance warns ‘deeper’ cuts ahead for federal workers as shutdown enters 12th day - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWXVHTzdQaGlyUDdod0dGS0NCRlJyY3dTTkpnSXUwdHp2SkRjNmtEcTBleDNNaXJtOTc4N3FSYUUtZDdRSXVJdjg1bkNBQlRlSjBiajBncEZDbk9Yakg2VHNRWktVMFc4ckl5RkU5Tnd6SUtSbWFlbVhBSTlHTmZ6aExUZkpuUkJFYkZmZHJKWmp1U1BuS1IydkVMclFzZ1c5NlNMcEJuSWhKN1VJc3lIcHFsMGpOdw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-12T17:20:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Starmer to attend Egypt summit on Gaza peace plan, No 10 says",
         "link": "https://www.bbc.com/news/articles/c9qnqx7znqno?at_medium=RSS&at_campaign=rss",
         "description": "President Trump will lead Monday's summit, where No 10 says the peace plan will be signed.",
@@ -754,10 +754,28 @@
         "bias": 0
       },
       {
+        "title": "Diane Keaton, Oscar-winning star of ‘Annie Hall’ and ‘The Godfather,’ dies at 79 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd3RiYkVFS1JCNVF1LWRGUXl0ZVdQQnRQNUpya2t2ZmNjUnp0OUQ3NW9tVXNiQ1BDZVM2Zzd0LV84Ry1SSllNbkVyMDFndnBBMV9PblhrNWRaTkJ2ZUdLdTdMaWt6UjF2RmNjOHFmQ0g5QVJlaUhjeS1kczFhdTc0SGdJOA?oc=5",
+        "description": "",
+        "pubDate": "2025-10-12T15:51:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "California expands privacy protections as Democratic-led states resist Trump's immigration agenda - AP News",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMDRGY2JWSnRRMllhalgtY3pUYWNFbkg0LVlrVlNPbzlTSDFnVVJNdW56YjJtNGFXOXpNQ3AwU0lPNVpsa2ZUMmdRZkVwZE5DdW4wT19Ya3JINElkTnRmLXpjQTRyMDJKV3ktODRXZW9INXM0T2VBLXYtdXhWZmgxWjB2Q25neGdQbWFIQUJudWRIQQ?oc=5",
         "description": "",
         "pubDate": "2025-10-12T15:29:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Trump sets off for the Mideast to mark a ceasefire deal and urge Arab leaders to seize the moment - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPalF4MUQtQ0VvZmNhaFY0LXpGMC0zVWlOVXF1Tjg0X09TTWtyTkRpUzJwXzZHUEdfeFA3ZVU0RmVtMVRKcDYxTGFSbmpRRWhyQ0hydkxXdHFNYjVYbS1oN1hhZkFJOFpJWkNZaEF5UnI3Z2ZybTRTYzBoUmpYQ2xfQXpvc3paSElNOHhvWEs2YkZOaHpWa1B4T1J4UndXRXltdWswcTFITWVlNnMzUTAydjUtS00?oc=5",
+        "description": "",
+        "pubDate": "2025-10-12T14:24:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -835,10 +853,10 @@
         "bias": 0
       },
       {
-        "title": "No. 10 Georgia forces a goal-line fumble to seize momentum and beat Auburn 20-10 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTU9aVHBXQk05U0RRekpGZVlVR3pFeVBadlhXRENyV3M4U1g1V211ZnlxVFVRc1ZBSWhmR08zczRsdC1ON3ZzakhYYmI2eFlvNkJxQzliZXRUMTk1TlBsNTlKeHprV1c2V2hIWk0tcEtiX0ZpYXlnLUFiM3BBZHBIc2Z6cm9FX2M?oc=5",
+        "title": "Brewers beat Cubs 3-1 in Game 5 of NL Division Series to earn NLCS matchup with Dodgers - AP News",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONDcta19ycnVRQnRJc01HcEIwQktNS2JiYW9zUTRhVTBOYjZXYmRxMlBwYWhGd3E5cXlFNG11eFFOYUZvQ2gwWmo3SHNPTHVDMnVQRVZ6Vlhoekh0WHF5NnNfRXptWGQ4Z09HWmEzUE1CVER2cG50SVlBRE94dHhHY1dMdw?oc=5",
         "description": "",
-        "pubDate": "2025-10-12T04:35:00Z",
+        "pubDate": "2025-10-12T06:06:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -854,6 +872,15 @@
       }
     ],
     "Tech": [
+      {
+        "title": "What to know as Israel and Gaza await the release of hostages, prisoners, aid -- and Trump's visit - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObGkxcVRHTkg2WUt3R3RnLWdwYmt3YUlwd1B6Tkk2LXdPa2RvdFpfaUpPWWxiUGpaNE9RbnJweUlBdHZVc21RQ2tPZFg1bEZLU0xzTktRV3RVT3d3WWR0cXdlNzlQR2xIWk14MHNHYmxPbVMyN1BDSjE2RnFWM0pYUVV0alRaZk1vNDAzNVVyNGtqa0t0akF6NjBSa25zR0F3WjJBZkljNExta0x6MGJMTw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-12T18:06:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Tax incentives are drawing data centers to Atlanta's south suburbs, worrying residents",
         "link": "https://www.npr.org/2025/10/12/nx-s1-5537109/tax-incentives-are-drawing-data-centers-to-atlantas-south-suburbs-worrying-residents",
@@ -877,6 +904,15 @@
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa2tzcHZKUDRYUmhtVDVlUUEyT0Voc05oVTJQNjNucE5YZm83MVBMV2R5YkFOa2xGZHhEcU1xTzczLUhJOFFKd0s4ZkMtSEFtNTY4Y210ZElCWlphOEpvVjJOTHRUM2xTTkd2LUhXd3BCdjZMbGtYSzlYVk9ZMW5SRVJQUXlUb3BPZ2tsZWxlSjNTc3ZMOTRVVHBzX01NaXlYbmc?oc=5",
         "description": "",
         "pubDate": "2025-10-12T09:38:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "No. 10 Georgia forces a goal-line fumble to seize momentum and beat Auburn 20-10 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTU9aVHBXQk05U0RRekpGZVlVR3pFeVBadlhXRENyV3M4U1g1V211ZnlxVFVRc1ZBSWhmR08zczRsdC1ON3ZzakhYYmI2eFlvNkJxQzliZXRUMTk1TlBsNTlKeHprV1c2V2hIWk0tcEtiX0ZpYXlnLUFiM3BBZHBIc2Z6cm9FX2M?oc=5",
+        "description": "",
+        "pubDate": "2025-10-12T04:35:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
