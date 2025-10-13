@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-10-13T21:18:17.676454Z",
+  "lastUpdate": "2025-10-13T21:28:56.188315Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Tutorial Unity [Free] [Windows] [Linux]",
+        "link": "https://brunosl2.itch.io/tutorial-unity",
+        "description": "colete os triangulos!",
+        "pubDate": "2025-10-13T21:10:56Z",
+        "source": "brunosl2.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNTk0OTQ0LnBuZw==/315x250%23c/dsx7K6.png",
+        "bias": 0
+      },
       {
         "title": "zTag [Free]",
         "link": "https://k4rmadosestuff.itch.io/ztag",
@@ -147,15 +156,6 @@
         "bias": 0
       },
       {
-        "title": "Gravitic Orb [Free] [Other] [Windows]",
-        "link": "https://delvix000.itch.io/gravitic-orb",
-        "description": "A fun twist on block-breaker games",
-        "pubDate": "2025-10-13T19:47:13Z",
-        "source": "delvix000.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNTkzNzA5LnBuZw==/315x250%23c/Yp4Lsr.png",
-        "bias": 0
-      },
-      {
         "title": "812: The First [Free] [Other] [Windows]",
         "link": "https://maskomt.itch.io/812-the-first",
         "description": "",
@@ -180,24 +180,6 @@
         "pubDate": "2025-10-13T19:33:51Z",
         "source": "caiquesassis.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNTk0MzAxLnBuZw==/315x250%23c/8eUAF0.png",
-        "bias": 0
-      },
-      {
-        "title": "Dork Dave And The Dirty Trick (C16) [Free] [Platformer]",
-        "link": "https://misfit.itch.io/dork-dave-and-the-dirty-trick",
-        "description": "",
-        "pubDate": "2025-10-13T19:33:24Z",
-        "source": "misfit.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNTkzNTg4LmpwZw==/315x250%23c/qnwQXv.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Space Dash [Free] [Rhythm]",
-        "link": "https://g-ghostie.itch.io/space-dash",
-        "description": "One button hyper casual game",
-        "pubDate": "2025-10-13T19:32:59Z",
-        "source": "g-ghostie.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNTkzNzQwLmpwZw==/315x250%23c/vD84nH.jpg",
         "bias": 0
       },
       {
@@ -246,7 +228,7 @@
         "bias": 0
       },
       {
-        "title": "Raccoon Valley Tycoon [Free] [Simulation] [Windows]",
+        "title": "Raccoon Valley Tycoon - Free Demo [Free] [Simulation] [Windows]",
         "link": "https://dumivid.itch.io/raccoon-valley-tycoon",
         "description": "Click, collect, upgrade, and delegate your hard work to cute raccoons",
         "pubDate": "2025-10-13T16:51:28Z",
@@ -293,6 +275,15 @@
     ],
     "World": [
       {
+        "title": "'Now the rebuilding begins,' says Trump  as he signs Gaza peace plan",
+        "link": "https://www.bbc.com/news/articles/c709jxxrrvlo?at_medium=RSS&at_campaign=rss",
+        "description": "The US president says the ceasefire will hold and the second phase of negotiations for a lasting peace are under way.",
+        "pubDate": "2025-10-13T21:27:23Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81e6/live/04607d40-a839-11f0-928c-71dbb8619e94.jpg",
+        "bias": 0
+      },
+      {
         "title": "Israeli hostages and Palestinian detainees freed as Trump hails 'historic dawn' in Middle East",
         "link": "https://www.bbc.com/news/articles/c740jx07vz0o?at_medium=RSS&at_campaign=rss",
         "description": "A major hostage and prisoner exchange marks a significant step towards ending two years of war in Gaza.",
@@ -300,6 +291,15 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18f7/live/f0d48700-a877-11f0-928c-71dbb8619e94.jpg",
         "bias": 0
+      },
+      {
+        "title": "Five key takeaways from Donald Trump’s Gaza remarks in Middle East",
+        "link": "https://www.aljazeera.com/news/2025/10/13/five-key-takeaways-from-donald-trumps-gaza-remarks-in-middle-east?traffic_source=rss",
+        "description": "Trump takes credit for ceasefire agreement and promotes 'a new Middle East' without addressing rights of Palestinians.",
+        "pubDate": "2025-10-13T20:57:35Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Hamas frees living hostages and Israel releases prisoners as Trump visits the region - AP News",
@@ -500,12 +500,12 @@
         "bias": 0
       },
       {
-        "title": "Soldiers threaten to seize state TV in Madagascar, presidency says, amid warnings of coup attempt",
+        "title": "Madagascar president hiding in 'safe place' as he warns of coup attempt",
         "link": "https://www.bbc.com/news/articles/cgkzyek0jxro?at_medium=RSS&at_campaign=rss",
-        "description": "President Andry Rajoelina is said to have fled the country by French military jet on Sunday.",
+        "description": "Andry Rajoelina is said to have fled the country by French military jet but his whereabouts are unknown.",
         "pubDate": "2025-10-13T18:37:34Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8c9/live/eaeb28f0-a852-11f0-928c-71dbb8619e94.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a210/live/e796d890-a878-11f0-8d21-ad9b41c65325.jpg",
         "bias": 0
       },
       {
@@ -599,6 +599,15 @@
         "bias": 0
       },
       {
+        "title": "Zelenskyy to visit Washington this week seeking long-range weapons and a Trump meeting - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcGtpUUNPRmxBSlJqSGtUeHMxVloxQ3liNDlaX0xxLW9BTWVGVUR1V1Vmalo1SjhQcVJzTkxtQlZ4Wkcxamlkc1RXbVFtZGFvY3k0N1Nfdm5fMlpKYUZ5NTBSTWNSYXlNRUpfMzRkWTJzM0ozaUhHTEIteURNSXBTZWZHNjkzUWFaRHc5Y2dIdE1TOUJ5WDdtZ2VjRm5LQQ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-13T17:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "California governor signs law to protect kids from the risks of AI chatbots - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY05UMHNrVnBYVjN6TXlMZU9lenhkT0hMWWVtcndwSHhJaXBiREZxSHhWTGRIYzJaempRZnl2MldMX0xHaTZBUlc3UTl2NmxSZnEzZFhZaExVR0g5TjIzbWd5alZUUVh2eVc5S29WYUFBdnIwNktVZ2tYQWxWaW5WMlhUeTBieHV6Q2tlQlhyMDFmOEdCNHl2b1BGWGVaT3IwbXp5ajFPREk?oc=5",
         "description": "",
@@ -680,12 +689,12 @@
         "bias": -1
       },
       {
-        "title": "'Long and painful nightmare finally over,' Trump tells Israel's parliament",
-        "link": "https://www.bbc.com/news/articles/c709jxxrrvlo?at_medium=RSS&at_campaign=rss",
-        "description": "The US president was applauded by Israeli lawmakers for his role in brokering an Israel-Hamas ceasefire.",
-        "pubDate": "2025-10-13T15:50:33Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81e6/live/04607d40-a839-11f0-928c-71dbb8619e94.jpg",
+        "title": "Brian Thomas Jr.’s drops may force the Jaguars to restart their decades-long search for a No. 1 WR - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcXdpNHJVVFE0WkdleTFaLXdMNEVxVTJFRjJuRkpVNDlfY2hsRnZaZDRGdkhLaE9vREtDckFUQXdHUFVsem5MTWhDaGV0OXlTWHdVZjJUeE5yTTU1RmUwcFFFbTYyVHBDNkFQcGZ6YWRPMXdEeFlqSWo0dmUzNGlMbG5RdVowd09LNzdsMktQcWZsME0?oc=5",
+        "description": "",
+        "pubDate": "2025-10-13T15:48:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -714,50 +723,32 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Palestinians celebrate as prisoners are released by Israel under Gaza ceasefire deal",
-        "link": "https://www.npr.org/2025/10/13/nx-s1-5573139/palestinians-prisoners-released",
-        "description": "Among the 2,000 Palestinians freed in the Gaza ceasefire deal were 250 serving life terms for attacks on Israelis dating back decades.",
-        "pubDate": "2025-10-13T15:07:29Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Trump’s 100% tariff threat: History of US trade measures against China",
-        "link": "https://www.aljazeera.com/news/2025/10/13/trumps-100-tariff-threat-history-of-us-trade-measures-against-china?traffic_source=rss",
-        "description": "In recent history, the US has made moves restricting China's access to semiconductor technology.",
-        "pubDate": "2025-10-13T14:52:29Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Sarkozy informed of when and where to report to prison for Libya campaign finance scheme - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbWhRTUM5NGFTSkttZDVRTDRRX1czbWJKOU5heDg0emozZ2dDQWczMkU4Uy1GbHcwS2d1UWk3Y0xabUExZF9ZVWp1cDF3NUVHN0lHOWt2aWNQNHh3QVMyU1JzazctMk44d0NQd2tNdDRFRTJjUzdJRUV6a2lteFBaSm9WeG1MZDE5S0Z4elVtVUg?oc=5",
-        "description": "",
-        "pubDate": "2025-10-13T13:57:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Powell made no decisions about evidence in China spy case, minister says",
+        "link": "https://www.bbc.com/news/articles/cvg4r177k52o?at_medium=RSS&at_campaign=rss",
+        "description": "The government's national security adviser is facing pressure over whether he played a role in the trial's collapse.",
+        "pubDate": "2025-10-13T21:18:38Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99b2/live/668aeee0-a3b3-11f0-9871-a159926144cf.jpg",
+        "bias": 0
+      },
+      {
+        "title": "OpenAI partners with Broadcom to design its own AI chips - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeFhNRnhRYTUwdHgyM251bGNidHUyOVVmd1Z5SHNEdnFyYW5fZjRneVpyQnhvNmpJbzhDRVA2Tm1fcllXbTVqZHAwaDFRcXY5NU00MTJZWDlBOFZDcEZGQTU5YzJsa3NGSWYtWUNVelVIRHFvcnNqd3NBbC14QWU2STlzbWtzVzdteWNVSnJzVEVfMXp1V3R2YkVYTVMtb2lJM2c?oc=5",
+        "description": "",
+        "pubDate": "2025-10-13T21:08:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "North Carolina GOP announce plans to vote on new House map amid nationwide redistricting battle - AP News",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTlI0Z0k2NWJ1QVQ0TERFRklBMkwxNHRUV1BpT3pLQS1sbE1wUTV3VDdhc0FYNnBhczRVVXpwaUMzdlQ2eHlQVEJhX0JTX25qSjFfQWdaRXNtNlRIRzJHb05EczF1c1ExQ3RCN0c4eTZqVHM0RnJ5NnpiZ3pxZ1Z0eC14UlNLRWRvb01PZl9sdk5wdWFiZGlCVnR6NnEwOXcwM2JoMUpB?oc=5",
         "description": "",
         "pubDate": "2025-10-13T19:48:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Death toll from torrential rains in Mexico rises to 64 as search operations expand - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNem01WTUxcjNiUldCUWJrQ2dxY0lLYklZcHJUVFNQRTBkVDJOdmh6X0ZCQTJQQVdzRXpudXFnbE43dkJ4ZUVQMTB3Y3JKamJheWpSLVFjaktERU9zYXJ4dzc0OW8wdHU3dEp6VHlWSEQ3R2h2eWU3ZmlhSmJCeTVUWjhNN2hvV1ZvMnk5aUN6ekprY3FKTERDYjlIcFowV00?oc=5",
-        "description": "",
-        "pubDate": "2025-10-13T19:47:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -862,15 +853,6 @@
         "bias": 0
       },
       {
-        "title": "Badenoch demands PM address 'unanswered' China spy case questions",
-        "link": "https://www.bbc.com/news/articles/cg424d712q7o?at_medium=RSS&at_campaign=rss",
-        "description": "In a letter to Starmer, the Tory leader claimed his government's account of the collapsed case had \"changed repeatedly\".",
-        "pubDate": "2025-10-13T12:02:56Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99b2/live/668aeee0-a3b3-11f0-9871-a159926144cf.jpg",
-        "bias": 0
-      },
-      {
         "title": "Media companies thought late night TV was irrelevant. Kimmel proved them wrong",
         "link": "https://www.npr.org/2025/10/13/nx-s1-5558154/jimmy-kimmel-late-night-history-colbert-trump",
         "description": "Jimmy Kimmel's return to airwaves might just point the way forward for late night TV to prove its relevance to American audiences — and to itself.",
@@ -886,6 +868,15 @@
         "pubDate": "2025-10-13T09:55:34Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13d9/live/98a29640-a5d3-11f0-b98a-8b079c99c55e.jpg",
+        "bias": 0
+      },
+      {
+        "title": "China shows no sign of backing down while issuing call for US to withdraw tariff threat - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdHdJR2RDcDdLa25OWGJaMERkRU5vTWVOQU5NR2hrT1d3eEhWX3p0VTBtWWpzYkFiRDlHOVVyalhUd3pxQ3NCcHU2UWlGOTlPQkl4cy1Ld09pcWFOakQ1SndFdzA2cGMwMGE1SW5NVEpsSklzY1ljUFpubmdMZ0RDVG44ZExuTU5OT3FpU3piX1VnU05nWVpQSkJidw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-13T09:33:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -936,21 +927,21 @@
     ],
     "Tech": [
       {
+        "title": "Death toll from torrential rains in Mexico rises to 64 as search operations expand - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNem01WTUxcjNiUldCUWJrQ2dxY0lLYklZcHJUVFNQRTBkVDJOdmh6X0ZCQTJQQVdzRXpudXFnbE43dkJ4ZUVQMTB3Y3JKamJheWpSLVFjaktERU9zYXJ4dzc0OW8wdHU3dEp6VHlWSEQ3R2h2eWU3ZmlhSmJCeTVUWjhNN2hvV1ZvMnk5aUN6ekprY3FKTERDYjlIcFowV00?oc=5",
+        "description": "",
+        "pubDate": "2025-10-13T19:47:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Vodafone admits 'major outage' as more than 130,000 report problems",
         "link": "https://www.bbc.com/news/articles/c5yldldx659o?at_medium=RSS&at_campaign=rss",
         "description": "Vodafone claims to have more than 18 million customers in the UK, including nearly 700,000 home broadband customers.",
         "pubDate": "2025-10-13T17:00:08Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc4b/live/f3731590-a849-11f0-8df8-17b411cc599c.jpg",
-        "bias": 0
-      },
-      {
-        "title": "OpenAI partners with Broadcom to design its own AI chips - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeFhNRnhRYTUwdHgyM251bGNidHUyOVVmd1Z5SHNEdnFyYW5fZjRneVpyQnhvNmpJbzhDRVA2Tm1fcllXbTVqZHAwaDFRcXY5NU00MTJZWDlBOFZDcEZGQTU5YzJsa3NGSWYtWUNVelVIRHFvcnNqd3NBbC14QWU2STlzbWtzVzdteWNVSnJzVEVfMXp1V3R2YkVYTVMtb2lJM2c?oc=5",
-        "description": "",
-        "pubDate": "2025-10-13T15:27:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -990,10 +981,10 @@
         "bias": 0
       },
       {
-        "title": "Trump receives standing ovation at Israeli Knesset - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ2Rua1lUQVhRWXp1Z3hVWUJsNHFxaXpFd09VU0VWRUVTWTdMTFV5OWZwbjZ1S1FzZkZpU3p5RkQ4NC1sZV9MYnR4bGQ3VnhLcDJEX3VZUWgxYU9HT28wMVM1OFhGSWVsM0xvTVU0VjB0SFNYWjUwZjhNOEVhMHowTmhOYWxvZ3VsanFSaWdKSklZOE5NejVQYkE3Y3hnRjJMOWsweU1iUGdoRF9CNmJ5WGFxSjB6bzkzTW5fbV9IYTVGYUNfZTl1ekV3?oc=5",
+        "title": "Photos of the aftermath of torrential rain in Mexico - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOGlfZG9teGFWSzcwYUoxTlN0M2lMaGpKaTEweE0weVA4eUJoTkJoNUNReDFBbzFYX09fbEIwMUR6dmlERGxRMTBjY2ZLNWxOdEVfTEwwUFBjd3FzMVJ5cU41bEpaYjdzV2JSb0VZNldhTm9OcWJDNjhhUWtYaVlwcHJLbVk5ak5hLXVUb3czV1M4ZmM5YmZBcw?oc=5",
         "description": "",
-        "pubDate": "2025-10-13T10:47:00Z",
+        "pubDate": "2025-10-13T01:36:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1032,6 +1023,15 @@
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQkNTN2V6QkZZOFVHT2NJWUlQVi1laW82cm5mUWdrejRZX2Ntcmw4MG4wVC04WTB5Y1FSTjJ0dl8zZ1dPSFRTUnJ5bzhBbzBKNVJwbF9YajZ2OFV4RF93SEFONWFtN2dXaW1PRWM1OEJHbVdxUnlwYmR0NXFIb0UweTVhOTM1Y3pYWWxWUW1aZUh1NVNHa0c4c1A2b2Z6ZWZoN3hiSU1nemQ3Sm03RWp6WjRIbmlrUDBiUi0zWGgzRQ?oc=5",
         "description": "",
         "pubDate": "2025-10-13T14:01:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Trump receives standing ovation at Israeli Knesset - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ2Rua1lUQVhRWXp1Z3hVWUJsNHFxaXpFd09VU0VWRUVTWTdMTFV5OWZwbjZ1S1FzZkZpU3p5RkQ4NC1sZV9MYnR4bGQ3VnhLcDJEX3VZUWgxYU9HT28wMVM1OFhGSWVsM0xvTVU0VjB0SFNYWjUwZjhNOEVhMHowTmhOYWxvZ3VsanFSaWdKSklZOE5NejVQYkE3Y3hnRjJMOWsweU1iUGdoRF9CNmJ5WGFxSjB6bzkzTW5fbV9IYTVGYUNfZTl1ekV3?oc=5",
+        "description": "",
+        "pubDate": "2025-10-13T10:47:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1118,15 +1118,6 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0a8/live/119b69c0-a442-11f0-8a21-ff96e44d1cc2.jpg",
         "bias": 0
-      },
-      {
-        "title": "George Springer hits 21st postseason homer, passes Derek Jeter and is 5th on career list - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYzNIYmZfOC1XU2dqWlFGanpYUGIxQnRKclVianh0cV9vbVZmZXZJdW1ERnZUN0kxb1duaUI3WjdCSzVXN0F0SXVpOVM3QkZJNVNhakdCa3ZSV3l0S2tNcmpLZ2JBaThrTmVJM1JZbEh2a0V0SDFoY1VaNGxYMTRPUjdqRE5QMjBwcEpKaHoyOGxZbl9pa1dF?oc=5",
-        "description": "",
-        "pubDate": "2025-10-13T04:44:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Culture": [
@@ -1140,7 +1131,7 @@
         "bias": 0
       },
       {
-        "title": "Woody Allen pays glowing tribute to Diane Keaton",
+        "title": "'Unlike anyone': Woody Allen pays glowing tribute to Diane Keaton",
         "link": "https://www.bbc.com/news/articles/c5y4kpmzl1mo?at_medium=RSS&at_campaign=rss",
         "description": "The pair worked together on eight films including the Oscar-winning Annie Hall and Manhattan.",
         "pubDate": "2025-10-13T14:24:51Z",
