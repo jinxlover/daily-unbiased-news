@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-13T13:46:32.515528Z",
+  "lastUpdate": "2025-10-13T13:56:56.554763Z",
   "news": {
     "Gaming": [
       {
@@ -44,7 +44,7 @@
         "description": "A Simple Task",
         "pubDate": "2025-10-13T12:54:51Z",
         "source": "jadeportuni.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNTg4OTAzLnBuZw==/315x250%23c/fs93OG.png",
+        "image": "https://img.itch.zone/aW1nLzIzNTg5MTQ2LnBuZw==/315x250%23c/yEUrTx.png",
         "bias": 0
       },
       {
@@ -63,6 +63,15 @@
         "pubDate": "2025-10-13T12:54:13Z",
         "source": "miloskiro.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNTg4Njc2LnBuZw==/315x250%23c/KMBRn%2F.png",
+        "bias": 0
+      },
+      {
+        "title": "Aliens vs Robots [Free]",
+        "link": "https://peter-el-fantasma.itch.io/aliens-vs-robots",
+        "description": "",
+        "pubDate": "2025-10-13T12:53:38Z",
+        "source": "peter-el-fantasma.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNTg4NzY0LmdpZg==/315x250%23c/yS5uPy.gif",
         "bias": 0
       },
       {
@@ -165,6 +174,15 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "Conflict sends 300,000 people fleeing from South Sudan in 2025: UN",
+        "link": "https://www.aljazeera.com/news/2025/10/13/conflict-sends-300000-people-fleeing-from-south-sudan-in-2025-un?traffic_source=rss",
+        "description": "Renewed fighting between rival leaders forces mass exodus across South Sudan's borders as fears of wider war rise.",
+        "pubDate": "2025-10-13T13:30:39Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Palestinians celebrate return of prisoners freed by Israel",
@@ -597,15 +615,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "President Trump to address Israel's parliament amid hostage exchange",
-        "link": "https://www.npr.org/2025/10/13/nx-s1-5570693/president-trump-to-address-israels-parliament-amid-hostage-exchange",
-        "description": "Widely credited with sealing the deal on the ceasefire in Gaza, President Trump received the red carpet treatment when he arrived in Israel Monday.",
-        "pubDate": "2025-10-13T09:00:27Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
@@ -682,7 +691,8 @@
         "bias": 0
       }
     ],
-    "Tech": [
+    "Tech": [],
+    "Science": [
       {
         "title": "Pakistan and Afghanistan border closure extends into second day after deadly clashes - AP News",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWE5JZWx2R2pYZDh4V3ZxczdITjA2Y1hnU2JBX1F6cU9RcDNSLTBGM3V0U1ZoUkE2U3AzSVNqRi1MRS0tLVRGQm5ySTljVHFNa0RDX002MG56bUFSQlN4UF9jN0hBcU9oNjhtRTZ2eWI2NUZhQkh0UFlSNVMwSVRjOFYtdzlUWWhfXzgwZy1qQ1NpelFVUW9BLUNyMmsyZ2Z5VndQQ2pR?oc=5",
@@ -691,9 +701,7 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      }
-    ],
-    "Science": [
+      },
       {
         "title": "The century-old ship sail technology finally catching on",
         "link": "https://www.bbc.com/news/articles/c1dqznvxylqo?at_medium=RSS&at_campaign=rss",
@@ -705,6 +713,15 @@
       }
     ],
     "Business": [
+      {
+        "title": "Click Energy announces first electricity rise in over three years",
+        "link": "https://www.bbc.com/news/articles/c709j8z52ldo?at_medium=RSS&at_campaign=rss",
+        "description": "The firm said it would result in the typical annual domestic electricity bill rising by about £39.60.",
+        "pubDate": "2025-10-13T13:56:03Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05ad/live/2b7fd170-a837-11f0-928c-71dbb8619e94.jpg",
+        "bias": 0
+      },
       {
         "title": "Lloyds warns car finance scandal could cost it £2bn",
         "link": "https://www.bbc.com/news/articles/cq6zr733917o?at_medium=RSS&at_campaign=rss",
