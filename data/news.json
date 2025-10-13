@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-10-13T09:25:59.437734Z",
+  "lastUpdate": "2025-10-13T09:44:01.075721Z",
   "news": {
     "Gaming": [
+      {
+        "title": "2D Candy [Free] [Action] [Windows]",
+        "link": "https://danzo322.itch.io/2d-candy",
+        "description": "",
+        "pubDate": "2025-10-13T09:35:24Z",
+        "source": "danzo322.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNTg2Njg1LnBuZw==/315x250%23c/XX2bUG.png",
+        "bias": 0
+      },
       {
         "title": "Flappy bird but [Free]",
         "link": "https://grillkartoffel.itch.io/flappy-bird-but",
@@ -183,15 +192,6 @@
         "bias": 0
       },
       {
-        "title": "generic dating simulator [Free]",
-        "link": "https://rennykins.itch.io/generic-dating-simulator",
-        "description": "",
-        "pubDate": "2025-10-13T07:09:33Z",
-        "source": "rennykins.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNTg1OTk3LnBuZw==/315x250%23c/Kmj65V.png",
-        "bias": 0
-      },
-      {
         "title": "Balls and Steel [Free] [Action]",
         "link": "https://lucas-lemort.itch.io/balls-and-steel",
         "description": "Welcome to the most unpredictable arena of the galaxy challenger!",
@@ -208,23 +208,14 @@
         "source": "crunchiesx.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNTg1MDkzLnBuZw==/315x250%23c/Vmhcjj.png",
         "bias": 0
-      },
-      {
-        "title": "La Aventura de Jeronimo [Free] [Adventure] [Windows] [Android]",
-        "link": "https://gamesbit.itch.io/la-aventura-de-jeronimo",
-        "description": "Un juego de aventura Point and Click con diferentes escenarios",
-        "pubDate": "2025-10-13T04:07:25Z",
-        "source": "gamesbit.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNTg0NjgwLmpwZw==/315x250%23c/9gfsCA.jpg",
-        "bias": 0
       }
     ],
     "World": [
       {
-        "title": "Israeli Prime Minister Netanyahu to attend conference in Egypt, according to Egyptian presidency - AP News",
+        "title": "Hamas releases all 20 remaining living hostages as part of Gaza ceasefire - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUldvSkVTSlB6OEJhaDRSSkltbW4wMjlWQkxzUE1xLXZWUHlicEFOeWVXQzMxUkVLaExOWWFfZTlFQy10U2hFTjFsSmVpMlFjczNHdk1NajI0Nk5JOWdSZVRlVVJ6aW9BakNHUmhybmx4SFRPa2wzZk14czNKa1NfUjF0cmg2LVRGZUJGb21vNFRWaHhSZXktQ3NwalpzM2tyWEc2X19QNEdkNWc?oc=5",
         "description": "",
-        "pubDate": "2025-10-13T09:19:00Z",
+        "pubDate": "2025-10-13T09:37:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -257,12 +248,48 @@
         "bias": -1
       },
       {
+        "title": "Israel confirms all 20 living captives in Gaza have been released",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/10/13/israel-confirms-all-20-living-captives-in-gaza-have-been-released?traffic_source=rss",
+        "description": "Israeli officials have confirmed that all 20 living captives have been released in Gaza.",
+        "pubDate": "2025-10-13T08:53:19Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "The existence of hunger is a political choice",
+        "link": "https://www.aljazeera.com/opinions/2025/10/13/the-existence-of-hunger-is-a-political-choice?traffic_source=rss",
+        "description": "States can and must act to end hunger.",
+        "pubDate": "2025-10-13T08:31:47Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Madagascar presidency says attempt to seize power under way",
         "link": "https://www.bbc.com/news/articles/cd070pn4g07o?at_medium=RSS&at_campaign=rss",
         "description": "An army unit claimed it had taken over leadership of the military command and was now in control of all the armed forces.",
         "pubDate": "2025-10-13T08:28:35Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b46b/live/e1628320-a774-11f0-928c-71dbb8619e94.jpg",
+        "bias": 0
+      },
+      {
+        "title": "US President Donald Trump arrives in Israel to oversee Gaza peace plan",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/10/13/u-s-president-donald-trump-arrives-in-israel-to-oversee-gaza-peace-plan?traffic_source=rss",
+        "description": "US President Donald Trump has arrived in Israel to oversee the first stage of his Gaza peace plan. Trump will address",
+        "pubDate": "2025-10-13T08:02:40Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Dutch government intervenes in Chinese-owned Nexperia over 'serious governance shortcomings' - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSEx6emg5RjFYM2pybUxTV1pTcTF0ZFV3c3ZUcGxPVU1rV1JsYmxFSk0xN1diX0RMU1I5XzlYNWZpWU8yems5a3hVY2MxQl9nWE9wVExYYy1uaHNGYk5aeGJFbnRkM0JGOWFYUy1EejNwVjBWZ3A3VkNZakg1LVRSbzBZMFpBbzNQb0UtTXFremd3XzU4emx0X3dpaUpTcTB2cFFN?oc=5",
+        "description": "",
+        "pubDate": "2025-10-13T07:56:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -329,9 +356,9 @@
         "bias": 0
       },
       {
-        "title": "In a major milestone, Hamas begins releasing final Israeli hostages",
+        "title": "In a major milestone, Hamas releases final group of living Israeli hostages",
         "link": "https://www.npr.org/2025/10/13/g-s1-93207/hamas-releasing-israeli-hostages",
-        "description": "Hamas is expected to free all 20 of the living Israeli hostages on Monday. In turn, Israel will be releasing nearly 2,000 Palestinian prisoners and detainees as part of the ceasefire agreement.",
+        "description": "The release by Hamas of living Israeli hostages began an expected swap of hostages for prisoners. In turn, Israel will be releasing nearly 2,000 Palestinian prisoners and detainees as part of the ceasefire agreement.",
         "pubDate": "2025-10-13T06:19:58Z",
         "source": "npr.org",
         "image": "",
@@ -356,10 +383,10 @@
         "bias": 0
       },
       {
-        "title": "The Nobel economics prize is set to be announced today - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNajNmdWx4d2gwQjMzRVVUOXJ0ZzJEOVRHRHRnNkxTdWpVbkNOdEpCdlJaMHVPRW1wMENZT2h6WnpSZVVTTjNJT0VyMUMyVFd6ZXpfSktCY0pjQ08yQTJHLTZUTmYtQXNGbnU0c3o3WVVPNE9NMnZXSUtLTUI0S1hYLUlSemJKa05j?oc=5",
+        "title": "Ex-French President Nicolas Sarkozy to learn prison date and location Monday - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbWhRTUM5NGFTSkttZDVRTDRRX1czbWJKOU5heDg0emozZ2dDQWczMkU4Uy1GbHcwS2d1UWk3Y0xabUExZF9ZVWp1cDF3NUVHN0lHOWt2aWNQNHh3QVMyU1JzazctMk44d0NQd2tNdDRFRTJjUzdJRUV6a2lteFBaSm9WeG1MZDE5S0Z4elVtVUg?oc=5",
         "description": "",
-        "pubDate": "2025-10-13T05:03:00Z",
+        "pubDate": "2025-10-13T05:12:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -536,7 +563,7 @@
         "bias": 0
       },
       {
-        "title": "LIVE: First 7 Israeli captives released by Hamas in Gaza; Trump in Israel",
+        "title": "LIVE: Hamas releases captives held in Gaza; Trump in Israel",
         "link": "https://www.aljazeera.com/news/liveblog/2025/10/13/live-israel-hamas-set-to-free-captives-trump-says-gaza-war-is-over?traffic_source=rss",
         "description": "Families in Palestine and Israel await the return of their loved ones as the Israel-Hamas truce continues to hold.",
         "pubDate": "2025-10-13T00:00:00Z",
@@ -594,19 +621,28 @@
     ],
     "Tech": [
       {
+        "title": "What to know as Israel receives 20 hostages freed by Hamas and Trump arrives in the Middle East - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObGkxcVRHTkg2WUt3R3RnLWdwYmt3YUlwd1B6Tkk2LXdPa2RvdFpfaUpPWWxiUGpaNE9RbnJweUlBdHZVc21RQ2tPZFg1bEZLU0xzTktRV3RVT3d3WWR0cXdlNzlQR2xIWk14MHNHYmxPbVMyN1BDSjE2RnFWM0pYUVV0alRaZk1vNDAzNVVyNGtqa0t0akF6NjBSa25zR0F3WjJBZkljNExta0x6MGJMTw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-13T09:32:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Dutch government takes control of China-owned chip firm",
         "link": "https://www.bbc.com/news/articles/ckgk21nng0vo?at_medium=RSS&at_campaign=rss",
         "description": "The move, which is aimed to protect supplies of technology, could raise tensions between the EU and China.",
-        "pubDate": "2025-10-13T09:08:34Z",
+        "pubDate": "2025-10-13T09:25:50Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dda7/live/b22b30a0-a7cb-11f0-b50c-8f62428b85e3.jpg",
         "bias": 0
       },
       {
-        "title": "What to know as Israel receives 7 hostages freed by Hamas and Trump arrives in the Middle East - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObGkxcVRHTkg2WUt3R3RnLWdwYmt3YUlwd1B6Tkk2LXdPa2RvdFpfaUpPWWxiUGpaNE9RbnJweUlBdHZVc21RQ2tPZFg1bEZLU0xzTktRV3RVT3d3WWR0cXdlNzlQR2xIWk14MHNHYmxPbVMyN1BDSjE2RnFWM0pYUVV0alRaZk1vNDAzNVVyNGtqa0t0akF6NjBSa25zR0F3WjJBZkljNExta0x6MGJMTw?oc=5",
+        "title": "The Nobel economics prize is set to be announced today - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNajNmdWx4d2gwQjMzRVVUOXJ0ZzJEOVRHRHRnNkxTdWpVbkNOdEpCdlJaMHVPRW1wMENZT2h6WnpSZVVTTjNJT0VyMUMyVFd6ZXpfSktCY0pjQ08yQTJHLTZUTmYtQXNGbnU0c3o3WVVPNE9NMnZXSUtLTUI0S1hYLUlSemJKa05j?oc=5",
         "description": "",
-        "pubDate": "2025-10-13T08:11:00Z",
+        "pubDate": "2025-10-13T05:03:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -629,15 +665,6 @@
         "pubDate": "2025-10-13T05:25:52Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b152/live/65b36cb0-a389-11f0-a56f-0b1b78ebdf89.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Ex-French President Nicolas Sarkozy to learn prison date and location Monday - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbWhRTUM5NGFTSkttZDVRTDRRX1czbWJKOU5heDg0emozZ2dDQWczMkU4Uy1GbHcwS2d1UWk3Y0xabUExZF9ZVWp1cDF3NUVHN0lHOWt2aWNQNHh3QVMyU1JzazctMk44d0NQd2tNdDRFRTJjUzdJRUV6a2lteFBaSm9WeG1MZDE5S0Z4elVtVUg?oc=5",
-        "description": "",
-        "pubDate": "2025-10-13T05:12:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       }
     ],
