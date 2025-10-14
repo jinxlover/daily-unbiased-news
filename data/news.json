@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-10-14T08:26:15.907359Z",
+  "lastUpdate": "2025-10-14T08:46:50.913661Z",
   "news": {
     "Gaming": [
+      {
+        "title": "The Last Walk [Free] [Visual Novel] [Windows]",
+        "link": "https://lol-wal.itch.io/the-last-walk",
+        "description": "Take your last walk, while you reminisce",
+        "pubDate": "2025-10-14T08:31:31Z",
+        "source": "lol-wal.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNjAwNTU4LnBuZw==/315x250%23c/1SDKGf.png",
+        "bias": 0
+      },
       {
         "title": "Save Cats! [Free] [Windows]",
         "link": "https://acsahlamb.itch.io/save-cats",
@@ -117,15 +126,6 @@
         "pubDate": "2025-10-14T05:38:03Z",
         "source": "stilledly.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNTk5NTQwLnBuZw==/315x250%23c/yXzJsU.png",
-        "bias": 0
-      },
-      {
-        "title": "MWR Life For WebGL [Free]",
-        "link": "https://buntgames.itch.io/mwrlife",
-        "description": "",
-        "pubDate": "2025-10-14T05:10:25Z",
-        "source": "buntgames.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNTk5MzgxLnBuZw==/315x250%23c/SZVnEY.png",
         "bias": 0
       },
       {
@@ -520,12 +520,12 @@
     ],
     "Politics": [
       {
-        "title": "Prostate cancer screening urgently needed, says Rishi Sunak",
+        "title": "Prostate cancer screening could save countless lives, says Sunak",
         "link": "https://www.bbc.com/news/articles/cwykxqerk12o?at_medium=RSS&at_campaign=rss",
-        "description": "The former prime minister tells the BBC it is time to introduce targeted screening of some younger men.",
-        "pubDate": "2025-10-14T05:01:05Z",
+        "description": "The former PM is among those in favour of targeted screening for men most at risk, but some medical experts are sceptical.",
+        "pubDate": "2025-10-14T08:45:36Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1f2/live/55ace660-a82b-11f0-9f09-57500e5dbf06.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83ff/live/92ffd8b0-a8d0-11f0-b741-177e3e2c2fc7.jpg",
         "bias": 0
       },
       {
@@ -556,18 +556,18 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "No. 4 Texas A&M’s Le’Veon Moss sidelined with significant ankle injury - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTXA4U3Y4ZGdXa0NPS3lVeXZCT0I0bGhRcmpFSU5mdUdBME1uMHBoNnY5RW9zeVZfdFJDa19lYU5sV3ZpdmxFOFhnbXl2MFZFRXBxMElDRGZ0emU5a2ZzX2VOUW9JR29BY1pkeHNUR3oyQjlvS3l4dnQtS3BtN1lMbzVkTWRoa09vcThKUFJKdw?oc=5",
-        "description": "",
-        "pubDate": "2025-10-14T00:27:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Science": [
+      {
+        "title": "Three Italian carabinieri killed in apparently deliberate farmhouse explosion - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTVhBSWhNU1Rzc3VBclhfTlo0bnJJWkFIbjB0Si1fYWU4eWg1ZjhnVDFvbm42eDFweHhhcUFwWDFhSDlNbVRyRUxkX1hkcGQ3clp5M1lXdkNIaHE5SHJLM19WSVVYUElNSzVlVnF4emVKR2VEc0RqQUVxQTRMUHk0Q0FQYmFQNXUxVnNHVks5ZTVXU1VlUWc?oc=5",
+        "description": "",
+        "pubDate": "2025-10-14T07:47:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "New York Times, AP, Newsmax among news outlets who say they won't sign new Pentagon rules - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTHBRajJMXzhONk5TSXV2ck1FamF1a0lzaEtCVFZwYXFWbzlqZHlGdGs4ZzN2ZXlZYWNwVk8xVG1hZkpWYXZwcHRJS09nV1dac21NbWQyWk9rS0tubGd4QW1zLWVWc0RLRmsxY2kxYUFrc1JGZDNnbTE4ZkFXSU5qUFh3S1pOVWhhelgtSjJiMUZ3MTVXTWFVdUVRQ3VRMDlkSTg5MjhMbkVVUQ?oc=5",
@@ -585,6 +585,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "No. 4 Texas A&M’s Le’Veon Moss sidelined with significant ankle injury - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTXA4U3Y4ZGdXa0NPS3lVeXZCT0I0bGhRcmpFSU5mdUdBME1uMHBoNnY5RW9zeVZfdFJDa19lYU5sV3ZpdmxFOFhnbXl2MFZFRXBxMElDRGZ0emU5a2ZzX2VOUW9JR29BY1pkeHNUR3oyQjlvS3l4dnQtS3BtN1lMbzVkTWRoa09vcThKUFJKdw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-14T00:27:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Business": [
