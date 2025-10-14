@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-14T23:45:38.579232Z",
+  "lastUpdate": "2025-10-14T23:55:51.682861Z",
   "news": {
     "Gaming": [
       {
@@ -18,6 +18,15 @@
         "pubDate": "2025-10-14T23:21:54Z",
         "source": "muddydressy.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNjA5MDIxLnBuZw==/315x250%23c/xxEEBx.png",
+        "bias": 0
+      },
+      {
+        "title": "Mechnite [Free] [Adventure]",
+        "link": "https://sweetcoregames.itch.io/mechnite",
+        "description": "A sci fi Puzzle Adventure with a small robot with magnetic powers",
+        "pubDate": "2025-10-14T23:16:01Z",
+        "source": "sweetcoregames.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNjA4NzE5LnBuZw==/315x250%23c/0CdkIZ.png",
         "bias": 0
       },
       {
@@ -90,6 +99,15 @@
         "pubDate": "2025-10-14T22:42:59Z",
         "source": "carlosgames.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNjA5MDMyLmpwZWc=/315x250%23c/Xh%2BCpN.jpeg",
+        "bias": 0
+      },
+      {
+        "title": "Grow Your Own Prehistoric Sea Monster! [Free] [Simulation] [Windows] [macOS]",
+        "link": "https://rupturegames.itch.io/grow-your-own-prehistoric-sea-monster",
+        "description": "from the age of the dinosaurs!",
+        "pubDate": "2025-10-14T22:41:54Z",
+        "source": "rupturegames.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNjA5MDUyLnBuZw==/315x250%23c/VCfwMd.png",
         "bias": 0
       },
       {
@@ -174,15 +192,6 @@
         "bias": 0
       },
       {
-        "title": "Road Challenge Pro Street 3 [$1.00] [Racing] [Windows] [macOS] [Linux] [Android]",
-        "link": "https://blackramcharger963.itch.io/road-challenge-pro-street-3",
-        "description": "This is Road Challenge Pro Street 3, Sequel to Road Challenge Pro Street 2.",
-        "pubDate": "2025-10-14T22:04:54Z",
-        "source": "blackramcharger963.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjA4MjUwLnBuZw==/315x250%23c/pRA9ft.png",
-        "bias": 0
-      },
-      {
         "title": "Fetid Fecundity [Free] [Visual Novel]",
         "link": "https://maolong.itch.io/fetid-fecundity",
         "description": "A life changing encounter with a vampire",
@@ -198,15 +207,6 @@
         "pubDate": "2025-10-14T21:52:57Z",
         "source": "raeraelee.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNjA4NTYxLmpwZw==/315x250%23c/N2u8mo.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Road Challenge Pro Street 2 [$1.00] [Racing] [Windows] [macOS] [Linux] [Android]",
-        "link": "https://blackramcharger963.itch.io/road-challenge-pro-street-2",
-        "description": "This is Road Challenge Pro Street 2, Sequel to Road Challenge Pro Street.",
-        "pubDate": "2025-10-14T21:52:51Z",
-        "source": "blackramcharger963.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjA4MTUwLnBuZw==/315x250%23c/%2FhgjPD.png",
         "bias": 0
       },
       {
@@ -239,6 +239,33 @@
     ],
     "World": [
       {
+        "title": "Some airports refuse to play Noem video on shutdown impact, saying it’s political - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ3VvbGdBVFpka2Fsd2JNRmRqa2p0VlUxbHRWekxQVDgtTGhhblRTaUVteWZveWtnUF9Rb3hnOGFTZ1VGbWFBaFVndC1qajhSZHVXa3J1TzhVT29YVjEyTG10UVFyaVN3NFllWGhVcjZEVWlzUnFmNm1Jd1ZWQ19QUU9QbENjYmlOTWVvZ1lFbFN5bEY3bC0w?oc=5",
+        "description": "",
+        "pubDate": "2025-10-14T23:44:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Who are the latest teams to qualify for the FIFA World Cup 2026?",
+        "link": "https://www.aljazeera.com/sports/2025/10/14/who-are-the-latest-teams-to-qualify-for-the-fifa-world-cup-2026?traffic_source=rss",
+        "description": "Full list of teams in the World Cup and those knocked out after the latest round of qualifiers.",
+        "pubDate": "2025-10-14T23:20:55Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "US, China roll out port fees, threatening more trade turmoil",
+        "link": "https://www.aljazeera.com/news/2025/10/14/us-china-roll-out-port-fees-threatening-more-trade-turmoil?traffic_source=rss",
+        "description": "Analysts have warned the tit-for-tat trade fees risk 'distorting global freight flows' for goods including petrol, toys.",
+        "pubDate": "2025-10-14T23:19:19Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Trump threatens to pull support for Argentina if its politics move leftward - AP News",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWkVTNFFoTFdzbnhxeEtHT1FWalY2ZWFtQTZJR1N0THJfdkk1Y2tZUFA5c0ZDRmowOUtZeFlIYUFMS05SQzllT0w0Vm1qM2ZwRFBVRGtuN3RrdmNubTYyWGctaUF0czdDNjJNTUdvVmhWM0JhM0R1YkxsQnowajRUMTljY1pWaDc2RE1IU2ZhclJ6c2RNd196eTlNd05mSFJa?oc=5",
         "description": "",
@@ -255,6 +282,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Driver following too close behind van charged in Georgia crash that killed 3 adults, 5 children - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQWpfTmRzMkNZelg2R3ZQSVhiQmZhQmFFVVNYR05CNDRpX0pxWFF1ZU9sU29wODdtWXZSZUotTHRzRUR3eGsxeWY0c0FQc0Z1aFg4SkUyZUJCeGw3b0padDVoQTR2OVE1QnptS1Y2ZDVQSnpBc3dDNkMxa2xZQ1NFQjc1NUNBdw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-14T22:46:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Israel says it has received the remains of 4 more deceased hostages as cuts to aid for Gaza loom - AP News",
@@ -365,8 +401,26 @@
         "bias": 0
       },
       {
+        "title": "Appeals court backs Michigan school in banning ‘Let’s Go Brandon’ shirts - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcl96bjdxUlZJeGdwRHRIRklOLXAtQmg2bXFUSlRmblRHNy1lanB3S2NPc05xRUdFdzJzbVBseTN4ZkhhcGo2VHBwZDNfUlJEV1lVZGg4LXBYWGVWa1QwQ0piemEzNEJFTF9LOTh2Mk9tT1FWTXRPNzltdGhpcFN4TDBLYUNTbzIwVjlBSjNhaXhQU1FJTHc?oc=5",
+        "description": "",
+        "pubDate": "2025-10-14T21:28:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "The Latest: Gaza ceasefire holds as Israeli military says Red Cross to transfer remains of deceased - AP News",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc21mTmh0TXNoUzM2N0Q5MjEyS2pMMno0NHlBaGRuZHNER0Y5alIwNGRjbmVodTJvR3RpTWRwb0pnT0xad0t5bW9qVnhtSzZJcS0tdloyRzZyTzM1MHpidkcyek83b25XZjVoLXBqUW14WFNDTFJHT1ZCQnNQNmJOOTVMQ1E2S3hkNTA5RVpmNW40emdrMTgzR3U0MnFhZU5qZGl0c2pxdw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-14T21:27:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Foundations want to curb AI developers' influence with $500 million aimed at centering human needs - AP News",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYmt1emJHM0RBdmhDWkg3eWxFM0RHOHlsM2stMjFJZkhOODBhbDVLelhUTzJyTUR3eDN0bUJWd2tDeTRyazR2RjA3MjNyazBCRXVtcWVDcjd3b0hZNXFXa3NOWG9SaDh4anRCMjcyNVAwaUtua3FBZHVCOXJBVTdMZEJTMnozMUcwWS1BUFZCTTRDQ0U4OFk5Z3RKY3YybGY1cGw0clpaR3ZGQnpFZ21temp6Smo1bHd4WGpBWnhIU1ZvOEdtOE9VblloUXAxdw?oc=5",
         "description": "",
         "pubDate": "2025-10-14T21:27:00Z",
         "source": "news.google.com",
@@ -381,6 +435,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Lawyers seek release date for man after conviction overturned in Etan Patz disappearance case - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUXJkLWNjeTU0WW1Qa3RqRHA2NlRsTXQyZXotdV9iUzRIREQ2QmJCTUFTeXdqQndzeGlkclpGcjhyWjZVQWoxSWZTd1k5UlpoM3dGa0hETzk4WVpKMk05RHdWQlpMd0RlRU43a1NvWGRYbl9CTG16cHZjU1dkVUxhS0JSalNfOXlVQWI3WEt1SkhvcVU2eUE?oc=5",
+        "description": "",
+        "pubDate": "2025-10-14T21:17:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Rare October storm brings heavy rain and threat of mudslides to Southern California - AP News",
@@ -482,15 +545,6 @@
         "bias": -1
       },
       {
-        "title": "Theodore Roosevelt library takes ‘calculated risk’ with remote North Dakota site - AP News",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa0ZNeXlGWExyYTBfa1FZSXg0cjNpZE1nc3BUUDI4UWRoM3NpeUhEeXVxbk40cjdkc3djRjdwT3gtVE1vU2k4anczTlA3VWk1c0JZNXJkS2JSNDNWS1BNSV8zMmxmdGl6SXRodVo0WnVYeHRsMkRMNFhIMTM2ZTB3RDNfY0s4YVZVNlFSajI1WGFWMGlnTmRtNTJxWlJNazhVY1ZCYmRLRzRUazhVVDEyaGRPWUFlUmtsSm90M1N3?oc=5",
-        "description": "",
-        "pubDate": "2025-10-14T20:17:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Turkiye dispatches ship with 900 tonnes of food for Gaza",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/10/14/turkiye-dispatches-ship-with-900-tonnes-of-food-for-gaza?traffic_source=rss",
         "description": "Under the new ceasefire, the Turkish ship, the Akdeniz, is sailing to Egypt's El-Arish port with food supplies for Gaza.",
@@ -513,15 +567,6 @@
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc1dJeWRER29ULWNhMEpEVlBlUFpvOEQ2Z0hPZkhCZy1tNEVkTTZGamxNWXN1MmF6YUNWdE9Ld3lGZzVIeV9fZ09Qc0JmVjU0Y3NBYkpFaUNQZmNETS10akMwSUdfOGpyR0s3NDRzVGJTWmQ3SVVMRy13QWh2M1l5UEtyWTVhZlVlZElKcnlkWlBUMDJZRmtEb0ZsZWV6MVc1SkU1eUxLbG1Gb0NLNl9F?oc=5",
         "description": "",
         "pubDate": "2025-10-14T19:52:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Some airports refuse to play Noem video on shutdown impact, saying it’s political - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ3VvbGdBVFpka2Fsd2JNRmRqa2p0VlUxbHRWekxQVDgtTGhhblRTaUVteWZveWtnUF9Rb3hnOGFTZ1VGbWFBaFVndC1qajhSZHVXa3J1TzhVT29YVjEyTG10UVFyaVN3NFllWGhVcjZEVWlzUnFmNm1Jd1ZWQ19QUU9QbENjYmlOTWVvZ1lFbFN5bEY3bC0w?oc=5",
-        "description": "",
-        "pubDate": "2025-10-14T19:51:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -642,51 +687,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Military seizes power in Madagascar following anti-government protests",
-        "link": "https://www.npr.org/2025/10/14/nx-s1-5574215/military-madagascar-gen-z",
-        "description": "The army in Madagascar seized power on Tuesday, days after the president went into hiding saying he feared for his life after several weeks of massive anti-government protests.",
-        "pubDate": "2025-10-14T17:47:51Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Control, choke points: The battle lines in southern Sudan",
-        "link": "https://www.aljazeera.com/news/2025/10/14/control-choke-points-the-battle-lines-in-southern-sudan?traffic_source=rss",
-        "description": "The Sudanese army's gains may enable it to choke off the RSF's supply lines and eventually enter Darfur, analysts say.",
-        "pubDate": "2025-10-14T17:37:51Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Bowen: Trump's role in Gaza ceasefire was decisive, but not a roadmap to peace",
-        "link": "https://www.bbc.com/news/articles/ce86118q6ego?at_medium=RSS&at_campaign=rss",
-        "description": "Trump's Middle East visit was a victory lap - but peace does not emerge just because a president decides it.",
-        "pubDate": "2025-10-14T17:31:59Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d18/live/5044d380-a949-11f0-92db-77261a15b9d2.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Tens of thousands rally in Brussels to protest austerity plans",
-        "link": "https://www.aljazeera.com/news/2025/10/14/tens-of-thousands-rally-in-brussels-to-protest-austerity-plans?traffic_source=rss",
-        "description": "Flights grounded, public transport disrupted as 80,000 people take to the streets of the Belgian capital.",
-        "pubDate": "2025-10-14T17:27:53Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "GM takes $1.6bn hit as EV tax credit expires in US",
-        "link": "https://www.aljazeera.com/economy/2025/10/14/gm-takes-1-6bn-hit-as-ev-tax-credit-expires-in-us?traffic_source=rss",
-        "description": "The EV tax incentive was scrapped as part of US President Donald Trump’s mega tax bill passed earlier this year.",
-        "pubDate": "2025-10-14T17:14:25Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
@@ -698,15 +698,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Appeals court backs Michigan school in banning ‘Let’s Go Brandon’ shirts - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcl96bjdxUlZJeGdwRHRIRklOLXAtQmg2bXFUSlRmblRHNy1lanB3S2NPc05xRUdFdzJzbVBseTN4ZkhhcGo2VHBwZDNfUlJEV1lVZGg4LXBYWGVWa1QwQ0piemEzNEJFTF9LOTh2Mk9tT1FWTXRPNzltdGhpcFN4TDBLYUNTbzIwVjlBSjNhaXhQU1FJTHc?oc=5",
-        "description": "",
-        "pubDate": "2025-10-14T21:28:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "US charges Cambodian executive in massive crypto scam and seizes more than $14 billion in bitcoin - AP News",
@@ -731,6 +722,15 @@
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOczVxT0UtUm1ZbmljN3EzWms5T2IxMmdXSGlLNW5Za3JmWC0xenZPRG54aXlDclFnazZkbXdvMkx0R0xVWGxVX3gwS3hNR3ZWVTJISHdJVEJ5WE9WTklrV1dUQlZMRlREeTFONC1rQUV4M01RN2xoVXRxdW9ZUTd5U1VSR2xuYzVNRmlMMmEwNmpnVDVRdXFRcWFQbkxNaGM2?oc=5",
         "description": "",
         "pubDate": "2025-10-14T20:31:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Theodore Roosevelt library takes ‘calculated risk’ with remote North Dakota site - AP News",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa0ZNeXlGWExyYTBfa1FZSXg0cjNpZE1nc3BUUDI4UWRoM3NpeUhEeXVxbk40cjdkc3djRjdwT3gtVE1vU2k4anczTlA3VWk1c0JZNXJkS2JSNDNWS1BNSV8zMmxmdGl6SXRodVo0WnVYeHRsMkRMNFhIMTM2ZTB3RDNfY0s4YVZVNlFSajI1WGFWMGlnTmRtNTJxWlJNazhVY1ZCYmRLRzRUazhVVDEyaGRPWUFlUmtsSm90M1N3?oc=5",
+        "description": "",
+        "pubDate": "2025-10-14T20:17:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -826,6 +826,15 @@
         "bias": 0
       },
       {
+        "title": "It’s called automated officiating. The NBA is utilizing it to get even more calls right - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTWhMdnlXemVQLWRURkl0ejFwdDhBRG5yMVhvc1pHNGpNN1NTX1dvZm5QZzRpem5kMW53cmk5NU1LNE9FekluS3d0dUZYYXdpY3lINmtqQlNYRnlGQXIzUkg0SFM3SXdBOXA5R0Q5ajhiWnhPTDc1VE1tREdQbjdsdVNVd3FWUlFDTlE?oc=5",
+        "description": "",
+        "pubDate": "2025-10-14T16:47:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Peer faces Lords ban for raising speeding fines with police chief",
         "link": "https://www.bbc.com/news/articles/c5y4558r5gko?at_medium=RSS&at_campaign=rss",
         "description": "Ex-Lords speaker Baroness D'Souza complained to Sir Mark Rowley she could lose her licence after a speeding fine.",
@@ -850,6 +859,24 @@
         "pubDate": "2025-10-14T16:04:29Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4eb/live/3b9e1bb0-a90a-11f0-99b2-a3801a157d90.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Oracle and AMD expand a partnership with deals in the artificial intelligence sector booming - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbEtyQ1g2bU1JZjlOVnh1emtIZVpSZmNncGpoTXdPTnlVMU1sVXM3dnNxYTVUVHpSQ19yalF2Q3M3d251MHdZMzZGUEdTY3JJX3Bpd3NveGdNVDZYUGhERDI5a05sd19fMDNjNHRoVDF4QzdocEUwcURPMVdwemxhbzM4eXRYa21nTGV3Zk1wTmplRnlOcWs3Yk8wZEs2VmRPVXVBYlg0dFFCV0RMMGh0V3FSSER0UWc?oc=5",
+        "description": "",
+        "pubDate": "2025-10-14T15:58:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "US rejects bid to buy 167 million tons of coal on public lands for less than a penny per ton - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRUZKS0V4dFZPSUpOT1kxcDhodGJhSDU5YkNoYmw2UGI3UEFtdkxpN09od0dDbk1mN19lOXRYcG0xV1Q2eGVEbWVKUUY2RHJjYnIwS0hoYWpuRU1FSUpQMlNDTlJQOGxodWdCRGtCNUd3MlBJXzZCZ2IzMUZTLUtOZFZKLWJOLU1IallpYXRvRW5ZaEJCOVlUajg1dTJVbTRi?oc=5",
+        "description": "",
+        "pubDate": "2025-10-14T15:51:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -979,6 +1006,15 @@
         "bias": 0
       },
       {
+        "title": "New York Attorney General Letitia James, facing fraud charges, strikes defiant tone at Mamdani rally - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ0FEWE4zaEVMVWhNSmtucUdueVZ6TmswVTh1aG1UU1VBcDJ4MXRhT2liOWNJenl3R1pzb0FDcWxYaDdPb1BKYTl5NjZPUlNpcXFNM0VXVE9FVmdfNGFaR0g4Tml4bG1GZ2JXcHdwN3E3UGV2ZlhvcUl0R2duT1VQNzU0WVltM2l3eU9MRHdvbHB3dW90Ni13TW5jTkJLMGxIZllCaUkyTWJLV3ZB?oc=5",
+        "description": "",
+        "pubDate": "2025-10-14T03:12:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "1 dead, 2 missing and dozens rescued after remnants of a typhoon lash western Alaska - AP News",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb1YtdElUNEZRUGdQNld0NVQ2c2NLdEFnMW85Z1NqMjY1XzZVUnpPaHA4bWlkT0FmNFdxTWZmZHp2cnQzZ3AtbmtEZ0JaOUFXVWFpaDBxS3J5NEdQS2RydWN5eGpqbHEzSXc3ejduZm9xT25EN21mTFhwa2tZZGJtTWJIOEhnZUNDYlRDOTVOWVBrYUJoU0hkeVowd3hiVDVqU1ZJRld3?oc=5",
         "description": "",
@@ -1026,15 +1062,6 @@
         "bias": 0
       },
       {
-        "title": "US rejects bid to buy 167 million tons of coal on public lands for less than a penny per ton - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRUZKS0V4dFZPSUpOT1kxcDhodGJhSDU5YkNoYmw2UGI3UEFtdkxpN09od0dDbk1mN19lOXRYcG0xV1Q2eGVEbWVKUUY2RHJjYnIwS0hoYWpuRU1FSUpQMlNDTlJQOGxodWdCRGtCNUd3MlBJXzZCZ2IzMUZTLUtOZFZKLWJOLU1IallpYXRvRW5ZaEJCOVlUajg1dTJVbTRi?oc=5",
-        "description": "",
-        "pubDate": "2025-10-14T15:51:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Alec and Stephen Baldwin escape injury after their vehicle hits a tree in New York - AP News",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbGRTWjF1T18waURvaERlaGowN1VNZVYzTWo2UWRDVjFudnVBWmk3MDVYM0VnTk5RY09vNEZQckJBekg2eWlaSHR2ZTIxMG02aS04MmdRVE5oTXJZczZLU2J5dVg5UTVtLUpBRHhhUzdkQ29wb3JlWFdsWGlfUG5sWVFMbnVVYnZlazQtQTB3Tjc5MzFkVHR4QWduRQ?oc=5",
         "description": "",
@@ -1057,15 +1084,6 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ09KMkJJSWlYMEh2aW1CdnJ5eFdFUE91TDNvNXJwMVZMSzZSZl9Kay1wcHdmOUtvckljc0syN2dwNlJVY1FXSjRZTEZYMUNVektHSnZWTUhsQ2RwUS14NmRIVTc5em9RS0tWc2U0QlBWdHFRcUQ5bU9qQ0R1MDJ3aWw3bEpOdWc0V0pkb2lwYVUzMk9IcG44?oc=5",
         "description": "",
         "pubDate": "2025-10-14T14:16:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "NFL uses AI to predict injuries, aiming to keep players healthier - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeHdldEVDX0ROTEhmdGY3ZWRUeDVGX1JiNmdkSlFjMGNPamU1YTd5YzNndWZDSHFJOHBtX1NvTXdudmI2MXpYU2F2WXVsbVh6d0xTV3o4MW9RLVc2RExJSE5DejFVdFpBMVlzZDdNNENzZWxmUHJBQ3dTU2ZTWkNFZHVFRnRzbG95Zl9NMQ?oc=5",
-        "description": "",
-        "pubDate": "2025-10-14T13:40:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1100,9 +1118,9 @@
     ],
     "Science": [
       {
-        "title": "Pictured: Winning entries for Wildlife Photographer of the Year 2005",
+        "title": "Pictured: Winning entries for Wildlife Photographer of the Year 2025",
         "link": "https://www.bbc.com/news/articles/cx253vrd931o?at_medium=RSS&at_campaign=rss",
-        "description": "Photograher Wim van den Heever got the winning shot beside an abandoned diamond mining settlement.",
+        "description": "Photographer Wim van den Heever got the winning shot beside an abandoned diamond mining settlement.",
         "pubDate": "2025-10-14T23:04:11Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e8a/live/d2878b50-a933-11f0-b741-177e3e2c2fc7.png",
@@ -1246,6 +1264,15 @@
         "bias": 0
       },
       {
+        "title": "NFL uses AI to predict injuries, aiming to keep players healthier - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeHdldEVDX0ROTEhmdGY3ZWRUeDVGX1JiNmdkSlFjMGNPamU1YTd5YzNndWZDSHFJOHBtX1NvTXdudmI2MXpYU2F2WXVsbVh6d0xTV3o4MW9RLVc2RExJSE5DejFVdFpBMVlzZDdNNENzZWxmUHJBQ3dTU2ZTWkNFZHVFRnRzbG95Zl9NMQ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-14T13:40:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Trump tariffs on kitchen cabinets and lumber come into force",
         "link": "https://www.bbc.com/news/articles/ced61d1y6yyo?at_medium=RSS&at_campaign=rss",
         "description": "There are concerns the new levies, meant to protect US manufacturers, could raise housing costs.",
@@ -1315,6 +1342,15 @@
         "pubDate": "2025-10-14T05:33:47Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e59/live/120382a0-a5bc-11f0-9c0f-2728b7b5fddd.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Jake Moody goes from no job to kicking a winning field goal for the Bears against the Commanders - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMURxa0t0NU0tRHZ2RUxpTUNpcHZ4TGJBQnBwbWdfLTNxRzRjNmQ4MEppVEZKQmNlckNEeVF6akdBR2ZGcm5nTkJLdDNTdWEwUG1VM2VjOUMxNGhMb2JUb1o1bDRERGVsenFXSlY3U2dNZ3c0LVA5TDduYUNvUHJxT1JR?oc=5",
+        "description": "",
+        "pubDate": "2025-10-14T04:55:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
