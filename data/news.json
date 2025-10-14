@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-10-14T14:44:22.778241Z",
+  "lastUpdate": "2025-10-14T14:55:53.847274Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Alien Ailment [Free] [Platformer]",
+        "link": "https://asigamer.itch.io/alien-ailment",
+        "description": "2D Platformer made with vcpkg, box2d and SDL",
+        "pubDate": "2025-10-14T14:50:34Z",
+        "source": "asigamer.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNjAzODIwLnBuZw==/315x250%23c/yHhO1I.png",
+        "bias": 0
+      },
       {
         "title": "Racing Game in Raylib + C++ [Free] [Racing]",
         "link": "https://asigamer.itch.io/racing-game-in-raylib",
@@ -18,6 +27,15 @@
         "pubDate": "2025-10-14T14:37:46Z",
         "source": "tfelemban0006-cloud.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNjAzNjIxLmpwZw==/315x250%23c/ADVOx8.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Project Snow [Free] [Adventure]",
+        "link": "https://dreamz6-9852.itch.io/project-snow",
+        "description": "",
+        "pubDate": "2025-10-14T14:35:51Z",
+        "source": "dreamz6-9852.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNjAzNjA0LmpwZw==/315x250%23c/jZ2PLY.jpg",
         "bias": 0
       },
       {
@@ -156,15 +174,6 @@
         "bias": 0
       },
       {
-        "title": "AVENTURAS DE SHYDUDE {alpha} [Free] [Role Playing]",
-        "link": "https://nickhqnickgames.itch.io/aventuras-de-shydude-alpha",
-        "description": "um jogo baseado em homestuck",
-        "pubDate": "2025-10-14T12:26:37Z",
-        "source": "nickhqnickgames.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjAyMTc0LnBuZw==/315x250%23c/UZJ%2BpK.png",
-        "bias": 0
-      },
-      {
         "title": "Desktop Defender [Free] [Strategy] [Windows]",
         "link": "https://conradicalgames.itch.io/desktop-defender",
         "description": "A tower defense that sits in the corner of your screen.",
@@ -193,6 +202,24 @@
       }
     ],
     "World": [
+      {
+        "title": "Gaza ceasefire tested as Israeli forces kill five Palestinians",
+        "link": "https://www.aljazeera.com/news/2025/10/14/gaza-ceasefire-tested-as-israeli-forces-kill-five-palestinians?traffic_source=rss",
+        "description": "Israeli troops redeploy in Gaza according to agreed deal, but clashes and killings threaten stability of the ceasefire.",
+        "pubDate": "2025-10-14T14:39:51Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "‘They could have killed me’: Protesters condemn state violence in Argentina",
+        "link": "https://www.aljazeera.com/news/longform/2025/10/14/they-could-have-killed-me-protesters-condemn-state-violence-in-argentina?traffic_source=rss",
+        "description": "Critics say violence against protesters is on the rise after President Milei introduced new rules for security forces.",
+        "pubDate": "2025-10-14T14:36:07Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "French PM backs freezing Macron's pension reform to save government",
         "link": "https://www.bbc.com/news/articles/crkldd02xg8o?at_medium=RSS&at_campaign=rss",
@@ -624,24 +651,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Al Jazeera reporter reunited with his brother as he’s freed by Israel",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/10/14/al-jazeera-reporter-reunited-with-his-brother-as-hes-freed-by-israel?traffic_source=rss",
-        "description": "Al Jazeera reporter Ibrahim al-Khalili reunites with his detained brother for the first time in almost two years.",
-        "pubDate": "2025-10-14T08:54:09Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "'We see a future': Two women in Gaza reflect on the ceasefire and what comes next",
-        "link": "https://www.npr.org/2025/10/14/nx-s1-5573041/we-see-a-future-two-women-in-gaza-reflect-on-the-ceasefire-and-what-comes-next",
-        "description": "With the skies quiet after two years of war, two women in Gaza talk about grief, survival and what hope looks like in this fragile moment.",
-        "pubDate": "2025-10-14T08:47:38Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
@@ -778,15 +787,6 @@
         "pubDate": "2025-10-14T08:45:36Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83ff/live/92ffd8b0-a8d0-11f0-b741-177e3e2c2fc7.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Cameroon opposition candidate Tchiroma claims victory in presidential election - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT3Jfa3RYZG04VTV0RklmNkZ0dWc2YVI2OWdGcERyRGdyYmZIMXUzTjY1SWJKUE5oaU1ZSG9LYkNsVVNrbVVjbDJRcVh0dFhObWpLN3QzOElabGdLbXpGTmtnM2wtQ2UxSG1lMWJjY1RCUVBKSU1MdHA5WkNpd2xDTnk1MlYzcjl0OEFtREpYRXNYWVNUWUE?oc=5",
-        "description": "",
-        "pubDate": "2025-10-14T08:45:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
