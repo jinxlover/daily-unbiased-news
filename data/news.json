@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-10-15T10:44:55.951884Z",
+  "lastUpdate": "2025-10-15T10:56:01.269093Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Ritual Keeper [Free] [Puzzle]",
+        "link": "https://gamedevmadeeasy.itch.io/ritual-keeper",
+        "description": "",
+        "pubDate": "2025-10-15T10:39:20Z",
+        "source": "gamedevmadeeasy.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNjE0MDk1LnBuZw==/315x250%23c/H8OVzC.png",
+        "bias": 0
+      },
       {
         "title": "Mobile Man X [Free] [Action] [Windows] [Android]",
         "link": "https://ksharp8.itch.io/mobile-man-x",
@@ -113,7 +122,7 @@
       {
         "title": "Living In Research [Free] [Survival] [Windows]",
         "link": "https://black-d-og.itch.io/living-in-research",
-        "description": "Multi-Player Survival Game.",
+        "description": "Multi-Player Crafting Survival Game.",
         "pubDate": "2025-10-15T08:03:11Z",
         "source": "black-d-og.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNjEzMjQwLnBuZw==/315x250%23c/S%2BnB0g.png",
@@ -188,7 +197,7 @@
         "title": "Former Kenyan Prime Minister Raila Odinga dies in India aged 80",
         "link": "https://www.bbc.com/news/articles/c1m39xg4dggo?at_medium=RSS&at_campaign=rss",
         "description": "Odinga died on Wednesday while receiving medical treatment at a hospital in India, family sources tell the BBC.",
-        "pubDate": "2025-10-15T10:30:39Z",
+        "pubDate": "2025-10-15T10:50:39Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a7e/live/f47bf560-a98e-11f0-8cc1-273230b15f0b.jpg",
         "bias": 0
@@ -201,6 +210,15 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "India’s Himalayan villages slowly reviving decades after conflict",
+        "link": "https://www.aljazeera.com/gallery/2025/10/15/life-slowly-returning-to-abandoned-himalayan-villages-in-india?traffic_source=rss",
+        "description": "People return to Himalayan villages each summer, despite their decline after the 1962 India-China border closure.",
+        "pubDate": "2025-10-15T10:12:21Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Israel keeps Gaza border crossing closed while reducing aid deliveries",
@@ -590,7 +608,7 @@
         "bias": 0
       },
       {
-        "title": "What to know about the events leading up to Madagascar’s military coup - AP News",
+        "title": "This is what led to Madagascar’s military coup - AP News",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUTFoUlk4VHgzTzNGaGdrOWRNU0l4dWFOcWdabTdjQTJ6QlJSMzBxVVF1cGxsX3NWOEFWVFRRZHNPbnlpNmJUVTNHa0s4aktJYVBQN2FqVE1zb1NTdnNUQU1UdFFvQzhTNnhuRzM5MzQ5Rkk5SHhobEhMMDRQV254by1LZjNLZ2JRb2RBZzlnaFlzcGNIM01BLU93?oc=5",
         "description": "",
         "pubDate": "2025-10-15T01:45:00Z",
@@ -624,18 +642,27 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Florida judge temporarily blocks transfer of downtown Miami land for Trump's presidential library - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLXFMZEx6cndQdDdleEdoaDQ1NmlQNGxCRGkxX0pzRDZ2akw5UFluM2Jhc3IzNHUtbmF6N0lFRHVqVjFWdXJhcW5VMlIwcTU5MjFVTUxTZHVNSEpKdENiNW1VZjFDcHl4d3NDTzRJTXJPZGxieE1CNnpvTGtkR1NlaTNxOFRCbklITGxDWlViRXpBaUhOM21rVkh3?oc=5",
-        "description": "",
-        "pubDate": "2025-10-15T00:19:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Shutdown hits day 15 as public feels the strain and Capitol Hill standoff drags on",
+        "link": "https://www.npr.org/2025/10/15/nx-s1-5574237/shutdown-hits-day-15-as-public-feels-the-strain-and-capitol-hill-standoff-drags-on",
+        "description": "The government shutdown is on its 15th day, and as the public increasingly begins to feel the effects, it remains unclear which party on Capitol Hill will blink first.",
+        "pubDate": "2025-10-15T10:39:11Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Republican Rep. Mike Lawler on his calls for Democrats to reopen the government",
+        "link": "https://www.npr.org/2025/10/15/nx-s1-5574177/republican-rep-mike-lawler-on-his-calls-for-democrats-to-reopen-the-government",
+        "description": "NPR's Michel Martin speaks with Republican Congressman Mike Lawler of New York about the ongoing government shutdown and his calls for Democrats in his state to end it.",
+        "pubDate": "2025-10-15T10:39:04Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Reeves acknowledges she is looking at tax rises ahead of Budget",
         "link": "https://www.bbc.com/news/articles/c2drpzxpkp3o?at_medium=RSS&at_campaign=rss",
@@ -813,6 +840,15 @@
         "pubDate": "2025-10-15T09:01:19Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e276/live/d0cc4690-a90e-11f0-b5e8-25b94b51d777.jpg",
+        "bias": 0
+      },
+      {
+        "title": "NATO's newest members offer to buy more US arms for Ukraine as Western backing declines - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa1haMTFlcXdPSzV1LWNXbVhNWlZDamk5aTk2bFRkZ2RPdkRiVkFqRXdQel9hSGYwV2RaYk5hNDU4WDFwWU5UOTZfdi1MM0ZROE9EQ05Ea25iRFUyWUwtMy1QZWJybVBFUUdla1hLX1NBb3VfT0JOMkdiZkZwbjI4RmZNR0JwTE8tNjdYSFFrR0NjQ1ZKWnJac0hR?oc=5",
+        "description": "",
+        "pubDate": "2025-10-15T08:58:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
