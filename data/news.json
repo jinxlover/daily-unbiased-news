@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-10-15T15:40:01.501637Z",
+  "lastUpdate": "2025-10-15T15:50:45.923937Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Mortis Pactum [Free] [Adventure]",
+        "link": "https://beatrizloyola.itch.io/mortispactum",
+        "description": "Dungeon Crawler + RPG",
+        "pubDate": "2025-10-15T15:32:21Z",
+        "source": "beatrizloyola.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNjE3MTQ4LnBuZw==/315x250%23c/PuKn9x.png",
+        "bias": 0
+      },
       {
         "title": "SpaceShooter [Free] [Shooter]",
         "link": "https://sharklsd.itch.io/spaceshooter",
@@ -9,6 +18,15 @@
         "pubDate": "2025-10-15T15:20:38Z",
         "source": "sharklsd.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNjE3MDM3LnBuZw==/315x250%23c/T%2Bz%2Bgo.png",
+        "bias": 0
+      },
+      {
+        "title": "Project Pigeon [Free] [Simulation] [Windows] [Linux]",
+        "link": "https://konsumlamm.itch.io/project-pigeon",
+        "description": "Pigeons aren't real",
+        "pubDate": "2025-10-15T15:15:58Z",
+        "source": "konsumlamm.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNjE3MjYwLnBuZw==/315x250%23c/K6SzJN.png",
         "bias": 0
       },
       {
@@ -183,15 +201,6 @@
         "bias": 0
       },
       {
-        "title": "Cesar is Late! [Free]",
-        "link": "https://vinisbosa.itch.io/cesar-is-late",
-        "description": "O Cesar vai se atrasar para a aula!",
-        "pubDate": "2025-10-15T13:50:51Z",
-        "source": "vinisbosa.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjE1OTU5LmpwZw==/315x250%23c/ef%2B%2FZI.jpg",
-        "bias": 0
-      },
-      {
         "title": "Crack the Formula [Free] [Puzzle] [Windows] [Linux]",
         "link": "https://e-cathy.itch.io/crack-the-formula",
         "description": "Combine goofy ingredients to make a colorful mixture - Made for 🍐 2. KIT GameJam: BirnenJam",
@@ -210,33 +219,24 @@
         "bias": 0
       },
       {
-        "title": "Hydration VR Game [Free] [Role Playing]",
-        "link": "https://kostaas.itch.io/hydration-vr-game",
-        "description": "Virtual Reality Game about dehydration.",
-        "pubDate": "2025-10-15T12:06:06Z",
-        "source": "kostaas.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjE2MDY5LnBuZw==/315x250%23c/jPkgtE.png",
-        "bias": 0
-      },
-      {
         "title": "Last Breath [Free] [Puzzle] [Windows] [macOS] [Linux]",
         "link": "https://molotov-kittens.itch.io/last-breath",
-        "description": "A Short Escape Room Puzzle Horror Game",
+        "description": "A Short Escape Room Horror Game",
         "pubDate": "2025-10-15T10:19:18Z",
         "source": "molotov-kittens.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjEzODMwLmpwZw==/315x250%23c/gl9rcG.jpg",
+        "image": "https://img.itch.zone/aW1nLzIzNjE3MzIyLnBuZw==/315x250%23c/hDjbIa.png",
         "bias": 0
       }
     ],
     "World": [
       {
-        "title": "Live updates: Supreme Court hears arguments over the Voting Rights Act - AP News",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XSUkwRUUtbllIT0F1NVE5YzkybU8wQmZHQy12M0tVQkM4US1yTDA3bzFpMk9LZ3JmdWw1dTczMWVIcnNXVnVWdV84R0VCSDdqNWdmM1hEX3oxTW5aWUtPcTJRR3hlcktheV9zX3BtS0U1STVIT2dvYg?oc=5",
-        "description": "",
-        "pubDate": "2025-10-15T15:35:00Z",
-        "source": "news.google.com",
+        "title": "House filmed floating to sea after Typhoon Halong hits Alaska’s coast",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/10/15/house-filmed-floating-to-sea-after-typhoon-halong-hits-alaskas-coast?traffic_source=rss",
+        "description": "A home was filmed floating away off Alaska’s coast after Typhoon Halong made landfall, killing one person.",
+        "pubDate": "2025-10-15T15:37:16Z",
+        "source": "aljazeera.com",
         "image": "",
-        "bias": 0
+        "bias": -1
       },
       {
         "title": "Pakistan and Afghanistan agree to a temporary ceasefire after days of deadly clashes",
@@ -308,6 +308,15 @@
         "pubDate": "2025-10-15T14:33:42Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a13/live/bcf984e0-a9b1-11f0-a923-ff705558ae00.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Walking is good for you. Walking backward can add to the benefits - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWEVZSWhCSGsxeG5DSmc2bnlKbktiM2NjRjRqdUdfa2xGd1VuMzJVSWF6b0F4WEo4MXZiS291WUswZDlKbGhSOGZHMkpwUlgyU24yb2xZWVg1M19TY0hmM2JGZHdDcFRqR3Eta2kxRzB6UHk1SlZMYVRiTzZWVHh3STVuOHNvQVZZQWwtWUFpQ0RYNm81elNXY1VWNnNCam9tSnc?oc=5",
+        "description": "",
+        "pubDate": "2025-10-15T14:31:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -437,6 +446,15 @@
         "bias": 0
       },
       {
+        "title": "UN agency says C02 levels hit record high last year, causing more extreme weather - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWDZ2YjlvY2JoZXBHRkEzbWx2cFVZZ0Ezck9WM0FyMEc4Y3ViU251U0FFLUwxQVFqTzlobXpKNmNmQ0tnYjc5dnBIUE81SmhHN2xNemlVQW1WLUFoemVJdm1CVWh4bldWMXdLLUo3c0VUQ09LUEVDdEVwdkMyZ1V4WTE0MF81NXI2Qm9FVlpzNDlaR250UlF3SXVRbnJLWEE?oc=5",
+        "description": "",
+        "pubDate": "2025-10-15T13:04:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Leader of Madagascar’s military rebellion tells AP he is ‘taking the position of president’ - AP News",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV2tyX2tCSEJDMUFHNVY1YWpmSy1UZ2N1MGVaUGlIaXVuLWJJbmY2QmhlNi12LW9hUGd0WnVfZ3lLcXVIbnk3dkJWQ1dienRTVTkwUWhCTHpzRGdCd18wenRVaEZvTURkZXhWVGVtTXlwQ0lWLXZvMV9zMlVFZzNhcUJTYnBHS1NGNUdZOE1oQ1REWjNDWlE?oc=5",
         "description": "",
@@ -554,15 +572,6 @@
         "bias": -1
       },
       {
-        "title": "UN agency says C02 levels hit record high last year, causing more extreme weather - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWDZ2YjlvY2JoZXBHRkEzbWx2cFVZZ0Ezck9WM0FyMEc4Y3ViU251U0FFLUwxQVFqTzlobXpKNmNmQ0tnYjc5dnBIUE81SmhHN2xNemlVQW1WLUFoemVJdm1CVWh4bldWMXdLLUo3c0VUQ09LUEVDdEVwdkMyZ1V4WTE0MF81NXI2Qm9FVlpzNDlaR250UlF3SXVRbnJLWEE?oc=5",
-        "description": "",
-        "pubDate": "2025-10-15T10:54:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "India’s Himalayan villages slowly reviving decades after conflict",
         "link": "https://www.aljazeera.com/gallery/2025/10/15/life-slowly-returning-to-abandoned-himalayan-villages-in-india?traffic_source=rss",
         "description": "People return to Himalayan villages each summer, despite their decline after the 1962 India-China border closure.",
@@ -669,18 +678,18 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "'He transformed R&B forever' - Stars pay tribute to D’Angelo, after his death at 51",
-        "link": "https://www.bbc.com/news/articles/cwynv40ly4vo?at_medium=RSS&at_campaign=rss",
-        "description": "",
-        "pubDate": "2025-10-15T08:42:29Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9231/live/b2f507a0-a93c-11f0-b741-177e3e2c2fc7.jpg",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Live updates: Supreme Court hears arguments over the Voting Rights Act - AP News",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XSUkwRUUtbllIT0F1NVE5YzkybU8wQmZHQy12M0tVQkM4US1yTDA3bzFpMk9LZ3JmdWw1dTczMWVIcnNXVnVWdV84R0VCSDdqNWdmM1hEX3oxTW5aWUtPcTJRR3hlcktheV9zX3BtS0U1STVIT2dvYg?oc=5",
+        "description": "",
+        "pubDate": "2025-10-15T15:35:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Republican Rep. Lisa McClain talks about the ongoing government shutdown",
         "link": "https://www.npr.org/2025/10/15/nx-s1-5574333/republican-rep-lisa-mcclain-talks-about-the-ongoing-government-shutdown",
@@ -706,24 +715,6 @@
         "pubDate": "2025-10-15T14:44:09Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ce7/live/c12f9c60-a9d0-11f0-aa31-b1f6905de5c6.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Why a Supreme Court case from Louisiana will matter for the future of the Voting Rights Act - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU2dEOFA4ejFsVTFNaGFFTno0VzkzTW5vZG5iMmwyTDNpVXlyWjM1WUY2dHUyTHo4QnZBT0I5b3Rvdm9tNnFWUzUwc05VdFhTRXdOS2dVd3lqbVdzYlBNeWJqcE9FdEw0S1dNVEY2OEtJVzExM3dnTkV1YkQ3VXk0TGt1TE1Uc1RwWU5MeGVlVlY4SG11U19JajE2X1VJRE5lRTZLOQ?oc=5",
-        "description": "",
-        "pubDate": "2025-10-15T14:39:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Walking is good for you. Walking backward can add to the benefits - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWEVZSWhCSGsxeG5DSmc2bnlKbktiM2NjRjRqdUdfa2xGd1VuMzJVSWF6b0F4WEo4MXZiS291WUswZDlKbGhSOGZHMkpwUlgyU24yb2xZWVg1M19TY0hmM2JGZHdDcFRqR3Eta2kxRzB6UHk1SlZMYVRiTzZWVHh3STVuOHNvQVZZQWwtWUFpQ0RYNm81elNXY1VWNnNCam9tSnc?oc=5",
-        "description": "",
-        "pubDate": "2025-10-15T14:31:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -864,6 +855,15 @@
     ],
     "Tech": [
       {
+        "title": "Why a Supreme Court case from Louisiana will matter for the future of the Voting Rights Act - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU2dEOFA4ejFsVTFNaGFFTno0VzkzTW5vZG5iMmwyTDNpVXlyWjM1WUY2dHUyTHo4QnZBT0I5b3Rvdm9tNnFWUzUwc05VdFhTRXdOS2dVd3lqbVdzYlBNeWJqcE9FdEw0S1dNVEY2OEtJVzExM3dnTkV1YkQ3VXk0TGt1TE1Uc1RwWU5MeGVlVlY4SG11U19JajE2X1VJRE5lRTZLOQ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-15T14:39:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Outsourcing firm Capita fined £14m after millions had data stolen",
         "link": "https://www.bbc.com/news/articles/c9d6yxdq3d2o?at_medium=RSS&at_campaign=rss",
         "description": "The outsourcing giant accepted liability, after the data watchdog said they failed to protect client data.",
@@ -904,15 +904,6 @@
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUmRrYmphTEFaNGZxT3NkQVQ0WTM1aUpkc1Q5SFFVTkRqSjNfZXdmekZndnZaalM4bjJKa2I3bkpNQnIxdkkzdnNyQ0NwamZZNzFCQjE1WTRGbk1aY252b2IxRThYanlJalJFQlZvcUR5T1RvRExKN2hPRmFicEV1dUpQdXVwc2dSU3BkdWpLMVRlTlVSXzlzX29FNXhlNTdfd3c?oc=5",
         "description": "",
         "pubDate": "2025-10-15T01:51:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Missouri man executed for the fatal shooting of a state trooper in 2005 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONGhuTlFtMHdnd1hmbXFCUXJXX0tpMjVPMHFqSTBOWXl5TzJKTm83NUZLWTQ4WkhOMmNjakJQTmJZOUVFVGJ0bTRraXBjYi1nR2tZazFmTXZTbzlBRkNUZVphNll5c1Z2LU5jamkxZGJiWnM0SnRsdnVWSVpybF8yc2JGbnJSTF90Z2JSSGdwNzhER1NZeWVnYw?oc=5",
-        "description": "",
-        "pubDate": "2025-10-15T01:38:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
