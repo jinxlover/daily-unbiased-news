@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-16T22:14:41.403410Z",
+  "lastUpdate": "2025-10-16T22:31:27.232798Z",
   "news": {
     "Gaming": [
       {
@@ -9,6 +9,15 @@
         "pubDate": "2025-10-16T22:01:37Z",
         "source": "wrightp6-pixel.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNjM2NDA5LnBuZw==/315x250%23c/qqG9HL.png",
+        "bias": 0
+      },
+      {
+        "title": "Cat Clicker [Free] [Simulation]",
+        "link": "https://beedgt5.itch.io/cat-clicker",
+        "description": "CLICK CLICK CLICK!",
+        "pubDate": "2025-10-16T21:54:20Z",
+        "source": "beedgt5.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNjM2NzQxLnBuZw==/315x250%23c/Ud9ETS.png",
         "bias": 0
       },
       {
@@ -27,6 +36,15 @@
         "pubDate": "2025-10-16T20:43:10Z",
         "source": "xeeros-cos.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNjM0NzIwLmpwZw==/315x250%23c/osu6BS.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Subsume Demo [Free] [Action]",
+        "link": "https://ted-awesomesauce.itch.io/subsume",
+        "description": "Made for Scream Jam 2025",
+        "pubDate": "2025-10-16T20:35:05Z",
+        "source": "ted-awesomesauce.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNjM2OTgxLnBuZw==/315x250%23c/lsJ%2Fzf.png",
         "bias": 0
       },
       {
@@ -66,15 +84,6 @@
         "bias": 0
       },
       {
-        "title": "Moonbind [Free] [Visual Novel] [Windows] [macOS]",
-        "link": "https://tereus27.itch.io/moonbind",
-        "description": "A vore-based visual novel with rpg combat elements.",
-        "pubDate": "2025-10-16T18:18:15Z",
-        "source": "tereus27.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjMxMzQyLnBuZw==/315x250%23c/VM0JIx.png",
-        "bias": 0
-      },
-      {
         "title": "Yes I am a Deliveryman [Free] [Visual Novel] [Windows]",
         "link": "https://kalinadevelopers.itch.io/yes-i-am-a-deliveryman",
         "description": "Delivering to the unknown...",
@@ -102,15 +111,6 @@
         "bias": 0
       },
       {
-        "title": "TBTLander [Free]",
-        "link": "https://itchiodecarlos.itch.io/tbtlander",
-        "description": "Its like that old lunar lander game from the 80s",
-        "pubDate": "2025-10-16T15:22:17Z",
-        "source": "itchiodecarlos.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjI5MTE2LnBuZw==/315x250%23c/FCSxIK.png",
-        "bias": 0
-      },
-      {
         "title": "Worlds Hardest Game [Free] [Platformer]",
         "link": "https://fat-pigeonboy.itch.io/worlds-hardest-game",
         "description": "Worlds Hardest Game",
@@ -120,9 +120,9 @@
         "bias": 0
       },
       {
-        "title": "✝︎ Nothing unusual happens in the graveyard [Free] [Other]",
+        "title": "✝︎ Nothing unusual happens in the graveyard [Free] [Other] [Windows]",
         "link": "https://adamfull.itch.io/nothing-unusual-happens-in-the-graveyard",
-        "description": "It’s not the dead you should fear, but the living. Game for Scream Jam 2025👋",
+        "description": "It’s not the dead you should fear, but the living. Game for the Scream Jam 2025💀",
         "pubDate": "2025-10-16T11:16:10Z",
         "source": "adamfull.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNjM0ODQ0LnBuZw==/315x250%23c/vUmEns.png",
@@ -139,6 +139,15 @@
       }
     ],
     "World": [
+      {
+        "title": "Ex-Trump national security adviser Bolton charged with storing and sharing classified information - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY1dNQ1IzYXltalZTTC1ESlhYN05pNnVkcWNhSl9UNklWNjdTTklQbnk0Mk9DOVctc0p6N3hSSkZobGVCN3RBTlhiQVo2S3dwbjVpcjR0VUo1cFF1VGZiaWdMbnRHcDFyaTlIazY2S1NYc2lQUmFxYjhVNUdIWElwaVVEcmhrbV80WnUyQVZDeEJmREdyWmlfODBFSi10OERjRG5YcTlPRDM?oc=5",
+        "description": "",
+        "pubDate": "2025-10-16T22:14:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "US prosecutors charge Smartmatic in alleged $1M Philippines bribery case - AP News",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU1JQUW15cF96by1veUFnZGk3Q3c3LTkzZjZIYmc0VEtvTWRQdGxvNE5STkZZQkh1aVJDZnVrTDU3VUdDV2gtb2RvN2dTcE9YQXNkRHNHZjNmLXhkTWE4RTBlRVVmYVMyM0FsdmpFXzJJZFhWRkRXLVAydGo0V3RGSk5BdjNEQ2Q4OTJmdWJ0SG5GSXgyNF8yNWkycGhNRE0?oc=5",
@@ -158,10 +167,10 @@
         "bias": 0
       },
       {
-        "title": "Ex-Trump national security adviser Bolton charged in probe of mishandling of classified information - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY1dNQ1IzYXltalZTTC1ESlhYN05pNnVkcWNhSl9UNklWNjdTTklQbnk0Mk9DOVctc0p6N3hSSkZobGVCN3RBTlhiQVo2S3dwbjVpcjR0VUo1cFF1VGZiaWdMbnRHcDFyaTlIazY2S1NYc2lQUmFxYjhVNUdIWElwaVVEcmhrbV80WnUyQVZDeEJmREdyWmlfODBFSi10OERjRG5YcTlPRDM?oc=5",
+        "title": "Mahmoud Khalil can freely travel around US as he fights his deportation case, judge rules - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY1ctbExscGI3SWVRaEF3ZGJ0UHhDNjlDcnpKVzNZMXdmVHNESURueXNJWk03NzMtaXdyRkJGYml3bjlZcXE1Szh3ZU03TzFXeVJsLXFCSmRfNXVBcHVMckw4RkNUZ3ZzQkFLN3VOTzhTNFdwQUhrLXVndTBPV0JzTFRaVzZtZ0NVeW1zS2E4U3RoWVl5SGQ1Vg?oc=5",
         "description": "",
-        "pubDate": "2025-10-16T21:44:00Z",
+        "pubDate": "2025-10-16T21:47:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -248,15 +257,6 @@
         "bias": 0
       },
       {
-        "title": "Trump announces a deal with a manufacturer to make a common fertility drug cheaper for IVF patients - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSDFCcDRMZHFhQXRNZVFWeUxMUWE2R1l6VGJOdU94NVdwbjQ4S19kN0tPMkc3RlJjQTE4SjVVT29TajVUN3RnZm1DOXRYV1RPbXdqNFRza1RQQ0pSS1ZtZlRxNlV6aVRDbkNET0djblhBZjNObHpQcjZkV05XU3MyUVBUWnJqNm5NUE9xeQ?oc=5",
-        "description": "",
-        "pubDate": "2025-10-16T20:21:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Panama’s president alleges US threatening to revoke visas over China ties",
         "link": "https://www.aljazeera.com/news/2025/10/16/panamas-president-alleges-us-threatening-to-revoke-visas-over-china-ties?traffic_source=rss",
         "description": "Jose Raul Mulino says the visa-removal policy is 'not coherent' with the 'good relationship' he hopes to have with US.",
@@ -317,6 +317,15 @@
         "pubDate": "2025-10-16T19:58:28Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/141c/live/1a9fc450-aac6-11f0-b2a1-6f537f66f9aa.png",
+        "bias": 0
+      },
+      {
+        "title": "Gun-owning New Hampshire teenager sues school officials who searched his truck - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOF92cGRGVFhKWXVsRVcyS243d1pDWGNlZi1WOG5MYXFrVkFCNjlHZThiVDJkMzZjRGx0ckdKNHJHN1B3M3RSQ0lhemxELWNnVVp1X214UXdPZTFFMkwwUnRhNk95Sjd2QzRtMHdkVnNBYWZLZzg0WnNNbTRVUXd0VE1PTWt3ajJpOFJwQ3ZKVmhlWXFiQ1VxMlRmemVRdEpTMlhxOVRpTEVyQXprd2w5cQ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-16T19:47:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -455,6 +464,15 @@
         "bias": 0
       },
       {
+        "title": "MI5 chief says China is a security threat to UK as officials trade blame over spy case collapse - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZnlwRmlXS1Q2Z3d1dzN3R09RblVscXZTODAyYlU2bjNwTkUyRHhxbEhOX3BFUkI3aFZTRTdOUnpUS2pfbHR1T2l0V2dzMHJyeFRMQm96X013NU5rXzRPWUdvY1BXcTJHYU1RU1VnbE1aWjVFMk1ZdFM2djZnVXVPNFJvZXlzb1BSRXJZVXA3THd0ekttc2FlT3JTbkgtOVBfVmZuSmdHcw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-16T17:30:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Who pays to rebuild Gaza after Israel’s devastating war?",
         "link": "https://www.aljazeera.com/video/counting-the-cost/2025/10/16/who-pays-to-rebuild-gaza-after-israels-devastating-war?traffic_source=rss",
         "description": "The United Nations estimates more than $70bn is needed to rebuild Gaza.",
@@ -570,24 +588,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "FIFA World Cup 2026: What to know about Trump’s threat to move Boston games",
-        "link": "https://www.aljazeera.com/sports/2025/10/16/what-to-know-about-trumps-threat-to-take-world-cup-games-from-boston?traffic_source=rss",
-        "description": "United States President Donald Trump has taken aim at Boston over safety concerns ahead of FIFA World Cup 2026 fixtures.",
-        "pubDate": "2025-10-16T15:21:53Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Movie Review: Aziz Ansari’s guardian angel, gig economy comedy ‘Good Fortune’ stays earthbound - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaENZSnlORUFSWXdENEpSNmxJOGFaaXNXeHlSMTVBQ29mRERzLXNmQVE3UjlZbno4SHZrOGpJVGkwNFBkWlJTTzFkeUJDYVQxMld1TUs2alh2Tk1XZnYtU2d3OG41Y0Zabk9XQ1piY2UwaTBqM3FkVWhPcEtCWWl0MjNHbkRhMzNpQmhsTHdR?oc=5",
-        "description": "",
-        "pubDate": "2025-10-16T15:16:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
@@ -655,15 +655,6 @@
         "bias": -1
       },
       {
-        "title": "Gun-owning New Hampshire teenager sues school officials who searched his truck - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOF92cGRGVFhKWXVsRVcyS243d1pDWGNlZi1WOG5MYXFrVkFCNjlHZThiVDJkMzZjRGx0ckdKNHJHN1B3M3RSQ0lhemxELWNnVVp1X214UXdPZTFFMkwwUnRhNk95Sjd2QzRtMHdkVnNBYWZLZzg0WnNNbTRVUXd0VE1PTWt3ajJpOFJwQ3ZKVmhlWXFiQ1VxMlRmemVRdEpTMlhxOVRpTEVyQXprd2w5cQ?oc=5",
-        "description": "",
-        "pubDate": "2025-10-16T19:47:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "California to begin selling affordable, state-branded insulin beginning next year - AP News",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYTFOWjNRdTJfV2VPa3lZc1lvQUxtOUVHaDVLOVRIYldVMXZoM3RIcERYalVKT2VBeWdsOVJ2SjVhLXdLVFlnQlU1bDJ3eFpwSVNzRDVZT2ZsOWI5ejItLTVwVHd0eHkwX2RYcTNKaE9nOHVpYTc4MDhySXBNV2hhdG5VOTB6bGdKUDN0Z0M0SW1sZzg?oc=5",
         "description": "",
@@ -698,15 +689,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "MI5 chief says China is a security threat to UK as officials trade blame over spy case collapse - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZnlwRmlXS1Q2Z3d1dzN3R09RblVscXZTODAyYlU2bjNwTkUyRHhxbEhOX3BFUkI3aFZTRTdOUnpUS2pfbHR1T2l0V2dzMHJyeFRMQm96X013NU5rXzRPWUdvY1BXcTJHYU1RU1VnbE1aWjVFMk1ZdFM2djZnVXVPNFJvZXlzb1BSRXJZVXA3THd0ekttc2FlT3JTbkgtOVBfVmZuSmdHcw?oc=5",
-        "description": "",
-        "pubDate": "2025-10-16T17:30:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "MI5 chief 'frustrated' over collapse of China spy case",
@@ -808,10 +790,10 @@
         "bias": 0
       },
       {
-        "title": "Bangladesh prosecution seeks death penalty for ex-PM Sheikh Hasina over protest killings - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZTU4VUVGVmd6UG1mVGJ6aWVld2hRYmtFZ1hKNFBjRE5TandKV2huQktrZ1doVEpyd1VFVDJxSTRZc21nV0Q3QnBaODBCWFpzV2JxY09oaFZhTk9GOEpxOFg0SE51MUhKUWtNdXh0S0NfX09uUXA4dWFZMmVtME9rc2lKeDBVNWZqV2tZeW5qZ0ZoN2FPYW1GRGxCc0pkdUwwa1Y4cjl3?oc=5",
+        "title": "Violence erupts during anti-pollution protest as anger boils in Tunisia’s phosphate belt - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcDZYa1BzWUFnRmZ2YnlnLU0xRDVXUTQtRWJLS1hXVThlWEVjMzM0NVZyTUZVclpWSlVGMGJrLXhuYUd1aklBOUNmWjZrbzVJMFhYSlBhMWxBWVRlQllUVjh0M0NjcHZuTFRuUEljeXBXdWxPb3RWSmkyMzZNVjNlcnkwUlBoMTdDZl9lZEdNN1pKUzlLVEFqWGJWQkpnaHFtSXN5dmk3MGc5NWhJMzM4?oc=5",
         "description": "",
-        "pubDate": "2025-10-16T11:56:00Z",
+        "pubDate": "2025-10-16T12:01:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -925,15 +907,6 @@
         "bias": 0
       },
       {
-        "title": "US is working on doubling aid to Argentina to $40 billion by tapping private funding sources - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb0tubVRKUDFGT1l2akZqcHoyZDdzYlVscTRkV084RmhfRVl6M1dxWjY0aEtTSG5XYlFqMzZ2RDNTN2g2RFhQX3I2cFd4WDBRN2lkcU1pY0dpWHNndlZWNW4yQWwwUEpMTVoxeVBMaFZHTG5YZ21hR2dlcmk2MlRYTy1tNV9qNnA1TS1hSlZLeGdZU2JfdHJtMGNCQkxQM1BhQ2hia2dRMFZyM0ZOU0twd3FR?oc=5",
-        "description": "",
-        "pubDate": "2025-10-16T05:08:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Cabinet Office rejects Cummings' China breach claim",
         "link": "https://www.bbc.com/news/articles/ce3xz607dpro?at_medium=RSS&at_campaign=rss",
         "description": "Boris Johnson's ex-Downing Street aide says Beijing obtained \"vast amounts\" of \"secret\" data.",
@@ -972,24 +945,6 @@
     ],
     "Tech": [
       {
-        "title": "US commander overseeing fatal strikes against alleged drug boats off Venezuela will retire - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVTdQQnVHcEN1SDY2d2J6Qm9PeTFpY2ktOGVHQWszSHBZNmlvSGw4dE1mNnd4ZlZGb2RkdXRoVDMyQ2xTX2kyalZSbEVxWkc4QnZzRnM2YVFZNWdGdkhmVlJxX2o3dWlLcWo4OWxKM0dTdjVXdDZmVzNsRlpKYS1SelhBb1hoTmxnZ2l1OUtRSTZhb05qOVptOGtKb0Q3bEVCeWY2TWVmSldWZ29FRnpLMklB?oc=5",
-        "description": "",
-        "pubDate": "2025-10-16T21:33:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Louisiana lawmakers to consider changing 2026 election schedule ahead of redistricting court ruling - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONTMtcjhudGNfdi1JbVltbFpyYU01S2dLQlBTRENPNjBjVVdtWHZDTlM0ZEZDcHh0dkYwZldVSzZjVjJXSlhIY2hTOW9wWlJpX3pOcnpPanJobk16NVhNdGhGcThvMjlTVjVXeS1jdXUtRXJyRVZFRVYwcnBkZzRQRjdNaHl0WGxZMkIyTmQ4VllMeG1tbGJiVkpJUHNnS0E?oc=5",
-        "description": "",
-        "pubDate": "2025-10-16T20:50:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Is the AI boom an AI bubble?",
         "link": "https://www.npr.org/2025/10/16/nx-s1-5574391/is-the-ai-boom-an-ai-bubble",
         "description": "NPR's Ailsa Chang speaks with Jared Bernstein, a Stanford University economist who was once chief economic adviser to President Biden, on a potential artificial intelligence bubble in the U.S.",
@@ -997,6 +952,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Man arrested in the disappearance of a Philadelphia woman also charged in earlier kidnapping case - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVEZocTMwOG1JNXZZY0ZYUWVPLWpSdGRfeFF2VWpKUHpQRG9jbnJVMTE0YlNhdzBFTjVLbVNGVUVNRDVkeXdfemZlZUFtY1JKMTJES1kzZVkzOHhRYzBpVFNkdkFMUHFQTGZXa3VSb3J1WVQ2TURKWjNlbjlvNVpuWTZDcjZEY3BaNmQyaWYzRUgycF9Ga25jVXltWV9KWDg2eGFfWHpXSQ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-16T18:43:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Vatican report calls for reparations for sex abuse victims and tougher sanctions for abusers - AP News",
@@ -1044,24 +1008,6 @@
         "bias": 0
       },
       {
-        "title": "Violence erupts during anti-pollution protest as anger boils in Tunisia’s phosphate belt - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcDZYa1BzWUFnRmZ2YnlnLU0xRDVXUTQtRWJLS1hXVThlWEVjMzM0NVZyTUZVclpWSlVGMGJrLXhuYUd1aklBOUNmWjZrbzVJMFhYSlBhMWxBWVRlQllUVjh0M0NjcHZuTFRuUEljeXBXdWxPb3RWSmkyMzZNVjNlcnkwUlBoMTdDZl9lZEdNN1pKUzlLVEFqWGJWQkpnaHFtSXN5dmk3MGc5NWhJMzM4?oc=5",
-        "description": "",
-        "pubDate": "2025-10-16T12:01:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "As the shutdown drags on, these people will lose if health care subsidies expire - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZXA4UU5zM3JDMTNfY0xHdWV4MHVrbGVwODF2YTNxVnU2Y0FpSHBlQVI5X0luWndKcVBnTUtMd2F5TlFKN1Rvdl9yX1JKMDVlMG1HX0V2OVN0Zld2OENUcC0tYjE4cE5FQkkyTnBEdkZQZklFQXVHc0o1VC01QzhrTWJLM2FxSmh3eGlna3FQMHdUZGZkSUJhc2haSnJBMHBJT2F4dGxIQzdoUnZZOWRmdGduaw?oc=5",
-        "description": "",
-        "pubDate": "2025-10-16T11:41:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Why AI is being trained in rural India",
         "link": "https://www.bbc.com/news/articles/cqjevxvxw9xo?at_medium=RSS&at_campaign=rss",
         "description": "Smaller Indian towns are becoming centres for training and correcting artificial intelligence models.",
@@ -1071,12 +1017,39 @@
         "bias": 0
       },
       {
+        "title": "A former security guard at the US Embassy in Norway is convicted of spying for Russia and Iran - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb0JLcld5amFpRE5PNmxfMmZUaTRUdnQydGlicGpZX2dId1pscGtRdTFPam9ZUmRpUm8zV0M1QmNqdlNQOHlyajMxSGMya2s3MGw5SDk5aElHM2VSNVEyamNEcDlKNS1lQy1kR2duZFFwQUVEOUhPTW9fVzFXWXhFR0JzNDRUSmFtRGtRdzZXWmZIbURYUU9sXy1IQzZCMTVPVDNJLThyUmlxaFBJ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-16T11:07:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Prepare for wild weather and don't bother the sheep: What to know about visiting the Faroe Islands - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYjRNLW9qMVh5UkFwS3JPS1l4R0p6WHh0S3NrQlplQVNPQ3kzR24tWWJGb3RFTWpoRDBHWVNpck9OX0VheEZCZFBvRG51RHI3T1RuLVJvcnJ5YVEyMkdsTEY5dmxuSkhvbTY4a2hJRV9ITndxc3A2ZXlvWUVZckVaR0xqLXdGdzZnNDBzUWNyczhvaUR5QnZ6YQ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-16T06:37:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Scottish data centres powering AI already using enough water to fill 27 million bottles a year",
         "link": "https://www.bbc.com/news/articles/c77zxx43x4vo?at_medium=RSS&at_campaign=rss",
         "description": "The volume of tap water used by Scotland's data centres has quadrupled since 2021, figures show.",
         "pubDate": "2025-10-16T05:11:26Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/943e/live/23dd9350-a9d4-11f0-ba75-093eca1ac29b.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Oregon and conservationists ask court to OK dam operation changes to help salmon - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSmNoZDU4N182UEFuTk9hNW4yMVBYYWhrekYwSFAyUC1yWDdpSzd1eENUV2hNaHItSEw2TnRQQXlYenY1NVA1aHFjb085T1FNcjU4NEI3YjNKdjdrYlZuMDhXWE9GLWxXTXJqTEJUWU0yQnltTDdjQ082ajk4TU5vUjJmMVJ3VnZ5aHhkbGx4dTg2cUlJWFRxbmlOMFlQeVk?oc=5",
+        "description": "",
+        "pubDate": "2025-10-16T02:01:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -1104,15 +1077,6 @@
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdGd1cXdwNl9mR1FmTnVjalpXUUh6eXd1dHB2NGo2SnJNR3lIanRRTk5tbFB4Sk44SFlLZTh6TjFsXzFDTWRUbVNpOENWcEdEUmJ0am96MkxHWUxwaTNaTTJDWFFwd0Zqd0wzMGNHbmYtQk5oZWtCM2RCNVJCbHlfakQtdVYyaUhD?oc=5",
         "description": "",
         "pubDate": "2025-10-16T21:22:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Man arrested in the disappearance of a Philadelphia woman also charged in earlier kidnapping case - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVEZocTMwOG1JNXZZY0ZYUWVPLWpSdGRfeFF2VWpKUHpQRG9jbnJVMTE0YlNhdzBFTjVLbVNGVUVNRDVkeXdfemZlZUFtY1JKMTJES1kzZVkzOHhRYzBpVFNkdkFMUHFQTGZXa3VSb3J1WVQ2TURKWjNlbjlvNVpuWTZDcjZEY3BaNmQyaWYzRUgycF9Ga25jVXltWV9KWDg2eGFfWHpXSQ?oc=5",
-        "description": "",
-        "pubDate": "2025-10-16T18:43:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1183,6 +1147,15 @@
     ],
     "Business": [
       {
+        "title": "Trump administration sued over $100K fee for skilled worker visas",
+        "link": "https://www.bbc.com/news/articles/cm270lj46eyo?at_medium=RSS&at_campaign=rss",
+        "description": "The president has defended the fee and said the programme - used widely by US tech companies - was being abused",
+        "pubDate": "2025-10-16T22:15:31Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c9f/live/2e0d8e20-aadd-11f0-881b-d76376cce4d0.jpg",
+        "bias": 0
+      },
+      {
         "title": "Running app Strava accuses watch-maker Garmin of patent infringement",
         "link": "https://www.npr.org/2025/10/16/nx-s1-5570851/running-app-strava-accuses-watch-maker-garmin-of-patent-infringement",
         "description": "A smartwatch maker and a popular running app are locked in a legal dispute -- and if it ends badly, runners are wondering how this will affect their ability to track their runs.",
@@ -1225,6 +1198,15 @@
         "pubDate": "2025-10-16T13:30:29Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/216d/live/0c8e29a0-aa59-11f0-9d87-a79f167250e5.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Photos show Sumo wrestlers bring 1,500 years of tradition to London’s Royal Albert Hall - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQmV2Rk84YXd3Tmd3ZURrc09iVTE4Ulk1S1czTzRLX1Y3UFlKb2J1dkdPMU9seGNIM3FrYlBTcnhvNF9aMDNhdG5ob1hSS1NuLU8zVU50UkR1T1NrNzlnenVsSUUyeW1RdGFzVlo2RDhLU0t6Wno2Yk5xaTJ2Z0N4aXRPdEN5LUNRXzhIeHhvVWpYR1M3TEk3emV1aUhMZDluZlNjM25aREZPVF84dDNJQTd3NjZYaVVi?oc=5",
+        "description": "",
+        "pubDate": "2025-10-16T12:58:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -1292,6 +1274,33 @@
       }
     ],
     "Culture": [
+      {
+        "title": "Strange shrieks as tensions rise in Celebrity Traitors",
+        "link": "https://www.bbc.com/news/articles/cjr04nwnq57o?at_medium=RSS&at_campaign=rss",
+        "description": "For many social media users, it was the subtitles that stole the show.",
+        "pubDate": "2025-10-16T22:25:52Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/251b/live/1f6655a0-aadd-11f0-881b-d76376cce4d0.png",
+        "bias": 0
+      },
+      {
+        "title": "Housing designed to combat loneliness wins top architecture award",
+        "link": "https://www.bbc.com/news/articles/c4gwlz6k96no?at_medium=RSS&at_campaign=rss",
+        "description": "Appleby Blue Almshouse in London wins the Royal Institute of British Architects' Stirling Prize.",
+        "pubDate": "2025-10-16T22:13:48Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8de6/live/2924c200-a909-11f0-b741-177e3e2c2fc7.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Sam Fender wins 2025 Mercury Prize for album of the year",
+        "link": "https://www.bbc.com/news/articles/cp3dnjd9g4go?at_medium=RSS&at_campaign=rss",
+        "description": "\"I didn't think that was going to happen at all,\" the star says, as judges laud his \"classic\" album.",
+        "pubDate": "2025-10-16T22:00:10Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c45/live/8e5e9100-aada-11f0-ba75-093eca1ac29b.jpg",
+        "bias": 0
+      },
       {
         "title": "'We love you Liam' - Payne's home city remembers a year on",
         "link": "https://www.bbc.com/news/articles/cy0yl9z4j89o?at_medium=RSS&at_campaign=rss",
