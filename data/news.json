@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-10-16T18:27:55.806596Z",
+  "lastUpdate": "2025-10-16T18:50:13.917287Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Alien Maker Dress Up [Free] [Other] [Windows]",
+        "link": "https://raveglitch.itch.io/alien-maker",
+        "description": "Drag pieces to create a little alien!",
+        "pubDate": "2025-10-16T18:27:51Z",
+        "source": "raveglitch.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNjMwOTUwLmdpZg==/315x250%23c/LZclNV.gif",
+        "bias": 0
+      },
       {
         "title": "Sprunk! [Free]",
         "link": "https://zipperos.itch.io/sprunkexe",
@@ -57,15 +66,6 @@
         "bias": 0
       },
       {
-        "title": "Re5i5tencia Ensenada [Free] [Interactive Fiction]",
-        "link": "https://algieba15.itch.io/re5i5tencia-ensenada",
-        "description": "Un juego sobre la resistencia en Ensenada durante el golpe de Estado de 1955 en Argentina. Hecho para la 1955 Game Jam.",
-        "pubDate": "2025-10-16T17:22:44Z",
-        "source": "algieba15.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjMwMTg4LnBuZw==/315x250%23c/1YKNfN.png",
-        "bias": 0
-      },
-      {
         "title": "Fps mini game thing [Free]",
         "link": "https://angelicabroadhurst.itch.io/fps-mini-game-thing",
         "description": "Controls for the game are the same in unity, nothing is different. Shift = sprint, space = jump, WASD keys to move, etc",
@@ -93,15 +93,6 @@
         "bias": 0
       },
       {
-        "title": "Repeat After Me [Free] [Windows]",
-        "link": "https://ilprimarii.itch.io/repeatafterme",
-        "description": "Tarrot Card Prototype",
-        "pubDate": "2025-10-16T16:14:19Z",
-        "source": "ilprimarii.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjI5ODYxLnBuZw==/315x250%23c/cg3Num.png",
-        "bias": 0
-      },
-      {
         "title": "Factory Reset [Free] [Survival] [Windows]",
         "link": "https://spiredsix.itch.io/factory-reset",
         "description": "Keep The Factory Powered and Make Quota",
@@ -126,6 +117,15 @@
         "pubDate": "2025-10-16T15:29:04Z",
         "source": "nikolargine.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNjI5MjQ5LnBuZw==/315x250%23c/rJVqpS.png",
+        "bias": 0
+      },
+      {
+        "title": "TBTLander [Free]",
+        "link": "https://itchiodecarlos.itch.io/tbtlander",
+        "description": "Its like that old lunar lander game from the 80s",
+        "pubDate": "2025-10-16T15:22:17Z",
+        "source": "itchiodecarlos.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNjI5MTE2LnBuZw==/315x250%23c/FCSxIK.png",
         "bias": 0
       },
       {
@@ -221,9 +221,18 @@
         "bias": 0
       },
       {
+        "title": "Chaos erupts at public viewing of former Kenyan PM Raila Odinga’s body",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/10/16/chaos-erupts-at-public-viewing-of-former-kenyan-pm-raila-odingas-body?traffic_source=rss",
+        "description": "Several deaths have been reported in Kenya after police used live fire at a public viewing of the deceased Raila Odinga.",
+        "pubDate": "2025-10-16T18:09:30Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Trump threatens ‘to go in and kill’ Hamas in Gaza over internal clashes",
         "link": "https://www.aljazeera.com/news/2025/10/16/trump-threatens-to-go-in-and-kill-hamas-in-gaza-over-internal-clashes?traffic_source=rss",
-        "description": "In a Truth Social post, the US president alleges that Hamas had violated the terms of the ceasefire in Gaza.",
+        "description": "Statement appears to signal about-face from US president, who previously backed Hamas’s crackdown on Gaza gangs.",
         "pubDate": "2025-10-16T17:51:31Z",
         "source": "aljazeera.com",
         "image": "",
@@ -243,6 +252,24 @@
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZlAwM0NMZFdmSlJTeWQwVkJKb0FzMzF5X1c3TGpRSVp5MGZXTTgyVVRDSHBqX3pkMzNRRGZuckJENGNIX3NMYm85M1lOMFNrVGx3b2k4d3ozbnpRdEtnT3JXbmJ4ZXlaaGFFVkt6UkFuY1phRW5mbjV6Rml4TXc5OHA3RUVOV2FtcGFOWVhKdzJmMmFydVE4YzE2S081RWpmc1FnbVRWWQ?oc=5",
         "description": "",
         "pubDate": "2025-10-16T17:38:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "MI5 chief says China is a security threat to UK as officials trade blame over spy case collapse - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZnlwRmlXS1Q2Z3d1dzN3R09RblVscXZTODAyYlU2bjNwTkUyRHhxbEhOX3BFUkI3aFZTRTdOUnpUS2pfbHR1T2l0V2dzMHJyeFRMQm96X013NU5rXzRPWUdvY1BXcTJHYU1RU1VnbE1aWjVFMk1ZdFM2djZnVXVPNFJvZXlzb1BSRXJZVXA3THd0ekttc2FlT3JTbkgtOVBfVmZuSmdHcw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-16T17:30:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "What we know about the devastating Alaska storm and the evacuation effort - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNckNTRlZmMzB0UzdZUkZxOHBsZzFFcEc0VWxRRk11N3QyMDdUck8yS2NWLVJHT1ozazBpQ3NBUmo4d0xET1BDUVdtMVpXcDRuNFFXUG5STUdpODR3UGNDUzkwdjYwTGJEUG1FUzJHZWVXeU95NW9qdzM3aU9OX09VY3BOY21KVTdtV3VCakJ2N2Z1QVBtamkzRQ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-16T17:27:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -356,15 +383,6 @@
         "bias": 0
       },
       {
-        "title": "MI5 chief says China is a daily threat to UK security amid row over collapse of spying case - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZnlwRmlXS1Q2Z3d1dzN3R09RblVscXZTODAyYlU2bjNwTkUyRHhxbEhOX3BFUkI3aFZTRTdOUnpUS2pfbHR1T2l0V2dzMHJyeFRMQm96X013NU5rXzRPWUdvY1BXcTJHYU1RU1VnbE1aWjVFMk1ZdFM2djZnVXVPNFJvZXlzb1BSRXJZVXA3THd0ekttc2FlT3JTbkgtOVBfVmZuSmdHcw?oc=5",
-        "description": "",
-        "pubDate": "2025-10-16T15:55:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "French pair imprisoned in Iran over alleged spying have ‘reached the limit,’ families say - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORnNkelZkaGRrR1NQZEFHWURlMW1yUlRfcUxIMTdrWmEzOGtrT1I4b0psTy1XamRaeEFLcGpVUHBSal91X083U2ZFTVR4ZkU3dTdERmJUazRXRDg3UWFHanFSdF9VejlmOFpPSmdYNUZPSkpCUEw0Z3JmM2hoSkhKSy1ETlRqWjlPTWFTYWFxYlNZX1JKa21mYWd2UWQxaTVMY1Q1VVkta2JsRWs?oc=5",
         "description": "",
@@ -417,15 +435,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Food assistance is safe through October, but it may be at risk if the shutdown continues - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdXVudXNwSVJMaTE5UU1RUUtOcUdBWXVBNUlwdHJiaU5aXzE5cEdYX19rbnBla1FUdFRDQUxETzJfQXgwUlc3RHFNWEwzeWkyM0NtTy1nQklQUEZfYUVlUjZ3TzEyNmlNRml3RjNTQzBESWgxdnhidVRaRnowdHJsalU1bVdiNHFqdE5XNDZxWWd2LWVkdUE?oc=5",
-        "description": "",
-        "pubDate": "2025-10-16T14:46:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Afghanistan’s Taliban government blames Pakistan for twin drone strikes on Kabul - AP News",
@@ -651,15 +660,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "EU discusses ‘drone wall’ to protect airspace from Russian violations",
-        "link": "https://www.aljazeera.com/news/2025/10/16/eu-discusses-drone-wall-to-protect-airspace-from-russian-violations?traffic_source=rss",
-        "description": "The proposal is one of several flagship EU projects to prepare the bloc for a potential attack from Moscow.",
-        "pubDate": "2025-10-16T12:25:09Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
@@ -671,6 +671,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Food assistance is safe through October, but it may be at risk if the shutdown continues - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdXVudXNwSVJMaTE5UU1RUUtOcUdBWXVBNUlwdHJiaU5aXzE5cEdYX19rbnBla1FUdFRDQUxETzJfQXgwUlc3RHFNWEwzeWkyM0NtTy1nQklQUEZfYUVlUjZ3TzEyNmlNRml3RjNTQzBESWgxdnhidVRaRnowdHJsalU1bVdiNHFqdE5XNDZxWWd2LWVkdUE?oc=5",
+        "description": "",
+        "pubDate": "2025-10-16T18:20:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "MI5 chief 'frustrated' over collapse of China spy case",
@@ -733,6 +742,15 @@
         "pubDate": "2025-10-16T14:52:36Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4e7/live/8c072ef0-aa97-11f0-b2a1-6f537f66f9aa.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Obesity remains high in the US, but more states are showing progress, a new report finds - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVUlyS3NQN0toNUFoV01yZzRsZV9KeUFBbVJ2MjdqWVpRWWxIX1dqbmRYa0d5ZFZZaERWMUZVY1ZzQ2JWUjkzSzFjTE40VjdOUDdWMkJWekttakVFalJLUVgyU1V0R3JSQ3czWlRHNzM1VVFaX3BrakxQMm1mVmhHenlSNGdyNnM4RnhjbURnUi1QQQ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-16T14:46:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -934,19 +952,19 @@
         "bias": 0
       },
       {
-        "title": "Smucker sues Trader Joe’s, saying its new PB&J sandwiches are too similar to Uncrustables - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZHE3RUNaV2ZfeVV3ZTNqb3hnVUZQRmRMekdDSVluVlN1VndyQ2xhc2RRYS1PNFJjdVVtNUc0d0VTekM1emRZei1MUm9jQ2c1RmxpZ1Jwd2RGWDViQWkxcHRsLUZhZWtCOThGU0tDU3BKTXhLRmNSLS1XcFlLbjBTYUJJTXhMTFUycHhGTFQ0ZkxhakJXell6aHVXcWQzYnRuS0E?oc=5",
+        "title": "Costa Rica’s president limits abortion to life-threatening cases - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVmpDd2FBWnByTUQ5X0xVNjM1T3UwYlRPTWJYYUg3RnR1QVlmVXp3UVdnU2I0ZVcweS1Va182a296QmNXcjF4QUpwRENiZDNCRF92c283UmpFS3pieG1RcEJFWU1qTGNJVGJtR19ITlJzOVIzT1B4MHFEbkFta3hGTDJtSEJtbU9BUGRudER0OA?oc=5",
         "description": "",
-        "pubDate": "2025-10-16T02:12:00Z",
+        "pubDate": "2025-10-16T03:00:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Two explosions rock Ecuador. Authorities blame local criminal gang and Colombian ex-FARC dissidents - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOUczSHhmMnA3Nnl6SkVsX0l5SkMyZ3FHUzdyek03aGlZcVotT1RnQXlMdms5c1JjbjFaNER2ZzFHS1NVRVUwTk1DTHBVMXJiMzBMcGI2b0VzRExoLXBtQjAzeXdKem5MTDlYak5SM1JUeENERWk3bzh4MFVWdnVWUWxwRkwxb1R4TzBhaXNRbjJsMzQwQ2g2YkRRNVVvUlRNMHJvZWRBQmZfUQ?oc=5",
+        "title": "Smucker sues Trader Joe’s, saying its new PB&J sandwiches are too similar to Uncrustables - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZHE3RUNaV2ZfeVV3ZTNqb3hnVUZQRmRMekdDSVluVlN1VndyQ2xhc2RRYS1PNFJjdVVtNUc0d0VTekM1emRZei1MUm9jQ2c1RmxpZ1Jwd2RGWDViQWkxcHRsLUZhZWtCOThGU0tDU3BKTXhLRmNSLS1XcFlLbjBTYUJJTXhMTFUycHhGTFQ0ZkxhakJXell6aHVXcWQzYnRuS0E?oc=5",
         "description": "",
-        "pubDate": "2025-10-16T00:45:00Z",
+        "pubDate": "2025-10-16T02:12:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -981,6 +999,15 @@
     ],
     "Tech": [
       {
+        "title": "Average long-term US mortgage rate slips to 6.27%, nearing a low for 2025 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZVBLVm82aklWaGNFWkVJVTdveXgzMzdTTFFFbHUtSFhHb2psZW5XZkdIblJKLUo3QTlWRkZQcnpaeVVMZU5TSmtNU25RV3ZRdlZfdElMVjFBbnNYZFhQSjhBN0c2WEpTLVlsc1FlVHI1S0FaQlhMQ25fcXdaU2NnZ2UtcV9GM2RtVlI1Z21OSTNqbUk5cE5RRjBwLXM5Zk5DcG1mV2h4RXd3Zw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-16T17:54:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Spotify working on AI music tools with major record labels",
         "link": "https://www.bbc.com/news/articles/cn7emv83edjo?at_medium=RSS&at_campaign=rss",
         "description": "The streaming service says it will respect artists' rights in creating new \"responsible\" AI products.",
@@ -1003,15 +1030,6 @@
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbUYtbEp1REJBZ2lUZ2syNW05ZjItcWUxUlczVmZLTnpJZjVsNENRWFUzVzQxdFhEQVQtYnJtTzhONmVDeFhwYjhsSFM2a21mVDNrSC1IN2xHSHhUWTBNbTRIV2ttbl9iRWNNMy1IZUdvbndnZ25kclNnT09fcTBaS3VMVkJ6a2xLekpOUGF3?oc=5",
         "description": "",
         "pubDate": "2025-10-16T15:48:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Obesity remains high in the US, but more states are showing progress, a new report finds - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVUlyS3NQN0toNUFoV01yZzRsZV9KeUFBbVJ2MjdqWVpRWWxIX1dqbmRYa0d5ZFZZaERWMUZVY1ZzQ2JWUjkzSzFjTE40VjdOUDdWMkJWekttakVFalJLUVgyU1V0R3JSQ3czWlRHNzM1VVFaX3BrakxQMm1mVmhHenlSNGdyNnM4RnhjbURnUi1QQQ?oc=5",
-        "description": "",
-        "pubDate": "2025-10-16T14:46:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1105,6 +1123,15 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/943e/live/23dd9350-a9d4-11f0-ba75-093eca1ac29b.jpg",
         "bias": 0
+      },
+      {
+        "title": "Two explosions rock Ecuador. Authorities blame local criminal gang and Colombian ex-FARC dissidents - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOUczSHhmMnA3Nnl6SkVsX0l5SkMyZ3FHUzdyek03aGlZcVotT1RnQXlMdms5c1JjbjFaNER2ZzFHS1NVRVUwTk1DTHBVMXJiMzBMcGI2b0VzRExoLXBtQjAzeXdKem5MTDlYak5SM1JUeENERWk3bzh4MFVWdnVWUWxwRkwxb1R4TzBhaXNRbjJsMzQwQ2g2YkRRNVVvUlRNMHJvZWRBQmZfUQ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-16T00:45:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Science": [
@@ -1153,15 +1180,6 @@
         "pubDate": "2025-10-16T15:32:05Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0928/live/867e40c0-aabc-11f0-b2a1-6f537f66f9aa.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Trump's push for law and order shows he's no longer encumbered by government guardrails - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX1R4WWZ2WGNiUHVPVC1aekh5OHdWaEhwQ0d1eVdRR2JGaTBTUkFJWUt5cEtkbjJQOVhvS21rUTBQZGZXNEg0S2pmSVM3SDkzazFadHRadDZtZGhfdmpOVVh2YUd6eFY0S0ZuaEpQa3dtQjk1clB0RFp6cnYxVkZXQW1uOFBiLU9oZ2F0XzAxaEgxLWhKVTFNcER1M2I?oc=5",
-        "description": "",
-        "pubDate": "2025-10-16T14:35:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -1241,6 +1259,15 @@
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcFh1aExONUdVejgxaEFlUU44M0RYU0ZsbHFIeXJDTnpKa3k0SHRvVWwtOVFVRGZFMVA1Wl9FWTc5V2J2b0ZQMHF6ZFB3bEtITExuRk1yMUJKQVNPelYtcEl0QmYwcFlDdVA5NTQ2TzJSdHhsWGdXQ0ozV0hZNUZGNmNrTlI?oc=5",
         "description": "",
         "pubDate": "2025-10-16T05:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "University of Southern California grad student charged with drugging and raping - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbmVPVE9oOWl4VU1aVFpxcFRvWFpBckV6QWJRUFF6RkZiTnozTi1lUno1cTFDUlBHU1pNNklGUGc2MzRvVzl2LUVTRUoxWXUySUFlTmdEaS0waG0yNlZCZnF3WXB0VWt1R2JDSTZ5OTNnUEJGWDhuWTQ1U1pRV0w5M2RuN01TS1Ixb1A4bnlsbHRMR29vdXprbDFKeF9SRjM0N3gyYWl2S2puRjlWMVE?oc=5",
+        "description": "",
+        "pubDate": "2025-10-16T02:55:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
