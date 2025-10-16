@@ -1,8 +1,17 @@
 {
-  "lastUpdate": "2025-10-16T03:02:58.522655Z",
+  "lastUpdate": "2025-10-16T03:42:28.028337Z",
   "news": {
     "Gaming": [],
     "World": [
+      {
+        "title": "China sacks officials over viral Arc'teryx fireworks show in Tibet",
+        "link": "https://www.bbc.com/news/articles/c1lq4305336o?at_medium=RSS&at_campaign=rss",
+        "description": "Videos of fireworks resembling a \"rising dragon\" erupting over Himalayan foothills had drawn backlash.",
+        "pubDate": "2025-10-16T02:14:37Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed0e/live/dbba2640-aa2f-11f0-bc9d-616333c1ea01.png",
+        "bias": 0
+      },
       {
         "title": "Trump says he authorised CIA in Venezuela as Maduro says 'no to regime change'",
         "link": "https://www.bbc.com/news/articles/c0ex1jq9pdvo?at_medium=RSS&at_campaign=rss",
@@ -55,6 +64,15 @@
         "pubDate": "2025-10-16T00:38:00Z",
         "source": "news.google.com",
         "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Indian cinema tickets are getting pricier - but not everyone's complaining",
+        "link": "https://www.bbc.com/news/articles/cewnrqydny0o?at_medium=RSS&at_campaign=rss",
+        "description": "Experts say while the big-screen magic still matters, it must come at a price that doesn't hurt the pocket.",
+        "pubDate": "2025-10-16T00:36:59Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e78a/live/26a2fb10-a9b7-11f0-8da2-811fba9518ff.jpg",
         "bias": 0
       },
       {
@@ -123,9 +141,7 @@
         "bias": 0
       }
     ],
-    "Tech": [],
-    "Science": [],
-    "Business": [
+    "Tech": [
       {
         "title": "Associated Press News: Breaking News | Latest News Today - AP News",
         "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
@@ -136,6 +152,8 @@
         "bias": 0
       }
     ],
+    "Science": [],
+    "Business": [],
     "Culture": []
   }
 }
