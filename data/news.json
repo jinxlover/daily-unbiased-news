@@ -1,149 +1,58 @@
 {
-  "lastUpdate": "2025-10-16T01:53:21.192011Z",
+  "lastUpdate": "2025-10-16T03:02:58.522655Z",
   "news": {
-    "Gaming": [
-      {
-        "title": "Collect Stars, Avoid Bombs [Free] [Platformer]",
-        "link": "https://matthew-lazo.itch.io/collect-stars-avoid-bombs",
-        "description": "",
-        "pubDate": "2025-10-16T01:17:29Z",
-        "source": "matthew-lazo.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjIzNzE5LnBuZw==/315x250%23c/bEZT%2Bs.png",
-        "bias": 0
-      },
-      {
-        "title": "Pet/Customizer [Free]",
-        "link": "https://silvia-ovo.itch.io/pet",
-        "description": "",
-        "pubDate": "2025-10-16T01:17:05Z",
-        "source": "silvia-ovo.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjIzNTYxLnBuZw==/315x250%23c/PGbZFy.png",
-        "bias": 0
-      },
-      {
-        "title": "Hop-Coin [Free]",
-        "link": "https://yanhuii.itch.io/hop-coin",
-        "description": "",
-        "pubDate": "2025-10-16T01:16:59Z",
-        "source": "yanhuii.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjIzNTI4LnBuZw==/315x250%23c/njyHV8.png",
-        "bias": 0
-      },
-      {
-        "title": "Penguin World [Free] [Android]",
-        "link": "https://bageltime4reel.itch.io/penguin-world",
-        "description": "This is about a world of penguins.",
-        "pubDate": "2025-10-16T01:13:57Z",
-        "source": "bageltime4reel.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjIzNTA0LmpwZw==/315x250%23c/tc0v%2Fd.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Climbing Game (Beta) [Free] [Adventure]",
-        "link": "https://droplets21.itch.io/climbing-game-beta",
-        "description": "A peaceful little climbing game",
-        "pubDate": "2025-10-16T00:58:28Z",
-        "source": "droplets21.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjIzMzY2LnBuZw==/315x250%23c/C1MRxZ.png",
-        "bias": 0
-      },
-      {
-        "title": "Protocol 1979 - A1 Escape Room - AI3D (Finished Version) [Free]",
-        "link": "https://pedroua.itch.io/protocol-1979-a1-escape-room-ai3d-finished-version",
-        "description": "",
-        "pubDate": "2025-10-16T00:56:18Z",
-        "source": "pedroua.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjIzMzc1LnBuZw==/315x250%23c/LXHj%2Fm.png",
-        "bias": 0
-      },
-      {
-        "title": "PRESSURE [Free] [Survival]",
-        "link": "https://ztowerdive.itch.io/pressure",
-        "description": "Submission for the 2025 Scream Jam",
-        "pubDate": "2025-10-16T00:38:14Z",
-        "source": "ztowerdive.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjIzMjU2LnBuZw==/315x250%23c/%2Fo3M%2FV.png",
-        "bias": 0
-      },
-      {
-        "title": "Solar System Game Afonso [Free] [Educational]",
-        "link": "https://afonsocaetano.itch.io/solar-system-game-afonso",
-        "description": "",
-        "pubDate": "2025-10-16T00:37:57Z",
-        "source": "afonsocaetano.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjIzMzI0LnBuZw==/315x250%23c/KHrkjw.png",
-        "bias": 0
-      },
-      {
-        "title": "Hall [Free] [Other]",
-        "link": "https://sweet-niche.itch.io/hall",
-        "description": "Pyschological Horror Walking Sim Hallway",
-        "pubDate": "2025-10-16T00:37:49Z",
-        "source": "sweet-niche.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjIzMzY3LnBuZw==/315x250%23c/TXCbRz.png",
-        "bias": 0
-      },
-      {
-        "title": "シドニー、１９９８年６月 [Free] [Interactive Fiction]",
-        "link": "https://kastelpls.itch.io/june-japanese",
-        "description": "アンチロマンス｜ディアスポラ｜アイデンティティ",
-        "pubDate": "2025-10-16T00:37:44Z",
-        "source": "kastelpls.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjIzMjM3LnBuZw==/315x250%23c/7TDXnm.png",
-        "bias": 0
-      },
-      {
-        "title": "Cyber Quiz (WebGL) [Free] [Educational]",
-        "link": "https://tinydoor.itch.io/cyber-quiz-webgl",
-        "description": "",
-        "pubDate": "2025-10-16T00:33:15Z",
-        "source": "tinydoor.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjIzMjg3LnBuZw==/315x250%23c/OLwx8c.png",
-        "bias": 0
-      },
-      {
-        "title": "Diamond Defender [Free] [Shooter]",
-        "link": "https://breadcoding249.itch.io/diamond-defender",
-        "description": "Play a relaxing but tricky shooter game.",
-        "pubDate": "2025-10-16T00:28:34Z",
-        "source": "breadcoding249.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjIzMzMzLnBuZw==/315x250%23c/l9LZ8Y.png",
-        "bias": 0
-      },
-      {
-        "title": "Hebeloma [Free] [Other] [Windows] [macOS] [Linux]",
-        "link": "https://pikkyrat.itch.io/hebeloma",
-        "description": "Explore the forest. Check for new plants and add pages to your guidebook.",
-        "pubDate": "2025-10-16T00:23:36Z",
-        "source": "pikkyrat.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjIzMjQxLnBuZw==/315x250%23c/RUOYVe.png",
-        "bias": 0
-      },
-      {
-        "title": "Scream Jam 2025 [Free]",
-        "link": "https://almightyrock.itch.io/scream-jam-2025",
-        "description": "Sleepy Hollow",
-        "pubDate": "2025-10-16T00:12:34Z",
-        "source": "almightyrock.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjIzMDc2LnBuZw==/315x250%23c/P1KyDt.png",
-        "bias": 0
-      }
-    ],
+    "Gaming": [],
     "World": [
       {
-        "title": "County judge in Chicago area bars ICE from arresting people at court - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMkRkQ0NlOG8tWjZZNTRmNnFGSWZKcXBrRGFsc3BKWEUzN2RYS0RGR1hSdVNZbnU0VS1rLVJiNGpJWUdLOUZEQWh5Z1lJdVItRFBLQ3hZRGVzUFlzTWNUZFhMS21CMXZibHNndDVfQVZGNzNibE9rdmFKa0NvZDNNV2VTWjhUenhSeDhMaDRTM2tCZDhLWWlkRXFMckRsU2RxR3oxS1IwbmY2aTQ1?oc=5",
+        "title": "Trump says he authorised CIA in Venezuela as Maduro says 'no to regime change'",
+        "link": "https://www.bbc.com/news/articles/c0ex1jq9pdvo?at_medium=RSS&at_campaign=rss",
+        "description": "Trump would not be drawn on whether the CIA was seeking to topple Maduro.",
+        "pubDate": "2025-10-16T02:07:10Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e77/live/3dbc5e90-aa0c-11f0-ba75-093eca1ac29b.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Cambodia urges a fair process as US and UK pursue Prince Group's Chen Zhi in a global scam case - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYzI1UkY4aHBUaFkweWJhbmJpYlJ0UVRQTktaSWpINExkS1g1Q1pSTFpzTmVYZEVDbl93SHRweTA1TXFVcmtEcFNaWi1uWTZhRlhCOFhjUEtoUVVCTjlQblYzTk15NlBPWjZ5YXdzQnJjbVNQYUJwM1Z5Ql9LRWoyY3dDNkNEdk5OQ0RYQUFkNHk2VjV4d3AzUFlKcmJkWFhVa2VWRw?oc=5",
         "description": "",
-        "pubDate": "2025-10-16T00:38:00Z",
+        "pubDate": "2025-10-16T01:58:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Trump officials back firm in fight over California offshore oil drilling after huge spill - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMkJNWUZPdnk0bjRySG5pNnd0eFBOb2Z6bUVuRVh1ZFdLWGlfN21JYWhnSVJNZmdyVGowSjJGc3I4QXBxUWhmc3pPTWZRN2NieVRhaXpMczRlWUo0QV9XWmh1czk3VmdVOWU0dmVRSDNKck8wZjlkRjBtbXllX3dXUjZNMWVUZjBfT0otUktvczJhdEo3THFv?oc=5",
+        "title": "Trump hosts glitzy dinner for wealthy donors to new White House ballroom - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRW9oNk1MaFI2aWFMX2RXcWZMUnlkYzRXNXMzMFc5M2RMQXBLczdQS29kLUxyQzVFd3pDc01oOWxuRU1lNXIxMHZnUTF3TDZucjJ5STMxUTJNcnBOVVdaM2Jmc0tEa0Exbl9fd19MaGZKNFVkSXp4SGthZXR5dThHWWR5Vk9zVTFMdDM2aUlqbHl5dFEyMjhNSA?oc=5",
         "description": "",
-        "pubDate": "2025-10-16T00:28:00Z",
+        "pubDate": "2025-10-16T01:34:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Trump confirms the CIA is conducting covert operations inside Venezuela - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMzZ4aEJBdVF2ZW5VdmRxdkxHbmFsOGctbWh4UVdMNHN2aXdqZ2hFSkNyRV9fRE9OSlRYa2dSMVppLXFrdzNlMGEwbG1pS2NVVldnMU40ejNZdTlGb0tVRVNaZ2xPY2xFeW9NWTlPdXZMT19vZFFSSk9KU2JZWk5QaU5vcnVEMUhLbkNLWklMMmNhYXo4TDEta3lVYzFSdw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-16T01:16:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Authorities identify remains of 14 of 16 victims in Tennessee explosion - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdzhRQkhoQjd3V1dISXpWa09yR0ZVM0hVUU0xejJXVXFyZTRCaEhjUEVCY2ZIak1lNkF3ckVnUjhPb0VVeHRhaF8tM09icVZWbC02NF83bmJVaTdXaTB6NWVNSzZLb3FfWHRaTGxuZjJSdmtjNjBFdjBPYlctSm9aZzRFckdLbUp0R182ZVVIdFpnU29CU0lnS1JTZ1VBTkRwZktxcEExS241QQ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-16T01:03:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "County judge in Chicago area bars ICE from arresting people at court - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMkRkQ0NlOG8tWjZZNTRmNnFGSWZKcXBrRGFsc3BKWEUzN2RYS0RGR1hSdVNZbnU0VS1rLVJiNGpJWUdLOUZEQWh5Z1lJdVItRFBLQ3hZRGVzUFlzTWNUZFhMS21CMXZibHNndDVfQVZGNzNibE9rdmFKa0NvZDNNV2VTWjhUenhSeDhMaDRTM2tCZDhLWWlkRXFMckRsU2RxR3oxS1IwbmY2aTQ1?oc=5",
+        "description": "",
+        "pubDate": "2025-10-16T00:38:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -176,9 +85,7 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a266/live/5582c670-a95a-11f0-92db-77261a15b9d2.jpg",
         "bias": 0
-      }
-    ],
-    "Tech": [
+      },
       {
         "title": "Two explosions rock Ecuador. Authorities blame local criminal gang and Colombian ex-FARC dissidents - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOUczSHhmMnA3Nnl6SkVsX0l5SkMyZ3FHUzdyek03aGlZcVotT1RnQXlMdms5c1JjbjFaNER2ZzFHS1NVRVUwTk1DTHBVMXJiMzBMcGI2b0VzRExoLXBtQjAzeXdKem5MTDlYak5SM1JUeENERWk3bzh4MFVWdnVWUWxwRkwxb1R4TzBhaXNRbjJsMzQwQ2g2YkRRNVVvUlRNMHJvZWRBQmZfUQ?oc=5",
@@ -187,10 +94,48 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "Doctors Without Borders permanently closes its emergency center in Haiti’s capital - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSUpJOWM0SDdFX1RBR1hON1dJNWVWLTI2UnBMVkNFSEZpaHZWU0NJMzNGMkIwb1E1NlYyd29PMVFTd2EtY25ya3A3V2JfR1cxdnAxM2Y0WVdRN1lBR21JTUlVWnVtZHBkUWZBSmlFR3loUk50N2NubE4zdnZzR0xYLWRZdVRVOGNuMHQyMUhMR1RTZmhaUHdmdDRpY0xjekt3V0V1a3JWVkRlSmdaUVJNazZ4dFR2RGs?oc=5",
+        "description": "",
+        "pubDate": "2025-10-16T00:40:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Trump officials back firm in fight over California offshore oil drilling after huge spill - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMkJNWUZPdnk0bjRySG5pNnd0eFBOb2Z6bUVuRVh1ZFdLWGlfN21JYWhnSVJNZmdyVGowSjJGc3I4QXBxUWhmc3pPTWZRN2NieVRhaXpMczRlWUo0QV9XWmh1czk3VmdVOWU0dmVRSDNKck8wZjlkRjBtbXllX3dXUjZNMWVUZjBfT0otUktvczJhdEo3THFv?oc=5",
+        "description": "",
+        "pubDate": "2025-10-16T00:28:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Ontario premier criticizes Trump after Stellantis says it will move production from Canada to the US - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMm9jdmkxOXU2TU90RWcwUkJLMzZINWNPazN1VFBPU01xb0FrWlRzSmFlbXlQcEhHOVhqUDduQ2pKNjMtRDVac0F6UHB3cC1VVDBnVnlFRUQzQ3JuRFhPZ0VKVmJuaUwwMDRpMVRLWUhzQ0p3X3hPTWlJQWlVejdqNDVxd2J2UEdLSlcyeWlVOURQdU5xQ3c?oc=5",
+        "description": "",
+        "pubDate": "2025-10-16T00:28:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
+    "Tech": [],
     "Science": [],
-    "Business": [],
+    "Business": [
+      {
+        "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-16T00:19:48Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ],
     "Culture": []
   }
 }
