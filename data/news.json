@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-17T22:38:57.967987Z",
+  "lastUpdate": "2025-10-17T22:49:13.565245Z",
   "news": {
     "Gaming": [
       {
@@ -165,15 +165,6 @@
         "bias": 0
       },
       {
-        "title": "My liberry 4 [Free] [Android]",
-        "link": "https://a1367.itch.io/my-liberry-4",
-        "description": "",
-        "pubDate": "2025-10-17T20:59:19Z",
-        "source": "a1367.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjU4NzQ4LnBuZw==/315x250%23c/B3m5tn.png",
-        "bias": 0
-      },
-      {
         "title": "The Missing Hiker [Free] [Adventure]",
         "link": "https://francessko.itch.io/the-missing-hiker",
         "description": "Find out what happened to the missing hiker",
@@ -198,15 +189,6 @@
         "pubDate": "2025-10-17T20:51:39Z",
         "source": "champ-the-goat.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNjU4NjQ3LmdpZg==/315x250%23c/H9Yr0e.gif",
-        "bias": 0
-      },
-      {
-        "title": "Combat Medic [Free]",
-        "link": "https://l0g1c.itch.io/combat-medic",
-        "description": "",
-        "pubDate": "2025-10-17T20:38:59Z",
-        "source": "l0g1c.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjU4NDcwLnBuZw==/315x250%23c/OjlcWI.png",
         "bias": 0
       },
       {
@@ -244,14 +226,32 @@
         "source": "es-tu-game.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNjUxNzk4LnBuZw==/315x250%23c/XpI0sA.png",
         "bias": 0
+      },
+      {
+        "title": "Count the Candies! [Free] [Puzzle] [macOS]",
+        "link": "https://10000hrsbro.itch.io/count-the-candies",
+        "description": "How many do you see?",
+        "pubDate": "2025-10-17T04:31:24Z",
+        "source": "10000hrsbro.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNjQ1NDU2LnBuZw==/315x250%23c/rKz4Oq.png",
+        "bias": 0
       }
     ],
     "World": [
       {
+        "title": "Trump orders ex-congressman George Santos released from prison in fraud case",
+        "link": "https://www.bbc.com/news/articles/cy5q3439xpqo?at_medium=RSS&at_campaign=rss",
+        "description": "Santos is serving a seven-year sentence for stealing the identities of 11 people, including family members.",
+        "pubDate": "2025-10-17T22:48:35Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b27/live/afe289c0-aba8-11f0-963b-b5df01a4e6a5.jpg",
+        "bias": 0
+      },
+      {
         "title": "Live updates: Trump says he has commuted sentence of former US Rep. George Santos in fraud case - AP News",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xTERvVWJsZ0gxZnBRRjhtc0NBQ0lQMEdBZ1MwdWFobm5ablhCVFhJOHVSQ1IzclRydzkwdmRITy1TWFpZY1RrQVE0bnk5TGR6SVZhc05XWmU2SWE4VlNRa0VVZ2pKNGROYmU4UA?oc=5",
         "description": "",
-        "pubDate": "2025-10-17T22:33:00Z",
+        "pubDate": "2025-10-17T22:43:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -281,6 +281,15 @@
         "pubDate": "2025-10-17T21:51:00Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8654/live/6af9de50-aba1-11f0-ba75-093eca1ac29b.jpg",
+        "bias": 0
+      },
+      {
+        "title": "News stories show that reporters may have left the Pentagon, but they haven't stopped working - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeGN2UnlqVjhlSE8yUnpyaEtQc1l1NG9SN1FMNTdUY0ZadnA0R09JMG8wZ2xMQWdsYTJ2WlRqei1iYW5DR29fOTdiLXI4Z2pTeF9pVDJpbWVTSTNzZkJpbTJJTF9DNkdSTElZTVlhX204dk8tdXpWaGZaRXNIdFR5c0dQajkwQTN0YUJBY0hZWWI1YnFfenpqaWhPWWhpZU1sQm9qTmJn?oc=5",
+        "description": "",
+        "pubDate": "2025-10-17T21:46:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -329,6 +338,15 @@
         "bias": -1
       },
       {
+        "title": "Trump tells Zelenskyy he's reluctant to sell Ukraine Tomahawk missiles after warning Russia he might - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcEc2ektlZGg2V0cxYjZQNi05QzlQM3FfTnQyZUtONjkxZ3Atd1o4ZDg1VGVZbkJxUE5QSlBfa19RaTk2RWxvT3F2Ymd4ZW5wQW5NSFRGeWsxa1lBdHAxZHlYQURyQjB6dUR4OXhSdXNrRnUxeGFVZnppMmZtQm9kSFgzbTlmeDdpa2J2cVY2RFFCRWROX3p5elRQVTJ0Vllt?oc=5",
+        "description": "",
+        "pubDate": "2025-10-17T21:11:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Trump confirms ‘submarine’ attack in Caribbean, amid reports of survivors",
         "link": "https://www.aljazeera.com/news/2025/10/17/trump-announces-submarine-attack-in-caribbean-amid-reports-of-survivors?traffic_source=rss",
         "description": "The US president also indicated Venezuelan President Nicolas Maduro offered concessions in a bid to lower tensions.",
@@ -374,15 +392,6 @@
         "bias": 0
       },
       {
-        "title": "Iowa superintendent detained by ICE falsely claimed he was a US citizen, indictment says - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT2lTdGJnTHpPbHpJM3Y5NnRDZUJHMllTMWVoVGFkUUpLSUFqMVJZTU1KYU03dUdSRVU4UThidVRCS3luejA0eFFPc1QyUG84OXdvdU9yMHM1Uml5em01ZFFiVDBhVFp1LTRUYjZETC01ZlpWc3UwZGJnQkFwMDZlMWdsb28zc3J1RTBVU1JPcGhDaWVBM2tZdlJ0a0FqNlZ2dXBEWHRWWEZpdw?oc=5",
-        "description": "",
-        "pubDate": "2025-10-17T20:13:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Polish judge refuses to extradite Ukrainian Nord Stream blasts suspect",
         "link": "https://www.bbc.com/news/articles/c8drmzv98jzo?at_medium=RSS&at_campaign=rss",
         "description": "The judge ordered his release, after a ruling that was met with a ripple of surprise in court and a smile from the Ukrainian in the dock.",
@@ -399,15 +408,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Hamas says it will hand over the remains of an additional hostage Friday - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWjBPaC1rNnh3WHR3QWtpZlNvb09vYndzb09nUndzR2R5THY1dWhETHFVbTVJQUxfdzRmODJwel9fQ1VxVEdaLTl0bldZU2h4Y002MVFHekhGT2plMEVYNGFmZkFvankwNDdxVC1WQmhBZDFMdEF0bElEVGROYVNha2pYYVVUOGlnTlJTTGt2eXl4VW9YakI1OVduREtLT0tpclVkV0tEWjQxMWs?oc=5",
-        "description": "",
-        "pubDate": "2025-10-17T19:54:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Arizona executes a man for killing 4 members of a family in Phoenix in 1993 - AP News",
@@ -444,15 +444,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Trump tells Zelenskyy he's reluctant to sell Ukraine Tomahawk missiles after warning Russia he might - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcEc2ektlZGg2V0cxYjZQNi05QzlQM3FfTnQyZUtONjkxZ3Atd1o4ZDg1VGVZbkJxUE5QSlBfa19RaTk2RWxvT3F2Ymd4ZW5wQW5NSFRGeWsxa1lBdHAxZHlYQURyQjB6dUR4OXhSdXNrRnUxeGFVZnppMmZtQm9kSFgzbTlmeDdpa2J2cVY2RFFCRWROX3p5elRQVTJ0Vllt?oc=5",
-        "description": "",
-        "pubDate": "2025-10-17T19:30:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "How Trump’s approval shifted after the ceasefire in Gaza, according to a new AP-NORC poll - AP News",
@@ -763,6 +754,15 @@
         "bias": 0
       },
       {
+        "title": "Hamas says it will hand over the remains of an additional hostage Friday - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWjBPaC1rNnh3WHR3QWtpZlNvb09vYndzb09nUndzR2R5THY1dWhETHFVbTVJQUxfdzRmODJwel9fQ1VxVEdaLTl0bldZU2h4Y002MVFHekhGT2plMEVYNGFmZkFvankwNDdxVC1WQmhBZDFMdEF0bElEVGROYVNha2pYYVVUOGlnTlJTTGt2eXl4VW9YakI1OVduREtLT0tpclVkV0tEWjQxMWs?oc=5",
+        "description": "",
+        "pubDate": "2025-10-17T19:54:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "New York Republicans suspend Young Republicans group after release of offensive group chat - AP News",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTWJmNWFkOGN2LXRVM0xSNmdUUmFmdi13SXFWYTAweDFLdnB1RkRPVnI4RFpnc0J4QmtTWTA5VW15Q2tTR2dTYmZYVTVnTUZqZlJKMU1ycktEZlB1YjhIUW84RlRBaEZzQlRMN0xjbFRabDZhdG5WN25EYVRzNFVJUmZCRWRRSElabjc5blRsLTVaSFA1RFRvS3IwRGFCYnpM?oc=5",
         "description": "",
@@ -814,6 +814,15 @@
         "pubDate": "2025-10-17T16:54:09Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/def2/live/ec4fd910-ab73-11f0-9045-ff945a3371d8.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Ford recalls more than 290,000 vehicles in US due to issue with rearview camera system - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWUpCNWxqRW1iTWU3S2hmQTlDOUlVUU11OXN4UWhWYUpjNEJHTUtsM1g2YWd3YWZRMWJ0T1lJVVJLLURFcHFnYzBYMWpWb3dYOHlqX0hDQlFFaHRTQjdkMl82R1ZQa0JfXzI4NmUzMk53WUUtWkNxSS1KaDVJRktjOVFJZVp1N3d1ZWNmaA?oc=5",
+        "description": "",
+        "pubDate": "2025-10-17T16:26:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -970,18 +979,18 @@
         "bias": -1
       },
       {
-        "title": "With some shutdown pain points delayed for now, talks in Congress are 'nowhere'",
-        "link": "https://www.npr.org/2025/10/17/nx-s1-5577136/government-shutdown-congress-trump",
-        "description": "Some key impacts of the shutdown have been pushed back by moves by the Trump administration. But those efforts are temporary, and the pain could spread depending on how long the stalemate lasts.",
+        "title": "Senators will force a vote to prevent war on Venezuela without approval from Congress",
+        "link": "https://www.npr.org/2025/10/17/nx-s1-5577079/congress-venezuela-war-powers-trump",
+        "description": "Democratic Sen. Tim Kaine of Virginia says new legislation is needed to prevent the Trump administration's escalating actions against Venezuela from leading to war.",
         "pubDate": "2025-10-17T09:00:00Z",
         "source": "npr.org",
         "image": "",
         "bias": -1
       },
       {
-        "title": "Senators will force a vote to prevent war on Venezuela without approval from Congress",
-        "link": "https://www.npr.org/2025/10/17/nx-s1-5577079/congress-venezuela-war-powers-trump",
-        "description": "Democratic Sen. Tim Kaine of Virginia says new legislation is needed to prevent the Trump administration's escalating actions against Venezuela from leading to war.",
+        "title": "With some shutdown pain points delayed for now, talks in Congress are 'nowhere'",
+        "link": "https://www.npr.org/2025/10/17/nx-s1-5577136/government-shutdown-congress-trump",
+        "description": "Some key impacts of the shutdown have been pushed back by moves by the Trump administration. But those efforts are temporary, and the pain could spread depending on how long the stalemate lasts.",
         "pubDate": "2025-10-17T09:00:00Z",
         "source": "npr.org",
         "image": "",
@@ -1004,15 +1013,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "What we know about the devastating Alaska storm and the evacuation effort - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNckNTRlZmMzB0UzdZUkZxOHBsZzFFcEc0VWxRRk11N3QyMDdUck8yS2NWLVJHT1ozazBpQ3NBUmo4d0xET1BDUVdtMVpXcDRuNFFXUG5STUdpODR3UGNDUzkwdjYwTGJEUG1FUzJHZWVXeU95NW9qdzM3aU9OX09VY3BOY21KVTdtV3VCakJ2N2Z1QVBtamkzRQ?oc=5",
-        "description": "",
-        "pubDate": "2025-10-17T06:54:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "UK emissions would rise under Tory energy plan, Coutinho says",
@@ -1143,10 +1143,10 @@
         "bias": 0
       },
       {
-        "title": "Carter Hart agrees to join the Golden Knights after being acquitted of sexual assault - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY1hTOFVCMGU4N1F4TnJDSHp0akd2Uy1ubk1fNmJDNGk0M1VoZGpXZDVEb3FfQkdRTGhzZ0JHTW52RGQtckJyOUdhR3N5elczRlFRemhvQzdWOTM2SFdJTHo2VFQ5VEZCcFlBZ283QWhkaGRvRXNMWW5aeTdlcENvdmV5YWFnVTZObTFPdnN5Zw?oc=5",
+        "title": "Top 20 Global Concert Tours from Pollstar - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaFJvTDJHbDJxaDNLbmwzSnYwbl9xaC1reDJDNV9Qa21tUlBsQlg4QkdEWC12dWNGV214eGF3OWZDRUg2cHhnZ191YjMwNG5lcjkxblY3MVpyQ3BoR0doY0VCN3hvaEl3Mlh1RjZHVDUybFBpN01YSXRKQmxFUnBKUXNwcm5tTVdZQlFOd2dFMDBlYWZsYjFnUno4cEdmbkpwOHR3?oc=5",
         "description": "",
-        "pubDate": "2025-10-17T16:22:00Z",
+        "pubDate": "2025-10-17T14:40:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1179,6 +1179,15 @@
         "bias": -1
       },
       {
+        "title": "What we know about the devastating Alaska storm and the evacuation effort - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNckNTRlZmMzB0UzdZUkZxOHBsZzFFcEc0VWxRRk11N3QyMDdUck8yS2NWLVJHT1ozazBpQ3NBUmo4d0xET1BDUVdtMVpXcDRuNFFXUG5STUdpODR3UGNDUzkwdjYwTGJEUG1FUzJHZWVXeU95NW9qdzM3aU9OX09VY3BOY21KVTdtV3VCakJ2N2Z1QVBtamkzRQ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-17T06:54:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Landslides in Mexico, Uruguay euthanasia law and more top photos this week from Latin America - AP News",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUTZJMXEzQ1BQT0Y1NnMzajljSHJkdXFGQmJpaEo2bldGRnYwVi1iUU9IVDVxY0VaMnhEbERENWxpTUR0UUFTSHY4ZHJwMDR5d1RSSGNLRV9kd1I0dzcyYlluOEgxc3BOTUhOWEs2ZWtkcTlVZk51N04tR3lJUVhzNTVuSTdpdjc5a0xMaldKaldIMWNxZUU2N0RVZUVzWVdzQ0lQSy1MeU94YUdUczRMTU5WTQ?oc=5",
         "description": "",
@@ -1198,6 +1207,15 @@
       }
     ],
     "Science": [
+      {
+        "title": "Iowa superintendent detained by ICE falsely claimed he was a US citizen, indictment says - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT2lTdGJnTHpPbHpJM3Y5NnRDZUJHMllTMWVoVGFkUUpLSUFqMVJZTU1KYU03dUdSRVU4UThidVRCS3luejA0eFFPc1QyUG84OXdvdU9yMHM1Uml5em01ZFFiVDBhVFp1LTRUYjZETC01ZlpWc3UwZGJnQkFwMDZlMWdsb28zc3J1RTBVU1JPcGhDaWVBM2tZdlJ0a0FqNlZ2dXBEWHRWWEZpdw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-17T20:34:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "This week in science: Smoking and memory, reading to premies, and an urban mystery",
         "link": "https://www.npr.org/2025/10/17/nx-s1-5575214/this-week-in-science-smoking-and-memory-reading-to-premies-and-an-urban-mystery",
@@ -1257,15 +1275,6 @@
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWk8ybjJvUXBHb0dzaUlFZVBOcjZmSG5aMDdLdThYdjhzcWdBZHU1d0ZnWVo2dUFKN2kySmdWWlVhR1EzRlJPNnVLVUM3VExYWkU5Uk5PQ0VsLVZjcjNMTnRUYXJ5REtUUmtCc1BCQU1qbzk4NUdHTWlFdXBDVnkzS05CNHRaQnVsV2JfR05mb3Z6NXpZNlU5al8xMm5PUQ?oc=5",
         "description": "",
         "pubDate": "2025-10-17T10:21:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Charlotte fires athletic director Mike Hill - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTHhlazd6MzFKbm8xMHZZVFdrRWs2RFUwWk1IX3o3Y1ItR3VaVFRIQkhpSEVGSF9iZ3hZTjhURXFfWDRKb1F5Q3p6dGJOaXMxeHNaWmRnaXFJQWxMWjNTeFdLTnpqUEhpZGJ5bFVEMS0ydnJSQWZQd2hlX3VPQ3BTNFU1VEdiRlo2VFVwWEx3?oc=5",
-        "description": "",
-        "pubDate": "2025-10-17T00:55:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1437,6 +1446,15 @@
         "bias": 0
       },
       {
+        "title": "BBC sanctioned for failing to disclose Gaza documentary narrator’s ties to Hamas - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUUc0SnVlTTVJQWlVTHJ1YklEeS1zRW5RTldaV1BwNkJMTVl3SU5ycDNPdTU1bE5kb2l1d1BzaEowQjRCTHQzTlhLcDNBMU5NMHFxalNqNnRxMlVBaURvUlFkM0Q2RXhldXF0MkhicGlzcnJEdXB3UVh0ZWt2OFBsR3FYUVpkX1hVWm8zNVYtaFdsZ29jb3pPSGdNYmhBNi10RXRn?oc=5",
+        "description": "",
+        "pubDate": "2025-10-17T11:38:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Eavis at 90: 'The festival is what's keeping me going'",
         "link": "https://www.bbc.com/news/articles/ckgkd821350o?at_medium=RSS&at_campaign=rss",
         "description": "Michael Eavis is now a household name, having first put on the festival to \"clear his overdraft\".",
@@ -1497,6 +1515,15 @@
         "pubDate": "2025-10-17T05:02:09Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33c7/live/cf1fb240-aa72-11f0-9c75-5fce1bce10a4.jpg",
+        "bias": 0
+      },
+      {
+        "title": "A US senator claims ‘Christian mass murder’ is occurring in Nigeria. The data disagrees - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSUVzV0JSUE1SSG9fd3E2REhEbGhLMTViU0Y3Z2QtS3pfSVZnVGxQc3NSR1pJYnNwOUdJZE02aTNTbTNHN0ZlNUYwOS1oVlM2R3J3RXZQcV9yQ1ZDMUlZUnpsMENuWnhsaGgxZml6aWI0dDBjNWhoSi1JZXIzSTl6bkhWMm81ZkM0Y1ptdTJpVzdsOURRRlBYSnI3MmE4M2xwamlMUl9MVU5pbWFxOE93WWozOA?oc=5",
+        "description": "",
+        "pubDate": "2025-10-17T04:16:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       }
     ]
