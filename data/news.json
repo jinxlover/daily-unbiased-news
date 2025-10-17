@@ -1,9 +1,18 @@
 {
-  "lastUpdate": "2025-10-17T23:47:47.774167Z",
+  "lastUpdate": "2025-10-17T23:57:52.526384Z",
   "news": {
     "Gaming": [
       {
-        "title": "Speedy gorillas [Free]",
+        "title": "Flash [Free] [Survival]",
+        "link": "https://zunkey.itch.io/flash",
+        "description": "",
+        "pubDate": "2025-10-17T23:54:11Z",
+        "source": "zunkey.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNjYwNjUyLmpwZWc=/315x250%23c/Udm5T9.jpeg",
+        "bias": 0
+      },
+      {
+        "title": "Speedy gorillas V3 [Free]",
         "link": "https://zybex1234.itch.io/speedy-gorillas",
         "description": "",
         "pubDate": "2025-10-17T23:42:04Z",
@@ -138,15 +147,6 @@
         "bias": 0
       },
       {
-        "title": "Inkling [Free] [Puzzle]",
-        "link": "https://arcygen.itch.io/inkling",
-        "description": "Inkling is a short puzzle game with a gimmick! Download to find out!",
-        "pubDate": "2025-10-17T21:24:19Z",
-        "source": "arcygen.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjU5MDYxLnBuZw==/315x250%23c/wYeHzw.png",
-        "bias": 0
-      },
-      {
         "title": "Before It Returns [Free] [Other] [Windows]",
         "link": "https://saltpeter1.itch.io/before-it-returns",
         "description": "Horror themed escape room with time rewind mechanic",
@@ -221,12 +221,57 @@
     ],
     "World": [
       {
+        "title": "'We have to prioritise South Africans': Anti-migrant movement blocks foreigners from healthcare",
+        "link": "https://www.bbc.com/news/articles/cr43l19qn3ko?at_medium=RSS&at_campaign=rss",
+        "description": "Activists are stopping foreigners going to some health clinics with little push-back from the state.",
+        "pubDate": "2025-10-17T23:45:08Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9da3/live/f935ad20-ab60-11f0-aa13-0b0479f6f42a.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Buying more, wearing less - why India's Diwali gold rush is different",
+        "link": "https://www.bbc.com/news/articles/c3vnk3w0z69o?at_medium=RSS&at_campaign=rss",
+        "description": "Soaring gold prices have dented jewellery demand but Indians are not ready to give up on the metal yet.",
+        "pubDate": "2025-10-17T23:44:09Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0b7/live/0041d8c0-ab64-11f0-8210-51f58cb86203.jpg",
+        "bias": 0
+      },
+      {
+        "title": "'It's scary to think I could have died': How Americans are coming back from fentanyl addiction",
+        "link": "https://www.bbc.com/news/articles/cm2e471159vo?at_medium=RSS&at_campaign=rss",
+        "description": "Fatal overdoses in the US are falling - and Kayla's state of North Carolina is at the forefront of that trend.",
+        "pubDate": "2025-10-17T23:42:24Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb8c/live/49e57ff0-a915-11f0-b5e8-25b94b51d777.jpg",
+        "bias": 0
+      },
+      {
+        "title": "US sanctions ex-police officer, gang leader in Haiti over criminal ties",
+        "link": "https://www.aljazeera.com/news/2025/10/17/us-sanctions-ex-police-officer-gang-leader-in-haiti-over-criminal-ties?traffic_source=rss",
+        "description": "The UN Security Council also sanctioned the two men and extended an arms embargo on Haiti in place since 2022.",
+        "pubDate": "2025-10-17T23:39:56Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Live updates: Trump says he has commuted sentence of former US Rep. George Santos in fraud case - AP News",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xTERvVWJsZ0gxZnBRRjhtc0NBQ0lQMEdBZ1MwdWFobm5ablhCVFhJOHVSQ1IzclRydzkwdmRITy1TWFpZY1RrQVE0bnk5TGR6SVZhc05XWmU2SWE4VlNRa0VVZ2pKNGROYmU4UA?oc=5",
         "description": "",
-        "pubDate": "2025-10-17T23:27:00Z",
+        "pubDate": "2025-10-17T23:39:00Z",
         "source": "news.google.com",
         "image": "",
+        "bias": 0
+      },
+      {
+        "title": "There's nothing like feeling the Royal Albert Hall shake when sumo wrestlers collide",
+        "link": "https://www.bbc.com/news/articles/c4gw7009342o?at_medium=RSS&at_campaign=rss",
+        "description": "The ancient sport has found a generation of new fans - thanks to the internet age.",
+        "pubDate": "2025-10-17T23:10:16Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03c9/live/5cccf4d0-ab73-11f0-ba75-093eca1ac29b.jpg",
         "bias": 0
       },
       {
@@ -245,6 +290,15 @@
         "pubDate": "2025-10-17T22:57:44Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e77b/live/0f8fc3a0-ab87-11f0-a7be-25e543799ac8.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Alaska storm damage so bad many evacuees won’t go home for at least 18 months, governor says - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYWc4akctam0xcDdQcERHelFnWW81a2daOG5kUzFOdWUzc05xdzNneWt4Y2V1N0NyS0FFTjNHeEN6WVdURUhGZmdqNXFuaklhcmJzWnVnZzI2V1ZFYUZMWkxIMmVKWGprTkZUQ0tZRHpzUF9nejdBNUN3WW9KZDNYSzRnMVBkakY3cExn?oc=5",
+        "description": "",
+        "pubDate": "2025-10-17T22:42:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -398,15 +452,6 @@
         "pubDate": "2025-10-17T20:06:32Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25e9/live/c58c1af0-ab8c-11f0-bcc1-4bb330842a95.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Alaska storm damage so bad many evacuees won’t go home for at least 18 months, governor says - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYWc4akctam0xcDdQcERHelFnWW81a2daOG5kUzFOdWUzc05xdzNneWt4Y2V1N0NyS0FFTjNHeEN6WVdURUhGZmdqNXFuaklhcmJzWnVnZzI2V1ZFYUZMWkxIMmVKWGprTkZUQ0tZRHpzUF9nejdBNUN3WW9KZDNYSzRnMVBkakY3cExn?oc=5",
-        "description": "",
-        "pubDate": "2025-10-17T20:04:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -581,6 +626,15 @@
         "bias": 0
       },
       {
+        "title": "Stampede at the funeral of Kenya’s former Prime Minister Raila Odinga kills 2 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSGVjemZnSkZTM292UWdmNVBjQm5TNTRvVjlmLXdHeXJ4ZnJsc1UzQXpuZmRlQXJMZlU4SHYzaWpjcVVEUEVMbF9KZlFlMnZDdTIzZjVmV3I5UzBsclU5TzhSakdqelY1X0ZwOTJYWjdlRFpjLVBUREJJMmU1dHVvc0V4QThSQjM1V1p1UzRDT2l5N1hCV3otXzhR?oc=5",
+        "description": "",
+        "pubDate": "2025-10-17T18:16:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Can Putin's 'Flying Kremlin' travel through EU airspace to Budapest?",
         "link": "https://www.bbc.com/news/articles/ckgkd40yypwo?at_medium=RSS&at_campaign=rss",
         "description": "If Putin does go to Budapest to meet Trump in the next two weeks, he would need to clear a few hurdles first.",
@@ -615,60 +669,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Father pleads guilty to murder of missing 7-month-old son in Southern California - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaS1zV1RfMG5FQ3lhY3FQZG9Uay1GRnVmWndFYU9kLW9rSG51Z2JIdGlGTUVhajAtMGF1aDFFdE1uUTg0QXhpdTBQRlhudkI5a0UyWG9VaXh1MFNhWW9faWxuUmlYeDBxVGFfUDB5Rl92dEVMbDVFZkFET0Vsb2JJSkY4cy1qZnhaaHlYSWgtOTluTkhwcWYyXzFJVzNSRzZiWjJ4bjBuYmdoWTdZ?oc=5",
-        "description": "",
-        "pubDate": "2025-10-17T17:07:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Portugal’s parliament approves far-right party’s bill to ban face veils",
-        "link": "https://www.aljazeera.com/news/2025/10/17/portugals-parliament-approves-far-right-partys-bill-to-ban-face-veils?traffic_source=rss",
-        "description": "If bill is signed into law, Portugal would join several European countries which already have full or partial bans.",
-        "pubDate": "2025-10-17T17:03:03Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Polish court blocks extradition and frees Ukrainian suspected in Nord Stream pipeline blasts - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbWNqZzdIN2tJMEJETnl2clhCZGFwWlNWVUJ5SEJ1MmVuRldSUF9EQVRzYWhtdUpVVzhNb2g4aWExeExZWFFkNktuZTY2TmRpZDh2TXNROXQ2cW5NRHBJcy0xVFppbXF2WFhrMXRmcmcwTU0xU002dWlJTXJQTTdsTThtTFZsRVk5d1Vyb1RfdGpiNmZyLWlrZ3A1SF9IQ3R1VW9ROUdSeEJzbHd3X2tlRzloRnd2dw?oc=5",
-        "description": "",
-        "pubDate": "2025-10-17T17:02:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Orbán celebrates Hungary as 'the only place in Europe' where a Trump-Putin meeting can be held - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVWhoTzdvN1I1RU5qenRUcmNoSXNjbVJmZUdZWF9ZOWZWUzBTMW1OajE1TnN4cHMxVEFwSTIwYzRvODVZOURlTDV5cVNGZUpWaHFQWmVnd21KcWdrQjlDUjRDdzlSYV94SDdma3k0MEZmT3M0RDJrSDBwdEpzNFZ1YVRzdVBzaVpuTHppMGhxaU5CVUxPeURXeHRBM01TR2o1Z1pHOA?oc=5",
-        "description": "",
-        "pubDate": "2025-10-17T16:59:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "What Apple’s new 5-year deal with Formula 1 means for US fans - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObTZxM2FZYUtRN3V1QlFjOVdaanAtZl9lWXNhRlNFVDc5WHdIbU9zc3h0R1VlQV9URk1KMVZ6ZVlOQk1FejFBSXdsOTZzWk1QVUJXT05vVGRtVEhuWnhBcDNUYnB3MlVJOHdGVUxZdG9lbHZnRzdJNkdwVEY5anVCaG1TNi0tRHNfdWFnVUVLR1IzXzg?oc=5",
-        "description": "",
-        "pubDate": "2025-10-17T16:53:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "The six problems a Gaza ceasefire has brought Israel’s Benjamin Netanyahu",
-        "link": "https://www.aljazeera.com/news/2025/10/17/what-are-the-six-main-problems-a-ceasefire-has-brought-benjamin-netanyahu?traffic_source=rss",
-        "description": "Netanyahu has been accused of exploiting the Gaza war for his own gains, and an end to it could cause him problems.",
-        "pubDate": "2025-10-17T16:41:49Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
@@ -871,19 +871,19 @@
         "bias": 0
       },
       {
-        "title": "Sex is a big market for the AI industry. ChatGPT won’t be the first to try to profit from it - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQem1LN1RpeHl0NE1rakpRNEkwVUNTTEdlUnhNU3VjZUZMV3A1b2p3ZXN0eXZNQVRoQlhsbFlZNGpDaHhOSFVVV19SNVpwT0xyZmlyVW9Vb1Z4SmtwM0NYcDlxRmZCZWJfYldJMmVoNUN0OENSRUtLN1BOMk1sZ1pDSUt2RW9zZ3dxZ3hOS3V6c0F1VF9OOTFpZ3JBOGk?oc=5",
+        "title": "High school wrestling star Bo Bassett to make Real American Freestyle debut at RAF3 in Chicago - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMU1XOHAyMW1XSnpWOTd5SDRwbndGbkZRWkJvc0REWlVteG5EbGItRndfaFZUT2d0TjNVZllqSENCUHM4LTBLN3J5bjJkNk9RejUxcHEzSTd5dEJvYmI0d0dSVVk2cEM3RVdHYmVPeVRwb2F2UmhMRDJlRXZSWXhOQm1vSzk5T1h2b2U1eV9YaUstaVBJTE1uYw?oc=5",
         "description": "",
-        "pubDate": "2025-10-17T15:05:00Z",
+        "pubDate": "2025-10-17T14:47:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "High school wrestling star Bo Bassett to make Real American Freestyle debut at RAF3 in Chicago - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMU1XOHAyMW1XSnpWOTd5SDRwbndGbkZRWkJvc0REWlVteG5EbGItRndfaFZUT2d0TjNVZllqSENCUHM4LTBLN3J5bjJkNk9RejUxcHEzSTd5dEJvYmI0d0dSVVk2cEM3RVdHYmVPeVRwb2F2UmhMRDJlRXZSWXhOQm1vSzk5T1h2b2U1eV9YaUstaVBJTE1uYw?oc=5",
+        "title": "An army colonel who led a lightning-fast coup takes over as Madagascar’s president - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdk0wVm5NWlF3TEctN0pvYjVRQ1k1VWJhal9yWHEtNE5weUhIelItcFY2QjlrWWFMbDc5ckE3SThwaEZ5Uks5c2lQQU9JSi1fT0NXVVNkY0FjUVBHbHRZc3JIWThUb09ncjlpWGFjVk1va3NMM1JnYXVaODU5djB4UE9lMHNiTFVlV3hHRlh3SGVmNTl6SWFDQTF0bFdSanQzeHh0UHdwYw?oc=5",
         "description": "",
-        "pubDate": "2025-10-17T14:47:00Z",
+        "pubDate": "2025-10-17T13:47:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -997,18 +997,18 @@
         "bias": -1
       },
       {
-        "title": "Senators will force a vote to prevent war on Venezuela without approval from Congress",
-        "link": "https://www.npr.org/2025/10/17/nx-s1-5577079/congress-venezuela-war-powers-trump",
-        "description": "Democratic Sen. Tim Kaine of Virginia says new legislation is needed to prevent the Trump administration's escalating actions against Venezuela from leading to war.",
+        "title": "With some shutdown pain points delayed for now, talks in Congress are 'nowhere'",
+        "link": "https://www.npr.org/2025/10/17/nx-s1-5577136/government-shutdown-congress-trump",
+        "description": "Some key impacts of the shutdown have been pushed back by moves by the Trump administration. But those efforts are temporary, and the pain could spread depending on how long the stalemate lasts.",
         "pubDate": "2025-10-17T09:00:00Z",
         "source": "npr.org",
         "image": "",
         "bias": -1
       },
       {
-        "title": "With some shutdown pain points delayed for now, talks in Congress are 'nowhere'",
-        "link": "https://www.npr.org/2025/10/17/nx-s1-5577136/government-shutdown-congress-trump",
-        "description": "Some key impacts of the shutdown have been pushed back by moves by the Trump administration. But those efforts are temporary, and the pain could spread depending on how long the stalemate lasts.",
+        "title": "Senators will force a vote to prevent war on Venezuela without approval from Congress",
+        "link": "https://www.npr.org/2025/10/17/nx-s1-5577079/congress-venezuela-war-powers-trump",
+        "description": "Democratic Sen. Tim Kaine of Virginia says new legislation is needed to prevent the Trump administration's escalating actions against Venezuela from leading to war.",
         "pubDate": "2025-10-17T09:00:00Z",
         "source": "npr.org",
         "image": "",
@@ -1107,15 +1107,6 @@
         "bias": 0
       },
       {
-        "title": "Stampede at the funeral of Kenya’s former Prime Minister Raila Odinga kills 2 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSGVjemZnSkZTM292UWdmNVBjQm5TNTRvVjlmLXdHeXJ4ZnJsc1UzQXpuZmRlQXJMZlU4SHYzaWpjcVVEUEVMbF9KZlFlMnZDdTIzZjVmV3I5UzBsclU5TzhSakdqelY1X0ZwOTJYWjdlRFpjLVBUREJJMmU1dHVvc0V4QThSQjM1V1p1UzRDT2l5N1hCV3otXzhR?oc=5",
-        "description": "",
-        "pubDate": "2025-10-17T18:16:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "An Arkansas father accused of murder says he’s running for sheriff while awaiting trial - AP News",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdEk3XzEzaEVhaExiVzBDQTFFblNHNkFRZUVMVHhneFZidTA3QkFpZE0tQ3oyLWlwN05fVS1Sbm1SaGZrNTZ0LURwRVFfWkQxbHNScGU4dzZMak0waFhjWUFpQWlEcHA5WXZaZXdkVEpya0VOZkVNUEpQU0JvWnk2SDV0ZkVxVGwwLWZBSGc4b2k0bGRyaU9pSVJlUlNZN0tOTElUUzZUdURXMXNrbzQyRA?oc=5",
         "description": "",
@@ -1159,6 +1150,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "What we know about the devastating Alaska storm and the evacuation effort - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNckNTRlZmMzB0UzdZUkZxOHBsZzFFcEc0VWxRRk11N3QyMDdUck8yS2NWLVJHT1ozazBpQ3NBUmo4d0xET1BDUVdtMVpXcDRuNFFXUG5STUdpODR3UGNDUzkwdjYwTGJEUG1FUzJHZWVXeU95NW9qdzM3aU9OX09VY3BOY21KVTdtV3VCakJ2N2Z1QVBtamkzRQ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-17T06:54:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Landslides in Mexico, Uruguay euthanasia law and more top photos this week from Latin America - AP News",
@@ -1217,24 +1217,6 @@
         "bias": -1
       },
       {
-        "title": "DNA from discarded cup leads to Georgia man's arrest in 1990s sexual assaults in New York - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTGprRXY2RXpTYjNOZEVvU25EbTZ4aUlRT1lyQWx0Szllb0FxenR2THctWFZqOTBfNjBaejM5QnVHdEpvWFNDOFpwOE5qWHd4Yi1DTDZtWTNmT01lYTE3bUt2djBfNWtwbkJpeWFaeG80Zm1hS0xKVmswTWVaRF91YkhhOFV5YllUZ1JFaktXb0M4WGl6djhWVXdCZlQ?oc=5",
-        "description": "",
-        "pubDate": "2025-10-17T17:14:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Where will fans find NBA games on TVs or streaming devices this season? The league has an answer - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPM3FzRHlzYjNyZVEzM3N1ZHR5c2V0cnA5M1pCTkJUeDNxODEweWg5ZmJoRENmUjVJRWJlbHBvZFQ3dWQzYmQtbnpIcG5LM0h6czlEdnZmYUhETTI1X0VzZ05pcFh3YjJyZVhoY21CU08zWkcwcmxXYUpBQTZ6ZjFab0M3ZEJmeTdBaVk5bkZmNA?oc=5",
-        "description": "",
-        "pubDate": "2025-10-17T17:01:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Landmark deal to cut global shipping emissions in tatters after US pressure",
         "link": "https://www.bbc.com/news/articles/c3vnl0yxg53o?at_medium=RSS&at_campaign=rss",
         "description": "President Trump intervened in the talks calling the deal a \"green scam\".",
@@ -1251,15 +1233,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "BBC sanctioned for failing to disclose Gaza documentary narrator’s ties to Hamas - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUUc0SnVlTTVJQWlVTHJ1YklEeS1zRW5RTldaV1BwNkJMTVl3SU5ycDNPdTU1bE5kb2l1d1BzaEowQjRCTHQzTlhLcDNBMU5NMHFxalNqNnRxMlVBaURvUlFkM0Q2RXhldXF0MkhicGlzcnJEdXB3UVh0ZWt2OFBsR3FYUVpkX1hVWm8zNVYtaFdsZ29jb3pPSGdNYmhBNi10RXRn?oc=5",
-        "description": "",
-        "pubDate": "2025-10-17T11:38:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Business": [
@@ -1288,6 +1261,24 @@
         "pubDate": "2025-10-17T19:58:30Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/934d/live/b1270cf0-ab82-11f0-9dd5-0bcfdec15686.jpg",
+        "bias": 0
+      },
+      {
+        "title": "DNA from discarded cup leads to Georgia man's arrest in 1990s sexual assaults in New York - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTGprRXY2RXpTYjNOZEVvU25EbTZ4aUlRT1lyQWx0Szllb0FxenR2THctWFZqOTBfNjBaejM5QnVHdEpvWFNDOFpwOE5qWHd4Yi1DTDZtWTNmT01lYTE3bUt2djBfNWtwbkJpeWFaeG80Zm1hS0xKVmswTWVaRF91YkhhOFV5YllUZ1JFaktXb0M4WGl6djhWVXdCZlQ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-17T17:14:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Where will fans find NBA games on TVs or streaming devices this season? The league has an answer - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPM3FzRHlzYjNyZVEzM3N1ZHR5c2V0cnA5M1pCTkJUeDNxODEweWg5ZmJoRENmUjVJRWJlbHBvZFQ3dWQzYmQtbnpIcG5LM0h6czlEdnZmYUhETTI1X0VzZ05pcFh3YjJyZVhoY21CU08zWkcwcmxXYUpBQTZ6ZjFab0M3ZEJmeTdBaVk5bkZmNA?oc=5",
+        "description": "",
+        "pubDate": "2025-10-17T17:01:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -1371,6 +1362,15 @@
         "pubDate": "2025-10-17T20:09:28Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcad/live/d47fe740-ab54-11f0-b03c-d3cc69fd9896.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Police in Afghanistan accuse Pakistan of cross-border strikes after ceasefire ends - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQemlUal80U0ZOMFVqMEx4bk8yZmliaFBZVk9yY3BYVFJNbjRLZkswaVdOLUIyR0tlalBERzFCMDJHaDBvRXhaMlVvajVIS200Qlh2VGRLejI2YnZLMURCbkp3S29SWDc4UWNxdjZoSW1JbnlEbmp6MTZGUmxOQ2VwZVlvd29ndTYxci1TZjhaNWhfMmdYZlpuTTM0TWhFNGplMU9mR2VOVHhVa0RXSm82bnJ1YTc5SDhkQ1I5Q2cxQ2Y?oc=5",
+        "description": "",
+        "pubDate": "2025-10-17T19:38:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
