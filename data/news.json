@@ -1,7 +1,25 @@
 {
-  "lastUpdate": "2025-10-18T04:22:02.368273Z",
+  "lastUpdate": "2025-10-18T04:40:44.280152Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Ocean Ecosystem [Free] [Windows]",
+        "link": "https://sebasggg14.itch.io/ocean-ecosystem",
+        "description": "Assignment simulating a live, self-sustaining, ecosystem.",
+        "pubDate": "2025-10-18T04:31:47Z",
+        "source": "sebasggg14.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNjYyNzcxLnBuZw==/315x250%23c/LFWoOQ.png",
+        "bias": 0
+      },
+      {
+        "title": "Space Blaster [Free] [Shooter] [Windows]",
+        "link": "https://naganithish.itch.io/space-blaster",
+        "description": "",
+        "pubDate": "2025-10-18T04:25:07Z",
+        "source": "naganithish.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNjYyNzc2LnBuZw==/315x250%23c/Rdz4T7.png",
+        "bias": 0
+      },
       {
         "title": "Baldi's Basics Grayscale Edition But TDB12022'S Bascis In xmas and subs With Mod Menu [Free] [Android]",
         "link": "https://hsa7sy.itch.io/baldis-basics-grayscale-edition-but-tdb12022s-bascis-in-xmas-and-subs-with-mod",
@@ -54,6 +72,15 @@
         "pubDate": "2025-10-18T03:35:31Z",
         "source": "evangelos-giaxidis.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNjYyMzU0LnBuZw==/315x250%23c/YlkTCK.png",
+        "bias": 0
+      },
+      {
+        "title": "Hungry Velociraptor [Free]",
+        "link": "https://mymindstorm.itch.io/hungry-velociraptor",
+        "description": "",
+        "pubDate": "2025-10-18T03:30:35Z",
+        "source": "mymindstorm.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNjYyMzAwLnBuZw==/315x250%23c/JZdMms.png",
         "bias": 0
       },
       {
@@ -192,15 +219,6 @@
         "bias": 0
       },
       {
-        "title": "3 Hour Clicker [Free] [Other] [Windows]",
-        "link": "https://iiazui.itch.io/3-hour-clicker",
-        "description": "A clicker game made in 3 hours",
-        "pubDate": "2025-10-18T01:32:09Z",
-        "source": "iiazui.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjYxNDk1LmpwZw==/315x250%23c/Bb0o9t.jpg",
-        "bias": 0
-      },
-      {
         "title": "Red Hood: Desperado (Prototype) [Free] [Action] [Windows]",
         "link": "https://magicdragonstudios.itch.io/red-hood-desperado-prototype",
         "description": "Prototype for a Red Hood game including melee and shooting",
@@ -208,32 +226,50 @@
         "source": "magicdragonstudios.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNjYxNTk5LnBuZw==/315x250%23c/EA34T5.png",
         "bias": 0
-      },
-      {
-        "title": "XMAS Taggers! [Free] [Android]",
-        "link": "https://blake-cartlidge.itch.io/xmas-taggers",
-        "description": "Tag, Survival, Wait",
-        "pubDate": "2025-10-18T01:25:33Z",
-        "source": "blake-cartlidge.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjYxMzYwLnBuZw==/315x250%23c/doBFFx.png",
-        "bias": 0
-      },
-      {
-        "title": "VHS Platformer [Free] [Platformer]",
-        "link": "https://3raccoons1trenchcoat.itch.io/vhs-platformer",
-        "description": "",
-        "pubDate": "2025-10-18T01:19:07Z",
-        "source": "3raccoons1trenchcoat.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjYxMjEzLnBuZw==/315x250%23c/wW85XM.png",
-        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "South Koreans freed from Cambodian scam centres return home under arrest",
+        "link": "https://www.aljazeera.com/news/2025/10/18/south-koreans-freed-from-cambodian-scam-centres-return-home-under-arrest?traffic_source=rss",
+        "description": "South Korea has banned citizens from going to parts of Cambodia amid growing concerns over the country's scam industry.",
+        "pubDate": "2025-10-18T04:29:43Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "US jury finds French bank BNP Paribas complicit in Sudan atrocities",
+        "link": "https://www.aljazeera.com/news/2025/10/18/us-jury-finds-french-bank-bnp-paribas-complicit-in-sudan-atrocities?traffic_source=rss",
+        "description": "The French banking giant said the ruling by a jury in New York was 'clearly wrong' and that it plans to appeal.",
+        "pubDate": "2025-10-18T04:21:33Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Can the catastrophe in Gaza be reversed?",
+        "link": "https://www.aljazeera.com/video/by-the-numbers-3/2025/10/18/can-the-catastrophe-in-gaza-be-reversed?traffic_source=rss",
+        "description": "Two years of war left Gaza starving and shattered. The UN has 60 days, and little money, to bring it back from collapse.",
+        "pubDate": "2025-10-18T04:16:37Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Trump commutes sentence of former US Rep. George Santos in federal fraud case - AP News",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZzUxMDJLeDNsOG0xZEVEOThvY0lOM0U4WHA0dlNXZlFSbUp3LU9uc2k1cGNhRGR5M1RlSTJ5T3lCRWctaHAxMzRET2JCVnZpaXhpbWthMlZsTklvaXd1YS1UVlJKX1dNQllfMmFCOXhFMTdGQlpXamRTT0ljRE85OERkU0dBVkJPcktULURHYXZtTEx2S25ITzJFZTQzTXM?oc=5",
         "description": "",
         "pubDate": "2025-10-18T03:56:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Shohei Ohtani hits 3 homers, dominates on mound in Dodgers' clinching 5-1 NLCS win over Brewers - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRmVZa1RKaGJ2eGdhclZkT2FCUEJQYWh1ZjhPeDRjVzlyS0gzcFhqbDhRaHVTcnBiRE9QTEZOOVVTRi15Unl4UnhuS0FUNTZqR2RNYUFoN1RFazlNU0stY2xhU2IyY2JQWXlfaE1xSkxkcUxqWmFQRUFzRFZvNXhFVlhOT19VU2JCcy1SRXZnRW5zbHQ0dGZYVG5fSXctV0tYRkE?oc=5",
+        "description": "",
+        "pubDate": "2025-10-18T03:29:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
