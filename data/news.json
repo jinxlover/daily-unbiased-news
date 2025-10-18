@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-10-18T05:56:26.367231Z",
+  "lastUpdate": "2025-10-18T06:29:19.825452Z",
   "news": {
     "Gaming": [
+      {
+        "title": "John Stone & cjschilf's Spin The Wheel [Free]",
+        "link": "https://flihcs.itch.io/spin-the-wheel",
+        "description": "",
+        "pubDate": "2025-10-18T06:13:04Z",
+        "source": "flihcs.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNjYzNDM3LnBuZw==/315x250%23c/szBUZs.png",
+        "bias": 0
+      },
       {
         "title": "Fix it Rony [Free] [Windows]",
         "link": "https://jockelar.itch.io/fix-it-rony",
@@ -9,6 +18,15 @@
         "pubDate": "2025-10-18T05:49:23Z",
         "source": "jockelar.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNjYzMzAxLnBuZw==/315x250%23c/vC9AU9.png",
+        "bias": 0
+      },
+      {
+        "title": "D is for Diver [Free] [Puzzle]",
+        "link": "https://toombler.itch.io/d-is-for-diver",
+        "description": "",
+        "pubDate": "2025-10-18T05:45:05Z",
+        "source": "toombler.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNjYzMzE4LnBuZw==/315x250%23c/GDLBu8.png",
         "bias": 0
       },
       {
@@ -156,33 +174,6 @@
         "bias": 0
       },
       {
-        "title": "OG TV RUNNERS V0 [Free] [Adventure]",
-        "link": "https://laservr1.itch.io/og-tv-runners-v0",
-        "description": "",
-        "pubDate": "2025-10-18T02:46:55Z",
-        "source": "laservr1.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjYxOTg4LnBuZw==/315x250%23c/DaDlVs.png",
-        "bias": 0
-      },
-      {
-        "title": "Baldi basic plus 0.12 android [Free]",
-        "link": "https://mauhew2.itch.io/baldi-basics-plus-012-android",
-        "description": "",
-        "pubDate": "2025-10-18T02:44:56Z",
-        "source": "mauhew2.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjYyMDAzLmpwZw==/315x250%23c/RXLZ37.jpg",
-        "bias": 0
-      },
-      {
-        "title": "GERG [Free] [Platformer]",
-        "link": "https://prolive.itch.io/gerg",
-        "description": "Gerg",
-        "pubDate": "2025-10-18T02:39:18Z",
-        "source": "prolive.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjYxODg0LnBuZw==/315x250%23c/7fP1JS.png",
-        "bias": 0
-      },
-      {
         "title": "DON'T SLEEP [Free] [Puzzle]",
         "link": "https://sarahcatseye.itch.io/dont-sleep",
         "description": "",
@@ -203,12 +194,66 @@
     ],
     "World": [
       {
+        "title": "Israel confirms latest body returned from Gaza is dead hostage",
+        "link": "https://www.bbc.com/news/articles/c5yp3eq9knvo?at_medium=RSS&at_campaign=rss",
+        "description": "Eliyahu Margalit is the tenth dead hostage Hamas has returned - out of 28.",
+        "pubDate": "2025-10-18T06:28:53Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49fc/live/1f4416d0-abbd-11f0-ba8e-234eb9581682.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Thousands evacuate Philippine coast as Tropical Storm Fengshen approaches",
+        "link": "https://www.aljazeera.com/news/2025/10/18/thousands-evacuate-philippine-coast-as-tropical-storm-fengshen-approaches?traffic_source=rss",
+        "description": "The country is hit by some 20 storms and typhoons a year, striking disaster-prone areas where millions live in poverty.",
+        "pubDate": "2025-10-18T06:05:43Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "LIVE: Israel kills 28 in Gaza since ceasefire, Hamas urges accountability",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/10/18/live-israel-kills-28-in-gaza-since-ceasefire-hamas-urges-accountability?traffic_source=rss",
+        "description": "Israel targets bus in Gaza City's Zeitoun, killing 11 family members, as Palestinians wait for Rafah crossing to open.",
+        "pubDate": "2025-10-18T05:59:27Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "What we know about the torture, abuse of Palestinian prisoners by Israel",
+        "link": "https://www.aljazeera.com/news/2025/10/18/what-we-know-about-the-torture-abuse-of-palestinian-prisoners-by-israel?traffic_source=rss",
+        "description": "Testimonies from released Palestinian prisoners, as well as the bodies handed over, highlight alleged Israeli abuse.",
+        "pubDate": "2025-10-18T05:53:38Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "China expels top military commanders in latest anticorruption purge",
+        "link": "https://www.aljazeera.com/news/2025/10/18/china-expels-top-military-commanders-in-latest-anticorruption-purge?traffic_source=rss",
+        "description": "The announcement comes just days before the Communist Party's powerful Central Committee meets in Beijing.",
+        "pubDate": "2025-10-18T05:53:14Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "'Have a great life!' Trump orders prison release of disgraced ex-lawmaker Santos",
         "link": "https://www.bbc.com/news/articles/cy5q3439xpqo?at_medium=RSS&at_campaign=rss",
         "description": "George Santos was jailed for seven years for stealing identities, including from members of his own family.",
         "pubDate": "2025-10-18T05:45:54Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93db/live/56e06400-abb2-11f0-aa13-0b0479f6f42a.jpg",
+        "bias": 0
+      },
+      {
+        "title": "David Attenborough, 99, breaks record as oldest Daytime Emmy winner. 'General Hospital' wins big - AP News",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKbEtTcmRlN0xiajJJR2F6M3NPQ1dDVFBwX2U0N2Q3WDdocHlsNEhrcjlVcndHRXI4bC13M09ZY0xwUFpSQTNqYXgydS1NeDE4YTlka1JoMlpPUE5wQUN1UFVQMXJpUmZtLUhRTnpBZXdmNmJFZFBUZDhGLVR4Zw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-18T05:37:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -266,6 +311,15 @@
         "bias": -1
       },
       {
+        "title": "Louisville intercepts 4 of Beck's passes, tops No. 2 Miami 24-21 to end Hurricanes' home streak - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ0U1SlpTUUsyd2Zfa19FeUpLQVN3cFhhNU9lWFdYM1dWX1VJMWtQb3ZGTkhKeHZWUzRETU92S09zaEQ0Z2E3U3g2UnVRelFsQmhITWViNzY1OE9aSV9NaWJoUGs4S0JESXVONkZaMS1WTS1STEZMaGp6MzlrXzd5dlJ2aDBuSHI2MEE?oc=5",
+        "description": "",
+        "pubDate": "2025-10-18T03:57:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Trump commutes sentence of former US Rep. George Santos in federal fraud case - AP News",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZzUxMDJLeDNsOG0xZEVEOThvY0lOM0U4WHA0dlNXZlFSbUp3LU9uc2k1cGNhRGR5M1RlSTJ5T3lCRWctaHAxMzRET2JCVnZpaXhpbWthMlZsTklvaXd1YS1UVlJKX1dNQllfMmFCOXhFMTdGQlpXamRTT0ljRE85OERkU0dBVkJPcktULURHYXZtTEx2S25ITzJFZTQzTXM?oc=5",
         "description": "",
@@ -320,15 +374,6 @@
         "bias": -1
       },
       {
-        "title": "Louisville intercepts 4 of Beck's passes, tops No. 2 Miami 24-21 to end Hurricanes' home streak - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ0U1SlpTUUsyd2Zfa19FeUpLQVN3cFhhNU9lWFdYM1dWX1VJMWtQb3ZGTkhKeHZWUzRETU92S09zaEQ0Z2E3U3g2UnVRelFsQmhITWViNzY1OE9aSV9NaWJoUGs4S0JESXVONkZaMS1WTS1STEZMaGp6MzlrXzd5dlJ2aDBuSHI2MEE?oc=5",
-        "description": "",
-        "pubDate": "2025-10-18T02:56:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Lebanon court orders son of late Libyan leader Gaddafi freed on $11m bail",
         "link": "https://www.aljazeera.com/news/2025/10/18/lebanon-court-orders-son-of-late-libyan-leader-gaddafi-freed-on-11m-bail?traffic_source=rss",
         "description": "Hannibal Gaddafi, youngest son of Muammar Gaddafi, has been held for nearly a decade without trial in Lebanon.",
@@ -345,15 +390,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "David Attenborough, 99, breaks record as oldest Daytime Emmy winner. 'General Hospital' wins big - AP News",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKbEtTcmRlN0xiajJJR2F6M3NPQ1dDVFBwX2U0N2Q3WDdocHlsNEhrcjlVcndHRXI4bC13M09ZY0xwUFpSQTNqYXgydS1NeDE4YTlka1JoMlpPUE5wQUN1UFVQMXJpUmZtLUhRTnpBZXdmNmJFZFBUZDhGLVR4Zw?oc=5",
-        "description": "",
-        "pubDate": "2025-10-18T02:23:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Trump administration furloughs nuclear weapons agency staff due to shutdown",
