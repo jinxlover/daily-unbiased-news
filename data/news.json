@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-10-18T07:20:31.879796Z",
+  "lastUpdate": "2025-10-18T07:36:47.767583Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Old McQuanold v1 [Free] [Platformer]",
+        "link": "https://theirishblackguy.itch.io/old-mcquanold-v1",
+        "description": "",
+        "pubDate": "2025-10-18T07:24:50Z",
+        "source": "theirishblackguy.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNjYzOTA3LnBuZw==/315x250%23c/BIONk5.png",
+        "bias": 0
+      },
       {
         "title": "Fruit Fighters: Battle For Nature [Free] [Role Playing]",
         "link": "https://ewin7u7.itch.io/fruit-fighters-battle-for-nature",
@@ -77,7 +86,7 @@
       {
         "title": "D is for Diver [Free] [Puzzle]",
         "link": "https://toombler.itch.io/d-is-for-diver",
-        "description": "",
+        "description": "A dangerous dive to collect pearls.",
         "pubDate": "2025-10-18T05:45:05Z",
         "source": "toombler.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNjYzMzE4LnBuZw==/315x250%23c/GDLBu8.png",
@@ -156,24 +165,6 @@
         "bias": 0
       },
       {
-        "title": "Pong-Like Clone [Free] [Simulation] [Windows]",
-        "link": "https://enyas-gamedev.itch.io/pong-like-clone",
-        "description": "It's Pong kinda",
-        "pubDate": "2025-10-18T03:36:03Z",
-        "source": "enyas-gamedev.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjYyMzY3LnBuZw==/315x250%23c/Ixzcme.png",
-        "bias": 0
-      },
-      {
-        "title": "GiaxidisEvangelos_FinalProjectIDKI25 [Free]",
-        "link": "https://evangelos-giaxidis.itch.io/giaxidisevangelos-finalprojectidki25",
-        "description": "PLEASE USE FULL SCREEN VIEW TO PLAY. A 3D platformer hack n' slash game with 3 difficulty game modes.",
-        "pubDate": "2025-10-18T03:35:31Z",
-        "source": "evangelos-giaxidis.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjYyMzU0LnBuZw==/315x250%23c/YlkTCK.png",
-        "bias": 0
-      },
-      {
         "title": "Hungry Velociraptor [Free]",
         "link": "https://mymindstorm.itch.io/hungry-velociraptor",
         "description": "",
@@ -199,18 +190,18 @@
         "source": "sarahcatseye.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNjYxNzkxLnBuZw==/315x250%23c/hXgGyW.png",
         "bias": 0
-      },
-      {
-        "title": "🎨 HoverHue VR [Free]",
-        "link": "https://n9ano.itch.io/hoverhue-vr",
-        "description": "",
-        "pubDate": "2025-10-18T01:53:38Z",
-        "source": "n9ano.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjYxNjI5LmpwZw==/315x250%23c/fxS95C.jpg",
-        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "China Eastern Airlines to resume flights to India after five-year freeze",
+        "link": "https://www.aljazeera.com/news/2025/10/18/china-eastern-airlines-to-resume-flights-to-india-after-five-year-freeze?traffic_source=rss",
+        "description": "Commercial flights between the countries to restart as diplomatic thaw eases tensions over border clashes.",
+        "pubDate": "2025-10-18T07:20:11Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Exciting results from blood test for 50 cancers",
         "link": "https://www.bbc.com/news/articles/c205g21n1zzo?at_medium=RSS&at_campaign=rss",
@@ -219,6 +210,15 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f714/live/07276060-aba5-11f0-bba9-81f28efa2a1e.jpg",
         "bias": 0
+      },
+      {
+        "title": "Israel kills 11 Palestinian family members in Gaza’s deadliest truce breach",
+        "link": "https://www.aljazeera.com/news/2025/10/18/israel-kills-11-palestinian-family-members-in-gazas-deadliest-truce-breach?traffic_source=rss",
+        "description": "Strike on civilian vehicle by Israeli military marks deadliest violation of eight-day ceasefire with Hamas.",
+        "pubDate": "2025-10-18T07:13:15Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "US court bars Israeli spyware firm from targeting WhatsApp users",
@@ -250,7 +250,7 @@
       {
         "title": "Afghanistan accuses Pakistan of breaking truce as 10 killed in air attacks",
         "link": "https://www.aljazeera.com/news/2025/10/18/afghanistan-accuses-pakistan-of-breaking-truce-as-several-killed-in-air-attacks?traffic_source=rss",
-        "description": "Afghanistan's Cricket Board says three players were among those killed as violence continues despite extended truce.",
+        "description": "Pakistani and Afghan officials will hold peace talks in Doha, Qatar on Saturday as violence continues despite truce.",
         "pubDate": "2025-10-18T06:29:51Z",
         "source": "aljazeera.com",
         "image": "",
@@ -317,15 +317,6 @@
         "pubDate": "2025-10-18T05:45:54Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93db/live/56e06400-abb2-11f0-aa13-0b0479f6f42a.jpg",
-        "bias": 0
-      },
-      {
-        "title": "China expels No. 2 general and 8 others from the Communist Party in anti-corruption drive - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaDJOekF0MGx2M2IyVVZudGdTQlB1UlNmcURjX0FfY0hqRjAzMnNZQ3RHaVNXb1Y1bFNRdDV6VVE5VmZQSjFVV2VxZjhFSlFxdHpMUFFuRFRjWWNBQmtCekdvaDdQM3A5MXFweXdVMUYyLTg5d0JDTnk4aXNXbFhUV3hnenVPbWhlQ2t4ZVZzNXR6OFpKcWFqNk1DVmFZZE5IcVhVN3loZw?oc=5",
-        "description": "",
-        "pubDate": "2025-10-18T05:38:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -536,7 +527,17 @@
         "bias": 0
       }
     ],
-    "Politics": [],
+    "Politics": [
+      {
+        "title": "China expels No. 2 general and 8 others from the Communist Party in anti-corruption drive - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaDJOekF0MGx2M2IyVVZudGdTQlB1UlNmcURjX0FfY0hqRjAzMnNZQ3RHaVNXb1Y1bFNRdDV6VVE5VmZQSjFVV2VxZjhFSlFxdHpMUFFuRFRjWWNBQmtCekdvaDdQM3A5MXFweXdVMUYyLTg5d0JDTnk4aXNXbFhUV3hnenVPbWhlQ2t4ZVZzNXR6OFpKcWFqNk1DVmFZZE5IcVhVN3loZw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-18T05:38:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ],
     "Tech": [],
     "Science": [],
     "Business": [
