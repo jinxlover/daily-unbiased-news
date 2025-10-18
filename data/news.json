@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-18T08:30:26.164743Z",
+  "lastUpdate": "2025-10-18T08:48:44.849882Z",
   "news": {
     "Gaming": [
       {
@@ -9,6 +9,15 @@
         "pubDate": "2025-10-18T08:13:19Z",
         "source": "bslayers.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNjY0MTkzLnBuZw==/315x250%23c/lXxqUn.png",
+        "bias": 0
+      },
+      {
+        "title": "逃離辦公室 [Free]",
+        "link": "https://danirlhuang920.itch.io/heyheyhey",
+        "description": "努力逃出這個辦公室、逃離這老闆吧!",
+        "pubDate": "2025-10-18T08:10:52Z",
+        "source": "danirlhuang920.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNjY0MzAwLnBuZw==/315x250%23c/4wyUb3.png",
         "bias": 0
       },
       {
@@ -165,30 +174,12 @@
         "bias": 0
       },
       {
-        "title": "Lachuchu Fever [Free] [Simulation]",
-        "link": "https://killertofu1234.itch.io/lachuchu-fever",
-        "description": "Take part in the new collection craze!",
-        "pubDate": "2025-10-18T04:44:25Z",
-        "source": "killertofu1234.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjYyOTIxLnBuZw==/315x250%23c/rZIex8.png",
-        "bias": 0
-      },
-      {
         "title": "Towel Washing Factory [$2.00] [Platformer]",
         "link": "https://e-gahhd.itch.io/towel-washing-factory",
         "description": "Traverse a weird factory in this short horror 3D platformer",
         "pubDate": "2025-10-18T03:15:34Z",
         "source": "e-gahhd.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNjYyMTk1LnBuZw==/315x250%23c/IsHbD5.png",
-        "bias": 0
-      },
-      {
-        "title": "DON'T SLEEP [Free] [Puzzle]",
-        "link": "https://sarahcatseye.itch.io/dont-sleep",
-        "description": "",
-        "pubDate": "2025-10-18T02:26:30Z",
-        "source": "sarahcatseye.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjYxNzkxLnBuZw==/315x250%23c/hXgGyW.png",
         "bias": 0
       }
     ],
@@ -362,15 +353,6 @@
         "pubDate": "2025-10-18T05:45:54Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93db/live/56e06400-abb2-11f0-aa13-0b0479f6f42a.jpg",
-        "bias": 0
-      },
-      {
-        "title": "China expels No. 2 general and 8 others from the Communist Party in anti-corruption drive - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaDJOekF0MGx2M2IyVVZudGdTQlB1UlNmcURjX0FfY0hqRjAzMnNZQ3RHaVNXb1Y1bFNRdDV6VVE5VmZQSjFVV2VxZjhFSlFxdHpMUFFuRFRjWWNBQmtCekdvaDdQM3A5MXFweXdVMUYyLTg5d0JDTnk4aXNXbFhUV3hnenVPbWhlQ2t4ZVZzNXR6OFpKcWFqNk1DVmFZZE5IcVhVN3loZw?oc=5",
-        "description": "",
-        "pubDate": "2025-10-18T05:38:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -572,7 +554,17 @@
         "bias": 0
       }
     ],
-    "Politics": [],
+    "Politics": [
+      {
+        "title": "China expels No. 2 general and 8 others from the Communist Party in anti-corruption drive - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaDJOekF0MGx2M2IyVVZudGdTQlB1UlNmcURjX0FfY0hqRjAzMnNZQ3RHaVNXb1Y1bFNRdDV6VVE5VmZQSjFVV2VxZjhFSlFxdHpMUFFuRFRjWWNBQmtCekdvaDdQM3A5MXFweXdVMUYyLTg5d0JDTnk4aXNXbFhUV3hnenVPbWhlQ2t4ZVZzNXR6OFpKcWFqNk1DVmFZZE5IcVhVN3loZw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-18T05:38:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ],
     "Tech": [
       {
         "title": "Third-floor balcony in Cincinnati collapses, sending multiple people to the hospital - AP News",
