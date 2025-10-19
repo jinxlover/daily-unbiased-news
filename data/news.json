@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-10-19T09:45:48.582896Z",
+  "lastUpdate": "2025-10-19T09:56:09.246034Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Shashank_Final_Personal_Project [Free]",
+        "link": "https://shankakazingo.itch.io/shashank-final-personal-project",
+        "description": "",
+        "pubDate": "2025-10-19T09:48:28Z",
+        "source": "shankakazingo.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNjc4MDc2LnBuZw==/315x250%23c/PI76Vn.png",
+        "bias": 0
+      },
       {
         "title": "Just Parry [Free] [Action]",
         "link": "https://snowkkk.itch.io/just-parry",
@@ -174,24 +183,6 @@
         "bias": 0
       },
       {
-        "title": "1 Hit Wonder [Free] [Fighting]",
-        "link": "https://cjaxwik.itch.io/1-hit-wonder",
-        "description": "",
-        "pubDate": "2025-10-19T07:26:01Z",
-        "source": "cjaxwik.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjc2OTY4LnBuZw==/315x250%23c/b%2F0q5I.png",
-        "bias": 0
-      },
-      {
-        "title": "Afterlife [Free] [Platformer]",
-        "link": "https://johnnyfisher17.itch.io/afterlife",
-        "description": "What if you could fix your mistakes?",
-        "pubDate": "2025-10-19T07:23:21Z",
-        "source": "johnnyfisher17.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjc3MzUwLnBuZw==/315x250%23c/Ps4cqP.png",
-        "bias": 0
-      },
-      {
         "title": "French roulette [Free] [Simulation]",
         "link": "https://kubirill.itch.io/french-roulette",
         "description": "",
@@ -246,6 +237,15 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f6b/live/0813ef50-acce-11f0-b2a1-6f537f66f9aa.jpg",
         "bias": 0
+      },
+      {
+        "title": "Week in Pictures: From death of ex-Kenyan PM to Gaza ceasefire",
+        "link": "https://www.aljazeera.com/gallery/2025/10/19/week-in-pictures-from-death-of-ex-kenyan-pm-to-gaza-ceasefire?traffic_source=rss",
+        "description": "A global roundup of some of last week’s events.",
+        "pubDate": "2025-10-19T09:25:22Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Crisis-hit Bolivia to vote in run-off election, ending decades of socialism",
@@ -549,7 +549,17 @@
     ],
     "Tech": [],
     "Science": [],
-    "Business": [],
+    "Business": [
+      {
+        "title": "Government vows to create 400,000 jobs in energy sector",
+        "link": "https://www.bbc.com/news/articles/c3vnr45x5qyo?at_medium=RSS&at_campaign=rss",
+        "description": "Ed Miliband says the UK's clean energy sector needs developing in order to \"get bills down for good\".",
+        "pubDate": "2025-10-19T09:52:42Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3836/live/0c7a8520-accb-11f0-8be0-edba131ad73f.jpg",
+        "bias": 0
+      }
+    ],
     "Culture": [
       {
         "title": "Limp Bizkit bassist Sam Rivers dies aged 48",
