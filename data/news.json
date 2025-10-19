@@ -1,7 +1,25 @@
 {
-  "lastUpdate": "2025-10-19T11:15:47.317834Z",
+  "lastUpdate": "2025-10-19T11:27:02.841829Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Dungeoneer [Free]",
+        "link": "https://sonofhannu.itch.io/dungeoneer",
+        "description": "Delve the dungeon, kill the entities!",
+        "pubDate": "2025-10-19T11:17:50Z",
+        "source": "sonofhannu.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNjc4OTQxLmpwZw==/315x250%23c/MIIy8X.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Balance Baskets [Free] [Puzzle] [Windows]",
+        "link": "https://howlthewizard.itch.io/balance-baskets",
+        "description": "Place fruits on both sides of the scale and combine them to keep the balance.",
+        "pubDate": "2025-10-19T10:53:36Z",
+        "source": "howlthewizard.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNjc4ODIwLmpwZw==/315x250%23c/7d7x0G.jpg",
+        "bias": 0
+      },
       {
         "title": "Shadow Trace [Free] [Action]",
         "link": "https://mizuki-game.itch.io/shadow-trace",
@@ -77,10 +95,19 @@
       {
         "title": "Redneck [Free]",
         "link": "https://pytonvrah.itch.io/redneck",
-        "description": "",
+        "description": "The threat of unionization has never been more real.",
         "pubDate": "2025-10-19T10:16:00Z",
         "source": "pytonvrah.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNjc4NDgxLnBuZw==/315x250%23c/AILB9p.png",
+        "bias": 0
+      },
+      {
+        "title": "Anthro Comic OC [Free] [Other]",
+        "link": "https://plushmonster.itch.io/anthro-comic-oc",
+        "description": "",
+        "pubDate": "2025-10-19T10:05:44Z",
+        "source": "plushmonster.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNjc4MjEzLnBuZw==/315x250%23c/HXewOV.png",
         "bias": 0
       },
       {
@@ -192,15 +219,6 @@
         "bias": 0
       },
       {
-        "title": "Neural Bird [Free] [Simulation]",
-        "link": "https://mink-init.itch.io/neural-bird",
-        "description": "Birds that can learn to play better flappy bird after by evolution",
-        "pubDate": "2025-10-19T08:57:32Z",
-        "source": "mink-init.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjc3NjcwLnBuZw==/315x250%23c/TRKn8D.png",
-        "bias": 0
-      },
-      {
         "title": "Blade Dash [Free] [Action]",
         "link": "https://kms271.itch.io/blade-dash",
         "description": "",
@@ -226,18 +244,36 @@
         "source": "essemoth.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNjc3ODQxLnBuZw==/315x250%23c/Rrnfiq.png",
         "bias": 0
-      },
-      {
-        "title": "Masks of the gods [Free]",
-        "link": "https://facelesshero.itch.io/masks-of-the-gods",
-        "description": "",
-        "pubDate": "2025-10-19T08:42:34Z",
-        "source": "facelesshero.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNjc3Njk5LnBuZw==/315x250%23c/FLpfnL.png",
-        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Video: Afghanistan and Pakistan agree to ceasefire after Doha talks",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/10/19/video-afghanistan-and-pakistan-agree-to-ceasefire-after-doha-talks?traffic_source=rss",
+        "description": "Pakistan and Afghanistan’s Taliban government have agreed to an immediate ceasefire, mediated by Qatar and Turkiye.",
+        "pubDate": "2025-10-19T11:10:03Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "The Pakistani families caught in an endless cycle of blood transfusions",
+        "link": "https://www.aljazeera.com/features/2025/10/19/the-pakistani-families-caught-in-an-endless-cycle-of-blood-transfusions?traffic_source=rss",
+        "description": "Many born with the genetic disorder thalassaemia major die before the age of 10. Donated blood can help keep them alive.",
+        "pubDate": "2025-10-19T11:05:15Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "In Gaza, Palestinians reclaim small moments of dignity amid the ceasefire",
+        "link": "https://www.aljazeera.com/features/2025/10/19/in-gaza-palestinians-reclaim-small-moments-of-dignity-amid-the-ceasefire?traffic_source=rss",
+        "description": "Although haunted by loss and uncertainty, Palestinians find relief in wedding celebrations and cups of coffee.",
+        "pubDate": "2025-10-19T11:01:14Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Israel sending gangs, militias to “wreak havoc” in Gaza",
         "link": "https://www.aljazeera.com/video/quotable/2025/10/19/aje-onl-qt_mouin_rabbani-191025?traffic_source=rss",
@@ -637,7 +673,17 @@
         "bias": 0
       }
     ],
-    "Tech": [],
+    "Tech": [
+      {
+        "title": "After Zelenskyy meeting, Trump calls on Ukraine and Russia to ‘stop where they are’ and end the war - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcEc2ektlZGg2V0cxYjZQNi05QzlQM3FfTnQyZUtONjkxZ3Atd1o4ZDg1VGVZbkJxUE5QSlBfa19RaTk2RWxvT3F2Ymd4ZW5wQW5NSFRGeWsxa1lBdHAxZHlYQURyQjB6dUR4OXhSdXNrRnUxeGFVZnppMmZtQm9kSFgzbTlmeDdpa2J2cVY2RFFCRWROX3p5elRQVTJ0Vllt?oc=5",
+        "description": "",
+        "pubDate": "2025-10-19T11:13:01Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ],
     "Science": [],
     "Business": [],
     "Culture": [
