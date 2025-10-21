@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-10-21T04:43:18.970665Z",
+  "lastUpdate": "2025-10-21T04:55:41.581000Z",
   "news": {
     "Gaming": [
+      {
+        "title": "icy [Free]",
+        "link": "https://iislei.itch.io/icy",
+        "description": "",
+        "pubDate": "2025-10-21T04:38:20Z",
+        "source": "iislei.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNzEwMDg1LnBuZw==/315x250%23c/JcOGCM.png",
+        "bias": 0
+      },
       {
         "title": "monkey mayhem [Free] [Windows] [macOS] [Linux] [Android]",
         "link": "https://buttervr117.itch.io/monkey-mayhem",
@@ -192,39 +201,12 @@
         "bias": 0
       },
       {
-        "title": "Canção da Lua [Free] [Rhythm]",
-        "link": "https://kyubi-gamestudios.itch.io/cancao-da-lua",
-        "description": "Um rpg de turno ritmíco e roguelike.",
-        "pubDate": "2025-10-21T02:06:49Z",
-        "source": "kyubi-gamestudios.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzA4ODY1LnBuZw==/315x250%23c/tU3V6A.png",
-        "bias": 0
-      },
-      {
         "title": "There we fail again [Free] [Adventure] [Windows]",
         "link": "https://butter-fly-games.itch.io/there-we-fail-again",
         "description": "A small jump and run for the epic mega jam 2025 - theme \"There we go again\"",
         "pubDate": "2025-10-21T01:58:46Z",
         "source": "butter-fly-games.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNzA4OTI3LnBuZw==/315x250%23c/SVB2De.png",
-        "bias": 0
-      },
-      {
-        "title": "¡¡¡Ayyy mi Juanjito!!! [Free] [Visual Novel]",
-        "link": "https://jujojidev.itch.io/ayyymijuanjito",
-        "description": "",
-        "pubDate": "2025-10-21T01:53:33Z",
-        "source": "jujojidev.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzA4NzQxLnBuZw==/315x250%23c/VEw0IQ.png",
-        "bias": 0
-      },
-      {
-        "title": "Timba-les [Free] [Rhythm] [Windows]",
-        "link": "https://vandeleste.itch.io/timba-les",
-        "description": "",
-        "pubDate": "2025-10-21T01:46:49Z",
-        "source": "vandeleste.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzA4NjkzLnBuZw==/315x250%23c/BC1FeE.png",
         "bias": 0
       },
       {
@@ -257,6 +239,15 @@
     ],
     "World": [
       {
+        "title": "George Springer’s Game 7 home run sends Blue Jays into MLB World Series",
+        "link": "https://www.aljazeera.com/sports/2025/10/21/george-springers-game-7-home-run-sends-blue-jays-into-mlb-world-series?traffic_source=rss",
+        "description": "Springer's three-run homer against Seattle put Toronto Blue Jays into the World Series for the first time in 32 years.",
+        "pubDate": "2025-10-21T04:45:31Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Louvre remains closed a day after daring theft of Napoleonic jewels - AP News",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYW5PUG5KVUx1OTJIT1pMN2VUT2pXcGtPZjhXbHh0WjJsSEpTaE15WEl4empLRW5VOHdSYUxCTURWRHNxbGdEVFVqMWYxUXVnNTlwMmd6aDhWNXVaekxTSWd0dENpMGo3ZGpmVy1vX0pPbGtnWUNYelBFenBZTUxyUzd5MzQ3NmFjSTY2TG1B?oc=5",
         "description": "",
@@ -288,6 +279,15 @@
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY2I0eG1wbGtKRjFCQUpfOTJrQzFINGdjRGxvdmZVRkpVdElnM1l2VmxteG1BQU1yUU5vWUppa2MwNThsbFpvNC1rNnRLY0xHclZGS3ZmUU9tbXdfMVIxWHpiWENjWTN5Qjl6U1dMMEdfdUh2eGt4RFdTR2hmVVk4WXoxd01iR2VXcTZDTTlfdkRzcnN3NG4tMURILXR1Unc?oc=5",
         "description": "",
         "pubDate": "2025-10-21T03:11:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Former NFL player Doug Martin died after struggling with officers while being detained, police say - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPekdnX1lBUm5BVEVZTmZxdUlVUHdjOUZZVXhIQU5uZExVQU9nQjhOMGpfNmtkSktrejlkQURHVi10NkVKR2pTVzFNcW9EMUQ3TVo3OUp5eXZtYkJCdVc4bEZhdUtOcmJxWUJsT2h4ZWxrQUhQWDNPb3BuVTRHYklNalVxVFgxbFFGR1JoMw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-21T02:59:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -401,15 +401,6 @@
         "bias": 0
       },
       {
-        "title": "North Carolina GOP advances congressional map to secure another House seat for Trump - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT3dXY201bDlEWEQ5UVZMUzdtMW9fNHhLdEI3MGpVdzdUd1U1UXpwc0MxRGc1WDdnYXFlcUtZeE53VkNUNS1qd2FJb25iYk1Hc3pCVk53TFN6Mm0yUUpyeW5sSy1aSjRiS1NZZERlSlhtQ2ZOQTcxbEFWTVhUbXdod09KYkdTYUJaWHVXMk0yd2l3SHA4LWVEOVNtUmdJMkNRQ0FTb1dRUXRncUtTd1E?oc=5",
-        "description": "",
-        "pubDate": "2025-10-21T01:48:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Federal lawsuit challenges private school that gives preference to Native Hawaiians - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcGw4ZVhEX2czQll2UURkT2NHUkl5Z1JQTTluVkxPbVBsUk5Mc0pMYjJOZ1NFSXliRGFfTUx3bG1OaFhsLUphR1M3djlybDFPaGFrbnVzSFZkVEJvY0NXQ2Rxc2N4SHNvZ0x3TDQ2MmVqcXU4MzlJcWZlUEsxcGNNemxZRE4ycHppVlF5TUpFNFRqVWVzbWh4OTFLZnlnS0h6RVVFTGVkbVhFUQ?oc=5",
         "description": "",
@@ -423,15 +414,6 @@
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BUTEtRjBCc25yM0EwQk11M202Qm9KbmQyem9GMGxORWQ3NTg1N251LXJ1eEZIY2F2Z001c1lyQnJoSWFwNG85T3F3RDNKTTB4NjBuaG1URnltakQwWENKRjNsN1NjMjhxUE1EUA?oc=5",
         "description": "",
         "pubDate": "2025-10-21T01:39:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "ICE would need more money to expand use of bodycams in Chicago crackdown, official says - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ0pwTjdKNGJVQUpBMW5XVlBaWWREVTVNSU5yODAwSTgyY1RvdkJfamhXdmJnNFFjLTdXVDhLQnUwb3lORXlWMlBpcFhERUZBMGs5WjNSOVJmYllNTlFwNi1KeUt2UU9wZE1yNmxLQVNlOGZCWDB0TGRDU1l5eHJ0VUJldVNZUGZCTzIyNXFMOTB1Xzcxc3F0dWc0cUNFZw?oc=5",
-        "description": "",
-        "pubDate": "2025-10-21T01:33:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -550,15 +532,6 @@
       }
     ],
     "Science": [
-      {
-        "title": "Former NFL player Doug Martin died after struggling with officers while being detained, police say - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPekdnX1lBUm5BVEVZTmZxdUlVUHdjOUZZVXhIQU5uZExVQU9nQjhOMGpfNmtkSktrejlkQURHVi10NkVKR2pTVzFNcW9EMUQ3TVo3OUp5eXZtYkJCdVc4bEZhdUtOcmJxWUJsT2h4ZWxrQUhQWDNPb3BuVTRHYklNalVxVFgxbFFGR1JoMw?oc=5",
-        "description": "",
-        "pubDate": "2025-10-21T02:59:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
       {
         "title": "Nasa's first female space commander: I didn't want people to say 'the woman made a mistake'",
         "link": "https://www.bbc.com/news/articles/c0mxzdg203jo?at_medium=RSS&at_campaign=rss",
