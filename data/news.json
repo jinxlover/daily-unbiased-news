@@ -1,9 +1,36 @@
 {
-  "lastUpdate": "2025-10-21T17:23:16.635100Z",
+  "lastUpdate": "2025-10-21T17:40:30.752938Z",
   "news": {
     "Gaming": [
       {
-        "title": "Yuri's Platformer [Free] [Windows]",
+        "title": "ProjectCorpseHORROR [Free]",
+        "link": "https://acethedev67.itch.io/projectcorpsehorror",
+        "description": "",
+        "pubDate": "2025-10-21T17:29:26Z",
+        "source": "acethedev67.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNzE2OTc1LnBuZw==/315x250%23c/6xv%2B1F.png",
+        "bias": 0
+      },
+      {
+        "title": "Jester Fest 999 [Free] [Visual Novel] [Windows] [macOS] [Linux]",
+        "link": "https://freecultureapi.itch.io/jester-fest-999",
+        "description": "Welcome to the jest fest... Are you ready to test your jester proficiency?",
+        "pubDate": "2025-10-21T17:19:00Z",
+        "source": "freecultureapi.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNzE2ODc3LnBuZw==/315x250%23c/AvaL6Z.png",
+        "bias": 0
+      },
+      {
+        "title": "Right Bear [Free] [Windows]",
+        "link": "https://nils33.itch.io/right-bear",
+        "description": "",
+        "pubDate": "2025-10-21T17:13:50Z",
+        "source": "nils33.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNzE2OTM3LnBuZw==/315x250%23c/9HDLh0.png",
+        "bias": 0
+      },
+      {
+        "title": "Yuri's Platformer [Free] [Platformer] [Windows]",
         "link": "https://kyuririn.itch.io/yurisplatformer",
         "description": "",
         "pubDate": "2025-10-21T17:05:38Z",
@@ -129,24 +156,6 @@
         "bias": 0
       },
       {
-        "title": "The Cardener [Free] [Card Game] [Windows] [macOS] [Linux]",
-        "link": "https://ekardlampin.itch.io/the-cardener",
-        "description": "Grow food-based trading cards in exo-reality space to help solve humanity's food crisis.",
-        "pubDate": "2025-10-21T15:04:10Z",
-        "source": "ekardlampin.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzE1MzA3LnBuZw==/315x250%23c/2mi4ZC.png",
-        "bias": 0
-      },
-      {
-        "title": "一笔勾销CleanSlate [Free] [Simulation] [Windows]",
-        "link": "https://qopnen.itch.io/cleanslate",
-        "description": "一款美国黑帮题材的互动剧情推理游戏",
-        "pubDate": "2025-10-21T14:55:15Z",
-        "source": "qopnen.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzE1MTc0LnBuZw==/315x250%23c/%2ByLlsX.png",
-        "bias": 0
-      },
-      {
         "title": "Pirate Pixel Adventures [Free] [Platformer]",
         "link": "https://stshadow.itch.io/pirate-pixel-adventures",
         "description": "",
@@ -163,18 +172,45 @@
         "source": "visiondesign.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNzA5NjEwLnBuZw==/315x250%23c/k%2BXhvt.png",
         "bias": 0
-      },
-      {
-        "title": "DATA FALL [Free] [Action] [Windows] [macOS] [Linux] [Android]",
-        "link": "https://mregg55.itch.io/datafall",
-        "description": "Active development",
-        "pubDate": "2025-10-21T12:18:04Z",
-        "source": "mregg55.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzE2NjIyLnBuZw==/315x250%23c/YDFKyD.png",
-        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Plans for Trump-Putin meeting shelved days after Budapest talks proposed",
+        "link": "https://www.bbc.com/news/articles/c4gjp73gp41o?at_medium=RSS&at_campaign=rss",
+        "description": "A White House official said there were \"no plans\" for the two presidents to meet in the \"immediate future\".",
+        "pubDate": "2025-10-21T17:33:45Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ae4/live/43fc4180-ae99-11f0-b305-65f4f8d88da9.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Israel takes steps to shut down international aid groups in Gaza and the West Bank",
+        "link": "https://www.npr.org/2025/10/21/nx-s1-5580351/israel-humanitarian-aid-ngos-gaza-west-bank",
+        "description": "Israel is de-registering major nongovernmental aid groups from helping people in the Palestinian territories, according to several officials with humanitarian organizations.",
+        "pubDate": "2025-10-21T17:30:08Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "In Chicago, an immense show of force signals a sharp escalation in White House immigration crackdown - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcG5KVmVNOUNodGVFcE1nWjFXRWlCYUM4OGhRY3RKTksycUlLTWNETVd0UXlEeF9YZFF4OTQ5aXhac0M5ODZYYXdLckFHSVZoN0lEY1Ruem1jR3l2d3dtdThUT21Lbm5fTE1iaTNzNUZ6TU1VM0dtVm1uTExTSXduTW9ETFNFbTMyZ3VBaXAzUDJmcTNRV01EWjRUYWpOYjFlQUE?oc=5",
+        "description": "",
+        "pubDate": "2025-10-21T17:20:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Vance in Israel says ‘great optimism’ ceasefire will hold",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/10/21/vance-in-israel-says-great-optimism-ceasefire-will-hold?traffic_source=rss",
+        "description": "US Vice President JD Vance says, one week into the Gaza ceasefire, he has “great optimism” the peace deal will hold.",
+        "pubDate": "2025-10-21T17:08:30Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "5 things to know about Sanae Takaichi, Japan's first female prime minister",
         "link": "https://www.npr.org/2025/10/21/nx-s1-5581255/sanae-takaichi-japan-prime-minister",
@@ -185,15 +221,6 @@
         "bias": -1
       },
       {
-        "title": "Plans for Trump-Putin meeting shelved days after Budapest talks proposed",
-        "link": "https://www.bbc.com/news/articles/c4gjp73gp41o?at_medium=RSS&at_campaign=rss",
-        "description": "A White House official said there were \"no plans\" for the two presidents to meet in the \"immediate future\".",
-        "pubDate": "2025-10-21T16:38:53Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ae4/live/43fc4180-ae99-11f0-b305-65f4f8d88da9.jpg",
-        "bias": 0
-      },
-      {
         "title": "US and Belize sign ‘safe third country’ agreement for asylum seekers",
         "link": "https://www.aljazeera.com/news/2025/10/21/us-and-belize-sign-safe-third-country-agreement-for-asylum-seekers?traffic_source=rss",
         "description": "The agreement is the latest deal the Trump administration has struck to deport migrants to third-party countries.",
@@ -201,6 +228,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Greek government seeks to ban protests at Tomb of Unknown Soldier monument, sparking backlash - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUJZc3kwcVU2T3dvWTJpUm5wdTV5TzVUZWhHRXRFX1JuYzJrcGxvNHpNUU1oV0U5bFZxOHBKcXBvbklBampUcUVEcGJWbWtUeGNWYjg3M2VJM2ZxNkRTNjFBdmlSUXZLeDg4R05mNDFZQ0VWMGJlZHZRajZjVjlkOElCV2xqREpyREpHX3BRQUZERlRYcXRneE1KNTlva3pkVlg0aW1lTQ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-21T16:29:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Warner Bros Discovery explores possible sale",
@@ -401,15 +437,6 @@
         "bias": 0
       },
       {
-        "title": "In Chicago, an immense show of force signals a sharp escalation in White House immigration crackdown - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcG5KVmVNOUNodGVFcE1nWjFXRWlCYUM4OGhRY3RKTksycUlLTWNETVd0UXlEeF9YZFF4OTQ5aXhac0M5ODZYYXdLckFHSVZoN0lEY1Ruem1jR3l2d3dtdThUT21Lbm5fTE1iaTNzNUZ6TU1VM0dtVm1uTExTSXduTW9ETFNFbTMyZ3VBaXAzUDJmcTNRV01EWjRUYWpOYjFlQUE?oc=5",
-        "description": "",
-        "pubDate": "2025-10-21T14:01:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Doubts emerge over Trump-Putin Budapest summit",
         "link": "https://www.aljazeera.com/news/2025/10/21/doubts-emerge-over-trump-putin-budapest-summit?traffic_source=rss",
         "description": "Kremlin insists conditions for Ukraine ceasefire unchanged following reports suggesting growing US concerns.",
@@ -597,33 +624,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "A new order is being imposed on the Palestinians. How do we confront it?",
-        "link": "https://www.aljazeera.com/opinions/2025/10/21/a-new-order-is-imposed-on-the-palestinians-but-rejection-is-not-a-solution?traffic_source=rss",
-        "description": "Ignoring the new reality or refusing to engage with it would mean to lose agency.",
-        "pubDate": "2025-10-21T11:37:58Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Former French President Sarkozy begins a 5-year prison sentence for campaign finance conspiracy - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZW5NTExDR3RtNVF5czkzQ213SmhIYkg5bDRLMF9tZGJpdnpWdmRkNlRGM2tpZ1pPc0tTalpzcW1PMXo0QWxJZUdQTkxIb3VucmtOSDRZVHE5YWJEVllRUFFVU3ZycUJOUUNpeHZKOGNDb2VzZzBFb05kTDQtWERYQWs2andkVXM3ZklsRHlrRnZFQUVSMFotQUl0LTEzSUhCWnZ5RzlQcGh5UjFq?oc=5",
-        "description": "",
-        "pubDate": "2025-10-21T11:32:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Slovak court sentences poet that shot PM to 21 years for ‘terror attack’",
-        "link": "https://www.aljazeera.com/news/2025/10/21/slovak-court-sentences-pm-ficos-attacker-to-21-years-for-terror?traffic_source=rss",
-        "description": "The populist government has blamed the 2024 attack on 'hatred' spread by opposition and critical media.",
-        "pubDate": "2025-10-21T11:30:46Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
@@ -763,6 +763,15 @@
         "bias": 0
       },
       {
+        "title": "Jaxon Smith-Njigba, defense show out again for Seahawks in 27-19 win against Texans - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNajdSZEpHVXRsVTlRUWdCaUF6T0dmQ1JDWjlxS0dtb1pSQWtaRHJSa3FSMUltTmFmUTFXcC0zckhuNUdza1JQUU5LUHczM1lDenBoa184T3pSWURFenRFYWNyaW8yMWl0bHJ2VDR3cU9PNGdkXy11SUFTZHFjMFRub0FoNVZUN3lDZldCclY0OVdWYW5hNWp5YWQ4dmkydVVOY3RxQjB3?oc=5",
+        "description": "",
+        "pubDate": "2025-10-21T07:44:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "MP who was raped praises law reforms for victims",
         "link": "https://www.bbc.com/news/articles/cd9kqz4nd0qo?at_medium=RSS&at_campaign=rss",
         "description": "An amendment to the Victims and Courts Bill could restrict parental responsibility of abusers.",
@@ -837,15 +846,6 @@
         "bias": 0
       },
       {
-        "title": "Gibbs has career-high 218 yards of offense and 2 TDs, helping Lions bounce back and beat Bucs 24-9 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeWF6RjVNT3JNME5kLTNUdG9qaWl3WE1aQW9Hb0JWTFdkRlhsNDFsN3U3RzN1dFdsSEVRd2dkdnkxckp6TEtBUVk4eU0xSjhqQmh0WFlLUXVWYlUxNUhuZ205SEh1czdOT096S0RDNk9jdDJVeFlpeF95Q1pGTVRvVXMweTJJMmpfVGc?oc=5",
-        "description": "",
-        "pubDate": "2025-10-21T03:18:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Cable failure and maintenance flaws contributed to Portugal streetcar crash, investigation says - AP News",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUl9kVHlETnkyaHN0WkRXTEh1YWt4bVZ5aDZ0SHZJSFJPYzRCOFd3cjdsaTNzNWZsY2dxUVc2QUQxNTVfd1AzMi13aDdFcVhtZ3ZaZHlOc185UTR5eEpnRzNZTGVTbmJ3WV9DczNwT1BlNHFSeVFFUGJqSE5DcHJPczR6bnZEQklFWE1uWUtIN0dEbE9WZnJ4VzVTTW9kelJidTFMd2V6VFN6Smtrb05PZUxR?oc=5",
         "description": "",
@@ -872,6 +872,15 @@
         "pubDate": "2025-10-21T02:34:44Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21ab/live/63c79600-ae70-11f0-aa13-0b0479f6f42a.jpg",
+        "bias": 0
+      },
+      {
+        "title": "ICE would need more money to expand use of bodycams in Chicago crackdown, official says - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ0pwTjdKNGJVQUpBMW5XVlBaWWREVTVNSU5yODAwSTgyY1RvdkJfamhXdmJnNFFjLTdXVDhLQnUwb3lORXlWMlBpcFhERUZBMGs5WjNSOVJmYllNTlFwNi1KeUt2UU9wZE1yNmxLQVNlOGZCWDB0TGRDU1l5eHJ0VUJldVNZUGZCTzIyNXFMOTB1Xzcxc3F0dWc0cUNFZw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-21T01:33:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       }
     ],
