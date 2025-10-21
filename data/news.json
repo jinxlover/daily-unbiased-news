@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-21T17:40:30.752938Z",
+  "lastUpdate": "2025-10-21T17:55:56.060317Z",
   "news": {
     "Gaming": [
       {
@@ -9,6 +9,15 @@
         "pubDate": "2025-10-21T17:29:26Z",
         "source": "acethedev67.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNzE2OTc1LnBuZw==/315x250%23c/6xv%2B1F.png",
+        "bias": 0
+      },
+      {
+        "title": "BillieBustUp [Free] [Fighting] [Windows]",
+        "link": "https://bot-studio-original.itch.io/billie-bust-up",
+        "description": "",
+        "pubDate": "2025-10-21T17:28:45Z",
+        "source": "bot-studio-original.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNzE3MTYyLnBuZw==/315x250%23c/uBKL01.png",
         "bias": 0
       },
       {
@@ -111,6 +120,15 @@
         "bias": 0
       },
       {
+        "title": "Voices In A Bottle [Free]",
+        "link": "https://almuftahfn.itch.io/voices-in-a-bottle",
+        "description": "",
+        "pubDate": "2025-10-21T15:44:54Z",
+        "source": "almuftahfn.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNzE1ODMxLnBuZw==/315x250%23c/Lz2s4U.png",
+        "bias": 0
+      },
+      {
         "title": "VELET [$10.00] [Role Playing]",
         "link": "https://oleksa-ponomarenko.itch.io/velet-ttrpg",
         "description": "Tabletop Roleplaying Game of Giant Monster Clashes",
@@ -126,24 +144,6 @@
         "pubDate": "2025-10-21T15:34:53Z",
         "source": "arry424.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNzE1ODUwLnBuZw==/315x250%23c/%2FcATIr.png",
-        "bias": 0
-      },
-      {
-        "title": "Egg Timer [Free] [Adventure] [Windows]",
-        "link": "https://benjy3.itch.io/eggtimer",
-        "description": "Goofy game about escaping a time loop",
-        "pubDate": "2025-10-21T15:24:31Z",
-        "source": "benjy3.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzE1NjcyLnBuZw==/315x250%23c/aztMrw.png",
-        "bias": 0
-      },
-      {
-        "title": "iOS 3D HTML Export Test [Free]",
-        "link": "https://nicknavati.itch.io/ios-html-export-test",
-        "description": "",
-        "pubDate": "2025-10-21T15:23:05Z",
-        "source": "nicknavati.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzE1NTg3LnBuZw==/315x250%23c/dkQGPI.png",
         "bias": 0
       },
       {
@@ -172,9 +172,36 @@
         "source": "visiondesign.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNzA5NjEwLnBuZw==/315x250%23c/k%2BXhvt.png",
         "bias": 0
+      },
+      {
+        "title": "Love Matrix [$5.99] [Adventure] [Windows]",
+        "link": "https://soulcoom.itch.io/love-matrix",
+        "description": "Soulcoom : Love Matrix",
+        "pubDate": "2025-10-21T02:35:03Z",
+        "source": "soulcoom.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNzE3Mjg0LnBuZw==/315x250%23c/L4%2Fpx0.png",
+        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Wall Street ticks up to the cusp of its record heights - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONjJ1cEU0aUhkZ0VVTl81SDlBaXlkY0twQnpvUUEzLUlRamNMVE1PX2hMYmJQbjhLd2VzWjEwNmRQRnc1cWpDV2pEQUwwVVVqVm5tS3JBY3ZoQzRkMVk5d0xKQlB1VUgxLVlMeDlIdG41YnJxYmV2OGdqZ0dlUjkzemFVUXZFOTdHdFd0d3RVZnowSEVvY3Y5ZjVB?oc=5",
+        "description": "",
+        "pubDate": "2025-10-21T17:37:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Ukrainian city in total blackout after 'massive' Russian assault",
+        "link": "https://www.bbc.com/news/articles/cn8vrxjdd5go?at_medium=RSS&at_campaign=rss",
+        "description": "Across the wider region, four people are reported to have been killed and 10 others injured.",
+        "pubDate": "2025-10-21T17:36:20Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a668/live/bae57850-ae9b-11f0-b305-65f4f8d88da9.jpg",
+        "bias": 0
+      },
       {
         "title": "Plans for Trump-Putin meeting shelved days after Budapest talks proposed",
         "link": "https://www.bbc.com/news/articles/c4gjp73gp41o?at_medium=RSS&at_campaign=rss",
@@ -192,6 +219,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "What Americans think about rising health care costs, according to a new AP-NORC poll - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT2dGYXhJeXlacXc1M0NuWERRTzBpaVdXajJfTHNoTzhWOW15TWQyV1RMQkZJUXd4a2RZb3A1WDJpTi1abS1HUUctc2E1aFZGTXdjVm5PdjFvWnBtcW9acXJhZnNDRGIzNERNQ0wzSDlGd1NWenZQN3lhT0Fuc0xaM3pwenp3V1p1dlc3N085NE9yZlhpX2J1SzFVSzdQRkw5MzJhbHdtb1Ixdm8?oc=5",
+        "description": "",
+        "pubDate": "2025-10-21T17:22:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "In Chicago, an immense show of force signals a sharp escalation in White House immigration crackdown - AP News",
@@ -252,15 +288,6 @@
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb1FDclZhYms0M3dMV2JNMUlnbC01bTZaSW5NWnNRN19PUmlUQXFNUXpoLU9fWlo0NEFfUTFKaFNyWHhzb19NcEZvaG5NWks2Nkg2WFd3Z2lORzVNZnRPM1kxOVdmNEZjRGlRSkYxRUNncWhkc3RLdkQxcXZZNlNlRW5MRzZ5VHhrbWRSVW1BWEJ5QnZwTXhCQjQtMkRFUUc1ak5ZSV9LN0NnTi11?oc=5",
         "description": "",
         "pubDate": "2025-10-21T16:18:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Wall Street ticks up to the cusp of its record heights - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONjJ1cEU0aUhkZ0VVTl81SDlBaXlkY0twQnpvUUEzLUlRamNMVE1PX2hMYmJQbjhLd2VzWjEwNmRQRnc1cWpDV2pEQUwwVVVqVm5tS3JBY3ZoQzRkMVk5d0xKQlB1VUgxLVlMeDlIdG41YnJxYmV2OGdqZ0dlUjkzemFVUXZFOTdHdFd0d3RVZnowSEVvY3Y5ZjVB?oc=5",
-        "description": "",
-        "pubDate": "2025-10-21T16:02:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -381,15 +408,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "What Americans think about rising health care costs, according to a new AP-NORC poll - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT2dGYXhJeXlacXc1M0NuWERRTzBpaVdXajJfTHNoTzhWOW15TWQyV1RMQkZJUXd4a2RZb3A1WDJpTi1abS1HUUctc2E1aFZGTXdjVm5PdjFvWnBtcW9acXJhZnNDRGIzNERNQ0wzSDlGd1NWenZQN3lhT0Fuc0xaM3pwenp3V1p1dlc3N085NE9yZlhpX2J1SzFVSzdQRkw5MzJhbHdtb1Ixdm8?oc=5",
-        "description": "",
-        "pubDate": "2025-10-21T14:25:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Europe's leaders back Trump call for frontline freeze but Russia says no",
@@ -615,15 +633,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Al Jazeera documentary reveals new evidence in Hind Rajab family’s killing",
-        "link": "https://www.aljazeera.com/news/2025/10/21/new-al-jazeera-documentary-reveals-evidence-in-hind-rajab-familys-killing?traffic_source=rss",
-        "description": "Al Jazeera documentary uncovers new evidence in killings of Hind Rajab, her family and rescue team in Gaza City.",
-        "pubDate": "2025-10-21T11:43:47Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
@@ -659,15 +668,6 @@
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTlRRQ0JnUUZ0RXFuTlNqcWhidU9FRmx2ZHpWaHl5b2VQNjdPLVBIU1BXOHFPVHhUYmV1b3NZZjJWWVRudVpYRldJWGIxQVhOMHFWOHppWUNMejU4YU5nN0l4S2Nkc09Zb1VWVWYwS0p3ai1sMmVSMHg4NGZFNnd0NkF1NnhDZDBRT3ZodFZSeWtjc1ZTZDk1LTltV0lManBFandOSy0ycno?oc=5",
         "description": "",
         "pubDate": "2025-10-21T14:55:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "NBA rosters feature a record 135 international players. And more things to know entering season - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHl2V3VPUk5ucTNTaW1LWXUxZmZnbUNCS1BGU2ZNcVl6amczUXBrMWdGOTlaZ2NQR0RxZzhBNkxaQ1ZJeE96STZxQ0lTVzlNVjdWMmVtVDVPaEF6eDd0TWVlWk5JczdhbVlJYXlnRjFSLWpIRjBtV25BMWZTM0pyMHpqdEdxemRT?oc=5",
-        "description": "",
-        "pubDate": "2025-10-21T14:24:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -727,13 +727,13 @@
         "bias": 0
       },
       {
-        "title": "Blue New Jersey is expecting a very close race for governor this November",
-        "link": "https://www.npr.org/2025/10/21/nx-s1-5580619/new-jersey-governor-election-trump",
-        "description": "President Trump and former President Obama have endorsed the two candidates locked in a tight race for New Jersey governor, Republican Jack Ciattarelli and Democrat Mikie Sherrill.",
-        "pubDate": "2025-10-21T09:00:00Z",
-        "source": "npr.org",
+        "title": "Simone Gbagbo, Ivory Coast’s iron lady, eyes presidential palace in unlikely comeback bid - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQjJDaHhSUktlNW1ZU3NxQ3VmYTgwQ193OU80V2FEZmkwdmdWeGZxSmRhbVlFcHBEM1pPQkZoMWdfa1VTUjNWME1sWUFYNlBlQzYxRGN4RDhON29TQUkxYWhpVW1sRkExb2JSU2FoeGhWVzFZSkU2Rjl6NC1SbmJZbTZobGtTZmM0dlFOYV9HakdPZlptNVplVzdacE1DTkdQaENxTG84TXRvNTU4WmVDNg?oc=5",
+        "description": "",
+        "pubDate": "2025-10-21T09:32:00Z",
+        "source": "news.google.com",
         "image": "",
-        "bias": -1
+        "bias": 0
       },
       {
         "title": "'Cancer doesn't care': Patients pushed past divisive politics to lobby Congress",
@@ -754,6 +754,15 @@
         "bias": -1
       },
       {
+        "title": "Blue New Jersey is expecting a very close race for governor this November",
+        "link": "https://www.npr.org/2025/10/21/nx-s1-5580619/new-jersey-governor-election-trump",
+        "description": "President Trump and former President Obama have endorsed the two candidates locked in a tight race for New Jersey governor, Republican Jack Ciattarelli and Democrat Mikie Sherrill.",
+        "pubDate": "2025-10-21T09:00:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "SNP calls for Prince Andrew to be stripped of titles",
         "link": "https://www.bbc.com/news/articles/cdeg9xd310zo?at_medium=RSS&at_campaign=rss",
         "description": "The party's Stephen Flynn has lodged a parliamentary motion calling on ministers to act against the prince.",
@@ -767,6 +776,15 @@
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNajdSZEpHVXRsVTlRUWdCaUF6T0dmQ1JDWjlxS0dtb1pSQWtaRHJSa3FSMUltTmFmUTFXcC0zckhuNUdza1JQUU5LUHczM1lDenBoa184T3pSWURFenRFYWNyaW8yMWl0bHJ2VDR3cU9PNGdkXy11SUFTZHFjMFRub0FoNVZUN3lDZldCclY0OVdWYW5hNWp5YWQ4dmkydVVOY3RxQjB3?oc=5",
         "description": "",
         "pubDate": "2025-10-21T07:44:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "American chess grandmaster Daniel Naroditsky dies at 29 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaVBERUc3M1RaWkswYktaamVTV25xTGtiVXQ0V2l5M2FrN1ZONm1iS3VPYWFHdkpnZkZjbmFIVTNmREwwVng0WFVRMjZ5WDBScUhkb0xYdU5tdUZPMktla29ibmNGT3NpWjc3YlVpNnJJeF9SOGtzSE5XLUNhMVV1T21DY2I3Ri12MVV1UWc5WUdjelRiV3ZYbS1iQTQ4U0RtV3Bj?oc=5",
+        "description": "",
+        "pubDate": "2025-10-21T04:57:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -819,6 +837,24 @@
         "bias": 0
       },
       {
+        "title": "Tropical Storm Melissa forms in the Caribbean on path toward Haiti - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUVpwMlkzcDQxSktVcWpGSE5oczl5RW5LMzJ3TlhZSWV2R3dYLWFPRENIMDZrclJVU3JGNDhobW1tNXVOeUl1VlZFeGQtM2hmV3NOUTR1Vm41MzZWdnZyOWhCZTBZckJkd1d2amQ0Z0lqdmtyYl9qWHN6VmtvcE82Y2JZWDJGV3BqcmRGUUVqb2FHczVIRjR4SXRZVnlwRlEzZTlxT2xR?oc=5",
+        "description": "",
+        "pubDate": "2025-10-21T15:02:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "NBA rosters feature a record 135 international players. And more things to know entering season - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHl2V3VPUk5ucTNTaW1LWXUxZmZnbUNCS1BGU2ZNcVl6amczUXBrMWdGOTlaZ2NQR0RxZzhBNkxaQ1ZJeE96STZxQ0lTVzlNVjdWMmVtVDVPaEF6eDd0TWVlWk5JczdhbVlJYXlnRjFSLWpIRjBtV25BMWZTM0pyMHpqdEdxemRT?oc=5",
+        "description": "",
+        "pubDate": "2025-10-21T14:24:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Tech CEOs say the era of 'code by AI' is here. Some software engineers are skeptical",
         "link": "https://www.npr.org/2025/10/21/nx-s1-5506141/ai-code-software-productivity-claims",
         "description": "While AI is increasingly used to write code, every line is still reviewed by humans. Some engineers complain about having to clean up AI-generated code.",
@@ -834,15 +870,6 @@
         "pubDate": "2025-10-21T08:29:43Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/898a/live/e85a6120-add2-11f0-b2a1-6f537f66f9aa.jpg",
-        "bias": 0
-      },
-      {
-        "title": "American chess grandmaster Daniel Naroditsky dies at 29 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaVBERUc3M1RaWkswYktaamVTV25xTGtiVXQ0V2l5M2FrN1ZONm1iS3VPYWFHdkpnZkZjbmFIVTNmREwwVng0WFVRMjZ5WDBScUhkb0xYdU5tdUZPMktla29ibmNGT3NpWjc3YlVpNnJJeF9SOGtzSE5XLUNhMVV1T21DY2I3Ri12MVV1UWc5WUdjelRiV3ZYbS1iQTQ4U0RtV3Bj?oc=5",
-        "description": "",
-        "pubDate": "2025-10-21T04:57:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -872,15 +899,6 @@
         "pubDate": "2025-10-21T02:34:44Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21ab/live/63c79600-ae70-11f0-aa13-0b0479f6f42a.jpg",
-        "bias": 0
-      },
-      {
-        "title": "ICE would need more money to expand use of bodycams in Chicago crackdown, official says - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ0pwTjdKNGJVQUpBMW5XVlBaWWREVTVNSU5yODAwSTgyY1RvdkJfamhXdmJnNFFjLTdXVDhLQnUwb3lORXlWMlBpcFhERUZBMGs5WjNSOVJmYllNTlFwNi1KeUt2UU9wZE1yNmxLQVNlOGZCWDB0TGRDU1l5eHJ0VUJldVNZUGZCTzIyNXFMOTB1Xzcxc3F0dWc0cUNFZw?oc=5",
-        "description": "",
-        "pubDate": "2025-10-21T01:33:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       }
     ],
