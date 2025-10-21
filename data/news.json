@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-10-21T10:21:14.985113Z",
+  "lastUpdate": "2025-10-21T10:43:26.787794Z",
   "news": {
     "Gaming": [
+      {
+        "title": "1st Prize had enough But randomizer edition With Mod Menu [Free] [Android]",
+        "link": "https://hsa7sy.itch.io/1st-prize-had-enough-but-randomizer-edition-with-mod-menu",
+        "description": "",
+        "pubDate": "2025-10-21T10:40:34Z",
+        "source": "hsa7sy.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNzEyNjUwLmpwZw==/315x250%23c/sF8M0X.jpg",
+        "bias": 0
+      },
       {
         "title": "I am not what I am/ [Free] [Windows] [macOS] [Linux] [Android]",
         "link": "https://daniel-miller.itch.io/i-am-not-what-i-am",
@@ -210,15 +219,6 @@
         "bias": 0
       },
       {
-        "title": "WaterWorld [Free] [Strategy] [Windows]",
-        "link": "https://stangshinez.itch.io/water-world",
-        "description": "Resources Management game, with water pollution",
-        "pubDate": "2025-10-21T06:38:50Z",
-        "source": "stangshinez.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzExMjQyLnBuZw==/315x250%23c/7mB4iY.png",
-        "bias": 0
-      },
-      {
         "title": "Byaheng Langit [Free] [Other]",
         "link": "https://avappstudio.itch.io/byaheng-langit",
         "description": "A high-speed endless runner featuring charming jeepneys.",
@@ -230,12 +230,75 @@
     ],
     "World": [
       {
+        "title": "Woman charged after 1.5m euros of gold stolen from Paris museum",
+        "link": "https://www.bbc.com/news/articles/c62ez36ndp3o?at_medium=RSS&at_campaign=rss",
+        "description": "Prosecutors say the woman was arrested in Barcelona with around a kilo of melted down gold.",
+        "pubDate": "2025-10-21T10:40:08Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e271/live/500828c0-ae64-11f0-bf6e-0db822206ec2.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Drone attack in Sudan threatens Khartoum airport’s reopening: Reports",
+        "link": "https://www.aljazeera.com/news/2025/10/21/drone-attack-in-sudan-threatens-khartoum-airports-reopening-reports?traffic_source=rss",
+        "description": "Sources and witnesses report early-morning explosions near Khartoum international airport, due to reopen on Wednesday.",
+        "pubDate": "2025-10-21T10:29:03Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Tornado hits Paris suburbs leaving one dead",
+        "link": "https://www.bbc.com/news/videos/c9864114nemo?at_medium=RSS&at_campaign=rss",
+        "description": "A 23-year-old construction worked has been killed after a tornado tore through Val-d'Ois, north of Paris, on Monday, toppling three construction cranes.",
+        "pubDate": "2025-10-21T10:27:28Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88a9/live/e0f2fa10-ae67-11f0-b2a1-6f537f66f9aa.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Former French President Nicolas Sarkozy starts five-year prison term",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/10/21/former-french-president-nicolas-sarkozy-starts-five-year-prison-term?traffic_source=rss",
+        "description": "Former French President Nicolas Sarkozy is starting a five-year prison term for raising campaign funds from Libya.",
+        "pubDate": "2025-10-21T10:23:18Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "French ex-president Sarkozy goes to  jail for campaign finance conspiracy",
+        "link": "https://www.bbc.com/news/articles/cvgkm2j0xelo?at_medium=RSS&at_campaign=rss",
+        "description": "Nicolas Sarkozy, president from 2007-2012, has appealed against his jail term at La Santé prison.",
+        "pubDate": "2025-10-21T10:21:16Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d49f/live/1082fdd0-ae67-11f0-b2a1-6f537f66f9aa.jpg",
+        "bias": 0
+      },
+      {
         "title": "Vance arrives in Israel as US tries to strengthen Gaza ceasefire deal",
         "link": "https://www.bbc.com/news/articles/cd9k2dj37wqo?at_medium=RSS&at_campaign=rss",
         "description": "The US vice-president's visit comes after a flare-up of violence between Israel and Hamas that threatened to derail the 12-day-old truce.",
         "pubDate": "2025-10-21T09:53:33Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a930/live/a4de9770-ae60-11f0-bf6e-0db822206ec2.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Poland detains suspected saboteurs amid fears of Russian ‘hybrid warfare’",
+        "link": "https://www.aljazeera.com/news/2025/10/21/poland-detains-suspected-saboteurs-amid-fears-of-russian-hybrid?traffic_source=rss",
+        "description": "Moscow is accused of running sabotage and espionage operations across Europe targeting nations supporting Ukraine.",
+        "pubDate": "2025-10-21T09:51:08Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Former French President Sarkozy begins a 5-year prison sentence for campaign finance conspiracy - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZW5NTExDR3RtNVF5czkzQ213SmhIYkg5bDRLMF9tZGJpdnpWdmRkNlRGM2tpZ1pPc0tTalpzcW1PMXo0QWxJZUdQTkxIb3VucmtOSDRZVHE5YWJEVllRUFFVU3ZycUJOUUNpeHZKOGNDb2VzZzBFb05kTDQtWERYQWs2andkVXM3ZklsRHlrRnZFQUVSMFotQUl0LTEzSUhCWnZ5RzlQcGh5UjFq?oc=5",
+        "description": "",
+        "pubDate": "2025-10-21T09:48:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -272,15 +335,6 @@
         "pubDate": "2025-10-21T09:13:41Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e86/live/032cf2b0-ae41-11f0-8c88-ef716e73d157.jpg",
-        "bias": 0
-      },
-      {
-        "title": "French ex-president Sarkozy goes to  jail for campaign finance conspiracy",
-        "link": "https://www.bbc.com/news/articles/cvgkm2j0xelo?at_medium=RSS&at_campaign=rss",
-        "description": "Nicolas Sarkozy, president from 2007-2012, has appealed against his jail term at La Santé prison.",
-        "pubDate": "2025-10-21T09:07:50Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d440/live/d19bd7b0-ae55-11f0-aa13-0b0479f6f42a.jpg",
         "bias": 0
       },
       {
@@ -464,15 +518,6 @@
         "bias": -1
       },
       {
-        "title": "Former French president Sarkozy begins a 5-year prison sentence for campaign finance conspiracy - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZW5NTExDR3RtNVF5czkzQ213SmhIYkg5bDRLMF9tZGJpdnpWdmRkNlRGM2tpZ1pPc0tTalpzcW1PMXo0QWxJZUdQTkxIb3VucmtOSDRZVHE5YWJEVllRUFFVU3ZycUJOUUNpeHZKOGNDb2VzZzBFb05kTDQtWERYQWs2andkVXM3ZklsRHlrRnZFQUVSMFotQUl0LTEzSUhCWnZ5RzlQcGh5UjFq?oc=5",
-        "description": "",
-        "pubDate": "2025-10-21T07:45:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Trump is going to Asia — what happens next is anyone’s guess - AP News",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeklTMVhHRThIMVF1Y0pROEQzZ1hYQ1pRWDdQdlB2MF9XTElHN1VRaVc4VkdacWhHSW5meHZMU3Zyd1l3SVFWaExSV3N6NjladlF2NEdxVkNSeGZLZ2FQWllWSDI0MWw0WFdDTmVWc3JDcFJNcWZWS1MzbE1iN3NnbEVrNkwzczk2Q3ljOE9BZlE?oc=5",
         "description": "",
@@ -633,54 +678,27 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Live: More Palestinians killed in Gaza; US officials visit Israel for talks",
-        "link": "https://www.aljazeera.com/news/liveblog/2025/10/21/live-more-palestinians-killed-in-gaza-us-officials-visit-israel-for-talks?traffic_source=rss",
-        "description": "Deadly Israeli attacks have continued across Gaza as US VP and other officials visit Israel for ceasefire talks.",
-        "pubDate": "2025-10-21T05:32:58Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Springer's homer sends Blue Jays into World Series with 4-3 win over Mariners in Game 7 of ALCS - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY2I0eG1wbGtKRjFCQUpfOTJrQzFINGdjRGxvdmZVRkpVdElnM1l2VmxteG1BQU1yUU5vWUppa2MwNThsbFpvNC1rNnRLY0xHclZGS3ZmUU9tbXdfMVIxWHpiWENjWTN5Qjl6U1dMMEdfdUh2eGt4RFdTR2hmVVk4WXoxd01iR2VXcTZDTTlfdkRzcnN3NG4tMURILXR1Unc?oc=5",
-        "description": "",
-        "pubDate": "2025-10-21T05:23:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Myanmar military arrests more than 2,000 people at infamous scam centre",
-        "link": "https://www.aljazeera.com/news/2025/10/21/myanmar-military-arrests-more-than-2000-people-at-infamous-scam-centre?traffic_source=rss",
-        "description": "The military also confiscated 30 Starlink satellites from the sprawling KK Park scam centre on the border with Thailand.",
-        "pubDate": "2025-10-21T05:02:03Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "US chess grandmaster Daniel Naroditsky dies aged 29",
-        "link": "https://www.bbc.com/news/articles/c15pz8vpjp9o?at_medium=RSS&at_campaign=rss",
-        "description": "The young prodigy's \"unexpected passing\" was announced by his family on Monday.",
-        "pubDate": "2025-10-21T04:57:04Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d756/live/f190e630-ae2a-11f0-b2a1-6f537f66f9aa.jpg",
-        "bias": 0
-      },
-      {
-        "title": "George Springer’s Game 7 home run sends Blue Jays into MLB World Series",
-        "link": "https://www.aljazeera.com/sports/2025/10/21/george-springers-game-7-home-run-sends-blue-jays-into-mlb-world-series?traffic_source=rss",
-        "description": "Springer's three-run homer against Seattle put Toronto Blue Jays into the World Series for the first time in 32 years.",
-        "pubDate": "2025-10-21T04:45:31Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
+      {
+        "title": "A theory why the internet is going down the toilet",
+        "link": "https://www.npr.org/sections/planet-money/2025/10/21/g-s1-94264/a-theory-why-the-internet-is-going-down-the-toilet",
+        "description": "A new book diagnoses a sickness affecting some of America's biggest companies.",
+        "pubDate": "2025-10-21T10:30:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Government insists it is cutting red tape for business",
+        "link": "https://www.bbc.com/news/articles/c629z48jjg7o?at_medium=RSS&at_campaign=rss",
+        "description": "Peter Kyle told the BBC changes will be implemented in a way that is \"pro worker and pro business\".",
+        "pubDate": "2025-10-21T10:23:17Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f73/live/5d054270-ae5e-11f0-bf6e-0db822206ec2.jpg",
+        "bias": 0
+      },
       {
         "title": "Thousands of criminals could be released early under government sentencing reform, Tories say",
         "link": "https://www.bbc.com/news/articles/ce8g5k6kyllo?at_medium=RSS&at_campaign=rss",
@@ -754,6 +772,62 @@
         "bias": 0
       },
       {
+        "title": "US man arrested in Scotland and convicted of Utah rape gets at least 5 years in prison - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd0N0WHg1QXhfOU9FaFMtbXFNWm95Q3hsWGZlNlRTZVg0b0lDWVFfbVlJLTBPNTJJajU3UzUxTWV1YWVhMzZ2SmZheUViUXFkZjNCandyX2g4TnU0eDRwcEZtTC0zdkRhbFZqczhoTTZaMWVlUkJGX0lwV0hsTDAyaTR1N190WmxTYk1ubTZnMnZyc1V3eFY5OEc5NEhsa1RNNVpjeFJHeFZLTUI4bmp2dDd4YWdOd0xpTWJv?oc=5",
+        "description": "",
+        "pubDate": "2025-10-21T00:57:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Ecuador says it has no evidence that survivor of a US strike in the Caribbean committed any crime - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOckY1c3ctZXdvYjRDdkxaZ3dmakVKRmxvR2tpSEptNlZJbndhakdxb2ZJaDdXWGNNNEx2QV82YTVCQ1JEME9ETVpLN0hCZldiSnhmcFVjb3k4U3BYQlh0ODJMdVRPTDdQWWdPMkJmamJNVmlPWlRPMmFqYmxhWmg5WUx6QWt6QUh4aUwxTHg4Mkt4eXIxRDlXNjIySkxZbFVPUGFLUmlXMU4zalktVVpYUHpEaEtWblEwalE?oc=5",
+        "description": "",
+        "pubDate": "2025-10-21T00:48:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "The White House starts demolishing part of the East Wing to build Trump's ballroom",
+        "link": "https://www.npr.org/2025/10/20/g-s1-94315/white-house-demolishing-east-wing-trump-ballroom",
+        "description": "Dramatic photos show construction equipment tearing into the East Wing façade and windows, though the federal agency that oversees such projects has not approved President Trump's 90,000-square-foot, $250 million ballroom.",
+        "pubDate": "2025-10-21T00:46:47Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "What to know about the murder trial of an Illinois sheriff deputy who killed Sonya Massey - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ1IxX2JKd2gyejUxMm4wcUpFR0QzSFN3SkVZcmlhS3Znd2VBZ0hvYXMzTnhaOHloaTc1cDRyRllsc3lhdWthY2hrVVJiU0p6Vkd3Znh1RHdKVHJnMmUtcXplbnhrbXBmeEtUcnRIc1hBZkV5V0ZYai1EOWJVdFM2SnNWc3ZCazBCeTN6aFBjSTVOQ3paUmRUVTZUaGJ3UTkyMWJjYkFicnd1dmxkQ0EwTDRn?oc=5",
+        "description": "",
+        "pubDate": "2025-10-21T00:45:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ],
+    "Tech": [
+      {
+        "title": "One of the world’s rarest whales that makes the Atlantic its home grows in population - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZm0tendMa1NNMlRGQkV5UV9GVTl1YXk2TnNIUjdnZ2lPXzJFS0tXaWFXY1ZwY3NCTHQ3dmhub01haWZwS2FFZlNEV3FBazlZclZqUVF1QW94TF9Pdno1dU83Y29lRktrUmR3MGVJUmh1Uk1na2M4SUZ5VERudUwtZUpsNXRpelFiVFpBbzY0TVpkczFzUk5heUNCZ0dTUm5G?oc=5",
+        "description": "",
+        "pubDate": "2025-10-21T10:02:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "What caused the AWS outage - and why did it make the internet fall apart?",
+        "link": "https://www.bbc.com/news/articles/cev1en9077ro?at_medium=RSS&at_campaign=rss",
+        "description": "The outage at Amazon services has impacted over 1,000 companies and affected millions of internet users.",
+        "pubDate": "2025-10-21T08:29:43Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/898a/live/e85a6120-add2-11f0-b2a1-6f537f66f9aa.jpg",
+        "bias": 0
+      },
+      {
         "title": "Ohtani and the Dodgers tout ‘Team Effort’ on brink of World Series repeat - AP News",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ3FqemotbHkwOTI1N1J6dEN2WjF0S0JOZ2ZxNXI1X252ZjVrYUoxb2hZMnRLT2lOV3phSTFFdldjbm1nbUNBS0pQdGtnQVBDRVNpVlVWMWdMNk5OSDAyRjJOU3lGUTVxbzVIbXZpNjRxZWtFTU1ScTh1MWlCWjRyUE1DaWJ3VHM?oc=5",
         "description": "",
@@ -770,26 +844,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "The White House starts demolishing part of the East Wing to build Trump's ballroom",
-        "link": "https://www.npr.org/2025/10/20/g-s1-94315/white-house-demolishing-east-wing-trump-ballroom",
-        "description": "Dramatic photos show construction equipment tearing into the East Wing façade and windows, though the federal agency that oversees such projects has not approved President Trump's 90,000-square-foot, $250 million ballroom.",
-        "pubDate": "2025-10-21T00:46:47Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      }
-    ],
-    "Tech": [
-      {
-        "title": "What caused the AWS outage - and why did it make the internet fall apart?",
-        "link": "https://www.bbc.com/news/articles/cev1en9077ro?at_medium=RSS&at_campaign=rss",
-        "description": "The outage at Amazon services has impacted over 1,000 companies and affected millions of internet users.",
-        "pubDate": "2025-10-21T08:29:43Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/898a/live/e85a6120-add2-11f0-b2a1-6f537f66f9aa.jpg",
-        "bias": 0
       }
     ],
     "Science": [
@@ -799,7 +853,7 @@
         "description": "The BBC speaks to astronaut Eileen Collins, the first woman to pilot and command a spacecraft.",
         "pubDate": "2025-10-21T02:34:44Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d45a/live/b5035360-ab9b-11f0-ba75-093eca1ac29b.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8c9/live/d1f0a940-ae67-11f0-ba75-093eca1ac29b.jpg",
         "bias": 0
       }
     ],
@@ -820,15 +874,6 @@
         "pubDate": "2025-10-21T09:07:41Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09ac/live/0c6dd9d0-ae5e-11f0-b2a1-6f537f66f9aa.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-        "description": "",
-        "pubDate": "2025-10-21T05:48:48Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
