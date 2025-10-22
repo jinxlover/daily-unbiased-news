@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-10-22T06:54:37.285898Z",
+  "lastUpdate": "2025-10-22T07:18:49.708108Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Another Day [Free]",
+        "link": "https://essa12345.itch.io/another-day",
+        "description": "A game about life",
+        "pubDate": "2025-10-22T06:45:46Z",
+        "source": "essa12345.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNzI0NTQ4LnBuZw==/315x250%23c/YgAR%2Ff.png",
+        "bias": 0
+      },
       {
         "title": "MazeRun [Free] [Other] [Windows]",
         "link": "https://fwextx.itch.io/maze",
@@ -174,24 +183,6 @@
         "bias": 0
       },
       {
-        "title": "Eight of Letters [Free] [Windows]",
-        "link": "https://yin0abv.itch.io/eight-of-letters",
-        "description": "",
-        "pubDate": "2025-10-22T03:55:17Z",
-        "source": "yin0abv.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzIzNjY4LnBuZw==/315x250%23c/eUElj4.png",
-        "bias": 0
-      },
-      {
-        "title": "Defold Walk Quest Test [Free]",
-        "link": "https://kabushpasha.itch.io/defold-walk-quest-test",
-        "description": "",
-        "pubDate": "2025-10-22T03:52:37Z",
-        "source": "kabushpasha.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzIzNTk5LmpwZw==/315x250%23c/GIXvbG.jpg",
-        "bias": 0
-      },
-      {
         "title": "Redibox V1- Evolved - Final Update [Free] [Other]",
         "link": "https://funnyboyliamincredibox.itch.io/redibox-v1-evolved-final-update",
         "description": "",
@@ -239,6 +230,33 @@
     ],
     "World": [
       {
+        "title": "More than 60 dead after multi-vehicle crash in Uganda",
+        "link": "https://www.bbc.com/news/articles/cgql9lwddw5o?at_medium=RSS&at_campaign=rss",
+        "description": "The crash involved two buses, a lorry and a car, police said, with many also injured.",
+        "pubDate": "2025-10-22T07:02:32Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2491/live/601bd990-af14-11f0-b2a1-6f537f66f9aa.png",
+        "bias": 0
+      },
+      {
+        "title": "Video: Trump says he doesn’t want ‘wasted meeting’ with Putin",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/10/22/video-trump-says-he-doesnt-want-wasted-meeting-with-putin?traffic_source=rss",
+        "description": "US President Donald Trump has explained a decision to postpone plans for a meeting in Hungary with Russia’s President.",
+        "pubDate": "2025-10-22T06:49:21Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Nigerian fuel tanker explosion kills 35, road safety agency says",
+        "link": "https://www.aljazeera.com/news/2025/10/22/nigerian-fuel-tanker-explosion-kills-35-road-safety-agency-says?traffic_source=rss",
+        "description": "Deadly incidents involving petroleum products are common in Nigeria where fuel is transported by road.",
+        "pubDate": "2025-10-22T06:44:27Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Dozens killed in Nigeria fuel tanker explosion",
         "link": "https://www.bbc.com/news/articles/c93dnd49l0jo?at_medium=RSS&at_campaign=rss",
         "description": "People rushed to collect fuel from the overturned tanker when it suddenly exploded, engulfing them in flames.",
@@ -257,18 +275,9 @@
         "bias": 0
       },
       {
-        "title": "More than 60 dead after multi-vehicle crash in Uganda",
-        "link": "https://www.bbc.com/news/articles/cgql9lwddw5o?at_medium=RSS&at_campaign=rss",
-        "description": "The crash involved two buses, a lorry and a car, police said, with many also injured.",
-        "pubDate": "2025-10-22T06:33:59Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
-        "bias": 0
-      },
-      {
         "title": "LIVE: Gaza Palestinians say ‘no change’ with ceasefire as Israel blocks aid",
         "link": "https://www.aljazeera.com/news/liveblog/2025/10/22/live-gaza-palestinians-say-no-change-with-ceasefire-as-israel-blocks-aid?traffic_source=rss",
-        "description": "UN says aid entering Gaza falling short of need as Israel continues to block aid, close border crossings.",
+        "description": "UN says aid entering Gaza still falling short of requirements as Israel continues to block aid, close border crossings.",
         "pubDate": "2025-10-22T06:00:22Z",
         "source": "aljazeera.com",
         "image": "",
@@ -308,6 +317,15 @@
         "pubDate": "2025-10-22T05:11:28Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c2f/live/9d74db80-aeaa-11f0-b2a1-6f537f66f9aa.jpg",
+        "bias": 0
+      },
+      {
+        "title": "A massive drone and missile attack on Ukraine’s capital kills at least 2, Ukrainian officials say - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTm5FR19KNWExamNFeVNpWjUxTjQ0UkZPZDhzc05WMW55ZllqMXhndkVGUnJqekJQZHJXRDg1S2FBMFJFM19NY3pYQTNSWDhKZk1tNjJLY2hsR1pxaWJBeXc1NWt5eGl6bENwVWttcEFrSkNDSjNRSzZjbWowb0h3V2dyYWV4ck9zb1QycjVlRnVVSEFRNTdGTVQxUWRvUQ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-22T05:11:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -370,7 +388,7 @@
         "description": "The recovery of Aryeh Zalmanovich and Master Sergeant Tamir Adar's remains means Hamas has returned 15 out of 28 deceased Israeli hostages.",
         "pubDate": "2025-10-22T03:58:08Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd50/live/a8c4e400-aefd-11f0-aa13-0b0479f6f42a.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47e8/live/2e2c5010-af17-11f0-aa13-0b0479f6f42a.png",
         "bias": 0
       },
       {
@@ -473,18 +491,9 @@
         "bias": 0
       },
       {
-        "title": "Pemex pipeline spill contaminates Mexican river after torrential rains - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQODhQNkJ4MWFEcW10NmIzZF9YaVNNY0ZDRDF4cmJ1Q3AwN3VxN2hzdUwxbzlYZm5Oalp5RDFqbktVRnlaZE9ReG53aEt0bUVqMjhVUVBna05wWTk2UWxLcGx1Qk9PNmlxLWV1U0RHRm9XcUtPTTZlTnZVSzhmZ1BKTlFoVWE2MU9qR3lxLTV5clJEdw?oc=5",
-        "description": "",
-        "pubDate": "2025-10-22T01:37:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "North Korea test-fires multiple ballistic missiles as APEC summit nears",
         "link": "https://www.aljazeera.com/news/2025/10/22/north-korea-fires-unidentified-ballistic-missiles-towards-east-sea-seoul?traffic_source=rss",
-        "description": "Experts warned N Korea could launch provocative missile tests before or during the upcoming APEC summit in South Korea.",
+        "description": "Experts warn N Korea could launch provocative missile tests before or during the upcoming APEC summit in South Korea.",
         "pubDate": "2025-10-22T01:13:57Z",
         "source": "aljazeera.com",
         "image": "",
@@ -574,6 +583,24 @@
     ],
     "Politics": [
       {
+        "title": "Some are 'cross' about Rayner, says council leader",
+        "link": "https://www.bbc.com/news/articles/cdrzxlendleo?at_medium=RSS&at_campaign=rss",
+        "description": "Eleanor Wills, who leads Labour-run Tameside Council, says some are \"crossed\" with their local MP.",
+        "pubDate": "2025-10-22T05:11:16Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f30b/live/b574c780-ae88-11f0-b0ec-2949909959e5.jpg",
+        "bias": 0
+      },
+      {
+        "title": "'My ex stalked me, the law needs to be better'",
+        "link": "https://www.bbc.com/news/articles/cy8v7d42lz0o?at_medium=RSS&at_campaign=rss",
+        "description": "Two victims share their experiences as the government announces a review into tackling stalking.",
+        "pubDate": "2025-10-22T05:06:57Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/318f/live/203573c0-adc2-11f0-9704-87425431ad41.jpg",
+        "bias": 0
+      },
+      {
         "title": "Trump pick to lead watchdog agency withdraws after offensive text messages revealed",
         "link": "https://www.npr.org/2025/10/21/nx-s1-5581714/paul-ingrassia-nomination-withdrawal",
         "description": "President Donald Trump 's pick to lead a federal watchdog agency withdrew from consideration Tuesday evening, after his offensive text messages were made public and GOP senators revolted.",
@@ -589,6 +616,15 @@
         "pubDate": "2025-10-22T02:22:20Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9904/live/74990b70-aec6-11f0-aac8-33fb9543690b.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Pemex pipeline spill contaminates Mexican river after torrential rains - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQODhQNkJ4MWFEcW10NmIzZF9YaVNNY0ZDRDF4cmJ1Q3AwN3VxN2hzdUwxbzlYZm5Oalp5RDFqbktVRnlaZE9ReG53aEt0bUVqMjhVUVBna05wWTk2UWxLcGx1Qk9PNmlxLWV1U0RHRm9XcUtPTTZlTnZVSzhmZ1BKTlFoVWE2MU9qR3lxLTV5clJEdw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-22T01:37:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       }
     ],
@@ -614,6 +650,15 @@
     ],
     "Science": [
       {
+        "title": "Fining firms for sewage spills will get 'quicker and easier', says government",
+        "link": "https://www.bbc.com/news/articles/c4gz7xyr2g7o?at_medium=RSS&at_campaign=rss",
+        "description": "The plans would see automatic fines for some offences and the burden of proof lowered for others.",
+        "pubDate": "2025-10-22T00:50:51Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2729/live/9a724150-ae93-11f0-b0ec-2949909959e5.jpg",
+        "bias": 0
+      },
+      {
         "title": "Prosecutors retreat after convicting a record-setting Grand Teton mountain runner in trail dispute - AP News",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMGZwaURCc2U2SzUyMGFHT0VKeEtPd0puVHByWG4wTG5udUhJdFpldXVYblVtX1QzdHFnaWZtYzl1cVVpUEFZWmVuVlMwWlEydkhEbE5Uc2N6TVBRSHRIVkJCcmNKT1VhUXZKYm9mdzEwcVBjSWh0SjRBMXVoVDlZeVhtcl9WZDRwSlpPaXg2SDdUbncwQml3emZWeFVsZ25jMmdsZmlEMnlOUkRzYVZMcQ?oc=5",
         "description": "",
@@ -625,12 +670,30 @@
     ],
     "Business": [
       {
+        "title": "What are the National Minimum Wage and National Living Wage and how much are they worth?",
+        "link": "https://www.bbc.com/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
+        "description": "Three and a half million low-paid workers across the UK benefit from minimum wage rates.",
+        "pubDate": "2025-10-22T07:08:56Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2639/live/ce1249e0-a9c2-11f0-8da2-811fba9518ff.jpg",
+        "bias": 0
+      },
+      {
         "title": "UK inflation rate lower than expected at 3.8%",
         "link": "https://www.bbc.com/news/articles/cdjryg38elzo?at_medium=RSS&at_campaign=rss",
         "description": "The Bank of England had forecast inflation to reach 4% in September.",
-        "pubDate": "2025-10-22T06:51:24Z",
+        "pubDate": "2025-10-22T07:08:47Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4289/live/62397290-ae89-11f0-b0ec-2949909959e5.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8727/live/2f9a3f50-af14-11f0-904a-f9028cea88d6.jpg",
+        "bias": 0
+      },
+      {
+        "title": "The £5.30 orange juice that tells the story of why supermarket prices are sky high",
+        "link": "https://www.bbc.com/news/articles/c397n3jl3z8o?at_medium=RSS&at_campaign=rss",
+        "description": "Butter, chocolate, coffee and milk have all seen prices rocket. Tracing back through the story of one particular supermarket staple begins to explain why",
+        "pubDate": "2025-10-22T06:58:17Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c624/live/674f7590-ab41-11f0-ba75-093eca1ac29b.jpg",
         "bias": 0
       },
       {
@@ -676,24 +739,6 @@
         "pubDate": "2025-10-22T03:21:44Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b35d/live/b89648d0-aef6-11f0-b91d-df3c161ea7b4.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Israeli settlers beat Palestinian farmers on video as attacks mount during West Bank olive harvest - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaDd2a1MwN3EyYjY2cTRzSDFUMzV4N3pWYmxMUnFpREZMZWNuUm92RUg4bmpCU2NDQVRBVjhnZmdMQWxsT2JTV2dERzJwTU5INW1SZjVPSER2NFgwdDFxM09md0F6eHloWVBycV9RTmZRdGphRmdRNWQ5XzlQSVlSUFZKS2dPZTJ5Z292X1hWejdla0FlUVlvNUdmMVdrazVNekhST093?oc=5",
-        "description": "",
-        "pubDate": "2025-10-22T02:48:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Fining firms for sewage spills will get 'quicker and easier', says government",
-        "link": "https://www.bbc.com/news/articles/c4gz7xyr2g7o?at_medium=RSS&at_campaign=rss",
-        "description": "The plans would see automatic fines for some offences and the burden of proof lowered for others.",
-        "pubDate": "2025-10-22T00:50:51Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2729/live/9a724150-ae93-11f0-b0ec-2949909959e5.jpg",
         "bias": 0
       }
     ],
