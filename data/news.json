@@ -1,7 +1,25 @@
 {
-  "lastUpdate": "2025-10-22T10:45:48.062368Z",
+  "lastUpdate": "2025-10-22T10:56:12.496054Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Connect Four (C++ Console) [Free] [Strategy] [Windows]",
+        "link": "https://mylescolemandev.itch.io/connect-four",
+        "description": "A simple implementation of the classic Connect Four game in C++ for the console.",
+        "pubDate": "2025-10-22T10:31:44Z",
+        "source": "mylescolemandev.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNzI2MjMzLnBuZw==/315x250%23c/clLyBv.png",
+        "bias": 0
+      },
+      {
+        "title": "Baleful Entity [Free] [Fighting]",
+        "link": "https://icethemallard.itch.io/baleful-entity",
+        "description": "INSTRUCTIONS in the description.",
+        "pubDate": "2025-10-22T10:29:38Z",
+        "source": "icethemallard.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNzI2MTA2LnBuZw==/315x250%23c/hWk1zv.png",
+        "bias": 0
+      },
       {
         "title": "Trompos Coches [Free] [Other] [Android]",
         "link": "https://kike-correa.itch.io/trompos-coches",
@@ -156,24 +174,6 @@
         "bias": 0
       },
       {
-        "title": "Slide and Spell [Free]",
-        "link": "https://bit8.itch.io/slide-and-spell",
-        "description": "word, puzzle, decrypt, typeshift",
-        "pubDate": "2025-10-22T08:25:24Z",
-        "source": "bit8.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzI1MjQ4LnBuZw==/315x250%23c/GAwrpB.png",
-        "bias": 0
-      },
-      {
-        "title": "Sakura-3D [Free]",
-        "link": "https://canmake.itch.io/sakura-3d",
-        "description": "",
-        "pubDate": "2025-10-22T08:09:52Z",
-        "source": "canmake.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzI1MDgxLmpwZw==/315x250%23c/2bxo1E.jpg",
-        "bias": 0
-      },
-      {
         "title": "Blaster Bros [Free] [Action]",
         "link": "https://chaddles.itch.io/blaster-bros",
         "description": "Bomberman clone created for coding practice",
@@ -230,7 +230,7 @@
       {
         "title": "RetrOEtch [Free] [Other] [Windows]",
         "link": "https://rough-puppies.itch.io/retroetch",
-        "description": "Etch and sketch pixel drawings with old school analog controls!",
+        "description": "Etch and Sketch Pixel Drawings With Old School Analog Controls!",
         "pubDate": "2025-10-22T00:50:12Z",
         "source": "rough-puppies.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNzI1NTc0LmpwZw==/315x250%23c/3NdArv.jpg",
@@ -238,6 +238,15 @@
       }
     ],
     "World": [
+      {
+        "title": "Video: Londoners join viral ‘Scream Squad’ to let off steam",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/10/22/video-londoners-join-viral-scream-squad-to-let-off-steam?traffic_source=rss",
+        "description": "Young people gathered in London for a collective “Scream Squad,” letting out a unified yell against the skyline.",
+        "pubDate": "2025-10-22T10:42:59Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "More than 40 dead after multi-vehicle crash in Uganda",
         "link": "https://www.bbc.com/news/articles/cgql9lwddw5o?at_medium=RSS&at_campaign=rss",
@@ -257,6 +266,15 @@
         "bias": 0
       },
       {
+        "title": "Who are the 95 Palestinian healthcare workers held captive by Israel?",
+        "link": "https://www.aljazeera.com/news/2025/10/22/who-are-the-95-palestinian-healthcare-workers-held-captive-by-israel?traffic_source=rss",
+        "description": "Israel continues to hold 80 Palestinian doctors and medical workers from Gaza and 15 from the occupied West Bank.",
+        "pubDate": "2025-10-22T10:31:43Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Louvre reopens three days after French crown jewels stolen",
         "link": "https://www.bbc.com/news/articles/c0exgrvw9gyo?at_medium=RSS&at_campaign=rss",
         "description": "The world's most-visited museum shut its doors after jewels worth tens of millions were stolen on Sunday.",
@@ -264,15 +282,6 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c8a/live/2018e690-af2c-11f0-b9f9-e5c1839c872f.jpg",
         "bias": 0
-      },
-      {
-        "title": "Shifting Roots: A Lebanese Woman’s Fight to Save Her Olive Trees",
-        "link": "https://www.aljazeera.com/video/digidocs/2025/10/22/aje-onl-shiftingroots_digidocs-221025?traffic_source=rss",
-        "description": "At 81, Nouhad fled her village in southern Lebanon as Israeli white phosphorus burned her olive trees and legacy.",
-        "pubDate": "2025-10-22T09:51:17Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       },
       {
         "title": "Pakistan navy seizes drugs worth nearly $1bn in the Arabian Sea",
@@ -284,31 +293,13 @@
         "bias": -1
       },
       {
-        "title": "Israel identifies two more hostages’ bodies as Vance meets Netanyahu - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ2haRGs5VTZGVl9zeWZydjhwOUg2MGpGLUFBdnliLVhDMUV2WFJTeWkwRzJHTm9xcjlTMmluRzBjVUYxQUJnTGpST2pVLUh4NkZfVE9UZ2VEU3kzTF9ZRWNTaFZ4eUxEZllsYmpEbC10Vl9jMEl0QzNGYVpmLVNCaGdzZWowa3NnVlpRM2tnanNXUXpqMzlaLVpWdFRxbDh5bGU1YWM4Y0Q?oc=5",
-        "description": "",
-        "pubDate": "2025-10-22T09:46:00Z",
-        "source": "news.google.com",
+        "title": "Shifting Roots: A Lebanese Woman’s Fight to Save Her Olive Trees",
+        "link": "https://www.aljazeera.com/video/digidocs/2025/10/22/aje-onl-shiftingroots_digidocs-221025?traffic_source=rss",
+        "description": "At 81, Nouhad fled her village in southern Lebanon as Israeli white phosphorus burned her olive trees and legacy.",
+        "pubDate": "2025-10-22T09:51:17Z",
+        "source": "aljazeera.com",
         "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Ukraine unveils upgraded sea drone it says can strike anywhere in the Black Sea - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM0g4UTZEYXpMZHRxZHAtUFlYVDh1NW9sdXFYTVZCTlBnNUlJT2QyOGpnaEFHbmtKU2k4RGppRE1HdktzaHJTV3BxU0J1VHlxX2RyX1BBS25VY1dhaE1meHZuVDM3dnVmVTcyakllTmx6cjZEbFRPXzhRUkwzNV9uNW1ETVd4UGVsRk9vTlZIamppVUk?oc=5",
-        "description": "",
-        "pubDate": "2025-10-22T09:31:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "At least 63 people killed in a crash of buses and other vehicles in western Uganda - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWnhOYWNITzJrOW91QWJHeEtPckVmdGtFbkJnaXUxdW5nWV91aHVGWnc0dG5vcjNwTlg2TWZFdjlTZ21iWjg2Q0VlVVg1c2lGWVQ5MXdoQVRob0hQejhjOWJJMkNHcmlVLURYbmljMkxKRnBWVjN4VWgxS094Y09GYmEtZVVwZnZaMElLcUtORlA0M0k?oc=5",
-        "description": "",
-        "pubDate": "2025-10-22T09:12:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
+        "bias": -1
       },
       {
         "title": "Vance says Gaza ceasefire is making progress despite weekend fighting",
@@ -320,9 +311,9 @@
         "bias": -1
       },
       {
-        "title": "Bus collision on highway near Uganda’s capital Kampala kills 63 people",
+        "title": "Collision involving multiple vehicles on Uganda highway kills 46 people",
         "link": "https://www.aljazeera.com/news/2025/10/22/bus-collision-on-highway-near-ugandas-capital-kampala-kills-63-people?traffic_source=rss",
-        "description": "Two buses travelling in opposite directions on the Kampala-Gulu Highway collided head-on while overtaking.",
+        "description": "Police initially gave the death toll as 63 but later revised figures for one of Uganda's worst road accidents.",
         "pubDate": "2025-10-22T08:30:44Z",
         "source": "aljazeera.com",
         "image": "",
@@ -354,15 +345,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "A massive Russian drone and missile attack on Ukraine kills at least 6 people, officials say - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTm5FR19KNWExamNFeVNpWjUxTjQ0UkZPZDhzc05WMW55ZllqMXhndkVGUnJqekJQZHJXRDg1S2FBMFJFM19NY3pYQTNSWDhKZk1tNjJLY2hsR1pxaWJBeXc1NWt5eGl6bENwVWttcEFrSkNDSjNRSzZjbWowb0h3V2dyYWV4ck9zb1QycjVlRnVVSEFRNTdGTVQxUWRvUQ?oc=5",
-        "description": "",
-        "pubDate": "2025-10-22T07:44:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Video: Peru declares 30-day state of emergency in Lima amid rising crime",
@@ -425,24 +407,6 @@
         "pubDate": "2025-10-22T06:40:28Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/991d/live/260fb4f0-af0b-11f0-a64c-7f94caf32c3e.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Taiwan reports its first case of African swine fever - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd05tZnFQWnhyMGJnRGVDY3pwQk53TWtoT255UlA2enFEZmVhdEpFaWVlXzBZN3ZPZzh0T2J0TnJmc2dCcldpWGhDVF9DNDVHR2xOSnpKNW1vTFZyUTRWNlRlazBDWF91NERvaTZSSnJMb0JXaVZHWGRNNWRSRU5aM1RxZjZtdWd1QWN0dVYzeXZ4V2JORDY0Y3pTb0JUT0U?oc=5",
-        "description": "",
-        "pubDate": "2025-10-22T06:36:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Top UN court to rule on Israel’s obligations to ensure humanitarian aid reaches Palestinians - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN3ppYlFKWUV6a0g1NDNGckZ1ZTBRazd3dl9xbnlLNzZOcEluX1BsTTRMSTVDOVJoQlZmcWZ5THZCbGtQcTFEeGtxS1NOeUwyR2xzaDFMY0YwSkctaGtDQnpaS0R3VURyc0czd09pUVJCcmhxR2dfSG8xbGxPb1N2aEN1NGh6ZnhBZjhZQkJ6MWFtVnBtbnNBM2FBRjVrTHNfakE?oc=5",
-        "description": "",
-        "pubDate": "2025-10-22T06:18:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -509,15 +473,6 @@
         "bias": -1
       },
       {
-        "title": "Western Balkans leaders meet in London for talks on migration and security - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTUNwUVhkbXNMOHhQeVo1c09WRDB5TTNRWUJnam5tVWJHaWdhZGNtd0Rvblg2WU5KWWs3R2N6T2NmaE90a3pPbU9SZVcwSGZDaTQ1M3Q3eGpyR2MzLUU0Wk1qbjVQWUY2NWwzdUF6Um5EYWRyUXVPUmdXY0ZQWUQ0djhVUUZmY21mcmdwRjNteVR6TXBqOWdKX1kxbw?oc=5",
-        "description": "",
-        "pubDate": "2025-10-22T04:28:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "AI models misrepresent news events nearly half the time, study says",
         "link": "https://www.aljazeera.com/economy/2025/10/22/ai-models-misrepresent-news-events-nearly-half-the-time-study-says?traffic_source=rss",
         "description": "According to the research, 45 percent of responses to questions about the news had at least one 'significant' issue.",
@@ -525,15 +480,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Youth anger in Ivory Coast as the 83-year-old president seeks a fourth term - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeTBpV3o4SThHV2JGdngwNXAzR3Zqcl8wbGh6TVNweEVxODd6MHh1NjlpSV9FdHBKbXBNQkRKaU9JVmlubHhxbGNUR25SazJXX043ZEVzYkNlbWR3VmNIb3phby0wTmU5cWU2LW5INjhOQXNkaWZfOU9vYWJ6U0ZOd0xkUFdtMmtIeHhoOHY3U3JmZS15djAtMDViaU5rdw?oc=5",
-        "description": "",
-        "pubDate": "2025-10-22T04:07:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "China accuses Australia of covering up South China Sea airspace incursion",
@@ -545,66 +491,12 @@
         "bias": -1
       },
       {
-        "title": "Opening statements Wednesday in trial of ex-Illinois officer who killed Sonya Massey - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTGJLSUxBQ1RMeEdkS25nTDdGX3U4dUVndEQ2c1g2Z0VuMFRlX2xrX2Y1cVRsazhCXzZ6bzRITDI2Uk9LN3dfSGVCV2NkNU52RktJMmlCb0ZXTVYtV0Q3LWtqclVZTE1WUkRVV2oxOTBkWXRKWTFYeU5BeEp3N0pXZlNSRUFxZ25JbXZaUk5PWjFuVDZaRm9kTllLd3dRNENiTU43NTRvaU0zLUE?oc=5",
-        "description": "",
-        "pubDate": "2025-10-22T04:02:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Prince Harry, Meghan join call for ban on development of AI ‘superintelligence’ - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNelE4UmZpOE54ZWZwTkNYTU5mVlVyVXJyb2pzMkN0dzU2d2tHTjRBdXlQRlpPUkRSVF9YQ1JacXRvSEdCY0VmYkY1WDdHUGtLa3Z6a0VJNVNjOXItS0RMWXBMLXEtTnNybXlIR0hyejVNVm9Rb0NkN3B0Wk1QT2syemw2NW9pV0szSkRrc0lLZkZkMDRKdVdQV2c3NDZ6RXk4dk0xWWFhS3NZeUx4SGc5ejVR?oc=5",
-        "description": "",
-        "pubDate": "2025-10-22T04:01:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Israel identifies bodies of two hostages returned by Hamas",
         "link": "https://www.bbc.com/news/articles/cd675jygwp1o?at_medium=RSS&at_campaign=rss",
         "description": "The recovery of Arie Zalmanowicz and Tamir Adar's remains means Hamas has returned 15 of the 28 deceased hostages held in Gaza before the ceasefire.",
         "pubDate": "2025-10-22T03:58:08Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47e8/live/2e2c5010-af17-11f0-aa13-0b0479f6f42a.png",
-        "bias": 0
-      },
-      {
-        "title": "Boston fans still love ‘Little Ball of Hate’ Brad Marchand. The feeling is mutual - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa3NiMlFYRThlQlJMZ3VyTTNqcU5STENQWnNDenNUWG53MWZsSGpYeEdNWUU1eTVRVVBIaER2bjRGSUJfM09mWFN6NmZIMVlQRFFEWl9LWjdKTkFqX0d3em16SjRTSWgzVTdrdThzNHBMZVgtcy1HU05LTUdMZjdQQkpvWVQ3Vmk4SVNZNXY0a3ZIXzQ?oc=5",
-        "description": "",
-        "pubDate": "2025-10-22T03:44:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Alabama board seeks to ban books that 'positively' depict trans themes from library youth sections - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZlhJRWNXeHRLYUxra3hfUGc2bDJXaDFEWHNrUDhjSFJxSzdKbkdvWXk5OEhCeWd2OHVIZVNFM3Jwc2JBcVp4c0c2MS1pa0Y5bWpvdDRNckJ5THJMREpxTzJ0UEhwZHRHdkE2TGhpVFVMZnZaTUw0M1hrZGZqZlRwRkg4ZGlGMUVmTlpGMFQzV0dNX1V6cTVubmRXUm1QN3I2cHVJaFZOaHBkNHI3aFctWnBiclc?oc=5",
-        "description": "",
-        "pubDate": "2025-10-22T03:03:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Vance is optimistic about Gaza ceasefire but notes ‘very hard’ work to come - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOODVsbjM5enViaDZvMU1QUzdRMnd3RXl1Ti1qa0l0Wk5JMVhqM1N2Y1NQQXFDM3BHaXAzUjVCVEFycWJDMURDZk1UaU1RRUp1R1NFbXd3cG9TUnEtLWRaSm1SbWNOQUZPU0hjSTNoTENiQ1FjbDlnRmNVenA1WnJTSFQwdk1NNjdaNGF0WVA0UExPdmFDM3Vaa21UYkxzOVVwaEpYaEY0c3c?oc=5",
-        "description": "",
-        "pubDate": "2025-10-22T02:46:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Chess grandmaster Daniel Naroditsky is remembered as a leader in the game's online surge - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZjJWQkt1bzBJOUYxRF9WbkpOd0dEWXAyOFRzUzc2RmFaSGc2TGNXZEk3N01JMlRLYWpiSlRyMGdyYjFNQVRkdDVmWVVSbkt4X2ZibHJPSTFGYWNxOWk4Rm56eEVqSkJxWmFVSFNDTmI2aEtnWVZ1dXBESDFScTY5YTRqRWJhOFZBX0lYNERIYjlNdkc1WXZYZnV6cw?oc=5",
-        "description": "",
-        "pubDate": "2025-10-22T02:44:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -626,42 +518,6 @@
         "bias": -1
       },
       {
-        "title": "Maine Democrat Platner, on defense over tattoo, takes page from Trump playbook to keep up Senate bid - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb3doaG1IZGsxeE1aNEMwX1B6cFQ5bXhWMXlIRm5lSS1vM3JjNXhsYS1fd3RxVFpHWlRqY1c4cFUtNE9JOFd6YUM0Y053VFV5TDM1NFYxU0tnSjV5RHdfMXNRWUR3M19RNjZlZXNwQmUtM3owQXpXcjVlWmhLVnpuLTdKSnZReVNSdzN1UTFaRENrdzYxNWNyeEZSakFOQnJ0UzNEaXV6OXNKT3c?oc=5",
-        "description": "",
-        "pubDate": "2025-10-22T01:04:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Things to know about Nicolas Sarkozy, France's new prison inmate who used to be president - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb0V1YThfcmIwZGhfWTVtQkJDUi1SS1FnWkRBWmdoX0NwZmQ4NWt5ZG1HNDh4bkhkZzMyWGMxckRFby03ZGFFbjRjOE1sXzlTeFN3RTFQRE5DN2RzVjA1OU9GQm55WFZKd1dRUm1uWDh1aEpVSWxYSHhpMmFHd0J0NXgwdWJLcmtlQmx3ZW5hQVl5QmQ5bEduSHd6NXpVVlA0VEFoZUQ4MDI?oc=5",
-        "description": "",
-        "pubDate": "2025-10-22T00:52:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "What to know about the $250 million ballroom Trump is adding to the White House - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcTlmUzQwbTljODhjbWV0OWtkMGJ4Yko0V0xrWDg5Y1RIcW5QOWNabXJ3TUxfRXBQWTBzcXhUQTg0dkUtVThyVjVYNUdoTGpYSEFRU2pKM3h0LTRRb3VOU1oybmdvVHRYTzFBdGZrRkxtZmlpQ3FxRUdBVXZRMTBnTXFoam1HWXRCWndDSlV2WjZSbm45SjdOWUk0UTgyMGNuSklNdTMzUHM?oc=5",
-        "description": "",
-        "pubDate": "2025-10-22T00:39:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Trump doesn’t want ‘wasted meeting’ with Putin as he confirms talks on Ukraine war are off for now - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaGpNcTVNSjJYcm1sLWVQc2ZpTDNoWHE2TXRuX1VqNUhyS2dBTk1odU9FY1hZa0lNUnJxcjZJMkNHbVFDZkxkMklhN3BOZkhuZDRIV1Jud3FzYnZYTndhVzNKTkJGNV9MS0wyMHRmXzYtNE5qOGpRdnpYQjg2OW9GX3RXQVdCNjVUX1BKLUJYN1NPWDhR?oc=5",
-        "description": "",
-        "pubDate": "2025-10-22T00:38:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Russia-Ukraine war: List of key events, day 1,336",
         "link": "https://www.aljazeera.com/news/2025/10/22/russia-ukraine-war-list-of-key-events-day-1336?traffic_source=rss",
         "description": "Here are the key events from day 1,336 of Russia’s war on Ukraine.",
@@ -669,24 +525,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Thunder receive NBA championship rings, raise banner before season opener against Rockets - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX180N011cUVXa3J4c1ZMYU1hVjdoUDRqbmtMS1ZBdDVpeGNxMnBwZ01yZnB5TEV5QW12cTJWQVl4SnpCenVGcTBkMHdtOS1SeWwwT3ROak0zOWlVY0pOaHFHSGw0bU5wcXhRRm1PUnBVNUQ4WUwzMmhxaGdRa0VwZHJ0bVJ0dWNNZFVnOThncWFyZU94?oc=5",
-        "description": "",
-        "pubDate": "2025-10-22T00:21:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Federal prosecutors charge man accused of threatening to shoot up Atlanta airport - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVXgwSVpfbnRGc3BzVWxJT2xVbzNaY05vVFpUbkZvMVdOUU0xRlNSRmdwaDVoaktYZGVsWHFGaXliR3ZmdDZ1bXZidDNMaS1vbmRPQVE3S0FiLVlUOFFBeDN0VTRDTFRTWkxWR2NHbEJSSTlxdXlKRTJLS0pVR2pGUi1RQUgyWjVEcXhaVVZpTQ?oc=5",
-        "description": "",
-        "pubDate": "2025-10-22T00:14:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
@@ -706,6 +544,24 @@
         "pubDate": "2025-10-22T09:52:40Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8727/live/2f9a3f50-af14-11f0-904a-f9028cea88d6.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Israel identifies two more hostages’ bodies as Vance meets Netanyahu - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ2haRGs5VTZGVl9zeWZydjhwOUg2MGpGLUFBdnliLVhDMUV2WFJTeWkwRzJHTm9xcjlTMmluRzBjVUYxQUJnTGpST2pVLUh4NkZfVE9UZ2VEU3kzTF9ZRWNTaFZ4eUxEZllsYmpEbC10Vl9jMEl0QzNGYVpmLVNCaGdzZWowa3NnVlpRM2tnanNXUXpqMzlaLVpWdFRxbDh5bGU1YWM4Y0Q?oc=5",
+        "description": "",
+        "pubDate": "2025-10-22T09:46:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Ukraine unveils upgraded sea drone it says can strike anywhere in the Black Sea - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM0g4UTZEYXpMZHRxZHAtUFlYVDh1NW9sdXFYTVZCTlBnNUlJT2QyOGpnaEFHbmtKU2k4RGppRE1HdktzaHJTV3BxU0J1VHlxX2RyX1BBS25VY1dhaE1meHZuVDM3dnVmVTcyakllTmx6cjZEbFRPXzhRUkwzNV9uNW1ETVd4UGVsRk9vTlZIamppVUk?oc=5",
+        "description": "",
+        "pubDate": "2025-10-22T09:31:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -763,6 +619,15 @@
         "bias": 0
       },
       {
+        "title": "A massive Russian drone and missile attack on Ukraine kills at least 6 people, officials say - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTm5FR19KNWExamNFeVNpWjUxTjQ0UkZPZDhzc05WMW55ZllqMXhndkVGUnJqekJQZHJXRDg1S2FBMFJFM19NY3pYQTNSWDhKZk1tNjJLY2hsR1pxaWJBeXc1NWt5eGl6bENwVWttcEFrSkNDSjNRSzZjbWowb0h3V2dyYWV4ck9zb1QycjVlRnVVSEFRNTdGTVQxUWRvUQ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-22T07:44:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "When is the Budget and what might be in it?",
         "link": "https://www.bbc.com/news/articles/cj4w44w42j5o?at_medium=RSS&at_campaign=rss",
         "description": "Chancellor Rachel Reeves will set out her economic plans in her second Budget on 26 November.",
@@ -781,10 +646,28 @@
         "bias": 0
       },
       {
+        "title": "Taiwan reports its first case of African swine fever - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd05tZnFQWnhyMGJnRGVDY3pwQk53TWtoT255UlA2enFEZmVhdEpFaWVlXzBZN3ZPZzh0T2J0TnJmc2dCcldpWGhDVF9DNDVHR2xOSnpKNW1vTFZyUTRWNlRlazBDWF91NERvaTZSSnJMb0JXaVZHWGRNNWRSRU5aM1RxZjZtdWd1QWN0dVYzeXZ4V2JORDY0Y3pTb0JUT0U?oc=5",
+        "description": "",
+        "pubDate": "2025-10-22T06:36:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Immigration agents shot a suspect after he rammed their vehicle during a LA stop, DHS says - AP News",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdzNlU0k3YkY0aE8yV25rTm13aVc5QzBkdmxic2J4M0FBY2t6c0d3VnN3aU1DeU5hLTZXcHpuZ2h0OXJuU1VBV3FOQ2toT3UzTnRZaEFHUlFxMWZqU0hPaHdWblpRMzBQUVdSZjdKdVJPdXJTMzBSN01XeklpV2hFNnEwblRKSTBnRC0tTnU1bDdkM2p0RkVBamk1Z2J6MlE?oc=5",
         "description": "",
         "pubDate": "2025-10-22T06:25:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Top UN court to rule on Israel’s obligations to ensure humanitarian aid reaches Palestinians - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN3ppYlFKWUV6a0g1NDNGckZ1ZTBRazd3dl9xbnlLNzZOcEluX1BsTTRMSTVDOVJoQlZmcWZ5THZCbGtQcTFEeGtxS1NOeUwyR2xzaDFMY0YwSkctaGtDQnpaS0R3VURyc0czd09pUVJCcmhxR2dfSG8xbGxPb1N2aEN1NGh6ZnhBZjhZQkJ6MWFtVnBtbnNBM2FBRjVrTHNfakE?oc=5",
+        "description": "",
+        "pubDate": "2025-10-22T06:18:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -799,19 +682,73 @@
         "bias": 0
       },
       {
+        "title": "Youth anger in Ivory Coast as the 83-year-old president seeks a fourth term - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeTBpV3o4SThHV2JGdngwNXAzR3Zqcl8wbGh6TVNweEVxODd6MHh1NjlpSV9FdHBKbXBNQkRKaU9JVmlubHhxbGNUR25SazJXX043ZEVzYkNlbWR3VmNIb3phby0wTmU5cWU2LW5INjhOQXNkaWZfOU9vYWJ6U0ZOd0xkUFdtMmtIeHhoOHY3U3JmZS15djAtMDViaU5rdw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-22T04:07:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Opening statements Wednesday in trial of ex-Illinois officer who killed Sonya Massey - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTGJLSUxBQ1RMeEdkS25nTDdGX3U4dUVndEQ2c1g2Z0VuMFRlX2xrX2Y1cVRsazhCXzZ6bzRITDI2Uk9LN3dfSGVCV2NkNU52RktJMmlCb0ZXTVYtV0Q3LWtqclVZTE1WUkRVV2oxOTBkWXRKWTFYeU5BeEp3N0pXZlNSRUFxZ25JbXZaUk5PWjFuVDZaRm9kTllLd3dRNENiTU43NTRvaU0zLUE?oc=5",
+        "description": "",
+        "pubDate": "2025-10-22T04:02:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Prince Harry, Meghan join call for ban on development of AI ‘superintelligence’ - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNelE4UmZpOE54ZWZwTkNYTU5mVlVyVXJyb2pzMkN0dzU2d2tHTjRBdXlQRlpPUkRSVF9YQ1JacXRvSEdCY0VmYkY1WDdHUGtLa3Z6a0VJNVNjOXItS0RMWXBMLXEtTnNybXlIR0hyejVNVm9Rb0NkN3B0Wk1QT2syemw2NW9pV0szSkRrc0lLZkZkMDRKdVdQV2c3NDZ6RXk4dk0xWWFhS3NZeUx4SGc5ejVR?oc=5",
+        "description": "",
+        "pubDate": "2025-10-22T04:01:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Trump pick to lead watchdog agency withdraws after offensive text messages revealed",
         "link": "https://www.npr.org/2025/10/21/nx-s1-5581714/paul-ingrassia-nomination-withdrawal",
-        "description": "President Donald Trump 's pick to lead a federal watchdog agency withdrew from consideration Tuesday evening, after his offensive text messages were made public and GOP senators revolted.",
+        "description": "President Trump's pick to lead a federal watchdog agency withdrew from consideration Tuesday evening after his offensive text messages were made public and GOP senators revolted.",
         "pubDate": "2025-10-22T03:49:17Z",
         "source": "npr.org",
         "image": "",
         "bias": -1
       },
       {
+        "title": "Boston fans still love ‘Little Ball of Hate’ Brad Marchand. The feeling is mutual - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa3NiMlFYRThlQlJMZ3VyTTNqcU5STENQWnNDenNUWG53MWZsSGpYeEdNWUU1eTVRVVBIaER2bjRGSUJfM09mWFN6NmZIMVlQRFFEWl9LWjdKTkFqX0d3em16SjRTSWgzVTdrdThzNHBMZVgtcy1HU05LTUdMZjdQQkpvWVQ3Vmk4SVNZNXY0a3ZIXzQ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-22T03:44:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "New Jersey Republicans ask for federal monitors in critical county ahead of governor's election - AP News",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQTYyTGd3VnRLekNwd20yUFloVTdkdkJPaG9BVnlTQlVLTm1uclFBMlhSbW56OWd5MkUxREFfczZXb0RNZ0tSY2tNYW03NW51SHRya0pSTVY4dFhKZnlwRDFZUVJ3bHQwcEktNTFoTVRrbXZ5ajNZMG92VXg1SDZZVFBPaXRBeUtocVNJd0k3aFNPUDdNVTN5emI3LWdRNENib0lObzQ5OA?oc=5",
         "description": "",
         "pubDate": "2025-10-22T02:48:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Vance is optimistic about Gaza ceasefire but notes ‘very hard’ work to come - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOODVsbjM5enViaDZvMU1QUzdRMnd3RXl1Ti1qa0l0Wk5JMVhqM1N2Y1NQQXFDM3BHaXAzUjVCVEFycWJDMURDZk1UaU1RRUp1R1NFbXd3cG9TUnEtLWRaSm1SbWNOQUZPU0hjSTNoTENiQ1FjbDlnRmNVenA1WnJTSFQwdk1NNjdaNGF0WVA0UExPdmFDM3Vaa21UYkxzOVVwaEpYaEY0c3c?oc=5",
+        "description": "",
+        "pubDate": "2025-10-22T02:46:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Chess grandmaster Daniel Naroditsky is remembered as a leader in the game's online surge - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZjJWQkt1bzBJOUYxRF9WbkpOd0dEWXAyOFRzUzc2RmFaSGc2TGNXZEk3N01JMlRLYWpiSlRyMGdyYjFNQVRkdDVmWVVSbkt4X2ZibHJPSTFGYWNxOWk4Rm56eEVqSkJxWmFVSFNDTmI2aEtnWVZ1dXBESDFScTY5YTRqRWJhOFZBX0lYNERIYjlNdkc1WXZYZnV6cw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-22T02:44:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -862,10 +799,28 @@
         "bias": 0
       },
       {
+        "title": "Maine Democrat Platner, on defense over tattoo, takes page from Trump playbook to keep up Senate bid - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb3doaG1IZGsxeE1aNEMwX1B6cFQ5bXhWMXlIRm5lSS1vM3JjNXhsYS1fd3RxVFpHWlRqY1c4cFUtNE9JOFd6YUM0Y053VFV5TDM1NFYxU0tnSjV5RHdfMXNRWUR3M19RNjZlZXNwQmUtM3owQXpXcjVlWmhLVnpuLTdKSnZReVNSdzN1UTFaRENrdzYxNWNyeEZSakFOQnJ0UzNEaXV6OXNKT3c?oc=5",
+        "description": "",
+        "pubDate": "2025-10-22T01:04:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "New York police seek woman for questioning after baby is abandoned at Penn Station subway stop - AP News",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM2pBR3UyMUVITzl1a3FFeVdza2VtYUVpaHpFdGxDMW05V251R2dqRTl6YzVpSzVuSi1RNFYwczFETmhveldXdkZzOUFoaFNyMDB2SV9ZaHFDd25CdVkzQXQtT1hIYUI3Y1RlNEx3S3F6b2o2YmFtVzN2cGttR2ptOHJlaDRjTTdCYlBoNVpZemcta2RFMmI1Zy1Jdw?oc=5",
         "description": "",
         "pubDate": "2025-10-22T00:56:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Things to know about Nicolas Sarkozy, France's new prison inmate who used to be president - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb0V1YThfcmIwZGhfWTVtQkJDUi1SS1FnWkRBWmdoX0NwZmQ4NWt5ZG1HNDh4bkhkZzMyWGMxckRFby03ZGFFbjRjOE1sXzlTeFN3RTFQRE5DN2RzVjA1OU9GQm55WFZKd1dRUm1uWDh1aEpVSWxYSHhpMmFHd0J0NXgwdWJLcmtlQmx3ZW5hQVl5QmQ5bEduSHd6NXpVVlA0VEFoZUQ4MDI?oc=5",
+        "description": "",
+        "pubDate": "2025-10-22T00:52:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -878,9 +833,45 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2729/live/9a724150-ae93-11f0-b0ec-2949909959e5.jpg",
         "bias": 0
+      },
+      {
+        "title": "What to know about the $250 million ballroom Trump is adding to the White House - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcTlmUzQwbTljODhjbWV0OWtkMGJ4Yko0V0xrWDg5Y1RIcW5QOWNabXJ3TUxfRXBQWTBzcXhUQTg0dkUtVThyVjVYNUdoTGpYSEFRU2pKM3h0LTRRb3VOU1oybmdvVHRYTzFBdGZrRkxtZmlpQ3FxRUdBVXZRMTBnTXFoam1HWXRCWndDSlV2WjZSbm45SjdOWUk0UTgyMGNuSklNdTMzUHM?oc=5",
+        "description": "",
+        "pubDate": "2025-10-22T00:39:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Trump doesn’t want ‘wasted meeting’ with Putin as he confirms talks on Ukraine war are off for now - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaGpNcTVNSjJYcm1sLWVQc2ZpTDNoWHE2TXRuX1VqNUhyS2dBTk1odU9FY1hZa0lNUnJxcjZJMkNHbVFDZkxkMklhN3BOZkhuZDRIV1Jud3FzYnZYTndhVzNKTkJGNV9MS0wyMHRmXzYtNE5qOGpRdnpYQjg2OW9GX3RXQVdCNjVUX1BKLUJYN1NPWDhR?oc=5",
+        "description": "",
+        "pubDate": "2025-10-22T00:38:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Federal prosecutors charge man accused of threatening to shoot up Atlanta airport - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVXgwSVpfbnRGc3BzVWxJT2xVbzNaY05vVFpUbkZvMVdOUU0xRlNSRmdwaDVoaktYZGVsWHFGaXliR3ZmdDZ1bXZidDNMaS1vbmRPQVE3S0FiLVlUOFFBeDN0VTRDTFRTWkxWR2NHbEJSSTlxdXlKRTJLS0pVR2pGUi1RQUgyWjVEcXhaVVZpTQ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-22T00:14:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Tech": [
+      {
+        "title": "At least 63 people killed in a crash of buses and other vehicles in western Uganda - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWnhOYWNITzJrOW91QWJHeEtPckVmdGtFbkJnaXUxdW5nWV91aHVGWnc0dG5vcjNwTlg2TWZFdjlTZ21iWjg2Q0VlVVg1c2lGWVQ5MXdoQVRob0hQejhjOWJJMkNHcmlVLURYbmljMkxKRnBWVjN4VWgxS094Y09GYmEtZVVwZnZaMElLcUtORlA0M0k?oc=5",
+        "description": "",
+        "pubDate": "2025-10-22T09:12:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "The Louvre reopens 3 days after thieves took French crown jewels in daylight heist - AP News",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZUhWSGNYYzlFT3J6bXExUEtRbGhEVWN5NXREcDFRWi10YVpvRm5ETmlpdkRveXZpZG9nRUxra1N4cm9jR0tGOGdTRUJTWDdOaWtEYU9yeUZNNm5jUFpubFF1RTkxdzhRN0ZPRHViVkQ2ZkV0RnBSOHlleG5WWG4tOUJhSWN0akZWVko5TVowNDNJTm1pVldZ?oc=5",
@@ -897,6 +888,15 @@
         "pubDate": "2025-10-22T06:25:01Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6600/live/273a3bc0-aeca-11f0-bc68-5523b100fc80.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Western Balkans leaders meet in London for talks on migration and security - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTUNwUVhkbXNMOHhQeVo1c09WRDB5TTNRWUJnam5tVWJHaWdhZGNtd0Rvblg2WU5KWWs3R2N6T2NmaE90a3pPbU9SZVcwSGZDaTQ1M3Q3eGpyR2MzLUU0Wk1qbjVQWUY2NWwzdUF6Um5EYWRyUXVPUmdXY0ZQWUQ0djhVUUZmY21mcmdwRjNteVR6TXBqOWdKX1kxbw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-22T04:28:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -918,10 +918,28 @@
         "bias": 0
       },
       {
+        "title": "Alabama board seeks to ban books that 'positively' depict trans themes from library youth sections - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZlhJRWNXeHRLYUxra3hfUGc2bDJXaDFEWHNrUDhjSFJxSzdKbkdvWXk5OEhCeWd2OHVIZVNFM3Jwc2JBcVp4c0c2MS1pa0Y5bWpvdDRNckJ5THJMREpxTzJ0UEhwZHRHdkE2TGhpVFVMZnZaTUw0M1hrZGZqZlRwRkg4ZGlGMUVmTlpGMFQzV0dNX1V6cTVubmRXUm1QN3I2cHVJaFZOaHBkNHI3aFctWnBiclc?oc=5",
+        "description": "",
+        "pubDate": "2025-10-22T03:03:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Guatemala passes anti-gang law, declares gangs terrorist groups - AP News",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaXZyZnUtdjRvWHpCNHh6RkM5eGNZZUZjZDBuYnBRdFNkZ2hocUV3ZktWcDIxTUZHYWN3S3RFaXdGWkxGZUFsaXlpM2NrRF9mRnlhczJiakwzS1BsT3JkM2pJaEQ1R2o2QUNPdVE1cWJxWFpfUWRUTmx4QnVtdjhaSWhHZGhLLTlBcFpuWUVnMTZUbVVKQmVKMg?oc=5",
         "description": "",
         "pubDate": "2025-10-22T02:18:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Thunder receive NBA championship rings, raise banner before season opener against Rockets - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX180N011cUVXa3J4c1ZMYU1hVjdoUDRqbmtMS1ZBdDVpeGNxMnBwZ01yZnB5TEV5QW12cTJWQVl4SnpCenVGcTBkMHdtOS1SeWwwT3ROak0zOWlVY0pOaHFHSGw0bU5wcXhRRm1PUnBVNUQ4WUwzMmhxaGdRa0VwZHJ0bVJ0dWNNZFVnOThncWFyZU94?oc=5",
+        "description": "",
+        "pubDate": "2025-10-22T00:21:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -963,9 +981,27 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "Prosecutors retreat after convicting a record-setting Grand Teton mountain runner in trail dispute - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMGZwaURCc2U2SzUyMGFHT0VKeEtPd0puVHByWG4wTG5udUhJdFpldXVYblVtX1QzdHFnaWZtYzl1cVVpUEFZWmVuVlMwWlEydkhEbE5Uc2N6TVBRSHRIVkJCcmNKT1VhUXZKYm9mdzEwcVBjSWh0SjRBMXVoVDlZeVhtcl9WZDRwSlpPaXg2SDdUbncwQml3emZWeFVsZ25jMmdsZmlEMnlOUkRzYVZMcQ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-22T00:35:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Business": [
+      {
+        "title": "Eurostar orders first double-decker trains",
+        "link": "https://www.bbc.com/news/articles/cz6n1w80z1zo?at_medium=RSS&at_campaign=rss",
+        "description": "They would be the first two-level high-speed trains to run through the Channel Tunnel.",
+        "pubDate": "2025-10-22T10:46:35Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd1a/live/5ec87ba0-ae71-11f0-98ab-6747e2555fbd.jpg",
+        "bias": 0
+      },
       {
         "title": "Why is UK inflation still high?",
         "link": "https://www.bbc.com/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
@@ -1000,15 +1036,6 @@
         "pubDate": "2025-10-22T09:38:15Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1582/live/8e71e720-a425-11f0-ba96-81d873a15aec.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Eurostar orders first double-decker trains",
-        "link": "https://www.bbc.com/news/articles/cz6n1w80z1zo?at_medium=RSS&at_campaign=rss",
-        "description": "They would be the first two-level high-speed trains to run through the Channel Tunnel.",
-        "pubDate": "2025-10-22T09:29:03Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd1a/live/5ec87ba0-ae71-11f0-98ab-6747e2555fbd.jpg",
         "bias": 0
       },
       {
