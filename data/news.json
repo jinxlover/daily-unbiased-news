@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-10-22T22:46:59.785163Z",
+  "lastUpdate": "2025-10-22T22:57:06.801467Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Godot 1 - Spring 2025 [Free] [Windows]",
+        "link": "https://the-fia.itch.io/godot-1-spring-2025",
+        "description": "- Ducknado Chaser",
+        "pubDate": "2025-10-22T22:51:09Z",
+        "source": "the-fia.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNzM0MDU0LnBuZw==/315x250%23c/cnZazY.png",
+        "bias": 0
+      },
       {
         "title": "Camino a la Libertad [Free] [Educational]",
         "link": "https://tecnopm.itch.io/camino-a-la-libertad",
@@ -9,6 +18,15 @@
         "pubDate": "2025-10-22T22:42:26Z",
         "source": "tecnopm.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNzMzOTU2LnBuZw==/315x250%23c/RTP4or.png",
+        "bias": 0
+      },
+      {
+        "title": "Boba Fett Trabajo Practico [Free]",
+        "link": "https://gamemaria.itch.io/boba-tp",
+        "description": "",
+        "pubDate": "2025-10-22T22:42:19Z",
+        "source": "gamemaria.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNzMzOTYxLmpwZw==/315x250%23c/KHHFLY.jpg",
         "bias": 0
       },
       {
@@ -237,15 +255,6 @@
         "bias": 0
       },
       {
-        "title": "Emberfield Ranch [Free] [Platformer]",
-        "link": "https://drunkengoatdev.itch.io/emberfield-ranch",
-        "description": "",
-        "pubDate": "2025-10-22T20:38:09Z",
-        "source": "drunkengoatdev.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzMyNDc1LnBuZw==/315x250%23c/mjyW5%2B.png",
-        "bias": 0
-      },
-      {
         "title": "Chaya [Free] [Adventure] [Windows]",
         "link": "https://leto-du-plessis.itch.io/chaya",
         "description": "A short cosmic horror adventure!",
@@ -261,24 +270,6 @@
         "pubDate": "2025-10-22T20:37:45Z",
         "source": "lancetheinvisiblehorse.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNzMzNDYwLnBuZw==/315x250%23c/UE3MDa.png",
-        "bias": 0
-      },
-      {
-        "title": "El Ultimo Heredero [Free] [Platformer]",
-        "link": "https://belayala.itch.io/el-ultimo-heredero",
-        "description": "Una aventura de fuego, espíritu y destino. Acompañá a Tao en su viaje para liberar a su tribu.",
-        "pubDate": "2025-10-22T20:29:35Z",
-        "source": "belayala.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzMzMjYwLnBuZw==/315x250%23c/FrJYul.png",
-        "bias": 0
-      },
-      {
-        "title": "Deepwater [Free] [Adventure]",
-        "link": "https://willleitner.itch.io/deepwater",
-        "description": "",
-        "pubDate": "2025-10-22T19:43:48Z",
-        "source": "willleitner.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzMyNDg5LnBuZw==/315x250%23c/E%2FBxun.png",
         "bias": 0
       },
       {
@@ -306,6 +297,15 @@
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vU1laYnJwUUtvb2JhYldoZWpFMWdacFRXeEw1S0tSRnR6ZHRtay1BOEV4TDFxZS1vY0YtempUTllIcU1TWFhOS0czVFdnZVZmYmd5NEtkck9maDVqZEhYV2N1NDJvUW5kV0llcw?oc=5",
         "description": "",
         "pubDate": "2025-10-22T22:44:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "California National Guard to support food banks due to expected food assistance delays - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcm9TbzJUWWNTYXRmZXE2bWxpaS0xUkUwcTg2VVNoNkNqRkZqM0dNQmRjNEhhLXJHRm52b2FWYm9PRWVfdUN1RzE3RV9GaTdLdzBxOHZ5bGlDOGVTWER6RjkxUWdxRTRvRzdRTnpsMHJaY09PR3ZKb09Ia25VSjN1ZXU1TkNJd29ZZjV0MDZyX1VBdHp1WTFXVHhwNlBJQTFXMkJ4YXJOQ2R3MnhkSmRYaTF3?oc=5",
+        "description": "",
+        "pubDate": "2025-10-22T22:20:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -351,6 +351,15 @@
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRHdLUDJHa3pkdTA0WW1nM0ZjMElWRDJDRnNFdllER0ZNaXdTZ1dSbjhrSTd1ek9ORzF5WkxTMkhHc01XUGZhZ3dKcmJKbmFzSWlPcG9XRVdfR0NFNWJZZ3VPYjdSU0xJazFNSTktWUpfM0tMRzhkWERJM2JlTmJVek5mMl9QWk5GMUFtbEJfeG95RDVmTmN5VjFKUFJpNVpTb0ZJTFhnTjBRYzA?oc=5",
         "description": "",
         "pubDate": "2025-10-22T21:52:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "After others departed, Pentagon announces 'new' press corps filled with conservative news outlets - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRjh4bmYyWGNuUEgxOGdJXzRRUWV2elZZalR1ZDBKTVExQUQ2OFQxeTRlUEhMR2dfVzdzbTFHQTFaRDF6U0hOdWc4ZjdZdWZuZkQzdi1uZFFoNmJUcENmZHUtYVJVMlNndXJaam1XazhpbGU4c1RjempCaGs2bEt1R1NURmNTbzRBU0RjRGVkWkt0T05iWk9wQ0VON0s?oc=5",
+        "description": "",
+        "pubDate": "2025-10-22T21:50:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -527,15 +536,6 @@
         "bias": -1
       },
       {
-        "title": "Sheriff’s deputy got mad and fatally shot Sonya Massey without justification, prosecutor says - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTGJLSUxBQ1RMeEdkS25nTDdGX3U4dUVndEQ2c1g2Z0VuMFRlX2xrX2Y1cVRsazhCXzZ6bzRITDI2Uk9LN3dfSGVCV2NkNU52RktJMmlCb0ZXTVYtV0Q3LWtqclVZTE1WUkRVV2oxOTBkWXRKWTFYeU5BeEp3N0pXZlNSRUFxZ25JbXZaUk5PWjFuVDZaRm9kTllLd3dRNENiTU43NTRvaU0zLUE?oc=5",
-        "description": "",
-        "pubDate": "2025-10-22T19:37:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "UN's top court says Israel obliged to allow UN aid into Gaza",
         "link": "https://www.bbc.com/news/articles/c17pqxzl0yzo?at_medium=RSS&at_campaign=rss",
         "description": "The court also says Israel has not substantiated its allegations against the UN agency for Palestinian refugees.",
@@ -626,6 +626,15 @@
         "bias": 0
       },
       {
+        "title": "Former NY state trooper sentenced to 6 months in jail for faking his own shooting - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZWZENkowR0VwZWp6VTluUHZkSjhOcFFVb2pPYVhjVmtILXlhZE1vdmlkYkhLaUtMSDFueFdhY0J4OU9ZOHJHekk0UXBabjdjRjYwOVdhVG5EaDFDUW0wNnhrT0EtQUVuWEZFQ2huUzkyN0FqMzA2UjdzZWZKeGl2Zzc2SElDeDR2cWNQdEYtX1hlMjZULW1fV2NQdnh2OFhjQnNrVURmVnVDdw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-22T18:25:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Bad Bunny’s Super Bowl halftime show is not being reconsidered, NFL commissioner says - AP News",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcGhlNVhmMUFsOHJJT0JZdml5Skd2U2lnWlJxWDVkc3ZqY1hLNS1TczVtWll3UFJCU3pWSXRidkYyTXZXRFZDalVwaExGc2pxdHlqYW5BR0pCMGVxSVg5ZWJpeTFHUUVMQkRzYl9wQ1NPMUFua2FqcURybThNZ1RIYnM2ZkxwbG5xaUdkcWUtQnlGMlhTQmFZbTh0dzJDNWp5emJR?oc=5",
         "description": "",
@@ -657,6 +666,15 @@
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbXp2OE5oNlJoREk4VFRBTnJRQUFWTlpmcUZOZXFQbmJHRWR0YVo1bkV0cXhNNlVjZ3FSamdBMHFiajFfZVpZZXB5Zm9QMllnRlJZRTJETzI2Yl9GaGt6UF9yQVB1anI1QmR4b2dhZHlJNDFkR2lsOEN4S0FIM2x4dW5Bd1Z3em5CcUhwenlBOVV6NUVaRGQ1eDdRRFBoOXhyUGFJeDRHcDRuVnM?oc=5",
         "description": "",
         "pubDate": "2025-10-22T18:10:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "West Virginia has collected $34 million from its medical cannabis program. It hasn’t spent a penny. - AP News",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTHRUZV9uRXUtNkFCUi1udXdfWTFKazZuQi1ma2hoX25CYnJNdkRLUmd6Q0ZRWUU4c2lzUnRwVWg3YjBjZUFGUGNaU09rNkVVblljM3VNWVI0aGxPZl9ZUDVkcGRkZjNyNnVjM1RxQlNwVENPZVlEaUZNb2RNMW56WGJuczZDQUtRYTAzZ1Y5aDltejdCUXFMdHJ4QWNueEhjSFUxMkZQOW5wMF9zY3FwZWpiOWppMzBlZlR4M1o5ekRELVJHR0Fv?oc=5",
+        "description": "",
+        "pubDate": "2025-10-22T17:42:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -723,33 +741,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Children among victims in Russian strikes, hours after Trump-Putin talks shelved",
-        "link": "https://www.bbc.com/news/articles/czjpe0193geo?at_medium=RSS&at_campaign=rss",
-        "description": "The drone and missile attacks on Ukraine came as the US president put on hold his plans for an imminent summit in Budapest.",
-        "pubDate": "2025-10-22T16:42:38Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6299/live/4f762c70-af29-11f0-b9f9-e5c1839c872f.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Dozens killed in Nigeria fuel tanker explosion",
-        "link": "https://www.bbc.com/news/articles/c93dnd49l0jo?at_medium=RSS&at_campaign=rss",
-        "description": "People rushed to collect fuel from the overturned tanker when it suddenly exploded, engulfing them in flames.",
-        "pubDate": "2025-10-22T16:42:28Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/991d/live/260fb4f0-af0b-11f0-a64c-7f94caf32c3e.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Israel’s parliament advances bill to annex occupied West Bank",
-        "link": "https://www.aljazeera.com/news/2025/10/22/israels-parliament-advances-bill-to-annex-occupied-west-bank?traffic_source=rss",
-        "description": "The bill passed 25-24, despite opposition from PM Netanyahu, in the first of four votes it will face to become law.",
-        "pubDate": "2025-10-22T16:23:34Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
@@ -760,15 +751,6 @@
         "pubDate": "2025-10-22T21:57:22Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c46/live/482ca050-af3f-11f0-a743-017a38be2260.jpg",
-        "bias": 0
-      },
-      {
-        "title": "After others departed, Pentagon announces 'new' press corps filled with conservative news outlets - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRjh4bmYyWGNuUEgxOGdJXzRRUWV2elZZalR1ZDBKTVExQUQ2OFQxeTRlUEhMR2dfVzdzbTFHQTFaRDF6U0hOdWc4ZjdZdWZuZkQzdi1uZFFoNmJUcENmZHUtYVJVMlNndXJaam1XazhpbGU4c1RjempCaGs2bEt1R1NURmNTbzRBU0RjRGVkWkt0T05iWk9wQ0VON0s?oc=5",
-        "description": "",
-        "pubDate": "2025-10-22T21:50:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -862,15 +844,6 @@
         "bias": -1
       },
       {
-        "title": "Fox Sports analyst Mark Sanchez’s trial date set in case over fight with truck driver - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQVl5cFVJckd6amEzeERiQXlac3g0RkVlZnd3emx5Nnh4STNMTnAtRzZBdnc2OWRPN1lmUlhuV3llc1ltSXU0dFRRQWZEdTRhWkJhMlphU081UlI4Y2N4TkpvcnU4Z1RJMUlrWk1Bc05nY25LTGtwYzZ3U3lkbGRELS1SRUxKSUZtbUdPYVlfQ21GczlQeUNkVmJ5U3JmVm16WTRkSk9wUXltTG11LXdCNQ?oc=5",
-        "description": "",
-        "pubDate": "2025-10-22T20:06:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "North Korea has stolen billions in cryptocurrency and tech firm salaries, report says - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSjNjeFcyajNMQTF4MTVJX3paNUFQMU9EQ1IydmlTbnZicldoRl9PUUozck94eWhkRFIwU0R1MTczamlPbmZfYlFBRVYzZE0yTUVINF9BUVNVTGtuUWJkS0NPTE8xbGNvSXRUQmJKZnBTUXMwNjZwQklDNDFKZnhJVmlZTTNIRGFuRmxJdF9XWlRNVGlnLUtTZVpTN2ZmaGhNbzZ2NG93Z08?oc=5",
         "description": "",
@@ -884,6 +857,15 @@
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOXR6X3pfcXgwYnY5Tkxfbk9Jdnozcm1uc1hEYVFyYUR5N2x3X3duejM3Mk1uNU1sVVg3QkNwM1lDbEJCY0RCZldyZldkRWFQLUNhVTVHV1dzMkg5NDVHYzFiWHJJUHdaRjlfZ3RBV2lzYjg2dnRRYy12VzNLSHdweWNVWWlmWWNRV2U4dzAwRzVvM0RWWTRvR0dZdzJxeHcxU05TWQ?oc=5",
         "description": "",
         "pubDate": "2025-10-22T20:02:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Sheriff’s deputy got mad and fatally shot Sonya Massey without justification, prosecutor says - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTGJLSUxBQ1RMeEdkS25nTDdGX3U4dUVndEQ2c1g2Z0VuMFRlX2xrX2Y1cVRsazhCXzZ6bzRITDI2Uk9LN3dfSGVCV2NkNU52RktJMmlCb0ZXTVYtV0Q3LWtqclVZTE1WUkRVV2oxOTBkWXRKWTFYeU5BeEp3N0pXZlNSRUFxZ25JbXZaUk5PWjFuVDZaRm9kTllLd3dRNENiTU43NTRvaU0zLUE?oc=5",
+        "description": "",
+        "pubDate": "2025-10-22T19:37:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -904,15 +886,6 @@
         "pubDate": "2025-10-22T18:50:02Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fcf/live/110fe030-af46-11f0-9b73-4bd88f27c330.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Former NY state trooper sentenced to 6 months in jail for faking his own shooting - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZWZENkowR0VwZWp6VTluUHZkSjhOcFFVb2pPYVhjVmtILXlhZE1vdmlkYkhLaUtMSDFueFdhY0J4OU9ZOHJHekk0UXBabjdjRjYwOVdhVG5EaDFDUW0wNnhrT0EtQUVuWEZFQ2huUzkyN0FqMzA2UjdzZWZKeGl2Zzc2SElDeDR2cWNQdEYtX1hlMjZULW1fV2NQdnh2OFhjQnNrVURmVnVDdw?oc=5",
-        "description": "",
-        "pubDate": "2025-10-22T18:25:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -1159,6 +1132,15 @@
         "bias": 0
       },
       {
+        "title": "New Jersey Republicans ask for federal monitors in critical county ahead of governor's election - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQTYyTGd3VnRLekNwd20yUFloVTdkdkJPaG9BVnlTQlVLTm1uclFBMlhSbW56OWd5MkUxREFfczZXb0RNZ0tSY2tNYW03NW51SHRya0pSTVY4dFhKZnlwRDFZUVJ3bHQwcEktNTFoTVRrbXZ5ajNZMG92VXg1SDZZVFBPaXRBeUtocVNJd0k3aFNPUDdNVTN5emI3LWdRNENib0lObzQ5OA?oc=5",
+        "description": "",
+        "pubDate": "2025-10-22T02:48:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Chess grandmaster Daniel Naroditsky is remembered as a leader in the game's online surge - AP News",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZjJWQkt1bzBJOUYxRF9WbkpOd0dEWXAyOFRzUzc2RmFaSGc2TGNXZEk3N01JMlRLYWpiSlRyMGdyYjFNQVRkdDVmWVVSbkt4X2ZibHJPSTFGYWNxOWk4Rm56eEVqSkJxWmFVSFNDTmI2aEtnWVZ1dXBESDFScTY5YTRqRWJhOFZBX0lYNERIYjlNdkc1WXZYZnV6cw?oc=5",
         "description": "",
@@ -1206,10 +1188,10 @@
     ],
     "Tech": [
       {
-        "title": "West Virginia has collected $34 million from its medical cannabis program. It hasn’t spent a penny. - AP News",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTHRUZV9uRXUtNkFCUi1udXdfWTFKazZuQi1ma2hoX25CYnJNdkRLUmd6Q0ZRWUU4c2lzUnRwVWg3YjBjZUFGUGNaU09rNkVVblljM3VNWVI0aGxPZl9ZUDVkcGRkZjNyNnVjM1RxQlNwVENPZVlEaUZNb2RNMW56WGJuczZDQUtRYTAzZ1Y5aDltejdCUXFMdHJ4QWNueEhjSFUxMkZQOW5wMF9zY3FwZWpiOWppMzBlZlR4M1o5ekRELVJHR0Fv?oc=5",
+        "title": "Fox Sports analyst Mark Sanchez’s trial date set in case over fight with truck driver - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQVl5cFVJckd6amEzeERiQXlac3g0RkVlZnd3emx5Nnh4STNMTnAtRzZBdnc2OWRPN1lmUlhuV3llc1ltSXU0dFRRQWZEdTRhWkJhMlphU081UlI4Y2N4TkpvcnU4Z1RJMUlrWk1Bc05nY25LTGtwYzZ3U3lkbGRELS1SRUxKSUZtbUdPYVlfQ21GczlQeUNkVmJ5U3JmVm16WTRkSk9wUXltTG11LXdCNQ?oc=5",
         "description": "",
-        "pubDate": "2025-10-22T17:42:00Z",
+        "pubDate": "2025-10-22T20:06:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1221,6 +1203,15 @@
         "pubDate": "2025-10-22T14:07:16Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b29/live/41e143c0-af28-11f0-ba75-093eca1ac29b.jpg",
+        "bias": 0
+      },
+      {
+        "title": "More than 40 people killed in a crash of buses and other vehicles in western Uganda - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWnhOYWNITzJrOW91QWJHeEtPckVmdGtFbkJnaXUxdW5nWV91aHVGWnc0dG5vcjNwTlg2TWZFdjlTZ21iWjg2Q0VlVVg1c2lGWVQ5MXdoQVRob0hQejhjOWJJMkNHcmlVLURYbmljMkxKRnBWVjN4VWgxS094Y09GYmEtZVVwZnZaMElLcUtORlA0M0k?oc=5",
+        "description": "",
+        "pubDate": "2025-10-22T10:13:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -1251,15 +1242,6 @@
         "bias": 0
       },
       {
-        "title": "New Jersey Republicans ask for federal monitors in critical county ahead of governor's election - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQTYyTGd3VnRLekNwd20yUFloVTdkdkJPaG9BVnlTQlVLTm1uclFBMlhSbW56OWd5MkUxREFfczZXb0RNZ0tSY2tNYW03NW51SHRya0pSTVY4dFhKZnlwRDFZUVJ3bHQwcEktNTFoTVRrbXZ5ajNZMG92VXg1SDZZVFBPaXRBeUtocVNJd0k3aFNPUDdNVTN5emI3LWdRNENib0lObzQ5OA?oc=5",
-        "description": "",
-        "pubDate": "2025-10-22T02:48:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Prosecutors retreat after convicting a record-setting Grand Teton mountain runner in trail dispute - AP News",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMGZwaURCc2U2SzUyMGFHT0VKeEtPd0puVHByWG4wTG5udUhJdFpldXVYblVtX1QzdHFnaWZtYzl1cVVpUEFZWmVuVlMwWlEydkhEbE5Uc2N6TVBRSHRIVkJCcmNKT1VhUXZKYm9mdzEwcVBjSWh0SjRBMXVoVDlZeVhtcl9WZDRwSlpPaXg2SDdUbncwQml3emZWeFVsZ25jMmdsZmlEMnlOUkRzYVZMcQ?oc=5",
         "description": "",
@@ -1279,6 +1261,15 @@
       }
     ],
     "Science": [
+      {
+        "title": "LA man shot by federal agents during arrest streams law enforcement activity on TikTok - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnpkNlVyNXZ5M01uR1pDd0NhX2hpQm9WSzVQM0dBMUNBa0N0dG41TXZINUl3cVdIYi0xa241ZTZDRXEyaWxTOEZETkZGYzZzNF9ZQkxDZmFwcWN1OHFtQnJIckJkcnllakNJMUNObkd6c2NUTXl6WWF3QkUxMkRqQUQ5M0dfR3JLZm53ekhWY2had1hCVm1wSVRiSjNLUElpcENYN3NIb1RmWGVtd0E?oc=5",
+        "description": "",
+        "pubDate": "2025-10-22T21:50:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Scientists make yogurt using ants. The result: tangy and herby",
         "link": "https://www.npr.org/2025/10/22/nx-s1-5567090/scientists-make-yogurt-using-ants-the-result-tangy-and-herby",
@@ -1318,6 +1309,15 @@
       {
         "title": "South Carolina Supreme Court considers lawmaker pay case as legislators aren't getting paid - AP News",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVTRlSzR2VTBQRWhfSWhVUFg4eEFKeEdLR200ZUVGdzJJUzZNV3B6T0Nhd212TVdFWDFzblBWSHN3ZXRQcnRyMkJPRnFJdzFxcm5ZeGpkQmZZUFdPeXhXZ01qT19ZS05RN0kteUxLYVRDby1kU09Zck5YZUlCQ1ZMcTdLa01Sb3BkS1RvcGc3MzNvd3dzaVUxWTIzSndJcXNvQ214bWpJMGtsc0tZR2tfcU84MA?oc=5",
+        "description": "",
+        "pubDate": "2025-10-22T17:16:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Villarreal blames La Liga for canceled Miami game as Tebas laments missed chance for Spanish soccer - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUFQ5YkVvUm14azJWck5hVjRIWW5YcXU4ZS1uUWVCSGpDb0FXTnIwMWItLUloV3ZHUUhuRVNRLUNsWk1MU09YNHFWSXJNNWtfNEhuRTdJZkhBRjZ1ZTFZZmNGeFZ6ZEFhZnNNSlRrMm5yeVdZQXQ1QmVEVUR3ZXBPSG9XOExiRE5neWt2bE40dkZmSHRHU1o0bk5rbzdqb1pPakE?oc=5",
         "description": "",
         "pubDate": "2025-10-22T17:16:00Z",
         "source": "news.google.com",
@@ -1388,6 +1388,15 @@
         "bias": 0
       },
       {
+        "title": "Man sentenced to 21 years in prison for assassination attempt on Slovakia's Prime Minister Fico - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZlF1ZDZaQ1JyZkRSNHBfTDYyTjZfQkI5QTN2Y0RPMV96LWdUS0FuNk1GbzNGVzVIV0pJblJGQ3ZadUZmOUdPZkIxMVNZa25wVjBYal81dGZMOFBLekRmN19WMVNvRFpLajlubnh0SUI0Wms2N2gwaC1QMUdxekhNSHY5SEZwakNWaVotS2hoUEJKVjd5YkJFeEpQRzE2WEhuN1Vj?oc=5",
+        "description": "",
+        "pubDate": "2025-10-22T00:59:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Thunder receive NBA championship rings, raise banner before season opener against Rockets - AP News",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX180N011cUVXa3J4c1ZMYU1hVjdoUDRqbmtMS1ZBdDVpeGNxMnBwZ01yZnB5TEV5QW12cTJWQVl4SnpCenVGcTBkMHdtOS1SeWwwT3ROak0zOWlVY0pOaHFHSGw0bU5wcXhRRm1PUnBVNUQ4WUwzMmhxaGdRa0VwZHJ0bVJ0dWNNZFVnOThncWFyZU94?oc=5",
         "description": "",
@@ -1398,6 +1407,15 @@
       }
     ],
     "Business": [
+      {
+        "title": "Stable inflation gives chancellor space to break doom loop",
+        "link": "https://www.bbc.com/news/articles/cjekv555xxdo?at_medium=RSS&at_campaign=rss",
+        "description": "Steady inflation and lower bond yields gives Rachel Reeves an opportunity, but will she take it?",
+        "pubDate": "2025-10-22T22:53:53Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19ca/live/3712e3c0-af98-11f0-b291-4fd3b4cc4b1d.jpg",
+        "bias": 0
+      },
       {
         "title": "Why Beyond Meat shares surged over 1,000% in four days",
         "link": "https://www.bbc.com/news/articles/cew4kqg09j8o?at_medium=RSS&at_campaign=rss",
