@@ -1,224 +1,52 @@
 {
-  "lastUpdate": "2025-10-22T18:32:34.117716Z",
+  "lastUpdate": "2025-10-22T18:54:14.286433Z",
   "news": {
-    "Gaming": [
-      {
-        "title": "TopDownShooter3D [Free] [Shooter] [Windows]",
-        "link": "https://lukage0.itch.io/topdownshooter3d",
-        "description": "My first project created with a tutorial on YouTube. The game is a top-down view shooter with a basic HUD.",
-        "pubDate": "2025-10-22T18:16:28Z",
-        "source": "lukage0.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzMxMjEwLnBuZw==/315x250%23c/NEJXI1.png",
-        "bias": 0
-      },
-      {
-        "title": "Swiss Family Robinson RPG [Free] [Role Playing]",
-        "link": "https://nickdoneysr.itch.io/swiss-family-robinson-rpg",
-        "description": "Strand yourself in adventure.",
-        "pubDate": "2025-10-22T18:12:49Z",
-        "source": "nickdoneysr.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzMxMDU0LnBuZw==/315x250%23c/KdKKJ2.png",
-        "bias": 0
-      },
-      {
-        "title": "Match Made in Heaven [Free] [Interactive Fiction]",
-        "link": "https://jessicadiamond.itch.io/match-made-in-heaven",
-        "description": "Go after love in the afterlife!",
-        "pubDate": "2025-10-22T18:04:17Z",
-        "source": "jessicadiamond.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzMwOTU5LnBuZw==/315x250%23c/VbmtS%2B.png",
-        "bias": 0
-      },
-      {
-        "title": "Asteroid Assault [Free] [Shooter]",
-        "link": "https://jessicadiamond.itch.io/asteroid-assault",
-        "description": "Out-of-this-world arcade shooter!",
-        "pubDate": "2025-10-22T17:51:01Z",
-        "source": "jessicadiamond.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzMwODA4LnBuZw==/315x250%23c/UUotcq.png",
-        "bias": 0
-      },
-      {
-        "title": "Miana's Mini Mame [Free] [Windows]",
-        "link": "https://coyo-t.itch.io/mianas-mini-mame",
-        "description": "",
-        "pubDate": "2025-10-22T17:46:32Z",
-        "source": "coyo-t.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzMwODk1LnBuZw==/315x250%23c/czikXr.png",
-        "bias": 0
-      },
-      {
-        "title": "Die is Quest(3-2) [Free]",
-        "link": "https://parkjh-juheon.itch.io/die-is-quest3-2",
-        "description": "",
-        "pubDate": "2025-10-22T17:45:42Z",
-        "source": "parkjh-juheon.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzMwNzc0LnBuZw==/315x250%23c/8MufxG.png",
-        "bias": 0
-      },
-      {
-        "title": "Godot 1 - Winter 2024 [Free]",
-        "link": "https://the-fia.itch.io/godot-spring-2025",
-        "description": "- Balloon Boy!",
-        "pubDate": "2025-10-22T17:42:27Z",
-        "source": "the-fia.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzMwOTg3LnBuZw==/315x250%23c/QW3gUQ.png",
-        "bias": 0
-      },
-      {
-        "title": "Rat Hop: Godot [Free] [Platformer] [Windows] [Linux]",
-        "link": "https://heikkivenehsalo.itch.io/rat-hop-godot",
-        "description": "",
-        "pubDate": "2025-10-22T17:41:59Z",
-        "source": "heikkivenehsalo.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzMwNjY1LnBuZw==/315x250%23c/qi8Ai0.png",
-        "bias": 0
-      },
-      {
-        "title": "Undefined [Free] [Puzzle] [Windows]",
-        "link": "https://wps007.itch.io/robotpuzzledemo",
-        "description": "A WIP Puzzle Game",
-        "pubDate": "2025-10-22T17:30:04Z",
-        "source": "wps007.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzMwNzcxLnBuZw==/315x250%23c/A68jwT.png",
-        "bias": 0
-      },
-      {
-        "title": "FPS Zombie Shooter Project [Free]",
-        "link": "https://mathrusdev.itch.io/fps-zombie-shooter-project",
-        "description": "",
-        "pubDate": "2025-10-22T17:20:21Z",
-        "source": "mathrusdev.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzMwNDk5LnBuZw==/315x250%23c/fV7nng.png",
-        "bias": 0
-      },
-      {
-        "title": "Poke! [Free] [Windows] [macOS]",
-        "link": "https://karong.itch.io/poke",
-        "description": "",
-        "pubDate": "2025-10-22T17:20:15Z",
-        "source": "karong.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzMwNjQ4LnBuZw==/315x250%23c/gJTv4D.png",
-        "bias": 0
-      },
-      {
-        "title": "Low budgetrunki side b [Free] [Rhythm]",
-        "link": "https://fortyfohagain.itch.io/low-budgetrunki-side-b",
-        "description": "Sides",
-        "pubDate": "2025-10-22T17:17:51Z",
-        "source": "fortyfohagain.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzMwNDE3LnBuZw==/315x250%23c/goLEpw.png",
-        "bias": 0
-      },
-      {
-        "title": "Rat Hop: Unity [Free] [Platformer] [Windows] [Linux]",
-        "link": "https://heikkivenehsalo.itch.io/rat-hop-unity",
-        "description": "",
-        "pubDate": "2025-10-22T17:13:05Z",
-        "source": "heikkivenehsalo.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzMwMzY3LnBuZw==/315x250%23c/wvJmul.png",
-        "bias": 0
-      },
-      {
-        "title": "Nin Tournament [Free] [Fighting] [Windows]",
-        "link": "https://devlanger.itch.io/nin-tournament",
-        "description": "",
-        "pubDate": "2025-10-22T17:09:08Z",
-        "source": "devlanger.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzMwMzA4LnBuZw==/315x250%23c/aHm%2F7U.png",
-        "bias": 0
-      },
-      {
-        "title": "The Return To The Last Days: YOU WILL SLEEP (unfinished rpgm2k3 demo) [Free] [Other] [Windows]",
-        "link": "https://psychonoobfurcifer.itch.io/the-return-to-the-last-days-you-will-sleep-unfinished-rpgm2k3-demo",
-        "description": "This game is the og 2K3 demo for Y.W.S. so some things obviously wont be in the MV full version",
-        "pubDate": "2025-10-22T17:06:34Z",
-        "source": "psychonoobfurcifer.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzMwMzA3LmpwZw==/315x250%23c/Xptwxq.jpg",
-        "bias": 0
-      },
-      {
-        "title": "harvest-moom 2.0 [Free] [Survival] [Windows]",
-        "link": "https://mazen3092013gmailcom.itch.io/harvest-moom",
-        "description": "Grow crops, raise animals, and live your best farm life — free and open source.",
-        "pubDate": "2025-10-22T17:03:42Z",
-        "source": "mazen3092013gmailcom.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzMwMjQ5LnBuZw==/315x250%23c/uKgsxe.png",
-        "bias": 0
-      },
-      {
-        "title": "Color Break [Free] [Action]",
-        "link": "https://enescakar.itch.io/color-break",
-        "description": "Breakout With Color Function",
-        "pubDate": "2025-10-22T16:56:32Z",
-        "source": "enescakar.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzMwMjY1LnBuZw==/315x250%23c/i2kgR0.png",
-        "bias": 0
-      },
-      {
-        "title": "Alien Vs Kid [Free] [Action] [Windows]",
-        "link": "https://coderedranger.itch.io/alienvskid",
-        "description": "",
-        "pubDate": "2025-10-22T16:56:25Z",
-        "source": "coderedranger.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzI5OTE0LnBuZw==/315x250%23c/xFsx1C.png",
-        "bias": 0
-      },
-      {
-        "title": "Kuih Tradisional Malaysia [Free] [Educational]",
-        "link": "https://onlyone-studio.itch.io/kuih-tradisional-malaysia",
-        "description": "",
-        "pubDate": "2025-10-22T16:50:01Z",
-        "source": "onlyone-studio.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzMwMjMxLnBuZw==/315x250%23c/6Znh1f.png",
-        "bias": 0
-      },
-      {
-        "title": "CrankShot (Playdate) [Free] [Puzzle]",
-        "link": "https://lucasjorg.itch.io/crankshot",
-        "description": "Spin the crank and throw!",
-        "pubDate": "2025-10-22T16:34:10Z",
-        "source": "lucasjorg.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzI5ODM3LnBuZw==/315x250%23c/puUUEY.png",
-        "bias": 0
-      },
-      {
-        "title": "ECHOBOUND [Free] [Other] [Windows]",
-        "link": "https://point-null.itch.io/echobound",
-        "description": "Horror first person game",
-        "pubDate": "2025-10-22T16:25:44Z",
-        "source": "point-null.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzI5ODAzLnBuZw==/315x250%23c/IRwx3s.png",
-        "bias": 0
-      },
-      {
-        "title": "Bold Kugle [Free] [Platformer] [Windows] [Linux]",
-        "link": "https://heikkivenehsalo.itch.io/bold-kugle",
-        "description": "",
-        "pubDate": "2025-10-22T14:05:06Z",
-        "source": "heikkivenehsalo.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzI5NjYyLnBuZw==/315x250%23c/GBlaWI.png",
-        "bias": 0
-      },
-      {
-        "title": "frog smashers [Free]",
-        "link": "https://beatriz-emidia.itch.io/frog-smashers",
-        "description": "",
-        "pubDate": "2025-10-22T01:07:27Z",
-        "source": "beatriz-emidia.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzIyMTIzLnBuZw==/315x250%23c/BoIHMa.png",
-        "bias": 0
-      }
-    ],
+    "Gaming": [],
     "World": [
       {
-        "title": "US strikes alleged drug boat in the Pacific",
+        "title": "After ICJ ruling, can UN relief agency UNRWA resume full Gaza operations?",
+        "link": "https://www.aljazeera.com/news/2025/10/22/after-icj-ruling-can-un-relief-agency-unrwa-resume-full-gaza-operations?traffic_source=rss",
+        "description": "ICJ states Israel must allow aid into Gaza, ensuring food, water, medicine, and shelter for the Palestinian population.",
+        "pubDate": "2025-10-22T18:41:33Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "US conducts eighth strike on alleged drug-smuggling boat in the Pacific",
+        "link": "https://www.aljazeera.com/news/2025/10/22/us-conducts-eighth-strike-on-alleged-drug-smuggling-boat-in-the-pacific?traffic_source=rss",
+        "description": "The strike was the first to take place in the Pacific, signalling an expansion of Trump's military campaign.",
+        "pubDate": "2025-10-22T18:29:20Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "US forces kill two in strike on alleged drug boat in the Pacific",
         "link": "https://www.bbc.com/news/articles/cd9k2w8ell0o?at_medium=RSS&at_campaign=rss",
-        "description": "At least eight strikes have been conducted against alleged drug traffickers near Latin America.",
+        "description": "This is the eighth US strike on alleged drug trafficking vessels near Latin America, the first on the Pacific side.",
         "pubDate": "2025-10-22T18:16:26Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c8d/live/be9d1a50-af65-11f0-b932-d752a474c44a.jpg",
         "bias": 0
+      },
+      {
+        "title": "ICJ tells Israel it must not use ‘starvation… as a method of warfare’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/10/22/icj-tells-israel-it-must-not-use-starvation-as-a-method-of?traffic_source=rss",
+        "description": "The ICJ warned Israel that it must do more to supply Palestinians in Gaza with food and other survival essentials.",
+        "pubDate": "2025-10-22T18:12:18Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Palestinians hold mass funeral for 54 unidentified prisoners",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/10/22/palestinians-hold-mass-funeral-for-54-unidentified-prisoners?traffic_source=rss",
+        "description": "Palestinians prayed at a mass funeral for 54 prisoners Israel returned to Gaza under the new ceasefire.",
+        "pubDate": "2025-10-22T18:11:21Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Live updates: North Carolina lawmakers approve map adding a GOP House seat - AP News",
@@ -234,6 +62,15 @@
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMGJLa3IwM1dXSHFLemp3SkRjSGhpT203TF9IaXhHQkxyNGJZZWg5NG9hdjZPQmFZYi1EM2hyZlhvOHBsSXpicUFzbFk5UWdfWjJMdW11N1llUFJBMVhvWkxqbGlpY2Q1Rkx3TjExNnB0N1J4bl8zcGVuZy1pZjRxRFlkdjhEQ05yODN3OEhCLXZYNTlj?oc=5",
         "description": "",
         "pubDate": "2025-10-22T18:05:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Feds say 14 arrested during chaotic immigration sweep that sparked protests on NYC's Canal Street - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ1JFN2FHNjRZZTk5VUgyOFZwa2FyalNIdVVtMHVwOHhYZ09VeHRGREpTM0pWUm8xN3dlNjVSMkNTOUFoRVEwTHRVNGt2Nk9kaUpTRm14TklUdDBNZFdLRVdHV0tSUkNNRkFuUjY2ZXJqSGphODRubHJyd0JlQ1VjakhYV0NoYlNMQ3dIWE1nVmhjaGlVRmJTQjMySDBpZEd6cXc?oc=5",
+        "description": "",
+        "pubDate": "2025-10-22T17:53:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -446,6 +283,15 @@
         "bias": -1
       },
       {
+        "title": "A timeline of the jewel heist at the Louvre in Paris - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMXpidU1RNU00VnlVVkRRZ3BpLU9xNDRBb0V6YzRrNjc4UXAtb1RhUjZodjc1Zk4yZjNsVjVnWTE0blJwMEpMSndEdVJGSHlXUXhZbm1TNHBTU2JJS3VxamF3OEI2YkYwVTBDNDFjNUxYcklDb191b3FTM2x6Y1VaaWJDR3lKNk5mZGh6QURjSXdVTEZFVnFYQllR?oc=5",
+        "description": "",
+        "pubDate": "2025-10-22T15:26:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Has parity arrived in college football? Transfer portal, NIL money credited for tighter games - AP News",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObkVmYnpkOThpZGtzNXpXQk1xVXA1aGNjbXN4RzJjcEFJVjZJOW9vMVhick9ycGRMaHVPa0VxNllkY3dSTlh2QWNnNFI5SHllRHNFT1Q4SWhNSG5TMXpxczZBdi0zZDZZRWVHa1BOTUhUVDl1SU5CS1lkczBxTlo0TXJUNGRHTG5NTXlZ?oc=5",
         "description": "",
@@ -606,63 +452,18 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Paris’s Louvre Museum reopens after $102m jewel heist",
-        "link": "https://www.aljazeera.com/news/2025/10/22/pariss-louvre-museum-reopens-after-102m-jewel-heist?traffic_source=rss",
-        "description": "The Louvre reopens after robbery, prompting debates on security amid ongoing investigations and Senate scrutiny.",
-        "pubDate": "2025-10-22T12:36:55Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Moment Russian drone strikes near apartments in Ukraine",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/10/22/moment-russian-drone-strikes-near-apartments-in-ukraine?traffic_source=rss",
-        "description": "A bystander filmed the moment a Russian drone struck near an apartment building in Sumy, Ukraine.",
-        "pubDate": "2025-10-22T12:35:39Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Children in Gaza face more trauma, despite ceasefire",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/10/22/children-in-gaza-face-more-trauma-despite-ceasefire?traffic_source=rss",
-        "description": "For the past two years, children in Gaza faced explosions, death and suffering because of Israel’s war.",
-        "pubDate": "2025-10-22T12:30:03Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Vance & Netanyahu comment on Gaza ceasefire after meeting",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/10/22/vance-netanyahu-comment-on-gaza-ceasefire-after-meeting?traffic_source=rss",
-        "description": "US VP JD Vance and Israeli PM Netanyahu say they’re working on a “peace plan” and an “unbelievable day after” for Gaza.",
-        "pubDate": "2025-10-22T12:30:02Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "What’s going on with aid to Gaza?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/10/22/whats-going-on-with-aid-to-gaza?traffic_source=rss",
-        "description": "‘Things have gotten worse.’ \nMore than a week after the ceasefire, Palestinians in Gaza say they have seen no change in",
-        "pubDate": "2025-10-22T12:15:25Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "AI can help the environment, even though it uses tremendous energy. Here are 5 ways how - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOENFcmRVaWxpaUltTTdTVnY2eUFUYVBqNWNDVk13ejlCc00tZWE2eFh1cGZUMVZlc1JscF9PS1VLeTJkTHBNb1puaFh6YlNRZVZlZWZFMDdUblZWWFg4RmxMc2hLTTg4YlY5T1l0YmJ0UE42amZBQzlWR0lLOVVyWkhuUU5oQ3YyUGFpUl9JLTNjejBHYnB4RnpSYzlPWC1Jb1BfcmdEd1F6aEtaTjl5RGhxdnlweVE?oc=5",
-        "description": "",
-        "pubDate": "2025-10-22T12:13:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Migrant removed to France returns to UK on small boat",
+        "link": "https://www.bbc.com/news/articles/clykzx43v0po?at_medium=RSS&at_campaign=rss",
+        "description": "The man was sent to France under the 'one in, one out' deal but returned via the Channel on a small boat, the BBC understands.",
+        "pubDate": "2025-10-22T18:50:02Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fcf/live/110fe030-af46-11f0-9b73-4bd88f27c330.jpg",
+        "bias": 0
+      },
       {
         "title": "Prince Andrew should face MPs over Royal Lodge lease, says Davey",
         "link": "https://www.bbc.com/news/articles/c0exgrgd9w2o?at_medium=RSS&at_campaign=rss",
@@ -691,15 +492,6 @@
         "bias": 0
       },
       {
-        "title": "Migrant removed to France returns to UK on small boat",
-        "link": "https://www.bbc.com/news/articles/clykzx43v0po?at_medium=RSS&at_campaign=rss",
-        "description": "The man was sent to France under the 'one in, one out' deal but returned via the Channel on a small boat, the BBC understands.",
-        "pubDate": "2025-10-22T17:30:29Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fcf/live/110fe030-af46-11f0-9b73-4bd88f27c330.jpg",
-        "bias": 0
-      },
-      {
         "title": "Reeves considering tax hike for lawyers and accountants",
         "link": "https://www.bbc.com/news/articles/c0mxwg70gkeo?at_medium=RSS&at_campaign=rss",
         "description": "The chancellor has indicated any tax rises in next month's Budget are likely to be focused on wealthy individuals.",
@@ -718,19 +510,19 @@
         "bias": 0
       },
       {
-        "title": "Maine Senate candidate Platner says tattoo recognized as Nazi symbol has been covered - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRHdLUDJHa3pkdTA0WW1nM0ZjMElWRDJDRnNFdllER0ZNaXdTZ1dSbjhrSTd1ek9ORzF5WkxTMkhHc01XUGZhZ3dKcmJKbmFzSWlPcG9XRVdfR0NFNWJZZ3VPYjdSU0xJazFNSTktWUpfM0tMRzhkWERJM2JlTmJVek5mMl9QWk5GMUFtbEJfeG95RDVmTmN5VjFKUFJpNVpTb0ZJTFhnTjBRYzA?oc=5",
+        "title": "Villarreal blames La Liga for canceled Miami game as Tebas laments missed chance for Spanish soccer - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUFQ5YkVvUm14azJWck5hVjRIWW5YcXU4ZS1uUWVCSGpDb0FXTnIwMWItLUloV3ZHUUhuRVNRLUNsWk1MU09YNHFWSXJNNWtfNEhuRTdJZkhBRjZ1ZTFZZmNGeFZ6ZEFhZnNNSlRrMm5yeVdZQXQ1QmVEVUR3ZXBPSG9XOExiRE5neWt2bE40dkZmSHRHU1o0bk5rbzdqb1pPakE?oc=5",
         "description": "",
-        "pubDate": "2025-10-22T17:15:00Z",
+        "pubDate": "2025-10-22T17:16:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Feds say 14 arrested during chaotic immigration sweep that sparked protests on NYC's Canal Street - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ1JFN2FHNjRZZTk5VUgyOFZwa2FyalNIdVVtMHVwOHhYZ09VeHRGREpTM0pWUm8xN3dlNjVSMkNTOUFoRVEwTHRVNGt2Nk9kaUpTRm14TklUdDBNZFdLRVdHV0tSUkNNRkFuUjY2ZXJqSGphODRubHJyd0JlQ1VjakhYV0NoYlNMQ3dIWE1nVmhjaGlVRmJTQjMySDBpZEd6cXc?oc=5",
+        "title": "Maine Senate candidate Platner says tattoo recognized as Nazi symbol has been covered - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRHdLUDJHa3pkdTA0WW1nM0ZjMElWRDJDRnNFdllER0ZNaXdTZ1dSbjhrSTd1ek9ORzF5WkxTMkhHc01XUGZhZ3dKcmJKbmFzSWlPcG9XRVdfR0NFNWJZZ3VPYjdSU0xJazFNSTktWUpfM0tMRzhkWERJM2JlTmJVek5mMl9QWk5GMUFtbEJfeG95RDVmTmN5VjFKUFJpNVpTb0ZJTFhnTjBRYzA?oc=5",
         "description": "",
-        "pubDate": "2025-10-22T16:41:00Z",
+        "pubDate": "2025-10-22T17:15:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -823,6 +615,15 @@
         "pubDate": "2025-10-22T12:32:12Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8727/live/2f9a3f50-af14-11f0-904a-f9028cea88d6.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Following meteoric success — and some criticism — 'Nobody Wants This' evolves in Season 2 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZnpWUXlXWGJGZlllTnRWUEJiOHFycWJyT2hpTUtNVUNNZncyYmxyc3BraDNvZkZmSmlndmVubERJUnZGOEU5OC1yLXFJOC1TTXhkWVJmcjVlSHR3YWt2X3NMS2k0Q1J3T0FsZk5UVnRXQlQ3S2RyUDJyMTZnYmtBQm1QUy11RVVNMGJ3TDNLWDYtSG9nampBYg?oc=5",
+        "description": "",
+        "pubDate": "2025-10-22T12:05:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -979,15 +780,6 @@
         "bias": -1
       },
       {
-        "title": "Florida sets execution date for man who raped and murdered his former manager at a convenience store - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX1hoVVQ3VmdjemdDWkNmS1B1T1BtU1VNbGlpbmRBZ3VVZXdEa2YwT2l2ZHhjWlNsaUgtcElBQ295WUNTYmxBQXZsT3BzdWxwOHZEczU3eVBvMkV0LVRKSHlmWmlSdERhQTVrclhVcDk1Z2tlNUdQSmZwRGFJOFhYbU5DMGMzNmtXU2NxWDJMNEVBemlhLXpaWGphSkZhb2ZkTkE?oc=5",
-        "description": "",
-        "pubDate": "2025-10-22T03:22:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Michael Jordan is going to be part of NBC's NBA coverage. His reason: to give back to the game - AP News",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOE1LUW1xenVXcjFsLXN4SzF0M19CRk84WG1XcW5mTHcyQzFNc2NjZTdOUGdhbjg1YzdlY3RFU0R6RjM5aHdZTTIzbU1SU1N5bTBZaEJkZlpCWUV1dkgtSWJmU0ozTDNlUm1Bc3pkbVN4MGRnbDFHLWZDXzZtbkRkeGtGREdIbTMtS2c?oc=5",
         "description": "",
@@ -1044,24 +836,6 @@
         "bias": 0
       },
       {
-        "title": "Taiwan reports its first case of African swine fever and culls scores of pigs - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd05tZnFQWnhyMGJnRGVDY3pwQk53TWtoT255UlA2enFEZmVhdEpFaWVlXzBZN3ZPZzh0T2J0TnJmc2dCcldpWGhDVF9DNDVHR2xOSnpKNW1vTFZyUTRWNlRlazBDWF91NERvaTZSSnJMb0JXaVZHWGRNNWRSRU5aM1RxZjZtdWd1QWN0dVYzeXZ4V2JORDY0Y3pTb0JUT0U?oc=5",
-        "description": "",
-        "pubDate": "2025-10-22T07:59:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Luka Doncic's 43 points, near triple-double aren't enough to carry Lakers to a win without LeBron - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSjIxeEgydGNDM2ZYbTkzWUtMNDBrU3MtdU8tTHd3OVZNbEZXSVpJQmhsaF9yNnZDMXZoeXlRMnRHczcyYWdONGxoY3otYlN5QmF5Zm5kNFB4YjN4OXpjcGFIRzBTQWZOdmpXX1JNb2tBZlpDUk5HWmNfZjR5ekkwaFAtZzVyQzl2NU9UT1d3?oc=5",
-        "description": "",
-        "pubDate": "2025-10-22T06:49:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "JLR hack is costliest cyber attack in UK history, say analysts",
         "link": "https://www.bbc.com/news/articles/cy9pdld4y81o?at_medium=RSS&at_campaign=rss",
         "description": "The cyber attack on Jaguar Land Rover is estimated to cost £2.1bn, the Cyber Monitoring Centre says.",
@@ -1075,6 +849,15 @@
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQTYyTGd3VnRLekNwd20yUFloVTdkdkJPaG9BVnlTQlVLTm1uclFBMlhSbW56OWd5MkUxREFfczZXb0RNZ0tSY2tNYW03NW51SHRya0pSTVY4dFhKZnlwRDFZUVJ3bHQwcEktNTFoTVRrbXZ5ajNZMG92VXg1SDZZVFBPaXRBeUtocVNJd0k3aFNPUDdNVTN5emI3LWdRNENib0lObzQ5OA?oc=5",
         "description": "",
         "pubDate": "2025-10-22T02:48:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Suspected explosive device found and brought indoors prompts Wyoming Capitol evacuation - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN1h2U054Q0h4SWY1V2wzaU85djNjNTlMQ1ljNTk2N0REek9CVkY4QlFTdFFOMXpfblFSd3RSZWk4M0hKSWQyT2hZWEs4UnZGQjV5WGxQdGhFV3B0aW4wOHNENkY0SjY5N2xXZ1ZGMkxEXzh6dUhOTjJPVHYyRmRPem5fcVVPeTZQTUxyUlBRM3VMSXJiZFpEN1VOemZrWEU?oc=5",
+        "description": "",
+        "pubDate": "2025-10-22T01:22:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1243,15 +1026,6 @@
         "pubDate": "2025-10-22T03:22:40Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6602/live/8b6e0d60-aee3-11f0-b285-f39e045c9ed6.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Suspected explosive device found and brought indoors prompts Wyoming Capitol evacuation - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN1h2U054Q0h4SWY1V2wzaU85djNjNTlMQ1ljNTk2N0REek9CVkY4QlFTdFFOMXpfblFSd3RSZWk4M0hKSWQyT2hZWEs4UnZGQjV5WGxQdGhFV3B0aW4wOHNENkY0SjY5N2xXZ1ZGMkxEXzh6dUhOTjJPVHYyRmRPem5fcVVPeTZQTUxyUlBRM3VMSXJiZFpEN1VOemZrWEU?oc=5",
-        "description": "",
-        "pubDate": "2025-10-22T01:22:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
