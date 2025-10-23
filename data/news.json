@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-23T11:18:03.833404Z",
+  "lastUpdate": "2025-10-23T11:30:47.600155Z",
   "news": {
     "Gaming": [
       {
@@ -54,6 +54,15 @@
         "pubDate": "2025-10-23T10:26:16Z",
         "source": "fblazarini.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNzM5NDc1LnBuZw==/315x250%23c/%2B1iPTA.png",
+        "bias": 0
+      },
+      {
+        "title": "ANGRY BURG [Free] [Shooter]",
+        "link": "https://mattqgp.itch.io/angry-burg",
+        "description": "",
+        "pubDate": "2025-10-23T10:20:13Z",
+        "source": "mattqgp.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNzM5NTI1LnBuZw==/315x250%23c/tlQbzu.png",
         "bias": 0
       },
       {
@@ -192,30 +201,12 @@
         "bias": 0
       },
       {
-        "title": "Arcadetrix [Free] [Other] [Windows]",
-        "link": "https://indie-game-studio.itch.io/arcadetrix",
-        "description": "",
-        "pubDate": "2025-10-23T07:15:55Z",
-        "source": "indie-game-studio.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzM4MjgyLnBuZw==/315x250%23c/lEVMeR.png",
-        "bias": 0
-      },
-      {
         "title": "Scrapfriend [Free] [Other] [Windows]",
         "link": "https://ratscallion.itch.io/scrapfriend",
         "description": "",
         "pubDate": "2025-10-23T07:14:50Z",
         "source": "ratscallion.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNzM4NDU2LnBuZw==/315x250%23c/7meuBh.png",
-        "bias": 0
-      },
-      {
-        "title": "Ouro & Boro - Tied up in trouble [Free] [Platformer] [Windows]",
-        "link": "https://indie-game-studio.itch.io/ouro-boro-tied-up-in-trouble",
-        "description": "",
-        "pubDate": "2025-10-23T07:10:37Z",
-        "source": "indie-game-studio.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzM4MjM1LnBuZw==/315x250%23c/iZlqTg.png",
         "bias": 0
       },
       {
@@ -246,6 +237,51 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7640/live/2b247620-affa-11f0-af36-791af27228b8.jpg",
         "bias": 0
+      },
+      {
+        "title": "Video: Fire destroys over 1,500 homes in Philippines",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/10/23/video-fire-destroys-over-1500-homes-in-philippines?traffic_source=rss",
+        "description": "A major fire swept through a neighbourhood in the metro area of the Philippines capital Manila.",
+        "pubDate": "2025-10-23T11:11:00Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Trump, Ukraine and Europe target Russian energy as diplomacy falters",
+        "link": "https://www.aljazeera.com/news/2025/10/23/trump-ukraine-and-europe-target-russian-energy-as-diplomacy-falters?traffic_source=rss",
+        "description": "Despite losing slivers of territory, Ukraine is confident about its long-term prospects in the war.",
+        "pubDate": "2025-10-23T11:10:28Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Why the Louvre heist feels like justice — but isn’t",
+        "link": "https://www.aljazeera.com/opinions/2025/10/23/why-the-louvre-heist-feels-like-justice-but?traffic_source=rss",
+        "description": "A theft from a museum of empire may look like payback, yet the spoils will still enrich the same world that built it.",
+        "pubDate": "2025-10-23T11:09:47Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "US strikes alleged ‘narcoboat’ with threat to widen attacks on cartels",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/10/23/us-strikes-alleged-narcoboat-with-threat-to-widen-attacks-on-cartels?traffic_source=rss",
+        "description": "The United States has launched an airstrike on what it said was a drug-smuggling boat off the coast of South America.",
+        "pubDate": "2025-10-23T10:55:42Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Sudan’s Khartoum targeted by RSF drones for third day after airport reopens",
+        "link": "https://www.aljazeera.com/news/2025/10/23/sudans-khartoum-targeted-by-rsf-drones-for-third-day-after-airport-reopens?traffic_source=rss",
+        "description": "Khartoum International Airport briefly reopened on Wednesday before being hit again by drone strikes.",
+        "pubDate": "2025-10-23T10:52:46Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Trump says Putin talks 'don't go anywhere' as he imposes new sanctions",
@@ -383,12 +419,12 @@
         "bias": -1
       },
       {
-        "title": "North Carolina adopts new Trump-backed US House districts aimed at gaining a Republican seat - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVVFJZkJMdGdIcUJQQnJyQi1kT2JwOHJ4a1hMcUR2c043WjNIS0pyRkNnMTNybnY2ZmdlUmZ3Y2NJblBJcnJTLUszbWo0anYwU2NtZ3BDeUU2WGV4eFZOeG5PSXdjREF3RlJ2eHBJSnI0YnBUZnRnZk5LemtOSVl6bmJHRXROLWlmTkdwMzNrd3E1bjQ4Tkg2Rl9Fc2JvLVFMUVk5ZzRB?oc=5",
-        "description": "",
-        "pubDate": "2025-10-23T09:22:30Z",
-        "source": "news.google.com",
-        "image": "",
+        "title": "EU set to endorse deal to turn frozen Russian assets into support for Ukraine",
+        "link": "https://www.bbc.com/news/articles/cwykd4l3dy1o?at_medium=RSS&at_campaign=rss",
+        "description": "The contentious proposal would see Kyiv receive €140bn (£121bn) worth of frozen Russian state assets currently held in Belgium.",
+        "pubDate": "2025-10-23T09:06:48Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/438d/live/972b1f90-afe6-11f0-aa13-0b0479f6f42a.jpg",
         "bias": 0
       },
       {
@@ -608,6 +644,15 @@
         "bias": 0
       },
       {
+        "title": "Victor Wembanyama uses Cooper Flagg’s debut as a reminder of why he was so hyped - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcU1DWWlaSWtnUFN3NGRqek1weHJpMDlEZ08waV9VcXhVSFRWVFZfQjEzRXhURTE0WjZUYmV3ekVPU05YVDM3N3owcHJteWhoaEZQZkVJZlVlRUNUdlBYTFlGbmM2eC1WRWZDZGdsTlo1ejFjd1JWVmRhOVc5MFFqS2NtTUItM0RfbWJSbUE5UTl4T1hpZTVGR1lHRlVwM1liN0FtaUVTZzZ6UQ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-23T06:15:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Giants name Tennessee's Vitello manager, gambling on a college coach with no professional experience - AP News",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdklwYm1rdWkwMFI4T0hBbDZseEdSbXZlMElnWlAzcnhTeHY2Q2Faei1wY01abzdjWkI4Yy13bmlmc0J4cXdORmJoeFhWVldiQS1HT0xUSzcyWnEyNDlFcS1mZG1hZGZPN0ZsWmhWU055Ym5UcF9tRVdkb1BUNnF2ZU5fVjdQdW1ZaHMxMS1aeklUU3Y0aXU2bFhMVnJjNTV4Q2Fn?oc=5",
         "description": "",
@@ -630,60 +675,6 @@
         "link": "https://www.aljazeera.com/news/2025/10/23/cuba-captures-alleged-chinese-fentanyl-kingpin-wanted-by-us-mexico-says?traffic_source=rss",
         "description": "Alleged trafficker, Zhi Dong Zhang, who had escaped Mexican authorities in July, was arrested in Cuba,",
         "pubDate": "2025-10-23T05:58:42Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Louvre director recognises jewel theft failures, says she offered to resign",
-        "link": "https://www.aljazeera.com/news/2025/10/23/louvre-director-recognises-jewel-theft-failures-says-she-offered-to-resign?traffic_source=rss",
-        "description": "Laurence des Cars told France's Senate the heist exposed the museum's camera shortage and other security 'weaknesses'.",
-        "pubDate": "2025-10-23T05:28:34Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "US national debt surpasses a record $38 trillion",
-        "link": "https://www.aljazeera.com/economy/2025/10/23/us-national-debt-surpasses-a-record-38-trillion?traffic_source=rss",
-        "description": "The figure amounts to roughly $111,000 of debt for every person in the US, think tank says.",
-        "pubDate": "2025-10-23T04:59:34Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "IOC recommends no international sporting events in Indonesia after country barred Israeli athletes - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTHo4RDhhdGF2YU1ibVdiMTNDazEtTF9lQVRVWjd4TnJUdUtFTkwyS25keG1DVGxlalFCTlJYcWVRbUVrR3lFcW0wb3FSbjR3Z3dQb1M0NW1ORXZ0OEd1cDVMOW1BZ2JJczN4bDhkNzl4WGViUHp0alBneTFoRnVRYkRaQlpwNFRVMDNkc0kzOTY?oc=5",
-        "description": "",
-        "pubDate": "2025-10-23T04:57:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "How inflatable costumes ballooned at anti-Trump rallies due to a Portland protester's frog outfit - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNzR3STU5SWI1cG9Xc0lqT3JfbVljZjJad2RycGp5QTBWLVc4RnFOWkZlOXZjay1EYXRIZUt1UnpGWjdzOER2VE5rVWpLajJKUm91QVlyN1laeHNfOGk2Rmc4dTFEdVBwVEpUZm1jckVvelZLVUo3VjJwd2d4V29tMkIwMDFENGs4emJ3TF9HNFQwUjZueXNuT25sSlYzZw?oc=5",
-        "description": "",
-        "pubDate": "2025-10-23T04:04:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Alabama to execute man for 1993 murder in state’s latest nitrogen gas execution - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaGN1RWM0cUZxeERQWEdXVWlzaWYzelVLZ0paSXN3RjdhOWNxaXB4Z2poMHU1QzRpUVJmem53a08yMjhCaWJWZVJjTzFaZ1NMMlllQ0ZFQzAtYjNWc2JRUEFIY1FKNW9ncHZJckNHN0NzakhkS2RrWXBmSk1xNUQ5YjhPd0lrMGdaZmY3RzBDdGRjMjNM?oc=5",
-        "description": "",
-        "pubDate": "2025-10-23T04:01:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Trump hits Russia’s oil giants with sanctions, EU bans Russian LNG",
-        "link": "https://www.aljazeera.com/news/2025/10/23/trump-hits-russias-oil-giants-with-sanctions-eu-bans-russian-lng?traffic_source=rss",
-        "description": "US president imposes sanctions as his patience wears thin over Moscow's inaction in ending the war in Ukraine.",
-        "pubDate": "2025-10-23T03:56:42Z",
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
@@ -790,15 +781,6 @@
         "bias": 0
       },
       {
-        "title": "Victor Wembanyama uses Cooper Flagg’s debut as a reminder of why he was so hyped - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcU1DWWlaSWtnUFN3NGRqek1weHJpMDlEZ08waV9VcXhVSFRWVFZfQjEzRXhURTE0WjZUYmV3ekVPU05YVDM3N3owcHJteWhoaEZQZkVJZlVlRUNUdlBYTFlGbmM2eC1WRWZDZGdsTlo1ejFjd1JWVmRhOVc5MFFqS2NtTUItM0RfbWJSbUE5UTl4T1hpZTVGR1lHRlVwM1liN0FtaUVTZzZ6UQ?oc=5",
-        "description": "",
-        "pubDate": "2025-10-23T06:15:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Polls open for key Caerphilly by-election",
         "link": "https://www.bbc.com/news/articles/c993nlyrdglo?at_medium=RSS&at_campaign=rss",
         "description": "Voters head to the polls in a by-election to choose a member of the Senedd.",
@@ -821,6 +803,15 @@
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLTAyeWtxbzRfcmsyR0NraTVtT2RpYXBhOUxpalhfbkcwZzA1MU9YOUFFbkN4X1EzWEhRYnE4c1pDMWdEd1hvS0JoT21kcWpJcTBwWHVhSnhkNkljNlNiNjhhNjU0MEk2WGwxZTRVMVd4LXJEdzJZMTBxMGpPb0hfZEt3cnppNm82ZWFTOFhkblZRcEs5bEZDUDlxeGNhVlJ1OG5Wamhn?oc=5",
         "description": "",
         "pubDate": "2025-10-23T02:05:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "North Carolina lawmakers approve map adding a GOP House seat - AP News",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vU1laYnJwUUtvb2JhYldoZWpFMWdacFRXeEw1S0tSRnR6ZHRtay1BOEV4TDFxZS1vY0YtempUTllIcU1TWFhOS0czVFdnZVZmYmd5NEtkck9maDVqZEhYV2N1NDJvUW5kV0llcw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-23T01:53:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
