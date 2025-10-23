@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-10-23T07:18:54.816986Z",
+  "lastUpdate": "2025-10-23T07:33:53.688744Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Arcadetrix [Free] [Other] [Windows]",
+        "link": "https://indie-game-studio.itch.io/arcadetrix",
+        "description": "",
+        "pubDate": "2025-10-23T07:15:55Z",
+        "source": "indie-game-studio.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNzM4MjgyLnBuZw==/315x250%23c/lEVMeR.png",
+        "bias": 0
+      },
       {
         "title": "Ouro & Boro - Tied up in trouble [Free] [Platformer] [Windows]",
         "link": "https://indie-game-studio.itch.io/ouro-boro-tied-up-in-trouble",
@@ -174,16 +183,7 @@
         "bias": 0
       },
       {
-        "title": "2D Platformer Tutorial [Free]",
-        "link": "https://umiiizoomiii.itch.io/2d-platformertutorial",
-        "description": "",
-        "pubDate": "2025-10-23T05:07:09Z",
-        "source": "umiiizoomiii.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzM3NTA5LnBuZw==/315x250%23c/IyAar8.png",
-        "bias": 0
-      },
-      {
-        "title": "One-Eyed Scribe [Free] [Shooter] [Windows]",
+        "title": "One-Eyed Scribe [Free] [Shooter]",
         "link": "https://jashnola.itch.io/one-eyed-scribe",
         "description": "",
         "pubDate": "2025-10-23T05:04:20Z",
@@ -248,12 +248,48 @@
     ],
     "World": [
       {
+        "title": "France backing away from pledge to intercept migrant boats, sources tell BBC",
+        "link": "https://www.bbc.com/news/articles/cn8vr95n5n3o?at_medium=RSS&at_campaign=rss",
+        "description": "The commitment has been hit by delays, with political turmoil in France partly to blame.",
+        "pubDate": "2025-10-23T07:17:51Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7a3/live/a20e2590-af61-11f0-aa13-0b0479f6f42a.jpg",
+        "bias": 0
+      },
+      {
         "title": "Trump says Putin talks 'don't go anywhere' as he imposes new sanctions",
         "link": "https://www.bbc.com/news/articles/cd6758pn6ylo?at_medium=RSS&at_campaign=rss",
         "description": "The US has announced new sanctions on Rosneft and Lukoil, Russia's two largest oil companies, over continued fighting in Ukraine.",
         "pubDate": "2025-10-23T07:16:03Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0ac/live/afacf5b0-afd8-11f0-ba75-093eca1ac29b.jpg",
+        "bias": 0
+      },
+      {
+        "title": "What's at stake as Trump boat strikes strain US-Colombia alliance",
+        "link": "https://www.bbc.com/news/articles/c709w5v9dq9o?at_medium=RSS&at_campaign=rss",
+        "description": "A major rift threatens to upend an alliance that has been targeting drug traffickers for years.",
+        "pubDate": "2025-10-23T07:11:02Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74b6/live/b89d9640-aebe-11f0-ba75-093eca1ac29b.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Forty migrants, including infants, die as boat sinks off Tunisia",
+        "link": "https://www.bbc.com/news/articles/c0rp5805ykzo?at_medium=RSS&at_campaign=rss",
+        "description": "All the victims and those rescued were from sub-Saharan African countries, an official says.",
+        "pubDate": "2025-10-23T06:39:20Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ca4/live/5e3c76b0-afce-11f0-be1a-29a37cb41475.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Strong winds in New Zealand leave tens of thousands without power",
+        "link": "https://www.bbc.com/news/articles/cwyp07kpgrvo?at_medium=RSS&at_campaign=rss",
+        "description": "Authorities have issued a rare red wind warning, the highest alert level, for the capital Wellington.",
+        "pubDate": "2025-10-23T06:36:52Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13d6/live/c8af7710-afd6-11f0-84cb-eff459ebf026.jpg",
         "bias": 0
       },
       {
@@ -264,6 +300,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "An ex-first lady, a tycoon and a 'safe pair of hands' vie for power in a cocoa superpower",
+        "link": "https://www.bbc.com/news/articles/cx2de6wkd4qo?at_medium=RSS&at_campaign=rss",
+        "description": "The fervour of presidential campaigning belies concerns about the political landscape in Ivory Coast.",
+        "pubDate": "2025-10-23T06:29:34Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a052/live/3bbcb0e0-ae94-11f0-ba75-093eca1ac29b.jpg",
+        "bias": 0
       },
       {
         "title": "American e-waste is causing a ‘hidden tsunami’ in Southeast Asia, report says - AP News",
@@ -482,15 +527,6 @@
         "bias": 0
       },
       {
-        "title": "Top UN court says Israel must allow UN relief agency to supply aid to Gaza - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN3ppYlFKWUV6a0g1NDNGckZ1ZTBRazd3dl9xbnlLNzZOcEluX1BsTTRMSTVDOVJoQlZmcWZ5THZCbGtQcTFEeGtxS1NOeUwyR2xzaDFMY0YwSkctaGtDQnpaS0R3VURyc0czd09pUVJCcmhxR2dfSG8xbGxPb1N2aEN1NGh6ZnhBZjhZQkJ6MWFtVnBtbnNBM2FBRjVrTHNfakE?oc=5",
-        "description": "",
-        "pubDate": "2025-10-23T00:51:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "The men of ‘Regretting You’ on Colleen Hoover, romantic movies and shirtless scenes - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbXp2OE5oNlJoREk4VFRBTnJRQUFWTlpmcUZOZXFQbmJHRWR0YVo1bkV0cXhNNlVjZ3FSamdBMHFiajFfZVpZZXB5Zm9QMllnRlJZRTJETzI2Yl9GaGt6UF9yQVB1anI1QmR4b2dhZHlJNDFkR2lsOEN4S0FIM2x4dW5Bd1Z3em5CcUhwenlBOVV6NUVaRGQ1eDdRRFBoOXhyUGFJeDRHcDRuVnM?oc=5",
         "description": "",
@@ -547,15 +583,6 @@
     ],
     "Politics": [
       {
-        "title": "France backing away from pledge to intercept migrant boats, sources tell BBC",
-        "link": "https://www.bbc.com/news/articles/cn8vr95n5n3o?at_medium=RSS&at_campaign=rss",
-        "description": "The commitment has been hit by delays, with political turmoil in France partly to blame.",
-        "pubDate": "2025-10-23T07:17:51Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7a3/live/a20e2590-af61-11f0-aa13-0b0479f6f42a.jpg",
-        "bias": 0
-      },
-      {
         "title": "Four survivors call for minister to quit as row deepens over grooming inquiry",
         "link": "https://www.bbc.com/news/articles/cly285e5ljyo?at_medium=RSS&at_campaign=rss",
         "description": "They say they will rejoin the inquiry if Jess Phillips quits, but sources say she has the government's full support.",
@@ -583,6 +610,15 @@
         "bias": 0
       },
       {
+        "title": "Alleged Chinese drug trafficker recaptured in Cuba after escaping Mexican custody - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLTAyeWtxbzRfcmsyR0NraTVtT2RpYXBhOUxpalhfbkcwZzA1MU9YOUFFbkN4X1EzWEhRYnE4c1pDMWdEd1hvS0JoT21kcWpJcTBwWHVhSnhkNkljNlNiNjhhNjU0MEk2WGwxZTRVMVd4LXJEdzJZMTBxMGpPb0hfZEt3cnppNm82ZWFTOFhkblZRcEs5bEZDUDlxeGNhVlJ1OG5Wamhn?oc=5",
+        "description": "",
+        "pubDate": "2025-10-23T02:05:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Immigrant rights group calls for removing pregnant women from detention - AP News",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVUJXcFdtdkJ6YWstYVM1WlZ4TTlZUWtXUkM3V2JUWTcwVWpwWmd1MTZUeG1aNjMyZXJPdm43ejNMakw1RGRRMmlCWkpGTkMyWU5aci0tbXR0SHdvSk41VURUNHFxNms0amxNV09mYm1uY2U5WXplYXRkN3dYRmpJanBCTXRlSTNCUHNDc0RCZWk?oc=5",
         "description": "",
@@ -598,6 +634,15 @@
         "pubDate": "2025-10-23T01:02:11Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/297e/live/9fdf2c40-af90-11f0-b913-f3ce4c5c6c56.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Top UN court says Israel must allow UN relief agency to supply aid to Gaza - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN3ppYlFKWUV6a0g1NDNGckZ1ZTBRazd3dl9xbnlLNzZOcEluX1BsTTRMSTVDOVJoQlZmcWZ5THZCbGtQcTFEeGtxS1NOeUwyR2xzaDFMY0YwSkctaGtDQnpaS0R3VURyc0czd09pUVJCcmhxR2dfSG8xbGxPb1N2aEN1NGh6ZnhBZjhZQkJ6MWFtVnBtbnNBM2FBRjVrTHNfakE?oc=5",
+        "description": "",
+        "pubDate": "2025-10-23T00:51:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -628,19 +673,19 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e69/live/ddde2400-af9b-11f0-8486-010dacb229b9.jpg",
         "bias": 0
-      },
-      {
-        "title": "Alleged Chinese drug trafficker recaptured in Cuba after escaping Mexican custody - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLTAyeWtxbzRfcmsyR0NraTVtT2RpYXBhOUxpalhfbkcwZzA1MU9YOUFFbkN4X1EzWEhRYnE4c1pDMWdEd1hvS0JoT21kcWpJcTBwWHVhSnhkNkljNlNiNjhhNjU0MEk2WGwxZTRVMVd4LXJEdzJZMTBxMGpPb0hfZEt3cnppNm82ZWFTOFhkblZRcEs5bEZDUDlxeGNhVlJ1OG5Wamhn?oc=5",
-        "description": "",
-        "pubDate": "2025-10-23T02:05:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Science": [],
     "Business": [
+      {
+        "title": "What do US sanctions on Russian oil mean, and who could be affected?",
+        "link": "https://www.bbc.com/news/articles/c0qpne1pz3jo?at_medium=RSS&at_campaign=rss",
+        "description": "The new sanctions target Moscow's ability to fund its war machine, the US Treasury said.",
+        "pubDate": "2025-10-23T07:32:55Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b1b/live/8d457780-afca-11f0-9898-052b704fd06d.jpg",
+        "bias": 0
+      },
       {
         "title": "Is Yorkshire turning into a banking desert?",
         "link": "https://www.bbc.com/news/articles/cpd2ev0lp41o?at_medium=RSS&at_campaign=rss",
@@ -657,15 +702,6 @@
         "pubDate": "2025-10-23T05:31:28Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a99e/live/88482cf0-af3e-11f0-a743-017a38be2260.jpg",
-        "bias": 0
-      },
-      {
-        "title": "What do US sanctions on Russian oil mean, and who could be affected?",
-        "link": "https://www.bbc.com/news/articles/c0qpne1pz3jo?at_medium=RSS&at_campaign=rss",
-        "description": "The new sanctions target Moscow's ability to fund its war machine, the US Treasury said.",
-        "pubDate": "2025-10-23T04:27:32Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b1b/live/8d457780-afca-11f0-9898-052b704fd06d.jpg",
         "bias": 0
       },
       {
