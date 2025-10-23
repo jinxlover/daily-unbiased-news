@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-10-23T08:29:14.541175Z",
+  "lastUpdate": "2025-10-23T08:50:45.050359Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Pizza Party [Free]",
+        "link": "https://noxlurus.itch.io/pizza-party",
+        "description": "Make your own pizzas! Use different ingredients to design custom images and sell them for a profit!",
+        "pubDate": "2025-10-23T08:31:27Z",
+        "source": "noxlurus.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNzM4NjkxLnBuZw==/315x250%23c/NcpRBl.png",
+        "bias": 0
+      },
       {
         "title": "Last Night [Free]",
         "link": "https://carelih.itch.io/last-night",
@@ -18,6 +27,15 @@
         "pubDate": "2025-10-23T07:43:39Z",
         "source": "nyopp.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNzM4NDkyLnBuZw==/315x250%23c/WOp8QX.png",
+        "bias": 0
+      },
+      {
+        "title": "Platform 8 [Free] [Platformer] [Windows]",
+        "link": "https://ilves15.itch.io/platform-8",
+        "description": "A short 2D horror game",
+        "pubDate": "2025-10-23T07:40:17Z",
+        "source": "ilves15.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNzM4NDQ0LnBuZw==/315x250%23c/pfA1zF.png",
         "bias": 0
       },
       {
@@ -122,10 +140,10 @@
       {
         "title": "Brinksman [Free] [Strategy]",
         "link": "https://anapostrophe.itch.io/brinksman",
-        "description": "War crime strategy game.",
+        "description": "War strategy game",
         "pubDate": "2025-10-23T06:23:17Z",
         "source": "anapostrophe.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzM4MjExLnBuZw==/315x250%23c/xxFp9O.png",
+        "image": "https://img.itch.zone/aW1nLzIzNzM4Njg5LnBuZw==/315x250%23c/wNxxyv.png",
         "bias": 0
       },
       {
@@ -174,15 +192,6 @@
         "bias": 0
       },
       {
-        "title": "Before the Iron Clouds [Free] [Simulation]",
-        "link": "https://psy-games.itch.io/before-the-iron-clouds",
-        "description": "The scientist's secret mission on a godforsaken planet",
-        "pubDate": "2025-10-23T05:34:16Z",
-        "source": "psy-games.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzM3NjQyLnBuZw==/315x250%23c/p5ezdK.png",
-        "bias": 0
-      },
-      {
         "title": "Wheat Bread Tomato Cake [Free] [Interactive Fiction]",
         "link": "https://darksamrai.itch.io/wheat-bread-tomato-cake",
         "description": "Human needs to eat, drink and consume entertainment to grow",
@@ -228,15 +237,6 @@
         "bias": 0
       },
       {
-        "title": "Skip-Tracer [Free] [Other]",
-        "link": "https://vida85.itch.io/skip-tracer",
-        "description": "A space bounty hunter uncovers secrets buried deep within his own life!",
-        "pubDate": "2025-10-23T01:18:42Z",
-        "source": "vida85.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzM3Mjc4LnBuZw==/315x250%23c/%2FIxRs6.png",
-        "bias": 0
-      },
-      {
         "title": "Darkslide [Free]",
         "link": "https://soupierer.itch.io/dark-slide",
         "description": "",
@@ -247,6 +247,24 @@
       }
     ],
     "World": [
+      {
+        "title": "Ten dead in blast at Russian munitions plant in Urals - reports",
+        "link": "https://www.bbc.com/news/articles/ckgzx82p1x5o?at_medium=RSS&at_campaign=rss",
+        "description": "Witnesses described seeing explosions and a fireball at the Plastmass military plant in Kopeisk.",
+        "pubDate": "2025-10-23T08:36:22Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d091/live/3bb0f920-afe9-11f0-a143-2b4ebe719445.png",
+        "bias": 0
+      },
+      {
+        "title": "Graveyards are now last option shelters in Gaza for Palestinians amid ruins",
+        "link": "https://www.aljazeera.com/news/2025/10/23/graveyards-are-now-last-option-shelters-in-gaza-for-palestinians-amid-ruins?traffic_source=rss",
+        "description": "'Even the land for the dead is now the only refuge for the living', one Gaza resident says.",
+        "pubDate": "2025-10-23T08:32:38Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Trump says Putin talks 'don't go anywhere' as he imposes new sanctions",
         "link": "https://www.bbc.com/news/articles/cd6758pn6ylo?at_medium=RSS&at_campaign=rss",
@@ -500,15 +518,6 @@
         "bias": 0
       },
       {
-        "title": "Tropical Storm Melissa dumps heavy rain on Haiti and the Dominican Republic - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd0lGSFUtZExGWnFhanpieF9Lc2FNQlBlUFhSZjlWa2lqd2hmYzdteGVBWEVIalQ1enY5MHE4VGNXVkRsd05ORU5FeDdkYWhZR3ZzdzJSZHFFTm5BdC1KSjQtbTVndS1LTHlfaHhfWTNPa0pBQk1zcF8weEtPdG0tOUJkb0YyU0NrSm1Pa3JnVjdmX2RVaEtZYkJjX2xJNHU2djl1azNONHNQN1paeTJJWktWZ2xjZw?oc=5",
-        "description": "",
-        "pubDate": "2025-10-23T02:49:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Mamdani, Cuomo clash in final NYC mayoral debate: Key takeaways",
         "link": "https://www.aljazeera.com/news/2025/10/23/mamdani-cuomo-clash-in-final-nyc-mayoral-debate-key-takeaways?traffic_source=rss",
         "description": "Mamdani attacked over affordability platform, support for Palestine; Cuomo challenged on sexual harassment.",
@@ -628,10 +637,19 @@
     ],
     "Politics": [
       {
+        "title": "When is the Budget and what might be in it?",
+        "link": "https://www.bbc.com/news/articles/cj4w44w42j5o?at_medium=RSS&at_campaign=rss",
+        "description": "Chancellor Rachel Reeves will set out her economic plans in her second Budget on 26 November.",
+        "pubDate": "2025-10-23T08:46:13Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8376/live/c5070a20-96b3-11ef-99af-372359b57a36.png",
+        "bias": 0
+      },
+      {
         "title": "Four survivors say minister must quit for them to rejoin grooming inquiry",
         "link": "https://www.bbc.com/news/articles/cly285e5ljyo?at_medium=RSS&at_campaign=rss",
         "description": "The government is standing by safeguarding minister Jess Phillips as the grooming gang row deepens.",
-        "pubDate": "2025-10-23T08:14:00Z",
+        "pubDate": "2025-10-23T08:28:59Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9e5/live/9578b340-afa7-11f0-b2a1-6f537f66f9aa.jpg",
         "bias": 0
@@ -720,10 +738,20 @@
         "bias": 0
       }
     ],
-    "Science": [],
+    "Science": [
+      {
+        "title": "Thames Water given lowest one star rating for repeated sewage spills",
+        "link": "https://www.bbc.com/news/articles/cdjrymnx1e8o?at_medium=RSS&at_campaign=rss",
+        "description": "England's water companies had their worst combined score since assessment began in 2011.",
+        "pubDate": "2025-10-23T08:48:36Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
+        "bias": 0
+      }
+    ],
     "Business": [
       {
-        "title": "Chocolatier selling smaller bars amid price surge",
+        "title": "Why cost of living is shrinking our chocolate bars",
         "link": "https://www.bbc.com/news/articles/ced6l4xeg3eo?at_medium=RSS&at_campaign=rss",
         "description": "The price of chocolate has gone up by 15% in the last year, according to official statistics.",
         "pubDate": "2025-10-23T07:50:44Z",
