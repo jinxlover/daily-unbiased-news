@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-10-23T10:21:32.137236Z",
+  "lastUpdate": "2025-10-23T10:43:36.708432Z",
   "news": {
     "Gaming": [
+      {
+        "title": "games&guarana [Free]",
+        "link": "https://fblazarini.itch.io/gamesguarana",
+        "description": "",
+        "pubDate": "2025-10-23T10:26:16Z",
+        "source": "fblazarini.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNzM5NDc1LnBuZw==/315x250%23c/%2B1iPTA.png",
+        "bias": 0
+      },
       {
         "title": "Echoes in the Mirrors [Free] [Adventure] [Windows]",
         "link": "https://neibucrion.itch.io/echoes-in-the-mirrors",
@@ -18,6 +27,15 @@
         "pubDate": "2025-10-23T09:59:36Z",
         "source": "pico-star.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNzM5MjQ5LmpwZWc=/315x250%23c/8IqnvD.jpeg",
+        "bias": 0
+      },
+      {
+        "title": "totaly fair minecart race [Free] [Racing] [Windows]",
+        "link": "https://gamedevteun.itch.io/totaly-fair-minecart-race",
+        "description": "",
+        "pubDate": "2025-10-23T09:57:32Z",
+        "source": "gamedevteun.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNzM5MzI0LnBuZw==/315x250%23c/YdqLOa.png",
         "bias": 0
       },
       {
@@ -72,6 +90,15 @@
         "pubDate": "2025-10-23T08:01:08Z",
         "source": "unayung.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNzM4NTI3LnBuZw==/315x250%23c/6A6%2Fg%2B.png",
+        "bias": 0
+      },
+      {
+        "title": "Space Expansion [Free] [Simulation]",
+        "link": "https://tobiasehret.itch.io/space-expansion",
+        "description": "Build. Automate. Expand.",
+        "pubDate": "2025-10-23T07:50:18Z",
+        "source": "tobiasehret.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNzM4NjE2LnBuZw==/315x250%23c/AX9o20.png",
         "bias": 0
       },
       {
@@ -219,24 +246,6 @@
         "bias": 0
       },
       {
-        "title": "Wicked Wagers [Free] [Other]",
-        "link": "https://deeg-p23.itch.io/wicked-wagers",
-        "description": "",
-        "pubDate": "2025-10-23T05:40:35Z",
-        "source": "deeg-p23.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzM3Njg5LnBuZw==/315x250%23c/nDVgOQ.png",
-        "bias": 0
-      },
-      {
-        "title": "Baldi’s Basics Classic Remastered Plus [Free] [Strategy] [macOS]",
-        "link": "https://anthonfoxy124.itch.io/baldis-basics-classic-remastered-plus",
-        "description": "Baldi’s Basics in Education and Learning",
-        "pubDate": "2025-10-23T04:38:22Z",
-        "source": "anthonfoxy124.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzM3MjIyLmpwZWc=/315x250%23c/jBXYx3.jpeg",
-        "bias": 0
-      },
-      {
         "title": "Brother Hai's Pho Restaurant - Tiệm Phở Của Anh Hai [$1.00] [Simulation] [Windows] [Linux]",
         "link": "https://marisa0704.itch.io/brother-hais-pho-restaurant",
         "description": "Running a Vietnamese Pho restaurant is not easy",
@@ -257,12 +266,30 @@
     ],
     "World": [
       {
-        "title": "Ten dead in blast at Russian munitions plant in Urals, reports say",
+        "title": "Ten dead in blast at Russian munitions plant in Urals",
         "link": "https://www.bbc.com/news/articles/ckgzx82p1x5o?at_medium=RSS&at_campaign=rss",
         "description": "Witnesses describe seeing explosions and a fireball at the Plastmass military plant in Kopeisk.",
-        "pubDate": "2025-10-23T10:03:31Z",
+        "pubDate": "2025-10-23T10:35:21Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d091/live/3bb0f920-afe9-11f0-a143-2b4ebe719445.png",
+        "bias": 0
+      },
+      {
+        "title": "Victor Wembanyama scores 40 points as Spurs dominate Mavericks in NBA",
+        "link": "https://www.aljazeera.com/sports/2025/10/23/victor-wembanyama-scores-40-points-as-spurs-dominate-mavericks-in-nba?traffic_source=rss",
+        "description": "The 228cm (7-foot-5) player scored the most points in San Antonio history for an NBA season opening fixture.",
+        "pubDate": "2025-10-23T10:29:10Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "A new Harry Potter, Hermione Granger and Ron Weasley want to tell you a story - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdGRrY0hsZDJfRm85VGxuN0ZsXzRXRndfWVZxcmk0bG02VmRaNFpMN1MwM09ZaXhnZkhxMzZrUlZYZFFkNGNqMHZUaEQ5c2twbjdFNXZ3aXh4RHZ5OHlJMmxUQ2lYTk9xUDlMcGxlWjZ6NEN4NlNsRUV3WmxGblZGc3lmcUUwNmg0VWIxWjNqM01VWmdtb25zMg?oc=5",
+        "description": "",
+        "pubDate": "2025-10-23T10:15:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -275,6 +302,33 @@
         "bias": 0
       },
       {
+        "title": "Watch a baby elephant play ball with a small pumpkin as her family smashes massive ones - AP News",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcmx5Rlc0cEx2NnNzcE1hNmlhekJHdm9sQXJMNG9KTE1TVGo0RUMxT2RLalcyR3ZzS3A5MkJWR1k3N0RFMU52Z2N2QW9mQldEa3NZRHFhdmVncjBYMXEtbWVZNWM2RGxOejFfRjd5bXhOdHFJTExnS2c3aEpyU3BaWjlxMFQwenNzanhLYjE5c1dqbU9LeWNJN3JlMmVzaXA3Nnd2cXVDbXNtUUdFTjk2QTJMdnFDWjdlOFdSb3Fid3dDMEEzbHRtUVBkclRPczBsWWRqN3dKLVdBS2dOU0E?oc=5",
+        "description": "",
+        "pubDate": "2025-10-23T09:56:24Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "South Africa thump Pakistan by eight wickets to draw Test series",
+        "link": "https://www.aljazeera.com/sports/2025/10/23/south-africa-thump-pakistan-by-eight-wickets-to-draw-test-series?traffic_source=rss",
+        "description": "Maharaj, Harmer star with the ball as hosts are bowled out for 138, setting South Africa 68 to win the second Test.",
+        "pubDate": "2025-10-23T09:54:13Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "From illusion to real peace: Trump’s test in Gaza and Ukraine",
+        "link": "https://www.aljazeera.com/opinions/2025/10/23/from-illusion-to-real-peace-trumps-test-in-gaza-and-ukraine?traffic_source=rss",
+        "description": "Real peace demands Palestinian statehood, Ukrainian neutrality and the courage to defy the war lobby.",
+        "pubDate": "2025-10-23T09:50:11Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Gaza funerals held for unidentified Palestinians, bodies returned by Israel",
         "link": "https://www.aljazeera.com/gallery/2025/10/23/gaza-funerals-held-for-unidentified-palestinians-bodies-returned-by-israel?traffic_source=rss",
         "description": "Funeral procession honours deceased Palestinians amid grief as bodies are buried in mass graves in Deir el-Balah.",
@@ -282,6 +336,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "China to focus on speeding up self-reliance in science and tech in new economic plan - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSFg0RUxFakpkb2owU2YwWE1qNDJ5cy02RzF0UUZaUlpxYXdrSlgtSU4wMDVtSDk3b0RBZ1BPNkdid2pNVTBMTUkweE5za0hMXzhLY1drQzYydmptNGhrUVlGWmRfTlVhZGt3VE1TZnc5cWw0T2hwaGE5S1d6bkNWcUNJSE9TWkhDbkZMaWlTeGNjVzFwa0xXOHUxLU5iMXB3Ylkzci0zN05BLThwMW53?oc=5",
+        "description": "",
+        "pubDate": "2025-10-23T09:30:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "EU poised to agree on using frozen Russian assets to help Ukraine in war",
@@ -417,15 +480,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "A new Harry Potter, Hermione Granger and Ron Weasley want to tell you a story - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdGRrY0hsZDJfRm85VGxuN0ZsXzRXRndfWVZxcmk0bG02VmRaNFpMN1MwM09ZaXhnZkhxMzZrUlZYZFFkNGNqMHZUaEQ5c2twbjdFNXZ3aXh4RHZ5OHlJMmxUQ2lYTk9xUDlMcGxlWjZ6NEN4NlNsRUV3WmxGblZGc3lmcUUwNmg0VWIxWjNqM01VWmdtb25zMg?oc=5",
-        "description": "",
-        "pubDate": "2025-10-23T07:22:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "France backing away from pledge to intercept migrant boats, sources tell BBC",
@@ -660,54 +714,27 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "US strikes two more alleged drug-carrying boats, this time in the Pacific Ocean - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMGJLa3IwM1dXSHFLemp3SkRjSGhpT203TF9IaXhHQkxyNGJZZWg5NG9hdjZPQmFZYi1EM2hyZlhvOHBsSXpicUFzbFk5UWdfWjJMdW11N1llUFJBMVhvWkxqbGlpY2Q1Rkx3TjExNnB0N1J4bl8zcGVuZy1pZjRxRFlkdjhEQ05yODN3OEhCLXZYNTlj?oc=5",
-        "description": "",
-        "pubDate": "2025-10-23T02:29:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "North Carolina lawmakers approve map adding a GOP House seat - AP News",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vU1laYnJwUUtvb2JhYldoZWpFMWdacFRXeEw1S0tSRnR6ZHRtay1BOEV4TDFxZS1vY0YtempUTllIcU1TWFhOS0czVFdnZVZmYmd5NEtkck9maDVqZEhYV2N1NDJvUW5kV0llcw?oc=5",
-        "description": "",
-        "pubDate": "2025-10-23T01:53:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Immigrant rights group calls for removing pregnant women from detention - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVUJXcFdtdkJ6YWstYVM1WlZ4TTlZUWtXUkM3V2JUWTcwVWpwWmd1MTZUeG1aNjMyZXJPdm43ejNMakw1RGRRMmlCWkpGTkMyWU5aci0tbXR0SHdvSk41VURUNHFxNms0amxNV09mYm1uY2U5WXplYXRkN3dYRmpJanBCTXRlSTNCUHNDc0RCZWk?oc=5",
-        "description": "",
-        "pubDate": "2025-10-23T01:35:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Russia-Ukraine war: List of key events, day 1,337",
-        "link": "https://www.aljazeera.com/news/2025/10/23/russia-ukraine-war-list-of-key-events-day-1337?traffic_source=rss",
-        "description": "Here are the key events from day 1,337 of Russia’s war on Ukraine.",
-        "pubDate": "2025-10-23T01:10:46Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Top UN court says Israel must allow UN relief agency to supply aid to Gaza - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN3ppYlFKWUV6a0g1NDNGckZ1ZTBRazd3dl9xbnlLNzZOcEluX1BsTTRMSTVDOVJoQlZmcWZ5THZCbGtQcTFEeGtxS1NOeUwyR2xzaDFMY0YwSkctaGtDQnpaS0R3VURyc0czd09pUVJCcmhxR2dfSG8xbGxPb1N2aEN1NGh6ZnhBZjhZQkJ6MWFtVnBtbnNBM2FBRjVrTHNfakE?oc=5",
-        "description": "",
-        "pubDate": "2025-10-23T00:51:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Four survivors say minister must quit for them to rejoin grooming inquiry",
+        "link": "https://www.bbc.com/news/articles/cly285e5ljyo?at_medium=RSS&at_campaign=rss",
+        "description": "The government is standing by safeguarding minister Jess Phillips as the grooming gang row deepens.",
+        "pubDate": "2025-10-23T10:38:18Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9e5/live/9578b340-afa7-11f0-b2a1-6f537f66f9aa.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Source of Miliband's energy bill pledge casts doubt on savings",
+        "link": "https://www.bbc.com/news/articles/cwy7gj181k0o?at_medium=RSS&at_campaign=rss",
+        "description": "The expert behind the research on which a £300 savings pledge is based says the promise is \"tricky\" to deliver.",
+        "pubDate": "2025-10-23T10:36:58Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0426/live/7d064620-aea7-11f0-b305-65f4f8d88da9.jpg",
+        "bias": 0
+      },
       {
         "title": "When is the Budget and what might be in it?",
         "link": "https://www.bbc.com/news/articles/cj4w44w42j5o?at_medium=RSS&at_campaign=rss",
@@ -763,15 +790,6 @@
         "bias": -1
       },
       {
-        "title": "Four survivors say minister must quit for them to rejoin grooming inquiry",
-        "link": "https://www.bbc.com/news/articles/cly285e5ljyo?at_medium=RSS&at_campaign=rss",
-        "description": "The government is standing by safeguarding minister Jess Phillips as the grooming gang row deepens.",
-        "pubDate": "2025-10-23T08:28:59Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9e5/live/9578b340-afa7-11f0-b2a1-6f537f66f9aa.jpg",
-        "bias": 0
-      },
-      {
         "title": "Belgium warns EU partners to share its risk if they want to use frozen Russian assets to aid Ukraine - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdFdleVdlSWlfWklTTXZuOU9ULVlaY3VaNGt1eHBrTGhaT0dIVzhqQ0lPajVKUHpieHBxV1lsSExkVThsaS1JUUxRUkFMVmRPMm01aEtqaHBqOWhBcEdndnR4eXh6UFJVU19wWVJFbVBQUEd5eWN4V0JaS0tSeXc1OHRZLUFmYWVqcS1GSjQ1SV8zYWZISW1seEJWWWZ6eWdTNWJGcFBIQnNxbVk?oc=5",
         "description": "",
@@ -799,10 +817,10 @@
         "bias": 0
       },
       {
-        "title": "Alleged Chinese drug trafficker recaptured in Cuba after escaping Mexican custody - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLTAyeWtxbzRfcmsyR0NraTVtT2RpYXBhOUxpalhfbkcwZzA1MU9YOUFFbkN4X1EzWEhRYnE4c1pDMWdEd1hvS0JoT21kcWpJcTBwWHVhSnhkNkljNlNiNjhhNjU0MEk2WGwxZTRVMVd4LXJEdzJZMTBxMGpPb0hfZEt3cnppNm82ZWFTOFhkblZRcEs5bEZDUDlxeGNhVlJ1OG5Wamhn?oc=5",
+        "title": "North Korea says its latest missile tests demonstrate a new hypersonic system - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOS1oMFNQTGdUdlFveDM2Mkt0NVFwZF9Qam9RR3pIM1NvT0M4VTNTcGZXMFY2cnhFdGtTdGFWVERlRW9ISWMxalg3T2xKa09yQThneDJSZWhqcVJUQ1hjcXhPSF9kVC1QMGNMcWFQc05aY1B1NEJJbzFTLU40VUlqZDh5X25paU1aclEwSS1PV1BmdDhDbUxjX1BRbVBDTDVOTHRpSzdoTjhDdw?oc=5",
         "description": "",
-        "pubDate": "2025-10-23T02:05:00Z",
+        "pubDate": "2025-10-23T01:41:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -866,6 +884,15 @@
     ],
     "Science": [
       {
+        "title": "England's water companies get worst ever score over pollution",
+        "link": "https://www.bbc.com/news/articles/cdjrymnx1e8o?at_medium=RSS&at_campaign=rss",
+        "description": "Thames Water - the UK's largest water company - was given the lowest one-star rating.",
+        "pubDate": "2025-10-23T10:23:42Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f583/live/6f3e0c60-afee-11f0-a143-2b4ebe719445.jpg",
+        "bias": 0
+      },
+      {
         "title": "This 'magical' dinosaur specimen emerged from the ground like a polished jewel",
         "link": "https://www.npr.org/2025/10/23/nx-s1-5581469/domed-dinosaur-pachycephalosaur-fossil-discovery",
         "description": "A new pachycephalosaur, officially named",
@@ -873,15 +900,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Thames Water given lowest one star rating for repeated sewage spills",
-        "link": "https://www.bbc.com/news/articles/cdjrymnx1e8o?at_medium=RSS&at_campaign=rss",
-        "description": "England's water companies had their worst combined score since assessment began in 2011.",
-        "pubDate": "2025-10-23T09:46:04Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f583/live/6f3e0c60-afee-11f0-a143-2b4ebe719445.jpg",
-        "bias": 0
       },
       {
         "title": "Cambodian police arrest 57 South Koreans over alleged links to online scams - AP News",
@@ -893,10 +911,10 @@
         "bias": 0
       },
       {
-        "title": "North Korea says its latest missile tests demonstrate a new hypersonic system - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOS1oMFNQTGdUdlFveDM2Mkt0NVFwZF9Qam9RR3pIM1NvT0M4VTNTcGZXMFY2cnhFdGtTdGFWVERlRW9ISWMxalg3T2xKa09yQThneDJSZWhqcVJUQ1hjcXhPSF9kVC1QMGNMcWFQc05aY1B1NEJJbzFTLU40VUlqZDh5X25paU1aclEwSS1PV1BmdDhDbUxjX1BRbVBDTDVOTHRpSzdoTjhDdw?oc=5",
+        "title": "Alleged Chinese drug trafficker recaptured in Cuba after escaping Mexican custody - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLTAyeWtxbzRfcmsyR0NraTVtT2RpYXBhOUxpalhfbkcwZzA1MU9YOUFFbkN4X1EzWEhRYnE4c1pDMWdEd1hvS0JoT21kcWpJcTBwWHVhSnhkNkljNlNiNjhhNjU0MEk2WGwxZTRVMVd4LXJEdzJZMTBxMGpPb0hfZEt3cnppNm82ZWFTOFhkblZRcEs5bEZDUDlxeGNhVlJ1OG5Wamhn?oc=5",
         "description": "",
-        "pubDate": "2025-10-23T01:41:00Z",
+        "pubDate": "2025-10-23T02:05:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
