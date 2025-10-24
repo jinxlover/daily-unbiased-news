@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-10-24T17:40:01.269841Z",
+  "lastUpdate": "2025-10-24T17:50:32.384564Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Archery UE Test [Free] [Windows]",
+        "link": "https://adamhitch.itch.io/archery-ue-test",
+        "description": "Small Test level for a basic Archery System in Unreal Engine 5",
+        "pubDate": "2025-10-24T17:42:52Z",
+        "source": "adamhitch.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNzU4ODAxLnBuZw==/315x250%23c/n2vhLV.png",
+        "bias": 0
+      },
       {
         "title": "Reverie: The Silent Violin [Free] [Puzzle] [macOS]",
         "link": "https://sabinesaw.itch.io/reverie-the-silent-violin",
@@ -138,30 +147,12 @@
         "bias": 0
       },
       {
-        "title": "\"RETRO\" Corporation [Free] [Shooter] [Windows]",
-        "link": "https://theroflison.itch.io/retro-corporation",
-        "description": "retro-styled boomer shooter",
-        "pubDate": "2025-10-24T15:35:01Z",
-        "source": "theroflison.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzU4NTU2LnBuZw==/315x250%23c/Vc%2FrIx.png",
-        "bias": 0
-      },
-      {
         "title": "Brick breaker [Free] [Other]",
         "link": "https://lucianocc.itch.io/brick-breaker",
         "description": "a new variant of Arkanoid and Breakout",
         "pubDate": "2025-10-24T12:36:02Z",
         "source": "lucianocc.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNzU5NzYzLnBuZw==/315x250%23c/7HKshQ.png",
-        "bias": 0
-      },
-      {
-        "title": "Sealed [Free] [Puzzle]",
-        "link": "https://andreas-degtjarow.itch.io/sealed",
-        "description": "Make decisions, solve puzzles and have curious encounters!",
-        "pubDate": "2025-10-24T12:26:46Z",
-        "source": "andreas-degtjarow.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzU1NzQxLnBuZw==/315x250%23c/3Uz8qQ.png",
         "bias": 0
       },
       {
@@ -212,13 +203,13 @@
         "bias": 0
       },
       {
-        "title": "Live updates: US is sending an aircraft carrier to Latin America in major escalation of military buildup - AP News",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wbmJESWNBX3lOZ2d5S01vMFA4VlhmX3U3Y2VnWkpBNnhfajZaYU9DNFRtcV9vQWt3aHNXTWpZYVFBZXA2R21fOG90OHRfQ3ZFV3dWREpKMjVyckVVeWI0aG4xUWd2dlUwRFQ3VQ?oc=5",
-        "description": "",
-        "pubDate": "2025-10-24T17:26:00Z",
-        "source": "news.google.com",
+        "title": "Israeli drone strike targeting Hezbollah kills two in Lebanon",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/10/24/israeli-drone-strike-targeting-hezbollah-kills-two-in-lebanon?traffic_source=rss",
+        "description": "An Israeli drone strike killed two people in southern Lebanon. Israel says it's targeting Hezbollah fighters.",
+        "pubDate": "2025-10-24T17:36:47Z",
+        "source": "aljazeera.com",
         "image": "",
-        "bias": 0
+        "bias": -1
       },
       {
         "title": "Tropical Storm Melissa stationary in the Caribbean as forecasters warn it will quickly intensify - AP News",
@@ -374,15 +365,6 @@
         "bias": 0
       },
       {
-        "title": "DOJ prepares to send election monitors to California, New Jersey following requests from state GOPs - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVHFwNWxHMWVOMzNQQ2oxUXVZbGNHQVNyNzVCUzhSSWpEQ2J0dnB0YzR1aTd0MHpkdEp0OGE4TXVuMHlOQllWMi1oT2JKbGk2Nm91aVVZdzV2QUI3a1A0bHZCVHloY0loa2dPWUtJd0t3Slg2end1T2FkWHVPUnhPaHk3MmJFcHplVndNdy1sYWZPNGJuWTY5NTBZSzl3cGNZUVB4b2dPLXE0UWxwQTdn?oc=5",
-        "description": "",
-        "pubDate": "2025-10-24T15:49:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "What’s available, and at what prices, in Gaza’s markets",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/10/24/whats-available-and-at-what-prices-in-gazas-markets?traffic_source=rss",
         "description": "Take a walk with Al Jazeera's Hani Mahmoud through one of Gaza City’s main markets.",
@@ -491,6 +473,15 @@
         "bias": 0
       },
       {
+        "title": "DOJ prepares to send election monitors to California, New Jersey following requests from state GOPs - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVHFwNWxHMWVOMzNQQ2oxUXVZbGNHQVNyNzVCUzhSSWpEQ2J0dnB0YzR1aTd0MHpkdEp0OGE4TXVuMHlOQllWMi1oT2JKbGk2Nm91aVVZdzV2QUI3a1A0bHZCVHloY0loa2dPWUtJd0t3Slg2end1T2FkWHVPUnhPaHk3MmJFcHplVndNdy1sYWZPNGJuWTY5NTBZSzl3cGNZUVB4b2dPLXE0UWxwQTdn?oc=5",
+        "description": "",
+        "pubDate": "2025-10-24T14:34:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Returning to Gaza City, a family finds bulldozed graves and little hope",
         "link": "https://www.aljazeera.com/features/2025/10/24/returning-to-gaza-city-a-family-finds-bulldozed-graves-and-little-hope?traffic_source=rss",
         "description": "Hiba and Mohammad have suffered immensely during Israel's war on Gaza, and have little to look forward to.",
@@ -516,6 +507,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Procter & Gamble fiscal 1Q results top Street, sees less of an impact from tariffs for fiscal 2026 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcDczbERiekFTMGtwcnFVZTJ2QXhiN1RNa18wSXpHM1hiYnU0b0JCWHBYU1lQdURDc19YVlJLcGlNN2JINTJWX01JUkVXUDBSNDk3RGZBVDdRT0NXUUhPbTQwYzctRWNWSkNuS092NVU3dmdHb0lfTG9pX2dnSGhza1JoVXloejk1TU9HZkxIWkp5MzFMWkc5clJ3?oc=5",
+        "description": "",
+        "pubDate": "2025-10-24T13:51:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "How a 2018 Supreme Court decision paved the way for meteoric growth in legal sports betting - AP News",
@@ -642,15 +642,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Why has Trump ended trade talks with Canada over a Reagan advertisement?",
-        "link": "https://www.aljazeera.com/news/2025/10/24/why-has-trump-ended-trade-talks-with-canada-over-a-reagan-advertisement?traffic_source=rss",
-        "description": "A Canadian premier has launched an ad campaign in the US showing former President Ronald Reagan opposing tariffs.",
-        "pubDate": "2025-10-24T12:13:40Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
@@ -662,6 +653,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Live updates: US is sending an aircraft carrier to Latin America in major escalation of military buildup - AP News",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wbmJESWNBX3lOZ2d5S01vMFA4VlhmX3U3Y2VnWkpBNnhfajZaYU9DNFRtcV9vQWt3aHNXTWpZYVFBZXA2R21fOG90OHRfQ3ZFV3dWREpKMjVyckVVeWI0aG4xUWd2dlUwRFQ3VQ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-24T17:26:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Reeves refuses to rule out income tax rises in Budget",
@@ -745,15 +745,6 @@
         "bias": 0
       },
       {
-        "title": "Procter & Gamble fiscal 1Q results top Street, sees less of an impact from tariffs for fiscal 2026 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcDczbERiekFTMGtwcnFVZTJ2QXhiN1RNa18wSXpHM1hiYnU0b0JCWHBYU1lQdURDc19YVlJLcGlNN2JINTJWX01JUkVXUDBSNDk3RGZBVDdRT0NXUUhPbTQwYzctRWNWSkNuS092NVU3dmdHb0lfTG9pX2dnSGhza1JoVXloejk1TU9HZkxIWkp5MzFMWkc5clJ3?oc=5",
-        "description": "",
-        "pubDate": "2025-10-24T13:51:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Who is giving evidence on the collapsed China spy trial?",
         "link": "https://www.bbc.com/news/articles/c5y4lmvgrnmo?at_medium=RSS&at_campaign=rss",
         "description": "A senior commons committee is looking at why the case collapsed just weeks before a trial was due to go ahead.",
@@ -769,15 +760,6 @@
         "pubDate": "2025-10-24T13:23:24Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be44/live/69615e00-b0c5-11f0-b2a1-6f537f66f9aa.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Samara Joy reflects on her Grammy wins and the creative journey behind ‘Portrait’ - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON3JNQkt5R09lU084elJwMDFHNno0Y0lOaDhIa2YtUEpaejhXMkJONjd0X3dqMDFueFFRUVU1VGpYdWRQclZqTFR4dVBhVk5ud3hHVmE2X3lwYnBRbXVFYWE1UDF3N3RhQVJaSUs2Tk8xajhyc1E3SHV2ZUxYMkF1eV9Jd1lKR2ZqNnZlUjU3cjdqa0E?oc=5",
-        "description": "",
-        "pubDate": "2025-10-24T13:20:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -808,10 +790,10 @@
         "bias": 0
       },
       {
-        "title": "Alaska Airlines resumes operations after an IT outage grounded its flights for hours - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOHB6RGpBQ3U1VFMtUTFUMUw2V2dtZzhpV0haS3ZSb3RTa1d4eWlTNy12SlQxOGF2dm5DYWhKYUZLeGFUal9jaXBpYzl0b3pROGplM2E5NTBINmJkaFpTNDN2LUhCOGdPNjZsWm9vUjYtNVpuZVBUNmdYSENaVy1hN1ZBdGJrMlRDcUMyQnlwZDdlTmF6ZnBZeGc4MEJJTWs2UGpYSWhUUW9XQ3VSb3dzVXVtZ3Rzdw?oc=5",
+        "title": "College football traditions: 'Nebraska Nice' fans pride themselves on being friendly to visitors - AP News",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82LXBTcGM3NWdSSmtCUjlkY0puRk5rbVYxVlF2clRBdEJNdld2NDhVM0QxSF9lU2FBZDhTZlp5N1lIQ3RJQjc3VThqWDY3WGRJeDF0SGxMMklBV2dKcl80RnJIUjRCS0k3a0gtalhReTZ0UlMwZkt2OFBzZzdfUQ?oc=5",
         "description": "",
-        "pubDate": "2025-10-24T12:07:00Z",
+        "pubDate": "2025-10-24T12:10:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -916,6 +898,15 @@
         "bias": 0
       },
       {
+        "title": "What to know about Ireland’s election as the country votes for a new president - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObkxvR05TemR4MkJ0ZUVCbG1JdW5SVGZ5czJ6aWxyYW8wWEdyQ01YN1U0Y2FLOVVLQ0o2MGkyNlhtVFdtRlpQTWlrcWtFejI4UG1IcDBhQmFJamRXR2hpWnQ5LWNWdGd1bEdyam90bHpiRTZzcnVubW9hLWlPWkNYcDhuTi1UZ3pERktaQXVXbENaanc?oc=5",
+        "description": "",
+        "pubDate": "2025-10-24T08:27:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Maryland Democratic Senator Chris Van Hollen on the stalemate in Congress",
         "link": "https://www.npr.org/2025/10/24/nx-s1-5584037/maryland-democratic-senator-chris-van-hollen-on-the-stalemate-in-congress",
         "description": "Democratic Sen. Chris Van Hollen of Maryland introduced a bill that would have paid all federal workers. It didn't pass. NPR's Steve Inskeep speaks to Van Hollen about the stalemate in Congress.",
@@ -943,10 +934,10 @@
         "bias": 0
       },
       {
-        "title": "‘Our reality, our values': Graffiti finds growing acceptance in West Africa - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdFd4ck1vSVVGV000S3hKNFhudDRQWW0xbEloT1NPS0FNVHVic3pHbEx3dlNpSjZKbkl4ZFJNWEZocFJFQVNLTHlZd2k3V25KZDFJVlJPSWwwSUV1MllPMTBLS0VzMlc0R2FDYXJtUGZBOG1FNkRBQ1RnU1BSbUNPYTZHcXRsRkNhSU1DVnYwX1lTWHdmWExRbjhaeGZWbTdHZExMQQ?oc=5",
+        "title": "Kim Jong Un reaffirms ties with Moscow at groundbreaking ceremony in Pyongyang - AP News",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbW9CRWNSZTBPUFRhZTZQSjBZUkNCNFRlS01hV0tKd3BpTE9STDdGOExPa1NIallhRTduS0c5cGV2S1RIcGpHTjdOSmNxekNiWGltdU43eVVRR3dzRjRDcldPNmpDbE43TEdUSTEyeE9uU00xN2RIdDVLM2lGVlR4RUpDUWZzcENXYmp1YW80SjdkYTFSaHZMdExGa1VRX2N1RWZJZTJNaTlkLUJvQ2pyWUZYM0dFdmlUaEhoekpWNndUWk9NSkF1aHo4emJuNmpSNkE?oc=5",
         "description": "",
-        "pubDate": "2025-10-24T07:02:00Z",
+        "pubDate": "2025-10-24T07:19:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1051,10 +1042,10 @@
         "bias": 0
       },
       {
-        "title": "Louisiana jury awards more than $40 million to family of man who died in privately-run jail - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONkwwM0JoQ2Y1QVJjdDRwUUJtejJqNlR2RmxHODlmZWhjckFtM3dCXzdVYk1fam8yY3Jjdkp5VjVBeUhHS0k0TThxa1BVTVNyWDlWQ0xUWTAtYkcxSF8wbmh5QmdQZWNQX2lvazVoWmIyVEpqR1lvMFRCdHBzdjRpQnNreUVyc1YtNGpoM3NGNmRza245d3ZHWnVMWXFwaDZ0?oc=5",
+        "title": "Trump pardons Binance founder and cryptocurrency leader Changpeng Zhao - AP News",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BbW1SZ1NfWGpsTFBUMzNjeHhSVlBoMWZrXzZqRzVnbFh2cklCQUoxSmxjb3llSFdhRHUwVU9DejBXaG9yRGRicVRPSGlzQ1g0SGZRcXVGRXhSR282el9uUk1nM2EwVmgtVElkeA?oc=5",
         "description": "",
-        "pubDate": "2025-10-24T02:02:00Z",
+        "pubDate": "2025-10-24T01:51:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1076,18 +1067,18 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "How cheaters rigged high-stakes poker games with the mob and sports pros, according to authorities - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWXVrMWlORXl1MUpWQUtmQnZLOXVtS3N0WkNDRXMzaWZHSnctX2cwYW5MYTRsLUhHdnphVzYwQnR4bFpIQVJUakxIWFIzVWRwWThfc1NtRk0tRzVXMFVwaGVEM3AweDVRVFVKNjd1Y0t3SW5kYWpUQW1yQzBUMThlOTVobWhFWE9qanJiUVItZVFpX2FJcDliX3dFNEh5QQ?oc=5",
-        "description": "",
-        "pubDate": "2025-10-24T00:12:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Tech": [
+      {
+        "title": "Samara Joy reflects on her Grammy wins and the creative journey behind ‘Portrait’ - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON3JNQkt5R09lU084elJwMDFHNno0Y0lOaDhIa2YtUEpaejhXMkJONjd0X3dqMDFueFFRUVU1VGpYdWRQclZqTFR4dVBhVk5ud3hHVmE2X3lwYnBRbXVFYWE1UDF3N3RhQVJaSUs2Tk8xajhyc1E3SHV2ZUxYMkF1eV9Jd1lKR2ZqNnZlUjU3cjdqa0E?oc=5",
+        "description": "",
+        "pubDate": "2025-10-24T16:12:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Armed police handcuff teen after AI mistakes crisp packet for gun in US",
         "link": "https://www.bbc.com/news/articles/cgjdlx92lylo?at_medium=RSS&at_campaign=rss",
@@ -1096,9 +1087,7 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db61/live/e50a8580-b0d5-11f0-bf5a-11e181bfe30d.jpg",
         "bias": 0
-      }
-    ],
-    "Science": [
+      },
       {
         "title": "Bus catches fire after being hit by a motorcycle in southern India, killing at least 25 - AP News",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeTUzTmFuWWJWMEJhU3lSaGJYRmtJMThTMThfS0N2Z295MUZuSkVhRVd6d0cybVNkY3RfUm1WNThHemYxOUhOaWpWMHczc2MtcWliWlYzZndFVjU1N3RicFEwQ3hyb29zM2xXaDNMMTNLUkI2YmtNaUhIVE5BblFMZ3ZTVFJvUl93S0o4ZDBNQlRSQVU?oc=5",
@@ -1107,7 +1096,9 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
+      }
+    ],
+    "Science": [
       {
         "title": "Here's what experts say 'A House of Dynamite' gets wrong (and right) about nuclear war",
         "link": "https://www.npr.org/2025/10/24/nx-s1-5580534/house-of-dynamite-experts-review",
