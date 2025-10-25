@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-25T11:27:28.355024Z",
+  "lastUpdate": "2025-10-25T11:39:21.404241Z",
   "news": {
     "Gaming": [
       {
@@ -13,7 +13,7 @@
       },
       {
         "title": "JDM:モーターレース PrototypeA [Free] [Racing]",
-        "link": "https://mythic-fox.itch.io/jdm",
+        "link": "https://mythic-fox.itch.io/jdmprototypea",
         "description": "This is a project created for my UI/UX advanced module. Prototype A",
         "pubDate": "2025-10-25T11:18:38Z",
         "source": "mythic-fox.itch.io",
@@ -156,6 +156,15 @@
         "bias": 0
       },
       {
+        "title": "NOTadventure [Free] [Adventure]",
+        "link": "https://bon-k.itch.io/notadventure",
+        "description": "",
+        "pubDate": "2025-10-25T10:22:59Z",
+        "source": "bon-k.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNzcyNTQ1LnBuZw==/315x250%23c/G1Cqie.png",
+        "bias": 0
+      },
+      {
         "title": "Axeria’s Trial [Free]",
         "link": "https://axeria0530.itch.io/axerias-trial",
         "description": "Dodge the blades. Gather the gold. Prove your courage.",
@@ -201,15 +210,6 @@
         "bias": 0
       },
       {
-        "title": "Beyond The Warp Zone [Free] [Windows]",
-        "link": "https://fabsss-07.itch.io/beyond-the-warp-zone",
-        "description": "Don't Look...",
-        "pubDate": "2025-10-25T09:36:53Z",
-        "source": "fabsss-07.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzcxNDY3LnBuZw==/315x250%23c/orlIXQ.png",
-        "bias": 0
-      },
-      {
         "title": "Curse of the God [Free] [Adventure]",
         "link": "https://ptitchat67.itch.io/curse-of-the-god",
         "description": "",
@@ -219,16 +219,43 @@
         "bias": 0
       },
       {
-        "title": "The grave keeper [Free]",
-        "link": "https://dragon0breath.itch.io/the-grave-keeper",
-        "description": "a game for BAUDO'S Jam - Autumn Edition (2025)",
-        "pubDate": "2025-10-25T01:10:52Z",
-        "source": "dragon0breath.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzY2NDkxLnBuZw==/315x250%23c/k7gNp9.png",
+        "title": "Night Guard [Free]",
+        "link": "https://kareemjohnt.itch.io/night-guard",
+        "description": "",
+        "pubDate": "2025-10-25T04:01:11Z",
+        "source": "kareemjohnt.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNzY4ODc3LnBuZw==/315x250%23c/1rj6my.png",
         "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Ousted Madagascan president stripped of citizenship",
+        "link": "https://www.bbc.com/news/articles/c74jnngr1e3o?at_medium=RSS&at_campaign=rss",
+        "description": "Andry Rajoelina, who was removed from power in a coup last week, had already acquired French nationality.",
+        "pubDate": "2025-10-25T11:32:01Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfc3/live/20b918d0-b18a-11f0-aa13-0b0479f6f42a.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Malaysia warns ASEAN neutrality eroding as global powers compete - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQkpTQnZJN3JqZ1VXQUhCTnZUbmFRVHNvMU1hRS1hNWtWa0x4OVdJRjFINHpHOXAxUnZiV3JCcXpGRFBETTI5N1htSzVwT3RxX2lOU3JRX0NXZ2VRRFJXOGozM3RDZVhST1BNM2RPNEZ3SzFBZkxEckxWQklzekE5VU85dXJieG01MVRLYnBCWDk3SThUTXdYUTdBcDdJWDkyTUF2NVRHdw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-25T11:21:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Sudan’s army battles RSF advances in el-Fasher, Bara as civil war rages",
+        "link": "https://www.aljazeera.com/news/2025/10/25/sudans-army-battles-rsf-advances-in-el-fasher-bara-as-civil-war-rages?traffic_source=rss",
+        "description": "The escalation in fighting comes amid deepening concerns about the vast humanitarian toll of the conflict.",
+        "pubDate": "2025-10-25T11:08:18Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Russian missile and drone attacks kill 4 in Ukraine as Zelenskyy pleads for air defense - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaU42UjJVUHp2cWFHeXdnUE5fcFZTSkd6b0d4Z1RXVlhWTjBKeV9BZ3V1dXVDT2txLVFYenNuRFZKclBlMkkxbTV6dUlMNmFNRUFIbGdDOHpEdmY1SHdMUFg5WDB3S2t0Zlp6V1VxMnp3UkJuc2NfcEZzOWdIVTIxdkJ4MVhhaXdfTVRZZ3JjQUYxcEFhelpzZXJTaVJVVU1BWlVUZmhsYUJUWFk?oc=5",
@@ -554,15 +581,6 @@
         "bias": 0
       },
       {
-        "title": "Trump’s Asia return and East Timor’s entry take spotlight in landmark ASEAN summit - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQkpTQnZJN3JqZ1VXQUhCTnZUbmFRVHNvMU1hRS1hNWtWa0x4OVdJRjFINHpHOXAxUnZiV3JCcXpGRFBETTI5N1htSzVwT3RxX2lOU3JRX0NXZ2VRRFJXOGozM3RDZVhST1BNM2RPNEZ3SzFBZkxEckxWQklzekE5VU85dXJieG01MVRLYnBCWDk3SThUTXdYUTdBcDdJWDkyTUF2NVRHdw?oc=5",
-        "description": "",
-        "pubDate": "2025-10-25T03:33:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Trump speaks at tele-rally to boost GOP’s chances in governor’s race in New Jersey - AP News",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS0RsMW96SEJ1cjBRS0hDOV9UVXd0M0NObnNJYnFvRW13ZzhCQjVYNzlMdm0wZ0JsaUxHXzVJOGdGM051Mkp3elZNQ3Z4bTlkeGFsb2JOdWpidTJrRjRldng0MkN1c0w3bnFyeTZHSHpiX2N1VHBkSGFOM1ZQNGZRcDRJclJhR1lHRTlPVjhPN0tnd0Jtc0QyaW9aZGpPdw?oc=5",
         "description": "",
@@ -660,24 +678,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Thailand's former queen Sirikit dies aged 93",
-        "link": "https://www.bbc.com/news/articles/cp8ed1ednjdo?at_medium=RSS&at_campaign=rss",
-        "description": "The mother of King Vajiralongkorn passed away \"peacefully\" on Friday night, according to the Thai Royal Household.",
-        "pubDate": "2025-10-25T00:27:13Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/706f/live/a3325a80-b133-11f0-9444-dfb8bc57090a.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Trump administration won’t tap contingency fund to keep food aid flowing, memo says - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWmwwWDRodHAwSHdscVdlS3B6ekxiQ01laDVSWTBnb21ZWU1GN0s4N2NmcjBkLVVpcVU4aF9vallGanowQlNTX1JrY3VvOU1aVFlRSk1EUEdsNXk1ZjlBZ0hjcThsaExKU3Q3al9jT0VOWkw0R3J3aGUxMG1LR3hJN3pnajJod3d0NHZDbXBIeWlDbGNGNEtIa1BKVHp6ZjRBaGc?oc=5",
-        "description": "",
-        "pubDate": "2025-10-25T00:18:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
