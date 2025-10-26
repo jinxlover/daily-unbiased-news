@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-10-26T05:35:47.628567Z",
+  "lastUpdate": "2025-10-26T05:45:49.280548Z",
   "news": {
     "Gaming": [
+      {
+        "title": "The Void Club 2.2 - early access [$6.00]",
+        "link": "https://thevoidclub.itch.io/the-void-club-22-early-access",
+        "description": "",
+        "pubDate": "2025-10-26T05:31:11Z",
+        "source": "thevoidclub.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNzgzOTc1LmpwZw==/315x250%23c/hbTwd2.jpg",
+        "bias": 0
+      },
       {
         "title": "Incredibox Sprunki Pyramixed Swap [Fan-Made] [Free]",
         "link": "https://inakano-tetudouduki.itch.io/incredibox-sprunki-pyramixed-swap-fan-made",
@@ -201,30 +210,12 @@
         "bias": 0
       },
       {
-        "title": "Adivina Quién - Los Simpson [Free] [Puzzle]",
-        "link": "https://josue-alejandro.itch.io/adivina-quin-los-simpson",
-        "description": "Adivina Quién' de Los Simpson que aprende de sus errores",
-        "pubDate": "2025-10-26T01:38:08Z",
-        "source": "josue-alejandro.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzgyMjMzLmpwZw==/315x250%23c/tB3sBh.jpg",
-        "bias": 0
-      },
-      {
         "title": "Desktop Jack o' Lanterns [Free] [Other] [Windows] [Linux]",
         "link": "https://drews128.itch.io/desktop-jack-o-lanterns",
         "description": "Carve pumpkins and put them on your desktop!",
         "pubDate": "2025-10-26T01:10:56Z",
         "source": "drews128.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNzgxOTQ1LnBuZw==/315x250%23c/XhZi%2BN.png",
-        "bias": 0
-      },
-      {
-        "title": "Hero's Rest [Free] [Visual Novel]",
-        "link": "https://monsters-mashed.itch.io/heros-rest",
-        "description": "Sit and listen to four adventurer's around a campfire",
-        "pubDate": "2025-10-26T00:45:40Z",
-        "source": "monsters-mashed.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzgyODUxLnBuZw==/315x250%23c/tTuoQC.png",
         "bias": 0
       }
     ],
@@ -288,6 +279,15 @@
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZGFqWTRzcFpKRVFRTlQ1RTQ4N0huN0dYd3FkVFpKYUJiZVR1eHlUUkRta2t3QUN4TElkRjM3Ni1XUVpXZlF2RkFkcFgwSERwQ3BTVXFMdXFlNWlIVzNmTHBJNG5YS3YzTFZHQ2ZfeEJsQUoyTDJmT2h6STdyb2pnSHRwQUlrSGEzNmc5SVo5VGtfZ3pjcVdYZ1U3R0hVSHV0eGJsVFVYLWo?oc=5",
         "description": "",
         "pubDate": "2025-10-26T03:38:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Reed produces 4 TDs and No. 3 Texas A&M races away from No. 20 LSU, 49-25 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOFJhaW8zQl90VXdWV2twUGUxc21mYVNmNFluWWZzVjZSYzR0c2p4TUVwVG9pNnFLdDAwcnMybGRvT3Bpc01SWVZPR2JPNVVDdnA2UHkzcXNKQzBBT3NMV1RJRDlQbzVkcjRGNWVxNXlNV1RCYlMzMG13QUEtWXRBUGdUQ3VuSVhiM2lQWGxvbTF1c01t?oc=5",
+        "description": "",
+        "pubDate": "2025-10-26T03:26:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -374,7 +374,7 @@
         "bias": -1
       },
       {
-        "title": "Trump’s Asia trip live: US president to attend ASEAN summit in Malaysia",
+        "title": "Trump’s Asia trip live: US president attends ASEAN summit in Malaysia",
         "link": "https://www.aljazeera.com/news/liveblog/2025/10/26/trump-kicks-off-asia-trip-with-visit-to-asean-summit-in-malaysia?traffic_source=rss",
         "description": "US president begins trip to Malaysia, Japan and South Korea, with international trade and China on the agenda.",
         "pubDate": "2025-10-26T01:24:55Z",
@@ -428,8 +428,7 @@
         "bias": 0
       }
     ],
-    "Politics": [],
-    "Tech": [
+    "Politics": [
       {
         "title": "Chambliss leads No. 8 Mississippi to 34-26 victory over No. 13 Oklahoma - AP News",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYUZtcnV2bGNMSlBMN09nTXF2Q3BhZDdjOThHS3Vyel9Wa3d0Mjh0U2tKaG1PSnVSSFdQUmQyWnM3cHZ1dllZZlVKcHVCOVdnS2FXTy1qcnRFc1Joa0tybG5MTkRTUVBaYVljNDg2VXVHWGh1MHB5bDUtelBQOVlZOVAwUlFLQlJ4S3VGbVhJWXhjd2pxTEpJ?oc=5",
@@ -440,6 +439,7 @@
         "bias": 0
       }
     ],
+    "Tech": [],
     "Science": [],
     "Business": [],
     "Culture": []
