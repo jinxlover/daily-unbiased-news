@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-26T11:17:39.557546Z",
+  "lastUpdate": "2025-10-26T11:28:26.064905Z",
   "news": {
     "Gaming": [
       {
@@ -81,6 +81,15 @@
         "pubDate": "2025-10-26T10:37:08Z",
         "source": "jonesainzegea.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNzg2Nzc3LnBuZw==/315x250%23c/3OsRg0.png",
+        "bias": 0
+      },
+      {
+        "title": "Cuatro Cortes [Free]",
+        "link": "https://josubg.itch.io/cuatro-cortes",
+        "description": "",
+        "pubDate": "2025-10-26T10:36:50Z",
+        "source": "josubg.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzNzg3MjAwLnBuZw==/315x250%23c/HM8VRl.png",
         "bias": 0
       },
       {
@@ -201,15 +210,6 @@
         "bias": 0
       },
       {
-        "title": "Snake Run [Free] [Platformer]",
-        "link": "https://egorgromov.itch.io/snake-run",
-        "description": "Hello, this is a simple platformer game, but there is one interesting detail in the game!",
-        "pubDate": "2025-10-26T09:33:35Z",
-        "source": "egorgromov.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzg2MDQ5LmpwZw==/315x250%23c/dwaWve.jpg",
-        "bias": 0
-      },
-      {
         "title": "Piccione porta bit [Free] [Action] [Windows] [Android]",
         "link": "https://federicoboccaccio.itch.io/piccione-porta-bit",
         "description": "",
@@ -225,15 +225,6 @@
         "pubDate": "2025-10-26T09:27:33Z",
         "source": "mellling.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzNzg2OTMwLnBuZw==/315x250%23c/Bg5Rj5.png",
-        "bias": 0
-      },
-      {
-        "title": "Chimp tag [Free] [Other]",
-        "link": "https://mateusz161014.itch.io/chimp-tag",
-        "description": "",
-        "pubDate": "2025-10-26T09:24:37Z",
-        "source": "mateusz161014.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzNzg1OTgxLnBuZw==/315x250%23c/4%2FClqp.png",
         "bias": 0
       },
       {
@@ -284,6 +275,33 @@
     ],
     "World": [
       {
+        "title": "Israeli settlers and soldiers attack annual Palestinian olive harvest",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/10/26/israeli-settlers-and-soldiers-attack-annual-palestinian-olive-harvest?traffic_source=rss",
+        "description": "Palestinian farmers are being blocked, harassed and arrested as they try to undertake the annual olive harvest.",
+        "pubDate": "2025-10-26T11:15:14Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "RSF claim capture of the Sudanese army’s last major stronghold in Darfur",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/10/26/rsf-claim-capture-of-the-sudanese-armys-last-major-stronghold-in-darfur?traffic_source=rss",
+        "description": "The paramilitary Rapid Support Forces say it's captured the Sudanese army's headquarters in the city of el-Fasher.",
+        "pubDate": "2025-10-26T11:13:21Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Award-winning Palestinian author on Israeli prison, exile and homeland",
+        "link": "https://www.aljazeera.com/news/2025/10/26/award-winning-palestinian-author-on-israeli-prison-exile-and-homeland?traffic_source=rss",
+        "description": "Basim Khandakji describes conditions in Israeli prisons and his journey to writing despite the challenges.",
+        "pubDate": "2025-10-26T11:00:29Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Suspects arrested over theft of jewels at Louvre museum in Paris",
         "link": "https://www.bbc.com/news/articles/c2em38pdv0do?at_medium=RSS&at_campaign=rss",
         "description": "Four thieves broke into the world's most-visited museum in broad daylight, stealing eight items worth €88m (£76m; $102m).",
@@ -300,6 +318,15 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/041d/live/b822b4b0-b252-11f0-aa13-0b0479f6f42a.jpg",
         "bias": 0
+      },
+      {
+        "title": "Battle for Sudan’s el-Fasher intensifies as RSF claims seizing army HQ",
+        "link": "https://www.aljazeera.com/news/2025/10/26/battle-for-sudans-el-fasher-intensifies-as-rsf-claims-seizing-army-hq?traffic_source=rss",
+        "description": "Despite this apparent victory for the paramilitary group, the besieged city of el-Fasher's status has not changed.",
+        "pubDate": "2025-10-26T10:56:10Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Hurricane Melissa strengthens as it barrels towards Jamaica",
@@ -383,15 +410,6 @@
         "bias": -1
       },
       {
-        "title": "London police say they have arrested convicted asylum-seeker who was mistakenly released from prison - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUVlhTy1qOWJtTDdhaF94ckZiWVY5TWpvZmhJcXRCTl8yUFlEdEk1eU1aUWdVdlpYcmZmRHJsLS1lQ2VvUnVsb3h3QlptUWswcncwZ3N6dGFOVFRpQ09QLUZXdkNEQ01zVEVkQnhIZjZtdUpaeGs0WEtNY1pMOUFNTGEzcEYwWVRSYTVDeVQ3OFR5NXd2V3ozVERuUUlpdEpZemMwcFB0bkRnMXV3S1k0amtfZWk?oc=5",
-        "description": "",
-        "pubDate": "2025-10-26T09:43:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Raves at Rome’s ancient amphitheater? New Colosseum director sets the record straight - AP News",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVXkzb2dTMHVoQ3ZSM1BmR0RtS2JYa0l5b0pOYkJJalNPZzNGXzY5SkQwdVZtMVlBSnZqYXh0SkhKMTJ0S19hM3IxbFVzWDhCXzVxYzYzVDJ1UmxucTdNXzZIdjREZ2lxbE5NbENDRzZqamo5T2NONHlBRk5YcGFPYy1pcVl2b2Naanc0TndZOExDTXY3R3dJeWRIRjRVOEVGc3BkX25GLXJTV2ZFLWZPMEZmM1NaaV9Ba3c?oc=5",
         "description": "",
@@ -412,20 +430,11 @@
       {
         "title": "Arrests made by French police in Louvre jewellery heist: Paris prosecutor",
         "link": "https://www.aljazeera.com/news/2025/10/26/two-suspects-from-louvre-jewellery-heist-arrested-by-french-police-reports?traffic_source=rss",
-        "description": "The Paris prosecutor has confirmed the arrest of suspects, including one detained while about to board a flight abroad.",
+        "description": "Prosecutor confirms the arrests of suspects, including one detained while about to board a flight abroad.",
         "pubDate": "2025-10-26T09:34:38Z",
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Trump says he will solve Afghanistan-Pakistan crisis 'very quickly' as peace talks enter second day - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNXllZ284aXpmUWQ5RjRTYmVJY0d3MDZQcndsNXhRemhTUXRsdWwwZUI2RS05TUE2NjFrN1BTVUV6WFpkR1I4UTRnRlNzMGU0cEtiTXNoRFVuWlAxZTlEVjI1SzlVRFBXVmZTN2NIb2E3U1FuRTd5QVprM1lRbW9LdWJBYnZVZ2lHM0lSakdBUmQ3TWEwRHpKY09lOHZ6enVXeFE?oc=5",
-        "description": "",
-        "pubDate": "2025-10-26T09:03:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "What’s behind bans on away fans?",
@@ -516,6 +525,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Russia targets Kyiv with drones, killing 3 and wounding 29 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeFFNcDNrR0VURkpkNThUODN1NlRzTzFWVlJRbi1PV3FhSlNPN2FGR2JRTU14V3h5c0l6NFl3bFF3Mlp1QjdQdkRhRWxPaWpXdF9QUjJ3ZndkQjUyX2ZSZWI0Z2VWbWcwT0FRdzhYX3RURThKN0ZvdDNvNkVUMmk2RldCZk1HaEtBdDg4?oc=5",
+        "description": "",
+        "pubDate": "2025-10-26T07:22:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Trump presides over Thai-Cambodia 'peace deal' - but what does it mean?",
@@ -705,36 +723,18 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
+      }
+    ],
+    "Politics": [
       {
-        "title": "Trump threatens Canada with 10% extra import tax for not pulling down anti-tariffs ad sooner - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVG40THdoaXUzS3hmVFZZRG9VN3ozS0lUa1ZsRGVNazdXWGs0ajdRWjZJNlMxazljVmZ5RW9pTTA5d05ndWlRbGx4eTdkczg2clhhV0RCOU4tQ01kT1VSMFdyS0NQdkVsRGF1OGJ0VHRlTzhHY19meFhyS3NZaFdHU3VzcjVLOVE?oc=5",
+        "title": "Joe Carter wears Blue Jays' home run jacket after throwing first pitch at World Series Game 2 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd3FmRXlWVHNpNk1RTmN2TXotY2pVSmJEZTg1eTcwcXE0dmh0Z1o2OVppZ0dxcjRCSlpGdVNNdk9zWGFnT1VqNkZvQ0JMMWtjNW5CaXVnRUd3d0JzRVFrU1cwUC0wZVUzYW9HOTJwVHVUekFXYXRIbnZ4bkxGMlRUYUV0YnZXRm5ydkYw?oc=5",
         "description": "",
-        "pubDate": "2025-10-26T02:08:00Z",
+        "pubDate": "2025-10-26T01:07:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
-      {
-        "title": "Russia-Ukraine war: List of key events, day 1,340",
-        "link": "https://www.aljazeera.com/news/2025/10/26/russia-ukraine-war-list-of-key-events-day-1340?traffic_source=rss",
-        "description": "Here are the key events from day 1,340 of Russia’s war on Ukraine.",
-        "pubDate": "2025-10-26T01:34:50Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Trump in Asia live: US president optimistic about China deal",
-        "link": "https://www.aljazeera.com/news/liveblog/2025/10/26/trump-kicks-off-asia-trip-with-visit-to-asean-summit-in-malaysia?traffic_source=rss",
-        "description": "US president begins trip to Malaysia, Japan and South Korea, with international trade and China on the agenda.",
-        "pubDate": "2025-10-26T01:24:55Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      }
-    ],
-    "Politics": [
       {
         "title": "Chambliss leads No. 8 Mississippi to 34-26 victory over No. 13 Oklahoma - AP News",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYUZtcnV2bGNMSlBMN09nTXF2Q3BhZDdjOThHS3Vyel9Wa3d0Mjh0U2tKaG1PSnVSSFdQUmQyWnM3cHZ1dllZZlVKcHVCOVdnS2FXTy1qcnRFc1Joa0tybG5MTkRTUVBaYVljNDg2VXVHWGh1MHB5bDUtelBQOVlZOVAwUlFLQlJ4S3VGbVhJWXhjd2pxTEpJ?oc=5",
