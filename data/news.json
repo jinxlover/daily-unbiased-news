@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-27T20:35:54.246088Z",
+  "lastUpdate": "2025-10-27T20:46:30.588731Z",
   "news": {
     "Gaming": [
       {
@@ -9,6 +9,15 @@
         "pubDate": "2025-10-27T20:23:58Z",
         "source": "mike-developer.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzODEyOTQ0LnBuZw==/315x250%23c/K58XS7.png",
+        "bias": 0
+      },
+      {
+        "title": "Daisie's Upbringing [Free] [Interactive Fiction]",
+        "link": "https://whosdaisie.itch.io/daisies-upbringing",
+        "description": "a short text story and hidden object level!!",
+        "pubDate": "2025-10-27T20:16:04Z",
+        "source": "whosdaisie.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzODEyOTI3LnBuZw==/315x250%23c/xDktx6.png",
         "bias": 0
       },
       {
@@ -174,20 +183,11 @@
         "bias": 0
       },
       {
-        "title": "Living With A Milf [Free] [Action] [Windows]",
-        "link": "https://daggerdv.itch.io/living-with-a-milf",
-        "description": "",
-        "pubDate": "2025-10-27T18:54:42Z",
-        "source": "daggerdv.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzODExNTE1LnBuZw==/315x250%23c/HcniNL.png",
-        "bias": 0
-      },
-      {
         "title": "Grand Theft Toronto [Free] [Racing]",
-        "link": "https://muchopotato.itch.io/grand-theft-toronto",
-        "description": "Deliver Tim Hortons across Toronto while dodging robbers and bad drivers.",
+        "link": "https://cyborgowski.itch.io/grand-theft-toronto",
+        "description": "Deliver coffee across Toronto while dodging robbers and bad drivers.",
         "pubDate": "2025-10-27T18:48:37Z",
-        "source": "muchopotato.itch.io",
+        "source": "cyborgowski.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzODExNjkxLnBuZw==/315x250%23c/gUNYEF.png",
         "bias": 0
       },
@@ -228,7 +228,7 @@
         "bias": 0
       },
       {
-        "title": "Falpy birb [Free] [Action] [Windows]",
+        "title": "Falpy birb [Free] [Action]",
         "link": "https://louisolino.itch.io/falpy-birb",
         "description": "Modded Flappy bird",
         "pubDate": "2025-10-27T13:29:01Z",
@@ -257,6 +257,15 @@
     ],
     "World": [
       {
+        "title": "4 dead in election-related clashes as Cameroon’s Biya wins eighth term",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/10/27/4-dead-in-election-related-clashes-as-cameroons-biya-wins-eighth-term?traffic_source=rss",
+        "description": "Cameroon’s 92-year-old President Paul Biya has won a record eighth term with 53.66% of the vote.",
+        "pubDate": "2025-10-27T20:31:21Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Red Cross receives remains Hamas says belong to Gaza hostage",
         "link": "https://www.bbc.com/news/articles/cly9z0mvzyko?at_medium=RSS&at_campaign=rss",
         "description": "The remains of 15 hostages who died on or after the 7 October attacks have so far been returned to Israel.",
@@ -264,6 +273,15 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ad/live/d2161320-b36b-11f0-a5ed-d926a0229916.jpg",
         "bias": 0
+      },
+      {
+        "title": "New Gaza festival for women’s cinema shares Hind Rajab’s story",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/10/27/new-gaza-festival-for-womens-cinema-shares-hind-rajabs-story?traffic_source=rss",
+        "description": "The first inaugural Gaza International Festival for Women’s Cinema premiered the docudrama, ‘The Voice of Hind Rajab’.",
+        "pubDate": "2025-10-27T20:12:08Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Argentine assets cheer Milei party’s election victory with massive rally",
@@ -401,15 +419,6 @@
         "bias": 0
       },
       {
-        "title": "Wisconsin Planned Parenthood resumes offering abortions after a nearly monthlong pause - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdHlmVzRQYUl0dW5sVVdwX2FveGFOdUZUa1BnTGFDZFFVandDTTZKT0lBOUtsZkE5RUEzVk4yckV2a05zQ09BenlSb0tua1d3bGVPeEY1WUUzVWpDMkpwSkh6c2FwSDJZcXJHbzVVWUlBWHlzNHR4REhPR2VFaGZsN2ZIcW85Z2lLZkc5QUxiZWcwNWtFMW44T3p4dlBxaDRBYXc?oc=5",
-        "description": "",
-        "pubDate": "2025-10-27T18:26:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "New Hampshire man resumes dialysis after record 271 days living with a pig kidney - AP News",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdWZWVkFsVVItdlc1a3dBXy1MRzBfbHRLcy1XLVo0NVFOSGxUWTA3RXZ0aW9nZVc0bm9va3RkTGp6MElzMGZHeUJyU0xoQVBMZ3NfM2NpTVlwb2pucTI1Z25OMm12VGRab1VEM3o5ZC1tdEU0T0R6djBaSXQwX0o4YkpRUTRzb1JrVmRHSHJXb0k2aVBaTWFGSkl3?oc=5",
         "description": "",
@@ -507,6 +516,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Photos show Hurricane Melissa’s impact on the Caribbean - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRHh5Q2d4TTBicGc0WWlqSlJwbXNBWUVaTTViSlhSaW5JdEhFVjhQdTlkTi1oTnBENEhJczhXMWpHM3lTR2xqR1dtTzJjRDhVUWxRQWhXX0R4bExPRHFIX3owWWlqRzI3NXIwNVVLczdUUExXSEJjOVR5b2ZfSjk5REM2QWQ4OG5Fc255V0NGU3RUZDhGNi1TN0JJWkhEanVzSnRBUDFoMjg3MXM?oc=5",
+        "description": "",
+        "pubDate": "2025-10-27T17:41:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Mali court jails ex-PM Mara after online post backing political prisoners",
@@ -687,24 +705,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Unexploded Israeli bombs threaten lives in Gaza",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/10/27/unexploded-israeli-bombs-threaten-lives-in-gaza?traffic_source=rss",
-        "description": "Two Palestinian children were severely injured after an unexploded Israeli bomb detonated.",
-        "pubDate": "2025-10-27T14:57:36Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Road out of el-Fasher: Ransom, violence and the price of survival in Sudan",
-        "link": "https://www.aljazeera.com/news/2025/10/27/road-out-of-el-fasher-ransom-violence-and-the-price-of-survival-in-sudan?traffic_source=rss",
-        "description": "Civilian activist Mouawia had just escaped el-Fasher when he heard the RSF had taken the city.",
-        "pubDate": "2025-10-27T14:48:22Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
@@ -732,7 +732,7 @@
         "description": "The agreement will support thousands of jobs across the UK, the government says.",
         "pubDate": "2025-10-27T19:58:25Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cf8/live/213ce6b0-b36a-11f0-a5ed-d926a0229916.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98be/live/1abe4220-b374-11f0-b2a1-6f537f66f9aa.jpg",
         "bias": 0
       },
       {
@@ -799,6 +799,15 @@
         "bias": 0
       },
       {
+        "title": "Wisconsin Planned Parenthood resumes offering abortions after a nearly monthlong pause - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdHlmVzRQYUl0dW5sVVdwX2FveGFOdUZUa1BnTGFDZFFVandDTTZKT0lBOUtsZkE5RUEzVk4yckV2a05zQ09BenlSb0tua1d3bGVPeEY1WUUzVWpDMkpwSkh6c2FwSDJZcXJHbzVVWUlBWHlzNHR4REhPR2VFaGZsN2ZIcW85Z2lLZkc5QUxiZWcwNWtFMW44T3p4dlBxaDRBYXc?oc=5",
+        "description": "",
+        "pubDate": "2025-10-27T18:26:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Five Reform UK councillors booted out of party",
         "link": "https://www.bbc.com/news/articles/c867g72nzq4o?at_medium=RSS&at_campaign=rss",
         "description": "It comes after a damaging video leak of the Kent County Council leader shouting and swearing.",
@@ -821,15 +830,6 @@
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOC1hRUlYb1pnQmxvN3RVcHhmRDZqc0N5cmpqVks4QTNTeDQ2RHZLdFJZbnREQ05mWDRoaER2bG1zNjl3NEpiOXNhZEtjeHRIRHRmS0p4OFoxaVVKZEFsZzFwbXpHOWg5WEtmTDdNTVBoSmxuckR4ejRfbGtkSnM0aC1HcUMycWNXSTJRU3kya25oRjFIQ2IxR1FKZkFMYmYweGxNb3lZQ0ptX3pBZmRfbUVPNWdRS2FDQXc?oc=5",
         "description": "",
         "pubDate": "2025-10-27T17:47:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Photos show Hurricane Melissa’s impact on the Caribbean - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRHh5Q2d4TTBicGc0WWlqSlJwbXNBWUVaTTViSlhSaW5JdEhFVjhQdTlkTi1oTnBENEhJczhXMWpHM3lTR2xqR1dtTzJjRDhVUWxRQWhXX0R4bExPRHFIX3owWWlqRzI3NXIwNVVLczdUUExXSEJjOVR5b2ZfSjk5REM2QWQ4OG5Fc255V0NGU3RUZDhGNi1TN0JJWkhEanVzSnRBUDFoMjg3MXM?oc=5",
-        "description": "",
-        "pubDate": "2025-10-27T17:41:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -871,10 +871,10 @@
         "bias": 0
       },
       {
-        "title": "Two strong quakes in the Atlantic Ocean rattle the eastern Caribbean - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcko3cVpDMVZsRkFfT3d2STZLY0lZZFA0X2FMXy1oajJwZUt2QVJlNnVtUkZFM0YtYTNNRjFrNG1kQTJtamdLektXOWZhTmJXREVKWFZmQ3Zfb3BBTDF2RTUzZDI0a21ZSGltbHZMSFFKcHhTU21lRlhKNFR3cDRtVmtUU2JURWpTSFhZMEZLek1hM3F3cWc?oc=5",
+        "title": "Jack DeJohnette, acclaimed jazz drummer who worked with Miles Davis, dies at 83 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMEotVjBBM1JuSEJGMkpoaXdyNWNpdmdBSDlhZm9kMXVaYUZOcHZXenVrTnVzM1BEV20zMm1mdTJCMS1UR3k3SEUzYlMtZVJZR0FXTXY2UkRPdjdReWpqcHJCd1FfZERyakdYbUIyTG5KbVVsN1VaVzlVTFdHblJGVzQwbk8ta3hSWnZVVmcxZG1DNGJyT0N1cVBnbFRoLWIzZnNjWHFMbVM?oc=5",
         "description": "",
-        "pubDate": "2025-10-27T16:53:00Z",
+        "pubDate": "2025-10-27T16:54:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -940,6 +940,15 @@
         "pubDate": "2025-10-27T14:19:28Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb87/live/1fc22d30-b320-11f0-aa13-0b0479f6f42a.jpg",
+        "bias": 0
+      },
+      {
+        "title": "In AP interview, East Timor's Ramos-Horta says personal diplomacy could bring Myanmar ceasefire - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTlpnTHlFT05pa1lzYmhwaHBaRXVLY3hrM1BQT1p0djBhRy03RWVqWmpaTzJHbGxSNEdxd3lLdDFnMGRkMm9LZHREU3JURVZpTi1zWUxRZmp2eUtaN21zLTVLa20tUEFHNXFWY3NrYmZYRkQzbFR2WTBrTnFGTVNwc0hxLXh1OHFqQkVRTzRNUGtXQVE4V1pjcXo3bw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-27T13:43:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -1033,15 +1042,6 @@
         "bias": 0
       },
       {
-        "title": "‘Chainsaw Man’ anime film topples Springsteen biopic and ‘Black Phone 2’ at the box office - AP News",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd3VVb2d0YUV4NFkzNGNWS0hxUjZEWU5HTEs3R09pcmFnM2duR29CZVJjUjRjSThKS25aZVVNRmUwVk5LTzdZUzhLUFlSQlNzekJBb0xTY0JBUGFNdVAzSUhDZFZETXZTRFRXYXZiVGIzakswamFXWmRQSUlHU211RnRRVTVuZGZXY1lOQUdNVFZQU29ELWxvMzM5c3dHNkpHQlV0dnk5LVU3WHVMQ0prcnM3aEJDMEZkMEdsdHB6QmUwNDl6REhtbXNhN2FJa3hZQ2c?oc=5",
-        "description": "",
-        "pubDate": "2025-10-27T02:53:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Broncos cornerback Pat Surtain II exits Dallas game with shoulder injury, team has no update - AP News",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVkJjc0NVMWJnMTNYNkpaOHBjWWMxdEExT2pOc3pLbkZiWmlnXzB0SzFZNGdfaDNkTjQ3aEVYeEpHeElyY1JfZGtjSm9yYVY1R3BlRTYyelpRQnJCNEMtWU1WM1A3RW40Z1AwZXJNSVJ5Rk1KTUNCVW9sNm45aUM0QU1jSEJybGZxa0ZTREZoZmhrcDlVR1dzOHJn?oc=5",
         "description": "",
@@ -1053,10 +1053,10 @@
     ],
     "Tech": [
       {
-        "title": "Jack DeJohnette, acclaimed jazz drummer who worked with Miles Davis, dies at 83 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMEotVjBBM1JuSEJGMkpoaXdyNWNpdmdBSDlhZm9kMXVaYUZOcHZXenVrTnVzM1BEV20zMm1mdTJCMS1UR3k3SEUzYlMtZVJZR0FXTXY2UkRPdjdReWpqcHJCd1FfZERyakdYbUIyTG5KbVVsN1VaVzlVTFdHblJGVzQwbk8ta3hSWnZVVmcxZG1DNGJyT0N1cVBnbFRoLWIzZnNjWHFMbVM?oc=5",
+        "title": "Two strong quakes in the Atlantic Ocean rattle the eastern Caribbean - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcko3cVpDMVZsRkFfT3d2STZLY0lZZFA0X2FMXy1oajJwZUt2QVJlNnVtUkZFM0YtYTNNRjFrNG1kQTJtamdLektXOWZhTmJXREVKWFZmQ3Zfb3BBTDF2RTUzZDI0a21ZSGltbHZMSFFKcHhTU21lRlhKNFR3cDRtVmtUU2JURWpTSFhZMEZLek1hM3F3cWc?oc=5",
         "description": "",
-        "pubDate": "2025-10-27T16:54:00Z",
+        "pubDate": "2025-10-27T16:53:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
