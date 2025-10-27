@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-10-27T16:48:47.228085Z",
+  "lastUpdate": "2025-10-27T16:59:56.220184Z",
   "news": {
     "Gaming": [
+      {
+        "title": "BreakingCat [Free] [Simulation]",
+        "link": "https://majocastro03.itch.io/breakingcat",
+        "description": "",
+        "pubDate": "2025-10-27T16:45:38Z",
+        "source": "majocastro03.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzODA4MTY0LnBuZw==/315x250%23c/7GnGTZ.png",
+        "bias": 0
+      },
       {
         "title": "INVASION [Free] [Adventure] [Windows]",
         "link": "https://barisdo.itch.io/invasion",
@@ -147,15 +156,6 @@
         "bias": 0
       },
       {
-        "title": "Apple peel. [Free] [Survival]",
-        "link": "https://maheviin.itch.io/apple-peel",
-        "description": "You cannot make me understand. You cannot make anyone understand. You cannot even explain it to yourself.",
-        "pubDate": "2025-10-27T15:39:29Z",
-        "source": "maheviin.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzODA4ODgzLnBuZw==/315x250%23c/uH9Dnw.png",
-        "bias": 0
-      },
-      {
         "title": "Floppatale ALPHA V0.0.1 [Free] [Role Playing]",
         "link": "https://thecreator6476.itch.io/floppaaaaaa",
         "description": "This is a test of our first game FLOPPATALE Which is situated after floppa the movie 2",
@@ -275,13 +275,13 @@
     ],
     "World": [
       {
-        "title": "Live updates: Trump arrives in Japan as a US-China trade deal draws closer - AP News",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14Z19PcUxqZDA0NXhscEVWVG9VR0lTWTcyUjJScVk0ZkRvYV93djllbXlMOXR2akdBUGJSTzhnM0RvU3JqMzJjZGpxZEFhTmp0VzNodnBkd2RhWFZRLTFtZDIwSDY2ZUhtSEZ6NQ?oc=5",
-        "description": "",
-        "pubDate": "2025-10-27T16:38:00Z",
-        "source": "news.google.com",
+        "title": "Donald Trump won in Argentina",
+        "link": "https://www.aljazeera.com/opinions/2025/10/27/donald-trump-won-in-argentina?traffic_source=rss",
+        "description": "With his support, Argentinian President Javier Milei can now chainsaw the country into greatness.",
+        "pubDate": "2025-10-27T16:51:34Z",
+        "source": "aljazeera.com",
         "image": "",
-        "bias": 0
+        "bias": -1
       },
       {
         "title": "Tesla chair warns Musk may quit if trillion-dollar pay deal is rejected",
@@ -302,12 +302,12 @@
         "bias": 0
       },
       {
-        "title": "British Prime Minister Starmer arrives in Turkey to discuss Eurofighter jet deal - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ09ocmIxZ2huYV8wVUlETGI1ZWYwQWxBNEtNSEVEWThYdkpLTDc1NkQxY3R0aVJzZTVORHh3dHFpVmhTLTlvNTE5YllYSU9pZFg2SGNWaG81UVVJVlN3ZTZvN3FOV1lDVTlIYlhteFdxTWJzdEdSLXlOSkp2NTV2NHVsUl9MZzR0TlRCQUV6MDVJdDh3TEVYX2tDM212S1czd04wcDQwZ3ZFM1hBb3d3?oc=5",
-        "description": "",
-        "pubDate": "2025-10-27T16:02:00Z",
-        "source": "news.google.com",
-        "image": "",
+        "title": "Cameroon's 92-year-old president wins controversial eighth term",
+        "link": "https://www.bbc.com/news/articles/cdx45zln4qvo?at_medium=RSS&at_campaign=rss",
+        "description": "Paul Biya retains his title as the world's oldest head of state, in an election marred with violence and allegations of fraud.",
+        "pubDate": "2025-10-27T15:59:22Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b69/live/1b2971c0-b34d-11f0-ba75-093eca1ac29b.jpg",
         "bias": 0
       },
       {
@@ -405,6 +405,15 @@
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNERoT1FRODNYVS1iYkF0QXU3ZkZ6MURZSXdDaEotN0FZSlBlMFB5WVlIRGhvamw4UmNOSHRia3VDMzFOWjlxS2QxbV92dTlVcVd4Smx6TlM0Qkl2YlRtbHpETTgySU45bzNUMS1PdEdfLVFZZmNKU0M0UndzR012TXNpTkZ6M3JZcXp3OFRwZDA1OUkwcHZXUGFCZGJsQnFs?oc=5",
         "description": "",
         "pubDate": "2025-10-27T15:07:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "LSU fires coach Brian Kelly in the fourth season of his 10-year, $100 million deal - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTExRRXpxWFQ4QzdCR3czZDRQTE5GZUxmUHZlRXVJc2p5MkpFWlVfWjFQWURGTTNtZHdpUjZtY2hCT19jc0p1b3JIX3AzSjR3MUgxTkNyWjNEdFU2Mk9VV3ZQRXhDSGZDVjFBejl5VXV3YlI0T3Fic1F3ZG1KVUxvdHZrQldpRzZx?oc=5",
+        "description": "",
+        "pubDate": "2025-10-27T15:06:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -554,6 +563,15 @@
         "bias": -1
       },
       {
+        "title": "Biden warns of dark days for the country as he urges Americans to stay optimistic - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcXYxZThUUWdRSk1EblY5TC10QkFsd0FnMURpWkZDWTZXNzJGM0s0RjlTMW53U1FJNUhEMkJXSXp2alp0QWJRSnIzN1hWNHFIWXBSdzBPNlQ3bWF4Ti1zeG9tV2wwbko2anFVQjEzVGpvd2EwSHY1aVRJUTdaTHdpUklVOE5XVldUSTZQbTF3?oc=5",
+        "description": "",
+        "pubDate": "2025-10-27T13:28:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "UK journalist Sami Hamdi detained in US after pro-Israel pressure",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/10/27/uk-journalist-sami-hamdi-detained-in-us-after-pro-israel-pressure?traffic_source=rss",
         "description": "UK journalist Sami Hamdi has been detained by the US after his visa was revoked, for unsubstantiated security’ reasons.",
@@ -626,6 +644,15 @@
         "bias": -1
       },
       {
+        "title": "Mali is squeezed as militants enforce an unusual blockade on fuel - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONXp1OVFiaUNaYXNqd2RIVXRQdFV4MWV0UHowN3I3SDczWG5FQWx2aG05LWtPVzVUQUkxQ2RtaFlpX2Z6SGx3Um5idVRrQWFZMEFEQWQ2SVI5dlg5c1VIak9aQmo3XzNMcy1JeWdmVzhIXzYwN2FTRnhsbWJlbko1dHU4OEUxYkROOVpRdVNmam9wQQ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-27T12:17:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "China and India resume direct flights after five-year hiatus",
         "link": "https://www.aljazeera.com/news/2025/10/27/china-and-india-resume-direct-flights-after-five-year-hiatus?traffic_source=rss",
         "description": "The move underscores efforts to rebuild relations and draw closer after US President Donald Trump's stiff tariffs.",
@@ -696,41 +723,41 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Cameroon President Biya declared election victor; challenger protests",
-        "link": "https://www.aljazeera.com/news/2025/10/27/cameroons-president-paul-biya-declared-election-winner?traffic_source=rss",
-        "description": "Ninety-two-year-old incumbent reportedly secures 53.66 percent; challenger reports gunfire targeting supporters.",
-        "pubDate": "2025-10-27T11:21:31Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Four killed in Cameroon protests as election results awaited",
-        "link": "https://www.aljazeera.com/gallery/2025/10/27/four-killed-in-cameroon-opposition-protests-ahead-of-election-results?traffic_source=rss",
-        "description": "Clashes erupt as opposition leader disputes election, with long-awaited official results expected on Monday.",
-        "pubDate": "2025-10-27T11:02:17Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Immigration crackdown stokes fear and solidarity at a Catholic church in DC - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMFZZdUxFdDZncW9uMHBTLVJVX1g2R0dIcW9aMkxzS3QwMHpKamVBLVlZWnFQNk10SFQ5WnJlMFFtOHNPLWRyRGlIdlRTRlM3bXJ0MzhXVHA3OGhxVEtzenRkM05pUkRTbUZzZ0ZvUUx1UW12empxWTE5QzhDRVNNcFdSemRpOGNGQy1RcDdZcmpQcERMaU9aY2dCYWVKWkFNWTRackkyWmdoRDdG?oc=5",
-        "description": "",
-        "pubDate": "2025-10-27T11:01:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Two Reform UK councillors booted out of party",
+        "link": "https://www.bbc.com/news/articles/c867g72nzq4o?at_medium=RSS&at_campaign=rss",
+        "description": "It comes after a damaging video leak of the Kent County Council leader shouting and swearing.",
+        "pubDate": "2025-10-27T16:55:57Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a23/live/763e8f70-b337-11f0-ba75-093eca1ac29b.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Live updates: Trump arrives in Japan as a US-China trade deal draws closer - AP News",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14Z19PcUxqZDA0NXhscEVWVG9VR0lTWTcyUjJScVk0ZkRvYV93djllbXlMOXR2akdBUGJSTzhnM0RvU3JqMzJjZGpxZEFhTmp0VzNodnBkd2RhWFZRLTFtZDIwSDY2ZUhtSEZ6NQ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-27T16:38:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Indiana’s governor calls a special session to redraw the state’s congressional boundaries - AP News",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORmR1TTcyZnhjS0dvdkl0LWpQUDB5cEJpb0xYYmxGcmltNHNXb1RhZWl6dE4wU3FPeHBpN2JfZHBWNkU0WVRLbmNkclNBdGhCdGdSa21tYmNzcDVpa0lVQ2JpSlVmVFdqSklQanA5Y1pxNWU3WU5maGNwYi1PZ2ctc29NcFo4MlBHNW5ReXl3c2Y5ZVNKWkVWQm9yQ21TRXVwelBhRDJR?oc=5",
         "description": "",
         "pubDate": "2025-10-27T16:27:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "British Prime Minister Starmer arrives in Turkey to discuss Eurofighter jet deal - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ09ocmIxZ2huYV8wVUlETGI1ZWYwQWxBNEtNSEVEWThYdkpLTDc1NkQxY3R0aVJzZTVORHh3dHFpVmhTLTlvNTE5YllYSU9pZFg2SGNWaG81UVVJVlN3ZTZvN3FOV1lDVTlIYlhteFdxTWJzdEdSLXlOSkp2NTV2NHVsUl9MZzR0TlRCQUV6MDVJdDh3TEVYX2tDM212S1czd04wcDQwZ3ZFM1hBb3d3?oc=5",
+        "description": "",
+        "pubDate": "2025-10-27T16:02:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -799,28 +826,10 @@
         "bias": 0
       },
       {
-        "title": "Biden warns of dark days for the country as he urges Americans to stay optimistic - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcXYxZThUUWdRSk1EblY5TC10QkFsd0FnMURpWkZDWTZXNzJGM0s0RjlTMW53U1FJNUhEMkJXSXp2alp0QWJRSnIzN1hWNHFIWXBSdzBPNlQ3bWF4Ti1zeG9tV2wwbko2anFVQjEzVGpvd2EwSHY1aVRJUTdaTHdpUklVOE5XVldUSTZQbTF3?oc=5",
+        "title": "Nigerian billionaire plans expansion of Africa’s biggest oil refinery - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSV85a1ZKalhhZEx5Qk1wcGxaOGFXbkphVUVFX0h0bVQ1OG9qSmlSWWUtUkJ3Sy03SWNlbUtVX1VXY2c0Uk03WDdHVWFHNmMydkpVbV95eFpmdmp4T3ZxZXV3SUdqV3FGdXctZlY4ZWw5aDhRRHg0M1BoZXAtU01oWUlOTDctdUYwdzFvOE1DRm1yN1puRzNDUjJHV2MxWlRT?oc=5",
         "description": "",
-        "pubDate": "2025-10-27T13:28:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Two Reform UK councillors booted out of party",
-        "link": "https://www.bbc.com/news/articles/c867g72nzq4o?at_medium=RSS&at_campaign=rss",
-        "description": "It comes after a damaging video leak of the Kent County Council leader shouting and swearing.",
-        "pubDate": "2025-10-27T13:20:41Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a23/live/763e8f70-b337-11f0-ba75-093eca1ac29b.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Mali is squeezed as militants enforce an unusual blockade on fuel - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONXp1OVFiaUNaYXNqd2RIVXRQdFV4MWV0UHowN3I3SDczWG5FQWx2aG05LWtPVzVUQUkxQ2RtaFlpX2Z6SGx3Um5idVRrQWFZMEFEQWQ2SVI5dlg5c1VIak9aQmo3XzNMcy1JeWdmVzhIXzYwN2FTRnhsbWJlbko1dHU4OEUxYkROOVpRdVNmam9wQQ?oc=5",
-        "description": "",
-        "pubDate": "2025-10-27T12:17:00Z",
+        "pubDate": "2025-10-27T13:25:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -871,24 +880,6 @@
         "bias": -1
       },
       {
-        "title": "Milei’s party wins big in Argentina’s midterm elections, in photos - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMDhobnZLQktUZUk1ZnF0SWt5dU90cEhHMVNEQ0hSTnMxdlRoZUt3OGJ5bHFOWmhvN01UUUJ1UFY4MlF4ZVJ3VlZxT0dfYzRFcWZqU29SX1JoOTNNcWZid0FWTGxsYWNEWEZiTjhfeXd2UzhrVTMtTU9RMnU0bzN3MjlxN290YnhrQ3kyMml1eVhLOGFndW9hZ2tmT3ctTktpNmItRkhjVHprVC0td1ROYmN3?oc=5",
-        "description": "",
-        "pubDate": "2025-10-27T07:56:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Former Madagascar president Andry Rajoelina stripped of citizenship after military takeover - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ3YwV1F1Ym11ZU9mUWo5dWZ1UUpuWWZ3QXpnTi1BSlRnTDlCbGh5TVVnOXVvVjFXSDd6M2t6dDZieDlQd05HZ2ZyMEV4S3h3dGc5V2VaeFVTZXJpRlVoQks1d2JfeUhKNkZmLTFxX1F1S3ZSWEZ4VS1Xd1BtV2d4VjlrNFdTbkJzc1dSUGlTMnZhRnNLdmdiaU5vVlY5ckkyVXBGSHlYSTNjdmJUZ2c?oc=5",
-        "description": "",
-        "pubDate": "2025-10-27T07:50:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Mali closes schools due to fuel scarcity as militants enforce blockade - AP News",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOXlhLUJMaE9kbVFDZWZfLUpYX2VDYmJqbXF0cW5wd0FDVjRFdnpaREk2QmJOSGVRcEpyNHRfOVExT1JUVndISlRpTmtLdzlFSWo4Ql9KeEYxRkNQVW9XQVFZQXIxR3ltWjZZbmxZV1BnYU9weWlWWlRiTlhqQzVxdW1seldQY0d1XzlwaDRUVWpBX05sQ0E?oc=5",
         "description": "",
@@ -932,15 +923,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Ireland’s president elect is a left-wing, anti-establishment figure who is outspoken on Gaza - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT0VHUUJUdmp5NXhWS21jbFJ5eFd3Z2NUSmppZHlMSnlFTEw3UzdCWkhxN0NqTDVpQzBLTWpwOEZvQ2ZEM2FrelFHSUdZU2EzcHdRUk1jSVpJR05hckt6Y3FCZEhkTWx2aFdoZ09TRmdkX25samRXOHh5N0pxcU8zS3dfSDFiRDZhbE1xQ1RRWkpTVFZhRDdVWGFyaldpLTVRU3YxRFh0QUpSZXJSdDdHam5ja3ZpSkxxczVn?oc=5",
-        "description": "",
-        "pubDate": "2025-10-27T01:41:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Tech": [],
@@ -965,6 +947,15 @@
       }
     ],
     "Business": [
+      {
+        "title": "Airline strands ex-BBC editor, citing Parkinson's",
+        "link": "https://www.bbc.com/news/articles/ce9dx4zgzjzo?at_medium=RSS&at_campaign=rss",
+        "description": "Mark Mardell was left feeling 'humiliated' after he was told he could not board a flight.",
+        "pubDate": "2025-10-27T16:56:44Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d719/live/6e3fbd10-b34d-11f0-ad84-99ce12c6004d.jpg",
+        "bias": 0
+      },
       {
         "title": "North Sea oil and gas firm Petrofac files for administration",
         "link": "https://www.bbc.com/news/articles/cg51z1gdj7vo?at_medium=RSS&at_campaign=rss",
@@ -1030,6 +1021,15 @@
       }
     ],
     "Culture": [
+      {
+        "title": "Why Cameron Crowe wears 'uncool' as a badge of honor",
+        "link": "https://www.npr.org/2025/10/27/nx-s1-5585123/cameron-crowe-memoir-almost-famous-uncool",
+        "description": "Crowe was just 15 years old when he became a music journalist in 1973. He had to talk his mom into letting him go on the road with bands. He chronicles his adventures in his new memoir,",
+        "pubDate": "2025-10-27T16:47:35Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Man wins payout over portrayal in Richard III film",
         "link": "https://www.bbc.com/news/articles/cdegzx9w16ro?at_medium=RSS&at_campaign=rss",
