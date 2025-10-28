@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-28T14:25:22.119131Z",
+  "lastUpdate": "2025-10-28T14:45:28.935564Z",
   "news": {
     "Gaming": [
       {
@@ -9,6 +9,15 @@
         "pubDate": "2025-10-28T14:19:09Z",
         "source": "alexx20562014.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzODIzNTA0LnBuZw==/315x250%23c/hf9pyu.png",
+        "bias": 0
+      },
+      {
+        "title": "Tic-Tac-Toe [Free] [Educational]",
+        "link": "https://gronolagames.itch.io/tic-tac-toe",
+        "description": "A simple Tic-Tac-Toe game I made to relearn Godot.",
+        "pubDate": "2025-10-28T14:15:00Z",
+        "source": "gronolagames.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzODIzNjY3LnBuZw==/315x250%23c/n%2FiP93.png",
         "bias": 0
       },
       {
@@ -75,6 +84,15 @@
         "bias": 0
       },
       {
+        "title": "Escape From Duckov [Free] [Action] [Windows]",
+        "link": "https://hoshiichiro.itch.io/escape-from-duckov",
+        "description": "",
+        "pubDate": "2025-10-28T13:30:41Z",
+        "source": "hoshiichiro.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzODIzNjU1LmpwZw==/315x250%23c/urV3Xl.jpg",
+        "bias": 0
+      },
+      {
         "title": "Pitfall Speedrun [Free] [Action] [Windows]",
         "link": "https://brit-o.itch.io/pitfall-speedrun",
         "description": "",
@@ -120,24 +138,6 @@
         "bias": 0
       },
       {
-        "title": "Fly Bird But HTML5 [Free]",
-        "link": "https://eternalforge-games.itch.io/fly-bird-but-html5",
-        "description": "HTML5 Flappy Bird Clon",
-        "pubDate": "2025-10-28T12:54:58Z",
-        "source": "eternalforge-games.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzODIyMTYzLmpwZw==/315x250%23c/MJAoRl.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Rock, paper, scissors [Free] [Windows]",
-        "link": "https://shervin-shafizad.itch.io/rock-paper-scissors",
-        "description": "",
-        "pubDate": "2025-10-28T12:54:18Z",
-        "source": "shervin-shafizad.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzODIyMTM3LnBuZw==/315x250%23c/dTjeBu.png",
-        "bias": 0
-      },
-      {
         "title": "Dewey Decimal Classification [Free] [Educational]",
         "link": "https://alaa-dev.itch.io/dewey-decimal-classification",
         "description": "Dewey Decimal Classification",
@@ -165,15 +165,6 @@
         "bias": 0
       },
       {
-        "title": "SwipeyCards - Prototype [Free] [Card Game] [Windows] [Android]",
-        "link": "https://yggahs.itch.io/swipeycards",
-        "description": "Buy packs, sell cards, grow your collection!",
-        "pubDate": "2025-10-28T12:40:00Z",
-        "source": "yggahs.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzODIxOTU1LnBuZw==/315x250%23c/SCKHeC.png",
-        "bias": 0
-      },
-      {
         "title": "Exchange Dimensions [Free]",
         "link": "https://switching92.itch.io/exchange-dimensions",
         "description": "A small robot must find its spaceship.",
@@ -192,21 +183,12 @@
         "bias": 0
       },
       {
-        "title": "Flappy Bird [Free] [Adventure] [Windows] [macOS] [Linux]",
-        "link": "https://vitoralexandrino.itch.io/flappy-bird",
-        "description": "Flappy Bird Recreation",
-        "pubDate": "2025-10-28T09:18:54Z",
-        "source": "vitoralexandrino.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzODIyMDExLnBuZw==/315x250%23c/l19QlJ.png",
-        "bias": 0
-      },
-      {
-        "title": "Werid Untitled Game [Free] [Windows] [macOS] [Linux] [Android]",
-        "link": "https://youlocal-meleira.itch.io/werid-untitled-game",
-        "description": "Just a random game:)",
-        "pubDate": "2025-10-28T08:59:06Z",
-        "source": "youlocal-meleira.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzODIxOTkyLmpwZWc=/315x250%23c/yRhuX6.jpeg",
+        "title": "Blink & Bloom [Free] [Role Playing]",
+        "link": "https://queby.itch.io/blink-and-bloom",
+        "description": "Eye health meets garden care",
+        "pubDate": "2025-10-28T10:53:02Z",
+        "source": "queby.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzODE5NjIyLnBuZw==/315x250%23c/tyujaC.png",
         "bias": 0
       }
     ],
@@ -230,10 +212,10 @@
         "bias": 0
       },
       {
-        "title": "Campaigning begins in military-run Myanmar ahead of ‘sham’ elections",
-        "link": "https://www.aljazeera.com/news/2025/10/28/campaigning-begins-in-military-run-myanmar-ahead-of-sham-elections?traffic_source=rss",
-        "description": "The vote, which begins on December 28, is being widely viewed as a ploy to legitimise the ruling military government.",
-        "pubDate": "2025-10-28T13:39:41Z",
+        "title": "Record rains drive flooding in Vietnam, submerging ancient city",
+        "link": "https://www.aljazeera.com/news/2025/10/28/record-rains-drive-flooding-in-vietnam-submerging-ancient-city?traffic_source=rss",
+        "description": "Vietnam's weather agency has recorded its highest level of rainfall for a 24-hour period in the historic city of Hue.",
+        "pubDate": "2025-10-28T14:12:41Z",
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
@@ -242,6 +224,15 @@
         "title": "Video: Unidentified Palestinian bodies recovered from Gaza City mass grave",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/10/28/video-unidentified-palestinian-bodies-recovered-from-gaza-city-mass-grave?traffic_source=rss",
         "description": "Dozens of Palestinian bodies have been retrieved from mass graves near al-Shifa Hospital.",
+        "pubDate": "2025-10-28T13:39:41Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Campaigning begins in military-run Myanmar ahead of ‘sham’ elections",
+        "link": "https://www.aljazeera.com/news/2025/10/28/campaigning-begins-in-military-run-myanmar-ahead-of-sham-elections?traffic_source=rss",
+        "description": "The vote, which begins on December 28, is being widely viewed as a ploy to legitimise the ruling military government.",
         "pubDate": "2025-10-28T13:39:41Z",
         "source": "aljazeera.com",
         "image": "",
@@ -392,10 +383,10 @@
         "bias": -1
       },
       {
-        "title": "Amazon cuts 14,000 corporate jobs as spending on artificial intelligence accelerates - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSDlKTlJ0ZUpYMm9xVERhWHNNTUFfZWpWdEVCVERYNXZtUjNhcElmaG5BWkRKZjdsR3YxS3FuZGVUUy1tQkR0Si00bWlSV0laVi1OZjJRTDVETzA3WGozZThHd3hQZG9OVTFLZW9DZlk0TmVHYnFwakFLS3dwWXJNaVdLaWVBR3dwWDFvcVpLZlZLdk9HUGJTMGhPcHVZTGk1RVhPQzY0MFZFZw?oc=5",
+        "title": "The new $50M Literary Arts Fund will support independent publishers and nonprofits - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUlM4RDhlTEFRMHRJdG5IMzY4LWtTb09NbThmUnNGOG96SzVSLVlJWGJwSnpfT1h1UEZwOEpBV01LWXZfR3VVVjZ3Zld0amdraWp6ekdaMzlCYnZUUUFqVXpMTzh1U3R6YUUwNVZ0TW5UTU53b3NNMU1mU3I4bjNteE1NcUZsdzF0YkF2ZHFpWnFXT0E?oc=5",
         "description": "",
-        "pubDate": "2025-10-28T12:23:00Z",
+        "pubDate": "2025-10-28T12:27:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -405,15 +396,6 @@
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObDRNN1UxNmNjcnltcFI1ZEgwdkxLdjJ5UVdQeW54TmdmN0JZc1RnbmFBUTVsOVJCMWRnVE00LVg2LUI1czVoR3k4UG8za19aakZGWFJtZjgxa2FoTjdBZWlweUpBUTA1QTFVaWhoSEg3WW90YjFnY2R1Q3ZqeUZFcnUweXdYcXY3SlpkcDlHdTRKSTR3NnVVRVhheEFaZklILXQ4T0hsbHM2N09Qdm84?oc=5",
         "description": "",
         "pubDate": "2025-10-28T12:19:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Netanyahu says remains returned by Hamas are body parts of a hostage previously retrieved in Gaza - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcm51LWo0WEtrNmduelVPYVpRaU9PV3hSZEdTYnZsOTgyd2F2ZkFSR1J2VDRKODJhOXBubHRFdXp3SHVvdG5aNWlpSVdvVGhqQXd4b0tyTElnUUlrZFJyaHhnejJzVEdRUTdHUWtIM29aQTlUa0R3QnloVVVJUV9pRUhUanJfTl9EY3VOQVc3N2NWbnVYVVcyTGFxSkxTMjBZQlE?oc=5",
-        "description": "",
-        "pubDate": "2025-10-28T12:14:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -464,10 +446,10 @@
         "bias": -1
       },
       {
-        "title": "Prunella Scales, who played Sybil in British sitcom ‘Fawlty Towers,’ dies at 93 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUTV3R2hVQkNsOUdJeXZkR2FrdHRLWGEtNkJtWVU1MS1UR2xCRHhuQ01peXI2N2VkR244STRrZERLTHk3NWRpT2ptekdIcHNEVElKU2hsbkl3MzhfTzlRVElPVXFZV19YQ1lDam5NZ1NRbVZKNWdwR0dxbFNjeWk1XzV1eXdPVWxiUURpUEZuR04yd2djZXh0S0ZtT0pJQUVHNFZ3bndPbw?oc=5",
+        "title": "India conducts cloud-seeding trial to clear New Delhi’s smog - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLWFOUzR0OXFWSXNTQUVZUVBuUGIzSUZqa2tqeWNhM2psblBWX3d0VlhNSHBKRi1KRGtlX2QtZ0l2a3FwN3ZXWWZ5NXdRR1hzLUk0NEZiNWd2RUhubjgzWXc3TDg0NVBSeGx5WEF4bjB6WUZueE00WWZHNE9kcUhES1NxU0MxT0xYZ2FRWUYybnRlblV6R2lBTGlPWEJhMjhyNXc5bkdzMFc?oc=5",
         "description": "",
-        "pubDate": "2025-10-28T11:39:00Z",
+        "pubDate": "2025-10-28T11:41:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -554,6 +536,15 @@
         "bias": 0
       },
       {
+        "title": "Game recognize game: Other US sports stars are in awe of Shohei Ohtani - AP News",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4bFlBYjg3emFvd1hhY3VOWkpaQnhtRTJELWM2bzg3TEIwS0JIeUk3TGhyRENMaVFZMHM5WmdhZUtqVGZYTE4yOEhZUmRXTmpoMDNOcGdFX1puU0kzNmVCalhpaWloenNaeXVfOFVvaUhZeHQzT0F5eXZva3ZjZw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-28T10:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Suspect pleads guilty to murdering former Japanese PM Abe",
         "link": "https://www.aljazeera.com/news/2025/10/28/suspect-pleads-guilty-to-murdering-former-japanese-pm-abe?traffic_source=rss",
         "description": "As trial opens, Tetsuya Yamagami admits murdering Japan's longest serving leader three years ago.",
@@ -561,6 +552,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "The Dodgers’ historic World Series Game 3 victory, by the numbers - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSi1DUkw0OGxSdUp3czJxUEpGOGN4bHY4cFhBSzFWSlQ0YnJyQXd5aGFhUVJfN3g0WWF0a2owUzNxTUpvXzF0LXB1MndCWlotNHo4dFdNVGpiSWNabjB5T1NISlI2dnc4dDgxaUFsM3o4OEY5Y3BoMlhnaUFKdUtUQTRJVFJHZjQ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-28T09:56:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Video: Plane flies through world’s strongest storm, Hurricane Melissa",
@@ -642,27 +642,18 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
+      }
+    ],
+    "Politics": [
       {
-        "title": "Another big Sho: Ohtani hits 2 homers, ties record with 4 extra-base hits in World Series Game 3 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRkltUWZta0FaWWVLSHhnTTNqdmY4UDR6RGZSOGZ6b2RtbDVIN0JWeURyUGJ3cDI5a1FzMVZmdDdUTTNHaE9PR1NLRWgtLW9IRUFLeXVTbHJ4VHJYNGpuak9yOHI2ajF1U1ZqTE82QmlWRW0xVHZLMUVNY0dHSXFnZlpxMkNEanY3dzRDejJRV2w5RDNjYWF1UFczbDZkY29QX0JBREU2Yw?oc=5",
+        "title": "Plane crashes in Kenya while flying to Maasai Mara National Reserve, killing 11 people - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY0Q0amRldFVqMExjMFVEY3hjMmpJVGROY0JwdWhJWlJQQVF5Wnh0VVhtSzJQOXE4OVUxVVlNWldPMEpNRjBsS0NiUExLTmd0RGJSRGdGV1FoMnFQQ3dUdjIyNk02UzBZOGxnSklBVmttMmpvMnBqaXpMVUlscW5iS0RXbnlfOFozZGJpSGR4YjFsV3B2ZFRURUZReUQ2dmc3T0lsaDF3?oc=5",
         "description": "",
-        "pubDate": "2025-10-28T08:40:00Z",
+        "pubDate": "2025-10-28T14:00:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
-      {
-        "title": "Brazil’s ex-president Bolsonaro appeals 27-year sentence for attempted coup",
-        "link": "https://www.aljazeera.com/news/2025/10/28/brazils-ex-president-bolsonaro-appeals-27-year-sentence-for-attempted-coup?traffic_source=rss",
-        "description": "The sentence handed to the far-right politician last month has become a major issue in Brazil-US relations.",
-        "pubDate": "2025-10-28T08:33:49Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      }
-    ],
-    "Politics": [
       {
         "title": "Two military sites earmarked as asylum seeker accommodation",
         "link": "https://www.bbc.com/news/articles/cjr0lx7n0y3o?at_medium=RSS&at_campaign=rss",
@@ -670,15 +661,6 @@
         "pubDate": "2025-10-28T13:17:08Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3be/live/f41732c0-b397-11f0-ba75-093eca1ac29b.jpg",
-        "bias": 0
-      },
-      {
-        "title": "UPS 3Q results top Street; gives details of turnaround efforts, including 34,000 job cuts - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTmJZRDNiTjVHQ0d6TmliYXM5UTNQZEhUd29keWdCcFV3MUgwdnJwZEZtRUxuTkw1eDZBd0MtWndlTE5kSkloS3BROHN1Q0hBV2wtRDhJMTJPazExdzNjeF85UGJYR2RpRExqRW85SGtiQTcyWWFzaC12RjhGNlZBb0FvQ1dJRTkzUnAwQy1fU1lFM00?oc=5",
-        "description": "",
-        "pubDate": "2025-10-28T13:15:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -691,15 +673,6 @@
         "bias": 0
       },
       {
-        "title": "Maine and Texas are the latest fronts in voting battles, with voter ID, citizenship on the ballot - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORlg4M3c1aUdOX0xRS2Z3MWpRVUptNEY3WVNGS0FqUzFkRmx1RkNhOVBQZ3FWM0I5WVB5dGFJSEx2aTJiLUJ4aVEyYmRjLW1BR3N4MnduSG5saU9JU2xIMm9Nci1VdV9SWWowN3liYU1HQlB2WXAwY0x6QngwMlBVQkJxYjlhR0NzZHRobHRzYUREUWp3WGRTb25qNjJ6UDRsTkZBa0N1Y0Vrdw?oc=5",
-        "description": "",
-        "pubDate": "2025-10-28T13:01:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "When is the Budget and what might be in it?",
         "link": "https://www.bbc.com/news/articles/cj4w44w42j5o?at_medium=RSS&at_campaign=rss",
         "description": "Chancellor Rachel Reeves is considering both tax rises and spending cuts in the 26 November Budget.",
@@ -709,19 +682,19 @@
         "bias": 0
       },
       {
-        "title": "11 killed in Kenya plane crash while en route to Maasai Mara National Reserve - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY0Q0amRldFVqMExjMFVEY3hjMmpJVGROY0JwdWhJWlJQQVF5Wnh0VVhtSzJQOXE4OVUxVVlNWldPMEpNRjBsS0NiUExLTmd0RGJSRGdGV1FoMnFQQ3dUdjIyNk02UzBZOGxnSklBVmttMmpvMnBqaXpMVUlscW5iS0RXbnlfOFozZGJpSGR4YjFsV3B2ZFRURUZReUQ2dmc3T0lsaDF3?oc=5",
+        "title": "Amazon cuts 14,000 corporate jobs as spending on artificial intelligence accelerates - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSDlKTlJ0ZUpYMm9xVERhWHNNTUFfZWpWdEVCVERYNXZtUjNhcElmaG5BWkRKZjdsR3YxS3FuZGVUUy1tQkR0Si00bWlSV0laVi1OZjJRTDVETzA3WGozZThHd3hQZG9OVTFLZW9DZlk0TmVHYnFwakFLS3dwWXJNaVdLaWVBR3dwWDFvcVpLZlZLdk9HUGJTMGhPcHVZTGk1RVhPQzY0MFZFZw?oc=5",
         "description": "",
-        "pubDate": "2025-10-28T12:02:00Z",
+        "pubDate": "2025-10-28T12:23:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "India conducts cloud-seeding trial to clear New Delhi’s smog - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLWFOUzR0OXFWSXNTQUVZUVBuUGIzSUZqa2tqeWNhM2psblBWX3d0VlhNSHBKRi1KRGtlX2QtZ0l2a3FwN3ZXWWZ5NXdRR1hzLUk0NEZiNWd2RUhubjgzWXc3TDg0NVBSeGx5WEF4bjB6WUZueE00WWZHNE9kcUhES1NxU0MxT0xYZ2FRWUYybnRlblV6R2lBTGlPWEJhMjhyNXc5bkdzMFc?oc=5",
+        "title": "Netanyahu says remains returned by Hamas are body parts of a hostage previously retrieved in Gaza - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcm51LWo0WEtrNmduelVPYVpRaU9PV3hSZEdTYnZsOTgyd2F2ZkFSR1J2VDRKODJhOXBubHRFdXp3SHVvdG5aNWlpSVdvVGhqQXd4b0tyTElnUUlrZFJyaHhnejJzVEdRUTdHUWtIM29aQTlUa0R3QnloVVVJUV9pRUhUanJfTl9EY3VOQVc3N2NWbnVYVVcyTGFxSkxTMjBZQlE?oc=5",
         "description": "",
-        "pubDate": "2025-10-28T11:41:00Z",
+        "pubDate": "2025-10-28T12:14:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -733,6 +706,15 @@
         "pubDate": "2025-10-28T11:39:42Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cd4/live/e9fb3840-b356-11f0-ad84-99ce12c6004d.png",
+        "bias": 0
+      },
+      {
+        "title": "Prunella Scales, who played Sybil in British sitcom ‘Fawlty Towers,’ dies at 93 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUTV3R2hVQkNsOUdJeXZkR2FrdHRLWGEtNkJtWVU1MS1UR2xCRHhuQ01peXI2N2VkR244STRrZERLTHk3NWRpT2ptekdIcHNEVElKU2hsbkl3MzhfTzlRVElPVXFZV19YQ1lDam5NZ1NRbVZKNWdwR0dxbFNjeWk1XzV1eXdPVWxiUURpUEZuR04yd2djZXh0S0ZtT0pJQUVHNFZ3bndPbw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-28T11:39:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -759,7 +741,7 @@
         "description": "The OBR is understood to have downgraded the UK's productivity level in early Budget forecasts",
         "pubDate": "2025-10-28T09:25:28Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efdc/live/9d17ca90-b390-11f0-8f14-918a243add68.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e91f/live/3acbb000-b40c-11f0-ba75-093eca1ac29b.jpg",
         "bias": 0
       },
       {
@@ -790,15 +772,6 @@
         "bias": -1
       },
       {
-        "title": "Trial begins for man accused of killing former Japanese PM Abe with homemade firearm - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQVIzUGJLM1JtVWpjOEpyRG5nX3RIWFlycXoxbkpQbUlLNmx0RFRseTNkczctSVVfWE1GdDJscE5nb1VROF9UYjVEWGJ3NExabi1CVEZPX2k0Yk0wbkdRcmFXcDE0ZzA1dV80SzByX3hZa2V2VmlPS0g3amNkRko1QjhoWlhOcU5EQ3hHNHZDN0lDTmZPMW1YeVdLMldfRzZuQThZMU14Szd4dw?oc=5",
-        "description": "",
-        "pubDate": "2025-10-28T06:17:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "South Korea’s president faces high-stakes diplomacy at APEC summit - AP News",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRnI1NXZVZ2NjOTNTMVpETFhyZmoybW15OUZSaWNfSmd1RGJmS3UwbW5Kek8tN0FYTEgyU3I0S0l5N0czQmFzLXhIMnFhamstU2RxLTBSLTV2am1xTlg3ZXNXalFrN0lhRTVpVWdCS01zVUYxbldxSjVhS0Y4MENoeGI5cG5rWnNpMUZ2c0lWZXZMcFg3V2o4?oc=5",
         "description": "",
@@ -808,10 +781,10 @@
         "bias": 0
       },
       {
-        "title": "In AP interview, East Timor's Ramos-Horta says personal diplomacy could bring Myanmar ceasefire - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTlpnTHlFT05pa1lzYmhwaHBaRXVLY3hrM1BQT1p0djBhRy03RWVqWmpaTzJHbGxSNEdxd3lLdDFnMGRkMm9LZHREU3JURVZpTi1zWUxRZmp2eUtaN21zLTVLa20tUEFHNXFWY3NrYmZYRkQzbFR2WTBrTnFGTVNwc0hxLXh1OHFqQkVRTzRNUGtXQVE4V1pjcXo3bw?oc=5",
+        "title": "Venezuela suspends energy agreements with Trinidad after US warship arrives at island nation - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaDZzZzRvTy1lOVZWNXZKNGpLQVQ1bFBCamV2cGxfUTVyR2hlT3pQNXVjb2hPa2ZTOEdQcWZvMVU2MWYtUmJXbVM5Rl9XdF9qU0VvVHR0b05PMUVTRnpSbHE5aVo2bWs5Z0h3RnBqOG9uTDdWTnJCdE1Nb0N6a3pwLWNvakNYVW9CVk04Sy13RzhSYkhYM1VIWVJ6eW90a09sOWtYa09WeU5OemxYRFBveWpHbnVGUQ?oc=5",
         "description": "",
-        "pubDate": "2025-10-28T04:47:00Z",
+        "pubDate": "2025-10-28T04:37:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -826,16 +799,25 @@
         "bias": 0
       },
       {
-        "title": "Judge seeks assurances that Abrego Garcia won't be deported to Liberia in violation of court order - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR0VIOG1VWTBUd245S2Nrdkl0YVhYQWFpUXdXWXFHZ0dPZTV4MUdtZ25qNEc1TUFXTlF5cWkxMnNPcGwyc3IyWHJSV2VNOW1vUlVuTTFpbmxSeDBQZ2h2OGIzNG9WakhmLVo0Zk4zOUxhZl9xejN0Nm01N0dscnJWblpTMDRiZVBBbGZzajNSdkMzbzMtOTJ4bV9tbE4wYmdCWWdBZEQ1bTA?oc=5",
+        "title": "Big win in midterm vote for Argentina’s President Milei boosts markets and vindicates Trump - AP News",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNEU4dVpnT1NTLW1KNm9VeFRYUF9pM3dyOWpabjNqMlJzek9ZeTBHb3dhZjB0OGh0UGMxMFctX0F4OG8zNVVNX3Vla21FNUktQVV3V2NFeFhFLVI5TUxpcVVmM0xoTnlOM2RvTFMwYkY2TWlkZU84YnI5QTJZdTdiNzd2LXJsV2Q1ak5keEhZTzZUekdtMGFmd083aDFxanVaRUV5c0hCQ3ZYSFVTWC14azhEUnlZbERSSHdDUUdaeU9rTHVVYzFPcW9MYnY2SUR4bGVlS0E0SQ?oc=5",
         "description": "",
-        "pubDate": "2025-10-28T00:35:00Z",
+        "pubDate": "2025-10-28T03:24:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       }
     ],
     "Tech": [
+      {
+        "title": "Hegseth says US carried out 3 strikes on alleged drug-running boats in eastern Pacific, killing 14 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRVAtZkFnd2hTMXRYWjF1U1BFcUpWOU9NamJSMGd6Yk9Pd2gzbUJyV0RGNDRDOURZRmh5SkxhSGduazNkckZFQkEtdkRVOHpTaVNYcEpNcW50Q0F4ZWNkakl1dGJjNmJERGVBZXVYNHU2ZWlXWGxMWVZFOUloUnBCY3BTZEVjeW9hTy01TU80dWxRdw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-28T13:51:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Trump’s visit to Japan and Malaysia in photos - AP News",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcjBqYmtHWG1OSF9iSlNkUFRsaXl3TWpCamhyVUdRZHpRTTlQVVlMZWlrZF9wSGluWVJJWlhEQWlKRFU4dGMxVms5OEZZOUZMMmM1SjRvOW5fdmUtNGRNLWp1SW16VHgydmpwdVVseC1MRkt0VWhyX0NoTDJrZUxKWXQ5WldTdXJtS0NpdFU2Mm1neU1ZUGxwZw?oc=5",
