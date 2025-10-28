@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-10-28T05:44:15.592293Z",
+  "lastUpdate": "2025-10-28T05:55:27.064620Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Neon Escape [Free] [Action]",
+        "link": "https://neon-rhino.itch.io/neonskyline",
+        "description": "",
+        "pubDate": "2025-10-28T05:38:00Z",
+        "source": "neon-rhino.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzODE4NDcxLnBuZw==/315x250%23c/DMjxxb.png",
+        "bias": 0
+      },
       {
         "title": "The Eternity and 3 Days More [Free] [Puzzle]",
         "link": "https://9fold.itch.io/eternity",
@@ -165,24 +174,6 @@
         "bias": 0
       },
       {
-        "title": "Super Baxter and the Halloween Fright [Free] [Platformer]",
-        "link": "https://baxterstellar.itch.io/super-baxter-and-the-halloween-fright",
-        "description": "Happy Halloween from Super Baxter!!",
-        "pubDate": "2025-10-28T03:48:26Z",
-        "source": "baxterstellar.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzODE3NDc4LnBuZw==/315x250%23c/dBq4vs.png",
-        "bias": 0
-      },
-      {
-        "title": "Covetous Crusades: Poison Build [Free] [Action]",
-        "link": "https://realkoopsader.itch.io/covetous-crusades-dx",
-        "description": "A 2.5D Beat 'em up prototype of an indie game I'm working on figuring out the systems for.",
-        "pubDate": "2025-10-28T03:47:16Z",
-        "source": "realkoopsader.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzODE3ODQwLnBuZw==/315x250%23c/wfIUaJ.png",
-        "bias": 0
-      },
-      {
         "title": "The Journey Through Postishtia [Free] [Adventure]",
         "link": "https://absolutelyprofessional.itch.io/postishtia",
         "description": "A game where you have fun with multiple choice.",
@@ -192,21 +183,21 @@
         "bias": 0
       },
       {
-        "title": "DO NOT SAVE ME [Free] [Visual Novel] [Windows] [macOS] [Linux]",
-        "link": "https://cozystars.itch.io/donotsaveme",
-        "description": "A stolen woman finds herself between a rock and a cliff.",
-        "pubDate": "2025-10-28T03:27:18Z",
-        "source": "cozystars.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzODE3NjY2LnBuZw==/315x250%23c/8wLEf1.png",
-        "bias": 0
-      },
-      {
         "title": "Corpus [Free] [Interactive Fiction]",
         "link": "https://atd-12322.itch.io/corpus",
         "description": "University of Tulsa CSG 1003: Game Design Challenge 2",
         "pubDate": "2025-10-28T03:14:28Z",
         "source": "atd-12322.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzODE3NzA5LmpwZWc=/315x250%23c/D7Lczo.jpeg",
+        "bias": 0
+      },
+      {
+        "title": "Tower Defense Classic I Demo [Free] [Strategy] [Windows]",
+        "link": "https://backalleystudio.itch.io/td-classic-i-demo",
+        "description": "TD Classic I Demo",
+        "pubDate": "2025-10-28T00:35:13Z",
+        "source": "backalleystudio.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzODE1OTU0LnBuZw==/315x250%23c/h9lKxS.png",
         "bias": 0
       }
     ],
@@ -304,6 +295,15 @@
       {
         "title": "Pressure builds on Congress to end the shutdown, but a quick breakthrough appears unlikely - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS0JHZkNmR2Q2OEh2THNPSk1jSU9iS2IxMTF2Z1lGd3dQaThrS0w5am5pazZMMXJKNUExTTdQV0lfWTVfaW9yY0xKWUREM1h3cDQ1ZTZpdy14QURwMGZHMmpyOF9WTWhLZlhWTXk3RjMwWUZ3alNBVHN5Z2Y2QllYWElqYVQ5eFlKTkJ4YlVNSW1RYXhGNmRVdUNFZ0o2X0FtY1ZlTV9XdlE?oc=5",
+        "description": "",
+        "pubDate": "2025-10-28T04:02:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Florida man convicted raping and killing his neighbor in 1998 is set to be executed - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTkxxYUx4NnFPbGFtWXRCUkM0MVhVckZNLUNZY0hNSzU1cE5NZHd6UzdPd3drNlNTLXdJMkxELVBGd2U4VUpBMmllNWdnZ2V2SWRVdXJCd2gzSjU4U3hHU3BNdDZwWldvOVNNVm5RMGZMdVRRWk5YNEpubGVPRl91QVA3aFVCMmJFeExjdUlyREV4VDJxa0MtMFVJd2hGNWVK?oc=5",
         "description": "",
         "pubDate": "2025-10-28T04:02:00Z",
         "source": "news.google.com",
@@ -519,15 +519,6 @@
       }
     ],
     "Politics": [
-      {
-        "title": "US Air Force provides views from inside Hurricane Melissa - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaV9ZRTB2cmluOXctQjJSYjNTQTVWNVNtWldkRXpVRHJ0UWVYTVFFSkV3T244Q241dE04ZVBqRG0yd2lEN3R4WUJGMG56ZXB6Wm53eDZ5Mk15X0w2RldMb2duM1VWVEJzbkZTeUFXTDczbGFieEQ4TmhoRWdWRzVRMUJkV0paQ2tPaGROUHdNd3NHM0diWTEwaEFNRUZfNkhTVDQydzBrNllPYXNEcVZXY2UwM3Y2dw?oc=5",
-        "description": "",
-        "pubDate": "2025-10-28T05:02:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
       {
         "title": "Ford’s enormous F-150 becomes unlikely part of Japan’s efforts to woo Trump - AP News",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTDRyVXlPN2ZFc3hpYUl4cHVMZXJfS0xsYUZfQ0NpNjAwUTZHX184Z1JKUVQxVl9NSEpUZHF2MzliS0JncUxLY3dMNnJFaW9EZzJLS29WV2Q1S3lZSUY0SXQ3RnBmdFdfUzFFd0RNMlYxaWxLTG1MUE5SWjFXSW1keGYtdU9UTnVpd0l1bThaLWNUSlRuRDhiVFBPa0w?oc=5",
