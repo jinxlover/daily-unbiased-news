@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-29T05:44:24.155890Z",
+  "lastUpdate": "2025-10-29T05:55:20.715302Z",
   "news": {
     "Gaming": [
       {
@@ -9,6 +9,15 @@
         "pubDate": "2025-10-29T05:32:38Z",
         "source": "ytap.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzODM0NjU4LnBuZw==/315x250%23c/FI0grw.png",
+        "bias": 0
+      },
+      {
+        "title": "Castle Crew [Free] [Action]",
+        "link": "https://abbiedreamer.itch.io/castle-crew",
+        "description": "The Princess and the Knight ride into battle to defeat enemies together!",
+        "pubDate": "2025-10-29T05:26:08Z",
+        "source": "abbiedreamer.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzODM0MjAxLnBuZw==/315x250%23c/QfrMOp.png",
         "bias": 0
       },
       {
@@ -165,15 +174,6 @@
         "bias": 0
       },
       {
-        "title": "The Little Four [Free] [Interactive Fiction]",
-        "link": "https://zophobas-morio.itch.io/the-little-four",
-        "description": "A Domestic Mystery",
-        "pubDate": "2025-10-29T04:13:47Z",
-        "source": "zophobas-morio.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzODM0MDYxLnBuZw==/315x250%23c/zkB7Jc.png",
-        "bias": 0
-      },
-      {
         "title": "[JPN]Godot Web exports Test Novel Game [Free] [Visual Novel]",
         "link": "https://yokazek.itch.io/godot-web-exports-test-novel-game",
         "description": "This project is a test novel game for Godot's web export games.",
@@ -220,6 +220,24 @@
       }
     ],
     "World": [
+      {
+        "title": "What to know about Hurricane Melissa as Cuba prepares for the storm - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORlR4WVJUSkNfNEprMVBFcWpWRXNVTjBEaFFjY00yUFEzZ3NiWUVndmJOZ0dZUFQtbXlRYW93bVBiWHhnNVV3dFRPR09PYUo2Sy1vLWRFSHVtSFFNa3BaNkNYLThQTEdSTHd2aEJiaTdIN0xHdXFfbG1GSGo4NmFwWTRkNjZwbzh3eEprUFRiNjlXaFQ1Z0ljRnFTbF9nOEdfQnIzWXhOQ3JqamdrdG1Yaw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-29T05:46:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "North Korea touts missile tests as Trump visits South Korea",
+        "link": "https://www.npr.org/2025/10/29/nx-s1-5589702/north-korea-missile-tests-trump-south-korea",
+        "description": "",
+        "pubDate": "2025-10-29T05:45:40Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Huge Brazilian raid on Rio gang leaves at least 64 people dead and 81 under arrest",
         "link": "https://www.npr.org/2025/10/29/g-s1-95504/raid-rio-brazil",
@@ -446,10 +464,19 @@
         "bias": -1
       },
       {
+        "title": "California woman on trial for taking chickens from Perdue Farms' plant says she was rescuing them - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM1Jnb2VmN18xRWVnYkJVVlBIQzhwb0s2VjNHU3RxQm9PMFhJUGZhcVNENElvVExSUzVfZmVCTUNWQktLUlNXWTRQUUlhXy0wMnRkTkl4ZjBfNWxteG4wUS1Vejd5cG5JY2tTR1pUNW5RcFlGQ1A3YmZ2bDFRWVl3Z2trdXAtb0tmeU5ZQ0FXczhRZk9MSTJ5aEUyWlJlT2c3?oc=5",
+        "description": "",
+        "pubDate": "2025-10-29T00:31:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Live updates: Trump arrives in South Korea as a trade deal with Seoul appears elusive - AP News",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3M0o5T000Z0lhUUdzd2VUN0Rid3NiNkZOTUF1T2JMQjgtZHhIbnRwWnhmWTVwNEVFT3o0bXkzbjd2X3V2b1hnMXUtbTA3OVd6eHhOME9fTUd5NXpIQjZZX3FIT3REcUI1ZHh5NQ?oc=5",
         "description": "",
-        "pubDate": "2025-10-29T00:35:07Z",
+        "pubDate": "2025-10-29T00:02:01Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -497,15 +524,6 @@
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR1lSRW9sRVJKTTZOUFFQN2tld0tLR1NYREhPNkRnWVRucXJzY1pZV1RRekNud1JqNExKRGhIYVgtWGdhaUZwZmNZdWdPenQ2TnlmS0dwQWRzd09KdkhJdmF1ZkdNcnlaaU1xNFBlVGY4U0p2YkJLQlpaVmhlUlFIWXRPbDRlR09lTXNCSEdRVVotLVROUmJEa3JjSGdsV2JjYnhjUWhDMnVBOHpq?oc=5",
         "description": "",
         "pubDate": "2025-10-29T00:39:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "California woman on trial for taking chickens from Perdue Farms' plant says she was rescuing them - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM1Jnb2VmN18xRWVnYkJVVlBIQzhwb0s2VjNHU3RxQm9PMFhJUGZhcVNENElvVExSUzVfZmVCTUNWQktLUlNXWTRQUUlhXy0wMnRkTkl4ZjBfNWxteG4wUS1Vejd5cG5JY2tTR1pUNW5RcFlGQ1A3YmZ2bDFRWVl3Z2trdXAtb0tmeU5ZQ0FXczhRZk9MSTJ5aEUyWlJlT2c3?oc=5",
-        "description": "",
-        "pubDate": "2025-10-29T00:31:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
