@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-10-29T09:56:01.007451Z",
+  "lastUpdate": "2025-10-29T10:23:37.906024Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Silver Frame [Free] [Puzzle] [Windows]",
+        "link": "https://trinitroid.itch.io/silver-frame",
+        "description": "Do you have what it takes to be the brightest?",
+        "pubDate": "2025-10-29T09:49:45Z",
+        "source": "trinitroid.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzODM2Nzg5LnBuZw==/315x250%23c/zUAJQM.png",
+        "bias": 0
+      },
       {
         "title": "CHI NO KI | HKU graduation [Free] [Other] [Windows]",
         "link": "https://valentine-van-steenbergen.itch.io/chi-no-ki-hku-project",
@@ -41,7 +50,7 @@
       {
         "title": "SIDE TO SIDE [Free] [Fighting]",
         "link": "https://mogumogu1.itch.io/side-to-side",
-        "description": "",
+        "description": "A side-view roguelike builder. Place items strategically to make a ball bounce repeatedly and hit the target score!",
         "pubDate": "2025-10-29T09:18:47Z",
         "source": "mogumogu1.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzODM2NjE2LnBuZw==/315x250%23c/EjzHOA.png",
@@ -219,15 +228,6 @@
         "bias": 0
       },
       {
-        "title": "Land of the Sun [Free] [Platformer] [Windows]",
-        "link": "https://holyblackcat.itch.io/land-of-the-sun",
-        "description": "",
-        "pubDate": "2025-10-29T07:50:43Z",
-        "source": "holyblackcat.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzODM1NTg3LnBuZw==/315x250%23c/HzdZQA.png",
-        "bias": 0
-      },
-      {
         "title": "Logic Element Maker [Free] [Puzzle]",
         "link": "https://karakarnieks.itch.io/logic-element-maker",
         "description": "I made this during Arhitektura!!!!",
@@ -273,6 +273,15 @@
         "bias": 0
       },
       {
+        "title": "Slay the Watcher [Free]",
+        "link": "https://www500.itch.io/slay-the-watcher",
+        "description": "Slay the shadow that's haunted Fury Gorge...",
+        "pubDate": "2025-10-29T07:22:54Z",
+        "source": "www500.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzODM1NjA1LnBuZw==/315x250%23c/%2FxwFtb.png",
+        "bias": 0
+      },
+      {
         "title": "Stance Simulator 2026 [$2.00]",
         "link": "https://turnup-games-studios.itch.io/stance-simulator-2026",
         "description": "",
@@ -293,11 +302,20 @@
     ],
     "World": [
       {
-        "title": "Fact checking a viral chart on US food stamps recipients’ race, ethnicity",
-        "link": "https://www.aljazeera.com/news/2025/10/29/fact-checking-a-viral-chart-on-us-food-stamps-recipients-race-ethnicity?traffic_source=rss",
-        "description": "US Department of Agriculture data reveals most recipients are white, US-born citizens, followed by minorities.",
-        "pubDate": "2025-10-29T09:23:55Z",
-        "source": "aljazeera.com",
+        "title": "Israeli strikes in Gaza kill 104, health ministry says, after Hamas accused of killing soldier",
+        "link": "https://www.bbc.com/news/articles/cgjdy5eevn2o?at_medium=RSS&at_campaign=rss",
+        "description": "US President Trump says \"nothing\" will jeopardise the two-week-old ceasefire despite the flare-up of violence.",
+        "pubDate": "2025-10-29T10:06:22Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/123a/live/fa771b20-b492-11f0-ba75-093eca1ac29b.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Trump says he's confident of a deal ahead of Xi meeting",
+        "link": "https://www.npr.org/2025/10/29/nx-s1-5589729/trump-xi-deal-south-korea-apec",
+        "description": "President Trump has confidently predicted striking a deal with China's leader, who he's set to meet Thursday.",
+        "pubDate": "2025-10-29T10:02:21Z",
+        "source": "npr.org",
         "image": "",
         "bias": -1
       },
@@ -305,10 +323,37 @@
         "title": "Live updates: Trump visits South Korea as a trade deal with Seoul appears elusive - AP News",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3M0o5T000Z0lhUUdzd2VUN0Rid3NiNkZOTUF1T2JMQjgtZHhIbnRwWnhmWTVwNEVFT3o0bXkzbjd2X3V2b1hnMXUtbTA3OVd6eHhOME9fTUd5NXpIQjZZX3FIT3REcUI1ZHh5NQ?oc=5",
         "description": "",
-        "pubDate": "2025-10-29T09:23:50Z",
+        "pubDate": "2025-10-29T09:56:14Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "Shares surge ahead of Fed’s rate decision, as Trump’s Asian tour sends Nikkei to a record - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd3JSVUJYendHQkl3ck91NDlJN2J3bmpKWjR5Y2UzalRVZmVCUnVlQUpPOW82R3cyZGhfTWI0NGI5MFNxZk1qSHdSaVo5eEEtN0ZaNVFudE0zWmUtdktXYTJMaHRpN3NVMHA1Yzdnb3pqTm1PRHpQTGN1WVhuX3drVVJ1QUlYZ0J6b2VWa0Q4T0g5UUE0WGR3LXNVcw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-29T09:55:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "A defiant mother seeks justice for Serbian train station collapse that killed her son and 15 others - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOWdRVWhnOXJRT2ZTcFVtTnF6SzdONXZtZnQ0UXhRYU83SzBFMzFWeEVBUkkzaVl1WmVxZno4R3JiOWJyc01CR1BqdzNVRF9aTHRaSGV1THp0eld4cWFqX3dYaWFlQjZ1a2hJYzVYM1Q1c2lYa1ZpbktndTJKSGRfWEpEcGJkN3lKYjFBY1RpbE1MQWFTX3Jub1MyZ3dQNFdvUUVkTl8zdTRZR2JfZ0hr?oc=5",
+        "description": "",
+        "pubDate": "2025-10-29T09:52:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Fact checking a viral chart on US food stamps recipients’ race, ethnicity",
+        "link": "https://www.aljazeera.com/news/2025/10/29/fact-checking-a-viral-chart-on-us-food-stamps-recipients-race-ethnicity?traffic_source=rss",
+        "description": "US Department of Agriculture data reveals most recipients are white, US-born citizens, followed by minorities.",
+        "pubDate": "2025-10-29T09:23:55Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Bangladesh’s fugitive ex-leader warns of mass voter boycott in 2026 polls",
@@ -320,15 +365,6 @@
         "bias": -1
       },
       {
-        "title": "Israeli strikes in Gaza kill 90, rescuers say, after Hamas accused of killing soldier",
-        "link": "https://www.bbc.com/news/articles/cgjdy5eevn2o?at_medium=RSS&at_campaign=rss",
-        "description": "US President Trump says \"nothing\" would jeopardise the two-week-old ceasefire despite the flare-up of violence.",
-        "pubDate": "2025-10-29T09:15:01Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/123a/live/fa771b20-b492-11f0-ba75-093eca1ac29b.jpg",
-        "bias": 0
-      },
-      {
         "title": "Schools close and island life is under threat as Greece reckons with low birth rates",
         "link": "https://www.npr.org/2025/10/29/nx-s1-5536843/greece-low-birth-rate-islands-school-closures",
         "description": "In Greece, fewer babies means difficult decisions, especially on remote islands where low birth rates are forcing some schools to close and raising questions about the future of island culture.",
@@ -336,6 +372,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Convicted sex offender who was mistakenly released from a UK prison is deported to Ethiopia - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaUJyY0RmbVEyaU1UOUhNZkNRaVF0d004blRQQUNUd2szTFZ4NFZ2NWNmZjRRcjJ5MTF4alJpdFFfeGllekxzc05kTUpoczJVZjdGcXhRUm0zelhDeVpEb2VmNU9PWGliWkpWVV83MWJRb190THQ4VXE5QnNJc1gxLWs5Y3R3ckNWNndKR0MyTVdINU1ZaTRDWnFDV3E1azNUbkFrX2stZEk?oc=5",
+        "description": "",
+        "pubDate": "2025-10-29T08:44:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Morning news brief",
@@ -480,15 +525,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Trump’s charm offensive in Asia sends Nikkei 225 to record heights - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd3JSVUJYendHQkl3ck91NDlJN2J3bmpKWjR5Y2UzalRVZmVCUnVlQUpPOW82R3cyZGhfTWI0NGI5MFNxZk1qSHdSaVo5eEEtN0ZaNVFudE0zWmUtdktXYTJMaHRpN3NVMHA1Yzdnb3pqTm1PRHpQTGN1WVhuX3drVVJ1QUlYZ0J6b2VWa0Q4T0g5UUE0WGR3LXNVcw?oc=5",
-        "description": "",
-        "pubDate": "2025-10-29T06:20:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Tanzania elections: Who’s standing and what’s at stake?",
@@ -714,36 +750,18 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Elon Musk launches Grokipedia to compete with online encyclopedia Wikipedia - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVVkRjlTWUdCRzhubFU0ZjFrT2FFT1k2VkVkV3dSNkVLZGFhZjRoOTl2QkVYV1VRSVpEdC1pS3FWbk5DdDFXZ3JqNEpEOWFjVFdhRmZFLXZZN1pITzBjNzdMR1BERzlkQ01CMjlpZVRFRmRieTBRRXh2TEV5clhtZGl0alNhLXJ1cXByX0xPQU9BYl9xYXFudThsMA?oc=5",
-        "description": "",
-        "pubDate": "2025-10-29T01:32:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Australian girls being 'hunted' by online crime gangs to commit violent acts",
-        "link": "https://www.bbc.com/news/articles/c0qpl7v7p0jo?at_medium=RSS&at_campaign=rss",
-        "description": "Groups of young men are coercing and exploiting vulnerable girls \"for fun\", Australian police say.",
-        "pubDate": "2025-10-29T01:26:45Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c9/live/de80b320-b45d-11f0-ba3f-69e3ba5c8c32.jpg",
-        "bias": 0
-      },
-      {
-        "title": "What to know as federal food help and preschool aid will run dry Saturday if shutdown persists - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYXVPMVRMMkR2V2lCaDMxYksxVGk0NUdkangwMkx2T0k2dXJGdUtweU5aWjZReVFBZDMydUx1dVhBSkhXLXpzVEtFUFdiNHQ5SHdlYThBUXpLTmxJVzRvSFIxY2EtNzV1UDhRSkxuNkI4YVFMV2JrVWN3TTk2UG1xVFAxMExobFNjZWY0eGc5MHlxQQ?oc=5",
-        "description": "",
-        "pubDate": "2025-10-29T00:54:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Migrant sex offender deported from UK after mistaken release",
+        "link": "https://www.bbc.com/news/articles/cly9rxlvp85o?at_medium=RSS&at_campaign=rss",
+        "description": "Hadush Kebatu is flown to Ethiopia after being recaptured in London following a two-day manhunt.",
+        "pubDate": "2025-10-29T10:22:52Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a1b/live/3f951a50-b48d-11f0-b2a1-6f537f66f9aa.jpg",
+        "bias": 0
+      },
       {
         "title": "Reeves vows to 'defy' gloomy economic forecasts",
         "link": "https://www.bbc.com/news/articles/cql9ez5grpqo?at_medium=RSS&at_campaign=rss",
@@ -760,15 +778,6 @@
         "pubDate": "2025-10-29T09:31:00Z",
         "source": "news.google.com",
         "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Migrant sex offender deported from UK after mistaken release",
-        "link": "https://www.bbc.com/news/articles/cly9rxlvp85o?at_medium=RSS&at_campaign=rss",
-        "description": "Hadush Kebatu is flown to Ethiopia after being recaptured in London following a two-day manhunt.",
-        "pubDate": "2025-10-29T09:20:51Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a1b/live/3f951a50-b48d-11f0-b2a1-6f537f66f9aa.jpg",
         "bias": 0
       },
       {
@@ -835,6 +844,15 @@
         "bias": 0
       },
       {
+        "title": "UN human rights investigator delivers Gaza report from South Africa because of US sanctions - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaGU5X25nWElYZk1rVTNXanU4MmtSSWNJUjdTLTBrVFdaQ3MzYlVCVzlUcHBIVThDcTQ5Ukh1X3lEdGJ1VmpVdlRhZlJ6SlBMQVNLZWw5bEdYNk9KQ19GcjBHMjdvaENhdGM3MXlpQWpnWmFXclBieExhNlZyM3RYbU5ySFh0emJ1TGtXWi1KQV9XRU1jdFlsUnhJMnltQzBBU3czc1I1czFvLXpm?oc=5",
+        "description": "",
+        "pubDate": "2025-10-29T01:29:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Amnesty says US strike on a Yemen prison that killed dozens of African migrants may be a war crime - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRVU0UHBKakxHRXBXN1l1UUV6RkVHQ0RoYkl1a18wa285Z3dfcVJUb0tSeXdnRzlULUVOSmM2S1dQeHZ4S1dvWFFGVjBPaElPUUREa1ZOemVudm9pbVdVSDBCUkhfUTFnTEdPLVZQdk9hZUwwWDRRTEROczdLdnV6RUl1azlrMGtXYXhXZXVtVkhkejl0MXJiN1pwV2Q4enhqN3pNSWFNNENyX1k?oc=5",
         "description": "",
@@ -856,12 +874,30 @@
     "Tech": [],
     "Science": [
       {
+        "title": "An Alzheimer's pill appears to protect some in a high-risk population",
+        "link": "https://www.npr.org/sections/shots-health-news/2025/10/29/nx-s1-5575561/alzheimers-pill-apoe4-high-risk-lecanemab-donanemab",
+        "description": "A new study is reviving hope that a twice-daily pill can slow down Alzheimer's in people whose genes put them at high risk for the disease.",
+        "pubDate": "2025-10-29T10:00:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Sir David Attenborough backs bid to buy estate",
         "link": "https://www.bbc.com/news/articles/c1d0x39x270o?at_medium=RSS&at_campaign=rss",
         "description": "Wildlife trusts attempt to raise £30m to keep Northumberland's Rothbury Estate  from being split up.",
-        "pubDate": "2025-10-29T09:16:45Z",
+        "pubDate": "2025-10-29T09:57:58Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5306/live/20db2e40-b494-11f0-88c2-2f88d87ba8c9.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Donald Trump Jr. mocks 'No Kings' protests and praises father's approach to Mideast at Saudi summit - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdlJXSEVlQ3RPMFJsOFB3TlZaUlhBZ3VxOGZZWGJSQm55TzRpOGstUGpWYjlPZl9kV3N0RkhsUHBYNy1LOTI0SDhZUi1pRjBxYmRoY3FzOVFBMGtkaVMwRTY1UWRuZzIyS1RRcV95WVd6NVVDR1RBZkZkLV9haWZWQjZ3V1hVMVM5SHl5bWllRHBkelpfZkwwR1BmYzFaUFpaR2tTTW5ia2IwODlpbFVJWmRDLUZndkZO?oc=5",
+        "description": "",
+        "pubDate": "2025-10-29T09:18:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -883,10 +919,10 @@
         "bias": 0
       },
       {
-        "title": "UN human rights investigator delivers Gaza report from South Africa because of US sanctions - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaGU5X25nWElYZk1rVTNXanU4MmtSSWNJUjdTLTBrVFdaQ3MzYlVCVzlUcHBIVThDcTQ5Ukh1X3lEdGJ1VmpVdlRhZlJ6SlBMQVNLZWw5bEdYNk9KQ19GcjBHMjdvaENhdGM3MXlpQWpnWmFXclBieExhNlZyM3RYbU5ySFh0emJ1TGtXWi1KQV9XRU1jdFlsUnhJMnltQzBBU3czc1I1czFvLXpm?oc=5",
+        "title": "Germany to give more than $1 billion for Holocaust survivors’ home care in 2026 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSGltNUlaWUNGLWJDcGQxek5vMlBFUE5HRTB0TzNfLU5WaUhvbmNQcm9Bc3NPSXp0bU92bUszRGNwM0R5cDRsOGtCX0kwQ1gyeUpJa000SUNMVTNpVER3a2lYcEtNdGVMRzc2ZXQxTFp0cnIzNWVDakV0SjdaTmM3dTVZVU5mb1lCX2ZkTFFmUURWN3BlUnVrQUxhZkN2eXppa0pDZ3JtbmtyaEpE?oc=5",
         "description": "",
-        "pubDate": "2025-10-29T01:29:00Z",
+        "pubDate": "2025-10-29T04:38:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -897,7 +933,7 @@
         "title": "Next continues to profit after M&S cyber-attack",
         "link": "https://www.bbc.com/news/articles/cn0g28wgjzlo?at_medium=RSS&at_campaign=rss",
         "description": "Next is now expecting to report a pre-tax profit of just over £1.1bn at the end of January 2026.",
-        "pubDate": "2025-10-29T09:39:18Z",
+        "pubDate": "2025-10-29T09:57:27Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dd4/live/0d4c4e70-b4aa-11f0-af34-1517978c0fa1.jpg",
         "bias": 0
@@ -965,15 +1001,6 @@
         "pubDate": "2025-10-29T06:14:19Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30cc/live/164407a0-b353-11f0-aa13-0b0479f6f42a.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Germany to give more than $1 billion for Holocaust survivors’ home care in 2026 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSGltNUlaWUNGLWJDcGQxek5vMlBFUE5HRTB0TzNfLU5WaUhvbmNQcm9Bc3NPSXp0bU92bUszRGNwM0R5cDRsOGtCX0kwQ1gyeUpJa000SUNMVTNpVER3a2lYcEtNdGVMRzc2ZXQxTFp0cnIzNWVDakV0SjdaTmM3dTVZVU5mb1lCX2ZkTFFmUURWN3BlUnVrQUxhZkN2eXppa0pDZ3JtbmtyaEpE?oc=5",
-        "description": "",
-        "pubDate": "2025-10-29T04:38:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
