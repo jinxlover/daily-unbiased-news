@@ -1,7 +1,25 @@
 {
-  "lastUpdate": "2025-10-29T06:55:30.958026Z",
+  "lastUpdate": "2025-10-29T07:19:54.275967Z",
   "news": {
     "Gaming": [
+      {
+        "title": "QLEE_BrickOut [Free] [Puzzle]",
+        "link": "https://qlee3.itch.io/qlee-brickout",
+        "description": "",
+        "pubDate": "2025-10-29T07:14:06Z",
+        "source": "qlee3.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzODM1MzI1LnBuZw==/315x250%23c/8VTYWO.png",
+        "bias": 0
+      },
+      {
+        "title": "The Truth [Free] [Platformer] [Windows]",
+        "link": "https://holyblackcat.itch.io/the-truth",
+        "description": "",
+        "pubDate": "2025-10-29T06:52:57Z",
+        "source": "holyblackcat.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzODM1MTgzLnBuZw==/315x250%23c/CCAZ3o.png",
+        "bias": 0
+      },
       {
         "title": "Decrepit Lord of Charge [Free] [Platformer] [Windows]",
         "link": "https://holyblackcat.itch.io/decrepit-lord-of-charge",
@@ -45,6 +63,15 @@
         "pubDate": "2025-10-29T06:26:54Z",
         "source": "zixianglin.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzODM0OTk5LmpwZw==/315x250%23c/Edx70k.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Greedy Little Goblin [Free]",
+        "link": "https://zelldauron.itch.io/greedy-little-goblins",
+        "description": "A game where you play as a goblin with the power to shrink. Your goal is to steal \"valuables\" from humans.",
+        "pubDate": "2025-10-29T06:23:28Z",
+        "source": "zelldauron.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzODM1MTA0LnBuZw==/315x250%23c/z%2FsXv5.png",
         "bias": 0
       },
       {
@@ -183,30 +210,12 @@
         "bias": 0
       },
       {
-        "title": "Mini-Game-AV4 [Free]",
-        "link": "https://huyphanquoc1208.itch.io/mini-game-av4",
-        "description": "",
-        "pubDate": "2025-10-29T05:03:19Z",
-        "source": "huyphanquoc1208.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzODM0NDc1LnBuZw==/315x250%23c/THp7px.png",
-        "bias": 0
-      },
-      {
         "title": "Out Of The Ossuary [Free]",
         "link": "https://shrubino.itch.io/out-of-the-ossuary",
         "description": "A mouse-only hack-and-slasher",
         "pubDate": "2025-10-29T04:54:48Z",
         "source": "shrubino.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzODM0NTQyLnBuZw==/315x250%23c/upagyX.png",
-        "bias": 0
-      },
-      {
-        "title": "Cabin by the Lake: Fantastic Facts [Free] [Puzzle] [Windows] [macOS] [Linux] [Android]",
-        "link": "https://nunus-house.itch.io/cabin-by-the-lake-fantastic-facts",
-        "description": "A trivia game about Cabin by the Lake",
-        "pubDate": "2025-10-29T04:49:57Z",
-        "source": "nunus-house.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzODM0NDM2LnBuZw==/315x250%23c/6xVJ3I.png",
         "bias": 0
       },
       {
@@ -239,13 +248,22 @@
     ],
     "World": [
       {
-        "title": "Live updates: Trump arrives in South Korea as a trade deal with Seoul appears elusive - AP News",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3M0o5T000Z0lhUUdzd2VUN0Rid3NiNkZOTUF1T2JMQjgtZHhIbnRwWnhmWTVwNEVFT3o0bXkzbjd2X3V2b1hnMXUtbTA3OVd6eHhOME9fTUd5NXpIQjZZX3FIT3REcUI1ZHh5NQ?oc=5",
-        "description": "",
-        "pubDate": "2025-10-29T06:36:00Z",
-        "source": "news.google.com",
-        "image": "",
+        "title": "Nigerian Nobel laureate Wole Soyinka says US revoked his visa",
+        "link": "https://www.bbc.com/news/articles/c24lzd32yjeo?at_medium=RSS&at_campaign=rss",
+        "description": "The 91-year-old Nobel laureate in literature has been a critic of Trump's immigration policy.",
+        "pubDate": "2025-10-29T06:58:14Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d86/live/ef579c10-b48d-11f0-95d5-c918299270ab.jpg",
         "bias": 0
+      },
+      {
+        "title": "Dutch vote in knife-edge snap elections seen as litmus test for far right",
+        "link": "https://www.aljazeera.com/news/2025/10/29/dutch-vote-in-knife-edge-election-seen-as-litmus-test-for-far-right?traffic_source=rss",
+        "description": "Polls suggest anti-Islam lawmaker Geert Wilders and his Freedom Party on course to win largest number of seats.",
+        "pubDate": "2025-10-29T06:50:14Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Trump says he expects ‘great deal’ with China at summit with Xi",
@@ -255,6 +273,24 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Live updates: Trump in South Korea as trade deal appears elusive - AP News",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3M0o5T000Z0lhUUdzd2VUN0Rid3NiNkZOTUF1T2JMQjgtZHhIbnRwWnhmWTVwNEVFT3o0bXkzbjd2X3V2b1hnMXUtbTA3OVd6eHhOME9fTUd5NXpIQjZZX3FIT3REcUI1ZHh5NQ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-29T06:24:01Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Israeli strikes overnight in Gaza kill at least 60 people, including children, local officials say - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbm56bFZ2NHlrNHU0UHB3WVBwVXZMNC1lcEhLbU5CYmExSzJ0VkhuNTF5YWl5Vk5SanFmdlFyOWgtaXRObFJ4MzBEMUktSVJYYlhXODdVYnIxNDVTTDRLRHVZV1MtT1pQWGtfZ3g3Mk84ZF8tNkQxSXFjUHBXUlViT3pLWVRIcUJ2anJwLTBsQWNLNVZkekFKM0hkUFcxN2tObUE?oc=5",
+        "description": "",
+        "pubDate": "2025-10-29T06:18:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Tanzania elections: Who’s standing and what’s at stake?",
@@ -270,15 +306,6 @@
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORlR4WVJUSkNfNEprMVBFcWpWRXNVTjBEaFFjY00yUFEzZ3NiWUVndmJOZ0dZUFQtbXlRYW93bVBiWHhnNVV3dFRPR09PYUo2Sy1vLWRFSHVtSFFNa3BaNkNYLThQTEdSTHd2aEJiaTdIN0xHdXFfbG1GSGo4NmFwWTRkNjZwbzh3eEprUFRiNjlXaFQ1Z0ljRnFTbF9nOEdfQnIzWXhOQ3JqamdrdG1Yaw?oc=5",
         "description": "",
         "pubDate": "2025-10-29T06:06:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "South Korea trade deal appears elusive as Trump seeks $350B investment - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZVladEl3YlJmZmNMN3NqNlRBMXJzTF9WRDdhcHpMWm0tX29lOTlmMDZLU2RfWmhJZXg3MGc0SzBTaThNUVpzUHFuMUVjRUc0bU9uaG0xVVNfQ0p4MUlCZjRaQWhCUGNmY09FQnJ6Tm5xeXdOaWhFTGFYbGxhTXZVeWROSm1PMDBIWFFBOFdGQjNkOEVMV05VYTFjdw?oc=5",
-        "description": "",
-        "pubDate": "2025-10-29T06:00:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -320,6 +347,15 @@
         "bias": -1
       },
       {
+        "title": "US World Series viewers drop 14% for first two games of Dodgers-Blue Jays matchup - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQXzMxaG1wcDBSRXFRQW5XTm5NQ0Y0cEh0OXVmdzVTSzlSVXJXa004a21tc2RZNVptWGNWR2ZmY0k5Y1hkVWdIdGpfNGJjMHJjVnBXYzR1c3FBZldzdTRNbmMtem1sUEJHSFdEOW5XNTZzVXBYSU9HSjVTZVZ1aXMtZ0xFc1lsc0JGd3NLdw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-29T05:40:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Huge Brazilian raid on Rio gang leaves at least 64 people dead and 81 under arrest",
         "link": "https://www.npr.org/2025/10/29/g-s1-95504/raid-rio-brazil",
         "description": "Brazilian police and soldiers launched a raid on a drug-trafficking gang in Rio de Janeiro on Tuesday, sparking shootouts that left at least 60 suspects and four police officers dead, officials said.",
@@ -356,9 +392,9 @@
         "bias": -1
       },
       {
-        "title": "LIVE: Israel kills 63 in Gaza; Trump insists nothing will jeopardise truce",
+        "title": "LIVE: Israel kills 90 in Gaza; Trump insists nothing will jeopardise truce",
         "link": "https://www.aljazeera.com/news/liveblog/2025/10/29/live-israel-kills-63-in-gaza-trump-insists-nothing-will-jeopardise-truce?traffic_source=rss",
-        "description": "Among the dead are 24 children as Israeli military says one of its soldiers killed.",
+        "description": "Among the dead are at least 24 children as Israeli military says one of its soldiers killed.",
         "pubDate": "2025-10-29T05:00:00Z",
         "source": "aljazeera.com",
         "image": "",
@@ -383,6 +419,24 @@
         "bias": -1
       },
       {
+        "title": "Dutch voters head to polls in a knife-edge election focused on housing and Wilders - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVUcwNnB0eHp1UVVvT2VkU3AzSkd1U3RuaW9LTlFtVGh4MThVY2RkY1NpeFZiT0VPYW14ODNFellnYlN3cmJWZzhZaE5CSTJSR3JQaGdhLTBueFhfRGFpRXpCX21aTWQyUktQV1VSV0pzMTdVWmFDZmZ5NEFoVU0wX2U2ZXIxd3FoNWs5TmFsUmRuWXJnWmxuLXA2aHgxWjNQNjJrYg?oc=5",
+        "description": "",
+        "pubDate": "2025-10-29T04:20:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Shohei Ohtani has an off night in his two-way World Series debut - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNckdTbDZlTkJqT2pqd3hYSW01YWt6RUVkWGFaOWpZVjliR3pxVUlZTXBTTzEtdWJPR2xsQUVuNlZTblBUUEthMmI1YkR0bTQ3YVRWcmFhOXBoLUFJaERrMEVTd1BMeTg1ZWFldjZseWhfRnlKam0wR1NoMTdmeThOamVKSldFa05OZnFJc1NiLUdWMTIwNmUyQndZczJ0OUJRUFJyam1qNA?oc=5",
+        "description": "",
+        "pubDate": "2025-10-29T04:16:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Trump's decision to send aircraft carrier to South America will leave Mideast and Europe with none - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVzFEeF9iaV9SSXdjd0RmXzdER2otQjhyN2NwekdDU25CaE1ncnNEZS1PZHBpN01vemRKbFVBZkx4U0luTnJaNTJoekx6ZVczdkxDRjA4cmZ5RkRIVFVNRWUtaUJEbGhRMUtHZTNoMzJ1Z0dmeDNxSHJGMW5IdV9IZXR2ME5TSGpaZUdsWFg5ZVFMMEEyZy1BVmZHSjgwQlQtMERFTEYzVno?oc=5",
         "description": "",
@@ -405,15 +459,6 @@
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX09aNUJQcnVfVXJCSk9FUmFvR1JTeExkQVlPV3QwbkNHX3NsVGNqVHRzcXNpb3hpMUVpRWZhSUVOREViQWtwY01jWnlLQ21WZlh2XzBQX1k0bjVEdEktTl9uSnVQOEdIT1U3VVlXblVyTHBWRWpGUnJSemNJLW1seWh5VlJyblB1ckFaZ0k0SmxCM2FtNl9KMkRvQ0puank5V2I0aTJ3?oc=5",
         "description": "",
         "pubDate": "2025-10-29T03:31:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Shohei Ohtani has an off night in his two-way World Series debut - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNckdTbDZlTkJqT2pqd3hYSW01YWt6RUVkWGFaOWpZVjliR3pxVUlZTXBTTzEtdWJPR2xsQUVuNlZTblBUUEthMmI1YkR0bTQ3YVRWcmFhOXBoLUFJaERrMEVTd1BMeTg1ZWFldjZseWhfRnlKam0wR1NoMTdmeThOamVKSldFa05OZnFJc1NiLUdWMTIwNmUyQndZczJ0OUJRUFJyam1qNA?oc=5",
-        "description": "",
-        "pubDate": "2025-10-29T03:28:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -518,6 +563,15 @@
         "bias": 0
       },
       {
+        "title": "Melissa is a beast among a string of monster Atlantic storms. Scientists explain - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR1lSRW9sRVJKTTZOUFFQN2tld0tLR1NYREhPNkRnWVRucXJzY1pZV1RRekNud1JqNExKRGhIYVgtWGdhaUZwZmNZdWdPenQ2TnlmS0dwQWRzd09KdkhJdmF1ZkdNcnlaaU1xNFBlVGY4U0p2YkJLQlpaVmhlUlFIWXRPbDRlR09lTXNCSEdRVVotLVROUmJEa3JjSGdsV2JjYnhjUWhDMnVBOHpq?oc=5",
+        "description": "",
+        "pubDate": "2025-10-29T00:39:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "‘Last-ditch push’: Pakistan-Afghanistan talks falter amid deep mistrust",
         "link": "https://www.aljazeera.com/news/2025/10/29/last-ditch-push-pakistan-afghanistan-talks-falter-amid-deep-mistrust?traffic_source=rss",
         "description": "A wider conflict looms as neighbours fail to agree on dismantling the TTP armed group, warn analysts.",
@@ -527,16 +581,25 @@
         "bias": -1
       },
       {
-        "title": "California woman on trial for taking chickens from Perdue Farms' plant says she was rescuing them - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM1Jnb2VmN18xRWVnYkJVVlBIQzhwb0s2VjNHU3RxQm9PMFhJUGZhcVNENElvVExSUzVfZmVCTUNWQktLUlNXWTRQUUlhXy0wMnRkTkl4ZjBfNWxteG4wUS1Vejd5cG5JY2tTR1pUNW5RcFlGQ1A3YmZ2bDFRWVl3Z2trdXAtb0tmeU5ZQ0FXczhRZk9MSTJ5aEUyWlJlT2c3?oc=5",
-        "description": "",
-        "pubDate": "2025-10-29T00:31:00Z",
-        "source": "news.google.com",
-        "image": "",
+        "title": "Elderly woman left behind by cruise ship on Great Barrier Reef island found dead",
+        "link": "https://www.bbc.com/news/articles/c62eww646wjo?at_medium=RSS&at_campaign=rss",
+        "description": "The ship's crew realised the 80-year-old was missing several hours after they had left the island",
+        "pubDate": "2025-10-29T00:34:29Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36bc/live/aa670cc0-b457-11f0-a513-db66eea8f771.jpg",
         "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "South Korea trade deal appears elusive as Trump seeks $350B investment - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZVladEl3YlJmZmNMN3NqNlRBMXJzTF9WRDdhcHpMWm0tX29lOTlmMDZLU2RfWmhJZXg3MGc0SzBTaThNUVpzUHFuMUVjRUc0bU9uaG0xVVNfQ0p4MUlCZjRaQWhCUGNmY09FQnJ6Tm5xeXdOaWhFTGFYbGxhTXZVeWROSm1PMDBIWFFBOFdGQjNkOEVMV05VYTFjdw?oc=5",
+        "description": "",
+        "pubDate": "2025-10-29T06:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Category 5 Hurricane Melissa brings flooding and catastrophic winds to Jamaica - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMWFacWZWdFhsOV9PZU8yYlpqUjF3M2Zna0pMbExlYzJvRkdUUVNhTy1JamtyU0YxdEZIRy0wX1N3MGtrMFpIR2RCUjh6akgtOVpjdVBsckdmTHVITmc1U2Vidlo0bnBxOG5tM0ppWElNcFJnb1Ntei15UTNBejQwYlJUbTNqVTVFOFVvbC1QM2N6SUM0NEFSTEM0UmFsb1JfWWlTOEtVdjlncW8?oc=5",
@@ -565,15 +628,6 @@
         "bias": 0
       },
       {
-        "title": "UN human rights investigator delivers Gaza report from South Africa because of US sanctions - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaGU5X25nWElYZk1rVTNXanU4MmtSSWNJUjdTLTBrVFdaQ3MzYlVCVzlUcHBIVThDcTQ5Ukh1X3lEdGJ1VmpVdlRhZlJ6SlBMQVNLZWw5bEdYNk9KQ19GcjBHMjdvaENhdGM3MXlpQWpnWmFXclBieExhNlZyM3RYbU5ySFh0emJ1TGtXWi1KQV9XRU1jdFlsUnhJMnltQzBBU3czc1I1czFvLXpm?oc=5",
-        "description": "",
-        "pubDate": "2025-10-29T01:29:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Amnesty says US strike on a Yemen prison that killed dozens of African migrants may be a war crime - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRVU0UHBKakxHRXBXN1l1UUV6RkVHQ0RoYkl1a18wa285Z3dfcVJUb0tSeXdnRzlULUVOSmM2S1dQeHZ4S1dvWFFGVjBPaElPUUREa1ZOemVudm9pbVdVSDBCUkhfUTFnTEdPLVZQdk9hZUwwWDRRTEROczdLdnV6RUl1azlrMGtXYXhXZXVtVkhkejl0MXJiN1pwV2Q4enhqN3pNSWFNNENyX1k?oc=5",
         "description": "",
@@ -583,10 +637,10 @@
         "bias": 0
       },
       {
-        "title": "Melissa is a beast among a string of monster Atlantic storms. Scientists explain - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR1lSRW9sRVJKTTZOUFFQN2tld0tLR1NYREhPNkRnWVRucXJzY1pZV1RRekNud1JqNExKRGhIYVgtWGdhaUZwZmNZdWdPenQ2TnlmS0dwQWRzd09KdkhJdmF1ZkdNcnlaaU1xNFBlVGY4U0p2YkJLQlpaVmhlUlFIWXRPbDRlR09lTXNCSEdRVVotLVROUmJEa3JjSGdsV2JjYnhjUWhDMnVBOHpq?oc=5",
+        "title": "California woman on trial for taking chickens from Perdue Farms' plant says she was rescuing them - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM1Jnb2VmN18xRWVnYkJVVlBIQzhwb0s2VjNHU3RxQm9PMFhJUGZhcVNENElvVExSUzVfZmVCTUNWQktLUlNXWTRQUUlhXy0wMnRkTkl4ZjBfNWxteG4wUS1Vejd5cG5JY2tTR1pUNW5RcFlGQ1A3YmZ2bDFRWVl3Z2trdXAtb0tmeU5ZQ0FXczhRZk9MSTJ5aEUyWlJlT2c3?oc=5",
         "description": "",
-        "pubDate": "2025-10-29T00:39:00Z",
+        "pubDate": "2025-10-29T00:31:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -594,6 +648,15 @@
     ],
     "Tech": [],
     "Science": [
+      {
+        "title": "UN human rights investigator delivers Gaza report from South Africa because of US sanctions - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaGU5X25nWElYZk1rVTNXanU4MmtSSWNJUjdTLTBrVFdaQ3MzYlVCVzlUcHBIVThDcTQ5Ukh1X3lEdGJ1VmpVdlRhZlJ6SlBMQVNLZWw5bEdYNk9KQ19GcjBHMjdvaENhdGM3MXlpQWpnWmFXclBieExhNlZyM3RYbU5ySFh0emJ1TGtXWi1KQV9XRU1jdFlsUnhJMnltQzBBU3czc1I1czFvLXpm?oc=5",
+        "description": "",
+        "pubDate": "2025-10-29T01:29:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "What to know as federal food help and preschool aid will run dry Saturday if shutdown persists - AP News",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYXVPMVRMMkR2V2lCaDMxYksxVGk0NUdkangwMkx2T0k2dXJGdUtweU5aWjZReVFBZDMydUx1dVhBSkhXLXpzVEtFUFdiNHQ5SHdlYThBUXpLTmxJVzRvSFIxY2EtNzV1UDhRSkxuNkI4YVFMV2JrVWN3TTk2UG1xVFAxMExobFNjZWY0eGc5MHlxQQ?oc=5",
