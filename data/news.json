@@ -1,9 +1,18 @@
 {
-  "lastUpdate": "2025-10-30T06:53:46.151746Z",
+  "lastUpdate": "2025-10-30T07:18:39.679638Z",
   "news": {
     "Gaming": [
       {
-        "title": "UPAR [Free] [Windows] [macOS] [Android]",
+        "title": "Circulus [Free]",
+        "link": "https://juangerfin.itch.io/circulus",
+        "description": "",
+        "pubDate": "2025-10-30T06:52:51Z",
+        "source": "juangerfin.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzODUxNDkzLnBuZw==/315x250%23c/BxzTMI.png",
+        "bias": 0
+      },
+      {
+        "title": "UPAR [Free]",
         "link": "https://estudio-parcher.itch.io/upar",
         "description": "",
         "pubDate": "2025-10-30T06:51:11Z",
@@ -120,33 +129,6 @@
         "bias": 0
       },
       {
-        "title": "Davi's Fun Trivia Class [Free] [Windows]",
-        "link": "https://hotdogman200.itch.io/davis-fun-trivia-class",
-        "description": "",
-        "pubDate": "2025-10-30T04:31:39Z",
-        "source": "hotdogman200.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzODUwNTcxLnBuZw==/315x250%23c/PP1x0J.png",
-        "bias": 0
-      },
-      {
-        "title": "Ultimate Dog Cat [Free]",
-        "link": "https://abyssjacky.itch.io/ultimate-dog-cat",
-        "description": "",
-        "pubDate": "2025-10-30T04:30:54Z",
-        "source": "abyssjacky.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzODUwNDYwLnBuZw==/315x250%23c/Tes%2FBj.png",
-        "bias": 0
-      },
-      {
-        "title": "Jigsaw Puzzles-Fangame-[Collection 1] [Free] [Puzzle] [Windows]",
-        "link": "https://unpacomasn2023.itch.io/jigsaw-puzzles-fangame-collection-1",
-        "description": "",
-        "pubDate": "2025-10-30T04:25:17Z",
-        "source": "unpacomasn2023.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzODUwNDgzLnBuZw==/315x250%23c/QvvYL2.png",
-        "bias": 0
-      },
-      {
         "title": "Myth or Treat [Free] [Role Playing]",
         "link": "https://wolfiegoldheart.itch.io/myth-or-treat",
         "description": "Trick or Treat, get candy, exchange candy for power!",
@@ -181,18 +163,18 @@
         "source": "byte-smith-games.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzODUxMTA0LnBuZw==/315x250%23c/FRn6to.png",
         "bias": 0
-      },
-      {
-        "title": "No More Zombies [Free] [Action]",
-        "link": "https://chypeurr.itch.io/no-more-zombies",
-        "description": "Un jeu de survie contre des zombies incroyable !",
-        "pubDate": "2025-10-30T01:19:39Z",
-        "source": "chypeurr.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzODQ4ODI1LnBuZw==/315x250%23c/GeayRf.png",
-        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Hurricane Melissa leaves trail of destruction across northern Caribbean",
+        "link": "https://www.aljazeera.com/gallery/2025/10/30/hurricane-melissa-leaves-trail-of-destruction-across-northern-caribbean?traffic_source=rss",
+        "description": "Hurricane warnings persist as Melissa nears Bermuda, with potential for strengthening before eventual weakening.",
+        "pubDate": "2025-10-30T06:44:34Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "K-pop group NewJeans loses legal battle against agency",
         "link": "https://www.bbc.com/news/articles/cy5q0leq2lpo?at_medium=RSS&at_campaign=rss",
@@ -201,6 +183,24 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84f3/live/0cc94b40-b538-11f0-8e27-6729950a59f0.jpg",
         "bias": 0
+      },
+      {
+        "title": "Austin Reaves, Lakers beat Timberwolves at the buzzer",
+        "link": "https://www.aljazeera.com/sports/2025/10/30/austin-reaves-lakers-beat-timberwolves-at-the-buzzer?traffic_source=rss",
+        "description": "The LA Lakers guard continues his hot start to the NBA season with a 12ft game-winner against Minnesota Timberwolves.",
+        "pubDate": "2025-10-30T06:31:00Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Netherlands centrist party wins big in election as far right loses support",
+        "link": "https://www.aljazeera.com/news/2025/10/30/netherlands-centrist-party-wins-big-in-election-as-far-right-loses-support?traffic_source=rss",
+        "description": "The centre-left D66 has made its largest ever gains and almost tripled its seats in parliament.",
+        "pubDate": "2025-10-30T06:26:05Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "The Latest: Trump says he has deals with China after meeting Xi to try to solve trade tensions - AP News",
@@ -244,7 +244,7 @@
         "description": "Trump says the meeting with President Xi, which was their first face-to-face interaction since 2019, was a \"great success\".",
         "pubDate": "2025-10-30T06:07:19Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52fd/live/03a65fb0-b558-11f0-b2a1-6f537f66f9aa.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e61/live/d756c7a0-b55d-11f0-aa13-0b0479f6f42a.jpg",
         "bias": 0
       },
       {
@@ -254,6 +254,15 @@
         "pubDate": "2025-10-30T06:05:16Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a5b/live/7a73fd60-b548-11f0-b2a1-6f537f66f9aa.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Yesavage strikes out 12 as rookie pitches Blue Jays past Dodgers 6-1 for 3-2 lead in World Series - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMk1ZWG5IMXdxRDJla1ZkZjJ5Uno4ckZJcFNveElXSERRVHczOTZnc3Q4N0I1RWFqczREeDJiMXk1VXRSaXRLMEQ2QmJPUFRPVjJ1Rkp4XzNydmJCa3hycmtETzRFUGxBMEwtdjJXMlBRUGFYLTMwVXN4QV9abWYzN2FabTJfc0VqaGN2UC1lWEJVWFdaMmRhamRqLXJhcm05bjNmcVZ4NjQ?oc=5",
+        "description": "",
+        "pubDate": "2025-10-30T06:05:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -291,6 +300,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Trump appears to suggest the US will resume testing nuclear weapons for first time in 30 years - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb3ZxME42b04xTEFrWm1qUm9fWWY4eE1SRzk1bmk5elVETW1uSzFORW9vd3h6Qm1zX2FEZGRkVnpLbDZXTjVwZVdvMVlDSDlOME9uZlRHZG9adUxEZWN6WEVPMWQwbnZKdThpSlV5WEdsWEx6R1hYWEowRTJFb0JjckhWek8ybTkzQ29sa1Myc1I5eFU?oc=5",
+        "description": "",
+        "pubDate": "2025-10-30T05:27:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Blake Snell blames bad luck after latest World Series letdown puts Dodgers on brink of defeat - AP News",
@@ -338,15 +356,6 @@
         "bias": -1
       },
       {
-        "title": "Trump appears to suggest the US will resume testing nuclear weapons for first time in 30 years - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb3ZxME42b04xTEFrWm1qUm9fWWY4eE1SRzk1bmk5elVETW1uSzFORW9vd3h6Qm1zX2FEZGRkVnpLbDZXTjVwZVdvMVlDSDlOME9uZlRHZG9adUxEZWN6WEVPMWQwbnZKdThpSlV5WEdsWEx6R1hYWEowRTJFb0JjckhWek8ybTkzQ29sa1Myc1I5eFU?oc=5",
-        "description": "",
-        "pubDate": "2025-10-30T04:02:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Who is Rob Jetten, tipped to become youngest Dutch prime minister?",
         "link": "https://www.bbc.com/news/articles/cr7m0n890npo?at_medium=RSS&at_campaign=rss",
         "description": "Rob Jetten's electoral success has come as a surprise, but politically, all the stars were aligned for him to achieve it.",
@@ -360,15 +369,6 @@
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOGUxaE9BWlk5bTdzeUEtT2FHaDU4NHFmOHR3d0I3WFFnTzc4RTNqS2tqalYtanJVZk9hTDhtQVZHN3VWazV3QVI4dEJEeFdISHQ5ak1wMDRIX1FlUXBQMXFrMHFZQmdUSXN2eVFoYUc0U2R5X1hjVTZJZjEzb1p2d2dXZDQ1UndmY3NEc3BKYlNEOEh3dDktUw?oc=5",
         "description": "",
         "pubDate": "2025-10-30T03:23:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Yesavage pitches Blue Jays past Dodgers 6-1 for 3-2 lead in World Series - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMk1ZWG5IMXdxRDJla1ZkZjJ5Uno4ckZJcFNveElXSERRVHczOTZnc3Q4N0I1RWFqczREeDJiMXk1VXRSaXRLMEQ2QmJPUFRPVjJ1Rkp4XzNydmJCa3hycmtETzRFUGxBMEwtdjJXMlBRUGFYLTMwVXN4QV9abWYzN2FabTJfc0VqaGN2UC1lWEJVWFdaMmRhamRqLXJhcm05bjNmcVZ4NjQ?oc=5",
-        "description": "",
-        "pubDate": "2025-10-30T03:19:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -406,7 +406,7 @@
         "description": "Katherine Rees said her mum, 80, had fallen ill during a hike on a remote Australian island and was told to return to the ship by herself.",
         "pubDate": "2025-10-30T02:10:16Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6995/live/7e53abc0-b54c-11f0-a50e-9f233dbf9541.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4410/live/3dade5e0-b560-11f0-b2a1-6f537f66f9aa.jpg",
         "bias": 0
       },
       {
@@ -514,7 +514,7 @@
         "title": "Starmer rules out investigation after Reeves admits rental rules ‘mistake’",
         "link": "https://www.bbc.com/news/articles/cd04d0yxnrvo?at_medium=RSS&at_campaign=rss",
         "description": "The PM says an investigation is not \"necessary\" as the chancellor admits \"error\" when renting out home.",
-        "pubDate": "2025-10-30T02:07:53Z",
+        "pubDate": "2025-10-30T06:58:03Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2757/live/7beef7e0-b538-11f0-b2a1-6f537f66f9aa.jpg",
         "bias": 0
@@ -536,11 +536,29 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "Hurricane Melissa impacts southeastern Bahamas, after dozens killed across Caribbean - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNMnRGZFExN2tUaXBZMllSanU1TlN2blZNZkRJYU1pQ0g1NWIyYTk2RnFQeUJ1Zno0eEhLblJDQTJBalZHc2dqM2xTNXpuTHlmR3VHc0ItWHFGaEkwZDgxMkNvTXVIb0NHZVNNcGlLZU9rSW9lODA1eHpR?oc=5",
+        "description": "",
+        "pubDate": "2025-10-30T00:01:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Tech": [],
     "Science": [],
     "Business": [
+      {
+        "title": "Tit-for-tat tariffs, a shaky truce and turmoil: How we got to the Trump-Xi meeting",
+        "link": "https://www.bbc.com/news/articles/c986j98qmj1o?at_medium=RSS&at_campaign=rss",
+        "description": "US President Donald Trump and Chinese leader Xi Jinping met on Thursday to discuss a trade deal.",
+        "pubDate": "2025-10-30T07:11:12Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8617/live/2a65dc40-b538-11f0-b2a1-6f537f66f9aa.jpg",
+        "bias": 0
+      },
       {
         "title": "Despairing homeowners plagued by damp urge government to fix 'botched' insulation",
         "link": "https://www.bbc.com/news/articles/ce8g3018krro?at_medium=RSS&at_campaign=rss",
@@ -548,15 +566,6 @@
         "pubDate": "2025-10-30T05:56:44Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a9f/live/3a98a5f0-b4b8-11f0-ba75-093eca1ac29b.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Tit-for-tat tariffs, a shaky truce and turmoil: How we got to the Trump-Xi meeting",
-        "link": "https://www.bbc.com/news/articles/c986j98qmj1o?at_medium=RSS&at_campaign=rss",
-        "description": "US President Donald Trump and Chinese leader Xi Jinping met on Thursday to discuss a trade deal.",
-        "pubDate": "2025-10-30T04:57:05Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8617/live/2a65dc40-b538-11f0-b2a1-6f537f66f9aa.jpg",
         "bias": 0
       },
       {
