@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-11-01T23:17:11.963156Z",
+  "lastUpdate": "2025-11-01T23:29:36.895160Z",
   "news": {
     "Gaming": [
+      {
+        "title": "first aid guide [Free] [Educational]",
+        "link": "https://afonsocaetano.itch.io/first-aid-guide",
+        "description": "How to navigate the world of first aid.",
+        "pubDate": "2025-11-01T23:13:08Z",
+        "source": "afonsocaetano.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzODk2Njg1LnBuZw==/315x250%23c/peILZT.png",
+        "bias": 0
+      },
       {
         "title": "DEMO: Don Pollo Clicker [Free] [Other]",
         "link": "https://tiziraschella.itch.io/demo-don-pollo-clicker",
@@ -36,6 +45,15 @@
         "pubDate": "2025-11-01T22:35:53Z",
         "source": "lexicul-studios.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzODk2MjQzLnBuZw==/315x250%23c/QRrQPP.png",
+        "bias": 0
+      },
+      {
+        "title": "A Game About A Penguin Jumping [Free] [Platformer]",
+        "link": "https://yopako.itch.io/a-game-about-a-penguin-jumping",
+        "description": "",
+        "pubDate": "2025-11-01T22:31:20Z",
+        "source": "yopako.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzODk2NzA2LnBuZw==/315x250%23c/04D53J.png",
         "bias": 0
       },
       {
@@ -156,39 +174,21 @@
         "bias": 0
       },
       {
-        "title": "Arcade Hockey [$2.00]",
-        "link": "https://oldmario.itch.io/arcade-hockey",
-        "description": "",
-        "pubDate": "2025-11-01T21:21:18Z",
-        "source": "oldmario.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzODk1NDMzLnBuZw==/315x250%23c/9eVd3J.png",
-        "bias": 0
-      },
-      {
-        "title": "Who holds the reins? [Free] [Role Playing] [Windows] [Linux]",
-        "link": "https://laup0403.itch.io/who-holds-the-reins",
-        "description": "a short, bad horror game",
-        "pubDate": "2025-11-01T21:20:31Z",
-        "source": "laup0403.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzODk1Mzg5LnBuZw==/315x250%23c/K0n2na.png",
-        "bias": 0
-      },
-      {
-        "title": "Minesweeper [Free] [Puzzle] [Windows]",
-        "link": "https://man-o-valor.itch.io/minesweeper",
-        "description": "i made minesweeper but its cool",
-        "pubDate": "2025-11-01T20:11:15Z",
-        "source": "man-o-valor.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzODk0NTkyLnBuZw==/315x250%23c/jogfvt.png",
-        "bias": 0
-      },
-      {
         "title": "Pomodochi [Free] [Simulation] [Windows]",
         "link": "https://jepegui.itch.io/pomodochi",
         "description": "Virtual Pet to help you focus",
         "pubDate": "2025-11-01T18:41:51Z",
         "source": "jepegui.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzODk1ODE0LnBuZw==/315x250%23c/L%2FxL6l.png",
+        "bias": 0
+      },
+      {
+        "title": "zelda based game on python [Free] [Adventure] [Windows]",
+        "link": "https://shockedvines.itch.io/zeldalikegame",
+        "description": "",
+        "pubDate": "2025-11-01T18:23:30Z",
+        "source": "shockedvines.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzODkzNDcxLnBuZw==/315x250%23c/tSUUFJ.png",
         "bias": 0
       },
       {
@@ -221,6 +221,15 @@
     ],
     "World": [
       {
+        "title": "Shein accused of selling childlike sex dolls in France",
+        "link": "https://www.bbc.com/news/articles/c4gjjyvg1nqo?at_medium=RSS&at_campaign=rss",
+        "description": "The Asian fast fashion giant says it delisted the items \"immediately\" from its website and is investigating.",
+        "pubDate": "2025-11-01T23:14:42Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/287b/live/ea5c6b20-b774-11f0-83d4-a74eeda7e8ab.jpg",
+        "bias": 0
+      },
+      {
         "title": "Trump threatens to launch attacks in Nigeria over ‘killing of Christians’",
         "link": "https://www.aljazeera.com/news/2025/11/1/trump-threatens-to-launch-attacks-in-nigeria-over-killing-of-christians?traffic_source=rss",
         "description": "Nigerian government denies US president's claim of not stemming 'horrible atrocities' against Christians.",
@@ -237,15 +246,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Aid efforts struggle to bring relief to parts of hurricane-stricken Jamaica - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLV9IY3FianhWaHZJcW9PeVlBcUVDZE16VjlBUTJKQW52emlJVkVSQ0ZITDl1RTF0NHdXU2lPd3JDOV83TlZPYzJHelF1LUs0dU5wNUZ5NFFnV2h2WVpLbURyRXNLdDJuelJNT3VEVDdGbmJfRjh0NElBX0k3WE9uS0hYdDR5UkIwalhBMWh4WXpGM2JRY3gyTFBYZUc?oc=5",
-        "description": "",
-        "pubDate": "2025-11-01T22:22:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Hidden passage of emperors opened at the Colosseum",
@@ -300,6 +300,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Israel says the latest remains returned from Gaza by Hamas are not of hostages - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY2g1bXFsNlk1dlY3Zzg2TzlJcDhEN3FuTXZMWGZKUll0aU00UWFMWTZRNnVyd3BFdVZDSWFpSmlPMVllMm1jUXJlYzFUOTR5RnNxbTkxLV9LVmdwd1hkV0VhLUJJcGtnRGRwelhSTk1SOHVacFVhOEw4dzZrX3QydFpCbXAzb0FQRW54dFRCOHF2bTdfSTBTalRpXzBteUl3RTZDZm1n?oc=5",
+        "description": "",
+        "pubDate": "2025-11-01T21:07:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Kenyan landslide kills 21 after heavy rainfall",
@@ -439,7 +448,7 @@
       {
         "title": "Liverpool vs Aston Villa 2-0: Premier League – as it happened",
         "link": "https://www.aljazeera.com/sports/liveblog/2025/11/1/live-liverpool-vs-aston-villa-premier-league?traffic_source=rss",
-        "description": "All our updates, including coverage of post-match reactions and interviews, following our live text commentary stream.",
+        "description": "All our updates, including live commentary, coverage of post-match reactions and interviews.",
         "pubDate": "2025-11-01T17:01:38Z",
         "source": "aljazeera.com",
         "image": "",
@@ -462,15 +471,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Heidi Klum reveals her much-anticipated 2025 Halloween costume - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUzNlTGdMNThBMERBT2prZThpc0NrMWc3TURQeFEweWtPbWhJcW5PeXJYM2taTENHUUlZYzQ5YlNHY0luWlNQWWloOTd1NjF6UlBTZUp1LXEtRzVJOEdnQ0RZazJTTFhjUXhkVU9YSDBpbFg3d0tSeFFtbHRiVldSdHlNWG9DSE1oTTZIQUFLNzdRcXV0ZUJfRE5tWjU3RTFJbUt3d0lB?oc=5",
-        "description": "",
-        "pubDate": "2025-11-01T16:07:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Why has the Israeli army’s top lawyer resigned after leaking rape evidence?",
@@ -543,6 +543,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Andrew’s royal exit is the latest crisis for Britain’s monarchy - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZkRTVWRKNUR0bjZBWHp2eXJhOWRMelFhdTV2MWo4WkJNZk12T3JhOGJvb0F2YlJQbk9MNTdaWldWMWo2SkRPemx0Z1k4NjBxVTdpTkdCSGlwQmN5ZGtDVFk5R0pSN1J6bkFqUk5yeUx4b1pvZHpRVzRJMzNhdjFzczBlZFV6SG43MUhWYV90S2lhejZmaEJtb3hnUQ?oc=5",
+        "description": "",
+        "pubDate": "2025-11-01T13:25:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "FBI raid at Idaho horse track shows how immigration is a top focus across law enforcement - AP News",
@@ -660,18 +669,18 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14c4/live/17bb4860-b703-11f0-ba75-093eca1ac29b.jpg",
         "bias": 0
-      },
-      {
-        "title": "‘The legend lives on': Wreck of the Edmund Fitzgerald still resonates 50 years later - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUm4zZUlEM0Z4dHVmZUdKTlN1YUlmeGhHQlhMR2xPQUZJdXdKTEhzMEcyWWN1OUZWM1YxNml4MnVCUXBhVkd4ckxycUpheFdHTE5rajFGb0M4QnlJcGVVSlU5U1QzTEtLU3cxN21VQXcxd0Mxb2Z6YmtVLXJSWUR0SUUxYTZrRkhlTU9vcGlmOG1Ja3h1NGtxQWR6QmE2eU5icHFCRUlOSVk3akdfb1E?oc=5",
-        "description": "",
-        "pubDate": "2025-11-01T11:21:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Aid efforts struggle to bring relief to parts of hurricane-stricken Jamaica - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLV9IY3FianhWaHZJcW9PeVlBcUVDZE16VjlBUTJKQW52emlJVkVSQ0ZITDl1RTF0NHdXU2lPd3JDOV83TlZPYzJHelF1LUs0dU5wNUZ5NFFnV2h2WVpLbURyRXNLdDJuelJNT3VEVDdGbmJfRjh0NElBX0k3WE9uS0hYdDR5UkIwalhBMWh4WXpGM2JRY3gyTFBYZUc?oc=5",
+        "description": "",
+        "pubDate": "2025-11-01T23:05:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Trump threatens Nigeria with potential military action, escalates claim of Christian persecution - AP News",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSElOSjl1SXBEQlF0WEJ5dUhvVXBOWjQycy1wdFpEcG9CQ2tPaFdSTnc1LUFoWEJoS1k0MHZGSW8wRXNrR2hIbENSOERFWHRYU190YXo5VnEtRlFtRFF0OTBETEl2aDltNkwzR21sRUVsZjJhNzkwRVNNR2ltSFk1akJoTFpKMDZkbmpEdTNSOGthSXZUelhj?oc=5",
@@ -689,15 +698,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Israel says the latest remains returned from Gaza by Hamas are not of hostages - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY2g1bXFsNlk1dlY3Zzg2TzlJcDhEN3FuTXZMWGZKUll0aU00UWFMWTZRNnVyd3BFdVZDSWFpSmlPMVllMm1jUXJlYzFUOTR5RnNxbTkxLV9LVmdwd1hkV0VhLUJJcGtnRGRwelhSTk1SOHVacFVhOEw4dzZrX3QydFpCbXAzb0FQRW54dFRCOHF2bTdfSTBTalRpXzBteUl3RTZDZm1n?oc=5",
-        "description": "",
-        "pubDate": "2025-11-01T21:07:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Police, National Guard clear Halloween crowd gathered in Washington’s Navy Yard neighborhood - AP News",
@@ -722,6 +722,15 @@
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcEQ0bTFDd2M4aUNRMTQ3Y2t2d1ItUGxnX29UUHBIUE1lanNKNHlQUldUS3pnZU1qdG9Fa0xrQzVfVlo4R2dWZk1NTlhwcjV1dTg5dHNETWdCTlZjRnh6N0RDY1pqNU9QTnFoaFJ2ekdMbVBxb3M3cHRmd05FUjU2dlJhSENMRWlpNUttbHFOdG1RTzhKSzJjRDAyYUZfMnNyX3dqT2t3?oc=5",
         "description": "",
         "pubDate": "2025-11-01T16:46:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Heidi Klum reveals her much-anticipated 2025 Halloween costume - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUzNlTGdMNThBMERBT2prZThpc0NrMWc3TURQeFEweWtPbWhJcW5PeXJYM2taTENHUUlZYzQ5YlNHY0luWlNQWWloOTd1NjF6UlBTZUp1LXEtRzVJOEdnQ0RZazJTTFhjUXhkVU9YSDBpbFg3d0tSeFFtbHRiVldSdHlNWG9DSE1oTTZIQUFLNzdRcXV0ZUJfRE5tWjU3RTFJbUt3d0lB?oc=5",
+        "description": "",
+        "pubDate": "2025-11-01T16:07:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -916,7 +925,7 @@
         "title": "Furloughed federal workers face delays getting unemployment pay during shutdown - AP News",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQm1fSHVCUnh1c1AySlpqa1lpOWh1QjNUNldFTzQxd3J3VDFpZlFZSC1wS0Z1Q3BseDBtdEJFVTg2UjZFYnhiWmlVSzZBaUt4am9PUGdSNEpEazM3NWIzWjlWcjZ0MThyOUk3UmczNndya1FYWEJTemluMEVpd2RHMENLY01HTk14dDRaRmJVMnRVMVQtOEpYQVhfWkJoU1g5TlM4SnVISkRsMC1sNjNqTHg5bFJxZUc2?oc=5",
         "description": "",
-        "pubDate": "2025-11-01T14:03:00Z",
+        "pubDate": "2025-11-01T23:24:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
