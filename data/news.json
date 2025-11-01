@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-11-01T10:47:00.631071Z",
+  "lastUpdate": "2025-11-01T10:57:22.503679Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Xenoks vs Xenoks [Free] [Action]",
+        "link": "https://maneadjbg.itch.io/xenoks-vs-xenoks",
+        "description": "Jeu expetionnel",
+        "pubDate": "2025-11-01T10:48:08Z",
+        "source": "maneadjbg.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzODg4MjU5LnBuZw==/315x250%23c/fzwciI.png",
+        "bias": 0
+      },
       {
         "title": "CANTOS [Free]",
         "link": "https://spoofymaru.itch.io/cantos",
@@ -36,6 +45,15 @@
         "pubDate": "2025-11-01T10:19:20Z",
         "source": "itzthebfg.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzODg3OTU1LnBuZw==/315x250%23c/XiZTnf.png",
+        "bias": 0
+      },
+      {
+        "title": "DYNAMICA 26 [Free] [Sports] [Windows]",
+        "link": "https://cotangent-games.itch.io/dynamica-26",
+        "description": "Two-player football game",
+        "pubDate": "2025-11-01T10:19:16Z",
+        "source": "cotangent-games.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzODg3OTI2LnBuZw==/315x250%23c/4KKP9d.png",
         "bias": 0
       },
       {
@@ -81,15 +99,6 @@
         "pubDate": "2025-11-01T09:37:31Z",
         "source": "panculenciogames.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzODg3NDAzLnBuZw==/315x250%23c/bC%2FsP2.png",
-        "bias": 0
-      },
-      {
-        "title": "Sprunki shifted (Draker Take recreation) My version [Free]",
-        "link": "https://rexisgoodboi.itch.io/sprunki-shifted-draker-take-recreation-my-version",
-        "description": "I was lazy so I couldn't do animation",
-        "pubDate": "2025-11-01T09:37:21Z",
-        "source": "rexisgoodboi.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzODg3MzkyLnBuZw==/315x250%23c/s2tU8%2F.png",
         "bias": 0
       },
       {
@@ -192,15 +201,6 @@
         "bias": 0
       },
       {
-        "title": "Undead Chase [Free] [Action]",
-        "link": "https://cikletp.itch.io/undead-chase",
-        "description": "",
-        "pubDate": "2025-11-01T08:42:50Z",
-        "source": "cikletp.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzODg3MDg5LnBuZw==/315x250%23c/Nbj8CN.png",
-        "bias": 0
-      },
-      {
         "title": "The Greatest Trick-or-Treat of All Time! [Free] [Interactive Fiction] [Windows]",
         "link": "https://retrospecteddolt.itch.io/the-greatest-trick-or-treat-of-all-time",
         "description": "Help your friends out in a fierce trick-or-treating contest!",
@@ -257,7 +257,7 @@
         "bias": 0
       },
       {
-        "title": "Tanzania president re-elected as hundreds feared dead in unrest",
+        "title": "Samia wins Tanzania election as hundreds feared dead in unrest",
         "link": "https://www.bbc.com/news/articles/cm2ww0e0jewo?at_medium=RSS&at_campaign=rss",
         "description": "Demonstrations continued on Friday as young protesters denounced the election as unfair.",
         "pubDate": "2025-11-01T09:45:38Z",
@@ -655,15 +655,6 @@
         "bias": -1
       },
       {
-        "title": "Presidents once avoided shutdown travel. This term, Trump has been a frequent flier",
-        "link": "https://www.npr.org/2025/11/01/nx-s1-5593444/trump-government-shutdown-travel",
-        "description": "Not counting his golf outings in Virginia, President Trump spent all or part of 14 days outside of Washington, D.C. during the first 31 days of the shutdown.",
-        "pubDate": "2025-11-01T09:00:00Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "With the outlook for SNAP benefits uncertain, food banks are warning of a crisis",
         "link": "https://www.npr.org/2025/11/01/nx-s1-5591434/snap-benefits-food-banks",
         "description": "More Americans are turning to food banks to help fill the assistance gap, but administrators caution they aren't designed to act as a safety net for a government program.",
@@ -682,10 +673,28 @@
         "bias": -1
       },
       {
+        "title": "Presidents once avoided shutdown travel. This term, Trump has been a frequent flier",
+        "link": "https://www.npr.org/2025/11/01/nx-s1-5593444/trump-government-shutdown-travel",
+        "description": "Not counting his golf outings in Virginia, President Trump spent all or part of 14 days outside of Washington, D.C. during the first 31 days of the shutdown.",
+        "pubDate": "2025-11-01T09:00:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "‘King of K-pop’ Lee Soo Man on his career, a global industry and what’s next - AP News",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWGI0Sks3UUhZRTFlMWlObEFJQXhJUUF6T0hXUkZJeDk2QzVOWkhEWmszX2x1T092SklMak9ZT0RNT0d0dHJLc3dSZ0x0Z2VKNzhFbHBGODZDOXZyYkZpVTl5VV9hb2dZbTRPZHVvVExVMEdybjJOY3VCZFpYT1BoWHhvR21KMTVEaU9SZnFEVmxhN3BtQTQ0?oc=5",
         "description": "",
         "pubDate": "2025-11-01T06:46:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "From the subway to social media, NYC mayoral candidates make their closing arguments to voters - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLVpZaTkySzVKX0ZJdENNSTNqSVZBUHZoSGNyWTlSSFVlTVluRFdwR2VOaEE4ZERRMkNXSEhQdWtpTXZZdmVSaDM2dkxCMTUyaV9oSkY0dDNpak53TWNJM2p2Xzl3MVU0Ujdfa2F1OXlobWNKZzBtU0tSNFgyWmJ6N05pb25LR0l4STJ1X045dnoyLVRZMVdrOUZkdU8?oc=5",
+        "description": "",
+        "pubDate": "2025-11-01T04:02:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -700,6 +709,15 @@
         "bias": 0
       },
       {
+        "title": "'Where would America be without us?' A community of refugees is stunned by White House limits - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM1dXNXBrMUdscGVqNWMyemM4T2lLMXFRNWt1ZWF2R09xb09ySmhoa2UtWG5YTWJvaXh6UXBmYzJmRF9xTWVON0U0Y2FJUVBDazNvWXo2cFZGZlh6dHdTeG84OEROLVN0SmQtVlpCTmlxVlFHZXRqUF9ZN05vMXZCTmZ5MTdKbElscnlHR2lOZ0l5aXEyYTBvTQ?oc=5",
+        "description": "",
+        "pubDate": "2025-11-01T02:14:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Air traffic controller shortages lead to broader US flight delays as shutdown nears one-month mark - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV3ZibnBaYnA1c0JyUTRtblhkTDFneTlla0ZUZ19qWDhVbGlEbi05UWtkOFJJZzVWdXp0eV9hS05UVkVsVzgtNXBfVGtoTTlFOXBjdTBUNW5QWU9lQUJiR2w2dGZZV2lYVjVlZ21RTDdGSWFpYTBUb0ExSldXWTNkYzUwck5DU1NQSUNMVk9lbzQ2eGR3eGstaFRrVzg5UnFkcEtGa2xINHZMQ3M?oc=5",
         "description": "",
@@ -709,17 +727,7 @@
         "bias": 0
       }
     ],
-    "Tech": [
-      {
-        "title": "'Where would America be without us?' A community of refugees is stunned by White House limits - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM1dXNXBrMUdscGVqNWMyemM4T2lLMXFRNWt1ZWF2R09xb09ySmhoa2UtWG5YTWJvaXh6UXBmYzJmRF9xTWVON0U0Y2FJUVBDazNvWXo2cFZGZlh6dHdTeG84OEROLVN0SmQtVlpCTmlxVlFHZXRqUF9ZN05vMXZCTmZ5MTdKbElscnlHR2lOZ0l5aXEyYTBvTQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-01T02:14:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      }
-    ],
+    "Tech": [],
     "Science": [
       {
         "title": "How a great-grandmother helped researchers unravel a dinosaur mummy mystery",
