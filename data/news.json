@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-01T13:45:23.194657Z",
+  "lastUpdate": "2025-11-01T13:55:31.911326Z",
   "news": {
     "Gaming": [
       {
@@ -9,6 +9,15 @@
         "pubDate": "2025-11-01T13:39:42Z",
         "source": "amds-studio.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzODg5NzkwLnBuZw==/315x250%23c/SfuQCQ.png",
+        "bias": 0
+      },
+      {
+        "title": "Exposicion Rota [Free]",
+        "link": "https://tonymontania.itch.io/exposicin-rota",
+        "description": "Octavo Prototipo de la JAM (Tematica: Robo en el museo) Seminario II UNSO",
+        "pubDate": "2025-11-01T13:27:33Z",
+        "source": "tonymontania.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzODg5NzIxLmpwZw==/315x250%23c/QLqeEr.jpg",
         "bias": 0
       },
       {
@@ -192,15 +201,6 @@
         "bias": 0
       },
       {
-        "title": "Albie's Pumpkin Hunt [Free] [Platformer]",
-        "link": "https://mxmice.itch.io/albies-pumpkin-hunt",
-        "description": "Collect all the candy",
-        "pubDate": "2025-11-01T11:27:54Z",
-        "source": "mxmice.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzODg4NTcwLnBuZw==/315x250%23c/r4BKeZ.png",
-        "bias": 0
-      },
-      {
         "title": "Scattered [Free] [Interactive Fiction]",
         "link": "https://manarkhashan.itch.io/scattered",
         "description": "A surreal descent through a maze of dreams, choices, and strange creatuers.",
@@ -221,6 +221,24 @@
     ],
     "World": [
       {
+        "title": "Video: Tanzania president declared winner amid deadly election unrest",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/1/video-tanzania-president-declared-winner-amid-deadly-election-unrest?traffic_source=rss",
+        "description": "Tanzania's President has been declared the winner of the country’s presidential elections amid deadly unrest.",
+        "pubDate": "2025-11-01T13:42:33Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Rebuilding Gaza begins in the classroom",
+        "link": "https://www.aljazeera.com/opinions/2025/11/1/rebuilding-gaza-begins-in-the-classroom?traffic_source=rss",
+        "description": "Restoring education must start now under Palestinian leadership and with solidarity from abroad.",
+        "pubDate": "2025-11-01T13:41:05Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "RSF accused of staging arrests to deflect blame for atrocities",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/11/1/rsf-accused-of-staging-arrests-to-deflect-blame-for-atrocities?traffic_source=rss",
         "description": "The RSF are accused of staging arrests of their own soldiers to deflect blame for mass atrocities in Sudan’s el-Fasher.",
@@ -228,6 +246,24 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Andrew’s royal exit is the latest crisis for Britain’s monarchy - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZkRTVWRKNUR0bjZBWHp2eXJhOWRMelFhdTV2MWo4WkJNZk12T3JhOGJvb0F2YlJQbk9MNTdaWldWMWo2SkRPemx0Z1k4NjBxVTdpTkdCSGlwQmN5ZGtDVFk5R0pSN1J6bkFqUk5yeUx4b1pvZHpRVzRJMzNhdjFzczBlZFV6SG43MUhWYV90S2lhejZmaEJtb3hnUQ?oc=5",
+        "description": "",
+        "pubDate": "2025-11-01T13:25:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "US urges ASEAN to be firm in countering China in the South China Sea - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMFVpYWlKbjdpeFpEOVJkNHBnNHkwWU1WNllWUzBveFByUlQ2UHZyTDRBSjR3TlFZckl5c0ZNNklTWmY0QkpwbXJPVDFTZ1dVWHJIaWhSZ2ZPTVdnVDVKeUVzZnZQc0FwZVptZWdLaU9vdk1TS1JOcE4xSV9ESnNhNXRkQUFVUkZRTHpIVGtxYkUyYS1M?oc=5",
+        "description": "",
+        "pubDate": "2025-11-01T13:02:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Tanzanian president wins disputed election with more than 97% of the vote",
@@ -293,6 +329,24 @@
         "bias": 0
       },
       {
+        "title": "South Korea calls for greater Chinese efforts to bring North Korea back to talks - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdVNuTlZBTS1nVTUyU1hlb0NPX0kzUDNYaEQ4QnlZbk44SklnZ1NkMlNNMnJUbElBU09XZGx2a2FiZlFIOUFaTHQ2Wi1kQTJjX182YWhrbmt0WEI4WkNHdGo2QmV5VVJ3ZTZGVWM5aW9nMzlVUXQySkc4YU9Fa25jS2VVMjB0aW1oR2czaTdR?oc=5",
+        "description": "",
+        "pubDate": "2025-11-01T12:24:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Ukraine says it hit a key fuel pipeline near Moscow that supplies Russian forces - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWUtsWGVLTFBnb3Y5Zk9mQkQ3LVUzU2UzdmppclpxWnpEdVloYmxnMXpZc05YekVNWUdEX09TeV9lV3RZZU1PZTNwX3pmcHp2WTVkWjJCck9nakxqcERHQURBR1VqcDlkeEtLVXBtQkxpemVBamRCbmYtVDFVUnc3d3lyeVphOUotU3hZVmF2aUYzcDVMdkhVbzRn?oc=5",
+        "description": "",
+        "pubDate": "2025-11-01T12:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Iran grapples over social freedoms after war with Israel",
         "link": "https://www.aljazeera.com/news/2025/11/1/iran-grapples-over-social-freedoms-after-war-with-israel?traffic_source=rss",
         "description": "Some elements of the Iranian state are in favour of relatively relaxing controls, while others wish to cede no ground.",
@@ -338,6 +392,15 @@
         "bias": 0
       },
       {
+        "title": "‘The legend lives on': Wreck of the Edmund Fitzgerald still resonates 50 years later - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUm4zZUlEM0Z4dHVmZUdKTlN1YUlmeGhHQlhMR2xPQUZJdXdKTEhzMEcyWWN1OUZWM1YxNml4MnVCUXBhVkd4ckxycUpheFdHTE5rajFGb0M4QnlJcGVVSlU5U1QzTEtLU3cxN21VQXcxd0Mxb2Z6YmtVLXJSWUR0SUUxYTZrRkhlTU9vcGlmOG1Ja3h1NGtxQWR6QmE2eU5icHFCRUlOSVk3akdfb1E?oc=5",
+        "description": "",
+        "pubDate": "2025-11-01T11:21:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Thousands missing, new horrors emerge after RSF taking of Sudan’s el-Fasher",
         "link": "https://www.aljazeera.com/news/2025/11/1/thousands-missing-new-horrors-emerge-after-rsf-taking-of-sudan-el-fasher?traffic_source=rss",
         "description": "Sudanese people are being hunted down, humiliated and killed by RSF fighters, according to survivors and aid agencies.",
@@ -347,19 +410,19 @@
         "bias": -1
       },
       {
-        "title": "Andrew’s royal exit is the latest crisis for Britain’s monarchy - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZkRTVWRKNUR0bjZBWHp2eXJhOWRMelFhdTV2MWo4WkJNZk12T3JhOGJvb0F2YlJQbk9MNTdaWldWMWo2SkRPemx0Z1k4NjBxVTdpTkdCSGlwQmN5ZGtDVFk5R0pSN1J6bkFqUk5yeUx4b1pvZHpRVzRJMzNhdjFzczBlZFV6SG43MUhWYV90S2lhejZmaEJtb3hnUQ?oc=5",
+        "title": "Latest remains returned from Gaza are not bodies of hostages, Israel says - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY2g1bXFsNlk1dlY3Zzg2TzlJcDhEN3FuTXZMWGZKUll0aU00UWFMWTZRNnVyd3BFdVZDSWFpSmlPMVllMm1jUXJlYzFUOTR5RnNxbTkxLV9LVmdwd1hkV0VhLUJJcGtnRGRwelhSTk1SOHVacFVhOEw4dzZrX3QydFpCbXAzb0FQRW54dFRCOHF2bTdfSTBTalRpXzBteUl3RTZDZm1n?oc=5",
         "description": "",
-        "pubDate": "2025-11-01T11:12:00Z",
+        "pubDate": "2025-11-01T10:57:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Latest remains returned from Gaza are not bodies of hostages, Israel says - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY2g1bXFsNlk1dlY3Zzg2TzlJcDhEN3FuTXZMWGZKUll0aU00UWFMWTZRNnVyd3BFdVZDSWFpSmlPMVllMm1jUXJlYzFUOTR5RnNxbTkxLV9LVmdwd1hkV0VhLUJJcGtnRGRwelhSTk1SOHVacFVhOEw4dzZrX3QydFpCbXAzb0FQRW54dFRCOHF2bTdfSTBTalRpXzBteUl3RTZDZm1n?oc=5",
+        "title": "Pope declares Cardinal Newman a church doctor and signals Catholic education is a priority - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc1V0cUl0emxZS3RmY01fZU5iT2JHRmR3YjV1S2pQUnB2aENSaUtCcWJvMWd6LXNQMUZTN055SjhMWnVKZGpQSjFRdDZxdFIySVRPM2U4dlJDbXZhS0lNOGh2eEVVWkNaa3pOUUxLSTJWaUV5YUM0WnN5LTN0aUNuUVpQbjhDSUNQTXJDQ2h1dGhkX2xiYnBiQ05uOGZiaUY2dTBoYQ?oc=5",
         "description": "",
-        "pubDate": "2025-11-01T10:57:00Z",
+        "pubDate": "2025-11-01T10:37:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -374,30 +437,12 @@
         "bias": 0
       },
       {
-        "title": "Egypt unveils the world’s largest museum dedicated to its ancient civilization - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZEh0QTR2R013TTZaYjhjdWVXU0FmNFJuT0lvZ2NNODBBS19Kc3hlZnlEOVA3NlRPa254NkVGRm5rTW5FNlJUTHVFMWt5V2N4anYtWEVTbm1PN01SenBRRTROcnB6MjlqR005SmdBSldGcVZEb0pPMFczS2pJUnZMaEFFN2tORmk2UzFLeE1zZzd2cFRtbzhvN1pRTWZzSlJYellkcU0ydHA?oc=5",
-        "description": "",
-        "pubDate": "2025-11-01T09:46:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Tanzania president wins election as hundreds feared dead in unrest",
         "link": "https://www.bbc.com/news/articles/cm2ww0e0jewo?at_medium=RSS&at_campaign=rss",
         "description": "Demonstrations continued on Friday as young protesters denounced the election as unfair.",
         "pubDate": "2025-11-01T09:45:38Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79ba/live/230fab30-b6e9-11f0-8541-9720c7d6d108.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Pope declares Cardinal Newman a church doctor and signals Catholic education a priority - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc1V0cUl0emxZS3RmY01fZU5iT2JHRmR3YjV1S2pQUnB2aENSaUtCcWJvMWd6LXNQMUZTN055SjhMWnVKZGpQSjFRdDZxdFIySVRPM2U4dlJDbXZhS0lNOGh2eEVVWkNaa3pOUUxLSTJWaUV5YUM0WnN5LTN0aUNuUVpQbjhDSUNQTXJDQ2h1dGhkX2xiYnBiQ05uOGZiaUY2dTBoYQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-01T09:45:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -417,15 +462,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Asia-Pacific leaders wrap up APEC summit after Trump and Xi agreement on trade truce - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdVNuTlZBTS1nVTUyU1hlb0NPX0kzUDNYaEQ4QnlZbk44SklnZ1NkMlNNMnJUbElBU09XZGx2a2FiZlFIOUFaTHQ2Wi1kQTJjX182YWhrbmt0WEI4WkNHdGo2QmV5VVJ3ZTZGVWM5aW9nMzlVUXQySkc4YU9Fa25jS2VVMjB0aW1oR2czaTdR?oc=5",
-        "description": "",
-        "pubDate": "2025-11-01T08:13:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Cuba charges former economy minister Gil of espionage, financial crimes",
@@ -581,6 +617,15 @@
         "bias": -1
       },
       {
+        "title": "A Vermont cycling apparel company is trying to survive Trump's tariffs. Will the Supreme Court help? - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQVJzZUlqeFpjZC1KQ2JIZ2xWMzhQT2p2V0JBMG4wdm54Y2RuU0xQOUxuMWMtUVhYaHBXWHE3QWxGT3hQaXNLT0hnU3M4YThSZWJtNWtrTG1qdDZGdUFLc2Z5WGE0WlJwUzA2c3YxTk1xOE1ZV1BTWVVMWG5Cd1FzZDZtOEpPZDdXb3ZVd0dQQmxkcEo3dUdkcXFkZU15OTRhdlZFemtPZVZyejZZ?oc=5",
+        "description": "",
+        "pubDate": "2025-11-01T04:07:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "George Springer drives in Toronto's lone run as he returns for World Series Game 6 against Dodgers - AP News",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZW8zRXdfSkpITDVZYW9CX0p0YVJNNW9nSlpiU2dqbFkzVHlleW9NN1FyVG1iX1Y3VC1Gb1dJdEdXOFJmOXUxTjdzaHN0OXNjZUFqWkg2YmIzYjVoVXZfeWRzNHpoTWJoNlFMZWtyMlBTWnhJaHV0UlJqQ3FaenAtbTJyZnJBeUpNSWFOSjlnTWptOWF4V1E?oc=5",
         "description": "",
@@ -624,51 +669,6 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0d2/live/9a1bc190-b712-11f0-ba75-093eca1ac29b.jpg",
         "bias": 0
-      },
-      {
-        "title": "Trump says not planning US strikes on Venezuela",
-        "link": "https://www.aljazeera.com/news/2025/11/1/trump-says-not-planning-us-strikes-on-venezuela?traffic_source=rss",
-        "description": "Trump's comments appear to contrast with his own early remarks, as US sends warships to the Caribbean.",
-        "pubDate": "2025-11-01T01:59:41Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Trump administration must fund SNAP payments during the shutdown, judges rule - AP News",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83LVk2akpzdFl1U2ltNUxONnVoWVNXYnVoM3BFZUZ6MjlyNXp6c29lampyRnM2WUt3RUFfSmFZRlpCM2lhVGxmREtDVG1Fb183QWlYTlNJNnFuMk1paDZ3aGIxZ3FnR3pKX3dRXw?oc=5",
-        "description": "",
-        "pubDate": "2025-11-01T01:51:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "New York Attorney General Letitia James seeks to block Trump administration’s subpoenas - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ3JuYWZVbDRmdXcwLVR3aFVHMEJDa1NmbWlZTmlGVVJySERSdVRlZEdnS2JCSVVfVURnNV9lOU56ZUYzYXBtaTRYTWtTZ3B0S1g0bll6SnVST196WDYzMTVoMm94Y0xoaGcxN2JrQl9IaVNBdk5aSk1obzhGWnh2a0d5eVowZDBBNEQzV2RyT3g1S2VocjFZZldjenRHekYwUjlxeXF4TTZkQQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-01T01:34:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Egypt's Grand Museum opens, displaying Tutankhamun tomb in full for first time",
-        "link": "https://www.bbc.com/news/articles/ckg4q403rpzo?at_medium=RSS&at_campaign=rss",
-        "description": "The launch of the billion-dollar site sees fresh calls for the return of antiquities held in museums overseas.",
-        "pubDate": "2025-11-01T01:19:28Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4234/live/32740f10-b66e-11f0-bb84-5d792dcc8544.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Why the Indian passport is falling in global ranking",
-        "link": "https://www.bbc.com/news/articles/c3ep1epqjkpo?at_medium=RSS&at_campaign=rss",
-        "description": "Indians can travel to more visa-free destinations than a decade ago, but India's passport ranking has declined.",
-        "pubDate": "2025-11-01T01:10:03Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81bb/live/0a3d5c90-afcf-11f0-be1a-29a37cb41475.jpg",
-        "bias": 0
       }
     ],
     "Politics": [
@@ -682,28 +682,19 @@
         "bias": -1
       },
       {
-        "title": "‘The legend lives on': Wreck of the Edmund Fitzgerald still resonates 50 years later - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUm4zZUlEM0Z4dHVmZUdKTlN1YUlmeGhHQlhMR2xPQUZJdXdKTEhzMEcyWWN1OUZWM1YxNml4MnVCUXBhVkd4ckxycUpheFdHTE5rajFGb0M4QnlJcGVVSlU5U1QzTEtLU3cxN21VQXcxd0Mxb2Z6YmtVLXJSWUR0SUUxYTZrRkhlTU9vcGlmOG1Ja3h1NGtxQWR6QmE2eU5icHFCRUlOSVk3akdfb1E?oc=5",
-        "description": "",
-        "pubDate": "2025-11-01T11:21:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Ukraine says it hit a key fuel pipeline near Moscow that supplies Russian forces - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWUtsWGVLTFBnb3Y5Zk9mQkQ3LVUzU2UzdmppclpxWnpEdVloYmxnMXpZc05YekVNWUdEX09TeV9lV3RZZU1PZTNwX3pmcHp2WTVkWjJCck9nakxqcERHQURBR1VqcDlkeEtLVXBtQkxpemVBamRCbmYtVDFVUnc3d3lyeVphOUotU3hZVmF2aUYzcDVMdkhVbzRn?oc=5",
-        "description": "",
-        "pubDate": "2025-11-01T10:23:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "In redistricting vote, some Californians fear losing out, others want to face Trump",
         "link": "https://www.npr.org/2025/11/01/nx-s1-5590943/redistricting-califorinia-trump-elections",
         "description": "California's vote Tuesday on whether to redistrict congressional seats could be important in determining who controls Congress after the 2026 midterm elections.",
         "pubDate": "2025-11-01T10:00:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Presidents once avoided shutdown travel. This term, Trump has been a frequent flier",
+        "link": "https://www.npr.org/2025/11/01/nx-s1-5593444/trump-government-shutdown-travel",
+        "description": "Not counting his golf outings in Virginia, President Trump spent all or part of 14 days outside of Washington, D.C. during the first 31 days of the shutdown.",
+        "pubDate": "2025-11-01T09:00:00Z",
         "source": "npr.org",
         "image": "",
         "bias": -1
@@ -727,28 +718,10 @@
         "bias": -1
       },
       {
-        "title": "Presidents once avoided shutdown travel. This term, Trump has been a frequent flier",
-        "link": "https://www.npr.org/2025/11/01/nx-s1-5593444/trump-government-shutdown-travel",
-        "description": "Not counting his golf outings in Virginia, President Trump spent all or part of 14 days outside of Washington, D.C. during the first 31 days of the shutdown.",
-        "pubDate": "2025-11-01T09:00:00Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "Heidi Klum reveals her much-anticipated 2025 Halloween costume - AP News",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUzNlTGdMNThBMERBT2prZThpc0NrMWc3TURQeFEweWtPbWhJcW5PeXJYM2taTENHUUlZYzQ5YlNHY0luWlNQWWloOTd1NjF6UlBTZUp1LXEtRzVJOEdnQ0RZazJTTFhjUXhkVU9YSDBpbFg3d0tSeFFtbHRiVldSdHlNWG9DSE1oTTZIQUFLNzdRcXV0ZUJfRE5tWjU3RTFJbUt3d0lB?oc=5",
         "description": "",
         "pubDate": "2025-11-01T05:03:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "A Vermont cycling apparel company is trying to survive Trump's tariffs. Will the Supreme Court help? - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQVJzZUlqeFpjZC1KQ2JIZ2xWMzhQT2p2V0JBMG4wdm54Y2RuU0xQOUxuMWMtUVhYaHBXWHE3QWxGT3hQaXNLT0hnU3M4YThSZWJtNWtrTG1qdDZGdUFLc2Z5WGE0WlJwUzA2c3YxTk1xOE1ZV1BTWVVMWG5Cd1FzZDZtOEpPZDdXb3ZVd0dQQmxkcEo3dUdkcXFkZU15OTRhdlZFemtPZVZyejZZ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-01T04:07:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -791,15 +764,6 @@
       }
     ],
     "Tech": [
-      {
-        "title": "South Korea calls for greater Chinese efforts to bring North Korea back to talks - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdVNuTlZBTS1nVTUyU1hlb0NPX0kzUDNYaEQ4QnlZbk44SklnZ1NkMlNNMnJUbElBU09XZGx2a2FiZlFIOUFaTHQ2Wi1kQTJjX182YWhrbmt0WEI4WkNHdGo2QmV5VVJ3ZTZGVWM5aW9nMzlVUXQySkc4YU9Fa25jS2VVMjB0aW1oR2czaTdR?oc=5",
-        "description": "",
-        "pubDate": "2025-11-01T12:24:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
       {
         "title": "How to make emails sound human with the growing use of AI tools",
         "link": "https://www.npr.org/2025/11/01/nx-s1-5593045/how-to-make-emails-sound-human-with-the-growing-use-of-ai-tools",
