@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-11-01T21:47:01.015523Z",
+  "lastUpdate": "2025-11-01T21:57:22.581684Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Fest Fight [Free] [Action]",
+        "link": "https://dustyanvil.itch.io/fest-fight",
+        "description": "Avoid and knock out security guards trying to throw you out from the Fest",
+        "pubDate": "2025-11-01T21:40:11Z",
+        "source": "dustyanvil.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzODk1NTY5LnBuZw==/315x250%23c/l4k1IO.png",
+        "bias": 0
+      },
       {
         "title": "Sprunki But DaneyB Melody [Free]",
         "link": "https://therealpoet3.itch.io/sprunki-but-daneyb-melody",
@@ -165,24 +174,6 @@
         "bias": 0
       },
       {
-        "title": "Sprunki Composite Shifted Phase 3 [Free]",
-        "link": "https://zipperos.itch.io/sprunki-composite-shifted-phase-3",
-        "description": "",
-        "pubDate": "2025-11-01T19:45:09Z",
-        "source": "zipperos.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzODk0MzY0LnBuZw==/315x250%23c/Us0rDS.png",
-        "bias": 0
-      },
-      {
-        "title": "Confesion [100% Off] [0.00€] [Adventure]",
-        "link": "https://pamukdevstuffs.itch.io/confesion",
-        "description": "Text Adventure",
-        "pubDate": "2025-11-01T19:43:22Z",
-        "source": "pamukdevstuffs.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzODk0MzQ4LnBuZw==/315x250%23c/ul%2Byv%2B.png",
-        "bias": 0
-      },
-      {
         "title": "Snacked In [Free] [Action] [Windows]",
         "link": "https://karoukodil.itch.io/snacked-in",
         "description": "Dont let the monsters ruin you Halloween party!",
@@ -198,15 +189,6 @@
         "pubDate": "2025-11-01T19:34:23Z",
         "source": "kristianemanuelsen.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzODk0MzI2LnBuZw==/315x250%23c/izJ3fd.png",
-        "bias": 0
-      },
-      {
-        "title": "KrillCompis [Free] [Puzzle] [Windows]",
-        "link": "https://francohere.itch.io/krillcompis",
-        "description": "",
-        "pubDate": "2025-11-01T19:00:24Z",
-        "source": "francohere.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzODk0MzcxLnBuZw==/315x250%23c/qgYmls.png",
         "bias": 0
       },
       {
@@ -261,6 +243,15 @@
         "pubDate": "2025-11-01T16:44:45Z",
         "source": "eychiro.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzODkyMjg0LnBuZw==/315x250%23c/CPasPG.png",
+        "bias": 0
+      },
+      {
+        "title": "Containment [Free] [Simulation]",
+        "link": "https://ballistic-ox.itch.io/containment",
+        "description": "",
+        "pubDate": "2025-11-01T03:39:38Z",
+        "source": "ballistic-ox.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzODk1Njc0LnBuZw==/315x250%23c/x9ALap.png",
         "bias": 0
       },
       {
@@ -727,6 +718,24 @@
     ],
     "Politics": [
       {
+        "title": "The politics behind President Trump's plan to send troops to U.S. cities",
+        "link": "https://www.npr.org/2025/11/01/nx-s1-5588904/the-politics-behind-president-trumps-plan-to-send-troops-to-u-s-cities",
+        "description": "President Trump and the GOP are hoping that sending troops to US cities will be a winning strategy for the midterm elections.",
+        "pubDate": "2025-11-01T21:49:10Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "LSU athletic director Scott Woodward ousted, 4 days after the firing of football coach Brian Kelly - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMkg1WWVPaXBOVy05Z1gxT0dEckJNbGFadlFyZ0xad0oxZ2k4YVhNTlh0U2hBLVMwQmFWUFJQOGxqZGtNSE5uWGlXODJ5T0JwVE5XMGlnbkU5dGtkdThUb296aFkxYjZPX0x0NGZ6RFhod2dLODJUR1l4OWFtcDN5VE1iSC1jbUFqSnpxckwwMnQ0QzlfR1kyTzNiVFgxdGZPS1ZYVDBXZXB6cjlIUXln?oc=5",
+        "description": "",
+        "pubDate": "2025-11-01T21:47:34Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Israel says the latest remains returned from Gaza by Hamas are not of hostages - AP News",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY2g1bXFsNlk1dlY3Zzg2TzlJcDhEN3FuTXZMWGZKUll0aU00UWFMWTZRNnVyd3BFdVZDSWFpSmlPMVllMm1jUXJlYzFUOTR5RnNxbTkxLV9LVmdwd1hkV0VhLUJJcGtnRGRwelhSTk1SOHVacFVhOEw4dzZrX3QydFpCbXAzb0FQRW54dFRCOHF2bTdfSTBTalRpXzBteUl3RTZDZm1n?oc=5",
         "description": "",
@@ -869,6 +878,15 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "The Latest: Trump administration must fund SNAP payments during the shutdown, judges rule - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUGNfSjZJVDhqTk1hbXljWW1mZ2I2OHJHTlpVLUd0RGxJRnEtQ0dLVFdhSi1LVVpuYkhJekNxcFJoeEg4WVNRSWJRclliNERlVXUzMEVaZURqdGRJcXVtVS1xVkg0MmhTNVljODNXNjlDUWdzOUdLWXRiUkE3Yk5wVWRIMFJ0UkxhZlNRMUd0ZTlVWmdUUUlJYUYtXzJGUQ?oc=5",
+        "description": "",
+        "pubDate": "2025-11-01T01:49:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Tech": [
@@ -889,23 +907,14 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "The Latest: Trump administration must fund SNAP payments during the shutdown, judges rule - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUGNfSjZJVDhqTk1hbXljWW1mZ2I2OHJHTlpVLUd0RGxJRnEtQ0dLVFdhSi1LVVpuYkhJekNxcFJoeEg4WVNRSWJRclliNERlVXUzMEVaZURqdGRJcXVtVS1xVkg0MmhTNVljODNXNjlDUWdzOUdLWXRiUkE3Yk5wVWRIMFJ0UkxhZlNRMUd0ZTlVWmdUUUlJYUYtXzJGUQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-01T01:49:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Science": [
       {
-        "title": "Andrew’s royal exit is the latest crisis for Britain’s monarchy - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZkRTVWRKNUR0bjZBWHp2eXJhOWRMelFhdTV2MWo4WkJNZk12T3JhOGJvb0F2YlJQbk9MNTdaWldWMWo2SkRPemx0Z1k4NjBxVTdpTkdCSGlwQmN5ZGtDVFk5R0pSN1J6bkFqUk5yeUx4b1pvZHpRVzRJMzNhdjFzczBlZFV6SG43MUhWYV90S2lhejZmaEJtb3hnUQ?oc=5",
+        "title": "How to spot November’s supermoon, the closest of the year - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb29oSTBoUGFZMDl1QW1aOXZNTHYtSnhNZVBWNWJ3d05aVDd4UlNHbS1zYzc0VVdyWXNvUUh6SktOOTlKdlpEX0VUR0UyRWFnSFBEaDZsNF9BN1NRNUNNcjBQV21RdlBXNFB0X25xd05YbWh2cnBiQjg0YVBqU2cySklKaUVPSW5BN3pz?oc=5",
         "description": "",
-        "pubDate": "2025-11-01T13:25:00Z",
+        "pubDate": "2025-11-01T13:23:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -956,15 +965,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "How to spot November’s supermoon, the closest of the year - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb29oSTBoUGFZMDl1QW1aOXZNTHYtSnhNZVBWNWJ3d05aVDd4UlNHbS1zYzc0VVdyWXNvUUh6SktOOTlKdlpEX0VUR0UyRWFnSFBEaDZsNF9BN1NRNUNNcjBQV21RdlBXNFB0X25xd05YbWh2cnBiQjg0YVBqU2cySklKaUVPSW5BN3pz?oc=5",
-        "description": "",
-        "pubDate": "2025-11-01T13:23:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Week-long event offers advice on money problems",
