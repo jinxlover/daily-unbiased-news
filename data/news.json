@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-02T20:24:29.763524Z",
+  "lastUpdate": "2025-11-02T20:38:14.043557Z",
   "news": {
     "Gaming": [
       {
@@ -18,6 +18,15 @@
         "pubDate": "2025-11-02T20:03:10Z",
         "source": "yoshuadiaz.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzOTA5NDQyLnBuZw==/315x250%23c/%2FxE7hY.png",
+        "bias": 0
+      },
+      {
+        "title": "Blink [Free] [Puzzle]",
+        "link": "https://veryfancydonut.itch.io/blink",
+        "description": "Dimension shifting puzzle platformer",
+        "pubDate": "2025-11-02T19:57:07Z",
+        "source": "veryfancydonut.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTA5MTM3LnBuZw==/315x250%23c/fXkQ1D.png",
         "bias": 0
       },
       {
@@ -102,15 +111,6 @@
         "bias": 0
       },
       {
-        "title": "Quest For True Color [Free] [Platformer] [Windows]",
-        "link": "https://andersonfds.itch.io/quest-for-true-color",
-        "description": "Some random game that I built with C++",
-        "pubDate": "2025-11-02T19:19:48Z",
-        "source": "andersonfds.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTA4NzIyLnBuZw==/315x250%23c/c3MJLe.png",
-        "bias": 0
-      },
-      {
         "title": "Shattered Realms [Free] [Adventure]",
         "link": "https://rohithkannan.itch.io/shattered-realms",
         "description": "",
@@ -162,15 +162,6 @@
         "pubDate": "2025-11-02T18:35:33Z",
         "source": "noremi111.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzOTA5MTUzLnBuZw==/315x250%23c/dJbpeo.png",
-        "bias": 0
-      },
-      {
-        "title": "El Guardian del Relicario [Free] [Action]",
-        "link": "https://rolandprog.itch.io/el-guardian-del-relicario",
-        "description": "Un juego de aventura y acción",
-        "pubDate": "2025-11-02T18:11:02Z",
-        "source": "rolandprog.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTA4Njc4LmpwZw==/315x250%23c/%2FeSffk.jpg",
         "bias": 0
       },
       {
@@ -257,13 +248,31 @@
     ],
     "World": [
       {
+        "title": "Nato 'will stand with Ukraine' to get long-lasting peace, senior official tells BBC",
+        "link": "https://www.bbc.com/news/articles/czxng7kxnp9o?at_medium=RSS&at_campaign=rss",
+        "description": "Admiral Giuseppe Cavo Dragone tells the BBC the Russia-Ukraine war is bogged down, and it is \"almost time to sit and talk\".",
+        "pubDate": "2025-11-02T20:34:19Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/252d/live/b0e50b30-b815-11f0-8801-8b419f17177b.jpg",
+        "bias": 0
+      },
+      {
         "title": "Live updates: Notre Dame, Big 12 teams break into the AP Top 25’s top 10 - AP News",
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZSVNlQkliUE16dTI1TlhjNG81R2VYTnJpOWY2V2MzNld6ckZLSDl4ZDNYb2hUaFZ2ekM0RGt5TEIzRnpxZWlkOTg1eGYwdWNZaVlqNEJMcXhzRTNKSldhRXpiaDhsR25wS1p4SXJTOA?oc=5",
         "description": "",
-        "pubDate": "2025-11-02T20:11:00Z",
+        "pubDate": "2025-11-02T20:33:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "Barcelona beat Elche 3-1 to stay in touch with La Liga leaders Real Madrid",
+        "link": "https://www.aljazeera.com/sports/2025/11/2/barcelona-beat-elche-3-1-to-stay-in-touch-with-la-liga-leaders-real-madrid?traffic_source=rss",
+        "description": "Dominant win moves defending La Liga champions to second place in the standings, five adrift of archrivals Madrid.",
+        "pubDate": "2025-11-02T20:00:08Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "UK police release 1 of 2 men arrested over train stabbings and laud ‘heroic’ rail worker - AP News",
@@ -324,6 +333,15 @@
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ0VWU1RtS0YxZWFWUTdrbWc4YV9YeTFZTVFNTll2eTdoN25kejdoVm5LVndvSVBYUVpGQ1BHYWs5eVBCR3pZby1sRzZkUzJhT0lnRlY4Skpfd004NlJDVHdXV3ZPOXhXelFkUDdBSDE0YjdFWS1zV1RHNkZZNWxXd3JqZDA3b1k5M0Y3OXRha2ZOQnI4Vmk3eDBFTQ?oc=5",
         "description": "",
         "pubDate": "2025-11-02T18:23:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Notre Dame, Virginia, Texas Tech on AP-based CFP bracket; Texas, Oklahoma on outside looking in - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSnR0YVhKaTFCN3Y2a0tJMG9IOW9uNF9tWVJyREJ5TXlLNWt5bGRiQ0VUNjZXSnZCT3loeFI4TkEwdUYwQjBmMHlfNzNzQ1dzSlgwTk15dDRta0hlYUpTTlNzajVndGFjT1Q5ZmpYS2piR1pIQ2lsN1BBaFUtcHl3aTlKX0JyUQ?oc=5",
+        "description": "",
+        "pubDate": "2025-11-02T18:02:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -401,6 +419,15 @@
         "bias": -1
       },
       {
+        "title": "Fears grow for thousands trapped in Sudan’s el-Fasher as few reach safety - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQkdDSFlkazlkREozNDlDalpjWU1CVVg0aUF6am1KSDR1SnpCelBaVlhtSWQ1eGQ3MWFNQW42eG1wQ2pMLXltSVc2NENLRWJUQ3lNRmJMdGpWUDN2RkpFeWdBR3pQWi0yNE5sUVh3OWgySXptR29Qb3NqYmdNOGVQaGhLd0dmVS0zWUFIUThpWlp0TmoxLVFIalBB?oc=5",
+        "description": "",
+        "pubDate": "2025-11-02T17:19:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Trump tells military to prepare for 'action' against Islamist militants in Nigeria",
         "link": "https://www.bbc.com/news/articles/cev18jy21w7o?at_medium=RSS&at_campaign=rss",
         "description": "The US president says his threat is over killings of Christians - though experts say there is no evidence they are disproportionately targeted.",
@@ -419,15 +446,6 @@
         "bias": 0
       },
       {
-        "title": "The end of federal food aid could hit Black Americans hardest - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLWZ3YTlvWmYwRUZuUnRwR2J0Ym56UXJIWDNyZzFXYlhRMzgzUElSbEx3V2hSVDMtTEpfcnpiN3UyMGM3cU51UU80Q2ZLTjdkZm5uWDJzY3JPc0FRVURtbFRiVVZ3ZUVuNjdTUTNnU3VveGRiRWt3d09ncWhqM3BNcVV0Q3VPQndHcTJDRjNWN2l3LVBIX1BtV3FwZ0JiTGpYVF9DWDV6N3pqUU5PTUFv?oc=5",
-        "description": "",
-        "pubDate": "2025-11-02T16:48:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Canada, Philippines sign defence pact to deter Beijing in South China Sea",
         "link": "https://www.aljazeera.com/news/2025/11/2/canada-philippines-sign-defence-pact-to-deter-beijing-in-south-china-sea?traffic_source=rss",
         "description": "China has frequently accused the Philippines of acting as a 'troublemaker' and 'saboteur of regional stability'.",
@@ -435,15 +453,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Fears grow for thousands trapped in Sudan’s el-Fasher as few reach safety - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQkdDSFlkazlkREozNDlDalpjWU1CVVg0aUF6am1KSDR1SnpCelBaVlhtSWQ1eGQ3MWFNQW42eG1wQ2pMLXltSVc2NENLRWJUQ3lNRmJMdGpWUDN2RkpFeWdBR3pQWi0yNE5sUVh3OWgySXptR29Qb3NqYmdNOGVQaGhLd0dmVS0zWUFIUThpWlp0TmoxLVFIalBB?oc=5",
-        "description": "",
-        "pubDate": "2025-11-02T16:44:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Louvre heist carried out by petty criminals, prosecutor says",
@@ -500,12 +509,30 @@
         "bias": -1
       },
       {
+        "title": "Tariffs are Trump's favorite foreign policy tool. The Supreme Court could change how he uses them - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeW4teEVzZXpVRmJNUFJQTGFXd2pQV01XNlFkbFU2cHBxbEFaYjg2MUwwSnlyTk1ZZC14aUN2S3VLTVVWS1BGVkFSOEdfelhwSml2V0trdXdSVEVmbVhiTFhvS0lRQ2tidWJ6b0NUWEdHeURscWJxQmc4R0U2UkFOSzNuUERmWmVueGJGWGtEay1aY0EtMUhSQk5wZG1IbXBENy1aOA?oc=5",
+        "description": "",
+        "pubDate": "2025-11-02T15:57:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Three killed in latest US strike on alleged drug boat in Caribbean",
         "link": "https://www.bbc.com/news/articles/cn401vzjx48o?at_medium=RSS&at_campaign=rss",
         "description": "US Defence Secretary says \"narco-terrorists\" attempting to smuggle drugs into the US were targeted.",
         "pubDate": "2025-11-02T15:49:03Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35d5/live/ad952fa0-b7e3-11f0-abe6-7701fd351490.png",
+        "bias": 0
+      },
+      {
+        "title": "The end of federal food aid could hit Black Americans hardest - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLWZ3YTlvWmYwRUZuUnRwR2J0Ym56UXJIWDNyZzFXYlhRMzgzUElSbEx3V2hSVDMtTEpfcnpiN3UyMGM3cU51UU80Q2ZLTjdkZm5uWDJzY3JPc0FRVURtbFRiVVZ3ZUVuNjdTUTNnU3VveGRiRWt3d09ncWhqM3BNcVV0Q3VPQndHcTJDRjNWN2l3LVBIX1BtV3FwZ0JiTGpYVF9DWDV6N3pqUU5PTUFv?oc=5",
+        "description": "",
+        "pubDate": "2025-11-02T15:48:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -572,15 +599,6 @@
         "bias": 0
       },
       {
-        "title": "Tariffs are Trump's favorite foreign policy tool. The Supreme Court could change how he uses them - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeW4teEVzZXpVRmJNUFJQTGFXd2pQV01XNlFkbFU2cHBxbEFaYjg2MUwwSnlyTk1ZZC14aUN2S3VLTVVWS1BGVkFSOEdfelhwSml2V0trdXdSVEVmbVhiTFhvS0lRQ2tidWJ6b0NUWEdHeURscWJxQmc4R0U2UkFOSzNuUERmWmVueGJGWGtEay1aY0EtMUhSQk5wZG1IbXBENy1aOA?oc=5",
-        "description": "",
-        "pubDate": "2025-11-02T14:57:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Shein accused of selling childlike sex dolls in France",
         "link": "https://www.bbc.com/news/articles/c4gjjyvg1nqo?at_medium=RSS&at_campaign=rss",
         "description": "The fast fashion giant says it delisted the items \"immediately\" from its website and is investigating.",
@@ -590,7 +608,7 @@
         "bias": 0
       },
       {
-        "title": "Barcelona vs Elche 3-1: La Liga",
+        "title": "Barcelona vs Elche 3-1: La Liga – as it happened",
         "link": "https://www.aljazeera.com/sports/liveblog/2025/11/2/live-barcelona-vs-elche-la-liga?traffic_source=rss",
         "description": "All the updates as Barcelona beat Elche at the Olympic Stadium with goals from Yamal, Torres and Rashford.",
         "pubDate": "2025-11-02T14:30:00Z",
@@ -678,33 +696,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Hurricane Melissa death toll rises to 28 in Jamaica",
-        "link": "https://www.bbc.com/news/articles/c1e34p92q0vo?at_medium=RSS&at_campaign=rss",
-        "description": "PM Andrew Holness warns of reports of possible fatalities still to be verified - suggesting the figure may yet rise.",
-        "pubDate": "2025-11-02T11:37:48Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd15/live/3ad7d090-b7d3-11f0-b2a1-6f537f66f9aa.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Week in pictures: From Israeli strikes in Gaza to floods in Vietnam",
-        "link": "https://www.aljazeera.com/gallery/2025/11/2/week-in-pictures-from-israeli-strikes-in-gaza-to-floods-in-vietnam?traffic_source=rss",
-        "description": "A global roundup of some of last week’s events.",
-        "pubDate": "2025-11-02T11:18:31Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Ukrainian children among victims of deadly Russian missile attacks",
-        "link": "https://www.aljazeera.com/news/2025/11/2/ukrainian-children-among-victims-of-deadly-russian-missile-attacks?traffic_source=rss",
-        "description": "Ukraine says its forces destroyed three key fuel lines near the Ramensky district.",
-        "pubDate": "2025-11-02T11:14:11Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
@@ -772,10 +763,10 @@
         "bias": -1
       },
       {
-        "title": "Hurricane Melissa deals another heavy blow to Jamaica’s farmers and fishers - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVzQ2c2E1ckpKQXhDdGRudHVwNmlza2pPaFdXRU9vR0s3a091ZW0xeFE5R18zUHJ1cjhDSmktMmlLcjg2QlFqeVByT3VDYUVxRVhBU1BSM2c1OXdiWTl2cmYzSGZmNUhOTmlzM2cydU16LTBGTTFjTVFhQWxBZXlWd2ttVnoyYVJuU0lCTW55VS1ZTlhyQkhYdmpCbmIwYkpWakktdms4XzMtRnBf?oc=5",
+        "title": "Vanderbilt rally fell shot as chance for statement road win turns into critical loss for Commodores - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMFI3b0hlVHY4Y1hMNU9qWDV4N1k5Y0FweFRvMWFyZlZwcVpTOFhPZ3F6Nzg0M3o5clQwNXRsaFFBVnRoOG9ZczRuY2RWSkJMbDU4Wk9SMDd6VGxkbzd5MFMxQmVZcEFPcmJmVUhiZUVGTGcydlpOVnpwUXgtUTRVd00yM1Q0ak5LclZEOVhUZWtGQQ?oc=5",
         "description": "",
-        "pubDate": "2025-11-02T09:28:00Z",
+        "pubDate": "2025-11-02T10:00:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -820,7 +811,7 @@
         "title": "UK police say 10 people in hospital after train stabbing attack, 9 with life-threatening injuries - AP News",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWUtJYkZHLWNYUzZ2WVVoQ25CNm1IcUttRUhGUm80WGphcmdHYmJCWElkLWNacmFmWGVNVDNKalQ4aUVYRlhydnFMUzhfTGFHWjA2Y1lfc3l4WGRQLVdLYVN0Vm1KVXNjWWQwV05LTDZ3ZzdyUmpLclpWUk5STGdsenc4Rm9OZy1WMmVrYkZTXzdveUds?oc=5",
         "description": "",
-        "pubDate": "2025-11-02T02:38:00Z",
+        "pubDate": "2025-11-02T03:38:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -829,7 +820,7 @@
         "title": "Aid efforts struggle to bring relief to parts of hurricane-stricken Jamaica - AP News",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLV9IY3FianhWaHZJcW9PeVlBcUVDZE16VjlBUTJKQW52emlJVkVSQ0ZITDl1RTF0NHdXU2lPd3JDOV83TlZPYzJHelF1LUs0dU5wNUZ5NFFnV2h2WVpLbURyRXNLdDJuelJNT3VEVDdGbmJfRjh0NElBX0k3WE9uS0hYdDR5UkIwalhBMWh4WXpGM2JRY3gyTFBYZUc?oc=5",
         "description": "",
-        "pubDate": "2025-11-02T01:50:00Z",
+        "pubDate": "2025-11-02T02:50:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -844,7 +835,17 @@
         "bias": 0
       }
     ],
-    "Tech": [],
+    "Tech": [
+      {
+        "title": "Hurricane Melissa deals another heavy blow to Jamaica’s farmers and fishers - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVzQ2c2E1ckpKQXhDdGRudHVwNmlza2pPaFdXRU9vR0s3a091ZW0xeFE5R18zUHJ1cjhDSmktMmlLcjg2QlFqeVByT3VDYUVxRVhBU1BSM2c1OXdiWTl2cmYzSGZmNUhOTmlzM2cydU16LTBGTTFjTVFhQWxBZXlWd2ttVnoyYVJuU0lCTW55VS1ZTlhyQkhYdmpCbmIwYkpWakktdms4XzMtRnBf?oc=5",
+        "description": "",
+        "pubDate": "2025-11-02T09:28:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ],
     "Science": [],
     "Business": [
       {
@@ -877,21 +878,21 @@
     ],
     "Culture": [
       {
+        "title": "What to know about the 4 suspects in the Louvre crown jewels heist - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSzZGdTVydEtneGJjd2hHa2NBdmpVNzNQbjZIMFFrbTV4Rkp2TTQxU3F1dWJPOER0bmVNXzkwRmhUQUNDNE1DeXlwYmZVQk9JQ2p0c3RPX0o4VnBrYU8zVUsxc00wbWd1aDk5MFdPS1V5TklGQzdlR1BqZFVSU2pPODdOTnNlcnB4ZGlkQlhiVnkzSmJyaEdGTzFn?oc=5",
+        "description": "",
+        "pubDate": "2025-11-02T18:47:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Folk musician and BBC presenter dies aged 86",
         "link": "https://www.bbc.com/news/articles/cyv8g7gv9nno?at_medium=RSS&at_campaign=rss",
         "description": "The singer, songwriter and guitarist had presented BBC Radio Scotland's Travelling Folk from 1983 to 2010.",
         "pubDate": "2025-11-02T18:43:02Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41d9/live/035110c0-b7ea-11f0-9026-ddc9ee71c10d.png",
-        "bias": 0
-      },
-      {
-        "title": "What to know about the 4 suspects in the Louvre crown jewels heist - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSzZGdTVydEtneGJjd2hHa2NBdmpVNzNQbjZIMFFrbTV4Rkp2TTQxU3F1dWJPOER0bmVNXzkwRmhUQUNDNE1DeXlwYmZVQk9JQ2p0c3RPX0o4VnBrYU8zVUsxc00wbWd1aDk5MFdPS1V5TklGQzdlR1BqZFVSU2pPODdOTnNlcnB4ZGlkQlhiVnkzSmJyaEdGTzFn?oc=5",
-        "description": "",
-        "pubDate": "2025-11-02T16:50:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
