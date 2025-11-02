@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-11-02T14:17:59.894586Z",
+  "lastUpdate": "2025-11-02T14:33:29.182718Z",
   "news": {
     "Gaming": [
+      {
+        "title": "The Arctic Fox [Free] [Visual Novel] [Windows] [Linux]",
+        "link": "https://parrexion-games.itch.io/the-arctic-fox",
+        "description": "VN where 3 researchers get whisked away to help a powerful entity.",
+        "pubDate": "2025-11-02T14:06:08Z",
+        "source": "parrexion-games.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTA0NDMzLnBuZw==/315x250%23c/fcQvDd.png",
+        "bias": 0
+      },
       {
         "title": "Rolling Sky (IO) 4.7.4/4.7.5 [Free] [Android]",
         "link": "https://phocasteronix.itch.io/rolling-sky-io-474475",
@@ -93,15 +102,6 @@
         "bias": 0
       },
       {
-        "title": "TRICK or TAKEOVER [Free] [Other] [Windows]",
-        "link": "https://asek28.itch.io/trick-or-takeover",
-        "description": "Trick or Takeover: A Retro Halloween Arcade Thriller!",
-        "pubDate": "2025-11-02T13:18:56Z",
-        "source": "asek28.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTAzNjIwLnBuZw==/315x250%23c/dBm0fG.png",
-        "bias": 0
-      },
-      {
         "title": "Epic \"falling\" game [Free] [Windows]",
         "link": "https://red-leicester-cheese.itch.io/epic-falling-game",
         "description": "A low quality game I made to learn unity",
@@ -147,15 +147,6 @@
         "bias": 0
       },
       {
-        "title": "Pull Yourself Together [Free] [Other] [Windows]",
-        "link": "https://kraun-kinoko.itch.io/pull-yourself-together",
-        "description": "First-person 3D movable crane game",
-        "pubDate": "2025-11-02T13:01:17Z",
-        "source": "kraun-kinoko.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTAzMzQzLnBuZw==/315x250%23c/Gm4%2BEw.png",
-        "bias": 0
-      },
-      {
         "title": "Microderth [Free] [Adventure] [Windows]",
         "link": "https://erocol.itch.io/mikroderth",
         "description": "",
@@ -165,21 +156,21 @@
         "bias": 0
       },
       {
-        "title": "Pumpkin escape [Free]",
-        "link": "https://cyrilberre.itch.io/pumpkin-escape",
-        "description": "Run, your killer is behind you !",
-        "pubDate": "2025-11-02T12:45:34Z",
-        "source": "cyrilberre.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTAzMzcxLnBuZw==/315x250%23c/TnGNbl.png",
-        "bias": 0
-      },
-      {
         "title": "Crni bombarder [Free]",
         "link": "https://innernoise.itch.io/crni-bombarder",
         "description": "Kada u snu eksplodira septička jama",
         "pubDate": "2025-11-02T12:44:27Z",
         "source": "innernoise.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzOTA0MjcwLmpwZw==/315x250%23c/kvjaXk.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Ecometric Printing (WIP) [Free]",
+        "link": "https://the-quinnzite-mushroom.itch.io/ecometric-printing",
+        "description": "Print an ecosystem",
+        "pubDate": "2025-11-02T12:25:21Z",
+        "source": "the-quinnzite-mushroom.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTA0NDIyLnBuZw==/315x250%23c/lksMrv.png",
         "bias": 0
       },
       {
@@ -228,39 +219,12 @@
         "bias": 0
       },
       {
-        "title": "La Luz de Mandinga [Free] [Survival] [Windows]",
-        "link": "https://lautarocchi.itch.io/la-luz-de-mandinga",
-        "description": "Eje tematico Cultural, ofrecemos un videojuego de terror sobre la Luz de Mandinga",
-        "pubDate": "2025-11-02T11:07:26Z",
-        "source": "lautarocchi.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTAyMTcwLnBuZw==/315x250%23c/%2B%2FVUV7.png",
-        "bias": 0
-      },
-      {
-        "title": "S'pooky dream [Free] [Platformer] [Windows]",
-        "link": "https://asemedo.itch.io/spooky-dream",
-        "description": "Has perdido la cabeza y quizá algo más, sal de este sueño lo más entero que puedas",
-        "pubDate": "2025-11-02T11:02:51Z",
-        "source": "asemedo.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTAyMTU1LmpwZw==/315x250%23c/13VPhM.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Cloween | Zone'o'Ween 25 [Free] [Platformer] [Windows]",
-        "link": "https://mertm.itch.io/cloween",
-        "description": "",
-        "pubDate": "2025-11-02T11:01:46Z",
-        "source": "mertm.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTAzODMyLnBuZw==/315x250%23c/McdfBy.png",
-        "bias": 0
-      },
-      {
-        "title": "Life Could Be Dream [Free] [Other] [Windows]",
-        "link": "https://akinartuny.itch.io/life-could-be-dream",
-        "description": "Life Could Be Dream by DÜRÜMLE - ZoneOWeen Game Jam",
-        "pubDate": "2025-11-02T09:46:02Z",
-        "source": "akinartuny.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTAzMDI5LnBuZw==/315x250%23c/2s6443.png",
+        "title": "Radio Silence [Free] [Shooter]",
+        "link": "https://seyloj.itch.io/radio-silence",
+        "description": "Fend off endless waves of monsters",
+        "pubDate": "2025-11-02T10:19:00Z",
+        "source": "seyloj.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTAyNzY5LnBuZw==/315x250%23c/EmLSJX.png",
         "bias": 0
       },
       {
@@ -270,6 +234,15 @@
         "pubDate": "2025-11-02T09:07:07Z",
         "source": "eyeofstormcat.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzOTAzNzU4LnBuZw==/315x250%23c/EJ8Woo.png",
+        "bias": 0
+      },
+      {
+        "title": "Cookie Invader's [Free] [Shooter] [Windows]",
+        "link": "https://waddlesthewaffle.itch.io/cookie-invaders",
+        "description": "A cookie theme Space invaders",
+        "pubDate": "2025-11-02T04:50:26Z",
+        "source": "waddlesthewaffle.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzODk5NjgyLnBuZw==/315x250%23c/04udaJ.png",
         "bias": 0
       },
       {
@@ -309,6 +282,15 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d578/live/8a58e430-b7f4-11f0-9026-ddc9ee71c10d.jpg",
         "bias": 0
+      },
+      {
+        "title": "Nigeria ‘welcomes US assistance’ to fight ‘terrorism’ after Trump’s threats",
+        "link": "https://www.aljazeera.com/news/2025/11/2/nigeria-welcomes-us-assistance-to-fight-terrorism-after-trumps-threats?traffic_source=rss",
+        "description": "Nigeria's presidential spokesperson welcomes US assistance 'as long as it recognises our territorial integrity'.",
+        "pubDate": "2025-11-02T13:49:17Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Moroccans celebrate UN support for Rabat’s Western Sahara autonomy plan",
@@ -419,6 +401,15 @@
         "bias": -1
       },
       {
+        "title": "‘King of K-pop’ Lee Soo Man on his career, a global industry and what’s next - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWGI0Sks3UUhZRTFlMWlObEFJQXhJUUF6T0hXUkZJeDk2QzVOWkhEWmszX2x1T092SklMak9ZT0RNT0d0dHJLc3dSZ0x0Z2VKNzhFbHBGODZDOXZyYkZpVTl5VV9hb2dZbTRPZHVvVExVMEdybjJOY3VCZFpYT1BoWHhvR21KMTVEaU9SZnFEVmxhN3BtQTQ0?oc=5",
+        "description": "",
+        "pubDate": "2025-11-02T10:39:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Two Louvre heist suspects had prior theft conviction together, Paris prosecutor says - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS1lSMldvOHZUT25KdnJBamdMellsYWhFWUtEYVFvLWlHbXA1S2E3VjVRaTlLQUx5ZUllV2xIdUlkS0tDSjR0Ni1mLXpWUzlGSUFrQUcwamxSRUt5ZUZLd2dmeUpWbnFwajh4YkJwdTRXVjJycDJqeGxqWEhHeFo5Z25PbzF3dnJ2b1JpT1ZwS3Nwc19tS3FvRmxSUmlUd2t3Ry1TV1Y0VTNmQQ?oc=5",
         "description": "",
@@ -455,6 +446,15 @@
         "bias": 0
       },
       {
+        "title": "Smith's homer in 11th lifts Dodgers over Blue Jays 5-4 to become first repeat champion in 25 years - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOajFhTVVMbnlaRHZGaVlNa1JIR3ByTUkza054ZWVWNkR5c0JiNnMtTmdaTHdhOWgtZWFGMTZYNWlpVFQ1RHRUTnJUb1ZvOHVhOWE3M2JZVVMxeTRkczJJOEMzTElfc2ZUT3AzQXZpZnpYX2JNSzlSa3dTZHJ5c3Q2c3pTN0hheURZd2lWQ0J0dUR1YTk5WERaVmM1Q2s?oc=5",
+        "description": "",
+        "pubDate": "2025-11-02T09:37:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Fire at shop in Mexico kills 23, officials say",
         "link": "https://www.bbc.com/news/articles/c0mxxm49jggo?at_medium=RSS&at_campaign=rss",
         "description": "Local officials rule out an attack or act of deliberate violence against civilians as causes of the blaze.",
@@ -482,24 +482,6 @@
         "bias": -1
       },
       {
-        "title": "Smith's homer in 11th lifts Dodgers over Blue Jays 5-4 to become first repeat champion in 25 years - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOajFhTVVMbnlaRHZGaVlNa1JIR3ByTUkza054ZWVWNkR5c0JiNnMtTmdaTHdhOWgtZWFGMTZYNWlpVFQ1RHRUTnJUb1ZvOHVhOWE3M2JZVVMxeTRkczJJOEMzTElfc2ZUT3AzQXZpZnpYX2JNSzlSa3dTZHJ5c3Q2c3pTN0hheURZd2lWQ0J0dUR1YTk5WERaVmM1Q2s?oc=5",
-        "description": "",
-        "pubDate": "2025-11-02T08:37:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Dodgers great Clayton Kershaw ends his career unaware at first that he won the World Series again - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN2stTTRlbFNINUtfeWdhZEE5cjF3WHA0eXZWejV1dkZuZk9lV0Y4ak9mbnU0Smc1TzBwLXloc1FQV3BYOEhHX3R1UXF5QlItV2YwQ3NLd2M2TWV4dnlHWmFReVhiMjAxUGNiWGd4N0duTFpZU3NDbnIzYk9aaGxoMWh0WnR3MTBIWkFQaVljNEMxeDBHWXJjWVEzNTR4YXVyWDc0YmdZRkZPQQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-02T08:28:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "I blew the whistle on a massive tax scam - and they sued me",
         "link": "https://www.bbc.com/news/articles/c2kp19ed78wo?at_medium=RSS&at_campaign=rss",
         "description": "Jas Bains reflects a month on from the end of one of highest value civil cases ever heard in the UK.",
@@ -516,6 +498,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Dodgers great Clayton Kershaw ends his career unaware at first that he won the World Series again - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN2stTTRlbFNINUtfeWdhZEE5cjF3WHA0eXZWejV1dkZuZk9lV0Y4ak9mbnU0Smc1TzBwLXloc1FQV3BYOEhHX3R1UXF5QlItV2YwQ3NLd2M2TWV4dnlHWmFReVhiMjAxUGNiWGd4N0duTFpZU3NDbnIzYk9aaGxoMWh0WnR3MTBIWkFQaVljNEMxeDBHWXJjWVEzNTR4YXVyWDc0YmdZRkZPQQ?oc=5",
+        "description": "",
+        "pubDate": "2025-11-02T07:28:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Shohei Ohtani chased in third inning of World Series Game 7 after Bo Bichette’s 3-run HR - AP News",
@@ -579,15 +570,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Fire and explosion at store in northwestern Mexico leave at least 23 dead and a dozen injured - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeng3SGRTTDJFQ1N3aUY2SGxXcW9FekNKMzZiRklWazZjS016UW5LQVd6a3hpeGpnYm9RYTZVaXpaZk9hdmdqS3FaZmJwVnJoZXZnSkxZZ3A3czk0VlNFYndZcl9xbzlRc2VfUVN3NDhuTkltMTBVUktGRDlkS0cyX3p5Y2tLd095V0x1VnJnY05YbWpVdVNwSmt6aUZJRkU?oc=5",
-        "description": "",
-        "pubDate": "2025-11-02T06:12:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "“All bets are off” if Gaza truce collapses again",
@@ -662,10 +644,10 @@
         "bias": 0
       },
       {
-        "title": "Egypt unveils a huge new museum dedicated to its ancient civilization - AP News",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNl9TcjF0bnVDTXJfVkh3eGVWWGJ4LVZweWlYb0JERWp0ZFRjelBSWDZSTG9MNkdBZ3JrZ3dLTjA3S3JYdE1LYks5cG82LWdieV9qRFNQWDFLMUQ1MGVyeV9CdnVtZS1UclM4eWNlZUduZGxNVk9pSGdmZjhQckN5c0hpSVFzZzY5SmkyVkhNTDZyRWhHbzNZNkNyb2t0cmFubExZc2kwdDVmWVkwZzJpMUlOYmRNOGp3QkVaT3lOVnJKTjdyb3c?oc=5",
+        "title": "Fire and explosion at store in northwestern Mexico leave at least 23 dead and a dozen injured - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeng3SGRTTDJFQ1N3aUY2SGxXcW9FekNKMzZiRklWazZjS016UW5LQVd6a3hpeGpnYm9RYTZVaXpaZk9hdmdqS3FaZmJwVnJoZXZnSkxZZ3A3czk0VlNFYndZcl9xbzlRc2VfUVN3NDhuTkltMTBVUktGRDlkS0cyX3p5Y2tLd095V0x1VnJnY05YbWpVdVNwSmt6aUZJRkU?oc=5",
         "description": "",
-        "pubDate": "2025-11-02T05:07:00Z",
+        "pubDate": "2025-11-02T05:12:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -698,6 +680,15 @@
         "bias": -1
       },
       {
+        "title": "Egypt unveils a huge new museum dedicated to its ancient civilization - AP News",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNl9TcjF0bnVDTXJfVkh3eGVWWGJ4LVZweWlYb0JERWp0ZFRjelBSWDZSTG9MNkdBZ3JrZ3dLTjA3S3JYdE1LYks5cG82LWdieV9qRFNQWDFLMUQ1MGVyeV9CdnVtZS1UclM4eWNlZUduZGxNVk9pSGdmZjhQckN5c0hpSVFzZzY5SmkyVkhNTDZyRWhHbzNZNkNyb2t0cmFubExZc2kwdDVmWVkwZzJpMUlOYmRNOGp3QkVaT3lOVnJKTjdyb3c?oc=5",
+        "description": "",
+        "pubDate": "2025-11-02T04:07:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Prince William burnishes credentials as king-in-waiting with Earthshot Prize and COP30 in Brazil - AP News",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNclBoUmY1NGJiVmhSUVhJaW9TWXJsZ3A3dm5Pc0dMdzZaTTA4WExxQ183WGk1UGRPSUtIRGNWOEt6RWUyalRxMk9ZTWN1b1k4ZEpMNzFobmxLcHZ2b0dSYzBfYTJ4MU0tenltRDVuMHJBNVVzUkZ6SVdOYThZM0JGYXdTc2ZUTGRzTHNucTNFQ29Rd3YtQjY3UmMwNWhSdWVlUFNxVmxBTS1iV2FVN0VRMENmZw?oc=5",
         "description": "",
@@ -714,24 +705,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "New Yorkers could pick a political newcomer to run their city - and take on Trump",
-        "link": "https://www.bbc.com/news/articles/c3rjjdvx5r5o?at_medium=RSS&at_campaign=rss",
-        "description": "From hip-hop musician to the brink of running America's biggest city, how did Zohran Mamdani win over New Yorkers?",
-        "pubDate": "2025-11-02T03:49:34Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca5b/live/527e5070-b689-11f0-b027-61021c9d4006.jpg",
-        "bias": 0
-      },
-      {
-        "title": "US, China agree to set up military-to-military channels, Hegseth says",
-        "link": "https://www.aljazeera.com/news/2025/11/2/us-china-agree-to-set-up-military-to-military-channels-hegseth-says?traffic_source=rss",
-        "description": "Move comes after Trump-Xi summit yields progress on trade war and pledges to calm tensions.",
-        "pubDate": "2025-11-02T03:45:07Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
@@ -838,7 +811,16 @@
         "title": "UK police say 10 people in hospital after train stabbing attack, 9 with life-threatening injuries - AP News",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWUtJYkZHLWNYUzZ2WVVoQ25CNm1IcUttRUhGUm80WGphcmdHYmJCWElkLWNacmFmWGVNVDNKalQ4aUVYRlhydnFMUzhfTGFHWjA2Y1lfc3l4WGRQLVdLYVN0Vm1KVXNjWWQwV05LTDZ3ZzdyUmpLclpWUk5STGdsenc4Rm9OZy1WMmVrYkZTXzdveUds?oc=5",
         "description": "",
-        "pubDate": "2025-11-02T02:38:00Z",
+        "pubDate": "2025-11-02T03:38:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "NASCAR driver Kyle Busch sues insurance company for $8.5 million, alleging deceptive practices - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMHJqbU82VGhLWkZWWFlITEVvaHdHRWprTF9VbFhpSHlvLUxydDBwcVoya18zX0xWS2tWcTduV3Jjc3dmNXZiYS1VaExqTEFhRDVmRUVQLVI3WUREaUJGMHc2VmFNSDV4VERoTWd2VzN2SjNDNDVZcExLUURuTjlKTndQT0g5TkFLb0EyYg?oc=5",
+        "description": "",
+        "pubDate": "2025-11-02T02:56:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
