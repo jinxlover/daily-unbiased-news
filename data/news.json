@@ -1,14 +1,23 @@
 {
-  "lastUpdate": "2025-11-03T11:30:52.098725Z",
+  "lastUpdate": "2025-11-03T11:45:24.487736Z",
   "news": {
     "Gaming": [
       {
-        "title": "The Lost [Free]",
-        "link": "https://lolmadman54.itch.io/the-lost",
+        "title": "Youtube Premium (No-ROOT) [Free] [Android]",
+        "link": "https://nicubooster.itch.io/youtube-premium-no-root",
         "description": "",
-        "pubDate": "2025-11-03T11:23:40Z",
-        "source": "lolmadman54.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTE4MDYyLnBuZw==/315x250%23c/EWcZy1.png",
+        "pubDate": "2025-11-03T11:38:35Z",
+        "source": "nicubooster.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTE4MjE5LmpwZWc=/315x250%23c/NvW8BN.jpeg",
+        "bias": 0
+      },
+      {
+        "title": "vampire_t_1 [Free] [Action]",
+        "link": "https://geck564.itch.io/vampire-t-1",
+        "description": "",
+        "pubDate": "2025-11-03T11:25:37Z",
+        "source": "geck564.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTE4MDcyLnBuZw==/315x250%23c/Q7NDYo.png",
         "bias": 0
       },
       {
@@ -41,10 +50,19 @@
       {
         "title": "Out on the Ice - Demo [Free] [Adventure]",
         "link": "https://gorzylla.itch.io/out-on-the-ice",
-        "description": "Survival",
+        "description": "Home is so near, yet so far",
         "pubDate": "2025-11-03T10:58:25Z",
         "source": "gorzylla.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzOTE3OTk0LnBuZw==/315x250%23c/Pt0g1f.png",
+        "bias": 0
+      },
+      {
+        "title": "GhostHunter [Free] [Shooter]",
+        "link": "https://cosminqf.itch.io/ghosthunter",
+        "description": "You are a ghost hunter. Uninvited, you enter a house with the sole purpose to kill every single one of them",
+        "pubDate": "2025-11-03T10:55:14Z",
+        "source": "cosminqf.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTE4MTAyLnBuZw==/315x250%23c/DziV2d.png",
         "bias": 0
       },
       {
@@ -129,15 +147,6 @@
         "bias": 0
       },
       {
-        "title": "Hamtaro [Free] [Adventure]",
-        "link": "https://bardon.itch.io/hamtaro",
-        "description": "you are visiting Luisa's friends under the surface in Milan",
-        "pubDate": "2025-11-03T09:40:37Z",
-        "source": "bardon.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTE2Nzk1LnBuZw==/315x250%23c/CfLW6W.png",
-        "bias": 0
-      },
-      {
         "title": "Dualoween [Free] [Adventure]",
         "link": "https://remyrka.itch.io/dualoween",
         "description": "Have fun while you can",
@@ -162,15 +171,6 @@
         "pubDate": "2025-11-03T09:35:56Z",
         "source": "fkglr.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzOTE2NzU4LmdpZg==/315x250%23c/TpPXv3.gif",
-        "bias": 0
-      },
-      {
-        "title": "[20gc] #1 Pong [Free]",
-        "link": "https://manemj.itch.io/20gc-1-pong",
-        "description": "",
-        "pubDate": "2025-11-03T09:27:45Z",
-        "source": "manemj.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTE2OTA2LnBuZw==/315x250%23c/pHRIgb.png",
         "bias": 0
       },
       {
@@ -239,6 +239,24 @@
     ],
     "World": [
       {
+        "title": "Valencia leader resigns over handling of deadly floods",
+        "link": "https://www.bbc.com/news/articles/cr43d5yz3xxo?at_medium=RSS&at_campaign=rss",
+        "description": "A year after flash floods killed 229 people in the Valencia region, Carlos Mazón acknowledged \"mistakes\" were made.",
+        "pubDate": "2025-11-03T11:32:17Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e76/live/8b9cf780-b8a5-11f0-9418-d155a3381a50.jpg",
+        "bias": 0
+      },
+      {
+        "title": "The mothers who search for Mexico’s missing children",
+        "link": "https://www.aljazeera.com/features/2025/11/3/the-mothers-who-search-for-mexicos-missing-children?traffic_source=rss",
+        "description": "When their children disappeared, authorities failed to act, so grieving families were forced to search instead.",
+        "pubDate": "2025-11-03T11:20:36Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Israeli military's ex-top lawyer arrested as scandal over video leak deepens",
         "link": "https://www.bbc.com/news/articles/cy0kpd97qqko?at_medium=RSS&at_campaign=rss",
         "description": "Maj Gen Yifat Tomer-Yerushalmi resigned on Friday, admitting leaking the video allegedly showing abuse of a Palestinian detainee.",
@@ -246,6 +264,15 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76e7/live/6322eac0-b8a6-11f0-b2a1-6f537f66f9aa.jpg",
         "bias": 0
+      },
+      {
+        "title": "US “failed” after Israeli soldier killed Shireen Abu Akleh",
+        "link": "https://www.aljazeera.com/video/quotable/2025/11/3/us-failed-after-israeli-soldier-killed-shireen-abu-akleh?traffic_source=rss",
+        "description": "Former US colonel Steve Gabavics says that by covering up what it knew, the US only encouraged Israeli impunity",
+        "pubDate": "2025-11-03T11:12:21Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Health officials in Gaza say Israel has handed over the bodies of 45 Palestinians - AP News",
@@ -279,6 +306,15 @@
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX3VVVktNa1k3T3BMQ1paWDFudmlJU1V5alA1OEx4WGdtTnlRLUdabG9KN0Q1Y1VHV0lfTlVwRkdxVm5oNzg5SlQ5WE5nSUlaRk92ZDB6dW9oN0h6TTZNRzNVSVRJcjZKUHJlTHJ0d2Vxdy1MVENHNDQ1Z2duQVJzdGFCdGExWVowUWlN?oc=5",
         "description": "",
         "pubDate": "2025-11-03T10:13:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Tanzania’s President Hassan sworn in after disputed election sparks deadly protests - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY09BNFRWWUJNN1FTYXRJelRnU01STkFwUXlqWS1GODlSNGYwbndlVkdXOXZVbEZQZld0eHlJUUZQakxTUGtsMHgtcFZPM2M2enIwUExBWndCQmZNTHU1UjdTSDJSdF80aHlEQmN3MEZYZUN5a01vV2xONVU4b1p2VG1XTkhXTG82Ul9uNmhDbk8zQVFZRUt5azFXS3Rldw?oc=5",
+        "description": "",
+        "pubDate": "2025-11-03T10:05:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -390,6 +426,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Ukraine gets more Patriot air defense systems to counter deadly Russian attacks - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdFpodE1vWDRUT3lzc1g4eTNSNzFoTmtWMURXTFZDcXRVV2pVcWIwb1BWbkhxTkVRQmdleVBpVGU2bGFYYjk2QmNRaTVidlRJZDhnWEd0UU8wel9fSG5EQUxyaE1GeHlwQWg3UG14Y1R6VzI0U0ppZTF3aVBXbEJZSXZHQnM5V2JVTEpwdnJjXzViNUZpVTNJeEJEWG9qZmQ0RmhyMW1R?oc=5",
+        "description": "",
+        "pubDate": "2025-11-03T09:14:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Trump's planned tests are 'not nuclear explosions', US energy secretary says",
@@ -642,51 +687,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Trump says he ‘won’t be extorted’ by Democrats, shuns negotiations as shutdown drags on - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS0VFblowMThDb3VCa0JWbUMtZnNaVlNXdHozNVFmRlpDUl9pdUl2YlY5cVJLb2lOWVJ4RWoyTjlhNFRGSGpFNVltV3FTOUtfOUM4TzA2bjB4MTBYMUs5dTE3U2hianctSUtnbkFxZ2ZMZEYtM3BQWnhzcTlkXzNySTJqczJuWkd4U285dXg0V2tnSU9TN2c0?oc=5",
-        "description": "",
-        "pubDate": "2025-11-03T02:30:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Jaguars’ Cam Little kicks a 68-yard field goal to break Justin Tucker’s NFL record - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbS1TYmgxRk5BZEpoNUlabzlYTWRyNzMyeFUtYnF2OERXRkJGaHFKWmxndjFMZ1Fad01VVDhOTUlHWHR2UWgxdFhDSVh5dHAyM0J4TGhwWXhINTdtS3U0UG54bTZmNDRUOUdXRy1aLVJCdlpIbjZhQVhMaXVzTHdxTnJyTEg5VWNqMEFMcGFBTFYxdGgzU1BnLXlVdGl0NFphdlE?oc=5",
-        "description": "",
-        "pubDate": "2025-11-03T02:09:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "India wins Women’s Cricket World Cup for first time with 52-run victory over South Africa - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS18zZElNR1NORnZ0QUpkVS15YktCYXNyeWZDNGJQTGV1eVh0YnBGN2xPRlp1azBfaXhsNm1lMnlfNl81eHBmYV9LQ0VfdWR3eUJPMVlhbmFsVzVaaUFXZ0xvWXBLaUZYVW5PWkdBNEtYbWl1dHVTdTkzS05ZZDJJQ1lldXNEbE1CR1JvQXFLNWVjT1RZcndUcnQ0V0tvR2NXMzNz?oc=5",
-        "description": "",
-        "pubDate": "2025-11-03T02:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "What to know as Nigeria rejects US military threat over alleged Christian killings - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVE04WXdkSElyNGlhUC1jakJJTGI2ZlRvdmQtMHMtVEloOG1MMmFITjh5Y2NKRmZMZmRYTUdyWG1IYXI5VjhiZFd0emtiZnhwMHFhT2RXamR6ZTM4S2FuZmJPWVhJS3pxaVdYZExMNFVqVGNXeGt1d09qY1lIUkZ0U01tR2pSVEZnb3M3ZnJEX0pIbWktTGYtVzhuTng?oc=5",
-        "description": "",
-        "pubDate": "2025-11-03T01:47:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Russia-Ukraine war: List of key events, day 1,348",
-        "link": "https://www.aljazeera.com/news/2025/11/3/russia-ukraine-war-list-of-key-events-day-1348?traffic_source=rss",
-        "description": "Here are the key events from day 1,348 of Russia’s war on Ukraine.",
-        "pubDate": "2025-11-03T01:35:52Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
@@ -700,15 +700,6 @@
         "bias": 0
       },
       {
-        "title": "Andrew Cuomo fights for his political life and his version of the Democratic Party",
-        "link": "https://www.npr.org/2025/11/03/nx-s1-5594845/andrew-cuomo-nyc-mayor-race-zohran-mamdani",
-        "description": "Former N.Y. Gov. Andrew Cuomo has a long list of accomplishments, many of them progressive. In the race for New York City mayor, that experience hasn't given him the boost he wanted.",
-        "pubDate": "2025-11-03T10:00:00Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "Democratic voters say California's Prop 50 gives them a way to 'counteract' Trump",
         "link": "https://www.npr.org/2025/11/03/g-s1-96207/california-redistricting-prop-50-trump",
         "description": "Many voters told NPR they like that California's redistricting measure provides the Democratic-leaning state a rare opportunity to directly counteract President Trump and other Republicans.",
@@ -718,9 +709,18 @@
         "bias": -1
       },
       {
+        "title": "Andrew Cuomo fights for his political life and his version of the Democratic Party",
+        "link": "https://www.npr.org/2025/11/03/nx-s1-5594845/andrew-cuomo-nyc-mayor-race-zohran-mamdani",
+        "description": "Former N.Y. Gov. Andrew Cuomo has a long list of accomplishments, many of them progressive. In the race for New York City mayor, that experience hasn't given him the boost he wanted.",
+        "pubDate": "2025-11-03T10:00:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Trump's National Guard deployments aren't random. They were planned years ago",
         "link": "https://www.npr.org/2025/11/03/nx-s1-5593112/national-guard-mass-deportations-trump-2026",
-        "description": "President Trump and several others now high up in his second administration have been talking about using the National Guard to help with mass deportations -- and possibly invoking the Insurrection Act -- for years. Now, those plans might be playing out.",
+        "description": "President Trump and several others now high up in his second administration have been talking about using the National Guard to help with mass deportations — and possibly invoking the Insurrection Act — for years. Now, those plans might be playing out.",
         "pubDate": "2025-11-03T10:00:00Z",
         "source": "npr.org",
         "image": "",
@@ -776,6 +776,15 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRllaeS1GTjlMbE41cEktYm5XdXVuZVFIQ2tvTDZ1MXoyQ0l1anFmZ3NNNHZaR1lxRExrSmx5d0F0dmtOMDFkUTBzMzIwcmxxTzlCX3E1T2lXb3ZtRUhUQUdoaFNBUGdRR1ZXZkxvRHdQbXI1T0dRemVOb2N4VEV1Rk9XbXFoQ21YWndTLVk4NnZueXU3ei0w?oc=5",
         "description": "",
         "pubDate": "2025-11-03T02:37:30Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Auburn fires coach Hugh Freeze following 12th loss in his last 15 SEC games - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZENTM055OEVid1R2cTRRemo5NGZGNWlkekFVeFRoN2ZZaFZxSUx1ZTc3Y09oQU1ZdXFkaEdvOURSZ0NKSDRJZ2N3QmdNWVpZWGo0VFFSTVJnenVjYTdsaUZQWHFreWh1Zko5OTVJTVQwanZTZHljdjFEeHpvSW9yU1pYNHdiVDlKTjNhWQ?oc=5",
+        "description": "",
+        "pubDate": "2025-11-03T01:16:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -888,9 +897,9 @@
         "bias": 0
       },
       {
-        "title": "Sir Anthony Hopkins: It's such a miracle being alive",
+        "title": "'Anger and revenge': Anthony Hopkins on how being bullied at school spurred him on",
         "link": "https://www.bbc.com/news/articles/crmxv3m8mwzo?at_medium=RSS&at_campaign=rss",
-        "description": "Sir Anthony Hopkins, bullied and written off as a child, says he vowed to \"show\" his parents that he'd succeed.",
+        "description": "The veteran star describes himself as \"a cold fish\", who withdrew into himself as a defence mechanism.",
         "pubDate": "2025-11-03T06:08:29Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05b9/live/b48aa0c0-b2c9-11f0-a5c0-ef5cf5ad43f4.jpg",
