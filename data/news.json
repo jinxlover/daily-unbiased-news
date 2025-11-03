@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2025-11-03T10:23:06.389912Z",
+  "lastUpdate": "2025-11-03T10:46:37.507960Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Tower Defense [Free] [Strategy]",
+        "link": "https://maze-dev.itch.io/tower-defense",
+        "description": "tower defense",
+        "pubDate": "2025-11-03T10:33:24Z",
+        "source": "maze-dev.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTE3MzU2LnBuZw==/315x250%23c/wsV5PE.png",
+        "bias": 0
+      },
+      {
+        "title": "Pumpkin and Skulls [Free] [Shooter] [Windows]",
+        "link": "https://yaroslav3993.itch.io/pumpkin-and-skulls",
+        "description": "Pumpkin and Skulls is a Roguelike game!",
+        "pubDate": "2025-11-03T10:17:05Z",
+        "source": "yaroslav3993.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTE3MjQxLnBuZw==/315x250%23c/CLZYb1.png",
+        "bias": 0
+      },
+      {
+        "title": "Signal [Free] [Interactive Fiction]",
+        "link": "https://pitza.itch.io/signal",
+        "description": "",
+        "pubDate": "2025-11-03T10:14:40Z",
+        "source": "pitza.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTE3NDQ5LnBuZw==/315x250%23c/7oZV8d.png",
+        "bias": 0
+      },
+      {
+        "title": "Undertale Colored Tile Maze in PuzzleScript [Free] [Puzzle]",
+        "link": "https://tvf.itch.io/undertale-colored-tile-maze-in-puzzlescript",
+        "description": "A recreation of the colored tile maze from Undertale, made with PuzzleScript",
+        "pubDate": "2025-11-03T10:03:39Z",
+        "source": "tvf.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTE3MDE2LnBuZw==/315x250%23c/8G4oKX.png",
+        "bias": 0
+      },
       {
         "title": "Beaky Blunders [Free]",
         "link": "https://gc002.itch.io/beaky-blunders",
@@ -27,6 +63,15 @@
         "pubDate": "2025-11-03T09:37:34Z",
         "source": "remyrka.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzOTE2OTA3LnBuZw==/315x250%23c/yrzmG1.png",
+        "bias": 0
+      },
+      {
+        "title": "After the rain [Free]",
+        "link": "https://fkglr.itch.io/after-the-rain",
+        "description": "Submission for Comfy Jam: Autumn",
+        "pubDate": "2025-11-03T09:35:56Z",
+        "source": "fkglr.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTE2NzU4LmdpZg==/315x250%23c/TpPXv3.gif",
         "bias": 0
       },
       {
@@ -75,6 +120,15 @@
         "bias": 0
       },
       {
+        "title": "XORBIUS Lite (Playdate exclusive demo) [Free] [Shooter]",
+        "link": "https://cowtoolsbebop.itch.io/xorbius-lite",
+        "description": "One enemy. One powerup. Unlimited XORBIUS.",
+        "pubDate": "2025-11-03T08:22:54Z",
+        "source": "cowtoolsbebop.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTE2MjUwLnBuZw==/315x250%23c/h2VRPa.png",
+        "bias": 0
+      },
+      {
         "title": "Demon Harvest [Free]",
         "link": "https://darcproducts.itch.io/demon-harvest",
         "description": "",
@@ -102,24 +156,6 @@
         "bias": 0
       },
       {
-        "title": "Behind the Door [Free] [Other] [Windows]",
-        "link": "https://parsahp2.itch.io/behind-the-door",
-        "description": "This is a short horror game made for a game jam",
-        "pubDate": "2025-11-03T07:20:25Z",
-        "source": "parsahp2.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTE1NzE3LnBuZw==/315x250%23c/n%2FlUVu.png",
-        "bias": 0
-      },
-      {
-        "title": "What's Inside That Egg? [Free]",
-        "link": "https://ozymandiazz.itch.io/whats-inside-that-egg",
-        "description": "",
-        "pubDate": "2025-11-03T07:20:23Z",
-        "source": "ozymandiazz.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTE1NjIzLnBuZw==/315x250%23c/JMmcA5.png",
-        "bias": 0
-      },
-      {
         "title": "The Brim [Free] [Other] [Windows] [Linux]",
         "link": "https://binhawk.itch.io/the-brim",
         "description": "",
@@ -129,39 +165,12 @@
         "bias": 0
       },
       {
-        "title": "Yui [Free] [Visual Novel]",
-        "link": "https://yonezawa.itch.io/yui",
-        "description": "A story of Androids, and lifes.",
-        "pubDate": "2025-11-03T06:59:36Z",
-        "source": "yonezawa.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTE1MjQ0LnBuZw==/315x250%23c/GpJmIV.png",
-        "bias": 0
-      },
-      {
-        "title": "Echo Tracker - A Hunter's Record [Free] [Action] [Windows] [Linux]",
-        "link": "https://armoredbear10.itch.io/echo-tracker-a-hunters-record",
-        "description": "A prototype of an Action RPG that will be in early acess",
-        "pubDate": "2025-11-03T06:51:11Z",
-        "source": "armoredbear10.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTE1NDA1LnBuZw==/315x250%23c/iOQu83.png",
-        "bias": 0
-      },
-      {
         "title": "(ベータ)高難易度ボスラッシュRPG：試練の玉座 — Throne of Trials [Free] [Role Playing]",
         "link": "https://atu-rpg.itch.io/rpgthrone-of-trial",
         "description": "キャラ編成、装備、スキルのビルドで挑む、王道のコマンド制高難度ボス戦RPG。",
         "pubDate": "2025-11-03T06:47:49Z",
         "source": "atu-rpg.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzOTE2MzI0LnBuZw==/315x250%23c/7Fe1sD.png",
-        "bias": 0
-      },
-      {
-        "title": "You and Me+ [Free] [Visual Novel] [Windows]",
-        "link": "https://uraalice.itch.io/you-and-me",
-        "description": "I want to crawl inside you.",
-        "pubDate": "2025-11-03T06:31:23Z",
-        "source": "uraalice.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTE1NDQxLnBuZw==/315x250%23c/3Nwyu%2F.png",
         "bias": 0
       },
       {
@@ -192,15 +201,6 @@
         "bias": 0
       },
       {
-        "title": "FOOB [Free] [Puzzle]",
-        "link": "https://ectoplasm7.itch.io/foob",
-        "description": "",
-        "pubDate": "2025-11-03T04:26:46Z",
-        "source": "ectoplasm7.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTE1NzEwLnBuZw==/315x250%23c/6bW91e.png",
-        "bias": 0
-      },
-      {
         "title": "WEBSWEEPER [Free] [Adventure]",
         "link": "https://gm637legend.itch.io/websweeper",
         "description": "Make the most optimal food hoarding webs and try not to trigger landmines!",
@@ -210,16 +210,34 @@
         "bias": 0
       },
       {
-        "title": "Rogue City Wars [Free] [Fighting]",
-        "link": "https://marvelousmorales.itch.io/rogue-city-wars",
-        "description": "",
-        "pubDate": "2025-11-03T00:01:36Z",
-        "source": "marvelousmorales.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTExOTcxLnBuZw==/315x250%23c/iZomUJ.png",
+        "title": "Devout Defense [Free] [Strategy]",
+        "link": "https://reydahlia.itch.io/devout-defense",
+        "description": "Defend the shrine!",
+        "pubDate": "2025-11-03T03:01:09Z",
+        "source": "reydahlia.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTE3NTA1LnBuZw==/315x250%23c/%2FmCd2S.png",
         "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Public barred as Tanzanian president sworn in",
+        "link": "https://www.bbc.com/news/articles/cpv1ddevk9go?at_medium=RSS&at_campaign=rss",
+        "description": "President Samia faced little opposition with key rivals either imprisoned or barred from running.",
+        "pubDate": "2025-11-03T10:28:15Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e88a/live/7d822e10-b885-11f0-99da-a306320c59e6.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Day of the Dead celebrations around the world",
+        "link": "https://www.aljazeera.com/gallery/2025/11/3/day-of-the-dead-celebrations-around-the-world?traffic_source=rss",
+        "description": "El Dia de los Muertos is especially popular in Mexico but is also observed in other countries.",
+        "pubDate": "2025-11-03T10:25:52Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Gender inequality accelerates Japan's rural depopulation",
         "link": "https://www.npr.org/2025/11/03/g-s1-95310/japan-population-decline-gender-inequality",
@@ -293,6 +311,15 @@
         "bias": 0
       },
       {
+        "title": "US futures, world shares advance, led by tech stocks, after another week of gains for Wall St - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdVVTaThlZXFFdmhvZ0d0TFZJR2ZhR0RNT2xwMzFCb2QwTlc1bzVsY2R6Z0YtYWhUYS1WR181cjhNUThWUnh1MU1OV2l3ZHFtbi1XQ0w2RExldDNiZUlLWmxDUnBROXBYTnZwV014eXVLWHRpc2xfTTdXQXJUN1ZieUluTnZmMXd2LWUzSXRPX3QwZFU?oc=5",
+        "description": "",
+        "pubDate": "2025-11-03T09:36:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Clooney says Harris replacing Biden was a 'mistake'",
         "link": "https://www.bbc.com/news/articles/ceq01zn52z4o?at_medium=RSS&at_campaign=rss",
         "description": "But the actor adds that he has no regrets about calling for Biden to quit the US presidential race.",
@@ -313,20 +340,11 @@
       {
         "title": "UK police charge Anthony Williams with attempted murder over train stabbing",
         "link": "https://www.aljazeera.com/news/2025/11/3/uk-police-charge-man-with-11-counts-of-attempted-murder-over-train-stabbing?traffic_source=rss",
-        "description": "Attack on London-bound service injured multiple passengers, including two critically.",
+        "description": "Man, 32, accused in attack on London-bound service that injured 11 passengers, including two critically.",
         "pubDate": "2025-11-03T09:23:03Z",
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Tanzania president sworn in after election marred by violence",
-        "link": "https://www.bbc.com/news/articles/cpv1ddevk9go?at_medium=RSS&at_campaign=rss",
-        "description": "President Samia faced little opposition with key rivals either imprisoned or barred from running.",
-        "pubDate": "2025-11-03T09:21:00Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e88a/live/7d822e10-b885-11f0-99da-a306320c59e6.jpg",
-        "bias": 0
       },
       {
         "title": "UK police charge man with attempted murder over train stabbing that wounded 11 people - AP News",
@@ -536,6 +554,15 @@
         "bias": 0
       },
       {
+        "title": "California law to protect Jewish students faces challenge over free speech concerns - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVTJKdENyVXNvcV9rczJrOGZPNjllbTNoMUlxU0hOamlsRGFrVW1EVndaeDNHVHFuSThHR245YlFXZjdUR2RSRUJ3Y1RxRnpwT1lSQ2w4Yk9hOG1jMkhSRUJsWnpUTFZMTzl0VnNVYTVnaHdvOHV4a2N0a1JnSTJPRk11UW9GZjMxRmFLbUhwZHlzYzh4QWNCaDFBbkIxRTg?oc=5",
+        "description": "",
+        "pubDate": "2025-11-03T05:01:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "LIVE: Israeli air raids hit Gaza; 2 Palestinians killed in West Bank",
         "link": "https://www.aljazeera.com/news/liveblog/2025/11/3/live-israel-kills-palestinian-in-gaza-city-hamas-returns-3-bodies?traffic_source=rss",
         "description": "Israeli forces resume attacks on Khan Younis while its forces kill two people in occupied West Bank.",
@@ -572,15 +599,6 @@
         "bias": -1
       },
       {
-        "title": "Shares in Asia advance, led by tech stocks, after another week of gains for Wall St - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdVVTaThlZXFFdmhvZ0d0TFZJR2ZhR0RNT2xwMzFCb2QwTlc1bzVsY2R6Z0YtYWhUYS1WR181cjhNUThWUnh1MU1OV2l3ZHFtbi1XQ0w2RExldDNiZUlLWmxDUnBROXBYTnZwV014eXVLWHRpc2xfTTdXQXJUN1ZieUluTnZmMXd2LWUzSXRPX3QwZFU?oc=5",
-        "description": "",
-        "pubDate": "2025-11-03T04:23:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Mississippi woman kills escaped monkey fearing for her children’s safety - AP News",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYWwtS252cnpheHBtVFNwTUcwaTM1YWl5T29wRFdXRDJ0OW1Ba1RCellQRmd2QjI3LXFWV1YwLXUxRGJvMDBkYlVKN1JLcVJZZWotZW13WWJEcTJpemN3TEEzTWJ1Vm1jVlhvZXBLUUdReFBYUmJQRXBuUEU0UHA5ZHBFOEdDQlNxYzZaeHVwYzlDWDhDeVAxcEtmc28yTzdVRURB?oc=5",
         "description": "",
@@ -594,15 +612,6 @@
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVnl3SnpZMVRuSmktMnpkUWdidGo4TzlaZlNNVEpaUVJXUXAtSE05V1JkTWtJZkhIampYWFRWVFBvOWc5TlhNX2hoZGVzZWNqV2dEOVlVelpFQ29YcExVNjlVR0FKZ18zbVR4MDViR0QyOGVHd0dvUnpHQVczcmFGRFlPSFZTMHdoSDRmVDliaHIwS3E3dl9xYTJvY2hZTllIaXJmUkJGeUY2WkFnTmxaX3JScG5LLXVGSE1jeG1EVEF2SFlkTHlsbWZMY2VOWG9CeGEwamNtMWVleE1qRmhVcw?oc=5",
         "description": "",
         "pubDate": "2025-11-03T03:05:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Allen has 3 TDs and Bills use sturdy defense to top Mahomes and Chiefs 28-21 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRllaeS1GTjlMbE41cEktYm5XdXVuZVFIQ2tvTDZ1MXoyQ0l1anFmZ3NNNHZaR1lxRExrSmx5d0F0dmtOMDFkUTBzMzIwcmxxTzlCX3E1T2lXb3ZtRUhUQUdoaFNBUGdRR1ZXZkxvRHdQbXI1T0dRemVOb2N4VEV1Rk9XbXFoQ21YWndTLVk4NnZueXU3ei0w?oc=5",
-        "description": "",
-        "pubDate": "2025-11-03T02:37:30Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -660,22 +669,22 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Israel says it received remains of 3 hostages from Gaza as fragile ceasefire holds",
-        "link": "https://www.npr.org/2025/11/02/nx-s1-5594899/israel-hostages-gaza-ceasefire",
-        "description": "Israel says the remains of three hostages have been handed over from Gaza and will be examined by forensic experts as a month-old ceasefire holds.",
-        "pubDate": "2025-11-03T01:26:04Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
       {
-        "title": "Trump's National Guard deployments aren't random. They were planned years ago",
-        "link": "https://www.npr.org/2025/11/03/nx-s1-5593112/national-guard-mass-deportations-trump-2026",
-        "description": "President Trump and several others now high up in his second administration have been talking about using the National Guard to help with mass deportations -- and possibly invoking the Insurrection Act -- for years. Now, those plans might be playing out.",
+        "title": "Labour MPs back gambling tax to fight child poverty",
+        "link": "https://www.bbc.com/news/articles/cy7evm5vj1zo?at_medium=RSS&at_campaign=rss",
+        "description": "Nearly a quarter of Labour MPs say increasing taxes could enable to the government to lift the two-child benefit cap.",
+        "pubDate": "2025-11-03T10:33:38Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6453/live/86fd0760-b896-11f0-b84d-4fb96522f06d.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Andrew Cuomo fights for his political life and his version of the Democratic Party",
+        "link": "https://www.npr.org/2025/11/03/nx-s1-5594845/andrew-cuomo-nyc-mayor-race-zohran-mamdani",
+        "description": "Former N.Y. Gov. Andrew Cuomo has a long list of accomplishments, many of them progressive. In the race for New York City mayor, that experience hasn't given him the boost he wanted.",
         "pubDate": "2025-11-03T10:00:00Z",
         "source": "npr.org",
         "image": "",
@@ -691,9 +700,9 @@
         "bias": -1
       },
       {
-        "title": "Andrew Cuomo fights for his political life and his version of the Democratic Party",
-        "link": "https://www.npr.org/2025/11/03/nx-s1-5594845/andrew-cuomo-nyc-mayor-race-zohran-mamdani",
-        "description": "Former N.Y. Gov. Andrew Cuomo has a long list of accomplishments, many of them progressive. In the race for New York City mayor, that experience hasn't given him the boost he wanted.",
+        "title": "Trump's National Guard deployments aren't random. They were planned years ago",
+        "link": "https://www.npr.org/2025/11/03/nx-s1-5593112/national-guard-mass-deportations-trump-2026",
+        "description": "President Trump and several others now high up in his second administration have been talking about using the National Guard to help with mass deportations -- and possibly invoking the Insurrection Act -- for years. Now, those plans might be playing out.",
         "pubDate": "2025-11-03T10:00:00Z",
         "source": "npr.org",
         "image": "",
@@ -718,15 +727,6 @@
         "bias": -1
       },
       {
-        "title": "Japan bursts with pride as Dodgers’ victory showcases homegrown heroes - AP News",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSXpBSzUtS0JHQnpsVVFYc19rbm55OUU5MjFnVTNjWmpYVTJfaDVHWGxFNnlMRThSVHdLUXVPS0h1S1hBbWpIM2d6UjlNTU5tZTBlYklxMk4yalJyVUNQeUdTUWE0WDlkczZKQjdXWHdQNGNsbmpreE9admVwaU0wU0FHUW50N2RZMEFGel9iem1zQTRRY3BhUXdzVHY2djJ5elpzQnMzbG03ektnTXZfM3ctRmtPT2VCbmMtOVd3QmxNTHpnenc?oc=5",
-        "description": "",
-        "pubDate": "2025-11-03T07:21:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Trump administration faces Monday deadline on use of contingency funds for SNAP",
         "link": "https://www.npr.org/2025/11/03/g-s1-96296/trump-deadline-contingency-funds-snap",
         "description": "President Trump's administration faces deadlines on Monday to tell two federal judges whether it will continue to fund SNAP, the nation's biggest food aid program, using contingency funds.",
@@ -740,6 +740,15 @@
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcXgwXzFhYURFcUpLRWU2cTlKVENsOXhwMXBETnhyVzFqa2N5ZV91R24wU09xVHlnQkJBcWlzUHFJa1ltQnB5RDNIejZ5Z1MtRjd3VlhLYUtteTc5Nmd4U05TdzRTZndNTzZuM3k3SE5UMDFVS2hZN20xSGlZRnlKY1N2aHBvX3FjUVB4a2hWYTNOZ2tkM2xyWHVXOERGRHZRWHNmR2VEcVVmczlp?oc=5",
         "description": "",
         "pubDate": "2025-11-03T05:05:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Allen has 3 TDs and Bills use sturdy defense to top Mahomes and Chiefs 28-21 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRllaeS1GTjlMbE41cEktYm5XdXVuZVFIQ2tvTDZ1MXoyQ0l1anFmZ3NNNHZaR1lxRExrSmx5d0F0dmtOMDFkUTBzMzIwcmxxTzlCX3E1T2lXb3ZtRUhUQUdoaFNBUGdRR1ZXZkxvRHdQbXI1T0dRemVOb2N4VEV1Rk9XbXFoQ21YWndTLVk4NnZueXU3ei0w?oc=5",
+        "description": "",
+        "pubDate": "2025-11-03T02:37:30Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -762,15 +771,6 @@
         "pubDate": "2025-11-03T06:16:03Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e98d/live/ce0da0e0-b866-11f0-a5f8-e5ce007898e4.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Kyle Larson wins second NASCAR championship, denying Denny Hamlin in overtime - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYVVOaVRtcksxcmhGSjZOd1lvUTN0THpSX0QzYjdPVTd5MjltMkJhVV9iVnRVaFUyRHBXVkotTjNxbExyMEVWSVhYZGc2bnNHTDBmU0dtMENYTm5GZ2tGXzQ4ZEpuVW9pMk9LV3ZLbFJZNmZvd1EwRlZ5cFl0U2tsVVZVVUNfbWN2REQwVkU4OGp0YjBWRVRfdGVlRk05MFI4VHZHMHJjUUxPYU1BT1FBdnZJUQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-03T01:55:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       }
     ],
@@ -836,7 +836,7 @@
       {
         "title": "Sir Anthony Hopkins: It's such a miracle being alive",
         "link": "https://www.bbc.com/news/articles/crmxv3m8mwzo?at_medium=RSS&at_campaign=rss",
-        "description": "Sir Anthony Hopkins, bullied and written off as a child, vowed to \"show\" his parents that he'd succeed.",
+        "description": "Sir Anthony Hopkins, bullied and written off as a child, says he vowed to \"show\" his parents that he'd succeed.",
         "pubDate": "2025-11-03T06:08:29Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05b9/live/b48aa0c0-b2c9-11f0-a5c0-ef5cf5ad43f4.jpg",
