@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-03T14:44:52.802553Z",
+  "lastUpdate": "2025-11-03T14:55:24.302613Z",
   "news": {
     "Gaming": [
       {
@@ -18,6 +18,15 @@
         "pubDate": "2025-11-03T14:25:57Z",
         "source": "ybladie.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzOTIwNDI4LnBuZw==/315x250%23c/h99VdP.png",
+        "bias": 0
+      },
+      {
+        "title": "Agile - Portals [Free] [Shooter] [Windows] [Linux]",
+        "link": "https://goldangelcorp.itch.io/agile-portals",
+        "description": "Spaceship fast-pace game",
+        "pubDate": "2025-11-03T14:23:41Z",
+        "source": "goldangelcorp.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTIwNDA1LnBuZw==/315x250%23c/kC%2B6bv.png",
         "bias": 0
       },
       {
@@ -111,6 +120,15 @@
         "bias": 0
       },
       {
+        "title": "PEPERITO: 14º Desafio IndieHero [Free]",
+        "link": "https://inkeye.itch.io/peperito",
+        "description": "",
+        "pubDate": "2025-11-03T13:39:16Z",
+        "source": "inkeye.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTIwNTEzLnBuZw==/315x250%23c/aP90oF.png",
+        "bias": 0
+      },
+      {
         "title": "Alienout Run [Free] [Adventure]",
         "link": "https://jazzkatten.itch.io/alienout-run",
         "description": "",
@@ -192,15 +210,6 @@
         "bias": 0
       },
       {
-        "title": "RugbyHISPANIA [Free] [Sports]",
-        "link": "https://jeltyxx.itch.io/rugbyhispania",
-        "description": "A realistic rugby team management game in Spain",
-        "pubDate": "2025-11-03T12:57:08Z",
-        "source": "jeltyxx.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTE5MzA1LnBuZw==/315x250%23c/3SKMju.png",
-        "bias": 0
-      },
-      {
         "title": "Orbion One [Free] [Windows]",
         "link": "https://alexr012.itch.io/orbion-one",
         "description": "Un lanzador donde pueden organizar todos sus juegos y emuladores, haciendo una magnifica biblioteca.",
@@ -216,15 +225,6 @@
         "pubDate": "2025-11-03T12:46:49Z",
         "source": "konako39.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzOTE5MTM3LnBuZw==/315x250%23c/bkAu21.png",
-        "bias": 0
-      },
-      {
-        "title": "Stemwind [Free] [Puzzle]",
-        "link": "https://wefeth.itch.io/stemwind",
-        "description": "Puzzlegame with a focus on solving different puzzles with the use of the different seasons",
-        "pubDate": "2025-11-03T12:46:30Z",
-        "source": "wefeth.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTE4OTM3LnBuZw==/315x250%23c/OLbtcC.png",
         "bias": 0
       },
       {
@@ -257,6 +257,24 @@
     ],
     "World": [
       {
+        "title": "Thousands evacuated as Typhoon Kalmaegi approaches the Philippines",
+        "link": "https://www.aljazeera.com/news/2025/11/3/thousands-evacuated-as-typhoon-kalmaegi-approaches-the-philippines?traffic_source=rss",
+        "description": "More than 70,000 people ordered to leave their homes as torrential rains, strong winds and storm surges forecast.",
+        "pubDate": "2025-11-03T14:20:14Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Israel arrests ex-army lawyer over leaked video showing Palestinian’s abuse",
+        "link": "https://www.aljazeera.com/news/2025/11/3/israel-arrests-ex-army-lawyer-over-leaked-video-showing-palestinians-abuse?traffic_source=rss",
+        "description": "Yifat Tomer-Yerushalmi reportedly acknowledged that her office released video of troops abusing a Palestinian detainee.",
+        "pubDate": "2025-11-03T14:13:40Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Israeli military's ex-top lawyer arrested as scandal over video leak deepens",
         "link": "https://www.bbc.com/news/articles/cy0kpd97qqko?at_medium=RSS&at_campaign=rss",
         "description": "Maj Gen Yifat Tomer-Yerushalmi resigned on Friday, admitting leaking a video allegedly showing abuse of a Palestinian detainee.",
@@ -282,6 +300,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Drones seen over Belgian military base for third night, minister says",
+        "link": "https://www.bbc.com/news/articles/c20e8qzllewo?at_medium=RSS&at_campaign=rss",
+        "description": "The country's Defence Minister Theo Francken said it looked like an espionage operation, but he wanted to be \"cautious\" about speculating.",
+        "pubDate": "2025-11-03T13:41:37Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ec7/live/028d6b30-b8b1-11f0-b0a9-658d692df91a.jpg",
+        "bias": 0
       },
       {
         "title": "Deadly earthquake hits northern Afghanistan",
@@ -678,33 +705,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Cuba: Health Under Sanction",
-        "link": "https://www.aljazeera.com/video/people-power/2025/11/3/cuba-health-under-sanction?traffic_source=rss",
-        "description": "Free, universal, but failing - Cuba's once world-class healthcare system is being strangled by US sanctions.",
-        "pubDate": "2025-11-03T09:47:25Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Justin Baldoni case against Blake Lively dismissed after deadline lapse",
-        "link": "https://www.bbc.com/news/articles/c986npp638qo?at_medium=RSS&at_campaign=rss",
-        "description": "The actor and director's $400m lawsuit against his former co-star is formally ended by a US judge.",
-        "pubDate": "2025-11-03T09:39:25Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e83/live/6b8871d0-455b-11f0-835b-310c7b938e84.jpg",
-        "bias": 0
-      },
-      {
-        "title": "US futures, world shares advance, led by tech stocks, after another week of gains for Wall St - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdVVTaThlZXFFdmhvZ0d0TFZJR2ZhR0RNT2xwMzFCb2QwTlc1bzVsY2R6Z0YtYWhUYS1WR181cjhNUThWUnh1MU1OV2l3ZHFtbi1XQ0w2RExldDNiZUlLWmxDUnBROXBYTnZwV014eXVLWHRpc2xfTTdXQXJUN1ZieUluTnZmMXd2LWUzSXRPX3QwZFU?oc=5",
-        "description": "",
-        "pubDate": "2025-11-03T09:36:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
