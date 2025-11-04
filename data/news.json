@@ -1,9 +1,18 @@
 {
-  "lastUpdate": "2025-11-04T10:23:49.055971Z",
+  "lastUpdate": "2025-11-04T10:47:11.883999Z",
   "news": {
     "Gaming": [
       {
-        "title": "Shadow Spike [Free] [Sports]",
+        "title": "Croak's Creek (alpha) [Free] [Adventure]",
+        "link": "https://frog-in-the-shell.itch.io/croaks-creek",
+        "description": "Embark on a whimsical day on the island of Croak's Creek alongside unique and ribbiting characters !",
+        "pubDate": "2025-11-04T10:23:30Z",
+        "source": "frog-in-the-shell.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTMwODE1LnBuZw==/315x250%23c/%2FpkTjl.png",
+        "bias": 0
+      },
+      {
+        "title": "Shadow Spike [Free] [Sports] [Windows]",
         "link": "https://flowess.itch.io/shadow-spike",
         "description": "1v1 Volleyball game. Level up skills and stats. Customize your character and win!",
         "pubDate": "2025-11-04T09:48:30Z",
@@ -54,6 +63,15 @@
         "pubDate": "2025-11-04T08:34:43Z",
         "source": "mordikeye.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzOTI5OTQ4LnBuZw==/315x250%23c/qg%2BTqL.png",
+        "bias": 0
+      },
+      {
+        "title": "Harvest Hues [Free] [Card Game] [Windows]",
+        "link": "https://zakesa.itch.io/harvest-hues",
+        "description": "",
+        "pubDate": "2025-11-04T08:32:15Z",
+        "source": "zakesa.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTI5ODg0LnBuZw==/315x250%23c/2hkQBl.png",
         "bias": 0
       },
       {
@@ -172,45 +190,36 @@
         "source": "rt-55j.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzOTI5NDcwLnBuZw==/315x250%23c/dxATvq.png",
         "bias": 0
-      },
-      {
-        "title": "Path to Become King(of ???) [Free] [Puzzle]",
-        "link": "https://huahuai.itch.io/pathtobecomekingof",
-        "description": "",
-        "pubDate": "2025-11-04T07:18:15Z",
-        "source": "huahuai.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTI5NDY3LnBuZw==/315x250%23c/KqYwtc.png",
-        "bias": 0
-      },
-      {
-        "title": "Alone In Space [Free] [Adventure]",
-        "link": "https://flwrshibe.itch.io/alone-in-space",
-        "description": "You awaken on your spaceship to find no one around...",
-        "pubDate": "2025-11-04T07:17:46Z",
-        "source": "flwrshibe.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTI5MzkxLnBuZw==/315x250%23c/dyxgLP.png",
-        "bias": 0
-      },
-      {
-        "title": "Stellar Gains [Free] [Adventure]",
-        "link": "https://mysticyoukai.itch.io/stellar-gains",
-        "description": "",
-        "pubDate": "2025-11-04T07:09:55Z",
-        "source": "mysticyoukai.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTI5NDQzLnBuZw==/315x250%23c/hwSLhB.png",
-        "bias": 0
-      },
-      {
-        "title": "SLYMAZE [Free] [Adventure]",
-        "link": "https://diegothesm.itch.io/slymaze",
-        "description": "",
-        "pubDate": "2025-11-04T06:22:32Z",
-        "source": "diegothesm.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTI5MTM5LnBuZw==/315x250%23c/xoDjA5.png",
-        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "NYC mayoral election: Candidates, polls, results and what’s at stake",
+        "link": "https://www.aljazeera.com/news/2025/11/4/nyc-mayoral-election-candidates-polls-results-and-whats-at-stake?traffic_source=rss",
+        "description": "The election in the biggest US city has grabbed eyeballs globally. Its verdict could shape US politics.",
+        "pubDate": "2025-11-04T10:13:10Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Philippine air force helicopter carrying 5 crashes while en route to help in typhoon response - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUkgyNWh3UXM2LWstZXJ4ZEZCMmNDTC14VV85TVpWWFQxeU5VdDRadVpuaGl6LTJnRGlSNGRudDhRRDV3S1V2YkttQUVjSDdUaWpuYXVsR2I4LWNERHkzbzdJc2NWb1NnOE9rQnExbE5KcmlqaUZwbWVqRTdwU0JUYmZ0a0FrWE1aM2l3a2o3R25xWExRN1E5cnlLcWJTcGlmZlRDNFRUdk5odE9M?oc=5",
+        "description": "",
+        "pubDate": "2025-11-04T10:10:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Doha declaration ‘booster shot for development’ amid global uncertainty: UN",
+        "link": "https://www.aljazeera.com/news/2025/11/4/doha-declaration-booster-shot-for-development-amid-global-uncertainty-un?traffic_source=rss",
+        "description": "UN chief says 700 million people live in extreme poverty as Qatar calls for doubling efforts to support Palestinians.",
+        "pubDate": "2025-11-04T10:06:19Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "The Dalai Lama created a Tibetan capital in exile in India. It's shrinking",
         "link": "https://www.npr.org/2025/11/04/nx-s1-5576353/tibetans-exile-india-dharamshala-tibet",
@@ -455,15 +464,6 @@
         "bias": 0
       },
       {
-        "title": "Typhoon leaves at least 2 dead, traps people on roofs and submerges cars in central Philippines - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUkgyNWh3UXM2LWstZXJ4ZEZCMmNDTC14VV85TVpWWFQxeU5VdDRadVpuaGl6LTJnRGlSNGRudDhRRDV3S1V2YkttQUVjSDdUaWpuYXVsR2I4LWNERHkzbzdJc2NWb1NnOE9rQnExbE5KcmlqaUZwbWVqRTdwU0JUYmZ0a0FrWE1aM2l3a2o3R25xWExRN1E5cnlLcWJTcGlmZlRDNFRUdk5odE9M?oc=5",
-        "description": "",
-        "pubDate": "2025-11-04T06:03:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Lee Kuan Yew's youngest son slams Singapore's plan to preserve family home as national monument - AP News",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZGZVcndJT0Myb2JMdDNNZE1OVmFuZXNmLXlkXzlJVzZiUjJ1UWhFTVhMM2xNRF9neWhGWjBoS1dJWGw2Vml2djM2MGl3V0lXUmYzSk1LUHFVWElPX1F0M0hBdmhiN3ZMV3A3WHgyTURwTXhzYWxKN2ZaVUhPLURyazRBYUI3VVdiRjBmMmhySTdzYlI5Mk1QaElTTWx0QQ?oc=5",
         "description": "",
@@ -642,27 +642,18 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "North Korea’s former ‘head of state’ Kim Yong Nam dead at 97",
-        "link": "https://www.aljazeera.com/news/2025/11/4/north-koreas-former-head-of-state-kim-yong-nam-dead-at-97?traffic_source=rss",
-        "description": "Senior official known for his loyalty to the Kim family served as head of Supreme People’s Assembly for two decades.",
-        "pubDate": "2025-11-04T01:37:25Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Man accused in a series of 1980s rapes in Florida is convicted in another attack - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOU5sMTFiN1Bva09BcmcxcDhESTVuV284QnItSEtQWmdZWV84TUFWSG9MZ2hiWm1VRVFnd195M1FnN2JDbXJtVk9tOElBcjB5T2NjZUJKRnN3SmdLTW5tQ0lmUnV5TmJlNkhRRjJacHpqYzNaR1hWc0FSS2ZzbFhlMmIyZFhNTUs3TmZMV21nU3ZxQlQ0Q1ZlQnMzWTRGdXRsa1NPNndpckxPQVJ2WllZTkx3?oc=5",
-        "description": "",
-        "pubDate": "2025-11-04T01:14:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "'Taxes are going up' - BBC decodes Reeves's pre-Budget speech",
+        "link": "https://www.bbc.com/news/videos/cpd2yx6v687o?at_medium=RSS&at_campaign=rss",
+        "description": "Henry Zeffman analyses what may be in the chancellor's upcoming budget plans.",
+        "pubDate": "2025-11-04T10:23:31Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f7f/live/c8357f30-b965-11f0-aa13-0b0479f6f42a.jpg",
+        "bias": 0
+      },
       {
         "title": "Online porn showing choking to be made illegal, government says",
         "link": "https://www.bbc.com/news/articles/clyk3qzq7k7o?at_medium=RSS&at_campaign=rss",
@@ -682,18 +673,18 @@
         "bias": -1
       },
       {
-        "title": "From California to NYC: 4 races to watch this Election Day",
-        "link": "https://www.npr.org/2025/11/04/nx-s1-5589775/california-redistricting-new-york-mayor-nj-va-governor",
-        "description": "Four races highlight this year's elections: a redistricting referendum in California, governor's races in New Jersey and Virginia and the mayoral contest in New York City.",
+        "title": "How one tech startup is giving cash to SNAP recipients",
+        "link": "https://www.npr.org/2025/11/04/nx-s1-5587728/snap-shutdown-propel-tech-startup-cash-donations",
+        "description": "Propel makes a free app for people on food stamps. Now it's giving some of them $50 each, as some private companies, nonprofits, and individuals scramble to help.",
         "pubDate": "2025-11-04T10:00:00Z",
         "source": "npr.org",
         "image": "",
         "bias": -1
       },
       {
-        "title": "How one tech startup is giving cash to SNAP recipients",
-        "link": "https://www.npr.org/2025/11/04/nx-s1-5587728/snap-shutdown-propel-tech-startup-cash-donations",
-        "description": "Propel makes a free app for people on food stamps. Now it's giving some of them $50 each, as some private companies, nonprofits, and individuals scramble to help.",
+        "title": "From California to NYC: 4 races to watch this Election Day",
+        "link": "https://www.npr.org/2025/11/04/nx-s1-5589775/california-redistricting-new-york-mayor-nj-va-governor",
+        "description": "Four races highlight this year's elections: a redistricting referendum in California, governor's races in New Jersey and Virginia and the mayoral contest in New York City.",
         "pubDate": "2025-11-04T10:00:00Z",
         "source": "npr.org",
         "image": "",
@@ -732,7 +723,7 @@
         "description": "It is more than half a century since a chancellor chose to put up the basic rate of income tax.",
         "pubDate": "2025-11-04T09:40:33Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6904/live/d9890540-b960-11f0-a91b-ddb7c85c6295.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cad4/live/cfdf7170-b968-11f0-ba75-093eca1ac29b.jpg",
         "bias": 0
       },
       {
@@ -806,15 +797,6 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f68f/live/7fa01db0-b8d5-11f0-aa13-0b0479f6f42a.jpg",
         "bias": 0
-      },
-      {
-        "title": "New York’s Jewish community divided, anxious over Mamdani, an Israel critic - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZlRDcUw1Nmp2emlURzl0UHRZMERqV05Vb04yTmpDeFFSYjQ3bGFwRnZXOGx1VzVfdUlDWlgtaEt4RHUxWXFCN0poRG1GVU5temJFVTVONU9jdzBBN29ITU84aXZMMUUxWUFNakppVDJUSVo0NFA1Zi0wSXhaQWs5SEQ2bTZoX1RPcDV1Q044Z1dsLVJrZUd4bTZWOENyQzFuTTBxOUsxd1U1amM?oc=5",
-        "description": "",
-        "pubDate": "2025-11-04T00:17:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Tech": [
@@ -835,11 +817,29 @@
         "description": "The find shows that the technology was passed down through thousands of generations.",
         "pubDate": "2025-11-04T10:01:47Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caa9/live/38cb21b0-b8c5-11f0-ba75-093eca1ac29b.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd5a/live/b65d4ab0-b968-11f0-b2a1-6f537f66f9aa.jpg",
+        "bias": 0
+      },
+      {
+        "title": "New York’s Jewish community divided, anxious over Mamdani, an Israel critic - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZlRDcUw1Nmp2emlURzl0UHRZMERqV05Vb04yTmpDeFFSYjQ3bGFwRnZXOGx1VzVfdUlDWlgtaEt4RHUxWXFCN0poRG1GVU5temJFVTVONU9jdzBBN29ITU84aXZMMUUxWUFNakppVDJUSVo0NFA1Zi0wSXhaQWs5SEQ2bTZoX1RPcDV1Q044Z1dsLVJrZUd4bTZWOENyQzFuTTBxOUsxd1U1amM?oc=5",
+        "description": "",
+        "pubDate": "2025-11-04T00:17:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       }
     ],
     "Business": [
+      {
+        "title": "Primark's UK sales fall as owner explores spinning off fashion retailer",
+        "link": "https://www.bbc.com/news/articles/cj0enr1ez46o?at_medium=RSS&at_campaign=rss",
+        "description": "ABF explores spinning off Primark chain from food brands as UK shoppers cut back on fashion purchases",
+        "pubDate": "2025-11-04T10:44:42Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3f0/live/304994e0-b956-11f0-935f-e137f5470028.jpg",
+        "bias": 0
+      },
       {
         "title": "Budget will be 'fair' says Reeves as tax rises expected",
         "link": "https://www.bbc.com/news/articles/ce8g6kdgzelo?at_medium=RSS&at_campaign=rss",
@@ -847,15 +847,6 @@
         "pubDate": "2025-11-04T10:07:05Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a3e/live/c5ee8490-b8e5-11f0-b2a1-6f537f66f9aa.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Primark's UK sales fall as owner explores spinning off fashion retailer",
-        "link": "https://www.bbc.com/news/articles/cj0enr1ez46o?at_medium=RSS&at_campaign=rss",
-        "description": "ABF explores spinning off Primark chain from food brands as UK shoppers cut back on fashion purchases",
-        "pubDate": "2025-11-04T09:58:17Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3f0/live/304994e0-b956-11f0-935f-e137f5470028.jpg",
         "bias": 0
       },
       {
@@ -905,6 +896,15 @@
       }
     ],
     "Culture": [
+      {
+        "title": "Streamers will be made to produce Australian content",
+        "link": "https://www.bbc.com/news/articles/cy7emk7mgy0o?at_medium=RSS&at_campaign=rss",
+        "description": "Australian government is introducing laws requiring streamers to invest a minimum amount in local content.",
+        "pubDate": "2025-11-04T10:44:01Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c68/live/927a6860-b960-11f0-a91b-ddb7c85c6295.jpg",
+        "bias": 0
+      },
       {
         "title": "Publisher apologises to author Kate Clanchy four years after book controversy",
         "link": "https://www.bbc.com/news/articles/ckg19p6kej1o?at_medium=RSS&at_campaign=rss",
