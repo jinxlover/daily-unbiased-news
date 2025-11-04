@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-04T09:43:43.747205Z",
+  "lastUpdate": "2025-11-04T09:55:31.305963Z",
   "news": {
     "Gaming": [
       {
@@ -210,15 +210,6 @@
         "bias": 0
       },
       {
-        "title": "Spwonko [Free]",
-        "link": "https://anothersprunkimodmaker.itch.io/tsismoreunfnisedthanmygrandma",
-        "description": "ts is more unfnised than my grandma",
-        "pubDate": "2025-11-04T06:22:06Z",
-        "source": "anothersprunkimodmaker.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTI5MDcyLnBuZw==/315x250%23c/IFlGRH.png",
-        "bias": 0
-      },
-      {
         "title": "talk to me [Free] [Adventure]",
         "link": "https://rashidy-games.itch.io/talk-to-me",
         "description": "",
@@ -308,6 +299,15 @@
         "pubDate": "2025-11-04T08:54:00Z",
         "source": "news.google.com",
         "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Delhi's lonely African elephant was killed by rare rodent-borne virus",
+        "link": "https://www.bbc.com/news/articles/cn402xgqx8wo?at_medium=RSS&at_campaign=rss",
+        "description": "Shankar, a 29-year-old male elephant, died in September after spending much of his life in isolation.",
+        "pubDate": "2025-11-04T08:49:11Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b792/live/24c6ae30-b953-11f0-935f-e137f5470028.jpg",
         "bias": 0
       },
       {
@@ -662,6 +662,15 @@
         "bias": 0
       },
       {
+        "title": "India's weight-loss drug boom - and the risks behind it",
+        "link": "https://www.bbc.com/news/articles/c5yplj4j0l5o?at_medium=RSS&at_campaign=rss",
+        "description": "Demand for weight-loss drugs has soared in India, home to millions with obesity and Type 2 diabetes.",
+        "pubDate": "2025-11-04T00:49:25Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/682f/live/fa3433b0-b61c-11f0-b2a1-6f537f66f9aa.jpg",
+        "bias": 0
+      },
+      {
         "title": "Trump administration says SNAP will be partially funded after judges’ rulings - AP News",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hMTI1eUtDVzJRTGhwelBCVFdmdXNlbnB4T0ZzSXYwdnZwZUVGamJ4d3o4ZUEwc1NVYVlxLTBNdXR4OWxuTTZ1SHU0M0lLWFZoQ2VUVk0yNWw4NHpENmp6TVBuX1RSTDRtdGtN?oc=5",
         "description": "",
@@ -669,27 +678,27 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
+      }
+    ],
+    "Politics": [
       {
-        "title": "Peru cuts ties with Mexico over asylum for ex-prime minister",
-        "link": "https://www.aljazeera.com/news/2025/11/4/peru-cuts-ties-with-mexico-over-asylum-for-ex-prime-minister?traffic_source=rss",
-        "description": "Move comes after Betssy Chavez, who is on trial on coup charges, fled to the Mexican Embassy in Peru.",
-        "pubDate": "2025-11-04T00:36:18Z",
-        "source": "aljazeera.com",
+        "title": "Here are the races to watch this Election Day",
+        "link": "https://www.npr.org/2025/11/04/nx-s1-5589777/here-are-the-races-to-watch-this-election-day",
+        "description": "There are several big races to watch this Election Day. New York City will elect a mayor, New Jersey and Virginia will pick a governor and California will decide a consequential redistricting ballot.",
+        "pubDate": "2025-11-04T09:40:53Z",
+        "source": "npr.org",
         "image": "",
         "bias": -1
       },
       {
-        "title": "Mamdani, Cuomo or Sliwa? New Yorkers on their choice for mayor",
-        "link": "https://www.bbc.com/news/videos/c77z3p76v8ko?at_medium=RSS&at_campaign=rss",
-        "description": "The BBC asked voters in Manhattan who they think could deliver on their top priorities as the city heads to the polls on Tuesday.",
-        "pubDate": "2025-11-04T00:26:43Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e834/live/ea377150-b911-11f0-b2a1-6f537f66f9aa.jpg",
-        "bias": 0
-      }
-    ],
-    "Politics": [
+        "title": "As voters head to the polls Tuesday, do Democrats have the advantage?",
+        "link": "https://www.npr.org/2025/11/04/nx-s1-5596113/as-voters-head-to-the-polls-tuesday-do-democrats-have-the-advantage",
+        "description": "Do Democrats have an advantage going into Tuesday's elections? NPR's Steve Inskeep asks Faiz Shakir, chief political adviser to Sen. Bernie Sanders, I-Vt.",
+        "pubDate": "2025-11-04T09:40:39Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Could Reeves break a 50-year taboo by raising income tax in her Budget?",
         "link": "https://www.bbc.com/news/articles/c74jvm17d79o?at_medium=RSS&at_campaign=rss",
@@ -763,15 +772,6 @@
         "bias": -1
       },
       {
-        "title": "Newcomers Wilson and Bogavac power No. 25 North Carolina to a 94-54 rout of Central Arkansas - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOblpHd1RPX0JnaDdwMzFwZzNJOVhGaG52cGxINW9hOWxrUXdoRnlEOVRTa3lzc0ZOVjZzUnBra1pUTy1STjZBb3RCdEVobzlxcTdyMzZkbHV2ZEd5Wl94RFFpOVY1YTJFbU50aGw2Q0RhZUJGWTdCSWhDUWFJSmJ4N1ZoSDlaZHRHdmZtMnMxMFBtVHNlOFpXbnVocTNTUQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-04T02:24:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "NYC mayoral candidates make final push ahead of Election Day - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWXExQi1mX3AwSjNMbXJRN21SWHRyTTdDWHMwcGlJd2FhWWhkQzUwT0FxR0ttejRkbzNhSU9PVkdLZEZnXzR5N0JmT05vWkIwYUl4NlhVam9HWlFBenlpTERlQ3dFQUV4cHZfenNnb3ZUbFhlLUJFOVdGUFZKZk5Qdlo2NjdaY2J0OEc4QzJlYXBTT2U5QUxDc3RnaDRRa281S19jNXRmUm4?oc=5",
         "description": "",
@@ -813,31 +813,49 @@
     "Science": [],
     "Business": [
       {
+        "title": "P&R to oppose most budget amendments",
+        "link": "https://www.bbc.com/news/articles/cdrz662zz67o?at_medium=RSS&at_campaign=rss",
+        "description": "The proposed changes include a spending freeze and a reduction to the hike in fuel duty.",
+        "pubDate": "2025-11-04T09:52:57Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adb3/live/00ae1b80-b8bf-11f0-8849-5bba853dbca3.jpg",
+        "bias": 0
+      },
+      {
         "title": "Budget will be 'fair' says Reeves as tax rises expected",
         "link": "https://www.bbc.com/news/articles/ce8g6kdgzelo?at_medium=RSS&at_campaign=rss",
         "description": "The chancellor is rolling the pitch for a difficult Budget as economists predict tax rises on 26 November.",
-        "pubDate": "2025-11-04T09:10:08Z",
+        "pubDate": "2025-11-04T09:47:54Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a3e/live/c5ee8490-b8e5-11f0-b2a1-6f537f66f9aa.jpg",
         "bias": 0
       },
       {
-        "title": "Primark's UK sales fall as owner ABF explores spinning off fashion retailer",
+        "title": "Primark's UK sales fall as owner explores spinning off fashion retailer",
         "link": "https://www.bbc.com/news/articles/cj0enr1ez46o?at_medium=RSS&at_campaign=rss",
         "description": "ABF explores spinning off Primark chain from food brands as UK shoppers cut back on fashion purchases",
-        "pubDate": "2025-11-04T09:06:33Z",
+        "pubDate": "2025-11-04T09:43:54Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3f0/live/304994e0-b956-11f0-935f-e137f5470028.jpg",
         "bias": 0
       },
       {
-        "title": "P&R expected to oppose all budget amendments",
-        "link": "https://www.bbc.com/news/articles/cdrz662zz67o?at_medium=RSS&at_campaign=rss",
-        "description": "The proposed changes include a spending freeze and a reduction to the hike in fuel duty.",
-        "pubDate": "2025-11-04T06:13:42Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adb3/live/00ae1b80-b8bf-11f0-8849-5bba853dbca3.jpg",
-        "bias": 0
+        "title": "President Trump's plans to import beef leave American ranchers concerned",
+        "link": "https://www.npr.org/2025/11/04/nx-s1-5591182/president-trumps-plans-to-import-beef-leave-american-ranchers-concerned",
+        "description": "President Trump wants to expand grazing and reduce regulations to grow the American cattle herd. But his plan to import Argentinian beef to lower prices is causing a backlash across the heartland.",
+        "pubDate": "2025-11-04T09:41:20Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Kimberly-Clark to acquire Tylenol's parent company in nearly $49B deal",
+        "link": "https://www.npr.org/2025/11/04/nx-s1-5596209/kimberly-clark-to-acquire-tylenols-parent-company-in-nearly-49b-deal",
+        "description": "Consumer giant Kimberly-Clark has agreed to buy Kenvue, the parent company of embattled brand Tylenol, for nearly $49 billion. But what does this mean for consumers and shareholders?",
+        "pubDate": "2025-11-04T09:40:06Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Starbucks to sell majority stake in China business",
@@ -846,6 +864,15 @@
         "pubDate": "2025-11-04T00:49:16Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cca/live/e1119f60-b90c-11f0-a939-dfb71698bafe.jpg",
+        "bias": 0
+      },
+      {
+        "title": "More people using family help than Buy Now Pay Later Loans - but even that can come at a cost",
+        "link": "https://www.bbc.com/news/articles/cze6822y135o?at_medium=RSS&at_campaign=rss",
+        "description": "But some people said borrowing from their nearest and dearest had affected those relationships.",
+        "pubDate": "2025-11-04T00:06:24Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27df/live/b2625b50-b8e4-11f0-b2a1-6f537f66f9aa.jpg",
         "bias": 0
       },
       {
