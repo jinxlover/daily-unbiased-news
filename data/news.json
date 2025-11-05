@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-11-05T10:22:45.737726Z",
+  "lastUpdate": "2025-11-05T10:45:44.732738Z",
   "news": {
     "Gaming": [
+      {
+        "title": "MindTrainer [Free]",
+        "link": "https://md-ishmam-mir.itch.io/mindtrainer",
+        "description": "",
+        "pubDate": "2025-11-05T10:35:13Z",
+        "source": "md-ishmam-mir.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTQ1OTE0LnBuZw==/315x250%23c/e8K2kH.png",
+        "bias": 0
+      },
       {
         "title": "Blocked Logic [Free]",
         "link": "https://natorx.itch.io/blockedlogic",
@@ -63,6 +72,15 @@
         "pubDate": "2025-11-05T09:22:32Z",
         "source": "mango11111.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzOTQ1MjUyLnBuZw==/315x250%23c/679Kd%2B.png",
+        "bias": 0
+      },
+      {
+        "title": "Seastep [Free] [Platformer]",
+        "link": "https://insertname404.itch.io/seastep",
+        "description": "A fast, furious platformer where pirates defy gravity across oceans, volcanoes, and clouds",
+        "pubDate": "2025-11-05T09:19:20Z",
+        "source": "insertname404.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTQ1NjkzLnBuZw==/315x250%23c/UZpqqb.png",
         "bias": 0
       },
       {
@@ -183,24 +201,6 @@
         "bias": 0
       },
       {
-        "title": "Realme C15 3d jilid II [Free] [Other] [Windows] [macOS] [Linux] [Android]",
-        "link": "https://wisnukhalib.itch.io/realme-c15-3d-jilid-ii",
-        "description": "Ini adalah versi revisi dari model hp realme c15 di post sebelumnya",
-        "pubDate": "2025-11-05T07:33:51Z",
-        "source": "wisnukhalib.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTQ0ODQwLnBuZw==/315x250%23c/AbFFTu.png",
-        "bias": 0
-      },
-      {
-        "title": "Dunjinn [Free] [Role Playing]",
-        "link": "https://ceasarwolphanomusic.itch.io/dunjinn",
-        "description": "A roguelike with Ascii graphics and partial loot permanence, how deep can you go.",
-        "pubDate": "2025-11-05T07:33:31Z",
-        "source": "ceasarwolphanomusic.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTQ0OTE5LnBuZw==/315x250%23c/38PTLZ.png",
-        "bias": 0
-      },
-      {
         "title": "PaperBoxGO [Free] [Racing]",
         "link": "https://ino-game.itch.io/paperboxgo",
         "description": "A Runner on  Endless cardboard boxes",
@@ -219,7 +219,7 @@
         "bias": 0
       },
       {
-        "title": "Caty-runner [Free] [Other]",
+        "title": "Caty-runner [Free] [Simulation]",
         "link": "https://lev-i-love-cats.itch.io/caty-runner",
         "description": "Jump, collect, and unlock new skins in Caty-Runner! See how far you can go!",
         "pubDate": "2025-11-05T02:24:41Z",
@@ -238,6 +238,42 @@
       }
     ],
     "World": [
+      {
+        "title": "Prosecutors seize yachts, luxury cars from man accused of running Cambodia cyberscams",
+        "link": "https://www.npr.org/2025/11/05/nx-s1-5599032/prosecutors-seize-yachts-luxury-cars-from-man-accused-of-running-cambodia-cyberscams",
+        "description": "Prosecutors in Taiwan, Hong Kong and Singapore seized hundreds of millions of dollars in assets belonging to a Cambodian businessman whom the U.S. accuses of heading a global scam syndicate.",
+        "pubDate": "2025-11-05T10:25:54Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Israel says Hamas returned body of Israeli-US soldier held hostage",
+        "link": "https://www.bbc.com/news/articles/c1wlz8j8lr4o?at_medium=RSS&at_campaign=rss",
+        "description": "Itay Chen's remains were returned to Israel via the Red Cross on Tuesday, meaning seven dead hostages now remain in Gaza.",
+        "pubDate": "2025-11-05T10:23:43Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18b7/live/e1770e80-b9e9-11f0-b2a1-6f537f66f9aa.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Gaza youth artist finds outlet for her trauma and grief from Israel’s war",
+        "link": "https://www.aljazeera.com/news/2025/11/5/gaza-youth-artist-finds-outlet-for-her-trauma-and-grief-from-israels-war?traffic_source=rss",
+        "description": "Yara Youssef Abu Kweik, 16, is processing her emotions by painting scenes of suffering from her daily life.",
+        "pubDate": "2025-11-05T10:11:55Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Fact check: Was listing candidates twice on NYC ballot a scam?",
+        "link": "https://www.aljazeera.com/news/2025/11/5/fact-check-was-listing-candidates-twice-on-nyc-ballot-a-scam?traffic_source=rss",
+        "description": "Elon Musk criticised New York’s election system, citing fusion voting, duplicate candidates and ID concerns.",
+        "pubDate": "2025-11-05T10:04:54Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "UN chief warns Gaza stabilisation force must have international legitimacy",
         "link": "https://www.aljazeera.com/news/2025/11/5/un-chief-warns-gaza-stabilisation-force-must-have-international-legitimacy?traffic_source=rss",
@@ -380,15 +416,6 @@
         "pubDate": "2025-11-05T07:46:00Z",
         "source": "news.google.com",
         "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Israel says Hamas returned body of Israeli-US soldier held hostage",
-        "link": "https://www.bbc.com/news/articles/c1wlz8j8lr4o?at_medium=RSS&at_campaign=rss",
-        "description": "Itay Chen's remains were returned to Israel via the Red Cross on Tuesday, meaning seven dead hostages now remain in Gaza.",
-        "pubDate": "2025-11-05T07:37:04Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18b7/live/e1770e80-b9e9-11f0-b2a1-6f537f66f9aa.jpg",
         "bias": 0
       },
       {
@@ -660,33 +687,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Democrat Jay Jones wins race to be Virginia attorney general despite texts endorsing violence - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcEVVSmZTN0REYU5XMFpQWENmWWZ4YmtJTTREUmtjUDFucmtNY1V3NENWMWVlWHpWWWVodkNuSm9wMW5iTTRQQkNtTFBTUWZpNkw4dTZ3Y2tuTUxkWGhhbE5iNTJnUllBS3dFMlhGWnFxVkg0SDFTaTBkSUlvQTJlaUN5b1p3aHBWME0xenltaWZ4am93azMzVmNJOGlsWEtHSUlROWc5Z2plaElB?oc=5",
-        "description": "",
-        "pubDate": "2025-11-05T04:13:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Maine voters approve red flag gun law after mass shooting that killed 18 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeFFld05LM2dBd0w3UkE0Vl9rSU1FcVBSaExxdFZuTGUycHIyTkVLb05KcWpHbmx4TnIzckdSTGN5UkZYbVY2X1JLODhwYUhtVWtyTVVFUTdITmlKMjk4Q0VwQjctYUpXb2FQWDQtWXBrRkJHRE9ROEZRazZYVFMyWXQweGZZRUZNd0RLNzdsQnExeEE2MUZha3ZUS3pETnhoSHpJZ0dCZDhRZw?oc=5",
-        "description": "",
-        "pubDate": "2025-11-05T04:11:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "At least 7 dead, 11 injured in UPS plane crash and explosion at Kentucky airport - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa0RWUnJ0ajB2eGRCc2lTR3czOEdMVmtTbGF2WmQ3R1JiQ3pGYkRBWUdQOHFxRDRWSXFraFZXLVZVOTdVNUowei1IQTBrY2p5dzRpR3RzS0s0X1hTcDN4MmRROHA0YlBDTlEtZUktNFhQY29JSTR2WC02RFhrcmhpQ1ozdTZNRXA5ZFJsMGt1WVVZbXh3c1JidDZJUmdtOWM?oc=5",
-        "description": "",
-        "pubDate": "2025-11-05T04:10:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
@@ -694,15 +694,6 @@
         "title": "The government shutdown is now the longest in U.S. history. See how it compares",
         "link": "https://www.npr.org/2025/11/05/nx-s1-5598315/government-shutdown-longest-history",
         "description": "As the government shutdown stretches its way into the record books, Americans are feeling its worsening impacts.",
-        "pubDate": "2025-11-05T10:00:00Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Supreme Court enters the lion's den on Trump tariffs",
-        "link": "https://www.npr.org/2025/11/05/nx-s1-5592338/trump-tariffs-supreme-court",
-        "description": "The case has potentially profound economic consequences for the country and the presidency.",
         "pubDate": "2025-11-05T10:00:00Z",
         "source": "npr.org",
         "image": "",
@@ -727,12 +718,21 @@
         "bias": -1
       },
       {
+        "title": "Supreme Court enters the lion's den on Trump tariffs",
+        "link": "https://www.npr.org/2025/11/05/nx-s1-5592338/trump-tariffs-supreme-court",
+        "description": "The case has potentially profound economic consequences for the country and the presidency.",
+        "pubDate": "2025-11-05T10:00:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Britain sliding 'into economic crisis' over £85bn sickness bill, ex-John Lewis boss warns",
         "link": "https://www.bbc.com/news/articles/c7v80n7mz2jo?at_medium=RSS&at_campaign=rss",
         "description": "The number of people who are out of work for health reasons has grown by 800,000 since 2019.",
         "pubDate": "2025-11-05T09:50:23Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7a2/live/30734050-b97f-11f0-ba33-09d35dfa6f46.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b4b/live/f27943d0-ba32-11f0-ba75-093eca1ac29b.jpg",
         "bias": 0
       },
       {
@@ -817,6 +817,15 @@
         "bias": 0
       },
       {
+        "title": "Trump administration announces 16th deadly strike on an alleged drug boat - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS3Y2a1ozNWxyeUd3S0YxX3ZVRDJNbmRqN1hoQXpfMW9fS0ZiRFRWajhUT3pwQXdLaHpuRllWRUNXUml3MWx6YTVrbnJOQzJPckp3OGs1ejFscmdEblV0d21icjN3YmlzSGVGckJMT3A1dDA1S1o5U1I4R1RReGE0V0lhRERuVTcwWFpGOHhYam80ZzJyWS1vcndoa3o4UThN?oc=5",
+        "description": "",
+        "pubDate": "2025-11-05T01:37:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Reeves' pre-Budget speech fails to rule out tax rises",
         "link": "https://www.bbc.com/news/articles/ce8g6kdgzelo?at_medium=RSS&at_campaign=rss",
         "description": "The chancellor says she will make 'necessary choices' in an unusual pre-Budget speech.",
@@ -886,6 +895,15 @@
     ],
     "Business": [
       {
+        "title": "Mortgages and AI to be added to the curriculum in English schools",
+        "link": "https://www.bbc.com/news/articles/cddr3v6j9mmo?at_medium=RSS&at_campaign=rss",
+        "description": "Ministers are making the changes for children in England after a review of what is taught in schools.",
+        "pubDate": "2025-11-05T10:36:28Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e16/live/6743b990-b996-11f0-aa13-0b0479f6f42a.jpg",
+        "bias": 0
+      },
+      {
         "title": "Trader who inspired The Big Short and now bets against AI sends tech shares lower",
         "link": "https://www.bbc.com/news/articles/c867vyn2evlo?at_medium=RSS&at_campaign=rss",
         "description": "Shares of major tech companies have fallen in the US and Japan over fears about AI bubble",
@@ -900,22 +918,22 @@
         "description": "",
         "pubDate": "2025-11-05T10:08:04Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c799/live/e89bf170-ba1c-11f0-912e-27e14044cef4.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b7c/live/72d8f3b0-ba31-11f0-9bc3-15f9891aeafa.jpg",
         "bias": 0
       },
       {
-        "title": "Here are 6 'Beautiful Bill' tax changes that will benefit wealthy Americans",
-        "link": "https://www.npr.org/2025/11/05/nx-s1-5590112/trump-beautiful-bill-taxes-republican-rich-wealthy",
-        "description": "Tax season is approaching. Tax breaks that were extended as part of President Trump's \"One Big Beautiful Bill\" will mainly benefit high-net-worth and high-income people.",
+        "title": "Yes, Trump's tariffs are raising billions -- but at a steep economic cost",
+        "link": "https://www.npr.org/2025/11/05/nx-s1-5596488/tariffs-trump-economy-inflation",
+        "description": "Trump's tariffs are raising tens of billions of dollars for the federal government. They're also costing consumers, frustrating businesses and hurting the factories they're supposed to help.",
         "pubDate": "2025-11-05T10:00:00Z",
         "source": "npr.org",
         "image": "",
         "bias": -1
       },
       {
-        "title": "Yes, Trump's tariffs are raising billions -- but at a steep economic cost",
-        "link": "https://www.npr.org/2025/11/05/nx-s1-5596488/tariffs-trump-economy-inflation",
-        "description": "Trump's tariffs are raising tens of billions of dollars for the federal government. They're also costing consumers, frustrating businesses and hurting the factories they're supposed to help.",
+        "title": "Here are 6 'Beautiful Bill' tax changes that will benefit wealthy Americans",
+        "link": "https://www.npr.org/2025/11/05/nx-s1-5590112/trump-beautiful-bill-taxes-republican-rich-wealthy",
+        "description": "Tax season is approaching. Tax breaks that were extended as part of President Trump's \"One Big Beautiful Bill\" will mainly benefit high-net-worth and high-income people.",
         "pubDate": "2025-11-05T10:00:00Z",
         "source": "npr.org",
         "image": "",
@@ -928,15 +946,6 @@
         "pubDate": "2025-11-05T09:22:10Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d97b/live/fd25fee0-9f93-11f0-b9ae-cbef91e6ae73.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Mortgages and AI to be added to the curriculum in English schools",
-        "link": "https://www.bbc.com/news/articles/cddr3v6j9mmo?at_medium=RSS&at_campaign=rss",
-        "description": "Ministers are making the changes for children in England after a review of what is taught in schools.",
-        "pubDate": "2025-11-05T09:19:26Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e16/live/6743b990-b996-11f0-aa13-0b0479f6f42a.jpg",
         "bias": 0
       },
       {
