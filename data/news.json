@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-05T08:30:45.935104Z",
+  "lastUpdate": "2025-11-05T08:54:31.717560Z",
   "news": {
     "Gaming": [
       {
@@ -63,6 +63,15 @@
         "pubDate": "2025-11-05T07:33:31Z",
         "source": "ceasarwolphanomusic.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzOTQ0OTE5LnBuZw==/315x250%23c/38PTLZ.png",
+        "bias": 0
+      },
+      {
+        "title": "PaperBoxGO [Free] [Racing]",
+        "link": "https://ino-game.itch.io/paperboxgo",
+        "description": "A Runner on  Endless cardboard boxes",
+        "pubDate": "2025-11-05T07:28:09Z",
+        "source": "ino-game.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTQ1MTIwLnBuZw==/315x250%23c/AXXS1s.png",
         "bias": 0
       },
       {
@@ -210,24 +219,6 @@
         "bias": 0
       },
       {
-        "title": "Tic Tac Tap [Free] [Puzzle] [Windows] [Android]",
-        "link": "https://the-cokebear.itch.io/tic-tac-tap",
-        "description": "The classic Tic-Tac-Toe, reimagined and supercharged!",
-        "pubDate": "2025-11-05T05:22:04Z",
-        "source": "the-cokebear.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTQ0MTczLnBuZw==/315x250%23c/%2BAxHrK.png",
-        "bias": 0
-      },
-      {
-        "title": "I think im lost [Free] [Adventure]",
-        "link": "https://guywholikescat.itch.io/i-think-im-lost",
-        "description": "A short game about a little alien guy wanting to see and help a destroyed world .",
-        "pubDate": "2025-11-05T05:09:13Z",
-        "source": "guywholikescat.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTM0Mzg2LnBuZw==/315x250%23c/opdff2.png",
-        "bias": 0
-      },
-      {
         "title": "my greatest fear is abandonment [Free]",
         "link": "https://xflorora.itch.io/my-greatest-fear-is-abandonment",
         "description": "but i made a game about bugs instead",
@@ -243,15 +234,6 @@
         "pubDate": "2025-11-05T04:50:56Z",
         "source": "holyevans.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzOTQ0MzA3LnBuZw==/315x250%23c/znBM1u.png",
-        "bias": 0
-      },
-      {
-        "title": "MANDIBLE [Free] [Action] [Windows]",
-        "link": "https://najolote.itch.io/mandible",
-        "description": "",
-        "pubDate": "2025-11-05T03:44:07Z",
-        "source": "najolote.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTQzMzg2LnBuZw==/315x250%23c/fMTZua.png",
         "bias": 0
       },
       {
@@ -274,6 +256,42 @@
       }
     ],
     "World": [
+      {
+        "title": "Israeli army, settlers strike 2,350 times in West Bank last month: Report",
+        "link": "https://www.aljazeera.com/news/2025/11/5/israeli-army-settlers-struck-2350-times-in-west-bank-last-month-report?traffic_source=rss",
+        "description": "‘Cycle of terror’ spikes as Higher Planning Council set to advance plans to build 1985 new settlement units.",
+        "pubDate": "2025-11-05T08:38:49Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Eleven killed in blaze at Bosnian retirement home",
+        "link": "https://www.bbc.com/news/articles/cvgkjj5j3dyo?at_medium=RSS&at_campaign=rss",
+        "description": "The blaze broke out on the seventh floor of the facility in the town of Tuzla, reports say.",
+        "pubDate": "2025-11-05T08:37:05Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed9c/live/88931490-b9f2-11f0-aa13-0b0479f6f42a.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Pakistan welcomes Indian Sikh pilgrims in first crossing since May conflict",
+        "link": "https://www.aljazeera.com/gallery/2025/11/5/pakistan-welcomes-indian-sikh-pilgrims-in-first-crossing-since-may-conflict?traffic_source=rss",
+        "description": "Sikh pilgrims cross from India into Pakistan to celebrate Guru Nanak's birthday, one of Sikhism's most sacred festivals.",
+        "pubDate": "2025-11-05T08:16:25Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Longest US government shutdown leaves millions without food aid or pay",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/5/longest-us-government-shutdown-leaves-millions-without-food-aid-or-pay?traffic_source=rss",
+        "description": "The US government shutdown has now lasted for 36 days, making it the longest on record.",
+        "pubDate": "2025-11-05T08:16:03Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Zohran Mamdani wins NYC mayor’s race, capping a stunning ascent - AP News",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRmszM0FUV3ZxT3RQNDU5QmlCUmdKU0N0QTdhRVg1SVpFVEcxRVZnSzlHU0dYR2IybnhlbzQ4dWdCb2M5NnlTZUZoUnpOd2NESW9TNmR0dUhhcXkyN2FzTWxtOUpNTlpRVUFpcU9NeVNqd1FncW5Db2hocENIbGlrbGoyaEktdzlFMWhTM3ItMFlkZGs?oc=5",
@@ -309,6 +327,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "'All smiles and joy here': Inside Mamdani's victory party",
+        "link": "https://www.bbc.com/news/videos/cj97rprxllmo?at_medium=RSS&at_campaign=rss",
+        "description": "BBC News correspondent Nada Tawfik reports from inside the Zohran Mamdani's mayoral victory party.",
+        "pubDate": "2025-11-05T07:50:24Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fd2/live/52ba4db0-ba1b-11f0-ba75-093eca1ac29b.jpg",
+        "bias": 0
       },
       {
         "title": "Government shutdown becomes the longest on record as fallout spreads nationwide - AP News",
@@ -500,6 +527,15 @@
         "bias": -1
       },
       {
+        "title": "Zohran Mamdani’s rise: From Queens lawmaker to New York City mayor - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeHF2TlJkcE5fakd4a1JqUWhNS3N2TE1IOTVfRVJDeFNIeVZfT1hmc0wzMDM5QzRtanFpampUSWp1ajFlVzN5LU1aeHpLcEo3UUtBV2hRdDFLVzktejZnWWJjQkF5d1BaX1dkRFl6VjBYZmZlN3BjLXdnV29hVnhMUUk4VE9TaWlvRzFlb0phTWVnSThVaHdlZjhicGlTOVJySUFEX1VkZU4wVXc?oc=5",
+        "description": "",
+        "pubDate": "2025-11-05T05:19:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "What to know about the Supreme Court arguments over Trump’s tariffs - AP News",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbU5hZlFTencyVm9Tb1NockJlQkFTaDRLX3BlRU5tbkZBazQxcFJ5cnJnQ2xjM3RhQllhTUxZbzlkSmdOOWZiT19CMDNFdjlNSkNmdW5aVXF2Yk9xb0RjdnlBTWdBdm5nejdJNHBkTUg3ZEl3Nk53YVVkcUJ1cDdxb1ljVDBtRF92VUVvcWpfcGg?oc=5",
         "description": "",
@@ -569,15 +605,6 @@
         "pubDate": "2025-11-05T04:22:00Z",
         "source": "news.google.com",
         "image": "",
-        "bias": 0
-      },
-      {
-        "title": "At least 10 killed in Bosnia nursing home fire",
-        "link": "https://www.bbc.com/news/articles/cvgkjj5j3dyo?at_medium=RSS&at_campaign=rss",
-        "description": "The blaze broke out on the seventh floor of the facility in the town of Tuzla, local media reported.",
-        "pubDate": "2025-11-05T04:20:12Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed9c/live/88931490-b9f2-11f0-aa13-0b0479f6f42a.jpg",
         "bias": 0
       },
       {
@@ -671,61 +698,25 @@
         "bias": 0
       },
       {
-        "title": "AP Race Call: Colorado voters OK income tax increase to fund free meals for public school students - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNckpjNXpjMnZqTzB6eEhvdWxsd3lTOWQ0U3FUZDBCWV80dEV3Ui1sdUVJYzZUUk05dGd5MkJnOXkxOHF0ZVJTUlhjbmlfNERzNXBma3NvdkVKYS1xYTBOaHhJRzJkYU1LZzd4RGNDcDlCU2ctN0V0WXhNMDJTeklPaEVlbzNJaHZHRHVYNjdHcW55ZUFlTnR3c0pFeWd1cS0yc2s1Ng?oc=5",
+        "title": "AP Race Call: Texas voters approve constitutional amendment affirming parental rights - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMF9aSUdfcks0V1ZKSkhaNk1HbkJEeHNoTG5ENnNSR2xYMmtNeW02djhRNVBEUVVLdU5qR0MtZm1sSHRHdjUxZ0NDS040aXByVW4wTUE1VHBMOGtvNHpXYlVZLUR3WHZuR3A1ckhCWEVTY3p6UDFYb205cVFNTkpmNjc1bEcyemVzeWl2STBHcHVYajJUWkJuVWU4VTNSRGF6aDFmRzdUcnRBQQ?oc=5",
         "description": "",
-        "pubDate": "2025-11-05T03:29:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Kansas legislators won’t have a special session to join the US redistricting battle - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQamdlSXU0MnB3anRfQ08wNVROZ1YwVnF6b1MyWWlnTm9aYVNfWUpwRFRYUlNnbGwwZ1Q4T29tanpRTEJxbGlVTmlXY2FtLUZyOFNENVBocGd1enNNXzhfOWd0VFF2Wk1oT0FpeWUySDRKUVZ4bUJDaDItYkFTLTVrdl91Mkplck45UEFtdF9YTHZoTGVrVzFEdjBQMA?oc=5",
-        "description": "",
-        "pubDate": "2025-11-05T03:20:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "At least seven killed in UPS cargo plane crash at Louisville airport in US",
-        "link": "https://www.aljazeera.com/news/2025/11/5/at-least-three-killed-in-ups-cargo-plane-crash-at-louisville-airport-in-us?traffic_source=rss",
-        "description": "Kentucky Governor Andy Beshear said 11 people have also been injured and the number of casualties is likely to increase.",
-        "pubDate": "2025-11-05T03:13:31Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "AP Race Call: Maine voters reject changes to election administration in the state - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ2pUR1pyNWxGOWhDcDJDY3RhbWlBbXpnY2ZiWmJJX1daZWM2bXdNVjI3RFZ5Rk02cWlNRXo3RS0yT28ydXBTRUJFODdDbUpKa2cyUmtfLXNqRUVZOTMtQVpkSVF2Qy1FaTZQYnB3bE42dXFPZ2gyTGFTZ2ZKZm5RUVZSQnB5ckxBLTBrV3dQOUZRNTg?oc=5",
-        "description": "",
-        "pubDate": "2025-11-05T03:13:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Zohran Mamdani elected as New York City mayor in historic win",
-        "link": "https://www.aljazeera.com/news/2025/11/5/zohran-mamdani-elected-as-new-york-mayor-in-historic-win?traffic_source=rss",
-        "description": "Mamdani will be the first Muslim and South Asian to lead the largest city in the US after a win over Andrew Cuomo.",
-        "pubDate": "2025-11-05T02:49:07Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Zohran Mamdani elected mayor of New York City - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZmgyalRzSFQzNXY4XzViV0R5dmlVLVF3RTI3NlFoSzdiNlozRnRORVRiX184U2JiSklYSjhmME9qcVp5TVBCQ3k2dUFwVW1Xb01yNWx4YTBBRTc5bUJXbTFEZ1VTa2FEM09TRV9PcE5LMzFmYnRONFVOZzZYSTlsWjVLTFBBS1hoeEdqVzFwTmtoa19rVENfUHZscXJDaDlvUEpMUUtn?oc=5",
-        "description": "",
-        "pubDate": "2025-11-05T02:43:00Z",
+        "pubDate": "2025-11-05T03:36:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Journalist Tara Palmeri discusses political challenges ahead for Mamdani after decisive victory - AP News",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbkNtTnExZFltOGJwVlNIeHdlX2tESFlOeGtLeHQwQUlGdlN6UDZMRklpbWpoZFZITnlrTWljRnJNLWNidjVGRVJMWHd6cldhbEVqQ1RQQ25HVHppY0hfMXpfeUhMdTBtRk1zTzVWQndLb3FrU2kwRXlqbE12T0pLOTA0b1duUlBwUWFrdTBfUF9IaHhha1NvaGtkVHp5YUJsZV9oS2F2LXFNeWw5YWg3em9CMlRKZ2JBSno1X2cxZEVWWWd2cjlzaDlsUHdGeVg3MXpzMkhITF9pUzJnWEh6ZFhQSWw0VEx1?oc=5",
+        "description": "",
+        "pubDate": "2025-11-05T08:40:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Britain sliding 'into economic crisis' over £85bn sickness bill, ex-John Lewis boss warns",
         "link": "https://www.bbc.com/news/articles/c7v80n7mz2jo?at_medium=RSS&at_campaign=rss",
@@ -855,21 +846,12 @@
         "bias": 0
       },
       {
-        "title": "Bomb threats in New Jersey and Trump warnings for California mark Election Day - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSXJGc1ZmMmZYSWl5dXdCQ1FZVVlvU0xVMW9CU1ktc0RWRVNoYTVlMHhoel9rTld4X0RCcjg4SDFhYWtySmp5RU5ZNkg4TVlVT0ZVNW9JTW9lbS1UbkdLS3dHbUVZZkp4ald1bmJ3SS0xalVmMGp1T0lrOFgxdlFDejJQZGVGN2VZYzBfSXctN3hnMUFYWEprTGJ5VHZ3WkpFalhFWUpXSTg?oc=5",
-        "description": "",
-        "pubDate": "2025-11-05T01:45:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Tesla says Musk should be paid $1tn - will shareholders agree?",
         "link": "https://www.bbc.com/news/articles/cn4j0yg1drgo?at_medium=RSS&at_campaign=rss",
         "description": "The car-maker is lobbying fiercely for the pay package, which is being voted on ahead of its AGM on Thursday.",
         "pubDate": "2025-11-05T00:46:50Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d73/live/25e38ae0-b98a-11f0-af69-4365f82c1c41.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7459/live/7173bc30-ba22-11f0-ba75-093eca1ac29b.jpg",
         "bias": 0
       },
       {
@@ -987,12 +969,21 @@
         "bias": 0
       },
       {
-        "title": "Romeo and Juliet to be performed in Welsh at Shakespeare's Globe",
+        "title": "World's greatest love story - with a Welsh twist",
         "link": "https://www.bbc.com/news/articles/cn8x1qw13pvo?at_medium=RSS&at_campaign=rss",
         "description": "The love story will be told using the Welsh language on stage for the first time at the iconic venue.",
         "pubDate": "2025-11-05T06:14:15Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a38f/live/0d4ba380-b8ce-11f0-a189-a5144dbce456.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Shout-out for yodeling? Swiss seek recognition from UN cultural agency as tradition turns modern - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ0daTjVtRGI2czNQMUlRTk5BUHpGc1hYVGw2cW1BYjJxdFJhaEo3OVlZV053Q3hYSzY5UlBDdklRNVY2Q3Q5Y2F4d2JBVlFJcVlPdWM2UzhfS0NtakFieFRCaUE0blZrY3ZWdld6MXRLWUM0ODNqV1NVVVBMOU5BeWhwdVpLQUZxTHh1NVhXZzA?oc=5",
+        "description": "",
+        "pubDate": "2025-11-05T06:10:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
