@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-11-05T11:32:08.704498Z",
+  "lastUpdate": "2025-11-05T11:46:15.301578Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Goldfish [$15.00] [Platformer]",
+        "link": "https://gabry-corti.itch.io/goldfish",
+        "description": "game",
+        "pubDate": "2025-11-05T11:02:04Z",
+        "source": "gabry-corti.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTQ2MjIwLnBuZw==/315x250%23c/Dqql2F.png",
+        "bias": 0
+      },
       {
         "title": "Plants vs Zombies: Real Life Edition [Free] [Puzzle] [Windows]",
         "link": "https://ranzsba27.itch.io/plants-vs-zombies-real-life-edition",
@@ -165,12 +174,12 @@
         "bias": 0
       },
       {
-        "title": "dominos [Free] [Windows]",
-        "link": "https://kaovtik.itch.io/dominos",
-        "description": "dominos",
-        "pubDate": "2025-11-05T08:55:40Z",
-        "source": "kaovtik.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTQ1MjYyLnBuZw==/315x250%23c/XoMRgc.png",
+        "title": "Foxy Scroller [Free] [Platformer]",
+        "link": "https://someguy012.itch.io/foxy-scroller",
+        "description": "A simple 2D sidescroller",
+        "pubDate": "2025-11-05T08:35:15Z",
+        "source": "someguy012.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTQ1MzQ0LnBuZw==/315x250%23c/1CFbEd.png",
         "bias": 0
       },
       {
@@ -211,6 +220,51 @@
       }
     ],
     "World": [
+      {
+        "title": "‘Nothing revolutionary’ about Russia’s nuclear-powered missile: Experts",
+        "link": "https://www.aljazeera.com/news/2025/11/5/nothing-revolutionary-about-russias-nuclear-powered-missile-experts?traffic_source=rss",
+        "description": "Putin has touted cruise missile Burevestnik and torpedo Poseidon as game-changing weapons as the Ukraine war rages on.",
+        "pubDate": "2025-11-05T11:35:12Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Supreme Court weighs Trump tariffs in a trillion-dollar test of executive power - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdGFkLW5kN3RwejhweDlQZnRUckdQWURyMV94U2JCTnM2eWl2d21aZUhsUElaVzNMWXhpLUZ4ZVpyUkhIVlc1d2d3QkVBSGwxNnYzVVNFS1VzWFJzMHB3Y2k0R3pISlVjWnIxa0JEQWV3bnUtS1k0TXhuMnRvYlJOOXQ2UEdIUmxLX0VwUWF5bEY?oc=5",
+        "description": "",
+        "pubDate": "2025-11-05T11:35:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "New York City just elected Zohran Mamdani. What now? | Start Here",
+        "link": "https://www.aljazeera.com/video/start-here/2025/11/5/new-york-city-just-elected-zohran-mamdani-what-now-start-here?traffic_source=rss",
+        "description": "State assemblyman goes from a political unknown to the next mayor of New York City.",
+        "pubDate": "2025-11-05T11:30:32Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Massive fireball erupts as UPS plane crashes at Kentucky airport, leaving 7 dead - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUERrODBwT05rSFhVRHAtbW9yV3JJMmtPNnRVTDNtQmtnX1hrV3g0cXZFVGpwa3JtSUt0TkdCYnRsUVc3Sm85YjhrSmFjaGtaaHpjSmJXS24zZlRuMTUxLWJsamdZeC1iUzZGdDZqU3BhcWU4c29XWVJ2aDdZZ3R5U0JzbTdfeThoVlVWYTlDYjFrejVraWpDeksxS2kwcElqMFlmUEpR?oc=5",
+        "description": "",
+        "pubDate": "2025-11-05T11:24:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "EU waters down climate target in last-ditch deal before COP30 in Brazil",
+        "link": "https://www.aljazeera.com/news/2025/11/5/eu-waters-down-climate-target-in-last-ditch-deal-ahead-of-cop30?traffic_source=rss",
+        "description": "Bloc agrees compromises to win over sceptical countries as climate concerns take backseat to trade and defence.",
+        "pubDate": "2025-11-05T11:23:03Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "'Mandate for change': Zohran Mamdani wins New York City mayoral election",
         "link": "https://www.bbc.com/news/articles/ceq01l8reqlo?at_medium=RSS&at_campaign=rss",
@@ -311,6 +365,15 @@
         "bias": -1
       },
       {
+        "title": "Drone sightings disrupt flights at Belgium’s main airport - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOemctRDYyNEtCdEFuLTUzam52MkZHazlfQmEyd3cyMm9mZ05hTk9kWHptNERveWJLc0lpZ0NqVnRwZjhzclBrUHU1cEItMDhZbDhhSmFyNjhuTjNfVFJTQTVhVmJNMWJwaVhIellzUzI3c0liZHdrbHBENzl0TS1Ec0lOdDB3WDgwc1pKekRwNTRLcVA4?oc=5",
+        "description": "",
+        "pubDate": "2025-11-05T10:01:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "UN chief warns Gaza stabilisation force must have international legitimacy",
         "link": "https://www.aljazeera.com/news/2025/11/5/un-chief-warns-gaza-stabilisation-force-must-have-international-legitimacy?traffic_source=rss",
         "description": "Antonio Guterres tells Al Jazeera, ceasefire in Gaza remains 'fragile' as more aid is needed to 'eliminate famine'.",
@@ -343,7 +406,7 @@
         "description": "At his New York victory rally, Zohran Mamdani gave a nod to Nehru’s iconic speech marking India's independence.",
         "pubDate": "2025-11-05T09:15:41Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10f5/live/c707d590-ba1e-11f0-b2a1-6f537f66f9aa.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1206/live/2c1c3140-ba3a-11f0-ba75-093eca1ac29b.jpg",
         "bias": 0
       },
       {
@@ -572,15 +635,6 @@
         "bias": 0
       },
       {
-        "title": "Massive fireball erupts as UPS plane crashes at Kentucky airport, leaving 7 dead - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUERrODBwT05rSFhVRHAtbW9yV3JJMmtPNnRVTDNtQmtnX1hrV3g0cXZFVGpwa3JtSUt0TkdCYnRsUVc3Sm85YjhrSmFjaGtaaHpjSmJXS24zZlRuMTUxLWJsamdZeC1iUzZGdDZqU3BhcWU4c29XWVJ2aDdZZ3R5U0JzbTdfeThoVlVWYTlDYjFrejVraWpDeksxS2kwcElqMFlmUEpR?oc=5",
-        "description": "",
-        "pubDate": "2025-11-05T05:43:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "What does Mamdani’s win mean for the future of the Democratic Party?",
         "link": "https://www.aljazeera.com/news/2025/11/5/what-does-mamdanis-win-mean-for-the-future-of-the-democratic-party?traffic_source=rss",
         "description": "Supporters say Mamdani offers bold blueprint for Democrats in age of Trump, even as some top officials remain reticent.",
@@ -615,54 +669,45 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Tuesday’s races were a quiet rebuke of Trump for many voters, AP Voter Poll finds - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSHdWVjlFMzF4c19oekZPd3oyaEZWZzREbmM0MXY3N1JrdU9fUGpFQVI5Rzk3bkZvWFRsMUwzU1NaVFA0Y3VsSVBiV1ltZnhRXzZ0TDFldXdPQ2M0WkZMQWZWbGpzaVNEYU5CTEN6d1dIVnh6aERRU2ZHNmhHTDR3X29Ic3RuVG84UWtzSHFZTWwzQlUyeC1ta2tTNHdiM2N1TmNSMEtQT1Q?oc=5",
-        "description": "",
-        "pubDate": "2025-11-05T05:31:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Live: Israeli air attacks, shelling, demolition campaign hit southern Gaza",
-        "link": "https://www.aljazeera.com/news/liveblog/2025/11/5/live-israeli-air-attacks-shelling-demolition-campaign-hit-southern-gaza?traffic_source=rss",
-        "description": "Southern Gaza witnesses raids, intensive artillery shelling as Israel continues its attacks, violating the ceasefire.",
-        "pubDate": "2025-11-05T05:30:01Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "In Mamdani’s win, New York has reclaimed democracy from those who sold it",
-        "link": "https://www.aljazeera.com/opinions/2025/11/5/mamdanis-win-a-rejection-of-genocide-donor-rule-and-the-democratic-elite?traffic_source=rss",
-        "description": "By electing Zohran Mamdani, New York voters endorsed public duty over donor loyalty and truth over silence on Gaza.",
-        "pubDate": "2025-11-05T05:28:09Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Zohran Mamdani’s rise from Queens lawmaker to New York City mayor - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeHF2TlJkcE5fakd4a1JqUWhNS3N2TE1IOTVfRVJDeFNIeVZfT1hmc0wzMDM5QzRtanFpampUSWp1ajFlVzN5LU1aeHpLcEo3UUtBV2hRdDFLVzktejZnWWJjQkF5d1BaX1dkRFl6VjBYZmZlN3BjLXdnV29hVnhMUUk4VE9TaWlvRzFlb0phTWVnSThVaHdlZjhicGlTOVJySUFEX1VkZU4wVXc?oc=5",
-        "description": "",
-        "pubDate": "2025-11-05T05:19:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "What to know about the Supreme Court arguments over Trump’s tariffs - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbU5hZlFTencyVm9Tb1NockJlQkFTaDRLX3BlRU5tbkZBazQxcFJ5cnJnQ2xjM3RhQllhTUxZbzlkSmdOOWZiT19CMDNFdjlNSkNmdW5aVXF2Yk9xb0RjdnlBTWdBdm5nejdJNHBkTUg3ZEl3Nk53YVVkcUJ1cDdxb1ljVDBtRF92VUVvcWpfcGg?oc=5",
-        "description": "",
-        "pubDate": "2025-11-05T05:07:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Democrats sweep key races across the country",
+        "link": "https://www.npr.org/2025/11/05/nx-s1-5598473/democrats-sweep-key-races-across-the-country",
+        "description": "Democrats celebrated major victories in key races across the country Tuesday night, winning gubernatorial races in Virginia and New Jersey, as well as New York City's closely watched mayoral race.",
+        "pubDate": "2025-11-05T11:32:21Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Analyst Larry Sabato talks about Tuesday's election results and what they mean",
+        "link": "https://www.npr.org/2025/11/05/nx-s1-5597840/analyst-larry-sabato-talks-about-tuesdays-election-results-and-what-they-mean",
+        "description": "NPR's Leila Fadel discusses the issues and influences that defined Tuesday's election wins and losses with University of Virginia political analyst Larry Sabato.",
+        "pubDate": "2025-11-05T11:32:14Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Abigail Spanberger, Virginia's first woman governor, talks about Tuesday's win",
+        "link": "https://www.npr.org/2025/11/05/nx-s1-5598547/abigail-spanberger-virginias-first-woman-governor-talks-about-tuesdays-win",
+        "description": "Democrat Abigail Spanberger will be Virginia's next governor, defeating her Republican opponent, Lt. Gov. Winsome Earle-Sears. She joins NPR to talk about becoming Virginia's first woman governor.",
+        "pubDate": "2025-11-05T11:32:06Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Rep. Mikie Sherrill talks about becoming New Jersey's next governor",
+        "link": "https://www.npr.org/2025/11/05/nx-s1-5598481/rep-mikie-sherrill-talks-about-becoming-new-jerseys-next-governor",
+        "description": "Democratic Rep. Mikie Sherrill will be New Jersey's next governor, defeating a Trump-backed Republican challenger Tuesday. NPR speaks to her about the win.",
+        "pubDate": "2025-11-05T11:31:52Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "The government shutdown is now the longest in U.S. history. See how it compares",
         "link": "https://www.npr.org/2025/11/05/nx-s1-5598315/government-shutdown-longest-history",
@@ -727,33 +772,6 @@
         "bias": -1
       },
       {
-        "title": "Zohran Mamdani wins historic New York City mayoral race",
-        "link": "https://www.npr.org/2025/11/05/nx-s1-5578238/zohran-mamdani-wins-historic-new-york-city-mayoral-race",
-        "description": "Zohran Mamdani, a Democratic socialist, will be the next mayor of New York City. NPR's A Martinez speaks to WNYC'S Brigid Bergin about the race that energized young voters and the challenges he faces.",
-        "pubDate": "2025-11-05T09:41:12Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "California voters approve ballot measure to redraw the state's congressional map",
-        "link": "https://www.npr.org/2025/11/05/nx-s1-5591123/california-voters-approve-ballot-measure-to-redraw-the-states-congressional-map",
-        "description": "California voters easily approved Proposition 50, a ballot measure to redraw the state's congressional map to favor Democrats and counter Trump-backed redistricting in Texas.",
-        "pubDate": "2025-11-05T09:40:34Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Rep. Suzan DelBene, D-Wash., on California voters approving a new congressional map",
-        "link": "https://www.npr.org/2025/11/05/nx-s1-5598293/rep-suzan-delbene-d-wash-on-california-voters-approving-a-new-congressional-map",
-        "description": "Rep. Suzan DelBene, who chairs the Democratic Congressional Campaign Committee, talks about California voters approving a new congressional map and what it means for Democratic redistricting efforts.",
-        "pubDate": "2025-11-05T09:40:28Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "Journalist Tara Palmeri discusses political challenges ahead for Mamdani after decisive victory - AP News",
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbkNtTnExZFltOGJwVlNIeHdlX2tESFlOeGtLeHQwQUlGdlN6UDZMRklpbWpoZFZITnlrTWljRnJNLWNidjVGRVJMWHd6cldhbEVqQ1RQQ25HVHppY0hfMXpfeUhMdTBtRk1zTzVWQndLb3FrU2kwRXlqbE12T0pLOTA0b1duUlBwUWFrdTBfUF9IaHhha1NvaGtkVHp5YUJsZV9oS2F2LXFNeWw5YWg3em9CMlRKZ2JBSno1X2cxZEVWWWd2cjlzaDlsUHdGeVg3MXpzMkhITF9pUzJnWEh6ZFhQSWw0VEx1?oc=5",
         "description": "",
@@ -763,19 +781,19 @@
         "bias": 0
       },
       {
-        "title": "Election Night highlights: Democrats notch wins in first major elections since Trump returned to power - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZM2kydThNRnc0UGpqVEo2bWp0NzFHUU1rb0RlczdBd0h5R0EtNndNNEVhbVNoakNZdE1GT1BTNVkxMnNDTFJCc3k1bEl1VjAxRXlNTGFjV1V1bUpGb21V?oc=5",
+        "title": "Zohran Mamdani wins NYC mayor’s race: ‘We have toppled a political dynasty’ - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUHpiYXQ3c2Fzb1JYTmprQkhoWnVQTGV5dUpKcFRjSG1ka0M1OXJvZmJ2YkRlTnhfbVR0dTBZRHdya1FwblZfemNXLVYweTZQd2I2VEdBZkFNaDBKcEFXRlp1R2JuU1R0R01BSy05T0k4MHpUOXFQeHRIVkZKV0RXX1hicVVOa1RMTDlBZHdyWldPeWxjR2tRcWozSVR2TkthRzNvQVJxUVpvWDhZLUIzV0M1RjRuQXhVeURjMmhieGw0Y01ZdmJ0UA?oc=5",
         "description": "",
-        "pubDate": "2025-11-05T05:59:00Z",
+        "pubDate": "2025-11-05T05:40:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Zohran Mamdani wins NYC mayor’s race: ‘We have toppled a political dynasty’ - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUHpiYXQ3c2Fzb1JYTmprQkhoWnVQTGV5dUpKcFRjSG1ka0M1OXJvZmJ2YkRlTnhfbVR0dTBZRHdya1FwblZfemNXLVYweTZQd2I2VEdBZkFNaDBKcEFXRlp1R2JuU1R0R01BSy05T0k4MHpUOXFQeHRIVkZKV0RXX1hicVVOa1RMTDlBZHdyWldPeWxjR2tRcWozSVR2TkthRzNvQVJxUVpvWDhZLUIzV0M1RjRuQXhVeURjMmhieGw0Y01ZdmJ0UA?oc=5",
+        "title": "Election Night highlights: Democrats notch wins in first major elections since Trump returned to power - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZM2kydThNRnc0UGpqVEo2bWp0NzFHUU1rb0RlczdBd0h5R0EtNndNNEVhbVNoakNZdE1GT1BTNVkxMnNDTFJCc3k1bEl1VjAxRXlNTGFjV1V1bUpGb21V?oc=5",
         "description": "",
-        "pubDate": "2025-11-05T05:40:00Z",
+        "pubDate": "2025-11-05T05:34:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
