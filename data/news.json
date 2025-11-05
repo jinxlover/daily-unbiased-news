@@ -1,11 +1,20 @@
 {
-  "lastUpdate": "2025-11-05T05:42:27.584133Z",
+  "lastUpdate": "2025-11-05T05:55:23.648135Z",
   "news": {
     "Gaming": [
       {
+        "title": "Corgi Battle Cars [Free]",
+        "link": "https://koolkidgaming.itch.io/corgi-battle-cars",
+        "description": "",
+        "pubDate": "2025-11-05T05:37:32Z",
+        "source": "koolkidgaming.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTQzOTg2LnBuZw==/315x250%23c/XRJEgD.png",
+        "bias": 0
+      },
+      {
         "title": "Tic Tac Tap [Free] [Puzzle] [Windows] [Android]",
         "link": "https://the-cokebear.itch.io/tic-tac-tap",
-        "description": "",
+        "description": "The classic Tic-Tac-Toe, reimagined and supercharged!",
         "pubDate": "2025-11-05T05:22:04Z",
         "source": "the-cokebear.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzOTQ0MTczLnBuZw==/315x250%23c/%2BAxHrK.png",
@@ -147,15 +156,6 @@
         "bias": 0
       },
       {
-        "title": "Environment - Light & Flower [Free]",
-        "link": "https://shellyzhang.itch.io/environment-light-flower",
-        "description": "",
-        "pubDate": "2025-11-05T02:43:26Z",
-        "source": "shellyzhang.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTQyOTA1LnBuZw==/315x250%23c/z%2BRcYa.png",
-        "bias": 0
-      },
-      {
         "title": "Jogo do reino [Free]",
         "link": "https://manuukrieck.itch.io/jogo-do-reino",
         "description": "",
@@ -165,30 +165,12 @@
         "bias": 0
       },
       {
-        "title": "Solar Journey Retro [Free] [Simulation] [Windows]",
-        "link": "https://dobybaxter127.itch.io/solar-journey-retro",
-        "description": "",
-        "pubDate": "2025-11-05T02:28:25Z",
-        "source": "dobybaxter127.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTQyNzM0LnBuZw==/315x250%23c/bB0xn0.png",
-        "bias": 0
-      },
-      {
         "title": "Potent Prankster [Free] [Puzzle] [Windows] [macOS]",
         "link": "https://kanoesa.itch.io/potent-prankster",
         "description": "Mess up potions (for a good cause!)",
         "pubDate": "2025-11-05T02:20:13Z",
         "source": "kanoesa.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzOTQyNjk1LnBuZw==/315x250%23c/%2Fh3e90.png",
-        "bias": 0
-      },
-      {
-        "title": "Monkey Cannon [Free] [Other]",
-        "link": "https://criticalhitgames00.itch.io/monkey-cannon",
-        "description": "",
-        "pubDate": "2025-11-05T01:54:50Z",
-        "source": "criticalhitgames00.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTQyODI1LnBuZw==/315x250%23c/SijCg8.png",
         "bias": 0
       },
       {
@@ -206,7 +188,34 @@
         "title": "Zohran Mamdani wins NYC mayor’s race, capping a stunning ascent - AP News",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRmszM0FUV3ZxT3RQNDU5QmlCUmdKU0N0QTdhRVg1SVpFVEcxRVZnSzlHU0dYR2IybnhlbzQ4dWdCb2M5NnlTZUZoUnpOd2NESW9TNmR0dUhhcXkyN2FzTWxtOUpNTlpRVUFpcU9NeVNqd1FncW5Db2hocENIbGlrbGoyaEktdzlFMWhTM3ItMFlkZGs?oc=5",
         "description": "",
-        "pubDate": "2025-11-05T05:03:00Z",
+        "pubDate": "2025-11-05T05:38:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Live: Israeli air attacks, shelling, demolition campaign hit southern Gaza",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/11/5/live-israeli-air-attacks-shelling-demolition-campaign-hit-southern-gaza?traffic_source=rss",
+        "description": "Southern Gaza witnesses raids, intensive artillery shelling as Israel continues its attacks, violating the ceasefire.",
+        "pubDate": "2025-11-05T05:30:01Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Mamdani’s win: A rejection of genocide, donor rule and the Democratic elite",
+        "link": "https://www.aljazeera.com/opinions/2025/11/5/mamdanis-win-a-rejection-of-genocide-donor-rule-and-the-democratic-elite?traffic_source=rss",
+        "description": "By electing Zohran Mamdani, voters endorsed public duty over donor loyalty and truth over silence on Gaza.",
+        "pubDate": "2025-11-05T05:28:09Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Trump tariffs face Supreme Court test in trillion-dollar test of executive power - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdGFkLW5kN3RwejhweDlQZnRUckdQWURyMV94U2JCTnM2eWl2d21aZUhsUElaVzNMWXhpLUZ4ZVpyUkhIVlc1d2d3QkVBSGwxNnYzVVNFS1VzWFJzMHB3Y2k0R3pISlVjWnIxa0JEQWV3bnUtS1k0TXhuMnRvYlJOOXQ2UEdIUmxLX0VwUWF5bEY?oc=5",
+        "description": "",
+        "pubDate": "2025-11-05T05:06:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -236,6 +245,15 @@
         "pubDate": "2025-11-05T04:47:15Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0835/live/fadb9060-b9c3-11f0-b2a1-6f537f66f9aa.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Chinese astronauts face delayed return to Earth after spacecraft possibly hit by small debris - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd1YzZ2V3enU0bVotUVhpSE5mZl9QNFQyd2RaanFkLXE1dXNpVVQyblJZMHdxM21KcnY0a19oTGxlVl9sUkhBWlpqZHkxUVptNTk3djdjS0hVUzBVUXNvN3ptWEI2N3RKV2dGNXRpR0ZkeW5CaUZOLS1zMzMwdDg4bWxqMy1CZmNlR0dfQlhjSVdsaWxzcHJPMUdEY0FJMEY2ZkJLR19PZw?oc=5",
+        "description": "",
+        "pubDate": "2025-11-05T04:24:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -381,6 +399,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Vietnam rethinks its flood strategy as climate change drives storms and devastation - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdC1nbURCVlRBZ3ZBcDlfc1RhTG9VWTdtb0Jrb1ZEYjRmVWhPRm9PSkxDcWxReWtmYUI3ai1PdEM0UlVvRmdZeUhMaExLSUFJY21WWU84WXk0UmJreEJhLVNTN2RGOXpKRXNoT1lMZ3FKbHU1eWlqRlRpZXJkUklfSFpDUDByMlJ3NUM3UjdDM2FVVzlPZHV5Mk9HLXMzbkU?oc=5",
+        "description": "",
+        "pubDate": "2025-11-05T03:11:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "More than 60 dead as typhoon wreaks havoc in the Philippines",
@@ -583,6 +610,15 @@
         "bias": 0
       },
       {
+        "title": "Democrats dominate as economic woes take a toll on Trump's GOP. Takeaways from Election Day 2025 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRmsyRlZ2bTUwYUVyR29fOWdHdU5VTEhJWS1nWDVuY3pReUVRNlVJZ3N0SkVjTjVWRjNnT0NHR0lyNTZkbks1c0VaZHA1YU80NDdmUGNBbndBVFhoeXZQenZqcC0xYkxGd3FrVzdWTEFTaVV4WVA2N21nV0Znd0hpeVcyeVZiMGpzRGVqM0laelYyVUVZamxGVEppSTN5RElxVE1nRm5IME02VTZQN2ViME5sekE?oc=5",
+        "description": "",
+        "pubDate": "2025-11-05T04:40:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Zohran Mamdani will be the next mayor of New York City",
         "link": "https://www.npr.org/2025/11/04/nx-s1-5598399/zohran-mamdani-will-be-the-next-mayor-of-new-york-city",
         "description": "The 34-year-old, Ugandan-born democratic socialist defeated former New York Gov. Andrew Cuomo, who ran as an Independent, in Tuesday's election, according to a race call by the Associated Press.",
@@ -599,15 +635,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Democrats cruising as economic woes take a toll on Trump's GOP. Takeaways from Election Day 2025 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRmsyRlZ2bTUwYUVyR29fOWdHdU5VTEhJWS1nWDVuY3pReUVRNlVJZ3N0SkVjTjVWRjNnT0NHR0lyNTZkbks1c0VaZHA1YU80NDdmUGNBbndBVFhoeXZQenZqcC0xYkxGd3FrVzdWTEFTaVV4WVA2N21nV0Znd0hpeVcyeVZiMGpzRGVqM0laelYyVUVZamxGVEppSTN5RElxVE1nRm5IME02VTZQN2ViME5sekE?oc=5",
-        "description": "",
-        "pubDate": "2025-11-05T02:42:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Mamdani wins New York City mayoral race, in a historic victory for progressives",
@@ -705,7 +732,7 @@
         "bias": 0
       },
       {
-        "title": "Britain sliding 'into economic crisis' over £85bn sickness bill",
+        "title": "Britain sliding 'into economic crisis' over £85bn sickness bill, ex-John Lewis boss warns",
         "link": "https://www.bbc.com/news/articles/c7v80n7mz2jo?at_medium=RSS&at_campaign=rss",
         "description": "The number of people who are out of work for health reasons has grown by 800,000 since 2019.",
         "pubDate": "2025-11-05T00:13:35Z",
