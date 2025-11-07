@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-11-07T22:55:23.873225Z",
+  "lastUpdate": "2025-11-07T23:17:46.464813Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Not too Far [Free] [Adventure]",
+        "link": "https://bspring.itch.io/not-too-far",
+        "description": "Help little Luna to find her mother",
+        "pubDate": "2025-11-07T22:52:34Z",
+        "source": "bspring.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTgwMzY1LnBuZw==/315x250%23c/8OmE4n.png",
+        "bias": 0
+      },
       {
         "title": "Shooting Star [Free] [Action]",
         "link": "https://outsideofthebox.itch.io/shooting-star",
@@ -210,15 +219,6 @@
         "bias": 0
       },
       {
-        "title": "Dress me - Suzy [Free]",
-        "link": "https://digital-workshop22.itch.io/dress-me-suzy",
-        "description": "",
-        "pubDate": "2025-11-07T20:44:55Z",
-        "source": "digital-workshop22.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTc5MDAyLnBuZw==/315x250%23c/V%2BoW7a.png",
-        "bias": 0
-      },
-      {
         "title": "Lilow garden [Free] [Simulation] [Windows]",
         "link": "https://kumo-oficcial.itch.io/lilow-garden",
         "description": "",
@@ -246,15 +246,6 @@
         "bias": 0
       },
       {
-        "title": "You Died, Actually [Free] [Puzzle]",
-        "link": "https://oy-and-ow-games.itch.io/you-died-actually",
-        "description": "Convince a ghost they died, discover how, and set them free.",
-        "pubDate": "2025-11-07T18:42:28Z",
-        "source": "oy-and-ow-games.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTc3NTE5LnBuZw==/315x250%23c/Bp8qnR.png",
-        "bias": 0
-      },
-      {
         "title": "Past the Door [Free]",
         "link": "https://rk02342n.itch.io/past-the-door",
         "description": "",
@@ -265,6 +256,51 @@
       }
     ],
     "World": [
+      {
+        "title": "UN warns Gaza aid still too slow as Israel restricts supplies despite truce",
+        "link": "https://www.aljazeera.com/news/2025/11/7/un-warns-gaza-aid-still-too-slow-as-israel-restricts-supplies-despite-truce?traffic_source=rss",
+        "description": "Palestinians are still facing shortages of food, water, medicine and other supplies as a result of Israeli restrictions.",
+        "pubDate": "2025-11-07T23:02:02Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "US airlines cancel 1,000 flights while complying with shutdown order - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTF9fcjBrdHNOVlZ5dWpkYTBwcHVXeGd1SDNRWktnS0ZScXpnZ1Q1SDFFZ3hZZEVfbzhLM3pQYTd3a0tPQnRYTWluTUVCaHVTWEVIbnBoSW5qZmpSRmRXR3FzZU9TZnVkbl9DWVJFV3BfMy1GYU8xZ2JkS0JieFVvUFU1VUlqVHFCSnVJWmkxQzh6RmIzNkpKSXIxR3NKTHlWcVE?oc=5",
+        "description": "",
+        "pubDate": "2025-11-07T23:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Turkiye issues arrest warrant for Israel’s Netanyahu over Gaza ‘genocide’",
+        "link": "https://www.aljazeera.com/news/2025/11/7/turkiye-issues-arrest-warrant-for-israels-netanyahu-over-gaza-genocide?traffic_source=rss",
+        "description": "Turkiye accuses Israeli officials of 'genocide and crimes against humanity' over Israel's war on Gaza.",
+        "pubDate": "2025-11-07T22:59:14Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Can the US expand its influence in Central Asia?",
+        "link": "https://www.aljazeera.com/video/inside-story/2025/11/7/can-the-us-expand-its-influence-in-central-asia?traffic_source=rss",
+        "description": "US President Donald Trump has held a summit with five leaders from the resource-rich region.",
+        "pubDate": "2025-11-07T22:46:37Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "James Watson, who co-discovered DNA double helix, dies at 97",
+        "link": "https://www.aljazeera.com/news/2025/11/7/james-watson-who-co-discovered-dna-double-helix-dies-at-97?traffic_source=rss",
+        "description": "Scientist helped break new ground in study of genetics, but later caused outcry with promotion of racist ideas.",
+        "pubDate": "2025-11-07T22:44:26Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "What to know about 10% reduction in flights at US airports caused by the government shutdown - AP News",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORHhtdm9tRk5ZdUI5YldsZ3dyUFpsd2hrT3luV2tVdWJMaGdzb0QwZFBKd0xrTldBQ1N2dG9HR1BIUjBscGZCdzlqb0E0N1FLRHFyTUNaVGhYLUtsTzBrNkpCbVZFZDV6OGxzMlJYT0c5WEtBSGkydDYzMmNMdWNjYlR4Ym1DNGFDeXYzS3BWUC0xSU5GRnNzMTlINmFpUQ?oc=5",
@@ -293,10 +329,19 @@
         "bias": -1
       },
       {
-        "title": "US travelers scramble to adjust as airlines cut 1,000 flights because of shutdown - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTF9fcjBrdHNOVlZ5dWpkYTBwcHVXeGd1SDNRWktnS0ZScXpnZ1Q1SDFFZ3hZZEVfbzhLM3pQYTd3a0tPQnRYTWluTUVCaHVTWEVIbnBoSW5qZmpSRmRXR3FzZU9TZnVkbl9DWVJFV3BfMy1GYU8xZ2JkS0JieFVvUFU1VUlqVHFCSnVJWmkxQzh6RmIzNkpKSXIxR3NKTHlWcVE?oc=5",
+        "title": "Trump says US to boycott G20 in South Africa, repeating allegations about treatment of white farmers - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaVRyLWVGdUlyS3ppNE84VDF5WE5WLTgtbEMwLTcyUDljeHloTHVwQnlLczFlSmQxSlhQR0xXcllFbVhPLTBFendnMFpEaGNSZG9seW9JUnVwUUFUSXAzTXd5WDluZUVEWk5RUWpJUFpXNzFmcWFvNGZrLXdzczhRSTB1UUJrUHRGRmNJVWpSbkc0cVV4?oc=5",
         "description": "",
-        "pubDate": "2025-11-07T22:00:00Z",
+        "pubDate": "2025-11-07T22:20:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "FACT FOCUS: Trump says Thanksgiving dinner will cost 25% less this year. His numbers are misleading - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemF3NENieVNpYWx6TjZiV3h6Y2xrak1xTEhfWmRPRjYyNkc5VGtwYVFLYlRsMTV3OXlQd19ZemdNM255UGZSeGd1OUk1YWoyN2hRVmRDdkZjZmhVbnJEQ1lzc2RucnpPaXdZOFZiNFpyOGstc0ZuNlBVbHVldDlMYmp1X05ncll3VGlJODlEdG1UUzdpY1NEaDRwWjdLVi1TN0EwTmI5Q3JWTmw3RkE?oc=5",
+        "description": "",
+        "pubDate": "2025-11-07T22:20:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -347,6 +392,15 @@
         "bias": 0
       },
       {
+        "title": "Hegseth says he wants the Pentagon to prioritize speed over cost when buying weapons - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNWF4RTVyNlpHbHh3ak9RbXB4ZzhiYVJrV25mR0F1OHlkR1NYVFlRQ2k4LXM4ZGd5bVV3bFZXREtGQ1dXbzh1eXlyS3RKeHZ5ZEMyZFVVLW5kZ0p1bGV2VHJXMXRmQzdOZFlXQ1RYai1mVkt3UTJKMXFwUGx4VEdnQ0dHQWVEVWM5VFZxSkk4UDlTZmY4VFhFenJ3?oc=5",
+        "description": "",
+        "pubDate": "2025-11-07T21:18:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Israel receives coffin Hamas says contains body of Gaza hostage",
         "link": "https://www.bbc.com/news/articles/cwykw15dx56o?at_medium=RSS&at_campaign=rss",
         "description": "If the body is identified as a hostage, five dead hostages will remain in Gaza and still need to be returned under a ceasefire deal.",
@@ -381,15 +435,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Trump pardons former Mets great Darryl Strawberry on past tax evasion and drug charges - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSldwd0sxa3pTdmZGelowWWVOU1Fmak1saTdWZWZUaENOUWdMNUVSUmdPMlE0eS1nTlR3a0hZa0JCdDhsUk40UTBnSjJLNmx1ZGNfSC1zS0pMM0MxT0hQZERpZmF1dDVtOFZ4WU02QTF1NE82T2ExZE9xQlBSU2MyZXVudk5NSFJseVJvbURDM3ExZ1haaUJjNi1mUTVXYk8wOTRhdjF2ZnRMQQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-07T20:10:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Why Mo Amer jokes to survive",
@@ -480,6 +525,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Trump's energy secretary slams UN climate conference in Brazil, where US absence is glaring - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMWlpV2NTTXUydFJNR3hEbm40cmhZek1abnpsRjh4NUg1THh3RXZiVHBVLTZYOGVRS3U3LUJrMmZhOTdjeXo3LUxRV24zbEpfb1FTWURzNW1mZWhUaVFfNVVqMXRKUFVQMHVOUHpIV0tLSVlPd2htNDF2M0VyUEFtbDFSNzRMZFFkcFM1ZEJueXJLSDRvaldKaW1pMDh3RjZ6Z3RDbGJlaExsOVVH?oc=5",
+        "description": "",
+        "pubDate": "2025-11-07T18:54:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Ex-NFL player Antonio Brown waives extradition on attempted murder charge, will return to Miami - AP News",
@@ -651,69 +705,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Belgium rushes to secure drone defences after airport disruption",
-        "link": "https://www.bbc.com/news/articles/c8r04ld1gz2o?at_medium=RSS&at_campaign=rss",
-        "description": "After drone sightings cause Zaventem airport near Brussels to close temporarily, Belgium turns to its European allies for help.",
-        "pubDate": "2025-11-07T16:10:09Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d8a/live/babb84a0-bbed-11f0-8669-5560f5c90fbe.jpg",
-        "bias": 0
-      },
-      {
-        "title": "FAA scales back flights at 40 airports. See the impact in photos - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQi1KNWNyaVhUWWVtOGxibEJkVWtpWWY1el8zcnRFUll2cXk1ZUZYVXR0RXJVZkxOMlFvUHZEamUwdVdfc0V5NGwwSFEyajBaVXZGZ1Z3eGh5MGhHMW1zWVNGNjE0YlFmdk0wZ21xRFN4QWFhYWxyYm9CcHU4MUJQLTA1MWlFQnVOX0tFSEZWdU1qcEJTNXFCcGRnNThraWVwZm9hYS1Xa05VVWF2aFJfMFFMaDQtMnF5SHc?oc=5",
-        "description": "",
-        "pubDate": "2025-11-07T16:05:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Silenced: The War on Journalism",
-        "link": "https://www.aljazeera.com/video/featured-documentaries/2025/11/7/silenced-the-war-on-journalism?traffic_source=rss",
-        "description": "A gripping look at journalism’s ultimate sacrifice, told through stories of courage, loss and unwavering conviction.",
-        "pubDate": "2025-11-07T16:00:00Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Serbia passes a special bill enabling Trump's son-in-law to build luxury compound despite opposition - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONndvUV9Nc0VsNy14cXkwbG1iX3FlalZjejkxRkJlUXZEalBEX1F6XzRkSTQ5ODJSTGRSMzlQSFZPOVF0UEQxTlJvN3JvUGVlb2tXMXhjT2JaMkthX3RmMHZrbk5ZdWJjakVzd2ZjY2txY3JCaGVKRlYzNTVGWmgtUUI0aEc1b3NRSG5mWmMyOE9yQWdaRHFaSEs0MWhXakk?oc=5",
-        "description": "",
-        "pubDate": "2025-11-07T15:57:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Hungarian leader Viktor Orban meets US President Donald Trump",
-        "link": "https://www.aljazeera.com/news/2025/11/7/hungarian-leader-viktor-orban-to-meet-us-president-donald-trump?traffic_source=rss",
-        "description": "Hungary's nationalist prime minister seeks permission to buy Russian oil despite US sanctions.",
-        "pubDate": "2025-11-07T15:51:30Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "EU tightens visa restrictions on Russians over the Ukraine war and acts of sabotage - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRUhsSE5fdGcxNWZyd0lNV25nTWR5S1I3YkZuUUt0YlptU1dRV2hVd19IQTNsTWwzdjhnbTREMmZpbGpGMkdtT2paSU1PS01yS3Z6M0cxWnE5LW1TT3pPSFU5OXFFb1dWLVpHQi1kN1YxWTZkWXpRSTRscnBRWjNlRjRmbUVvcVJMTE45blEtUW5PWnI3YTBqNTVQbENEZmhUNWl6dlZR?oc=5",
-        "description": "",
-        "pubDate": "2025-11-07T15:38:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "More than 50 people injured in mosque blast at Jakarta high school",
-        "link": "https://www.bbc.com/news/articles/clykgdg3l42o?at_medium=RSS&at_campaign=rss",
-        "description": "Authorities say a 17-year-old suspected of causing the explosion during Friday prayers is in surgery.",
-        "pubDate": "2025-11-07T15:26:41Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cf3/live/010a9fb0-bbba-11f0-aa13-0b0479f6f42a.jpg",
-        "bias": 0
       }
     ],
     "Politics": [
@@ -736,10 +727,28 @@
         "bias": 0
       },
       {
+        "title": "Marshawn Kneeland's death highlights the importance of mental health resources for NFL players - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN1pfMjVJWmV4OXNmbk11NVJCYXBjQnhtSXI3V0dscklRSGhLUGczQlE1NDYxV294WHc0blA1UVVlWUp3SktPWHRUek9nQ1QxMlZvV0p6ZE9xRElDd3F5VFNQT1lKdEEtYlRaZlkxWGsyakUyWVZSVWVYeVpyZHJIcDRn?oc=5",
+        "description": "",
+        "pubDate": "2025-11-07T22:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Kendrick Lamar leads 2026 Grammy nominations, followed by Lady Gaga, Jack Antonoff and Cirkut - AP News",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNHJOdzlScVhhVXRNQm9hVEwtTGJteUpRS1oyRTUzZ2FTQVppYjFmckJqMXdpMnVEMl83RVduNVZZSFRJZlFZd1dvOWUzYzlYTFp0dkRIQWhOak95amp4dmZYZ25xSzYxeEdMWmxvNndITHl2d2JhaXlXQmJnc3F2bGRIa0FYQWI0ODBWTVVleGk0SDg?oc=5",
         "description": "",
         "pubDate": "2025-11-07T21:59:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "The shutdown has disrupted air travel. Will that drive a surge in car rentals and train bookings? - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTDc2N3dCMFo5LURnTWNhN0ZTR3BQZGh0NE9DcW1wZk01RXlRV1RHa3JHN3VPNk5YY1hGMG5iNmxaeDlYQ29BQXBCRDJPMFdrTWdaanJvd1JZZzRYeF9DaGtqWWdwbndsbXZJZjZqN1dZVWJUdG1MSFl0R2UwV2VvaWNqamxMclp3cFlnSm1lbUltMTZqQ0FtbEF4bG0?oc=5",
+        "description": "",
+        "pubDate": "2025-11-07T21:45:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -763,15 +772,6 @@
         "bias": 0
       },
       {
-        "title": "Hegseth says he wants the Pentagon to prioritize speed over cost when buying weapons - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNWF4RTVyNlpHbHh3ak9RbXB4ZzhiYVJrV25mR0F1OHlkR1NYVFlRQ2k4LXM4ZGd5bVV3bFZXREtGQ1dXbzh1eXlyS3RKeHZ5ZEMyZFVVLW5kZ0p1bGV2VHJXMXRmQzdOZFlXQ1RYai1mVkt3UTJKMXFwUGx4VEdnQ0dHQWVEVWM5VFZxSkk4UDlTZmY4VFhFenJ3?oc=5",
-        "description": "",
-        "pubDate": "2025-11-07T21:18:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Democrats had big wins in elections this week. Where do the two parties go from here?",
         "link": "https://www.npr.org/2025/11/07/nx-s1-5600067/democrats-had-big-wins-in-elections-this-week-where-do-the-two-parties-go-from-here",
         "description": "The elections were voters' chance to weigh in a year after President Trump's election. Now Republicans and Democrats are reflecting on where they are and what they need to do to win in the future.",
@@ -790,6 +790,15 @@
         "bias": -1
       },
       {
+        "title": "Trump pardons former Mets great Darryl Strawberry on past tax evasion and drug charges - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSldwd0sxa3pTdmZGelowWWVOU1Fmak1saTdWZWZUaENOUWdMNUVSUmdPMlE0eS1nTlR3a0hZa0JCdDhsUk40UTBnSjJLNmx1ZGNfSC1zS0pMM0MxT0hQZERpZmF1dDVtOFZ4WU02QTF1NE82T2ExZE9xQlBSU2MyZXVudk5NSFJseVJvbURDM3ExZ1haaUJjNi1mUTVXYk8wOTRhdjF2ZnRMQQ?oc=5",
+        "description": "",
+        "pubDate": "2025-11-07T20:10:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "NCAA revokes eligibility of 6 more college basketball players as it continues sports betting probe - AP News",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc1RWNC1yQlNKdkNaQ29mTlQ3UGp6aWJKMFZZLS1mbDB3eTBxRmhvUHhLVTJGSGpGUzBEVjAySktKbWpZZnhqQ2Z0STU2eUcyTl9oMnFLbGZ3SmpLYnMxMFNEY1lNM0R6aFg1cVM2b1pKSXpYRmVkbTY2RC1WTjEySnJRa05QZ0dNTTNsMWhxa1BISHppWnd2aExVYw?oc=5",
         "description": "",
@@ -799,19 +808,37 @@
         "bias": 0
       },
       {
-        "title": "Denmark’s government aims to ban access to social media for children under 15 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX3o2b3F2aE5DNHhMeENhYnE0UjN4M1oyWldtbVBWVWxKUmJKSmZ2cGtxaWdNaktPQ0xkLVNnT2xJZ2V4M1FMTDF3RG96ajdVZkNsOWxCTEV1ZzNCV0dkT1BENGlYenBsdktZZXZmby1oWHFMM3VYeFZiNmxEMXl5dDgzWjN2ZUxwQU1EblZPd0k1cXI0NkhTSg?oc=5",
+        "title": "Donald Trump - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
         "description": "",
-        "pubDate": "2025-11-07T19:21:00Z",
+        "pubDate": "2025-11-07T19:36:05Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Donald Trump - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
+        "title": "California lawmakers found money for these pet projects even as they slashed the budget - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPclF3UFhoZWZrM2g5OEJWa2gxU3NINGx2Nkd4c0RRUEw2eTE0ZGxPQnBLWWZXMHdoVVJadmhZZkpwbjBQSUdiQVEwYzlUWUJkZlRfY2JJUVdkUlI5eXF6LXV1NzhXR3lHYUZrbkR0dHdWZVNRSkthVVE4NUJFaTFsRzd1T3FDbUZaTE80S0NfQ1JpQXplOXF5UWxnNkVuLVNab0JNSjVpQWtBSFZuU0pZX0g4bEx2dUd1RGI3TTNIQ1A?oc=5",
         "description": "",
-        "pubDate": "2025-11-07T19:20:05Z",
+        "pubDate": "2025-11-07T19:25:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "US skips human rights review by UN body as countries appeal for its return next year - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWm1YYi1DYl9HTXBobmRsZHBxS05CeFJyMWQ5blpEVUQ2ZDZxZVZPNFBlekRMZ0hYaWZBV0E3TkdESlA5aUNxUTlPVEdJRVR5WTg3ZjBkdHMtTXFRNVVCcFdhcWJ2eXlVZUJCZkhJbDF3WlAwaUJUUVA5X0d4ZDdmZHZvNThMU1F1WDVxUFhqOVVLcktvdmdEM3hqaW1ZeHB4cHc?oc=5",
+        "description": "",
+        "pubDate": "2025-11-07T19:25:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Denmark’s government aims to ban access to social media for children under 15 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX3o2b3F2aE5DNHhMeENhYnE0UjN4M1oyWldtbVBWVWxKUmJKSmZ2cGtxaWdNaktPQ0xkLVNnT2xJZ2V4M1FMTDF3RG96ajdVZkNsOWxCTEV1ZzNCV0dkT1BENGlYenBsdktZZXZmby1oWHFMM3VYeFZiNmxEMXl5dDgzWjN2ZUxwQU1EblZPd0k1cXI0NkhTSg?oc=5",
+        "description": "",
+        "pubDate": "2025-11-07T19:21:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -862,19 +889,19 @@
         "bias": 0
       },
       {
-        "title": "Satellite images appear to show attempts to dispose of bodies after RSF seized Sudan's el-Fasher - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNEhROEhFS3FFczlfc244dnB5UXNMUDFhS182UzdqX0xLSWoxajVtLXM3bTc2Q2s1WVNQb194cDdkTUdOY2FjN2xLUk0xV1Nza1BFYk9qQWhLQmlVZE1OYVV2RGxDbmNQYnNDQ0Y5WFFGTlYzRGlkTzF2YzBWZ2tsV1dfd0haNDlDdG4w?oc=5",
+        "title": "Louvre vows to restore the imperial crown dropped by thieves during museum robbery - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaEhfVXlrdjFCMDFwTnpHMGdJcFpZMWdjd1VLdzlRczJ6TGdGLUp1TmNMV0ZMS0U4eWlET0UzN0RnWVJLRkNzbDkxT1BrcGdBTzRmbmVGQUtVcGNYRXJITXl4SnE0eWdFbG5rSTJURUdVZGVQem9Ma0NZX1ZLc0ZXcnBITUVnVU15TTV0TzhRbEEtalIwakhfVW53?oc=5",
         "description": "",
-        "pubDate": "2025-11-07T16:28:00Z",
+        "pubDate": "2025-11-07T15:41:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Louvre vows to restore the imperial crown dropped by thieves during museum robbery - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaEhfVXlrdjFCMDFwTnpHMGdJcFpZMWdjd1VLdzlRczJ6TGdGLUp1TmNMV0ZMS0U4eWlET0UzN0RnWVJLRkNzbDkxT1BrcGdBTzRmbmVGQUtVcGNYRXJITXl4SnE0eWdFbG5rSTJURUdVZGVQem9Ma0NZX1ZLc0ZXcnBITUVnVU15TTV0TzhRbEEtalIwakhfVW53?oc=5",
+        "title": "EU tightens visa restrictions on Russians over the Ukraine war and acts of sabotage - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRUhsSE5fdGcxNWZyd0lNV25nTWR5S1I3YkZuUUt0YlptU1dRV2hVd19IQTNsTWwzdjhnbTREMmZpbGpGMkdtT2paSU1PS01yS3Z6M0cxWnE5LW1TT3pPSFU5OXFFb1dWLVpHQi1kN1YxWTZkWXpRSTRscnBRWjNlRjRmbUVvcVJMTE45blEtUW5PWnI3YTBqNTVQbENEZmhUNWl6dlZR?oc=5",
         "description": "",
-        "pubDate": "2025-11-07T15:41:00Z",
+        "pubDate": "2025-11-07T15:38:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -940,15 +967,6 @@
         "pubDate": "2025-11-07T14:18:43Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/103e/live/53b35d50-bbd4-11f0-a755-ab35484afe82.jpg",
-        "bias": 0
-      },
-      {
-        "title": "How friends in South Carolina are restoring a wetland and bringing their neighborhood together - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN213b20xeDdJVEU5RTJIcGxWX29LQ1hHLXJoVHVWd0I0V0FMUlFwRjdRUC1uOTNZWFpObEhGWmtsX1NhQ05KMEJ2M3JIR0JDY0Q4TGtkR1ZtLVpIVzhYZHgxeW9XczZJSnliVVNFU0F5RXJuQzJZNGNpY0tMd0FYQXhIMFdiZXVnaUhpeE92ZE14cnlkeDFaWm5SSUZnVzM0elUwZ3UwRHMzSnNnekV3?oc=5",
-        "description": "",
-        "pubDate": "2025-11-07T14:10:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -1051,6 +1069,15 @@
         "bias": 0
       },
       {
+        "title": "Appeals court sides with parent group in fight over Ohio school district’s pronoun policy - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPczY3Y1FnSkpBSWtUSDNMX3hrS0dMa09KYkw5N0dHdGF3ek9iU0JFejNKSVBrbWpOdmJZN3dhQXZfMzBya3BnM3R5cnMyd2lQcF9MWk10QXFtYTBfNGpwT1hZZXFtX1dhX3pQOVowOFdXQk9Pa1JvNjUtREJYOV9Td2l6aUNhVHQtNWtibUxrWkVIRnl5VmNUT3p6UFJCSUNFN242aXgyaw?oc=5",
+        "description": "",
+        "pubDate": "2025-11-07T04:32:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Senate Republicans vote down legislation to limit Trump’s ability to attack Venezuela - AP News",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUzNES0VobTBYUElFMlJfUGdoSmFJTzN6WkdrZzM4Um5HSGhNM0xzVEFId3JubUJSRzJ0TEExT0xCNVdZMkVXU0wzbXNBVWhqeHowbE9yNjdCRFhyQV8yYWx4TFA5dXhyMHJ2Qkpic3ktTGxyTEJjd0JjaGFTTktsb20yN0lZcE1hUE13b1FlVnAyMlFKT013?oc=5",
         "description": "",
@@ -1134,19 +1161,10 @@
         "bias": 0
       },
       {
-        "title": "Marshawn Kneeland's death highlights the importance of mental health resources for NFL players - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN1pfMjVJWmV4OXNmbk11NVJCYXBjQnhtSXI3V0dscklRSGhLUGczQlE1NDYxV294WHc0blA1UVVlWUp3SktPWHRUek9nQ1QxMlZvV0p6ZE9xRElDd3F5VFNQT1lKdEEtYlRaZlkxWGsyakUyWVZSVWVYeVpyZHJIcDRn?oc=5",
+        "title": "Satellite images appear to show attempts to dispose of bodies after RSF seized Sudan's el-Fasher - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNEhROEhFS3FFczlfc244dnB5UXNMUDFhS182UzdqX0xLSWoxajVtLXM3bTc2Q2s1WVNQb194cDdkTUdOY2FjN2xLUk0xV1Nza1BFYk9qQWhLQmlVZE1OYVV2RGxDbmNQYnNDQ0Y5WFFGTlYzRGlkTzF2YzBWZ2tsV1dfd0haNDlDdG4w?oc=5",
         "description": "",
-        "pubDate": "2025-11-07T15:37:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Iranian capital faces water rationing and evacuations if it doesn’t rain soon, president warns - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUmpVR0w0ZEVMRmhrZlE1YmtTNGtBclN1Z0dJX1h3OWNtSXNad0lqU2ZLRWlJZS04WV82UnpFODRWdk1zS2VrU0h3akVpTXZCbGRTZ19tRFFuME9NNEZWTFRTUTNUZ3ZJSE1LcExOQUFxOXQxeTdoaDZ5QWNCZ29Ndk5WRzhNazZQdUU4V1lCcHRKQ1dGUVNLbWtrU0pnb1RyTDNSOC1B?oc=5",
-        "description": "",
-        "pubDate": "2025-11-07T14:43:00Z",
+        "pubDate": "2025-11-07T16:28:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1161,10 +1179,10 @@
         "bias": 0
       },
       {
-        "title": "Mexico president’s rivals cry foul as she uses groping incident to address gender violence - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORHR0REhjaXNZX016S0VSQUNiU1ZyTU92UG5YOUp3d2VLNTduZUhqdFB2cWlnNWlvYXQwdzdIQmxXbU4zOE5rN1NIMG5FTjEtSWZrSVJ5T3VlU3k4cEtjUDVkaFNDdDdBblBiSE9Va2dlR0ZHM2VvU3RZd2Y3Z0NpYTFkYk55c1c1Q3hRcS13S29zZ3pHd2h2WFNn?oc=5",
+        "title": "How friends in South Carolina are restoring a wetland and bringing their neighborhood together - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN213b20xeDdJVEU5RTJIcGxWX29LQ1hHLXJoVHVWd0I0V0FMUlFwRjdRUC1uOTNZWFpObEhGWmtsX1NhQ05KMEJ2M3JIR0JDY0Q4TGtkR1ZtLVpIVzhYZHgxeW9XczZJSnliVVNFU0F5RXJuQzJZNGNpY0tMd0FYQXhIMFdiZXVnaUhpeE92ZE14cnlkeDFaWm5SSUZnVzM0elUwZ3UwRHMzSnNnekV3?oc=5",
         "description": "",
-        "pubDate": "2025-11-07T13:15:00Z",
+        "pubDate": "2025-11-07T14:10:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1185,15 +1203,6 @@
         "pubDate": "2025-11-07T12:15:04Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10f/live/40cbac10-bbc0-11f0-9279-29df2198f231.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Trading firm Gunvor, accused by US of being 'Kremlin's puppet,’ drops plan to buy Lukoil assets - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc3pOREVPS24zNlNodFd3d2pEbG52V0hmTjZidkd6bnAwTXhxR3h5bGo2bnpsc3cwSmY3cjZSZ20tSVZEMjBScHdneG15b0FNRmFZeXhqcHJSanJxSTlGS0FnV3daS1hJaDQ2enkzR18tR2dMcGMwT2puSmk5cVlvUm9iWEJaTGQ0bGdGTWl4eER0SzhqOG85WUZzdXRISHl4UHc3Y2JMTGV4NXF2?oc=5",
-        "description": "",
-        "pubDate": "2025-11-07T10:37:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -1284,6 +1293,33 @@
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTTBGMzB0OVM3bDhhT29VSnlkTVZ3REd5UjdkZEZUeVpUQ3dyV3h5ZEZyNnVsTnRrcGN2SFhtcHBqNGtWUFJ1UzgwM0xCWWpJRW5OMldCdmRSeC16Ynh3ZEg1MG5Ra01oVkJNNXdpMnZ2cHpxN0gyY0pwQUNPY1BkdnYxTkxoQllZSVk5TExrOTlwb0JQaUFNanJWNjFSZDFwbi1B?oc=5",
         "description": "",
         "pubDate": "2025-11-07T17:03:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Iranian capital faces water rationing and evacuations if it doesn’t rain soon, president warns - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUmpVR0w0ZEVMRmhrZlE1YmtTNGtBclN1Z0dJX1h3OWNtSXNad0lqU2ZLRWlJZS04WV82UnpFODRWdk1zS2VrU0h3akVpTXZCbGRTZ19tRFFuME9NNEZWTFRTUTNUZ3ZJSE1LcExOQUFxOXQxeTdoaDZ5QWNCZ29Ndk5WRzhNazZQdUU4V1lCcHRKQ1dGUVNLbWtrU0pnb1RyTDNSOC1B?oc=5",
+        "description": "",
+        "pubDate": "2025-11-07T14:43:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Mexico president’s rivals cry foul as she uses groping incident to address gender violence - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORHR0REhjaXNZX016S0VSQUNiU1ZyTU92UG5YOUp3d2VLNTduZUhqdFB2cWlnNWlvYXQwdzdIQmxXbU4zOE5rN1NIMG5FTjEtSWZrSVJ5T3VlU3k4cEtjUDVkaFNDdDdBblBiSE9Va2dlR0ZHM2VvU3RZd2Y3Z0NpYTFkYk55c1c1Q3hRcS13S29zZ3pHd2h2WFNn?oc=5",
+        "description": "",
+        "pubDate": "2025-11-07T13:15:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Trading firm Gunvor, accused by US of being 'Kremlin's puppet,’ drops plan to buy Lukoil assets - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc3pOREVPS24zNlNodFd3d2pEbG52V0hmTjZidkd6bnAwTXhxR3h5bGo2bnpsc3cwSmY3cjZSZ20tSVZEMjBScHdneG15b0FNRmFZeXhqcHJSanJxSTlGS0FnV3daS1hJaDQ2enkzR18tR2dMcGMwT2puSmk5cVlvUm9iWEJaTGQ0bGdGTWl4eER0SzhqOG85WUZzdXRISHl4UHc3Y2JMTGV4NXF2?oc=5",
+        "description": "",
+        "pubDate": "2025-11-07T10:37:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
