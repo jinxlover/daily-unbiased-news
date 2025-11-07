@@ -1,7 +1,25 @@
 {
-  "lastUpdate": "2025-11-07T08:53:57.954504Z",
+  "lastUpdate": "2025-11-07T09:20:18.187252Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Neko Nyan 3D SpeedRunner [Free]",
+        "link": "https://ttran192.itch.io/neko-nyan-3d-speedrunner",
+        "description": "",
+        "pubDate": "2025-11-07T09:02:11Z",
+        "source": "ttran192.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTcxNjU5LnBuZw==/315x250%23c/Jz73xq.png",
+        "bias": 0
+      },
+      {
+        "title": "Five Nights At Caparezza (Versione 1.01) [Free] [Windows] [macOS] [Linux] [Android]",
+        "link": "https://mememens203.itch.io/five-nights-at-caparezza-versione-101",
+        "description": "",
+        "pubDate": "2025-11-07T08:54:11Z",
+        "source": "mememens203.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTcxNjMwLmpwZw==/315x250%23c/CQZOkp.jpg",
+        "bias": 0
+      },
       {
         "title": "Nailcutter [Free]",
         "link": "https://luscius1.itch.io/nailcutter",
@@ -9,6 +27,15 @@
         "pubDate": "2025-11-07T08:43:36Z",
         "source": "luscius1.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzOTcxNTQ0LnBuZw==/315x250%23c/W65hm6.png",
+        "bias": 0
+      },
+      {
+        "title": "DRIVE HARD [Free] [Racing]",
+        "link": "https://dr4k0b.itch.io/drive-hard",
+        "description": "",
+        "pubDate": "2025-11-07T08:36:47Z",
+        "source": "dr4k0b.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTcxNzExLnBuZw==/315x250%23c/TD7PT4.png",
         "bias": 0
       },
       {
@@ -54,6 +81,15 @@
         "pubDate": "2025-11-07T07:58:23Z",
         "source": "tvc00lguy.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzOTcxMjg4LmdpZg==/315x250%23c/1jhgGf.gif",
+        "bias": 0
+      },
+      {
+        "title": "Cave Escape [Free] [Platformer] [Windows] [macOS]",
+        "link": "https://liese06.itch.io/cave-escape",
+        "description": "Traverse the lava riddled terrain as a baby dinosaur as you try and find your missing family.",
+        "pubDate": "2025-11-07T07:58:20Z",
+        "source": "liese06.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTcxNjE5LnBuZw==/315x250%23c/4kGeVu.png",
         "bias": 0
       },
       {
@@ -183,15 +219,6 @@
         "bias": 0
       },
       {
-        "title": "Fortifier [Free] [Shooter] [Windows]",
-        "link": "https://drfear.itch.io/fortifier",
-        "description": "2D Tower defender made in 3 weeks as a personal challenge.",
-        "pubDate": "2025-11-07T04:45:05Z",
-        "source": "drfear.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTcwMDYyLnBuZw==/315x250%23c/%2F8b8BS.png",
-        "bias": 0
-      },
-      {
         "title": "world of Reverie [Free] [Role Playing]",
         "link": "https://kenichimorishita.itch.io/world-of-reverie",
         "description": "Gambas3 で作った短篇J-RPG。無料で遊べます。",
@@ -199,18 +226,27 @@
         "source": "kenichimorishita.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzOTcwMDM0LnBuZw==/315x250%23c/TCX5X9.png",
         "bias": 0
-      },
-      {
-        "title": "Baldur's Gate 3: Your Journey - Text RPG [Free]",
-        "link": "https://soulmoth.itch.io/bg3textrpgai",
-        "description": "bg3aitextrpg",
-        "pubDate": "2025-11-07T03:36:07Z",
-        "source": "soulmoth.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTY5OTMxLmpwZWc=/315x250%23c/sE2IhO.jpeg",
-        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Explosion at mosque in Indonesia’s Jakarta injures more than 50, police say",
+        "link": "https://www.aljazeera.com/news/2025/11/7/explosion-at-mosque-in-indonesias-jakarta-injures-more-than-50-police-say?traffic_source=rss",
+        "description": "Injured are taken to hospital after an explosion occurred during Friday prayers at a mosque inside a school complex.",
+        "pubDate": "2025-11-07T09:00:03Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "China seeks to project power far beyond its coast with the new Fujian aircraft carrier - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb0t3bF96aHZhZ3JwSUF2QnZweUNWcE4xU1FuaVg5aGp6OEFHRVVMMEZjMy1zdnpfQnNHcFNhTUNpSFZFTloyZWhZWm80M0w5cndtZDJBMFlXT2hUQlhjUXJPaWl3YUlkUUw3REVRNU1TSzlRQ0JPMXVQRk00WmJfUE9MZmEwTGpnV0JoSTRVZldUZkdya1hqSDkwUVZ0ZkxnN1E?oc=5",
+        "description": "",
+        "pubDate": "2025-11-07T08:45:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Elon Musk's $1tn pay deal approved by Tesla shareholders",
         "link": "https://www.bbc.com/news/articles/cwyk6kvyxvzo?at_medium=RSS&at_campaign=rss",
@@ -329,15 +365,6 @@
         "bias": -1
       },
       {
-        "title": "China commissions new aircraft carrier as it seeks to extend power far from its coast - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb0t3bF96aHZhZ3JwSUF2QnZweUNWcE4xU1FuaVg5aGp6OEFHRVVMMEZjMy1zdnpfQnNHcFNhTUNpSFZFTloyZWhZWm80M0w5cndtZDJBMFlXT2hUQlhjUXJPaWl3YUlkUUw3REVRNU1TSzlRQ0JPMXVQRk00WmJfUE9MZmEwTGpnV0JoSTRVZldUZkdya1hqSDkwUVZ0ZkxnN1E?oc=5",
-        "description": "",
-        "pubDate": "2025-11-07T06:26:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "LIVE: Israel vows to destroy all Hamas tunnels in Gaza as attacks continue",
         "link": "https://www.aljazeera.com/news/liveblog/2025/11/7/live-israel-vows-to-destroy-all-hamas-tunnels-in-gaza-as-attacks-continue?traffic_source=rss",
         "description": "US president says Gaza ceasefire 'working out very well' despite deadly Israeli attacks and severe aid restrictions.",
@@ -450,6 +477,15 @@
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM09xdWZTdHZjLU9aT1JnTDRtT2x2M2Z5aU4xMW9JZ0ZPQkdRMnBNM0VQc1Zha3JRSTl5WWVvT3lQdVF6SUw3S3RTWExSME9ZaGgydkdoSXJvN2hUNVF1M3FHSFRSVmJxSlFoamtPbXh3aUZxcnhMMXp5UERDaDQxNVd6RDdjcEIyM3YtbnY3M0dWRGdoQ3NEOU9R?oc=5",
         "description": "",
         "pubDate": "2025-11-07T05:31:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Zohran Mamdani and London's Muslim mayor, Sadiq Khan, have much in common, but also key differences - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRVNOdnRDRGRqOWNrRm5hYzgzV0w4Njc4X1FOczhuOThCbUdRcFA4OFlMc0hKNUoyeFpIdXdheFpUdHVYc2pYZHJaNzk1QkJmLUE2QWZwTS1nWmNRTkU1WF9Cb19PWTcxTy1DYjlTeW1qQUc1ZzhSUEtpM0V2STMwWnRlQWgwOVE0NjJZU0FHN0pPWExReFB0ZTdfakRqOUYxNGc?oc=5",
+        "description": "",
+        "pubDate": "2025-11-07T05:16:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -642,24 +678,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Democrats celebrate election wins. Regaining power will be harder",
-        "link": "https://www.bbc.com/news/articles/cvgk8rr8e20o?at_medium=RSS&at_campaign=rss",
-        "description": "A year after a painful election defeat, the Democratic Party stands at a fork in the road.",
-        "pubDate": "2025-11-07T02:42:36Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e64/live/31cae3b0-bb85-11f0-aa13-0b0479f6f42a.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Peru Congress declares Mexican president 'persona non grata'",
-        "link": "https://www.bbc.com/news/articles/cly9x8vv9v9o?at_medium=RSS&at_campaign=rss",
-        "description": "The declaration comes days after Peru severed diplomatic ties with Mexico - after it granted asylum to a former Peruvian prime minister.",
-        "pubDate": "2025-11-07T02:39:07Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cafb/live/ea07ac90-bb73-11f0-a12d-0bcb1483b40d.jpg",
-        "bias": 0
       }
     ],
     "Politics": [
@@ -670,6 +688,15 @@
         "pubDate": "2025-11-07T06:27:45Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5937/live/b7f67bd0-bb2a-11f0-920d-7f5aeca1e91c.jpg",
+        "bias": 0
+      },
+      {
+        "title": "At the 6-months mark, Pope Leo finds his footing and starts charting his own path and style - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb3JPdHEyMWJBOW1sNTJRZTJpMXNIRW03U1lLckNxR2pDa3FrbEdLUjJzT0t0VWRjZTZiMFloTDZNZVpaaDFuRzZ2Nmdad3NnME8td1JQMGU2UWdCd0NoeWhZVWlacjh0ajdMLW1fWXpHQUM4WVd4cWlQdFVuUXl6UkR5aVhpSm5vS2xRYjczUlc3U0s3N1BzY0x5QTZ3SEdU?oc=5",
+        "description": "",
+        "pubDate": "2025-11-07T06:19:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -686,15 +713,6 @@
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUTFjakNTQ1RxWEpuV09oMWdQdDhxUlA0Y1NwRGhZWU5tbTZUY2dYSTgtX1FBUVVvTU1OU1ppZTZRckRuaUc2bjMwX2ZuN0V4dlBxeTYwdmowNHFJY25DdzdyaGcwZ2JtSFdFVXpmeFRIZUtLODFsZ3NEeVJoQnZBTjFsU2lLT3c3NEJmT3ZqQ0ZUSU93TFQ0dlhxbUd6RDBJNDFLMTdyMTVZcldiYUZiNlFlcnA?oc=5",
         "description": "",
         "pubDate": "2025-11-07T05:29:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Zohran Mamdani and London's Muslim mayor, Sadiq Khan, have much in common, but also key differences - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRVNOdnRDRGRqOWNrRm5hYzgzV0w4Njc4X1FOczhuOThCbUdRcFA4OFlMc0hKNUoyeFpIdXdheFpUdHVYc2pYZHJaNzk1QkJmLUE2QWZwTS1nWmNRTkU1WF9Cb19PWTcxTy1DYjlTeW1qQUc1ZzhSUEtpM0V2STMwWnRlQWgwOVE0NjJZU0FHN0pPWExReFB0ZTdfakRqOUYxNGc?oc=5",
-        "description": "",
-        "pubDate": "2025-11-07T05:16:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -722,24 +740,6 @@
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa1lPY2w1MFRVS2VZUHFLdk5PRjlzOExZMEhPeXBrYWNRa3ZOUUctLUQtNUs4VGZHSEJzdDRwNVRXaHAtY3lZbUxRWmMzVm5CRUZaQkg2MEtVS3VvdGhYTU5SZ2hTcHRFQ3NaVGhvcEo0OXpHWnM5NVBhVVpUZFNZRVhkck5LY2JOVzBHTkQzMmpLRTc1Vk5jYUdsLXJlMldCd2dIcQ?oc=5",
         "description": "",
         "pubDate": "2025-11-07T01:51:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Ex-NFL star Antonio Brown arrested on attempted murder charge in Miami shooting - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcHVsaVFtQWw3WTdVUEhLQ2pHb0pTYU1xdWlyRG03c052YnFSYUJQS3BCc3pCc0hNS2ZCRGluclBMVWxfbHpqX1BHc1dBWWkwMG5BZTUzajZmdnlDMmdseGdVYXNKZ2IxNnlNYmNNZXROS1hIRVJxMjItN1NDeVVxZl9NOGpfZmp3NkdHZGdncHdadlluV0Ntcw?oc=5",
-        "description": "",
-        "pubDate": "2025-11-07T01:42:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "The Rock & Roll Hall of Fame ceremony is this weekend. Who's getting in, and who's honoring them? - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNDk1UndTTUtFcVFqQ19ENDZ4T3cwdEFNaUw3ajZ5N2NlWnJQUlpoTjdSTE1xcFVIbXlqeTB5Wm1IX0xOT2lhOS16RGIzTmpERTh2QXAtUXE2UlZrRWtzX1dvdVdaYUZiM0xBZTZJdnRNaVV2Z3lUWm1LUzRIYjhxck5JUHlOX1pBZFU2R1BJZUR3OXdudTEw?oc=5",
-        "description": "",
-        "pubDate": "2025-11-07T00:25:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -792,7 +792,17 @@
         "bias": 0
       }
     ],
-    "Science": [],
+    "Science": [
+      {
+        "title": "The Rock & Roll Hall of Fame ceremony is this weekend. Who's getting in, and who's honoring them? - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNDk1UndTTUtFcVFqQ19ENDZ4T3cwdEFNaUw3ajZ5N2NlWnJQUlpoTjdSTE1xcFVIbXlqeTB5Wm1IX0xOT2lhOS16RGIzTmpERTh2QXAtUXE2UlZrRWtzX1dvdVdaYUZiM0xBZTZJdnRNaVV2Z3lUWm1LUzRIYjhxck5JUHlOX1pBZFU2R1BJZUR3OXdudTEw?oc=5",
+        "description": "",
+        "pubDate": "2025-11-07T00:25:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ],
     "Business": [
       {
         "title": "ITV in talks to sell television business to Sky",
