@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-11-08T09:56:20.068787Z",
+  "lastUpdate": "2025-11-08T10:20:31.502220Z",
   "news": {
     "Gaming": [
+      {
+        "title": "高雄中學歷險記 [Free] [Educational]",
+        "link": "https://cheesecolonel.itch.io/kshsadventure",
+        "description": "",
+        "pubDate": "2025-11-08T09:45:29Z",
+        "source": "cheesecolonel.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTg1NDAxLnBuZw==/315x250%23c/3j1suM.png",
+        "bias": 0
+      },
       {
         "title": "Yes, My Queen. [Free] [Adventure]",
         "link": "https://kioushy.itch.io/yes-my-queen",
@@ -36,6 +45,15 @@
         "pubDate": "2025-11-08T09:04:47Z",
         "source": "r1psaw.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzOTg1MDMyLnBuZw==/315x250%23c/flAIpK.png",
+        "bias": 0
+      },
+      {
+        "title": "another 3d pixel art technique [Free]",
+        "link": "https://jamjam100.itch.io/another-3d-pixel-art-technique",
+        "description": "",
+        "pubDate": "2025-11-08T08:35:44Z",
+        "source": "jamjam100.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTg0ODg2LmpwZw==/315x250%23c/8YFr%2BE.jpg",
         "bias": 0
       },
       {
@@ -156,15 +174,6 @@
         "bias": 0
       },
       {
-        "title": "Void leviathan [Free] [Windows] [macOS] [Android]",
-        "link": "https://deepsea1.itch.io/void",
-        "description": "deepsea",
-        "pubDate": "2025-11-08T05:46:31Z",
-        "source": "deepsea1.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTgzNzM0LnBuZw==/315x250%23c/ZV9uPH.png",
-        "bias": 0
-      },
-      {
         "title": "Axe Throw [Free] [Fighting]",
         "link": "https://rippletech.itch.io/axe-throw",
         "description": "1-2 Player Axe PvP",
@@ -172,18 +181,27 @@
         "source": "rippletech.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzOTg0MzA4LnBuZw==/315x250%23c/sOyUY%2B.png",
         "bias": 0
-      },
-      {
-        "title": "Who closer you [Free] [Adventure]",
-        "link": "https://quantumduckdev.itch.io/who-closer-you",
-        "description": "",
-        "pubDate": "2025-11-08T02:03:54Z",
-        "source": "quantumduckdev.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTgyMjAyLmpwZw==/315x250%23c/bs6uWS.jpg",
-        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Torture, Leak, Outrage: The Sde Teiman Affair",
+        "link": "https://www.aljazeera.com/video/the-listening-post/2025/11/8/torture-leak-outrage-the-sde-teiman-affair?traffic_source=rss",
+        "description": "Israel reels after an army insider outs herself as the source of a leak showing the rape of a Palestinian prisoner.",
+        "pubDate": "2025-11-08T10:04:02Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Israel-Premier Tech cycling team loses title sponsor after protests",
+        "link": "https://www.aljazeera.com/sports/2025/11/8/israel-premier-tech-cycling-team-loses-title-sponsor-after-protests?traffic_source=rss",
+        "description": "Canadian firm ends its sponsorship of the Israeli-owned team following major pro-Palestine protests at European races.",
+        "pubDate": "2025-11-08T09:59:01Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "LIVE: Tottenham Hotspur vs Manchester United – Premier League",
         "link": "https://www.aljazeera.com/sports/liveblog/2025/11/8/live-tottenham-hotspur-vs-manchester-united-premier-league-2?traffic_source=rss",
@@ -266,12 +284,21 @@
         "bias": -1
       },
       {
-        "title": "US firms ground MD-11 cargo planes after Kentucky air disaster",
+        "title": "UPS and FedEx ground some cargo planes after Kentucky air disaster",
         "link": "https://www.bbc.com/news/articles/cx2pr5y7p90o?at_medium=RSS&at_campaign=rss",
-        "description": "UPS and Fedex have confirmed they are grounding the planes as the death toll in Louisville rises to 14.",
+        "description": "The delivery companies confirm MD-11 planes have been temporarily grounded as the death toll in Louisville rises to 14.",
         "pubDate": "2025-11-08T07:16:50Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae88/live/91740bf0-bc81-11f0-ae46-bd64331f0fd4.png",
+        "bias": 0
+      },
+      {
+        "title": "UPS and FedEx grounding MD-11 planes following deadly Kentucky crash - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOWNJd196eDRHYzIxRkdDSk5BS2xRdDhvcUtQZ1NWMzlDalY4VmljN1V3aktpYmxCNWxBUlpFYUNJUnVpOXQwVE85bGJyWnI5QmNUTWVCd2V6RTJKajh6b2hkOGpHRElQWnhGZlpiUDBtRTZxTlNPVzhPY09LSHhFeGx2Z0dsdWplQVhrWnpRZVlVdUVMRVgwQmR1WUsyT0lC?oc=5",
+        "description": "",
+        "pubDate": "2025-11-08T07:16:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -309,15 +336,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "UPS and FedEx grounding MD-11 planes following deadly Kentucky crash - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOWNJd196eDRHYzIxRkdDSk5BS2xRdDhvcUtQZ1NWMzlDalY4VmljN1V3aktpYmxCNWxBUlpFYUNJUnVpOXQwVE85bGJyWnI5QmNUTWVCd2V6RTJKajh6b2hkOGpHRElQWnhGZlpiUDBtRTZxTlNPVzhPY09LSHhFeGx2Z0dsdWplQVhrWnpRZVlVdUVMRVgwQmR1WUsyT0lC?oc=5",
-        "description": "",
-        "pubDate": "2025-11-08T07:10:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Israeli orchestra interrupted by protester with flare",
@@ -590,15 +608,6 @@
         "bias": 0
       },
       {
-        "title": "Nevada Department of Corrections is sued over man's death days before his scheduled release - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNXkwMmVST3B0WGE4MmtIZ19qMnpnZ2lXUF9mZHplQVhqRmx0T1ZXMnNyYld1VzZ2Yzl4QW1kYXExRTNGT29ZaG9lX3JnRXpzTlRBeEtiOG9OaS1DbThKTDRhZHBLMVkzR3oyR0dueUZVOFFNYjdxMjY2QXZncTNTVTMxcTFJUzNFaVQyMDNKR3JLaWJjV2NGRFItdVRydXNi?oc=5",
-        "description": "",
-        "pubDate": "2025-11-08T00:35:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Trump accuses foreign-owned meat packers of inflating US beef prices and calls for investigation - AP News",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN1lXejVJTUl6TnFkYTdteTZKWGJTc3FwSGxRakJXUVVHY0NjZTBDN0V5MVNGaVVaTXRUVFIxdE8ydjEzUkFkVlM4NkM2dGlGNWRBZnhhRmFZU3ZjWVBTdnJ1b08tSWtmaE1jSWZndzlpTHdMQmdteS1GXzZVSjFYNTdaZmxmZnJCLWxwSnNES25ZTzg?oc=5",
         "description": "",
@@ -644,9 +653,27 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "Nevada Department of Corrections is sued over man's death days before his scheduled release - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNXkwMmVST3B0WGE4MmtIZ19qMnpnZ2lXUF9mZHplQVhqRmx0T1ZXMnNyYld1VzZ2Yzl4QW1kYXExRTNGT29ZaG9lX3JnRXpzTlRBeEtiOG9OaS1DbThKTDRhZHBLMVkzR3oyR0dueUZVOFFNYjdxMjY2QXZncTNTVTMxcTFJUzNFaVQyMDNKR3JLaWJjV2NGRFItdVRydXNi?oc=5",
+        "description": "",
+        "pubDate": "2025-11-08T00:35:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Tech": [
+      {
+        "title": "Immigration agents have new technology to identify and track people",
+        "link": "https://www.npr.org/2025/11/08/nx-s1-5585691/ice-facial-recognition-immigration-tracking-spyware",
+        "description": "The Department of Homeland Security is adopting powerful new tools to monitor noncitizens. Privacy advocates are worried they erode privacy rights for immigrants and Americans alike.",
+        "pubDate": "2025-11-08T10:00:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Orbán says Trump will not punish Hungary for buying Russian energy, reducing impact of sanctions - AP News",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVzlBQzVTLWRiVXhWMjhNMFpmY2VjdEVXdm9wXzFVZnFyQ2JDOURocW5WRmpGVmtLdWZXbWktem92ZUtaQnpjcjFwMGdrSVBQRGdEZ2ltRzVMNW1iNlpjcTJ5YnRJaVVNQ3NsZGpBWXNkSXdJeXNkOHhhNDlROWdFdF8xVE51cWozLUJ0Z0ln?oc=5",
@@ -670,15 +697,6 @@
       }
     ],
     "Culture": [
-      {
-        "title": "Donald Trump - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
-        "description": "",
-        "pubDate": "2025-11-08T09:40:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
       {
         "title": "Why are there never female headliners at TRNSMT festival?",
         "link": "https://www.bbc.com/news/articles/cp8e58m78v7o?at_medium=RSS&at_campaign=rss",
