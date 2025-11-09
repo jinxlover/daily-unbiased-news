@@ -1,11 +1,20 @@
 {
-  "lastUpdate": "2025-11-09T07:17:20.546141Z",
+  "lastUpdate": "2025-11-09T07:30:44.325025Z",
   "news": {
     "Gaming": [
       {
-        "title": "Pac man easy [Free] [Platformer] [Windows]",
+        "title": "STILLBORN [Free]",
+        "link": "https://fignacy.itch.io/stillborn",
+        "description": "mother goes on a rampage after he kidnapped baby from raiders",
+        "pubDate": "2025-11-09T07:22:29Z",
+        "source": "fignacy.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTk4Njg5LnBuZw==/315x250%23c/LXlvWG.png",
+        "bias": 0
+      },
+      {
+        "title": "Pac man [Free] [Platformer] [Windows]",
         "link": "https://yassinola.itch.io/pac-man-easy",
-        "description": "the original pac man but by easier use",
+        "description": "the original pac man but by easier use by playstation joystick .",
         "pubDate": "2025-11-09T07:13:46Z",
         "source": "yassinola.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzOTk4NjA1LmpwZWc=/315x250%23c/gmhLhM.jpeg",
@@ -45,6 +54,15 @@
         "pubDate": "2025-11-09T06:30:13Z",
         "source": "auroraa4.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzOTk4MzA2LnBuZw==/315x250%23c/oLCYFM.png",
+        "bias": 0
+      },
+      {
+        "title": "Karas [Free] [Action] [Windows]",
+        "link": "https://zdridox.itch.io/karas",
+        "description": "WSF game jam 8",
+        "pubDate": "2025-11-09T06:13:07Z",
+        "source": "zdridox.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTk4MTU1LmpwZw==/315x250%23c/Sji4Up.jpg",
         "bias": 0
       },
       {
@@ -210,24 +228,6 @@
         "bias": 0
       },
       {
-        "title": "FLAPPYMINE [Free]",
-        "link": "https://kairo61.itch.io/flappymine",
-        "description": "",
-        "pubDate": "2025-11-09T05:08:29Z",
-        "source": "kairo61.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTk3NTk5LmpwZw==/315x250%23c/%2B4GYuv.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Professor Baldino's School Maze [Free] [Survival] [Windows]",
-        "link": "https://hmcgames.itch.io/professor-baldinos-learning-school",
-        "description": "Are you able to escape?",
-        "pubDate": "2025-11-09T05:04:22Z",
-        "source": "hmcgames.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTk3NTM5LnBuZw==/315x250%23c/an5%2BNN.png",
-        "bias": 0
-      },
-      {
         "title": "no internet dino game in COLOR [Free] [Windows]",
         "link": "https://werdnos.itch.io/rgb-no-internet-dino-game",
         "description": "this is my first itch game, i might get 6 or 7 downloads",
@@ -237,30 +237,12 @@
         "bias": 0
       },
       {
-        "title": "FireN'Ice [Free] [Puzzle]",
-        "link": "https://m4rvin.itch.io/fire-n-ice",
-        "description": "Puzzle Game",
-        "pubDate": "2025-11-09T05:01:27Z",
-        "source": "m4rvin.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTk3NTY2LnBuZw==/315x250%23c/OXq0pa.png",
-        "bias": 0
-      },
-      {
         "title": "Dark Evil Psyche [$5.00]",
         "link": "https://solodevgaming.itch.io/dark-evil-psyche",
         "description": "",
         "pubDate": "2025-11-09T04:34:47Z",
         "source": "solodevgaming.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzOTk3NzcxLnBuZw==/315x250%23c/PwBIfv.png",
-        "bias": 0
-      },
-      {
-        "title": "Pumpkin Wizard [Free] [Action] [Windows]",
-        "link": "https://anzamul-haque-akash.itch.io/pumpkin-wizard",
-        "description": "Top-Down 2D Action-Fantasy Shooter",
-        "pubDate": "2025-11-09T04:31:33Z",
-        "source": "anzamul-haque-akash.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTk3Mzc4LnBuZw==/315x250%23c/%2F8RnQC.png",
         "bias": 0
       },
       {
@@ -587,6 +569,16 @@
         "bias": 0
       }
     ],
-    "Culture": []
+    "Culture": [
+      {
+        "title": "'The best friend you'd love to have' - How Claudia Winkleman conquered TV",
+        "link": "https://www.bbc.com/news/articles/cjw96xw8v93o?at_medium=RSS&at_campaign=rss",
+        "description": "She's taken The Traitors to new heights - but what's next comes with risk, too.",
+        "pubDate": "2025-11-09T00:10:46Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e73f/live/6606b580-bb32-11f0-b2a1-6f537f66f9aa.jpg",
+        "bias": 0
+      }
+    ]
   }
 }
