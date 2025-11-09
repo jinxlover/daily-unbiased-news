@@ -1,7 +1,34 @@
 {
-  "lastUpdate": "2025-11-09T09:45:32.746234Z",
+  "lastUpdate": "2025-11-09T09:55:57.589839Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Another day #3 [Free] [Visual Novel] [Windows] [macOS] [Linux]",
+        "link": "https://sonsofsand.itch.io/another-day-3",
+        "description": "",
+        "pubDate": "2025-11-09T09:47:18Z",
+        "source": "sonsofsand.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTk5NzIyLmpwZw==/315x250%23c/dbF%2FqR.jpg",
+        "bias": 0
+      },
+      {
+        "title": "CRONOS [Free]",
+        "link": "https://olijam.itch.io/cronos",
+        "description": "Delay the inevitable.",
+        "pubDate": "2025-11-09T09:47:08Z",
+        "source": "olijam.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTk5NzA2LnBuZw==/315x250%23c/qeJRfn.png",
+        "bias": 0
+      },
+      {
+        "title": "Cinder [Free] [Puzzle]",
+        "link": "https://thebesttm.itch.io/3dcinder",
+        "description": "",
+        "pubDate": "2025-11-09T09:40:19Z",
+        "source": "thebesttm.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTk5NjYxLmpwZw==/315x250%23c/kiTvUd.jpg",
+        "bias": 0
+      },
       {
         "title": "For The Castle [Free] [Shooter]",
         "link": "https://afreenzmake.itch.io/for-the-castle",
@@ -183,15 +210,6 @@
         "bias": 0
       },
       {
-        "title": "Scrap Fleet [Free] [Strategy] [Windows]",
-        "link": "https://pingwin01games.itch.io/scrap-fleet",
-        "description": "Make your ship. Change main hull, choose their weapons and engine and send them to battle",
-        "pubDate": "2025-11-09T07:22:48Z",
-        "source": "pingwin01games.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTk4NzcxLnBuZw==/315x250%23c/2LUhNU.png",
-        "bias": 0
-      },
-      {
         "title": "Five Puffs at Ferris [Free]",
         "link": "https://mrpatapon.itch.io/five-puffs-at-ferris",
         "description": "",
@@ -228,15 +246,6 @@
         "bias": 0
       },
       {
-        "title": "Shopping Fever [Free] [Adventure]",
-        "link": "https://anrx.itch.io/shopping-fever",
-        "description": "You've spent so many hours in this mall with your mom bored out of your mind - yet you still come back.",
-        "pubDate": "2025-11-09T06:30:25Z",
-        "source": "anrx.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTk4MjcxLnBuZw==/315x250%23c/QXL%2FQB.png",
-        "bias": 0
-      },
-      {
         "title": "Stranded in Time [Free] [Adventure] [Windows]",
         "link": "https://blobbyweirdthing.itch.io/stranded-in-time",
         "description": "Uncover the secrets of this world, frozen in time.",
@@ -248,13 +257,22 @@
     ],
     "World": [
       {
-        "title": "Powerful quake strikes off the coast of Japan, tsunami advisory issued - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTDBtYnYzaDd3TTlXeXZHSFQ4Mjlzb0kxYm9qMHBoOWRkZDkzUXU2N0pXT3VQU1ptWVdiTWdYLVdLdzFibFR4VEFrR2lLQzRLRVFNRmlyV3E2X3o4SldSbFEtaDdsYjUtdndDZ3lRVFNUREwyeWlNb1N1amMtZWZMUHFnZTFjRmFOb2pEUQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-09T09:22:00Z",
-        "source": "news.google.com",
+        "title": "Mamdani cites Malcolm X during first Friday prayers after NYC mayoral win",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/9/mamdani-cites-malcolm-x-during-first-friday-prayers-after-nyc-mayoral-win?traffic_source=rss",
+        "description": "New York City Mayor-elect Zohran Mamdani attended Friday prayers at a mosque in Puerto Rico.",
+        "pubDate": "2025-11-09T09:44:50Z",
+        "source": "aljazeera.com",
         "image": "",
-        "bias": 0
+        "bias": -1
+      },
+      {
+        "title": "As Super Typhoon Fung-wong nears, Philippines on edge",
+        "link": "https://www.aljazeera.com/gallery/2025/11/9/as-super-typhoon-fung-wong-nears-philippines-on-the-edge?traffic_source=rss",
+        "description": "The storm already kills at least one person, disrupts power and forces evacuations of nearly one million people.",
+        "pubDate": "2025-11-09T09:43:58Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Nearly a million evacuated as Philippines braces for 'super typhoon'",
@@ -282,6 +300,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Powerful earthquake strikes off the coast of Japan, tsunami advisory issued - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTDBtYnYzaDd3TTlXeXZHSFQ4Mjlzb0kxYm9qMHBoOWRkZDkzUXU2N0pXT3VQU1ptWVdiTWdYLVdLdzFibFR4VEFrR2lLQzRLRVFNRmlyV3E2X3o4SldSbFEtaDdsYjUtdndDZ3lRVFNUREwyeWlNb1N1amMtZWZMUHFnZTFjRmFOb2pEUQ?oc=5",
+        "description": "",
+        "pubDate": "2025-11-09T08:52:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Special voting for forces and displaced in Iraq parliamentary polls begins",
@@ -434,15 +461,6 @@
         "pubDate": "2025-11-09T04:37:20Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44f8/live/b0a95330-bd22-11f0-9c30-6582f0afbab1.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Virginia QB Chandler Morris will have testing after hit to head and neck area in loss to Wake Forest - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTVlwNjZyWGdSU2JELTRFQlVpMk1QdXpxWlNjR3BRcklyNXY5QkVZd0VPUkI0TjI4bFdfaDQ3dTZUTzZSMG9jV3FUNU9aZS04Z291dW1JZmRJanhrUXZsWm41TUFLTDV1a2tRVUFNU0RrMDdiNkV1bzlDeERGZ0V6YzdRU2lwODdZYnEyUDMyUm5JQTA4SVE?oc=5",
-        "description": "",
-        "pubDate": "2025-11-09T04:33:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -652,6 +670,15 @@
         "pubDate": "2025-11-09T05:11:31Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecb5/live/eabeaf50-bd1a-11f0-8669-5560f5c90fbe.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Virginia QB Chandler Morris will have testing after hit to head and neck area in loss to Wake Forest - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTVlwNjZyWGdSU2JELTRFQlVpMk1QdXpxWlNjR3BRcklyNXY5QkVZd0VPUkI0TjI4bFdfaDQ3dTZUTzZSMG9jV3FUNU9aZS04Z291dW1JZmRJanhrUXZsWm41TUFLTDV1a2tRVUFNU0RrMDdiNkV1bzlDeERGZ0V6YzdRU2lwODdZYnEyUDMyUm5JQTA4SVE?oc=5",
+        "description": "",
+        "pubDate": "2025-11-09T04:33:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       }
     ],
