@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-09T11:18:09.077693Z",
+  "lastUpdate": "2025-11-09T11:28:54.877728Z",
   "news": {
     "Gaming": [
       {
@@ -72,6 +72,24 @@
         "pubDate": "2025-11-09T10:52:55Z",
         "source": "mariaskytte.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MDAwMTk4LnBuZw==/315x250%23c/jsIIEI.png",
+        "bias": 0
+      },
+      {
+        "title": "Beyond the Clouds [Free] [Platformer]",
+        "link": "https://mizuki-game.itch.io/beyond-the-clouds",
+        "description": "",
+        "pubDate": "2025-11-09T10:51:30Z",
+        "source": "mizuki-game.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDAwMTU4LmpwZw==/315x250%23c/Pns2pf.jpg",
+        "bias": 0
+      },
+      {
+        "title": "QT Garden [Free] [Windows]",
+        "link": "https://dworzo.itch.io/qt-garden",
+        "description": "",
+        "pubDate": "2025-11-09T10:50:09Z",
+        "source": "dworzo.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDAwMzc1LnBuZw==/315x250%23c/S%2FLi9c.png",
         "bias": 0
       },
       {
@@ -237,7 +255,7 @@
         "bias": 0
       },
       {
-        "title": "One Day to Fly [Free] [Strategy] [Windows]",
+        "title": "One Day to Fly [Free] [Strategy]",
         "link": "https://yyz.itch.io/onedaytofly",
         "description": "You are stuck in a 60 second loop. Build the hot air balloon to escape. Can you fly?",
         "pubDate": "2025-11-09T09:16:02Z",
@@ -262,18 +280,18 @@
         "source": "pavelee.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MDAwMTY4LnBuZw==/315x250%23c/yUmEeq.png",
         "bias": 0
-      },
-      {
-        "title": "Fun Monke Horror REBORN [Free]",
-        "link": "https://monkeeeeeeeeeee.itch.io/fun-monke-horror-reborn",
-        "description": "idk man",
-        "pubDate": "2025-11-09T06:53:24Z",
-        "source": "monkeeeeeeeeeee.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTk4NDg1LnBuZw==/315x250%23c/tfNkZG.png",
-        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Nearly a million evacuated as Philippines braces for 'super typhoon'",
+        "link": "https://www.bbc.com/news/articles/cq509yj82y8o?at_medium=RSS&at_campaign=rss",
+        "description": "Typhoon Fung-wong with sustained winds of 185 km/h (115mph) is expected to make landfall on Sunday evening.",
+        "pubDate": "2025-11-09T11:22:39Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca52/live/cd978250-bd4f-11f0-8669-5560f5c90fbe.jpg",
+        "bias": 0
+      },
       {
         "title": "UK military to help protect Belgium after drone incursions",
         "link": "https://www.bbc.com/news/articles/c3dn2ep584ko?at_medium=RSS&at_campaign=rss",
@@ -291,6 +309,15 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5682/live/9d514070-9f60-11f0-af95-eb0d48238f5d.jpg",
         "bias": 0
+      },
+      {
+        "title": "Republicans push to strip Zohran Mamdani of US citizenship. Is it possible?",
+        "link": "https://www.aljazeera.com/news/2025/11/9/republicans-push-to-strip-zohran-mamdani-of-us-citizenship-is-it-possible?traffic_source=rss",
+        "description": "GOP seeks to revoke NYC Mayor-elect Mamdani’s citizenship; experts say they must prove false claims in his application.",
+        "pubDate": "2025-11-09T10:59:08Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "How social media amplified hate rhetoric against Mamdani",
@@ -347,15 +374,6 @@
         "bias": 0
       },
       {
-        "title": "Nearly a million evacuated as Philippines braces for 'super typhoon'",
-        "link": "https://www.bbc.com/news/articles/cq509yj82y8o?at_medium=RSS&at_campaign=rss",
-        "description": "Typhoon Fung-wong with sustained winds of 185 km/h (115mph) is expected to make landfall on Sunday evening.",
-        "pubDate": "2025-11-09T09:12:29Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca52/live/cd978250-bd4f-11f0-8669-5560f5c90fbe.jpg",
-        "bias": 0
-      },
-      {
         "title": "Freed Kenyan activists allege mistreatment after month in Ugandan detention",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/11/9/freed-kenyan-activists-allege-mistreatment-after-month-in-ugandan-detention?traffic_source=rss",
         "description": "Two Kenyan human rights activists have returned home after being secretly detained for 39 days in Uganda.",
@@ -372,6 +390,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Flight cuts from government shutdown strain a supply chain that’s already stretched thin - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQekIzTDRNQVE3ekdLZWVidmdGWmNDOE1SYmMxT1FBVTBtc0ZjVlhQZTlzdXJKaFI5THVKUEQwakJPZDVZSlo4R2RkbENWYVhLT3hWVktKUFFucEoxWGM2LW5PZHpNWFg4bHpueGJKSWx0YkNCNzBITmpEZi13SVhxZnhxdjBqbVJEM0tIRDNqNWprS1V6RW9DSC1uSlBUQQ?oc=5",
+        "description": "",
+        "pubDate": "2025-11-09T09:07:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Powerful earthquake strikes off the coast of Japan, tsunami advisory issued - AP News",
@@ -617,15 +644,6 @@
         "bias": -1
       },
       {
-        "title": "US airlines cancel more than 2,500 weekend flights largely due to government shutdown - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcXEzNlVxa0F5ZTV0c3YyQmxJX3p5VDJGdDNjNjg5WFd4aGJ3SWNHVGFidGg2VG80bGJOdk9JN3BvQ2FZbC1vb3NTTWIwUzdOR1JoSTNxZ01GbS1YeS1jVHN2ZzhaNkRET1hXOG9PSFh5amRuWXBscFA4ZFFfY2hfVjB1Tmo4VGNPV01Wc05TZ01rLTE3OTdWSDhZM2RMb2Y2ZW1TZHBVc256N0lfMW5VZmNRaw?oc=5",
-        "description": "",
-        "pubDate": "2025-11-09T02:52:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Russia-Ukraine war: List of key events, day 1,354",
         "link": "https://www.aljazeera.com/news/2025/11/9/russia-ukraine-war-list-of-key-events-day-1354?traffic_source=rss",
         "description": "Here are the key events from day 1,354 of Russia’s war on Ukraine.",
@@ -761,10 +779,29 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "US airlines cancel more than 2,500 weekend flights largely due to government shutdown - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcXEzNlVxa0F5ZTV0c3YyQmxJX3p5VDJGdDNjNjg5WFd4aGJ3SWNHVGFidGg2VG80bGJOdk9JN3BvQ2FZbC1vb3NTTWIwUzdOR1JoSTNxZ01GbS1YeS1jVHN2ZzhaNkRET1hXOG9PSFh5amRuWXBscFA4ZFFfY2hfVjB1Tmo4VGNPV01Wc05TZ01rLTE3OTdWSDhZM2RMb2Y2ZW1TZHBVc256N0lfMW5VZmNRaw?oc=5",
+        "description": "",
+        "pubDate": "2025-11-09T02:52:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Tech": [],
-    "Science": [],
+    "Science": [
+      {
+        "title": "Back from the brink: UK red kites aid Spanish cousins",
+        "link": "https://www.bbc.com/news/articles/crrez8x7l55o?at_medium=RSS&at_campaign=rss",
+        "description": "A project to revive red kite populations in south-west Spain sees new mating pairs and chicks.",
+        "pubDate": "2025-11-09T07:38:34Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6723/live/8296af90-bd42-11f0-8669-5560f5c90fbe.jpg",
+        "bias": 0
+      }
+    ],
     "Business": [
       {
         "title": "Many would-be buyers are frozen out of the housing market",
