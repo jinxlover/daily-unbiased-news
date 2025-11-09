@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-11-09T09:30:56.575570Z",
+  "lastUpdate": "2025-11-09T09:45:32.746234Z",
   "news": {
     "Gaming": [
+      {
+        "title": "For The Castle [Free] [Shooter]",
+        "link": "https://afreenzmake.itch.io/for-the-castle",
+        "description": "medieval,Castle,Defends,Heroes,Arrow",
+        "pubDate": "2025-11-09T09:33:36Z",
+        "source": "afreenzmake.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTk5NTg4LnBuZw==/315x250%23c/dtmI26.png",
+        "bias": 0
+      },
       {
         "title": "Mighty Bebruch [Free] [Platformer] [Windows]",
         "link": "https://matvey08.itch.io/mighty-bebruch",
@@ -174,24 +183,6 @@
         "bias": 0
       },
       {
-        "title": "Release Day [Free] [Shooter] [Windows]",
-        "link": "https://frankiplier.itch.io/release-day",
-        "description": "Everything's out of control",
-        "pubDate": "2025-11-09T07:29:04Z",
-        "source": "frankiplier.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTk4ODU5LnBuZw==/315x250%23c/k6Hlrq.png",
-        "bias": 0
-      },
-      {
-        "title": "Blind Breaker [Free] [Action]",
-        "link": "https://v0yager.itch.io/blind-breaker",
-        "description": "#wsfgamejam2025 #arkanoid #breakout #LUA #TIC-80",
-        "pubDate": "2025-11-09T07:27:23Z",
-        "source": "v0yager.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTk4NzU3LnBuZw==/315x250%23c/HaDgBd.png",
-        "bias": 0
-      },
-      {
         "title": "Scrap Fleet [Free] [Strategy] [Windows]",
         "link": "https://pingwin01games.itch.io/scrap-fleet",
         "description": "Make your ship. Change main hull, choose their weapons and engine and send them to battle",
@@ -207,6 +198,15 @@
         "pubDate": "2025-11-09T07:22:41Z",
         "source": "mrpatapon.itch.io",
         "image": "https://img.itch.zone/aW1nLzIzOTk4NzE4LnBuZw==/315x250%23c/3IWH0Q.png",
+        "bias": 0
+      },
+      {
+        "title": "NeuroJack [Free] [Simulation] [Windows]",
+        "link": "https://wuente.itch.io/neuro-jack",
+        "description": "",
+        "pubDate": "2025-11-09T07:05:00Z",
+        "source": "wuente.itch.io",
+        "image": "https://img.itch.zone/aW1nLzIzOTk4OTYyLnBuZw==/315x250%23c/PPLVYe.png",
         "bias": 0
       },
       {
@@ -248,13 +248,40 @@
     ],
     "World": [
       {
+        "title": "Powerful quake strikes off the coast of Japan, tsunami advisory issued - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTDBtYnYzaDd3TTlXeXZHSFQ4Mjlzb0kxYm9qMHBoOWRkZDkzUXU2N0pXT3VQU1ptWVdiTWdYLVdLdzFibFR4VEFrR2lLQzRLRVFNRmlyV3E2X3o4SldSbFEtaDdsYjUtdndDZ3lRVFNUREwyeWlNb1N1amMtZWZMUHFnZTFjRmFOb2pEUQ?oc=5",
+        "description": "",
+        "pubDate": "2025-11-09T09:22:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Nearly a million evacuated as Philippines braces for 'super typhoon'",
         "link": "https://www.bbc.com/news/articles/cq509yj82y8o?at_medium=RSS&at_campaign=rss",
         "description": "Typhoon Fung-wong with sustained winds of 185 km/h (115mph) is expected to make landfall on Sunday evening.",
         "pubDate": "2025-11-09T09:12:29Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae20/live/5cca1ec0-bcc3-11f0-ae46-bd64331f0fd4.png",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca52/live/cd978250-bd4f-11f0-8669-5560f5c90fbe.jpg",
         "bias": 0
+      },
+      {
+        "title": "Freed Kenyan activists allege mistreatment after month in Ugandan detention",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/9/freed-kenyan-activists-allege-mistreatment-after-month-in-ugandan-detention?traffic_source=rss",
+        "description": "Two Kenyan human rights activists have returned home after being secretly detained for 39 days in Uganda.",
+        "pubDate": "2025-11-09T09:11:45Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Activists protest PETA’s ‘silence’ over Israel’s killing of animals",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/9/activists-protest-petas-silence-over-israels-killing-of-animals?traffic_source=rss",
+        "description": "Activists protested against PETA in Washington DC, for their silence over animals killed by Israel across Palestine.",
+        "pubDate": "2025-11-09T09:08:26Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Special voting for forces and displaced in Iraq parliamentary polls begins",
@@ -374,9 +401,9 @@
         "bias": 0
       },
       {
-        "title": "LIVE: Israeli killings continue in Gaza, West Bank; Hamas retrieves body",
+        "title": "LIVE: Israel’s attacks continue in Gaza; Hamas to hand over Goldin’s body",
         "link": "https://www.aljazeera.com/news/liveblog/2025/11/9/live-israeli-killings-continue-in-gaza-west-bank-hamas-retrieves-body?traffic_source=rss",
-        "description": "Hamas says the retrieved body is that of Israeli soldier Hadar Goldin, who was reported killed in 2014.",
+        "description": "Hamas says it has retrieved remains of Israeli soldier Hadar Goldin, who was reported killed in 2014.",
         "pubDate": "2025-11-09T05:00:00Z",
         "source": "aljazeera.com",
         "image": "",
