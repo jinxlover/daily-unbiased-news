@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-10T05:49:28.468291Z",
+  "lastUpdate": "2025-11-10T05:59:42.580825Z",
   "news": {
     "Gaming": [
       {
@@ -12,12 +12,21 @@
         "bias": 0
       },
       {
-        "title": "Exposure [Free] [Action] [Windows]",
+        "title": "Exposure [Free] [Action] [Windows] [macOS]",
         "link": "https://hj2391.itch.io/exposure",
         "description": "Save the world of sight and shadow",
         "pubDate": "2025-11-10T05:28:03Z",
         "source": "hj2391.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MDE2NzI0LnBuZw==/315x250%23c/R%2B2qZQ.png",
+        "bias": 0
+      },
+      {
+        "title": "Troll RPG : Legend of the 7 Funnies [Free] [Adventure] [Windows]",
+        "link": "https://dexterousfish.itch.io/trollrpg",
+        "description": "A game about a simple Troll Face on his quest to save the world.",
+        "pubDate": "2025-11-10T05:22:33Z",
+        "source": "dexterousfish.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDE2NjY5LnBuZw==/315x250%23c/kVhbpm.png",
         "bias": 0
       },
       {
@@ -171,15 +180,6 @@
         "pubDate": "2025-11-10T03:53:01Z",
         "source": "thewriterwins.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MDE1OTM4LnBuZw==/315x250%23c/xCbour.png",
-        "bias": 0
-      },
-      {
-        "title": "Planet Destoryer [Free] [Shooter]",
-        "link": "https://alessaismyidol-rgb.itch.io/planet-destoryer",
-        "description": "An infinite asteroids style game. A great time waster.",
-        "pubDate": "2025-11-10T03:48:16Z",
-        "source": "alessaismyidol-rgb.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDE1OTExLnBuZw==/315x250%23c/9Cd5Pd.png",
         "bias": 0
       },
       {
@@ -427,15 +427,6 @@
     ],
     "Business": [
       {
-        "title": "Man kills 3 co-workers at Texas business, then dies after shooting himself, police say - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV2ZYa2lwaFdnV1VDbE9ERkxlQlZiZ0J6UWJCeUZoMHAzUjZwTUZodTRpSld3SWtHWXEwVFZnbndaR2x3OFNLTjZWYUcxQlI3OFRvSVhCblY0dHJwaXVFRmdWLWZSY2NndGhDaU5mQTIwR3AtNTlqbFNsNDNsRHRuN1VEMjFVY1h6eHdBRDQ1aw?oc=5",
-        "description": "",
-        "pubDate": "2025-11-10T00:58:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Tutoring a baby to make them an 'English gentleman' - Is it worth the money?",
         "link": "https://www.bbc.com/news/articles/cd9kljww1zdo?at_medium=RSS&at_campaign=rss",
         "description": "The advert seeks \"an extraordinary tutor\" required \"to support child on his first steps to becoming an English gentleman.\"",
@@ -454,6 +445,16 @@
         "bias": 0
       }
     ],
-    "Culture": []
+    "Culture": [
+      {
+        "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+        "description": "",
+        "pubDate": "2025-11-10T05:03:46Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ]
   }
 }
