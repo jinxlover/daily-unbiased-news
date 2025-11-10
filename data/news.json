@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-11-10T10:56:37.195509Z",
+  "lastUpdate": "2025-11-10T11:20:05.509586Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Boomliner [Free]",
+        "link": "https://alomszuszek.itch.io/boomliner",
+        "description": "Boomliner – Bomb, destroy, and land!",
+        "pubDate": "2025-11-10T10:09:33Z",
+        "source": "alomszuszek.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDE4NzYzLnBuZw==/315x250%23c/4JtaLt.png",
+        "bias": 0
+      },
       {
         "title": "Sunset Farm [Free] [Simulation] [Android]",
         "link": "https://xstefanr0.itch.io/sunset-farm",
@@ -111,6 +120,15 @@
         "bias": 0
       },
       {
+        "title": "My Game Dev Journey [Free] [Other] [Windows]",
+        "link": "https://cetinboran.itch.io/my-journey",
+        "description": "7 mini games built while learning Godot Engine",
+        "pubDate": "2025-11-10T08:26:46Z",
+        "source": "cetinboran.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDE5MTkwLnBuZw==/315x250%23c/8YnGGa.png",
+        "bias": 0
+      },
+      {
         "title": "Echo of the Depth [Free] [Other] [Windows]",
         "link": "https://filip-pogodzinski.itch.io/echo-of-the-depth",
         "description": "",
@@ -156,24 +174,6 @@
         "bias": 0
       },
       {
-        "title": "Channel Chaos [Free] [Action] [Windows] [Linux]",
-        "link": "https://zshandi.itch.io/channel-chaos",
-        "description": "Wario Ware meets retro gaming in this fast-faced mixed genre game!",
-        "pubDate": "2025-11-10T07:58:09Z",
-        "source": "zshandi.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDE3NzYyLnBuZw==/315x250%23c/dHaNuP.png",
-        "bias": 0
-      },
-      {
-        "title": "Doorphobia [Free] [Other] [Windows]",
-        "link": "https://fiveque.itch.io/doorphobia",
-        "description": "Afraid of doors?",
-        "pubDate": "2025-11-10T07:57:07Z",
-        "source": "fiveque.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDE3NzM4LnBuZw==/315x250%23c/y0Rnsw.png",
-        "bias": 0
-      },
-      {
         "title": "Blue Car World [Free] [Racing] [Windows] [macOS] [Linux]",
         "link": "https://maxelgames.itch.io/blue-car-world",
         "description": "Maxel Games recommends: Don’t crash… it scares the pixels.",
@@ -208,9 +208,54 @@
         "source": "stopthebryce.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MDE2Mjg3LnBuZw==/315x250%23c/DEBfdq.png",
         "bias": 0
+      },
+      {
+        "title": "Deadly Project [Free] [Puzzle] [Windows]",
+        "link": "https://terrangel.itch.io/deadly-project",
+        "description": "",
+        "pubDate": "2025-11-10T02:40:56Z",
+        "source": "terrangel.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDE1MzQzLnBuZw==/315x250%23c/rQ6QHJ.png",
+        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "German court opens trial of Saudi doctor for Christmas market attack",
+        "link": "https://www.aljazeera.com/news/2025/11/10/german-court-opens-trial-of-saudi-doctor-for-christmas-market-attack?traffic_source=rss",
+        "description": "A nine-year-old boy and five women were killed in the ramming attack in a busy market last year.",
+        "pubDate": "2025-11-10T11:11:38Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Is the fall of Pokrovsk, Ukraine’s key eastern stronghold, inevitable?",
+        "link": "https://www.aljazeera.com/features/2025/11/10/is-the-fall-of-pokrovsk-ukraines-key-eastern-stronghold-inevitable?traffic_source=rss",
+        "description": "Some observers believe Russian takeover of strategic town is 'a matter of time'.",
+        "pubDate": "2025-11-10T11:03:59Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "LIVE: Syria’s Ahmed al-Sharaa to meet Donald Trump at the White House",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/11/10/live-syrias-ahmed-al-sharaa-to-meet-donald-trump-at-the-white-house?traffic_source=rss",
+        "description": "Ahmed al-Sharaa to become first Syrian president to visit the White House in nearly 80 years.",
+        "pubDate": "2025-11-10T10:59:23Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Iraq’s PM al-Sudani may win the elections, but lose his post",
+        "link": "https://www.aljazeera.com/news/2025/11/10/iraqs-pm-al-sudani-may-win-the-elections-but-lose-his-post?traffic_source=rss",
+        "description": "Al-Sudani will navigate the challenges of his fragile electoral bloc and post-election negotiations with Shia rivals.",
+        "pubDate": "2025-11-10T10:57:00Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "UN warns of millions displaced by climate change as COP30 opens in Brazil",
         "link": "https://www.aljazeera.com/news/2025/11/10/un-warns-of-millions-displaced-by-climate-change-as-cop30-opens-in-brazil?traffic_source=rss",
@@ -228,6 +273,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Flight cancellations and delays worsen as government shutdown drags on - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSFc0RnA5Um5BTDA3VTVQNndYdnlsWTlhcGhlZ3pNTnFOa1Z3LUt3LTZBVVpaQ1lfSFpYOE82NWxMY3N0S3duR0wzaThnLXh0SmFNb3lxN1lOTklzVEY5em0xekc2Y0lhRjlBSTZUclFUNHlpX2g0am1PWXRmVndvaVliTE5NMF9hYWc5RXVBc3lZQ1ozSkYyMjlCNUNER0FxTzBrRTZYN1dhWVU3ZVJkOG1LOHoyTFpfS2g0?oc=5",
+        "description": "",
+        "pubDate": "2025-11-10T09:49:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Syrian president to meet with President Trump Monday",
@@ -335,6 +389,15 @@
         "pubDate": "2025-11-10T08:10:04Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efa0/live/b0005e90-be0a-11f0-ae46-bd64331f0fd4.jpg",
+        "bias": 0
+      },
+      {
+        "title": "What to Stream: ‘Freakier Friday,’ NF, ‘Landman,’ ‘Palm Royale’ and Black Ops 7 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNEZFU1hhbmZDTDFDeUlRbG5GODVza0NDU3VIYkl5S3UtWjNSMXVFODczNzZkeHpnSWFEOUhncXpxOFFzZ1lzbnBYV3JvdkhwZjJVUVBiSzNmNTJiakZkUDRvbHlrNHlNS3BiRnMwdEU0Vm40X1JfcVRDd2VXUHJKVk1vbXUzRzc0WHdYbkFRVFE2MEEtZGFYa0hR?oc=5",
+        "description": "",
+        "pubDate": "2025-11-10T08:07:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -473,15 +536,6 @@
         "bias": 0
       },
       {
-        "title": "What to Stream: ‘Freakier Friday,’ NF, ‘Landman,’ ‘Palm Royale’ and Black Ops 7 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNEZFU1hhbmZDTDFDeUlRbG5GODVza0NDU3VIYkl5S3UtWjNSMXVFODczNzZkeHpnSWFEOUhncXpxOFFzZ1lzbnBYV3JvdkhwZjJVUVBiSzNmNTJiakZkUDRvbHlrNHlNS3BiRnMwdEU0Vm40X1JfcVRDd2VXUHJKVk1vbXUzRzc0WHdYbkFRVFE2MEEtZGFYa0hR?oc=5",
-        "description": "",
-        "pubDate": "2025-11-10T05:01:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "South Korea indicts ex-leader Yoon on charges of aiding the enemy",
         "link": "https://www.aljazeera.com/news/2025/11/10/south-korea-indicts-ex-leader-yoon-on-charges-of-aiding-the-enemy?traffic_source=rss",
         "description": "Yoon Suk Yeol ordered drone flights over North Korea to create pretext for martial law, prosecutors allege.",
@@ -498,15 +552,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Senate takes first step toward ending the government shutdown - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbG9UajMzY19TYzBKbmpPOGw1d1NJdGkxQWJnZ1F5TVA3SjBYenFQaElPenV5WGJYRk5TLVJlUHc4UW9RbjYxYlVYMTNGRHlKWjdOa2gxY2RjWGt5WUJaOWFFRTNHY210Tndud2ZSaGUxZlV2d0owYm5UZ3VfVmxqVjNVLTFFODFmLXB6VTBMSUNRYUV6WlNYYl9B?oc=5",
-        "description": "",
-        "pubDate": "2025-11-10T04:25:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Seven dead after migrant boat sinks near Thai-Malaysia border",
@@ -624,42 +669,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "5 wounded, 1 seriously, in shooting outside San Francisco supermarket - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObkFJZGtUUHBuZGNnTkJ2clBtbndReHhIY25kek1ONTYzbFRoQ0oyNUJSSGtxNTJYb2FyOElSSHRSMUFjcHFKMXhpb3l4XzBrVjJYN3U1MTcxb1hiWHRMZmp0d1VsY1JBTy1WeVNhVTY4Q25CRlFic0NFRnZBQkFiNkFMeHBjN3pHUUlJ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-10T01:26:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Russia-Ukraine war: List of key events, day 1,355",
-        "link": "https://www.aljazeera.com/news/2025/11/10/russia-ukraine-war-list-of-key-events-day-1355?traffic_source=rss",
-        "description": "Here are the key events from day 1,355 of Russia’s war on Ukraine.",
-        "pubDate": "2025-11-10T00:35:56Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "A closer look at the pitches by Clase, Ortiz cited in sporting gambling indictment - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdHJEVFhEZWVSWnFSU1gxaDNLNmd3SHpqck5nOFFiS0pTT3l5R3NpSnJzem9Ra0k3amE3TGMwZ3BfYUtlZHU3blM5Tk15QnItYzZMbUd5bVZZWDFSVGhqQzhHN2NVNTBQUUJyTWR6Tk1WYUdreEJxZWtpazViQzJkRW1fRnB1Z1lWMEJKWWFoVWV4OXFE?oc=5",
-        "description": "",
-        "pubDate": "2025-11-10T00:34:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Preliminary tests find germ that causes botulism in ByHeart baby formula - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOEZQVXBrYTBYYkRRX1ZCTGljaUhhTnZDS0tSc3JmR3pjUWdqTERwM0JaQXg2cmpkak90LWo5b1FOS3NYOGtzNk51a0g4eWhTVzk5ei1pZ1IzN2swV2dVQjFXQjZva0E5VjZyNUM3RjhrOHhqWXNBbVFpaGNqVnRId2NRLUVYQWd3bmw2NVBxZl9TaUNlY0hIVzNCNmY?oc=5",
-        "description": "",
-        "pubDate": "2025-11-10T00:31:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
@@ -680,6 +689,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Senate takes first step toward ending the government shutdown - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbG9UajMzY19TYzBKbmpPOGw1d1NJdGkxQWJnZ1F5TVA3SjBYenFQaElPenV5WGJYRk5TLVJlUHc4UW9RbjYxYlVYMTNGRHlKWjdOa2gxY2RjWGt5WUJaOWFFRTNHY210Tndud2ZSaGUxZlV2d0owYm5UZ3VfVmxqVjNVLTFFODFmLXB6VTBMSUNRYUV6WlNYYl9B?oc=5",
+        "description": "",
+        "pubDate": "2025-11-10T04:25:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Senators take first step toward reopening the government after historic shutdown",
@@ -763,7 +781,7 @@
         "title": "Associated Press News: Breaking News | Latest News Today - AP News",
         "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
         "description": "",
-        "pubDate": "2025-11-10T07:51:25Z",
+        "pubDate": "2025-11-10T07:57:34Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
