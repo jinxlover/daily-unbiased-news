@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-11-10T07:40:13.372034Z",
+  "lastUpdate": "2025-11-10T07:50:41.716146Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Revenge of the Firelies [Free] [Survival]",
+        "link": "https://frenchfryarcade.itch.io/revenge-of-the-firelies",
+        "description": "Dash and dodge against vicious fireflies.",
+        "pubDate": "2025-11-10T07:35:47Z",
+        "source": "frenchfryarcade.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDE3NjQxLnBuZw==/315x250%23c/AimNp9.png",
+        "bias": 0
+      },
       {
         "title": "Infinite Mechina [Free]",
         "link": "https://yici-li.itch.io/infinite-mechina",
@@ -9,6 +18,24 @@
         "pubDate": "2025-11-10T07:30:33Z",
         "source": "yici-li.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MDE3NTE2LmpwZw==/315x250%23c/gll1hY.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Look Underneath The Bed [Free]",
+        "link": "https://alexpallis.itch.io/look-underneath-the-bedrealversion",
+        "description": "",
+        "pubDate": "2025-11-10T07:16:10Z",
+        "source": "alexpallis.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDE3NTYyLnBuZw==/315x250%23c/RWLrlY.png",
+        "bias": 0
+      },
+      {
+        "title": "Musical Farming [Free] [Other]",
+        "link": "https://magmaoverlord.itch.io/musical-farming",
+        "description": "A game about growing plants to grow music!",
+        "pubDate": "2025-11-10T07:13:35Z",
+        "source": "magmaoverlord.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDE3NTgxLnBuZw==/315x250%23c/F5uYXj.png",
         "bias": 0
       },
       {
@@ -210,33 +237,6 @@
         "bias": 0
       },
       {
-        "title": "Ending [Free] [Adventure] [Windows]",
-        "link": "https://kurasaki876.itch.io/ending",
-        "description": "Wara a lone survivor explores the ruins of a post-apocalyptic Bolivia, while searching for signs of a lost civilization.",
-        "pubDate": "2025-11-10T05:22:09Z",
-        "source": "kurasaki876.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDE2NjkwLnBuZw==/315x250%23c/zpfdIp.png",
-        "bias": 0
-      },
-      {
-        "title": "Blood Rush [Free] [Action]",
-        "link": "https://lazydawg.itch.io/blood-rush",
-        "description": "Make them Bleed",
-        "pubDate": "2025-11-10T05:21:24Z",
-        "source": "lazydawg.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDE2NjcxLnBuZw==/315x250%23c/%2FIZ%2FxE.png",
-        "bias": 0
-      },
-      {
-        "title": "Arrowling [Free] [Action]",
-        "link": "https://avecta.itch.io/arrowling",
-        "description": "A cute archer on a deadly journey home — run, jump, and shoot through enemies to reach safety with a high score!",
-        "pubDate": "2025-11-10T05:14:16Z",
-        "source": "avecta.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDE2NzAxLnBuZw==/315x250%23c/tIbBqu.png",
-        "bias": 0
-      },
-      {
         "title": "Dragonfly Demo [Free] [Action] [Windows]",
         "link": "https://quadrillegames.itch.io/dragonfly-demo",
         "description": "Demo for Dragonfly, fast-paced tactical FPS",
@@ -256,6 +256,15 @@
       }
     ],
     "World": [
+      {
+        "title": "Hundreds protest against air pollution in New Delhi",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/10/hundreds-protest-against-air-pollution-in-new-delhi?traffic_source=rss",
+        "description": "Hundreds of protesters gathered to demand government action on the worsening air quality and pollution in New Delhi.",
+        "pubDate": "2025-11-10T07:32:54Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Philippines assesses damage after deadly Typhoon Fung-wong",
         "link": "https://www.aljazeera.com/news/2025/11/10/philippines-assesses-damage-after-deadly-typhoon-fung-wong?traffic_source=rss",
@@ -625,6 +634,16 @@
         "bias": 0
       }
     ],
-    "Culture": []
+    "Culture": [
+      {
+        "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+        "description": "",
+        "pubDate": "2025-11-10T05:36:46Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ]
   }
 }
