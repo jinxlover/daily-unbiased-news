@@ -1,7 +1,25 @@
 {
-  "lastUpdate": "2025-11-10T09:44:35.414584Z",
+  "lastUpdate": "2025-11-10T09:56:02.099624Z",
   "news": {
     "Gaming": [
+      {
+        "title": "CATSTER [Free] [Adventure] [Windows]",
+        "link": "https://uglykiss.itch.io/catster",
+        "description": "",
+        "pubDate": "2025-11-10T09:46:39Z",
+        "source": "uglykiss.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDE4NjMzLmpwZWc=/315x250%23c/iB%2Fn%2Bf.jpeg",
+        "bias": 0
+      },
+      {
+        "title": "Escape Game [Free]",
+        "link": "https://screeeech.itch.io/escape-game",
+        "description": "A quick prototype made to playtest the concept for our up and coming NES game",
+        "pubDate": "2025-11-10T09:44:04Z",
+        "source": "screeeech.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDE4NjI1LnBuZw==/315x250%23c/ywakl1.png",
+        "bias": 0
+      },
       {
         "title": "Glooby Hide [Free] [Puzzle] [Windows]",
         "link": "https://erocol.itch.io/glooby-hide",
@@ -36,6 +54,15 @@
         "pubDate": "2025-11-10T08:47:32Z",
         "source": "polysw.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MDE4MDg5LnBuZw==/315x250%23c/pgMeWH.png",
+        "bias": 0
+      },
+      {
+        "title": "Not My Problem [Free] [Other] [Windows]",
+        "link": "https://atiss.itch.io/not-my-problem",
+        "description": "World is changing, but why should I care?",
+        "pubDate": "2025-11-10T08:23:46Z",
+        "source": "atiss.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDE4MjM3LnBuZw==/315x250%23c/XZ5CUS.png",
         "bias": 0
       },
       {
@@ -120,15 +147,6 @@
         "bias": 0
       },
       {
-        "title": "Hokusai [Free] [Visual Novel]",
-        "link": "https://clara-mognol.itch.io/hokusai",
-        "description": "Visual noval éducatif pour découvrir l'oeuvre de Hokusai.",
-        "pubDate": "2025-11-10T07:43:43Z",
-        "source": "clara-mognol.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDE3NjczLnBuZw==/315x250%23c/NhDkrn.png",
-        "bias": 0
-      },
-      {
         "title": "Village Runner [Free] [Adventure]",
         "link": "https://kimiezz.itch.io/village-runner",
         "description": "",
@@ -144,15 +162,6 @@
         "pubDate": "2025-11-10T07:35:47Z",
         "source": "frenchfryarcade.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MDE3NjQxLnBuZw==/315x250%23c/AimNp9.png",
-        "bias": 0
-      },
-      {
-        "title": "Infinite Mechina [Free]",
-        "link": "https://yici-li.itch.io/infinite-mechina",
-        "description": "",
-        "pubDate": "2025-11-10T07:30:33Z",
-        "source": "yici-li.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDE3NTE2LmpwZw==/315x250%23c/gll1hY.jpg",
         "bias": 0
       },
       {
@@ -194,7 +203,43 @@
     ],
     "World": [
       {
-        "title": "“I just want to breathe”: Protests over pollution in New Delhi",
+        "title": "Syrian president to meet with President Trump Monday",
+        "link": "https://www.npr.org/2025/11/10/nx-s1-5601890/syrian-president-to-meet-with-president-trump-monday",
+        "description": "This time last year, Ahmed al-Sharaa [[ahk-mahd al-SHAH-raa]] had a $10 million U.S. bounty on his head. He is now Syria's president and will meet with President Trump at the White House Monday.",
+        "pubDate": "2025-11-10T09:40:21Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Typhoon Fung-wong batters the Philippines, killing 2 and displacing 1.4 million",
+        "link": "https://www.npr.org/2025/11/10/nx-s1-5603655/typhoon-fung-wong-batters-the-philippines-killing-2-and-displacing-1-4-million",
+        "description": "Typhoon Fung-wong slammed the Philippines Monday, killing two and displacing over 1 million people. NPR's Leila Fadel speaks to the World Food Programme's Regis Chapman about the aid being provided.",
+        "pubDate": "2025-11-10T09:40:15Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Recovery efforts continue in Jamaica after Hurricane Melissa devastated the island",
+        "link": "https://www.npr.org/2025/11/10/nx-s1-5601695/recovery-efforts-continue-in-jamaica-after-hurricane-melissa-devastated-the-island",
+        "description": "In Jamaica, survivors of Hurricane Melissa describe losing everything as the storm's fury lays bare the island's new climate reality.",
+        "pubDate": "2025-11-10T09:39:17Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "With U.S. noticeably absent, world leaders gather in Brazil for COP30 climate summit",
+        "link": "https://www.npr.org/2025/11/10/nx-s1-5594924/with-u-s-noticeably-absent-world-leaders-gather-in-brazil-for-cop30-climate-summit",
+        "description": "World leaders will meet this week for the U.N. climate conference, known as COP30. The White House isn't sending anyone, leaving many wondering what role other countries will play in the summit.",
+        "pubDate": "2025-11-10T09:39:10Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "‘I just want to breathe’: Protests over pollution in New Delhi",
         "link": "https://www.aljazeera.com/gallery/2025/11/10/1744?traffic_source=rss",
         "description": "Air quality in India's capital reaches alarming levels, prompting outrage and calls for action.",
         "pubDate": "2025-11-10T09:05:05Z",
@@ -374,6 +419,15 @@
         "bias": 0
       },
       {
+        "title": "What to Stream: ‘Freakier Friday,’ NF, ‘Landman,’ ‘Palm Royale’ and Black Ops 7 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNEZFU1hhbmZDTDFDeUlRbG5GODVza0NDU3VIYkl5S3UtWjNSMXVFODczNzZkeHpnSWFEOUhncXpxOFFzZ1lzbnBYV3JvdkhwZjJVUVBiSzNmNTJiakZkUDRvbHlrNHlNS3BiRnMwdEU0Vm40X1JfcVRDd2VXUHJKVk1vbXUzRzc0WHdYbkFRVFE2MEEtZGFYa0hR?oc=5",
+        "description": "",
+        "pubDate": "2025-11-10T05:01:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "South Korea indicts ex-leader Yoon on charges of aiding the enemy",
         "link": "https://www.aljazeera.com/news/2025/11/10/south-korea-indicts-ex-leader-yoon-on-charges-of-aiding-the-enemy?traffic_source=rss",
         "description": "Yoon Suk Yeol ordered drone flights over North Korea to create pretext for martial law, prosecutors allege.",
@@ -390,15 +444,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Top photos from Week 10 of the NFL season - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbDlES1RFRWZpT1VFeUF1Q0tieVktOUNpRElaX0RYUjA3cm80a3pvRXZlQUZBNFVjcXNuUjF1aTM3bTZCMXg3d3pZS1ZiMjFnSHlya2VFLUJ0T0ZkcXBudGo3XzNPV3ExdDVFck5PTVFnTk90YWpBWlN4U0U1QjhhT0doRzU4bEpLT0xHeFc2WGZON3dEZEFj?oc=5",
-        "description": "",
-        "pubDate": "2025-11-10T04:31:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Senate takes first step toward ending the government shutdown - AP News",
@@ -563,16 +608,34 @@
         "bias": 0
       },
       {
-        "title": "Norris wins Formula 1’s Brazilian Grand Prix to extend his lead with 3 races left - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZmlVRDhCOHpKMGxqcjg3Sl9LTi1zODdoN0twWVdkTmhEM19yVElDUG9PY3djTW1uT2hVYXVZVE1DMnp0YjJBQlBpczNsUTJIdXRURkZaUjlHTHpRS0RvS19zTXJfcENfWXpsSThXZnJCNmxmVlpVU0pqb2tmU3NFVHVVYUcwNU5wZDdTQi1nWmh6RmNwdEc2TUQwWVQ2Y3RFeXc?oc=5",
+        "title": "Preliminary tests find germ that causes botulism in ByHeart baby formula - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOEZQVXBrYTBYYkRRX1ZCTGljaUhhTnZDS0tSc3JmR3pjUWdqTERwM0JaQXg2cmpkak90LWo5b1FOS3NYOGtzNk51a0g4eWhTVzk5ei1pZ1IzN2swV2dVQjFXQjZva0E5VjZyNUM3RjhrOHhqWXNBbVFpaGNqVnRId2NRLUVYQWd3bmw2NVBxZl9TaUNlY0hIVzNCNmY?oc=5",
         "description": "",
-        "pubDate": "2025-11-10T00:29:00Z",
+        "pubDate": "2025-11-10T00:31:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Senate takes the first step toward ending the government shutdown",
+        "link": "https://www.npr.org/2025/11/10/nx-s1-5603687/senate-takes-the-first-step-toward-ending-the-government-shutdown",
+        "description": "After 40 days and 40 nights, a bipartisan group of Senate Democrats and Republicans reached a deal to reopen the government. But some oppose the deal because it doesn't reduce health care costs.",
+        "pubDate": "2025-11-10T09:40:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Rep. Ritchie Torres on why he opposes the Senate deal to reopen the government",
+        "link": "https://www.npr.org/2025/11/10/nx-s1-5603673/rep-ritchie-torres-on-why-he-opposes-the-senate-deal-to-reopen-the-government",
+        "description": "NPR's Steve Inskeep speaks with Rep. Ritchie Torres, D-N.Y., about his opposition to the Senate deal to end the government shutdown.",
+        "pubDate": "2025-11-10T09:39:40Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Senators take first step toward reopening the government after historic shutdown",
         "link": "https://www.npr.org/2025/11/09/nx-s1-5603659/government-shutdown-senate-agreement",
@@ -600,15 +663,6 @@
         "pubDate": "2025-11-10T07:02:17Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7af5/live/be7b5b50-b6d5-11f0-b2a1-6f537f66f9aa.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-10T06:40:45Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -649,6 +703,15 @@
         "pubDate": "2025-11-10T09:33:05Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f002/live/de9bd320-bb2a-11f0-920d-7f5aeca1e91c.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+        "description": "",
+        "pubDate": "2025-11-10T07:57:34Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -697,6 +760,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Donald Trump - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
+        "description": "",
+        "pubDate": "2025-11-10T09:39:18Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Class helps me 'forget everything and just dance'",
