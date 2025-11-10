@@ -1,761 +1,185 @@
 {
-  "lastUpdate": "2025-11-09T23:57:49.355713Z",
+  "lastUpdate": "2025-11-10T02:06:27.512001Z",
   "news": {
     "Gaming": [
       {
-        "title": "TIMEHOPP: SHATTERED TIMELINE [Free] [Puzzle]",
-        "link": "https://jackmorgan22.itch.io/timehopp-shattered-timeline",
+        "title": "[WEB] Fire Emblem 7 : Escape Room [Free] [Visual Novel]",
+        "link": "https://alternas24.itch.io/web-fire-emblem-7-escape-room",
+        "description": "Un point and click con personajes de Fire Emblem 7",
+        "pubDate": "2025-11-10T01:52:24Z",
+        "source": "alternas24.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDE0NzY1LnBuZw==/315x250%23c/F%2FjoGN.png",
+        "bias": 0
+      },
+      {
+        "title": "Paint Skewers [Free]",
+        "link": "https://penguinja.itch.io/paint-skewers",
+        "description": "Very bad game made in 1 hour by 2 officers. Be happy that whatever you made is better than this.",
+        "pubDate": "2025-11-10T01:48:34Z",
+        "source": "penguinja.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDE0NzMzLnBuZw==/315x250%23c/YUKQmw.png",
+        "bias": 0
+      },
+      {
+        "title": "Grid Defence alpha 0.1 [Free] [Fighting] [Windows]",
+        "link": "https://ghostman909.itch.io/grid-defence-alpha-01",
+        "description": "a retro tower defence game made in python",
+        "pubDate": "2025-11-10T01:45:13Z",
+        "source": "ghostman909.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDE0NzAwLnBuZw==/315x250%23c/rdbrj%2B.png",
+        "bias": 0
+      },
+      {
+        "title": "It's Widgets All the Way Down [Free] [Simulation]",
+        "link": "https://ecodevguy.itch.io/its-widgets-all-the-way-down",
+        "description": "Mini Jam 197: Recursion",
+        "pubDate": "2025-11-10T01:39:58Z",
+        "source": "ecodevguy.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDE0ODQxLnBuZw==/315x250%23c/tHCAQW.png",
+        "bias": 0
+      },
+      {
+        "title": "Fire Emblem 7 : Escape Room [Free] [Visual Novel] [Windows]",
+        "link": "https://alternas24.itch.io/fire-emblem-7-escape-room",
+        "description": "Un Point and Click de Fire Emblem",
+        "pubDate": "2025-11-10T01:36:07Z",
+        "source": "alternas24.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDE0NTg2LnBuZw==/315x250%23c/OFjmcg.png",
+        "bias": 0
+      },
+      {
+        "title": "Fern's Voyage [Free]",
+        "link": "https://kaym00n.itch.io/ferns-voyage",
+        "description": "Action-adventure 2D side scroller.",
+        "pubDate": "2025-11-10T01:25:51Z",
+        "source": "kaym00n.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDE0NTA3LnBuZw==/315x250%23c/iOzQhT.png",
+        "bias": 0
+      },
+      {
+        "title": "Murder Mansion [Free] [Puzzle]",
+        "link": "https://pinkabee.itch.io/murder-mansion",
+        "description": "Time For Vengence",
+        "pubDate": "2025-11-10T01:25:02Z",
+        "source": "pinkabee.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDE0NDU5LnBuZw==/315x250%23c/yMXaMR.png",
+        "bias": 0
+      },
+      {
+        "title": "Magicards [Free] [Platformer]",
+        "link": "https://justbetter14.itch.io/magicards",
+        "description": "Magic Card Wizard",
+        "pubDate": "2025-11-10T01:24:21Z",
+        "source": "justbetter14.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDEzNjUxLnBuZw==/315x250%23c/E9dgrr.png",
+        "bias": 0
+      },
+      {
+        "title": "HEYOO [Free] [Platformer] [Windows]",
+        "link": "https://theechoforge.itch.io/heyoo",
+        "description": "Simple de jugar, imposible de soltar. ¡Diversión instantánea!",
+        "pubDate": "2025-11-10T01:05:59Z",
+        "source": "theechoforge.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDE0MjkyLnBuZw==/315x250%23c/N7chQL.png",
+        "bias": 0
+      },
+      {
+        "title": "Deary Me! [Free]",
+        "link": "https://jlosing.itch.io/deary-me",
+        "description": "This game is about escaping hunters and smelling flowers!",
+        "pubDate": "2025-11-10T00:58:27Z",
+        "source": "jlosing.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDE0NDY5LnBuZw==/315x250%23c/%2B0tiNI.png",
+        "bias": 0
+      },
+      {
+        "title": "Gnome An's Land [Free] [Adventure] [Windows]",
+        "link": "https://seances-killjoy.itch.io/gnome-ans-land",
+        "description": "No Mercy, Gnome Matter The Size!",
+        "pubDate": "2025-11-10T00:56:48Z",
+        "source": "seances-killjoy.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDEwMTQ4LmpwZw==/315x250%23c/Mzc63V.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Hopiverse [Free] [Platformer]",
+        "link": "https://znolly.itch.io/hopiverse",
         "description": "",
-        "pubDate": "2025-11-09T23:53:11Z",
-        "source": "jackmorgan22.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDEzMjAzLnBuZw==/315x250%23c/mDsAbJ.png",
+        "pubDate": "2025-11-10T00:51:12Z",
+        "source": "znolly.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDEzODM0LnBuZw==/315x250%23c/f16hgO.png",
         "bias": 0
       },
       {
-        "title": "Unityland [Free] [Adventure]",
-        "link": "https://nick2054.itch.io/unityland",
+        "title": "lavendertown.gb [Free]",
+        "link": "https://inventor702.itch.io/lavendertowngb",
         "description": "",
-        "pubDate": "2025-11-09T23:52:58Z",
-        "source": "nick2054.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDEzMzIwLnBuZw==/315x250%23c/MsTmvu.png",
+        "pubDate": "2025-11-10T00:50:17Z",
+        "source": "inventor702.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDE0MTY0LmpwZw==/315x250%23c/xqe7kE.jpg",
         "bias": 0
       },
       {
-        "title": "M.I.T.H. Pinball [Free] [Action] [Windows]",
-        "link": "https://pixflow.itch.io/mith-pinball",
-        "description": "Mouse in the House Pinball Game",
-        "pubDate": "2025-11-09T23:50:09Z",
-        "source": "pixflow.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDEzMjIxLnBuZw==/315x250%23c/A2qcxG.png",
+        "title": "The Binding of Isaac: Mobile (Unofficial Android Port) [Free] [Action] [Android]",
+        "link": "https://sytstudio.itch.io/isaac-mobile",
+        "description": "Experience The Binding of Isaac for Android. Full game, native controls",
+        "pubDate": "2025-11-10T00:38:36Z",
+        "source": "sytstudio.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDEzOTkzLnBuZw==/315x250%23c/1tgvMb.png",
         "bias": 0
       },
       {
-        "title": "Go To The Office Simulator [Free] [Platformer] [Windows]",
-        "link": "https://thedavoman.itch.io/go-to-the-office-simulator",
-        "description": "For participating in the 2025 Unity Jam",
-        "pubDate": "2025-11-09T23:49:38Z",
-        "source": "thedavoman.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDEzMjE5LnBuZw==/315x250%23c/jZkhP%2B.png",
-        "bias": 0
-      },
-      {
-        "title": "OnesAtATime [Free] [Puzzle]",
-        "link": "https://teamburnex.itch.io/onesatatime",
-        "description": "Sokoban Game - The Time Moves Just When You Do",
-        "pubDate": "2025-11-09T23:48:30Z",
-        "source": "teamburnex.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDEzMTk4LnBuZw==/315x250%23c/Nwejo9.png",
-        "bias": 0
-      },
-      {
-        "title": "Timeless dialogue [Free] [Visual Novel] [Windows]",
-        "link": "https://joanmgc.itch.io/timeless-dialogue",
-        "description": "Short dialogue with an old survivor known universally",
-        "pubDate": "2025-11-09T23:47:55Z",
-        "source": "joanmgc.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDEyNjM1LnBuZw==/315x250%23c/qNjQY%2B.png",
-        "bias": 0
-      },
-      {
-        "title": "The Time Crystal [Free] [Shooter]",
-        "link": "https://waynelambo.itch.io/the-time-crystal",
-        "description": "Unity 20th Anniversary Game Jam Shmup",
-        "pubDate": "2025-11-09T23:47:21Z",
-        "source": "waynelambo.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDEzMzQ2LnBuZw==/315x250%23c/Kwrm3J.png",
-        "bias": 0
-      },
-      {
-        "title": "Baldi's Basics Classic Remastered 1.1 Reupload [Free]",
-        "link": "https://lipegamer701.itch.io/baldis-basics-classic-remastered",
-        "description": "",
-        "pubDate": "2025-11-09T23:47:13Z",
-        "source": "lipegamer701.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDEzMTU3LnBuZw==/315x250%23c/qtlYG9.png",
-        "bias": 0
-      },
-      {
-        "title": "ChronoSkipper [Free] [Platformer] [Windows]",
-        "link": "https://p4gan1.itch.io/chronoskipper",
-        "description": "Puzzle platformer where time only moves when you jump",
-        "pubDate": "2025-11-09T23:46:47Z",
-        "source": "p4gan1.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDEzMzM2LnBuZw==/315x250%23c/62D2bB.png",
-        "bias": 0
-      },
-      {
-        "title": "Zeitnot [Free] [Survival] [Windows]",
-        "link": "https://nopoint.itch.io/zeitnot",
-        "description": "Amazing Game by Amazing People",
-        "pubDate": "2025-11-09T23:46:17Z",
-        "source": "nopoint.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDEzMTYzLnBuZw==/315x250%23c/tOJjK7.png",
-        "bias": 0
-      },
-      {
-        "title": "The Tired God [Free] [Card Game] [Windows]",
-        "link": "https://stoica-1.itch.io/the-tired-god",
-        "description": "",
-        "pubDate": "2025-11-09T23:45:40Z",
-        "source": "stoica-1.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDEzMzc4LnBuZw==/315x250%23c/OrOh%2B0.png",
-        "bias": 0
-      },
-      {
-        "title": "Lost Memories [Free] [Platformer]",
-        "link": "https://oguzk234.itch.io/lost-memories",
-        "description": "",
-        "pubDate": "2025-11-09T23:44:34Z",
-        "source": "oguzk234.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDEzMjk5LnBuZw==/315x250%23c/e5dxY4.png",
-        "bias": 0
-      },
-      {
-        "title": "A Cozy Hedgehog Game [Free] [Other] [Windows]",
-        "link": "https://grant-bartlett.itch.io/a-cozy-hedgehog-game",
-        "description": "",
-        "pubDate": "2025-11-09T23:44:28Z",
-        "source": "grant-bartlett.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDEyOTg2LmpwZw==/315x250%23c/wmGtm3.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Cosmic Drifter [Free] [Windows]",
-        "link": "https://taizamoneyegmailcom.itch.io/cosmic-drifter",
-        "description": "Astronaut drifting through space. An endless runner game.",
-        "pubDate": "2025-11-09T23:42:16Z",
-        "source": "taizamoneyegmailcom.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDEzMTcyLnBuZw==/315x250%23c/CfxctH.png",
-        "bias": 0
-      },
-      {
-        "title": "A Timeless Drive [Free] [Other]",
-        "link": "https://edelstone-studio.itch.io/a-timeless-drive",
-        "description": "A game about driving through the endless night",
-        "pubDate": "2025-11-09T23:42:04Z",
-        "source": "edelstone-studio.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDEzMDc1LnBuZw==/315x250%23c/brozW4.png",
-        "bias": 0
-      },
-      {
-        "title": "Resonance [Free]",
-        "link": "https://galworld-games.itch.io/resonance",
-        "description": "",
-        "pubDate": "2025-11-09T23:41:06Z",
-        "source": "galworld-games.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDEyMzQ3LnBuZw==/315x250%23c/LHCIMZ.png",
-        "bias": 0
-      },
-      {
-        "title": "Garbage Collector (GC) [Free] [Simulation]",
-        "link": "https://ljm463.itch.io/gc",
-        "description": "",
-        "pubDate": "2025-11-09T23:31:04Z",
-        "source": "ljm463.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDEyODE5LnBuZw==/315x250%23c/Hv5dK4.png",
-        "bias": 0
-      },
-      {
-        "title": "Out Of Time [Free] [Shooter] [Windows] [Linux]",
-        "link": "https://luckyleol.itch.io/out-of-time",
-        "description": "",
-        "pubDate": "2025-11-09T23:29:08Z",
-        "source": "luckyleol.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDEyODA5LnBuZw==/315x250%23c/bBqJJ%2F.png",
-        "bias": 0
-      },
-      {
-        "title": "Time Debt [Free] [Action]",
-        "link": "https://puxmakesgames.itch.io/time-debt",
-        "description": "Everything has a price; known since time immemorial. Timeless.",
-        "pubDate": "2025-11-09T23:27:49Z",
-        "source": "puxmakesgames.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDEzMDczLnBuZw==/315x250%23c/qE8J6M.png",
-        "bias": 0
-      },
-      {
-        "title": "DEPTHS [Free] [Other]",
-        "link": "https://pebble1023.itch.io/depths",
-        "description": "",
-        "pubDate": "2025-11-09T23:20:23Z",
-        "source": "pebble1023.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDEyNjc5LmpwZw==/315x250%23c/WIiICW.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Remember Meat [Free] [Adventure]",
-        "link": "https://rotaryinteractive.itch.io/remember-meat",
-        "description": "Meat falls, you profit, while attempting to run a business on a floating rock, using an old command console",
-        "pubDate": "2025-11-09T23:13:58Z",
-        "source": "rotaryinteractive.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDEzMTYyLnBuZw==/315x250%23c/uZ3TrY.png",
-        "bias": 0
-      },
-      {
-        "title": "Timeless Trails [Free] [Puzzle]",
-        "link": "https://gruutle.itch.io/timeless-trails",
-        "description": "A timebending walk in the woods.",
-        "pubDate": "2025-11-09T23:11:36Z",
-        "source": "gruutle.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDEzMTczLnBuZw==/315x250%23c/4iN6Iv.png",
-        "bias": 0
-      },
-      {
-        "title": "The Ground Remembers [Free] [Action] [Windows]",
-        "link": "https://baydayess.itch.io/the-ground-remembers",
-        "description": "A rogue-like dungeon Crawler where you can leave items behind for your future run",
-        "pubDate": "2025-11-09T23:10:51Z",
-        "source": "baydayess.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDEyNTA3LnBuZw==/315x250%23c/vKukpl.png",
-        "bias": 0
-      },
-      {
-        "title": "Borrowed Time (Unity 20th anniversary game jam) [Free] [Platformer] [Windows]",
-        "link": "https://iliketoast554.itch.io/borrowed-time",
-        "description": "Climb the Tower to get your life back.",
-        "pubDate": "2025-11-09T23:10:05Z",
-        "source": "iliketoast554.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDEyMTUyLnBuZw==/315x250%23c/rrCoGv.png",
-        "bias": 0
-      },
-      {
-        "title": "eventually, shakespeare [Free] [Other] [Windows]",
-        "link": "https://fatih-arikan.itch.io/eventually-shakespeare",
-        "description": "\"Your goal is to complete Shakespeare's greatest works, one quote at a time, with the help of your typing monkeys.",
-        "pubDate": "2025-11-09T22:43:47Z",
-        "source": "fatih-arikan.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDEyMDI1LnBuZw==/315x250%23c/PkHYJo.png",
-        "bias": 0
-      },
-      {
-        "title": "Time Bots [Free] [Action]",
-        "link": "https://heroshrine.itch.io/time-bots",
-        "description": "It's TIME to save the world from the misgivings of medical A.I.",
-        "pubDate": "2025-11-09T21:10:14Z",
-        "source": "heroshrine.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDEzMDY5LnBuZw==/315x250%23c/bEt0Ly.png",
-        "bias": 0
-      },
-      {
-        "title": "Knight Knight [Free] [Action]",
-        "link": "https://mekacow-studios.itch.io/knight-knight",
-        "description": "He's out of touch, you're out of time.",
-        "pubDate": "2025-11-09T21:09:58Z",
-        "source": "mekacow-studios.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDEwMzM4LnBuZw==/315x250%23c/Gp%2FhJB.png",
-        "bias": 0
-      },
-      {
-        "title": "PlatformReplayer [Free] [Platformer] [Windows]",
-        "link": "https://ctn-originals.itch.io/platformreplayer",
-        "description": "A 2D platformer puzzle game where you have to overcome challenges that seem to make more sense with multiple players.",
-        "pubDate": "2025-11-09T20:54:03Z",
-        "source": "ctn-originals.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDEwMjA0LmpwZw==/315x250%23c/Vdgxb9.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Post-it Mayhem [Free] [Action] [Windows]",
-        "link": "https://yokatoxx.itch.io/post-it-mayhem",
-        "description": "Fired. You snap. Time freezes. Office chaos unleashed.",
-        "pubDate": "2025-11-09T20:53:57Z",
-        "source": "yokatoxx.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDEzMjg3LnBuZw==/315x250%23c/vidGWU.png",
-        "bias": 0
-      },
-      {
-        "title": "Evershore [Free] [Adventure]",
-        "link": "https://moraazul.itch.io/evershore",
-        "description": "",
-        "pubDate": "2025-11-09T20:38:31Z",
-        "source": "moraazul.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDA5NjU0LnBuZw==/315x250%23c/Ffr0a3.png",
-        "bias": 0
-      },
-      {
-        "title": "The Echo Loop [Free] [Puzzle] [Windows] [Linux]",
-        "link": "https://krostgames.itch.io/the-echo-loop",
-        "description": "",
-        "pubDate": "2025-11-09T18:40:52Z",
-        "source": "krostgames.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDA3MjU1LnBuZw==/315x250%23c/%2B214E4.png",
-        "bias": 0
-      },
-      {
-        "title": "Turbo Turts [Free] [Survival]",
-        "link": "https://marinachaves.itch.io/turbo-turts",
-        "description": "Race to the water!",
-        "pubDate": "2025-11-09T11:47:21Z",
-        "source": "marinachaves.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDAwODUwLnBuZw==/315x250%23c/hy%2Bc%2B6.png",
-        "bias": 0
-      },
-      {
-        "title": "The Hole [Free] [Adventure]",
-        "link": "https://yoorim.itch.io/the-hole",
-        "description": "An intriguing adventure game exploring time and existence.",
-        "pubDate": "2025-11-09T09:44:16Z",
-        "source": "yoorim.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTk5OTQ0LnBuZw==/315x250%23c/iX%2FBAs.png",
-        "bias": 0
-      },
-      {
-        "title": "The Eternal Cleaner [Free] [Adventure]",
-        "link": "https://avgrat.itch.io/theeternalcleaner",
-        "description": "Una fábrica atemporal que se cimenta en trabajadores temporales.",
-        "pubDate": "2025-11-09T05:58:39Z",
-        "source": "avgrat.itch.io",
-        "image": "https://img.itch.zone/aW1nLzIzOTk4NjMxLmpwZw==/315x250%23c/fcDwiu.jpg",
+        "title": "Temple of the Toast [Free] [Platformer] [Windows]",
+        "link": "https://psychicdigit.itch.io/temple-of-the-toast",
+        "description": "Ascend to Toasthood",
+        "pubDate": "2025-11-10T00:34:12Z",
+        "source": "psychicdigit.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDE0MzMzLnBuZw==/315x250%23c/%2FUSrPg.png",
         "bias": 0
       }
     ],
     "World": [
       {
-        "title": "Shutdown could reduce US flights 'to a trickle', transport secretary warns",
-        "link": "https://www.bbc.com/news/articles/c993lpxjx1po?at_medium=RSS&at_campaign=rss",
-        "description": "US lawmakers are working over the weekend as they seek a bipartisan deal to end the shutdown, which is now on day 40.",
-        "pubDate": "2025-11-09T23:40:54Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a57/live/2d333d20-bd88-11f0-ae46-bd64331f0fd4.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Al-Sharaa to become the first Syrian president to visit the White House after an unlikely rise - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOME9raXVVdHFweVM0ZjFuS0hNQ20yM3V1ald2dmVSdWpkVTBCamVETktsdzdNN0xWdUc1N3IyUm0yYm9obzJqRlYyS0FSenhuVk1ESmY2TFhreWtHODRqY3o1VnJ0Y1hLVUxCdEpIdWFwMUdVRGlqWFFNMHIzS3pZM1Fhc1JBeHJiSXBmcEF2SUtWLWtzTlRJOW1vcw?oc=5",
-        "description": "",
-        "pubDate": "2025-11-09T23:26:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Hungarian leader Orban says he secured ‘financial shield’ from Trump",
-        "link": "https://www.aljazeera.com/economy/2025/11/9/hungarian-leader-orban-says-he-secured-financial-shield-from-trump?traffic_source=rss",
-        "description": "Trump promises to defend Hungary’s finances amid Orban-EU tensions and to sign $600m gas deal, says Hungarian leader.",
-        "pubDate": "2025-11-09T22:56:30Z",
+        "title": "Russia-Ukraine war: List of key events, day 1,355",
+        "link": "https://www.aljazeera.com/news/2025/11/10/russia-ukraine-war-list-of-key-events-day-1355?traffic_source=rss",
+        "description": "Here are the key events from day 1,355 of Russia’s war on Ukraine.",
+        "pubDate": "2025-11-10T00:35:56Z",
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Trump administration demands states 'undo' full SNAP payouts as states warn of 'catastrophic impact' - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON214eHFvWFQ3WVZfU0M5TGZkS0RzcmFXNWw3YW0wNk5ZYXphVEZnSkZja09kVWZuWi1fb0EyOTUzd21TT1YzZ1hQSUlLUll2bURHTjRsR0hqM3dvdzY2TDZqbURSUnFkd0p4ak1Hd195SUhBZFdOWml0VUpJZV83c05ZUUNLNWcwYmdBM01jMmZZYWVqZm9YR1FsUGVnNGtwc2pYX2xYbU8wRXVaNGMybjhOaXA?oc=5",
-        "description": "",
-        "pubDate": "2025-11-09T22:49:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Sudan medics accuse RSF of burning, burying bodies to conceal ‘genocide’",
-        "link": "https://www.aljazeera.com/news/2025/11/9/sudan-medics-accuse-rsf-of-burning-burying-bodies-to-conceal-genocide?traffic_source=rss",
-        "description": "People fleeing el-Fasher for Al Dabbah tell Al Jazeera many died on the way from wounds or lack of food.",
-        "pubDate": "2025-11-09T22:38:01Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Paul Tagliabue, NFL commissioner of 17 years who led an era of riches and expansion, dies at 84 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaV9udjdxTlM0UkVMZ2pBdWtIX2VweWh1ODFWclByQzJBQk1jZlVvcl9mb21kMWY0TjNzMEkyNlZTdTAxU2FIS19PaG1mUTRoMzBSZFAyNVdhN1dZb1ZYTmJaM3ZJOElLMUQ5cjFNdl9YSm52d1ptMEFPVGlVQmpDNVE1ZGk4MHlCdnJ2aWEtYWNjd0Y4Qkd0RGFCckk?oc=5",
-        "description": "",
-        "pubDate": "2025-11-09T22:29:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "MLB pitchers Emmanuel Clase and Luis Ortiz charged with taking bribes to rig pitches for bettors - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTWpQR1pPd0ViNHhTOXc1ZHpZMklxSjdfeC1rSGVWZDdUNWVDdG5MbHhlZDU4MXBzcHFzVkVnRkhPZ2tXb2IzSGh2eTlpcWZvdjhmamV0X0w1T3kzSHJvdDJrdW1Zc3hPQWFQdDI4My1SQVM3RjA4UmVNYTk3UDRfUWtjMXNvdnc1bGVqUjlQTl9BbEVabV9TZA?oc=5",
-        "description": "",
-        "pubDate": "2025-11-09T22:19:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Harshita was murdered a year ago - so why has her killer not been caught, family ask",
-        "link": "https://www.bbc.com/news/articles/c993je80ermo?at_medium=RSS&at_campaign=rss",
-        "description": "Police have charged Harshita Brella's husband with murder - but, despite sightings, he remains on the run.",
-        "pubDate": "2025-11-09T22:18:20Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b7/live/8eb1c8a0-bbc6-11f0-b6c2-7f3ceed9a880.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Mystery 'fedora man' at Louvre heist scene revealed as teenage detective fan",
-        "link": "https://www.bbc.com/news/articles/c5ylx0g6w76o?at_medium=RSS&at_campaign=rss",
-        "description": "The mystery youth in the photo turns out to be Pedro Elias Garzon Delvaux, a 15-year-old detective fan.",
-        "pubDate": "2025-11-09T22:09:39Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc4e/live/e48e8c60-bd86-11f0-8456-eff94716b162.png",
-        "bias": 0
-      },
-      {
-        "title": "US airlines’ daily cancellations top 2,000 for first time since shutdown cuts began - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaG5IVkZGRnYzZG1uZGc5SFZ5bFE2V1VPdmo5cWdnUHFlSWNUdGpFTWVQX1dqMURuTHJLa3IzSlowbV9PZkJkaVV6RXc3dkc0cExZTVpYeHBQVlVGcUlITjFKdVVLRE5QYklIbjktSDhjR19pdnE0ZXBKd0F6Z2p2VXQ0THJhRFd6bXZ5cmc2V2xLVGRYMTVwT3Z6Z21DRy10Nnc?oc=5",
-        "description": "",
-        "pubDate": "2025-11-09T22:09:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Brazil's favela residents are demanding a say in climate talks",
-        "link": "https://www.npr.org/2025/11/09/nx-s1-5594855/brazils-favela-residents-are-demanding-a-say-in-climate-talks",
-        "description": "As Brazil prepares to host COP30, residents of Rio de Janeiro's favelas are mobilizing to make sure the voices of the world's informal settlements aren't left out of global climate talks.",
-        "pubDate": "2025-11-09T22:03:30Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "British man dies after being shot during robbery in Ghana",
-        "link": "https://www.bbc.com/news/articles/cwy12jpl3wgo?at_medium=RSS&at_campaign=rss",
-        "description": "A manhunt is under way for the 68-year-old's killer and other suspects who were at the scene in Tema.",
-        "pubDate": "2025-11-09T21:56:32Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c9a/live/30c80630-bd94-11f0-b429-db99eb1e9512.jpg",
-        "bias": 0
-      },
-      {
-        "title": "19 teams in the AP Top 25 take new spots as the playoff matchups loom - AP News",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QZjFhZ2x4dVdzd1p3aXhCVnBjUkJnZ3FydGZfMFJ1QV9ZUTdhSXF3czREMWNVc3Y5TkdjeWxaelMzamJlY1J2cEpWeG95RWk0Y1dyZDN2TzEtanhNMUdnYzVmZExkMVl5a05qOG1HTQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-09T21:46:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "BBC boss Tim Davie resigns after criticism over Trump speech edit",
-        "link": "https://www.aljazeera.com/news/2025/11/9/bbc-director-general-tim-davie-resigns-over-editing-of-trump-speech?traffic_source=rss",
-        "description": "Davie's exit caps week of attacks on UK's public broadcaster, with Trump press secretary calling it '100% fake news'.",
-        "pubDate": "2025-11-09T21:40:41Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Iran faces unprecedented drought as water crisis hits Tehran",
-        "link": "https://www.bbc.com/news/articles/cy4p2yzmem0o?at_medium=RSS&at_campaign=rss",
-        "description": "The government is pleading with Iranians to save water as reservoirs dry up and rainfall is at a record low.",
-        "pubDate": "2025-11-09T21:38:26Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a59/live/3564abe0-bdac-11f0-8456-eff94716b162.jpg",
-        "bias": 0
       },
       {
         "title": "Top BBC bosses resign after criticism of the broadcaster’s editing of a Trump speech - AP News",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ3VhUkJZeHBHbXZDRXJtdzNYRmNtR1p5QTBHSnFBVzB6ZnJfelF2blQtdW12VWRSNndtdXBHV1FuTy11NERWWk1tQlVrbzFXcy1OampYS0ktckVyTmJLeHhGUlVUN2l2YVdhdHQ0XzhER2FoWXVqd1dUemNKMlU1VHdKWmRUcDI3QzdKR0dfUW1oOTVqT0RvaGdrQkdHaEtQLTJJ?oc=5",
         "description": "",
-        "pubDate": "2025-11-09T21:30:00Z",
+        "pubDate": "2025-11-10T00:31:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Donald Trump plans to be the 1st sitting US president at a regular-season NFL game since 1978 - AP News",
+        "title": "Preliminary tests find germ that causes botulism in ByHeart baby formula - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOEZQVXBrYTBYYkRRX1ZCTGljaUhhTnZDS0tSc3JmR3pjUWdqTERwM0JaQXg2cmpkak90LWo5b1FOS3NYOGtzNk51a0g4eWhTVzk5ei1pZ1IzN2swV2dVQjFXQjZva0E5VjZyNUM3RjhrOHhqWXNBbVFpaGNqVnRId2NRLUVYQWd3bmw2NVBxZl9TaUNlY0hIVzNCNmY?oc=5",
+        "description": "",
+        "pubDate": "2025-11-10T00:31:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Donald Trump booed as the 1st sitting US president at a regular-season NFL game since Carter in 1978 - AP News",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWGN4dXN0N3gxSnZ1NHNWeDZucl9sQnhrWkh4bWNCMXZXMEU4V2ZKUl9mck1xWDNVOXNzOFp2LWFsSEN6dE1hT2x0TjcyYXNsM1RWY1g1Ul9GUzdfQ1NOVnB2RFdBOGZhOWhRMDd2VGtVLWJSMF9VU3lpa0MyVkdqbHdkU1BUOWtGb1dsOENBSQ?oc=5",
         "description": "",
-        "pubDate": "2025-11-09T21:26:00Z",
+        "pubDate": "2025-11-10T00:15:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Norris wins Formula 1’s Brazilian Grand Prix to extend his lead with 3 races left - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZmlVRDhCOHpKMGxqcjg3Sl9LTi1zODdoN0twWVdkTmhEM19yVElDUG9PY3djTW1uT2hVYXVZVE1DMnp0YjJBQlBpczNsUTJIdXRURkZaUjlHTHpRS0RvS19zTXJfcENfWXpsSThXZnJCNmxmVlpVU0pqb2tmU3NFVHVVYUcwNU5wZDdTQi1nWmh6RmNwdEc2TUQwWVQ2Y3RFeXc?oc=5",
+        "title": "Hall of Famer Lenny Wilkens, the godfather of Seattle basketball, dies at 88 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbTZqbmhkX1N1NEtjSl9qTktncEZFZENvaTVYclFlZXlPN0w1eEFCMGZvX3NRVF94akRFZmVaMFZRcFJsSnl0eXg3YnBnR2JvWGxsVDBTLXBXVHFDUlMzSU1nbzMyVi02TXQ2dGNKemRMcXdOMDBQeEo4c0QzejM4ZFFISnk?oc=5",
         "description": "",
-        "pubDate": "2025-11-09T21:06:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Big Ten says USC should have been penalized on fake punt play under the NCAA's Unfair Tactics rule - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVExXZ0VFWGNuMkJOdzc3ekFLSE0yV3l0STQxSkJyRng0dm1hYzdjaFN0MU9wTDJ5T3dXV2tEYjFiWmktN2Ryd3BkQlRaT1NyWktuaHZINkFwVUhYV0ZwSUN0eEtRNDJ0dS1IWFVZUnJjVFpTTkZ4UzRFOXc1SHo3eWdWS0VFeHdM?oc=5",
-        "description": "",
-        "pubDate": "2025-11-09T21:02:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Philippines hit by 'intense' typhoon as nearly a million evacuate",
-        "link": "https://www.bbc.com/news/articles/cq509yj82y8o?at_medium=RSS&at_campaign=rss",
-        "description": "Typhoon Fung-wong, with sustained winds of 185 km/h (115mph), hit the Philippines as a super typhoon and later weakened.",
-        "pubDate": "2025-11-09T20:44:39Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca52/live/cd978250-bd4f-11f0-8669-5560f5c90fbe.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Is Mali about to fall to an al-Qaeda-affiliated armed group?",
-        "link": "https://www.aljazeera.com/video/inside-story/2025/11/9/is-mali-about-to-fall-to-an-al-qaeda-affiliated-armed-group?traffic_source=rss",
-        "description": "Armed group piles pressure on the landlocked Sahel country and its military government.",
-        "pubDate": "2025-11-09T20:40:23Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Israel confirms receiving the remains of a soldier killed in Gaza in 2014 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdTlzZElwWDd0WGJBRTBMcjVKZ2FzYU0takVYR1NxTlVveXhkbFBzdjJidlhLYmZKQVlJUGVUMnVhRkV6NDRuMzduT1NGWHhuS3RvcGs3R2hRMl9HQzZCUDVsWi15OTM4aXF2eFhDcWRtemI1a292M2duaU5qclZIQ0R3UW1odVNZNTloTzZfcVhlTFlEVDlmRHBXVUttSHNQUmdtVE5HZGFtUQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-09T20:22:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Taylor runs for 244 yards and 3 TDs for Colts in 31-25 OT win over Falcons in Berlin - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORjdVMjZNd2hPOFJ0cmc3YXlFV0ZsTWVHZ1ZfZHR1WW1zQ0tOM0thZE1kREpXNzJGT09mQnNEYW00SW90X1hTcTlXd3B1SERMMEFJUDJkNzlidW80NThkbGFmR0FiRFNpLUhIb0UyMjlYU2pTNWpmVWdmREViZUZtTEdTaVNveS1UN1gwb1plN0lXSTBwNVJtNHVn?oc=5",
-        "description": "",
-        "pubDate": "2025-11-09T19:57:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Israel receives body of soldier killed in 2014 in Gaza",
-        "link": "https://www.bbc.com/news/articles/c2kp3yjy8q7o?at_medium=RSS&at_campaign=rss",
-        "description": "The Israeli military confirmed the soldier's body had been returned from Gaza after 11 years on Sunday.",
-        "pubDate": "2025-11-09T19:41:15Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b414/live/643bc910-bd6d-11f0-abab-df46b9caffa5.png",
-        "bias": 0
-      },
-      {
-        "title": "Black Sox, Ohtani’s interpreter and more: A look at notable sports betting scandals - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ2dlT2hacWVaQU1EbzMtUWppRUlGQUo2UWVyV1ZmZm1kT0s2cXRMbm5mU25OTWFFUU80ODlKdlBPajhEYTZ2Q3RCSHd0TWJ0ZTN4YnVXOWI0VU1GdXY1YUpsZ3V4TnZ4LUF5Y29lcDdDNzRCTGhUSmpkZ3FsQXUzckd0ZHpNNVliLUJ1Qk82bHpfMTQydEhEbDQxUjkyN0l3U3NYbTFVeDFhQms?oc=5",
-        "description": "",
-        "pubDate": "2025-11-09T19:26:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Ukraine drone strikes throw power supplies into disarray in Russian cities",
-        "link": "https://www.aljazeera.com/news/2025/11/9/ukraines-retaliatory-drone-strikes-disrupt-power-in-two-russian-cities?traffic_source=rss",
-        "description": "Tit-for-tat attacks on energy facilities continue after Russia launched 'massive strikes' on Ukraine.",
-        "pubDate": "2025-11-09T19:25:36Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Protesters storm Nigeria's new art museum",
-        "link": "https://www.bbc.com/news/articles/c3642764y7xo?at_medium=RSS&at_campaign=rss",
-        "description": "The museum authority has cancelled all preview events leading up to Tuesday's grand opening.",
-        "pubDate": "2025-11-09T19:15:47Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/504c/live/5bd53230-bd99-11f0-8456-eff94716b162.jpg",
-        "bias": 0
-      },
-      {
-        "title": "EU, Latin America and Caribbean nations hold summit overshadowed by US military operation - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORFJESjRsV1dRbzBSNTNQMzFtN2ppT3FLUlZnellfYV9PcFhfRUluMEp5R1Rqak90eFo5UjMwUHV3NDR1elNXY3V0UEJJQUx4NS1PQlZoZmV1VGlCWFh6SlpIVG1iRV9EM1otbDFwaGxCRmFkMnIxM2tLTjRocWh3QXUzemtINXZzR0YyZ19JbmNqVEZqc2h0cDhBaVBWUzlQZFNHbg?oc=5",
-        "description": "",
-        "pubDate": "2025-11-09T19:12:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Retired AP reporter helped cement the legend of the wreck of the Edmund Fitzgerald - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ05PZTZ1UGhHYTdKUFkxWmlDYnQtLUhSMEZQVGJKMXRsYm5faWxyejM1S1IzZ0VJU1ByelZUVWJEMUpsTl92bGthanQ5UXJvb3A3N3dFR010YUNsdEZCemVWQmk4QW10OW1LQ2RmNXlUeFNTa3MxaDN4RmxvbmVZSF9EaFdVVG12MmY1STRkbFpQdnE5M2g1ZW1LU2dvWXc3eE56a2x2bEY?oc=5",
-        "description": "",
-        "pubDate": "2025-11-09T19:11:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Man City crush Liverpool 3-0 to cut gap with Premier League leaders Arsenal",
-        "link": "https://www.aljazeera.com/sports/2025/11/9/man-city-crush-liverpool-3-0-to-cut-gap-with-premier-league-leaders-arsenal?traffic_source=rss",
-        "description": "Erling Haaland, Nico Gonzalez and Jeremy Doku score to seal a football win that could prove pivotal in the title race.",
-        "pubDate": "2025-11-09T19:02:05Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "US highlights Gaza aid surge; Palestinians allege ‘engineered starvation’",
-        "link": "https://www.aljazeera.com/news/2025/11/9/us-highlights-gaza-aid-surge-palestinians-allege-engineered-starvation?traffic_source=rss",
-        "description": "White House says nearly 700 aid trucks entering Gaza each day, a figure disputed by Palestinians and aid organisations.",
-        "pubDate": "2025-11-09T18:56:06Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "BBC director resigns after criticism of the broadcaster's editing of a Trump speech",
-        "link": "https://www.npr.org/2025/11/09/nx-s1-5603609/bbc-director-resigns-after-criticism-of-the-broadcasters-editing-of-a-trump-speech",
-        "description": "The BBC said that director-general Tim Davie and head of news Deborah Turness have resigned after criticism of the broadcaster's editing of a speech by U.S. President Donald Trump.",
-        "pubDate": "2025-11-09T18:41:57Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "‘Predator: Badlands’ tops box office with $80 million worldwide - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMUh3dmQ0ZktOYjZBNGtxTUNDYkV6Z1ItOF9heU10VTFnSXh2OVdvYkxJZzNyMldYOXIzemZiMEs4bm56N2Z5LUExZWo2Tk5YbTJyam1Kblk5UjlWazhlSHRJNlVXWXNPd1FKYVI4TFk0anp5UTNDTFlPQ2VhelVQOThiRTExUUZZU1YteVhNTkhzZw?oc=5",
-        "description": "",
-        "pubDate": "2025-11-09T18:23:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Meteorologists warn of ‘intense’ snow in Great Lakes states and record lows in South - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZGVkSGY1SDlYQnYxNnZVX3RFenZCRUs0LW5xOWpMSFhxYXVoVHAtY0gwenRmdS0yRkRaTTJoNG91cGJoMmswRURGa1djSUs3SmNzZlRPUUdINXJQTktvV3laRnNwcjIwRUNpSUh0UFNtejQySXRMcEdTSG40ZXUwaFFmWUFVRW9ieGRXZ3d1UVpGcmdaVDdaeUZKZ3ZkcFZCcU1WVWlzQXM?oc=5",
-        "description": "",
-        "pubDate": "2025-11-09T18:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Three dead and 15 injured in Tenerife tidal surge",
-        "link": "https://www.bbc.com/news/articles/cpd2pzxe59go?at_medium=RSS&at_campaign=rss",
-        "description": "Emergency services have warned tourists and locals to keep away from coastal paths due to rough sea conditions.",
-        "pubDate": "2025-11-09T17:40:04Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8418/live/fabce8b0-bd90-11f0-b429-db99eb1e9512.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Why does the UK want to copy Denmark’s stringent immigration policies?",
-        "link": "https://www.aljazeera.com/news/2025/11/9/why-does-the-uk-want-to-copy-denmarks-stringent-immigration-policies?traffic_source=rss",
-        "description": "The UK government plans to copy Denmark's controversial immigration policies - a move resisted by some Labour leaders.",
-        "pubDate": "2025-11-09T16:50:32Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "A car fleeing police slams into a bar in Florida, killing 4 and injuring 11 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUhRMXVMU0F1cWw0d0pDUl9OdlotSnkwc0x5OE1MSHluTnI4Y2RQX3RNeGVtU2YxTVN0dUEzb2JPanlVdVRhZ05XLXJSMHp1OFdJUTRzOUpjVWZ5S2l2SG5XX0NlRkQ4ZmNSZnh6R3VEY3VENS1BakQyZzgzZVVIaERxQWNZV0Y3cEVLay12bGJXaHgyM3QxTzBXUmF6cmI5?oc=5",
-        "description": "",
-        "pubDate": "2025-11-09T16:31:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Texas Tech wins a Big 12 showdown, and the ACC produces even more chaos - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMXlDTmhwN1V2ZmozbUNKRnltRXV1Y0owOWVmM0ZkLV9jUXp5Y0tNM3pBTU91dXRkVmNELUlzRVB6VVhsU2FFOFFzQzFRZjRBN0w5aVZFdzltVVFwR1M0d0JvdW9iY3BsNjhXdUljYXNkVWp4U2pHTEdVajFFbXM2bGJjWU9qUUhIdFdMWjEyMW1zNjEtdWFza3dNdEYtUQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-09T16:13:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Flight cuts from government shutdown strain a supply chain that’s already stretched thin - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQekIzTDRNQVE3ekdLZWVidmdGWmNDOE1SYmMxT1FBVTBtc0ZjVlhQZTlzdXJKaFI5THVKUEQwakJPZDVZSlo4R2RkbENWYVhLT3hWVktKUFFucEoxWGM2LW5PZHpNWFg4bHpueGJKSWx0YkNCNzBITmpEZi13SVhxZnhxdjBqbVJEM0tIRDNqNWprS1V6RW9DSC1uSlBUQQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-09T16:12:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Israel receives remains of soldier killed in Gaza in 2014",
-        "link": "https://www.aljazeera.com/news/2025/11/9/israel-receives-remains-of-soldier-captured-in-gaza-in-2014?traffic_source=rss",
-        "description": "Body identified as Israeli soldier Hadar Goldin with the remains of four other deceased captives still in Gaza.",
-        "pubDate": "2025-11-09T16:11:14Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "3 dead and 15 injured in tidal surge on Spain’s Canary Islands - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZEdoZVVBTHQ1cGhNV0VSaWd5NFNUdW1PYjRTY29qM2hBQU1yLW85ZzF4VVhXS3pfZml6elZkVVRzRzZKUjJGbDBIY205YVhUTVFpNm0wZ0FpTDlwSHdNRkNvWDh4Smg1OV9YN1YyQ0ozUkxWeE92Y1o4OEs3WFliUFZ1Q2tQQWhxTDNEbVNZMlkyM2JGZW02ZVYwSi1VanpnV0t5YQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-09T15:59:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Egyptians set to head to the polls in Parliament vote",
-        "link": "https://www.aljazeera.com/news/2025/11/9/egyptians-set-to-head-to-the-polls-in-parliament-vote?traffic_source=rss",
-        "description": "Egypt will head to the polls on Monday, in the first of two rounds of voting for the House of Representatives.",
-        "pubDate": "2025-11-09T15:56:34Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "AP Top 25 poll preview: ACC opens up with Louisville, Virginia losses, paving way for Georgia Tech - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNenE1UzJ1cGVSN3FkaVJRRHZ3b2c1X1hoWndubDh3c2VTdTFzOXczX2JUcWJjMEZPRWlOdTVNWFlSWUphTWxTMXlkallHc1lHdnBKYVlqalUwcF9uaHNfOUtqMHZ6ZjhBbVFXVGZlZkYtY2FfN3FsbHl2S1FkSWpiOVRtWjFRVFhaZHc?oc=5",
-        "description": "",
-        "pubDate": "2025-11-09T15:53:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Super Typhoon Fung-wong slams into Philippines, killing 2 and displacing 1 million - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTzd1cWRDdlAzVFpMb1ZvVlhPOEhjd1R4aDFqbmFYcmlRUkpmZTZpdXBTX29KaENPcjd0bjRvTlp0dmtVY2o2d1p2Z090aHR1NllGWkFYQjl6V0pxTVpUaWoyZ3UySVdQQTdTSTdwSjJKWFFhaGRKaHRXOENpSlgycnB5TG5ZamNtSXVsMWRTZ1BiTzREaWVsY0pxbDJXQ1NoYmlMWlNFZENsamVNMTJGVDZuaWhjdw?oc=5",
-        "description": "",
-        "pubDate": "2025-11-09T15:39:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "BBC on Luzon Island as super typhoon hits Philippines",
-        "link": "https://www.bbc.com/news/videos/c20p2m83p5go?at_medium=RSS&at_campaign=rss",
-        "description": "Typhoon Fung-wong has made landfall in the Philippines, where more than 900,000 people have been evacuated.",
-        "pubDate": "2025-11-09T14:46:42Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c8a/live/53dc6d60-bd7a-11f0-8456-eff94716b162.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Israel receives remains of hostage that Hamas says is IDF soldier killed in 2014",
-        "link": "https://www.npr.org/2025/11/09/nx-s1-5603375/hamas-returns-idf-soldier-hadar-goldin-killed-2014",
-        "description": "Hadar Goldin was killed on Aug. 1, 2014, two hours after a ceasefire took effect ending that year's war between Israel and Hamas.",
-        "pubDate": "2025-11-09T14:27:54Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Kenya’s Ruto on protests, power, and the state of democracy",
-        "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2025/11/9/kenyas-ruto-on-protests-power-and-the-state-of-democracy?traffic_source=rss",
-        "description": "After deadly protests and a youth uprising, Kenya’s president defends his record on democracy, rights, and reform.",
-        "pubDate": "2025-11-09T14:18:08Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "US government shutdown enters 40th day: How is it affecting Americans?",
-        "link": "https://www.aljazeera.com/news/2025/11/9/us-government-shutdown-enters-40th-day-how-is-it-affecting-americans?traffic_source=rss",
-        "description": "Shutdown beats record set during President Trump’s first term, as experts warn the economy has started to suffer.",
-        "pubDate": "2025-11-09T14:05:59Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "UK military to help Belgium after drone sightings near airports",
-        "link": "https://www.aljazeera.com/news/2025/11/9/uk-military-to-help-belgium-after-drone-sightings-near-airports?traffic_source=rss",
-        "description": "The military has not gone into details about the sort of equipment or number of personnel that will be sent.",
-        "pubDate": "2025-11-09T13:48:54Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Aaron Rai denies Tommy Fleetwood another title by winning playoff in Abu Dhabi - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMVhvLUZMQ3lfWUVsYmIzbnJld2FkWHkzYndDd0djOXZwcHNkWGl6ZC1Rb3VpSGhSVkxkUTVjZ25mVXRXZ2FSTTg5R0pabkxmWVZQdGpBb3M0ZDBzV2ZWd1B1ZVJwVGpFMWVkTWc2OHFvY1JSMlZJdU1VYWpFTUlIcndzY29SSDN2OF9saXIwRW0?oc=5",
-        "description": "",
-        "pubDate": "2025-11-09T13:45:00Z",
+        "pubDate": "2025-11-10T00:01:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -763,127 +187,10 @@
     ],
     "Politics": [
       {
-        "title": "Nandy apologises for breaking rules on football regulator appointment",
-        "link": "https://www.bbc.com/news/articles/cqjwp0rq7d7o?at_medium=RSS&at_campaign=rss",
-        "description": "Report finds that new football regulator chair David Kogan had made two separate donations of £1,450 to the culture secretary.",
-        "pubDate": "2025-11-09T21:08:40Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fcc/live/b9acbc50-bd64-11f0-8669-5560f5c90fbe.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Texas returns to top 10, ACC has five teams ranked in the Top 25 and there is Group of Five intrigue - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR0JTTmNVVlNVdl91STFYaXBfYk4tcFJObGxqUDdYTkllVnBiajdOUFN6TTR0QjItUUdvVkRySjNvdFR2Rk1sMzd1c0ZLbzdCX2Y1eWpsaVNNbDlZcEN1Qk16cW10OHQ3dW1DQ0NrV0hsNDhrNWVMcW92MVlxYk5VaDM3X20yU01OcmEzcy1Zaw?oc=5",
+        "title": "5 wounded, 1 seriously, in shooting outside San Francisco supermarket - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObkFJZGtUUHBuZGNnTkJ2clBtbndReHhIY25kek1ONTYzbFRoQ0oyNUJSSGtxNTJYb2FyOElSSHRSMUFjcHFKMXhpb3l4XzBrVjJYN3U1MTcxb1hiWHRMZmp0d1VsY1JBTy1WeVNhVTY4Q25CRlFic0NFRnZBQkFiNkFMeHBjN3pHUUlJ?oc=5",
         "description": "",
-        "pubDate": "2025-11-09T19:05:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "HMRC to review suspending 23,500 child benefit payments",
-        "link": "https://www.bbc.com/news/articles/cjr0p4l2qryo?at_medium=RSS&at_campaign=rss",
-        "description": "The tax body had used travel data to conclude that thousands of parents had left the country permanently but many say they just went on holiday.",
-        "pubDate": "2025-11-09T18:41:10Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14da/live/1b15a7c0-bd76-11f0-8669-5560f5c90fbe.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Trump admin tells states to 'immediately undo' steps to fund November SNAP benefits",
-        "link": "https://www.npr.org/2025/11/09/nx-s1-5603417/full-snap-benefits-trump-states-order",
-        "description": "The Trump administration late Saturday directed states that they must \"immediately undo\" any actions they have made to provide benefits to low-income families via SNAP.",
-        "pubDate": "2025-11-09T17:27:05Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "1 crew member killed, 2 critically injured in medical helicopter crash near Nashville - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX3Z3X1F1bVhYTnJudERyV0NZTm1SVnJWLXFpaXRBNVExN3ZMM3BTdkJtdGctaTF6ZDlrcHJIRmFQZ1NsU0JrMVRZMG9meHItMXZVQzU0eV9yMXFlVUdWNk9iVi1YVXgxQWF3aXU4cUhwbXhleGh6Y0lSRnBNT2VQZEpKaUV6UlBDeDB5cG5XU0tCYTNVSm1Ia0ZUR1FWVWh1MDlhVFdIT0s?oc=5",
-        "description": "",
-        "pubDate": "2025-11-09T15:32:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Finance secretary may have to 'revisit' no tax rise pledge",
-        "link": "https://www.bbc.com/news/articles/c3epx21w9yvo?at_medium=RSS&at_campaign=rss",
-        "description": "Shona Robison says the chancellor's Budget decisions later this month could put unforeseen pressure on Scotland's finances.",
-        "pubDate": "2025-11-09T13:54:49Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed95/live/3d082330-bd67-11f0-8669-5560f5c90fbe.jpg",
-        "bias": 0
-      },
-      {
-        "title": "BBC bosses treating 'systemic bias' allegations seriously, Nandy says",
-        "link": "https://www.bbc.com/news/articles/c9wvqx50jpqo?at_medium=RSS&at_campaign=rss",
-        "description": "The broadcaster's chair is set to issue a response to a parliamentary committee over claims a Panorama documentary misled viewers.",
-        "pubDate": "2025-11-09T13:22:52Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6b3/live/79a2a5c0-bd6e-11f0-abab-df46b9caffa5.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Nick Fuentes' comments on the Tucker Carlson show sparks backlash from conservatives",
-        "link": "https://www.npr.org/2025/11/09/nx-s1-5599975/nick-fuentes-comments-on-the-tucker-carlson-show-sparks-backlash-from-conservatives",
-        "description": "Prominent conservatives are engaged in a battle over how to respond to antisemitism in their ranks.",
-        "pubDate": "2025-11-09T13:09:21Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Politics chat: Democrats win big in elections, record-breaking shutdown continues",
-        "link": "https://www.npr.org/2025/11/09/nx-s1-5600005/politics-chat-democrats-win-big-in-elections-record-breaking-shutdown-continues",
-        "description": "It's the 40th day of the government shutdown and stressors are evident from food banks to airports.  After last week's election day wins for Democrats, is any resolution in sight?",
-        "pubDate": "2025-11-09T13:09:17Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Why France’s ex-President Sarkozy may be released from prison after just 20 days - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPengyOV9QWG92TEFfenB3SjNyS2MwWTdFOFU0TWtWRWRwcFVQSTEyNHpiRzJJUW1UOTVhdy14T3VwMFlEX2l4SU5vSk1IQzZtc1VpSlptd3QtdTFhek9YVDFZOE55NVRSY0pMQkU5c3BHMmdVNTg2WXhKTk1vS1NtXzBFalRVWHZVbDJtaVpkR3ZKMTA?oc=5",
-        "description": "",
-        "pubDate": "2025-11-09T08:01:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Santiago Pride parade takes political turn ahead of Chile’s elections - AP News",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOUNjUDYxWUJQNnRUQlg2QUFnTGszSFJfU3IxalVORFVHTXJhRDFfWkFlTUF4ekpGTmJQUHRtWmNjejFxVk52bVlTczlnQk5QQ2RKR05GTm1KWkNOTGJyZ2U4aC0wd2dYSDRuZzFSaUhDZWhRMjJWcnlkZ2FWWHdmSjdnamRvLUQ1OVJCWGctVWFDMjlPSm02SFkxamZjOXlqZjFURkxObTRvZU5sWlk5M3hVeXVJNU0wUGh4d2RidGFUMlhZ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-09T05:43:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Inquiry to review rise in young people not working or studying",
-        "link": "https://www.bbc.com/news/articles/c0l7elxrr7ko?at_medium=RSS&at_campaign=rss",
-        "description": "Former Labour Health Secretary Alan Milburn will lead the investigation, with conclusions set to be published next summer.",
-        "pubDate": "2025-11-09T05:11:31Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecb5/live/eabeaf50-bd1a-11f0-8669-5560f5c90fbe.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Virginia QB Chandler Morris will have testing after hit to head and neck area in loss to Wake Forest - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTVlwNjZyWGdSU2JELTRFQlVpMk1QdXpxWlNjR3BRcklyNXY5QkVZd0VPUkI0TjI4bFdfaDQ3dTZUTzZSMG9jV3FUNU9aZS04Z291dW1JZmRJanhrUXZsWm41TUFLTDV1a2tRVUFNU0RrMDdiNkV1bzlDeERGZ0V6YzdRU2lwODdZYnEyUDMyUm5JQTA4SVE?oc=5",
-        "description": "",
-        "pubDate": "2025-11-09T04:33:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Moment of silence held for UPS crash victims before No. 14 Louisville hosts California - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa1VXendZS21RRWFhU0tFNDZhNktkMlFXR1pJTS05NEp3LWNPME1OVW1BV0IwQ0hrN2NSZUgyRVQ4MXJ5dDlzTlV5cWtMZEExZTNzLTNSXzRIUXBXdEp4S1NpQUpCSFRITUw0YnNVTzhBcDFrUkh6OWlZN0lsRjRqN0xvVmtpa1ctZ0Z0c3RJNjJCVmQ5ZXhPd1ZDMHE5Wi1ScE1yTUhObVR6R1U?oc=5",
-        "description": "",
-        "pubDate": "2025-11-09T01:07:00Z",
+        "pubDate": "2025-11-10T00:26:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -891,146 +198,46 @@
     ],
     "Tech": [
       {
-        "title": "Senate leader eyes potential shutdown deal but there’s no guarantee of success - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbG9UajMzY19TYzBKbmpPOGw1d1NJdGkxQWJnZ1F5TVA3SjBYenFQaElPenV5WGJYRk5TLVJlUHc4UW9RbjYxYlVYMTNGRHlKWjdOa2gxY2RjWGt5WUJaOWFFRTNHY210Tndud2ZSaGUxZlV2d0owYm5UZ3VfVmxqVjNVLTFFODFmLXB6VTBMSUNRYUV6WlNYYl9B?oc=5",
-        "description": "",
-        "pubDate": "2025-11-09T23:17:00Z",
-        "source": "news.google.com",
-        "image": "",
+        "title": "China exempts chips used by carmakers from export curbs",
+        "link": "https://www.bbc.com/news/articles/c0rp2514g4qo?at_medium=RSS&at_campaign=rss",
+        "description": "The block on exports of the company's chips had raised fears that European car production would be hit.",
+        "pubDate": "2025-11-10T01:51:18Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7af5/live/be7b5b50-b6d5-11f0-b2a1-6f537f66f9aa.jpg",
         "bias": 0
       }
     ],
     "Science": [
       {
-        "title": "Back from the brink: UK red kites aid Spanish cousins",
-        "link": "https://www.bbc.com/news/articles/crrez8x7l55o?at_medium=RSS&at_campaign=rss",
-        "description": "A project to revive red kite populations in south-west Spain sees new mating pairs and chicks.",
-        "pubDate": "2025-11-09T07:38:34Z",
+        "title": "Do UN climate talks have a point any more?",
+        "link": "https://www.bbc.com/news/articles/c205jvyg3wjo?at_medium=RSS&at_campaign=rss",
+        "description": "The US president is notably absent from these UN climate talks, as are other world leaders, all of which prompts questions about the purpose of COP today.",
+        "pubDate": "2025-11-10T00:09:19Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6723/live/8296af90-bd42-11f0-8669-5560f5c90fbe.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdc6/live/3570dfa0-bbe5-11f0-ae46-bd64331f0fd4.jpg",
         "bias": 0
       }
     ],
     "Business": [
       {
-        "title": "Some UPS and FedEx planes are grounded. What does that mean for holiday shipping?",
-        "link": "https://www.npr.org/2025/11/09/nx-s1-5602930/ups-fedex-md11-aircraft-holiday-shipping",
-        "description": "UPS and FedEx's fleets of MD-11 planes are grounded, which can each carry thousands of packages. Logistics experts say some cargo could shift to passenger planes, trains and trucks.",
-        "pubDate": "2025-11-09T22:31:41Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "What taxes could rise in the Budget?",
-        "link": "https://www.bbc.com/news/articles/cj4w44w42j5o?at_medium=RSS&at_campaign=rss",
-        "description": "Chancellor Rachel Reeves is considering both tax rises and spending cuts in the 26 November Budget.",
-        "pubDate": "2025-11-09T14:58:54Z",
+        "title": "Tutoring a baby to make them an 'English gentleman' - Is it worth the money?",
+        "link": "https://www.bbc.com/news/articles/cd9kljww1zdo?at_medium=RSS&at_campaign=rss",
+        "description": "The advert seeks \"an extraordinary tutor\" required \"to support child on his first steps to becoming an English gentleman.\"",
+        "pubDate": "2025-11-10T00:18:18Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8376/live/c5070a20-96b3-11ef-99af-372359b57a36.png",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09a6/live/f9d03c00-b5bf-11f0-8cc1-bdf8bb678f1c.jpg",
         "bias": 0
       },
       {
-        "title": "Many would-be buyers are frozen out of the housing market",
-        "link": "https://www.npr.org/2025/11/09/nx-s1-5600733/many-would-be-buyers-are-frozen-out-of-the-housing-market",
-        "description": "Only about one in five homes sold in the last year went to a first-time buyer.  And the average person buying their first home was 40 years old — a record high. A new report from the National Association of Realtors shows how challenging it's become for young people to get a foothold in today's costly housing market.",
-        "pubDate": "2025-11-09T10:00:00Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "New York mayor-elect Mamdani ends trip to Puerto Rico with speech to trade unionists - AP News",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQM3RWcUdNWW5XNk9VaHBWZmdoSEZnLUpIRExFV3h3UEFBanE2cm50R2pfYkVJc0swWGE1NlQzeG1Nd1ExRTdIQkZQbW5sWm94TFdXdW0zc0o5ckRGR1JoaHB5NzdRNU1CV1R3LTdGOG9tTl9pdnlEX19wNXZ3cnIzLUw3M1dDU0FYSzJGT3Y0UV9GTFdIUk9NM0VPSmhDaWNnd3V4OXVpYzhONDVwWl8zTWVUb0t1cWt3bXNwa0QzbHhSbnRUOFdVaEwwQXdjVV9rWllkdUoxYzZLUQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-09T04:44:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "How this year’s Christmas ads ‘let real life in,’ from cost of living to masculinity",
-        "link": "https://www.bbc.com/news/articles/c0rp7exwq8ko?at_medium=RSS&at_campaign=rss",
-        "description": "We look at the Christmas ads that are out so far - and what they tell us about the year that’s been.",
-        "pubDate": "2025-11-09T02:09:55Z",
+        "title": "How the US overtook China as Africa's biggest foreign investor",
+        "link": "https://www.bbc.com/news/articles/cx2yl88wd3lo?at_medium=RSS&at_campaign=rss",
+        "description": "As the two nations vie for key materials, the US has regained the lead in foreign direct investments in African countries.",
+        "pubDate": "2025-11-10T00:17:37Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59df/live/615aa680-b8a9-11f0-9418-d155a3381a50.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Honesty boxes should be dying like cash. But many are flourishing",
-        "link": "https://www.bbc.com/news/articles/cjd05rj5xl9o?at_medium=RSS&at_campaign=rss",
-        "description": "Once found by the roadside offering local produce for a few pence, honesty boxes are being reborn via social media.",
-        "pubDate": "2025-11-09T02:07:38Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f0e/live/ce6eb500-a9b2-11f0-97ec-91b89bd10dfa.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66de/live/3ec225b0-baea-11f0-b2a1-6f537f66f9aa.jpg",
         "bias": 0
       }
     ],
-    "Culture": [
-      {
-        "title": "BBC director general and News CEO resign over Trump documentary edit",
-        "link": "https://www.bbc.com/news/articles/c3vn25d5dq7o?at_medium=RSS&at_campaign=rss",
-        "description": "Tim Davie and Deborah Turness resign after criticism Panorama misled viewers with an edit of a speech by Donald Trump.",
-        "pubDate": "2025-11-09T22:28:33Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96b5/live/d1931eb0-bdb7-11f0-ae46-bd64331f0fd4.jpg",
-        "bias": 0
-      },
-      {
-        "title": "How movies turn heartbreak into comedy, tragedy, and everything in between",
-        "link": "https://www.npr.org/2025/11/09/nx-s1-5598307/how-movies-turn-heartbreak-into-comedy-tragedy-and-everything-in-between",
-        "description": "From revenge plots to quiet goodbyes, breakup movies explore how people rebuild when love falls apart.",
-        "pubDate": "2025-11-09T22:03:42Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "'I Love LA' finds humor in the chaos of trying to make it in Hollywood",
-        "link": "https://www.npr.org/2025/11/09/nx-s1-5519275/i-love-la-finds-humor-in-the-chaos-of-trying-to-make-it-in-hollywood",
-        "description": "Comedian Rachel Sennott turns her chaotic twenties in Los Angeles into the HBO series 'I Love LA', a comedy about friendship, identity, and growing up online.",
-        "pubDate": "2025-11-09T22:03:34Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Why has Tim Davie resigned and what was the Trump documentary edit?",
-        "link": "https://www.bbc.com/news/articles/c0mx28vlp4wo?at_medium=RSS&at_campaign=rss",
-        "description": "The BBC has come under fire over a Panorama documentary that was accused of misleadingly editing a speech by Donald Trump.",
-        "pubDate": "2025-11-09T21:28:42Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af3c/live/00152c80-bdc5-11f0-ae46-bd64331f0fd4.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Tim Davie: A 20-year BBC career that finally ran out of road",
-        "link": "https://www.bbc.com/news/articles/ckgyk7ylpd5o?at_medium=RSS&at_campaign=rss",
-        "description": "How the commercial man from Pepsi tried to drive change during challenging times at the BBC.",
-        "pubDate": "2025-11-09T20:02:23Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b1c/live/cb5b9740-bdab-11f0-ae46-bd64331f0fd4.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Bend It Like Beckham director has a sequel - and a spin on a Christmas classic",
-        "link": "https://www.bbc.com/news/articles/c2lpgen877ko?at_medium=RSS&at_campaign=rss",
-        "description": "The director on pressure to get her sequel right, while also working on a reimagining of A Christmas Carol.",
-        "pubDate": "2025-11-09T02:00:26Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3026/live/1ee04fd0-bbbf-11f0-ba75-093eca1ac29b.jpg",
-        "bias": 0
-      },
-      {
-        "title": "'The best friend you'd love to have' - How Claudia Winkleman conquered TV",
-        "link": "https://www.bbc.com/news/articles/cjw96xw8v93o?at_medium=RSS&at_campaign=rss",
-        "description": "She's taken The Traitors to new heights - but what's next comes with risk, too.",
-        "pubDate": "2025-11-09T00:10:46Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e73f/live/6606b580-bb32-11f0-b2a1-6f537f66f9aa.jpg",
-        "bias": 0
-      }
-    ]
+    "Culture": []
   }
 }
