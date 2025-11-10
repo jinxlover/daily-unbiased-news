@@ -1,7 +1,25 @@
 {
-  "lastUpdate": "2025-11-10T21:46:05.475040Z",
+  "lastUpdate": "2025-11-10T21:56:13.796398Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Flashlight [Free] [Adventure]",
+        "link": "https://sloth-069.itch.io/flashlight",
+        "description": "",
+        "pubDate": "2025-11-10T21:42:26Z",
+        "source": "sloth-069.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDI3Nzg5LnBuZw==/315x250%23c/rc2W4W.png",
+        "bias": 0
+      },
+      {
+        "title": "Hack&/ [Free] [Strategy]",
+        "link": "https://temple111111.itch.io/hacknslash",
+        "description": "A world at its end",
+        "pubDate": "2025-11-10T21:37:24Z",
+        "source": "temple111111.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDI3OTQwLnBuZw==/315x250%23c/sEDp5c.png",
+        "bias": 0
+      },
       {
         "title": "Catulus Senatus [Free] [Strategy]",
         "link": "https://darhan.itch.io/catulus-senatus",
@@ -138,15 +156,6 @@
         "bias": 0
       },
       {
-        "title": "Cheeto Man [Free] [Platformer]",
-        "link": "https://florencia-semino.itch.io/cheeto-man",
-        "description": "",
-        "pubDate": "2025-11-10T20:02:34Z",
-        "source": "florencia-semino.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDI2NjUxLnBuZw==/315x250%23c/udWUaF.png",
-        "bias": 0
-      },
-      {
         "title": "Alpha Works [Free] [Platformer] [Windows]",
         "link": "https://marsic1564.itch.io/alpha-works",
         "description": "",
@@ -156,39 +165,12 @@
         "bias": 0
       },
       {
-        "title": "Guns & Swords [Free] [Shooter]",
-        "link": "https://little-baboon.itch.io/guns-and-swords",
-        "description": "An arcade shooter",
-        "pubDate": "2025-11-10T19:51:35Z",
-        "source": "little-baboon.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDI2OTY2LnBuZw==/315x250%23c/4a13W2.png",
-        "bias": 0
-      },
-      {
-        "title": "TrackArena [Free] [Racing]",
-        "link": "https://62p3u.itch.io/trackarena",
-        "description": "Reach to the finish line before rival does!",
-        "pubDate": "2025-11-10T19:49:10Z",
-        "source": "62p3u.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDI2MzA1LnBuZw==/315x250%23c/DBZh2O.png",
-        "bias": 0
-      },
-      {
         "title": "Feed the Herd [Free] [Other]",
         "link": "https://pavelgrinko0.itch.io/feed-the-herd",
         "description": "",
         "pubDate": "2025-11-10T18:59:45Z",
         "source": "pavelgrinko0.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MDI1OTYzLnBuZw==/315x250%23c/ESNuya.png",
-        "bias": 0
-      },
-      {
-        "title": "Tarot Teste [Free]",
-        "link": "https://odiegosouto-art.itch.io/tarot7d",
-        "description": "",
-        "pubDate": "2025-11-10T18:51:41Z",
-        "source": "odiegosouto-art.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDI1Njg0LnBuZw==/315x250%23c/zDQj0%2F.png",
         "bias": 0
       },
       {
@@ -211,6 +193,24 @@
       }
     ],
     "World": [
+      {
+        "title": "US mediator Kushner meets Netanyahu for talks on Trump’s Gaza plan",
+        "link": "https://www.aljazeera.com/news/2025/11/10/us-mediator-kushner-meets-netanyahu-for-talks-on-trumps-gaza-plan?traffic_source=rss",
+        "description": "About 200 Hamas fighters remain trapped in Rafah tunnels as Israel refuses to grant them passage, threatening the truce.",
+        "pubDate": "2025-11-10T21:24:51Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Ahmed al-Sharaa meets Trump as US extends Syria sanctions relief",
+        "link": "https://www.aljazeera.com/news/2025/11/10/ahmed-al-sharaa-meets-trump-as-us-extends-syria-sanctions-relief?traffic_source=rss",
+        "description": "Syrian presidency says al-Sharaa and Trump discussed ways to 'strengthen and develop' ties between the US and Syria.",
+        "pubDate": "2025-11-10T21:19:14Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "At least 8 people killed in New Delhi car blast",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/11/10/at-least-8-people-killed-in-new-delhi-car-blast?traffic_source=rss",
@@ -315,6 +315,15 @@
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOHRjcWhaUU5iM2JCU2xXTUdhNmhkV0hOLUExc1dSbkpTaDZaTTI1MGRObk1UUzEyNVpZTmZja1U2dW1fU21MNndLUndESHNVaURZbHdiOWwzMjU2S0xCQTdSdXY3RXlMVVVvQ1BDdkVZWnlKa2xUY3p3YjdBYUNtNG1kOHE3UDZ3QjRoaTV0Mk9wa3ZSVmJQT3dZalFRUnY3X3dUTGZscVF2QQ?oc=5",
         "description": "",
         "pubDate": "2025-11-10T19:51:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Big Ten says USC should have been penalized for jersey number tactic against Northwestern - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVExXZ0VFWGNuMkJOdzc3ekFLSE0yV3l0STQxSkJyRng0dm1hYzdjaFN0MU9wTDJ5T3dXV2tEYjFiWmktN2Ryd3BkQlRaT1NyWktuaHZINkFwVUhYV0ZwSUN0eEtRNDJ0dS1IWFVZUnJjVFpTTkZ4UzRFOXc1SHo3eWdWS0VFeHdM?oc=5",
+        "description": "",
+        "pubDate": "2025-11-10T19:48:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -518,6 +527,15 @@
         "bias": 0
       },
       {
+        "title": "Canada loses measles elimination status after ongoing outbreaks - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSFl3UVBhS0pHMHZBeER6ZnZGM0RYdm5nb2tuVGd6bGg0U1MtNllPZUMzNFZadXZEaEN1Q1JaSERscU1ZcDFGZGV0YVUtNlllTU1UaC1lbUVGMTJIbE5Ma2R5aDR0cDg3SXlXdjF1a2R2bW1CMXZGOEpHSENGLVppY0stNU80cFVpVVA5dGJHRGFjcWtKc0Z6ZXJocEV4QVV6?oc=5",
+        "description": "",
+        "pubDate": "2025-11-10T17:52:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "At least eight killed after car explodes near Delhi's Red Fort",
         "link": "https://www.bbc.com/news/articles/ceq0p8qnnrno?at_medium=RSS&at_campaign=rss",
         "description": "Twenty more were injured in the blast, the cause of which is still unknown, authorities say.",
@@ -581,6 +599,15 @@
         "bias": 0
       },
       {
+        "title": "Air pollution levels surge in India’s capital, sparking rare protests - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQkJ0bTdNbmdRSm9IYXUyS0QtRWt2RkM2S1FmRDBMTXpBVlB4UnhJV3dhRDEtZzZxdVQxbThjaElOQjhPYi10ZnlxYXFScnFKNl9uUXdOWU93aHFWRDNIV2FoeWxPN1hvRDhGS0Fmdmh2bHFVZzYxWUlDMnBKdi0tOVBPYXphUURVLW42aDM2ZUZvU3JJOU5VQQ?oc=5",
+        "description": "",
+        "pubDate": "2025-11-10T17:10:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Bangladeshi workers protest over unpaid wages and mistreatment claims - AP News",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVGc0V0p3S1d3S0x6VjdMbjRkZHVjNlY2cUM3TnhtZDNEdTExVVR2S3Nnb1Bwc1VQdFk1Q1IwODFsd1htX3dVbmdCQkNTVTd5cjdLbkI3N3ZDdVJ4SjMtbXFmLXZlX0ZEZkFnZVhZQ2hWeEZteEl3cVlUZ1BHWjZpZkJDQkx4WEItTm1FNTljSVFYSnZCXzlSYUlxSGhndUdweC13?oc=5",
         "description": "",
@@ -615,59 +642,32 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b96b/live/292471f0-be54-11f0-ae46-bd64331f0fd4.jpg",
         "bias": 0
-      },
-      {
-        "title": "These 8 Democrats voted with Republicans on the government shutdown deal. Here's how they explain it - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ2ViMk9STS1STXZsd3ZZTWRid0wybGkxck1VbGw1MDhHVlNZNVIzMkFYejZvLXJHYmFvOFF0MkIyMlFPNUM3bGZKeGN5b1NPaFUzOEdPVUZwaEx6UnEzRzlCRnU4SnlEZm1BWmdPaEZjclZhTndUQVplRTVQU0plaXlMaFZFQXVLbm5nMFRBSkp5UWc5Tnc?oc=5",
-        "description": "",
-        "pubDate": "2025-11-10T16:46:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Protesters force delay to opening of Nigeria's new art museum",
-        "link": "https://www.bbc.com/news/articles/c3642764y7xo?at_medium=RSS&at_campaign=rss",
-        "description": "The protesters are angry that the area's traditional ruler is not involved in the new museum.",
-        "pubDate": "2025-11-10T16:44:28Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/504c/live/5bd53230-bd99-11f0-8456-eff94716b162.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Belarus leader threatens to seize over 1,000 Lithuanian trucks stuck by closed border - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRE5vVkVxRTRhcDF6SVo4VTUwNW52c0tja2RLYjF2eVZCLXBDZm9iZGNSaW15NTBZUXc3eUZqdXhOTTVmeU9Ld1hlR0VmRjF0SW9Jd01jVXFkNGdUZjUwRnZ3bGZOTUtxSjNmclRtSnFjQVdHc3pIOGNQdm02TDVXalhGTnlXWjFJcl9vOXRjakVaYVB2UEgzMGE4YXpWZVgtc09YQkJVejRpSUc0X25Seg?oc=5",
-        "description": "",
-        "pubDate": "2025-11-10T16:33:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "MLB pitchers Emmanuel Clase and Luis Ortiz charged with taking bribes to rig pitches for bettors - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTWpQR1pPd0ViNHhTOXc1ZHpZMklxSjdfeC1rSGVWZDdUNWVDdG5MbHhlZDU4MXBzcHFzVkVnRkhPZ2tXb2IzSGh2eTlpcWZvdjhmamV0X0w1T3kzSHJvdDJrdW1Zc3hPQWFQdDI4My1SQVM3RjA4UmVNYTk3UDRfUWtjMXNvdnc1bGVqUjlQTl9BbEVabV9TZA?oc=5",
-        "description": "",
-        "pubDate": "2025-11-10T16:32:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Hall of Famer Lenny Wilkens, who coached the most games in NBA history, dies at 88 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbTZqbmhkX1N1NEtjSl9qTktncEZFZENvaTVYclFlZXlPN0w1eEFCMGZvX3NRVF94akRFZmVaMFZRcFJsSnl0eXg3YnBnR2JvWGxsVDBTLXBXVHFDUlMzSU1nbzMyVi02TXQ2dGNKemRMcXdOMDBQeEo4c0QzejM4ZFFISnk?oc=5",
-        "description": "",
-        "pubDate": "2025-11-10T16:31:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
       {
-        "title": "Daughter of ex-South Africa President Zuma faces trial over deadly riots. Here's what to know - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX2lGVHBlMS05eFlta04zLW42MS03VmJDMzROWWdGdGF1bDFIaDVNQWdYVE85Y3pVSWVhNjQ4SHFycWhyaUFoOF9ackJDYnNZS1ZOeGc1Q2dJWkxBY0RWMk5NY1c2VVc4RnlYZFZrWXRtWXA0QjljaURLa3FlYmZLa3c1TFhQSkhUNHlMdFUzamZpTkdVMjV0S2ZWa2NzZHZUSlNfYg?oc=5",
+        "title": "Sen. John Fetterman explains his vote to end the government shutdown",
+        "link": "https://www.npr.org/2025/11/10/nx-s1-5604363/sen-john-fetterman-explains-his-vote-to-end-the-government-shutdown",
+        "description": "NPR's Scott Detrow talks to Sen. John Fetterman, D-Penn., about his vote to end the longest government shutdown in history.",
+        "pubDate": "2025-11-10T21:36:53Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Senate prepares to vote on shutdown ending package",
+        "link": "https://www.npr.org/2025/11/10/nx-s1-5604344/senate-prepares-to-vote-on-shutdown-ending-package",
+        "description": "The Senate is expected to vote as early as today to approve a spending package that would end the longest federal government shutdown in history.",
+        "pubDate": "2025-11-10T21:36:49Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Donald Trump - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
         "description": "",
-        "pubDate": "2025-11-10T18:57:00Z",
+        "pubDate": "2025-11-10T18:36:35Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -682,30 +682,12 @@
         "bias": 0
       },
       {
-        "title": "Air pollution levels surge in India’s capital, sparking rare protests - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQkJ0bTdNbmdRSm9IYXUyS0QtRWt2RkM2S1FmRDBMTXpBVlB4UnhJV3dhRDEtZzZxdVQxbThjaElOQjhPYi10ZnlxYXFScnFKNl9uUXdOWU93aHFWRDNIV2FoeWxPN1hvRDhGS0Fmdmh2bHFVZzYxWUlDMnBKdi0tOVBPYXphUURVLW42aDM2ZUZvU3JJOU5VQQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-10T17:10:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Bid to oust education minister from office over Israel visit fails",
         "link": "https://www.bbc.com/news/articles/ce8z4x52gnno?at_medium=RSS&at_campaign=rss",
         "description": "The move was set to fail as it needed cross-community support and unionist parties had already ruled out supporting it.",
         "pubDate": "2025-11-10T17:08:57Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8097/live/6c2c7ab0-be54-11f0-a9da-7b8c0d53123b.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Donald Trump - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
-        "description": "",
-        "pubDate": "2025-11-10T17:08:29Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -727,30 +709,12 @@
         "bias": 0
       },
       {
-        "title": "AP Player of the Week: Vandy's Diego Pavia piles up 489 yards of total offense in OT win over Auburn - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQzd6VnduYU9HU1FhaUZkc2R3cHU5dnpUMTF4RnRjTmUtR3h5eENURWVSMDBGU3JQUUZzbW13VDdaZVEyS1lWakZTUERkVWowS0pJOE5hU3ozcWVKMFdITFlBc0t2VTV2ZDRNbkxkbHRINEdRaDlVUFVjMV8tZ0xTUzlYTDREQQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-10T16:02:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Homelessness charity to become landlord for first time",
         "link": "https://www.bbc.com/news/articles/c0ex5r4q82qo?at_medium=RSS&at_campaign=rss",
         "description": "The charity Crisis says it is now \"nearly impossible\" to find housing for homeless people.",
         "pubDate": "2025-11-10T15:47:19Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c44e/live/3be26b00-bbbe-11f0-b372-073abfdb1a21.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Thailand court orders extradition to China of alleged online gambling kingpin - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbktscWhBaVFKWWR5Z0RGaUY3UE12Q0xVRHYtU2w2RXZkRVpSeGszTUpQMEp3Vm4zM1NuOW1fTkhySzF2OWV4X1NaSk9LZDlFd0JwSjRYSHJaQ0U1ZnBLSkRQZFh4OHpiMVYwb29wY04wSE82dTZBU2VzcnR3QUV4Y1VRM3dVa2x3MXhneUltOXRCcXlfajVFNnJrZzBPRi0xbWFsdGtEekRndkEzNVZLbFd0UGZRRFk?oc=5",
-        "description": "",
-        "pubDate": "2025-11-10T15:08:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -767,6 +731,15 @@
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb0JPUkZId2pOakZqcVVVUndOaGw4cmF6SW0wRndTSGppRkQ5VlRiUmdYZmdsemdaeFpHYU85cWltSlVWV0ZqUGZvdk5ZdFVrRlByNExvc0xKRVdLcDBVTk1GZ0Q2MVpFd1ZCSFFCOEJlcXpPMjZSSDJjS0ZGTUlZaVVwLVFUb0NJOElLa3R6UGtteTBuSlFuZ1Q3Z1Q?oc=5",
         "description": "",
         "pubDate": "2025-11-10T14:55:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "What’s in the legislation to end the federal government shutdown - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdG9wSU5GRGRkVDhWUE1FMHFvVVJfVF8tNmpuXzE3R0FWRVE1YzJCWFZNOTFSVHlzTHRuYzhLMlI5MWxDQU9XTDdFV3NuY2Fsd0U2VHdzb1k1UE1HSXBIZTVpNkZzYXBlSEJUMkJXbmJlYUQ5emxGNzZIOVYtbnp0eXZrRU9NZWNEalZld0tneWhwbUY3bWFDRDNWT3dkbHlHdE5WOG8zcDE?oc=5",
+        "description": "",
+        "pubDate": "2025-11-10T14:46:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -826,25 +799,43 @@
         "bias": -1
       },
       {
-        "title": "In an encrypted group chat, National Guard members question Trump deployments",
-        "link": "https://www.npr.org/2025/11/10/nx-s1-5601819/national-guard-signal-trump-deployments",
-        "description": "As President Trump's call for National Guard deployments rings out across the U.S., a small contingent of Ohio guard members is quietly expressing concern in an encrypted group chat.",
-        "pubDate": "2025-11-10T10:00:00Z",
-        "source": "npr.org",
+        "title": "Photos show Iraqi security forces and displaced people voting early in parliamentary election - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWk01Yml6djR0bzJsREVaTUFjM1JmZUpabHhWYjF6VFNSQXFoSWFvSmpCYTJub3N1N3ZpM2tOVjRVQWZLbEhJS1IwYjlnc2d4SWIxMmlranAtRWtQOXViQnZMZ29ac2VmeGFPV19rN2UybVR6Y3o3RW5ldzJwN2JpWUZrSDVMeFVBTHlsZlMtTnk?oc=5",
+        "description": "",
+        "pubDate": "2025-11-10T08:09:00Z",
+        "source": "news.google.com",
         "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Senate takes the first step toward ending the government shutdown",
-        "link": "https://www.npr.org/2025/11/10/nx-s1-5603687/senate-takes-the-first-step-toward-ending-the-government-shutdown",
-        "description": "After 40 days and 40 nights, a bipartisan group of Senate Democrats and Republicans reached a deal to reopen the government. But some oppose the deal because it doesn't reduce health care costs.",
-        "pubDate": "2025-11-10T09:40:00Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
+        "bias": 0
       }
     ],
     "Tech": [
+      {
+        "title": "Daughter of ex-South Africa President Zuma faces trial over deadly riots. Here's what to know - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX2lGVHBlMS05eFlta04zLW42MS03VmJDMzROWWdGdGF1bDFIaDVNQWdYVE85Y3pVSWVhNjQ4SHFycWhyaUFoOF9ackJDYnNZS1ZOeGc1Q2dJWkxBY0RWMk5NY1c2VVc4RnlYZFZrWXRtWXA0QjljaURLa3FlYmZLa3c1TFhQSkhUNHlMdFUzamZpTkdVMjV0S2ZWa2NzZHZUSlNfYg?oc=5",
+        "description": "",
+        "pubDate": "2025-11-10T18:57:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "AP Player of the Week: Vandy's Diego Pavia piles up 489 yards of total offense in OT win over Auburn - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQzd6VnduYU9HU1FhaUZkc2R3cHU5dnpUMTF4RnRjTmUtR3h5eENURWVSMDBGU3JQUUZzbW13VDdaZVEyS1lWakZTUERkVWowS0pJOE5hU3ozcWVKMFdITFlBc0t2VTV2ZDRNbkxkbHRINEdRaDlVUFVjMV8tZ0xTUzlYTDREQQ?oc=5",
+        "description": "",
+        "pubDate": "2025-11-10T16:02:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Thailand court orders extradition to China of alleged online gambling kingpin - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbktscWhBaVFKWWR5Z0RGaUY3UE12Q0xVRHYtU2w2RXZkRVpSeGszTUpQMEp3Vm4zM1NuOW1fTkhySzF2OWV4X1NaSk9LZDlFd0JwSjRYSHJaQ0U1ZnBLSkRQZFh4OHpiMVYwb29wY04wSE82dTZBU2VzcnR3QUV4Y1VRM3dVa2x3MXhneUltOXRCcXlfajVFNnJrZzBPRi0xbWFsdGtEekRndkEzNVZLbFd0UGZRRFk?oc=5",
+        "description": "",
+        "pubDate": "2025-11-10T15:08:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "China exempts chips used by carmakers from export curbs",
         "link": "https://www.bbc.com/news/articles/c0rp2514g4qo?at_medium=RSS&at_campaign=rss",
@@ -995,6 +986,15 @@
       }
     ],
     "Culture": [
+      {
+        "title": "Katie Razzall: Robust leadership needed to steer BBC through crisis",
+        "link": "https://www.bbc.com/news/articles/c80390pe1vvo?at_medium=RSS&at_campaign=rss",
+        "description": "The corporation has been plunged into a crisis some would argue is of its own making.",
+        "pubDate": "2025-11-10T21:43:10Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb7d/live/b4f76a90-be75-11f0-a2e2-5f8beef8c6e3.jpg",
+        "bias": 0
+      },
       {
         "title": "Why have BBC bosses Tim Davie and Deborah Turness resigned?",
         "link": "https://www.bbc.com/news/articles/c0mx28vlp4wo?at_medium=RSS&at_campaign=rss",
