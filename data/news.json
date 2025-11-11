@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-11T22:37:37.376541Z",
+  "lastUpdate": "2025-11-11T22:47:51.476081Z",
   "news": {
     "Gaming": [
       {
@@ -21,12 +21,30 @@
         "bias": 0
       },
       {
+        "title": "Dream Run [Free] [Other]",
+        "link": "https://amberseal.itch.io/dream-run",
+        "description": "Gauntlet-Style Roguelike Runner created by 10-year-old.",
+        "pubDate": "2025-11-11T22:02:46Z",
+        "source": "amberseal.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDQyODg3LnBuZw==/315x250%23c/tuN5zl.png",
+        "bias": 0
+      },
+      {
         "title": "Vagranteers [Free] [Role Playing]",
         "link": "https://douglaskim.itch.io/vagranteers",
         "description": "Slay the Spire meets Dicey Dungeons",
         "pubDate": "2025-11-11T21:58:42Z",
         "source": "douglaskim.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MDQyMzg1LnBuZw==/315x250%23c/ix9l9n.png",
+        "bias": 0
+      },
+      {
+        "title": "Liminal Spaces [Free] [Simulation] [Windows]",
+        "link": "https://sai-y.itch.io/liminal-spaces",
+        "description": "An attempt at different Liminal Spaces",
+        "pubDate": "2025-11-11T21:57:54Z",
+        "source": "sai-y.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDQyNDY2LnBuZw==/315x250%23c/iZmhHP.png",
         "bias": 0
       },
       {
@@ -174,24 +192,6 @@
         "bias": 0
       },
       {
-        "title": "Mini Hedgewars [Free]",
-        "link": "https://koteee.itch.io/mini-hedgewars",
-        "description": "",
-        "pubDate": "2025-11-11T20:38:02Z",
-        "source": "koteee.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDQxNDI2LnBuZw==/315x250%23c/8C5tgf.png",
-        "bias": 0
-      },
-      {
-        "title": "Element Dash [Free] [Action]",
-        "link": "https://hitotsumeno.itch.io/element-dash",
-        "description": "",
-        "pubDate": "2025-11-11T20:30:26Z",
-        "source": "hitotsumeno.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDQxNTc4LnBuZw==/315x250%23c/VKcMOj.png",
-        "bias": 0
-      },
-      {
         "title": "DUCK TAPE [Free] [Visual Novel] [Windows] [Linux]",
         "link": "https://bazyleeshek.itch.io/duck-tape",
         "description": "short VHS thriller about ducks",
@@ -235,9 +235,36 @@
         "source": "ugly-games.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MDMyNDg0LnBuZw==/315x250%23c/JNB8oA.png",
         "bias": 0
+      },
+      {
+        "title": "HELLSPAWN [Free] [Action] [Windows]",
+        "link": "https://okay-cam.itch.io/hellspawn",
+        "description": "Boss-Fighting Bullet Mayhem",
+        "pubDate": "2025-11-11T01:14:13Z",
+        "source": "okay-cam.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDMxMzYzLnBuZw==/315x250%23c/L95Iz4.png",
+        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Moment newly opened bridge partially collapses in China",
+        "link": "https://www.bbc.com/news/videos/c231yry75m3o?at_medium=RSS&at_campaign=rss",
+        "description": "Local authorities in the southwestern province of Sichuan say there are no reports of casualties following the collapse.",
+        "pubDate": "2025-11-11T22:42:35Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8843/live/6a3a0660-bf4d-11f0-8456-eff94716b162.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Live updates: Health care subsidies still divide Congress as government shutdown nearer to an end - AP News",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WRGRDQkp4bl8xcV9GRVpYWFB3dlgyYmp1Q01zSTNDNEFBNDJ5RXp6ZENNRDVRdWVRc1lRSTBUSzZPSmhuQl9UaHVtNnBHcWhEc0pxTzhRclJRakRLVzFMMHY3UU56dXFubUhreQ?oc=5",
+        "description": "",
+        "pubDate": "2025-11-11T22:41:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Venezuela prepares ‘massive deployment’ of forces in case of US attack",
         "link": "https://www.aljazeera.com/news/2025/11/11/venezuela-prepares-massive-deployment-of-forces-in-case-of-us-attack?traffic_source=rss",
@@ -383,6 +410,15 @@
         "bias": 0
       },
       {
+        "title": "New Trump directive could deny more visas based on applicants’ health and finances - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX0xrZVJwbFVEYnVxMG1vM3dIRUJrQU55a000WUVLYVZKMmlDXzdRbTRPMUZrb2pEcUU0X1Z0Ukk1THU4ek9KdkxKTjlZLUJ6LThpc0xBX1dfUHJ6aFRmblJzOC0xWm9sYVNwVmhWZllncWVRTDZjUzZKQlZ5RGZ4U25XX0xDYU5FMzdCQWI5VlUxVDNtczlGX2c3Rk5XbGtlVzJXc25JUVNCZw?oc=5",
+        "description": "",
+        "pubDate": "2025-11-11T19:51:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Kansas county agrees to pay $3 million over police raid on a small-town newspaper, editor says - AP News",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd2VsQnZXaXV0OU16YWlRam9UTWRCOVNSZUUzMXFucnhUNTNYbExSejUzRFFheVo0bzJscFdPRkxHUWJGT3NNVVhfT2kyZHJNTVM2cE5HLTQ0YkUzZldLV1c0b0RqLWctUlV1X0J0S3FTeXE5bVJmcEd1cVlEU1pjUmwydFRqQ1NuN05FQUMtbTIwZ2p6Z251aTl4QQ?oc=5",
         "description": "",
@@ -450,6 +486,15 @@
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWWVPVXdFN3BhcGsya2ZLdnV1cWNOTjRKQ29pTXBkWW1QU0lHaURiQmtGYXhCWGxpY1Q5dmt6d00zemtKSVFqcWo5OHRSSjF1SHRaTzlOUldmNWhneVVRa3NOOWJiUHo0RENOaWFtTzRBVzZsdkkydVlyN2N6Mml6RFRkVjlqREtJM0xINkNaanFBN3NBTzJrOE42SmloY0JTRWw5czZTd3ZnSU0?oc=5",
         "description": "",
         "pubDate": "2025-11-11T19:23:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "A mysterious meow from her car introduces Baylor coach Nicki Collen to a new family member - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYk5yNDZGY19iNTMxNXdtaUFPeXByREJ3ckpKNWxJQWE5aEhKeTgyOXp3ZUJzbXU0TVJ5SE5EeXRXb3lqUzVIWkkwU0IxU0N3cmZnYjhzeF9NSUFYSUdUaTJvZFZsbm5TdXRUcXNxUVV4ek5pY2NPNDF4ZW9uMF96aEpHRlY0QW1QalZKQw?oc=5",
+        "description": "",
+        "pubDate": "2025-11-11T19:22:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -617,15 +662,6 @@
         "bias": 0
       },
       {
-        "title": "Syrian official says his country has joined the anti-IS coalition but not the military mission - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa21YbWhCWEZtLXVnV2V2U3Q5Q0JvQTJ4RDB6NElrZzNEQ1VmdTBzZC1kSWY4WGUxQkoyamZNd3czUmU3NllwbU5WSVdSQ0E4WHVjYTNFWnY0aFFOQ2RSV2NoQy1keHRsN2JkOS13azdINEhka3ZPamNJVGRJYVdvRjF0YzhXMl9VREsyc0FHaDZHc1E?oc=5",
-        "description": "",
-        "pubDate": "2025-11-11T17:46:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Movie Review: ‘Now You See Me: Now You Don’t’ brings back the magic with new faces and tricks - AP News",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSGlYLXVpaWZkSFN3TFc1Y0hRZXp3U0lrRExvSXZvQW93VnhvbmNUZ3NVR3h6TkdXelJJXzNIbGMzNzltY0Zjb3BlbWg1TmdGN3A5UWIxWDNmcWdMQ2RvUkRKZm9mbFVsV2Vtdi1QM3VZU3plNDdTeG5kTi1sbnMyQjU5SGVUeXcyNnJQcmFvbmNvRlp3SEdYdVhTNmdHbDV5Y1E?oc=5",
         "description": "",
@@ -660,36 +696,18 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Russia ‘will respond in kind’ to nuclear tests by any country: Lavrov",
-        "link": "https://www.aljazeera.com/news/2025/11/11/russia-will-respond-in-kind-to-nuclear-tests-by-any-country-lavrov?traffic_source=rss",
-        "description": "Moscow suggests that it will carry out its own nuclear tests if the US resumes testing under Donald Trump's orders.",
-        "pubDate": "2025-11-11T17:05:29Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Irish presidential inauguration takes place at Dublin Castle",
-        "link": "https://www.bbc.com/news/articles/cnveplv3lzmo?at_medium=RSS&at_campaign=rss",
-        "description": "The Republic of Ireland's new president says \"our actions today will shape the world our grandchildren will inherit\".",
-        "pubDate": "2025-11-11T17:04:14Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd67/live/054955f0-bf4b-11f0-aaaa-a9731a6ae92a.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Suicide bombing in Islamabad kills 12, says Pakistan's interior minister",
-        "link": "https://www.bbc.com/news/articles/cp3x6102p3ko?at_medium=RSS&at_campaign=rss",
-        "description": "Mohsin Naqvi says the bomber tried to gain entry to a court complex but was unable to get inside.",
-        "pubDate": "2025-11-11T17:02:19Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e22/live/ba59cfa0-beed-11f0-8456-eff94716b162.jpg",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Democrats criticize the deal some in their party negotiated to end the shutdown",
+        "link": "https://www.npr.org/2025/11/11/nx-s1-5605493/democrats-criticize-the-deal-some-in-their-party-negotiated-to-end-the-shutdown",
+        "description": "Moderate Democrats made a political calculation to end the shutdown but try to keep health care in the spotlight.",
+        "pubDate": "2025-11-11T22:31:04Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Seven weeks after winning, Arizona Democrat may soon be sworn in to House seat",
         "link": "https://www.npr.org/2025/11/11/nx-s1-5605849/seven-weeks-after-winning-arizona-democrat-may-soon-be-sworn-in-to-house-seat",
@@ -763,6 +781,15 @@
         "bias": 0
       },
       {
+        "title": "Syrian official says his country has joined the anti-IS coalition but not the military mission - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa21YbWhCWEZtLXVnV2V2U3Q5Q0JvQTJ4RDB6NElrZzNEQ1VmdTBzZC1kSWY4WGUxQkoyamZNd3czUmU3NllwbU5WSVdSQ0E4WHVjYTNFWnY0aFFOQ2RSV2NoQy1keHRsN2JkOS13azdINEhka3ZPamNJVGRJYVdvRjF0YzhXMl9VREsyc0FHaDZHc1E?oc=5",
+        "description": "",
+        "pubDate": "2025-11-11T17:46:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "'What to Eat Now' nutritionist talks SNAP, food policy and the 'triple duty' diet",
         "link": "https://www.npr.org/2025/11/11/nx-s1-5601771/marion-nestle-food-policy-what-to-eat-now",
         "description": "Marion Nestle says we need to rethink how we eat. She recommends \"real food, processed as little as possible, with a big emphasis on plants.\" Her new book is",
@@ -808,10 +835,10 @@
         "bias": 0
       },
       {
-        "title": "Donald Trump - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
+        "title": "Islamists in Bangladesh demand a referendum on the national charter ahead of a general election - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWUxCTnFRWmFUS2p4XzhTNFBjdy1ubUl3VFpYaWZKQmRwZjNBT0tFVW1mY19WbWR4RVQ3R3lsejVIME9nN1dfQllqOGhEbkFJR04tdWhLZHVXbGpVTU1XX00yUWNOUkVUeHNmRHJyYTA4bmNHZ0lPY2E2MWRpTEJFcFpSeXg4WkRWTkcyUFlhbnRocHl3YkN0blB0Vk5kOTJON3VLUFRVUXVUOURR?oc=5",
         "description": "",
-        "pubDate": "2025-11-11T13:28:15Z",
+        "pubDate": "2025-11-11T13:14:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -833,6 +860,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "A deadly car explosion in New Delhi is being investigated under an anti-terrorism law - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeWJpOTB6VTlhWnAwU3hQWnlPVWR0UlF4Q3BKazdUMFRPX1NnVXZLYVh6TzNHRkNNSUI4VHNDdDZaTGh4YjF2aEVMREtZa3pwLXZfdHBhbEN6ZkRncWZqVnhSWEw0N3hzQUJhQ3lZelRCYWt1MFh2bEU0REpoaldtRVYweXBuRHBKQWtmSXpEdTVyRDBibU9ERktR?oc=5",
+        "description": "",
+        "pubDate": "2025-11-11T11:50:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Reform UK says BBC 'infected with left-wing bias'",
@@ -862,15 +898,6 @@
         "bias": -1
       },
       {
-        "title": "Rep. Seth Moulton, D-Mass., on the Senate shutdown deal and the division it caused",
-        "link": "https://www.npr.org/2025/11/11/nx-s1-5604413/rep-seth-moulton-d-mass-on-the-senate-shutdown-deal-and-the-division-it-caused",
-        "description": "NPR's Steve Inskeep speaks with Democratic Congressman Seth Moulton of Massachusetts about divisions within his party over the shutdown deal in the Senate.",
-        "pubDate": "2025-11-11T09:45:24Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "Government sets out plan to phase out animal experiments",
         "link": "https://www.bbc.com/news/articles/cm2lpekjeg9o?at_medium=RSS&at_campaign=rss",
         "description": "The plan follows up on a manifesto promise to work towards the phasing out the practice.",
@@ -889,19 +916,19 @@
         "bias": 0
       },
       {
-        "title": "Bill to end government shutdown passes the Senate, heads to the House next for final vote - AP News",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TY3JRQWU5ZnlEd2FrV0JlaTZpOWQ2aWYwckNZZ29Idk9JWnRDcnQyLXdmeFpvc3lTWnhzNFVhTUdRLVV3Ukd2LURfSjBPclA0MG8tUGpLUnowS3l5R2VISXp3SnVZOU1ucXRDQw?oc=5",
+        "title": "Tennessee death row inmate declines to choose between the electric chair and lethal injection - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdFQ5NGl6VVFCUHhtcUhZdG92TTYwdTQ3OU1UNldwYndfd08ycXhYd2FhaV9Xdm1GVUFDLS1ER2pPVTdvNzlBMmNIU1JKQkg3UnBBQ1JCY3Y0WFNVOVlLSlNKd0gwYmJJbW5rcE92TmVocTdWdExmdFNfOXZEdUI0VDNfcEQ0WVpTNndvMFlhQUVyTTNrTVhTVmF6T21ZcDlWM0RMeThB?oc=5",
         "description": "",
-        "pubDate": "2025-11-11T02:33:00Z",
+        "pubDate": "2025-11-11T01:55:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Tennessee death row inmate declines to choose between the electric chair and lethal injection - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdFQ5NGl6VVFCUHhtcUhZdG92TTYwdTQ3OU1UNldwYndfd08ycXhYd2FhaV9Xdm1GVUFDLS1ER2pPVTdvNzlBMmNIU1JKQkg3UnBBQ1JCY3Y0WFNVOVlLSlNKd0gwYmJJbW5rcE92TmVocTdWdExmdFNfOXZEdUI0VDNfcEQ0WVpTNndvMFlhQUVyTTNrTVhTVmF6T21ZcDlWM0RMeThB?oc=5",
+        "title": "20 taken to hospitals after bus returning from church camp overturns on winding California road - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzdvaWZFcFdVZ1JoaXV0a1dNR29ERUV6cEk3aUxCS2lwRF9aUmpjc2FObUZDeENiNFFkR2JRY3l6VWpwYU5maVhhVDNkRGMxNkp1UXFBQS1YQ3d1bklMbGRZbVRYdFpWNWlROUk4amwzSUJXSkRYZUJ0NzlwUGRuMzRfWWdoUE9iOVFndmtxaG1rZw?oc=5",
         "description": "",
-        "pubDate": "2025-11-11T01:55:00Z",
+        "pubDate": "2025-11-11T01:35:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -918,57 +945,12 @@
     ],
     "Tech": [
       {
-        "title": "US Catholic bishops select conservative culture warrior to lead them during Trump’s second term - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTVFUc2E3ckxtaW51YS0tMURGU3JmSjZsMExaY1FSTDNpQzhGTkk2RHBaUjdwSXdQTWNXLWVnbHplRFo5VzhoVEdsQ29LLXlmMzNGQ3ZIYVJmYWF1NW1Kcmh4bzZocVdiRjhnNER6Ty01Vll3TlZMQ1B2ZnBRMVRYbEp1Q0xpVS1aaENRdmZiZnpMWHkzelh1THdmWFlJZktqa25xRi1RSDNoZEdX?oc=5",
-        "description": "",
-        "pubDate": "2025-11-11T20:17:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Fired coach Brian Kelly lawsuit alleges LSU is declining to honor the terms of his contract - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd0ZlVTY5WUwtNkp1TWxIRVhBWWVNMDJ5c2hvRmRfckdIZ1N4YlZLdEdIV3AwY180S0J5UDM1WFlUUmUyS3c1dVV3WkotMUtuclZ4c0x4TGdnV1ZEeHpsSXlGRU0zVzlnTTE3RUhfd0VFTGlKOGEzTWRrcGJrQWhBSjJJWHZMaGZXbWZr?oc=5",
-        "description": "",
-        "pubDate": "2025-11-11T18:54:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Man dances for 144 hours to break video game marathon record",
         "link": "https://www.bbc.com/news/articles/cy8vwjp4jxyo?at_medium=RSS&at_campaign=rss",
         "description": "Szabolcs Csépe played Dance Dance Revolution for six days to secure his place in the record books.",
         "pubDate": "2025-11-11T17:19:37Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/ee8d7260-bf0e-11f0-b5a4-fb5de6982057.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Death toll from capsized boat with Myanmar migrants climbs to 27 as more bodies recovered - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN3hWMU9lLVRIVWZPdUMyZ3RHbjBCbFc4WnhlWUFmcG9fVVczN1NXbXVyVU1pUDBSazE0TkQ4OVNIVGJfNml2WTZCcVJ5TFE1QkpqdVdSTXVQVDFxTnpiWU9IaGpMOXVhVDRpdTNvUmUwV3g2eHhBNlZ4UzM0S1dsUVRXTVRySWUxRDF0TGJCNGg4UWd2U25ZVHVrLXltNW5tTk5WdFk2NF93OUxG?oc=5",
-        "description": "",
-        "pubDate": "2025-11-11T13:23:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Turkey and Galatasaray player among 1,024 suspended in widening soccer betting scandal - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWUhJSVdNZHd2cHp5Q1ZUQ0VnUlNscDJPYVVjQ184TjlJMnlFUDkxcUV3ODU0RGdzT2djc1djZmo5Uld6UGI1bkIzMVJxLWhQN0s0a3o4MGhpX0VTUHNQS25UUkpzQ1RjVlVMZUEwSzFtaHRwM2pNN3FHQm5GQUtZblNOVkZqVUdZaFhWTFRXTTBzY1gyZTlhUG9FYlU?oc=5",
-        "description": "",
-        "pubDate": "2025-11-11T10:23:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "George Washington plays American after Dinkins’ 22-point game - AP News",
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUVY1VVdpOHc2cE9NNEJ0eGdjWjRMNVQ4VHV2VVhvbUZ5ckdxQkJod3RORW41M0VQeW4ybWtYRW1rTWtEWGZHNWdWaVhwRjRhdzlwUjVLTVhQVTVvYjRMVHpzTTlBLXVkSjdMdk9xVzRDMjVtd0xwSWF6ZzJxcEtSVzhlRDZpMDd5ZlQ5Tm15WVN4RjJTal9kMTlqUnZnU21pWFFiTTJuNTdVWUNiRUJmVjFYSXotMnp0V2M1OHhBbnlhMENYWUVQNDZPWjNNY1FjSTdNUFVHZUdVT2FIRGNHT2VJenA1SUFoSm9kSllCNUdDY2NfbkVQWUQ2ZWd5dw?oc=5",
-        "description": "",
-        "pubDate": "2025-11-11T09:42:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -981,10 +963,19 @@
         "bias": 0
       },
       {
-        "title": "While Trump threatens controllers, US flight cancellations will drag on even after shutdown ends - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSFc0RnA5Um5BTDA3VTVQNndYdnlsWTlhcGhlZ3pNTnFOa1Z3LUt3LTZBVVpaQ1lfSFpYOE82NWxMY3N0S3duR0wzaThnLXh0SmFNb3lxN1lOTklzVEY5em0xekc2Y0lhRjlBSTZUclFUNHlpX2g0am1PWXRmVndvaVliTE5NMF9hYWc5RXVBc3lZQ1ozSkYyMjlCNUNER0FxTzBrRTZYN1dhWVU3ZVJkOG1LOHoyTFpfS2g0?oc=5",
+        "title": "Bill to end government shutdown passes the Senate, heads to the House next for final vote - AP News",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TY3JRQWU5ZnlEd2FrV0JlaTZpOWQ2aWYwckNZZ29Idk9JWnRDcnQyLXdmeFpvc3lTWnhzNFVhTUdRLVV3Ukd2LURfSjBPclA0MG8tUGpLUnowS3l5R2VISXp3SnVZOU1ucXRDQw?oc=5",
         "description": "",
-        "pubDate": "2025-11-11T04:15:00Z",
+        "pubDate": "2025-11-11T02:33:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "New Zealand will remove police from gun licensing but near-total semiautomatics ban to remain - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbDhjdGl0TGl5SjFLU0NaUUsyZzZ2NVd4QUxhNXZTcnZpUVlSalIybjYtdVFpamc2REt0X3I3d2tneFpuZkNXb3dKR2RXSDZzVUdZZVIzeUhTOGZQYzJ4UXdCcXh6OFhKeUdNOXlkX2FvX0ZqMGpjZDEtYzg1NUdCSzZCZkpDd2tkdUwxTUpRTndULXBrbUM2c0ZVV2FtTDhkZkEzdHh5V1ZmTW5FS19XMGhJYjFDaVU?oc=5",
+        "description": "",
+        "pubDate": "2025-11-11T02:12:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1008,17 +999,7 @@
         "bias": 0
       }
     ],
-    "Science": [
-      {
-        "title": "Live updates: Health care subsidies still divide Congress as government shutdown nearer to an end - AP News",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WRGRDQkp4bl8xcV9GRVpYWFB3dlgyYmp1Q01zSTNDNEFBNDJ5RXp6ZENNRDVRdWVRc1lRSTBUSzZPSmhuQl9UaHVtNnBHcWhEc0pxTzhRclJRakRLVzFMMHY3UU56dXFubUhreQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-11T22:02:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      }
-    ],
+    "Science": [],
     "Business": [
       {
         "title": "Bros really are dominating podcasting",
@@ -1140,6 +1121,15 @@
         "bias": 0
       },
       {
+        "title": "US Catholic bishops select conservative culture warrior to lead them during Trump’s second term - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTVFUc2E3ckxtaW51YS0tMURGU3JmSjZsMExaY1FSTDNpQzhGTkk2RHBaUjdwSXdQTWNXLWVnbHplRFo5VzhoVEdsQ29LLXlmMzNGQ3ZIYVJmYWF1NW1Kcmh4bzZocVdiRjhnNER6Ty01Vll3TlZMQ1B2ZnBRMVRYbEp1Q0xpVS1aaENRdmZiZnpMWHkzelh1THdmWFlJZktqa25xRi1RSDNoZEdX?oc=5",
+        "description": "",
+        "pubDate": "2025-11-11T20:17:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Jacob Alon is first Scottish winner of BBC Introducing Artist of the Year",
         "link": "https://www.bbc.com/news/articles/cn7e5x77vmro?at_medium=RSS&at_campaign=rss",
         "description": "The award celebrates emerging artists who have made a significant impact over the past year with the support of BBC Introducing,",
@@ -1167,6 +1157,15 @@
         "bias": -1
       },
       {
+        "title": "The number of whooping cough cases in Texas is the highest it’s been in 11 years - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbmZyY0FBUXBDNEpiT1BVN0laOTNLUVJrVHFjMkpWZWUwRWgwMGFTZDFGaDVjM0NlVktIUGZmTy1zSnRONmxpWjU0UEJIMVViVkMybmsxUV9KT0hJSGppa0FGMk5ydENjQ1ZPcXY4cmtqMWg0Sk5LeXhuamR5V0pzNUpzYkZpc2ZuMEw4ZnFNRnoyeVZNSnc0?oc=5",
+        "description": "",
+        "pubDate": "2025-11-11T16:42:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "TikTok creator 'so sorry' over cancer diagnosis lie",
         "link": "https://www.bbc.com/news/articles/c1e3ygwy77yo?at_medium=RSS&at_campaign=rss",
         "description": "Brittany Miller is known for posting food and lifestyle content to her three-and-a-half million followers.",
@@ -1191,6 +1190,15 @@
         "pubDate": "2025-11-11T14:14:38Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c06f/live/8b4c2800-befe-11f0-90b3-b57c162d3edc.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Death toll from capsized boat with Myanmar migrants climbs to 27 as more bodies recovered - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN3hWMU9lLVRIVWZPdUMyZ3RHbjBCbFc4WnhlWUFmcG9fVVczN1NXbXVyVU1pUDBSazE0TkQ4OVNIVGJfNml2WTZCcVJ5TFE1QkpqdVdSTXVQVDFxTnpiWU9IaGpMOXVhVDRpdTNvUmUwV3g2eHhBNlZ4UzM0S1dsUVRXTVRySWUxRDF0TGJCNGg4UWd2U25ZVHVrLXltNW5tTk5WdFk2NF93OUxG?oc=5",
+        "description": "",
+        "pubDate": "2025-11-11T13:23:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -1230,6 +1238,15 @@
         "bias": 0
       },
       {
+        "title": "Turkey and Galatasaray player among 1,024 suspended in widening soccer betting scandal - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWUhJSVdNZHd2cHp5Q1ZUQ0VnUlNscDJPYVVjQ184TjlJMnlFUDkxcUV3ODU0RGdzT2djc1djZmo5Uld6UGI1bkIzMVJxLWhQN0s0a3o4MGhpX0VTUHNQS25UUkpzQ1RjVlVMZUEwSzFtaHRwM2pNN3FHQm5GQUtZblNOVkZqVUdZaFhWTFRXTTBzY1gyZTlhUG9FYlU?oc=5",
+        "description": "",
+        "pubDate": "2025-11-11T10:23:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "James Vanderbilt's 'Nuremberg' explores the human horror in a Nazi leader's story",
         "link": "https://www.npr.org/2025/11/11/nx-s1-5487719/nuremberg-james-vanderbilt",
         "description": "James Vanderbilt's",
@@ -1237,6 +1254,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "George Washington plays American after Dinkins’ 22-point game - AP News",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUVY1VVdpOHc2cE9NNEJ0eGdjWjRMNVQ4VHV2VVhvbUZ5ckdxQkJod3RORW41M0VQeW4ybWtYRW1rTWtEWGZHNWdWaVhwRjRhdzlwUjVLTVhQVTVvYjRMVHpzTTlBLXVkSjdMdk9xVzRDMjVtd0xwSWF6ZzJxcEtSVzhlRDZpMDd5ZlQ5Tm15WVN4RjJTal9kMTlqUnZnU21pWFFiTTJuNTdVWUNiRUJmVjFYSXotMnp0V2M1OHhBbnlhMENYWUVQNDZPWjNNY1FjSTdNUFVHZUdVT2FIRGNHT2VJenA1SUFoSm9kSllCNUdDY2NfbkVQWUQ2ZWd5dw?oc=5",
+        "description": "",
+        "pubDate": "2025-11-11T09:42:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Squid Game star, 81, acquitted of sexual misconduct",
