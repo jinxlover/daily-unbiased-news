@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-11T09:47:53.767818Z",
+  "lastUpdate": "2025-11-11T09:58:38.234182Z",
   "news": {
     "Gaming": [
       {
@@ -230,6 +230,15 @@
     ],
     "World": [
       {
+        "title": "Israel extends detention of Florida teen accused of stone-throwing",
+        "link": "https://www.npr.org/2025/11/11/nx-s1-5601693/israel-extends-detention-of-florida-teen-accused-of-stone-throwing",
+        "description": "Israel has extended the detention of a Florida teen accused of throwing stones in the West Bank. He's been held nearly nine months without a trial and faces up to 20 years if convicted.",
+        "pubDate": "2025-11-11T09:45:36Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Trump threatens to sue BBC over edited speech that sparked resignations by news bosses - AP News",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTjJTZGZBQWRoWmdicmJSUndMY1BWRjVDOFpFanh2MXQ2OXF4Vks3TmlTbUFfNk8yYmtJV1YydFVXblVVby1HaXVZWTFsNVl5am5TLVdmbUUtSXIzajZ2VXJPdm5hUE5sU3A3OG9MTXlLMVdpSEZ5aXlDdW96Yll2QjMycTFKZ2h0NTk5ZloxblY4YmMxTjJtcQ?oc=5",
         "description": "",
@@ -320,7 +329,7 @@
         "bias": -1
       },
       {
-        "title": "The night an explosion shook Delhi",
+        "title": "'There was blood everywhere': The night an explosion shook Delhi",
         "link": "https://www.bbc.com/news/articles/clyl7n4q3qyo?at_medium=RSS&at_campaign=rss",
         "description": "BBC journalists describe what they saw after an explosion took place in India's capital Delhi on Monday.",
         "pubDate": "2025-11-11T07:49:17Z",
@@ -669,18 +678,36 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9eb9/live/2cf58fa0-be7f-11f0-a909-015ca360c829.jpg",
         "bias": 0
-      },
-      {
-        "title": "Cryptoqueen who fled China for London mansion to be sentenced over £5bn Bitcoin stash",
-        "link": "https://www.bbc.com/news/articles/cvg4w1g9ezko?at_medium=RSS&at_campaign=rss",
-        "description": "Qian Zhimin bought cryptocurrency using funds stolen from thousands of Chinese pensioners, say police.",
-        "pubDate": "2025-11-11T00:31:56Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81fa/live/d36cbe30-ba29-11f0-aa13-0b0479f6f42a.png",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "As the government inches toward reopening, a look at the shutdown's political fallout",
+        "link": "https://www.npr.org/2025/11/11/nx-s1-5604818/as-the-government-inches-toward-reopening-a-look-at-the-shutdowns-political-fallout",
+        "description": "As the Senate moves forward a deal to end the government shutdown, it's time to assess the winners, the losers and what the political fallout might look like into the future.",
+        "pubDate": "2025-11-11T09:45:30Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Rep. Seth Moulton, D-Mass., on the Senate shutdown deal and the division it caused",
+        "link": "https://www.npr.org/2025/11/11/nx-s1-5604413/rep-seth-moulton-d-mass-on-the-senate-shutdown-deal-and-the-division-it-caused",
+        "description": "NPR's Steve Inskeep speaks with Democratic Congressman Seth Moulton of Massachusetts about divisions within his party over the shutdown deal in the Senate.",
+        "pubDate": "2025-11-11T09:45:24Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Man accused of calling for attacks on German politicians is arrested - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOVJ5V3pOQXpvWnZQdXh6VUZLSWlBcTcyUGhnTUxGbzBPMENKY0hiaHZWSWN6RDYyZG5EenJJemFlb0lVSlgxZ2R3a0JCTXI1TERmOTdMZFlySlpISlMtVXQ4YjVWTzk2VVNvNjRZSVVZc1U4Q21xUGxvcHhzZFJvOUNWZmcxalRVcU10QVo4U2FlSUtQdEFNM3BERUpRMVlycU1xaQ?oc=5",
+        "description": "",
+        "pubDate": "2025-11-11T09:42:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "UK unemployment rate rises to 5% as jobs market weakens",
         "link": "https://www.bbc.com/news/articles/cdxrp7znkdlo?at_medium=RSS&at_campaign=rss",
@@ -707,27 +734,18 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "At least 16 bodies found in clandestine cemetery near Mexico’s Cancun - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOUFRR1pzanV0dnVMS2R4NGpvU2trTGVhbXZuX0I5LV9pTWxWVmNnZnhWT1Q5RnZMekRLR3ZFT3lQaV9ZRkxVeWQ4WFprSDdQY0RYeGx2LVpqR3ZSOWVIUzRFSjJhX1NIU19US2lHcm9VcFE3S0w1cjlOQkZqUTJta3NhUjBIOEg4ZlIzT001aHdnRFl2WTY0?oc=5",
+        "description": "",
+        "pubDate": "2025-11-11T00:18:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Tech": [
-      {
-        "title": "Shutdown to leave mark on US economy from lost paychecks, canceled flights - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeEhPRmQ2YmJGalZKRXJnOTRfSlRuOEdxVnpjVnVlcnFaRFJkdm04d0QtMVNQOTdPSU5JUkptcVRORVhHaDRmajRLUzJ1anVSam5SWTF5U1ZJRzVKVHdWZ2I1UUpnR1pPOWRjeHdtRXF6eHFFR2VKak5od09oUmRNeFZBSVBoZzk0SWtBYTV1MlhkdVFMZmhQSUdyUkRHUTMxaUJSeA?oc=5",
-        "description": "",
-        "pubDate": "2025-11-11T05:01:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Trump administration renews Supreme Court appeal to keep full SNAP payments frozen - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZFRQdS01NVJmamdKZnVCN3pwblNyTm9NZENxSUZFVXRPdnFtam42YWg2aEdJR0ZYYU9EZUpIdnlsdGhmVG9qMFc3V0hZckRxYlhCYTJrb1hjbnZ3UEdYR01BQ0Q5UUpseTRCek9HczdRZ3h4czl3eDFVLUVfOUhyZWRoMXktUDk2S0xnTWVXamIzNnA3Rk1LMHlWS3JSc240eDBpRXdjRQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-11T02:53:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
       {
         "title": "The Kenyan start-up aiming to electrify African transport",
         "link": "https://www.bbc.com/news/videos/c0kpel4y4g7o?at_medium=RSS&at_campaign=rss",
@@ -780,6 +798,15 @@
     ],
     "Culture": [
       {
+        "title": "'Nuremberg' details the turbulent path to the first international criminal trial",
+        "link": "https://www.npr.org/2025/11/11/nx-s1-5487719/nuremberg-details-the-turbulent-path-to-the-first-international-criminal-trial",
+        "description": "NPR's Leila Fadel speaks with Director James Vanderbilt about \"Nuremberg,\" starring Russell Crowe and Rami Malek, which explores the tense lead-up to what became the first international trial.",
+        "pubDate": "2025-11-11T09:46:22Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "BBC director general to address staff after Trump threatens to sue for $1bn",
         "link": "https://www.bbc.com/news/articles/ckg10ze8869o?at_medium=RSS&at_campaign=rss",
         "description": "The US president asks that the BBC retract a programme which edited his speech by Friday, or face legal action.",
@@ -821,7 +848,7 @@
         "description": "The musician's tale of sex, guilt and grief has been reimagined as a TV series starring Matt Smith.",
         "pubDate": "2025-11-11T00:31:07Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6ef/live/6e4049e0-be30-11f0-a5cd-55f2a8b87c9c.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd14/live/ed2676e0-bee3-11f0-86f6-8f14a1be2b7d.jpg",
         "bias": 0
       }
     ]
