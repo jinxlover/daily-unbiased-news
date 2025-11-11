@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-11T11:46:00.173994Z",
+  "lastUpdate": "2025-11-11T11:56:27.902582Z",
   "news": {
     "Gaming": [
       {
@@ -9,6 +9,15 @@
         "pubDate": "2025-11-11T11:41:04Z",
         "source": "bottleneckgaming521.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MDM0Nzk2LnBuZw==/315x250%23c/H7VUB9.png",
+        "bias": 0
+      },
+      {
+        "title": "Space Shooter [Free] [macOS]",
+        "link": "https://asma-alnuaimi.itch.io/space-shooter",
+        "description": "",
+        "pubDate": "2025-11-11T11:37:00Z",
+        "source": "asma-alnuaimi.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDM0NzE1LnBuZw==/315x250%23c/yudGwv.png",
         "bias": 0
       },
       {
@@ -183,33 +192,6 @@
         "bias": 0
       },
       {
-        "title": "Shadow Walls [Free] [Action]",
-        "link": "https://sylpharcade.itch.io/shadow-walls",
-        "description": "",
-        "pubDate": "2025-11-11T09:06:21Z",
-        "source": "sylpharcade.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDMzNTQ0LnBuZw==/315x250%23c/%2BNLCeU.png",
-        "bias": 0
-      },
-      {
-        "title": "Cross The Road [Free] [Puzzle]",
-        "link": "https://najwanzafran.itch.io/cross-the-road",
-        "description": "",
-        "pubDate": "2025-11-11T09:01:52Z",
-        "source": "najwanzafran.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDMzNTMxLnBuZw==/315x250%23c/BSFDb3.png",
-        "bias": 0
-      },
-      {
-        "title": "Chromatic [Free] [Shooter]",
-        "link": "https://bulletwhale.itch.io/chromatic",
-        "description": "COD Zombies meets Doom Eternal's glory kills meets RoR meets bullet hell patterns",
-        "pubDate": "2025-11-11T08:43:05Z",
-        "source": "bulletwhale.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDMzNDQ3LmpwZw==/315x250%23c/aX3cfp.jpg",
-        "bias": 0
-      },
-      {
         "title": "Hymn (Web) [Free] [Role Playing]",
         "link": "https://a-mad.itch.io/hymn-web",
         "description": "mmo",
@@ -226,9 +208,54 @@
         "source": "wip3rdev.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MDMyODk2LnBuZw==/315x250%23c/8LUYl8.png",
         "bias": 0
+      },
+      {
+        "title": "Laberintu [Free] [Puzzle]",
+        "link": "https://turtucatu.itch.io/laberintu",
+        "description": "",
+        "pubDate": "2025-11-11T02:10:23Z",
+        "source": "turtucatu.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDMwNjU4LnBuZw==/315x250%23c/cmGOeu.png",
+        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "What we know about deadly India blast",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/11/what-we-know-about-deadly-india-blast?traffic_source=rss",
+        "description": "At least 13 people were killed and 20 injured when a car exploded near the Red Fort metro station in India’s capital.",
+        "pubDate": "2025-11-11T11:36:37Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Trump proposes $2,000 tariff dividend for Americans. Would this work?",
+        "link": "https://www.aljazeera.com/economy/2025/11/11/trump-proposes-2000-tariff-dividend-for-americans-would-this-work?traffic_source=rss",
+        "description": "Trump’s $2,000 tariff dividend plan faces legal hurdles, unclear funding; experts doubt tariff revenue will cover costs.",
+        "pubDate": "2025-11-11T11:34:14Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Russia says Ukrainian-British plot to hijack hypersonic missile foiled",
+        "link": "https://www.aljazeera.com/news/2025/11/11/russia-says-ukrainian-british-plot-to-hijack-hypersonic-missile-foiled?traffic_source=rss",
+        "description": "Pilots of Russian warplane tempted with money and Western citizenship to take part in false flag op, Moscow asserts.",
+        "pubDate": "2025-11-11T11:29:35Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "What happened at Syrian president’s historic White House visit",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/11/what-happened-at-syrian-presidents-historic-white-house-visit?traffic_source=rss",
+        "description": "Syria’s interim president Ahmed al-Sharaa has become the first Syrian leader to visit the White House.",
+        "pubDate": "2025-11-11T11:25:51Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Suicide bombing in Islamabad kills 12, says Pakistan's interior minister",
         "link": "https://www.bbc.com/news/articles/cp3x6102p3ko?at_medium=RSS&at_campaign=rss",
@@ -293,9 +320,9 @@
         "bias": -1
       },
       {
-        "title": "Israeli parliament nods to bill to introduce death penalty for ‘terrorism’",
+        "title": "Israel parliament passes first reading of death penalty for ‘terrorism’ law",
         "link": "https://www.aljazeera.com/news/2025/11/11/israeli-parliament-nods-to-bill-to-introduce-death-penalty-for?traffic_source=rss",
-        "description": "Critics say the bill would apply only to Arabs who kill Jews, not the other way around.",
+        "description": "Critics say the bill would apply only to Palestinians who kill Jews, not the other way around.",
         "pubDate": "2025-11-11T10:34:59Z",
         "source": "aljazeera.com",
         "image": "",
@@ -410,7 +437,7 @@
         "bias": -1
       },
       {
-        "title": "‘Suicide blast’ outside Islamabad court in Pakistan kills at least 12",
+        "title": "‘Suicide bomber’  kills at least 12 outside Islamabad court in Pakistan",
         "link": "https://www.aljazeera.com/news/2025/11/11/blast-outside-islamabad-court-in-pakistan-injures-at-least-eight?traffic_source=rss",
         "description": "Explosion occurred near the entrance of the district court, which is typically crowded with a large number of people.",
         "pubDate": "2025-11-11T08:59:52Z",
@@ -425,6 +452,15 @@
         "pubDate": "2025-11-11T08:34:24Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d273/live/6c5d1150-be38-11f0-9e99-d1007b558636.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Taiwan evacuates thousands ahead of tropical storm Fung-wong after deaths in the Philippines - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONGtrRUFvS09DR21SNW04RC00RVpuZ2gyWnp2SkxIYjlDVWtINHl4NExZSDBwdlRHTDExalFBTVFJcGVmWWd0S2I2X1o0aW9kR1dVUVFwRXBUb1JMU2I2Y2Q2LXY2MzdNc3V2bmVuWG1hUVVtNEdyVDNSX2RRZFNlSHFrb2FsckVjWVFaUVJGc1ZIM2hFY1NkLVZ4bw?oc=5",
+        "description": "",
+        "pubDate": "2025-11-11T08:23:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -450,6 +486,15 @@
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM3FVTnJqYks3b0VxSVFrM1huaGZYdHhVQkNvTEpSbmJpbkNaQTlJUS04amJhWHpUcDR5UDJlRnhyZ2M0N3JmSmY2M3lEQllkYUk4Q085WHBuNFdlWVcwWUtnd09DMFpOQjFVbk1Jc09nUjZpQmFIWG5rd0RxYnk4Z1FMV1NIRFoxVWpZdEoyb1h1UkpnYXpwTlpB?oc=5",
         "description": "",
         "pubDate": "2025-11-11T08:18:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Iraqis vote in a parliamentary election marked by tight security and a major political boycott - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNDNYR005aER4ajg0NTlVY2l1N2QydjBjUVZ3dnVfWFd3cENxWmhaT056ZThBNlJPVENCaDBrQnEzemRfdjA5dHBiM0tQbjFyY0hYWVlCMFpOWmlCOC00dlVLbGNPSXVrbE5SU2ZCWDhpVzRyU0Y4cml6UnQyVG5tVTNpNHAtT0ltQ0s4V08telNpbW9fYTF2T2RaMXh5QQ?oc=5",
+        "description": "",
+        "pubDate": "2025-11-11T08:14:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -489,15 +534,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Taiwan evacuates thousands ahead of tropical storm Fung-wong after deaths in the Philippines - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONGtrRUFvS09DR21SNW04RC00RVpuZ2gyWnp2SkxIYjlDVWtINHl4NExZSDBwdlRHTDExalFBTVFJcGVmWWd0S2I2X1o0aW9kR1dVUVFwRXBUb1JMU2I2Y2Q2LXY2MzdNc3V2bmVuWG1hUVVtNEdyVDNSX2RRZFNlSHFrb2FsckVjWVFaUVJGc1ZIM2hFY1NkLVZ4bw?oc=5",
-        "description": "",
-        "pubDate": "2025-11-11T07:38:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "21 dead, search continues after refugee boat sinks near Malaysia, Thailand",
@@ -563,24 +599,6 @@
         "bias": -1
       },
       {
-        "title": "Delhi Red Fort blast kills 13: What happened as police invoke ‘terror’ law?",
-        "link": "https://www.aljazeera.com/news/2025/11/11/delhi-red-fort-blast-kills-13-what-happened-as-police-invoke-terror-law?traffic_source=rss",
-        "description": "Indian police investigate the deadly car explosion in the national capital territory under stringent antiterrorism law.",
-        "pubDate": "2025-11-11T06:12:14Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Eagles win against Packers in NFL defensive slugfest",
-        "link": "https://www.aljazeera.com/sports/2025/11/11/eagles-win-against-packers-in-nfl-defensive-slugfest?traffic_source=rss",
-        "description": "Philadelphia Eagles win their third match in a row while the Green Bay Packers fall from the NFC North division lead.",
-        "pubDate": "2025-11-11T06:04:03Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "Jaelan Phillips’ productive Eagles debut paces dominant defense in 10-7 win over Packers - AP News",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLTk4YW1sMklvRm9jeUpVeU5ZSWloRzM2dm9mWkxfZWczZlJUV2NFUlcxRjh1R0VFUTFhMTNVQ1B4cGRmZkVDYkl4R09iMVM2R0ZqM0lMY0JfQ0RQSWg1dTdkUjA4SjlyLVluN3p3SUdzWVFCOUFpNkJiYTZYUEJOSWdFRjFGaVE?oc=5",
         "description": "",
@@ -590,15 +608,6 @@
         "bias": 0
       },
       {
-        "title": "Delhi Red Fort blast live: Terrorism law invoked in India after 13 killed",
-        "link": "https://www.aljazeera.com/news/liveblog/2025/11/11/delhi-red-fort-blast-live-terrorism-law-invoked-in-india-after-9-killed?traffic_source=rss",
-        "description": "Police in the Indian capital territory of Delhi invoke an 'anti-terror' law as they investigate a deadly car explosion.",
-        "pubDate": "2025-11-11T05:46:12Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "Furor over editing of Trump speech sparks ‘existential crisis’ at the BBC - AP News",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV2lnVmtQbTZnc055aWVpYzFWWDhqeHpCczIwaFJnV2J4bjlnNDk2WWpJcGkxWE5jemUtZmVOakk0NTQ5NVN5VTc2X3ptWTdGa3l4cW42cnBNQk0zd1RzQks5MDIyNEZrQWQyZmVCN29sOU1EWGl5OUpUQU5WNHFpMkl5a1pHX2w3SDJPNVlBcXRMUFB6bUxSVXVfbVJzUmk1?oc=5",
         "description": "",
@@ -606,15 +615,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Jannik Sinner dominates Felix Auger-Aliassime at ATP Finals in Turin",
-        "link": "https://www.aljazeera.com/sports/2025/11/11/jannik-sinner-dominates-felix-auger-aliassime-at-atp-finals-in-turin?traffic_source=rss",
-        "description": "Jannik Sinner begins his ATP Finals title defence with victory against Felix Auger-Aliassime on home soil in Italy.",
-        "pubDate": "2025-11-11T05:22:40Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       },
       {
         "title": "The Supreme Court is expected to say whether full SNAP food payments can resume - AP News",
@@ -668,15 +668,6 @@
         "pubDate": "2025-11-11T03:52:05Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e15/live/2899c510-becb-11f0-8456-eff94716b162.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Car blast near New Delhi’s historic Red Fort kills at least 8 people, India’s police say - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdy1vQ3NUaGJrUXliZ1VjVk11Z2I1RUtfSHRQQk9OdVExbV9DRmlEQ1BTMl91eUtMNUFvN0EwckVoQW5POGE4VE1ucTNsUWdPeWs4NHJjMV9XRHFLSVhLZkUwLVJZc3FFbVFJclFSTjYzLWQ4TTRhTzc0MDFZZE4yWnJ1R05LMTg4blRHQmo2ZGlBRDh4NUpCUDhEbw?oc=5",
-        "description": "",
-        "pubDate": "2025-11-11T03:14:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       }
     ],
@@ -742,24 +733,6 @@
         "pubDate": "2025-11-11T08:34:24Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d273/live/6c5d1150-be38-11f0-9e99-d1007b558636.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Iraqis vote in a parliamentary election marked by tight security and a major political boycott - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNDNYR005aER4ajg0NTlVY2l1N2QydjBjUVZ3dnVfWFd3cENxWmhaT056ZThBNlJPVENCaDBrQnEzemRfdjA5dHBiM0tQbjFyY0hYWVlCMFpOWmlCOC00dlVLbGNPSXVrbE5SU2ZCWDhpVzRyU0Y4cml6UnQyVG5tVTNpNHAtT0ltQ0s4V08telNpbW9fYTF2T2RaMXh5QQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-11T07:30:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Bill to end government shutdown passes the Senate, heads to the House next for final vote - AP News",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TY3JRQWU5ZnlEd2FrV0JlaTZpOWQ2aWYwckNZZ29Idk9JWnRDcnQyLXdmeFpvc3lTWnhzNFVhTUdRLVV3Ukd2LURfSjBPclA0MG8tUGpLUnowS3l5R2VISXp3SnVZOU1ucXRDQw?oc=5",
-        "description": "",
-        "pubDate": "2025-11-11T02:33:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
