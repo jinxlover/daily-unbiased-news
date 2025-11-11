@@ -1,7 +1,34 @@
 {
-  "lastUpdate": "2025-11-11T14:56:01.117746Z",
+  "lastUpdate": "2025-11-11T15:23:20.100485Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Shadow in the Forest [Free] [Adventure] [Windows]",
+        "link": "https://richhome.itch.io/shadow-in-the-forest",
+        "description": "",
+        "pubDate": "2025-11-11T15:16:00Z",
+        "source": "richhome.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDM3MTc0LmpwZw==/315x250%23c/PIOhor.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Ye Olde Racing Gaeme [Free] [Racing]",
+        "link": "https://radioactive-potato.itch.io/ye-olde-racing-gaeme",
+        "description": "Run in a great race and become knighted",
+        "pubDate": "2025-11-11T15:06:10Z",
+        "source": "radioactive-potato.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDM3MDc3LnBuZw==/315x250%23c/aeL4Yp.png",
+        "bias": 0
+      },
+      {
+        "title": "Memories' O5 [Free] [Puzzle] [Windows] [macOS]",
+        "link": "https://raphaelj.itch.io/memories-o5",
+        "description": "Go to sleep now, slip into a dream, and go back to where it all began.",
+        "pubDate": "2025-11-11T14:51:56Z",
+        "source": "raphaelj.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDM2OTc0LmpwZw==/315x250%23c/0EID%2FQ.jpg",
+        "bias": 0
+      },
       {
         "title": "Colorbox Brown -Abgerny [Free] [Rhythm]",
         "link": "https://samerysio.itch.io/colorbox-brown-abgerny",
@@ -147,15 +174,6 @@
         "bias": 0
       },
       {
-        "title": "Alien Cat 2 (NES) [Free] [Puzzle]",
-        "link": "https://pscdgames.itch.io/alien-cat-2-nes-release",
-        "description": "AlienCat2",
-        "pubDate": "2025-11-11T12:50:45Z",
-        "source": "pscdgames.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDM1NDA2LnBuZw==/315x250%23c/Aul0AU.png",
-        "bias": 0
-      },
-      {
         "title": "Cave Story: Flood - A Sorrowful End [Free]",
         "link": "https://szczurzysko.itch.io/screamingapetheory",
         "description": "Who up Flooding they Doukutsu Monogatari",
@@ -171,24 +189,6 @@
         "pubDate": "2025-11-11T12:46:11Z",
         "source": "henrikio1.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MDM1NDkzLnBuZw==/315x250%23c/8QoxT8.png",
-        "bias": 0
-      },
-      {
-        "title": "Slipknot 2.5 [Free] [Interactive Fiction] [Windows]",
-        "link": "https://weapon2214.itch.io/slipknot-25",
-        "description": "",
-        "pubDate": "2025-11-11T12:33:29Z",
-        "source": "weapon2214.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDM1MjUwLmpwZw==/315x250%23c/V2ZrOj.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Pixel Rush [Free] [Platformer]",
-        "link": "https://tizianoo.itch.io/pixel-rush",
-        "description": "",
-        "pubDate": "2025-11-11T12:29:49Z",
-        "source": "tizianoo.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDM1Mjc2LnBuZw==/315x250%23c/mvtpV9.png",
         "bias": 0
       },
       {
@@ -217,18 +217,63 @@
         "source": "locotegames.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MDMxNzgwLnBuZw==/315x250%23c/678juM.png",
         "bias": 0
-      },
-      {
-        "title": "RogueShift [Free] [Shooter] [Windows]",
-        "link": "https://rodrigolopezm.itch.io/rogueshift",
-        "description": "first person mutant shooter",
-        "pubDate": "2025-11-11T00:07:17Z",
-        "source": "rodrigolopezm.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDM1MTM4LnBuZw==/315x250%23c/mNXQNs.png",
-        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Russian troops advance on Pokrovsk, Ukraine",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/11/russian-troops-advance-on-pokrovsk-ukraine?traffic_source=rss",
+        "description": "Undated video on social media shows Russian troops moving through dense fog in Pokrovsk, Ukraine.",
+        "pubDate": "2025-11-11T15:15:58Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Cryptoqueen who fled China for London mansion jailed over £5bn Bitcoin stash",
+        "link": "https://www.bbc.com/news/articles/cvg4w1g9ezko?at_medium=RSS&at_campaign=rss",
+        "description": "Qian Zhimin bought cryptocurrency using funds stolen from thousands of Chinese pensioners, say police.",
+        "pubDate": "2025-11-11T15:01:08Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81fa/live/d36cbe30-ba29-11f0-aa13-0b0479f6f42a.png",
+        "bias": 0
+      },
+      {
+        "title": "A baby formula recall linked to an infant botulism outbreak is expanding. Here's what to know - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOEZQVXBrYTBYYkRRX1ZCTGljaUhhTnZDS0tSc3JmR3pjUWdqTERwM0JaQXg2cmpkak90LWo5b1FOS3NYOGtzNk51a0g4eWhTVzk5ei1pZ1IzN2swV2dVQjFXQjZva0E5VjZyNUM3RjhrOHhqWXNBbVFpaGNqVnRId2NRLUVYQWd3bmw2NVBxZl9TaUNlY0hIVzNCNmY?oc=5",
+        "description": "",
+        "pubDate": "2025-11-11T14:58:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Germany detains man accused of offering to pay people to kill politicians",
+        "link": "https://www.aljazeera.com/news/2025/11/11/germany-detains-man-accused-of-offering-to-pay-people-to-kill-politicians?traffic_source=rss",
+        "description": "Former German chancellors Angela Merkel and Olaf Scholz are reported to have been on alleged hitlist of supect.",
+        "pubDate": "2025-11-11T14:50:11Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "LIVE: Israel kills three in Gaza as crews work to find thousands of missing",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/11/11/live-israel-kills-three-in-gaza-as-crews-work-to-find-thousands-of-missing?traffic_source=rss",
+        "description": "Gaza's Civil Defence says 35 unidentifiable bodies uncovered in Gaza City as Hamas searches for dead Israeli captives.",
+        "pubDate": "2025-11-11T14:46:12Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Irish presidential inauguration takes place at Dublin Castle",
+        "link": "https://www.bbc.com/news/articles/cnveplv3lzmo?at_medium=RSS&at_campaign=rss",
+        "description": "Catherine Connolly takes over the role from Michael D Higgins, whose 14-year term ended at midnight.",
+        "pubDate": "2025-11-11T14:45:28Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5399/live/6958deb0-bf0c-11f0-b5c8-ada6ff68298b.jpg",
+        "bias": 0
+      },
       {
         "title": "Israel passes first reading of bill proposing death penalty for people it deems terrorists",
         "link": "https://www.bbc.com/news/articles/cpv13rxpgk9o?at_medium=RSS&at_campaign=rss",
@@ -237,6 +282,24 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8840/live/f0889830-bee4-11f0-8456-eff94716b162.jpg",
         "bias": 0
+      },
+      {
+        "title": "MLB, sportsbooks cap bets on individual pitches in response to pitch-rigging scandal - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb1lMU3RQYTFxYmlVLXNENFZSTHg2S0RaQ3lGTWZTeWNLNDd2MzdUcmVBay1FX1BwWHI0X0h5OTdTTUFGX3laMlI1cldvb3QzMFgzTy1vaTl4SFBlNFBWc09PeGdhXzh5aG1HTlFsQVF4d1czdnhydXhkYTVpT2pfVWxPWVJ1YUJRUXNaRXhVLWRHaDYxeEgw?oc=5",
+        "description": "",
+        "pubDate": "2025-11-11T14:34:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Russians agree to quit Serbian oil company as US sanctions bite",
+        "link": "https://www.aljazeera.com/news/2025/11/11/russians-agree-to-quit-serbian-oil-company-as-us-sanctions-bite?traffic_source=rss",
+        "description": "Russia's state-owned company Gazprom Neft to be forced out of Serbia's NIS after imposition of Western sanctions.",
+        "pubDate": "2025-11-11T14:32:29Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Taiwan evacuates thousands ahead of tropical storm Fung-wong which left 25 dead in the Philippines - AP News",
@@ -266,15 +329,6 @@
         "bias": 0
       },
       {
-        "title": "MLB, sportsbooks cap bets on individual pitches in response to pitch-rigging scandal - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb1lMU3RQYTFxYmlVLXNENFZSTHg2S0RaQ3lGTWZTeWNLNDd2MzdUcmVBay1FX1BwWHI0X0h5OTdTTUFGX3laMlI1cldvb3QzMFgzTy1vaTl4SFBlNFBWc09PeGdhXzh5aG1HTlFsQVF4d1czdnhydXhkYTVpT2pfVWxPWVJ1YUJRUXNaRXhVLWRHaDYxeEgw?oc=5",
-        "description": "",
-        "pubDate": "2025-11-11T14:05:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Japan's SoftBank says it has sold its shares in Nvidia for $5.8 billion, turning its focus to OpenAI - AP News",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeHFzVnJqRGJGVzhBSGNNaVVYcmJ2STJ1QjFBQUZoOEhwZ0ppLVBoOEVycGZvemVQX2V0dzExTnNlR0dlX1dVMjlhb1dYNU9BUEFZNnF3VXF6cXp1NzJYUEVETFZpampuM3J6OU8tbVdGU2RHZzZ0RUFlRWd0U0MtczFJQTlMY3BNZTloOGt5QjlqS2JFYkplSFRR?oc=5",
         "description": "",
@@ -290,6 +344,24 @@
         "pubDate": "2025-11-11T13:46:47Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e22/live/ba59cfa0-beed-11f0-8456-eff94716b162.jpg",
+        "bias": 0
+      },
+      {
+        "title": "How a tattoo artist got involved in a Nazi symbol cover-up in the Maine Senate race - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeGxXd0w2WnlCYm04SlJ0SjIwMXB1ak5STEx3UlVRSXlqamc0Nm9XU3hwdjM2UDB1b01JQVI3czFLZ1p5VWdQS3ozaGIzTTliSVZYVFItcUdZMVdUYWt4MmFib1BJcUVSYnZNTmhYanc0TWFTMkpLZndLSTJzTng4ZVlWb3h5cVV6VzdrQk51Ml9kTk0?oc=5",
+        "description": "",
+        "pubDate": "2025-11-11T13:46:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "The Supreme Court is expected to say whether full SNAP food payments can resume - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTlBOMFZwazJFaDNfZF9qVmpyd0VVN2RwSzg2aGhWekI1aVJ4bldVaFQ1N09EZWZMNm1nejh2a2hIRW1qRWRhLW5KQ0ZWeWtsMllxYzRpTVJrWFd6TnMybHhQMVVQSlRPM096Y2puZ2JXMi1Gd3Z6SWZTUXJDZW1HNldualBVRDYxS0VDMU1iVlRrUQ?oc=5",
+        "description": "",
+        "pubDate": "2025-11-11T13:38:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -597,87 +669,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "'No turning back': More and more Ukrainian women join the army to fight Russia",
-        "link": "https://www.npr.org/2025/11/11/nx-s1-5591158/ukraine-russia-war-women-ukrainian-military",
-        "description": "An increasing number of women are joining the Ukrainian military, with thousands serving in front line roles, as Russia's war on Ukraine nears its fourth year — with no peace in sight.",
-        "pubDate": "2025-11-11T10:00:00Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "JNIM siege: What is happening in Mali?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/11/jnim-siege-what-is-happening-in-mali?traffic_source=rss",
-        "description": "Al-Qaeda-linked group JNIM has besieged Mali’s capital, Bamako, cutting off key routes and causing fuel shortages.",
-        "pubDate": "2025-11-11T09:55:43Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Islamabad bomb blast live: Pakistan blames India for deadly attack",
-        "link": "https://www.aljazeera.com/news/liveblog/2025/11/11/islamabad-bomb-blast-live-12-dead-in-pakistan-capital-in-suicide-attack?traffic_source=rss",
-        "description": "Pakistan's PM Sharif says India behind attack in the capital Islamabad that killed at least 12 people today.",
-        "pubDate": "2025-11-11T09:52:54Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Israel extends detention of Florida teen accused of stone-throwing",
-        "link": "https://www.npr.org/2025/11/11/nx-s1-5601693/israel-extends-detention-of-florida-teen-accused-of-stone-throwing",
-        "description": "Israel has extended the detention of a Florida teen accused of throwing stones in the West Bank. He's been held nearly nine months without a trial and faces up to 20 years if convicted.",
-        "pubDate": "2025-11-11T09:45:36Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "What is the meaning of Zohran Kwame Mamdani’s name?",
-        "link": "https://www.aljazeera.com/news/2025/11/11/what-is-the-meaning-of-zohran-kwame-mamdanis-name?traffic_source=rss",
-        "description": "With his name linked to Persian, Arabic and Ghanian, New York's newest mayor reflects the city he will govern.",
-        "pubDate": "2025-11-11T09:43:35Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Trump threatens to sue BBC over edited speech that sparked resignations by news bosses - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTjJTZGZBQWRoWmdicmJSUndMY1BWRjVDOFpFanh2MXQ2OXF4Vks3TmlTbUFfNk8yYmtJV1YydFVXblVVby1HaXVZWTFsNVl5am5TLVdmbUUtSXIzajZ2VXJPdm5hUE5sU3A3OG9MTXlLMVdpSEZ5aXlDdW96Yll2QjMycTFKZ2h0NTk5ZloxblY4YmMxTjJtcQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-11T09:18:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Squid Game star, 81, acquitted of sexual misconduct",
-        "link": "https://www.bbc.com/news/articles/c0qpy1y09qwo?at_medium=RSS&at_campaign=rss",
-        "description": "The South Korean actor allegedly hugged a woman and kissed her on the cheek against her will.",
-        "pubDate": "2025-11-11T09:17:18Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea0e/live/964b3cb0-bed5-11f0-be2d-cdcc797438e5.jpg",
-        "bias": 0
-      },
-      {
-        "title": "World shares are mixed as US Senate votes to end the government shutdown - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWXN0VzdUaGluQTVmXzNGeVo1ZEh6SXlPYnNMVkdLWmQ4ekFuMWppYWwyd1QySWJWVmNFR0ZlaDNRc1NJOEdkLU9tTnlPYng2aV83cFVrRGNISUNDV09BdnJjRnJvRGZXVFBVRWctYzgxam9CeVVCMUlqNDBBY0dPY3VjNENUcFVGN0VOQnlnbk1ITDI3Sngta1ozOA?oc=5",
-        "description": "",
-        "pubDate": "2025-11-11T09:16:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "How many times has Israel violated the Gaza ceasefire? Here are the numbers",
-        "link": "https://www.aljazeera.com/news/2025/11/11/how-many-times-has-israel-violated-the-gaza-ceasefire-here-are-the-numbers?traffic_source=rss",
-        "description": "Since the ceasefire took effect one month ago, Israeli attacks have killed at least 242 Palestinians and injured 622.",
-        "pubDate": "2025-11-11T09:09:25Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
@@ -736,18 +727,18 @@
         "bias": 0
       },
       {
-        "title": "Sen. Fetterman slams Democrats for shutting down government",
-        "link": "https://www.npr.org/2025/11/11/nx-s1-5485337/government-shutdown-john-fetterman-mental-health",
-        "description": "Sen. John Fetterman (D-Pa.) has a reputation for going against his party and he's been doing so by voting to reopen the government. He spoke to NPR Monday ahead of his new book release, \"Unfettered.\"",
+        "title": "When the dust settles on the shutdown deal, Democrats will likely still have the edge",
+        "link": "https://www.npr.org/2025/11/11/nx-s1-5604818/shutdown-deal-democrats-politics-midterm-election",
+        "description": "As the Senate moves forward a deal to end the government shutdown, it's time to assess the winners, the losers and what the political fallout might look like into the future.",
         "pubDate": "2025-11-11T10:00:00Z",
         "source": "npr.org",
         "image": "",
         "bias": -1
       },
       {
-        "title": "When the dust settles on the shutdown deal, Democrats will likely still have the edge",
-        "link": "https://www.npr.org/2025/11/11/nx-s1-5604818/shutdown-deal-democrats-politics-midterm-election",
-        "description": "As the Senate moves forward a deal to end the government shutdown, it's time to assess the winners, the losers and what the political fallout might look like into the future.",
+        "title": "Sen. Fetterman slams Democrats for shutting down government",
+        "link": "https://www.npr.org/2025/11/11/nx-s1-5485337/government-shutdown-john-fetterman-mental-health",
+        "description": "Sen. John Fetterman (D-Pa.) has a reputation for going against his party and he's been doing so by voting to reopen the government. He spoke to NPR Monday ahead of his new book release, \"Unfettered.\"",
         "pubDate": "2025-11-11T10:00:00Z",
         "source": "npr.org",
         "image": "",
@@ -813,6 +804,15 @@
     "Science": [],
     "Business": [
       {
+        "title": "Lloyds' use of staff account data during pay talks 'concerning'",
+        "link": "https://www.bbc.com/news/articles/c4gpy20rgq9o?at_medium=RSS&at_campaign=rss",
+        "description": "The bank looked at anonymised information about spending habits, saving rates and salary increases.",
+        "pubDate": "2025-11-11T14:51:06Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d2a/live/1c5a7f80-bf05-11f0-ae79-17128ffcf575.jpg",
+        "bias": 0
+      },
+      {
         "title": "Vinted users lash out over sizing changes",
         "link": "https://www.bbc.com/news/articles/c87421v7lzro?at_medium=RSS&at_campaign=rss",
         "description": "The popular second-hand shopping app has changed how sizes are categorised.",
@@ -869,10 +869,19 @@
     ],
     "Culture": [
       {
+        "title": "Living In A Box singer Richard Darbyshire dies aged 65",
+        "link": "https://www.bbc.com/news/articles/cvgwd4gxer3o?at_medium=RSS&at_campaign=rss",
+        "description": "The star scored three top 10 hits between 1987 and 1989 before launching a career as a songwriter.",
+        "pubDate": "2025-11-11T15:04:53Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dff/live/a83d59a0-bf05-11f0-ae79-17128ffcf575.jpg",
+        "bias": 0
+      },
+      {
         "title": "Man interviewed by police over Bob Vylan set",
         "link": "https://www.bbc.com/news/articles/clykrn6g2pzo?at_medium=RSS&at_campaign=rss",
         "description": "The interview is part of an investigation into chants about Israel Defence Forces at the festival.",
-        "pubDate": "2025-11-11T14:36:38Z",
+        "pubDate": "2025-11-11T15:01:06Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04db/live/f413c250-bf06-11f0-ae79-17128ffcf575.jpg",
         "bias": 0
@@ -884,15 +893,6 @@
         "pubDate": "2025-11-11T14:14:38Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c06f/live/8b4c2800-befe-11f0-90b3-b57c162d3edc.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Living In A Box singer Richard Darbyshire dies aged 65",
-        "link": "https://www.bbc.com/news/articles/cvgwd4gxer3o?at_medium=RSS&at_campaign=rss",
-        "description": "The star scored three top 10 hits between 1987 and 1989 before launching a career as a songwriter.",
-        "pubDate": "2025-11-11T13:59:23Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dff/live/a83d59a0-bf05-11f0-ae79-17128ffcf575.jpg",
         "bias": 0
       },
       {
