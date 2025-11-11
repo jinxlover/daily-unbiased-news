@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-11-11T13:46:44.953306Z",
+  "lastUpdate": "2025-11-11T13:57:04.883814Z",
   "news": {
     "Gaming": [
+      {
+        "title": "BeatBound [Free] [Rhythm]",
+        "link": "https://delic978.itch.io/beatbound",
+        "description": "",
+        "pubDate": "2025-11-11T13:49:46Z",
+        "source": "delic978.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDM2MTM4LnBuZw==/315x250%23c/MS8sZi.png",
+        "bias": 0
+      },
       {
         "title": "shoe licking simulator [Free] [Simulation]",
         "link": "https://username38.itch.io/shoe-licking-simulator",
@@ -36,6 +45,15 @@
         "pubDate": "2025-11-11T12:53:13Z",
         "source": "spongbob759.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MDM1Mzk0LmpwZWc=/315x250%23c/5D%2BO7O.jpeg",
+        "bias": 0
+      },
+      {
+        "title": "Advance Wepon Lab (Jorge Jurado Marín) [Free] [Platformer]",
+        "link": "https://vixtavh.itch.io/advance-wepon-lab",
+        "description": "Explore different mechanics mixing platforming and shooting in this tiny minigame.",
+        "pubDate": "2025-11-11T12:53:01Z",
+        "source": "vixtavh.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDM1ODA5LnBuZw==/315x250%23c/tHRJOq.png",
         "bias": 0
       },
       {
@@ -221,13 +239,31 @@
     ],
     "World": [
       {
+        "title": "Suicide bombing in Islamabad kills 12, says Pakistan's interior minister",
+        "link": "https://www.bbc.com/news/articles/cp3x6102p3ko?at_medium=RSS&at_campaign=rss",
+        "description": "Mohsin Naqvi says the bomber tried to gain entry to a court complex but was unable to get inside.",
+        "pubDate": "2025-11-11T13:46:47Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e22/live/ba59cfa0-beed-11f0-8456-eff94716b162.jpg",
+        "bias": 0
+      },
+      {
         "title": "'This animal spared my life': Biologist bitten in head by shark hopes to meet it again",
         "link": "https://www.bbc.com/news/articles/cj0ep00g3ydo?at_medium=RSS&at_campaign=rss",
-        "description": "Despite having worked with sharks for 30 years, Mauricio Hoyos never thought he would encounter one so close up.",
+        "description": "Despite having worked with sharks for 30 years, Mexican Mauricio Hoyos never thought he would encounter one so close up.",
         "pubDate": "2025-11-11T13:28:29Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e817/live/298cd6d0-befb-11f0-a970-eb79eb0c7376.jpg",
         "bias": 0
+      },
+      {
+        "title": "Typhoon Fung-wong a “devastating blow” to the Philippines",
+        "link": "https://www.aljazeera.com/video/quotable/2025/11/11/typhoon-fung-wong-a-devastating-blow-to-the-philippines?traffic_source=rss",
+        "description": "\"It's not just infrastructure that's been hit, it's really the people's ability to recover and rebuild their lives.\"",
+        "pubDate": "2025-11-11T13:23:07Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "The GCC and collective security",
@@ -308,15 +344,6 @@
         "pubDate": "2025-11-11T12:13:00Z",
         "source": "news.google.com",
         "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Suicide bombing in Islamabad kills 12, says Pakistan's interior minister",
-        "link": "https://www.bbc.com/news/articles/cp3x6102p3ko?at_medium=RSS&at_campaign=rss",
-        "description": "Mohsin Naqvi says the bomber tried to gain entry to a court complex but was unable to get inside.",
-        "pubDate": "2025-11-11T12:09:53Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e22/live/ba59cfa0-beed-11f0-8456-eff94716b162.jpg",
         "bias": 0
       },
       {
@@ -644,15 +671,6 @@
         "bias": -1
       },
       {
-        "title": "Cambodia denies Thai landmine claims as truce hangs in the balance",
-        "link": "https://www.aljazeera.com/news/2025/11/11/cambodia-denies-thai-landmine-claims-as-truce-hangs-in-the-balance?traffic_source=rss",
-        "description": "Cambodia says the mine that wounded four Thai soldiers was a remnant of past conflicts.",
-        "pubDate": "2025-11-11T07:50:21Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "'There was blood everywhere': Delhi residents recount horror of huge car explosion",
         "link": "https://www.bbc.com/news/articles/clyl7n4q3qyo?at_medium=RSS&at_campaign=rss",
         "description": "Eyewitnesses describe what they saw after the blast near the Red Fort in the Indian capital.",
@@ -676,7 +694,7 @@
         "title": "Court rules asylum seekers can stay at Epping hotel",
         "link": "https://www.bbc.com/news/articles/c8x1wz8jz0yo?at_medium=RSS&at_campaign=rss",
         "description": "A council has lost its legal battle with the government in a landmark High Court ruling.",
-        "pubDate": "2025-11-11T13:40:46Z",
+        "pubDate": "2025-11-11T13:55:28Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5e0/live/319334d0-8401-11f0-a3f8-9b56bf5c3841.jpg",
         "bias": 0
@@ -851,6 +869,15 @@
     ],
     "Culture": [
       {
+        "title": "'We've got to fight for our journalism,' BBC director general tells staff",
+        "link": "https://www.bbc.com/news/articles/ckg10ze8869o?at_medium=RSS&at_campaign=rss",
+        "description": "The US president has threatened to sue the BBC if it does not retract a programme which edited his speech by Friday.",
+        "pubDate": "2025-11-11T13:53:16Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba48/live/d643e7c0-bec3-11f0-8456-eff94716b162.jpg",
+        "bias": 0
+      },
+      {
         "title": "Jilly Cooper died from head injury says coroner",
         "link": "https://www.bbc.com/news/articles/cj6ngrydkj3o?at_medium=RSS&at_campaign=rss",
         "description": "The popular author suffered the injury during a fall at her rural home, an inquest was told.",
@@ -884,15 +911,6 @@
         "pubDate": "2025-11-11T12:56:44Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b74/live/c5704d00-befd-11f0-8669-5560f5c90fbe.jpg",
-        "bias": 0
-      },
-      {
-        "title": "'We've got to fight for our journalism,' BBC director general tells staff",
-        "link": "https://www.bbc.com/news/articles/ckg10ze8869o?at_medium=RSS&at_campaign=rss",
-        "description": "The US president has threatened to sue the BBC if it does not retract a programme which edited his speech by Friday.",
-        "pubDate": "2025-11-11T12:49:51Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba48/live/d643e7c0-bec3-11f0-8456-eff94716b162.jpg",
         "bias": 0
       },
       {
