@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-11-12T11:49:02.233103Z",
+  "lastUpdate": "2025-11-12T11:59:35.912710Z",
   "news": {
     "Gaming": [
+      {
+        "title": "PSX - Damaged House [Free]",
+        "link": "https://kasuga.itch.io/psx-damaged-house",
+        "description": "Damaged House and a bed",
+        "pubDate": "2025-11-12T11:52:26Z",
+        "source": "kasuga.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDQ5NDQ4LmpwZWc=/315x250%23c/iRBL8D.jpeg",
+        "bias": 0
+      },
       {
         "title": "PSX - Blackboard [Free]",
         "link": "https://kasuga.itch.io/psx-blackboard",
@@ -39,16 +48,34 @@
         "bias": 0
       },
       {
+        "title": "XK [Free] [Survival] [Windows]",
+        "link": "https://kaliditzy.itch.io/xk",
+        "description": "An In-Development SCP Game",
+        "pubDate": "2025-11-12T11:31:22Z",
+        "source": "kaliditzy.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDQ5Mzk0LnBuZw==/315x250%23c/lPDrC%2F.png",
+        "bias": 0
+      },
+      {
+        "title": "Intruder [Free] [Other] [Windows]",
+        "link": "https://bonkbonk124.itch.io/intruder",
+        "description": "",
+        "pubDate": "2025-11-12T11:31:00Z",
+        "source": "bonkbonk124.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDQ5MjMxLmpwZw==/315x250%23c/eqJU7I.jpg",
+        "bias": 0
+      },
+      {
         "title": "BimmelWild [Free] [Survival]",
         "link": "https://lizzythelizzard.itch.io/bimmelwild",
-        "description": "",
+        "description": "Don't let them find you!",
         "pubDate": "2025-11-12T11:20:04Z",
         "source": "lizzythelizzard.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MDQ5MTM3LnBuZw==/315x250%23c/HHu%2BrY.png",
         "bias": 0
       },
       {
-        "title": "WARMAN [Free] [Platformer]",
+        "title": "WARMAN [Free] [Platformer] [Windows]",
         "link": "https://javiegamer.itch.io/warman",
         "description": "shoter",
         "pubDate": "2025-11-12T11:09:44Z",
@@ -174,30 +201,12 @@
         "bias": 0
       },
       {
-        "title": "CABM-ED [Free]",
-        "link": "https://reeper114.itch.io/cabm-ed",
-        "description": "AI养成类游戏",
-        "pubDate": "2025-11-12T08:45:34Z",
-        "source": "reeper114.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDQ3OTUwLnBuZw==/315x250%23c/VMJASQ.png",
-        "bias": 0
-      },
-      {
-        "title": "Demon Stick Demo [Free] [Platformer]",
-        "link": "https://aarchijsl.itch.io/demon-stick-demo",
-        "description": "You are a demon trapped in a stick. A challenging game about crossing different levels of hell.",
-        "pubDate": "2025-11-12T08:36:03Z",
-        "source": "aarchijsl.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDQ3OTkxLnBuZw==/315x250%23c/wpf%2FpT.png",
-        "bias": 0
-      },
-      {
-        "title": "MeatWare [Free] [Puzzle] [Windows]",
-        "link": "https://chrisgames.itch.io/meatware",
-        "description": "Egy szórakoztató kis fps puzzle kaland játék ahol egy ember és egy robot közt váltogatva oldtok meg teszteket",
-        "pubDate": "2025-11-12T08:17:08Z",
-        "source": "chrisgames.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDQ3ODAzLnBuZw==/315x250%23c/V71ntE.png",
+        "title": "Heart Of The City [Free] [Adventure]",
+        "link": "https://clockstudio.itch.io/heart-of-the-city",
+        "description": "",
+        "pubDate": "2025-11-12T08:00:10Z",
+        "source": "clockstudio.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDQ4NTU2LnBuZw==/315x250%23c/XsiUWb.png",
         "bias": 0
       },
       {
@@ -239,12 +248,30 @@
         "bias": 0
       },
       {
+        "title": "Forty-two migrants presumed dead after shipwreck near Libya: UN",
+        "link": "https://www.aljazeera.com/news/2025/11/12/forty-two-migrants-presumed-dead-after-shipwreck-near-libya-un?traffic_source=rss",
+        "description": "Accident would add to more than 1,000 migrant deaths in central Mediterranean crossings this year.",
+        "pubDate": "2025-11-12T11:36:34Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Russia's AI robot falls seconds after being unveiled",
         "link": "https://www.bbc.com/news/videos/crre8g5e45jo?at_medium=RSS&at_campaign=rss",
         "description": "Footage shows the moment Russia's first anthropomorphic robot fell just seconds after its debut",
         "pubDate": "2025-11-12T11:33:59Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68b1/live/ecf86750-bfba-11f0-ae46-bd64331f0fd4.png",
+        "bias": 0
+      },
+      {
+        "title": "US House set for crunch vote on ending historic government shutdown",
+        "link": "https://www.bbc.com/news/articles/cr437q69422o?at_medium=RSS&at_campaign=rss",
+        "description": "Republicans sound confident the bill will pass, despite their narrow majority. Democrats vow to oppose it.",
+        "pubDate": "2025-11-12T11:10:39Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae8a/live/de9f4050-bf21-11f0-ae89-e993d0cb9b26.jpg",
         "bias": 0
       },
       {
@@ -660,24 +687,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Indigenous activists storm COP30 climate summit in Brazil, demanding action",
-        "link": "https://www.aljazeera.com/news/2025/11/12/indigenous-activists-storm-cop30-climate-summit-in-brazil-demanding-action?traffic_source=rss",
-        "description": "Protest comes as Brazil's leader Lula says COP30 participants should be 'inspired' by Indigenous peoples.",
-        "pubDate": "2025-11-12T04:16:29Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "UK sentences Chinese scammer after record-breaking Bitcoin seizure",
-        "link": "https://www.aljazeera.com/news/2025/11/12/uk-sentences-chinese-scammer-after-record-breaking-bitcoin-seizure?traffic_source=rss",
-        "description": "Police seized 61,000 Bitcoin from Zhimin Qian, 47, as part of a years-long money laundering investigation.",
-        "pubDate": "2025-11-12T04:14:06Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
@@ -968,6 +977,15 @@
       }
     ],
     "Culture": [
+      {
+        "title": "I'm A Celebrity changes rules for bushtucker trials",
+        "link": "https://www.bbc.com/news/articles/cpwvegjenz5o?at_medium=RSS&at_campaign=rss",
+        "description": "Individual contestants cannot be voted to do every bushtucker trial for numerous days in a row.",
+        "pubDate": "2025-11-12T11:48:27Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d95/live/2c012ef0-bfbb-11f0-addd-4b800ad3873b.jpg",
+        "bias": 0
+      },
       {
         "title": "The first 'Netflix House' is open — with virtual reality, mini-golf and lots of selfies",
         "link": "https://www.npr.org/2025/11/12/nx-s1-5587835/netflix-house-philadelphia",
