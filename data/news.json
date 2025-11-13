@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "2025-11-13T07:35:50.188716Z",
+  "lastUpdate": "2025-11-13T07:46:30.685679Z",
   "news": {
     "Gaming": [
       {
-        "title": "Simon's Realm | Glutenized [BETA] [Free] [Windows] [macOS] [Linux] [Android]",
+        "title": "Simon's Realm | Glutenized [BETA] [Free] [Rhythm] [Windows] [macOS] [Linux] [Android]",
         "link": "https://netmas-2023.itch.io/simons-realm-glutenized-beta",
-        "description": "This is Simon's Realm, but Glutenized.",
+        "description": "",
         "pubDate": "2025-11-13T07:09:44Z",
         "source": "netmas-2023.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MDYzMzIyLnBuZw==/315x250%23c/VLRAwb.png",
@@ -183,15 +183,6 @@
         "bias": 0
       },
       {
-        "title": "Skill Clicker [Free] [Windows]",
-        "link": "https://c4rbs.itch.io/skill-clicker",
-        "description": "",
-        "pubDate": "2025-11-13T04:40:53Z",
-        "source": "c4rbs.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDYyMzM0LnBuZw==/315x250%23c/96LS2e.png",
-        "bias": 0
-      },
-      {
         "title": "3D FPS Tutorial Submission [Free] [Shooter] [Windows] [macOS]",
         "link": "https://pietrasn.itch.io/3d-shooter-tutorial-submission",
         "description": "",
@@ -256,6 +247,24 @@
       }
     ],
     "World": [
+      {
+        "title": "Australia’s first treaty with Aboriginal people signed in state of Victoria",
+        "link": "https://www.aljazeera.com/news/2025/11/13/australias-first-treaty-with-aboriginal-people-signed-in-state-of-victoria?traffic_source=rss",
+        "description": "The treaty, which comes more than 220 years after the state was colonised, creates an assembly and truth-telling body.",
+        "pubDate": "2025-11-13T07:34:34Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Israeli president condemns ‘shocking’ settler attacks in occupied West Bank",
+        "link": "https://www.aljazeera.com/news/2025/11/13/israeli-president-condemns-shocking-settler-attacks-in-occupied-west-bank?traffic_source=rss",
+        "description": "Isaac Herzog says settler attacks are a 'serious' breach of conduct and must end; military chief also condemns violence.",
+        "pubDate": "2025-11-13T07:33:21Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "What we know about new Epstein emails that mention Trump",
         "link": "https://www.bbc.com/news/articles/c3rj0d97ynvo?at_medium=RSS&at_campaign=rss",
@@ -554,6 +563,15 @@
         "bias": -1
       },
       {
+        "title": "Top Ukrainian ministers submit their resignations as the country is rocked by a corruption scandal - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOUtYT2JhdlRKVVFqZ1lrNWx5cm1JRGJ4UURodTAycmE3a1Fqb1ZiMDc3UXhDUjREaFRPek11dURWVE1BZWxGZHg0Vm9JcnQ1Zzh3V1o2a0gtTUFrNVJCSmZNMWFiT0JsOFFMNDEyM1dTQVE0Z1ZCQmFUNm5ycjcyTGszUEtMLW9lb3lXYVY1X2hETDE4eFpqVVM3QVpBQQ?oc=5",
+        "description": "",
+        "pubDate": "2025-11-13T01:28:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Lawsuits challenge land exchange aimed at allowing a road to be built in an Alaska wildlife refuge - AP News",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUDNxZzJ1dUhhd1hzMFRYaWpIQUUzV2FJZEY4bnc3NjR2aVZqQ0d3aFh3MTJlaDJuYndCcmxsOXZsNUltT1N2MDdibGE5eEh6eWJMLVdZUTUwbEJZb1FOSjhCVGtCdGhPaXdLU3NvVzVsMUpKcW5EMUtvbHF2bTJicEw4SjEwU3pua3RaRlRyaW8wbU44Vl9paVJaSQ?oc=5",
         "description": "",
@@ -691,6 +709,18 @@
         "bias": 0
       },
       {
+        "title": "The longest government shutdown in U.S. history comes to a close",
+        "link": "https://www.npr.org/2025/11/12/g-s1-97607/house-vote-shutdown-end",
+        "description": "President Trump signed a bill to fund the government through the end of January, ending the shutdown that has dragged on for six weeks.",
+        "pubDate": "2025-11-13T01:22:34Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      }
+    ],
+    "Tech": [],
+    "Science": [
+      {
         "title": "Russia makes gains in southern Ukraine as it expands front-line attacks - AP News",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOHh1SzFtaXVZTTNlSDVocEZ1UWRWbnBDY0E2RGJRcXhaakd4R1pZWG5CVHNYOTZFckpVRTF5S2pDc3p0OGZGSFFUdVlJVFZ4UFhSQkh4aGx5ZG4xTUNja2N6Tno1Mm9WNmxEUExvWi1nOTVJaERSdTFiM3FuVWRXZ211M2g4aEZNbzRVTFFWQnVCT3NHaWlYNVFuVnNVZw?oc=5",
         "description": "",
@@ -707,35 +737,14 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "The longest government shutdown in U.S. history comes to a close",
-        "link": "https://www.npr.org/2025/11/12/g-s1-97607/house-vote-shutdown-end",
-        "description": "President Trump signed a bill to fund the government through the end of January, ending the shutdown that has dragged on for six weeks.",
-        "pubDate": "2025-11-13T01:22:34Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
       }
     ],
-    "Tech": [
-      {
-        "title": "Top Ukrainian ministers submit their resignations as the country is rocked by a corruption scandal - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOUtYT2JhdlRKVVFqZ1lrNWx5cm1JRGJ4UURodTAycmE3a1Fqb1ZiMDc3UXhDUjREaFRPek11dURWVE1BZWxGZHg0Vm9JcnQ1Zzh3V1o2a0gtTUFrNVJCSmZNMWFiT0JsOFFMNDEyM1dTQVE0Z1ZCQmFUNm5ycjcyTGszUEtMLW9lb3lXYVY1X2hETDE4eFpqVVM3QVpBQQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-13T01:28:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      }
-    ],
-    "Science": [],
     "Business": [
       {
         "title": "UK growth slower than expected in third quarter",
         "link": "https://www.bbc.com/news/articles/cx2y1z4z70jo?at_medium=RSS&at_campaign=rss",
         "description": "The 0.1% growth was pulled down by issues in the manufacturing industry, official figures show.",
-        "pubDate": "2025-11-13T07:21:12Z",
+        "pubDate": "2025-11-13T07:38:03Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56ff/live/99ae5360-be5d-11f0-b26a-d5704ecfdc31.jpg",
         "bias": 0
