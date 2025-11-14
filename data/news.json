@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-14T11:17:47.099476Z",
+  "lastUpdate": "2025-11-14T11:30:59.164680Z",
   "news": {
     "Gaming": [
       {
@@ -45,6 +45,15 @@
         "pubDate": "2025-11-14T10:36:20Z",
         "source": "titou-an.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MDc5MDY4LnBuZw==/315x250%23c/p3OX2%2F.png",
+        "bias": 0
+      },
+      {
+        "title": "Sexy Tank [Free] [Simulation]",
+        "link": "https://alarmmouth.itch.io/sexy-tank",
+        "description": "Lust, Blow, Blast. You are a tank... and it's SEXY.",
+        "pubDate": "2025-11-14T10:35:46Z",
+        "source": "alarmmouth.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDc5NDc3LnBuZw==/315x250%23c/CoH2yf.png",
         "bias": 0
       },
       {
@@ -342,6 +351,15 @@
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRy1JZWI1RGRxVzRxQ21VR0NlcnA4b3VLNXpfcmNFNnJCY2cxQ2d6cklRRVRJY091WXEyREdYd3FENXpaZ0JMWUVHdXhxZ3VWTEJtaHFqdUpJcjg4QnczUUpDUXNvaTZKNXJfZmUtS3d2SkttNWRtNm1kSmtXVkNhbVBsLXZzVmtTUlFnUUhwVlJCWjZDa3J1MExCVQ?oc=5",
         "description": "",
         "pubDate": "2025-11-14T09:11:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "More than 150 Palestinians were held on a plane for around 12 hours in South Africa - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMGtkTHdIWDlqRmVxTG50MFdHbng0aWpWVDJfaTlBNVVFai0xWTJ5OWROSnA2U3c5OWZDbmVtaERaczBlUUxPVW1JU3UySGQ4dlAzdlc1RElsalZWZDNqakJvakQwSm4xUEs1LVBiT29mbGRlcW5PM3ppLTREZm5TdTlPNEk3TEZOTDVOSlhNeE5BVHgyLXdNaENoYlZXOUNFc2hjN0pielAwT1BETEh2UjFpQQ?oc=5",
+        "description": "",
+        "pubDate": "2025-11-14T09:09:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -669,18 +687,36 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Chicago civil rights leader Jesse Jackson hospitalized for rare neurological disorder - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdWd5U0lLakZBTVVDVVhyMHIyd0lTemtCbDVfTzVWT253VzI1eW9WQno4T1FrRXVlVExUVzgtMFJjb0xOSnpuMXFxWGlYYmF3QjI2WHhFdHd0ZktOTUVaQkZ6NUxTZllsTFFpdk51MEpJX0dPWmtNR3d3YU5RSXE4c1hwbFZEWVF2NmpmYjVwQU54Mmkt?oc=5",
-        "description": "",
-        "pubDate": "2025-11-14T02:47:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Doctors harming patients by striking, says health secretary",
+        "link": "https://www.bbc.com/news/articles/cm2lg8pgjymo?at_medium=RSS&at_campaign=rss",
+        "description": "Doctors on strike for 13th time in a long-running pay dispute \"completely irresponsible\", says Wes Streeing.",
+        "pubDate": "2025-11-14T11:29:22Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f79/live/64b31210-c135-11f0-8456-eff94716b162.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Labour to begin talks on admin fees for linking to EU carbon scheme",
+        "link": "https://www.bbc.com/news/articles/cly1eg2v155o?at_medium=RSS&at_campaign=rss",
+        "description": "The negotiations, set to begin next week, could hinge on the scale of UK contributions to EU coffers.",
+        "pubDate": "2025-11-14T11:27:23Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b21f/live/82b2cef0-c0b7-11f0-8a6c-bdcd4bb2f081.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Reeves backs off from plans to raise income tax rates at Budget",
+        "link": "https://www.bbc.com/news/articles/c0mx3nv7zy8o?at_medium=RSS&at_campaign=rss",
+        "description": "The chancellor had been widely expected to increase income tax rates, which would have broken a manifesto promise.",
+        "pubDate": "2025-11-14T11:20:16Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8585/live/8f858890-c146-11f0-86a5-23e8532eb2d7.jpg",
+        "bias": 0
+      },
       {
         "title": "What taxes could rise in the Budget?",
         "link": "https://www.bbc.com/news/articles/cj4w44w42j5o?at_medium=RSS&at_campaign=rss",
@@ -688,15 +724,6 @@
         "pubDate": "2025-11-14T11:09:56Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8376/live/c5070a20-96b3-11ef-99af-372359b57a36.png",
-        "bias": 0
-      },
-      {
-        "title": "Reeves decides against raising income tax rates",
-        "link": "https://www.bbc.com/news/articles/c0mx3nv7zy8o?at_medium=RSS&at_campaign=rss",
-        "description": "The chancellor had been widely expected to increase income tax rates, which would have broken a manifesto promise.",
-        "pubDate": "2025-11-14T11:01:39Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8585/live/8f858890-c146-11f0-86a5-23e8532eb2d7.jpg",
         "bias": 0
       },
       {
@@ -736,15 +763,6 @@
         "bias": -1
       },
       {
-        "title": "Doctors begin five-day walkout in England",
-        "link": "https://www.bbc.com/news/articles/cm2lg8pgjymo?at_medium=RSS&at_campaign=rss",
-        "description": "NHS bosses say they are aiming to keep nearly all services running during the strike.",
-        "pubDate": "2025-11-14T09:50:53Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f79/live/64b31210-c135-11f0-8456-eff94716b162.jpg",
-        "bias": 0
-      },
-      {
         "title": "Comey and James seek case dismissal, arguing prosecutor was illegally appointed",
         "link": "https://www.npr.org/2025/11/14/nx-s1-5608894/comey-james-case-dismissal",
         "description": "Lawyers for former FBI Director James Comey and New York Attorney General Letitia James asked a judge to dismiss their cases, arguing prosecutor Lindsay Halligan was illegally appointed.",
@@ -752,15 +770,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Israel says militants have returned remains of 1 of the last 4 hostages in Gaza - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcFN3UW9jd1lDZm13Rm95bWt6NnFhWTJRWHA4MGNQUndyTUIwbm1iXzZFVTVOc1VDQkt4TG1BSG1uaENHUE10bER6aXN6NFh0TGtsZjZQMGJKdVo1MkZqS09yVlVyYjZKaVBlQy1OQlI0LXVLWnQtdC1ocmtMd1lSckhiRXE5OVcwVEdySTFTNS00Y0J4YWplMk10bDdzU0hrbVNxblBaM00tUQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-14T00:59:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Councils warn of 'total collapse' in special needs system",
