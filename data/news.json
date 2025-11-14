@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-11-14T08:50:31.418668Z",
+  "lastUpdate": "2025-11-14T09:21:12.705057Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Liam's Amazing Maze! [Free] [Adventure]",
+        "link": "https://sasquatch909.itch.io/liams-amazeing-maze",
+        "description": "",
+        "pubDate": "2025-11-14T08:45:26Z",
+        "source": "sasquatch909.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDc4NDM1LmpwZw==/315x250%23c/JKHefm.jpg",
+        "bias": 0
+      },
       {
         "title": "Body Block [Free] [Windows]",
         "link": "https://swzwij.itch.io/body-block",
@@ -45,6 +54,15 @@
         "pubDate": "2025-11-14T07:57:14Z",
         "source": "malxapp.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MDc4MTk1LnBuZw==/315x250%23c/2dFCOp.png",
+        "bias": 0
+      },
+      {
+        "title": "Nomster Café [Free] [Strategy]",
+        "link": "https://yollienarae.itch.io/nomster-cafe",
+        "description": "",
+        "pubDate": "2025-11-14T07:40:13Z",
+        "source": "yollienarae.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDc4MzY0LnBuZw==/315x250%23c/c%2BpcHo.png",
         "bias": 0
       },
       {
@@ -192,33 +210,6 @@
         "bias": 0
       },
       {
-        "title": "ZOMECH [Free] [Strategy]",
-        "link": "https://baylissimo.itch.io/zomech",
-        "description": "Mechs vs Zombies: Simple one finger RTS",
-        "pubDate": "2025-11-14T05:51:42Z",
-        "source": "baylissimo.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDc4MzI1LnBuZw==/315x250%23c/VBMizz.png",
-        "bias": 0
-      },
-      {
-        "title": "Return Rush [Free] [Sports]",
-        "link": "https://sports-media-inc.itch.io/return-rush",
-        "description": "Football endless runner",
-        "pubDate": "2025-11-14T05:11:42Z",
-        "source": "sports-media-inc.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDc2OTcxLnBuZw==/315x250%23c/TRvObN.png",
-        "bias": 0
-      },
-      {
-        "title": "Pong Tech_Demo [Free] [Action] [Windows]",
-        "link": "https://noxarion-studio.itch.io/pong-tech-demo",
-        "description": "",
-        "pubDate": "2025-11-14T05:11:39Z",
-        "source": "noxarion-studio.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MDc3MjIxLnBuZw==/315x250%23c/xphVIZ.png",
-        "bias": 0
-      },
-      {
         "title": "POING [Free] [Sports]",
         "link": "https://pirikit00.itch.io/poing",
         "description": "",
@@ -237,6 +228,15 @@
         "bias": 0
       },
       {
+        "title": "Pandu & Friends [Free]",
+        "link": "https://justsomedudemakinggames.itch.io/pandu-friends",
+        "description": "",
+        "pubDate": "2025-11-14T00:56:26Z",
+        "source": "justsomedudemakinggames.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MDc0OTY2LmpwZw==/315x250%23c/D88vTE.jpg",
+        "bias": 0
+      },
+      {
         "title": "Consumer Man [Free] [Action]",
         "link": "https://dracthor.itch.io/consumer-man",
         "description": "",
@@ -248,12 +248,57 @@
     ],
     "World": [
       {
+        "title": "Swiss hope to slash crippling Trump tariffs after golden charm offensive",
+        "link": "https://www.bbc.com/news/articles/ce8zkrplpdyo?at_medium=RSS&at_campaign=rss",
+        "description": "Swiss ministers have had \"very positive\" talks in Washington, but a private business visit to the Oval Office may have made all the difference.",
+        "pubDate": "2025-11-14T09:16:16Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16d3/live/881351f0-c0b0-11f0-8456-eff94716b162.jpg",
+        "bias": 0
+      },
+      {
+        "title": "BBC apologises to Trump over Panorama edit but refuses to pay compensation",
+        "link": "https://www.bbc.com/news/articles/c874nw4g2zzo?at_medium=RSS&at_campaign=rss",
+        "description": "Lawyers for the US president have threatened to sue the corporation for $1bn (£759m).",
+        "pubDate": "2025-11-14T09:03:44Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49e0/live/b162e9a0-c11c-11f0-8456-eff94716b162.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Russia's massive attack on Kyiv kills at least 4 people, injures dozens of others",
+        "link": "https://www.npr.org/2025/11/14/nx-s1-5608915/russia-attack-kyiv",
+        "description": "At least 430 drones and 18 missiles were used in the overnight attack, according to Ukrainian President Volodymyr Zelenskyy.",
+        "pubDate": "2025-11-14T08:46:29Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Violence in Bangladesh as toppled Hasina’s party protests crackdown trial",
+        "link": "https://www.aljazeera.com/news/2025/11/14/violence-in-bangladesh-as-toppled-hasinas-party-protests-crackdown-trial?traffic_source=rss",
+        "description": "A verdict against the ex-leader, who is accused of crimes against humanity, will be given on Monday.",
+        "pubDate": "2025-11-14T08:42:04Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Four killed in wave of Russian strikes across Kyiv, officials say",
         "link": "https://www.bbc.com/news/articles/cn4jn94gyllo?at_medium=RSS&at_campaign=rss",
         "description": "At least 26 others are reported injured in drone and missile strikes in six areas of the capital.",
         "pubDate": "2025-11-14T08:41:48Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/622d/live/e33074c0-c130-11f0-8456-eff94716b162.jpg",
+        "bias": 0
+      },
+      {
+        "title": "China summons Japan ambassador as war of words over Taiwan drags on",
+        "link": "https://www.bbc.com/news/articles/crklvx2n7rzo?at_medium=RSS&at_campaign=rss",
+        "description": "Japanese PM Sanae Takaichi had suggested Tokyo could take military action if Beijing attacked Taiwan.",
+        "pubDate": "2025-11-14T08:39:44Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/983c/live/4ba39cc0-bee4-11f0-86f6-8f14a1be2b7d.jpg",
         "bias": 0
       },
       {
@@ -264,6 +309,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Watch: Bear runs onto airport tarmac, halting flights",
+        "link": "https://www.bbc.com/news/videos/cx20zn57v3po?at_medium=RSS&at_campaign=rss",
+        "description": "An airport in Japan temporarily suspended flights on Wednesday after a bear wandered onto its grounds.",
+        "pubDate": "2025-11-14T08:23:56Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fad3/live/04679c30-c132-11f0-ae46-bd64331f0fd4.jpg",
+        "bias": 0
       },
       {
         "title": "She wanted to keep her son in his school district. It was more challenging than it seemed - AP News",
@@ -320,6 +374,15 @@
         "bias": -1
       },
       {
+        "title": "Man who grabbed Ariana Grande in Singapore charged in court",
+        "link": "https://www.bbc.com/news/articles/c051q4pnz39o?at_medium=RSS&at_campaign=rss",
+        "description": "Johnson Wen rushed at the actress in Singapore, during the Asia-Pacific premiere of Wicked: For Good.",
+        "pubDate": "2025-11-14T07:14:06Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3140/live/dcf40620-c136-11f0-8717-7b6a6b2fefad.jpg",
+        "bias": 0
+      },
+      {
         "title": "US pushes Security Council to back Gaza plan as Russia offers counter text",
         "link": "https://www.aljazeera.com/news/2025/11/14/us-pushes-security-council-to-back-gaza-plan-as-russia-offers-counter-text?traffic_source=rss",
         "description": "The US mission to the UN warned Palestinians could suffer \"grave consequences\" if the body did not back its plan soon.",
@@ -365,6 +428,15 @@
         "bias": -1
       },
       {
+        "title": "10 years after the Bataclan massacre, Paris is still scarred by that night of terror - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYXUyODdmZncxektRTTBTYmwxQnZqU2J4Qm5NaUVJLUwwZ2hSOWhhdjJWazFSX2VLdzI4WTZ1YmU3UkpfVlhIS0FMOWx6c0VWd2NrUnhrNE81XzA1NmVPc0tKcG9XUHlkRFpjb2NkRjVUMkpOZlRUUElSNEh4ZVY5OVJsdUs3aXRXOXRrWEZCdU41SDF5OFNlRDhlS0pmWXFJWFd3SUxXd25RZw?oc=5",
+        "description": "",
+        "pubDate": "2025-11-14T05:41:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "‘Massive enemy attack’: Russia pounds Ukraine’s Kyiv, killing four",
         "link": "https://www.aljazeera.com/news/2025/11/14/massive-enemy-attack-russia-pounds-ukraines-kyiv-killing-one?traffic_source=rss",
         "description": "President Zelenskyy says dozens also wounded as Moscow launched some 430 drones and 18 missiles.",
@@ -383,10 +455,10 @@
         "bias": 0
       },
       {
-        "title": "Epstein emails reveal enduring ties with influential figures even his after sex crime conviction - AP News",
+        "title": "Epstein emails reveal enduring ties with influential figures even after his sex crime conviction - AP News",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTVROSFZ6R2pZRnUwTEZxeUtEV3ltdnd3SVgwQ0xXc3NmZmZwSWpWQWQ2a3RLWmpfdGlXRFMtN1UyNDdvaXhoVTBQdmg2RjBnWWhqejFHS1h4UUdIaTZiZ1JQNkpDLVJiS2FNRGZaLTExcFBqQjNLUjc5ZzJzRlVtR1dpMGZjVDBZYlZnVldnbFNjT01vSllKRGZ3ak9Ddw?oc=5",
         "description": "",
-        "pubDate": "2025-11-14T05:05:00Z",
+        "pubDate": "2025-11-14T05:10:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -491,6 +563,15 @@
         "bias": -1
       },
       {
+        "title": "Canadian boycott of US travel shows no sign of slowing",
+        "link": "https://www.bbc.com/news/articles/ce9d7pj543eo?at_medium=RSS&at_campaign=rss",
+        "description": "October marked the 10th month of decreased Canadian travel to the US, with many staying away over political and trade tensions.",
+        "pubDate": "2025-11-14T03:16:48Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1319/live/9b839750-c0c8-11f0-a532-d129af550177.jpg",
+        "bias": 0
+      },
+      {
         "title": "US announces ‘Southern Spear’ mission as forces deploy to South America",
         "link": "https://www.aljazeera.com/news/2025/11/14/us-announces-southern-spear-mission-as-forces-deploy-to-south-america?traffic_source=rss",
         "description": "US reportedly carries out 20th attack on a vessel in the Caribbean and Pacific, killing four people with 'no survivors'.",
@@ -542,6 +623,15 @@
         "pubDate": "2025-11-14T02:39:00Z",
         "source": "news.google.com",
         "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Ex-Bangladesh leader tells BBC she's not guilty of crimes against humanity",
+        "link": "https://www.bbc.com/news/articles/c1lq1e1d79lo?at_medium=RSS&at_campaign=rss",
+        "description": "Sheikh Hasina tells the BBC her trial in absentia is destined to deliver a \"pre-ordained guilty verdict\".",
+        "pubDate": "2025-11-14T02:26:08Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd94/live/a40378d0-c06b-11f0-bdb0-99c97c554d8b.jpg",
         "bias": 0
       },
       {
@@ -606,69 +696,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "You can end a shutdown overnight — but you can’t reopen a government that fast - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRmNhOUVVdHF4NGdiUDJNaUQyOGc4cGVFOHV5T1FXZ1dBQ1o4dzJ3YlFSLW51TEpJRGExX3JpZjdnQ05RcGwxdjlxOXVhTjlGeUpEQ0VZemZyZlAyRU4wZU9xbzVoY3FyWDM2cE1XeUpRNC03Z3prd3pxcTZMQTVpZktuZlczMlkxdHNza2tFNDVrNzFyclUzUEVQb3RqQQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-14T01:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Israel says militants have returned remains of 1 of the last 4 hostages in Gaza - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcFN3UW9jd1lDZm13Rm95bWt6NnFhWTJRWHA4MGNQUndyTUIwbm1iXzZFVTVOc1VDQkt4TG1BSG1uaENHUE10bER6aXN6NFh0TGtsZjZQMGJKdVo1MkZqS09yVlVyYjZKaVBlQy1OQlI0LXVLWnQtdC1ocmtMd1lSckhiRXE5OVcwVEdySTFTNS00Y0J4YWplMk10bDdzU0hrbVNxblBaM00tUQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-14T00:59:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "BBC apologizes to Trump over its misleading edit, but says there's no basis for a defamation claim - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUkFFNFZtUGhpenlNdXEySnpuQ29fWmRjUnFrWWNHVk94eDVQU1FPckpFeURwTUJoVjltNGw4R1FmaEV2UERlRE1WV3M3OW5XTnoxZ2FjSjFqckhtZGR6bUtwaG5oQUdDQ1c5c29nZEtxWEROR29HejVJNjBQNDFqUVZTRmd3QVA5STBscGk3bFVDWld6d0M1bHZ3cWIwRzJBRjdN?oc=5",
-        "description": "",
-        "pubDate": "2025-11-14T00:56:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Texas A&M University professors now need approval for some race and gender topics - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV09vLWZaTUJxN0NSNFhTYlhEUnI2NGRibXV2N2NLSy1FM25xRTlobWVBdUFyZVFjWjRpSEFNMWY0SFRHd3hLb3dpRHhXNk4xRXRNZC0xOTUzMUVmNUtFSzY4ck1FY3pZSWxDN29Fd0ZqdkF3cnVkMGVuYkROTGt0XzZyZ3ZxY2xSdEFSdWJKOHhYMzU5TEE?oc=5",
-        "description": "",
-        "pubDate": "2025-11-14T00:34:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Mexico’s Supreme Court rules against magnate’s $2.6B tax debt challenges - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMXlNTWdhY3VEMFJNd05JdldPb1U3TG5VTVJmQnlsUmd5TXFWNzc1ZWtHeUM0Q3dJNUozdlM4UC1ja3A2WXBpN1RQSTFLT19aZk9LUEtjSGJNZlB6ZE1oSHpCYm9SNnQyR09pQ2JBdzBwc1VEOTJEcW5GX0I1ckp4WlNuUXBqTTU1QTl0WnVETzZpd0Jpdjh2VTRGVXZKUQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-14T00:19:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "These Norman Rockwell sketches once hung in the White House. On Friday, they're up for auction - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaXJOUVUwMUNfSUt1NjBHRllDa2daaENfelpjS0VmeC1XVWxnUUQxX0kyRDhKMlNVUUJfa19JNlc1UEpBNTZXYmF2bkhMb1l4eWJpMFc3YlU0cFNVUE1GM19GRXAyZXlTMlJ4Qi1XaHRyQ1R0dE9HYUcyVEYwSEtEOWNON21CalZ0YVJjdGlOalFqT2J0eEdsamZRNDZUQlowVE1JQkdOUQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-14T00:09:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Surveillance video shows Titans cornerback driving car minutes before alleged shooting - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd05oWmZ3Ty1PRW9XS0xSNnJPT1lOM1EteVJydldJVWl6dlZuYmNlN0NDQzFNUllhbGxnUFlhSzVGQ2xXNW9FRGpCeTJGOFFtbGk1dHFPUVRvRWRWbnpDSm9HMTRKOTVlUVkyb1JMTWF1YzRWNkExTTRHSFk1RUNtckU1U3lVSkU1WVRiX28yeENjX0VMZ1Z3Z3QyN1JKUGxwWHozQTIyMA?oc=5",
-        "description": "",
-        "pubDate": "2025-11-14T00:05:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
@@ -676,7 +703,7 @@
         "title": "Reeves expected to drop plans for income tax rate rise",
         "link": "https://www.bbc.com/news/articles/c0mx3nv7zy8o?at_medium=RSS&at_campaign=rss",
         "description": "The chancellor had been widely expected to increase income tax rates, which would have broken a manifesto promise.",
-        "pubDate": "2025-11-14T08:41:16Z",
+        "pubDate": "2025-11-14T09:00:08Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5340/live/46f72eb0-c134-11f0-9d5c-59d381854b44.jpg",
         "bias": 0
@@ -691,10 +718,19 @@
         "bias": -1
       },
       {
-        "title": "10 years after the Bataclan massacre, Paris is still scarred by that night of terror - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYXUyODdmZncxektRTTBTYmwxQnZqU2J4Qm5NaUVJLUwwZ2hSOWhhdjJWazFSX2VLdzI4WTZ1YmU3UkpfVlhIS0FMOWx6c0VWd2NrUnhrNE81XzA1NmVPc0tKcG9XUHlkRFpjb2NkRjVUMkpOZlRUUElSNEh4ZVY5OVJsdUs3aXRXOXRrWEZCdU41SDF5OFNlRDhlS0pmWXFJWFd3SUxXd25RZw?oc=5",
+        "title": "Councils warn of 'total collapse' in special needs system",
+        "link": "https://www.bbc.com/news/articles/c9v127xp2r4o?at_medium=RSS&at_campaign=rss",
+        "description": "The government is facing political pressure as it tries to reform the \"broken\" system of support for children with special educational needs.",
+        "pubDate": "2025-11-14T00:58:16Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e938/live/7dff9ec0-c0c5-11f0-8669-5560f5c90fbe.jpg",
+        "bias": 0
+      },
+      {
+        "title": "ACLU lawsuit alleges appalling conditions at California's largest immigration detention facility - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUtLbzZIZ1FIdXQtZ1lvOGJVck5XWk01YnFXUmdXTEhqSnBfd3RtdmIyNTMtOTdXUDQtZktyWDB2ZmN6ZTFPOVJSaWNXQVB1VTBTcmxCRVp3V2Z2cHEyM00zc0pJVVBtRmNqMzdZb0poZGZnWVRBTDNMTUJPYTM0a3ZoRWFGRk0weFE2eDZfTWt3VEk?oc=5",
         "description": "",
-        "pubDate": "2025-11-14T05:41:00Z",
+        "pubDate": "2025-11-14T00:24:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -723,24 +759,6 @@
       }
     ],
     "Culture": [
-      {
-        "title": "BBC apologises to Trump over Panorama edit but refuses to pay compensation",
-        "link": "https://www.bbc.com/news/articles/c874nw4g2zzo?at_medium=RSS&at_campaign=rss",
-        "description": "Lawyers for the US president have threatened to sue the corporation for $1bn (£759m).",
-        "pubDate": "2025-11-14T08:20:44Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49e0/live/b162e9a0-c11c-11f0-8456-eff94716b162.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Man who grabbed Ariana Grande in Singapore charged in court",
-        "link": "https://www.bbc.com/news/articles/c051q4pnz39o?at_medium=RSS&at_campaign=rss",
-        "description": "Johnson Wen rushed at the actress in Singapore, during the Asia-Pacific premiere of Wicked: For Good.",
-        "pubDate": "2025-11-14T07:14:06Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3140/live/dcf40620-c136-11f0-8717-7b6a6b2fefad.jpg",
-        "bias": 0
-      },
       {
         "title": "'Big surprise' as almshouse artwork valued at £3.5m",
         "link": "https://www.bbc.com/news/articles/cy5qdgr2ezgo?at_medium=RSS&at_campaign=rss",
