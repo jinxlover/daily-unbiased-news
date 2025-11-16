@@ -1,7 +1,34 @@
 {
-  "lastUpdate": "2025-11-16T19:28:47.017602Z",
+  "lastUpdate": "2025-11-16T19:40:20.688816Z",
   "news": {
     "Gaming": [
+      {
+        "title": "BOOMBOX [Free]",
+        "link": "https://dorians.itch.io/boombox",
+        "description": "Game for game jam",
+        "pubDate": "2025-11-16T19:29:54Z",
+        "source": "dorians.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MTE2NjQxLnBuZw==/315x250%23c/RPA%2Bnx.png",
+        "bias": 0
+      },
+      {
+        "title": "Mind Leech [Free] [Platformer] [Windows]",
+        "link": "https://yoinkha.itch.io/mind-leech",
+        "description": "Take Control of your abductors!",
+        "pubDate": "2025-11-16T19:24:05Z",
+        "source": "yoinkha.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MTE2NjQzLmpwZw==/315x250%23c/HVpHCL.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Cave Bash [Free] [Fighting]",
+        "link": "https://akybax.itch.io/cave-bash",
+        "description": "",
+        "pubDate": "2025-11-16T19:19:29Z",
+        "source": "akybax.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MTE2NTk0LnBuZw==/315x250%23c/OthHHp.png",
+        "bias": 0
+      },
       {
         "title": "Possesshoot [Free] [Platformer]",
         "link": "https://telif.itch.io/possesshoot",
@@ -39,6 +66,15 @@
         "bias": 0
       },
       {
+        "title": "Bork Tag [Free] [Action] [Android]",
+        "link": "https://roarfire-games.itch.io/bork-tag",
+        "description": "",
+        "pubDate": "2025-11-16T19:11:02Z",
+        "source": "roarfire-games.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MTE2MjkwLnBuZw==/315x250%23c/m43jEP.png",
+        "bias": 0
+      },
+      {
         "title": "Embrace The Chaos! [Free] [Platformer]",
         "link": "https://codinja2.itch.io/embrace-the-chaos",
         "description": "A chaotic game, so embrace it",
@@ -57,12 +93,12 @@
         "bias": 0
       },
       {
-        "title": "JUMP GAME [Free]",
-        "link": "https://rp-elite.itch.io/jumpgame",
+        "title": "The last space 14 [$1.00] [Action] [Windows]",
+        "link": "https://filippobenigno.itch.io/the-last-space-14",
         "description": "",
-        "pubDate": "2025-11-16T19:06:47Z",
-        "source": "rp-elite.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MTE2Mjk4LmpwZw==/315x250%23c/wJ%2B3oZ.jpg",
+        "pubDate": "2025-11-16T19:07:09Z",
+        "source": "filippobenigno.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MTE2NjA4LmpwZw==/315x250%23c/xYRfsU.jpg",
         "bias": 0
       },
       {
@@ -84,15 +120,6 @@
         "bias": 0
       },
       {
-        "title": "Kote's Raycaster [Free]",
-        "link": "https://koteee.itch.io/kotes-raycaster",
-        "description": "",
-        "pubDate": "2025-11-16T19:04:35Z",
-        "source": "koteee.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MTE2MjU0LnBuZw==/315x250%23c/WSQ5Bu.png",
-        "bias": 0
-      },
-      {
         "title": "IN or OUT [Free] [Puzzle] [Windows]",
         "link": "https://fp-studio.itch.io/in-or-out",
         "description": "In or Out is our entry for the 3-hours Trijam Game Jam!",
@@ -111,30 +138,12 @@
         "bias": 0
       },
       {
-        "title": "BeneathTheSurface [Free] [Adventure] [Windows] [macOS]",
-        "link": "https://cf-mafia-bulgara.itch.io/beneaththesurface",
-        "description": "",
-        "pubDate": "2025-11-16T18:58:06Z",
-        "source": "cf-mafia-bulgara.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MTE2MTU1LnBuZw==/315x250%23c/hPrfg5.png",
-        "bias": 0
-      },
-      {
-        "title": "Slime Takeover [Free] [Action]",
-        "link": "https://wildpurplebear.itch.io/slime-takeover",
-        "description": "",
-        "pubDate": "2025-11-16T18:57:23Z",
-        "source": "wildpurplebear.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MTE2MDE4LnBuZw==/315x250%23c/O%2BoYug.png",
-        "bias": 0
-      },
-      {
-        "title": "BouncerBouncer [Free] [Shooter]",
-        "link": "https://zodiacsauce.itch.io/bouncerbouncer",
-        "description": "Bounce off enemies to make them fight for you, just click and control!",
-        "pubDate": "2025-11-16T18:54:10Z",
-        "source": "zodiacsauce.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MTE2MDkzLnBuZw==/315x250%23c/emJ5vs.png",
+        "title": "To Reassemble A Broken World [Free] [Action]",
+        "link": "https://aniworks.itch.io/to-reassemble-a-broken-world",
+        "description": "TAKE CONTROL of the level, fixing the broken generation!",
+        "pubDate": "2025-11-16T18:53:19Z",
+        "source": "aniworks.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MTE0OTM2LnBuZw==/315x250%23c/bYEp1A.png",
         "bias": 0
       },
       {
@@ -165,30 +174,21 @@
         "bias": 0
       },
       {
-        "title": "Inmortal [Free]",
-        "link": "https://rha.itch.io/inmortal",
+        "title": "Who Controls Me [Free] [Puzzle] [Windows] [macOS] [Linux]",
+        "link": "https://mobinmohammadi10.itch.io/who-controls-me",
+        "description": "A tiny robot controlled by Human",
+        "pubDate": "2025-11-16T18:36:35Z",
+        "source": "mobinmohammadi10.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MTE1OTM4LnBuZw==/315x250%23c/U4PBZ8.png",
+        "bias": 0
+      },
+      {
+        "title": "The Airdrop [Free] [Action] [Windows]",
+        "link": "https://letmel1ve.itch.io/the-airdrop",
         "description": "",
-        "pubDate": "2025-11-16T18:36:44Z",
-        "source": "rha.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MTE2MTEzLnBuZw==/315x250%23c/GhaJp5.png",
-        "bias": 0
-      },
-      {
-        "title": "Boiling [Free] [Puzzle] [Windows]",
-        "link": "https://bigbyjones.itch.io/boiling",
-        "description": "What's this?",
-        "pubDate": "2025-11-16T18:20:35Z",
-        "source": "bigbyjones.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MTE2MTk0LnBuZw==/315x250%23c/hCnpL6.png",
-        "bias": 0
-      },
-      {
-        "title": "99 Pink Balls [Free] [Action] [Windows]",
-        "link": "https://jactymilena.itch.io/99-pink-balls",
-        "description": "Seek a fleeing ball in a bouncy castle maze filled with similar pink balls.",
-        "pubDate": "2025-11-16T18:13:44Z",
-        "source": "jactymilena.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MTE2MjIzLnBuZw==/315x250%23c/B9VEtE.png",
+        "pubDate": "2025-11-16T18:35:00Z",
+        "source": "letmel1ve.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MTE2NzQ2LnBuZw==/315x250%23c/EE3WAk.png",
         "bias": 0
       },
       {
@@ -228,21 +228,12 @@
         "bias": 0
       },
       {
-        "title": "Bomb in the Box [Free] [Puzzle]",
-        "link": "https://shadow24090.itch.io/bomb-in-the-box",
-        "description": "defuse the bomb before you explode",
-        "pubDate": "2025-11-16T17:51:15Z",
-        "source": "shadow24090.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MTE0OTAwLnBuZw==/315x250%23c/HJuHuR.png",
-        "bias": 0
-      },
-      {
-        "title": "Deep [Free] [Platformer]",
-        "link": "https://alexhesoyam69.itch.io/deep",
-        "description": "Deep: Un juego de plataformas narrativo en el cual descubrirás cosas.",
-        "pubDate": "2025-11-16T17:19:59Z",
-        "source": "alexhesoyam69.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MTE0NDczLnBuZw==/315x250%23c/KfiOAO.png",
+        "title": "Black Magic [Free] [Adventure]",
+        "link": "https://dracomanros.itch.io/black-magic",
+        "description": "Scape out of the prision taking control of animals. Free your self of the die sentence.",
+        "pubDate": "2025-11-16T17:44:29Z",
+        "source": "dracomanros.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MTE0NzU3LnBuZw==/315x250%23c/3ZNOtD.png",
         "bias": 0
       },
       {
@@ -255,12 +246,30 @@
         "bias": 0
       },
       {
+        "title": "SheepControl [Free] [Rhythm]",
+        "link": "https://walanpakyuki.itch.io/sheepcontorl",
+        "description": "Control the sheep and bring them back to the pen!",
+        "pubDate": "2025-11-16T16:20:31Z",
+        "source": "walanpakyuki.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MTE0NTMzLnBuZw==/315x250%23c/klSY7Y.png",
+        "bias": 0
+      },
+      {
         "title": "Johan och Gustavs jättecoola DDR-kopia [Free] [Rhythm]",
         "link": "https://sornas.itch.io/johan-och-gustavs-jttecoola-ddr-kopia",
         "description": "",
         "pubDate": "2025-11-16T14:40:00Z",
         "source": "sornas.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MTE2NTAzLnBuZw==/315x250%23c/HjF3Z%2F.png",
+        "bias": 0
+      },
+      {
+        "title": "The  outsider [Free] [Role Playing] [Windows] [macOS]",
+        "link": "https://pieroshi.itch.io/the-outsider",
+        "description": "If I know it would be like this ,I'll never do it again.",
+        "pubDate": "2025-11-16T04:36:37Z",
+        "source": "pieroshi.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MTA1NzY4LnBuZw==/315x250%23c/H0T7q%2B.png",
         "bias": 0
       },
       {
@@ -274,6 +283,24 @@
       }
     ],
     "World": [
+      {
+        "title": "Border Patrol commander touts dozens of North Carolina arrests leaving residents 'overwhelmed' - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU2g2Z3NoZXlhRkFYaFlPVWZ2RjJldG1lS05sN0dMWWVhOXpsZFF6d3dIdEVHOTdza0dURXZfd1MybWZlRVBkTjEwNTNtaEtPNHNpMHBJVnpCSlFVbExSVGFfbTZVQVBUdUFnLXRjeklVaWdsNlRkNGNsLVRMY2puTTl3dzJfdmRrWEZ1VFdMUWVfZVpmcDlSZUxHSXVpZW1Ca2c?oc=5",
+        "description": "",
+        "pubDate": "2025-11-16T19:14:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Packers QB Jordan Love returns against the Giants after exiting with a shoulder injury - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMk5oXy1rTEp0WTFscVMyRkRXaDVxYjZENFRHVDNwVDAzbHphU1c5STNIcHRrM0hzWHViV3J6MDZkY3NWR3JibDdfQnFwN25GeDVzeDNvV1dacVZyQ3NrdzhCQThhZ3FxLUNCQjdjamJxRmFGWnNxU1c3QkxKbmtnZ3NDeFUyR3licGFhM2ZjNA?oc=5",
+        "description": "",
+        "pubDate": "2025-11-16T19:04:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Ecuador votes on return of US military bases to tackle drug violence",
         "link": "https://www.aljazeera.com/news/2025/11/16/ecuador-votes-on-return-of-us-military-bases-to-tackle-drug-violence?traffic_source=rss",
@@ -320,28 +347,10 @@
         "bias": -1
       },
       {
-        "title": "Border Patrol commander touts dozens of North Carolina arrests leaving residents 'overwhelmed' - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU2g2Z3NoZXlhRkFYaFlPVWZ2RjJldG1lS05sN0dMWWVhOXpsZFF6d3dIdEVHOTdza0dURXZfd1MybWZlRVBkTjEwNTNtaEtPNHNpMHBJVnpCSlFVbExSVGFfbTZVQVBUdUFnLXRjeklVaWdsNlRkNGNsLVRMY2puTTl3dzJfdmRrWEZ1VFdMUWVfZVpmcDlSZUxHSXVpZW1Ca2c?oc=5",
-        "description": "",
-        "pubDate": "2025-11-16T18:12:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "‘Now You See Me 3’ races past ‘The Running Man’ at box office - AP News",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTm1ieHJva0JiTW1uQkg3S3FkS1FaV0w2bFJyZDJmQjVOaVI3MG94OUlocEZ3LUJCOTJCYnhsS2xPdnRRazVPaThiMXNhRTB5RDQtSkt1RUU3cDdnNGR4SDY5MmpGMVpfcnJJU3JYb1VQUE1GWWFvdG1ydWFPeHRJTTJ1NWM1Zy12Z3c?oc=5",
         "description": "",
         "pubDate": "2025-11-16T18:10:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Ecuadorian drug gang leader captured in Spain years after faking his death - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLXRFWWdQVl9wamZVQmw0VDhWX256REJ2aVdjOGRySExFSHVvZVFPTkVtRjZKeWt6RW9kSmJSSW1nNWk0dzhJSEtyR3M1d1BjanBpUFpuM3h0NjBFNjN1bEFEWExZRko0TEFfNjRJa0V6SVc5aTRoSUdlaWRQNHpLdTY2Z21HTUs5UnljeEJwZkhfcFNBRkREWVpsMm9CRnc?oc=5",
-        "description": "",
-        "pubDate": "2025-11-16T18:08:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -763,15 +772,6 @@
         "bias": 0
       },
       {
-        "title": "No. 17 Southern California scores final 19 points, keeps CFP hopes alive with 26-21 win over Iowa - AP News",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXbE9oWTJVMTR6bldTSzNESUtWSlF1ZDNGdE01QWNrZTRoX291OUpUcGdnQVRDRzdIejJzTkZKUG9tOTctbVVoYTU3SkgtbGN0MG82OFdDSzJqMTVWd0tDRlFORWE3YzlmY3ZRbXdJdVg5clI3dGdfNHlqVWRKR0U?oc=5",
-        "description": "",
-        "pubDate": "2025-11-16T01:31:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Trump issues two pardons related to Jan. 6 investigation",
         "link": "https://www.npr.org/2025/11/15/nx-s1-5609943/trump-two-pardons-jan-6-investigation",
         "description": "President Donald Trump has issued two pardons related to the investigation into the Jan. 6, 2021 riot, including for a woman convicted of threatening to shoot FBI agents.",
@@ -798,6 +798,15 @@
         "pubDate": "2025-11-16T06:29:28Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd6f/live/44c49f20-bff3-11f0-8456-eff94716b162.jpg",
+        "bias": 0
+      },
+      {
+        "title": "No. 17 Southern California scores final 19 points, keeps CFP hopes alive with 26-21 win over Iowa - AP News",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXbE9oWTJVMTR6bldTSzNESUtWSlF1ZDNGdE01QWNrZTRoX291OUpUcGdnQVRDRzdIejJzTkZKUG9tOTctbVVoYTU3SkgtbGN0MG82OFdDSzJqMTVWd0tDRlFORWE3YzlmY3ZRbXdJdVg5clI3dGdfNHlqVWRKR0U?oc=5",
+        "description": "",
+        "pubDate": "2025-11-16T01:31:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       }
     ],
