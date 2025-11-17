@@ -1,7 +1,34 @@
 {
-  "lastUpdate": "2025-11-17T06:55:18.379424Z",
+  "lastUpdate": "2025-11-17T07:20:12.499183Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Rinus Corp. by Yuri Game Jam 2025 [Free] [Visual Novel] [Windows] [macOS] [Linux]",
+        "link": "https://guntemple.itch.io/rinus-corp-by-yuri-game-jam-2025",
+        "description": "Queer Hearts",
+        "pubDate": "2025-11-17T07:06:07Z",
+        "source": "guntemple.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MTI0NzI5LmpwZw==/315x250%23c/vXRc01.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Scratch 2.0 [Free]",
+        "link": "https://tacosewer.itch.io/scratch-20",
+        "description": "",
+        "pubDate": "2025-11-17T06:55:03Z",
+        "source": "tacosewer.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MTI0NjQzLmpwZw==/315x250%23c/g6lqaY.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Ducks in a Row [Free] [Strategy] [Windows]",
+        "link": "https://etbay.itch.io/ducks-in-a-row",
+        "description": "Collect your ducklings! Watch out for rough terrain!",
+        "pubDate": "2025-11-17T06:45:21Z",
+        "source": "etbay.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MTI0NTExLnBuZw==/315x250%23c/06rP3H.png",
+        "bias": 0
+      },
       {
         "title": "Tic Tac Toe Online [Free] [Windows]",
         "link": "https://mimusangel.itch.io/tic-tac-toe",
@@ -12,7 +39,7 @@
         "bias": 0
       },
       {
-        "title": "Photo-Frenzy [Free]",
+        "title": "Photo-Frenzy [Free] [Windows] [Linux]",
         "link": "https://socksnsandles.itch.io/photo-frenzy",
         "description": "Do you have what it takes to blast through every level in this rapid, unforgiving game?",
         "pubDate": "2025-11-17T06:30:09Z",
@@ -192,42 +219,6 @@
         "bias": 0
       },
       {
-        "title": "JUMP GAME [Free]",
-        "link": "https://rp-elite.itch.io/jumpgame",
-        "description": "",
-        "pubDate": "2025-11-17T04:08:20Z",
-        "source": "rp-elite.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MTIzNDY0LmpwZw==/315x250%23c/1Bkkbd.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Job call at 3am Backrooms [Free] [Adventure] [Windows]",
-        "link": "https://notexotic33.itch.io/job-call-at-3am-backrooms",
-        "description": "A Short horror project i have been working for about 1-2 months",
-        "pubDate": "2025-11-17T04:08:02Z",
-        "source": "notexotic33.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MTIzNDk2LnBuZw==/315x250%23c/F%2BbNoo.png",
-        "bias": 0
-      },
-      {
-        "title": "whatInTheWorld [Free] [Platformer]",
-        "link": "https://cristianso.itch.io/whatintheworld",
-        "description": "Roguelike 2.5D platform",
-        "pubDate": "2025-11-17T03:54:53Z",
-        "source": "cristianso.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MTIzMzQ0LmpwZw==/315x250%23c/ffhoD1.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Deconstructive Memory [Free] [Simulation]",
-        "link": "https://zdesign.itch.io/deconstructive-memory",
-        "description": "Struggle to remember",
-        "pubDate": "2025-11-17T03:50:26Z",
-        "source": "zdesign.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MTIzNDQ5LnBuZw==/315x250%23c/s28SA0.png",
-        "bias": 0
-      },
-      {
         "title": "Leaf & Lung (Relaxation Simulator) [Free] [Other]",
         "link": "https://voltzsupreme.itch.io/leaf-and-lung-a-relaxation-sim",
         "description": "Hold your calm, breathe with purpose, and keep the leaves away.",
@@ -239,10 +230,10 @@
     ],
     "World": [
       {
-        "title": "Chile's presidential race heads to a polarizing runoff after Sunday vote",
-        "link": "https://www.npr.org/2025/11/17/g-s1-98075/chiles-presidential-race-runoff",
-        "description": "A closely fought first-round vote on Sunday has set up a showdown between a member of the Communist Party and an ultraconservative veteran politician, sharply polarizing the country.",
-        "pubDate": "2025-11-17T06:12:07Z",
+        "title": "A spat over Taiwan is threatening China-Japan ties",
+        "link": "https://www.npr.org/2025/11/17/g-s1-98081/spat-over-taiwan-china-japan",
+        "description": "Less than a month into her term, Japan's conservative leader has stirred tensions with China by suggesting a Chinese move against Taiwan could prompt a Japanese military response.",
+        "pubDate": "2025-11-17T07:07:14Z",
         "source": "npr.org",
         "image": "",
         "bias": -1
@@ -250,11 +241,20 @@
       {
         "title": "Trump calls on House Republicans to vote to release Epstein files",
         "link": "https://www.bbc.com/news/articles/cvgv653v1vjo?at_medium=RSS&at_campaign=rss",
-        "description": "\"We have nothing to hide,\" Trump writes on Truth Social, after previously fighting a proposal to make more of the Epstein files public.",
-        "pubDate": "2025-11-17T06:04:35Z",
+        "description": "\"We have nothing to hide,\" the US president writes after previously resisting publishing the documents.",
+        "pubDate": "2025-11-17T07:03:38Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68e1/live/d4df66a0-c361-11f0-8669-5560f5c90fbe.jpg",
         "bias": 0
+      },
+      {
+        "title": "Chile's presidential race heads to a polarizing runoff after Sunday vote",
+        "link": "https://www.npr.org/2025/11/17/g-s1-98075/chiles-presidential-race-runoff",
+        "description": "A closely fought first-round vote on Sunday has set up a showdown between a member of the Communist Party and an ultraconservative veteran politician, sharply polarizing the country.",
+        "pubDate": "2025-11-17T06:12:07Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "LIVE: Russian attack kills 3 in Kharkiv; Ukraine’s Zelenskyy to meet Macron",
@@ -293,7 +293,7 @@
         "bias": 0
       },
       {
-        "title": "Bangladesh live: Court verdict against toppled ex-PM Sheikh Hasina expected",
+        "title": "Bangladesh live: Tribunal reads verdict against deposed ex-PM Sheikh Hasina",
         "link": "https://www.aljazeera.com/news/liveblog/2025/11/17/bangladesh-live-court-verdict-against-toppled-ex-pm-sheikh-hasina-expected?traffic_source=rss",
         "description": "Hasina is being tried in absentia for crimes against humanity for a violent crackdown on student protests last year.",
         "pubDate": "2025-11-17T04:39:06Z",
@@ -556,15 +556,6 @@
     ],
     "Politics": [
       {
-        "title": "Off-duty pilot who tried to cut a flight’s engines midair to be sentenced in federal case - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLWtqT0hMNzhaMFdfRXFjNmxqVXBoUElqd0hCSVdlY0xNSEM3dW5IeV9ZVmhMYmVrSHRRLWhjd3gwbF9OUFpTdG5zeEZYeUduNzlrUEpGdkJndFhwQmVZMzJ0RUNzRHpWTXZkZTA3dy12dGF6Q191VzVENkJLXzdyZWhET1dIYmFmRmZkcnlpbVgyYW5WaHM0dzZ0QkQyX21ZSmhOYW9oX1ExbjQ5ZHpj?oc=5",
-        "description": "",
-        "pubDate": "2025-11-17T04:54:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "In a shift, Trump says House Republicans should vote to release Epstein files",
         "link": "https://www.npr.org/2025/11/16/nx-s1-5610552/trump-house-republicans-epstein-files",
         "description": "Members of the House, including some Republicans, have forced a vote as early as Tuesday to release unclassified files held by the government.",
@@ -579,7 +570,7 @@
         "description": "Plans to end multiple appeals against removal and speed up deportations are expected to be unveiled.",
         "pubDate": "2025-11-17T03:25:05Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab61/live/077b5d90-c32f-11f0-8456-eff94716b162.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdcf/live/51572e20-c385-11f0-ae46-bd64331f0fd4.jpg",
         "bias": 0
       },
       {
@@ -685,7 +676,7 @@
         "description": "The family of the Birds of a Feather actress say \"she's still funny, she's talking, she's happy\".",
         "pubDate": "2025-11-17T05:47:24Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0825/live/847ff3f0-c15e-11f0-9c9a-1124134b6598.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5b6/live/8bb51d40-c383-11f0-8456-eff94716b162.jpg",
         "bias": 0
       }
     ]
