@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-11-17T09:46:15.963977Z",
+  "lastUpdate": "2025-11-17T09:56:53.879051Z",
   "news": {
     "Gaming": [
+      {
+        "title": "TraGalicia [Free]",
+        "link": "https://s3rg12.itch.io/tragalicia",
+        "description": "Apuesta tu dinero en una tragaperras con elementos de Galicia. Gana mucho o queda en bancarrota, depende de tu suerte.",
+        "pubDate": "2025-11-17T09:33:39Z",
+        "source": "s3rg12.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MTI1OTMzLnBuZw==/315x250%23c/DLbGb1.png",
+        "bias": 0
+      },
       {
         "title": "La Gran Aventura de Sköll y Hati [Free] [Educational]",
         "link": "https://llaquer.itch.io/la-gran-aventura-de-skll-y-hati",
@@ -32,7 +41,7 @@
       {
         "title": "Project Teaser [Free] [Puzzle] [Windows]",
         "link": "https://rickie7an.itch.io/project-teaser",
-        "description": "",
+        "description": "pt",
         "pubDate": "2025-11-17T09:06:26Z",
         "source": "rickie7an.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MTI1NzkxLnBuZw==/315x250%23c/HWv0kz.png",
@@ -156,15 +165,6 @@
         "bias": 0
       },
       {
-        "title": "Rinus Corp. by Trijam 346 [Free] [Visual Novel] [Windows] [macOS] [Linux]",
-        "link": "https://guntemple.itch.io/curious-secrets",
-        "description": "Curious Secrets",
-        "pubDate": "2025-11-17T07:54:12Z",
-        "source": "guntemple.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MTI1MDQ0LmpwZw==/315x250%23c/vjRZPN.jpg",
-        "bias": 0
-      },
-      {
         "title": "Trick or Treat [Free] [Interactive Fiction]",
         "link": "https://baddreamgames.itch.io/trick-or-treat",
         "description": "A man alone on Halloween night. A knock on the door.",
@@ -212,12 +212,30 @@
     ],
     "World": [
       {
+        "title": "Communist and far-right candidates head to Chile presidential run-off",
+        "link": "https://www.bbc.com/news/articles/c0jd0v8dvpwo?at_medium=RSS&at_campaign=rss",
+        "description": "The Communist Party's Jeanette Jara will face far-right candidate José Antonio Kast in the second round of voting in December.",
+        "pubDate": "2025-11-17T09:52:51Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1503/live/7b04d350-c34c-11f0-baaf-777ac0fe8007.jpg",
+        "bias": 0
+      },
+      {
         "title": "Man who grabbed Ariana Grande at premiere jailed in Singapore",
         "link": "https://www.bbc.com/news/articles/c2dr6y0w3rjo?at_medium=RSS&at_campaign=rss",
         "description": "\"Serial intruder\" Johnson Wen was given nine days in jail for being a public nuisance.",
         "pubDate": "2025-11-17T09:17:22Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83c5/live/99d9c930-c38c-11f0-b361-a5e2400a8ebf.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Bangladesh tribunal sentences ousted leader Sheikh Hasina to death for crimes against humanity - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTDh2TjdGVm1aenBxQkRyTGRXdVdQTUhsMXJmZVhJcklDTlhVWS1iby03NHk2Zi1VN1AzUGNWZWlPQjVBNUQ1N2FfSDkwQXA2MVpObGMwbDFaU0lrRl91MGRlekJ1NkFTdWdGbVlWWVRCZEFSeFVOci01OHIzcWZ2T3p4NkVJUzY0bGFPNmJkWTZ3WlhGdDJSXzc2NDJlWDhHd0E?oc=5",
+        "description": "",
+        "pubDate": "2025-11-17T09:11:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -284,6 +302,15 @@
         "bias": 0
       },
       {
+        "title": "Timbuktu’s famed manuscripts escaped al-Qaida but the threat remains - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUkptaVlSY1RmX3VIajdrdVhKOWdzQVdpaW91cUd6YVFrbTlYdmY3dXppX2Vmd19MWFdYblhId1Zhd0I0TjJGNnIyaVpYNkdSZFU2V3VQdVBLU19PcDZVb2k5UUZieWkzZTY4YmZuY2l6aXpvWXlzem9PTEsySWpCdy1fZlN4UzBkeG5aeXo1YlRuVlg3WU1nWWdwZUU4NTB4Si12MnFsM2tUUVpPOHc?oc=5",
+        "description": "",
+        "pubDate": "2025-11-17T07:42:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Trump backs full release of Epstein files in sharp reversal",
         "link": "https://www.aljazeera.com/news/2025/11/17/trump-backs-full-release-of-epstein-files-in-sharp-reversal?traffic_source=rss",
         "description": "US president backs bipartisan push to release documents amid tensions within his Republican base.",
@@ -333,15 +360,6 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZDFfd1ptaERyUmtubUd5RE9ndHg2SmFnOUZFRFlsTy1QT0FKUW96di1udXRUWFNJb2dFbDMzNDUxb0ppMTBGdXp4M0dHZENHWnBEZXF0VWxNZDU1WXNLVVFSMTREc1pndkZHbS1VNTVOem5iNG5ib3BOWkVBSlUwZTl2VlgwT25rU01DdzJYMnJZM3Y0Sk5F?oc=5",
         "description": "",
         "pubDate": "2025-11-17T05:27:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Bangladesh beefs up security ahead of verdict against ousted PM Sheikh Hasina - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTDh2TjdGVm1aenBxQkRyTGRXdVdQTUhsMXJmZVhJcklDTlhVWS1iby03NHk2Zi1VN1AzUGNWZWlPQjVBNUQ1N2FfSDkwQXA2MVpObGMwbDFaU0lrRl91MGRlekJ1NkFTdWdGbVlWWVRCZEFSeFVOci01OHIzcWZ2T3p4NkVJUzY0bGFPNmJkWTZ3WlhGdDJSXzc2NDJlWDhHd0E?oc=5",
-        "description": "",
-        "pubDate": "2025-11-17T05:19:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -563,15 +581,6 @@
         "bias": 0
       },
       {
-        "title": "Communist and far-right candidates head to Chile presidential run-off",
-        "link": "https://www.bbc.com/news/articles/c0jd0v8dvpwo?at_medium=RSS&at_campaign=rss",
-        "description": "The Communist Party's Jeanette Jara will face far-right candidate José Antonio Kast in the second round of voting in December.",
-        "pubDate": "2025-11-17T00:58:14Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1503/live/7b04d350-c34c-11f0-baaf-777ac0fe8007.jpg",
-        "bias": 0
-      },
-      {
         "title": "Dozens killed in DR Congo after bridge collapses at copper, cobalt mine",
         "link": "https://www.aljazeera.com/news/2025/11/17/dozens-killed-in-dr-congo-after-bridge-collapses-at-copper-cobalt-mine?traffic_source=rss",
         "description": "Deaths came after miners rushed a makeshift bridge at the Kalando mine in southeastern Lualaba province, official says.",
@@ -720,7 +729,26 @@
         "bias": 0
       }
     ],
-    "Science": [],
+    "Science": [
+      {
+        "title": "Congress holds the key to turning the tide on Ohio River Basin pollution",
+        "link": "https://www.npr.org/2025/11/17/nx-s1-5601750/congress-holds-the-key-to-turning-the-tide-on-ohio-river-basin-pollution",
+        "description": "The vast Ohio River Basin is poised for a multi-year ecological restoration after years of industrial pollution, but only if Congress decides to fund it.",
+        "pubDate": "2025-11-17T09:53:41Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Deal restores Cornell's federal grants, reviving research on infant artificial heart",
+        "link": "https://www.npr.org/2025/11/17/nx-s1-5607097/deal-restores-cornells-federal-grants-reviving-research-on-infant-artificial-heart",
+        "description": "After a deal with the White House, researchers at Cornell will receive their federal grants. For one scientist, that means resuming work on an implantable artificial heart for babies and toddlers.",
+        "pubDate": "2025-11-17T09:53:30Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      }
+    ],
     "Business": [
       {
         "title": "'We set up a breakfast club for parents at our nursery'",
