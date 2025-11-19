@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-19T11:20:02.800065Z",
+  "lastUpdate": "2025-11-19T11:33:00.732027Z",
   "news": {
     "Gaming": [
       {
@@ -36,6 +36,15 @@
         "pubDate": "2025-11-19T10:11:03Z",
         "source": "crh19ds284.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MTUyODY4LnBuZw==/315x250%23c/Ab76em.png",
+        "bias": 0
+      },
+      {
+        "title": "The Herald ´ s Fall [Free] [Platformer] [Windows]",
+        "link": "https://renegade-game-developer.itch.io/the-heralds-fall",
+        "description": "Explore a shipwreck from a failed Špongia 2024. Shoot droids, unlock new technology, discover the ships fate,ESCAPE!!!",
+        "pubDate": "2025-11-19T10:03:36Z",
+        "source": "renegade-game-developer.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MTUyODk3LnBuZw==/315x250%23c/b9ZNx9.png",
         "bias": 0
       },
       {
@@ -183,15 +192,6 @@
         "bias": 0
       },
       {
-        "title": "FLY [Free] [Action] [Windows]",
-        "link": "https://lucaschann.itch.io/fly",
-        "description": "A chill flying space sim.",
-        "pubDate": "2025-11-19T07:15:03Z",
-        "source": "lucaschann.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MTUxODI4LnBuZw==/315x250%23c/Gra7P5.png",
-        "bias": 0
-      },
-      {
         "title": "Vincenzosauro [Free] [Platformer]",
         "link": "https://john-doom.itch.io/vincenzosauro",
         "description": "",
@@ -219,6 +219,15 @@
         "bias": 0
       },
       {
+        "title": "Bliss OS [Free] [Educational] [Windows]",
+        "link": "https://nanre1027.itch.io/bliss-os",
+        "description": "This is a game that me and my friends did in a Game Jam of our University.",
+        "pubDate": "2025-11-19T00:53:19Z",
+        "source": "nanre1027.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MTQ4OTk4LnBuZw==/315x250%23c/NS%2B%2BtQ.png",
+        "bias": 0
+      },
+      {
         "title": "The Fountainkeeper's Oath [Free] [Puzzle] [Windows] [macOS]",
         "link": "https://true-fire.itch.io/the-fountain",
         "description": "A short puzzle story game.",
@@ -229,6 +238,24 @@
       }
     ],
     "World": [
+      {
+        "title": "At least 20 killed in one of Russia's deadliest strikes on western Ukraine",
+        "link": "https://www.bbc.com/news/articles/cy0yere4k0zo?at_medium=RSS&at_campaign=rss",
+        "description": "Among the victims were two children in the attack on the western city of Ternopil.",
+        "pubDate": "2025-11-19T11:25:12Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a160/live/deab3670-c530-11f0-bf7b-db7c049674ab.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Student escapes as authorities search for 24 other girls abducted in Nigeria",
+        "link": "https://www.npr.org/2025/11/19/g-s1-98369/student-escapes-24-girls-abducted-nigeria",
+        "description": "A schoolgirl who was abducted with 24 others from a dormitory in northwestern Nigeria has escaped and is safe, as hunters joined security forces in the search for the missing students.",
+        "pubDate": "2025-11-19T11:23:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Nicki Minaj supports contested Trump claim Christians being persecuted in Nigeria",
         "link": "https://www.bbc.com/news/articles/cd7r1y30ljqo?at_medium=RSS&at_campaign=rss",
@@ -246,15 +273,6 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2987/live/ab2c2360-c51f-11f0-9129-896fa1393664.jpg",
         "bias": 0
-      },
-      {
-        "title": "Poland to close last Russian consulate over ‘unprecedented act of sabotage’",
-        "link": "https://www.aljazeera.com/news/2025/11/19/poland-to-close-last-russian-consulate-over-unprecedented-act-of-sabotage?traffic_source=rss",
-        "description": "Moscow accuses Poland of Russophobia, pledges to respond by reducing Polish diplomatic and consular presence in Russia.",
-        "pubDate": "2025-11-19T11:05:34Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       },
       {
         "title": "Owl partially covered in concrete is cleaned up and recovering after rescue in Utah - AP News",
@@ -293,15 +311,6 @@
         "bias": -1
       },
       {
-        "title": "Russian attack hits flats in one of deadliest strikes on western Ukraine",
-        "link": "https://www.bbc.com/news/articles/cy0yere4k0zo?at_medium=RSS&at_campaign=rss",
-        "description": "At least 16 people have been killed and dozens more wounded in the attack on the western region of Ternopil.",
-        "pubDate": "2025-11-19T10:34:35Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a160/live/deab3670-c530-11f0-bf7b-db7c049674ab.jpg",
-        "bias": 0
-      },
-      {
         "title": "FlyDubai orders 75 Boeing 737 MAX aircraft in deal worth $13 billion as Emirates buys Airbus A350s - AP News",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdS1iaXV0dkJfejdkMjA2cE11RzlULXlKSnNVMVZhYTQxRkdDeWo3TUNQZjlrQ2ExdzVjY2RIQXFRd1I0S1JWVnJNUFgxTkVvR256LUhRRHZXLVJ2WXRBbjZZejVNT2dyUmFIel9hSmtYVmRNZU1jd19oek56TFB5Y0dvNGEyem1PWmE4N2R5RlhmblpoV0Z4N3o3c3A?oc=5",
         "description": "",
@@ -317,6 +326,15 @@
         "pubDate": "2025-11-19T10:20:41Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2975/live/2ef97cd0-c49c-11f0-9d93-43c068b4c1e4.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Roger Federer elected to International Tennis Hall of Fame in 1st year of eligibility - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa1EwZ3JyQWRTOUNKb2lkQUlLdlAyZklwUlh2eVFJU0RtRDJtdUZxVHRqWkZFQmtjQW1QblFTVzlXb2p2MHVQR3N3QVZ2dzBQdU5uTFptUnpZZGh5RWEwekYycG9xVjN0VDRSaEJrM1NIamdjX0ZXdUZUdDdlMUZZbGpab2VEMWVmc3VhLUUydW10ZjZm?oc=5",
+        "description": "",
+        "pubDate": "2025-11-19T10:16:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -392,10 +410,10 @@
         "bias": -1
       },
       {
-        "title": "Poland to shut Russia’s last consulate in the country after railway sabotage - AP News",
+        "title": "Poland to shut last Russian consulate after railway sabotage - AP News",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaEU0cmpfeEtIcHpfM1JXSHNKOFZTem1mVEN6VzJTaVdxSGdPa3NqQXAwQUNPMGJEcG8xMW1CUk10Mi10STROYVpHck5ERkZpbHZVNDg3QzFIcEVnZHZrdkZfTUpTZk1KNHBLZGlXcTNXNlphd2p1alBoa1NueE5LN1UwZnV6VUxJakZfVWgyTkVqbWxSS0I3cWtqTldiRmZqMkdrWThBLW1Gci1kbzYxODNKRThiUQ?oc=5",
         "description": "",
-        "pubDate": "2025-11-19T09:47:00Z",
+        "pubDate": "2025-11-19T09:38:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -545,15 +563,6 @@
         "bias": 0
       },
       {
-        "title": "LeBron James makes historic season debut, Luka Doncic scores 37 in Lakers' 140-126 win over Jazz - AP News",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORGxFQVdack9naUNKNFUtMDVmMU52UHdnZzdWYlNWbm4xUUZucnVyMlhEY3BvTHFxWV81Tmx5ZGtmT2o0dWxER0t5ZlM4TDJ1bVBOZnFKZmEtTEZCYUFzNVJFX1BnTVp6TzlxemFNZEY1VGQ4NXY4S0dVUlpEbWJxemJVRQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-19T06:28:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Curaçao makes history as smallest nation by population to qualify for a World Cup - AP News",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX29QaUNFdVp2QVV5ekplLUJSMlJoVmZra3oxSXU5eVl3bWpmRWk5aVpMYXlmOVZmTC1NRkZnSU8xMmp2Um5CZG5EVjlyUEZjUEVlekhOWm5zUWtKcTY3cE9IQy1oR2JMRXBPalQ2UXJtd01Pc0JxZlU4ZG5rR01nOFdvNFBwMUU5R3ZEVm9fN2xtNmFCeXRmZ2VxWQ?oc=5",
         "description": "",
@@ -603,6 +612,15 @@
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ2hKN2FTay0yVjFfU2xvekt1aXREZFZhRHFBSVRzdHRDRlFNWVZuZUJha1dFbzA2UXczVWxfZmVqVXhEMkZMSGdIeHVjdWJaZnpsc3k4cEowTk9lSkt4WDI4clRoZEc3SmNqcDNpTFdQMnZ3NDRVN25RSm1mUU10bUlod3czaGpNY19vUHpoODVMWHFsTjhmX2liMlNlSXJOQllmaUc3aUxWbE03MnNMUEVMRkdvbU5XUkNySA?oc=5",
         "description": "",
         "pubDate": "2025-11-19T05:11:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Comey's lawyers look to persuade judge that prosecution urged by Trump is vindictive, must be tossed - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdXdiR2VYSG01Uzl6QVcxeHJsenVFLXdPNHNSUi0tUDUyYUJYeVBmUmZDZXAxYXdyajg1eDY3QnpqV3c4cWNzNjVIYUlhRzZfQWZxMlNEVHl2R0Zabm1qeGl2NWU0SG5WQ0lxYlZaVkpWSVdmZGJ6Z3N0R2hmblhEQzByT2dpdDhacXpwNmlxX1UxXzRiTXZlZnBHS05kb0pnbnBoTlNB?oc=5",
+        "description": "",
+        "pubDate": "2025-11-19T05:10:22Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -669,15 +687,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Single faulty wire led cargo ship to crash into Baltimore bridge: Report",
-        "link": "https://www.aljazeera.com/news/2025/11/19/single-faulty-wire-led-cargo-ship-to-crash-into-baltimore-bridge-report?traffic_source=rss",
-        "description": "Investigators say faulty wiring and two blackouts led the ship's pilots to lose control of propulsion and steering.",
-        "pubDate": "2025-11-19T03:52:25Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
@@ -685,7 +694,7 @@
         "title": "Russian spy ship on edge of UK waters, defence secretary says",
         "link": "https://www.bbc.com/news/articles/cx24028k7edo?at_medium=RSS&at_campaign=rss",
         "description": "John Healey says the Russian ship is in waters north of Scotland and is being monitored by UK forces.",
-        "pubDate": "2025-11-19T11:05:00Z",
+        "pubDate": "2025-11-19T11:30:22Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2fe/live/24f817b0-c536-11f0-bf7b-db7c049674ab.jpg",
         "bias": 0
@@ -725,6 +734,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "LeBron James makes historic season debut, Luka Doncic scores 37 in Lakers' 140-126 win over Jazz - AP News",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORGxFQVdack9naUNKNFUtMDVmMU52UHdnZzdWYlNWbm4xUUZucnVyMlhEY3BvTHFxWV81Tmx5ZGtmT2o0dWxER0t5ZlM4TDJ1bVBOZnFKZmEtTEZCYUFzNVJFX1BnTVp6TzlxemFNZEY1VGQ4NXY4S0dVUlpEbWJxemJVRQ?oc=5",
+        "description": "",
+        "pubDate": "2025-11-19T06:28:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "For conservative media, New York City Mayor-elect Zohran Mamdani quickly becomes attack target - AP News",
@@ -814,6 +832,15 @@
     ],
     "Business": [
       {
+        "title": "Three bits of good news about inflation drop",
+        "link": "https://www.bbc.com/news/videos/cp97d9g29e8o?at_medium=RSS&at_campaign=rss",
+        "description": "The UK inflation rate fell to 3.6% in the year to October, but food prices rose again following a dip in September. The BBC's deputy economics editor Dharshini David explains.",
+        "pubDate": "2025-11-19T11:21:19Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17d9/live/d8b2ead0-c538-11f0-9b68-57906bffd3ed.jpg",
+        "bias": 0
+      },
+      {
         "title": "Heating tips to keep your home warm when budgets are squeezed",
         "link": "https://www.bbc.com/news/articles/cd6084l4zx6o?at_medium=RSS&at_campaign=rss",
         "description": "As temperatures fall across much of the UK, how should you heat your home and keep yourself safe?",
@@ -890,15 +917,6 @@
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQU1ZQ1RONEk1MFpoWGZvOUYzYWwtdEN4XzhKX3pobHRsdHFMZGVHR01iVkJGM3AzRmJxcklRcW5VX0piOVpXcFhFYl82Wm1UQzViZzh1amJiSV8yV2paNDZwZHBpNWpUaGNpRUNvNXVmT19ObVB0Z2ktbDBHaHJWc2I1VUhJbTkzaG03Q2NubkZ2Y29mWFpJc1AzRVRyM0VySjN4YVktYXBkR3V1Zzh4SjlldUFRTTZ2QjFTVi1MMGhBUDduSG1jcWRuY3ZKaXBjSHZmSlJndkc2Qmd5RzNJLUdJUTQ4Zw?oc=5",
         "description": "",
         "pubDate": "2025-11-19T03:35:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Trump dismisses US intelligence that Saudi prince was likely aware of 2018 killing of journalist - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcm4zZVVuSDZWdHI1WWFHTm9HaGY5YzdsbVAxLUN4OVBtOTZkUEo1OFQ2QkVjTkZFYzdjejFBU1FybVludEU1bzh3VlVycld6c0pranZkakt3TE9xQ2stbGFsaGF6cUZDUUVBekpYN0pwSXZzY3c1ZXFCTEloa3F2Sm5tLVhZMEtBY0ZfTjJ1Y2xkdw?oc=5",
-        "description": "",
-        "pubDate": "2025-11-19T01:50:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
