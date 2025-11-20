@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-20T19:41:47.838386Z",
+  "lastUpdate": "2025-11-20T19:55:32.966532Z",
   "news": {
     "Gaming": [
       {
@@ -9,6 +9,24 @@
         "pubDate": "2025-11-20T19:37:29Z",
         "source": "jjdoyle123.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MTcyNzIxLmpwZw==/315x250%23c/u3iiXN.jpg",
+        "bias": 0
+      },
+      {
+        "title": "A sombra dos ecos [Free] [Visual Novel]",
+        "link": "https://elgaitas.itch.io/o-silencio-dos-ecos",
+        "description": "Esperta, maldita. As lendas agardan por ti.",
+        "pubDate": "2025-11-20T19:33:02Z",
+        "source": "elgaitas.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MTcyNTE0LnBuZw==/315x250%23c/vsMgZp.png",
+        "bias": 0
+      },
+      {
+        "title": "Pokemon: Psychic Lavender [Free] [Adventure] [Windows] [macOS] [Linux]",
+        "link": "https://vermillionwonderland.itch.io/pokemon-psychic-lavender",
+        "description": "Pokemon: PL",
+        "pubDate": "2025-11-20T19:31:35Z",
+        "source": "vermillionwonderland.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MTcyNjA2LnBuZw==/315x250%23c/Q4fn3p.png",
         "bias": 0
       },
       {
@@ -192,24 +210,6 @@
         "bias": 0
       },
       {
-        "title": "Rubik's Cube [Free] [Puzzle]",
-        "link": "https://gonzalinho-dev.itch.io/rubiks-cube",
-        "description": "",
-        "pubDate": "2025-11-20T18:02:44Z",
-        "source": "gonzalinho-dev.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MTcxNjcxLnBuZw==/315x250%23c/jm4T6I.png",
-        "bias": 0
-      },
-      {
-        "title": "Demon Stick Browser Version [Free] [Platformer]",
-        "link": "https://aarchijsl.itch.io/demon-stick-browser-version",
-        "description": "A challenging game about crossing different levels of hell.",
-        "pubDate": "2025-11-20T17:48:11Z",
-        "source": "aarchijsl.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MTcxMzUyLnBuZw==/315x250%23c/0mZIDO.png",
-        "bias": 0
-      },
-      {
         "title": "Hyra Rythm Smash [Free] [Rhythm] [Windows]",
         "link": "https://coffibug.itch.io/hyra-rythm-smash",
         "description": "Smash! Smash!",
@@ -238,6 +238,15 @@
       }
     ],
     "World": [
+      {
+        "title": "Zelensky to speak with Trump after US proposes Russia-Ukraine peace plan",
+        "link": "https://www.bbc.com/news/articles/cly1ypqlle0o?at_medium=RSS&at_campaign=rss",
+        "description": "The plan was reportedly drafted by US and Russian officials, without Ukraine's involvement.",
+        "pubDate": "2025-11-20T19:47:32Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a25/live/7d2b1c00-c63c-11f0-8c98-11fe43704bb5.jpg",
+        "bias": 0
+      },
       {
         "title": "Respect and remembrance for Cheney from Bush, Biden and past vice presidents as Trump is excluded - AP News",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWTJnZDctYV9fdnFLSmVyY0MxVDZxUzdGMFQyb3BERnRSaGxBUjdvaDZFMGZmWWVIcjJkSVJwclYwNVBKdnVqcFRSVmV4VHh4UnNWRV8xemtNWlJMLXR3UlVKemtfc1VIWDVLVE83V0tpQUtTd3RBcklyU3dYX0l4aGVRY19QeGM3eE5qWGZJSjRjS3VZNEFiQmZCU2tsNEZnOGc?oc=5",
@@ -281,15 +290,6 @@
         "pubDate": "2025-11-20T18:58:26Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1e6/live/d697fe90-c63f-11f0-8c06-f5d460985095.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Zelensky to speak with Trump after US proposes Russia-Ukraine peace plan",
-        "link": "https://www.bbc.com/news/articles/cly1ypqlle0o?at_medium=RSS&at_campaign=rss",
-        "description": "The plan was reportedly drafted by US and Russian officials, without Ukraine's involvement.",
-        "pubDate": "2025-11-20T18:57:29Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a25/live/7d2b1c00-c63c-11f0-8c98-11fe43704bb5.jpg",
         "bias": 0
       },
       {
@@ -338,10 +338,10 @@
         "bias": -1
       },
       {
-        "title": "Florida retiree detained in Saudi Arabia returns home following Prince’s visit to White House - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdmFqYm5ZYzRmUnI3SXVHckxrV3AydS02b2s4cmowS3NZVmJzX3VYOFotODdkYm5nSjU1ckI1S1FfVk14VGlGNE9teGFDZjFRa3l6cGsxekRiM0p6T3VHNWVQVl9zVmhjVTdMcG9HOU1iREpIQ3ZxWlJFU2szTGk0emg5bGJodndQQW8tWm5fbzdGR2NXOTFuQWNya3c?oc=5",
+        "title": "US Rep. Sheila Cherfilus-McCormick of Florida charged with stealing disaster funds - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcEw3RXotTEI5NUZUUi0wUkphdjdqTlNlWkdqU3hsSVpDSXZnTnRUZHI1Q0JMWmtoOE1mclNBRkFjMDhuRFhIcnE4UTV6RGFjdENjYkdQUVg4OFdWNnRnS08wYngwM2RGRF9uMkVXVG9lZThnbzdZYVpqVXNNV1dDRUlCakV3UVRJZzVMZ044S0hfTUlBam9heXBSMVdmVi1WYWotMjVOdEs?oc=5",
         "description": "",
-        "pubDate": "2025-11-20T17:54:00Z",
+        "pubDate": "2025-11-20T17:50:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -453,15 +453,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "US Rep. Sheila Cherfilus-McCormick of Florida charged with stealing disaster funds - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcEw3RXotTEI5NUZUUi0wUkphdjdqTlNlWkdqU3hsSVpDSXZnTnRUZHI1Q0JMWmtoOE1mclNBRkFjMDhuRFhIcnE4UTV6RGFjdENjYkdQUVg4OFdWNnRnS08wYngwM2RGRF9uMkVXVG9lZThnbzdZYVpqVXNNV1dDRUlCakV3UVRJZzVMZ044S0hfTUlBam9heXBSMVdmVi1WYWotMjVOdEs?oc=5",
-        "description": "",
-        "pubDate": "2025-11-20T16:40:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Children of War",
@@ -581,6 +572,15 @@
         "bias": -1
       },
       {
+        "title": "1,700 years ago, bishops and an emperor wrote a creed. Millions still recite it in church - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWjhEYUdQQzhXQ2dLM3VpeERPbTREc2o4VmRMV2dpbWJTX0VzWS1vQnE1RXl1Qk40NWFYV0diTDFsU0daNllNSXlWcDRINTBBdFVoeTc3bk9USzlBMm9uNDVnZEZyWlI3aG9yR2lodHh5aFV6VE1pOVA4TXl6MnF3VnFzaXp0aVlRTzVVb3piSGlXYjNITDBQU2R4YjNmV21SSXc?oc=5",
+        "description": "",
+        "pubDate": "2025-11-20T15:13:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Palestinians Forced to Pay for Own Removal from Gaza",
         "link": "https://www.aljazeera.com/video/fact-check/2025/11/20/palestinians-forced-to-pay-for-own-removal-from-gaza?traffic_source=rss",
         "description": "South Africa rejects more flights of Palestinians as mystery arrivals raise questions over who sent them and why.",
@@ -653,15 +653,6 @@
         "bias": -1
       },
       {
-        "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-20T13:56:32Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "More than 30 killed as Israel breaks Gaza ceasefire again",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/11/20/more-than-30-killed-as-israel-breaks-gaza-ceasefire-again?traffic_source=rss",
         "description": "Israeli air strikes across Gaza marked the deadliest breach of the ceasefire, killing at least 30 Palestinians.",
@@ -687,6 +678,15 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a071/live/25b863f0-c606-11f0-aaa8-8bac9838c2fd.jpg",
         "bias": 0
+      },
+      {
+        "title": "Sudan has vast oil, gold and agricultural resources. Who controls them?",
+        "link": "https://www.aljazeera.com/news/2025/11/20/sudan-has-vast-oil-gold-and-agricultural-resources-who-controls-them?traffic_source=rss",
+        "description": "Sudan's conflict continues to reshape the nation of 50 million amid widespread displacement and a fight for resources.",
+        "pubDate": "2025-11-20T13:17:03Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       }
     ],
     "Politics": [
@@ -709,12 +709,30 @@
         "bias": -1
       },
       {
+        "title": "UN secretary general addresses nations mired in sticky political issues at climate talks - AP News",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMFNMTkVDRFphT1pXWUtkLW9HcjZTZmlZa2FLd3NFOW5ETGdYaVdkM05zZ1pkMlNiWDNYTkVrem9mNmZOT2ZqYm9pZlJ6bWUzM0R0akRVQ3VQTFdvNG1yd0tKdVJnNzVvVG1lMWNSc3BROHRaN1JuZnVoRF9jTnJGbDNpaGFwb19CYVJtNmttbXRVVWd3NF9yNFJ1VzlPY043Y1MwRGJYVWRXRXI0NlFZVnRwU3hRZUthZnNZeGZ1b19QdmNzcEYyRzZWTkVhdlF6ellvbUd5Q0RFSjNoM1Vz?oc=5",
+        "description": "",
+        "pubDate": "2025-11-20T18:22:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Lockdown could have been avoided - key findings from Covid inquiry",
         "link": "https://www.bbc.com/news/articles/cpq1q49r08go?at_medium=RSS&at_campaign=rss",
         "description": "The long-awaited report is published into how well or badly the government handled the Covid pandemic.",
         "pubDate": "2025-11-20T18:01:47Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79d7/live/b7340cf0-c5f0-11f0-9f1e-75cdd6519717.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Florida retiree detained in Saudi Arabia returns home following Prince’s visit to White House - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdmFqYm5ZYzRmUnI3SXVHckxrV3AydS02b2s4cmowS3NZVmJzX3VYOFotODdkYm5nSjU1ckI1S1FfVk14VGlGNE9teGFDZjFRa3l6cGsxekRiM0p6T3VHNWVQVl9zVmhjVTdMcG9HOU1iREpIQ3ZxWlJFU2szTGk0emg5bGJodndQQW8tWm5fbzdGR2NXOTFuQWNya3c?oc=5",
+        "description": "",
+        "pubDate": "2025-11-20T17:54:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -769,15 +787,6 @@
         "pubDate": "2025-11-20T16:50:09Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a45/live/ff1d7710-c0da-11f0-9cdd-cd78459d79fa.jpg",
-        "bias": 0
-      },
-      {
-        "title": "1,700 years ago, bishops and an emperor wrote a creed. Millions still recite it in church - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWjhEYUdQQzhXQ2dLM3VpeERPbTREc2o4VmRMV2dpbWJTX0VzWS1vQnE1RXl1Qk40NWFYV0diTDFsU0daNllNSXlWcDRINTBBdFVoeTc3bk9USzlBMm9uNDVnZEZyWlI3aG9yR2lodHh5aFV6VE1pOVA4TXl6MnF3VnFzaXp0aVlRTzVVb3piSGlXYjNITDBQU2R4YjNmV21SSXc?oc=5",
-        "description": "",
-        "pubDate": "2025-11-20T15:13:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -1124,7 +1133,7 @@
       {
         "title": "'One of the absolute best': Tributes to Stone Roses and Primal Scream bassist Mani",
         "link": "https://www.bbc.com/news/articles/c04g4x0kkdpo?at_medium=RSS&at_campaign=rss",
-        "description": "The Stone Roses pay tribute to \"the greatest bass player and friend we could ever have wished for\".",
+        "description": "The Stone Roses pay tribute to \"our wonderful brother\" Gary 'Mani' Mounfield after his death aged 63.",
         "pubDate": "2025-11-20T19:00:54Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/950e/live/912ccef0-c633-11f0-9ad1-dbbd54dbf5de.jpg",
@@ -1182,6 +1191,15 @@
         "pubDate": "2025-11-20T11:47:51Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54bc/live/cb609a40-c604-11f0-9c13-f920cfeeae8d.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Russian hacking suspect wanted by the FBI arrested on Thai resort island - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV0VNWFdrZEptbmhkVHl3N251M2d5M0NPYXpJYTlXZzVpQ0JRMFNkVEpWSURBRFpRQm1McTJzM1hKMGhBelVwTXllcDFmbENYM0RlUGNHM1I2SjFlQTBPeFdGNkhQNHdqRldZdjhGa1d0QmxpeFl2T0xPSWJsRzhGdHBWVWtJTmRBTmE1VXVHNFlPbkd5dlZwckZFV2x1Z2xjM0VrcFNtOVdST25DRHRobUNB?oc=5",
+        "description": "",
+        "pubDate": "2025-11-20T11:07:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
