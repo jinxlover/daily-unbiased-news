@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-20T21:56:09.834469Z",
+  "lastUpdate": "2025-11-20T22:19:33.018498Z",
   "news": {
     "Gaming": [
       {
@@ -39,7 +39,16 @@
         "bias": 0
       },
       {
-        "title": "Potatoes And Cannons [Free] [Action] [Windows]",
+        "title": "BamBam1.9v [Free] [Windows]",
+        "link": "https://walentysvhr.itch.io/bambam19v",
+        "description": "Roguelike",
+        "pubDate": "2025-11-20T21:26:03Z",
+        "source": "walentysvhr.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MTc0MjQ1LnBuZw==/315x250%23c/GZt370.png",
+        "bias": 0
+      },
+      {
+        "title": "Potatoes And Cannons [Free] [Action]",
         "link": "https://killepm.itch.io/potatoesandcannons",
         "description": "",
         "pubDate": "2025-11-20T21:22:44Z",
@@ -210,39 +219,21 @@
         "bias": 0
       },
       {
+        "title": "Get That Pen! [Free] [Action]",
+        "link": "https://voiddebris.itch.io/get-that-pen",
+        "description": "Fan game where you get to steal the infamous SquishyRen's pen!",
+        "pubDate": "2025-11-20T19:55:51Z",
+        "source": "voiddebris.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MTc0Mzk3LnBuZw==/315x250%23c/FDjs0M.png",
+        "bias": 0
+      },
+      {
         "title": "Fox Paint Battle [Free] [Other]",
         "link": "https://drareeg.itch.io/fox-paint-battle",
         "description": "",
         "pubDate": "2025-11-20T19:48:56Z",
         "source": "drareeg.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MTczMzMzLnBuZw==/315x250%23c/sgpR6x.png",
-        "bias": 0
-      },
-      {
-        "title": "Pokemon: Psychic Lavender [Free] [Adventure] [Windows] [macOS] [Linux]",
-        "link": "https://vermillionwonderland.itch.io/pokemon-psychic-lavender",
-        "description": "Pokemon: PL",
-        "pubDate": "2025-11-20T19:31:35Z",
-        "source": "vermillionwonderland.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MTczNDg3LnBuZw==/315x250%23c/d8Hy42.png",
-        "bias": 0
-      },
-      {
-        "title": "laberint_v5_david [Free]",
-        "link": "https://clautic.itch.io/laberint-v5-david",
-        "description": "",
-        "pubDate": "2025-11-20T19:29:20Z",
-        "source": "clautic.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MTcyNjAwLmpwZw==/315x250%23c/2DHxiI.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Flower Tower [Free] [Other]",
-        "link": "https://web-164.itch.io/flower-tower",
-        "description": "",
-        "pubDate": "2025-11-20T19:25:00Z",
-        "source": "web-164.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MTcyODU5LnBuZw==/315x250%23c/cYJr6P.png",
         "bias": 0
       },
       {
@@ -293,11 +284,38 @@
     ],
     "World": [
       {
+        "title": "'Huge columns of smoke': BBC at the scene of fire at COP30",
+        "link": "https://www.bbc.com/news/videos/cn5159k1krzo?at_medium=RSS&at_campaign=rss",
+        "description": "Climate Editor Justin Rowlatt was at the UN climate talks in Brazil when a fire broke out.",
+        "pubDate": "2025-11-20T21:58:46Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1e6/live/d697fe90-c63f-11f0-8c06-f5d460985095.jpg",
+        "bias": 0
+      },
+      {
         "title": "The EU indicates it won't accept the U.S.'s Russia-Ukraine peace deal",
         "link": "https://www.npr.org/2025/11/20/nx-s1-5615184/the-eu-indicates-it-wont-accept-the-u-s-s-russia-ukraine-peace-deal",
         "description": "The U.S. has proposed a peace plan for Russia and Ukraine, but the EU has already indicated it won't accept the deal.",
         "pubDate": "2025-11-20T21:52:10Z",
         "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "What are the consequences of an escalating global arms race?",
+        "link": "https://www.aljazeera.com/video/inside-story/2025/11/20/what-are-the-consequences-of-an-escalating-global-arms-race?traffic_source=rss",
+        "description": "Worldwide military spending hits record highs as technology changes face of warfare.",
+        "pubDate": "2025-11-20T21:46:58Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "COP30 attendees in Brazil forced to evacuate pavilion following fire",
+        "link": "https://www.aljazeera.com/news/2025/11/20/cop30-attendees-in-brazil-forced-to-evacuate-pavilion-following-fire?traffic_source=rss",
+        "description": "Officials say the fire was contained within six minutes, and 13 attendees were treated for smoke inhalation.",
+        "pubDate": "2025-11-20T21:46:38Z",
+        "source": "aljazeera.com",
         "image": "",
         "bias": -1
       },
@@ -473,15 +491,6 @@
         "bias": -1
       },
       {
-        "title": "'Huge columns of smoke': BBC at the scene of fire at COP30",
-        "link": "https://www.bbc.com/news/videos/cn5159k1krzo?at_medium=RSS&at_campaign=rss",
-        "description": "Climate Editor Justin Rowlatt was at the UN climate talks in Brazil when a fire broke out.",
-        "pubDate": "2025-11-20T18:58:26Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1e6/live/d697fe90-c63f-11f0-8c06-f5d460985095.jpg",
-        "bias": 0
-      },
-      {
         "title": "Frida Kahlo self-portrait poised to shatter auction records - AP News",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNGQtcFdOT3RiRDZfOS02X1NTWHNEdk50R2VwaEVmdDBobldXVU1Ub2QwdFd2S0lqaFVDSG1MWkRibGxEY200NE9VakFnYjNDUmtFNEVoWlRCUFIwTVQ2bzQ2QndESng4cHpTWDRCMTRjTVVvVE53UVlpVHI3Qnh4aHRsblI4eGtZemt3VTRJT1d4QQ?oc=5",
         "description": "",
@@ -617,6 +626,15 @@
         "bias": 0
       },
       {
+        "title": "Georgia police chief charged with using license plate readers to stalk and harass people - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdWR3Vks3dFhkZ1d2TUtmY1ZoaTRnUk9DOHVHYTluVFl0TUFEMjJTM1dpdDViaGtMR1FGcXhZRWQ5c0VpRmktWEdLV3h0YkVJWFlvRzBONjJDajUydnhjdTdxM3h5NGsxZnJWQ05nM0FLRWxyZk9EWEs5UUlFTVFHX3V2cU9uMlIwd0hkS3FvVHotX3l0NV9jeDM3bzcyak9lSzQtWENzc3dEOUpGYlE?oc=5",
+        "description": "",
+        "pubDate": "2025-11-20T17:02:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "US economy adds 119,000 jobs in September as unemployment rate rises",
         "link": "https://www.aljazeera.com/economy/2025/11/20/us-economy-adds-119000-jobs-in-september-as-unemployment-rate-rises?traffic_source=rss",
         "description": "The unemployment rate rose to 4.4 percent as the labour market cools.",
@@ -714,45 +732,9 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Will a global oil glut push prices lower in 2026?",
-        "link": "https://www.aljazeera.com/video/counting-the-cost/2025/11/20/will-a-global-oil-glut-push-prices-lower-in-2026?traffic_source=rss",
-        "description": "The International Energy Agency warns of an oil surplus in 2026, but OPEC+ predicts a balanced market.",
-        "pubDate": "2025-11-20T15:30:00Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "More than 250 arrested in Charlotte as US immigration crackdown escalates",
-        "link": "https://www.bbc.com/news/articles/ckgzge16vkdo?at_medium=RSS&at_campaign=rss",
-        "description": "Charlotte's Democratic leaders say border agents are \"stoking fear\" in the city.",
-        "pubDate": "2025-11-20T15:20:12Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05c3/live/74684910-c620-11f0-a9b6-afaae37ee06b.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Video shows the moment a bridge is swept away by floodwaters in Vietnam",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/20/video-shows-the-moment-a-bridge-is-swept-away-by-floodwaters-in-vietnam?traffic_source=rss",
-        "description": "A surge of flooding is overwhelming parts of south-central Vietnam, with a bridge connecting two villages falling apart.",
-        "pubDate": "2025-11-20T15:20:11Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
-      {
-        "title": "Border Patrol is monitoring US drivers and detaining those with ‘suspicious’ travel patterns - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc3h2M0pCOUxLMHVuWmVTVVAtcEo0SC1aamRGeHQ5VnZhcTdRWkxWeWI0cy1MN29hb005NnFBMkZXei01VkFRWUpYUDZnUGJvUkdJYVVYMktGQ1lMODVsUXowZDJFZDJkaURhR3BXMjM1dnFoLVAxUlYtSmw5QXhKT0dDYlMxVHZISXlXV2xEX0pfWGR0Q056VzZsQjM1UW8xZVJwMFM3RlUtak5zeFAwWEJCRXYwTnc?oc=5",
-        "description": "",
-        "pubDate": "2025-11-20T21:27:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
       {
         "title": "Trump and Marjorie Taylor Greene had a falling out over Epstein. What changed?",
         "link": "https://www.npr.org/2025/11/20/nx-s1-5612438/trump-and-marjorie-taylor-greene-had-a-falling-out-over-epstein-what-changed",
@@ -761,24 +743,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Israel announces plan to seize historical site in the West Bank as a new settlement appears - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWHpJNmljdlUwMGxZeVBBeGx1X2VtYUN2TTFKMzBVYjdvRjFqRkJQTkQxRGRUbGY0UVZzLUJiejBCbUxBNDF5NVlCYTZWOEtMV0dNSjFZb0NnbnlFZGQ0WWlwNTAwdDdJVk9EcHZFWHJROXNMVlVKYVl5OFZDbEZqUzhrelJ2VVl1cEhEd01SaHk3TXNUTFFLVExB?oc=5",
-        "description": "",
-        "pubDate": "2025-11-20T20:31:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Judge orders Trump administration to end National Guard deployment in DC - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM1dYaEppZlZwSWZNRFJiRUdtOXg0X3NSREFyVTlWNW9RTXdUaEdZNmFPN3NGcG1ELUhEZEJOZXFsSkJuR1dtNWtMRllPQkszXzN5NEhQdnY1VVVTUlMxYUJsUXlybkxmdDBoMWUwWHFzRkpveHJsSkYwUGx2ckxHTGxNRTdwSllKZ3l4eFFVaFROQQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-20T20:19:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "White House hits out at South African leader for ‘running his mouth’ over US boycott of G20 - AP News",
@@ -799,37 +763,10 @@
         "bias": 0
       },
       {
-        "title": "Federal immigration crackdown ends in Charlotte, North Carolina, sheriff says - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa044eE1VRXdyQm9wNUpDc0EtYVZTekJOR1JGUVVQa3NERHB3MFlOY0ZiSk1KZDhwbWU1SW9RTzFsYlM0bDFKbUt2WFFXcTRfOEJKc2E0dkcyVWtrZmFWUHRadGFNOWFReldQeEJ3UUs5ZHBJaG56cW95Y2ducHNSTjc5VmtWbG40RVdWQjh1aUJ0RU1oM0N4akVfMFhMcUExSXpSSzJiUjhuUlE?oc=5",
-        "description": "",
-        "pubDate": "2025-11-20T19:35:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Vance says Americans need patience on prices but says 'We hear you' on affordability concerns - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSVdiajFWUE9nOGhuVWlJM3FvXzVta3lQdWJ4WnRrWUtMdWtOM2JVMF9iTXNBZEV1RDhuSk84RURJQ3h1R0VRaXZFZ1d0VWQ1UzJHbnE2dWRZSmlUUmctUVRhVmVhM3laUWRHcjNXc2JUYmJoSkJzYTRGQTFHeElKWEFDeVJWVGNnMWpLNmRrakViWW1JOWNJUXM5Rnk?oc=5",
-        "description": "",
-        "pubDate": "2025-11-20T19:07:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Trump and Republicans once more face a tough political fight over Obama-era health law - AP News",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNThpMVR3MFBmSkU1R2RhSlRZYkhDNVkzVGNtdEpNUFVWaTVvNXhuTlpNc3l1RzY2RXhheG1FSm1UV1VhY3pIdWlYc1NvN1VmaVNiWFpoczF4empSNHV6S2w0YTRSS2VsR1B1RE5DVjhRMV9xWGtTTjdDVDFaYXpJWlBqSUZYVXV1bE9KWVBMVHRSb3E5eExWbzllVWF5MzNQNHFxSzFZaUN4eS04TXc?oc=5",
         "description": "",
         "pubDate": "2025-11-20T18:41:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Attorney general’s edits to constitutional initiative went too far, Montana Supreme Court rules - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY0NzcVYyUHVrVGNUNk80VF9hUGF1b0RMMXBHRVR0eVJvWnU3MFR0TnNJdE1hUVplSG8ySWpucmRGd3ZhTEpEc0ZiNXkyaTNyTUJYTlFFQTRia3NBb29JbTdJVE10RHN6SmZGNWpwX0FYNThTUFlsWlRfSlJBX0xKcmxYQnlDLTJnLWtEbkZrVGx5YkZPeEJRVTVkMWRWeXRKNUJIWk5wN2pYNGxEZUNGSGhMUQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-20T18:38:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -844,33 +781,6 @@
         "bias": -1
       },
       {
-        "title": "Advocacy groups urge parents to avoid AI toys this holiday season - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYlpyU1FlNVZhOHdCRGhuc291QmNzYUpxOGtNWFc4T0VtXzQzanZnOThScXBsUXlEU015dWhNTzV2QUZ6cDJsVDNlZHdxVUNuMUphMGw3M2RXdlF1WlZERGQ2YTE5V2JsNjdvWllrTGJfZWhkUVpTcGxMcnFMTVNiaW9yclVlRnJMblpYXw?oc=5",
-        "description": "",
-        "pubDate": "2025-11-20T18:21:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "US sanctions on big Russian oil firms are having their intended effect, Treasury official says - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV0ctcVU3aWhma3RNR0htSS02RWtkVmh5amlCM25BYVVmSlJ4eTJTLXpKZGdVdUFPOHlCbkJpcWlmTW81clNSRFlxUUk1el9mVFpnQTZTQlplNWF2bjdxRlZaa2o1ZHc4dUNQSjBlX3VlQi16WkhmRDJ2dGRxakRaVkY1ODBpLVp1cDA5U0o3bVNWT3hycm5IRUZqQkJFT3hoc1VLSko3OA?oc=5",
-        "description": "",
-        "pubDate": "2025-11-20T18:11:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "A corruption scandal pressures Ukraine’s Zelenskyy to show greater accountability - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR3lMMXpjOFBoYzNRMkIyNmlQRU85WHdPNjdnQ2FHZXhOSndmcW12LU40el9acTBhUGFnUm9ybTh2UHdkbkF3cXNfODk0V1NKalJTMFh6ZlExWk1fdDF2VTRIWWNBaHp4NlVERTB0anNpOURIY0tWQ3E3bnRVOXotQ0Y0X2Z0THFNWXNYNW9BNmVfX0o0a214VGNMQjBMR2txcEdFN1JWX3Rmbjh2bG5vV3FaY1o?oc=5",
-        "description": "",
-        "pubDate": "2025-11-20T18:09:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Lockdown could have been avoided - key findings from Covid inquiry",
         "link": "https://www.bbc.com/news/articles/cpq1q49r08go?at_medium=RSS&at_campaign=rss",
         "description": "The long-awaited report is published into how well or badly the government handled the Covid pandemic.",
@@ -880,10 +790,10 @@
         "bias": 0
       },
       {
-        "title": "Wisconsin clerks refer 46 cases of suspected fraud, irregularities in 2024 presidential election - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa0J1b1BXNnhUOVRLdnJpQTI4SG5EM3NSd09aM2xBN0Q3UHk5bHJhXzVKdzdDSUFTVU9XQlRTTGhoUkNPeDJMcURwSExjOVMyOVFDcVB6a0NUa1o3MkxRem5PTFZORlh2VTgzMHNkdmdRcENnQUdSZmFSNzFqZEtJM3d2RThrR1pHaVhZZkU2el9IbEVjaWtKUk55bw?oc=5",
+        "title": "Lawmakers pass bill raising taxes for Russians branded as ‘foreign agents’ - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGZHVUNqV253MlEwaE5aT0FHaVFvTkxOSUpCbWZjUWhMMDBQN290Um5zWTJZS083X01EQnRaT3AxSk5oUVhKQVY4ejNOdndUeFUzZWhWbk5TNEg0T3U3YVY1VEhpMHhNMVpkb1VlR0doYUhpeTROUUR5YmFnNF9xQnFxUlBfQlhaaWRkeHJzeG5ITHRTTUxV?oc=5",
         "description": "",
-        "pubDate": "2025-11-20T17:59:00Z",
+        "pubDate": "2025-11-20T17:40:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -916,15 +826,6 @@
         "bias": -1
       },
       {
-        "title": "Georgia police chief charged with using license plate readers to stalk and harass people - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdWR3Vks3dFhkZ1d2TUtmY1ZoaTRnUk9DOHVHYTluVFl0TUFEMjJTM1dpdDViaGtMR1FGcXhZRWQ5c0VpRmktWEdLV3h0YkVJWFlvRzBONjJDajUydnhjdTdxM3h5NGsxZnJWQ05nM0FLRWxyZk9EWEs5UUlFTVFHX3V2cU9uMlIwd0hkS3FvVHotX3l0NV9jeDM3bzcyak9lSzQtWENzc3dEOUpGYlE?oc=5",
-        "description": "",
-        "pubDate": "2025-11-20T17:02:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Trans people could be barred from services based on appearance",
         "link": "https://www.bbc.com/news/articles/cy0y07959djo?at_medium=RSS&at_campaign=rss",
         "description": "The new code of practice on access to single-sex services cannot gain legal force until it gets sign-off from ministers.",
@@ -934,10 +835,10 @@
         "bias": 0
       },
       {
-        "title": "Belarus frees 2 imprisoned Catholic priests after talks with Vatican - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMFRDdDAwdGNGQ1NwaTU0MG9uaW9KYW1QNmliZk91MjR2a0NVMjhkRmxpVmpzOXNoTFFIeHNodzYyeGItSTU1YmF2N0k2Z192MGpfOGItSzBPZE5UeWVVWEc4cTV2ejh0dVFpTXQ4TkJJMzAwdVRDU3R1SXhrTHBYQnRveHVVeGRYcnlkVW11ODNOazBSc01VTGdnRTFCRUN0R0R1eC1tSUd0MjFTck5kQ08ySEJiQQ?oc=5",
+        "title": "1,700 years ago, bishops and an emperor wrote a creed. Millions still recite it in church - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWjhEYUdQQzhXQ2dLM3VpeERPbTREc2o4VmRMV2dpbWJTX0VzWS1vQnE1RXl1Qk40NWFYV0diTDFsU0daNllNSXlWcDRINTBBdFVoeTc3bk9USzlBMm9uNDVnZEZyWlI3aG9yR2lodHh5aFV6VE1pOVA4TXl6MnF3VnFzaXp0aVlRTzVVb3piSGlXYjNITDBQU2R4YjNmV21SSXc?oc=5",
         "description": "",
-        "pubDate": "2025-11-20T16:22:00Z",
+        "pubDate": "2025-11-20T15:13:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -961,48 +862,12 @@
         "bias": 0
       },
       {
-        "title": "New study shows global luxury shoppers are spurning high-end brands over steep price hikes - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSDJvTGZDZFBwMkRERkVYQXhxWmxrQnV4TEk1Yk1qUFhCTVotMDBTZGozSVJkMTlpWGU3YmNIRWM5Z0JOYy10bzc0ZXJ5MTZZVVlDSmJwSFdUT1E0SkctTXg2OWRscDdRVTJfa0xHdWl2WHVYbklFU3EyVWtZNVlqMkFxMkV6QjJzUXU0RFF3?oc=5",
-        "description": "",
-        "pubDate": "2025-11-20T14:40:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Movie Review: Brendan Fraser is a middling actor with a winning heart in sweet drama ‘Rental Family’ - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWHNmMGRIb0J5OV9HZTdQTGRRSUFHRFRtQk9hTlg1TDlwMkFwcGs0RzdBRFdHbUVmU3N0eWZCdTZCbVhUbEt1WDY5VTVqa3g1UlJhUzZwaWIyOWpRN1kwRG1DTW9Xd01lU0UyZENESW1FcVRNelprRWpSWGxpaENCdml1a3BWM3hLWUlNQ2pZSW9tTmNoR3p1ZGhKRmIxUkhXbWFV?oc=5",
-        "description": "",
-        "pubDate": "2025-11-20T14:37:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Starbucks union says 30 more US stores are joining week-old strike - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd1ZxTnJOUVRLMFFsS0FFeWczR0hqWjQxTUV3a21sTlRYcVQ0NzdtTGFWeUp6eXlpT21lWUwwajkzSWFNTFdqckJPLUZQMjJJaFNpMmJiY0ZkMWxtbm01bTVKWnQyTzdIRUxBY2xkc3RYYkxuOGg3dktsM0RlZW1sYTQzeGtXYk85TVk1SmJpU3ZyaHZPdmZnZ1dMQVpJNGo1b3hraXJn?oc=5",
-        "description": "",
-        "pubDate": "2025-11-20T14:22:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Reform UK councillor 'stood down' from cabinet",
         "link": "https://www.bbc.com/news/articles/c4gwn45gdj0o?at_medium=RSS&at_campaign=rss",
         "description": "Dan Harrison says Charles Whitford is stood down from the senior position he has held since May.",
         "pubDate": "2025-11-20T13:56:33Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f35/live/b1d38cd0-a2bf-11f0-8b38-691926760cd4.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Spanish court orders Meta to pay nearly half a billion euros in damages to media outlets - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWHQwQjRra05yVm1lTVlDU21RT3ZsZS14cmpSSG5rbXREVUJNRlVJWUZoWU1Qc0hSTWhJTVhrYXFXTXg0dDlMalFJYVBkQ2RTYUo1QnpUSFByYm9sa1ZRNHFLLU9PZzlOSW1TTWNlOGd5bDN3aGo2QXVPbTk1dGpJU1FkNWtyaVI2ekItSzBhNlZGRXdYYmlYVmJn?oc=5",
-        "description": "",
-        "pubDate": "2025-11-20T13:40:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -1015,37 +880,10 @@
         "bias": 0
       },
       {
-        "title": "Brussels hosts talks on Gaza reconstruction, security and governance - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVnpaTDVoMFNGUThnckFxamFoQmxjaE43VDlheFF1Rk9VNmlXbHo3QXB4VDkzQXBqQ1VVU3VHYWstcl9SYmtIQmRUUUJSelM0d0h4QVdIQThjdzY2Y2NaTjVXTlBMQmFLUzE5dk1kU2t0U0x2eUd0Z1ZVQzd6V3NiOUxnQzVZajhvYWEtdThuWV80YUlWaUwxNUVYbGRJRFdLbXd2eTZSbHc?oc=5",
-        "description": "",
-        "pubDate": "2025-11-20T12:28:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "UN atomic agency demands Iran provide full information about its nuclear stockpile - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWHJXNkhRYzVTMEZlcEVGMWo3dF93ZThxWkZsUEhxUWxYbGFYYng2LTN3amQ0RFM0Z1ZGVzBqaFpPc3hKMEJ0Q0xhRnc4NDR2Q0FkeDFIZUljQzB2SkdQdE9USXpBam9URzNvNVVBV3RyUjdVZE9mUi1WdEY3c1dpTjk1RzBaOHVqTUVzcVh5RWJxNG0tdUNIZmtjWTFONnk5YWxmYmo2blFoZGc?oc=5",
-        "description": "",
-        "pubDate": "2025-11-20T12:22:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "As US debates gender roles, some women in male-led faiths dig in on social and political issues - AP News",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaXczZkNELWQ4NUdHcG93MjBSbzdnVnc3MGpwU1JicHZpcFZkRDY1bDhoaXpRRnlCQ1dtdE1Va0REYWk5OVZUOEU3ajRhODRQVVY5LUo2Y3ZEbDNaT2dfX2FxRk45OGtxZEpjMENuc0s3OXZ0RmVjYzFpbXRPMFNDZi1FTkxPZk9zNFB5a0xXN3pMS2RVY1lKRUNpcGpWZkdxc3FMWg?oc=5",
         "description": "",
         "pubDate": "2025-11-20T12:03:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Funerals at Washington’s National Cathedral tell the story of a nation - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSEhRV1RMdHJtWm90Mld4NmNOQTJ4NDAzaUcwRXRjUXNTTUlMcFd5VllRQXdoVzY0ZDlQV2dMUDFJeTAwdm1FYVZQbi1jMEJETHRTOGFvUkJfanRHbjZfSzNTRWpSUzdhTzgzTElWRHdGMV9IZENieHBHd29sMzhUaWEyaG5lVGdIOVdmaHNRWHR6ZDdFQVBBYmxFMU56eVVEX3hn?oc=5",
-        "description": "",
-        "pubDate": "2025-11-20T12:01:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1073,15 +911,6 @@
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVlVLSHpuU3RjSmdfbm1CWEdSajd1SDlfbDNmNndrU3h5Mm5QZ09qb0c2eEZteVJRUk5UWlgyM2RTY2gzd1hpeGpVZGdwcEY1RDdDOEs4OWtxNWdVaUR3dFlrcHE2ZkotNGNucENFdG1XdkFyc1JmWF9UNV9iN1puWnNLb0pKVjJRdE42Q2U1Y2U4ZE55d0hhSHBvb2V1VVNRRmR5T2pIRkF0X09JTExn?oc=5",
         "description": "",
         "pubDate": "2025-11-20T10:08:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "On the world’s coldest stage, a military musician plays with a plastic horn and double gloves - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaVhoQ3h1QWtMRHZUSjBuV3JkYkJPRlRzajhvZkZQaDlvaW04NlJRb3VndjZmRmpEQUtLWTRrVWNIbUdiZW1yMjM0Wk1uY3dnSm5KblZqdWpzWlU0TTAzcUxJNXlrQ1F1cWlEOUdtTUxlRXp5OWVIb2FNRUFpQXlqT3FhRmVEMDAzR0lsN3FQUXdBVl92NWlxSFIzbm9FSUZ2RjlwRWc0R3hpN0k?oc=5",
-        "description": "",
-        "pubDate": "2025-11-20T10:06:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1159,15 +988,6 @@
         "bias": 0
       },
       {
-        "title": "MLB will comply with Senate's request for gambling investigation documents, commissioner says - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObzdiWERXY0hoUnZpUlRJN080aTVaNmU5czA3V2ZUMC1UUmFVLXd2MTRFZk5IYWN0UnBJMXBieEhRUFlINGJEamJ6Zk9veDFKdGMzeFM3dTJkSWg4U05jbXdzQS1VRzgxdkREQllwM00xU1F0d3kyaHZXQWJHM3dZSmFpVUc0dUVmQmtvYmhjS3plcU1ISWliNDNB?oc=5",
-        "description": "",
-        "pubDate": "2025-11-20T06:01:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "What's next now that Trump has signed a bill releasing the Epstein files",
         "link": "https://www.npr.org/2025/11/20/g-s1-98477/trump-signed-bill-releasing-epstein-files",
         "description": "President Trump has signed a bill to compel the Justice Department to make public its files on the convicted sex offender Jeffrey Epstein. Now, there's a 30-day countdown for the DOJ to produce those records.",
@@ -1177,21 +997,30 @@
         "bias": -1
       },
       {
-        "title": "An autoimmune disease stole this man’s memory. Here’s how he’s learning to cope - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV2lhVGoxN1l0ZGFRajNZR0dkX0gxZzEweTlDVTJ1TFRhdDJCZWtTN0p5cnlaYmRWT2hGUGc0Uy0wQS1fRTVCd0ZxeTdwVWRGQWgtMHFwQklkcDBJazVlMFJkTkVhOHZxNUQzVGRYOUpibUlMYkFlc3lHRHpyNGtYamJnMDhHNzlRaWx4UVR2amhRLW5RZU5nSXZnN0QzTDdTZWRzTlptQk9Saktf?oc=5",
-        "description": "",
-        "pubDate": "2025-11-20T05:05:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Trump says he and Mamdani will meet Friday in Washington, setting up clash of political opposites - AP News",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMC1XMk1Pdllab2Znck91TXRXbzFmQVZXaHVzQU80TktCc1ZFdHBkaVo2SzRTVjVEcmJkSUpuUTVtTF9Pb3FEZFdXYjlkUHlmcDlIM0h1ajNRSHhXTlduYWJoRVBocVMzSGxGLXo3MmlpanNkR1ZzdXhCYjQ1cHNDanUxclRVUzBxQzBfUEVpMEJueEIzZW5WUDJkVQ?oc=5",
         "description": "",
         "pubDate": "2025-11-20T02:35:00Z",
         "source": "news.google.com",
         "image": "",
+        "bias": 0
+      },
+      {
+        "title": "The real fallout after the ousting of Labour from a super safe seat in Wales",
+        "link": "https://www.bbc.com/news/articles/c751yd96y5ko?at_medium=RSS&at_campaign=rss",
+        "description": "Now Labour faces its toughest task yet in Wales - convincing voters to keep believing, ahead of the 2026 Senedd election",
+        "pubDate": "2025-11-20T01:16:15Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66c3/live/d26f1c70-c52e-11f0-9b68-57906bffd3ed.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Ford boss: 'Now is not the time to tax electric vehicles'",
+        "link": "https://www.bbc.com/news/articles/c5yp1ky55g1o?at_medium=RSS&at_campaign=rss",
+        "description": "Ford's UK boss says it is \"not the right time\" to tax electric vehicles when demand has already stalled.",
+        "pubDate": "2025-11-20T00:03:09Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8df/live/6918b4f0-c5fd-11f0-8c06-f5d460985095.jpg",
         "bias": 0
       }
     ],
@@ -1203,15 +1032,6 @@
         "pubDate": "2025-11-20T18:10:50Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3e9/live/3293a680-c63c-11f0-8c98-11fe43704bb5.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Lawmakers pass bill raising taxes for Russians branded as ‘foreign agents’ - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGZHVUNqV253MlEwaE5aT0FHaVFvTkxOSUpCbWZjUWhMMDBQN290Um5zWTJZS083X01EQnRaT3AxSk5oUVhKQVY4ejNOdndUeFUzZWhWbk5TNEg0T3U3YVY1VEhpMHhNMVpkb1VlR0doYUhpeTROUUR5YmFnNF9xQnFxUlBfQlhaaWRkeHJzeG5ITHRTTUxV?oc=5",
-        "description": "",
-        "pubDate": "2025-11-20T17:40:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -1269,6 +1089,15 @@
         "bias": 0
       },
       {
+        "title": "MLB will comply with Senate's request for gambling investigation documents, commissioner says - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObzdiWERXY0hoUnZpUlRJN080aTVaNmU5czA3V2ZUMC1UUmFVLXd2MTRFZk5IYWN0UnBJMXBieEhRUFlINGJEamJ6Zk9veDFKdGMzeFM3dTJkSWg4U05jbXdzQS1VRzgxdkREQllwM00xU1F0d3kyaHZXQWJHM3dZSmFpVUc0dUVmQmtvYmhjS3plcU1ISWliNDNB?oc=5",
+        "description": "",
+        "pubDate": "2025-11-20T06:01:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Major League Baseball signs deals with Netflix, ESPN and NBCUniversal",
         "link": "https://www.bbc.com/news/articles/c4gjg38zyd8o?at_medium=RSS&at_campaign=rss",
         "description": "The media deals will allow the platforms to show select baseball games over upcoming seasons.",
@@ -1290,7 +1119,7 @@
       },
       {
         "title": "BBC Inside Science",
-        "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
+        "link": "https://www.bbc.co.uk/sounds/play/w3ct8txl?at_medium=RSS&at_campaign=rss",
         "description": "As COP 30 draws to close in Brazil, we speak to a former negotiator.",
         "pubDate": "2025-11-20T17:00:00Z",
         "source": "bbc.co.uk",
@@ -1314,27 +1143,9 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Panamanian lawmakers’ Taiwan trip sparks diplomatic row with China - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVnF6X2RGSE4yVXNjQTF2NHptdElNN0dKSVpja0ZqR0ktMnlUQ0pZelhORVAwU1hEbXJ6dEV1MGI3SlV0S3JOd09tcUFhNkRRXzRMOGhWd0dDZkd6SlhMRDIzdWU1dGJ6YVo0cXpmVWtsT0JDUmN3akdsdEt5eklXdmxBeTBaTjlIOVI1TG9MZjJ6dVB2NHBPYjhn?oc=5",
-        "description": "",
-        "pubDate": "2025-11-20T04:30:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Business": [
-      {
-        "title": "Jobs Report offers mixed picture of the economy",
-        "link": "https://www.npr.org/2025/11/20/nx-s1-5615083/jobs-report-offers-mixed-picture-of-the-economy",
-        "description": "U.S. employers added 119,000 jobs in September, but hiring was weaker than expected. That's according to a new report from the Labor Department, which was delayed because of the government shutdown.",
-        "pubDate": "2025-11-20T21:45:19Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
       {
         "title": "A struggling lumber industry wants to join farmers in government bailout package",
         "link": "https://www.npr.org/2025/11/20/nx-s1-5608999/a-struggling-lumber-industry-wants-to-join-farmers-in-government-bailout-package",
@@ -1352,15 +1163,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "US homes sales rose in October as homebuyers seized on declining mortgage rates - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY1ZTdV9feVRqWngxb1RBZW1GTi12allMYUl1M3VlUU9iLVBBMHhzcDVJak5Kc2pOdkZmRzh3NC1BRFg1bC1pZ2YwTW44UHhEYXZkbVFrd2pCVWExNS03RWhmaWJJeHlBZFcxVWh1LUhDbExLZmhGOVFQN1ZsdHdvTkhTcFU3ZWtTZFdCUHFiYk00aUhEV08wcmRKamZQTzhmMWtQRA?oc=5",
-        "description": "",
-        "pubDate": "2025-11-20T18:13:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "US jobs saw surprising jump in September after slow summer",
@@ -1425,6 +1227,15 @@
         "pubDate": "2025-11-20T19:00:54Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/950e/live/912ccef0-c633-11f0-9ad1-dbbd54dbf5de.jpg",
+        "bias": 0
+      },
+      {
+        "title": "A corruption scandal pressures Ukraine’s Zelenskyy to show greater accountability - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR3lMMXpjOFBoYzNRMkIyNmlQRU85WHdPNjdnQ2FHZXhOSndmcW12LU40el9acTBhUGFnUm9ybTh2UHdkbkF3cXNfODk0V1NKalJTMFh6ZlExWk1fdDF2VTRIWWNBaHp4NlVERTB0anNpOURIY0tWQ3E3bnRVOXotQ0Y0X2Z0THFNWXNYNW9BNmVfX0o0a214VGNMQjBMR2txcEdFN1JWX3Rmbjh2bG5vV3FaY1o?oc=5",
+        "description": "",
+        "pubDate": "2025-11-20T18:09:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
