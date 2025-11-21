@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-11-21T07:39:41.178088Z",
+  "lastUpdate": "2025-11-21T07:50:00.855807Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Knot Runner [Free] [Action]",
+        "link": "https://raven-woods.itch.io/knotrunner",
+        "description": "Yet another snake clone. With highscores.",
+        "pubDate": "2025-11-21T07:30:38Z",
+        "source": "raven-woods.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MTc5MDE3LnBuZw==/315x250%23c/Kcnp8e.png",
+        "bias": 0
+      },
       {
         "title": "Toy Path [Free] [Puzzle]",
         "link": "https://gatene.itch.io/toy-path",
@@ -59,7 +68,7 @@
       {
         "title": "RE-EXIT [$3.99] [Other] [Windows]",
         "link": "https://nullworx.itch.io/re-exit",
-        "description": "Anomaly Horror Game",
+        "description": "A dark anomaly horror game with real threats and scares",
         "pubDate": "2025-11-21T05:47:15Z",
         "source": "nullworx.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MTc4MTQyLnBuZw==/315x250%23c/mUbyf8.png",
@@ -147,15 +156,6 @@
         "bias": 0
       },
       {
-        "title": "Paint Tool [Free] [Windows]",
-        "link": "https://tobi-ayers.itch.io/paint-tool",
-        "description": "",
-        "pubDate": "2025-11-21T04:09:57Z",
-        "source": "tobi-ayers.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MTc3NDIxLnBuZw==/315x250%23c/PVvhMf.png",
-        "bias": 0
-      },
-      {
         "title": "tom tagging beta rn [Free] [Windows] [macOS] [Linux] [Android]",
         "link": "https://blast-tag.itch.io/tom-tagging-beta-rn",
         "description": "",
@@ -202,6 +202,33 @@
       }
     ],
     "World": [
+      {
+        "title": "Separatist leader Kanu sentenced to life in prison in Nigeria",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/21/separatist-leader-kanu-sentenced-to-life-in-prison-in-nigeria?traffic_source=rss",
+        "description": "Separatist leader Nnamdi Kanu shouted in protest at a court hearing in Nigeria, before he was sentenced to life.",
+        "pubDate": "2025-11-21T07:39:02Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Israel plans to seize major Roman-era historical site in occupied West Bank",
+        "link": "https://www.aljazeera.com/news/2025/11/21/israel-plans-to-seize-major-roman-era-historical-site-in-occupied-west-bank?traffic_source=rss",
+        "description": "Anti-settlement group Peace Now says land grab would become Israel's largest of archaeologically significant land.",
+        "pubDate": "2025-11-21T07:31:49Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Senior Democrat responds to Trump death penalty threat",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/21/senior-democrat-responds-to-trump-death-penalty-threat?traffic_source=rss",
+        "description": "A senior Democrat in the US condemned comments by Donald Trump as ‘unhinged’.",
+        "pubDate": "2025-11-21T07:30:28Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Russian envoy Kirill Dmitriev: Putin propagandist or key to peace with Ukraine?",
         "link": "https://www.bbc.com/news/articles/c3rjr2r72gpo?at_medium=RSS&at_campaign=rss",
@@ -374,15 +401,6 @@
         "bias": 0
       },
       {
-        "title": "Trump administration plans for new oil drilling off California and Florida coasts - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBya0RfbEV2OHRHZVF6VEcxZ1V0V0VNOTlldU5LREludlRxZDRHa1Jra1RCbHFCNnlMVHBPeHJHLVhvanpNeGlLWnloZDVkXzc5Rno1d0ttXzhyWkJ6RzY3S3ZDUQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-21T01:59:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Lebanon arrests alleged drug kingpin sanctioned by US State Department",
         "link": "https://www.aljazeera.com/news/2025/11/21/lebanon-arrests-alleged-drug-kingpin-sanctioned-by-us-state-department?traffic_source=rss",
         "description": "Noah Zaitar allegedly ran a drug empire, producing and exporting narcotics, including the synthetic stimulant captagon.",
@@ -538,6 +556,24 @@
     ],
     "Politics": [
       {
+        "title": "How WhatsApp messages revealed ex-Reform politician's pro-Russian bribes",
+        "link": "https://www.bbc.com/news/articles/cn8vnv3dk0vo?at_medium=RSS&at_campaign=rss",
+        "description": "The former leader of Reform UK in Wales has admitted bribery and will be sentenced on Friday.",
+        "pubDate": "2025-11-21T06:22:36Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf93/live/282ad4a0-c634-11f0-a892-01d657345866.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Funding NHS facilities with private finance a breach of manifesto, Labour MPs say",
+        "link": "https://www.bbc.com/news/articles/cp8y8g7djxlo?at_medium=RSS&at_campaign=rss",
+        "description": "The government is considering using taxpayer money and private finance to build new health centres.",
+        "pubDate": "2025-11-21T06:01:22Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bae5/live/0accc710-c693-11f0-9fb5-5f3a3703a365.jpg",
+        "bias": 0
+      },
+      {
         "title": "Treasury plans to change tax credit eligibility in a move critics say will hurt immigrant taxpayers - AP News",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbXZIZkgxd3Raang4Nk1wWkJ1cU5oTzNrOEttQTZ3eVMxZ1ktMW5yWXQ0RDJKcjJrcVR6NEN4SFBSOER6R1Y4dUk0R0llMW1ManVmYW1mQm9rc09UWEtla04yMm54dmd5RUFMZnhTZWRGSzFKb1dXMVptVmxEMUdxay1odWlmRE9jR0k3V3JUUGd2Z2FzUGpOZ0JpRWpCeEU?oc=5",
         "description": "",
@@ -554,7 +590,7 @@
         "description": "The accountancy giant says artificial intelligence will eventually lead to fewer entry-level positions at the firm.",
         "pubDate": "2025-11-21T02:34:57Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55ee/live/7e1dda70-c67e-11f0-8ab6-759444998531.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77d1/live/32c99940-c6ad-11f0-a892-01d657345866.jpg",
         "bias": 0
       }
     ],
@@ -566,6 +602,15 @@
         "pubDate": "2025-11-21T06:12:29Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87cb/live/d6c31af0-c5f7-11f0-8e3f-494114defdeb.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Coast Guard set to change policy to call swastikas and nooses ‘potentially divisive’ - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb095X3VCeEtfZlN6VWFsa3VMUmxqRThoa2w1Nm1RMHdFQ2NzZUZZX3RwMVE3Sm9fNGh4dHNzTW4yMndnNTFNVGNFc2xKSi1udTlmbU9MNVVwRk5YOHoyVFpQcjVhUWF3NUJ4T2tvZnN1VlJHTl83ZUp0alprbWxWcDNVMVJzQi1JdWhpT25uWUJkWjdhZ3JVNVZBaUdwUG8yc0hfS0g2LXRvc2xP?oc=5",
+        "description": "",
+        "pubDate": "2025-11-21T01:01:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       }
     ],
