@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-11-21T05:21:03.837027Z",
+  "lastUpdate": "2025-11-21T05:42:45.979435Z",
   "news": {
     "Gaming": [
+      {
+        "title": "2DAction week a game [Free] [Windows]",
+        "link": "https://kronkron.itch.io/2daction",
+        "description": "",
+        "pubDate": "2025-11-21T05:37:43Z",
+        "source": "kronkron.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MTc4MDgwLnBuZw==/315x250%23c/rxdbMA.png",
+        "bias": 0
+      },
       {
         "title": "Laser Gun [Free] [Shooter]",
         "link": "https://macccollegegames.itch.io/laser-gun",
@@ -27,6 +36,15 @@
         "pubDate": "2025-11-21T04:54:31Z",
         "source": "aicao.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MTc3ODI3LnBuZw==/315x250%23c/XwLCUe.png",
+        "bias": 0
+      },
+      {
+        "title": "The Hollow Jackpot [Free] [Interactive Fiction]",
+        "link": "https://daniel-frederick.itch.io/the-hollow-jackpot",
+        "description": "",
+        "pubDate": "2025-11-21T04:29:53Z",
+        "source": "daniel-frederick.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MTc3NTUxLnBuZw==/315x250%23c/zsxP4I.png",
         "bias": 0
       },
       {
@@ -129,39 +147,12 @@
         "bias": 0
       },
       {
-        "title": "Math Escape [Free] [Educational]",
-        "link": "https://fernaszz.itch.io/math-escape",
-        "description": "",
-        "pubDate": "2025-11-21T03:00:26Z",
-        "source": "fernaszz.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MTc3MDAxLmpwZWc=/315x250%23c/kya67l.jpeg",
-        "bias": 0
-      },
-      {
-        "title": "Ari [Free]",
-        "link": "https://pedrofardin.itch.io/ari",
-        "description": "",
-        "pubDate": "2025-11-21T02:59:37Z",
-        "source": "pedrofardin.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MTc2NzI3LnBuZw==/315x250%23c/2qzp0l.png",
-        "bias": 0
-      },
-      {
         "title": "NoTittleYet [Free] [Platformer]",
         "link": "https://u2studio.itch.io/notittleyet",
         "description": "Game about nothing, for educational platformer",
         "pubDate": "2025-11-21T02:48:47Z",
         "source": "u2studio.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MTc2ODU3LnBuZw==/315x250%23c/YZ1BYb.png",
-        "bias": 0
-      },
-      {
-        "title": "Tic Tac Toe [Free] [Puzzle]",
-        "link": "https://paulorfholanda.itch.io/tic-tac-toe",
-        "description": "Jogo da velha, feito para testar algoritmos de Busca em Árvore e Algoritmos Evolutivos",
-        "pubDate": "2025-11-21T02:46:39Z",
-        "source": "paulorfholanda.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MTc2ODQ0LnBuZw==/315x250%23c/OpHAei.png",
         "bias": 0
       },
       {
@@ -175,6 +166,15 @@
       }
     ],
     "World": [
+      {
+        "title": "Zelensky ready for 'honest work' with US to end Ukraine war",
+        "link": "https://www.bbc.com/news/articles/cly1ypqlle0o?at_medium=RSS&at_campaign=rss",
+        "description": "Kyiv says it is willing to engage with a US-backed draft peace plan aimed at ending the war with Russia.",
+        "pubDate": "2025-11-21T05:35:57Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a25/live/7d2b1c00-c63c-11f0-8c98-11fe43704bb5.jpg",
+        "bias": 0
+      },
       {
         "title": "Mexico's Fatima Bosch, who walked out on organisers, crowned Miss Universe",
         "link": "https://www.bbc.com/news/articles/cgmxmxljg8mo?at_medium=RSS&at_campaign=rss",
@@ -201,15 +201,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Zelensky ready for 'honest work' with US to end Ukraine war",
-        "link": "https://www.bbc.com/news/articles/cly1ypqlle0o?at_medium=RSS&at_campaign=rss",
-        "description": "Kyiv says it is willing to engage with a US-backed draft peace plan aimed at ending the war with Russia.",
-        "pubDate": "2025-11-21T03:42:02Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a25/live/7d2b1c00-c63c-11f0-8c98-11fe43704bb5.jpg",
-        "bias": 0
       },
       {
         "title": "More details of US plan for Ukraine emerge, sees territory ceded to Russia",
@@ -288,15 +279,6 @@
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS2N4NlZYdDFRMmxxWWl3NWRYSXJFcGttMjVVd2FuWnJqUGVLSERZQnVhM2ppdXhtZmYwSnhGUVlNbHZaem9VWEV2dC1Ib1QwQlpqZTJZZTJPbUx4RldOOW1ZS1V0X2s5RnRVWll3RDNNeS04Nnp5Y2NCaWRIRmJvclBMRmJucG5LR0d5bTIxRFIyVF9tTEVWeXlUMW9tV2RoaDZWQTdabGM?oc=5",
         "description": "",
         "pubDate": "2025-11-21T02:05:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "What to know about this weekend’s G20 summit in South Africa that Trump is boycotting - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSkdBX1FtSHl0NXIwWDFCUHpfdUpJVHN5dEpMemxNQmJXTU5zS2lKSTUzbHJBeTFvRVZtRU1XZUtYckVHcWwwU1BiT01jTjNMT3ZDSFl2MGpsMlVNRWRuZ1VTREJOTVRQQ0VkVU9yY3JKMXhuYTAtTjE3T2F0TUhGVW1PekNPbEd5amFzMXYtSTdJcWNSU3FrZQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-21T02:04:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -401,24 +383,6 @@
         "bias": -1
       },
       {
-        "title": "Charlotte immigration crackdown goes on, Homeland Security says, despite sheriff saying it ended - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa044eE1VRXdyQm9wNUpDc0EtYVZTekJOR1JGUVVQa3NERHB3MFlOY0ZiSk1KZDhwbWU1SW9RTzFsYlM0bDFKbUt2WFFXcTRfOEJKc2E0dkcyVWtrZmFWUHRadGFNOWFReldQeEJ3UUs5ZHBJaG56cW95Y2ducHNSTjc5VmtWbG40RVdWQjh1aUJ0RU1oM0N4akVfMFhMcUExSXpSSzJiUjhuUlE?oc=5",
-        "description": "",
-        "pubDate": "2025-11-21T00:49:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Israel plans to seize historical site in the West Bank as a new settlement appears - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWHpJNmljdlUwMGxZeVBBeGx1X2VtYUN2TTFKMzBVYjdvRjFqRkJQTkQxRGRUbGY0UVZzLUJiejBCbUxBNDF5NVlCYTZWOEtMV0dNSjFZb0NnbnlFZGQ0WWlwNTAwdDdJVk9EcHZFWHJROXNMVlVKYVl5OFZDbEZqUzhrelJ2VVl1cEhEd01SaHk3TXNUTFFLVExB?oc=5",
-        "description": "",
-        "pubDate": "2025-11-21T00:42:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Fire prompts evacuations at U.N. climate talks in Brazil; 13 suffer smoke inhalation",
         "link": "https://www.npr.org/2025/11/20/g-s1-98669/fire-united-nations-climate-talks-brazil-cop30",
         "description": "Officials say a fire that spread through pavilions being used for U.N. climate talks in Brazil has prompted evacuations on the next-to-last day of the conference.",
@@ -426,6 +390,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Federal judge orders release of 16 migrants detained in Idaho raid, citing due process violations - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMHJfZjZyaE44R0p4eHl6Ni1PdFV1RG1pMjQxcE5LX2pyMU1rSWdvbF9NZUlZcEszcVZWV0pjQ3pvZU50c0VBY1VYQmtfQS1TaXgwQS0xV2VBeEptOWU4RWwzTjhTc1FDNVQyMTlLdUI5UUo4a0NDVFR3RnZJN2xIajcyTlk3SVVFdm5zV1dEMUhzSG50VENRVEJ3ZlNvOERFRTc3ekpJelExbU0?oc=5",
+        "description": "",
+        "pubDate": "2025-11-21T00:27:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Russia-Ukraine war: List of key events, day 1,366",
@@ -482,17 +455,7 @@
         "bias": 0
       }
     ],
-    "Politics": [
-      {
-        "title": "Federal judge orders release of 16 migrants detained in Idaho raid, citing due process violations - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMHJfZjZyaE44R0p4eHl6Ni1PdFV1RG1pMjQxcE5LX2pyMU1rSWdvbF9NZUlZcEszcVZWV0pjQ3pvZU50c0VBY1VYQmtfQS1TaXgwQS0xV2VBeEptOWU4RWwzTjhTc1FDNVQyMTlLdUI5UUo4a0NDVFR3RnZJN2xIajcyTlk3SVVFdm5zV1dEMUhzSG50VENRVEJ3ZlNvOERFRTc3ekpJelExbU0?oc=5",
-        "description": "",
-        "pubDate": "2025-11-21T00:27:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      }
-    ],
+    "Politics": [],
     "Tech": [
       {
         "title": "Graduate jobs under threat from AI, PwC boss says",
@@ -502,6 +465,33 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55ee/live/7e1dda70-c67e-11f0-8ab6-759444998531.jpg",
         "bias": 0
+      },
+      {
+        "title": "What to know about this weekend’s G20 summit in South Africa that Trump is boycotting - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSkdBX1FtSHl0NXIwWDFCUHpfdUpJVHN5dEpMemxNQmJXTU5zS2lKSTUzbHJBeTFvRVZtRU1XZUtYckVHcWwwU1BiT01jTjNMT3ZDSFl2MGpsMlVNRWRuZ1VTREJOTVRQQ0VkVU9yY3JKMXhuYTAtTjE3T2F0TUhGVW1PekNPbEd5amFzMXYtSTdJcWNSU3FrZQ?oc=5",
+        "description": "",
+        "pubDate": "2025-11-21T02:04:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Charlotte immigration crackdown goes on, Homeland Security says, despite sheriff saying it ended - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa044eE1VRXdyQm9wNUpDc0EtYVZTekJOR1JGUVVQa3NERHB3MFlOY0ZiSk1KZDhwbWU1SW9RTzFsYlM0bDFKbUt2WFFXcTRfOEJKc2E0dkcyVWtrZmFWUHRadGFNOWFReldQeEJ3UUs5ZHBJaG56cW95Y2ducHNSTjc5VmtWbG40RVdWQjh1aUJ0RU1oM0N4akVfMFhMcUExSXpSSzJiUjhuUlE?oc=5",
+        "description": "",
+        "pubDate": "2025-11-21T00:49:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Israel plans to seize historical site in the West Bank as a new settlement appears - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWHpJNmljdlUwMGxZeVBBeGx1X2VtYUN2TTFKMzBVYjdvRjFqRkJQTkQxRGRUbGY0UVZzLUJiejBCbUxBNDF5NVlCYTZWOEtMV0dNSjFZb0NnbnlFZGQ0WWlwNTAwdDdJVk9EcHZFWHJROXNMVlVKYVl5OFZDbEZqUzhrelJ2VVl1cEhEd01SaHk3TXNUTFFLVExB?oc=5",
+        "description": "",
+        "pubDate": "2025-11-21T00:42:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Science": [],
@@ -510,7 +500,7 @@
         "title": "US and Asia stocks slide as AI jitters persist",
         "link": "https://www.bbc.com/news/articles/cwy1yl1202yo?at_medium=RSS&at_campaign=rss",
         "description": "Strong sales at artificial intelligence chip giant Nvidia did little to quell investor worries.",
-        "pubDate": "2025-11-21T01:46:39Z",
+        "pubDate": "2025-11-21T05:22:13Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f0d/live/0e5b9e80-c664-11f0-8c06-f5d460985095.jpg",
         "bias": 0
