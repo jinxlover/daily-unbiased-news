@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-11-22T19:47:52.802483Z",
+  "lastUpdate": "2025-11-22T19:58:22.336488Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Fortress Shmup [Free]",
+        "link": "https://bgodbgg.itch.io/fortress-shmup",
+        "description": "",
+        "pubDate": "2025-11-22T19:52:43Z",
+        "source": "bgodbgg.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MjAwNzY3LmpwZw==/315x250%23c/A4YYgH.jpg",
+        "bias": 0
+      },
       {
         "title": "Moon rewrite [Free] [Windows] [macOS] [Linux] [Android]",
         "link": "https://kodabear705.itch.io/free-copy-exe-no-v-i-r-u-s",
@@ -9,6 +18,24 @@
         "pubDate": "2025-11-22T19:37:15Z",
         "source": "kodabear705.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MjAwNTYxLmpwZWc=/315x250%23c/0x8uWG.jpeg",
+        "bias": 0
+      },
+      {
+        "title": "Angels Cry [Free] [Adventure] [Windows]",
+        "link": "https://lucas-gadonski.itch.io/angels-cry",
+        "description": "Trabalho de Conclusão de Curso(TCC) de Lucas Gadonski Um jogo de ação e aventura 2d com o tema de Guerra Santa",
+        "pubDate": "2025-11-22T19:36:52Z",
+        "source": "lucas-gadonski.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MjAwNTU4LmpwZw==/315x250%23c/WuMJhL.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Destroy yourself wisely... [Free] [Adventure] [Windows]",
+        "link": "https://rarisoiu.itch.io/destroy-yourself-wisely",
+        "description": "",
+        "pubDate": "2025-11-22T19:32:44Z",
+        "source": "rarisoiu.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MjAwNTE2LnBuZw==/315x250%23c/p8H2a7.png",
         "bias": 0
       },
       {
@@ -165,39 +192,12 @@
         "bias": 0
       },
       {
-        "title": "MasterMind [Free] [Puzzle] [Windows]",
-        "link": "https://federicoboccaccio.itch.io/mastermind",
-        "description": "",
-        "pubDate": "2025-11-22T18:24:05Z",
-        "source": "federicoboccaccio.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MTk5NTI4LnBuZw==/315x250%23c/uDhgKE.png",
-        "bias": 0
-      },
-      {
-        "title": "BlindCow_CoreLoop [Free]",
-        "link": "https://itamar-raz-dev-game.itch.io/blindcow-coreloop",
-        "description": "",
-        "pubDate": "2025-11-22T18:19:49Z",
-        "source": "itamar-raz-dev-game.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MTk5NTM5LnBuZw==/315x250%23c/2m0EHP.png",
-        "bias": 0
-      },
-      {
-        "title": "Minimalist Snake [Free] [Action] [Windows]",
+        "title": "Minimalist Snake [Free] [Action] [Windows] [macOS]",
         "link": "https://ableproman.itch.io/minimalist-snake",
         "description": "",
         "pubDate": "2025-11-22T18:14:02Z",
         "source": "ableproman.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MTk5Mzg2LnBuZw==/315x250%23c/yejMRx.png",
-        "bias": 0
-      },
-      {
-        "title": "Gem Descent [Free] [Windows]",
-        "link": "https://tudor-0.itch.io/gem-descent",
-        "description": "A game where you go down in the caves to get a gem.",
-        "pubDate": "2025-11-22T18:13:18Z",
-        "source": "tudor-0.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MTk5MzMyLnBuZw==/315x250%23c/6I8q06.png",
         "bias": 0
       },
       {
@@ -265,6 +265,24 @@
       }
     ],
     "World": [
+      {
+        "title": "‘Violence never ended’: Israeli attacks kill 22 Palestinians in Gaza",
+        "link": "https://www.aljazeera.com/news/2025/11/22/violence-never-ended-israeli-attacks-kill-nearly-two-dozen-in-gaza?traffic_source=rss",
+        "description": "Fear grips Palestinians across the Gaza Strip as Israel continues to carry out attacks despite US-brokered truce.",
+        "pubDate": "2025-11-22T19:40:28Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Indian trade unions oppose new labour codes, call for demonstrations",
+        "link": "https://www.aljazeera.com/news/2025/11/22/indian-trade-unions-oppose-new-labour-codes-call-for-demonstrations?traffic_source=rss",
+        "description": "The unions demand the laws be withdrawn before nationwide protests they plan to hold on Wednesday.",
+        "pubDate": "2025-11-22T19:38:53Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Ukraine's allies voice concerns over US plan to end war",
         "link": "https://www.bbc.com/news/articles/clydg8w7kxvo?at_medium=RSS&at_campaign=rss",
@@ -666,24 +684,6 @@
         "link": "https://www.aljazeera.com/sports/2025/11/22/jake-paul-dwarfed-by-anthony-joshua-in-heavyweight-fight-face-off?traffic_source=rss",
         "description": "Social media boxing star Jake Paul predicts big win over two-time heavyweight champ Anthony Joshua at official launch.",
         "pubDate": "2025-11-22T08:00:44Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "How the olive harvest in Palestine suffers under occupation",
-        "link": "https://www.aljazeera.com/video/by-the-numbers-3/2025/11/22/how-the-olive-harvest-in-palestine-suffers-under-occupation?traffic_source=rss",
-        "description": "Palestine’s centuries-old olive groves have become a target under Israeli occupation.",
-        "pubDate": "2025-11-22T07:55:59Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Indonesian Muslim group tells leader to resign over pro-Israel speaker",
-        "link": "https://www.aljazeera.com/news/2025/11/22/indonesian-muslim-group-tells-leader-to-resign-over-pro-israel-speaker?traffic_source=rss",
-        "description": "The leadership of Nahdlatul Ulama, the world's biggest Islamic organisation, has called on their chairman to resign.",
-        "pubDate": "2025-11-22T07:43:29Z",
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
