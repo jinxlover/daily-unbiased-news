@@ -1,7 +1,25 @@
 {
-  "lastUpdate": "2025-11-22T13:45:31.589096Z",
+  "lastUpdate": "2025-11-22T13:55:40.198088Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Mr.Pickles [Free] [Windows]",
+        "link": "https://ust9546.itch.io/mr",
+        "description": "",
+        "pubDate": "2025-11-22T13:49:18Z",
+        "source": "ust9546.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MTk2MzgwLnBuZw==/315x250%23c/WSHMQt.png",
+        "bias": 0
+      },
+      {
+        "title": "Flappy Plane [Free] [Adventure]",
+        "link": "https://tonymoron20.itch.io/flappy-plane",
+        "description": "Clon de flappy Bird hecho en Godot Engine",
+        "pubDate": "2025-11-22T13:48:47Z",
+        "source": "tonymoron20.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MTk2MzI5LnBuZw==/315x250%23c/YrPPXU.png",
+        "bias": 0
+      },
       {
         "title": "Batalla de Orleands [Free] [Windows]",
         "link": "https://xnumgames.itch.io/batalla-de-orleands",
@@ -45,6 +63,15 @@
         "pubDate": "2025-11-22T13:27:44Z",
         "source": "xnumgames.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MTk2MTY3LnBuZw==/315x250%23c/5zAx3s.png",
+        "bias": 0
+      },
+      {
+        "title": "The Mistfall [Free] [Other] [Windows]",
+        "link": "https://marecheck.itch.io/the-mistfall",
+        "description": "",
+        "pubDate": "2025-11-22T13:26:00Z",
+        "source": "marecheck.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MTk2MTUzLmpwZw==/315x250%23c/sRSymP.jpg",
         "bias": 0
       },
       {
@@ -117,15 +144,6 @@
         "pubDate": "2025-11-22T13:14:29Z",
         "source": "xukeplays.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MTk2MDMyLmpwZWc=/315x250%23c/2mqYDD.jpeg",
-        "bias": 0
-      },
-      {
-        "title": "STOP [Free] [Puzzle]",
-        "link": "https://daichigames.itch.io/stop",
-        "description": "stop time to solve puzzles",
-        "pubDate": "2025-11-22T13:03:14Z",
-        "source": "daichigames.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MTk2MjUxLmdpZg==/315x250%23c/IBM%2FL3.gif",
         "bias": 0
       },
       {
@@ -219,24 +237,6 @@
         "bias": 0
       },
       {
-        "title": "Guess that Pokémon! [Free] [Puzzle]",
-        "link": "https://master-sak.itch.io/guess-that-pokmon",
-        "description": "",
-        "pubDate": "2025-11-22T12:11:38Z",
-        "source": "master-sak.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MTk1MzU3LnBuZw==/315x250%23c/MMRGTK.png",
-        "bias": 0
-      },
-      {
-        "title": "Chained [Free] [Action] [Windows]",
-        "link": "https://anoa-interactive.itch.io/chained",
-        "description": "",
-        "pubDate": "2025-11-22T11:53:56Z",
-        "source": "anoa-interactive.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MTk1MDY1LnBuZw==/315x250%23c/z8LXve.png",
-        "bias": 0
-      },
-      {
         "title": "Plushy Café [Free] [Simulation] [Windows]",
         "link": "https://arinaaznauryan.itch.io/plushy-cafe",
         "description": "A cafe where you serve cute plushies, cook, clean, and more!",
@@ -274,6 +274,33 @@
       }
     ],
     "World": [
+      {
+        "title": "Brazil's Bolsonaro arrested for allegedly plotting escape ahead of prison term",
+        "link": "https://www.npr.org/2025/11/22/nx-s1-5617668/brazil-bolsonaro-arrest-order-supreme-court",
+        "description": "Brazil's Supreme Court ordered the arrest of Jair Bolsonaro, with a judge claiming the former president was intent on escaping as he was set to begin his prison sentence for leading a coup attempt.",
+        "pubDate": "2025-11-22T13:50:30Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Mamdani says Israel is ‘committing genocide’ in Gaza at Trump meeting",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/22/https-aljazeeranet-my-sharepoint-com-f-g-personal?traffic_source=rss",
+        "description": "New York City Mayor-elect Zohran Mamdani said Israel is committing genocide in Gaza while meeting with President Trump.",
+        "pubDate": "2025-11-22T13:48:40Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "‘Really great mayor’: Trump showers Zohran Mamdani with praise",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/22/really-great-mayor-trump-showers-zohran-mamdani-with-praise?traffic_source=rss",
+        "description": "US President Donald Trump and New York City Mayor-elect Zohran Mamdani met on Friday after weeks of trading barbs.",
+        "pubDate": "2025-11-22T13:45:45Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Opinion: Jamal Khashoggi's words live forever",
         "link": "https://www.npr.org/2025/11/22/nx-s1-5610434/opinion-jamal-khashoggis-words-live-forever",
@@ -572,15 +599,6 @@
         "bias": -1
       },
       {
-        "title": "US warns civilian flights as military activity around Venezuela increases",
-        "link": "https://www.aljazeera.com/news/2025/11/22/us-warns-civilian-flights-as-military-activity-around-venezuela-increases?traffic_source=rss",
-        "description": "US aviation administration issues warning amid 'worsening security' and growing 'military activity' around Venezuela.",
-        "pubDate": "2025-11-22T05:22:02Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "Negotiators at UN climate talks split over when and how to phaseout use oil, gas and coal - AP News",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeVg5M2pNQ0duNTllMnJGUmtnSl9rTFhrWmVLWWllTEJCOUtXQkhsekc5UkNFREs4MjlPZXRtcmhWY01IWV92ZzBSY09sY3JseXl2eGstVnFOQUZzdVpXLW9taURNeURSSVlYMWw3c0c1eTdmOTB6ZVNQbExmYzFTSjhyVEQzSUtsNU5IOXVMb3E5NHBlNXJpdnF0T2tQbmR0MmtF?oc=5",
         "description": "",
@@ -588,15 +606,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Colombia hails ‘historic blow’ after largest cocaine bust in a decade",
-        "link": "https://www.aljazeera.com/news/2025/11/22/colombia-hails-historic-blow-after-largest-cocaine-bust-in-a-decade?traffic_source=rss",
-        "description": "Authorities said the bust prevented the circulation of 35 million doses of cocaine worth more than $388m.",
-        "pubDate": "2025-11-22T04:58:47Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       },
       {
         "title": "Rep. Marjorie Taylor Greene of Georgia, former Trump loyalist, says she is resigning from Congress - AP News",
@@ -714,15 +723,6 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5c1/live/5f061350-c6fb-11f0-a863-434ee92aa5e3.png",
         "bias": 0
-      },
-      {
-        "title": "Senators want answers from Coast Guard on how it probes displays of swastikas or other hate symbols - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUWJrS0Jkb3FoWDFieHhacFItQnR4SzFtTE1kdXNVTkNCOWg5T0JiRHR2QkNHcl9JT0RmSVJuZzBfUE9BOW1McmdRY2tXdThxcmZWSFVzRUp3TEtfcDFRR2FFRjFmSmM1OEVTS0RURk9PNi0zQ3NSVnc0WXZ5TTZaYTM2bnJnb3l4QVcyQ1dQa1Jsa1g5SjdubTVpaDZiTmc?oc=5",
-        "description": "",
-        "pubDate": "2025-11-22T01:15:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
@@ -817,7 +817,89 @@
         "bias": -1
       }
     ],
-    "Tech": [],
+    "Tech": [
+      {
+        "title": "Brazil’s judge orders Bolsonaro’s arrest for allegedly plotting escape ahead of prison term - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaG1MSUZrbmtULUE2NGkwTEhNakZCRUpKWmEyU3J3dWhtbncyZFhjNGxCaVM5SlNDbUpqeldjNmxQVjZoNWg2SUJHcHRLbVdVR0JfczhDYmJ6UDhCZW93ZDc1ZkQzdHpvejdLam5neHVGM3RmaVRVUHJYVVBSSUJKd0xBeFNtSHlhN09JVlpfcGtCN3Ey?oc=5",
+        "description": "",
+        "pubDate": "2025-11-22T12:28:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Beloved Italian singer Ornella Vanoni, whose iconic career spanned 70 years, dies at 91 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQTZVNGktUjA2eFU2WkFqYU5QeTVtSU43eXVNU0N5NEdqYUJNTHZCdWFMXzBQS2tXNlNUb250UzJ0OWx1enZzQ2k5cDRDcmxVVC1tVUE5dXQ5N1NGaVBwVHBONTF3NkwzRTIxUmpXVUd5R1pJSlNodGI4X1gyUEtFU1R3eTFkUUZGMXRHb3RvZTBMOU91Ung4?oc=5",
+        "description": "",
+        "pubDate": "2025-11-22T12:13:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Trump paints Zelenskyy into a corner with his new plan to end Russia’s war on Ukraine - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTXJ3MWNzSld2T1JqcmhxMVFQT2QtQzFoaE1FajNUZkpqQXNGdlBkMEQtZnBhd3pOd19aSVVsNjBaWjJOVUpBMm9jNXdUMVc5WlB6c0VWYmwtMGY1Qy1uRlgyS1Q1cDdSR1h6TUNqNjFqMFhncjFXMWRfR2ZJQWVRM3ZuZkNaQ29KdFdmSWcxR1NidWdHU1VfN1hR?oc=5",
+        "description": "",
+        "pubDate": "2025-11-22T05:03:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Republicans hyped the Epstein files for years. Now Trump is under pressure to deliver - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVkxES0FTQ0VNUFFKc3huTmo1S0NURHREU09HSmh2UTc2eEdmUWN3ZWlacWVnMWtKU0N4OFNqOXV4OHFPM180c0RtVjYzWjV4OHN1UHBLandtUHowT015R0FNMG1lakU1dXdzYWdMVVhQRlowQ1dZTHZjaUE3VDVqMUxaUWlXX05s?oc=5",
+        "description": "",
+        "pubDate": "2025-11-22T05:02:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Trump and Mamdani go from adversaries to allies after White House meeting - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMFBrZDFYb21zc3Vkak1ZWUVMclE3NkIzMk1mN2hXbjJLWjB6VzdpR1NPNlNnWlNPS2kxVzBZVGlBQVc5RWpIR3BOVFl6ZDRwTXdmcU1NX0RIY2pIUjFIOFlkZG5ZWWttOW9hV2NtWUFaQWdaNkNwQTEzV3pFaXo5MnJrdV8xTVJOUHZPQUZEd1pONEt5WmQ0VFlB?oc=5",
+        "description": "",
+        "pubDate": "2025-11-22T04:18:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Japan’s first female leader faces a taboo over entering the male-only sumo ring - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdkNBMDlfdVBOcGhibWQ2OXVSdC1zZEtUMkhaaHlwa0dyN2I4eDU4SlVPMy1VdkV1SkNDZWZWYUwzdnlsODdKcHRoQWZFQXp6Vjd0VEJpaGhIeWcyOGU3a3pKbzNHX1FvOFVld1hFMzcwOTNVUGRaV201MmY0SlBpUHBZdVBaV0V0dkNQOUlDNF9mVUhOUDNFWEVR?oc=5",
+        "description": "",
+        "pubDate": "2025-11-22T01:58:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Zelenskyy says Ukraine faces a stark choice and risks losing American support over US peace plan - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM0NPZWpCMHBVeFFJYW5zX3pELUsydXJTRnJLRVFzR0dVdmk1VTVpaVZvT3RRNXdWLUQtbGVScXN5ak9jSkE5UnZUcFFhTnRXLVNRV0piSnFwemNfWTVGZEJudzBrZlVSajlOOTlVbmxUWXBjX05vZTdFWjZwMlFBdG03YjlJN1NuYkVCLWRyc2Q1WFdRV21mZHhOX0pYbTdVOTFVbm11SXFWV0dGTWp4TWNn?oc=5",
+        "description": "",
+        "pubDate": "2025-11-22T01:13:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Supreme Court blocks order that found Texas congressional map is likely racially biased - AP News",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWld0UFV2MEdfM2Jndi1jcHBYWmNCZ0xOenBaZEt5N0ZpT3JoakJsWHdLWG9qdlJDbVkxMVVyUjNGY2Y1alloWGZiQVAwRkxJQ0pOajhhZHdDVzdmX0tfT0hUZWgyZW8tWHN4Q3pGaTVTSmhZZjFteDJfVUEyeXRFbURJMFJOaW5fMHY1aFNMV2o3NmwyVndJamRUYlRMckNYSTN6czk1clhCRzFNbVhMWlVLTm95U3VJS3Nta0Q4TW1Fcm9X?oc=5",
+        "description": "",
+        "pubDate": "2025-11-22T01:01:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Flu activity is low, but experts worry about a new strain and vaccination rates - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZEVITndjN3NURnY5b29hVi15R2p4Tm1PUkhTTDByUUVLX0tGeFRRb3EtUGZLMTFKdklBRjVZemZ4cTZCbFlhdkluQVpyVnZzMWVrOUZLTlZVVHQwMDY0U3NuRW1qZXlaYTlfd0k3bHhsWVJocVFvQTJ0RjQ3bGlTUjluQl9ZZWwteHc?oc=5",
+        "description": "",
+        "pubDate": "2025-11-22T00:34:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ],
     "Science": [
       {
         "title": "RFK Jr. says he’s following ‘gold standard’ science. Here’s what to know - AP News",
@@ -867,12 +949,39 @@
         "bias": 0
       },
       {
+        "title": "Torrential rains return to Southern California, prompting flash flood warnings before moving east - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMUZyNmZZckJxdGxDQWhtX0R5dGc2bjdZMXFMZjdVZjlzOWNJUE9BU2syaFF6TUdrc0dCTVY4OHg5TGFsVkVZYzl5bF9HUk9yejZTQ1dNNjJnZmlGclZmZXB4djNGdlNvNUF4UDl1anNLZ2doVTFGcjdNaUo1cHNJY0FxMTE0LVZMN2VIUUNqdFlXemJ5OG9EY0dzWWFtRG9TVUE?oc=5",
+        "description": "",
+        "pubDate": "2025-11-22T04:29:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Fraud victims 'are being failed' by justice system",
         "link": "https://www.bbc.com/news/articles/cy404wpvkq3o?at_medium=RSS&at_campaign=rss",
         "description": "Only a fraction of fraud reports result in a prosecution, new analysis suggests.",
         "pubDate": "2025-11-22T03:23:50Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fbd/live/79c65c10-c60e-11f0-9fb5-5f3a3703a365.jpg",
+        "bias": 0
+      },
+      {
+        "title": "49ers void more than $26 million from Brandon Aiyuk’s contract, AP source says - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOXzdVcl92X1JJNGw2WVQ3QjlTUVg4YW9QZTZOUGMzLWxkbGV4VTZxbHNsc3pCM0NfcEtvR1ltREowSm8xeUlkcHU5SFJPdnBrTXhBbjFnYzRrM2F2UUktMXBCR1FtMHpBZmpPU0RJVENuQ1RsMHp2TGlfLWFJZVlBYnJna2xfT01MY0IxQkZfbUltZF9IMHZMYQ?oc=5",
+        "description": "",
+        "pubDate": "2025-11-22T02:52:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Motorist in North Carolina tells 911: 'I just had a bald eagle drop a cat through my windshield' - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTVd1eHdabExrMW1oS1JZMXpKTE5pclF0MkpTSXhKWTlENlN1QjN1aVl6a2dSeGFETFpvdHhjQUktcG4tcTBkTEpfSk5WNmxTejNtWUV4anhyQkpNOGo4NU9SbkpSTWlpdUFKdl9xNWpjWkFxR2RLNG1UbkdrdzVZRkxpUDlWQ1lqckItd0dLQndRR3NhNkhueEZaaGJTb0RaU0E?oc=5",
+        "description": "",
+        "pubDate": "2025-11-22T01:18:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       }
     ],
