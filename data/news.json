@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-22T15:18:18.983582Z",
+  "lastUpdate": "2025-11-22T15:31:56.872275Z",
   "news": {
     "Gaming": [
       {
@@ -39,6 +39,15 @@
         "bias": 0
       },
       {
+        "title": "Desktop Pal -  Voiced A.I Desktop Companions [Free] [Simulation] [Windows]",
+        "link": "https://akumavenom.itch.io/desktop-pal-tts-llm-ai-desktop-companion",
+        "description": "Desktop Pal, an AI-powered companion that seamlessly integrates into your desktop experience.",
+        "pubDate": "2025-11-22T14:56:08Z",
+        "source": "akumavenom.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MTk3MzEwLnBuZw==/315x250%23c/%2Bk29bF.png",
+        "bias": 0
+      },
+      {
         "title": "Wordle [Free] [Puzzle] [Windows]",
         "link": "https://rumblehound.itch.io/wordle",
         "description": "Wordle remake",
@@ -57,7 +66,7 @@
         "bias": 0
       },
       {
-        "title": "Qubes [Free] [macOS]",
+        "title": "Qubes [Free] [Windows] [macOS]",
         "link": "https://alberto-lazari.itch.io/qubes",
         "description": "Small Unreal networking demo",
         "pubDate": "2025-11-22T14:46:15Z",
@@ -219,24 +228,6 @@
         "bias": 0
       },
       {
-        "title": "Rocketeer Doggy Dodger [Free] [Survival]",
-        "link": "https://goomba-wave.itch.io/rocketeer-doggy-dodger",
-        "description": "",
-        "pubDate": "2025-11-22T13:25:34Z",
-        "source": "goomba-wave.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MTk2MDkzLnBuZw==/315x250%23c/jRZfk2.png",
-        "bias": 0
-      },
-      {
-        "title": "Cher Ami: The Pidgeon of Hope [Free] [Action] [Windows]",
-        "link": "https://wyderyn.itch.io/cher-ami-the-pidgeon-of-hope",
-        "description": "",
-        "pubDate": "2025-11-22T13:24:45Z",
-        "source": "wyderyn.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MTk2MjI3LnBuZw==/315x250%23c/P56ADp.png",
-        "bias": 0
-      },
-      {
         "title": "VocabVenture [Free] [Educational]",
         "link": "https://2121521.itch.io/vocabventure",
         "description": "",
@@ -265,6 +256,15 @@
       }
     ],
     "World": [
+      {
+        "title": "Russia claims more land in Ukraine as US pushes its plan; EU, UK regroup",
+        "link": "https://www.aljazeera.com/news/2025/11/22/russia-claims-more-land-in-ukraine-as-us-pushes-its-plan-eu-uk-regroup?traffic_source=rss",
+        "description": "Moscow says it is successfully pushing deeper into Zaporizhia and Pokrovsk in Donetsk and taking more territory.",
+        "pubDate": "2025-11-22T15:23:10Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Ukraine's allies voice concerns over US plan to end war",
         "link": "https://www.bbc.com/news/articles/clydg8w7kxvo?at_medium=RSS&at_campaign=rss",
@@ -617,19 +617,19 @@
         "bias": 0
       },
       {
-        "title": "Seven bodyguards arrested over Mexico mayor’s assassination",
-        "link": "https://www.aljazeera.com/news/2025/11/22/seven-bodyguards-arrested-over-mexico-mayors-assassination?traffic_source=rss",
-        "description": "The killing of Carlos Manzo has caused widespread shock and outrage, prompting antigovernment protests.",
-        "pubDate": "2025-11-22T06:37:00Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "Dozens of firefighters battle blaze on container ship docked at LA port - AP News",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS1ZiTFlPZS1lYnN4cnRZeWM3emJKSXRFN2liTzJ6ZWlHM0MxcUJsS3FEWmJLNldld2d5R1Y0OGxaSE1Mb3pfWlRGRzAzWTl2R1A5dVVJUDBINkljLXRBU3pSS181ei1ES1VvcnVVaEl2ZXlud000Wkhtekdya3ljbnRTZXRtNTRIaC1Bd1VWQWxKX1pPWFE?oc=5",
         "description": "",
         "pubDate": "2025-11-22T05:27:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Epstein's accusers grapple with complex emotions about promised release of Justice Department files - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUVc2RElhYWx0ZXo1MnBibENRVGNUS2xXMVlMZzV2WmhhTk9mbkFsdEJwUTRDc0RQR2J5SUc1YkhWRnd5SFh2X0FPVW90VjlLQmY3OFdrZXVYYUZscTcwdUxDS2NqVnZVdC1YWmFQZ3BPTDI2ejg2azlKclVOWTBzNl8zYW55Z3V0TXNyVTBjVXNtU0U?oc=5",
+        "description": "",
+        "pubDate": "2025-11-22T05:02:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -704,15 +704,6 @@
         "pubDate": "2025-11-22T03:45:00Z",
         "source": "news.google.com",
         "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Christian converts are among the Iranians being sent home from US",
-        "link": "https://www.bbc.com/news/articles/cdege0k962do?at_medium=RSS&at_campaign=rss",
-        "description": "Iranians who have converted to Christianity and had their asylum claims rejected speak to the BBC.",
-        "pubDate": "2025-11-22T03:32:39Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c3d/live/fc7a6410-c73c-11f0-8c06-f5d460985095.png",
         "bias": 0
       }
     ],
@@ -883,7 +874,7 @@
         "description": "His family issued a statement on Saturday saying they are \"deeply saddened to announce the passing of Paul Costelloe following a short illness\".",
         "pubDate": "2025-11-22T14:53:17Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e80e/live/37638db0-c7b3-11f0-83e1-2f64c544cba6.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b343/live/0411c700-c7b4-11f0-83e1-2f64c544cba6.jpg",
         "bias": 0
       },
       {
