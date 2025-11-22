@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-11-22T07:17:35.268985Z",
+  "lastUpdate": "2025-11-22T07:30:28.425873Z",
   "news": {
     "Gaming": [
+      {
+        "title": "El Licenciado [Free] [Role Playing]",
+        "link": "https://lteransanchez.itch.io/el-licenciado",
+        "description": "",
+        "pubDate": "2025-11-22T07:26:45Z",
+        "source": "lteransanchez.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MTkzMTkzLnBuZw==/315x250%23c/uU6aLG.png",
+        "bias": 0
+      },
       {
         "title": "Chimaelis [Free] [Adventure] [Windows]",
         "link": "https://akidne-develops.itch.io/chimaelis",
@@ -210,15 +219,6 @@
         "bias": 0
       },
       {
-        "title": "Geode Launcher [Free] [Platformer] [Windows] [Linux] [Android]",
-        "link": "https://nophru.itch.io/undertale",
-        "description": "Aethergode",
-        "pubDate": "2025-11-22T04:06:08Z",
-        "source": "nophru.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MTkxODI4LmpwZWc=/315x250%23c/cP%2F2GR.jpeg",
-        "bias": 0
-      },
-      {
         "title": "Katformer [Free] [Platformer] [Windows]",
         "link": "https://coolkatter.itch.io/katformer",
         "description": "a really cool platformer",
@@ -275,6 +275,24 @@
     ],
     "World": [
       {
+        "title": "LIVE: Israel attacks Gaza as large-scale recovery of bodies set to begin",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/11/22/live-israel-3?traffic_source=rss",
+        "description": "A series of artillery, air attacks hit near Rafah, Khan Younis, Deir el-Balah, as well as Gaza City.",
+        "pubDate": "2025-11-22T07:18:37Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "US sanctions must be stopped as they reshape life in Cuba: UN rapporteur",
+        "link": "https://www.aljazeera.com/news/2025/11/22/us-sanctions-must-be-stopped-as-they-reshape-life-in-cuba-un-rapporteur?traffic_source=rss",
+        "description": "The ongoing US actions are 'suffocating the social fabric of Cuban society', according to the expert.",
+        "pubDate": "2025-11-22T06:54:51Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Seven bodyguards arrested over Mexico mayor’s assassination",
         "link": "https://www.aljazeera.com/news/2025/11/22/seven-bodyguards-arrested-over-mexico-mayors-assassination?traffic_source=rss",
         "description": "The killing of Carlos Manzo has caused widespread shock and outrage, prompting antigovernment protests.",
@@ -302,6 +320,15 @@
         "bias": -1
       },
       {
+        "title": "Trump paints Zelenskyy into a corner with his new plan to end Russia’s war on Ukraine - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTXJ3MWNzSld2T1JqcmhxMVFQT2QtQzFoaE1FajNUZkpqQXNGdlBkMEQtZnBhd3pOd19aSVVsNjBaWjJOVUpBMm9jNXdUMVc5WlB6c0VWYmwtMGY1Qy1uRlgyS1Q1cDdSR1h6TUNqNjFqMFhncjFXMWRfR2ZJQWVRM3ZuZkNaQ29KdFdmSWcxR1NidWdHU1VfN1hR?oc=5",
+        "description": "",
+        "pubDate": "2025-11-22T05:03:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Colombia hails ‘historic blow’ after largest cocaine bust in a decade",
         "link": "https://www.aljazeera.com/news/2025/11/22/colombia-hails-historic-blow-after-largest-cocaine-bust-in-a-decade?traffic_source=rss",
         "description": "Authorities said the bust prevented the circulation of 35 million doses of cocaine worth more than $388m.",
@@ -327,6 +354,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Trump and Mamdani go from adversaries to allies after White House meeting - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMFBrZDFYb21zc3Vkak1ZWUVMclE3NkIzMk1mN2hXbjJLWjB6VzdpR1NPNlNnWlNPS2kxVzBZVGlBQVc5RWpIR3BOVFl6ZDRwTXdmcU1NX0RIY2pIUjFIOFlkZG5ZWWttOW9hV2NtWUFaQWdaNkNwQTEzV3pFaXo5MnJrdV8xTVJOUHZPQUZEd1pONEt5WmQ0VFlB?oc=5",
+        "description": "",
+        "pubDate": "2025-11-22T04:18:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Trump ally Marjorie Taylor Greene to quit Congress after Epstein files feud",
@@ -358,10 +394,10 @@
       {
         "title": "Five takeaways from Trump and Mamdani's surprisingly cordial meeting",
         "link": "https://www.bbc.com/news/articles/cvgqd42gl0qo?at_medium=RSS&at_campaign=rss",
-        "description": "It was billed as potentially the political showdown of the year. Instead, both men gave one another praise.",
+        "description": "It was billed as potentially the political showdown of the year - instead, both men gave one another praise.",
         "pubDate": "2025-11-22T04:04:18Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/704a/live/abd2abf0-c735-11f0-9fb5-5f3a3703a365.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67af/live/26f109b0-c774-11f0-b0e6-6b19d8000d31.jpg",
         "bias": 0
       },
       {
@@ -437,6 +473,15 @@
         "bias": 0
       },
       {
+        "title": "Authorities arrest 7 bodyguards in connection with a Mexican mayor’s assassination - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR2lkUHFvT3F6QWR1eklqVGJIM2FFeDVhanZUZXlBNnNvUFQ1cEd3WWxCdWZfSEpUZ2ZZRVBvQWNGQXlKa09FTl91U2Rpc1hjVjY1bU9qaENfX2pPN1M2MmEzQWdsbmdnNlpHSVYzb2pWU2oyQXM1RDFWeUVNckJpZTVkNmZISV9NWXBEWVNvaXE3MGUxN1hlY0lOSVQ4S1hx?oc=5",
+        "description": "",
+        "pubDate": "2025-11-22T02:30:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "US Supreme Court blocks order on likely racial bias in new Texas voter map",
         "link": "https://www.aljazeera.com/news/2025/11/22/us-supreme-court-blocks-order-on-likely-racial-bias-in-new-texas-voter-map?traffic_source=rss",
         "description": "Texas redrew its voting map as part of President Donald Trump's plan to win extra Republican seats in Congress in 2026.",
@@ -451,7 +496,16 @@
         "description": "Most players come from underprivileged, rural backgrounds and learned the sport in the last few years.",
         "pubDate": "2025-11-22T02:07:19Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68ee/live/782445a0-c5de-11f0-bca0-d197f0674a9d.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d11/live/4ffb5310-c774-11f0-a892-01d657345866.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Japan’s first female leader faces a taboo over entering the male-only sumo ring - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdkNBMDlfdVBOcGhibWQ2OXVSdC1zZEtUMkhaaHlwa0dyN2I4eDU4SlVPMy1VdkV1SkNDZWZWYUwzdnlsODdKcHRoQWZFQXp6Vjd0VEJpaGhIeWcyOGU3a3pKbzNHX1FvOFVld1hFMzcwOTNVUGRaV201MmY0SlBpUHBZdVBaV0V0dkNQOUlDNF9mVUhOUDNFWEVR?oc=5",
+        "description": "",
+        "pubDate": "2025-11-22T01:58:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -477,6 +531,24 @@
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUWJrS0Jkb3FoWDFieHhacFItQnR4SzFtTE1kdXNVTkNCOWg5T0JiRHR2QkNHcl9JT0RmSVJuZzBfUE9BOW1McmdRY2tXdThxcmZWSFVzRUp3TEtfcDFRR2FFRjFmSmM1OEVTS0RURk9PNi0zQ3NSVnc0WXZ5TTZaYTM2bnJnb3l4QVcyQ1dQa1Jsa1g5SjdubTVpaDZiTmc?oc=5",
         "description": "",
         "pubDate": "2025-11-22T01:15:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Zelenskyy says Ukraine faces a stark choice and risks losing American support over US peace plan - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM0NPZWpCMHBVeFFJYW5zX3pELUsydXJTRnJLRVFzR0dVdmk1VTVpaVZvT3RRNXdWLUQtbGVScXN5ak9jSkE5UnZUcFFhTnRXLVNRV0piSnFwemNfWTVGZEJudzBrZlVSajlOOTlVbmxUWXBjX05vZTdFWjZwMlFBdG03YjlJN1NuYkVCLWRyc2Q1WFdRV21mZHhOX0pYbTdVOTFVbm11SXFWV0dGTWp4TWNn?oc=5",
+        "description": "",
+        "pubDate": "2025-11-22T01:13:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Supreme Court blocks order that found Texas congressional map is likely racially biased - AP News",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWld0UFV2MEdfM2Jndi1jcHBYWmNCZ0xOenBaZEt5N0ZpT3JoakJsWHdLWG9qdlJDbVkxMVVyUjNGY2Y1alloWGZiQVAwRkxJQ0pOajhhZHdDVzdmX0tfT0hUZWgyZW8tWHN4Q3pGaTVTSmhZZjFteDJfVUEyeXRFbURJMFJOaW5fMHY1aFNMV2o3NmwyVndJamRUYlRMckNYSTN6czk1clhCRzFNbVhMWlVLTm95U3VJS3Nta0Q4TW1Fcm9X?oc=5",
+        "description": "",
+        "pubDate": "2025-11-22T01:01:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -539,7 +611,17 @@
       }
     ],
     "Tech": [],
-    "Science": [],
+    "Science": [
+      {
+        "title": "Republicans hyped the Epstein files for years. Now Trump is under pressure to deliver - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVkxES0FTQ0VNUFFKc3huTmo1S0NURHREU09HSmh2UTc2eEdmUWN3ZWlacWVnMWtKU0N4OFNqOXV4OHFPM180c0RtVjYzWjV4OHN1UHBLandtUHowT015R0FNMG1lakU1dXdzYWdMVVhQRlowQ1dZTHZjaUE3VDVqMUxaUWlXX05s?oc=5",
+        "description": "",
+        "pubDate": "2025-11-22T05:02:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ],
     "Business": [
       {
         "title": "Community freecycle event expands to third site",
