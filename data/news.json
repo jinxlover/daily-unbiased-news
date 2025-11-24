@@ -1,9 +1,18 @@
 {
-  "lastUpdate": "2025-11-24T11:49:55.675062Z",
+  "lastUpdate": "2025-11-24T12:00:16.134406Z",
   "news": {
     "Gaming": [
       {
-        "title": "Neon Platformer 2.0 – HTML5 Template (Rebrand & Resell) [Free] [Action]",
+        "title": "Spaceship Game [Free]",
+        "link": "https://rs-co.itch.io/spaceship-game",
+        "description": "",
+        "pubDate": "2025-11-24T11:44:34Z",
+        "source": "rs-co.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MjI5MTA1LnBuZw==/315x250%23c/gPL7d6.png",
+        "bias": 0
+      },
+      {
+        "title": "Neon Platformer 2.0 – HTML5 Template (Rebrand & Resell) [£1.20] [Action]",
         "link": "https://mickyboy9.itch.io/neon-platformer-20-html5-template-rebrand-resell",
         "description": "A neon side-scrolling platformer HTML5 template you can customise, rebrand, and resell.",
         "pubDate": "2025-11-24T11:39:38Z",
@@ -102,7 +111,7 @@
         "bias": 0
       },
       {
-        "title": "Quacker Dating Simulator II [Free] [Visual Novel] [Windows] [macOS] [Linux]",
+        "title": "Quacker Dating Simulator II [Free] [Visual Novel] [macOS]",
         "link": "https://craccbacc.itch.io/qds2",
         "description": "",
         "pubDate": "2025-11-24T10:09:19Z",
@@ -201,15 +210,6 @@
         "bias": 0
       },
       {
-        "title": "Neon HTML5 Mega Pack (12-in-1) – Rebrand & Resell [£4.99] [Other]",
-        "link": "https://mickyboy9.itch.io/neon-html5-mega-pack-12-in-1-rebrand-resell",
-        "description": "A complete neon-themed 12-game HTML5 template pack you can customise, rebrand, and resell.",
-        "pubDate": "2025-11-24T09:11:08Z",
-        "source": "mickyboy9.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MjI3ODM4LnBuZw==/315x250%23c/L7fRUT.png",
-        "bias": 0
-      },
-      {
         "title": "Echo Link System [Free]",
         "link": "https://chanan-hash.itch.io/echo-link-system",
         "description": "",
@@ -221,6 +221,15 @@
     ],
     "World": [
       {
+        "title": "Are tech companies using your private data to train AI models?",
+        "link": "https://www.aljazeera.com/news/2025/11/24/are-tech-companies-using-your-private-data-to-train-ai-models?traffic_source=rss",
+        "description": "As tech firms race to release new AI tools, users are left unsure how much of their personal data these systems may take",
+        "pubDate": "2025-11-24T11:43:15Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Five dead in suicide bombing in Pakistan",
         "link": "https://www.bbc.com/news/articles/ckgkv47xqn5o?at_medium=RSS&at_campaign=rss",
         "description": "Authorities have described the attack as a \"foiled terrorist plot\", noting that the attackers were gunned down at the gate.",
@@ -228,6 +237,15 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebc2/live/f30ae030-c8fe-11f0-92cf-6b693da5df27.jpg",
         "bias": 0
+      },
+      {
+        "title": "Deadly floods and landslides continue to plague Southeast Asia",
+        "link": "https://www.aljazeera.com/news/2025/11/24/deadly-floods-and-landslides-continue-to-plague-southeast-asia?traffic_source=rss",
+        "description": "More rainfall is expected in the region over the coming days as thousands lose homes and crops.",
+        "pubDate": "2025-11-24T11:26:30Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "He left Gaza and fled to Europe on a jet ski. Now he hopes to bring his family",
@@ -322,7 +340,7 @@
       {
         "title": "Sudan army chief rejects truce proposal citing UAE role",
         "link": "https://www.aljazeera.com/news/2025/11/24/sudan-army-chief-rejects-truce-proposal-citing-uae-role?traffic_source=rss",
-        "description": "Abdel Fattah al-Burhan says UAE cannot be involved as it backs the RSF, signalling that fighting is to continue for now.",
+        "description": "Al-Burhan says proposal 'elimates' the army and 'maintains the RSF in its positions'.",
         "pubDate": "2025-11-24T09:53:15Z",
         "source": "aljazeera.com",
         "image": "",
@@ -464,7 +482,7 @@
         "bias": 0
       },
       {
-        "title": "Russia-Ukraine war live: EU to discuss US plan, several killed in Kharkiv",
+        "title": "Russia-Ukraine war live: Trump suggests ‘big progress’ in peace talks",
         "link": "https://www.aljazeera.com/news/liveblog/2025/11/24/russia-ukraine-war-live-eu-to-discuss-us-plan-several-killed-in-kharkiv?traffic_source=rss",
         "description": "Ukraine and US agree to modify Washington's proposal to end Russia's war, but offer few details.",
         "pubDate": "2025-11-24T08:26:11Z",
@@ -480,15 +498,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Sudan’s top general rejects US-led ceasefire proposal, calling it ‘the worst yet’ - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaWZ3LWowb3dod2ZrMS1YT3JrdzdjSTR5UmRIM0QyWmJhR29KbW9hR2g1eU13b01DNEdBNk5oYTM3c1RYSDNFY1VMQUp2UzZHM1YxNGIzdDJBMDMwN2kxN1ZFWEl0NlI2Y2V5bnJxbFI2Y003ZUpsT2FZOUhodTNQQmxFY25nUTdTdDJjU2U0QzdLRE9TQk53?oc=5",
-        "description": "",
-        "pubDate": "2025-11-24T07:50:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Michelin-starred Australian chef Skye Gyngell dies aged 62",
@@ -590,24 +599,6 @@
         "bias": 0
       },
       {
-        "title": "Stores keep prices down in a tough year for turkeys. Other Thanksgiving foods may cost more - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZGw3RUVIWWRzOWpaN19PaDAyWVJtTkZJZEJPNElkd2ZIdHRWblk4N1ExY2hqaC1RTzROZHRNeG52Q1ZiekJQdlhjbWhDRExGTDhfaldBRWNiSTVnM3pyUzlsSmtXd3ZfaExEeThMRllHeWdralY3RldTdXFhRU9NRlNNYkJxa2xJaVl5R1lqQkdpTi1fU25GMThvN3M?oc=5",
-        "description": "",
-        "pubDate": "2025-11-24T05:23:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Brazilian revelers at Rio’s Pride march rejoice after Bolsonaro’s preemptive jailing - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaU16QzZCdllDN0tOLXhkZEQzcWMzODcxT0RvQWIzSHlVNFZHMVc5TEI0clp3U3ZpMDBnMVUwTUhzVHg4NVVuS0dXS0FDeWJiOTVvczBnalJlT3J4Ykl5bWo0ZEdBakQxZWhKX1FXRUhIclJXR2t4eGotaVdka1ZKb0VNLUl1NTdDNFhXcHlpbHY?oc=5",
-        "description": "",
-        "pubDate": "2025-11-24T04:45:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Thousands of arrests by Trump's crime-fighting task force in Memphis strain crowded jail and courts - AP News",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWkxmV25NTy1UbWhKeHJ0WEJRMnhBWFU0TGVrclZzVi1NQU5NVDNtYXlRTWhIOG9CdGpwdzlrWHJfY0ZEUEttSEI0akJRanlUNHM5ZVZ5T29xRVFPQlNPcHJ6SjFnNjVOYlZpWklhOEhTaHZjUlNtRGxEYllZVzN3eGl2ZXFabmFPX01HM2k5d01vbzJpajRBRU41OFhTUm1SSDNPUg?oc=5",
         "description": "",
@@ -662,13 +653,22 @@
         "bias": -1
       },
       {
-        "title": "Jahmyr Gibbs rescues Lions with long TD run in OT for 34-27 win over Giants - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMVZZOWU1dUtvZEJmc3lLbTRwRUxENkx6aFZTNGdTMzlsbGhXUjZUNldQNjV1SlhUYl9QdnBUVkZ5T3dPWWRkQmNRWkxsbS16MjBvTzhBODlLTHNkRjYxMWE2Y0lOV05SU2x1d2pLY0ViQzdGTllLeHlQQTFZNHFIV1RXX2c?oc=5",
+        "title": "Israel says it killed a senior Hezbollah official in its first strike on Beirut in months - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNlcydEM0N1ZuWDI1aGZNQWxKZ2NacjdGTEhiZHc1OVo4VzJaYjFkc1NMWHJvY2RBUU1sNXlvSmNSVW9mSVR4TXQtaXE1M21oSnBSSWd5QmxrLW95a1pOVEVXVDB4d0NHTzhmRkxNNzJGOVRYc2p2OUdpZUw4Nko0WEFBYUhwM3I0eTE0X01MNENLY25ZTk1oQ0dQMTc1REcx?oc=5",
         "description": "",
-        "pubDate": "2025-11-24T03:37:00Z",
+        "pubDate": "2025-11-24T03:05:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "Hamas meet Egypt’s spy chief, says Israel’s attacks on Gaza threaten truce",
+        "link": "https://www.aljazeera.com/news/2025/11/24/hamas-meet-egypts-spy-chief-says-israels-attacks-on-gaza-threaten-truce?traffic_source=rss",
+        "description": "Meeting in Cairo comes as Palestinians in Gaza held funerals for the dozens of people killed in Israel's latest attacks.",
+        "pubDate": "2025-11-24T03:03:50Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       }
     ],
     "Politics": [
