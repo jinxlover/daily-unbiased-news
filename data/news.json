@@ -1,7 +1,34 @@
 {
-  "lastUpdate": "2025-11-24T10:57:41.136421Z",
+  "lastUpdate": "2025-11-24T11:23:29.217858Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Zenit [Free] [Puzzle]",
+        "link": "https://ajsiiju.itch.io/zenit",
+        "description": "",
+        "pubDate": "2025-11-24T11:10:44Z",
+        "source": "ajsiiju.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MjI4ODU5LmpwZw==/315x250%23c/Dyi1va.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Olly the OCD Engine [Free] [Action]",
+        "link": "https://fronklin.itch.io/olly-the-ocd-engine",
+        "description": "Stay on the rail or Olly will be sad.",
+        "pubDate": "2025-11-24T11:10:20Z",
+        "source": "fronklin.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MjI4ODIzLnBuZw==/315x250%23c/Lp2Pgt.png",
+        "bias": 0
+      },
+      {
+        "title": "Balashi Aqua Experience [Free] [Other]",
+        "link": "https://rexisgaming.itch.io/balashi-aqua-experience",
+        "description": "A interactable presentation of the Balashi Aqua Tour",
+        "pubDate": "2025-11-24T10:53:03Z",
+        "source": "rexisgaming.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MjI4NzE5LnBuZw==/315x250%23c/sDXodm.png",
+        "bias": 0
+      },
       {
         "title": "Ximu's first penny. [Free] [Other]",
         "link": "https://iamximu.itch.io/ximus-first-penny",
@@ -48,7 +75,7 @@
         "bias": 0
       },
       {
-        "title": "DAW RougeLike [Free] [Rhythm] [Android]",
+        "title": "DAW RougeLike [Free] [Rhythm] [Windows] [Android]",
         "link": "https://synim.itch.io/daw-rougelike",
         "description": "A tiny DAW-based roguelike.",
         "pubDate": "2025-11-24T10:02:31Z",
@@ -165,39 +192,12 @@
         "bias": 0
       },
       {
-        "title": "Dataland [Free]",
-        "link": "https://winniekaleido.itch.io/dataland",
-        "description": "A data orb collecting valuable datasets whilst fighting flying cursors by shooting pixels in the air.",
-        "pubDate": "2025-11-24T08:43:01Z",
-        "source": "winniekaleido.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MjI3MzcxLmpwZw==/315x250%23c/H3rPcq.jpg",
-        "bias": 0
-      },
-      {
         "title": "Overtuned [Free]",
         "link": "https://yaboilettuce.itch.io/overtuned",
         "description": "EMP Studios' entry for the Inter Tiger Jam 2025.",
         "pubDate": "2025-11-24T08:38:34Z",
         "source": "yaboilettuce.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MjI3NDMxLmpwZw==/315x250%23c/dU3TWW.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Space Racing [Free] [Strategy]",
-        "link": "https://thecow710.itch.io/space-racing",
-        "description": "Endless game where you have to do the best score",
-        "pubDate": "2025-11-24T08:25:52Z",
-        "source": "thecow710.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MjI3MzUzLnBuZw==/315x250%23c/VdHyCY.png",
-        "bias": 0
-      },
-      {
-        "title": "Lost Pirate [Free] [Platformer] [Windows]",
-        "link": "https://kubirsonson.itch.io/lost-pirate",
-        "description": "#prototype, #godot",
-        "pubDate": "2025-11-24T08:19:06Z",
-        "source": "kubirsonson.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MjI3MjUwLnBuZw==/315x250%23c/KlLUnh.png",
         "bias": 0
       },
       {
@@ -208,18 +208,18 @@
         "source": "chanan-hash.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MjI3OTg5LnBuZw==/315x250%23c/XetnN2.png",
         "bias": 0
-      },
-      {
-        "title": "Reminder of a Dream [Free] [Interactive Fiction]",
-        "link": "https://kh74.itch.io/reminder-of-a-dream",
-        "description": "Remembering when you discover motivation for your aspirations!",
-        "pubDate": "2025-11-24T08:02:51Z",
-        "source": "kh74.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MjI3MTEwLnBuZw==/315x250%23c/UJwp2o.png",
-        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "He left Gaza and fled to Europe on a jet ski. Now he hopes to bring his family",
+        "link": "https://www.npr.org/2025/11/24/nx-s1-5609214/gaza-palestinian-jet-ski-europe",
+        "description": "In an extraordinary journey, a Palestinian man used a jet ski to cross the Mediterranean Sea and reach Europe after he fled the war in Gaza.",
+        "pubDate": "2025-11-24T11:00:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Fifty children escape after mass school abduction in Nigeria",
         "link": "https://www.bbc.com/news/articles/cpwk5qzzppzo?at_medium=RSS&at_campaign=rss",
@@ -237,6 +237,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "'No one will support it': Ukraine's soldiers react to US peace plan",
+        "link": "https://www.bbc.com/news/articles/cp89e5gjykdo?at_medium=RSS&at_campaign=rss",
+        "description": "Ukrainian soldiers at the front are angry, defiant and resigned after US plan became public.",
+        "pubDate": "2025-11-24T10:14:25Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df4a/live/8c4cf070-c865-11f0-b4c8-47dc9718dd39.jpg",
+        "bias": 0
       },
       {
         "title": "Bollywood's 'He-Man' Dharmendra dies at 89",
@@ -446,15 +455,6 @@
         "bias": -1
       },
       {
-        "title": "Sudan’s top general rejects US-led ceasefire proposal, calling it ‘the worst yet’ - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaWZ3LWowb3dod2ZrMS1YT3JrdzdjSTR5UmRIM0QyWmJhR29KbW9hR2g1eU13b01DNEdBNk5oYTM3c1RYSDNFY1VMQUp2UzZHM1YxNGIzdDJBMDMwN2kxN1ZFWEl0NlI2Y2V5bnJxbFI2Y003ZUpsT2FZOUhodTNQQmxFY25nUTdTdDJjU2U0QzdLRE9TQk53?oc=5",
-        "description": "",
-        "pubDate": "2025-11-24T07:50:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Michelin-starred Australian chef Skye Gyngell dies aged 62",
         "link": "https://www.bbc.com/news/articles/cy840l75gx3o?at_medium=RSS&at_campaign=rss",
         "description": "Skye Gyngell, a former private chef to Nigella Lawson and Madonna, was diagnosed with skin cancer last year.",
@@ -478,15 +478,6 @@
         "description": "The 40-year-old superstar turned back the clock to kick one of the goals of the season in the Saudi Pro League.",
         "pubDate": "2025-11-24T07:17:58Z",
         "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "U.S. set to label Maduro-tied Cartel de los Soles as a terror organization",
-        "link": "https://www.npr.org/2025/11/24/g-s1-99000/u-s-label-maduro-cartel-de-los-soles-terror-organization",
-        "description": "President Trump's administration is set to ramp up pressure on Venezuelan President Nicolás Maduro designating Cartel de los Soles as a terrorist organization. But the entity is not a cartel per se.",
-        "pubDate": "2025-11-24T07:11:01Z",
-        "source": "npr.org",
         "image": "",
         "bias": -1
       },
@@ -563,24 +554,6 @@
         "bias": 0
       },
       {
-        "title": "Stores keep prices down in a tough year for turkeys. Other Thanksgiving foods may cost more - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZGw3RUVIWWRzOWpaN19PaDAyWVJtTkZJZEJPNElkd2ZIdHRWblk4N1ExY2hqaC1RTzROZHRNeG52Q1ZiekJQdlhjbWhDRExGTDhfaldBRWNiSTVnM3pyUzlsSmtXd3ZfaExEeThMRllHeWdralY3RldTdXFhRU9NRlNNYkJxa2xJaVl5R1lqQkdpTi1fU25GMThvN3M?oc=5",
-        "description": "",
-        "pubDate": "2025-11-24T05:23:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Brazilian revelers at Rio’s Pride march rejoice after Bolsonaro’s preemptive jailing - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaU16QzZCdllDN0tOLXhkZEQzcWMzODcxT0RvQWIzSHlVNFZHMVc5TEI0clp3U3ZpMDBnMVUwTUhzVHg4NVVuS0dXS0FDeWJiOTVvczBnalJlT3J4Ykl5bWo0ZEdBakQxZWhKX1FXRUhIclJXR2t4eGotaVdka1ZKb0VNLUl1NTdDNFhXcHlpbHY?oc=5",
-        "description": "",
-        "pubDate": "2025-11-24T04:45:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Thousands of arrests by Trump's crime-fighting task force in Memphis strain crowded jail and courts - AP News",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWkxmV25NTy1UbWhKeHJ0WEJRMnhBWFU0TGVrclZzVi1NQU5NVDNtYXlRTWhIOG9CdGpwdzlrWHJfY0ZEUEttSEI0akJRanlUNHM5ZVZ5T29xRVFPQlNPcHJ6SjFnNjVOYlZpWklhOEhTaHZjUlNtRGxEYllZVzN3eGl2ZXFabmFPX01HM2k5d01vbzJpajRBRU41OFhTUm1SSDNPUg?oc=5",
         "description": "",
@@ -635,24 +608,6 @@
         "bias": -1
       },
       {
-        "title": "Jahmyr Gibbs rescues Lions with long TD run in OT for 34-27 win over Giants - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMVZZOWU1dUtvZEJmc3lLbTRwRUxENkx6aFZTNGdTMzlsbGhXUjZUNldQNjV1SlhUYl9QdnBUVkZ5T3dPWWRkQmNRWkxsbS16MjBvTzhBODlLTHNkRjYxMWE2Y0lOV05SU2x1d2pLY0ViQzdGTllLeHlQQTFZNHFIV1RXX2c?oc=5",
-        "description": "",
-        "pubDate": "2025-11-24T03:37:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Messi's goal, 3 assists power Inter Miami past FC Cincinnati 4-0, into 1st Eastern Conference final - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU19XMHg1enAxQ2Q2d0NtSW5PZFNRTVU2TjBBNGJDNUEySGJMSkVTZWtjZi1PUzJKcUhzZEhHNnFRREdpRFNzbmVSZExZSzNJRGtOTUszM1hjTVFxZ2hxYnl1OVM3clpIaWNNVnNJMXZsX3huOUVxX2dnOWVkamdycWlvMXlyTnZzX2s0MkFzQ1hSQQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-24T03:14:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Israel says it killed a senior Hezbollah official in its first strike on Beirut in months - AP News",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNlcydEM0N1ZuWDI1aGZNQWxKZ2NacjdGTEhiZHc1OVo4VzJaYjFkc1NMWHJvY2RBUU1sNXlvSmNSVW9mSVR4TXQtaXE1M21oSnBSSWd5QmxrLW95a1pOVEVXVDB4d0NHTzhmRkxNNzJGOVRYc2p2OUdpZUw4Nko0WEFBYUhwM3I0eTE0X01MNENLY25ZTk1oQ0dQMTc1REcx?oc=5",
         "description": "",
@@ -669,6 +624,42 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Guatemalan woman’s body returned home after fatal shooting in Indiana - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV085ZWNOWEsteVZHbjd4M2RiMUhFSVlHVDlhTmJOUnRuYVVMMUE3Uk9rYWo5Q1V6T1V1SjNqYzI5WTNBb3BqUnZQRXNxV3RtbWZqcjlQS0FwUHA0MGZ6MFRnREFraldUNE9mX1RwaW80ZTJvaXVkR2lDSUV1ZG8waGszMDF4Z1NTdTdjdUpscHBoQUtxTUotdw?oc=5",
+        "description": "",
+        "pubDate": "2025-11-24T02:50:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Dak Prescott rallies Cowboys from 21 down to beat Eagles 24-21 after breaking Tony Romo's record - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZXhvU0lRdlM5am9uUWNKNEpKZnJZdFpUUzNQQnFoaXRYQnVmZ1ZxN3lPZE5iRTNPNXFOQUIycS1TeDI1WVRGTjh3TnpXWkt3d0hBTVZOMjh5YnFjMWJwdHB6NW1YcjUybGMyVkN6MFI3YjBCSVZpWHBTNllNeVlkNUplbXNLQXc?oc=5",
+        "description": "",
+        "pubDate": "2025-11-24T02:49:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Takeoff of China’s flying taxis hits turbulence - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVkRhSW9zejFqc2pzbE1PUnk3cWh5dS1TWHduQmlZNW9salFjWE9qOW9BVzlZNjFBV01lLUNfNTlaUDJXalVYLTY3OTZjdDc1Um5HckpuQ25nSWlYSWJubXl4NWNHbC1fZ2JFOVJlWENzRXpvRmthY3MzNklMbmFvbzZEenVzc2tLUlZxR0FUV0Uwa2FvQUp0c0Z4aENqbGoy?oc=5",
+        "description": "",
+        "pubDate": "2025-11-24T01:30:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Russia-Ukraine war: List of key events, day 1,369",
+        "link": "https://www.aljazeera.com/news/2025/11/24/russia-ukraine-war-list-of-key-events-day-1369?traffic_source=rss",
+        "description": "Here are the key events from day 1,369 of Russia’s war on Ukraine.",
+        "pubDate": "2025-11-24T01:16:49Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       }
     ],
     "Politics": [
@@ -676,7 +667,7 @@
         "title": "What can nervous businesses expect from the Budget?",
         "link": "https://www.bbc.com/news/articles/c1dz7gr042no?at_medium=RSS&at_campaign=rss",
         "description": "It is going to be a nail-biting final few days for business leaders, says the BBC's Business Editor, Simon Jack.",
-        "pubDate": "2025-11-24T10:48:07Z",
+        "pubDate": "2025-11-24T11:08:06Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a60b/live/15b0cd50-c915-11f0-8c06-f5d460985095.jpg",
         "bias": 0
@@ -718,6 +709,15 @@
         "bias": 0
       },
       {
+        "title": "Sudan’s top general rejects US-led ceasefire proposal, calling it ‘the worst yet’ - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaWZ3LWowb3dod2ZrMS1YT3JrdzdjSTR5UmRIM0QyWmJhR29KbW9hR2g1eU13b01DNEdBNk5oYTM3c1RYSDNFY1VMQUp2UzZHM1YxNGIzdDJBMDMwN2kxN1ZFWEl0NlI2Y2V5bnJxbFI2Y003ZUpsT2FZOUhodTNQQmxFY25nUTdTdDJjU2U0QzdLRE9TQk53?oc=5",
+        "description": "",
+        "pubDate": "2025-11-24T07:50:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Senior BBC figures to be questioned by MPs after resignations",
         "link": "https://www.bbc.com/news/articles/c0jepgyl2jwo?at_medium=RSS&at_campaign=rss",
         "description": "A former adviser, whose memo sparked resignations from the BBC's director general and head of news, will take questions publicly for the first time.",
@@ -725,6 +725,15 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0f9/live/8785f470-c913-11f0-9fb5-5f3a3703a365.jpg",
         "bias": 0
+      },
+      {
+        "title": "U.S. set to label Maduro-tied Cartel de los Soles as a terror organization",
+        "link": "https://www.npr.org/2025/11/24/g-s1-99000/u-s-label-maduro-cartel-de-los-soles-terror-organization",
+        "description": "President Trump's administration is set to ramp up pressure on Venezuelan President Nicolás Maduro designating Cartel de los Soles as a terrorist organization. But the entity is not a cartel per se.",
+        "pubDate": "2025-11-24T07:11:01Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "In Geneva, U.S. and Ukraine officials report progress on ending war with Russia",
@@ -736,6 +745,51 @@
         "bias": -1
       },
       {
+        "title": "Stores keep prices down in a tough year for turkeys. Other Thanksgiving foods may cost more - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZGw3RUVIWWRzOWpaN19PaDAyWVJtTkZJZEJPNElkd2ZIdHRWblk4N1ExY2hqaC1RTzROZHRNeG52Q1ZiekJQdlhjbWhDRExGTDhfaldBRWNiSTVnM3pyUzlsSmtXd3ZfaExEeThMRllHeWdralY3RldTdXFhRU9NRlNNYkJxa2xJaVl5R1lqQkdpTi1fU25GMThvN3M?oc=5",
+        "description": "",
+        "pubDate": "2025-11-24T05:23:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Brazilian revelers at Rio’s Pride march rejoice after Bolsonaro’s preemptive jailing - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaU16QzZCdllDN0tOLXhkZEQzcWMzODcxT0RvQWIzSHlVNFZHMVc5TEI0clp3U3ZpMDBnMVUwTUhzVHg4NVVuS0dXS0FDeWJiOTVvczBnalJlT3J4Ykl5bWo0ZEdBakQxZWhKX1FXRUhIclJXR2t4eGotaVdka1ZKb0VNLUl1NTdDNFhXcHlpbHY?oc=5",
+        "description": "",
+        "pubDate": "2025-11-24T04:45:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Jahmyr Gibbs rescues Lions with long TD run in OT for 34-27 win over Giants - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMVZZOWU1dUtvZEJmc3lLbTRwRUxENkx6aFZTNGdTMzlsbGhXUjZUNldQNjV1SlhUYl9QdnBUVkZ5T3dPWWRkQmNRWkxsbS16MjBvTzhBODlLTHNkRjYxMWE2Y0lOV05SU2x1d2pLY0ViQzdGTllLeHlQQTFZNHFIV1RXX2c?oc=5",
+        "description": "",
+        "pubDate": "2025-11-24T03:37:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Messi's goal, 3 assists power Inter Miami past FC Cincinnati 4-0, into 1st Eastern Conference final - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU19XMHg1enAxQ2Q2d0NtSW5PZFNRTVU2TjBBNGJDNUEySGJMSkVTZWtjZi1PUzJKcUhzZEhHNnFRREdpRFNzbmVSZExZSzNJRGtOTUszM1hjTVFxZ2hxYnl1OVM3clpIaWNNVnNJMXZsX3huOUVxX2dnOWVkamdycWlvMXlyTnZzX2s0MkFzQ1hSQQ?oc=5",
+        "description": "",
+        "pubDate": "2025-11-24T03:14:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Shedeur Sanders wins his 1st NFL start, Myles Garrett has 3 sacks as Browns beat Raiders 24-10 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMHNWbDZhTEtVWmR2SDNvZWVIZGNOOGI2QlpfSjhtS2FCWUVzMXB1dlc1Ukc0OEFYQ3VhQTRjeFBlUFViMURUWEVWUWtQVW9WQ18tUDVjSGxTZGktSHJFVWtiTG9LdlQ3cndHbmJLVmE5OUJTTldoS1RXRHhXWnl4Skk0NEVtMWs?oc=5",
+        "description": "",
+        "pubDate": "2025-11-24T02:25:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Tatiana Schlossberg, the granddaughter of JFK, says she has a rare terminal cancer",
         "link": "https://www.npr.org/2025/11/23/nx-s1-5618299/tatiana-schlossberg-kennedy-rfk-cancer-leukemia",
         "description": "In an essay in",
@@ -743,6 +797,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Japan 'crossed a red line' with Taiwan military intervention remarks, Chinese foreign minister says - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUzM1RElqQ0JvU2xBNzhoVmRtdktYZGFBOTd3TVNmbTN6UzhnaThvZTFER2trbDhieENNMU5VdjFXWXZUOVdCbTBDdkNzOGJqRl9nN2J6a2dFTUFnTDJfaHRtLXl6eExXY21TYmxJWkFDRUZuU2dzUjJvelp0ZUhZNERINVg5cmIxRGFSSlB3VUVldzg4bC11NmZneFIzUDBNdWo4?oc=5",
+        "description": "",
+        "pubDate": "2025-11-24T01:38:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Tech": [
@@ -754,18 +817,19 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Top photos from Week 12 of the NFL season - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVFhDLWJUTU0zUm1Bdl9qaHAyNlFidVNfdDFROEdVWGw2NUtiUlNOamRGZDBmQmlfUzhBLUFVYVA3MTFSTTZ1RGdfN0Jxc25Vc3VKbUx3SnR1NWNFUDlaWllRdXgyRDNVVHJxUTJ3U3QyQjZQTjF3b0kySFN5UUdxUTNiTENHdnduMXZrcmk4dThEU1FoVXFN?oc=5",
-        "description": "",
-        "pubDate": "2025-11-24T03:46:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
-    "Science": [],
+    "Science": [
+      {
+        "title": "A bowhead whale's DNA offers clues to fight cancer",
+        "link": "https://www.npr.org/2025/11/24/nx-s1-5612550/bowhead-whale-cancer-dna-longevity",
+        "description": "Scientists searching for new ways to combat cancer think they may have uncovered a promising new lead in the DNA of the bowhead whale.",
+        "pubDate": "2025-11-24T11:00:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      }
+    ],
     "Business": [
       {
         "title": "UK most expensive place to develop nuclear power, report says",
@@ -814,6 +878,15 @@
       }
     ],
     "Culture": [
+      {
+        "title": "Roald Dahl's James Bond film script on display",
+        "link": "https://www.bbc.com/news/articles/c1m3m91xgp5o?at_medium=RSS&at_campaign=rss",
+        "description": "The manuscript of the 007 film You Only Live Twice features in a new collection at a museum.",
+        "pubDate": "2025-11-24T06:47:24Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0716/live/3b547f80-c559-11f0-a1c2-758f53fd6195.jpg",
+        "bias": 0
+      },
       {
         "title": "Cate Blanchett among BBC Radio 4 festive guest editors",
         "link": "https://www.bbc.com/news/articles/c4g6q35j2deo?at_medium=RSS&at_campaign=rss",
