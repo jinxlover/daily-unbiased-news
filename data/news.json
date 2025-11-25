@@ -1,14 +1,41 @@
 {
-  "lastUpdate": "2025-11-25T08:53:00.784288Z",
+  "lastUpdate": "2025-11-25T09:23:45.996220Z",
   "news": {
     "Gaming": [
       {
+        "title": "ROOM 713 [Free] [Interactive Fiction]",
+        "link": "https://bahlesibanda.itch.io/room-713",
+        "description": "A short suspenseful thriller powered by Inky.",
+        "pubDate": "2025-11-25T09:16:41Z",
+        "source": "bahlesibanda.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MjQzNzc3LnBuZw==/315x250%23c/wLeEn7.png",
+        "bias": 0
+      },
+      {
+        "title": "Neon Slot 2.0 – HTML5 Template (Rebrand & Resell) [£1.49] [Simulation]",
+        "link": "https://mickyboy9.itch.io/neon-slot-20-html5-template-rebrand-resell",
+        "description": "A neon-style 5-reel slot machine HTML5 template featuring smooth animations, auto-spin, and classic symbols.",
+        "pubDate": "2025-11-25T08:54:33Z",
+        "source": "mickyboy9.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MjQzNjY4LnBuZw==/315x250%23c/2V84Iu.png",
+        "bias": 0
+      },
+      {
         "title": "Audeo X [Free]",
         "link": "https://frat-713.itch.io/audeo-x",
-        "description": "Proyecto Final Audio y Video UMNG Profesor Gabriel Rodriguez",
+        "description": "Creadores: Felipe Acevedo - Nicolas Rodriguez / Proyecto Final Audio y Video UMNG Profesor Gabriel Rodriguez",
         "pubDate": "2025-11-25T08:50:16Z",
         "source": "frat-713.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MjQzNTE1LnBuZw==/315x250%23c/Cty5%2Be.png",
+        "bias": 0
+      },
+      {
+        "title": "What makes us Punk? [Free] [Visual Novel] [Windows]",
+        "link": "https://lol-wal.itch.io/what-makes-us-punk",
+        "description": "",
+        "pubDate": "2025-11-25T08:39:21Z",
+        "source": "lol-wal.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MjQzNTU3LnBuZw==/315x250%23c/ne%2Blte.png",
         "bias": 0
       },
       {
@@ -36,6 +63,15 @@
         "pubDate": "2025-11-25T07:55:39Z",
         "source": "jeancla.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MjQzMjAzLnBuZw==/315x250%23c/2nqyV4.png",
+        "bias": 0
+      },
+      {
+        "title": "OneBitHell [Free] [Other] [Windows]",
+        "link": "https://bezart06.itch.io/onebithell",
+        "description": "A reverse bullet-hell game where YOU are the boss. Made for the 1-BIT JAM #7.",
+        "pubDate": "2025-11-25T07:51:37Z",
+        "source": "bezart06.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MjQzNjAxLnBuZw==/315x250%23c/tpRT%2B8.png",
         "bias": 0
       },
       {
@@ -136,22 +172,31 @@
         "source": "andrew-welch-krill.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MjQyNTM4LnBuZw==/315x250%23c/EL6Qkr.png",
         "bias": 0
-      },
-      {
-        "title": "Nullwake [Free] [Adventure] [Windows]",
-        "link": "https://nightmareforge.itch.io/nullwake",
-        "description": "Nullwake demo",
-        "pubDate": "2025-11-25T04:00:04Z",
-        "source": "nightmareforge.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MjQxNTIyLnBuZw==/315x250%23c/4%2FJmlg.png",
-        "bias": 0
       }
     ],
     "World": [
       {
-        "title": "Russia and Ukraine trade deadly strikes overnight as US and Russia hold talks",
+        "title": "Palestine Action cofounder to challenge group’s proscription in UK court",
+        "link": "https://www.aljazeera.com/news/2025/11/25/palestine-action-cofounder-to-challenge-groups-proscription-in-uk-court?traffic_source=rss",
+        "description": "Huda Ammori calls into question the pro-Palestine group’s ban under ‘antiterrorism’ laws.",
+        "pubDate": "2025-11-25T09:09:20Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "UK protesters aren’t giving up the fight to save Palestine Action",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/25/uk-protesters-arent-giving-up-the-fight-to-save-palestine-action?traffic_source=rss",
+        "description": "Protesters in the UK have been arrested for holding up signs that say ‘I oppose genocide, I support Palestine Action’.",
+        "pubDate": "2025-11-25T09:00:56Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Russia and Ukraine trade deadly strikes as US and Moscow hold talks",
         "link": "https://www.bbc.com/news/articles/cy95jvw57v2o?at_medium=RSS&at_campaign=rss",
-        "description": "Officals say at least nine people have been killed ahead of US-Russia peace plan talks in Abu Dhabi.",
+        "description": "Officals say at least nine people have been killed ahead of US-Russia talks in Abu Dhabi.",
         "pubDate": "2025-11-25T08:39:29Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c56/live/82a60550-c9d9-11f0-9fb5-5f3a3703a365.jpg",
@@ -203,15 +248,6 @@
         "bias": 0
       },
       {
-        "title": "Russian attacks kill at least 6 in Ukraine while US peace plan is discussed - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcEhNU3hRTzZOeG1IWkpxbFlGaWdfNkcyMGVhRDc3WFAtbEUyZ3FZcXI3MjhvT3dKaHJrQkw2VEVldmJINnVDZGRnY2NLcnNrZ1Q0WVNqXzJ0UWRQd3o5MEdzM29BVk1FVldTck1oM1puSzkwZXFiMGZuVXBFa09tMXMzNkFSWktaeGk2dVd5YS1GTXRjSGVVbzI2SQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-25T07:18:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Top US military adviser tours Caribbean as pressure on Venezuela deepens",
         "link": "https://www.aljazeera.com/news/2025/11/25/top-us-military-adviser-tours-caribbean-as-pressure-on-venezuela-deepens?traffic_source=rss",
         "description": "The trip underscores the role of the US military buildup to pressure Venezuela over alleged drug trafficking.",
@@ -219,15 +255,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Australian Senator Pauline Hanson barred from Parliament for wearing burqa in protest - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLWZVV1FzUmFjbDJzU1hwVjlCNUJQTFJGWXRfVmNQVkNPM3F3cHFvN3FjdW5SUGFRczlOcHY3LUF5ME5ocTRPWUNNekpRejQ4V3JJODNVY3VJRkNzVUJJUzIyVUhDWXdVRTFSUWxRVU85bzdHMGNLWE9GRkJCSDRWT3pTbE9idGRaVzJXdjN5UHJqQldoaDNzdHlsMFZpR0tiNVlJ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-25T06:58:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "UK minister flags visa 'abuse' as student asylum claims surge",
@@ -248,6 +275,15 @@
         "bias": 0
       },
       {
+        "title": "Afghanistan says Pakistani airstrikes in east of the country have killed 10 people, mostly children - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMm9IZWwwd1lHOVNzVlhxSF8tX0k2RTlNMTB6VEFWNVhwLXRKNmVBb21xTXMxckRBQ0RYeUpXcVo3ZmR4ZmNxcHJlcW5tRW9iNFJERGkzbHg1MWdNUld5c0x5YmpHSHdjX2o0N2RObWgxOVJoQTlsaDc5Z1RkZ3J1eDVLdy1zZlkxMzdaVnNaOVltbWtxeG5lSU42SlFFRjNWQzF5TVdtVTZWdW8?oc=5",
+        "description": "",
+        "pubDate": "2025-11-25T06:19:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Russia and Ukraine swap strikes as ceasefire talks persist",
         "link": "https://www.aljazeera.com/news/2025/11/25/russia-attacks-kyiv-killing-two-as-us-ukraine-discuss-plan-to-end-war?traffic_source=rss",
         "description": "Attacks come as Zelenskyy said he plans discussion with Trump on sensitive issues from US peace proposal.",
@@ -255,33 +291,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Christian McCaffrey’s big night leads 49ers to 20-9 victory over Panthers - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWDliclZIMUROMnduTXlSZUhpWUctM2Ntamtydm1zWmNMYS1TWndVT0NDeG5Ic0ZHSWFSbnFZV3g1dy05ekVpaU1MSjJVWkRUa3JkaUpJY2g4Ry1qay1yZ3hNSVI4Y3FLNkp2Ukk0THFfREZobUNWTE1QdTlvMEg4QmhvaVNrTjQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-25T06:04:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Top US military adviser visits Caribbean as Trump ramps up pressure on Venezuela - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc3VzcmVxZms3SDVSZzVhNms2QzFsaHFyUnowMGxyT0RKYk5pdHJxRUdsblQtRDlkc2FiZi05ei12RnlHMU4wUVNtNUNvVFc1X3RzTGVHU2g5QVdEMXVfNW1HQlRwYVlaa09SQzY4XzhLdnl1djliOGdGS3dEelc4OE4yajRYNTJHMHRjc2NlSUlKTnREeHBZVXdqZThZdGkzZkRjN2NuVEVoWG8?oc=5",
-        "description": "",
-        "pubDate": "2025-11-25T06:04:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "US labels Maduro-tied Cartel de los Soles as a terror organization. It’s not a cartel per se - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOal9DelpudlE2NnRxaFRuMjBkekVOdHpNb3dYQWRtOW9wdWhvdy1iSFAwT0NzMGE1Q3FydWozNDgzbEluZHlNTG0zNk44alBZSUU2WThOc29ud0dRZC1Pd1ZYbV9ZRG52em5VTVBsdlN3YW56NmwtTEN3ZTFfTkFPbmRsQmUxV0NFSDN1UFZXTUlPVnlKVldPVG5wOVg0VVEtV1hXWWtBd1JMZWlh?oc=5",
-        "description": "",
-        "pubDate": "2025-11-25T05:59:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "South Korea's 'TV dad' Lee Soon-jae dies at 91",
@@ -370,7 +379,7 @@
         "description": "Hundreds of Palestinians were killed while seeking food amid chaotic scenes near GHF's sites.",
         "pubDate": "2025-11-25T03:21:27Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fa2/live/e9bc6140-c9a1-11f0-a892-01d657345866.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f11/live/a0dcf2d0-c9df-11f0-8c06-f5d460985095.jpg",
         "bias": 0
       },
       {
@@ -419,7 +428,7 @@
         "bias": 0
       },
       {
-        "title": "It’s a bird! It’s a plane! It’s a rare Superman comic book! And it fetched $9.12M! - AP News",
+        "title": "A rare copy of ‘Superman No. 1' from 1939 sells for more than $9 million - AP News",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT3hPNENmUUNOUUpITkJiOHdOcGVsVFRlM1IyeTdyRkZjR0t3UFBGcm1aN21IVmNWZndqcTNlOW9FdUtLTC1XRVFJLWUwUjVCcHY5eV8xenVrR29kNGxMS2hXeWxMbFVNWXRSTFZtTXhuMzM4V1R5NXZrY0VFa2JiMWh6QW15SFVhQzZSNFVjYUZwQmdCX0hPckxJaw?oc=5",
         "description": "",
         "pubDate": "2025-11-25T02:31:00Z",
@@ -437,28 +446,10 @@
         "bias": 0
       },
       {
-        "title": "UAB player charged with attempted murder in stabbing of 2 teammates, court records show - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOXNtbVlfSXd4S1J4VTViaGRZcXVDQjhfRllrd0tMNk16bnNyTWF3YWJTZVd5OEhxVHVkY24tVmF2eE5TanhVejFrUVZfeUVHc1dhdnlTZEhDNnB4ZVNVME1UdnhPY0FpWTZmNVNyZW5jd3NYdkpFN2R3MWl1OGlER2xkdHcxcDZXcmE1ekVRT1Z0Zw?oc=5",
-        "description": "",
-        "pubDate": "2025-11-25T02:14:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Lawsuit blames Tesla design flaws for crash that killed Washington state woman, injured her husband - AP News",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQVpwaHlGNnp2UHBfVGtWQ3pDRkJ4ZzFnamJxNGlaRkZuYnZCcERvTndNZ0lpRDZCWExTSUdLaUVPNnc3ellHaXpJT0JfaldmQlZfeWxXQVp0S1BvVTNWaXQ4cHM2SFJmVFRJQnRPM3pBTTJSWDY0Vm1rSFBLRDNsWklfU0NWazd5QVJrSkRIdkFYNjRNMTJ3VlY0S3BUd28?oc=5",
         "description": "",
         "pubDate": "2025-11-25T02:02:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Judge dismisses Comey, James indictments after finding that prosecutor was illegally appointed - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUHBneEhfMk9ZcDg4ZklpU0tiemhhM1lfdElsQlIwLXJaT1hDbXR6eWUxYzM1elBGZEloUHEzV1E0Y3JtM04zV1hTSkdzY1RFM2ZVUWhIU0VzeGZORkVvWV9HRGRUX1NEYW9uYVNUSXJobE5YVGZHWHFXNkdDY2hqN0dlVHkwekJpZkdlSENwMHlwSTZa?oc=5",
-        "description": "",
-        "pubDate": "2025-11-25T01:44:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -482,28 +473,10 @@
         "bias": -1
       },
       {
-        "title": "Records show search for Cowboys' Marshawn Kneeland included 160 mph chase, K-9s, drone - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY1VNT1VMc3Q4U1paaGV4WS1IaEhSYnV5WG5vMjN0OUh1d1JPbzg4clp3cTViUDh6WC1DWkhQS0gwb3NHVjlUeG15bkJGQXN0SnZmRXBSbEg4cFp0V3FNaU5Jc2xieTljVmVrNEVsQnNsZTh1Qk9fSzFVaFhaMWpSZ1VBLWwwM0RkbGRtcmo2cVc5ZGlHT3RKTXA2a0s4RUVfTndyNHhvTm1HRkRl?oc=5",
+        "title": "A timeline of abductions from schools in Nigeria - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWVJiYlY5SlBKNHFWd2hGN1NvdTRrYTFZYzFoVHFzVUpKMW5kQWN6MS1xU2R6cFdpa0hqRWRyelFfeVF5SExDTF8yMlNHSm5OcnZiWkVfQ25vNXRWb1B4YkRaUlp0TG5Ub1cyaTdPTl9fQ0Q5clRaellnSm5sOGhmcExDZC14dDR3S3V6d3NjZUlRQTVyNkNwWE9IbnFiOWJCSGV5aA?oc=5",
         "description": "",
-        "pubDate": "2025-11-25T01:31:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Thousands mourn Hezbollah commander killed in Israeli airstrike - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRDE5OVo1NmlBLWZqcHZCMlNTM1JPaDkzYWNzZl9ad3A1cmJ2Z3AtNHB5LUlJTFVwdmY1QXJBYXA5UjRxekpra0pDZGRYNzR2VGZVS1dhUVk2N3pHZE9JUHdiVERZUHdzYlczN1N6QVRscC0tZ1oxYUxxUDRkVDVIbUFibll5QWF2WndKYnNIdUtJaHV6UWQwcVJQeElZUWJtMmU4?oc=5",
-        "description": "",
-        "pubDate": "2025-11-25T01:20:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "A pair of snowy owls spotted along Lake Michigan beach draws crowds in Chicago - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTkJNTUwydk9YbUZpeF9DOWUwXzloNjZqUUkyVkx2MXhqa1o0RVhyeldGRy1OVjJBVklKYms0RVFCTDR2U0YwMGlMRC1ZY1pxUi1yaFozQmh5X2drYlYxMTZvbFh6M09tN0Mzd0Zra243ejhXbjVBb21hV21YQjgzWmxoRUFzQTBxUWh4SGpiZExyVk9qVWJ3ZnJ6TUY4bGl0QWc?oc=5",
-        "description": "",
-        "pubDate": "2025-11-25T01:12:00Z",
+        "pubDate": "2025-11-25T01:26:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -524,15 +497,6 @@
         "pubDate": "2025-11-25T01:06:36Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6535/live/e23134e0-c98e-11f0-8c06-f5d460985095.jpg",
-        "bias": 0
-      },
-      {
-        "title": "BBC leaders grilled by lawmakers over its standards after Trump threatened to sue - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcmZzbWhEdERKRzdnbmlnLWRRaHhFVWVoN25Eb0M3N1hBSERmYTBUczVoeXM5TWtrNWRRM3dkbWZ4aTVTTjh2MjlmMHdlMk1valpQbmg5SmVMd3JFcmZ2YUNVZTNRUzhmVDdOc29fRlFETEhOQTg1Z3g0WlRCRmlWYmVkbHZkR3pyYlUxYQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-25T00:31:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -568,7 +532,7 @@
         "title": "Reeves urges Labour MPs to unite behind the Budget",
         "link": "https://www.bbc.com/news/articles/c4gpmz8gxwgo?at_medium=RSS&at_campaign=rss",
         "description": "The chancellor tries to calm nerves in the Parliamentary Labour Party about her tax and spending plans.",
-        "pubDate": "2025-11-25T08:43:01Z",
+        "pubDate": "2025-11-25T09:13:16Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dc4/live/13ba8a40-c9d3-11f0-8c1f-e1fe6e7ce046.jpg",
         "bias": 0
@@ -635,7 +599,7 @@
         "description": "TripZapp founder Rory Okoli wants to make it simple for tourists to book and pay for African travel.",
         "pubDate": "2025-11-25T00:02:30Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/037b/live/15fd50c0-c6d2-11f0-a892-01d657345866.png",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb80/live/3de65d50-c9e0-11f0-9fb5-5f3a3703a365.jpg",
         "bias": 0
       }
     ],
@@ -647,24 +611,6 @@
         "pubDate": "2025-11-25T06:29:28Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20d5/live/208107c0-c9c6-11f0-a001-47048321ca07.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Afghanistan says Pakistani airstrikes in east of the country have killed 10 people, mostly children - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMm9IZWwwd1lHOVNzVlhxSF8tX0k2RTlNMTB6VEFWNVhwLXRKNmVBb21xTXMxckRBQ0RYeUpXcVo3ZmR4ZmNxcHJlcW5tRW9iNFJERGkzbHg1MWdNUld5c0x5YmpHSHdjX2o0N2RObWgxOVJoQTlsaDc5Z1RkZ3J1eDVLdy1zZlkxMzdaVnNaOVltbWtxeG5lSU42SlFFRjNWQzF5TVdtVTZWdW8?oc=5",
-        "description": "",
-        "pubDate": "2025-11-25T06:19:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "A timeline of abductions from schools in Nigeria - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWVJiYlY5SlBKNHFWd2hGN1NvdTRrYTFZYzFoVHFzVUpKMW5kQWN6MS1xU2R6cFdpa0hqRWRyelFfeVF5SExDTF8yMlNHSm5OcnZiWkVfQ25vNXRWb1B4YkRaUlp0TG5Ub1cyaTdPTl9fQ0Q5clRaellnSm5sOGhmcExDZC14dDR3S3V6d3NjZUlRQTVyNkNwWE9IbnFiOWJCSGV5aA?oc=5",
-        "description": "",
-        "pubDate": "2025-11-25T01:26:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       }
     ],
@@ -697,15 +643,6 @@
         "bias": 0
       },
       {
-        "title": "Dharmendra, iconic Bollywood actor and Indian cinema’s ‘He-Man,’ dies at 89 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdms5YjV6UVVuZUJyVi0za0RmMkJuLUEwRmdBWkJEZXZzT3hLXzNKY2NUckl3dng2NDNUc0t1REtva2dxRzR2OUhYZ1lKWjNGVTV0SldPYXRZQlljY29XNERYbnFSMDg1UDZtdl9INWpzSGxieXNfTmo3TjMtNnU5U3VzSVlyOVd6MWhnYUVBNlYtSmZjNEE?oc=5",
-        "description": "",
-        "pubDate": "2025-11-25T01:24:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Brazilian Supreme Court upholds Bolsonaro’s incarceration after ankle monitor tampering - AP News",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUXEyWFFmeVBCMVlxR3JfMFlYM0dRSm1oa0JyalVpSGR0N3ZBVlhDcV9ycDRFQ0J6dmV2TXNybUdFcFY4UUhoWlVWNFhWdGE2dnN6SnEtaHlDd2ZNdTlaRzVSd0lJei1uX3RhbjZpbXhKdW1RM0szVTl1cFVGMW1hZzNfeUVIc2xjejVaeHczRFRCUFJfc3VtUnowZ3ZFUnc?oc=5",
         "description": "",
@@ -720,7 +657,7 @@
         "description": "BBC News hears from people with a range of incomes about what they want to see in the Budget.",
         "pubDate": "2025-11-25T00:00:32Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c73/live/40a32530-c573-11f0-a892-01d657345866.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a248/live/6474e330-c9de-11f0-8c06-f5d460985095.jpg",
         "bias": 0
       }
     ],
