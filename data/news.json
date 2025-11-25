@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-25T11:39:37.782537Z",
+  "lastUpdate": "2025-11-25T11:50:03.532240Z",
   "news": {
     "Gaming": [
       {
@@ -8,7 +8,7 @@
         "description": "Dive into the magical world of Windfall!",
         "pubDate": "2025-11-25T11:31:05Z",
         "source": "razeluxe.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MjQ0OTMyLmpwZw==/315x250%23c/CDSF9j.jpg",
+        "image": "https://img.itch.zone/aW1nLzI0MjQ1MDQxLmpwZw==/315x250%23c/F07qQq.jpg",
         "bias": 0
       },
       {
@@ -183,15 +183,6 @@
         "bias": 0
       },
       {
-        "title": "Audeo X [Free]",
-        "link": "https://frat-713.itch.io/audeo-x",
-        "description": "Creadores: Felipe Acevedo - Nicolas Rodriguez / Proyecto Final Audio y Video UMNG Profesor Gabriel Rodriguez",
-        "pubDate": "2025-11-25T08:50:16Z",
-        "source": "frat-713.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MjQzNTE1LnBuZw==/315x250%23c/Cty5%2Be.png",
-        "bias": 0
-      },
-      {
         "title": "Mission Zero Hunger 2.0 [Free]",
         "link": "https://lbuljore.itch.io/mission-zero-hunger",
         "description": "It is a game based on SDJ 02 to combat Hunger",
@@ -216,6 +207,15 @@
         "pubDate": "2025-11-25T07:01:38Z",
         "source": "bread-cool.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MjQzMzU1LnBuZw==/315x250%23c/TA7BYW.png",
+        "bias": 0
+      },
+      {
+        "title": "Marian's Eye [Free] [Visual Novel]",
+        "link": "https://corinna-vndev.itch.io/marians-eye",
+        "description": "There was a cat with no face...",
+        "pubDate": "2025-11-25T02:01:26Z",
+        "source": "corinna-vndev.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MjQxMTcyLmdpZg==/315x250%23c/tqqSig.gif",
         "bias": 0
       },
       {
@@ -300,6 +300,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Britain’s unpopular government prepares a high-stakes budget and hopes for growth - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLV81X0xZXzJGdlFFcWd2eXpNeHFrUGRPVFFBUVAtTmp3MGZla2ZfUDZZU2FNYnBsWHlYMXR1V0tLYXBuZ2tEMVpnUUdWaEZzWFhxSUFFc1RadFRHT1JzX2YzMVFCcE5LSFc2MWFIZTVDLTBaU3FHcGlleXJSNEhwMHJwMXZtZUFNdlE0aVJHczNJcnIzWHRUVkpXQUoxRG9NdFE?oc=5",
+        "description": "",
+        "pubDate": "2025-11-25T09:52:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Morning news brief",
@@ -437,15 +446,6 @@
         "bias": 0
       },
       {
-        "title": "Britain’s unpopular government prepares a high-stakes budget and hopes for growth - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLV81X0xZXzJGdlFFcWd2eXpNeHFrUGRPVFFBUVAtTmp3MGZla2ZfUDZZU2FNYnBsWHlYMXR1V0tLYXBuZ2tEMVpnUUdWaEZzWFhxSUFFc1RadFRHT1JzX2YzMVFCcE5LSFc2MWFIZTVDLTBaU3FHcGlleXJSNEhwMHJwMXZtZUFNdlE0aVJHczNJcnIzWHRUVkpXQUoxRG9NdFE?oc=5",
-        "description": "",
-        "pubDate": "2025-11-25T05:57:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "More than 100 homes damaged by tornado near Houston - AP News",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYTZDQVdIZHVnTDhNLVFNamlLVEJ6RUQzMGNxTzhUclBxQmlZQW1heEhtcGFyTU5reUk1Q2lQemFuTFI0UWVCZG4ySlh0d3k1RE82aW80Y0xaOFdXTm9TS19NenFldFNCLUJlT2Vpa1pIdkFpZnp5ZF80UnctX1pjZlJMVzRCQUdvUlNWSjBwUTd0YWM?oc=5",
         "description": "",
@@ -462,6 +462,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Pope Leo XIV’s visit rekindles hope in war- and crisis-battered Lebanon - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTXpFbWhqLVNGaTQ3ZTMySHpUeTlEbmFyVmhIRHFnNWVyQWhRYmNlUmJhdnowWFltbnltZ1kzb2VQeWdGRXdiSFhHaWtiTGo2UGlCRC1mM3M4WEp3SEFMc0xQVVhjOVpiTzZDRUdWV2FIeUh3UUt5Wkk0dVdUSGdWSjZBdVpJUDVERTN0S2lZNXAxSFE?oc=5",
+        "description": "",
+        "pubDate": "2025-11-25T05:55:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Watch: Moment truck collides with sign on Ohio highway",
@@ -669,18 +678,18 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Music eases surgery and speeds recovery, Indian study finds",
-        "link": "https://www.bbc.com/news/articles/c231dv9zpz3o?at_medium=RSS&at_campaign=rss",
-        "description": "A new study finds patients who listen to music during surgery wake faster and need fewer painkillers.",
-        "pubDate": "2025-11-25T00:00:11Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2db4/live/98981940-c8a1-11f0-8c06-f5d460985095.jpg",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Watch: BBC reporter challenges Farage over school racism claims",
+        "link": "https://www.bbc.com/news/videos/cgmnvx87xvwo?at_medium=RSS&at_campaign=rss",
+        "description": "Nigel Farage insisted he has never engaged in 'direct, personal'  abuse, following accusations of racism.",
+        "pubDate": "2025-11-25T11:40:39Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a35/live/597ea6f0-c9ed-11f0-a892-01d657345866.jpg",
+        "bias": 0
+      },
       {
         "title": "Heathrow's plan for longer third runway chosen by government",
         "link": "https://www.bbc.com/news/articles/c0je8nd0x2yo?at_medium=RSS&at_campaign=rss",
@@ -698,15 +707,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Russian attacks kill at least 6 in Ukraine as talks on peace plan continue - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcEhNU3hRTzZOeG1IWkpxbFlGaWdfNkcyMGVhRDc3WFAtbEUyZ3FZcXI3MjhvT3dKaHJrQkw2VEVldmJINnVDZGRnY2NLcnNrZ1Q0WVNqXzJ0UWRQd3o5MEdzM29BVk1FVldTck1oM1puSzkwZXFiMGZuVXBFa09tMXMzNkFSWktaeGk2dVd5YS1GTXRjSGVVbzI2SQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-25T11:01:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Reeves urges Labour MPs to unite behind the Budget",
@@ -745,15 +745,6 @@
         "bias": -1
       },
       {
-        "title": "Australian Sen. Pauline Hanson suspended from Parliament for wearing burqa in protest - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLWZVV1FzUmFjbDJzU1hwVjlCNUJQTFJGWXRfVmNQVkNPM3F3cHFvN3FjdW5SUGFRczlOcHY3LUF5ME5ocTRPWUNNekpRejQ4V3JJODNVY3VJRkNzVUJJUzIyVUhDWXdVRTFSUWxRVU85bzdHMGNLWE9GRkJCSDRWT3pTbE9idGRaVzJXdjN5UHJqQldoaDNzdHlsMFZpR0tiNVlJ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-25T09:20:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Everything you need to know about the Budget",
         "link": "https://www.bbc.com/news/articles/cj4w44w42j5o?at_medium=RSS&at_campaign=rss",
         "description": "Chancellor Rachel Reeves is considering both tax rises and spending cuts in the 26 November Budget.",
@@ -787,78 +778,6 @@
         "pubDate": "2025-11-25T06:04:47Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fca/live/0cf61930-c9d4-11f0-a892-01d657345866.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Top US military adviser visits Caribbean as Trump ramps up pressure on Venezuela - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc3VzcmVxZms3SDVSZzVhNms2QzFsaHFyUnowMGxyT0RKYk5pdHJxRUdsblQtRDlkc2FiZi05ei12RnlHMU4wUVNtNUNvVFc1X3RzTGVHU2g5QVdEMXVfNW1HQlRwYVlaa09SQzY4XzhLdnl1djliOGdGS3dEelc4OE4yajRYNTJHMHRjc2NlSUlKTnREeHBZVXdqZThZdGkzZkRjN2NuVEVoWG8?oc=5",
-        "description": "",
-        "pubDate": "2025-11-25T06:04:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Christian McCaffrey’s big night leads 49ers to 20-9 victory over Panthers - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWDliclZIMUROMnduTXlSZUhpWUctM2Ntamtydm1zWmNMYS1TWndVT0NDeG5Ic0ZHSWFSbnFZV3g1dy05ekVpaU1MSjJVWkRUa3JkaUpJY2g4Ry1qay1yZ3hNSVI4Y3FLNkp2Ukk0THFfREZobUNWTE1QdTlvMEg4QmhvaVNrTjQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-25T06:04:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Pistons win 13th straight to tie franchise record, beating the Pacers 122-117 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVGM3WEh0SkZCenNNUzhDUmtmbGtzNTF2VU4zcEUtUUlXS0dDWmx1Wnk1dlB4WEdTXzBBdWwzQTl2akNjMXJ4aGVPYk15Tkp0YkIyYjMycVZmN2pMYWRzcUNVVVk3WURJMVpsZldCeWJqYnA5a3hKd0JtTzlkVG0zem1Db3Y2b1U?oc=5",
-        "description": "",
-        "pubDate": "2025-11-25T03:27:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "UAB player charged with attempted murder in stabbing of 2 teammates, court records show - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOXNtbVlfSXd4S1J4VTViaGRZcXVDQjhfRllrd0tMNk16bnNyTWF3YWJTZVd5OEhxVHVkY24tVmF2eE5TanhVejFrUVZfeUVHc1dhdnlTZEhDNnB4ZVNVME1UdnhPY0FpWTZmNVNyZW5jd3NYdkpFN2R3MWl1OGlER2xkdHcxcDZXcmE1ekVRT1Z0Zw?oc=5",
-        "description": "",
-        "pubDate": "2025-11-25T02:14:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Judge dismisses Comey, James indictments after finding that prosecutor was illegally appointed - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUHBneEhfMk9ZcDg4ZklpU0tiemhhM1lfdElsQlIwLXJaT1hDbXR6eWUxYzM1elBGZEloUHEzV1E0Y3JtM04zV1hTSkdzY1RFM2ZVUWhIU0VzeGZORkVvWV9HRGRUX1NEYW9uYVNUSXJobE5YVGZHWHFXNkdDY2hqN0dlVHkwekJpZkdlSENwMHlwSTZa?oc=5",
-        "description": "",
-        "pubDate": "2025-11-25T01:44:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Records show search for Cowboys' Marshawn Kneeland included 160 mph chase, K-9s, drone - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY1VNT1VMc3Q4U1paaGV4WS1IaEhSYnV5WG5vMjN0OUh1d1JPbzg4clp3cTViUDh6WC1DWkhQS0gwb3NHVjlUeG15bkJGQXN0SnZmRXBSbEg4cFp0V3FNaU5Jc2xieTljVmVrNEVsQnNsZTh1Qk9fSzFVaFhaMWpSZ1VBLWwwM0RkbGRtcmo2cVc5ZGlHT3RKTXA2a0s4RUVfTndyNHhvTm1HRkRl?oc=5",
-        "description": "",
-        "pubDate": "2025-11-25T01:31:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Thousands mourn Hezbollah commander killed in Israeli airstrike - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRDE5OVo1NmlBLWZqcHZCMlNTM1JPaDkzYWNzZl9ad3A1cmJ2Z3AtNHB5LUlJTFVwdmY1QXJBYXA5UjRxekpra0pDZGRYNzR2VGZVS1dhUVk2N3pHZE9JUHdiVERZUHdzYlczN1N6QVRscC0tZ1oxYUxxUDRkVDVIbUFibll5QWF2WndKYnNIdUtJaHV6UWQwcVJQeElZUWJtMmU4?oc=5",
-        "description": "",
-        "pubDate": "2025-11-25T01:20:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "BBC leaders grilled by lawmakers over its standards after Trump threatened to sue - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcmZzbWhEdERKRzdnbmlnLWRRaHhFVWVoN25Eb0M3N1hBSERmYTBUczVoeXM5TWtrNWRRM3dkbWZ4aTVTTjh2MjlmMHdlMk1valpQbmg5SmVMd3JFcmZ2YUNVZTNRUzhmVDdOc29fRlFETEhOQTg1Z3g0WlRCRmlWYmVkbHZkR3pyYlUxYQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-25T00:31:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
