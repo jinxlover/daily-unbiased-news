@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-27T05:43:32.516839Z",
+  "lastUpdate": "2025-11-27T05:55:22.003083Z",
   "news": {
     "Gaming": [
       {
@@ -27,6 +27,15 @@
         "pubDate": "2025-11-27T05:14:59Z",
         "source": "superclxforces.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MjcyMjg0LnBuZw==/315x250%23c/ZIZVlj.png",
+        "bias": 0
+      },
+      {
+        "title": "The Lost Name [Free] [Other] [Windows]",
+        "link": "https://victor72.itch.io/the-lost-name",
+        "description": "",
+        "pubDate": "2025-11-27T05:09:23Z",
+        "source": "victor72.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MjcyNDIyLnBuZw==/315x250%23c/wC3t9x.png",
         "bias": 0
       },
       {
@@ -174,15 +183,6 @@
         "bias": 0
       },
       {
-        "title": "Decode (Game Off 2025) [Free]",
-        "link": "https://fishhappy123.itch.io/decode-game-off-2025",
-        "description": "Decode is a short game where you DECODE messages from a radio.",
-        "pubDate": "2025-11-27T03:22:32Z",
-        "source": "fishhappy123.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MjcxMzg3LnBuZw==/315x250%23c/%2FKoxjX.png",
-        "bias": 0
-      },
-      {
         "title": "You Don't Own a Laundromat [Free] [Simulation] [Windows]",
         "link": "https://zed-technician.itch.io/you-dont-own-a-laundromat",
         "description": "Nothing is down the Hall",
@@ -217,9 +217,27 @@
         "source": "mmgames-ttrpg.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MjcwNjk5LmpwZw==/315x250%23c/y96h4u.jpg",
         "bias": 0
+      },
+      {
+        "title": "COCO TAG V1 [Free]",
+        "link": "https://cocotuff.itch.io/coco-tag-v1",
+        "description": "A TUFF GAME MADE BY COCO",
+        "pubDate": "2025-11-27T01:16:33Z",
+        "source": "cocotuff.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MjcyNDExLmpwZw==/315x250%23c/dcgsPo.jpg",
+        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Thousands left homeless by fire in Bangladesh shantytown in Dhaka",
+        "link": "https://www.aljazeera.com/news/2025/11/27/thousands-left-homeless-by-fire-in-bangladesh-shantytown-in-dhaka?traffic_source=rss",
+        "description": "Some 60,000 families, many of them climate refugees, live in the area spread over 65 hectares.",
+        "pubDate": "2025-11-27T05:35:18Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Hong Kong high-rise fire live: Blaze kills at least 44, hundreds missing",
         "link": "https://www.aljazeera.com/news/liveblog/2025/11/27/hong-kong-high-rise-fire-live-blaze-kills-at-least-44-hundreds-missing?traffic_source=rss",
@@ -392,8 +410,82 @@
         "bias": 0
       }
     ],
-    "Politics": [],
-    "Tech": [],
+    "Politics": [
+      {
+        "title": "Millions to pay more in tax as Reeves says Budget is tackling cost of living",
+        "link": "https://www.bbc.com/news/articles/c246npmq1n4o?at_medium=RSS&at_campaign=rss",
+        "description": "The chancellor says she is \"asking ordinary people to pay a little bit more\" as she extends the freeze on income tax bands.",
+        "pubDate": "2025-11-27T05:47:11Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e55c/live/f7e80f90-cafe-11f0-a892-01d657345866.jpg",
+        "bias": 0
+      }
+    ],
+    "Tech": [
+      {
+        "title": "Blue Jays and free-agent pitcher Dylan Cease agree to $210 million, 7-year deal, AP source says - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSWpQQnkxaVA5Rmlsbmt5WjlSRGE4aXd2WnJTVjRnRkpndE9yU1hNTE5Kazg1b3JmUkZKN2RDVzM1djRCcXpkYVZSWXItemNHR3lvYnF1V3BKRjhsRHE3SjdjbGVzRGpNVkVISEp3UWxoOHZZSkMtOVlTSVZuWnQ1cVBBcDVESDFOTkNxUlVqQ0t5TmM?oc=5",
+        "description": "",
+        "pubDate": "2025-11-27T03:42:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "South Korea’s largest satellite launched on Nuri rocket in ambitious space mission - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWjNSZzFfalQ4MnozOU1mMEVxN25RWkt4TkFjbXRON1FFUlpfMGE4NnF1MDMtV1czYjd6andXd2pHQ3FlR0c4TmY2cUNPdVJMOHRabWtBTnFGYXduNDEwVnFDT1lhRzQyM2NxR2NqU2Z5UEE1NFVDdXJpU1pEaEdpcjhzMUJORHlHS08wVHJIMHpRN19ybUVScUZ0d1hfOHZQNmgwVkd5NW1lZw?oc=5",
+        "description": "",
+        "pubDate": "2025-11-27T03:31:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Soldiers in Guinea-Bissau appear on state television saying they have seized power - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZHBDYVJ5YTZoTE1JU09wdnpiVHJ6UmJrSkRLaVFnVFJRU2c0aXl2X2VxTFNwLWxETHkxYlktSzBreDdjTVNNR1FhaVpQdFQwdHkydG94ejJHNGtPa0tyUGhkd25qTW5MTWlBY3U0Rm0zVnRmNzBVMjVxMlFIb2U1YzNkNm1TMEo4bVNJRm53Xy1haF9tMkE0V2hOakpMRC1GQUtRM1FKblIwVTdTOVE?oc=5",
+        "description": "",
+        "pubDate": "2025-11-27T03:20:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Bangkok court issues an arrest warrant for Thai co-owner of Miss Universe pageant - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOHU1cWVlVFRQd25kenlrWlhkQkgtcDNNUHhrWVBUMFZYTnl2VzV5bWhlQUctMWhhWkgtYlgtZ0JBclVxa0ZUZGhPSGFsVHZWWmV3NTZZZHB2YnRWeFNCVjlBc0tKWGhvclBuX1VsOFRVU1RjUFYySlM1aXktNFdQVlMxTW9vS2Y0R1p6aHU5dm5veFFZSWk1RHZLNU9wVEk?oc=5",
+        "description": "",
+        "pubDate": "2025-11-27T03:02:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Fire that killed at least 44 burns in Hong Kong towers for a second day - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPemlud3NUS1cyNF85Ym5PUkZ5R0lORGdFSGVvQ3g4c3NSTHcxR29xa3cxakFMLU1WQ29nNjB1MnRiWU9WQmthSk5FTzhJamRkNVowY1pPMC12QU1wT19CcVNXRzJ0bE1YNFZ0dnNIOHNlYUo3RjZqbHFHZUoyZzJiZ1RqaEFiNGd4cEIwaWtjUkZDdmFsSGs0YjFIeXA?oc=5",
+        "description": "",
+        "pubDate": "2025-11-27T03:01:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "New Zealand launches major inquiry into case of father who hid his children in a forest for years - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLUt1RDdraGl3eDhleG1mdk5vZnVCYzJWTEN6bXhSYWs3TUhfWUdsc3F6cnk0TGNfWTFBYnRDbkpMc2NrZlkxWWRMaHRhWUlGeUVxWm9RZXNlT3pJVjhwNk11TlZiRDAxbURkU2JoZ2JlaEk5cHdEbEExUE9sYm84UkZYQ2ttbXZ2Wm9ycUhKb3ZQelNEblZ0RVV0SDlsN29uUTBVX3N2S3JKbE9Vanc?oc=5",
+        "description": "",
+        "pubDate": "2025-11-27T02:05:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "A welcome form of inflation: Balloons take shape for Macy’s Thanksgiving Day Parade - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMVIySmMyZk9Nc3l1RUhtTWE5eUFMMzN6c1BDY1hGMk9iSXg5NHVNVjdBTWtneUxQMkN6WFFSdnRzUHZjNUdRbXp5STRtdHVLWE51WktIVHNSQ2JxajlmMmdHQlgzYjZvUDRfTDl4LXhvc1c1LS1TUG45OEZFU3l4Rml3SjNUb3NOeXp1ZEE3MW1UdlJoTmxCazV3?oc=5",
+        "description": "",
+        "pubDate": "2025-11-27T01:36:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ],
     "Science": [],
     "Business": [
       {
