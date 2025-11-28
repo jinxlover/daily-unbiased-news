@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-28T07:23:12.989130Z",
+  "lastUpdate": "2025-11-28T07:39:54.837162Z",
   "news": {
     "Gaming": [
       {
@@ -27,6 +27,15 @@
         "pubDate": "2025-11-28T07:05:23Z",
         "source": "mjaycole.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0Mjg2OTk4LnBuZw==/315x250%23c/GVHtWw.png",
+        "bias": 0
+      },
+      {
+        "title": "Alice Sawyer's Pit of Death [Free] [Other] [Windows] [Linux]",
+        "link": "https://fridge.itch.io/alice-sawyers-pit-of-death",
+        "description": "A gruesome quiz show!",
+        "pubDate": "2025-11-28T07:04:45Z",
+        "source": "fridge.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0Mjg3MDMyLnBuZw==/315x250%23c/GQs%2Bm%2F.png",
         "bias": 0
       },
       {
@@ -104,7 +113,7 @@
       {
         "title": "Five Nights Wish Prostitytes [Free] [Other] [Android]",
         "link": "https://3acekpe4enno.itch.io/five-nights-wish-prostitytes",
-        "description": "1",
+        "description": "Пять ночей соблазна. Твоя девственность — главный приз.",
         "pubDate": "2025-11-28T06:21:40Z",
         "source": "3acekpe4enno.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0Mjg2ODg5LmpwZw==/315x250%23c/jS18Aj.jpg",
@@ -192,15 +201,6 @@
         "bias": 0
       },
       {
-        "title": "incredibox mushrooms phase 6 - la gran batalla de dios y el diablo [Free] [Rhythm] [Windows] [macOS] [Linux] [Android]",
-        "link": "https://mrchanpi2007.itch.io/incredibox-mushrooms-phase-6-la-gran-batalla-de-dios-y-el-diablo",
-        "description": "la phase 6 de incredibox mushrooms. por favor lee la advertencia al darle a run game por favor",
-        "pubDate": "2025-11-28T04:49:31Z",
-        "source": "mrchanpi2007.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0Mjg2MjIxLmpwZw==/315x250%23c/gl4hbk.jpg",
-        "bias": 0
-      },
-      {
         "title": "AIMCHECK [Free]",
         "link": "https://movious.itch.io/aimcheck",
         "description": "A quick game to test your reflexes! made in SFLM",
@@ -208,18 +208,45 @@
         "source": "movious.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0Mjg2MzI0LnBuZw==/315x250%23c/KXDUq8.png",
         "bias": 0
-      },
-      {
-        "title": "May 24th, 2011 [Free] [Visual Novel] [Windows] [macOS]",
-        "link": "https://teamiibo.itch.io/5-24-11",
-        "description": "",
-        "pubDate": "2025-11-28T04:20:39Z",
-        "source": "teamiibo.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0Mjg2MDcwLnBuZw==/315x250%23c/TkxCMl.png",
-        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Guinea-Bissau president flees to Senegal after coup",
+        "link": "https://www.bbc.com/news/articles/c741m97lk42o?at_medium=RSS&at_campaign=rss",
+        "description": "Sissoco Embaló has arrived in Senegal \"safe and sound\" on a chartered military plane, authorities say.",
+        "pubDate": "2025-11-28T07:29:42Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e76e/live/28eaca90-cc19-11f0-a74c-f1d4734c755d.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Fury and questions after Hong's Kong deadliest blaze in decades",
+        "link": "https://www.bbc.com/news/articles/cn8e5j20g27o?at_medium=RSS&at_campaign=rss",
+        "description": "Questions are mounting as to how the deadly fire spread so rapidly - and who should be held responsible.",
+        "pubDate": "2025-11-28T07:24:22Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/583c/live/f8ea78d0-cc19-11f0-8c06-f5d460985095.jpg",
+        "bias": 0
+      },
+      {
+        "title": "ICC to rule on provisional release of ex-Philippine leader Rodrigo Duterte",
+        "link": "https://www.aljazeera.com/news/2025/11/28/icc-to-rule-on-provisional-release-of-ex-philippine-leader-rodrigo-duterte?traffic_source=rss",
+        "description": "Human rights lawyer insists there's 'strong evidence' why detained Filipino leader should stay in jail.",
+        "pubDate": "2025-11-28T07:17:07Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "LIVE: Israel bombs Syria, Gaza after extrajudicial killings in West Bank",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/11/28/live-israel-4?traffic_source=rss",
+        "description": "At least 12 Syrians killed in Israeli attacks after two unarmed Palestinians murdered in occupied West Bank's Jenin.",
+        "pubDate": "2025-11-28T07:12:10Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "'Hang in there': Agonising wait for the missing after Hong Kong blaze",
         "link": "https://www.bbc.com/news/articles/cj9y0pjzmdro?at_medium=RSS&at_campaign=rss",
@@ -228,6 +255,15 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fee/live/ba9142a0-cb8b-11f0-a837-edb10d8a13be.jpg",
         "bias": 0
+      },
+      {
+        "title": "Russian space agency says cosmodrome damaged after joint launch with US",
+        "link": "https://www.aljazeera.com/news/2025/11/28/russian-space-agency-says-cosmodrome-damaged-after-joint-launch-with-us?traffic_source=rss",
+        "description": "Authorities say the Baikonur Cosmodrome, Russia's only launch site for crewed missions, will be restored 'very soon'.",
+        "pubDate": "2025-11-28T07:00:58Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Trump vows to 'permanently pause' migration from poor nations in social media screed",
@@ -275,9 +311,9 @@
         "bias": 0
       },
       {
-        "title": "Israeli incursion in Damascus countryside kills 9 Syrians: State media",
+        "title": "Israeli incursion in Damascus countryside kills 12 Syrians: State media",
         "link": "https://www.aljazeera.com/news/2025/11/28/israeli-forces-syrians-clash-in-damascus-countryside-casualties-reported?traffic_source=rss",
-        "description": "Six Israeli soldiers also wounded during clashes following the incursion into the town of Beit Jinn.",
+        "description": "Two Syrian children were among those killed following the incursion into the town of Beit Jinn.",
         "pubDate": "2025-11-28T06:10:19Z",
         "source": "aljazeera.com",
         "image": "",
@@ -329,6 +365,15 @@
         "bias": 0
       },
       {
+        "title": "Photos of Buddhist monks in Laos praying in region littered with unexploded bombs - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZkNEclhUWkZxUjZOdkpjbzd0UXdaa282MmpXZmhyNU9nQmw5UkJ6VGl4NFI0ajVYUS1xUy15NmJJOXR3bUFSa1pLbzF3QW8yaG8yVlFUTzFFcUtnaUtSMldYMzN3bmQwY0RSV25nTWZTZ2FfUW0yQXN0OUhaSXFCYWNYaHZSSkdnY2NaWFYzeEIwelAxMmJTa2YtS2RKT1NIZnQ0WEo1SjB0T3c?oc=5",
+        "description": "",
+        "pubDate": "2025-11-28T04:55:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Putin says he is ready to guarantee in writing no Russian attack on Europe",
         "link": "https://www.aljazeera.com/news/2025/11/28/putin-says-he-is-ready-to-guarantee-in-writing-no-russian-attack-on-europe?traffic_source=rss",
         "description": "Putin also branded fears that Moscow is planning to invade another European nation 'ridiculous' and 'complete nonsense'.",
@@ -336,6 +381,33 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "ICC judges to rule on provisional release of former Philippine President Rodrigo Duterte - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQldKTWViWDU1UGNETkNlOFVVMTZ4bnBheW5jLW1LTG5tYXZSRjhBc3BEdWtsTUFmbHNleTZZRWN6VHdHaU1ub1ByWnI4MTlkR0s1WVJvQ29DTWRMdms0TDhuUXlLX2NXejU3M0ZNMzJTVWlWdHRJT1JFd3pmUnhQNzlCRXJDQVFGX2xLbUdkdFR1ZjZJTGRtM3ZvR09MR1dqSGF5Sjk4MW50LWI0WjJFV3BR?oc=5",
+        "description": "",
+        "pubDate": "2025-11-28T04:21:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Bamboo scaffolding helped build Hong Kong’s skyline, but a deadly fire may hasten its end - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMXZNSTVUY1JSVGNIVndUUGRZWXB0WVNqeDJOc2hMckZBNFhHYXBvZWxEY042RGFrQmFCZXA1WmpzQkpUeFQ3alNlQ1h4eGF5MHdEY1JkTF9DUTdjOU14QnhYbm9JYzkzSHNISTFYbVFMQThSUVpYZnRNLS1WQjRqMlVRXzZTcVM3Y0lGZnlGVGJpaWdSX1RQeDRzVG1CZw?oc=5",
+        "description": "",
+        "pubDate": "2025-11-28T04:11:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Trump criticizes the program that brought Afghan refugees to the US who fought the Taliban - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObXM0cFZ4LWozWjdhbm44MURJODZmLUc0QlZnT2FBczMwaHI1T09uTHBlQlExQXNkSm1CNDFqb0V2d3ZJUlBLTkJaTlV6QXlwNDg0eHhNMnVMYWlhdl9fMUxiWkhOVWhIa0VsOUpnWnM3aUJzY29QR2MwYmJLeHRZVl9DQnR2X29iYWFCa3BMLTZVeUFnQUNzYjZ1MkFTY19oY2I3aGhwZFZuWFlVc1hUZ3VBb0twZw?oc=5",
+        "description": "",
+        "pubDate": "2025-11-28T03:58:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Jordan demands Russia stop recruiting citizens after two killed in fighting",
@@ -351,6 +423,15 @@
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYkpBMHF4aFlvZFRSM1FkNUQxdGx0SWhTYm13VDBFR1NyODFJSFY3ZVZ3ZVRMZi1WYTFWcFJ6djZUak9iMDk5ck5IemFWOXVSWmVUbkk2d05BQzJuYlg1ZVF5LU8tZlZWR1BNRGVWVF9odGJTZDhpWlhCQUN0enlueHNlZ1dUekpYXzNiX2hZdHlxTE5pMGN1RFk5QUdtSnhScVNWSFB1SmUzdw?oc=5",
         "description": "",
         "pubDate": "2025-11-28T03:33:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Hong Kong firefighters make final search for survivors after apartment tower blaze kills 94 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN0ZBMnFTWVN2bTEwWGN6REdaSzMtbDZrOUlHa09mZFg1ZmpUak5Gc2hya2hJWUxZbFNKYlVkZ1V5bWNxLVdENmFnTUhXakhROVVHN0MyTlduTlFNVDJocGlkZHIyNDBnTjI3QkhTRDVid29HU0Zlb0hSemFHSEYwbHZZVTh0NURFbVNlMjF5Z3VtX3M2RzY2UVI4LWI?oc=5",
+        "description": "",
+        "pubDate": "2025-11-28T03:11:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -378,6 +459,15 @@
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMWtUelF4eXNONERoVkhDbE9SeFZ3S0QtODJ6Z3hBdzBKcjJOU1c1dkktbG0wdDVKTEFmMXg3SmFuVWVWZi05QzlyU0gzOUxqd2ZseF8teXRIb3pDSTI4RnZzR19NT0hSblgyazVVMTdTcmU1WE9WamwwMFNka3BzTUdzU21SOUJTcXN3djU4MGJVRTFvZ3hUWlpuWDY?oc=5",
         "description": "",
         "pubDate": "2025-11-28T02:40:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Refugee groups worry about backlash after shooting of National Guard soldiers in DC - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY1U1QmxtbXJEZjNnOGZZX2dTRG42clNscnRLdUs5b3pRUGhGVy1BcnE0cnpscVlLQnhiZ01DWnMzWmpVcnpYT1Q2dUU1a3lDUlVXR2tLaFhOYkNnSENxT210S1Q1Y013TXU0LWlKcUc3c1ZWcUtvOC16N0dVcGY1UVJHMXg3RnI4UGJzS1ItcVAxRnpyQVJOdXQ5bHM2SUV5UUl3?oc=5",
+        "description": "",
+        "pubDate": "2025-11-28T01:43:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -428,19 +518,28 @@
         "bias": 0
       },
       {
-        "title": "Pope Leo XIV encourages Turkey to be a force for peace on his first foreign trip - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ1hhdVIwNTRXVnIxajdFLXpvLU52WE9IY0N3RlNZUTVQVEItVjNGX05jSFJjZEhXN2UzYVREdUEtYzI2c05hMzYtR0hYM29xQ1JUenNzU1NvTjhGQldNUWdob2sxT1ZPdWtZY1E0WDh1Xy1POVJnY2RKR3JVdmlpbUN3TnAzZWFFYzZqekJpQ1lwaURTRy1uaGdMV0NsY0VXNjVIRHVEQTljQQ?oc=5",
+        "title": "Israeli forces kill Palestinian men in West Bank after they appear to surrender - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSVI0UlpDVE9MQnlFTnlVLWZrQ2RmOFF3VWdrZ2lBOEpGUXpldGE5VUQ3bzdfbTNITkxGNkZwZzVjbUh1SURvUXoxYjE4aC1IZnY3STRhd24zSldyNTRlcjVVRFJUQTFrOTEwVjk3WGkwN1FlRFk3RUswd0dkdlFJS2xHVlExYVM3eXpfaHliejh6QV92OTB4Tkdlaw?oc=5",
         "description": "",
-        "pubDate": "2025-11-28T01:06:00Z",
+        "pubDate": "2025-11-28T00:44:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Israeli forces kill Palestinian men in West Bank after they appear to surrender - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSVI0UlpDVE9MQnlFTnlVLWZrQ2RmOFF3VWdrZ2lBOEpGUXpldGE5VUQ3bzdfbTNITkxGNkZwZzVjbUh1SURvUXoxYjE4aC1IZnY3STRhd24zSldyNTRlcjVVRFJUQTFrOTEwVjk3WGkwN1FlRFk3RUswd0dkdlFJS2xHVlExYVM3eXpfaHliejh6QV92OTB4Tkdlaw?oc=5",
+        "title": "The kidnap gangs, jihadists and separatists wreaking havoc in Nigeria",
+        "link": "https://www.bbc.com/news/articles/c4g4jlgdyjdo?at_medium=RSS&at_campaign=rss",
+        "description": "The country faces many deadly security challenges, leaving the army and police severely overstretched.",
+        "pubDate": "2025-11-28T00:42:38Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a7a/live/e9543e50-cbca-11f0-8c06-f5d460985095.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Canada's prime minister and Alberta's premier sign pipeline deal that could reverse oil tanker ban - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT0I3anhUOU9hSnV6WXNuMUlURGlGTDJoSks4d1FHUUdjcHk5cXZLdzlCMERmeDlDRktuS2I4UDdZVzJpRHRENzk0YlEtb2E0c21LcHdUWGIzYktsYWlwLXZPd2pjWFVlRHd0bHNNUHVaRS02UG9jWnRnZDdNV3oxT21MY1JOZ0RPNFctc3VYQnBEM1BGZ0tkd3JXRE1GM3ZvMXdIRFBib2pOWTFtWHM1dmxrRUdRdw?oc=5",
         "description": "",
-        "pubDate": "2025-11-28T00:44:00Z",
+        "pubDate": "2025-11-28T00:18:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -453,6 +552,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Fleet of UPS planes grounded after deadly crash expected to miss peak delivery season - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeHV5RE9lWnlBYUx5aUhCTlZmc084RmY2RGs1M2VDbVo1QWNiOFRjMnQ3WGNYNUtNMzhOeUJwcmEteFpIU2tfazRPR2pzWVVwb1dwMlY4RUpGd2c0MjNiNFRUSFdHV29SNEs3d1VLT3h2NUowaktuRVBIck1jd3JxYVAxR19MTTVXZS11RGF6b21FSVNLc0Y4?oc=5",
+        "description": "",
+        "pubDate": "2025-11-28T00:03:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Politics": [
@@ -472,6 +580,24 @@
         "pubDate": "2025-11-28T05:53:00Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/266c/live/48071ff0-cc28-11f0-a892-01d657345866.jpg",
+        "bias": 0
+      },
+      {
+        "title": "What to know about the apartment tower fire in Hong Kong - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZHB0cnJmRmRUUF9OZXhxQVpoamgwa2NMd3lVNDFSRTNXZEozdWRIZU5BWFlSZFRUQ2Vkb1J1REczSEg1V0dCVlV4QTNUQXlGNEVhaU94ZmUydjJfTUtGaGtFbDBBa2xVUHdNeUxzZ2haQ1NmVTBKeTJkaWlqX0pvTno0X21McTR5cm5YSEpGLVRLbk91aGtyYVdVUV9pSHp6cnFvVEtpZGpIcm1K?oc=5",
+        "description": "",
+        "pubDate": "2025-11-28T03:47:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Pope Leo XIV encourages Turkey to be a force for peace on his first foreign trip - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ1hhdVIwNTRXVnIxajdFLXpvLU52WE9IY0N3RlNZUTVQVEItVjNGX05jSFJjZEhXN2UzYVREdUEtYzI2c05hMzYtR0hYM29xQ1JUenNzU1NvTjhGQldNUWdob2sxT1ZPdWtZY1E0WDh1Xy1POVJnY2RKR3JVdmlpbUN3TnAzZWFFYzZqekJpQ1lwaURTRy1uaGdMV0NsY0VXNjVIRHVEQTljQQ?oc=5",
+        "description": "",
+        "pubDate": "2025-11-28T01:06:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       }
     ],
@@ -522,6 +648,15 @@
         "pubDate": "2025-11-28T06:06:52Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec2b/live/adb72100-c701-11f0-96f9-3db58431cbcf.png",
+        "bias": 0
+      },
+      {
+        "title": "Louvre to hike ticket prices for UK tourists by 45%",
+        "link": "https://www.bbc.com/news/articles/clyd4llgrego?at_medium=RSS&at_campaign=rss",
+        "description": "The price increase is expected to raise millions to fund the museum's renovation plans.",
+        "pubDate": "2025-11-28T02:41:25Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14de/live/195dcd20-cbf1-11f0-8d2c-035473429d3c.jpg",
         "bias": 0
       },
       {
