@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-28T11:18:47.422823Z",
+  "lastUpdate": "2025-11-28T11:31:41.145254Z",
   "news": {
     "Gaming": [
       {
@@ -18,6 +18,15 @@
         "pubDate": "2025-11-28T10:54:21Z",
         "source": "mvge.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0Mjg4OTM0LnBuZw==/315x250%23c/PW7oCG.png",
+        "bias": 0
+      },
+      {
+        "title": "Lakad Lasa [Free] [Platformer] [Windows]",
+        "link": "https://aggdc243.itch.io/lakad-lasa",
+        "description": "Lakad na, lasa pa!",
+        "pubDate": "2025-11-28T10:42:52Z",
+        "source": "aggdc243.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0Mjg4ODEyLnBuZw==/315x250%23c/Tm5m5Y.png",
         "bias": 0
       },
       {
@@ -45,6 +54,15 @@
         "pubDate": "2025-11-28T10:26:20Z",
         "source": "lilnak.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0Mjg4Njk2LnBuZw==/315x250%23c/ES9sPb.png",
+        "bias": 0
+      },
+      {
+        "title": "Victor's Ascent [Free] [Platformer] [Windows]",
+        "link": "https://aggdc243.itch.io/victorsascent",
+        "description": "One prisoner. One tower. Two possible endings.",
+        "pubDate": "2025-11-28T10:19:16Z",
+        "source": "aggdc243.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0Mjg4NzYzLnBuZw==/315x250%23c/r55qfo.png",
         "bias": 0
       },
       {
@@ -201,24 +219,6 @@
         "bias": 0
       },
       {
-        "title": "Mindscape [Free] [Adventure] [Windows]",
-        "link": "https://patchwork-penguin.itch.io/mindscape",
-        "description": "the mind world",
-        "pubDate": "2025-11-28T09:05:21Z",
-        "source": "patchwork-penguin.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0Mjg3OTQ4LnBuZw==/315x250%23c/2CywAC.png",
-        "bias": 0
-      },
-      {
-        "title": "Winter Lights and Love [Free] [Visual Novel]",
-        "link": "https://chanceoffire.itch.io/winter-lights-and-love",
-        "description": "Lights, snow, adventure and romance in a small town.",
-        "pubDate": "2025-11-28T08:35:52Z",
-        "source": "chanceoffire.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0Mjg3NzQ2LmpwZw==/315x250%23c/aV53Xs.jpg",
-        "bias": 0
-      },
-      {
         "title": "WASTEMANCER [Free] [Rhythm]",
         "link": "https://futuregames.itch.io/wastemancer",
         "description": "Precision based high-scoring combo game!",
@@ -239,13 +239,58 @@
     ],
     "World": [
       {
+        "title": "Nuns win reprieve in abandoned convent in Alps - if they stay off social media",
+        "link": "https://www.bbc.com/news/articles/c0l9z176lnlo?at_medium=RSS&at_campaign=rss",
+        "description": "The three nuns say they were taken out of the convent against their will and placed in a care home.",
+        "pubDate": "2025-11-28T11:25:16Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a669/live/04ca61e0-cc44-11f0-8c06-f5d460985095.jpg",
+        "bias": 0
+      },
+      {
         "title": "Guinea-Bissau president flees to Senegal after coup",
         "link": "https://www.bbc.com/news/articles/c741m97lk42o?at_medium=RSS&at_campaign=rss",
-        "description": "Sissoco Embaló has arrived in Senegal \"safe and sound\" on a chartered military plane, authorities say.",
+        "description": "Umaro Sissoco Embaló has arrived in Senegal \"safe and sound\" on a chartered military plane, authorities say.",
         "pubDate": "2025-11-28T11:17:43Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e76e/live/28eaca90-cc19-11f0-a74c-f1d4734c755d.jpg",
         "bias": 0
+      },
+      {
+        "title": "Will Bangladesh’s Hasina face the hangman?",
+        "link": "https://www.aljazeera.com/gallery/2025/11/28/history-illustrated-will-bangladeshs-hasina-face-the-hangman?traffic_source=rss",
+        "description": "Bangladesh wants former Prime Minister Hasina to hang, waits on India to formally respond to extradition request.",
+        "pubDate": "2025-11-28T11:12:42Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Pope Leo XIV begins Turkiye visit with prayers and unity message",
+        "link": "https://www.aljazeera.com/gallery/2025/11/28/pope-leo-xiv-begins-turkiye-visit-with-prayers-and-unity-message?traffic_source=rss",
+        "description": "The pontiff leads prayers in Istanbul, emphasising the Nicene Creed as the core of Christian unity and faith.",
+        "pubDate": "2025-11-28T11:09:06Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Venezuela explained in 10 maps and charts",
+        "link": "https://www.aljazeera.com/news/2025/11/28/venezuela-explained-in-10-maps-and-charts?traffic_source=rss",
+        "description": "Al Jazeera visualises Venezuela’s political and economic landscape, oil riches, migration crisis and tensions with US.",
+        "pubDate": "2025-11-28T11:04:56Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "India’s Olympic ambition in spotlight as Commonwealth Games build-up begins",
+        "link": "https://www.aljazeera.com/sports/2025/11/28/indias-olympic-ambition-in-spotlight-as-commonwealth-games-build-up-begins?traffic_source=rss",
+        "description": "India are expected to bid for the 2036 Olympic Games but the 2030 Commonwealth Games must first cover for past mistakes.",
+        "pubDate": "2025-11-28T11:02:46Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "A bright spot for turtles: Olive ridleys are recovering in India, but still at risk",
@@ -473,15 +518,6 @@
         "bias": 0
       },
       {
-        "title": "How Tollywood, or Telugu cinema, is taking over the world - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOWxLa0ZxRFJ3cVVtamJxLWRFSTRCWUQ5QlBhUExNMmZ0RlVCUW1aSndlaUk3ajA0UG1YVlN1UHkydko0WW5NUGVpdXUzM0JuVXR4U29nNlg1N3FJOEs5bnJTSzZ5TXZNUGx4b0ZwdGlsVjVDNFVVNmphc3Y5STVmdXlRN3R2SDI2STc4U1BFVE5CZlRQWUZtTUwzMHJXVXcxY3EyVWlQTXJGdWdwUEViVU5YSQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-28T08:07:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Japan's same-sex marriage ban is constitutional, says Tokyo court",
         "link": "https://www.bbc.com/news/articles/clyz7njqwvvo?at_medium=RSS&at_campaign=rss",
         "description": "The ruling bucks a trend set by courts around Japan that had raised hopes for marriage equality.",
@@ -543,6 +579,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Trump vows to 'permanently pause' migration from poor nations in anti-immigrant social media screed - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc2U0OWljelNmeFY2Y2t6MFVJRExxS0kwcmVEWWx3NzZyRU9nWG1Cb1N4N09lWGV4czZndGtHLVM1T1ZWRE11V25LTXBpajhCdHNQVEtfdXUzaDYwcXhobGt1dngyZVltZmozSURvMEZRd3RfTGMxNjhCWExQOUZyV2ZHVFdRQml3NG82U0sxMmt5ZnFQbVF2blNkSGJQWjNK?oc=5",
+        "description": "",
+        "pubDate": "2025-11-28T06:55:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Pope Leo XIV gets warm welcome from Turkey's Catholics on first foreign trip",
@@ -642,51 +687,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Jordan demands Russia stop recruiting citizens after two killed in fighting",
-        "link": "https://www.aljazeera.com/news/2025/11/28/jordan-demands-russia-stop-recruiting-citizens-after-two-killed-in-fighting?traffic_source=rss",
-        "description": "Aman says it will take 'all available measures' to stop its citizens from being recruited to fight for Russian forces.",
-        "pubDate": "2025-11-28T03:45:01Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "The world turns a blind eye as war-torn Somalia’s hospitals crumble - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYkpBMHF4aFlvZFRSM1FkNUQxdGx0SWhTYm13VDBFR1NyODFJSFY3ZVZ3ZVRMZi1WYTFWcFJ6djZUak9iMDk5ck5IemFWOXVSWmVUbkk2d05BQzJuYlg1ZVF5LU8tZlZWR1BNRGVWVF9odGJTZDhpWlhCQUN0enlueHNlZ1dUekpYXzNiX2hZdHlxTE5pMGN1RFk5QUdtSnhScVNWSFB1SmUzdw?oc=5",
-        "description": "",
-        "pubDate": "2025-11-28T03:33:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Trump says US will stop Venezuelan drug trafficking ‘by land’ soon",
-        "link": "https://www.aljazeera.com/news/2025/11/28/trump-says-us-will-soon-stop-venezuelan-drug-trafficking-by-land?traffic_source=rss",
-        "description": "US president claims attacks on vessels in Latin American region have stopped 85 percent of drugs trafficked by sea.",
-        "pubDate": "2025-11-28T03:05:25Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Prescott's Cowboys overcome Mahomes' fourth-down magic in 31-28 Thanksgiving win over Chiefs - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcGN6bC1xWjFoTGUxdUZmVXhfc0JLcW5FRk94XzhPeWRrNTBiWDR5RjcwcG5oX2lWelhfSHk1R0ZyazNwX2psNmg3QW1DUzJVUjZWMzlDTHNYR0pCUlJzTWliSnlrUXZybU9uaHktQ3ljTmx4VkFXS1FDOVhXOE10aEdUX1VBZms?oc=5",
-        "description": "",
-        "pubDate": "2025-11-28T02:46:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "A crystal Fabergé egg crafted for Russian royalty is expected to sell for more than $26 million - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMWtUelF4eXNONERoVkhDbE9SeFZ3S0QtODJ6Z3hBdzBKcjJOU1c1dkktbG0wdDVKTEFmMXg3SmFuVWVWZi05QzlyU0gzOUxqd2ZseF8teXRIb3pDSTI4RnZzR19NT0hSblgyazVVMTdTcmU1WE9WamwwMFNka3BzTUdzU21SOUJTcXN3djU4MGJVRTFvZ3hUWlpuWDY?oc=5",
-        "description": "",
-        "pubDate": "2025-11-28T02:40:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
@@ -694,7 +694,7 @@
         "title": "France to intercept small boats after pressure from UK",
         "link": "https://www.bbc.com/news/articles/c1kpmm20zwwo?at_medium=RSS&at_campaign=rss",
         "description": "The change in policy comes after Prime Minister Sir Keir Starmer wrote to President Emmanuel Macron.",
-        "pubDate": "2025-11-28T11:14:20Z",
+        "pubDate": "2025-11-28T11:23:32Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5301/live/574b3c40-cc4a-11f0-a892-01d657345866.jpg",
         "bias": 0
@@ -756,24 +756,6 @@
     ],
     "Tech": [
       {
-        "title": "Anti-corruption raid targets Zelenskyy’s prominent chief of staff - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcXI3N0dIRzJYNUNCd1hWNTFFQ01MZUhYY3dCQnVvdXJpUUlJa0tOYmR3Ul9ERTluM0lqWHRoQTFVSGV1YUFsYTRPVUNkSXZZZ1Y5MklDMmZHaGV2SWF1amhPQ3dNTE4tQnNSWVlpbTgwRkJUR1czeFdQWXdDY1l4SWc3dXc0R2I4dDJTaU16ZHJjdWQydi1hNVRZYjI?oc=5",
-        "description": "",
-        "pubDate": "2025-11-28T10:25:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Paris’ Louvre museum to increase ticket price for visitors from outside the European Union - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUTY1bmNUS3I1ODlIbi14QUdHMUNVWnZDVHZHMGdQMW9TRWN5YVRhY1VIQko1OW1QM3c0aFJIZFpUQWdRYjg0QXFaVWlheWFXQ2lrZkwzNzFNSHdXS3NheExKNmx0MXE4cC1jWVJyRUZKV0NFNUJ2OEJNUzUyZkN4MFhmeE9pUTM3dnJVdVRUekMtQU5MMlg1WFpIZnlmMWZhUUhlbQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-28T10:17:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "As AI companies continue to invest heavily, concerns about a bubble continue to grow",
         "link": "https://www.npr.org/2025/11/28/nx-s1-5620935/as-ai-companies-continue-to-invest-heavily-concerns-about-a-bubble-continue-to-grow",
         "description": "As AI companies pour hundreds of billions of dollars into data centers, concerns grow that the industry is inflating a financial bubble that could harm the economy.",
@@ -783,102 +765,12 @@
         "bias": -1
       },
       {
-        "title": "Dozens more bodies recovered after Hong Kong blaze, raising death toll to 128 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN0ZBMnFTWVN2bTEwWGN6REdaSzMtbDZrOUlHa09mZFg1ZmpUak5Gc2hya2hJWUxZbFNKYlVkZ1V5bWNxLVdENmFnTUhXakhROVVHN0MyTlduTlFNVDJocGlkZHIyNDBnTjI3QkhTRDVid29HU0Zlb0hSemFHSEYwbHZZVTh0NURFbVNlMjF5Z3VtX3M2RzY2UVI4LWI?oc=5",
-        "description": "",
-        "pubDate": "2025-11-28T08:46:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "What to know about the apartment tower fire in Hong Kong - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZHB0cnJmRmRUUF9OZXhxQVpoamgwa2NMd3lVNDFSRTNXZEozdWRIZU5BWFlSZFRUQ2Vkb1J1REczSEg1V0dCVlV4QTNUQXlGNEVhaU94ZmUydjJfTUtGaGtFbDBBa2xVUHdNeUxzZ2haQ1NmVTBKeTJkaWlqX0pvTno0X21McTR5cm5YSEpGLVRLbk91aGtyYVdVUV9pSHp6cnFvVEtpZGpIcm1K?oc=5",
-        "description": "",
-        "pubDate": "2025-11-28T07:33:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Court’s ruling against same-sex marriage sets up a Japan Supreme Court decision - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU0hfU2ZuREVLdzZqOEZWVkRlWmJpd0tWNHZ0T2tfVGlQYzU0V0NVVFpWSGViVXZKakF1bGZGSTF1TTNmTmMydnRjOUJYTEpMa04tWjZjZUFPdDQ4SDVqdUpsNjdTaTlxaks3UzRxV2kxb1I5eldkLVFqaHY5d0ZydFloRkszdVhGd0E3cVFoR21QdWNqWncwMUdaYw?oc=5",
-        "description": "",
-        "pubDate": "2025-11-28T06:59:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Trump vows to 'permanently pause' migration from poor nations in anti-immigrant social media screed - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc2U0OWljelNmeFY2Y2t6MFVJRExxS0kwcmVEWWx3NzZyRU9nWG1Cb1N4N09lWGV4czZndGtHLVM1T1ZWRE11V25LTXBpajhCdHNQVEtfdXUzaDYwcXhobGt1dngyZVltZmozSURvMEZRd3RfTGMxNjhCWExQOUZyV2ZHVFdRQml3NG82U0sxMmt5ZnFQbVF2blNkSGJQWjNK?oc=5",
-        "description": "",
-        "pubDate": "2025-11-28T06:55:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Photos of Buddhist monks in Laos praying in region littered with unexploded bombs - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZkNEclhUWkZxUjZOdkpjbzd0UXdaa282MmpXZmhyNU9nQmw5UkJ6VGl4NFI0ajVYUS1xUy15NmJJOXR3bUFSa1pLbzF3QW8yaG8yVlFUTzFFcUtnaUtSMldYMzN3bmQwY0RSV25nTWZTZ2FfUW0yQXN0OUhaSXFCYWNYaHZSSkdnY2NaWFYzeEIwelAxMmJTa2YtS2RKT1NIZnQ0WEo1SjB0T3c?oc=5",
-        "description": "",
-        "pubDate": "2025-11-28T04:55:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Bamboo scaffolding helped build Hong Kong’s skyline, but a deadly fire may hasten its end - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMXZNSTVUY1JSVGNIVndUUGRZWXB0WVNqeDJOc2hMckZBNFhHYXBvZWxEY042RGFrQmFCZXA1WmpzQkpUeFQ3alNlQ1h4eGF5MHdEY1JkTF9DUTdjOU14QnhYbm9JYzkzSHNISTFYbVFMQThSUVpYZnRNLS1WQjRqMlVRXzZTcVM3Y0lGZnlGVGJpaWdSX1RQeDRzVG1CZw?oc=5",
-        "description": "",
-        "pubDate": "2025-11-28T04:11:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Trump criticizes the program that brought Afghan refugees to the US who fought the Taliban - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObXM0cFZ4LWozWjdhbm44MURJODZmLUc0QlZnT2FBczMwaHI1T09uTHBlQlExQXNkSm1CNDFqb0V2d3ZJUlBLTkJaTlV6QXlwNDg0eHhNMnVMYWlhdl9fMUxiWkhOVWhIa0VsOUpnWnM3aUJzY29QR2MwYmJLeHRZVl9DQnR2X29iYWFCa3BMLTZVeUFnQUNzYjZ1MkFTY19oY2I3aGhwZFZuWFlVc1hUZ3VBb0twZw?oc=5",
-        "description": "",
-        "pubDate": "2025-11-28T03:58:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Refugee groups worry about backlash after shooting of National Guard soldiers in DC - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY1U1QmxtbXJEZjNnOGZZX2dTRG42clNscnRLdUs5b3pRUGhGVy1BcnE0cnpscVlLQnhiZ01DWnMzWmpVcnpYT1Q2dUU1a3lDUlVXR2tLaFhOYkNnSENxT210S1Q1Y013TXU0LWlKcUc3c1ZWcUtvOC16N0dVcGY1UVJHMXg3RnI4UGJzS1ItcVAxRnpyQVJOdXQ5bHM2SUV5UUl3?oc=5",
-        "description": "",
-        "pubDate": "2025-11-28T01:43:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Canada's prime minister and Alberta's premier sign pipeline deal that could reverse oil tanker ban - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT0I3anhUOU9hSnV6WXNuMUlURGlGTDJoSks4d1FHUUdjcHk5cXZLdzlCMERmeDlDRktuS2I4UDdZVzJpRHRENzk0YlEtb2E0c21LcHdUWGIzYktsYWlwLXZPd2pjWFVlRHd0bHNNUHVaRS02UG9jWnRnZDdNV3oxT21MY1JOZ0RPNFctc3VYQnBEM1BGZ0tkd3JXRE1GM3ZvMXdIRFBib2pOWTFtWHM1dmxrRUdRdw?oc=5",
-        "description": "",
-        "pubDate": "2025-11-28T00:18:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Will boats be a breakthrough for 3D printing tech?",
         "link": "https://www.bbc.com/news/articles/c751xw96e9yo?at_medium=RSS&at_campaign=rss",
         "description": "Dutch firms are betting that hulls made with 3D printing machines will mean cheaper boats.",
         "pubDate": "2025-11-28T00:10:39Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cc9/live/492a8a10-caa3-11f0-8c06-f5d460985095.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Fleet of UPS planes grounded after deadly crash expected to miss peak delivery season - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeHV5RE9lWnlBYUx5aUhCTlZmc084RmY2RGs1M2VDbVo1QWNiOFRjMnQ3WGNYNUtNMzhOeUJwcmEteFpIU2tfazRPR2pzWVVwb1dwMlY4RUpGd2c0MjNiNFRUSFdHV29SNEs3d1VLT3h2NUowaktuRVBIck1jd3JxYVAxR19MTTVXZS11RGF6b21FSVNLc0Y4?oc=5",
-        "description": "",
-        "pubDate": "2025-11-28T00:03:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       }
     ],
@@ -966,6 +858,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Paris’ Louvre museum to increase ticket price for visitors from outside the European Union - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUTY1bmNUS3I1ODlIbi14QUdHMUNVWnZDVHZHMGdQMW9TRWN5YVRhY1VIQko1OW1QM3c0aFJIZFpUQWdRYjg0QXFaVWlheWFXQ2lrZkwzNzFNSHdXS3NheExKNmx0MXE4cC1jWVJyRUZKV0NFNUJ2OEJNUzUyZkN4MFhmeE9pUTM3dnJVdVRUekMtQU5MMlg1WFpIZnlmMWZhUUhlbQ?oc=5",
+        "description": "",
+        "pubDate": "2025-11-28T10:17:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "This new movie about Russia's independent journalists is harrowing, but not hopeless",
