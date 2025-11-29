@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-11-29T10:32:29.173110Z",
+  "lastUpdate": "2025-11-29T10:46:59.604581Z",
   "news": {
     "Gaming": [
+      {
+        "title": "MateSynth [Free]",
+        "link": "https://tahiel001.itch.io/matesynth",
+        "description": "Inspecciona los paquetes, aceptá los verdes y rechazá los rojos.",
+        "pubDate": "2025-11-29T10:35:16Z",
+        "source": "tahiel001.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MzA0NDMwLnBuZw==/315x250%23c/hNTS1j.png",
+        "bias": 0
+      },
       {
         "title": "El tiempo bajo la nieve [Free]",
         "link": "https://lazaro-descalzo.itch.io/el-tiempo-bajo-la-nieve",
@@ -18,6 +27,15 @@
         "pubDate": "2025-11-29T10:24:22Z",
         "source": "robinson-games-ltd.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MzA0NTQzLnBuZw==/315x250%23c/1WyE31.png",
+        "bias": 0
+      },
+      {
+        "title": "Restocks Guaranteed Inc. [Free] [Survival]",
+        "link": "https://origene-the-loremaster.itch.io/restocks-guaranteed-inc",
+        "description": "In the wasteland, you're just the delivery guy. Good luck.",
+        "pubDate": "2025-11-29T10:17:52Z",
+        "source": "origene-the-loremaster.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MzA0NjIzLnBuZw==/315x250%23c/C5BTcs.png",
         "bias": 0
       },
       {
@@ -183,24 +201,6 @@
         "bias": 0
       },
       {
-        "title": "Just Explore 2 [Free] [Other] [Windows]",
-        "link": "https://silentgamer55.itch.io/just-explore-2",
-        "description": "",
-        "pubDate": "2025-11-29T07:43:35Z",
-        "source": "silentgamer55.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzAzMjg5LnBuZw==/315x250%23c/ZZKjAL.png",
-        "bias": 0
-      },
-      {
-        "title": "Stealing from the history museum. [Free] [Adventure] [Windows] [Linux]",
-        "link": "https://perico415.itch.io/stealing-from-the-history-museum",
-        "description": "",
-        "pubDate": "2025-11-29T07:36:52Z",
-        "source": "perico415.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzAzNDg2LmpwZw==/315x250%23c/Sk0Ptn.jpg",
-        "bias": 0
-      },
-      {
         "title": "Our Great Journey [Free] [Puzzle]",
         "link": "https://mikanhako.itch.io/our-great-journey",
         "description": "A short Puzzle with U and Hook",
@@ -211,6 +211,42 @@
       }
     ],
     "World": [
+      {
+        "title": "More than 600,000 without power in Kyiv after Russian strikes",
+        "link": "https://www.bbc.com/news/articles/cx2gylngx7go?at_medium=RSS&at_campaign=rss",
+        "description": "The overnight attack kills at least three and leaves many in the Ukrainian capital.",
+        "pubDate": "2025-11-29T10:34:24Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2422/live/2040baa0-cd0c-11f0-a892-01d657345866.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Israeli attack kills two children in southern Gaza despite ceasefire",
+        "link": "https://www.aljazeera.com/news/2025/11/29/israeli-attack-kills-two-children-in-southern-gaza-despite-ceasefire?traffic_source=rss",
+        "description": "Drone attack hits Bani Suheila in southern Gaza amid continued Israeli attacks on the enclave.",
+        "pubDate": "2025-11-29T10:17:00Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Israeli forces injure hundreds of Palestinians in raids on Tubas, West Bank",
+        "link": "https://www.aljazeera.com/news/2025/11/29/israeli-forces-injure-hundreds-of-palestinians-in-raids-on-tubas-west-bank?traffic_source=rss",
+        "description": "Major Israeli offensive has also destroyed roads, water networks and private property.",
+        "pubDate": "2025-11-29T10:10:31Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Pope visits Istanbul’s Blue Mosque at start of day of meetings with Turkey’s religious leaders - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLURaSURXX1B3Vmp0SnctS0ZtLW9mS1hhNDMtcFoyTFFKaXBIM1ptTm52WG1VNkk0akJMeEttb0NDbGY1bVE0NmRoaHRWWWVpRk1lSWVZTUp5M3V4TG03U1BMSDFaSmJJQXVRVXM0alpOTzJiQmxtcERnQ2JacU5PdGNpZ0twME9PX1BZUU92LXRqNFM5alZRcUtObVFlTjdiejFmbVZn?oc=5",
+        "description": "",
+        "pubDate": "2025-11-29T10:07:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Nigeria blames jihadist groups for wave of kidnappings but others accuse criminal gangs",
         "link": "https://www.bbc.com/news/articles/cvgj9dd983xo?at_medium=RSS&at_campaign=rss",
@@ -322,20 +358,11 @@
       {
         "title": "Hong Kong mourns victims of blaze as search for remains continues",
         "link": "https://www.aljazeera.com/news/2025/11/29/hong-kong-mourns-victims-of-blaze-as-search-for-remains-continues?traffic_source=rss",
-        "description": "At least 128 people died and 200 remain missing after the towers housing 4,600 people were engulfed by flames.",
+        "description": "At least 128 people died and 150 remain missing after the towers housing 4,600 people were engulfed by flames.",
         "pubDate": "2025-11-29T07:09:26Z",
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Pope visits Istanbul’s Blue Mosque at start of day of meetings with Turkey’s religious leaders - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLURaSURXX1B3Vmp0SnctS0ZtLW9mS1hhNDMtcFoyTFFKaXBIM1ptTm52WG1VNkk0akJMeEttb0NDbGY1bVE0NmRoaHRWWWVpRk1lSWVZTUp5M3V4TG03U1BMSDFaSmJJQXVRVXM0alpOTzJiQmxtcERnQ2JacU5PdGNpZ0twME9PX1BZUU92LXRqNFM5alZRcUtObVFlTjdiejFmbVZn?oc=5",
-        "description": "",
-        "pubDate": "2025-11-29T07:09:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Indonesia death toll rises to 248 after catastrophic flooding in Sumatra",
@@ -565,75 +592,12 @@
         "bias": -1
       },
       {
-        "title": "No. 16 Texas spoils No. 3 Texas A&M's perfect season 27-17, knocks Aggies out of SEC title game - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSW9qODJSRi1TLVRQVXNaSENTS2JnSVlFMHpyOXgwdklPWXVZaU10ai03N0RGOXhuU2JBY1gtTHBZQmRXTVZGUlFQZ2RwcFlZbDRWRXBsUGRKb2dnWHhkUEtNNko2MldVdmptOTU2cml6SmJmOFRkT0Z3T1pnbjBSRzlyNkpqd00?oc=5",
-        "description": "",
-        "pubDate": "2025-11-29T06:33:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Death toll from floods and landslides on Indonesia's Sumatra island rises to 248, authorities say - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMVhIRkN5N0dpQUtkWFpiTW5tNGl5b1FQMFhwbnVKVnRPYmtIR2dyZ0JIWmVWN0pyaVJ3WFVmbGo5RlJpRW5HN3l6ckxCWTJMU0ZtOXBCWDBrVzhCQnA5OWJ3X3pjMGQyV1BlMlA4SVZJdVd4MXhSYUdrb1FDVDVoemxwUW81OE53aVlfaWpuSkFiM29IMGEzVUVWWmx1cHoxb2hpT2ZKTnVPMmo5YjRscA?oc=5",
-        "description": "",
-        "pubDate": "2025-11-29T05:48:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Jets’ Kris Boyd says in Instagram post he’s back in hospital after recent shooting - AP News",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xTV9XemQtVGdTSFZ4NFRkcmkzVDdQcS1ZcWlRMUx3cDNRczZ6cG1CTVlrY09EdnducHNxTVFNamhmUThXUEphYlJaTW4wSW15WTZFTHBNc1hvcGZLWWpJZHhYTTJScnlYbmp4LWxmcVlQdjJ6R1k4ZVZNamxZRlE?oc=5",
-        "description": "",
-        "pubDate": "2025-11-29T05:21:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "US halts all asylum decisions as suspect in shooting of National Guard members faces murder charge - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcXdfRkFSN3lkaGMyRkdCUEhRb3Q3NGFNMV8xRFZrc2p6SHcwcHFRSV9lVmpCUkIwa213c1BjdndEWFp6S0hrWU9ReXA5NUN2LWFTRDhxVjlHM1V2U0FuOC1XTlZFU1hRZnJXMVNjeTZ2cTNCOExXc2lETFBNMWpmTHI1YUctM2haX21ZQmJSdXVIaXpfUVU5ZmtCelMtUm9WWTF3VmRiZVJDTTQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-29T05:09:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "No 10 denies Reeves misled public in run-up to Budget",
         "link": "https://www.bbc.com/news/articles/c4gex225p5jo?at_medium=RSS&at_campaign=rss",
         "description": "The Conservatives say she was overly gloomy about the public finances as a \"smokescreen\" to raise tax.",
         "pubDate": "2025-11-29T04:40:57Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c2a/live/1e62fc60-cc7c-11f0-9fb5-5f3a3703a365.jpg",
-        "bias": 0
-      },
-      {
-        "title": "No. 4 Georgia holds off No. 23 Georgia Tech 16-9 for 8th straight win in series - AP News",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xZEVxRkp2bjBzbG0wdlljVTBPYVJUMTJDNi1wZ3RJbnNlNWpPaU1WWTJISWdsLVNSUG1XcUgzTWxVb1pDSzNFOXZQZXhQNlN5SVRldGhMUHBIMVBvSl9KMzM0NWJ0RXFxeF81cXVSWXZlU0RqNHc?oc=5",
-        "description": "",
-        "pubDate": "2025-11-29T04:31:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Trump pushes for more restrictions on Afghan refugees. Experts say many are already in place - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV1pKSzBZVXY2YlcxQUJWd0tibFJ1WlJsMVdFckFsYWw0RUhVdHRTWWpPWW5nSE9xWTVGNVVSeVdraFFrV3htV1pjalVROXlYVEI0ZUJjVUlaVHJiWTRWYXB4Y3hIWmJLTFF4ZjVjclcweHo5b29QVlYzSm8tWDNGQzJOVVNXTEFCTGpJYk5KVlBmTlRqMHNvcXJTT0NsLUZJdmVpYXppNTdyMGtMSTltVG9oVTJVMk9fRkZzSDd5dzZVQQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-29T03:43:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Eagles offensive coordinator Kevin Patullo will keep his job after Hurts, Barkley struggle again - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWVlwcVlTQWhOYk5BXzd6d2ZwbDNRYkxvTldyRnRjT1ZGSl9qMkVFQk5Lak15MWJhMUVmQTN4VmtZaFp5b0pQZDRBOGdLMzBfUTZaNV9GTURNcVRQVTRYQlQ2Q0h0R183V0JBWWRqOHpyWnY0bDNRRUp5dmYyZGdWNjhRWlV3Si1Xa19vQS1xRVV5UlNWMXFfSXgzVXV3MkN2cUhGYkRFaWxCUjFyRjdHcQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-29T00:56:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       }
     ],
