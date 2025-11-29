@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-29T05:59:33.968250Z",
+  "lastUpdate": "2025-11-29T06:38:44.135153Z",
   "news": {
     "Gaming": [
       {
@@ -156,24 +156,6 @@
         "bias": 0
       },
       {
-        "title": "Lander [Free] [Shooter] [Windows] [macOS]",
-        "link": "https://kranzky.itch.io/lander",
-        "description": "A C++ port of David Braben's Lander demo, based on the commented ARM dissassembly by Mark Moxon.",
-        "pubDate": "2025-11-29T03:17:29Z",
-        "source": "kranzky.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzAxNTIyLnBuZw==/315x250%23c/H3jpz9.png",
-        "bias": 0
-      },
-      {
-        "title": "Danger Patrol [Free] [Action]",
-        "link": "https://goldbuick.itch.io/danger-patrol",
-        "description": "slide and shoot your way around the loop",
-        "pubDate": "2025-11-29T03:15:58Z",
-        "source": "goldbuick.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzAxMjI4LmpwZw==/315x250%23c/jglzax.jpg",
-        "bias": 0
-      },
-      {
         "title": "Crescent Sea Story [Free]",
         "link": "https://fujibeard.itch.io/crescent-sea-story",
         "description": "Memories are mutable. The future is unwritten. But can you ever truly change who you are?",
@@ -203,6 +185,33 @@
     ],
     "World": [
       {
+        "title": "Planes grounded after Airbus discovers solar radiation could impact systems",
+        "link": "https://www.bbc.com/news/articles/c8e9d13x2z7o?at_medium=RSS&at_campaign=rss",
+        "description": "The issue is thought to affect 6,000 planes, which will need to undergo an urgent software update or have computers replaced.",
+        "pubDate": "2025-11-29T06:01:25Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/602d/live/3750e380-ccaa-11f0-9975-d11a46903c55.jpg",
+        "bias": 0
+      },
+      {
+        "title": "No. 6 Ole Miss beats Mississippi State in Battle for the Golden Egg; Kiffin decision up next - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeFRPNjBQNW1ZU194cFV6cFgtNVhwQlFLOC1waWRMdmpDdFpIcGFKdUxxaVhHdm1iQlNjQlNzaC1naFZ1WGNrOFJ1VTVfeWwyNWxuV0RJSGNhLXhuc1FUZmJYTVhSMkcwU1hRZmM2MkJ1RE9iNVlyTVNxSkRVSkNGNy1rbThfZjNoT3A1Q1JSci1lSm5vSDB0Tw?oc=5",
+        "description": "",
+        "pubDate": "2025-11-29T05:53:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "US halts all asylum decisions as suspect in shooting of National Guard members faces murder charge - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcXdfRkFSN3lkaGMyRkdCUEhRb3Q3NGFNMV8xRFZrc2p6SHcwcHFRSV9lVmpCUkIwa213c1BjdndEWFp6S0hrWU9ReXA5NUN2LWFTRDhxVjlHM1V2U0FuOC1XTlZFU1hRZnJXMVNjeTZ2cTNCOExXc2lETFBNMWpmTHI1YUctM2haX21ZQmJSdXVIaXpfUVU5ZmtCelMtUm9WWTF3VmRiZVJDTTQ?oc=5",
+        "description": "",
+        "pubDate": "2025-11-29T05:09:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Airlines adopt software fix for Airbus A320 after plane has sudden altitude drop - AP News",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWnlTQzBPY1h4dmpWMHozOG5Sc2ZWYXp5YnpJX3RRa1RTVzdLdnU5SHIzcmduaDBGMTRJSHh6enZyZmdORDVvcFJsbzU0SG9JbWpKZlpudDFJOTBKVmxmanExYzFPVEt1dWJRRVpVMXVQc3FqeENRajJWQkhwaU52TlRaRzdkSkNNWlpraVotdm1oRlhrck5kTDdBX0NTUFFfb0NQZg?oc=5",
         "description": "",
@@ -221,12 +230,12 @@
         "bias": 0
       },
       {
-        "title": "Russian drone strikes hit Kyiv residential areas despite peace moves",
-        "link": "https://www.bbc.com/news/articles/cx2gylngx7go?at_medium=RSS&at_campaign=rss",
-        "description": "The attack on Ukraine's capital early on Saturday killed one person and injured seven, city officials said.",
-        "pubDate": "2025-11-29T04:48:18Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6ca/live/54f61020-cce3-11f0-9fb5-5f3a3703a365.jpg",
+        "title": "Death toll from floods and landslides on Indonesia's Sumatra island rises to 248, authorities say - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMVhIRkN5N0dpQUtkWFpiTW5tNGl5b1FQMFhwbnVKVnRPYmtIR2dyZ0JIWmVWN0pyaVJ3WFVmbGo5RlJpRW5HN3l6ckxCWTJMU0ZtOXBCWDBrVzhCQnA5OWJ3X3pjMGQyV1BlMlA4SVZJdVd4MXhSYUdrb1FDVDVoemxwUW81OE53aVlfaWpuSkFiM29IMGEzVUVWWmx1cHoxb2hpT2ZKTnVPMmo5YjRscA?oc=5",
+        "description": "",
+        "pubDate": "2025-11-29T04:49:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -248,6 +257,15 @@
         "bias": -1
       },
       {
+        "title": "No. 4 Georgia holds off No. 23 Georgia Tech 16-9 for 8th straight win in series - AP News",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xZEVxRkp2bjBzbG0wdlljVTBPYVJUMTJDNi1wZ3RJbnNlNWpPaU1WWTJISWdsLVNSUG1XcUgzTWxVb1pDSzNFOXZQZXhQNlN5SVRldGhMUHBIMVBvSl9KMzM0NWJ0RXFxeF81cXVSWXZlU0RqNHc?oc=5",
+        "description": "",
+        "pubDate": "2025-11-29T04:31:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Son of jailed Mexican drug lord ‘El Chapo’ to plead guilty in US court",
         "link": "https://www.aljazeera.com/news/2025/11/29/son-of-jailed-mexican-drug-lord-el-chapo-to-plead-guilty-in-us-court?traffic_source=rss",
         "description": "Joaquin Guzman Lopez, one of four sons of the Sinaloa cartel's 'El Chapo', changes his plea to guilty, documents show.",
@@ -255,24 +273,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "MarJon Beauchamp’s 24 points lead US to a dominant 102-67 win over Nicaragua - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ2ptUDdtLUdlb3JEaHVCVEY3OGJnalpCZ0tRa0ZmZkw5S3VaVFNYb3Z4LW5QVGh3TTVtWjBGZ21zd1hWYWNuc3dMVUV4NjhnWDhValhYTi1wMmNIUUpIRXE4VE5ZUzhuclAxUWJ6NUZPZWZ2NjZQc1dKQldIZExORVBjMk9RUG1QcWJyMXo1QjlVUENJM2FONUdTOEg2bFczN2pJOWVpRQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-29T03:08:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Planes grounded after Airbus discovers solar radiation could impact systems",
-        "link": "https://www.bbc.com/news/articles/c8e9d13x2z7o?at_medium=RSS&at_campaign=rss",
-        "description": "The issue is thought to affect 6,000 planes, which will need to undergo an urgent software update or have computers replaced.",
-        "pubDate": "2025-11-29T03:07:01Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/602d/live/3750e380-ccaa-11f0-9975-d11a46903c55.jpg",
-        "bias": 0
       },
       {
         "title": "Shoppers hit Black Friday sales with celebratory mood despite economic strain - AP News",
@@ -338,6 +338,15 @@
         "bias": -1
       },
       {
+        "title": "Eagles offensive coordinator Kevin Patullo will keep his job after Hurts, Barkley struggle again - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWVlwcVlTQWhOYk5BXzd6d2ZwbDNRYkxvTldyRnRjT1ZGSl9qMkVFQk5Lak15MWJhMUVmQTN4VmtZaFp5b0pQZDRBOGdLMzBfUTZaNV9GTURNcVRQVTRYQlQ2Q0h0R183V0JBWWRqOHpyWnY0bDNRRUp5dmYyZGdWNjhRWlV3Si1Xa19vQS1xRVV5UlNWMXFfSXgzVXV3MkN2cUhGYkRFaWxCUjFyRjdHcQ?oc=5",
+        "description": "",
+        "pubDate": "2025-11-29T00:59:06Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Iran boycotting World Cup draw citing visa restrictions for soccer officials - AP News",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTm1ubGUzdFM2bWYtWXFZYUVtQ1NSSXhveWEwYTBmYVU5ajI5Wmt3MV9Qc2laMFNMOEhsMkI5b3VWTjNPY2M0MzVBd3BzTGIzVTZOSDF4b2FBYXpQTUdIdmhOVmlIMzRQMmN4UjQ0ekhKbUo0QVA3d3NXQXc3M1lGUDAtbnJBdjhyeVVzQjRIbkc?oc=5",
         "description": "",
@@ -351,6 +360,15 @@
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDFjQndqVEU5VnUtd0pwUDRsTlVqWVFoYXdtRzMyT3RhTEV6X1VILUdjTl9DdkFrdDF4TUhwVXExNHotVEVydTQyZThBNlgxUnlqY1ZGeE9ZcThUcTVIdElWSG5IVEJzLWQzcXBUYXRWbmVYSnVzYUFOSWw4WWVIUHRMdUVrOGxrZkdfUUNLeWVPZEZWdy1rWk4ta3hlZlc2TUczcTFrQmptbkhIXzJtX0dKbkZfRjg?oc=5",
         "description": "",
         "pubDate": "2025-11-29T00:45:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Florida is moving on from Lane Kiffin and targeting Tulane’s Jon Sumrall, AP source says - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWDNVTUp1a1hOSjVPYU0telhfNlBzdnBnc1c1ZHZ0TWxqRVhiWE9jU093ZDdsZTdDalN4NHNrLUpaWlItelZ6eU9PMlhCREZJUEJDMnpWVjBmLWx1aHN0ZFNLVndXNUZGZXF4R280S3ZiQ3JiUW1ES0ItV1hlLWRidHpRSmVjOUpnVGhF?oc=5",
+        "description": "",
+        "pubDate": "2025-11-29T00:36:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -392,12 +410,12 @@
         "bias": 0
       },
       {
-        "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-        "description": "",
-        "pubDate": "2025-11-29T00:05:51Z",
-        "source": "news.google.com",
-        "image": "",
+        "title": "We searched for a true Christmas market - and may have found one",
+        "link": "https://www.bbc.com/news/articles/clyzdxyjx2eo?at_medium=RSS&at_campaign=rss",
+        "description": "We visited festive markets in the UK and Germany to check which come closest to the real deal.",
+        "pubDate": "2025-11-29T00:03:22Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e9e/live/adaa8850-c9ea-11f0-9fb5-5f3a3703a365.jpg",
         "bias": 0
       }
     ],
@@ -409,6 +427,15 @@
         "pubDate": "2025-11-29T04:40:57Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c2a/live/1e62fc60-cc7c-11f0-9fb5-5f3a3703a365.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Trump pushes for more restrictions on Afghan refugees. Experts say many are already in place - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV1pKSzBZVXY2YlcxQUJWd0tibFJ1WlJsMVdFckFsYWw0RUhVdHRTWWpPWW5nSE9xWTVGNVVSeVdraFFrV3htV1pjalVROXlYVEI0ZUJjVUlaVHJiWTRWYXB4Y3hIWmJLTFF4ZjVjclcweHo5b29QVlYzSm8tWDNGQzJOVVNXTEFCTGpJYk5KVlBmTlRqMHNvcXJTT0NsLUZJdmVpYXppNTdyMGtMSTltVG9oVTJVMk9fRkZzSDd5dzZVQQ?oc=5",
+        "description": "",
+        "pubDate": "2025-11-29T03:43:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       }
     ],
