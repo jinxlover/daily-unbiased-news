@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-11-29T06:38:44.135153Z",
+  "lastUpdate": "2025-11-29T06:54:17.063523Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Travel Primary [Free]",
+        "link": "https://mmikael.itch.io/travel-primary",
+        "description": "",
+        "pubDate": "2025-11-29T06:41:33Z",
+        "source": "mmikael.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MzAyODM2LnBuZw==/315x250%23c/%2BmqPv2.png",
+        "bias": 0
+      },
       {
         "title": "My Lifelong Consequence [Free]",
         "link": "https://tdt3.itch.io/my-lifelong-consequence",
@@ -129,24 +138,6 @@
         "bias": 0
       },
       {
-        "title": "BallGame [Free] [Other] [Windows]",
-        "link": "https://brokefire.itch.io/ballgame",
-        "description": "first ever game.",
-        "pubDate": "2025-11-29T03:23:35Z",
-        "source": "brokefire.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzAxMjc0LnBuZw==/315x250%23c/QWUf%2B%2B.png",
-        "bias": 0
-      },
-      {
-        "title": "Echo Over The Gallop [Free] [Survival]",
-        "link": "https://krongthumdev.itch.io/echo-from-the-gallop",
-        "description": "",
-        "pubDate": "2025-11-29T03:22:45Z",
-        "source": "krongthumdev.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzAxMzIxLnBuZw==/315x250%23c/Lz6Wt1.png",
-        "bias": 0
-      },
-      {
         "title": "NeuroBalance Lab [Free] [Educational]",
         "link": "https://code-a-little.itch.io/neurobalance-lab",
         "description": "Explore how digital distractions impact your cognitive performance through 4 science-based mini-games.",
@@ -156,12 +147,12 @@
         "bias": 0
       },
       {
-        "title": "Crescent Sea Story [Free]",
-        "link": "https://fujibeard.itch.io/crescent-sea-story",
-        "description": "Memories are mutable. The future is unwritten. But can you ever truly change who you are?",
-        "pubDate": "2025-11-29T03:05:27Z",
-        "source": "fujibeard.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzAxMjI5LnBuZw==/315x250%23c/0nAXeG.png",
+        "title": "Apocalipse voador [Free] [Survival] [Windows]",
+        "link": "https://skyaetherdev.itch.io/apocalipse-voador",
+        "description": "sobreviva em sua nave contra todos os apocalipses",
+        "pubDate": "2025-11-29T03:09:36Z",
+        "source": "skyaetherdev.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MzAxMjkxLnBuZw==/315x250%23c/9sxs7z.png",
         "bias": 0
       },
       {
@@ -428,7 +419,9 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c2a/live/1e62fc60-cc7c-11f0-9fb5-5f3a3703a365.jpg",
         "bias": 0
-      },
+      }
+    ],
+    "Tech": [
       {
         "title": "Trump pushes for more restrictions on Afghan refugees. Experts say many are already in place - AP News",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV1pKSzBZVXY2YlcxQUJWd0tibFJ1WlJsMVdFckFsYWw0RUhVdHRTWWpPWW5nSE9xWTVGNVVSeVdraFFrV3htV1pjalVROXlYVEI0ZUJjVUlaVHJiWTRWYXB4Y3hIWmJLTFF4ZjVjclcweHo5b29QVlYzSm8tWDNGQzJOVVNXTEFCTGpJYk5KVlBmTlRqMHNvcXJTT0NsLUZJdmVpYXppNTdyMGtMSTltVG9oVTJVMk9fRkZzSDd5dzZVQQ?oc=5",
@@ -439,7 +432,6 @@
         "bias": 0
       }
     ],
-    "Tech": [],
     "Science": [],
     "Business": [],
     "Culture": []
