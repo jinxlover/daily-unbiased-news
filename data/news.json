@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-11-30T07:36:52.474533Z",
+  "lastUpdate": "2025-11-30T07:47:12.922757Z",
   "news": {
     "Gaming": [
+      {
+        "title": "長靴がほしい [Free]",
+        "link": "https://eqonp.itch.io/nagagutsu",
+        "description": "",
+        "pubDate": "2025-11-30T07:28:45Z",
+        "source": "eqonp.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MzIwMDYxLnBuZw==/315x250%23c/27X9m2.png",
+        "bias": 0
+      },
       {
         "title": "Save The World [Free] [Windows]",
         "link": "https://avithebot.itch.io/save-the-world",
@@ -18,6 +27,15 @@
         "pubDate": "2025-11-30T07:14:45Z",
         "source": "pgal-logan.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MzE5ODk5LnBuZw==/315x250%23c/DAICw4.png",
+        "bias": 0
+      },
+      {
+        "title": "Ultio (Beta) [Free] [Action]",
+        "link": "https://littlepim.itch.io/ultio-beta",
+        "description": "Ultio is a fully hand drawn isometric Rougelike! Still in development by university students",
+        "pubDate": "2025-11-30T07:07:24Z",
+        "source": "littlepim.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MzE5ODc5LnBuZw==/315x250%23c/4P8mFV.png",
         "bias": 0
       },
       {
@@ -165,15 +183,6 @@
         "bias": 0
       },
       {
-        "title": "One Night at Dumbasses 5 (DEMO) [Free]",
-        "link": "https://minus-official.itch.io/demo",
-        "description": "demo for the finale of the ONaD series",
-        "pubDate": "2025-11-30T05:44:57Z",
-        "source": "minus-official.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzE5MDI4LnBuZw==/315x250%23c/cL7Ph3.png",
-        "bias": 0
-      },
-      {
         "title": "Timeline Gone [Free] [Simulation] [Windows]",
         "link": "https://danzkhan22.itch.io/timeline-gone",
         "description": "Work fast to save the past",
@@ -219,21 +228,12 @@
         "bias": 0
       },
       {
-        "title": "Feru's birthday game [Free] [Windows] [macOS] [Linux]",
-        "link": "https://kycinnabar.itch.io/feru-bday-game",
-        "description": "Happy birthday!!",
-        "pubDate": "2025-11-30T05:34:37Z",
-        "source": "kycinnabar.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzE4OTcwLmpwZWc=/315x250%23c/vZ6on0.jpeg",
-        "bias": 0
-      },
-      {
-        "title": "Gravity of the Situation [Free] [Platformer]",
-        "link": "https://zowua.itch.io/gravity-of-the-situation",
-        "description": "swap a museum between past and present and mess with gravity!",
-        "pubDate": "2025-11-30T05:34:09Z",
-        "source": "zowua.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzE4OTM5LnBuZw==/315x250%23c/EPzoxw.png",
+        "title": "SINC [Free] [Visual Novel]",
+        "link": "https://dreamteammmm.itch.io/sinc",
+        "description": "",
+        "pubDate": "2025-11-30T05:27:08Z",
+        "source": "dreamteammmm.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MzE4Njk1LnBuZw==/315x250%23c/ct53RU.png",
         "bias": 0
       },
       {
@@ -265,6 +265,15 @@
       }
     ],
     "World": [
+      {
+        "title": "Hundreds dead and missing in flooding across South East Asia",
+        "link": "https://www.bbc.com/news/articles/c5y9ejley9do?at_medium=RSS&at_campaign=rss",
+        "description": "The region faces some of the worst floods in years, with millions affected in Indonesia, Malaysia and Thailand.",
+        "pubDate": "2025-11-30T07:40:37Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37f4/live/110dcd30-cd6a-11f0-8c06-f5d460985095.jpg",
+        "bias": 0
+      },
       {
         "title": "Four killed in shooting at child's birthday party in California",
         "link": "https://www.bbc.com/news/articles/cvg81p61dnmo?at_medium=RSS&at_campaign=rss",
@@ -371,15 +380,6 @@
         "pubDate": "2025-11-30T04:31:00Z",
         "source": "news.google.com",
         "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Hundreds dead and missing in flooding across South East Asia",
-        "link": "https://www.bbc.com/news/articles/c5y9ejley9do?at_medium=RSS&at_campaign=rss",
-        "description": "The region is hit by some of the worst floods in years, with millions affected in Indonesia, Malaysia and Thailand.",
-        "pubDate": "2025-11-30T04:30:11Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37f4/live/110dcd30-cd6a-11f0-8c06-f5d460985095.jpg",
         "bias": 0
       },
       {
@@ -511,30 +511,10 @@
     ],
     "Politics": [
       {
-        "title": "Hondurans to elect new president in close race under the shadow of Trump's surprise intervention - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYlNGelhJc3hDelQ4bFotbGp3RXozUlRZbnpSSzEtaDVYbFg5ZGpoT29SQ3k1WlFZOHFjQjdiMDd2RFk2ZHQ4UkE5OVpia2llVDFlOWZVZ3F0RWxWRmxITjNJbjlBLUE2ZHpjcVM4U3VLdi1xd0M3WTQ2ZjkzZjhuaF9fRktORTZIdi1LdW9hejBGbHIzckVxNVg3aWtsS3VsdF8zRFpZc3VleTA?oc=5",
-        "description": "",
-        "pubDate": "2025-11-30T05:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Starmer to back Budget after Reeves accused of misleading public",
-        "link": "https://www.bbc.com/news/articles/crrkdw2xy28o?at_medium=RSS&at_campaign=rss",
-        "description": "The prime minister will commit the government to going \"further and faster\" on growth as his chancellor faces questions.",
-        "pubDate": "2025-11-30T02:47:42Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5d1/live/ed524500-cd8d-11f0-8c06-f5d460985095.jpg",
-        "bias": 0
-      }
-    ],
-    "Tech": [
-      {
         "title": "Thousands in Philippines protest corruption and demand return of stolen funds from flood projects - AP News",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWHlXS051RTBNWER2WVg3Z0NSYi1YY0NuckZ1ZWNiMFZPR0w1aXpFcmxvTXVCWVZORTRsMFRVM3g0SzhWQkhSY3JYWHVTYmdDbUNENUJpYTJBcW9zTERLVHBDeG91RUQyeVY0ejBub3dKLUNyNVlhNWt1bHVGMGgzclkxY3BwNmtmZERpNW8zbzkwem5BOWgtNm1QbkFyZy1IYU1oZkVaMXZaVGV3QXBJLXRrNTRUcjQ?oc=5",
         "description": "",
-        "pubDate": "2025-11-30T05:29:00Z",
+        "pubDate": "2025-11-30T06:13:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -544,6 +524,15 @@
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYm50X2Q2eTdqVnJVWGc0dEFuUWt6UEhqLW56ZWxyRDMydjZGUzIzMmlHN0ZfM0dhUi1lVDRrOUg5M3h5a2xLQzIwd3hBcjgxVEstLThlWDliLWVFbkM4OGYxSDNKTmhla1Z2bHR4SkNJSWlmVDhXc2NXNHhRTWtib2E0V3lTc05ncHUyVEV4TlFFZ1ox?oc=5",
         "description": "",
         "pubDate": "2025-11-30T05:21:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Hondurans to elect new president in close race under the shadow of Trump's surprise intervention - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYlNGelhJc3hDelQ4bFotbGp3RXozUlRZbnpSSzEtaDVYbFg5ZGpoT29SQ3k1WlFZOHFjQjdiMDd2RFk2ZHQ4UkE5OVpia2llVDFlOWZVZ3F0RWxWRmxITjNJbjlBLUE2ZHpjcVM4U3VLdi1xd0M3WTQ2ZjkzZjhuaF9fRktORTZIdi1LdW9hejBGbHIzckVxNVg3aWtsS3VsdF8zRFpZc3VleTA?oc=5",
+        "description": "",
+        "pubDate": "2025-11-30T05:00:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -564,6 +553,15 @@
         "pubDate": "2025-11-30T04:15:00Z",
         "source": "news.google.com",
         "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Starmer to back Budget after Reeves accused of misleading public",
+        "link": "https://www.bbc.com/news/articles/crrkdw2xy28o?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister will commit the government to going \"further and faster\" on growth as his chancellor faces questions.",
+        "pubDate": "2025-11-30T02:47:42Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5d1/live/ed524500-cd8d-11f0-8c06-f5d460985095.jpg",
         "bias": 0
       },
       {
@@ -594,6 +592,7 @@
         "bias": 0
       }
     ],
+    "Tech": [],
     "Science": [],
     "Business": [],
     "Culture": []
