@@ -1,268 +1,51 @@
 {
-  "lastUpdate": "2025-12-01T15:50:58.628499Z",
+  "lastUpdate": "2025-12-01T16:29:18.767601Z",
   "news": {
-    "Gaming": [
-      {
-        "title": "EDEN [Free] [Adventure]",
-        "link": "https://marichichu.itch.io/eden",
-        "description": "",
-        "pubDate": "2025-12-01T15:42:32Z",
-        "source": "marichichu.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzQ2MTY2LnBuZw==/315x250%23c/gblyvl.png",
-        "bias": 0
-      },
-      {
-        "title": "Blooming in the Storm: Echoes of the Mind [Free] [Action]",
-        "link": "https://elliotminarai.itch.io/bloominginthestorm",
-        "description": "Metroidvania, Souls-Like, create by SAE students",
-        "pubDate": "2025-12-01T15:40:43Z",
-        "source": "elliotminarai.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzQ1OTI5LnBuZw==/315x250%23c/5JJOSS.png",
-        "bias": 0
-      },
-      {
-        "title": "20 second run! [Free] [Action]",
-        "link": "https://flowup94.itch.io/20-second-run",
-        "description": "Survive 20 seconds in this mozzilla endless runner inspired game!",
-        "pubDate": "2025-12-01T15:34:29Z",
-        "source": "flowup94.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzQ1OTQyLnBuZw==/315x250%23c/t37whU.png",
-        "bias": 0
-      },
-      {
-        "title": "Umbra - Prototype [Free] [Action]",
-        "link": "https://szs-subzer0sp4rt4n.itch.io/umbra-prototype",
-        "description": "",
-        "pubDate": "2025-12-01T15:34:26Z",
-        "source": "szs-subzer0sp4rt4n.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzQ1OTQ3LmpwZWc=/315x250%23c/aiYuzD.jpeg",
-        "bias": 0
-      },
-      {
-        "title": "Cascade [Free] [Strategy] [Windows] [macOS] [Linux]",
-        "link": "https://orac81.itch.io/cascade",
-        "description": "A fun game, remove the letters, get the balls in your hopper.",
-        "pubDate": "2025-12-01T15:31:52Z",
-        "source": "orac81.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzQ2MDM5LnBuZw==/315x250%23c/ZkCQCN.png",
-        "bias": 0
-      },
-      {
-        "title": "Wave Breaker [Free] [Educational]",
-        "link": "https://umar-al-mahfuz.itch.io/wave-breaker",
-        "description": "",
-        "pubDate": "2025-12-01T15:22:43Z",
-        "source": "umar-al-mahfuz.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzQ1NzE3LnBuZw==/315x250%23c/GD%2Bex6.png",
-        "bias": 0
-      },
-      {
-        "title": "Hubert The Hero Primary [Free] [Adventure]",
-        "link": "https://umargoogleydoo17.itch.io/hubert-the-hero-primary",
-        "description": "",
-        "pubDate": "2025-12-01T15:18:14Z",
-        "source": "umargoogleydoo17.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzQ1NjY4LnBuZw==/315x250%23c/vT0%2FsZ.png",
-        "bias": 0
-      },
-      {
-        "title": "Charon's Obel [Free] [Action]",
-        "link": "https://curiousmindsstudio.itch.io/charons-obel",
-        "description": "",
-        "pubDate": "2025-12-01T15:17:11Z",
-        "source": "curiousmindsstudio.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzQ0NDEyLmpwZw==/315x250%23c/PVvYcy.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Maidens of a Hollow Dream [Free] [Action] [Windows]",
-        "link": "https://huroca.itch.io/maidens-of-a-hollow-dream",
-        "description": "",
-        "pubDate": "2025-12-01T15:11:53Z",
-        "source": "huroca.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzQ1NTY2LmpwZw==/315x250%23c/jHQXmg.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Retro Thrust Lander [Free]",
-        "link": "https://alvaroabad.itch.io/retro-thrust-lander",
-        "description": "An old school retro game inspired by Moon Lander",
-        "pubDate": "2025-12-01T15:11:20Z",
-        "source": "alvaroabad.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzQ1OTQ5LnBuZw==/315x250%23c/ehyykv.png",
-        "bias": 0
-      },
-      {
-        "title": "Sage Draughts [Free] [Strategy] [Windows] [macOS] [Linux]",
-        "link": "https://orac81.itch.io/sage-draughts",
-        "description": "Draughts game for Windows.",
-        "pubDate": "2025-12-01T15:09:39Z",
-        "source": "orac81.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzQ1NjgyLnBuZw==/315x250%23c/lp8G%2F6.png",
-        "bias": 0
-      },
-      {
-        "title": "Turtle Odyssey [Free] [Action] [Windows]",
-        "link": "https://amphikapha.itch.io/turtle-odyssey",
-        "description": "A 3D endless runner built with OpenGL - dodge cars, cross zigzag bridges, and survive!",
-        "pubDate": "2025-12-01T15:07:39Z",
-        "source": "amphikapha.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzQ1NDM3LnBuZw==/315x250%23c/XKVXOG.png",
-        "bias": 0
-      },
-      {
-        "title": "EcoShift [Free] [Puzzle]",
-        "link": "https://zioa-a.itch.io/ecoshift",
-        "description": "",
-        "pubDate": "2025-12-01T15:04:33Z",
-        "source": "zioa-a.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzQ1NTE2LnBuZw==/315x250%23c/gItcQX.png",
-        "bias": 0
-      },
-      {
-        "title": "CELERION [Free] [Shooter] [Windows]",
-        "link": "https://hezolite.itch.io/celerion",
-        "description": "Fast paced arena FPS. Fend off waves of impending foes. There is no speed limit.",
-        "pubDate": "2025-12-01T15:00:55Z",
-        "source": "hezolite.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzQ1Mjc4LnBuZw==/315x250%23c/LSRvkU.png",
-        "bias": 0
-      },
-      {
-        "title": "Mage Movement [Free] [Platformer] [Windows]",
-        "link": "https://redd855.itch.io/mage-movement",
-        "description": "",
-        "pubDate": "2025-12-01T14:58:58Z",
-        "source": "redd855.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzQ1NTM0LnBuZw==/315x250%23c/GlnCpg.png",
-        "bias": 0
-      },
-      {
-        "title": "Penguin Fishing [Free] [Simulation]",
-        "link": "https://gary1q2.itch.io/penguin-fishing",
-        "description": "Sit back, relax and catch some fish!",
-        "pubDate": "2025-12-01T14:56:15Z",
-        "source": "gary1q2.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzQ1MjcxLnBuZw==/315x250%23c/Dx%2FqeO.png",
-        "bias": 0
-      },
-      {
-        "title": "Path of the Biome (Primary) [Free]",
-        "link": "https://arjunadaniel.itch.io/path-of-the-biome-primary",
-        "description": "Travel biome to biome, each filled with unique obstacles and challenges.",
-        "pubDate": "2025-12-01T14:53:32Z",
-        "source": "arjunadaniel.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzQ1NDUzLnBuZw==/315x250%23c/lhb4RK.png",
-        "bias": 0
-      },
-      {
-        "title": "Taste of the World [Free] [Adventure]",
-        "link": "https://hazaku2015.itch.io/taste-of-the-world",
-        "description": "Food Game, Ghost, Adventure, Travel",
-        "pubDate": "2025-12-01T14:53:07Z",
-        "source": "hazaku2015.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzQ1MjkyLnBuZw==/315x250%23c/9s3MdK.png",
-        "bias": 0
-      },
-      {
-        "title": "ENCORE [Free] [Action] [Windows]",
-        "link": "https://ealconz.itch.io/encore",
-        "description": "You are someone who was devoured by a monster...",
-        "pubDate": "2025-12-01T14:52:33Z",
-        "source": "ealconz.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzQ1MjEzLnBuZw==/315x250%23c/%2Fo7MKe.png",
-        "bias": 0
-      },
-      {
-        "title": "Microwave Mania [Free] [Simulation]",
-        "link": "https://nettea.itch.io/microwave-mania",
-        "description": "Can you keep up with the wave of customers? Or will you fold under pressure",
-        "pubDate": "2025-12-01T14:51:25Z",
-        "source": "nettea.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzQ1Mjg2LnBuZw==/315x250%23c/tJinD1.png",
-        "bias": 0
-      },
-      {
-        "title": "find a snowman [Free]",
-        "link": "https://bloxwatch1006.itch.io/find-a-snowman",
-        "description": "find all the snowman,collect the first snowman there are ball that you can ride",
-        "pubDate": "2025-12-01T14:51:19Z",
-        "source": "bloxwatch1006.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzQ1MTQwLmpwZWc=/315x250%23c/TWXyhO.jpeg",
-        "bias": 0
-      },
-      {
-        "title": "ArenaSouls [Free] [Action]",
-        "link": "https://zz1rg.itch.io/arenasouls",
-        "description": "",
-        "pubDate": "2025-12-01T14:44:31Z",
-        "source": "zz1rg.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzQ0OTI5LnBuZw==/315x250%23c/Xrh93X.png",
-        "bias": 0
-      },
-      {
-        "title": "Retrieval of the Crystal [Free] [Adventure]",
-        "link": "https://jellyslimepixelgame.itch.io/retrieval-of-the-crystal",
-        "description": "",
-        "pubDate": "2025-12-01T14:28:36Z",
-        "source": "jellyslimepixelgame.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzQ0MjEyLnBuZw==/315x250%23c/StLgou.png",
-        "bias": 0
-      },
-      {
-        "title": "Ecah Travel Game [Free] [Adventure]",
-        "link": "https://ecahtravelgame.itch.io/ecah-travel-game",
-        "description": "Ecah",
-        "pubDate": "2025-12-01T14:12:27Z",
-        "source": "ecahtravelgame.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzQ1MDkzLnBuZw==/315x250%23c/Lgjm2y.png",
-        "bias": 0
-      },
-      {
-        "title": "Pack It! [Free] [Simulation]",
-        "link": "https://sarcastichyaena.itch.io/pack-it",
-        "description": "[PackIt]",
-        "pubDate": "2025-12-01T13:39:37Z",
-        "source": "sarcastichyaena.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzQ1ODM4LnBuZw==/315x250%23c/ttfErz.png",
-        "bias": 0
-      },
-      {
-        "title": "AIDAN HOLIDAYS [Free] [Adventure]",
-        "link": "https://aidans-holidays.itch.io/aidan-holidays",
-        "description": "",
-        "pubDate": "2025-12-01T12:24:24Z",
-        "source": "aidans-holidays.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzQzMzAzLnBuZw==/315x250%23c/RsL7dw.png",
-        "bias": 0
-      },
-      {
-        "title": "Foxy Run [Free] [Action] [Windows] [Android]",
-        "link": "https://n0b0dy1.itch.io/foxy-run",
-        "description": "Run as far as A fast pixel endless runner — dodge obstacles, keep running, beat your best distance.",
-        "pubDate": "2025-12-01T09:27:54Z",
-        "source": "n0b0dy1.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzQxNTE4LnBuZw==/315x250%23c/zHfg2s.png",
-        "bias": 0
-      },
-      {
-        "title": "Hollywood Escape [Free] [Puzzle] [Android]",
-        "link": "https://mobiplay.itch.io/hollywood-escape",
-        "description": "Classic escape game! Solve puzzles and unlock mysterious rooms.",
-        "pubDate": "2025-12-01T07:38:06Z",
-        "source": "mobiplay.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzQwNDk4LnBuZw==/315x250%23c/q0MTTM.png",
-        "bias": 0
-      }
-    ],
+    "Gaming": [],
     "World": [
       {
         "title": "Shock in Cameroon as 74-year-old opposition firebrand dies in detention",
         "link": "https://www.bbc.com/news/articles/ckg9204y4w5o?at_medium=RSS&at_campaign=rss",
         "description": "Anicet Ekane's lawyer says the family was given little explanation - \"his wife was just presented the corpse\".",
-        "pubDate": "2025-12-01T15:24:06Z",
+        "pubDate": "2025-12-01T16:07:21Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f676/live/255ffbb0-cec2-11f0-89ff-c556070aad03.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Ukraine seeks to shore up support in Brussels, Paris",
+        "link": "https://www.aljazeera.com/news/2025/12/1/ukraine-seeks-to-shore-up-support-in-brussels-paris?traffic_source=rss",
+        "description": "Senior US officials will meet President Putin in Moscow on Tuesday, two days after US-Ukraine peace talks in Florida.",
+        "pubDate": "2025-12-01T16:03:00Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Pope Leo XIV prays for peace in Lebanon and the Levant",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/1/pope-leo-xiv-prays-for-peace-in-lebanon-and-the-levant?traffic_source=rss",
+        "description": "Pope Leo stopped at one of Lebanon’s most important Christian sites.",
+        "pubDate": "2025-12-01T16:00:15Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Austria's rebel nuns refuse to give up Instagram to stay in their convent",
+        "link": "https://www.npr.org/2025/12/01/g-s1-99892/austria-nuns-convent-vatican",
+        "description": "The trio of octogenarian nuns gained global fame after fleeing their care home and breaking into their former convent. Now their superior has asked the Vatican to intercede in the dispute.",
+        "pubDate": "2025-12-01T15:54:14Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Indiana lawmakers in state House to convene session with redistricting top of mind - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYXE0VllHSTZWQ3dkSWFiYmVmLWgwcVRKQ0NyWFU1elVxc1JNbXZZM1VkYl9UNUlCSHU1R1RjXzJSU200dXdzeWpHbGRVSVQtQk9xRi1zdjREc0dtdlRhdGhWSURUa0ZvaXFtRkVyTXY1WTdQeUxWOG5ZbjJJZ3kwRVRUMWVMWThvS25WaFlwTllkYTVFbXJ3VmtqaEZFVk9WUjRNdENxSUZQVDUxQVE?oc=5",
+        "description": "",
+        "pubDate": "2025-12-01T15:39:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -270,6 +53,15 @@
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUVliMVdIV2RrYmhObE5rZjl5Z01KWEdCdmljamd1THRNMzNvZVFBRkdUZnFNWHFTY1huV1JiZS12bUFJV3VGNTNkMDFrcTNpRHBIWDdjZWlGNDFKZ2c0cWhEMTVYcmdhOGhUWVdrVTMtUGlBVi1Tb1U4Qk9qQlZtNGRaNUdab2M4WjJRdmpqaWpWRUJQZGhXWEtRRGdqNjNnRUxn?oc=5",
         "description": "",
         "pubDate": "2025-12-01T14:54:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Over 800 people are still missing after flooding in Indonesia, Sri Lanka and Thailand - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTHJNaDEyNzNad0NsTzM0eVZFeVRfSVpQOGF2Ri1TR2RudU1mbW1VOW5xU0t4dFVaZzJzUWxIVEktOXBoMzdwdldPOWVnRUJWUFJwcmhITjE1UTBld29BQnMyNDI3NUVPNC0tUTMwQ203SE94TFZJY3ZzMGhLNzQwWlpacmlKWTBuX01wM0lfazlSSmNuMjc4NnRYc29RSHYwb013aFJFR1puQQ?oc=5",
+        "description": "",
+        "pubDate": "2025-12-01T14:53:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -311,10 +103,37 @@
         "bias": -1
       },
       {
+        "title": "AP Decision Notes: What to expect in Tennessee’s special congressional election - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUm82WWk3c0FtbUxiVlBxWGxfbWh5RndFZVFOeTE2MWhTQkJlNktPbHBsUnVEZFNKbGowREoyUGR0VkdzbUpxa3dvaVFkUWsyb1BGek1oclphMFhVc1hXRGVta1NpTDg0WkhSWkNBTVowT2dzMlV2bzhIMjhhSTM1MlRxbi1yVERBNHJQXzZpczN6R0VCX0JqMjNlMTM2OHR5RTI2ZUtmdEJHM0NNTF9MWUstZ0NLRHZMSFBv?oc=5",
+        "description": "",
+        "pubDate": "2025-12-01T14:20:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Kentucky fires SEC’s longest-tenured coach in Mark Stoops in his 13th season - AP News",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMEJ5d3d3ZEY0MnIxV1RZdnhFVEdidGZFNEZ2YjVUazJsSVNQZXJ0YnZkYXNOTkZpQ0tiUjd1dHo0VjBDb1ZMUElXMzZKRGNDWlhjUEpTRVY3SGJ4OTlMU2RwRVQwbm8ySG1LUDdhakdRcHhVcjVyeGg0cU9idFkzY1VOa3BmZ0oxWmk0TV9RUENWRmgyQ2xR?oc=5",
         "description": "",
         "pubDate": "2025-12-01T14:15:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Melania Trump reveals White House holiday decorations and her theme, 'Home Is Where the Heart Is' - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONFlfWWNKTXlJc09nbGI1QTJuWWdsWGhSS29JLVRJOGR5MUsza1ZmZHUzd2daYmVWT3FET1FPTVRCbXprSmtac2ZmQjN4c0NSQnBpQzBCUzI4VjdzNjdiUUtESVJKbXotOEhJWmZhTzU4dHFqM2REU05fSkh0SmY2R1VUYlpKdG5mYXRDNXFMeHRBNThKYTlvQm1mZWowcXBMMUcwM2Ewelg?oc=5",
+        "description": "",
+        "pubDate": "2025-12-01T13:58:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "When formal systems stop working, neighbors turn to each other in what many call 'mutual aid' - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUG1HTDYtY29GOFZndXNJejJBMnZBWi1xcElDU2ZyWXRBcjl1QmRkWjBtM0ZxVENqMVhDbzV5YWR3eG01T19nb2EycTQxRXlvRXU0R0d0V2tLLU9CSlBROC05VlhCcGg2NjB4RHhKR2RrdzZqcXg2OXY5WFBmU0NYeDBQRFdFWkFVRWtiekFzbWpMc0VvNUowZF9B?oc=5",
+        "description": "",
+        "pubDate": "2025-12-01T13:31:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -347,10 +166,19 @@
         "bias": 0
       },
       {
-        "title": "Pope in Lebanon prays for peace at tomb of saint revered by Christians and Muslims alike - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRW1vV0tSYkpkbnlVTHVQUFl5QklfY0xTbnc0VVROdHVqcmo3bWNjZzE2bTVBTU9wY2RQZllZc0M1dnZsMktsYXMtaC1jNTRfc1hha2RvelpyRWtRN1hBTHBrOEtSQ3BCYlBZSDZ4VkFoS205akwtM1U4OXVlNmxrNmpXRkhUVTQ?oc=5",
+        "title": "What is GivingTuesday? How to donate on the annual day of charitable giving - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY3BlMS1rcjRDZzhuTzhmUjk1SXJHYWZ3bzBQSW9ORjZOWHI3aWhvYU0taldZQlo4V1NoQ0lCUjJxWmxnWmJGeEJaWElQbWlKOGExcnpub1dFeS14QzRWRlloWGU4VFJXRWVTdGExU1Z6bmdpY09lTENzM18wcUlDVDJJZWFiVUU5VmI0SkNYS3NnT1lhWUxDTWRweWQ5b19MRDlSTEJ0czVYYldJdXg1am5FYUpCdy13cm1WT0pKcFFkazg?oc=5",
         "description": "",
-        "pubDate": "2025-12-01T13:13:00Z",
+        "pubDate": "2025-12-01T13:16:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "LSU lures Lane Kiffin away from virtual playoff lock Ole Miss - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSk5ySkFKX1gtZUFnaVJYNGdqU2xDSHJIMWFSbXdrM1FUSnViRC1USWR2NUhHdm1zS2dqZU14aXBCSW5TcjdLZlhhVk9McFdqLUt1UFVBSXg4ak4zVmw5Y0ktaTNRRVBVMFRNMFhxcHRfZkxnT3Nra3hMbFB5TE5xNjJDblFuMy1aSTJkNA?oc=5",
+        "description": "",
+        "pubDate": "2025-12-01T13:05:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -410,15 +238,6 @@
         "bias": -1
       },
       {
-        "title": "AP Decision Notes: What to expect in Tennessee’s special congressional election - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUm82WWk3c0FtbUxiVlBxWGxfbWh5RndFZVFOeTE2MWhTQkJlNktPbHBsUnVEZFNKbGowREoyUGR0VkdzbUpxa3dvaVFkUWsyb1BGek1oclphMFhVc1hXRGVta1NpTDg0WkhSWkNBTVowT2dzMlV2bzhIMjhhSTM1MlRxbi1yVERBNHJQXzZpczN6R0VCX0JqMjNlMTM2OHR5RTI2ZUtmdEJHM0NNTF9MWUstZ0NLRHZMSFBv?oc=5",
-        "description": "",
-        "pubDate": "2025-12-01T12:53:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Aitana Bonmati suffers broken leg in Spain training",
         "link": "https://www.aljazeera.com/sports/2025/12/1/spain-and-barcelona-star-bonmati-ruled-out-for-months-with-leg-fracture?traffic_source=rss",
         "description": "Three-time Ballon D'Or winner sustains injury in training with Spain before women's Nations League final second leg.",
@@ -426,6 +245,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Trump says he’ll release MRI results but doesn’t know what part of his body was scanned - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZEZPRGtKTTFXd3NmbExJaXZBeEhuR2d3WVpWanFHdjZUUTRqRXZ1U3Fzc0lvdUhkSF9Icm1EeTloNE5lMk8xcXo1NV9hVmZTSjZUd2ppSlhFYVFZR3lrUl9DTzRXc2NtTXZybjBwTWFCZ0l3YVpYUW52UjBXMXp2cGJSVzl4ZEtKZDVxRU9YNWNQVVFHNzExWm1URXd6Zw?oc=5",
+        "description": "",
+        "pubDate": "2025-12-01T12:48:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Three children among four killed in shooting at 'birthday party' in California",
@@ -527,6 +355,24 @@
         "bias": -1
       },
       {
+        "title": "ICC president vows to resist US and Russian pressure despite sanctions and threats - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOVRUSFZCTmVnZDcwZy1uZkp1cXRJMzFud1h6ck95WG94clpDeWFRdHAyLWdmUlpFOHJLUHNrQ0ZxSkJJUkFNUzFCQzNSa2lpaTBjQmtsQ1RPbEZSYnJyQk11RTZQQ1VmN1pIVHZoNXo5dmk0UnRKeGFhYnlybUVmNnZUNHdyMWliQTVmUGZ1UW50Y2JhcmY4?oc=5",
+        "description": "",
+        "pubDate": "2025-12-01T11:40:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Airbus says most A320 jets now have software fix, with less than 100 planes still needing update - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUnBfSGNsbGl2Ujk3ZmVLclhrUHhaQ0RZYW1jLVJEMEs2QmVBWC15MEZRU01IZmdlT1BqZGVZNzhZOHl5VDlEb2dGUXJXTW54SnBlYm8yeVBwaWxrRHZBUjg5bWlNWjRaaUs0TXoyb3E4cklvVFRkOC12X1REYmgxMS1xZnB3TGJlZUhDaTktU1VqYzc0MW1obVZFd3dGcEdF?oc=5",
+        "description": "",
+        "pubDate": "2025-12-01T11:40:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Mourning begins in Syrian town after deadly Israeli raid",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/12/1/mourning-begins-in-syrian-town-after-deadly-israeli-raid?traffic_source=rss",
         "description": "Days of mourning have begun in a Syrian town in the Damascus countryside after an Israeli raid and air attack killed 13.",
@@ -560,6 +406,15 @@
         "pubDate": "2025-12-01T10:56:03Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/882a/live/2e266e70-cde9-11f0-a750-a3ce41dc0968.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Hong Kong fire probe reveals unsafe netting as public mourns and government stifles dissent - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSmt0azhzblBOa25jMTVFekNnQXVKWWFnS1FlYUJ4TjlHZmYyTUZqYXV1SW1sX3dqMkxZZUZZblFoYTFZTW5mbUx3WnFYTE5wT2RMcm50VGIzT3ViMkFVRU5mNkFVejVqQkpDUzJZelFjaW1GM0tJVEx4LTVXa2c4ckNkdHR1VGNIVGozZGRRSEJndw?oc=5",
+        "description": "",
+        "pubDate": "2025-12-01T10:50:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -597,117 +452,27 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "How I’m fighting the US prison system from the inside",
-        "link": "https://www.aljazeera.com/features/2025/12/1/how-im-fighting-the-us-prison-system-from-the-inside?traffic_source=rss",
-        "description": "Many of us behind the wall believe the system is built for conviction. So we’re learning the law to fight our cases.",
-        "pubDate": "2025-12-01T10:26:30Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "A Gaza family split by medical evacuation hopes transplant could unite them",
-        "link": "https://www.aljazeera.com/news/2025/12/1/a-gaza-family-split-by-medical-evacuation-hopes-transplant-could-unite-them?traffic_source=rss",
-        "description": "Abdullah, 10, left Gaza for cancer treatment. Now his family could join him in Italy, but only if they test as a match.",
-        "pubDate": "2025-12-01T10:14:28Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Barcelona vs Atletico Madrid: La Liga preview – team news, start, lineups",
-        "link": "https://www.aljazeera.com/sports/2025/12/1/barcelona-vs-atletico-madrid-la-liga-preview-team-news-start?traffic_source=rss",
-        "description": "Barca host Atletico with in-form sides seeking to burnish their title credentials amid a wobble by rivals Real Madrid.",
-        "pubDate": "2025-12-01T10:06:44Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Israel's prime minister requests a pardon during his corruption trial",
-        "link": "https://www.npr.org/2025/12/01/nx-s1-5626094/israels-prime-minister-requests-a-pardon-during-his-corruption-trial",
-        "description": "Israeli Prime Minister Benjamin Netanyahu has asked Israel's president to pardon him from corruption charges after President Trump sent a letter to Israel's president urging the same.",
-        "pubDate": "2025-12-01T10:01:43Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "U.S. envoy returns to Russia as talks to end the war in Ukraine continue",
-        "link": "https://www.npr.org/2025/12/01/nx-s1-5623262/u-s-envoy-returns-to-russia-as-talks-to-end-the-war-in-ukraine-continue",
-        "description": "U.S. envoy Steve Witkoff is heading back to Moscow Monday, as the U.S. continues its efforts to end the war in Ukraine.",
-        "pubDate": "2025-12-01T10:00:15Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Is Russia interested in lasting peace between it and Ukraine? A historian weighs in",
-        "link": "https://www.npr.org/2025/12/01/nx-s1-5621907/is-russia-interested-in-lasting-peace-between-it-and-ukraine-a-historian-weighs-in",
-        "description": "NPR's A Martinez speaks with historian Oleksa Drachewych about the Kremlin's position on a possible peace deal to end the war in Ukraine.",
-        "pubDate": "2025-12-01T10:00:10Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Israel’s war forces Gaza children into work as breadwinners",
-        "link": "https://www.aljazeera.com/news/2025/12/1/israels-genocidal-war-forces-gaza-children-into-work-as-breadwinners?traffic_source=rss",
-        "description": "Children as young as eight have been pushed to work for their families’ survival, losing their education and childhood.",
-        "pubDate": "2025-12-01T09:52:52Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Trump-backed candidate Nasry Asfura leads Honduras race, early trends show",
-        "link": "https://www.aljazeera.com/news/2025/12/1/trump-backed-candidate-leads-honduras-presidential-vote-early-trends-show?traffic_source=rss",
-        "description": "Nasry Asfura holds a narrow lead over his rival Salvador Nasralla, with about 40 percent of the votes counted.",
-        "pubDate": "2025-12-01T09:25:17Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Former US immigration judge among dozens fired",
-        "link": "https://www.aljazeera.com/video/unmute/2025/12/1/former-us-immigration-judge-among-dozens-fired?traffic_source=rss",
-        "description": "Former US immigration judge among dozens fired",
-        "pubDate": "2025-12-01T09:03:13Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Israelis protest against Netanyahu’s pardon request",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/1/israelis-protest-against-netanyahus-pardon-request?traffic_source=rss",
-        "description": "Hundreds of Israelis in Tel Aviv protested against Benjamin Netanyahu’s pardon request for his corruption trial.",
-        "pubDate": "2025-12-01T08:41:43Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Japanese 'One Piece' singer stopped mid-show after China-Japan feud",
-        "link": "https://www.bbc.com/news/articles/c997n2zlegzo?at_medium=RSS&at_campaign=rss",
-        "description": "The sudden cancellation of Japanese events in Shanghai have sparked criticism and fanned nationalist sentiment.",
-        "pubDate": "2025-12-01T08:17:32Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a66f/live/856c98a0-ce69-11f0-a1b3-e3b55c523216.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Associated Press 100 Photos of 2025: AP photos that defined the year - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMHE3cDlDdVBIWWFmdzhjNVFCZVFTRFdKSTZrbUpEelU1a2RtOVpLb3RtMEQtMHh4UGhXeFJWRWxJVDJmU0JfdjFMWDlrTktQNFBfUkxRNEJYYXYxRTlrRTBvR094cVlKd19PMFZBNEJRMGRkR2NiWjB2VWRobE5KMTRPY3RMWFNyZjVUa1F3U2xnNU5KbmQwSGVR?oc=5",
-        "description": "",
-        "pubDate": "2025-12-01T08:07:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Maccabi fan ban evidence 'changed to fit decision'",
+        "link": "https://www.bbc.com/news/articles/c98ng15qmy9o?at_medium=RSS&at_campaign=rss",
+        "description": "West Midlands Police chiefs are providing evidence to MPs about the decision to ban Israeli fans.",
+        "pubDate": "2025-12-01T16:18:24Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6340/live/7af95b50-ceb5-11f0-abfc-d91e7636b79e.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Move to strip former Israeli leader’s name from a Dublin park sparks an outcry in Ireland - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYlFMM2pHbHdCNmRGZkhtTVhhVy1UdU5lWGRnZTRjX19DQldIV0dFX3owOXJXYllmQkhWRGVocDRNWk5wR1QtbVJoa0hXVXYwVy11Q2VQTFd6V3lfLTZaR2pWRXB4ODl6S01XaXlrOXBzMHlkQUIyWl9OWS1XeG5UT085SkJaaURZVUxBSEFFZ3V3alhsTXBwWnE5NU5QOGs?oc=5",
+        "description": "",
+        "pubDate": "2025-12-01T15:28:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Ex-deputy chair among Tory defections to Reform",
         "link": "https://www.bbc.com/news/articles/cgr12e7259xo?at_medium=RSS&at_campaign=rss",
@@ -724,6 +489,15 @@
         "pubDate": "2025-12-01T14:24:16Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6085/live/8f3b6d70-cebe-11f0-9fb5-5f3a3703a365.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Pope in Lebanon prays for peace at tomb of saint revered by Christians and Muslims alike - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRW1vV0tSYkpkbnlVTHVQUFl5QklfY0xTbnc0VVROdHVqcmo3bWNjZzE2bTVBTU9wY2RQZllZc0M1dnZsMktsYXMtaC1jNTRfc1hha2RvelpyRWtRN1hBTHBrOEtSQ3BCYlBZSDZ4VkFoS205akwtM1U4OXVlNmxrNmpXRkhUVTQ?oc=5",
+        "description": "",
+        "pubDate": "2025-12-01T13:13:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -817,10 +591,10 @@
         "bias": 0
       },
       {
-        "title": "Zelenskyy says Putin 'wanted to escape from the political isolation' through diplomacy with Trump - AP News",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRTNWMDVpVUU3RnZUVjUzTnZWSy13MG5NdkxpY0RuQTIxTDdIdVhDRDFyWkpaOXl6YW0ydFVCUjVJVlhvMGgzS1hGOE1kaURobklXNExIeU41RFp6eEF5U3pqVGktVHlZamYtNEFpVl81MWZJLUJaSVBVaERpYTRiVmhEVVgtTHctSGdVZXZJalVWcndpWUxmQ3phbVY5YXQtLThVZUtfVHh2VzY4Q2FpejNudWFFRUtMUV9aN2k3RkkzVUZKTVJxUlI4OUZMcTdlR3QyVWt5dEtpNTJyNVZuUXZjdWh6WVVL?oc=5",
+        "title": "Ole Miss promotes defensive coordinator Pete Golding to head coach, succeeding Kiffin - AP News",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tckRrU2lESGhuOF82YVV5b1Bib0xBM05ibDBFSExZSEkzRzI1anVLNmRYemVwcExOSDFoNXlEV3M1b0M2aGZqVERxZk15VzZRWVhtU01uU1dwNzNBc0sxOGJBTFdWRFVQcnNRYUV5SHFGdlRVaWM1YkFBY3FIZGc?oc=5",
         "description": "",
-        "pubDate": "2025-12-01T02:41:14Z",
+        "pubDate": "2025-12-01T01:14:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -862,6 +636,24 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Top photos from Week 13 of the NFL season - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdlhlX2o2MnZzMmRSRXpDU29rV0g2bW15c3M4NDBsY3FZdEY3TEZCWWVBdEVJT2piYmd4bUFUY3lJOU0xZG81eHllZ3RoZHhIY2RpZDNXWmNQRVNvMVZRRzFfVGxvRWliR2dZSVZETWs5NlhDcUM0WERNaDVMd2dfd0hBYV9yd2JBY3ZCcnBsMVN4cnVsNkJJ?oc=5",
+        "description": "",
+        "pubDate": "2025-12-01T05:53:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "‘Zootopia 2' roars to record-setting global box office with $556M opening - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTFQzNjg4NXNVRTEzYURfdFY5YXRHVWdXdlRLUEhZeGxvbEZZUkZ4QzJVTTBVc1V6OTY1d1ZCbU1aVEtWZjRqNEtLWmNXSVBFSzVtTEQ0RFdrc0Y0TDR4NHdpdFp2YUItMzA4b0JWRmxjZWo2aVBhNEVoeXdIR1BaaHVjbG5XanZIWVJrR01QVQ?oc=5",
+        "description": "",
+        "pubDate": "2025-12-01T05:40:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Science": [
@@ -886,21 +678,30 @@
     ],
     "Business": [
       {
+        "title": "OBR says Budget leak 'worst failure' in its history",
+        "link": "https://www.bbc.com/news/articles/cd74v35p77jo?at_medium=RSS&at_campaign=rss",
+        "description": "The government's official forecaster investigated how crucial documents were published ahead of the chancellor's statement.",
+        "pubDate": "2025-12-01T16:06:18Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e165/live/422b6c00-cb8b-11f0-9fb5-5f3a3703a365.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Police consider corporate manslaughter charges in Post Office scandal",
+        "link": "https://www.bbc.com/news/articles/c14vxlxv4kko?at_medium=RSS&at_campaign=rss",
+        "description": "The move comes as police continue to investigate what has been called the UK's most widespread miscarriage of justice.",
+        "pubDate": "2025-12-01T16:00:11Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca6b/live/16c6efd0-cec9-11f0-81f3-a1b2f542a1e8.jpg",
+        "bias": 0
+      },
+      {
         "title": "US and UK agree zero tariffs deal on pharmaceuticals",
         "link": "https://www.bbc.com/news/articles/cn0k520v4xro?at_medium=RSS&at_campaign=rss",
         "description": "The deal follows threats of tariffs as high as 100% on branded drug imports.",
         "pubDate": "2025-12-01T15:44:55Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80fa/live/31b73540-ceb8-11f0-abfc-d91e7636b79e.jpg",
-        "bias": 0
-      },
-      {
-        "title": "OBR says Budget leak 'worst failure' in its history",
-        "link": "https://www.bbc.com/news/articles/cd74v35p77jo?at_medium=RSS&at_campaign=rss",
-        "description": "The government's official forecaster investigated how crucial documents were published ahead of the chancellor's statement.",
-        "pubDate": "2025-12-01T15:38:20Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b46e/live/31a86600-cea9-11f0-a58d-8f327674649c.jpg",
         "bias": 0
       },
       {
