@@ -1,7 +1,25 @@
 {
-  "lastUpdate": "2025-12-01T11:32:52.030639Z",
+  "lastUpdate": "2025-12-01T11:46:24.403092Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Nunholy [Free] [Action] [Windows]",
+        "link": "https://yamatosu.itch.io/nunholy",
+        "description": "",
+        "pubDate": "2025-12-01T11:29:38Z",
+        "source": "yamatosu.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MzQyNjc1LmpwZw==/315x250%23c/GpSQP8.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Crossfire [Free] [Shooter] [Windows]",
+        "link": "https://oramix.itch.io/crossfire",
+        "description": "",
+        "pubDate": "2025-12-01T11:28:56Z",
+        "source": "oramix.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MzQyNjM1LnBuZw==/315x250%23c/JnaNQu.png",
+        "bias": 0
+      },
       {
         "title": "Goo Bound [Free] [Platformer]",
         "link": "https://gyooz.itch.io/goobound",
@@ -129,15 +147,6 @@
         "bias": 0
       },
       {
-        "title": "HT25_Tangentbordsspelet_gemensamt [Free]",
-        "link": "https://solnakulturskola.itch.io/tangent",
-        "description": "",
-        "pubDate": "2025-12-01T09:58:53Z",
-        "source": "solnakulturskola.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzQxNzMzLnBuZw==/315x250%23c/jPr%2Bug.png",
-        "bias": 0
-      },
-      {
         "title": "Vine apocalypse [Free] [Puzzle]",
         "link": "https://bebobobe.itch.io/vine-apocalypse",
         "description": "Protect yourself and your grandma from the deadly vines!",
@@ -174,15 +183,6 @@
         "bias": 0
       },
       {
-        "title": "Sound Waves [Free] [Other]",
-        "link": "https://viywolf.itch.io/sound-waves",
-        "description": "Evade the torrent of waves and escape…",
-        "pubDate": "2025-12-01T09:21:00Z",
-        "source": "viywolf.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzQxNDQ3LnBuZw==/315x250%23c/Ruq6IB.png",
-        "bias": 0
-      },
-      {
         "title": "Imaginary Realities: Lucy's Odyssey [Free] [Windows]",
         "link": "https://casster-creador.itch.io/imaginary-realities-lucys-odyssey",
         "description": "",
@@ -211,6 +211,42 @@
       }
     ],
     "World": [
+      {
+        "title": "UK MP Tulip Siddiq given jail sentence in Bangladesh after trial in her absence",
+        "link": "https://www.bbc.com/news/articles/c4g9dyd84lwo?at_medium=RSS&at_campaign=rss",
+        "description": "The former minister and niece of Bangladesh's ousted former leader, who received a two-year sentence, says the charges are politically motivated.",
+        "pubDate": "2025-12-01T11:33:21Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/906c/live/e5d39d40-cea2-11f0-9fb5-5f3a3703a365.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Mourning begins in Syrian town after deadly Israeli raid",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/1/mourning-begins-in-syrian-town-after-deadly-israeli-raid?traffic_source=rss",
+        "description": "Days of mourning have begun in a Syrian town in the Damascus countryside after an Israeli raid and air attack killed 13.",
+        "pubDate": "2025-12-01T11:32:30Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Venezuela’s OPEC plea unlikely to “obtain much” for support",
+        "link": "https://www.aljazeera.com/video/quotable/2025/12/1/venezuelas-opec-plea-unlikely-to-obtain-much-for-support?traffic_source=rss",
+        "description": "“I doubt that you can have a great deal of support in Venezuela from Saudi Arabia.”",
+        "pubDate": "2025-12-01T11:28:31Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Recovery under way after floods in Indonesia, Sri Lanka, Thailand",
+        "link": "https://www.aljazeera.com/gallery/2025/12/1/flooding-recovery-efforts-underway-in-indonesia-sri-lanka-and-thailand?traffic_source=rss",
+        "description": "Floods in Indonesia, Sri Lanka and Thailand leave more than 1,000 dead, thousands missing and millions displaced.",
+        "pubDate": "2025-12-01T11:23:08Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Honduras election on a knife edge as Trump-backed man slightly ahead",
         "link": "https://www.bbc.com/news/articles/cx2dgp8mvmno?at_medium=RSS&at_campaign=rss",
@@ -275,24 +311,6 @@
         "bias": -1
       },
       {
-        "title": "Trump says he’ll release MRI results; he doesn’t know what part of his body was scanned - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZEZPRGtKTTFXd3NmbExJaXZBeEhuR2d3WVpWanFHdjZUUTRqRXZ1U3Fzc0lvdUhkSF9Icm1EeTloNE5lMk8xcXo1NV9hVmZTSjZUd2ppSlhFYVFZR3lrUl9DTzRXc2NtTXZybjBwTWFCZ0l3YVpYUW52UjBXMXp2cGJSVzl4ZEtKZDVxRU9YNWNQVVFHNzExWm1URXd6Zw?oc=5",
-        "description": "",
-        "pubDate": "2025-12-01T10:13:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Trump says he’ll release MRI results; doesn’t know what part of his body was scanned - AP News",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcDkwU3cyOHNQenJoU1Y3bF9SSXpUNWFfM2FEdXh5aG5KcGxBejdULXBndGFDcGk3NHJ1aURnX1JkUDhYNWthTlpZQjFsRnNHMVk2bW9qVVQ2YjhEU3NNVnVvZUdtdnZCLUdNanVkczFyMTdBTFVOVmJjOWxVM3JENmRyZUEwWDFqRXFRMEtnZmJwZ0pPMFhyLWhMUzhGd0psdXlOR2NxWU5XOEFxTEZhSTVnMG5XWFdDbDJpOTlkX28wc1JwNTY0Uy1OZXZUSTdveTdEa2J3?oc=5",
-        "description": "",
-        "pubDate": "2025-12-01T10:11:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Barcelona vs Atletico Madrid: La Liga preview – team news, start, lineups",
         "link": "https://www.aljazeera.com/sports/2025/12/1/barcelona-vs-atletico-madrid-la-liga-preview-team-news-start?traffic_source=rss",
         "description": "Barca host Atletico with in-form sides seeking to burnish their title credentials amid a wobble by rivals Real Madrid.",
@@ -302,18 +320,9 @@
         "bias": -1
       },
       {
-        "title": "Flooding recovery efforts underway in Indonesia, Sri Lanka and Thailand as death tolls rise - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTHJNaDEyNzNad0NsTzM0eVZFeVRfSVpQOGF2Ri1TR2RudU1mbW1VOW5xU0t4dFVaZzJzUWxIVEktOXBoMzdwdldPOWVnRUJWUFJwcmhITjE1UTBld29BQnMyNDI3NUVPNC0tUTMwQ203SE94TFZJY3ZzMGhLNzQwWlpacmlKWTBuX01wM0lfazlSSmNuMjc4NnRYc29RSHYwb013aFJFR1puQQ?oc=5",
-        "description": "",
-        "pubDate": "2025-12-01T10:03:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Israel's prime minister requests a pardon during his corruption trial",
         "link": "https://www.npr.org/2025/12/01/nx-s1-5626094/israels-prime-minister-requests-a-pardon-during-his-corruption-trial",
-        "description": "Israeli Prime Minister Benjamin Netanyahu has asked Israel's president to pardon him from corruption charges after President Trump sent a letter to Israel urging them to do the same.",
+        "description": "Israeli Prime Minister Benjamin Netanyahu has asked Israel's president to pardon him from corruption charges after President Trump sent a letter to Israel's president urging the same.",
         "pubDate": "2025-12-01T10:01:43Z",
         "source": "npr.org",
         "image": "",
@@ -374,15 +383,6 @@
         "bias": 0
       },
       {
-        "title": "UK MP Tulip Siddiq given jail sentence in Bangladesh after trial in her absence",
-        "link": "https://www.bbc.com/news/articles/c4g9dyd84lwo?at_medium=RSS&at_campaign=rss",
-        "description": "The former minister and niece of Bangladesh's ousted former leader, who received a two-year sentence, says the charges are politically motivated.",
-        "pubDate": "2025-12-01T09:07:54Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/906c/live/e5d39d40-cea2-11f0-9fb5-5f3a3703a365.jpg",
-        "bias": 0
-      },
-      {
         "title": "Former US immigration judge among dozens fired",
         "link": "https://www.aljazeera.com/video/unmute/2025/12/1/former-us-immigration-judge-among-dozens-fired?traffic_source=rss",
         "description": "Former US immigration judge among dozens fired",
@@ -399,15 +399,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Hong Kong authorities say netting on buildings that caught fire did not meet code - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSmt0azhzblBOa25jMTVFekNnQXVKWWFnS1FlYUJ4TjlHZmYyTUZqYXV1SW1sX3dqMkxZZUZZblFoYTFZTW5mbUx3WnFYTE5wT2RMcm50VGIzT3ViMkFVRU5mNkFVejVqQkpDUzJZelFjaW1GM0tJVEx4LTVXa2c4ckNkdHR1VGNIVGozZGRRSEJndw?oc=5",
-        "description": "",
-        "pubDate": "2025-12-01T08:31:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Japanese 'One Piece' singer stopped mid-show after China-Japan feud",
@@ -446,24 +437,6 @@
         "bias": -1
       },
       {
-        "title": "What to know about Netanyahu’s request for a pardon in corruption trial - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQWk4UTVBUFBuV2JXN21hdXFHSVFBZUNxRHo5ZVhUTndBcERLWlJ2QmwxVWp3ajNiSXptVktSMlgxNEdjODFsbnllMW5DWk9qX0ZKbXBSeTlrN3ljZzdsX0NPR0o1QVhPNnRFVVUyMEMydkM3dUpwcUZuUDB1UEVSWUVUTDA3QWVaU0lwQklTMFhpWTVrNWRobERsSC1RY25OSjFueDNYWUVrVS14X0Q2cklPN05RRS13V2c?oc=5",
-        "description": "",
-        "pubDate": "2025-12-01T06:28:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Nik Bonitto bats away 2-point try in OT and Broncos escape with 27-26 win over Commanders - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTmFyOERtWl9LY0hWenVORTVzTnBDVngzMEhhdnpMdXdUZjdwOHlkLVNQTHZTNTBnRUpwZkdKcHpFNG82bmpLZnp2SHJzbWRlSWpsclpGYVEtRTBVRGJFbFFQN1V5c3VtbnFrYTVoa3FVY09EOEVTa29tRWRLUEdsajRVSkEzSjNZRDN6MA?oc=5",
-        "description": "",
-        "pubDate": "2025-12-01T06:21:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "More than 120,000 home cameras hacked for 'sexploitation' footage",
         "link": "https://www.bbc.com/news/articles/cj01q6p7ndlo?at_medium=RSS&at_campaign=rss",
         "description": "The cameras were located in private homes, karaoke rooms, a Pilates studio and a gynaecologist's clinic.",
@@ -479,15 +452,6 @@
         "pubDate": "2025-12-01T06:02:57Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb72/live/2d14d360-ce15-11f0-88a9-a3681fa87dac.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Top photos from Week 13 of the NFL season - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdlhlX2o2MnZzMmRSRXpDU29rV0g2bW15c3M4NDBsY3FZdEY3TEZCWWVBdEVJT2piYmd4bUFUY3lJOU0xZG81eHllZ3RoZHhIY2RpZDNXWmNQRVNvMVZRRzFfVGxvRWliR2dZSVZETWs5NlhDcUM0WERNaDVMd2dfd0hBYV9yd2JBY3ZCcnBsMVN4cnVsNkJJ?oc=5",
-        "description": "",
-        "pubDate": "2025-12-01T05:53:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -507,15 +471,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Brian Walshe goes on trial in death of wife who disappeared more than 2 years ago - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR3UtdDJzNGsxSENpWTBWZTJkdnhnVG5MVmtnOUdsemJiTFp6OWd5Sm1MbFJ5eE1uSWpBalEtVURRZlRHQlU4RjdRbU9zWGdGT3dpQXctQ0JMMnNQeXgxd3Z0YXRUT2Uya1JQZlZZcVh5NkQ1UVlPYTRjeWRSVWk2Y1ozakx6MGhzZ2NN?oc=5",
-        "description": "",
-        "pubDate": "2025-12-01T05:10:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Indiana lawmakers in state House to convene session with redistricting top of mind - AP News",
@@ -563,15 +518,6 @@
         "bias": 0
       },
       {
-        "title": "Aaron Rodgers’ bloody nose a fitting symbol for the hurting Steelers in lopsided loss to Bills - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ0owTWpjeXZDd3FtbU84TXpaczk1UHptWF9zcWMzWlVzU2lyUk91YVBqWUdWSTlVLWxNVW00MjI3QjVWNDdFNTZEYmhyZ2xwcGpycTlqa2Rkc1pvRHhham1KamRwWE84aUh1V0psRG5YdVpKV1pFay1UMXJmRXAwdzdRMTdCWHpBNXI0bXdzc3JoV1U?oc=5",
-        "description": "",
-        "pubDate": "2025-12-01T02:59:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Super Bowl 2026: Pregame performers will include Charlie Puth, Brandi Carlile and Coco Jones - AP News",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVHdDZ2JTQUdKNXFsNEkzS1Q2U3NfVU9YdXl1QThhLS1USmJaSTdiQjJKMDYxSzB6OVg2clo5UXliWG54bWNCYm9JMldFOGxac3k2MDRtcUNrTmNodEYxLXRWbTVobEdnT19rMXRjbVFjNzRTYlRRVkwtNWtoRV9oNFRrZHpNdXJZdFo0MFJpLXAxeFkwdkJJUkhWWXVoUQ?oc=5",
         "description": "",
@@ -590,10 +536,10 @@
         "bias": -1
       },
       {
-        "title": "Florida hires Tulane’s Jon Sumrall as football coach with six-year, $44.7 million deal - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNWNGTUdha1I3d1VoZEpZeW9QT1FkbmtJS1VkNWNmMjBDa1JIMVhTNHdCTThiYXY2d3M4VjFPSDdNYkNjVk9ZVTI0Yl93X3N3X01KQVVIdDNjUGpDNTREN05QZkxsRU5SXzYyVkdBSzRGaDhFMVFZeHFnb0JWYkwyMVRJaVJ0OXotTGlaekN5bw?oc=5",
+        "title": "McLaughlin-Levrone, Duplantis win World Athlete of the Year titles - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOXy1qNjFncTBHaTVnNVdDS0RMVk5RWXM4NzlsdmN0YWEyWldGVnRNNnRrbjg1MG9UbVg4aGM3RmM2VFNpNk1JRi03Z3RpNlpHUFIzZVJHdHA0WkhydkNJNmQ5Z3lhdTB1MlZ5Ymd3cS1sWGxjd1MyUWRlYTRUVnRxeHBQUE5nYnk2SnNidUNlMndCTy1Tc0pSU2I5OVNfZVhsN1lUaW0wRQ?oc=5",
         "description": "",
-        "pubDate": "2025-12-01T02:38:00Z",
+        "pubDate": "2025-12-01T02:39:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -612,15 +558,6 @@
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdUw5Z2x2VmFFUlI1ck84UDdUNnlDdEJQbDkzNmZKbndyTUE5cHg2elVRd2lzSUJKVHctV3BfZEZUSFJSSS1FVTlOQ2hjTEJnUW1EUmttU25ySENkNW53VnZoTFFNTkhzaFFzUUh3VjFMLVdadk1SRzdPTEM1aTFYYzA0WTBua1U?oc=5",
         "description": "",
         "pubDate": "2025-12-01T02:04:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Tennessee player says Jaguars punter threatened to ‘kill me’ during Titans loss - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQXzJ1RnJHS2FSSmFsamxhQzVxeXhGNU03aUkzdThVTktDWklCdU9xcDlHME1VckRQSnIyREhEbG5nbkk3Tm5sUkk2VFFQYWM0YlBaNEd1LVZqcE8zX0RpeS12UnZPTFRmUWVrSHRFN1puTFM2bE9KQlNPNnFUUTFXMGptb1BSZlpjTjVhT2h4cVRJcGgtSFY5ZU5OTnY2b0NYOVlXSVFn?oc=5",
-        "description": "",
-        "pubDate": "2025-12-01T01:42:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -660,16 +597,88 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "Why 2026 will be a year like no other for India's Sun mission",
+        "link": "https://www.bbc.com/news/articles/c8dy9qp71v2o?at_medium=RSS&at_campaign=rss",
+        "description": "For the first time Aditya-L1 will be able to watch the Sun in its maximum activity cycle.",
+        "pubDate": "2025-12-01T01:13:59Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fda/live/94c9b9e0-a890-11ef-8725-7db796b893b0.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Thousands in Philippines protest corruption, demand return of stolen funds",
+        "link": "https://www.npr.org/2025/11/30/nx-s1-5626219/philippines-protest-corruption-stolen-funds",
+        "description": "Thousands of demonstrators including from the dominant Roman Catholic church clergy are protesting in the Philippines, calling for the swift prosecution of top legislators.",
+        "pubDate": "2025-12-01T01:09:20Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Indiana, Ohio State battle for Big Ten title and top seed in College Football Playoff - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSnlWMFlONXR6WUFJZFc3NEFPRlB3YVMzSHg2VjloeXBhTG5fSlF2azRoWm1aZE9LNTQyZDNnVlEyVW4xMDJ6RHN6TWdTNTBKdlB4U2hfNEdDa2Npd0dUcEx1QXg4dk9pS3FBeVYzbmxIR1g4aW5zQ0g4UURDWV9DT3FfZ1dXQ2xyWDY4TWZJMA?oc=5",
+        "description": "",
+        "pubDate": "2025-12-01T01:05:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "The Polish ‘magicians of glass’ who create Christmas baubles for clients worldwide - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWVBDR3JNRWNOOENhd2d4M2J5N2JiNHQ3SWd2WWFOVzU1am8xcWlKMUFvVnlkQVh5N1RJbFVfd05FMXA4U2F0c2NFenU4dlg0dDYwTl8tTWFWdGdCMG5SdjFfVHFIemlZckJWaTd3TVktN1plMEJHZi1zbjJUeXYwLWhpWThqRUdMZFJfSmlCVFl1a05pVThuWFZXeVFFV3lHX0lMc1VTYVNHY3puLWc?oc=5",
+        "description": "",
+        "pubDate": "2025-12-01T00:24:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "WW1 toxic compound sprayed on Georgian protesters, BBC evidence suggests",
+        "link": "https://www.bbc.com/news/articles/czrk7g50e1po?at_medium=RSS&at_campaign=rss",
+        "description": "Anti-government demonstrators are likely to have been targeted with camite, our investigation finds.",
+        "pubDate": "2025-12-01T00:19:04Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7480/live/f67a6cc0-ce96-11f0-9fb5-5f3a3703a365.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Greek sheep and goat cull raises fears of feta cheese shortage",
+        "link": "https://www.bbc.com/news/articles/cgex9d0212xo?at_medium=RSS&at_campaign=rss",
+        "description": "Livestock is being culled across the country due to an infectious disease outbreak.",
+        "pubDate": "2025-12-01T00:10:14Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1763/live/616b0840-cad3-11f0-8a1e-8f6cb8f8b753.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Report says world's biggest arms producers increased revenue by 5.9% last year to record level - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPelZlTjlvQkhGV05JMEV4UkIzWHNZMUROZmt2Wjhpbk1NM2tKY2E3MmEtOElHRDRQbEFfdHpRSUQ4WEZLYzBLVFpVWG1STTU0YXo0WXpQaDYwVEtiNGJZdWluMHZ4c3IyNjM5bEU4NmJlRG5zY2I5RmhUS0tVcy0xWk8xQXRTbGNyWlBBd1U4WDIzWHhpSlg0MlhiVENONzZncjJr?oc=5",
+        "description": "",
+        "pubDate": "2025-12-01T00:08:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Tulip Siddiq MP given jail sentence in Bangladesh after trial in her absence",
+        "link": "https://www.bbc.com/news/articles/c4g9dyd84lwo?at_medium=RSS&at_campaign=rss",
+        "description": "The former minister and niece of Bangladesh's ousted former leader, who received a two-year sentence, says the charges are politically motivated.",
+        "pubDate": "2025-12-01T11:33:21Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/906c/live/e5d39d40-cea2-11f0-9fb5-5f3a3703a365.jpg",
+        "bias": 0
+      },
       {
         "title": "Chris Mason: Why, in my judgement, Reeves was misleading on one specific point",
         "link": "https://www.bbc.com/news/articles/cewjkv8jylko?at_medium=RSS&at_campaign=rss",
         "description": "The Chancellor chose not to share some information on tax receipts in an unusual press conference, given before the Budget.",
         "pubDate": "2025-12-01T11:03:33Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e0b/live/4cab7450-ce91-11f0-9fb5-5f3a3703a365.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b05/live/95082820-cea9-11f0-8c06-f5d460985095.jpg",
         "bias": 0
       },
       {
@@ -716,15 +725,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Tulip Siddiq MP given jail sentence in Bangladesh after trial in her absence",
-        "link": "https://www.bbc.com/news/articles/c4g9dyd84lwo?at_medium=RSS&at_campaign=rss",
-        "description": "The former minister and niece of Bangladesh's ousted former leader, who received a two-year sentence, says the charges are politically motivated.",
-        "pubDate": "2025-12-01T09:07:54Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/906c/live/e5d39d40-cea2-11f0-9fb5-5f3a3703a365.jpg",
-        "bias": 0
       },
       {
         "title": "Children to be taught how to manage their money",
@@ -782,15 +782,6 @@
         "pubDate": "2025-12-01T06:04:18Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2aff/live/a4e5e7d0-ce88-11f0-9fb5-5f3a3703a365.jpg",
-        "bias": 0
-      },
-      {
-        "title": "‘Zootopia 2' roars to record-setting global box office with $556M opening - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTFQzNjg4NXNVRTEzYURfdFY5YXRHVWdXdlRLUEhZeGxvbEZZUkZ4QzJVTTBVc1V6OTY1d1ZCbU1aVEtWZjRqNEtLWmNXSVBFSzVtTEQ0RFdrc0Y0TDR4NHdpdFp2YUItMzA4b0JWRmxjZWo2aVBhNEVoeXdIR1BaaHVjbG5XanZIWVJrR01QVQ?oc=5",
-        "description": "",
-        "pubDate": "2025-12-01T05:40:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       }
     ],
@@ -894,6 +885,15 @@
         "pubDate": "2025-12-01T05:48:34Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2000/live/71c162c0-ce75-11f0-8c06-f5d460985095.jpg",
+        "bias": 0
+      },
+      {
+        "title": "African nations push for recognition of colonial crimes and reparations - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONmxtNFZqQ1FlclNUM0oxOWJvVkswQ2NYVkVIb3BsM1hNcndOR04xMW5XbkhqNjhqR09YVGxKQ3N1cHdQZlpnMC1BNGRhYVBhZFBtT1ZRc0dESjJhR2Z5d1ZrVmtVWFR2bHMtZDNRVG1RQWRUaGlJeUNhbjVnSHZwenVQYVQ5X3NUb0tQd3NwYkttS1Q5RDQ2QzJxQ3BrbTA5Qnc?oc=5",
+        "description": "",
+        "pubDate": "2025-12-01T00:19:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       }
     ]
