@@ -1,7 +1,25 @@
 {
-  "lastUpdate": "2025-12-02T04:40:58.253398Z",
+  "lastUpdate": "2025-12-02T04:58:23.526505Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Flypipe Bird [Free]",
+        "link": "https://aidan-spladen.itch.io/flypipe-bird",
+        "description": "PICO-8 project to learn the program.",
+        "pubDate": "2025-12-02T04:47:42Z",
+        "source": "aidan-spladen.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MzU3Mjk3LnBuZw==/315x250%23c/YFmFf3.png",
+        "bias": 0
+      },
+      {
+        "title": "land shooter [Free] [Other]",
+        "link": "https://muhammad-ariffin.itch.io/land-shooter",
+        "description": "",
+        "pubDate": "2025-12-02T04:45:31Z",
+        "source": "muhammad-ariffin.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MzU3Mjc5LnBuZw==/315x250%23c/tonTsb.png",
+        "bias": 0
+      },
       {
         "title": "flappy bird kori [Free]",
         "link": "https://rayeza-selfania-lian.itch.io/flappy-bird-kori",
@@ -12,7 +30,7 @@
         "bias": 0
       },
       {
-        "title": "Only Five Minutes [Free] [Adventure] [Windows] [macOS] [Linux] [Android]",
+        "title": "Only Five Minutes [Free] [Adventure]",
         "link": "https://pattimus-prime.itch.io/only-five-minutes",
         "description": "2025 Thanksgiving GameJam",
         "pubDate": "2025-12-02T04:20:38Z",
@@ -45,6 +63,15 @@
         "pubDate": "2025-12-02T04:11:50Z",
         "source": "dmitry-create.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0MzU2OTY0LnBuZw==/315x250%23c/biGnjU.png",
+        "bias": 0
+      },
+      {
+        "title": "Adventures in Godot: The Forest of Fading Power [Free] [Platformer]",
+        "link": "https://browngloryd.itch.io/adventures-in-godot-the-forest-of-fading-power",
+        "description": "A 2D platformer where you restore the forest’s fading Life Power by collecting fruit and surviving magical hazards.",
+        "pubDate": "2025-12-02T04:05:37Z",
+        "source": "browngloryd.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0MzU3MzYyLmpwZw==/315x250%23c/RE63kX.jpg",
         "bias": 0
       },
       {
@@ -219,24 +246,6 @@
         "bias": 0
       },
       {
-        "title": "20 in 1 Mini Games [$4.99] [Action] [Android]",
-        "link": "https://woodensoftwaredevelopment.itch.io/20-in-1-mini-games",
-        "description": "",
-        "pubDate": "2025-12-02T02:31:17Z",
-        "source": "woodensoftwaredevelopment.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzU2MTI2LnBuZw==/315x250%23c/4bIQwF.png",
-        "bias": 0
-      },
-      {
-        "title": "Prison Break [Free] [Shooter]",
-        "link": "https://kefcaban.itch.io/prison-break",
-        "description": "Don't let the prisoners escape....",
-        "pubDate": "2025-12-02T02:30:23Z",
-        "source": "kefcaban.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0MzU2MDc2LnBuZw==/315x250%23c/f0SO4a.png",
-        "bias": 0
-      },
-      {
         "title": "Rosas d’Époque – Vintage Poster Set (4 colores | 3 tamaños) [$11.00] [Other]",
         "link": "https://maison-tete.itch.io/rosas-dpoque-vintage-poster-set-4-colores-3-tamaos",
         "description": "",
@@ -265,6 +274,24 @@
       }
     ],
     "World": [
+      {
+        "title": "‘I decided I’d die’: Indonesia’s flood victims recount stories of survival",
+        "link": "https://www.aljazeera.com/news/2025/12/2/i-decided-id-die-indonesias-flood-victims-recount-stories-of-survival?traffic_source=rss",
+        "description": "At least 631 people have died in floods in the Southeast Asian country, with the death toll expected to rise.",
+        "pubDate": "2025-12-02T04:33:17Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Maduro rejects a ‘slave’s peace’ for Venezuela as US ramps up pressure",
+        "link": "https://www.aljazeera.com/news/2025/12/2/maduro-rejects-a-slaves-peace-for-venezuela-as-us-ramps-up-pressure?traffic_source=rss",
+        "description": "Thousands rally in Caracas in support of President Nicolas Maduro as concerns grow over potential US military action.",
+        "pubDate": "2025-12-02T04:17:48Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Canada joins key EU defence programme as PM Carney pivots away from US",
         "link": "https://www.aljazeera.com/news/2025/12/2/canada-joins-key-eu-defence-programme-as-pm-carney-pivots-away-from-us?traffic_source=rss",
@@ -392,7 +419,44 @@
         "bias": 0
       }
     ],
-    "Politics": [],
+    "Politics": [
+      {
+        "title": "UK will increase its spending on medicine under a zero-tariff deal with the US - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTHBvWW9YTk90bG9UeXVEeFExNERHemkzSkxnYWVfU3B3d1ZCRDdCOEROMVhfOHFmVDYwbUVObDRRS2toNzJMZmdHMXhZSFBtMTZnZVdSN2NRTGpydFJjYlhYQlJSdWFkUnFHVmgtbmpCOEFGVjRNd0pIcXdxVFV2MVNPRGRMZXBBNHB1N3hVZlhNRjZXTTFHMA?oc=5",
+        "description": "",
+        "pubDate": "2025-12-02T00:42:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Doctor says Trump had preventative screening MRI on heart, abdomen with 'perfectly normal' results - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZEZPRGtKTTFXd3NmbExJaXZBeEhuR2d3WVpWanFHdjZUUTRqRXZ1U3Fzc0lvdUhkSF9Icm1EeTloNE5lMk8xcXo1NV9hVmZTSjZUd2ppSlhFYVFZR3lrUl9DTzRXc2NtTXZybjBwTWFCZ0l3YVpYUW52UjBXMXp2cGJSVzl4ZEtKZDVxRU9YNWNQVVFHNzExWm1URXd6Zw?oc=5",
+        "description": "",
+        "pubDate": "2025-12-02T00:41:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "LSU lures Lane Kiffin away from virtual playoff lock Ole Miss - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSk5ySkFKX1gtZUFnaVJYNGdqU2xDSHJIMWFSbXdrM1FUSnViRC1USWR2NUhHdm1zS2dqZU14aXBCSW5TcjdLZlhhVk9McFdqLUt1UFVBSXg4ak4zVmw5Y0ktaTNRRVBVMFRNMFhxcHRfZkxnT3Nra3hMbFB5TE5xNjJDblFuMy1aSTJkNA?oc=5",
+        "description": "",
+        "pubDate": "2025-12-02T00:39:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Starbucks to pay $35M to NYC workers in settlement as ongoing strike draws pols to picket line - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUURDWEF0azNhRWFFdDlzbF82OGo1Qi05TVVRSXFXckVpbWZfMXpyUnc4T0xObF91MFR4enhCcTdBUy1nRldQMkVrWHpmLVVURF94dU5GNEdYNXJxa1VUb2NlZDBTWmRRUmxDNHdDN1RvTE5JQlZXS2dENVdhcHBjcERvRlRzZnlteVZablZVenVreFZSeDFVbEg1X0g4ZHphelE?oc=5",
+        "description": "",
+        "pubDate": "2025-12-02T00:09:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ],
     "Tech": [
       {
         "title": "Don't get angry, but the 2025 Oxford Word of the Year is 'rage bait'",
