@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-05T10:23:07.080492Z",
+  "lastUpdate": "2025-12-05T10:45:56.362221Z",
   "news": {
     "Gaming": [
       {
@@ -12,12 +12,21 @@
         "bias": 0
       },
       {
-        "title": "Trip Back Home [Free] [Action]",
+        "title": "Trip Back Home [Free] [Action] [Windows]",
         "link": "https://skilludev.itch.io/trip-back-home",
         "description": "",
         "pubDate": "2025-12-05T09:44:53Z",
         "source": "skilludev.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NDA1NDEyLnBuZw==/315x250%23c/BV%2BZ75.png",
+        "bias": 0
+      },
+      {
+        "title": "Tenebrae [Free] [Platformer]",
+        "link": "https://pixelfragmente.itch.io/tenebrae",
+        "description": "In Tenebrae, you play as a small, fragile flame lost in a labyrinth plunged into darkness.",
+        "pubDate": "2025-12-05T09:43:19Z",
+        "source": "pixelfragmente.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NDA1NjU2LnBuZw==/315x250%23c/9%2Fa7Qy.png",
         "bias": 0
       },
       {
@@ -66,6 +75,15 @@
         "bias": 0
       },
       {
+        "title": "Orbital Dash [Free] [Action] [Windows] [Android]",
+        "link": "https://shapedjarl.itch.io/orbital-dash",
+        "description": "",
+        "pubDate": "2025-12-05T08:28:59Z",
+        "source": "shapedjarl.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NDA0NjI2LnBuZw==/315x250%23c/kVDV72.png",
+        "bias": 0
+      },
+      {
         "title": "Post-Liminal Prototype - AET 312 3D Project [Free] [Puzzle] [Windows]",
         "link": "https://calamityphantom.itch.io/post-liminal-prototype-aet-312-3d-project",
         "description": "You are a delivery person for the entities that live in liminal spaces",
@@ -90,6 +108,15 @@
         "pubDate": "2025-12-05T08:12:47Z",
         "source": "malgraveloman.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NDA0NDM2LnBuZw==/315x250%23c/oJ8U17.png",
+        "bias": 0
+      },
+      {
+        "title": "Unheard Testimonies [Free] [Educational] [Windows] [macOS]",
+        "link": "https://daskamori.itch.io/unheard-testimonies",
+        "description": "",
+        "pubDate": "2025-12-05T07:53:03Z",
+        "source": "daskamori.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NDA0MjU3LnBuZw==/315x250%23c/6SM9%2FS.png",
         "bias": 0
       },
       {
@@ -147,24 +174,6 @@
         "bias": 0
       },
       {
-        "title": "Tank Mayhem 1-4P [Free] [Other] [Android]",
-        "link": "https://med2731.itch.io/tank-mayhem-1-4p",
-        "description": "",
-        "pubDate": "2025-12-05T07:00:43Z",
-        "source": "med2731.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NDA0MTU5LnBuZw==/315x250%23c/2yTDb2.png",
-        "bias": 0
-      },
-      {
-        "title": "SNOWDASH [Free]",
-        "link": "https://lyndev.itch.io/snowdash",
-        "description": "​Run, grapple, and climb to deliver packages!",
-        "pubDate": "2025-12-05T04:34:08Z",
-        "source": "lyndev.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NDA0MjA2LnBuZw==/315x250%23c/Gy9P6K.png",
-        "bias": 0
-      },
-      {
         "title": "a little fishy business [Free]",
         "link": "https://ersitdraggon872.itch.io/a-little-fishy-business",
         "description": "(re)sell fish for profit!!",
@@ -175,6 +184,24 @@
       }
     ],
     "World": [
+      {
+        "title": "Germany votes to bring back voluntary military service",
+        "link": "https://www.bbc.com/news/articles/ckg9drg8pg1o?at_medium=RSS&at_campaign=rss",
+        "description": "The shift in its approach to its military follows a push to create Europe's strongest conventional army.",
+        "pubDate": "2025-12-05T10:34:35Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/165e/live/0fe7b770-d1c2-11f0-8c06-f5d460985095.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Kenya signs landmark health deal with US despite data fears",
+        "link": "https://www.bbc.com/news/articles/c0r9vq5vv4no?at_medium=RSS&at_campaign=rss",
+        "description": "Kenya becomes the first African country to secure US health funding since cuts to foreign aid by Trump.",
+        "pubDate": "2025-12-05T10:33:56Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8893/live/0b7c9720-d1ac-11f0-83cd-5b415fb0080a.jpg",
+        "bias": 0
+      },
       {
         "title": "Putin and Modi discuss trade and peace at summit talks in India",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/12/5/putin-and-modi-discuss-trade-and-peace-at-summit-talks-in-india?traffic_source=rss",
@@ -190,7 +217,7 @@
         "description": "The streaming giant has emerged as the top bidder ahead of rivals Comcast and Paramount Skydance, reports say.",
         "pubDate": "2025-12-05T09:46:13Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89ff/live/d4449160-d1b3-11f0-8c06-f5d460985095.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ccd/live/8d035120-d1c6-11f0-8c06-f5d460985095.jpg",
         "bias": 0
       },
       {
@@ -606,24 +633,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Supreme Court allows Texas to use a congressional map favorable to Republicans in 2026 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOelhhNWVjeE5xWUwzb0l0Y1FYTUZacmRYX1BZMVB1d3luSnZXZ3lWNWx5YTNlZV9TN3lubGhDTEVKOXllVjU3WFBzOWlLZWN2dmQ2T1NaX25OT0VGNGlTUlBCdjd1Xy1oZVc1ekdiN09aOWdueU1ST2w2LUJpYXRIdE1GeDR4OUJtVTBzRW1CR2tlVTl1LWtjQXhFLXV1V0pp?oc=5",
-        "description": "",
-        "pubDate": "2025-12-05T00:14:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "US military kills four in latest strike on boat in the Caribbean",
-        "link": "https://www.aljazeera.com/news/2025/12/5/us-military-kills-four-in-latest-strike-on-boat-in-the-caribbean?traffic_source=rss",
-        "description": "Attack comes amid renewed scrutiny of the Trump administration's campaign against alleged drug smugglers.",
-        "pubDate": "2025-12-05T00:00:49Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
@@ -633,7 +642,7 @@
         "description": "The strategy also includes making childcare more accessible for families on Universal Credit.",
         "pubDate": "2025-12-05T08:50:00Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05ef/live/afc10870-d18e-11f0-8c06-f5d460985095.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4849/live/5316efe0-d1c5-11f0-a892-01d657345866.jpg",
         "bias": 0
       },
       {
@@ -693,7 +702,7 @@
         "description": "Big confectionery makers are rolling out freeze-dried sweets after they become an online sensation.",
         "pubDate": "2025-12-05T08:50:26Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80e3/live/574435f0-bbb8-11f0-b2a1-6f537f66f9aa.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1da7/live/bcf2fce0-be44-11f0-ae46-bd64331f0fd4.jpg",
         "bias": 0
       },
       {
