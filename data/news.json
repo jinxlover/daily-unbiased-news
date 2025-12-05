@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-12-05T14:44:43.850445Z",
+  "lastUpdate": "2025-12-05T14:55:44.165901Z",
   "news": {
     "Gaming": [
+      {
+        "title": "A floresta [Free]",
+        "link": "https://jujubola.itch.io/a-floresta",
+        "description": "",
+        "pubDate": "2025-12-05T14:44:45Z",
+        "source": "jujubola.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NDA4MzA5LmpwZw==/315x250%23c/4flZgq.jpg",
+        "bias": 0
+      },
       {
         "title": "The Prepared Knight [Free] [Strategy]",
         "link": "https://svenf.itch.io/the-prepared-knight",
@@ -18,6 +27,15 @@
         "pubDate": "2025-12-05T14:30:11Z",
         "source": "theforbiddenmeatpatty.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NDA3OTUxLnBuZw==/315x250%23c/7CYsXT.png",
+        "bias": 0
+      },
+      {
+        "title": "Glimmer [Free] [Action] [Windows]",
+        "link": "https://kramkost.itch.io/glimmer",
+        "description": "A dark puzzle-horror where a small toy searches through an oversized nightmare",
+        "pubDate": "2025-12-05T14:28:18Z",
+        "source": "kramkost.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NDA4MDY5LnBuZw==/315x250%23c/eGpH0X.png",
         "bias": 0
       },
       {
@@ -129,15 +147,6 @@
         "bias": 0
       },
       {
-        "title": "La canette de Pepsi [Free]",
-        "link": "https://temps-des-cerises.itch.io/la-canette-de-pepsi",
-        "description": "Jeu réalisé pendant l'Open Lab du Collège La Paix",
-        "pubDate": "2025-12-05T13:15:43Z",
-        "source": "temps-des-cerises.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NDA3MTQ3LmpwZw==/315x250%23c/5I5ROF.jpg",
-        "bias": 0
-      },
-      {
         "title": "Hollow Knight fan game, Hollow Knight 3D [Free] [Action] [Windows]",
         "link": "https://tigrandev.itch.io/hollow-knight-fan-game-hollow-knight-3d",
         "description": "3d fighting game",
@@ -162,15 +171,6 @@
         "pubDate": "2025-12-05T13:02:11Z",
         "source": "lonely-forge-studios.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NDA3NDA3LnBuZw==/315x250%23c/zQmjOn.png",
-        "bias": 0
-      },
-      {
-        "title": "Sub Rosa [Free] [Shooter] [Windows] [Linux]",
-        "link": "https://pigeons-everywhere.itch.io/sub-rosa",
-        "description": "Find out what your friends are hiding",
-        "pubDate": "2025-12-05T13:00:43Z",
-        "source": "pigeons-everywhere.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NDA2OTU4LnBuZw==/315x250%23c/CBZqwy.png",
         "bias": 0
       },
       {
@@ -230,6 +230,33 @@
     ],
     "World": [
       {
+        "title": "Live updates: Supreme Court allows Texas to use a congressional map favorable to Republicans in 2026 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByTUF4QXgxWVVXZFgzbXF6T1p2cVZtMGhDTDhkVUh1V0JDRkJjOVVrYlU5VllGczNJRjhXU0ppVDZyMTFpMUh1QnJicW5Ed1E3dmFrQzdoQmhJTmJFOFYxajRkZW5FZHBmeHBR?oc=5",
+        "description": "",
+        "pubDate": "2025-12-05T14:49:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Western countries press Tanzania to release bodies of post-election victims",
+        "link": "https://www.bbc.com/news/articles/c8xdvg2ydddo?at_medium=RSS&at_campaign=rss",
+        "description": "There is evidence of extrajudicial killings, disappearances and the concealment of bodies, 17 embassies say.",
+        "pubDate": "2025-12-05T14:45:24Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5b1/live/850c6e00-d1dc-11f0-9fb5-5f3a3703a365.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Russian drone strike kills 12-year-old boy in Ukraine as peace talks kept under wraps - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOR0ZMenE0NGI5RUhkcFJLTnR5aF8tV2VsdWdvNmluZU5VWDZwS3Jna1ZmaHRZa2ZqTUtKQUNPeGpQQWh3N1VfTldCNkFJcGk0VUw2aG44QWNMcjVCWl8tUzZaVTM1UFNfczhCY21FUzB4bEJBcXpPY29JVThKQjZVdFhPcUpicnIzWkdnclpfZEhHSEQzWFNHQW1uaWM5dnIzZzRTNHNhNA?oc=5",
+        "description": "",
+        "pubDate": "2025-12-05T14:45:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Netflix to buy Warner Bros film and streaming businesses for $72bn",
         "link": "https://www.bbc.com/news/articles/ce91x2jm5pjo?at_medium=RSS&at_campaign=rss",
         "description": "The major Hollywood deal means Netflix will takeover ownership of franchises including Harry Potter and Game of Thrones.",
@@ -239,12 +266,12 @@
         "bias": 0
       },
       {
-        "title": "Live updates: Supreme Court allows Texas to use a congressional map favorable to Republicans in 2026 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByTUF4QXgxWVVXZFgzbXF6T1p2cVZtMGhDTDhkVUh1V0JDRkJjOVVrYlU5VllGczNJRjhXU0ppVDZyMTFpMUh1QnJicW5Ed1E3dmFrQzdoQmhJTmJFOFYxajRkZW5FZHBmeHBR?oc=5",
-        "description": "",
-        "pubDate": "2025-12-05T14:25:00Z",
-        "source": "news.google.com",
-        "image": "",
+        "title": "Namibia loses bid to overturn ban on rhino horn trade",
+        "link": "https://www.bbc.com/news/articles/c30j7q6qjp9o?at_medium=RSS&at_campaign=rss",
+        "description": "Namibia has built up large stockpiles of rhino horn after pioneering the practice of cutting them off to deter poachers.",
+        "pubDate": "2025-12-05T14:24:32Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7dd/live/a83bb890-d1b4-11f0-a892-01d657345866.jpg",
         "bias": 0
       },
       {
@@ -475,7 +502,7 @@
       {
         "title": "UNSC delegation meets Lebanon’s Aoun, tours south amid Israeli escalation",
         "link": "https://www.aljazeera.com/news/2025/12/5/unsc-delegation-meets-lebanons-aoun-tours-south-amid-israeli-escalation?traffic_source=rss",
-        "description": "Lebanese leader urges UNSC to press Israel to respect the November 2024 ceasefire it has repeatedly violated.",
+        "description": "Visit comes as Hezbollah leader slams Lebanon's recent civilian-led talks with Israel as a 'free concession'.",
         "pubDate": "2025-12-05T11:11:32Z",
         "source": "aljazeera.com",
         "image": "",
@@ -522,15 +549,6 @@
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWVJ2R2FHNDVxelFNYnM4bDV6cmFFc2J4UFdQV1p1dkdMbHF2U0pXV25LS01iSUdtWVNsZmRTVnhFbDNyamg0QmpoQVYwWm1NY0RLM0ZmMS0yMlQ2blF1MTA4alF6cFZJbnZkeENXV2I3eXFxM1JHQkZucjVZXzRLOGtWOVBSRmdub09NVFY5Tm01Q2NVSEVHSXJINVlTWVlhajdzaTJTVQ?oc=5",
         "description": "",
         "pubDate": "2025-12-05T10:45:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Russian drone strike kills 12-year-old boy in Ukraine as peace talks kept under wraps - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOR0ZMenE0NGI5RUhkcFJLTnR5aF8tV2VsdWdvNmluZU5VWDZwS3Jna1ZmaHRZa2ZqTUtKQUNPeGpQQWh3N1VfTldCNkFJcGk0VUw2aG44QWNMcjVCWl8tUzZaVTM1UFNfczhCY21FUzB4bEJBcXpPY29JVThKQjZVdFhPcUpicnIzWkdnclpfZEhHSEQzWFNHQW1uaWM5dnIzZzRTNHNhNA?oc=5",
-        "description": "",
-        "pubDate": "2025-12-05T10:39:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -660,24 +678,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "What to know about the long-running corruption case of former South African President Zuma - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcG5uOHRnTVM5X3BpbF9mdEItR0FCNHNOSkNQUVRURndOMW50OGZMeWtxd3dORXZUT05HdTNVUkZscEV3NzVTRjNZQ0VCQUxleTNtVjg4RTI4UVBkenlXZy1iTjhmTXAyeWRKdWRna0drLXBrY0VWeldnQnVoSmZsSUQ2bTVGZnRwdE1rd25WWmNGSWJGVHV6Vnpn?oc=5",
-        "description": "",
-        "pubDate": "2025-12-05T07:37:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "US raid allegedly killed Syrian undercover agent instead of Islamic State group official - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGFvdFZvQnJ0ZEQ1NDVOTVA4bjNQSHdCdlJQNFFoNUEteGU4Ym1MUFhaZWZMUGU1MENVNVNUMXNzOVBHWnNSV0E1aHhpeXFZYlN0WTVNdklab2FIX1R6NzhfZEtJYlF5QzhCUldtbW5BSnNnUExsaG82YUVlUXdGTXpfTHhZbGVEaEQ5bFBxdHdmcS0xR2tWSmotZmQxa3RjTVo2SkEzcV9OX2VyV2JrNA?oc=5",
-        "description": "",
-        "pubDate": "2025-12-05T06:03:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
