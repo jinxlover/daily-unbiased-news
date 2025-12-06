@@ -1,7 +1,25 @@
 {
-  "lastUpdate": "2025-12-06T15:26:09.642630Z",
+  "lastUpdate": "2025-12-06T15:39:25.840525Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Text Based RPG 2.0 [Free] [Role Playing]",
+        "link": "https://pickle5679.itch.io/text-based-rpg-20",
+        "description": "",
+        "pubDate": "2025-12-06T15:38:17Z",
+        "source": "pickle5679.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NDIyNjM5LnBuZw==/315x250%23c/0eHsF5.png",
+        "bias": 0
+      },
+      {
+        "title": "Run Like Dave [Free] [Action]",
+        "link": "https://kirkclarke.itch.io/run-like-dave",
+        "description": "Catch butterflies don't catch a virus",
+        "pubDate": "2025-12-06T15:27:55Z",
+        "source": "kirkclarke.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NDIyNTQyLnBuZw==/315x250%23c/zlqupY.png",
+        "bias": 0
+      },
       {
         "title": "Coral Bloom [Free] [Simulation]",
         "link": "https://antoinefauville.itch.io/coral-bloom",
@@ -156,15 +174,6 @@
         "bias": 0
       },
       {
-        "title": "TerrAdapt: The Return DEMO [Free] [Interactive Fiction]",
-        "link": "https://mossandquillstudios.itch.io/terradapt-the-return-demo",
-        "description": "",
-        "pubDate": "2025-12-06T13:23:41Z",
-        "source": "mossandquillstudios.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NDIxMzgwLnBuZw==/315x250%23c/d0JCIH.png",
-        "bias": 0
-      },
-      {
         "title": "DarkCrypt [Free]",
         "link": "https://manglednight.itch.io/manacrypt",
         "description": "",
@@ -180,15 +189,6 @@
         "pubDate": "2025-12-06T13:03:47Z",
         "source": "crabman77.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NDIxMzA1LnBuZw==/315x250%23c/Xw9Zi7.png",
-        "bias": 0
-      },
-      {
-        "title": "Catalyst [Free] [Other] [Windows] [macOS] [Linux] [Android]",
-        "link": "https://rahelgamma.itch.io/catalyst",
-        "description": "a game about corruption",
-        "pubDate": "2025-12-06T11:52:22Z",
-        "source": "rahelgamma.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NDIwMzMzLnBuZw==/315x250%23c/%2Fq%2FXGs.png",
         "bias": 0
       },
       {
@@ -221,6 +221,15 @@
     ],
     "World": [
       {
+        "title": "Max Verstappen takes pole position for F1 title-deciding Abu Dhabi GP - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZHM5by1BM29LN2xqN3pWMEc1TG42T2Zld056Y0kzallBY2s5VHRGdUxyRjRNb0ZkcjVHbzdIV3NPWnhTZndJcVFIcnVndzMzNGV4emR1M3lGY2l4TWdIVGVpbG9RUEpCWC1QWGZzVHA4TTdpRHppeWF3WnJmM2VyNGd1OXpHNXBSSXZQUkFXZEFIcGR0ZlFtV29kUjNvWmxmWUd3RVhn?oc=5",
+        "description": "",
+        "pubDate": "2025-12-06T15:16:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Bethlehem Christmas tree lights up for first time since start of Gaza war",
         "link": "https://www.bbc.com/news/articles/ce86z84e947o?at_medium=RSS&at_campaign=rss",
         "description": "For the past two years all public Christmas celebrations have been cancelled in Bethlehem in the occupied West Bank.",
@@ -246,6 +255,24 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Russia unleashes massive drone and missile attack on Ukraine as diplomatic talks continue - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdVZUb0h3LUpFbVpibDlXREVycFhPaV9tY1dBdWRWSUpFYkV1NlJXVnNjRkFKTG5uazlZckwtRmozTmlLc1dsMUdSMkREbXJyUWpBQmpUbmRnbzZneURQXy1fNGhvV0VUbEhrTDhBSkVRdk5MT2F0UTlPc3l5Qld5T0czSDJ4Z2VSMTQ0MzVTQXd4U3N4eHdDUnpXWWRHbEJS?oc=5",
+        "description": "",
+        "pubDate": "2025-12-06T14:52:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Threats pile up as Indiana Republicans confront pressure from Trump on redistricting - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQXBGa2NWZWxWRjJ0ZFNvRzJNbGN0S1JMdkhaczZPc3pFaFdKVEF5Q0JvbmoyNk1SWDRqaXdRWXZlYXBaOXRMbXVvWDRNblZwMFA1dm8teGx2MjdqRDZpc082Y01zU3VkVkxwWnE1aUhsVXo0TU12dU5pU2JQcVdVT1pkeGZtZ0wtUGZ2TGJabkNCWEM3YzREX1E4cFlFQ1BmdXM1YUN1MF9vaDhCX3RWX0F2QVlDaWI4dTVKNUNxY1VIZw?oc=5",
+        "description": "",
+        "pubDate": "2025-12-06T14:36:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "LIVE: Real Betis vs Barcelona – La Liga",
@@ -293,15 +320,6 @@
         "bias": 0
       },
       {
-        "title": "Russia unleashes massive drone and missile attack on Ukraine as diplomatic talks continue - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdVZUb0h3LUpFbVpibDlXREVycFhPaV9tY1dBdWRWSUpFYkV1NlJXVnNjRkFKTG5uazlZckwtRmozTmlLc1dsMUdSMkREbXJyUWpBQmpUbmRnbzZneURQXy1fNGhvV0VUbEhrTDhBSkVRdk5MT2F0UTlPc3l5Qld5T0czSDJ4Z2VSMTQ0MzVTQXd4U3N4eHdDUnpXWWRHbEJS?oc=5",
-        "description": "",
-        "pubDate": "2025-12-06T13:09:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "This metalworker is creating suits of armor for mice",
         "link": "https://www.npr.org/2025/12/06/nx-s1-5529413-e1/this-metalworker-is-creating-suits-of-armor-for-mice",
         "description": "Calgary artist Jeff De Boer has spent decades learning, perfecting, and teaching the art of making suits of armor. For mice.",
@@ -327,6 +345,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Qatari leader says the Gaza ceasefire is at a critical moment - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZlFzWDlVT216OTMwM0h3TE5ITXBaYnB3ZWFMQjFlN0JwUnByZGFGbFZvTFNHYU5yX3RSdk1XbDdmVEYxOEt6RXh4NGZKRFd1dFBVYzQzQ3VsY3ZnbUk4c3VBanBNbFdxbGl3dTVEaU10aUlmeURiU3lNcUtlekNYdzAtZ0hKWW5Db2t2S005aU5mVGU0ZU1Jd1dnZzJHQS1yc3E1ZjEzbVZiZw?oc=5",
+        "description": "",
+        "pubDate": "2025-12-06T12:04:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Civilians killed in DRC fighting, a day after peace deal signing",
@@ -642,52 +669,16 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Trump gets FIFA’s new peace prize",
-        "link": "https://www.aljazeera.com/news/2025/12/6/trump-wins-fifas-new-peace-prize?traffic_source=rss",
-        "description": "The US leader, who has campaigned for the Nobel Peace Prize, gets FIFA's award at the 2026 World Cup draw in Washington.",
-        "pubDate": "2025-12-06T00:40:24Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "What should you do if you dislike your friend's partner?",
-        "link": "https://www.bbc.com/news/articles/cp858lmrn74o?at_medium=RSS&at_campaign=rss",
-        "description": "Former friends Chrishell Stause and Emma Hernan have argued on and off-camera in the Netflix reality show.",
-        "pubDate": "2025-12-06T00:08:13Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e84d/live/5d0ef150-cba8-11f0-9b12-8751a987e19a.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Single women risk rape and exploitation in search for better life in Europe",
-        "link": "https://www.bbc.com/news/articles/cd0k2r2jpg4o?at_medium=RSS&at_campaign=rss",
-        "description": "Esther says she faced sexual violence on her journey to Europe after fleeing abuse in Nigeria.",
-        "pubDate": "2025-12-06T00:07:27Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e2e/live/8c6e4d30-cf8e-11f0-aa60-9b31093c6070.jpg",
-        "bias": 0
       }
     ],
     "Politics": [
       {
-        "title": "Supreme Court allows Texas to use a congressional map favorable to Republicans in 2026 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOelhhNWVjeE5xWUwzb0l0Y1FYTUZacmRYX1BZMVB1d3luSnZXZ3lWNWx5YTNlZV9TN3lubGhDTEVKOXllVjU3WFBzOWlLZWN2dmQ2T1NaX25OT0VGNGlTUlBCdjd1Xy1oZVc1ekdiN09aOWdueU1ST2w2LUJpYXRIdE1GeDR4OUJtVTBzRW1CR2tlVTl1LWtjQXhFLXV1V0pp?oc=5",
-        "description": "",
-        "pubDate": "2025-12-06T15:06:47Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Scottish Conservative peer defects to Reform UK",
         "link": "https://www.bbc.com/news/articles/c5yq9yr31mgo?at_medium=RSS&at_campaign=rss",
         "description": "Malcolm Offord appeared at a rally alongside Nigel Farage in Falkirk on Saturday to announce the move.",
-        "pubDate": "2025-12-06T14:46:01Z",
+        "pubDate": "2025-12-06T15:32:48Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3c3/live/8eea9cf0-d2b1-11f0-bd5b-c3b78393b3cd.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6db5/live/b5ef9c40-d2b8-11f0-9fb5-5f3a3703a365.jpg",
         "bias": 0
       },
       {
@@ -733,6 +724,15 @@
         "pubDate": "2025-12-06T09:33:29Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1de/live/584e3990-d27a-11f0-af1a-a13b3bc97819.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Released 911 calls reveal desperate pleas and tragic outcomes during Texas Hill Country flood - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcHFaRzJtd203T0F2TVYyUDhFR1FXVnJhMXFZeGt1Q0lMTHFQTG5QNUtIZ3FQaGk4MEw4NEpfQUdYZTdZODRaSWpYVnUwZzJOb1FKYTlrR2Q2TTZvdWNYQjlTZTJURmdGdDVsVGswclpiaWNRQVlTdkFoeFdoOVdudDNoVDhVMDZjNmdHMnJaT1gyX1lxdmdz?oc=5",
+        "description": "",
+        "pubDate": "2025-12-06T08:50:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -792,17 +792,7 @@
         "bias": 0
       }
     ],
-    "Science": [
-      {
-        "title": "Released 911 calls reveal desperate pleas and tragic outcomes during Texas Hill Country flood - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcHFaRzJtd203T0F2TVYyUDhFR1FXVnJhMXFZeGt1Q0lMTHFQTG5QNUtIZ3FQaGk4MEw4NEpfQUdYZTdZODRaSWpYVnUwZzJOb1FKYTlrR2Q2TTZvdWNYQjlTZTJURmdGdDVsVGswclpiaWNRQVlTdkFoeFdoOVdudDNoVDhVMDZjNmdHMnJaT1gyX1lxdmdz?oc=5",
-        "description": "",
-        "pubDate": "2025-12-06T08:50:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      }
-    ],
+    "Science": [],
     "Business": [
       {
         "title": "Warm Welcome hubs an 'important' helping hand",
