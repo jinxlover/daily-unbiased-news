@@ -1,7 +1,25 @@
 {
-  "lastUpdate": "2025-12-06T11:29:07.726701Z",
+  "lastUpdate": "2025-12-06T11:40:56.372249Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Circle Z [$1.00] [Survival] [Windows] [Linux]",
+        "link": "https://worm-v.itch.io/circle-z",
+        "description": "Get to a circle to live!",
+        "pubDate": "2025-12-06T11:22:27Z",
+        "source": "worm-v.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NDIwMDczLnBuZw==/315x250%23c/fXmB7W.png",
+        "bias": 0
+      },
+      {
+        "title": "Color Sort [Free]",
+        "link": "https://s-blackbox.itch.io/color-sort",
+        "description": "",
+        "pubDate": "2025-12-06T11:22:11Z",
+        "source": "s-blackbox.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NDIwMTIyLnBuZw==/315x250%23c/Q31I3n.png",
+        "bias": 0
+      },
       {
         "title": "Clockwork Warden [Free] [Action] [Windows]",
         "link": "https://josiahaviso.itch.io/clockwork-warden",
@@ -138,7 +156,7 @@
         "bias": 0
       },
       {
-        "title": "Horror novel engine [$5.00] [Visual Novel] [Windows] [macOS] [Linux] [Android]",
+        "title": "Horror novel engine [$5.00] [Visual Novel]",
         "link": "https://k0f3z.itch.io/horror-novel-engine",
         "description": "JavaScript novel engine",
         "pubDate": "2025-12-06T08:43:25Z",
@@ -192,15 +210,6 @@
         "bias": 0
       },
       {
-        "title": "Untitled Burger Game [Free] [Simulation] [Windows]",
-        "link": "https://smolblockboi.itch.io/untitled-burger-game",
-        "description": "",
-        "pubDate": "2025-12-06T07:46:45Z",
-        "source": "smolblockboi.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NDE4Nzc5LnBuZw==/315x250%23c/t0GZbx.png",
-        "bias": 0
-      },
-      {
         "title": "Petal by Petal [Free] [Simulation]",
         "link": "https://orquin-games.itch.io/petal-by-petal",
         "description": "A relaxing incremental game where a single drop of water can turn into a blooming empire.",
@@ -212,6 +221,15 @@
     ],
     "World": [
       {
+        "title": "Russia bombards Ukraine as US says progress made in talks with Kyiv",
+        "link": "https://www.bbc.com/news/articles/clydxj7my84o?at_medium=RSS&at_campaign=rss",
+        "description": "President Zelensky says an attack on a rail hub near Kyiv was \"meaningless from a military point of view\".",
+        "pubDate": "2025-12-06T11:34:21Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/014f/live/554cde70-d290-11f0-ad8c-41f43adb6496.jpg",
+        "bias": 0
+      },
+      {
         "title": "Chad struggles as new Sudanese refugees strain resources and infrastructure",
         "link": "https://www.aljazeera.com/gallery/2025/12/6/chad-struggles-as-new-sudanese-refugees-strain-resources-and-infrastructure?traffic_source=rss",
         "description": "Sudan's civil war drives millions from their homes, creating an unparalleled humanitarian emergency in the region.",
@@ -219,15 +237,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "US says progress made at talks with Ukraine as Russia attacks infrastructure",
-        "link": "https://www.bbc.com/news/articles/clydxj7my84o?at_medium=RSS&at_campaign=rss",
-        "description": "Moscow launched 653 drones and 51 missiles overnight, most of which were downed, Kyiv says.",
-        "pubDate": "2025-12-06T10:58:37Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/014f/live/554cde70-d290-11f0-ad8c-41f43adb6496.jpg",
-        "bias": 0
       },
       {
         "title": "At least 11 killed in South Africa mass shooting",
@@ -547,15 +556,6 @@
         "bias": 0
       },
       {
-        "title": "US vaccine advisers say not all babies need a hepatitis B shot at birth - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTnJjQUhxaWxUVzNJLWNhUEpIbEhRWWdjeVlHLXBKak5KbkgxUDhPZ1EyOUVENDkxTnRpVkE2TDV4cjVOdjJvdEJwMzBTXzNxb1luVF9hemg3aFpyQ2xwSmNhWFlEOWlaQllCYmRzV2ZZQmEyd1VfcnQ5RmZmMlZVa3IxN0xwTjZYcmtPbDVlRnY?oc=5",
-        "description": "",
-        "pubDate": "2025-12-06T08:32:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Putin and Modi hold talks and announce expansion of Russia-India trade ties - AP News",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQlQwTHRDSDMtR3RFMWFXaUFvUUZrSDZqUTZLSk5GbHlZRlVvVHJXNXJQX2ozYnpCX0lmeHRCTlNnWUJEbWg5U1o5ZjhyQ0JGTGF3Tkk0OGpNOVRzX01ObHlOblhJOUNkTFdjZ0RQNGJWTEdNaG1KSllWT3R5YlVfUlJ2YWcybGZxMGFsdDhzeUd2ZmhNdXRldkQ4WlRpQQ?oc=5",
         "description": "",
@@ -617,15 +617,6 @@
       }
     ],
     "Culture": [
-      {
-        "title": "Latin American News | Latest Latin American News - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ndGJHcWFWd3JYNVhLbDFQbjRLNDZnWlVPRUVlS0FQcVhBTzI4emRPS2dwZ2pzWWphdzZ1YXl0T0l2X1UwT1drcXliZnM?oc=5",
-        "description": "",
-        "pubDate": "2025-12-06T10:38:07Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
       {
         "title": "Elf movie costume sells for £239,000 at auction",
         "link": "https://www.bbc.com/news/articles/c8xdv5gzez7o?at_medium=RSS&at_campaign=rss",
