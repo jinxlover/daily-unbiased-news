@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-06T09:49:32.090438Z",
+  "lastUpdate": "2025-12-06T09:59:41.438842Z",
   "news": {
     "Gaming": [
       {
@@ -9,6 +9,15 @@
         "pubDate": "2025-12-06T09:31:53Z",
         "source": "abdulkader-safi.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NDE5NDYyLnBuZw==/315x250%23c/iGxieD.png",
+        "bias": 0
+      },
+      {
+        "title": "Banana cat run [Free] [Other] [Windows] [macOS] [Linux] [Android]",
+        "link": "https://mario617285.itch.io/banana-cat-runner",
+        "description": "I made a infinite runner",
+        "pubDate": "2025-12-06T09:27:55Z",
+        "source": "mario617285.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NDE5NTExLnBuZw==/315x250%23c/ebrbud.png",
         "bias": 0
       },
       {
@@ -180,15 +189,6 @@
         "pubDate": "2025-12-06T06:40:38Z",
         "source": "rifalldi.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NDE4MjYzLnBuZw==/315x250%23c/HGyYMh.png",
-        "bias": 0
-      },
-      {
-        "title": "Minor Arcana - Core Rulebook [Free]",
-        "link": "https://bazil-au.itch.io/minor-arcana-core-rulebook",
-        "description": "",
-        "pubDate": "2025-12-06T06:30:35Z",
-        "source": "bazil-au.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NDE4MjA3LmpwZw==/315x250%23c/Ab2rmM.jpg",
         "bias": 0
       },
       {
@@ -448,24 +448,6 @@
         "bias": 0
       },
       {
-        "title": "Released 911 calls reveal desperate pleas and tragic outcomes during Texas Hill Country flood - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcHFaRzJtd203T0F2TVYyUDhFR1FXVnJhMXFZeGt1Q0lMTHFQTG5QNUtIZ3FQaGk4MEw4NEpfQUdYZTdZODRaSWpYVnUwZzJOb1FKYTlrR2Q2TTZvdWNYQjlTZTJURmdGdDVsVGswclpiaWNRQVlTdkFoeFdoOVdudDNoVDhVMDZjNmdHMnJaT1gyX1lxdmdz?oc=5",
-        "description": "",
-        "pubDate": "2025-12-06T08:50:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "US vaccine advisers say not all babies need a hepatitis B shot at birth - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTnJjQUhxaWxUVzNJLWNhUEpIbEhRWWdjeVlHLXBKak5KbkgxUDhPZ1EyOUVENDkxTnRpVkE2TDV4cjVOdjJvdEJwMzBTXzNxb1luVF9hemg3aFpyQ2xwSmNhWFlEOWlaQllCYmRzV2ZZQmEyd1VfcnQ5RmZmMlZVa3IxN0xwTjZYcmtPbDVlRnY?oc=5",
-        "description": "",
-        "pubDate": "2025-12-06T08:32:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Putin and Modi hold talks and announce expansion of Russia-India trade ties - AP News",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQlQwTHRDSDMtR3RFMWFXaUFvUUZrSDZqUTZLSk5GbHlZRlVvVHJXNXJQX2ozYnpCX0lmeHRCTlNnWUJEbWg5U1o5ZjhyQ0JGTGF3Tkk0OGpNOVRzX01ObHlOblhJOUNkTFdjZ0RQNGJWTEdNaG1KSllWT3R5YlVfUlJ2YWcybGZxMGFsdDhzeUd2ZmhNdXRldkQ4WlRpQQ?oc=5",
         "description": "",
@@ -495,6 +477,15 @@
     ],
     "Tech": [
       {
+        "title": "US vaccine advisers say not all babies need a hepatitis B shot at birth - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTnJjQUhxaWxUVzNJLWNhUEpIbEhRWWdjeVlHLXBKak5KbkgxUDhPZ1EyOUVENDkxTnRpVkE2TDV4cjVOdjJvdEJwMzBTXzNxb1luVF9hemg3aFpyQ2xwSmNhWFlEOWlaQllCYmRzV2ZZQmEyd1VfcnQ5RmZmMlZVa3IxN0xwTjZYcmtPbDVlRnY?oc=5",
+        "description": "",
+        "pubDate": "2025-12-06T08:32:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Ukrainian women embrace combat roles as technology reshapes the battlefield - AP News",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQREE5eW04NTYxLVZNMUY5MXpqUU5HbldLMG1Ub3k2eDdVRG4yYUVUZUVmb1JtTzZvTFpwZ2F1d0dBM21jNE14NjhIWGNCczFUQjB4QlN2TWY5eEhKeHZpQlJmUkdkLXg0el8wbHJCdVNjanJNUllycnhlY29PUzRVOXlrQWdKSmlZSjIydTlrekZhcmFkcHlkeGVUZEMyQjFsSGxyWk9QY2d1R1d0ZXR0ejNhbDg4TVJ1STl6X1pTX0N3bXVsQnkwUElIZkVNdw?oc=5",
         "description": "",
@@ -504,7 +495,17 @@
         "bias": 0
       }
     ],
-    "Science": [],
+    "Science": [
+      {
+        "title": "Released 911 calls reveal desperate pleas and tragic outcomes during Texas Hill Country flood - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcHFaRzJtd203T0F2TVYyUDhFR1FXVnJhMXFZeGt1Q0lMTHFQTG5QNUtIZ3FQaGk4MEw4NEpfQUdYZTdZODRaSWpYVnUwZzJOb1FKYTlrR2Q2TTZvdWNYQjlTZTJURmdGdDVsVGswclpiaWNRQVlTdkFoeFdoOVdudDNoVDhVMDZjNmdHMnJaT1gyX1lxdmdz?oc=5",
+        "description": "",
+        "pubDate": "2025-12-06T08:50:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ],
     "Business": [
       {
         "title": "Warm Welcome hubs an 'important' helping hand",
