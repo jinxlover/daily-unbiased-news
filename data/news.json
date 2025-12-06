@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-06T11:40:56.372249Z",
+  "lastUpdate": "2025-12-06T11:55:22.454498Z",
   "news": {
     "Gaming": [
       {
@@ -26,7 +26,7 @@
         "description": "A hack-and-slash 2.5D Rogue-like Prototype",
         "pubDate": "2025-12-06T10:46:40Z",
         "source": "josiahaviso.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NDE5ODY5LnBuZw==/315x250%23c/HZGQR4.png",
+        "image": "https://img.itch.zone/aW1nLzI0NDIwMzI3LnBuZw==/315x250%23c/%2B%2BpFPz.png",
         "bias": 0
       },
       {
@@ -174,15 +174,6 @@
         "bias": 0
       },
       {
-        "title": "Aegis Division (Semi-Abandoned) [Free]",
-        "link": "https://hairybobkat.itch.io/aigis-division-semi-abandoned",
-        "description": "Made in 2024, yet another unfinished idea​",
-        "pubDate": "2025-12-06T08:08:47Z",
-        "source": "hairybobkat.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NDE4OTI2LnBuZw==/315x250%23c/PuR5N5.png",
-        "bias": 0
-      },
-      {
         "title": "Keep bottle in the trash [Free] [Adventure] [Windows]",
         "link": "https://kunfirm6463.itch.io/keep-bottle-in-the-trash",
         "description": "Game",
@@ -201,15 +192,6 @@
         "bias": 0
       },
       {
-        "title": "Test Rpg Project (Abandoned) [Free]",
-        "link": "https://hairybobkat.itch.io/test-rpg-project-abandoned",
-        "description": "Made in 2024, literaly just basic rpg mechanics",
-        "pubDate": "2025-12-06T07:52:36Z",
-        "source": "hairybobkat.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NDE4Nzg5LnBuZw==/315x250%23c/pXQDwN.png",
-        "bias": 0
-      },
-      {
         "title": "Petal by Petal [Free] [Simulation]",
         "link": "https://orquin-games.itch.io/petal-by-petal",
         "description": "A relaxing incremental game where a single drop of water can turn into a blooming empire.",
@@ -217,9 +199,27 @@
         "source": "orquin-games.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NDE3NzEwLnBuZw==/315x250%23c/UPfg1b.png",
         "bias": 0
+      },
+      {
+        "title": "Sprunked: Sunset Suffering [Free] [Rhythm]",
+        "link": "https://levi-the-robot-cat.itch.io/sprunked-ss",
+        "description": "",
+        "pubDate": "2025-12-06T02:57:51Z",
+        "source": "levi-the-robot-cat.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NDE2NTMyLnBuZw==/315x250%23c/U7loXz.png",
+        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Colombia signs peace-building deal in Qatar with Clan del Golfo drug gang",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/6/colombia-signs-peace-building-deal-in-qatar-with-clan-del-golfo-drug-gang?traffic_source=rss",
+        "description": "Colombia signed a peace-building agreement in Qatar with the Clan del Golfo, Colombia's largest drug-trafficking group.",
+        "pubDate": "2025-12-06T11:43:42Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Russia bombards Ukraine as US says progress made in talks with Kyiv",
         "link": "https://www.bbc.com/news/articles/clydxj7my84o?at_medium=RSS&at_campaign=rss",
@@ -437,7 +437,7 @@
         "bias": 0
       },
       {
-        "title": "Afghanistan says 4 killed in heavy fire exchanges with Pakistani forces",
+        "title": "Afghanistan says 5 killed in heavy fire exchanges with Pakistani forces",
         "link": "https://www.aljazeera.com/news/2025/12/6/afghan-pakistani-forces-exchange-heavy-fire-as-tensions-flare?traffic_source=rss",
         "description": "Relations have soured between former allies Afghanistan and Pakistan since the Taliban returned to power in 2021.",
         "pubDate": "2025-12-06T02:25:52Z",
@@ -538,6 +538,15 @@
     ],
     "Politics": [
       {
+        "title": "Trans women will not be allowed to attend main Labour Women's Conference events",
+        "link": "https://www.bbc.com/news/articles/c773vm4n3n0o?at_medium=RSS&at_campaign=rss",
+        "description": "The conference will take place in 2026 after being cancelled for a year in light of the Supreme Court's gender ruling.",
+        "pubDate": "2025-12-06T10:40:28Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c2e/live/3bd47820-d242-11f0-a892-01d657345866.jpg",
+        "bias": 0
+      },
+      {
         "title": "Takeaways from the latest special election and what it means for control of the House",
         "link": "https://www.npr.org/2025/12/06/nx-s1-5634822/takeaways-special-election-house-midterms",
         "description": "There was yet another sign this week of a potential 2026 wave that could hand control of the House of Representatives to Democrats.",
@@ -553,6 +562,15 @@
         "pubDate": "2025-12-06T09:33:29Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1de/live/584e3990-d27a-11f0-af1a-a13b3bc97819.jpg",
+        "bias": 0
+      },
+      {
+        "title": "US vaccine advisers say not all babies need a hepatitis B shot at birth - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTnJjQUhxaWxUVzNJLWNhUEpIbEhRWWdjeVlHLXBKak5KbkgxUDhPZ1EyOUVENDkxTnRpVkE2TDV4cjVOdjJvdEJwMzBTXzNxb1luVF9hemg3aFpyQ2xwSmNhWFlEOWlaQllCYmRzV2ZZQmEyd1VfcnQ5RmZmMlZVa3IxN0xwTjZYcmtPbDVlRnY?oc=5",
+        "description": "",
+        "pubDate": "2025-12-06T08:32:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
