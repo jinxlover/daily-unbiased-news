@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-12-06T10:43:38.853995Z",
+  "lastUpdate": "2025-12-06T10:55:22.927206Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Minecraft Client Without Launcher! [Free] [Adventure] [Windows] [Linux]",
+        "link": "https://atpied.itch.io/minecraft-client-without-launcher",
+        "description": "Just run launcher.bat and choose your username and have fun!",
+        "pubDate": "2025-12-06T10:29:41Z",
+        "source": "atpied.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NDE5ODA3LnBuZw==/315x250%23c/IOcJeF.png",
+        "bias": 0
+      },
       {
         "title": "war plane [Free] [Action] [Windows]",
         "link": "https://23leonid.itch.io/war-plane",
@@ -53,7 +62,7 @@
         "description": "Just a Pong clone. Nothing fancy.",
         "pubDate": "2025-12-06T09:29:12Z",
         "source": "catbackgames.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NDE5NDgyLnBuZw==/315x250%23c/rWdJqc.png",
+        "image": "https://img.itch.zone/aW1nLzI0NDE5OTA3LnBuZw==/315x250%23c/qUOXip.png",
         "bias": 0
       },
       {
@@ -210,15 +219,6 @@
         "bias": 0
       },
       {
-        "title": "marioise's b-side the crumbling universes [Free] [Platformer]",
-        "link": "https://marioises-b-side-offical.itch.io/crumblinguniverses",
-        "description": "",
-        "pubDate": "2025-12-06T07:07:01Z",
-        "source": "marioises-b-side-offical.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NDE4NDM3LnBuZw==/315x250%23c/vYyXxF.png",
-        "bias": 0
-      },
-      {
         "title": "COSMIC BOUNTY [Free] [Shooter] [Windows]",
         "link": "https://rocket508.itch.io/cosmic-bounty",
         "description": "Survive the ambush. Claim the bounty.",
@@ -237,22 +237,49 @@
         "bias": 0
       },
       {
-        "title": "Star Runner [Free] [Role Playing] [Windows] [Linux]",
-        "link": "https://longbow-studios.itch.io/star-runner",
-        "description": "Journey the cosmos delivering cargo, cowboy style. Can you survive?",
-        "pubDate": "2025-12-06T05:55:04Z",
-        "source": "longbow-studios.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NDE4MDgzLnBuZw==/315x250%23c/AziV9t.png",
+        "title": "Petal by Petal [Free] [Simulation]",
+        "link": "https://orquin-games.itch.io/petal-by-petal",
+        "description": "A relaxing incremental game where a single drop of water can turn into a blooming empire.",
+        "pubDate": "2025-12-06T05:36:47Z",
+        "source": "orquin-games.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NDE3NzEwLnBuZw==/315x250%23c/UPfg1b.png",
         "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "EU’s Kallas says Washington ‘biggest ally’ despite US security downgrade",
+        "link": "https://www.aljazeera.com/news/2025/12/6/eus-kallas-says-washington-biggest-ally-despite-us-security-downgrade?traffic_source=rss",
+        "description": "Foreign policy chief keeping Washington onside as Ukrainian, US officials continue talks on ending Russia-Ukraine war.",
+        "pubDate": "2025-12-06T10:47:52Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "RSF alleges SAF forces struck crucial border crossing in Sudan near Chad",
+        "link": "https://www.aljazeera.com/news/2025/12/6/rsf-alleges-saf-forces-struck-crucial-border-crossing-near-chad?traffic_source=rss",
+        "description": "The RSF accused Sudan's army of the attack on a vital corridor for aid and Sudanese fleeing the war.",
+        "pubDate": "2025-12-06T10:38:28Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Russia unleashes drone and missile attack on Ukraine as diplomatic talks continue",
         "link": "https://www.npr.org/2025/12/06/g-s1-101064/russia-drone-missile-attack",
         "description": "Russia unleashed a major missile and drone barrage on Ukraine overnight into Saturday, after U.S. and Ukrainian officials said they'll meet on Saturday for talks aimed at ending the war.",
         "pubDate": "2025-12-06T10:36:20Z",
         "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Oklahoma rack up 14th straight NBA win; Durant hits 31K career points",
+        "link": "https://www.aljazeera.com/sports/2025/12/6/oklahoma-rack-up-14th-straight-nba-win-durant-hits-31k-career-points?traffic_source=rss",
+        "description": "Gilgeous-Alexander scores 33 points in Thunder's win over the Mavericks while Houston Rockets beat Phoenix Suns.",
+        "pubDate": "2025-12-06T10:32:25Z",
+        "source": "aljazeera.com",
         "image": "",
         "bias": -1
       },
@@ -401,15 +428,6 @@
         "bias": 0
       },
       {
-        "title": "911 calls reveal terror of July 4 floods as those trapped in attics and camp cabins beg for help - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNjV6RXdKeldKZHJtamxIcUpIcWxvSTdlWk1tVUNmZWxOelJpellXOEQxcG9LT0drSU1icERsWHJNeEFvSzZ4eklPM1BEZGZsOG0tQVhkQXJ4OWliU2NLMVFqaFc0WVlqYWIxcVlseS1Wa3B2TDROb19JdF9KQWlFLXI1Z2d1UlJGTjlnMVM4dm53QmN2OVVKY1Fn?oc=5",
-        "description": "",
-        "pubDate": "2025-12-06T02:44:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Grand jury transcripts from abandoned Epstein investigation in Florida ordered released - AP News",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByTUF4QXgxWVVXZFgzbXF6T1p2cVZtMGhDTDhkVUh1V0JDRkJjOVVrYlU5VllGczNJRjhXU0ppVDZyMTFpMUh1QnJicW5Ed1E3dmFrQzdoQmhJTmJFOFYxajRkZW5FZHBmeHBR?oc=5",
         "description": "",
@@ -483,7 +501,7 @@
       },
       {
         "title": "Infantino’s ‘Peace Prize’ to Trump raises questions about FIFA’s neutrality",
-        "link": "https://www.aljazeera.com/news/2025/12/6/infantinos-peace-prize-to-trump-raises-questions-about-fifas-neutrality?traffic_source=rss",
+        "link": "https://www.aljazeera.com/sports/2025/12/6/infantinos-peace-prize-to-trump-raises-questions-about-fifas-neutrality?traffic_source=rss",
         "description": "FIFA President Gianni Infantino heaps praise on Donald Trump as critics ridicule newly established award as 'vulgar'.",
         "pubDate": "2025-12-06T00:29:48Z",
         "source": "aljazeera.com",
