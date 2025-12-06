@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-06T15:39:25.840525Z",
+  "lastUpdate": "2025-12-06T15:49:33.319178Z",
   "news": {
     "Gaming": [
       {
@@ -9,6 +9,33 @@
         "pubDate": "2025-12-06T15:38:17Z",
         "source": "pickle5679.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NDIyNjM5LnBuZw==/315x250%23c/0eHsF5.png",
+        "bias": 0
+      },
+      {
+        "title": "F-Trials [Free] [Puzzle] [Windows]",
+        "link": "https://justsaturn.itch.io/f-trials",
+        "description": "Complete the different puzzles using the robots!",
+        "pubDate": "2025-12-06T15:38:03Z",
+        "source": "justsaturn.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NDIyNjg2LmpwZw==/315x250%23c/DtsOOe.jpg",
+        "bias": 0
+      },
+      {
+        "title": "lemonhead - prototype [Free] [Platformer] [Windows]",
+        "link": "https://cheesesandwich22.itch.io/lemonhead-prototype",
+        "description": "a little 3d platformer with fluid movement as focus",
+        "pubDate": "2025-12-06T15:37:47Z",
+        "source": "cheesesandwich22.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NDIyNjgwLnBuZw==/315x250%23c/wUJBV0.png",
+        "bias": 0
+      },
+      {
+        "title": "ateez全员向文字游戏《翻绳结》 [Free]",
+        "link": "https://haikaihval.itch.io/ateez",
+        "description": "我们的故事缠绕着靠近，像一个又一个的绳结。",
+        "pubDate": "2025-12-06T15:37:40Z",
+        "source": "haikaihval.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NDIyNjY1LmpwZw==/315x250%23c/ynBC6M.jpg",
         "bias": 0
       },
       {
@@ -27,15 +54,6 @@
         "pubDate": "2025-12-06T14:50:12Z",
         "source": "antoinefauville.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NDIyMTYxLmdpZg==/315x250%23c/OC7YU9.gif",
-        "bias": 0
-      },
-      {
-        "title": "Three and One: The Cursed Mansion [Free] [Visual Novel] [Windows] [macOS] [Linux] [Android]",
-        "link": "https://icecreamvanman.itch.io/three-and-one",
-        "description": "",
-        "pubDate": "2025-12-06T14:45:57Z",
-        "source": "icecreamvanman.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NDIyMzg3LnBuZw==/315x250%23c/eomPtq.png",
         "bias": 0
       },
       {
@@ -156,24 +174,6 @@
         "bias": 0
       },
       {
-        "title": "Epic NPC [Free]",
-        "link": "https://muryskin.itch.io/epic-npc",
-        "description": "Жди своего авантюриста. Генерируй новые квесты. Раздавай награды.",
-        "pubDate": "2025-12-06T13:37:59Z",
-        "source": "muryskin.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NDIxNDMxLnBuZw==/315x250%23c/8wt%2Fp0.png",
-        "bias": 0
-      },
-      {
-        "title": "поместье каннибалов [Free] [Survival] [Windows]",
-        "link": "https://banan-blatnoy.itch.io/kanibalskatina",
-        "description": "кароче лютый хоррор побегушки от всяких людоедов.",
-        "pubDate": "2025-12-06T13:31:06Z",
-        "source": "banan-blatnoy.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NDIxMzkyLmpwZw==/315x250%23c/z5HJXi.jpg",
-        "bias": 0
-      },
-      {
         "title": "DarkCrypt [Free]",
         "link": "https://manglednight.itch.io/manacrypt",
         "description": "",
@@ -221,6 +221,24 @@
     ],
     "World": [
       {
+        "title": "South Africa shooting leaves 12 dead, including young child: Police",
+        "link": "https://www.aljazeera.com/news/2025/12/6/south-africa-shooting-leaves-12-dead-including-young-child-police?traffic_source=rss",
+        "description": "Police say 25 people were shot at 'illegal' bar in hostel in Pretoria, with three children among the dead.",
+        "pubDate": "2025-12-06T15:38:07Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Why Qatar lives rent-free in the far right’s head",
+        "link": "https://www.aljazeera.com/opinions/2025/12/6/why-qatar-lives-rent-free-in-the-far-rights-head?traffic_source=rss",
+        "description": "Conservative influencers are playing a central role in a new campaign of weaponising Islamophobia.",
+        "pubDate": "2025-12-06T15:36:43Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Max Verstappen takes pole position for F1 title-deciding Abu Dhabi GP - AP News",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZHM5by1BM29LN2xqN3pWMEc1TG42T2Zld056Y0kzallBY2s5VHRGdUxyRjRNb0ZkcjVHbzdIV3NPWnhTZndJcVFIcnVndzMzNGV4emR1M3lGY2l4TWdIVGVpbG9RUEpCWC1QWGZzVHA4TTdpRHppeWF3WnJmM2VyNGd1OXpHNXBSSXZQUkFXZEFIcGR0ZlFtV29kUjNvWmxmWUd3RVhn?oc=5",
         "description": "",
@@ -261,6 +279,15 @@
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdVZUb0h3LUpFbVpibDlXREVycFhPaV9tY1dBdWRWSUpFYkV1NlJXVnNjRkFKTG5uazlZckwtRmozTmlLc1dsMUdSMkREbXJyUWpBQmpUbmRnbzZneURQXy1fNGhvV0VUbEhrTDhBSkVRdk5MT2F0UTlPc3l5Qld5T0czSDJ4Z2VSMTQ0MzVTQXd4U3N4eHdDUnpXWWRHbEJS?oc=5",
         "description": "",
         "pubDate": "2025-12-06T14:52:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Qatari leader says the Gaza ceasefire is at a critical moment - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZlFzWDlVT216OTMwM0h3TE5ITXBaYnB3ZWFMQjFlN0JwUnByZGFGbFZvTFNHYU5yX3RSdk1XbDdmVEYxOEt6RXh4NGZKRFd1dFBVYzQzQ3VsY3ZnbUk4c3VBanBNbFdxbGl3dTVEaU10aUlmeURiU3lNcUtlekNYdzAtZ0hKWW5Db2t2S005aU5mVGU0ZU1Jd1dnZzJHQS1yc3E1ZjEzbVZiZw?oc=5",
+        "description": "",
+        "pubDate": "2025-12-06T14:46:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -345,15 +372,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Qatari leader says the Gaza ceasefire is at a critical moment - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZlFzWDlVT216OTMwM0h3TE5ITXBaYnB3ZWFMQjFlN0JwUnByZGFGbFZvTFNHYU5yX3RSdk1XbDdmVEYxOEt6RXh4NGZKRFd1dFBVYzQzQ3VsY3ZnbUk4c3VBanBNbFdxbGl3dTVEaU10aUlmeURiU3lNcUtlekNYdzAtZ0hKWW5Db2t2S005aU5mVGU0ZU1Jd1dnZzJHQS1yc3E1ZjEzbVZiZw?oc=5",
-        "description": "",
-        "pubDate": "2025-12-06T12:04:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Civilians killed in DRC fighting, a day after peace deal signing",
@@ -644,30 +662,12 @@
         "bias": -1
       },
       {
-        "title": "Flavio Bolsonaro enters Brazil’s 2026 presidential race with father’s nod",
-        "link": "https://www.aljazeera.com/news/2025/12/6/flavio-bolsonaro-enters-brazils-2026-presidential-race-with-fathers-nod?traffic_source=rss",
-        "description": "Imprisoned ex-President Jair Bolsonaro has endorsed his eldest son's presidential bid, teeing up a race against Lula.",
-        "pubDate": "2025-12-06T01:04:14Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "Lured by lucrative job offers and sent to fight for Russia - Kenyans want their sons back",
         "link": "https://www.bbc.com/news/articles/c20gn2d51l1o?at_medium=RSS&at_campaign=rss",
         "description": "Kenyan families whose sons have been duped into fighting for Russia demand they be brought home.",
         "pubDate": "2025-12-06T00:57:01Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6f8/live/3a778300-d1fc-11f0-a892-01d657345866.jpg",
-        "bias": 0
-      },
-      {
-        "title": "High school student, 18, charged with arson in fire that burned New York City subway passenger - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ0ZBYm5GaFFWNm1yVnY1R3NXMFFaZkpaMDNXdGFlNzVtaEVWaEtXZy0tcUxxeE5seG9hTkN6Q1FuTFBmRm1xRHpJS0ZoMnFRZGw5RHM4WGxBWGwyTTduQ2d3d3lSWXFBRDlUOGFUUHJVZE53ZkJwVnI2clB5TktQMXl1YlUxUXhrb202VExUYw?oc=5",
-        "description": "",
-        "pubDate": "2025-12-06T00:46:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       }
     ],
