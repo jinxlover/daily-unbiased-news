@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-12-06T09:24:58.078862Z",
+  "lastUpdate": "2025-12-06T09:38:57.376058Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Snake Game [Free] [Survival]",
+        "link": "https://abdulkader-safi.itch.io/snake-game",
+        "description": "A classic Snake game built with Rust and Raylib, featuring frame-independent movement and a clean modular architecture.",
+        "pubDate": "2025-12-06T09:31:53Z",
+        "source": "abdulkader-safi.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NDE5NDYyLnBuZw==/315x250%23c/iGxieD.png",
+        "bias": 0
+      },
       {
         "title": "Life with the tribe (DEMO) [Free] [Action] [Windows]",
         "link": "https://chimerazak.itch.io/life-with-the-tribe-demo",
@@ -39,9 +48,9 @@
         "bias": 0
       },
       {
-        "title": "Horror novel engine [$5.00] [Visual Novel]",
+        "title": "Horror novel engine [$5.00] [Visual Novel] [Windows] [macOS] [Linux] [Android]",
         "link": "https://k0f3z.itch.io/horror-novel-engine",
-        "description": "",
+        "description": "JavaScript novel engine",
         "pubDate": "2025-12-06T08:43:25Z",
         "source": "k0f3z.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NDE5MDk1LmdpZg==/315x250%23c/tf6xFw.gif",
@@ -198,15 +207,6 @@
         "pubDate": "2025-12-06T06:16:05Z",
         "source": "hsa7sy.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NDE4MTAwLnBuZw==/315x250%23c/MWCs65.png",
-        "bias": 0
-      },
-      {
-        "title": "Catsters Incredibox [EARLY ACCESS/FINAL VERSION] [Free]",
-        "link": "https://leep-173.itch.io/catsters-incredibox-early-accessfinal-version",
-        "description": "MEOW.",
-        "pubDate": "2025-12-06T06:07:47Z",
-        "source": "leep-173.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NDE4MDcwLnBuZw==/315x250%23c/N%2FN8gP.png",
         "bias": 0
       },
       {
@@ -410,6 +410,15 @@
         "bias": -1
       },
       {
+        "title": "Lured by lucrative job offers and sent to fight for Russia. Kenyans want their sons back",
+        "link": "https://www.bbc.com/news/articles/c20gn2d51l1o?at_medium=RSS&at_campaign=rss",
+        "description": "Kenyan families whose sons have been duped into fighting for Russia demand they be brought home.",
+        "pubDate": "2025-12-06T00:57:01Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6f8/live/3a778300-d1fc-11f0-a892-01d657345866.jpg",
+        "bias": 0
+      },
+      {
         "title": "Trump gets FIFA’s new peace prize",
         "link": "https://www.aljazeera.com/news/2025/12/6/trump-wins-fifas-new-peace-prize?traffic_source=rss",
         "description": "The US leader, who has campaigned for the Nobel Peace Prize, gets FIFA's award at the 2026 World Cup draw in Washington.",
@@ -426,9 +435,27 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Single women risk rape and exploitation in search for better life in Europe",
+        "link": "https://www.bbc.com/news/articles/cd0k2r2jpg4o?at_medium=RSS&at_campaign=rss",
+        "description": "Esther says she faced sexual violence on her journey to Europe after fleeing abuse in Nigeria.",
+        "pubDate": "2025-12-06T00:07:27Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e2e/live/8c6e4d30-cf8e-11f0-aa60-9b31093c6070.jpg",
+        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Charities welcome new law banning puppy smuggling",
+        "link": "https://www.bbc.com/news/articles/c8dy6395dqyo?at_medium=RSS&at_campaign=rss",
+        "description": "But some are worried that the ban will have consequences for rare dog breeders and those who rescue dogs from overseas.",
+        "pubDate": "2025-12-06T09:33:29Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1de/live/584e3990-d27a-11f0-af1a-a13b3bc97819.jpg",
+        "bias": 0
+      },
       {
         "title": "US vaccine advisers say not all babies need a hepatitis B shot at birth - AP News",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTnJjQUhxaWxUVzNJLWNhUEpIbEhRWWdjeVlHLXBKak5KbkgxUDhPZ1EyOUVENDkxTnRpVkE2TDV4cjVOdjJvdEJwMzBTXzNxb1luVF9hemg3aFpyQ2xwSmNhWFlEOWlaQllCYmRzV2ZZQmEyd1VfcnQ5RmZmMlZVa3IxN0xwTjZYcmtPbDVlRnY?oc=5",
@@ -503,7 +530,7 @@
         "title": "Latin American News | Latest Latin American News - AP News",
         "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ndGJHcWFWd3JYNVhLbDFQbjRLNDZnWlVPRUVlS0FQcVhBTzI4emRPS2dwZ2pzWWphdzZ1YXl0T0l2X1UwT1drcXliZnM?oc=5",
         "description": "",
-        "pubDate": "2025-12-06T08:32:04Z",
+        "pubDate": "2025-12-06T09:37:27Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
