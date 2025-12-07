@@ -1,9 +1,18 @@
 {
-  "lastUpdate": "2025-12-07T09:35:00.150572Z",
+  "lastUpdate": "2025-12-07T09:45:25.025924Z",
   "news": {
     "Gaming": [
       {
-        "title": "Asteroid [Free] [Simulation] [Windows] [Linux]",
+        "title": "VR Ghost House Escape [Free] [Puzzle] [Windows]",
+        "link": "https://meeteedee.itch.io/vr-ghost-house-escape",
+        "description": "",
+        "pubDate": "2025-12-07T09:28:16Z",
+        "source": "meeteedee.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NDMzNTgwLmpwZw==/315x250%23c/QKk0GY.jpg",
+        "bias": 0
+      },
+      {
+        "title": "AST3ROID [Free] [Simulation] [Windows] [Linux]",
         "link": "https://mael-rabot.itch.io/ast3roid",
         "description": "",
         "pubDate": "2025-12-07T09:15:31Z",
@@ -183,15 +192,6 @@
         "bias": 0
       },
       {
-        "title": "Solve Math Obby [Free] [Platformer]",
-        "link": "https://hydrangeazel.itch.io/solve-math-obby",
-        "description": "",
-        "pubDate": "2025-12-07T06:27:46Z",
-        "source": "hydrangeazel.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NDMyMTE4LnBuZw==/315x250%23c/Zux3So.png",
-        "bias": 0
-      },
-      {
         "title": "One Last Thing [Free] [Visual Novel] [Windows] [macOS] [Linux]",
         "link": "https://haydensarts.itch.io/one-last-thing",
         "description": "",
@@ -242,10 +242,28 @@
         "title": "Soldiers in Benin say they have seized power from President Talon",
         "link": "https://www.bbc.com/news/articles/c62v7n9wzkyo?at_medium=RSS&at_campaign=rss",
         "description": "A message from the French embassy in Benin said gunfire had been reported near the residence of the president.",
-        "pubDate": "2025-12-07T09:11:43Z",
+        "pubDate": "2025-12-07T09:40:24Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8db/live/23b1f160-7bc6-11ef-84ec-b7c3b5e6690e.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a84/live/76de4280-d34f-11f0-be87-cf8bc955dceb.png",
         "bias": 0
+      },
+      {
+        "title": "“World attention needs to be on Sudan now”",
+        "link": "https://www.aljazeera.com/video/quotable/2025/12/7/aje-onl-qt_carl-skau-071225?traffic_source=rss",
+        "description": "Carl Skau, from WFP, talks about the limitations & concerns they have in providing desperately needed aid in Sudan.",
+        "pubDate": "2025-12-07T09:10:34Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Benin coup attempt live: Soldiers on state TV claim to have toppled Talon",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/12/7/benin-attempt-coup-live-soldiers-on-state-tv-claim-to-have-toppled-talon?traffic_source=rss",
+        "description": "Group of soldiers announce the removal of President Patrice Talon and all state institutions.",
+        "pubDate": "2025-12-07T09:09:40Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Tailors and corner stores: The hustles helping prisoners survive",
