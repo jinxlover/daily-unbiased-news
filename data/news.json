@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-08T07:33:04.552651Z",
+  "lastUpdate": "2025-12-08T07:48:38.751005Z",
   "news": {
     "Gaming": [
       {
@@ -45,6 +45,15 @@
         "pubDate": "2025-12-08T07:07:25Z",
         "source": "alliez.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NDQ5NDQyLnBuZw==/315x250%23c/R1XYE5.png",
+        "bias": 0
+      },
+      {
+        "title": "Police Chase Game [Free] [Windows]",
+        "link": "https://katzn201.itch.io/police-chase-game",
+        "description": "Deliver beer to a bar while avoiding cops.",
+        "pubDate": "2025-12-08T06:40:04Z",
+        "source": "katzn201.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NDQ5MDk4LnBuZw==/315x250%23c/4n1gsP.png",
         "bias": 0
       },
       {
@@ -264,24 +273,6 @@
         "bias": 0
       },
       {
-        "title": "Nugget Tag [Free]",
-        "link": "https://officialnuggettag.itch.io/nugget-tag",
-        "description": "",
-        "pubDate": "2025-12-08T05:03:20Z",
-        "source": "officialnuggettag.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NDQ4Mzc0LnBuZw==/315x250%23c/gn3HXj.png",
-        "bias": 0
-      },
-      {
-        "title": "Crypto Glider - Complete NFT Web3 Game Source Code [$29.99]",
-        "link": "https://stanislv23.itch.io/crypto-glider-complete-nft-web3-game-source-code",
-        "description": "",
-        "pubDate": "2025-12-08T04:49:24Z",
-        "source": "stanislv23.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NDQ4NDY3LmpwZw==/315x250%23c/akfZoE.jpg",
-        "bias": 0
-      },
-      {
         "title": "Libra [Free] [Visual Novel] [Windows] [macOS] [Linux]",
         "link": "https://themonstersinthedark.itch.io/libra",
         "description": "",
@@ -302,13 +293,31 @@
     ],
     "World": [
       {
-        "title": "Humza Yusaf says Israel deliberately destroyed Gaza’s education system",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/8/humza-yusaf-says-israel-deliberately-destroyed-gazas-education-system?traffic_source=rss",
-        "description": "Former Scottish First Minister Humza Yousaf said that Israel is carrying out what he calls a “scholasticide” in Gaza.",
-        "pubDate": "2025-12-08T07:09:06Z",
+        "title": "How many Syrians have returned home one year since the fall of al-Assad?",
+        "link": "https://www.aljazeera.com/news/2025/12/8/how-many-syrians-have-returned-home-one-year-since-the-fall-of-al-assad?traffic_source=rss",
+        "description": "One year after al-Assad’s fall, nearly 1.8 million displaced Syrians and 780,000 refugees have returned home.",
+        "pubDate": "2025-12-08T07:25:39Z",
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "UN faces ‘brutal choices’ as it launches 2026 aid appeal",
+        "link": "https://www.aljazeera.com/news/2025/12/8/overstretched-under-attack-un-cuts-2026-aid-appeal-despite-great-need?traffic_source=rss",
+        "description": "Aid cuts mean UN is asking for just half of anticipated need and is forced to prioritise only the most desperate.",
+        "pubDate": "2025-12-08T07:14:32Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Man found guilty of Australian beach murder after hiding in India for years",
+        "link": "https://www.bbc.com/news/articles/c4g9lg7jvq7o?at_medium=RSS&at_campaign=rss",
+        "description": "The half-buried body of 24-year-old Toyah Cordingley was discovered by her father in October 2018.",
+        "pubDate": "2025-12-08T07:08:13Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcba/live/aac5f6a0-d409-11f0-be97-4b9f7a1a7a49.jpg",
+        "bias": 0
       },
       {
         "title": "Japan protests after Chinese fighter jets lock radar on Japanese planes",
@@ -563,7 +572,17 @@
         "bias": 0
       }
     ],
-    "Politics": [],
+    "Politics": [
+      {
+        "title": "Minister admits sharp rise needed to hit 1.5m housing target",
+        "link": "https://www.bbc.com/news/articles/c05867zv6q8o?at_medium=RSS&at_campaign=rss",
+        "description": "Housing Secretary Steve Reed tells the BBC's Build Baby Build ministers are \"pulling every lever\" to increase building.",
+        "pubDate": "2025-12-08T06:00:04Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/958a/live/8752a530-c2cd-11f0-9d55-433111332088.jpg",
+        "bias": 0
+      }
+    ],
     "Tech": [
       {
         "title": "Trump says $72bn Netflix-Warner Bros deal 'could be a problem'",
