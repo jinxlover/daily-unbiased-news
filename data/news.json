@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-09T09:29:08.823112Z",
+  "lastUpdate": "2025-12-09T09:47:22.834935Z",
   "news": {
     "Gaming": [
       {
@@ -156,15 +156,6 @@
         "bias": 0
       },
       {
-        "title": "Core Escape [Free] [Platformer] [Windows]",
-        "link": "https://lucascob.itch.io/core-escape",
-        "description": "",
-        "pubDate": "2025-12-09T06:24:59Z",
-        "source": "lucascob.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NDY2NDM5LnBuZw==/315x250%23c/prm62d.png",
-        "bias": 0
-      },
-      {
         "title": "Skillset Architect [Free] [Simulation] [Windows]",
         "link": "https://reeeemo.itch.io/skillset-architect",
         "description": "Custom skillset creator",
@@ -203,13 +194,22 @@
     ],
     "World": [
       {
-        "title": "Fernandes, Manchester United crush Wolves, go sixth on ladder",
-        "link": "https://www.aljazeera.com/sports/2025/12/9/fernandes-manchester-united-crush-wolves-go-sixth-on-ladder?traffic_source=rss",
-        "description": "Manchester United are just a point away from a top-4 spot on the Premier League ladder after thrashing Wolverhampton.",
-        "pubDate": "2025-12-09T09:12:42Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
+        "title": "Ukraine prepares new peace plan as Zelensky rules out giving up land",
+        "link": "https://www.bbc.com/news/articles/cg7vdd115vjo?at_medium=RSS&at_campaign=rss",
+        "description": "Kyiv is seeking to resist a US push for a deal which would see territory handed over to Russia.",
+        "pubDate": "2025-12-09T09:39:56Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/611d/live/5daf0020-d4e3-11f0-9fb5-5f3a3703a365.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Ukrainians raise flag to show BBC the fight goes on in city claimed by Russia",
+        "link": "https://www.bbc.com/news/articles/cd6x3vv7y60o?at_medium=RSS&at_campaign=rss",
+        "description": "Ukraine barely has a hold on Pokrovsk, but its forces are keen to show they are still resisting Russia's advance.",
+        "pubDate": "2025-12-09T09:13:18Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b24/live/054f1630-d4df-11f0-a892-01d657345866.jpg",
+        "bias": 0
       },
       {
         "title": "UN environment report 'hijacked' by US and others over fossil fuels, top scientist says",
@@ -327,15 +327,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Ukraine prepares new peace plan as Zelensky rules out giving up land",
-        "link": "https://www.bbc.com/news/articles/cg7vdd115vjo?at_medium=RSS&at_campaign=rss",
-        "description": "Kyiv is seeking to resist a US push for a deal which would see territory handed over to Russia.",
-        "pubDate": "2025-12-09T06:38:57Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1544/live/b712fe50-d4c0-11f0-a892-01d657345866.jpg",
-        "bias": 0
       },
       {
         "title": "Honduras seeks arrest of ex-President Hernández after Trump pardon",
@@ -568,7 +559,7 @@
         "description": "Authorities have warned that a stronger tremor could occur in the coming days.",
         "pubDate": "2025-12-09T01:38:00Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc83/live/bec8ccb0-d49d-11f0-b551-c948c3e8b5a0.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2920/live/cffb7a20-d4e1-11f0-a892-01d657345866.jpg",
         "bias": 0
       },
       {
@@ -655,6 +646,42 @@
     ],
     "Politics": [
       {
+        "title": "Indiana lawmakers to vote on Trump-backed plan to redraw maps in favor of GOP",
+        "link": "https://www.npr.org/2025/12/09/nx-s1-5637482/indiana-lawmakers-to-vote-on-trump-backed-plan-to-redraw-maps-in-favor-of-gop",
+        "description": "Indiana Republicans are weighing a plan backed by President Trump to redraw its congressional map to add more GOP seats ahead of next year's midterm election.",
+        "pubDate": "2025-12-09T09:45:04Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Miami voters head to the polls as Democrats see chance to win mayoral race",
+        "link": "https://www.npr.org/2025/12/09/nx-s1-5637491/miami-voters-head-to-the-polls-as-democrats-see-chance-to-win-mayoral-race",
+        "description": "Miami is holding its mayoral elections Tuesday, and for the first time in more than two decades, Democrats think they have a chance to win after President Trump endorsed the Republican in the race.",
+        "pubDate": "2025-12-09T09:42:10Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Sen. Chris Van Hollen says Democrats need to 'fight back at every juncture'",
+        "link": "https://www.npr.org/2025/12/09/nx-s1-5629032/sen-chris-van-hollen-says-democrats-need-to-fight-back-at-every-juncture",
+        "description": "NPR's Leila Fadel asks Democratic Sen. Chris Van Hollen of Maryland about the future of his party.",
+        "pubDate": "2025-12-09T09:42:05Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "White House calls national security strategy Trump's version of the Monroe Doctrine",
+        "link": "https://www.npr.org/2025/12/09/nx-s1-5633261/white-house-calls-national-security-strategy-trumps-version-of-the-monroe-doctrine",
+        "description": "President Trump is pursuing aggressive policies throughout the Western Hemisphere. His administration is calling it the \"Trump Corollary\" to the Monroe Doctrine.",
+        "pubDate": "2025-12-09T09:41:02Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Branding and logo for Great British Railways unveiled",
         "link": "https://www.bbc.com/news/articles/c4g9kx0je10o?at_medium=RSS&at_campaign=rss",
         "description": "The new red, white and blue branding mirrors the colours of the Union Flag, and will start to appear from next year.",
@@ -719,7 +746,7 @@
         "description": "Shopper are increasingly using chatbots for their hard-to-buy-for family and friends, with implications for bargain hunters and businesses.",
         "pubDate": "2025-12-09T06:29:38Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed0f/live/cd18b5e0-cf99-11f0-abcb-0189553bc54a.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c7d/live/70dc5270-d4e2-11f0-ad0f-1bf8c30d15bc.jpg",
         "bias": 0
       },
       {
