@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-09T10:31:32.090478Z",
+  "lastUpdate": "2025-12-09T10:52:26.913530Z",
   "news": {
     "Gaming": [
       {
@@ -17,7 +17,7 @@
         "description": "",
         "pubDate": "2025-12-09T10:05:58Z",
         "source": "yougotkev.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NDY4NTA0LnBuZw==/315x250%23c/t8fitp.png",
+        "image": "https://img.itch.zone/aW1nLzI0NDY4NjI4LmdpZg==/315x250%23c/xt7jB3.gif",
         "bias": 0
       },
       {
@@ -81,6 +81,15 @@
         "pubDate": "2025-12-09T09:35:20Z",
         "source": "azakaela.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NDY3OTk2LmpwZw==/315x250%23c/Jlz3jz.jpg",
+        "bias": 0
+      },
+      {
+        "title": "BladeRunners [Free]",
+        "link": "https://fatedh.itch.io/bladerunners",
+        "description": "In Neo-Berlin, two girls streetrace the night away to forget their day lives.",
+        "pubDate": "2025-12-09T09:34:34Z",
+        "source": "fatedh.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NDY4MjkwLnBuZw==/315x250%23c/4%2FQf1a.png",
         "bias": 0
       },
       {
@@ -181,27 +190,27 @@
         "source": "hermanosbrothersgamedev.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NDY3MTk4LnBuZw==/315x250%23c/MZASZx.png",
         "bias": 0
-      },
-      {
-        "title": "Detective Jeremy: EdP 1 Linux [Free] [Linux]",
-        "link": "https://edytor-corporation.itch.io/edp1linux",
-        "description": "Edytor Pizzeria 1 Linux",
-        "pubDate": "2025-12-09T07:49:46Z",
-        "source": "edytor-corporation.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NDY3MDU2LnBuZw==/315x250%23c/nNU1i8.png",
-        "bias": 0
-      },
-      {
-        "title": "Miigwan: The Path Between Worlds [Free] [Adventure]",
-        "link": "https://supernovarabbit.itch.io/miigwan",
-        "description": "A quiet first-person journey of grief, ceremony, and healing in the forest.",
-        "pubDate": "2025-12-09T00:56:36Z",
-        "source": "supernovarabbit.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NDY3MTQ3LmpwZw==/315x250%23c/aZmsjN.jpg",
-        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Florida lists Muslim rights group CAIR a ‘terror organisation’",
+        "link": "https://www.aljazeera.com/news/2025/12/9/florida-lists-muslim-rights-group-cair-a-terror?traffic_source=rss",
+        "description": "The move follows a listing by Texas last month. The NGO calls the designation 'unconstitutional' and 'defamatory'.",
+        "pubDate": "2025-12-09T10:28:36Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Millions of people in post-Assad Syria are still displaced",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/9/millions-of-people-in-post-assad-syria-are-still-displaced?traffic_source=rss",
+        "description": "As refugees return to Syria, millions in the country remain displaced. Al Jazeera’s Osama Bin Javaid visited Atmeh Camp.",
+        "pubDate": "2025-12-09T10:28:24Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Why are Thailand and Cambodia fighting at the border?",
         "link": "https://www.bbc.com/news/articles/cdjxje2pje1o?at_medium=RSS&at_campaign=rss",
@@ -581,15 +590,6 @@
         "bias": 0
       },
       {
-        "title": "Trump clears way for sale of powerful Nvidia H200 chips to China",
-        "link": "https://www.aljazeera.com/economy/2025/12/9/trump-clears-way-for-sale-of-powerful-nvidia-h200-chips-to-china?traffic_source=rss",
-        "description": "Trump says chipmaker will be allowed to export to 'approved customers', in shift away from Washington's export controls.",
-        "pubDate": "2025-12-09T03:18:52Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "Trump unveils $12bn farm aid package to help farmers who faced 'unjustified trade actions'",
         "link": "https://www.bbc.com/news/articles/cjrj58qed2wo?at_medium=RSS&at_campaign=rss",
         "description": "The president also threatened to hit Mexico with an extra 5% tariff in a row over water supplies to US farmers.",
@@ -597,15 +597,6 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a5b/live/f3970ef0-d454-11f0-9aed-598bbb04d197.jpg",
         "bias": 0
-      },
-      {
-        "title": "Ukraine’s allies say efforts to end Russia’s war at ‘critical moment’",
-        "link": "https://www.aljazeera.com/news/2025/12/9/ukraines-allies-say-efforts-to-end-russias-war-at-critical-moment?traffic_source=rss",
-        "description": "Zelenskyy says European allies ready to share their response to Trump's peace plan with US on Tuesday.",
-        "pubDate": "2025-12-09T02:58:03Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       },
       {
         "title": "Federal judge throws out Trump order blocking development of wind energy - AP News",
@@ -765,17 +756,7 @@
         "bias": 0
       }
     ],
-    "Science": [
-      {
-        "title": "16,000 fossil footprints in central Bolivia reveal dinosaur behavior - AP News",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeUo5V0doVWNfUHJ0T2NmenZ6Rkp2MllMZnpUNzFSU1BlZ3NaZzB4ajlQMW1EU0toNHhiSl8xYUdEb0VLWllwX1RkanhYSGxrSC0xMkR2dURsYmRCakdLNTZhbkVOUE1fcmJiSXRraFBpejcyVFVHWGNtZUJsa295d01wTUN3cVM4dGQ1cTY3MGFsb1BJUGxVMFdGOVlsOW5ST1ozMmhsYW5EVFQ3N0tSNnM0T0Q4dFk0OEQwWHJ0V3FRZXNGVHdmMkowWmc?oc=5",
-        "description": "",
-        "pubDate": "2025-12-09T03:24:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      }
-    ],
+    "Science": [],
     "Business": [
       {
         "title": "Ben & Jerry's brand could be destroyed under Magnum, says co-founder",
