@@ -1,7 +1,34 @@
 {
-  "lastUpdate": "2025-12-09T06:33:47.539999Z",
+  "lastUpdate": "2025-12-09T06:58:30.511591Z",
   "news": {
     "Gaming": [
+      {
+        "title": "MISSÃO_POSSÍVEL [Free] [Windows] [macOS] [Linux]",
+        "link": "https://isacnohub.itch.io/misso-possvel",
+        "description": "",
+        "pubDate": "2025-12-09T06:51:46Z",
+        "source": "isacnohub.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NDY2NjU4LnBuZw==/315x250%23c/%2Fq7aXP.png",
+        "bias": 0
+      },
+      {
+        "title": "Xmas Rush [Free] [Action]",
+        "link": "https://gabriel-flores.itch.io/xmas-rush",
+        "description": "Help Santa recovering the gifts from the trolls.",
+        "pubDate": "2025-12-09T06:28:21Z",
+        "source": "gabriel-flores.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NDY2NDY0LnBuZw==/315x250%23c/GmH6Fv.png",
+        "bias": 0
+      },
+      {
+        "title": "Super Pinball Adventure [$1.99] [Action] [Windows]",
+        "link": "https://tombasche.itch.io/super-pinball-adventure",
+        "description": "A colorful casual pinball game for all ages and skill levels.",
+        "pubDate": "2025-12-09T06:27:21Z",
+        "source": "tombasche.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NDY2NDUyLmpwZw==/315x250%23c/%2BtxqRo.jpg",
+        "bias": 0
+      },
       {
         "title": "Hell's Freezing Over [Free] [Action]",
         "link": "https://ethanhammah.itch.io/hells-freezing-over",
@@ -147,30 +174,12 @@
         "bias": 0
       },
       {
-        "title": "Jan Ken Pon [Free]",
-        "link": "https://r4ds1.itch.io/jan-ken-pon",
-        "description": "",
-        "pubDate": "2025-12-09T04:37:57Z",
-        "source": "r4ds1.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NDY1NDk4LnBuZw==/315x250%23c/JAoMvV.png",
-        "bias": 0
-      },
-      {
         "title": "Aurora [Free] [Action] [Windows]",
         "link": "https://cyberartist2001.itch.io/aurora",
         "description": "Sci-fi First person shooter",
         "pubDate": "2025-12-09T04:31:39Z",
         "source": "cyberartist2001.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NDY1NzA0LnBuZw==/315x250%23c/T5%2BePT.png",
-        "bias": 0
-      },
-      {
-        "title": "Make A Splash (Jampus 2025) [Free] [Visual Novel]",
-        "link": "https://abyssalaquarist.itch.io/make-a-splash-jampus-2025",
-        "description": "A point-and-click adventure about Santa's elves in a post-apocalyptic, flooded Earth",
-        "pubDate": "2025-12-09T04:08:33Z",
-        "source": "abyssalaquarist.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NDY1NDE5LnBuZw==/315x250%23c/cfVeiR.png",
         "bias": 0
       },
       {
@@ -210,15 +219,6 @@
         "bias": 0
       },
       {
-        "title": "Missing Links [Free] [Interactive Fiction]",
-        "link": "https://zdesign.itch.io/reforged-links",
-        "description": "A reflection",
-        "pubDate": "2025-12-09T01:39:10Z",
-        "source": "zdesign.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NDY1NTAzLnBuZw==/315x250%23c/1wwEhS.png",
-        "bias": 0
-      },
-      {
         "title": "Trial of the Troubadour [Free] [Adventure]",
         "link": "https://cwcarr.itch.io/trial-of-the-troubadour",
         "description": "A Positively Playful Poetry Pilgrimage!",
@@ -229,6 +229,24 @@
       }
     ],
     "World": [
+      {
+        "title": "Ukraine prepares new peace plan as Zelensky rules out giving up land",
+        "link": "https://www.bbc.com/news/articles/cg7vdd115vjo?at_medium=RSS&at_campaign=rss",
+        "description": "Kyiv is seeking to resist a US push for a deal which would see territory handed over to Russia.",
+        "pubDate": "2025-12-09T06:38:57Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1544/live/b712fe50-d4c0-11f0-a892-01d657345866.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Honduras seeks arrest of ex-President Hernández after Trump pardon",
+        "link": "https://www.npr.org/2025/12/09/g-s1-101277/honduras-seeks-arrest-hernandez-trump-pardon",
+        "description": "Honduras' attorney general said Monday that he had ordered Honduran authorities and asked Interpol to execute a 2023 arrest order for Juan Orlando Hernández, pardoned by U.S. President Donald Trump.",
+        "pubDate": "2025-12-09T06:32:56Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Cuba sentences ex-economy minister to life in prison for espionage",
         "link": "https://www.aljazeera.com/news/2025/12/9/cuba-sentences-ex-economy-minister-to-life-in-prison-for-espionage?traffic_source=rss",
@@ -248,21 +266,21 @@
         "bias": -1
       },
       {
+        "title": "Trump’s ceasefire plan for the Israel-Hamas war faces pitfalls as it moves into a new phase - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS240TFpKTE9IUF84OUJZekpfOHNzWmdCZVdDTXRtSUpwTXA2MENqUDhTcmpBVDU0Z2FpY3hBRFFMUjFremkxWkRWYzhPdEpZeEQyTklURTF1QldGcG9RT2puZVY5NFM2TWlrTnp5ZmRmY2JLeU1rVUlwNzlmeWNCREVzVGE1Nnp0UFhuRTNERlBjczRvc2RsRHBXNXlkMUJ2cTB6NzFEWlQ?oc=5",
+        "description": "",
+        "pubDate": "2025-12-09T05:34:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Goa nightclub owners fled to Thailand hours after deadly fire, police say",
         "link": "https://www.bbc.com/news/articles/c23e7p40y04o?at_medium=RSS&at_campaign=rss",
         "description": "Indian authorities confirmed the two brothers boarded a flight to Phuket in Thailand shortly after the incident.",
         "pubDate": "2025-12-09T05:14:59Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5763/live/ba249f60-d4a5-11f0-9fb5-5f3a3703a365.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Ukraine prepares new peace plan as Zelensky rules out giving up land",
-        "link": "https://www.bbc.com/news/articles/cg7vdd115vjo?at_medium=RSS&at_campaign=rss",
-        "description": "Kyiv is seeking to resist a US push for a deal which would see territory handed over to Russia.",
-        "pubDate": "2025-12-09T05:05:31Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1544/live/b712fe50-d4c0-11f0-a892-01d657345866.jpg",
         "bias": 0
       },
       {
@@ -428,15 +446,6 @@
         "bias": -1
       },
       {
-        "title": "Florida governor declares Muslim civil rights group a terrorist organization - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQzVfZmVoOGFhN1ZqMTBpdGFtN1NnbWljdGVESGdKdmp2dC1tZnVvT3UtdUxoX1M2UzltaHp2RUZjQnd5UFZIT1lyYnlkblFSNEtOWXJkQmdOME5oTGNSa2ZsYU1CNTBSTk5faHhvUmlPTWxQVnpqMUlrRXpwdExzQUVId3hOYXVPdWpVUDFldGEwUk1UMTVjUTdTUC1iUm5rbGg4WVEyT0o?oc=5",
-        "description": "",
-        "pubDate": "2025-12-09T01:45:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Photos of golden retrievers gathered in Buenos Aires for a world record attempt - AP News",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcXFhUS1yeWZvOTFsNmJqRWxRWFBlX01PY2JUNWpjcVB4MDRjUW93aVd5TkQ1UFRsOE5STUlfZ0RlUXRCcDFJM1FhX0Z1SEx0eTZsRWVrNTVlZmUxSHJjaXhzazRKNm9ZdHJhMDMtMHZKY2J1UjJieVBNSU05T1gxUFd4Y2lLc3RjR1U4dVItQzUyX1p5RF90NHNnV3RKemYxNXVqRWZncXBocWs3Tk9UelNVYV9zdw?oc=5",
         "description": "",
@@ -563,7 +572,17 @@
         "bias": 0
       }
     ],
-    "Politics": [],
+    "Politics": [
+      {
+        "title": "Florida governor declares Muslim civil rights group a terrorist organization - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQzVfZmVoOGFhN1ZqMTBpdGFtN1NnbWljdGVESGdKdmp2dC1tZnVvT3UtdUxoX1M2UzltaHp2RUZjQnd5UFZIT1lyYnlkblFSNEtOWXJkQmdOME5oTGNSa2ZsYU1CNTBSTk5faHhvUmlPTWxQVnpqMUlrRXpwdExzQUVId3hOYXVPdWpVUDFldGEwUk1UMTVjUTdTUC1iUm5rbGg4WVEyT0o?oc=5",
+        "description": "",
+        "pubDate": "2025-12-09T01:45:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ],
     "Tech": [
       {
         "title": "Trump gives Nvidia green light to sell advanced AI chips to China",
