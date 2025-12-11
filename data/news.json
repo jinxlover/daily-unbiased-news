@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-12-11T06:36:11.807450Z",
+  "lastUpdate": "2025-12-11T06:59:52.821419Z",
   "news": {
     "Gaming": [
+      {
+        "title": "dodge_ball [Free] [Action] [Windows] [Linux]",
+        "link": "https://lunaticdancer.itch.io/dodge-ball",
+        "description": "Deal with your own mess",
+        "pubDate": "2025-12-11T06:36:45Z",
+        "source": "lunaticdancer.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NDk5NzEyLnBuZw==/315x250%23c/fEqgNZ.png",
+        "bias": 0
+      },
       {
         "title": "Precision Party V3 [Free]",
         "link": "https://russe111.itch.io/precision-party-v3",
@@ -18,6 +27,15 @@
         "pubDate": "2025-12-11T06:22:33Z",
         "source": "plungeroffical11.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NDk5NDQ4LnBuZw==/315x250%23c/J0IxDf.png",
+        "bias": 0
+      },
+      {
+        "title": "The Arcane Beacon [Free] [Platformer]",
+        "link": "https://wilburk44.itch.io/the-arcane-beacon",
+        "description": "a fast paced game where you have to make it to the end as fast as you can.",
+        "pubDate": "2025-12-11T06:17:23Z",
+        "source": "wilburk44.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NDk5MzA0LnBuZw==/315x250%23c/ni3r6H.png",
         "bias": 0
       },
       {
@@ -75,7 +93,7 @@
         "bias": 0
       },
       {
-        "title": "Otaku Defenders [Free] [Other] [Windows]",
+        "title": "Otaku Defenders [Free] [Other]",
         "link": "https://michaelking255.itch.io/otaku-defenders",
         "description": "",
         "pubDate": "2025-12-11T05:27:29Z",
@@ -192,15 +210,6 @@
         "bias": 0
       },
       {
-        "title": "Final: Milestone 4/4 Vertical Slice Galactic Scouts [Free] [Action]",
-        "link": "https://jabac0n.itch.io/final-milestone-44-vertical-slice-g",
-        "description": "Galactic Scouts is a classic fixed shoot 'em up with exciting power ups.",
-        "pubDate": "2025-12-11T04:22:27Z",
-        "source": "jabac0n.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NDk3OTIyLnBuZw==/315x250%23c/xF27O5.png",
-        "bias": 0
-      },
-      {
         "title": "Alchemy Lessons [Free] [Card Game]",
         "link": "https://yazarts11.itch.io/alchemy-lessons",
         "description": "2d memory card game",
@@ -216,15 +225,6 @@
         "pubDate": "2025-12-11T04:17:14Z",
         "source": "gotchagotchagames.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NDk4NTQ5LnBuZw==/315x250%23c/kL4vL2.png",
-        "bias": 0
-      },
-      {
-        "title": "depressed_sim [Free] [Simulation]",
-        "link": "https://zozobirb.itch.io/depressed-sim",
-        "description": "Short abstract representation with my personal experience with depression",
-        "pubDate": "2025-12-11T04:15:48Z",
-        "source": "zozobirb.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NDk3NzE4LnBuZw==/315x250%23c/%2BCGs3k.png",
         "bias": 0
       },
       {
@@ -565,6 +565,15 @@
     ],
     "Politics": [
       {
+        "title": "Trump wants to keep farmers happy with cash. They’re still worried about the future - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVlluVFc0eVlNVDB2RHZZTElTYU5FM3d0TFQ4QUZZWGEtSGw5aWR5NUxfUnZfdnpnYWV3aTk4UEk5eGJ0M1pDbVJ0WmkydjgtczhrMGZ0aW1xbFlVUGxudThhMldYMUo2UXhfX21uMUFDY0ZES3R1a1VMU2hFYTl0Yk85ZC1NSUNuT1FzUDJRdDEtdG9odzZZRG1faTY5djhEWmxtTXdaTXN3NmpZ?oc=5",
+        "description": "",
+        "pubDate": "2025-12-11T05:04:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Former Bolivian President Arce arrested in corruption investigation a month after leaving office - AP News",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUTJUQ200eExCejNDVFhsd3dGTHVNZTBJajlOUlF3WTZPU3Fkc0RsdXZXV0R0WnNNSkdobEFIZzI5Z05tYjA1alh0TDZLTy15MmMxSFZDXzdCTTVLc1Q3NmxxZmEzREtISDNyOVdfYzRUMlh0bUpaZVdmWGNobU9FQlRYRGs1Zm9JLUNWMlFlOEUxRWxzdnNwX09OMjlSZw?oc=5",
         "description": "",
@@ -607,21 +616,30 @@
     ],
     "Business": [
       {
-        "title": "Electricity price rises a concern, survey suggests",
-        "link": "https://www.bbc.com/news/articles/ckglzx55247o?at_medium=RSS&at_campaign=rss",
-        "description": "Guernsey Electricity says it plans to set out \"a clear pathway for tariff reform\".",
-        "pubDate": "2025-12-11T06:16:37Z",
+        "title": "Fed lowers interest rates but future cuts uncertain",
+        "link": "https://www.bbc.com/news/articles/cx257k3n2g1o?at_medium=RSS&at_campaign=rss",
+        "description": "The US central bank lowered interest rates for the third time this year, but the outlook for further cuts remains murky.",
+        "pubDate": "2025-12-11T06:58:01Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e5a/live/f9f7fdc0-d5c8-11f0-9f54-ebdcb745d089.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6df/live/3e6e7a10-d60a-11f0-a170-530c17232108.jpg",
         "bias": 0
       },
       {
         "title": "UK pharma boss says US is the best country to invest in",
         "link": "https://www.bbc.com/news/articles/cwywp3y35ryo?at_medium=RSS&at_campaign=rss",
         "description": "In an interview with the BBC, Dame Emma Walmsley says she will not \"shy away\" from GSK's US expansion.",
-        "pubDate": "2025-12-11T00:06:39Z",
+        "pubDate": "2025-12-11T06:41:37Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e824/live/7003a860-d624-11f0-9fb5-5f3a3703a365.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Electricity price rises a concern, survey suggests",
+        "link": "https://www.bbc.com/news/articles/ckglzx55247o?at_medium=RSS&at_campaign=rss",
+        "description": "Guernsey Electricity says it plans to set out \"a clear pathway for tariff reform\".",
+        "pubDate": "2025-12-11T06:16:37Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e5a/live/f9f7fdc0-d5c8-11f0-9f54-ebdcb745d089.jpg",
         "bias": 0
       },
       {
