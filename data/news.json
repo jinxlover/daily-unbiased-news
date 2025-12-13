@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-13T09:45:42.336712Z",
+  "lastUpdate": "2025-12-13T09:55:48.309345Z",
   "news": {
     "Gaming": [
       {
@@ -12,7 +12,16 @@
         "bias": 0
       },
       {
-        "title": "Stetro - LEGACY EDITION (Demo) [Free] [Rhythm]",
+        "title": "Brawlfire [Free] [Fighting]",
+        "link": "https://rulcha.itch.io/brawlfire",
+        "description": "A boss battle game",
+        "pubDate": "2025-12-13T09:23:31Z",
+        "source": "rulcha.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NTMyOTE1LnBuZw==/315x250%23c/7Sv%2FlV.png",
+        "bias": 0
+      },
+      {
+        "title": "Stetro - LEGACY EDITION (Demo Version) [Free] [Rhythm]",
         "link": "https://cyancube.itch.io/awesomestetrogame",
         "description": "Idk what to say here.",
         "pubDate": "2025-12-13T09:20:15Z",
@@ -36,6 +45,15 @@
         "pubDate": "2025-12-13T09:10:46Z",
         "source": "nazirovsgames.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NTMyODM5LnBuZw==/315x250%23c/pzJ1cL.png",
+        "bias": 0
+      },
+      {
+        "title": "Nurval [Free] [Platformer]",
+        "link": "https://lyzantine.itch.io/nurval",
+        "description": "An artsy little puzzle platformer",
+        "pubDate": "2025-12-13T09:05:39Z",
+        "source": "lyzantine.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NTMyNzkzLnBuZw==/315x250%23c/OYk1SS.png",
         "bias": 0
       },
       {
@@ -174,15 +192,6 @@
         "bias": 0
       },
       {
-        "title": "EvanGamelista [Free] [Educational]",
-        "link": "https://francis26.itch.io/evangamelista",
-        "description": "",
-        "pubDate": "2025-12-13T06:36:47Z",
-        "source": "francis26.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NTMxNzQ1LnBuZw==/315x250%23c/%2FYoP9S.png",
-        "bias": 0
-      },
-      {
         "title": "It's Always Sunny dating simulator [Free]",
         "link": "https://jmaret1.itch.io/itsalwayssunnydatingsimulator",
         "description": "Have you always wanted to date a member of the sunny gang? Now you can!",
@@ -207,15 +216,6 @@
         "pubDate": "2025-12-13T06:06:30Z",
         "source": "proguild.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NTMyMDczLnBuZw==/315x250%23c/V2YqiL.png",
-        "bias": 0
-      },
-      {
-        "title": "Okey! Rhythm Typing Test Game [Free]",
-        "link": "https://mioolm.itch.io/okey-rhythm-based-typing-game",
-        "description": "",
-        "pubDate": "2025-12-13T05:50:55Z",
-        "source": "mioolm.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NTMyMTgzLnBuZw==/315x250%23c/qU6fug.png",
         "bias": 0
       },
       {
@@ -257,13 +257,40 @@
     ],
     "World": [
       {
+        "title": "Trump’s handling of the economy is at its lowest point in AP-NORC polling - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNjJXaVpweEhfdzZXWDN5d0FiYlA2emFmNzBsZHN1c1o0dlZiUzBRUWEtemNuTURfVXN5WXdiUzd2T0dOMU9JaXU3bG1BS0dOMGdXcmhTYVVjVzlPX1dYd093bjluOG5ZUExVRkVmcFZRdEhYQTU5MkdRSTctdUprb1BkTjhqWVRGR0NpQ2dKZ2pDRV83d1duelZ2VU5PS01veWhtaHhWbGFwWmdVaENCdmZuSm9iUQ?oc=5",
+        "description": "",
+        "pubDate": "2025-12-13T09:53:09Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Witkoff to meet Zelensky for latest Ukraine war talks",
         "link": "https://www.bbc.com/news/articles/c0l9954yr9ko?at_medium=RSS&at_campaign=rss",
         "description": "Donald Trump's envoy will meet the Ukrainian president and European leaders in Berlin to discuss the latest peace plan.",
-        "pubDate": "2025-12-13T08:42:19Z",
+        "pubDate": "2025-12-13T09:52:04Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc88/live/1738fb80-d7dd-11f0-a7d3-d3e62a2a1617.jpg",
         "bias": 0
+      },
+      {
+        "title": "Virtual reality offers escape to Gaza children wounded in Israel’s war",
+        "link": "https://www.aljazeera.com/news/2025/12/13/virtual-reality-offers-escape-to-gaza-children-wounded-in-israels-war?traffic_source=rss",
+        "description": "VR headsets are offering injured, traumatised Palestinian children respite from hardships in war-torn Gaza.",
+        "pubDate": "2025-12-13T09:43:56Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Libya reopens National Museum in Tripoli after years of closure",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/13/libya-reopens-national-museum-in-tripoli-after-years-of-closure?traffic_source=rss",
+        "description": "Libya’s National Museum in Tripoli has reopened for the first time in more than a decade.",
+        "pubDate": "2025-12-13T09:32:26Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Colombia’s ELN rebels prepare for battle amid Trump ‘intervention’ threat",
@@ -579,6 +606,15 @@
       }
     ],
     "Culture": [
+      {
+        "title": "Middle East News | Latest News From The Middle East Today - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05b1dqSlZ2X2tIcTFyZ0NfdEQzaGpTQzBhWUV5Rk5tZkowNU95RWd5ZkJqQWRINDFkSGhCM19BazF6VndzclpBNHhB?oc=5",
+        "description": "",
+        "pubDate": "2025-12-13T09:48:22Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Avatar composer reveals secrets behind the soundtrack",
         "link": "https://www.bbc.com/news/articles/czxpkz7l85vo?at_medium=RSS&at_campaign=rss",
