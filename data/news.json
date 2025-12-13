@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-12-13T22:42:02.052761Z",
+  "lastUpdate": "2025-12-13T22:55:44.499427Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Dan.OS 2 [Free] [Simulation]",
+        "link": "https://danoposo.itch.io/danos-2",
+        "description": "",
+        "pubDate": "2025-12-13T22:49:16Z",
+        "source": "danoposo.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NTQxODM4LnBuZw==/315x250%23c/mnDAvY.png",
+        "bias": 0
+      },
       {
         "title": "The U of A Canvas Experience [Free]",
         "link": "https://tribalkaos.itch.io/the-u-of-a-canvas-experience",
@@ -75,6 +84,15 @@
         "bias": 0
       },
       {
+        "title": "Beat Dasher [Free] [Rhythm] [Windows] [Linux]",
+        "link": "https://elgatopanzon.itch.io/beat-dasher",
+        "description": "Collect all the notes in time to the music",
+        "pubDate": "2025-12-13T21:48:31Z",
+        "source": "elgatopanzon.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NTQxNDYyLnBuZw==/315x250%23c/1CWSvO.png",
+        "bias": 0
+      },
+      {
         "title": "Armor of Flesh and the.. [Free]",
         "link": "https://jiblee.itch.io/armor-of-flesh-and-the",
         "description": "Exquisite Corpse-inspired game made with Spreadsheets",
@@ -138,15 +156,6 @@
         "bias": 0
       },
       {
-        "title": "Phi and Flipo (Prototype) [Free]",
-        "link": "https://operatortypen2.itch.io/phi-and-flipo-prototype",
-        "description": "Unreleased Amiga game",
-        "pubDate": "2025-12-13T21:15:04Z",
-        "source": "operatortypen2.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NTQwNjEyLmpwZw==/315x250%23c/uzN2dc.jpg",
-        "bias": 0
-      },
-      {
         "title": "Santa's Bag 2 [Free] [Action] [Windows]",
         "link": "https://ajumpyguy.itch.io/santas-bag-2",
         "description": "Do what he says or else...",
@@ -171,15 +180,6 @@
         "pubDate": "2025-12-13T20:56:34Z",
         "source": "samuelcgames.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NTQwMjkyLnBuZw==/315x250%23c/OmVcQM.png",
-        "bias": 0
-      },
-      {
-        "title": "Scary Capuchin [Free] [Action] [Linux] [Android]",
-        "link": "https://hyperzeon.itch.io/scary-capuchin",
-        "description": "A gorilla tag fangame based off of og fun monke horror and big scary",
-        "pubDate": "2025-12-13T20:37:06Z",
-        "source": "hyperzeon.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NTQwMDI5LnBuZw==/315x250%23c/taXk06.png",
         "bias": 0
       },
       {
@@ -210,21 +210,12 @@
         "bias": 0
       },
       {
-        "title": "SPREE [Free] [Racing] [Windows]",
-        "link": "https://gameheads.itch.io/spree",
-        "description": "The alt-control co-op racing game you SPREE through HoodMart, bruh! (Shopping Cart Not Included)",
-        "pubDate": "2025-12-13T19:11:37Z",
+        "title": "Go Go V1D10! [Free] [Platformer] [Windows] [macOS] [Linux]",
+        "link": "https://gameheads.itch.io/go-go-vidio",
+        "description": "Can you save yourself from being taken offline?",
+        "pubDate": "2025-12-13T19:12:09Z",
         "source": "gameheads.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NTM5MjM3LnBuZw==/315x250%23c/qEJVhw.png",
-        "bias": 0
-      },
-      {
-        "title": "Makahiki [Free] [Action] [Windows] [macOS]",
-        "link": "https://gameheads.itch.io/makahiki",
-        "description": "Explore the Makahiki game ʻOʻo ʻIhe (spear throwing)",
-        "pubDate": "2025-12-13T19:04:36Z",
-        "source": "gameheads.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NTQwMTM3LnBuZw==/315x250%23c/vPd5cT.png",
+        "image": "https://img.itch.zone/aW1nLzI0NTM5Nzk3LnBuZw==/315x250%23c/KkDSu9.png",
         "bias": 0
       },
       {
@@ -256,6 +247,15 @@
       }
     ],
     "World": [
+      {
+        "title": "Riding the train in Rio that tells the story of samba",
+        "link": "https://www.npr.org/2025/12/13/nx-s1-5642592/riding-the-train-in-rio-that-tells-the-story-of-samba",
+        "description": "Step aboard the Samba Train, where music, history, and resistance roll together through the streets of Rio.",
+        "pubDate": "2025-12-13T22:39:24Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Maria Corina Machado's daughter reflects on her mother's future",
         "link": "https://www.npr.org/2025/12/13/nx-s1-5643549/maria-corina-machados-daughter-reflects-on-her-mothers-future",
@@ -500,7 +500,7 @@
         "bias": -1
       },
       {
-        "title": "ISIL kills two US soldiers, interpreter in Syria’s Palmyra, Pentagon says",
+        "title": "Trump vows retaliation after ISIL attack in Syria kills three US citizens",
         "link": "https://www.aljazeera.com/news/2025/12/13/joint-syrian-us-patrol-comes-under-attack-near-palmyra-state-media?traffic_source=rss",
         "description": "US Central Command says lone gunman was 'engaged and killed' after launching attack in central Syria.",
         "pubDate": "2025-12-13T13:56:44Z",
@@ -696,15 +696,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Iran raises gasoline prices for the first time since deadly 2019 protests - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV0dtLXBEZnExSm9meTFvSFF5azdPU0JDb1NoOUlLMWNGN1o2YThsZ25LR2VLQ0d3REFYZGFRbVc3eGYtTkprNFYybFpYdFNfODh5M1FXckdQSDdBZmV3TDZMMVlqQ2FXSkFYTXhYTUhhVE1XRDlGUUlvTzZhSkg5ZjY5c0NnQmhkSnRXdlFJUmpJcE5QN2V0THhqM01CZ2dr?oc=5",
-        "description": "",
-        "pubDate": "2025-12-13T10:11:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
