@@ -1,9 +1,18 @@
 {
-  "lastUpdate": "2025-12-14T23:25:36.237094Z",
+  "lastUpdate": "2025-12-14T23:39:24.897526Z",
   "news": {
     "Gaming": [
       {
-        "title": "Jelly Jumpers [Free]",
+        "title": "4x4cube solving [Free] [Puzzle]",
+        "link": "https://warkel.itch.io/4x4cube",
+        "description": "4x4 cube solving",
+        "pubDate": "2025-12-14T23:27:53Z",
+        "source": "warkel.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NTU3NzY1LmpwZWc=/315x250%23c/ZfIZzH.jpeg",
+        "bias": 0
+      },
+      {
+        "title": "Jelly Jumpers [Free] [Windows]",
         "link": "https://f7-interactive.itch.io/jelly-jumpers-demo",
         "description": "",
         "pubDate": "2025-12-14T23:13:56Z",
@@ -147,21 +156,21 @@
         "bias": 0
       },
       {
-        "title": "Alto Geração [Free] [Windows]",
-        "link": "https://tarcksgames.itch.io/alto-geracao",
-        "description": "#csjam11 caso áudio dê problema, é só ir nas configurações do jogo na parte de game play.",
-        "pubDate": "2025-12-14T22:05:10Z",
-        "source": "tarcksgames.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NTU2Nzg2LnBuZw==/315x250%23c/bpY%2B0q.png",
-        "bias": 0
-      },
-      {
         "title": "L'assult Testing [Free] [Platformer] [Windows]",
         "link": "https://outrunfungus43.itch.io/lassult",
         "description": "L'assassin spinoff based on neon white, this is just for people to try builds out",
         "pubDate": "2025-12-14T22:03:27Z",
         "source": "outrunfungus43.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NTU2ODk3LnBuZw==/315x250%23c/Sz3tXq.png",
+        "bias": 0
+      },
+      {
+        "title": "Space Rogue [Free] [Shooter]",
+        "link": "https://amazingdream.itch.io/space-rogue",
+        "description": "Survive the swarm in this vertical rogue-lite shooter with card-based upgrades.",
+        "pubDate": "2025-12-14T21:48:44Z",
+        "source": "amazingdream.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NTU3MzAyLnBuZw==/315x250%23c/boVC%2Bu.png",
         "bias": 0
       },
       {
@@ -198,15 +207,6 @@
         "pubDate": "2025-12-14T18:28:38Z",
         "source": "purkat.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NTU3NDk0LnBuZw==/315x250%23c/c2LgFz.png",
-        "bias": 0
-      },
-      {
-        "title": "Banana Bonanza [Free] [Other] [Windows]",
-        "link": "https://static-eulogy-studios.itch.io/banana-bonanza",
-        "description": "Play as a monkey earning money",
-        "pubDate": "2025-12-14T17:30:34Z",
-        "source": "static-eulogy-studios.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NTUyNzI2LmpwZw==/315x250%23c/OjNf4v.jpg",
         "bias": 0
       },
       {
@@ -248,7 +248,7 @@
       {
         "title": "Final:Who is Inside?(NO FULLSCREEN PLZ [Free]",
         "link": "https://krsxkrs.itch.io/finalwho-is-inside",
-        "description": "NO FULLSCREEN PLZ I DONT HAVE TIME TO FIX IT",
+        "description": "",
         "pubDate": "2025-12-14T01:46:37Z",
         "source": "krsxkrs.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NTQzNTQ4LnBuZw==/315x250%23c/qlWTVc.png",
@@ -680,15 +680,6 @@
         "bias": -1
       },
       {
-        "title": "Dramatic video shows panic as gunshots heard in deadly Bondi Beach attack during Jewish event - AP News",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRHNvclF5SHpldVBORXZGMUd4U0RleVNXbGhFckhKMnNjYUU5ang2UjFvN0NfdU10aUFWWnFNRjlXTWNYRWdHbTRiZTFQYnBoSG84ZlpuX1JaY3JTT29oOGlEaG1JUGhhWmVBeGo4ZjhEdGN4aU85aG9WVHNxU0ZmR1BnSENSbkVSY2ZsY3dvNE4tYjF2alNhN2d2ZlRrM2VfaWFrM0VoV1RHYUtGcXp4c2NGaV9DbFhYTkdKMWZNV1ZfM1NmU0ZEeHM0VVVnRGxaSUhGN0VzVVlMMkpJNGlkUm1fMGJyQQ?oc=5",
-        "description": "",
-        "pubDate": "2025-12-14T13:06:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Hong Kong's biggest pro-democracy party votes to disband after more than 30 years of activism - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYU9KOS1NX1lJa243Y3NmVVZxc0l4aW9IVHhLUm9jODZmdzRVWm5RaG9ySlFKTUViTld6X3BDMmlVYnhqS0xuQzBBNHlTVlBrSzR3UkxFZWVqY3NlY1VyOTdjbUhKQWNiLV9xeEV1TVk2aEFjTEJ3Z2RBd3E2ckVpX3g3encza29WM0J6QXNKeDZTczlSX0xMc2N1LTBQS213QmNXOEl3anQ?oc=5",
         "description": "",
@@ -705,6 +696,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Another blue wave? Meet the Democrat trying to make it happen and the Republican trying to stop her - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd2J6V1d6b1duWmc4Z3NJbXVFaTJXNG1rYkloUE5leFRHb21PX3ItQ3hpQVY4eW9BZFViMkF0WWJKelhTRDc1ZjFhellvdUk4ZWxFVjllZkY2RWY4cE0za29sV3ZQZ3pkT09pdmtHcDl3X19CSlZxVUdXVzVXT3lCeUxWOXNxMV91NVd5VTBXMjBGX2pCVlZDM1BrbXU0WkFvdVE?oc=5",
+        "description": "",
+        "pubDate": "2025-12-14T12:33:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Politics": [
