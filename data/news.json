@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-12-15T20:46:26.531584Z",
+  "lastUpdate": "2025-12-15T20:57:38.990920Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Salvebird [Free] [Educational]",
+        "link": "https://kleisonleopoldinocn.itch.io/salvebird",
+        "description": "",
+        "pubDate": "2025-12-15T20:46:11Z",
+        "source": "kleisonleopoldinocn.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NTcxNTk2LnBuZw==/315x250%23c/2ejWvY.png",
+        "bias": 0
+      },
       {
         "title": "Stillwater Swamp [Free] [Survival] [Windows]",
         "link": "https://adjective-potato.itch.io/stillwater-swamp",
@@ -90,15 +99,6 @@
         "pubDate": "2025-12-15T19:49:22Z",
         "source": "yupdionne.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NTcxMjUwLnBuZw==/315x250%23c/Z5shgk.png",
-        "bias": 0
-      },
-      {
-        "title": "Crease vs The Reign of Tearer [Free] [Action]",
-        "link": "https://ojandcereal.itch.io/crease-vs-the-reign-of-tearer",
-        "description": "Break the fold with this 3D action-platformer!",
-        "pubDate": "2025-12-15T19:48:29Z",
-        "source": "ojandcereal.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NTcwNzY1LnBuZw==/315x250%23c/wCOCC0.png",
         "bias": 0
       },
       {
@@ -192,6 +192,15 @@
         "bias": 0
       },
       {
+        "title": "Earth: Italy [Free] [Other] [Windows]",
+        "link": "https://kevindu.itch.io/italy",
+        "description": "The 2nd game in Earth: a Game, a Country",
+        "pubDate": "2025-12-15T17:34:27Z",
+        "source": "kevindu.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NTY5MjQ3LmpwZw==/315x250%23c/4MKVsM.jpg",
+        "bias": 0
+      },
+      {
         "title": "Multi Gu [Free]",
         "link": "https://devplanet.itch.io/multigu",
         "description": "3D shooter on a small island",
@@ -226,23 +235,68 @@
         "source": "proyd.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NTcwOTk3LnBuZw==/315x250%23c/nxA9P0.png",
         "bias": 0
+      },
+      {
+        "title": "Temple of Endymion [Free] [Platformer] [Windows]",
+        "link": "https://winterbraid.itch.io/temple-of-endymion",
+        "description": "An adventure in a strange dungeon",
+        "pubDate": "2025-12-15T03:45:09Z",
+        "source": "winterbraid.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NTcxNTU2LnBuZw==/315x250%23c/Fafey%2B.png",
+        "bias": 0
       }
     ],
     "World": [
       {
-        "title": "Rob Reiner’s son Nick arrested after the director and his wife were found dead at their home - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOekNzQ09GbmhlTmcyM0RKOVg0ZGJOVjl6eExBaDV0RTJ5dVR0cmU2SDFRUGF2c3ZlQUs4OUZDRUoxZjFhSUxXUDlfVHpuOEp3YURURm1IWHA0bkVHeVJ5akN4SS1jcFkzVnh5TFBDeEFaUW12WEU0VkxiRS1VMk5SbUpVdS11b0pRVDJLNWl3S0t6OTQ?oc=5",
+        "title": "Live updates: Former Trump aides appear in Wisconsin over 2020 election fraud charges - AP News",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mV0hQQlRIaUhWSXlmUGh3eEtkeF9CMXhEVnA3WG93azZXcWpMS2xqOWluM0hzekRYcGktZEhQWjdndzMxQ3dIY0tCUC1mclEzQTlVcjl6QXpXVFlVcm5DS3R2OE0zbHAtdGlHWQ?oc=5",
         "description": "",
-        "pubDate": "2025-12-15T20:13:00Z",
+        "pubDate": "2025-12-15T20:54:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
+        "title": "Judge in Wisconsin, US faces trial over claims of aiding ICE evasion",
+        "link": "https://www.aljazeera.com/news/2025/12/15/judge-in-wisconsin-us-faces-trial-over-claims-of-aiding-ice-evasion?traffic_source=rss",
+        "description": "Judge Hannah Dugan faces six years in prison if convicted for aiding defence against US federal immigration enforcement.",
+        "pubDate": "2025-12-15T20:46:53Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Rob Reiner’s son Nick arrested after the director and his wife were found dead at their home - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOekNzQ09GbmhlTmcyM0RKOVg0ZGJOVjl6eExBaDV0RTJ5dVR0cmU2SDFRUGF2c3ZlQUs4OUZDRUoxZjFhSUxXUDlfVHpuOEp3YURURm1IWHA0bkVHeVJ5akN4SS1jcFkzVnh5TFBDeEFaUW12WEU0VkxiRS1VMk5SbUpVdS11b0pRVDJLNWl3S0t6OTQ?oc=5",
+        "description": "",
+        "pubDate": "2025-12-15T20:41:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Australia faces gun control reckoning after Bondi Beach attack",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/15/australia-faces-gun-control-reckoning-after-bondi-beach-attack?traffic_source=rss",
+        "description": "Australia’s past gun reform efforts were applauded as a gold standard, until the Bondi Beach attack.",
+        "pubDate": "2025-12-15T20:37:34Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Korea Zinc plans $7.4bn US minerals refinery with Washington’s backing",
+        "link": "https://www.aljazeera.com/economy/2025/12/15/korea-zinc-plans-7-4bn-us-minerals-refinery-with-washingtons-backing?traffic_source=rss",
+        "description": "Korea Zinc will start by acquiring two mining complexes and the only US zinc smelter, which is in Tennessee.",
+        "pubDate": "2025-12-15T20:34:31Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Live updates: Rob Reiner's son Nick 'booked for murder' in stabbings of director-actor and wife - AP News",
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBua0FRa1hING5wNHJmNnI1eUp6b3ZFYzZJM2t3VWZkMVlxdExtcGU0UngxMHZZYW5DZkpuX3pYenhQcS1aMlpjbmlla05PcW1RQkFlWDFTUk1oYm82eFZKRTVwM05ZZw?oc=5",
         "description": "",
-        "pubDate": "2025-12-15T19:56:28Z",
+        "pubDate": "2025-12-15T20:10:50Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -279,15 +333,6 @@
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX05OekRISVpwbm9rNlg0MTB3YmtaZkJIZXR4eXVYY0JMdXI3V2xfekJzOVh2TVFYWWJJYzRpMHpSSnRBZTEzenM3aG1oQjBhd0RsN2czTDNKaXRNczU0MUI1OFBnV19iTXozVUlPTy1YUWtXeXhTSEpVR2U1dWlFNVdqMmI0NXZrbTNXWTFzY0hyUl9Zc19NeGFtVHROcVdnZFpTX01hQzFUY2h4RlBadGtn?oc=5",
         "description": "",
         "pubDate": "2025-12-15T19:47:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Russian sliders return to World Cup luge training in Lake Placid amid controversy - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZFpKTEpJbFVDWkVOYm44WFROVVhsQW91VkdMQzFjMG9LeEVmNkRqVVFQNXNhMFQ2ZjVlRm5Qb05uc016X0ItU0I5VHlNZGdrT2FTTktXWVNxazZrdEtWNDR2TWJMS25WeXRIQXh1MmtPUGNqN0hGakVXQWt3OGZhMVNuQWdpYnc1d1RPVW9YbVItS00?oc=5",
-        "description": "",
-        "pubDate": "2025-12-15T19:44:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -363,6 +408,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "What to know about the search for the Brown University shooting suspect - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ0d5MVJSRDh1N1MzbnNRMDZJRkhZd3FjWjRiVjdFX3owbWs2RlRJSG5pb2I5UmQ3bjE2X0x6VTY4alFCVW9ta2lkZFhJUUlFQVpGN1JGV0tnWkd1eE1pZm5aSHpjQ1Y4eGc5SXVZelZGeDJzVjFMbzNaTjVlYTlXT0ZYelFYZ1EyMmRQTlhVTUNtZVRG?oc=5",
+        "description": "",
+        "pubDate": "2025-12-15T18:39:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Arizona, Michigan stay 1-2 in AP Top 25 men's poll; No. 15 Nebraska hits highest mark since 1991 - AP News",
@@ -642,42 +696,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Pope denounces ‘antisemitic violence’ of Sydney attack as he thanks Christmas donors - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNFdXTHJ0X21VUkI4UTFKa3RJS0lvWnNhV0hsQWtSTThlQkR0LWRDZ1IzRmhQaHpvSFRpUld1bWxjbDdXcDZHWWYxbmhyTThfb0NSZWFmUXZnUm1oSFpjcWxUNHREUS0xLWdJbGltanpRU1AxX2s4NmlfVVA3YVRuWnFzTG9EUDdJeGFIbDhzVXVBSlI3dkxmSXpzOVhkcVlGaUtBWC04RUJ1Zw?oc=5",
-        "description": "",
-        "pubDate": "2025-12-15T14:57:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Ukraine drops NATO bid: Will Kyiv get security guarantees from the West?",
-        "link": "https://www.aljazeera.com/news/2025/12/15/ukraine-drops-nato-bid-will-kyiv-get-security-guarantees-from-the-west?traffic_source=rss",
-        "description": "President Zelenskyy's comments mark a major shift for Ukraine, which has fought hard to join NATO in recent years.",
-        "pubDate": "2025-12-15T14:52:42Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Who stopped the Bondi attack?",
-        "link": "https://www.aljazeera.com/video/compare-contrast/2025/12/15/who-stopped-the-bondi-attack?traffic_source=rss",
-        "description": "We compare and contrast Netanyahu calling the Bondi shooter’s disarmer Jewish vs. his cousin saying he’s Syrian Muslim.",
-        "pubDate": "2025-12-15T14:46:29Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "‘Increasingly likely potential’ of Palestine Action hunger strikers dying",
-        "link": "https://www.aljazeera.com/news/2025/12/15/increasingly-likely-potential-of-palestine-action-hunger-strikers-dying?traffic_source=rss",
-        "description": "Lawyers and relatives of the remand prisoners refusing food fear for their lives as they seek meeting with top minister.",
-        "pubDate": "2025-12-15T14:31:25Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
@@ -688,15 +706,6 @@
         "pubDate": "2025-12-15T20:37:51Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a361/live/ad6bcbc0-d9bb-11f0-b67b-690eb873de1b.jpg",
-        "bias": 0
-      },
-      {
-        "title": "New York City is getting its first 3 Las Vegas-style casinos - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd1padlFQMVVxOHdaRy1sYnZiTF9fSk04SHR0X0xBSUY5YmotekVQWHJQd1lCbS12SDFyZVpXSWdUcGRxVWw1VFd6M3dtY00wTTNNU2RUU3B2MFBsTDMzbGR3OVItZ3dUUkpyUHVNNEozWHdKeG1vUVJqWFJhYmFYSTZBMjdqNFF0YWpIZWlTdjk0VVlVYU4yNFIxaTdid1E?oc=5",
-        "description": "",
-        "pubDate": "2025-12-15T20:15:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
