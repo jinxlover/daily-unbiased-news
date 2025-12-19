@@ -1,162 +1,26 @@
 {
-  "lastUpdate": "2025-12-19T10:28:21.433127Z",
+  "lastUpdate": "2025-12-19T10:49:06.037964Z",
   "news": {
-    "Gaming": [
-      {
-        "title": "Benno's animal siege [Free] [Strategy]",
-        "link": "https://alexandros06.itch.io/bennos-animal-siege",
-        "description": "School project",
-        "pubDate": "2025-12-19T10:06:29Z",
-        "source": "alexandros06.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NjI0OTQ1LnBuZw==/315x250%23c/%2FYytkt.png",
-        "bias": 0
-      },
-      {
-        "title": "The Lonesome Door [Free]",
-        "link": "https://kin-kurosaki.itch.io/the-lonesome-door",
-        "description": "I see you",
-        "pubDate": "2025-12-19T10:01:41Z",
-        "source": "kin-kurosaki.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NjI0ODk3LnBuZw==/315x250%23c/GbcL5J.png",
-        "bias": 0
-      },
-      {
-        "title": "There is no number 6 [Free]",
-        "link": "https://jpr290706.itch.io/there-is-no-number-6",
-        "description": "",
-        "pubDate": "2025-12-19T09:51:44Z",
-        "source": "jpr290706.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NjI0ODg1LnBuZw==/315x250%23c/u%2F4wLS.png",
-        "bias": 0
-      },
-      {
-        "title": "Game 2D [Free] [Windows]",
-        "link": "https://shadow-garde.itch.io/game-2d",
-        "description": "",
-        "pubDate": "2025-12-19T09:44:10Z",
-        "source": "shadow-garde.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NjI0NzE4LnBuZw==/315x250%23c/cm1y3i.png",
-        "bias": 0
-      },
-      {
-        "title": "相濡以沫 A Bond in Drought [Free] [Visual Novel] [Windows] [macOS] [Android]",
-        "link": "https://almondlion.itch.io/a-bond-in-drought",
-        "description": "",
-        "pubDate": "2025-12-19T09:42:32Z",
-        "source": "almondlion.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NjI0OTI2LnBuZw==/315x250%23c/jgmiLk.png",
-        "bias": 0
-      },
-      {
-        "title": "Entangle [Free] [Puzzle] [Windows]",
-        "link": "https://raxreen.itch.io/entangle",
-        "description": "Portal tarzı, birinci şahıs (FPS) bir bulmaca oyunudur.",
-        "pubDate": "2025-12-19T09:41:04Z",
-        "source": "raxreen.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NjI0NzE3LnBuZw==/315x250%23c/D8N1b%2B.png",
-        "bias": 0
-      },
-      {
-        "title": "Letal Xmas [Free] [Shooter] [Windows]",
-        "link": "https://6ism.itch.io/letal-xmas",
-        "description": "EVAD JAM CHRISMAS 2025",
-        "pubDate": "2025-12-19T09:21:53Z",
-        "source": "6ism.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NjI0NTAwLnBuZw==/315x250%23c/XWKwG8.png",
-        "bias": 0
-      },
-      {
-        "title": "9 to 5 poops [Free] [Puzzle]",
-        "link": "https://briefer666.itch.io/9-to-5-poops",
-        "description": "this game is sh*t!!!",
-        "pubDate": "2025-12-19T09:08:31Z",
-        "source": "briefer666.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NjI0NDY4LnBuZw==/315x250%23c/WPMLlo.png",
-        "bias": 0
-      },
-      {
-        "title": "Maze Adventure [Free] [Puzzle] [Windows] [macOS] [Linux]",
-        "link": "https://juanancid.itch.io/maze-adventure",
-        "description": "A small, finite maze game.",
-        "pubDate": "2025-12-19T09:07:31Z",
-        "source": "juanancid.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NjI0MzQ1LmpwZw==/315x250%23c/0MQoVu.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Station Hephaestus [Free] [Puzzle] [Windows]",
-        "link": "https://morita2232.itch.io/station-h",
-        "description": "Follow or go against them",
-        "pubDate": "2025-12-19T09:00:22Z",
-        "source": "morita2232.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NjI0MjcxLnBuZw==/315x250%23c/HTaz6J.png",
-        "bias": 0
-      },
-      {
-        "title": "Dino Panic [Free] [Other]",
-        "link": "https://julien-savoye-heaj.itch.io/dino-panic",
-        "description": "Online cooperative horror game, 4 players, controllers. (Academic Sprint Workshop Multi)",
-        "pubDate": "2025-12-19T08:56:29Z",
-        "source": "julien-savoye-heaj.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NjI0Mjg5LnBuZw==/315x250%23c/NcOxOX.png",
-        "bias": 0
-      },
-      {
-        "title": "Bullet For Gold [Free] [Action]",
-        "link": "https://maewoo.itch.io/bullet-for-gold",
-        "description": "Collect The Golds to Win!",
-        "pubDate": "2025-12-19T08:50:13Z",
-        "source": "maewoo.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NjI0MjI3LnBuZw==/315x250%23c/M7ntrv.png",
-        "bias": 0
-      },
-      {
-        "title": "Two Engines And A Key [Free] [Puzzle] [Windows]",
-        "link": "https://mewingbiscuit42.itch.io/two-engines-and-a-key",
-        "description": "Two Engines And A Key is a 2d puzzle filled with dangerous traps and difficult puzzles.",
-        "pubDate": "2025-12-19T08:44:32Z",
-        "source": "mewingbiscuit42.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NjI0MDc0LnBuZw==/315x250%23c/M3xe0i.png",
-        "bias": 0
-      },
-      {
-        "title": "A(The) Quirky Nightshift [Free] [Other]",
-        "link": "https://romeda.itch.io/athe-quirky-nightshift",
-        "description": "\"Bettet av 67...\"",
-        "pubDate": "2025-12-19T08:27:18Z",
-        "source": "romeda.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NjI0MDcyLnBuZw==/315x250%23c/QP8Osy.png",
-        "bias": 0
-      },
-      {
-        "title": "No Lock, No Mercy [Free]",
-        "link": "https://vedatsgt.itch.io/no-lock-no-mercy",
-        "description": "",
-        "pubDate": "2025-12-19T08:22:08Z",
-        "source": "vedatsgt.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NjI0MDAyLmpwZWc=/315x250%23c/GhQJU%2B.jpeg",
-        "bias": 0
-      },
-      {
-        "title": "深潜 [Free] [Puzzle]",
-        "link": "https://mm-x.itch.io/deepdream",
-        "description": "3D恐怖解谜游戏，一层层进入梦境，逃离魔爪",
-        "pubDate": "2025-12-19T08:20:21Z",
-        "source": "mm-x.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NjI0MzM0LnBuZw==/315x250%23c/x5I5Mb.png",
-        "bias": 0
-      },
-      {
-        "title": "JingleTrap [Free] [Platformer]",
-        "link": "https://marioooooooo.itch.io/jingletrap",
-        "description": "El Krampus quiere destruir la navidad con su ejercito de pingüinos y galletas.",
-        "pubDate": "2025-12-19T07:56:58Z",
-        "source": "marioooooooo.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NjI0NjgzLnBuZw==/315x250%23c/2aQu8N.png",
-        "bias": 0
-      }
-    ],
+    "Gaming": [],
     "World": [
+      {
+        "title": "EU loan means Ukraine war is “going to continue”",
+        "link": "https://www.aljazeera.com/video/quotable/2025/12/19/eu-loan-means-ukraine-war-is-going-to?traffic_source=rss",
+        "description": "New funding from the EU allows Ukraine go shopping for more weapons, says analyst Pavel Felgenhauer",
+        "pubDate": "2025-12-19T10:27:21Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+        "description": "",
+        "pubDate": "2025-12-19T10:17:11Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "In the shadow of U.S. export controls, China rallies its own chip industry",
         "link": "https://www.npr.org/2025/12/19/nx-s1-5637428/china-chip-industry-trade-restrictions",
@@ -592,6 +456,15 @@
     ],
     "Politics": [
       {
+        "title": "Friday is the deadline to release the Epstein files. Here's what to expect",
+        "link": "https://www.npr.org/2025/12/19/nx-s1-5647638/epstein-files-release-law-deadline-trump",
+        "description": "Friday is the deadline for the government to release files related to the life and death of convicted sex offender Jeffrey Epstein and there are still questions about what will be published and when.",
+        "pubDate": "2025-12-19T10:00:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Trump will revisit a North Carolina town, now the focus of a newly redrawn congressional district",
         "link": "https://www.npr.org/2025/12/19/nx-s1-5648862/trump-visit-north-carolina-congress-midterms-economy",
         "description": "While he is directly appealing to Americans that the economy is improving, President Trump will visit a congressional district Republicans are eyeing in their attempts to keep control the U.S. House.",
@@ -601,13 +474,13 @@
         "bias": -1
       },
       {
-        "title": "Friday is the deadline to release the Epstein files. Here's what to expect",
-        "link": "https://www.npr.org/2025/12/19/nx-s1-5647638/epstein-files-release-law-deadline-trump",
-        "description": "Friday is the deadline for the government to release files related to the life and death of convicted sex offender Jeffrey Epstein and there are still questions about what will be published and when.",
-        "pubDate": "2025-12-19T10:00:00Z",
-        "source": "npr.org",
+        "title": "Thailand conference launches international initiative to fight online scams - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTUNRVVJ4S09nY3FSX09oQTVBLVh5SVl6dHVrbXNKUzVkZGh2Y2JIb3ozd2hQaE52M0p2ZVpHdGpGNnBGTGdwYk1FeVZZSkFXQWZ2b0xDNmVWeV9YVXY1R3lLUF9VeHdfYmE1MkNCZ25ldklhNGEzRXZBQTlCMVhSNWJjNTFrX1VuSnlPWFI1QmtQRmFwUFdCM1ZmczFJMTFWdmpNTzQ1LTNJS3ZI?oc=5",
+        "description": "",
+        "pubDate": "2025-12-19T09:56:00Z",
+        "source": "news.google.com",
         "image": "",
-        "bias": -1
+        "bias": 0
       },
       {
         "title": "ABC News' Jonathan Karl unpacks Trump's behavior this week",
@@ -715,6 +588,33 @@
     ],
     "Business": [
       {
+        "title": "Millions head home for Christmas on busiest day of festive getaway",
+        "link": "https://www.bbc.com/news/articles/c5yjvnr655po?at_medium=RSS&at_campaign=rss",
+        "description": "Road, rail and air travellers are being advised to allow extra time for travel and check their routes.",
+        "pubDate": "2025-12-19T10:40:48Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0efb/live/283d36d0-dcbf-11f0-a8dc-93c15fe68710.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Retail sales fall as Black Friday deals fail to lure shoppers",
+        "link": "https://www.bbc.com/news/articles/c0ed28qlz89o?at_medium=RSS&at_campaign=rss",
+        "description": "Supermarket sales fell for the fourth month in a row, while discounts did not lift Black Friday spending in November, figures suggest.",
+        "pubDate": "2025-12-19T10:37:41Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2228/live/40bfc080-dcc2-11f0-adc6-3df3a71ee64f.jpg",
+        "bias": 0
+      },
+      {
+        "title": "WH Smith probed by regulator over accounting error",
+        "link": "https://www.bbc.com/news/articles/c62d6l8j33lo?at_medium=RSS&at_campaign=rss",
+        "description": "The retailer says it plans to claw back bonuses awarded to executives at its North America business as a result of the mistakes.",
+        "pubDate": "2025-12-19T10:32:59Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/452a/live/f8d0d1b0-7e7a-11f0-96e5-5b061b987076.jpg",
+        "bias": 0
+      },
+      {
         "title": "Meet the new WaPo food critic who won't dine in anonymity",
         "link": "https://www.npr.org/2025/12/19/nx-s1-5609220/washington-post-food-critic-elazar-sontag-dc-saints-paradise-cafeteria",
         "description": "NPR's Leila Fadel tags along for lunch with Elazar Sontag, the",
@@ -722,24 +622,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Millions head home for Christmas on busiest day of festive getaway",
-        "link": "https://www.bbc.com/news/articles/c5yjvnr655po?at_medium=RSS&at_campaign=rss",
-        "description": "Road, rail and air travellers are being advised to allow extra time for travel and check their routes.",
-        "pubDate": "2025-12-19T09:55:17Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0efb/live/283d36d0-dcbf-11f0-a8dc-93c15fe68710.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Government borrowing higher than expected in November",
-        "link": "https://www.bbc.com/news/articles/c0ed28qlz89o?at_medium=RSS&at_campaign=rss",
-        "description": "Borrowing - the difference between public spending and tax income - was £11.7bn last month.",
-        "pubDate": "2025-12-19T08:10:23Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/deb1/live/0864d280-dcb2-11f0-990f-63d399b5e220.jpg",
-        "bias": 0
       },
       {
         "title": "A 45% school bus fare hike is too much, says dad",
