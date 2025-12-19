@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-19T08:30:08.101176Z",
+  "lastUpdate": "2025-12-19T08:54:56.107870Z",
   "news": {
     "Gaming": [
       {
@@ -18,6 +18,15 @@
         "pubDate": "2025-12-19T08:15:52Z",
         "source": "justpeaceproductions.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NjIzOTQzLmpwZw==/315x250%23c/Skn%2B5o.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Valente [Free] [Action]",
+        "link": "https://uerba.itch.io/valente",
+        "description": "",
+        "pubDate": "2025-12-19T08:11:50Z",
+        "source": "uerba.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NjIzOTAwLnBuZw==/315x250%23c/wbI%2BI5.png",
         "bias": 0
       },
       {
@@ -201,15 +210,6 @@
         "bias": 0
       },
       {
-        "title": "Plastic Vamptastic [Free] [Platformer]",
-        "link": "https://ettena.itch.io/plastic-vamptastic",
-        "description": "School Project - will be updated with credits",
-        "pubDate": "2025-12-19T05:36:16Z",
-        "source": "ettena.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NjIyOTQ0LnBuZw==/315x250%23c/GglZyx.png",
-        "bias": 0
-      },
-      {
         "title": "UFC Simulator [Free] [Fighting]",
         "link": "https://jakebleazy.itch.io/ufc-simulator",
         "description": "UFC sim",
@@ -248,21 +248,39 @@
     ],
     "World": [
       {
+        "title": "US to host Qatari, Turkish and Egyptian officials for Gaza ceasefire talks",
+        "link": "https://www.aljazeera.com/news/2025/12/19/us-to-host-qatari-turkish-and-egyptian-officials-for-gaza-ceasefire-talks?traffic_source=rss",
+        "description": "Talks in Miami on Gaza’s next phase come amid near-daily Israeli violations of truce, which have killed hundreds.",
+        "pubDate": "2025-12-19T08:37:02Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Fact check: Trump says the US secured $20 trillion in investments this year",
+        "link": "https://www.aljazeera.com/features/2025/12/19/fact-check-trump-says-the-us-secured-20-trillion-in-investments-this-year?traffic_source=rss",
+        "description": "Trump has claimed varying amounts of investments over the year. They are all unsubstantiated.",
+        "pubDate": "2025-12-19T08:20:08Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Jake Paul, Anthony Joshua weigh in ahead of blockbuster boxing bout",
+        "link": "https://www.aljazeera.com/sports/2025/12/19/jake-paul-anthony-joshua-weigh-in-ahead-of-blockbuster-boxing-bout?traffic_source=rss",
+        "description": "Favourite Anthony Joshua tips the scales more than 12 kilos heavier than YouTuber-turned-boxer Jake Paul at weigh-in.",
+        "pubDate": "2025-12-19T08:19:02Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "US suspends green card lottery scheme after Brown shooting",
         "link": "https://www.bbc.com/news/articles/c4gp4ze002mo?at_medium=RSS&at_campaign=rss",
         "description": "The suspect in the university shooting and the murder of an MIT professor entered the US via the scheme.",
         "pubDate": "2025-12-19T07:56:38Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab05/live/b64d99f0-dcac-11f0-a8dc-93c15fe68710.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-        "description": "",
-        "pubDate": "2025-12-19T07:40:23Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -365,6 +383,15 @@
         "bias": -1
       },
       {
+        "title": "Canada and the US to launch formal talks to review their free trade agreement in mid-January - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTTRPNlBSRUloM09PSEEta25WR1JMYXlBU0NOOHFlTmM5T1YzOUJkSEViSFhvdTd2amltdW5lZkR6UXVreVR0cGRxZW1senFiZnpveWpjR19EVDVVMXIyLW5xZFhqMzVLM2dSa3RWQXVuQzVOYTJKVXFLMzBQUXZhV3poR2h5Y05zOWdlQ1ZVQi1vUm92Tm0wRmxtUFJCeDlJ?oc=5",
+        "description": "",
+        "pubDate": "2025-12-19T06:04:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Trump gave an unusually partisan White House address. Should networks have given him the TV time? - AP News",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYm9LT1JmTmdJLVVDdjVQWExZTHdtWjBVVnExUmxsLTBiZ0JGTDVxUjlzNGI4aENJMHFRTDZCejVxTUdWUjRqbXpHN0VYaFBmNnVDajgyQ3hzUWdWMkJLN0k5YjZIWEgyVWwxYkw3bWJNb3RCMkNwX094VVhfNUphM3lzRnJQaUJIU1JRVnZYdTFuZ3ZJZlVJ?oc=5",
         "description": "",
@@ -381,15 +408,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Canada and the US to launch formal talks to review their free trade agreement in mid-January - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTTRPNlBSRUloM09PSEEta25WR1JMYXlBU0NOOHFlTmM5T1YzOUJkSEViSFhvdTd2amltdW5lZkR6UXVreVR0cGRxZW1senFiZnpveWpjR19EVDVVMXIyLW5xZFhqMzVLM2dSa3RWQXVuQzVOYTJKVXFLMzBQUXZhV3poR2h5Y05zOWdlQ1ZVQi1vUm92Tm0wRmxtUFJCeDlJ?oc=5",
-        "description": "",
-        "pubDate": "2025-12-19T05:37:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Somalia’s 2026 election risks a legitimacy crisis",
@@ -688,6 +706,15 @@
       }
     ],
     "Culture": [
+      {
+        "title": "Culture year cost £51m and attracted three million",
+        "link": "https://www.bbc.com/news/articles/c2k43lddknvo?at_medium=RSS&at_campaign=rss",
+        "description": "Bradford 2025 saw more than 5,000 events and cost about £51m to host, with the tenure coming to a close.",
+        "pubDate": "2025-12-19T06:07:45Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7148/live/6f705240-dc28-11f0-854f-613aec88e40b.jpg",
+        "bias": 0
+      },
       {
         "title": "Keith Lee wins top prize at first TikTok Awards in US",
         "link": "https://www.bbc.com/news/articles/ce3wp0qelreo?at_medium=RSS&at_campaign=rss",
