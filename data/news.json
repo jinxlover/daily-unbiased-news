@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-12-19T07:43:27.459867Z",
+  "lastUpdate": "2025-12-19T07:55:23.943128Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Level Box Design 2 [Free]",
+        "link": "https://radion209.itch.io/level-box-design-2",
+        "description": "A prototype of a level design",
+        "pubDate": "2025-12-19T07:43:50Z",
+        "source": "radion209.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NjIzNjk5LnBuZw==/315x250%23c/w2mtKE.png",
+        "bias": 0
+      },
       {
         "title": "Lockout of the Pilastra [Free] [Puzzle]",
         "link": "https://ryukokun.itch.io/lockout-of-the-pilastra",
@@ -210,15 +219,6 @@
         "bias": 0
       },
       {
-        "title": "Dungeon Explorer (2d Platformer [Free]",
-        "link": "https://unhappychaos.itch.io/dungeon-explorer-2d-platformer",
-        "description": "Changes: New art and assets, Two new enemies (Bee and Snail), And three unique levels.",
-        "pubDate": "2025-12-19T04:37:30Z",
-        "source": "unhappychaos.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NjIyMzk2LmpwZWc=/315x250%23c/USeDrw.jpeg",
-        "bias": 0
-      },
-      {
         "title": "RoboCop Directive 4 (not trademarked) [Free]",
         "link": "https://freakygoku.itch.io/robocop-directive-4-not-trademarked",
         "description": "",
@@ -247,6 +247,33 @@
       }
     ],
     "World": [
+      {
+        "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+        "description": "",
+        "pubDate": "2025-12-19T07:40:23Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "How much is US support for Israel costing Donald Trump?",
+        "link": "https://www.aljazeera.com/news/2025/12/19/how-much-is-us-support-for-israel-costing-donald-trump?traffic_source=rss",
+        "description": "US aid to Israel continues under Trump, drawing MAGA criticism over fiscal strain and foreign policy implications.",
+        "pubDate": "2025-12-19T07:33:45Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Bangladesh protests live: Violence after activist Sharif Hadi dies",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/12/19/live-violence-breaks-out-in-bangladesh-after-prominent-protest-leader-dies?traffic_source=rss",
+        "description": "Protesters torch several buildings in Dhaka after Sharif Osman Hadi, who was shot last week, succumbs to his injuries.",
+        "pubDate": "2025-12-19T07:30:05Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "TikTok owner signs deal to avoid US ban",
         "link": "https://www.bbc.com/news/articles/cgexp1q8wn1o?at_medium=RSS&at_campaign=rss",
@@ -345,6 +372,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Canada and the US to launch formal talks to review their free trade agreement in mid-January - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTTRPNlBSRUloM09PSEEta25WR1JMYXlBU0NOOHFlTmM5T1YzOUJkSEViSFhvdTd2amltdW5lZkR6UXVreVR0cGRxZW1senFiZnpveWpjR19EVDVVMXIyLW5xZFhqMzVLM2dSa3RWQXVuQzVOYTJKVXFLMzBQUXZhV3poR2h5Y05zOWdlQ1ZVQi1vUm92Tm0wRmxtUFJCeDlJ?oc=5",
+        "description": "",
+        "pubDate": "2025-12-19T05:37:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Somalia’s 2026 election risks a legitimacy crisis",
@@ -642,6 +678,16 @@
         "bias": 0
       }
     ],
-    "Culture": []
+    "Culture": [
+      {
+        "title": "Kennedy Center to be renamed Trump-Kennedy Center, White House says",
+        "link": "https://www.bbc.com/news/articles/cp84pxvp87eo?at_medium=RSS&at_campaign=rss",
+        "description": "The board of the performing arts centre, which was appointed by Trump, voted to rename it to honour him, the White House press secretary says.",
+        "pubDate": "2025-12-19T01:19:33Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f9c/live/57355910-dc4a-11f0-83b4-4b97b1cc3247.jpg",
+        "bias": 0
+      }
+    ]
   }
 }
