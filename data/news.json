@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-12-20T08:59:00.794615Z",
+  "lastUpdate": "2025-12-20T09:27:37.828775Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Dino Adventures [Free] [Adventure]",
+        "link": "https://eskiix.itch.io/dino-adventures",
+        "description": "",
+        "pubDate": "2025-12-20T08:38:07Z",
+        "source": "eskiix.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NjM5MTI2LnBuZw==/315x250%23c/tk6ey4.png",
+        "bias": 0
+      },
       {
         "title": "Eldritch Brew [Free]",
         "link": "https://skitecs.itch.io/eldritch-brew",
@@ -111,15 +120,6 @@
         "bias": 0
       },
       {
-        "title": "Witch's Stand [Free] [macOS]",
-        "link": "https://catstudio8.itch.io/witchs-stand",
-        "description": "Dodge, fight, and heal as a hunted witch—every choice reshapes your fate.",
-        "pubDate": "2025-12-20T07:23:48Z",
-        "source": "catstudio8.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NjM4Njc0LmpwZw==/315x250%23c/jGjXD0.jpg",
-        "bias": 0
-      },
-      {
         "title": "Le Rêve alarien [Free]",
         "link": "https://remus2048.itch.io/le-rve-alarien",
         "description": "Mickaël Migout 2GDA",
@@ -192,12 +192,21 @@
         "bias": 0
       },
       {
-        "title": "Chocolate Factory [Free] [Strategy] [Windows]",
-        "link": "https://severus-prince.itch.io/chocolate-factory",
-        "description": "Aim to increase sales at the chocolate factory!",
-        "pubDate": "2025-12-20T06:28:07Z",
-        "source": "severus-prince.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NjM4MzU1LmpwZw==/315x250%23c/JJMVGD.jpg",
+        "title": "Unity and Git Create Disaster Survival [Free]",
+        "link": "https://nini2255.itch.io/unity-git-disaster-survival",
+        "description": "",
+        "pubDate": "2025-12-20T04:49:13Z",
+        "source": "nini2255.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NjM5NDE1LmpwZw==/315x250%23c/FJbhWn.jpg",
+        "bias": 0
+      },
+      {
+        "title": "FlyingCat [Free] [Action]",
+        "link": "https://yhkk.itch.io/flyingcat",
+        "description": "Launch your cat as far as you can! A casual arcade game made with vibe coding 🐱",
+        "pubDate": "2025-12-20T02:51:28Z",
+        "source": "yhkk.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NjM2ODU4LnBuZw==/315x250%23c/tT4CQf.png",
         "bias": 0
       },
       {
@@ -212,6 +221,24 @@
     ],
     "World": [
       {
+        "title": "Uruguay’s FM on US claims to police Latin America and rising tensions",
+        "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2025/12/20/uruguays-fm-on-us-claims-to-police-latin-america-and-rising-tensions?traffic_source=rss",
+        "description": "Mario Lubetkin on Washington’s revived sphere-of-influence doctrine, Venezuela, and China’s growing footprint.",
+        "pubDate": "2025-12-20T09:04:57Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Islamic University of Gaza resumes classes on site amid Israeli destruction",
+        "link": "https://www.aljazeera.com/news/2025/12/20/islamic-university-of-gaza-resumes-classes-on-site-amid-israeli-destruction?traffic_source=rss",
+        "description": "Students return for in-person classes amid ruins as Palestinians fight to salvage education from systematic decimation.",
+        "pubDate": "2025-12-20T08:56:35Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Watch: Images, cassettes and high-profile figures from Epstein files",
         "link": "https://www.bbc.com/news/videos/cn7kpnjnmklo?at_medium=RSS&at_campaign=rss",
         "description": "The partial release of documents includes photos of the late sex offender's properties, audio files and redacted documents.",
@@ -219,6 +246,15 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/305f/live/a5fe1d80-dd4d-11f0-aae2-2191c0e48a3b.jpg",
         "bias": 0
+      },
+      {
+        "title": "Netanyahu finally announces October 7 inquiry: Why are Israelis furious?",
+        "link": "https://www.aljazeera.com/news/2025/12/20/netanyahu-finally-announces-october-7-inquiry-why-are-israelis-furious?traffic_source=rss",
+        "description": "The Israeli prime minister will be heading the inquiry into his own government's failings ahead of the Hamas-led attack.",
+        "pubDate": "2025-12-20T08:37:08Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "US carries out 'massive' strike against IS in Syria",
@@ -309,6 +345,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Christmas spirit returns to Bethlehem after ceasefire in Gaza - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZDFpOE02NjQ2ZUtqOHVWcmUyQkZjWFBwVXR3Ukg1clNaVVZPREFfRUxDeWxta0d1a09iUVZuYmtoYm5pa05UQjlsMXpYdW5WN3JDZjY3UEdMd1JoWmJJWWdRakZTNlZjbUJxeGhHVkpMRnRUaEJtVzkzWDJDVFcxbW8xeEJ2UDdabnBMWE9KZVNLdmw3VWtkM0psOA?oc=5",
+        "description": "",
+        "pubDate": "2025-12-20T05:07:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "US sanctions more relatives, associates of Venezuelan President Maduro",
@@ -498,15 +543,6 @@
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaTJaaTNNWGk3SnphVTQxRzVkb1lyWDFNWE8zY2ZhbG1zSllnRzlINUN6QjJERkVaWWRzYXRmSndHaUhFVVBrT01VQzR4b0kweXp6Wl9wcEl1VWFJUDV2MXhrUnV1TFRDUTgtdEhEWUx4MFJ1WlpQT2NTa29RNU9vbWFBbVNyV05HWGEwMHBIZkFwa3l3SU9NWWNxdTFPMDBnX0I5OQ?oc=5",
         "description": "",
         "pubDate": "2025-12-20T05:07:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "US tech enabled China’s surveillance empire. Now Tibetan refugees in Nepal are paying the price - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVy1feEdabHNoRjhYcm1wekRrYVR3UTl6SWt1ZUV1Wk1mamFEUTE0OTBVclJZeDJQYzlnaUxqXzNNTU0xS3ZUd3lHM0VPdVA4UlNLamlQSzdYTFZGMGh1dXBkZXdUbklDVmcxNUdEajlwRDBEbW95MDJnZFM0N21DcDdyZkxaWl9HLTkzbm5VeVl1bEgxNnZSQm5WRV9kbEVVMW5IRXpoUy1pSHVkUTZfaTRQcDVXY0E?oc=5",
-        "description": "",
-        "pubDate": "2025-12-20T05:01:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
