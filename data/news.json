@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-12-22T10:30:10.583482Z",
+  "lastUpdate": "2025-12-22T10:49:30.161919Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Hash Memory Game [Free] [Puzzle] [Windows]",
+        "link": "https://hashmemory.itch.io/hash-memory-game",
+        "description": "Memory",
+        "pubDate": "2025-12-22T10:38:53Z",
+        "source": "hashmemory.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NjcxNDcwLmpwZw==/315x250%23c/nSjTHg.jpg",
+        "bias": 0
+      },
       {
         "title": "snake3 [Free]",
         "link": "https://roselatte-ggd.itch.io/snake3",
@@ -9,6 +18,15 @@
         "pubDate": "2025-12-22T10:13:44Z",
         "source": "roselatte-ggd.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NjcxMTk1LnBuZw==/315x250%23c/BIVY0Z.png",
+        "bias": 0
+      },
+      {
+        "title": "Nice or Naughty Gifts [Free] [Puzzle]",
+        "link": "https://csnewie.itch.io/nice-or-naughty-gifts",
+        "description": "The sorting elf has mixed up all the good and bad gifts, help him out!",
+        "pubDate": "2025-12-22T10:08:41Z",
+        "source": "csnewie.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NjcxMTUwLnBuZw==/315x250%23c/k6THBG.png",
         "bias": 0
       },
       {
@@ -192,24 +210,6 @@
         "bias": 0
       },
       {
-        "title": "เกมงู 2D game Ver.Final [Free]",
-        "link": "https://pendaemon.itch.io/verfinal",
-        "description": "B6703134 ปกิตตา หมุนสิงห์",
-        "pubDate": "2025-12-22T09:06:29Z",
-        "source": "pendaemon.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NjcwNjM1LnBuZw==/315x250%23c/Q5GXbt.png",
-        "bias": 0
-      },
-      {
-        "title": "MICKEY EAT TOOOO MUCH 3 [Free] [Adventure]",
-        "link": "https://cheri1yn.itch.io/mickey-eat-3",
-        "description": "MICKEY EAT CATNIP MICKEY EAT MICKEY MOUSE",
-        "pubDate": "2025-12-22T09:01:14Z",
-        "source": "cheri1yn.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NjcwNjYyLnBuZw==/315x250%23c/RstNT0.png",
-        "bias": 0
-      },
-      {
         "title": "Act(or)/Die [Free] [Interactive Fiction]",
         "link": "https://wilymasteralchemist.itch.io/actordie",
         "description": "Prototype Acting Horror",
@@ -275,13 +275,22 @@
     ],
     "World": [
       {
-        "title": "First Noël. Olympic slalom champion Clément leads first run of World Cup race - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTUFwUDAtN29FSGxfZVFfd2Y3OHA0VGNwNXNMQS1Va2hYUVQtVlJ5VDBQRlVvbEt3NEVQbjhWWmpkWXN6enAzMF9ERTJoU2g2azhUbDZKNDM0N3NFaEQxaXZaUXdVLVpvNk1ZSTVZZG80ZkVsclltcm9kVkJETWlUQVF5UTBBZjJIZlJNV0R1aWFQWnRhbVdMcWFJODdWbjNGUnc?oc=5",
-        "description": "",
-        "pubDate": "2025-12-22T10:10:00Z",
-        "source": "news.google.com",
-        "image": "",
+        "title": "Russian general killed by car bomb in Moscow, officials say",
+        "link": "https://www.bbc.com/news/articles/c8jwn9wznx1o?at_medium=RSS&at_campaign=rss",
+        "description": "Fanil Sarvarov was the head of the armed forces' operational training department, Russia's Investigative Committee said.",
+        "pubDate": "2025-12-22T10:35:57Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66c7/live/9eb18660-df1f-11f0-b67b-690eb873de1b.jpg",
         "bias": 0
+      },
+      {
+        "title": "Australian PM apologises over Bondi attack, calls for tougher hate laws",
+        "link": "https://www.aljazeera.com/news/2025/12/22/australian-pm-apologises-over-bondi-attack-calls-for-tougher-hate-laws?traffic_source=rss",
+        "description": "PM Anthony Albanese is also pushing for stricter gun legislation in the wake of nation's worst mass shooting in decades.",
+        "pubDate": "2025-12-22T10:27:25Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Israeli arms firms make record profits of the back of Gaza war",
@@ -320,6 +329,15 @@
         "bias": -1
       },
       {
+        "title": "Russian general killed by bomb under his car in Moscow - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSVRLUzhCaDk3WkpBU3lQbUZTejlleE1QLUUwWFBhZ0x6QTlLbTh1aGVjQndiNjcwaUdPQ01lMTlsQzk0VjY0Qi05RGZ4UmU5Rm4zQ3NaWWc0QWxXbUV1VkdBbndXYlQ1aU5kTU9YbkZnUHNBdGI3ZXhPa2FuRm1uc2VUaG16MTFBXzMxZ0l5QV9GM2JNWUl6dC1uOHpueDd4R2c?oc=5",
+        "description": "",
+        "pubDate": "2025-12-22T09:34:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "2025 in Gaza: 12 months, 12 pictures",
         "link": "https://www.aljazeera.com/gallery/2025/12/22/2025-in-gaza-12-months-12-pictures?traffic_source=rss",
         "description": "Israel’s genocidal war on Gaza has killed at least 70,669 Palestinians and wounded 171,165 since October 2023.",
@@ -356,15 +374,6 @@
         "bias": 0
       },
       {
-        "title": "Russian general killed by car bomb in Moscow, officials say",
-        "link": "https://www.bbc.com/news/articles/c8jwn9wznx1o?at_medium=RSS&at_campaign=rss",
-        "description": "Fanil Sarvarov was the head of the armed forces' operational training department, Russia's Investigative Committee said.",
-        "pubDate": "2025-12-22T09:02:37Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/813a/live/0f4fb520-df13-11f0-aae2-2191c0e48a3b.jpg",
-        "bias": 0
-      },
-      {
         "title": "US accused of stealing oil after intercepting third Venezuelan tanker",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/12/22/us-accused-of-stealing-oil-after-intercepting-third-venezuelan-tanker?traffic_source=rss",
         "description": "The US is pursuing a third oil tanker in international waters off the coast of Venezuela.",
@@ -392,6 +401,15 @@
         "bias": -1
       },
       {
+        "title": "Japan’s new flagship H3 rocket fails to put geolocation satellite into orbit - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd01PYzA5U1BEdEd3NkZEY2hHTnpJMWlQWlEtZXBQMFA1WnIwSC1uUUNSOElrWmtTeGFQRmlDTFM3eDQ0R1F6WVZjelJhZ3cwdmlkR3F4VktMMlV6Qk9pN3NSNy1LOXU3dFk0X09yVzB5Yk14MEZKaDhkYU5hYURVT0hUSHpuazlsd3A4Sll6c2hJZw?oc=5",
+        "description": "",
+        "pubDate": "2025-12-22T08:26:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "World shares are mixed and Japan’s yen slips after AI stocks push higher on Wall Street - AP News",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYjdUSjBXdUZubXF3LWRWcUhxZHdvY0NtbEV4bERtN1J5NUxIUTlxWU5UOTdjUE4yaWlBLTRFc3FRZE1fRGFmczZFaTFLNnBOLWc2d2VyZUp6MkJFT2drbFh2TkpqTVk5STg2VFgwbWZZZFJEaXNfQUZIbTY2MmdEQ0ZyVEhlNzRJc0JiY3JQem9vRTQ?oc=5",
         "description": "",
@@ -415,7 +433,7 @@
         "description": "It was one of several removed from the justice department website because of concerns from victims, said a US official.",
         "pubDate": "2025-12-22T08:09:08Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af76/live/286551b0-df03-11f0-aae2-2191c0e48a3b.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac90/live/72affed0-de97-11f0-b314-53ca4075b1da.png",
         "bias": 0
       },
       {
@@ -470,15 +488,6 @@
         "pubDate": "2025-12-22T07:29:02Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c98/live/acb1cf50-df05-11f0-a8dc-93c15fe68710.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Russian general killed by bomb under his car in Moscow - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSVRLUzhCaDk3WkpBU3lQbUZTejlleE1QLUUwWFBhZ0x6QTlLbTh1aGVjQndiNjcwaUdPQ01lMTlsQzk0VjY0Qi05RGZ4UmU5Rm4zQ3NaWWc0QWxXbUV1VkdBbndXYlQ1aU5kTU9YbkZnUHNBdGI3ZXhPa2FuRm1uc2VUaG16MTFBXzMxZ0l5QV9GM2JNWUl6dC1uOHpueDd4R2c?oc=5",
-        "description": "",
-        "pubDate": "2025-12-22T07:11:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -671,15 +680,6 @@
         "bias": -1
       },
       {
-        "title": "These influencers are teaching Christianity online — and young people are listening - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWTZzMm5vUVBLTHlNOXVsMUZieVQ0YnB4VGN1d2tRTmZNejA4Tl96WkNSM1pwRHlhMTFGeUk1ZTAwVFFubUlVUHFMTWhOUHgxSkZuWDFYWFlydGtfY0VsNWJxTHFNeDNVR0IxNExXVE8xYXpub3lQN0dSZUpJczVINXB4U0lfWUVXQ1RuUmNSX2MyMVZuN2wyZTNjelMwbFc3dXJGUzJQbjBOYzBPSnNqdQ?oc=5",
-        "description": "",
-        "pubDate": "2025-12-22T01:06:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Why Croatia's capital wants to hold Europe's best Christmas market",
         "link": "https://www.bbc.com/news/articles/c8dy5m56477o?at_medium=RSS&at_campaign=rss",
         "description": "The festive events help to put cities on the map and attract millions of tourists.",
@@ -736,18 +736,18 @@
         "bias": -1
       },
       {
-        "title": "NPR analysis shows skyrocketing number of 'no-shows' in immigration court",
-        "link": "https://www.npr.org/2025/12/22/nx-s1-5583971/trump-ice-immigration-arrests-deportation-no-shows",
-        "description": "More immigrants are not showing up for their mandatory immigration court hearings compared to prior years, an NPR analysis shows, allowing the government to order their immediate deportation.",
+        "title": "How President Trump reshaped capitalism in 2025",
+        "link": "https://www.npr.org/2025/12/22/nx-s1-5639916/trump-crony-capitalism-free-market",
+        "description": "His policies are picking winners and losers — and blurring the lines between business and government.",
         "pubDate": "2025-12-22T10:00:00Z",
         "source": "npr.org",
         "image": "",
         "bias": -1
       },
       {
-        "title": "How President Trump reshaped capitalism in 2025",
-        "link": "https://www.npr.org/2025/12/22/nx-s1-5639916/trump-crony-capitalism-free-market",
-        "description": "His policies are picking winners and losers — and blurring the lines between business and government.",
+        "title": "NPR analysis shows skyrocketing number of 'no-shows' in immigration court",
+        "link": "https://www.npr.org/2025/12/22/nx-s1-5583971/trump-ice-immigration-arrests-deportation-no-shows",
+        "description": "More immigrants are not showing up for their mandatory immigration court hearings compared to prior years, an NPR analysis shows, allowing the government to order their immediate deportation.",
         "pubDate": "2025-12-22T10:00:00Z",
         "source": "npr.org",
         "image": "",
@@ -822,6 +822,15 @@
       }
     ],
     "Business": [
+      {
+        "title": "Gold price climbs above $4,400 to hit record high",
+        "link": "https://www.bbc.com/news/articles/cd74ldr2zryo?at_medium=RSS&at_campaign=rss",
+        "description": "Investors are flocking to precious metals amid geopolitical tensions and with more US interest rate cuts expected.",
+        "pubDate": "2025-12-22T10:33:28Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/299d/live/b4e710a0-df13-11f0-8db4-97f4d263443d.jpg",
+        "bias": 0
+      },
       {
         "title": "Can Americans learn to love tiny, cheap kei cars?",
         "link": "https://www.npr.org/2025/12/22/nx-s1-5644937/kei-cars-tiny-vehicles",
@@ -929,7 +938,7 @@
         "description": "Stranger Things, Two Doors Down and The Celebrity Apprentice are among this year's highlights.",
         "pubDate": "2025-12-22T00:03:05Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56e6/live/6812bb30-d9c8-11f0-b67b-690eb873de1b.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be30/live/bd1a2f10-df21-11f0-aae2-2191c0e48a3b.jpg",
         "bias": 0
       }
     ]
