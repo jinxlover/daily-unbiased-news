@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-22T21:46:25.488032Z",
+  "lastUpdate": "2025-12-22T21:56:41.343088Z",
   "news": {
     "Gaming": [
       {
@@ -30,7 +30,7 @@
         "bias": 0
       },
       {
-        "title": "Sprunki Redesign 5-shifted [Free] [Rhythm] [Windows] [macOS] [Linux] [Android]",
+        "title": "Sprunki Redesign 5-shifted [Free] [Rhythm]",
         "link": "https://afrothen991gmailcom.itch.io/sprunki-redesign-5-shifted",
         "description": "",
         "pubDate": "2025-12-22T21:33:05Z",
@@ -129,6 +129,15 @@
         "bias": 0
       },
       {
+        "title": "A Small Christmas Walk [Free] [Adventure] [Windows] [Linux]",
+        "link": "https://squishbyte-dev.itch.io/a-small-christmas-walk",
+        "description": "A cozy winter walk with four hidden gifts and a gentle surprise",
+        "pubDate": "2025-12-22T20:21:37Z",
+        "source": "squishbyte-dev.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NjgwMjc4LnBuZw==/315x250%23c/Xpd2Lx.png",
+        "bias": 0
+      },
+      {
         "title": "ruleta [Free] [Strategy] [Windows]",
         "link": "https://unzoqueterandom.itch.io/ruleta",
         "description": "un roguelike de la ruleta",
@@ -153,15 +162,6 @@
         "pubDate": "2025-12-22T20:17:19Z",
         "source": "cottonvr.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NjgwMDQ5LmpwZw==/315x250%23c/Cf2sQv.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Veines [Free] [Shooter] [Windows]",
-        "link": "https://pompano74.itch.io/veines",
-        "description": "",
-        "pubDate": "2025-12-22T20:11:38Z",
-        "source": "pompano74.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0Njc5NDMwLnBuZw==/315x250%23c/HT9RyP.png",
         "bias": 0
       },
       {
@@ -653,15 +653,6 @@
         "bias": 0
       },
       {
-        "title": "Nicki Minaj surprises conservatives with praise for Trump, Vance at Arizona event - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPby1TN2FYMHYyNlpIbFA1SHpwT0NjSi02dVMweW54NVd4M3N3MjFIcm9IVnVON3hnSnJNZVluaEJZWE5KYXluejM2UTdUUGFxYTR0TXlNZWVQMlpSRi0xQy1XanVwOFR5MUpfdHBhN3g1OUgxMmFPTDR1aUc2czh0a3ZXc1JaSWx5ODNCQVp3M3lYQmVWYmVYVVc3cndiMGJrTldR?oc=5",
-        "description": "",
-        "pubDate": "2025-12-22T16:04:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "New Trump envoy says he will serve to make Greenland part of US",
         "link": "https://www.bbc.com/news/articles/ckgmd132ge4o?at_medium=RSS&at_campaign=rss",
         "description": "Denmark warns Washington to respect its sovereignty, while Greenland says it will decide its own future.",
@@ -675,6 +666,15 @@
         "link": "https://www.aljazeera.com/news/2025/12/22/at-least-three-killed-in-israeli-attack-on-southern-lebanons-sidon?traffic_source=rss",
         "description": "Deadly Israeli air strike is latest in Israel's near-daily violations of 2024 ceasefire agreement with Hezbollah.",
         "pubDate": "2025-12-22T15:45:03Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Illegal settlement expansion: How Israel is redrawing occupied West Bank",
+        "link": "https://www.aljazeera.com/news/2025/12/22/illegal-settlement-expansion-how-israel-is-redrawing-occupied-west-bank?traffic_source=rss",
+        "description": "Israel's approval of 19 new settlements stands to redraw occupied West Bank, undermining prospect of two-state solution.",
+        "pubDate": "2025-12-22T15:37:18Z",
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
@@ -781,15 +781,6 @@
         "bias": -1
       },
       {
-        "title": "NPR analysis shows skyrocketing number of 'no-shows' in immigration court",
-        "link": "https://www.npr.org/2025/12/22/nx-s1-5583971/trump-ice-immigration-arrests-deportation-no-shows",
-        "description": "More immigrants are not showing up for their mandatory immigration court hearings compared to prior years, an NPR analysis shows, allowing the government to order their immediate deportation.",
-        "pubDate": "2025-12-22T10:00:00Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "How Trump's 'crony capitalism' has shaken up U.S. business",
         "link": "https://www.npr.org/2025/12/22/nx-s1-5639916/trump-crony-capitalism-free-market",
         "description": "His policies are picking winners and losers — and blurring the lines between business and government.",
@@ -802,6 +793,15 @@
         "title": "The DOGE mindset is still central to the Trump administration's agenda as 2025 ends",
         "link": "https://www.npr.org/2025/12/22/nx-s1-5647415/2025-trump-doge-musk",
         "description": "The Department of Government Efficiency effort was one of the most consequential and controversial — if not entirely successful — changes the Trump administration made in 2025.",
+        "pubDate": "2025-12-22T10:00:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "NPR analysis shows skyrocketing number of 'no-shows' in immigration court",
+        "link": "https://www.npr.org/2025/12/22/nx-s1-5583971/trump-ice-immigration-arrests-deportation-no-shows",
+        "description": "More immigrants are not showing up for their mandatory immigration court hearings compared to prior years, an NPR analysis shows, allowing the government to order their immediate deportation.",
         "pubDate": "2025-12-22T10:00:00Z",
         "source": "npr.org",
         "image": "",
@@ -854,6 +854,15 @@
       }
     ],
     "Tech": [
+      {
+        "title": "Nicki Minaj surprises conservatives with praise for Trump, Vance at Arizona event - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPby1TN2FYMHYyNlpIbFA1SHpwT0NjSi02dVMweW54NVd4M3N3MjFIcm9IVnVON3hnSnJNZVluaEJZWE5KYXluejM2UTdUUGFxYTR0TXlNZWVQMlpSRi0xQy1XanVwOFR5MUpfdHBhN3g1OUgxMmFPTDR1aUc2czh0a3ZXc1JaSWx5ODNCQVp3M3lYQmVWYmVYVVc3cndiMGJrTldR?oc=5",
+        "description": "",
+        "pubDate": "2025-12-22T16:04:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Uber and Lyft announce plans to trial Chinese robotaxis in UK in 2026",
         "link": "https://www.bbc.com/news/articles/cy8jmx1dl9ro?at_medium=RSS&at_campaign=rss",
@@ -1005,6 +1014,15 @@
     ],
     "Culture": [
       {
+        "title": "Driving Home for Christmas singer Chris Rea dies aged 74",
+        "link": "https://www.bbc.com/news/articles/c8r3ne23e4go?at_medium=RSS&at_campaign=rss",
+        "description": "The singer died in hospital on Monday following a short illness, his family said in a statement.",
+        "pubDate": "2025-12-22T21:46:33Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ced/live/65224300-df4f-11f0-aae2-2191c0e48a3b.jpg",
+        "bias": 0
+      },
+      {
         "title": "We stripped to our pants a lot - Brydon on new series",
         "link": "https://www.bbc.com/news/articles/c075r8xxmm5o?at_medium=RSS&at_campaign=rss",
         "description": "The Welsh actor and comedian has been speaking about his latest series with Steve Coogan.",
@@ -1041,21 +1059,12 @@
         "bias": -1
       },
       {
-        "title": "Barry Manilow to undergo surgery for 'cancerous spot' on lung",
+        "title": "Barry Manilow to have surgery for 'cancerous spot' on lung",
         "link": "https://www.bbc.com/news/articles/c62dvg1zn95o?at_medium=RSS&at_campaign=rss",
         "description": "Manilow said it was \"pure luck\" that doctors found the spot early when he had an MRI scan following weeks of bronchitis.",
         "pubDate": "2025-12-22T17:25:06Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2406/live/c0372180-df58-11f0-a8dc-93c15fe68710.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Driving Home for Christmas singer Chris Rea dies aged 74",
-        "link": "https://www.bbc.com/news/articles/c8r3ne23e4go?at_medium=RSS&at_campaign=rss",
-        "description": "The singer died in hospital on Monday following a short illness, his family said in a statement.",
-        "pubDate": "2025-12-22T17:07:09Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ced/live/65224300-df4f-11f0-aae2-2191c0e48a3b.jpg",
         "bias": 0
       },
       {
@@ -1164,15 +1173,6 @@
         "pubDate": "2025-12-22T07:41:07Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f238/live/145128a0-de92-11f0-b014-450beb7014a1.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Actor James Ransone, known for his role in ‘The Wire,’ dead at 46 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY0ljZkd2WUx0V0ZvR19wV3gzRlF6M2NMOTM2SkZEclpoQ1cxOVFKTTVXMDBDSFMyLXRGZ28xQl9ta3hoWkNzaC1JSmpXb3RCZjZ3M0szckFCUGlPZUJIZXc0TnJibHB2U1pCeHpETXltWXptZGJBdE93azVsWkgxRVlvT1paRkwtT2Z6QQ?oc=5",
-        "description": "",
-        "pubDate": "2025-12-22T00:23:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
