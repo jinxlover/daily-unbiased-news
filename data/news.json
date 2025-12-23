@@ -1,14 +1,14 @@
 {
-  "lastUpdate": "2025-12-23T17:44:08.645435Z",
+  "lastUpdate": "2025-12-23T17:55:31.988344Z",
   "news": {
     "Gaming": [
       {
-        "title": "Bladebound [Free] [Action]",
-        "link": "https://wolf-tech-games.itch.io/bladebound",
-        "description": "Brandish your weapon defeat enemies",
-        "pubDate": "2025-12-23T17:42:35Z",
-        "source": "wolf-tech-games.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NjkzMTcyLnBuZw==/315x250%23c/sVNYPE.png",
+        "title": "Sprunk gabed overhauled (BETA) [Free]",
+        "link": "https://gabboredsom22.itch.io/sprunk-gabed",
+        "description": "",
+        "pubDate": "2025-12-23T17:45:31Z",
+        "source": "gabboredsom22.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NjkzMTg2LnBuZw==/315x250%23c/OPQvxi.png",
         "bias": 0
       },
       {
@@ -192,24 +192,6 @@
         "bias": 0
       },
       {
-        "title": "Crystal of Fate [Free] [Strategy]",
-        "link": "https://thelink9412.itch.io/crystal-of-fate",
-        "description": "Tower-defense, strategical game",
-        "pubDate": "2025-12-23T16:07:48Z",
-        "source": "thelink9412.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NjkyMDcwLnBuZw==/315x250%23c/MTQdvN.png",
-        "bias": 0
-      },
-      {
-        "title": "Airport Inspector [Free] [Simulation]",
-        "link": "https://ayuo-dev.itch.io/airport-inspector",
-        "description": "Run airport security: inspect luggage, question passengers, and make critical choices.",
-        "pubDate": "2025-12-23T16:06:03Z",
-        "source": "ayuo-dev.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NjkyMDc1LnBuZw==/315x250%23c/hpihI9.png",
-        "bias": 0
-      },
-      {
         "title": "Shadowpuppet [Free] [Visual Novel] [Windows] [macOS] [Linux]",
         "link": "https://marthia.itch.io/shadowpuppet",
         "description": "Postapocalyptic character drama",
@@ -274,6 +256,15 @@
       }
     ],
     "World": [
+      {
+        "title": "People sheltering at Sudan displacement camp say they ’pray for peace’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/23/people-sheltering-at-sudan-displacement-camp-say-they-pray-for?traffic_source=rss",
+        "description": "Every day, dozens of displaced people, mostly women and children, are arriving at a camp near Kosti, Sudan.",
+        "pubDate": "2025-12-23T17:36:38Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Israeli forces demolish shops in raids near occupied East Jerusalem",
         "link": "https://www.aljazeera.com/news/2025/12/23/israeli-forces-demolish-shops-in-raids-near-occupied-east-jerusalem?traffic_source=rss",
@@ -536,6 +527,15 @@
         "bias": -1
       },
       {
+        "title": "Thousands fleeing DR Congo violence face 'dire conditions' in Burundi - aid agencies",
+        "link": "https://www.bbc.com/news/articles/cjdr4vx4n8ro?at_medium=RSS&at_campaign=rss",
+        "description": "Those particularly affected are children and pregnant women - some going without food for days.",
+        "pubDate": "2025-12-23T12:21:26Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd41/live/07074070-dff6-11f0-aae2-2191c0e48a3b.jpg",
+        "bias": 0
+      },
+      {
         "title": "Video: Al Jazeera at scene of armed clashes in Syria’s Aleppo",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/12/23/video-al-jazeera-at-scene-of-armed-clashes-in-syrias-aleppo?traffic_source=rss",
         "description": "Clashes between the Syrian military and Kurdish-led SDF forces occurred in Aleppo.",
@@ -662,13 +662,13 @@
         "bias": -1
       },
       {
-        "title": "Isak faces two months out with injury after ‘reckless’ tackle: Slot",
-        "link": "https://www.aljazeera.com/sports/2025/12/23/isak-faces-two-months-out-with-injury-after-reckless-tackle-slot?traffic_source=rss",
-        "description": "Liverpool manager Arne Slot says star forward Alexander Isak will be on the sidelines until at least late February.",
-        "pubDate": "2025-12-23T10:20:21Z",
-        "source": "aljazeera.com",
+        "title": "World shares are mostly higher in holiday-thinned trading ahead of US growth and labor updates - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNFA3aEVFa1BxMlJ6c2c5Y1dtUnZXejd5STF3dHFrN0M0RUVGR1MxV2xPbC1XaGt1amUyeGlockZyamtOX2FXNVcwa1VGV0JQWno3OEFVZ21Ia040cVdjT3Baa1B6bm9mV1RGbmlLcGt3Zy03SWpPWXZhbHhaWEU0TmhWMmxJakN4Q2VZT05OLWpDU091b3NSbjNR?oc=5",
+        "description": "",
+        "pubDate": "2025-12-23T10:32:00Z",
+        "source": "news.google.com",
         "image": "",
-        "bias": -1
+        "bias": 0
       },
       {
         "title": "Protest erupts in India’s capital city over lynching of Hindu man in Bangladesh - AP News",
@@ -705,27 +705,18 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4de/live/c40b0770-e009-11f0-aae2-2191c0e48a3b.jpg",
         "bias": 0
-      },
-      {
-        "title": "Palestinians says Israel is demolishing homes near Jerusalem, displacing hundreds",
-        "link": "https://www.npr.org/2025/12/23/nx-s1-5651920/palestinians-says-israel-is-demolishing-homes-near-jerusalem-displacing-hundreds",
-        "description": "Palestinians say Israel has demolished hundreds of homes near Jerusalem, displacing hundreds of Palestinians as new Jewish settlements are greenlit in the West Bank.",
-        "pubDate": "2025-12-23T09:44:08Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Five dead after plane carrying child burns victim crashes in Texas",
-        "link": "https://www.bbc.com/news/articles/c1lr1yvqge5o?at_medium=RSS&at_campaign=rss",
-        "description": "The Mexican Navy plane was transporting a child to the US on behalf of a charity which cares for burns victims.",
-        "pubDate": "2025-12-23T08:58:46Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bed1/live/9d681660-dfe3-11f0-aae2-2191c0e48a3b.jpg",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Justice secretary's grooming gang comments probed for code breach",
+        "link": "https://www.bbc.com/news/articles/cn0knlgw0dyo?at_medium=RSS&at_campaign=rss",
+        "description": "Angela Constance has been accused of misrepresenting Prof Alexis Jay's position on public inquiries into child sexual abuse and exploitation.",
+        "pubDate": "2025-12-23T17:54:27Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cd3/live/44219c30-e00f-11f0-ad66-47ec726716bc.jpg",
+        "bias": 0
+      },
       {
         "title": "Justice Department releases more Epstein files and some mention Trump",
         "link": "https://www.npr.org/2025/12/23/nx-s1-5653302/more-epstein-files-released-trump-mentioned",
@@ -742,15 +733,6 @@
         "pubDate": "2025-12-23T17:29:09Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a68/live/122654e0-dffc-11f0-a8dc-93c15fe68710.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Justice secretary's grooming gang comments probed for code breach",
-        "link": "https://www.bbc.com/news/articles/cn0knlgw0dyo?at_medium=RSS&at_campaign=rss",
-        "description": "Angela Constance has been accused of misrepresenting Prof Alexis Jay's position on public inquiries into child sexual abuse and exploitation.",
-        "pubDate": "2025-12-23T16:10:56Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cd3/live/44219c30-e00f-11f0-ad66-47ec726716bc.jpg",
         "bias": 0
       },
       {
@@ -940,6 +922,15 @@
         "bias": 0
       },
       {
+        "title": "US regulator approves pill form of Wegovy weight-loss drug",
+        "link": "https://www.bbc.com/news/articles/ce86le5dyxyo?at_medium=RSS&at_campaign=rss",
+        "description": "Wegovy becomes first pill of its kind to be approved, shifting weight-loss drugs beyond injections.",
+        "pubDate": "2025-12-23T01:29:07Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d12/live/22b79c30-dfd2-11f0-8f37-51273813293d.jpg",
+        "bias": 0
+      },
+      {
         "title": "Trump says US is pursuing third oil tanker linked to Venezuela",
         "link": "https://www.bbc.com/news/articles/c99722j4lkgo?at_medium=RSS&at_campaign=rss",
         "description": "The move comes days after the US president said that he was ordering a blockade of sanctioned oil tankers entering and leaving Venezuela.",
@@ -1011,15 +1002,6 @@
         "pubDate": "2025-12-23T08:59:40Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfbd/live/6a89c210-dfd0-11f0-8f37-51273813293d.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Hung jury ends trial of ex-New York governors’ aide accused of selling influence to China - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObmJRZW15MEhCWmE4bFV2ZUV5TjBXd245S2gzLXYyMXVYQmFWT0M2cG12YnpKN2NnTHdKLTVhMFBQWWdrbnc0X3djY1VVdmlnR0ItRlllWTY2MWZHS09oOEdfRkgwa2JaR3BmUkR2cEE4Y2xja1ZjY2UtWW8tYkl4cW9TUXUybDF4YmJjOXJHQzN3azIyRHEw?oc=5",
-        "description": "",
-        "pubDate": "2025-12-23T03:52:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       }
     ]
