@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-24T23:20:32.606978Z",
+  "lastUpdate": "2025-12-24T23:40:47.922231Z",
   "news": {
     "Gaming": [
       {
@@ -9,6 +9,15 @@
         "pubDate": "2025-12-24T23:10:07Z",
         "source": "almazgtx.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NzEyMDgxLnBuZw==/315x250%23c/degtYH.png",
+        "bias": 0
+      },
+      {
+        "title": "PAPARAZZI [Free] [Interactive Fiction]",
+        "link": "https://caretortta.itch.io/paparazzi",
+        "description": "pov you're a hardcore fan turned paparazzi",
+        "pubDate": "2025-12-24T23:09:07Z",
+        "source": "caretortta.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NzEyMDI0LnBuZw==/315x250%23c/wQAeN2.png",
         "bias": 0
       },
       {
@@ -39,12 +48,21 @@
         "bias": 0
       },
       {
-        "title": "candy rush [Free] [Other] [Windows] [macOS] [Android]",
+        "title": "candy rush [Free] [Other]",
         "link": "https://lars12345.itch.io/candy-rush",
         "description": "",
         "pubDate": "2025-12-24T22:52:43Z",
         "source": "lars12345.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NzExODI1LnBuZw==/315x250%23c/ps5q8w.png",
+        "bias": 0
+      },
+      {
+        "title": "CLICKBASE RACE [Free] [Racing] [Windows]",
+        "link": "https://erfanakbari.itch.io/clickbase-race",
+        "description": "CLICKBASE RACE (A TIMING-BASED RACING GAME)",
+        "pubDate": "2025-12-24T22:50:43Z",
+        "source": "erfanakbari.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NzExNzkzLnBuZw==/315x250%23c/oGG33O.png",
         "bias": 0
       },
       {
@@ -156,21 +174,21 @@
         "bias": 0
       },
       {
-        "title": "7 Carol Bells [Free] [Adventure] [Windows]",
-        "link": "https://nthacker1.itch.io/carol-bells",
-        "description": "Arcade",
-        "pubDate": "2025-12-24T21:49:50Z",
-        "source": "nthacker1.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzExMjg0LnBuZw==/315x250%23c/pcR9Ep.png",
-        "bias": 0
-      },
-      {
         "title": "Gift Rush [Free] [Action]",
         "link": "https://jit-games.itch.io/gift-rush",
         "description": "",
         "pubDate": "2025-12-24T21:48:12Z",
         "source": "jit-games.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NzExMDgyLnBuZw==/315x250%23c/IickRg.png",
+        "bias": 0
+      },
+      {
+        "title": "Hex & Hook [Free] [Strategy] [Windows]",
+        "link": "https://xornis.itch.io/hex-and-hook",
+        "description": "A turn-based strategy game about fishing in hexagonal grid world.",
+        "pubDate": "2025-12-24T21:32:48Z",
+        "source": "xornis.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NzExMTQzLnBuZw==/315x250%23c/e3oiRY.png",
         "bias": 0
       },
       {
@@ -189,15 +207,6 @@
         "pubDate": "2025-12-24T21:22:57Z",
         "source": "reglisse.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NzEwNTUzLnBuZw==/315x250%23c/6hoEEI.png",
-        "bias": 0
-      },
-      {
-        "title": "Santa's Last Neighborhood [Free] [Platformer]",
-        "link": "https://tryhardfox1567.itch.io/santas-last-neighborhood",
-        "description": "Jump over chimneys, light up the way and deliver presents!",
-        "pubDate": "2025-12-24T20:51:34Z",
-        "source": "tryhardfox1567.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzExMDkyLnBuZw==/315x250%23c/aQ7GzY.png",
         "bias": 0
       },
       {
@@ -248,6 +257,24 @@
     ],
     "World": [
       {
+        "title": "Democratic lawmaker sues to remove Trump's name from Kennedy Center",
+        "link": "https://www.bbc.com/news/articles/c79x0x7v70go?at_medium=RSS&at_campaign=rss",
+        "description": "Rep Joyce Beatty, who sits on the centre's board, argues the name change is illegal because it requires approval from Congress.",
+        "pubDate": "2025-12-24T23:39:24Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b47/live/82abccd0-e0f2-11f0-a016-cd64476883b3.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Sean 'Diddy' Combs files appeal asking for immediate prison release",
+        "link": "https://www.bbc.com/news/articles/c5yqe4j15lzo?at_medium=RSS&at_campaign=rss",
+        "description": "Combs argues his sentence was improperly decided and asked that his conviction also be thrown out.",
+        "pubDate": "2025-12-24T23:30:09Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5add/live/f07769e0-e101-11f0-b67b-690eb873de1b.png",
+        "bias": 0
+      },
+      {
         "title": "Officials discover a million more documents potentially related to Epstein case",
         "link": "https://www.bbc.com/news/articles/czdgz84dn35o?at_medium=RSS&at_campaign=rss",
         "description": "The US Department of Justice says reviewing the material could delay the full release of Epstein documents by a \"few more weeks\".",
@@ -266,7 +293,7 @@
         "bias": -1
       },
       {
-        "title": "Trump-backed candidate Nasry Asfura wins Honduras presidential election",
+        "title": "Trump-backed candidate wins in knife-edge Honduran election",
         "link": "https://www.bbc.com/news/articles/cyvgz1jn368o?at_medium=RSS&at_campaign=rss",
         "description": "It is not clear if Asfura's opponents will accept the result after saying the vote count was manipulated.",
         "pubDate": "2025-12-24T22:25:29Z",
@@ -417,15 +444,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Democratic board member muted during Kennedy Center vote sues to remove Trump's name",
-        "link": "https://www.bbc.com/news/articles/c79x0x7v70go?at_medium=RSS&at_campaign=rss",
-        "description": "US Representative Joyce Beatty claims the renaming of the venue is illegal because the change requires \"an act of Congress\".",
-        "pubDate": "2025-12-24T18:11:10Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b47/live/82abccd0-e0f2-11f0-a016-cd64476883b3.jpg",
-        "bias": 0
       },
       {
         "title": "Mahrez double sets Algeria off to winning AFCON 2025 start against Sudan",
@@ -687,15 +705,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Watch: Huge fireball as tanker explodes on Italian motorway",
-        "link": "https://www.bbc.com/news/videos/clydk6vd4rzo?at_medium=RSS&at_campaign=rss",
-        "description": "The vehicle had earlier been involved in a crash and everyone in the surrounding area was safely evacuated before the blast.",
-        "pubDate": "2025-12-24T12:33:33Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2ae/live/afb67eb0-e0c4-11f0-b67b-690eb873de1b.jpg",
-        "bias": 0
       }
     ],
     "Politics": [
