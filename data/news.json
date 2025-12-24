@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-12-24T21:34:53.223847Z",
+  "lastUpdate": "2025-12-24T21:46:15.691537Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Hip Crusher Adventures [Free] [Visual Novel]",
+        "link": "https://hipcrusher.itch.io/hip-crusher-adventures",
+        "description": "",
+        "pubDate": "2025-12-24T21:22:06Z",
+        "source": "hipcrusher.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NzEwOTIwLnBuZw==/315x250%23c/czSirp.png",
+        "bias": 0
+      },
       {
         "title": "ZigZag Rush [Free] [Racing] [Android]",
         "link": "https://robleuy.itch.io/zigzagrush",
@@ -30,6 +39,15 @@
         "bias": 0
       },
       {
+        "title": "target taggers [Free]",
+        "link": "https://prmgabble.itch.io/targettaggers",
+        "description": "",
+        "pubDate": "2025-12-24T21:04:02Z",
+        "source": "prmgabble.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NzEwNTIyLnBuZw==/315x250%23c/tTBYgl.png",
+        "bias": 0
+      },
+      {
         "title": "Green Tap [Free] [Other] [Android]",
         "link": "https://tubibargames.itch.io/green-tap",
         "description": "",
@@ -39,7 +57,7 @@
         "bias": 0
       },
       {
-        "title": "Upcoming mod... [Free]",
+        "title": "Upcoming mod... [Free] [Windows] [macOS] [Linux] [Android]",
         "link": "https://e-turk.itch.io/upcoming-mod",
         "description": "",
         "pubDate": "2025-12-24T20:57:22Z",
@@ -174,24 +192,6 @@
         "bias": 0
       },
       {
-        "title": "Glow and Jingle [Free] [Action]",
-        "link": "https://azplaylab.itch.io/glow-and-jingle",
-        "description": "",
-        "pubDate": "2025-12-24T19:46:00Z",
-        "source": "azplaylab.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzA5NjY1LnBuZw==/315x250%23c/pQGdt9.png",
-        "bias": 0
-      },
-      {
-        "title": "Chiro [Free] [Windows]",
-        "link": "https://clov.itch.io/chiro",
-        "description": "",
-        "pubDate": "2025-12-24T19:39:32Z",
-        "source": "clov.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzA5NjExLnBuZw==/315x250%23c/Kfvy7u.png",
-        "bias": 0
-      },
-      {
         "title": "Ready, Steady, Glow! [Free] [Platformer]",
         "link": "https://skellysoft.itch.io/ready-steady-glow",
         "description": "Get ready for a glow up...",
@@ -226,18 +226,36 @@
         "source": "mibosandy.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NzEwNDExLnBuZw==/315x250%23c/%2BbOQVd.png",
         "bias": 0
-      },
-      {
-        "title": "City Explorer [Free] [Educational] [Windows]",
-        "link": "https://erricad.itch.io/city-explorer",
-        "description": "3D data visualization project",
-        "pubDate": "2025-12-24T13:50:09Z",
-        "source": "erricad.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzA5MDgzLnBuZw==/315x250%23c/MOeyBC.png",
-        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Trump-backed conservative Nasry Asfura wins Honduras election: Authorities",
+        "link": "https://www.aljazeera.com/news/2025/12/24/trump-backed-conservative-nasry-asfura-wins-honduras-election-authorities?traffic_source=rss",
+        "description": "This is a breaking news story.",
+        "pubDate": "2025-12-24T21:39:43Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Syria announces arrest of ISIL leader al-Zoubi",
+        "link": "https://www.aljazeera.com/news/2025/12/24/syria-announces-arrest-of-isil-leader-al-zoubi?traffic_source=rss",
+        "description": "This is a breaking news story.",
+        "pubDate": "2025-12-24T21:33:04Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Trump removes nearly 30 career diplomats from ambassadorial positions - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUnFFZWM0bEhObmE3X3p2emo3aHZYc05FWU83UTNoaGQtTmtFREs0RHBqR080cy1xLURJVUxpR2h1VGVxampBVUtRRGs0Mk5xSk1WU0x2cFpaMW1Td01JQ0t4RkhMUV9DM3M0VlRzSlFaNmZPRENPcjhBVTdsaGVTekt1akhjdndkSGN1NjNKZDZzWlE0dEUtRzNlUnF1VjA?oc=5",
+        "description": "",
+        "pubDate": "2025-12-24T21:29:42Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "California farmer arrested on suspicion of murder in wife’s death in Arizona - AP News",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSnctQVphNUhPeTdiSUEwVG4tOHJmcDFMZlQ3SHFMM0gwZm13eTU4QmVNenRsR2dKRHNYOXRsUG9sN0E5SmM1Sm43eXI2YjVyU0RYWmNVbllkV2JVQVpzcVgtMkVEZDdWWVRhM2FkZ1RUR3pTeFhEWG44WDVvblNpd1pwM04xSGZpVzI1ZXR1TzNlSVYwV3FQU2lWMVhOejA?oc=5",
@@ -264,6 +282,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Grand jury declines to indict man in shooting that killed teen at Kentucky State University - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZUt3eklOUlhDa1NiTE1wdjJLX2k4V3RDLXJkRC15MmJoS2pUakp6eXRnZjVuZkNwRnFscS1taW9jdUpnSTNtYW9US1g3YlJYN1RELU5IWHJpSnZIamsxYngwUnhWU3QxLWtWaXA1eFNnS25ERkZRZUg0S0dpOXExWEpETkQxSmluTExTZ25NY2tfWmhHNTd0VTM0VzdDRmZZbXR3?oc=5",
+        "description": "",
+        "pubDate": "2025-12-24T20:50:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Amad Diallo scores goal as Ivory Coast win against Mozambique at AFCON",
@@ -651,42 +678,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Stokes concerned for England’s mental wellbeing on Ashes tour of Australia",
-        "link": "https://www.aljazeera.com/sports/2025/12/24/stokes-concerned-for-england-mental-well-being-on-ashes-tour-of-australia?traffic_source=rss",
-        "description": "The England cricket team have come in for heavy criticism of their performance and conduct on losing Ashes tour.",
-        "pubDate": "2025-12-24T11:57:46Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Pro-Russian hackers claim cyberattack on French postal service - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc1BKVU1jZ2NCT1l6NjNDSlptNXVsYVMydkRWSlZmN3FweC1KaE9BX254Q1k3MWl0d3c3YVJaS3ZTRXBfZ0hXMXdtRUpCVVc2V1N2a29fUlZrYkNyb01QX3czSFNUU0s5SGszSGF5N19zR2Y1Zll3NVp6MUxzTUJtUnE5US1pM1VFWFBVeDFiWTl6anFCaGVZVFU1eERXNHdWU2c?oc=5",
-        "description": "",
-        "pubDate": "2025-12-24T11:47:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Zelenskyy unveils details of new peace plan, seeks Trump talks on territory",
-        "link": "https://www.aljazeera.com/news/2025/12/24/zelenskyy-unveils-details-of-new-peace-plan-seeks-trump-talks-on-territory?traffic_source=rss",
-        "description": "President says negotiators secured gains on issues like army numbers, but control of Donbas 'most difficult point'.",
-        "pubDate": "2025-12-24T11:42:50Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "South Korean lawmakers pass bill targeting false information despite warnings on censorship - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPd29yOTVVbjhyTDZsSXRGOVNMcUFVUG9vbU1nZnRLQzI1OTR1X1IyWnRua1ZuVnV1Q1NYWS1TVU9LMEJTc2RFQ3BrTGszbkk0Xy1uNjlKWW84c2hTb2dydVFYMnNsMkhIWGhGNm9wemVPS2NIQ0JYNUVDT1c0LUFRUm1ha3lyTGFrVGJZbmIwVGtfb081X1hBdVowTU9WeUx4a2J0UGlmZW05LS1WSEU1RHFn?oc=5",
-        "description": "",
-        "pubDate": "2025-12-24T11:21:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
