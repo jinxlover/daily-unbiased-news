@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-24T11:19:06.724238Z",
+  "lastUpdate": "2025-12-24T11:34:57.914461Z",
   "news": {
     "Gaming": [
       {
@@ -9,6 +9,15 @@
         "pubDate": "2025-12-24T11:11:06Z",
         "source": "pastikar.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NzAzNzIzLnBuZw==/315x250%23c/LvuX7R.png",
+        "bias": 0
+      },
+      {
+        "title": "Ninja Frog [Free] [Adventure]",
+        "link": "https://samankashi.itch.io/ninja-frog",
+        "description": "",
+        "pubDate": "2025-12-24T11:09:51Z",
+        "source": "samankashi.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NzAzNjcyLnBuZw==/315x250%23c/eBSp81.png",
         "bias": 0
       },
       {
@@ -27,6 +36,15 @@
         "pubDate": "2025-12-24T10:49:48Z",
         "source": "masupell.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NzAzNTY0LnBuZw==/315x250%23c/3PmYvG.png",
+        "bias": 0
+      },
+      {
+        "title": "Power and Regret [Free] [Platformer]",
+        "link": "https://fikretkutluay.itch.io/power-and-regret",
+        "description": "",
+        "pubDate": "2025-12-24T10:43:21Z",
+        "source": "fikretkutluay.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NzAzNjU3LnBuZw==/315x250%23c/w%2BKztZ.png",
         "bias": 0
       },
       {
@@ -171,42 +189,6 @@
         "pubDate": "2025-12-24T09:07:01Z",
         "source": "davemorris.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NzAyOTc2LmpwZw==/315x250%23c/nVZhoH.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Puraga (Petualangan Anka) [Free] [Educational]",
-        "link": "https://nydln.itch.io/puraga-petualangan-anka",
-        "description": "",
-        "pubDate": "2025-12-24T08:49:39Z",
-        "source": "nydln.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzAyMzcxLnBuZw==/315x250%23c/uuXnFf.png",
-        "bias": 0
-      },
-      {
-        "title": "Stealing Christmas [Free] [Survival] [Windows]",
-        "link": "https://junior4144.itch.io/stealing-christmas",
-        "description": "Escape Santa's Workshop",
-        "pubDate": "2025-12-24T08:42:46Z",
-        "source": "junior4144.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzAyNTAzLnBuZw==/315x250%23c/ycuLoF.png",
-        "bias": 0
-      },
-      {
-        "title": "Pixel Jump [Free] [Platformer] [Windows]",
-        "link": "https://human-remains-interactive.itch.io/pixel-jump",
-        "description": "2D Platformer",
-        "pubDate": "2025-12-24T07:42:23Z",
-        "source": "human-remains-interactive.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzAxODQzLnBuZw==/315x250%23c/E96vXQ.png",
-        "bias": 0
-      },
-      {
-        "title": "alien invasion soleh [Free]",
-        "link": "https://soleh-bahri.itch.io/alien-invasion",
-        "description": "SHP2025",
-        "pubDate": "2025-12-24T07:38:25Z",
-        "source": "soleh-bahri.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzAyNjU4LnBuZw==/315x250%23c/OBci5N.png",
         "bias": 0
       },
       {
@@ -689,7 +671,10 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
+      }
+    ],
+    "Tech": [],
+    "Science": [
       {
         "title": "Student loan borrowers in default may see wages garnished in 2026 - AP News",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORmtkVElrcmwxQmhFSkJOdU4yV1M3VkVUbElaUnl0b2hraFJzUzlUdHM1Snh5NmdtYkEySGdydUpZRC05T1Y3YlZlRHhJWkhFWG1WdHFTb1ZHV0dVMXduS0libmlvdHUzbEZYNVliai1WMVgxTi11Rm9CVVBBYjlNUDZkMnJEbmJvTEwzNUozbVZyMU0?oc=5",
@@ -700,8 +685,6 @@
         "bias": 0
       }
     ],
-    "Tech": [],
-    "Science": [],
     "Business": [
       {
         "title": "BP sells stake in motor oil arm Castrol for $6bn",
