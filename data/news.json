@@ -1,7 +1,25 @@
 {
-  "lastUpdate": "2025-12-25T06:59:00.919378Z",
+  "lastUpdate": "2025-12-25T07:29:16.299864Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Noël [Free] [Windows]",
+        "link": "https://birthdaygames.itch.io/noel",
+        "description": "its 2 am im so tired",
+        "pubDate": "2025-12-25T07:18:08Z",
+        "source": "birthdaygames.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NzE0OTk0LnBuZw==/315x250%23c/RxgZ8J.png",
+        "bias": 0
+      },
+      {
+        "title": "React – Fast Reflex Game [Free] [Survival]",
+        "link": "https://fivecatsgames.itch.io/react-fast-reflex-game",
+        "description": "",
+        "pubDate": "2025-12-25T06:51:45Z",
+        "source": "fivecatsgames.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NzE1MDE4LnBuZw==/315x250%23c/OxdHfF.png",
+        "bias": 0
+      },
       {
         "title": "Daddy's Home [Free] [Other]",
         "link": "https://rowanprice.itch.io/daddys-home",
@@ -147,39 +165,12 @@
         "bias": 0
       },
       {
-        "title": "Legend of Iatros [Free] [Adventure]",
-        "link": "https://beyeperfect.itch.io/legendofiatros",
-        "description": "Heal the world",
-        "pubDate": "2025-12-25T04:47:11Z",
-        "source": "beyeperfect.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzE0Mjc0LnBuZw==/315x250%23c/v6hsRs.png",
-        "bias": 0
-      },
-      {
-        "title": "Imp Slayer [Free]",
-        "link": "https://dravid.itch.io/imp-slayer",
-        "description": "Casual imp killing",
-        "pubDate": "2025-12-25T04:26:21Z",
-        "source": "dravid.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzE0MjUzLnBuZw==/315x250%23c/7jcuo7.png",
-        "bias": 0
-      },
-      {
         "title": "Lone Way [thatgamejam #01] [Free] [Puzzle] [Windows] [Android]",
         "link": "https://vvaytoyek.itch.io/lone-way",
         "description": "a short game for thatgamejam #01 entry",
         "pubDate": "2025-12-25T04:15:26Z",
         "source": "vvaytoyek.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NzE0MDgwLnBuZw==/315x250%23c/OY3NUl.png",
-        "bias": 0
-      },
-      {
-        "title": "Ball Mania [Free] [Simulation] [macOS] [Android]",
-        "link": "https://mattattero.itch.io/ball-mania",
-        "description": "Un click, una bola",
-        "pubDate": "2025-12-25T04:05:39Z",
-        "source": "mattattero.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzE0MDYyLnBuZw==/315x250%23c/X38Wg7.png",
         "bias": 0
       },
       {
@@ -199,17 +190,44 @@
         "source": "zonfar.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NzEzOTAzLnBuZw==/315x250%23c/eY9qTF.png",
         "bias": 0
+      },
+      {
+        "title": "Candy Cane LLC [Free] [Simulation]",
+        "link": "https://ruben-tipparach.itch.io/candy-cane-llc",
+        "description": "",
+        "pubDate": "2025-12-25T01:27:11Z",
+        "source": "ruben-tipparach.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NzE1MTU4LmdpZg==/315x250%23c/dJoIC1.gif",
+        "bias": 0
+      },
+      {
+        "title": "doomed coin yuri [Free] [Simulation] [Windows]",
+        "link": "https://scareoset.itch.io/an-incremental-game-about-flipping-coins",
+        "description": "an incremental game about flipping coins (and falling in love and tragedy and being gay)",
+        "pubDate": "2025-12-25T01:02:17Z",
+        "source": "scareoset.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NzEzMDIxLnBuZw==/315x250%23c/wciBhZ.png",
+        "bias": 0
       }
     ],
     "World": [
       {
         "title": "Front-runner to be Bangladesh PM returns after 17 years in exile",
         "link": "https://www.bbc.com/news/articles/crk733k1k1eo?at_medium=RSS&at_campaign=rss",
-        "description": "Tarique Rahman, who has lived in London since 2008, arrives weeks for pivotal elections are held.",
+        "description": "Tarique Rahman, who has lived in London since 2008, arrives weeks before for pivotal elections are held.",
         "pubDate": "2025-12-25T06:44:21Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcdd/live/65413f50-e155-11f0-a8dc-93c15fe68710.png",
         "bias": 0
+      },
+      {
+        "title": "Algeria passes law declaring French colonisation a crime",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/25/algeria-passes-law-declaring-french-colonisation-a-crime?traffic_source=rss",
+        "description": "Algeria’s parliament unanimously passed a law declaring France’s colonisation a crime.",
+        "pubDate": "2025-12-25T06:32:26Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Trump-backed candidate Nasry Asfura declared winner of Honduras' presidential vote",
@@ -219,15 +237,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Saudi Arabia calls on Yemen separatists to leave 2 governorates as anti-Houthi coalition strains - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVVVFb3piZzdDMEF4bzBCNHVVU0U2VDdpN0JNdEN1VGZqcWJaTGg4a3N3clFCXzlDd3RlMTBRc1dxaUduTE9XNk9ZYXJQSDRVVGh3VmNVcHdhcmcxZDB3NHRCcllQMk9fQldjMzlzcFVpSXg2MEVfOEFvbUQ4R2oxUHM2Nk01R3VYN3VIN3RJVTQzbXZ4enluaGZ5QThXSlJLRUZBR3d4eGVmUQ?oc=5",
-        "description": "",
-        "pubDate": "2025-12-25T06:27:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "‘Half joy, half sadness’: Christmas celebrations resume in Bethlehem",
@@ -250,7 +259,7 @@
       {
         "title": "Bangladesh opposition leader Tarique Rahman returns after 17 years in exile",
         "link": "https://www.aljazeera.com/news/2025/12/25/bangladesh-opposition-leader-tarique-rahman-returns-after-17-years-in-exile?traffic_source=rss",
-        "description": "The acting chairman of the Bangladesh Nationalist Party (BNP) is considered top a PM candidate in February's election.",
+        "description": "The acting chairman of the Bangladesh Nationalist Party (BNP) is considered a top prime ministerial candidate.",
         "pubDate": "2025-12-25T06:19:30Z",
         "source": "aljazeera.com",
         "image": "",
@@ -264,6 +273,24 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Hawaii stuns Cal in 35-31 in Hawaii Bowl on backup QB Drew Weaver's last-minute TD pass - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb3U0N19HbnVIdDgtN1lGRDl6MzBUbG1UN1k0MGdzRkhhRS16SHJ0VnJtck10cXVaRDExRWN6M21xYlA2QlFWakFDY3MxSHBQTW5IcnhrNnM4b0dDOGV3ajFoTjlka1RXN3ZlMVIwbjh5V1RrU3JueEJnSmRJS2lzLURXUzFOdmNoNFppb3N4SEd3dw?oc=5",
+        "description": "",
+        "pubDate": "2025-12-25T05:47:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Saudi Arabia calls on Yemen separatists to leave 2 governorates as anti-Houthi coalition strains - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVVVFb3piZzdDMEF4bzBCNHVVU0U2VDdpN0JNdEN1VGZqcWJaTGg4a3N3clFCXzlDd3RlMTBRc1dxaUduTE9XNk9ZYXJQSDRVVGh3VmNVcHdhcmcxZDB3NHRCcllQMk9fQldjMzlzcFVpSXg2MEVfOEFvbUQ4R2oxUHM2Nk01R3VYN3VIN3RJVTQzbXZ4enluaGZ5QThXSlJLRUZBR3d4eGVmUQ?oc=5",
+        "description": "",
+        "pubDate": "2025-12-25T05:30:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Public release of Epstein records puts Maxwell under fresh scrutiny amid her claims of innocence - AP News",
@@ -383,6 +410,15 @@
         "bias": 0
       },
       {
+        "title": "After missing deadline, DOJ says it may need a 'few more weeks' to finish releasing Epstein files - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQV9rSjFUdVFpNDhIQ0xrYzc3ZnBxZnB3X1pCYmRxUkg2cHhqSW1NejllN1dvUDJyT1psdFJQVzJDNEZyUVg3Z2xSUV9oUE1ObmJoRW1fY3F1b2UzTmstb3k1ZG4zNXotZ0RaNXE1Z3F1eHdmV3RIa2ExclY0S2lrRW9TYWZ1MElfQ1YwZUpQZTUyYV9EU3o1bTZUWUNudWpSV2t5TjVOUnVyek1pRHZiVF9hYTlacDA?oc=5",
+        "description": "",
+        "pubDate": "2025-12-25T00:45:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Where is Santa now? Trump answers kids' Christmas calls to Norad tracker",
         "link": "https://www.bbc.com/news/videos/cqxqvd0z5gno?at_medium=RSS&at_campaign=rss",
         "description": "Norad got some help from President Donald Trump as it marked its 70th year tracking Santa Claus on Christmas Eve.",
@@ -423,6 +459,16 @@
     "Tech": [],
     "Science": [],
     "Business": [],
-    "Culture": []
+    "Culture": [
+      {
+        "title": "Catherine and Charlotte perform piano duet for Christmas carol concert",
+        "link": "https://www.bbc.com/news/articles/c2ep0pz8emjo?at_medium=RSS&at_campaign=rss",
+        "description": "The pre-recorded performance aired on ITV1 on Christmas Eve and saw the pair play a piece by Scottish composer Erland Cooper.",
+        "pubDate": "2025-12-25T07:04:47Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e71/live/8b563d20-e10b-11f0-aae2-2191c0e48a3b.jpg",
+        "bias": 0
+      }
+    ]
   }
 }
