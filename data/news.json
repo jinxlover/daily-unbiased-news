@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-12-25T09:55:36.235153Z",
+  "lastUpdate": "2025-12-25T10:23:56.013686Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Slide Hero [Free]",
+        "link": "https://ilgamelon.itch.io/slide-hero",
+        "description": "",
+        "pubDate": "2025-12-25T10:12:55Z",
+        "source": "ilgamelon.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NzE2MjE4LnBuZw==/315x250%23c/%2BdO5KB.png",
+        "bias": 0
+      },
       {
         "title": "Asteroids 2 [Free]",
         "link": "https://jorryns.itch.io/asteroids2",
@@ -93,6 +102,15 @@
         "bias": 0
       },
       {
+        "title": "Tiempo ambiental [Free] [Platformer]",
+        "link": "https://santiago012.itch.io/tiempo-ambiental-0090",
+        "description": "\"un mundo contaminado\"(juego hecho con las patas",
+        "pubDate": "2025-12-25T07:02:34Z",
+        "source": "santiago012.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NzE2MDYwLmpwZw==/315x250%23c/Ao%2BHYw.jpg",
+        "bias": 0
+      },
+      {
         "title": "React – Fast Reflex Game [Free] [Survival]",
         "link": "https://fivecatsgames.itch.io/react-fast-reflex-game",
         "description": "action, arcade, reflex, mobile, android, indie, casual, fast-paced",
@@ -129,24 +147,6 @@
         "bias": 0
       },
       {
-        "title": "Feeder [Free] [Windows] [Linux]",
-        "link": "https://idty-ugd.itch.io/feeder",
-        "description": "",
-        "pubDate": "2025-12-25T06:17:25Z",
-        "source": "idty-ugd.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzE0NzkxLnBuZw==/315x250%23c/oyVDrQ.png",
-        "bias": 0
-      },
-      {
-        "title": "Glyphtenders [Free] [Other]",
-        "link": "https://thebluemuzzy.itch.io/glyphtenders",
-        "description": "An area control game with simple spelling. The best speller doesn't always win!",
-        "pubDate": "2025-12-25T06:14:13Z",
-        "source": "thebluemuzzy.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzE0ODIxLnBuZw==/315x250%23c/mfPrck.png",
-        "bias": 0
-      },
-      {
         "title": "Influencer [Free] [Survival]",
         "link": "https://silentsongs1995.itch.io/influencer",
         "description": "Survivor-like and Unity 2D demo",
@@ -162,15 +162,6 @@
         "pubDate": "2025-12-25T05:16:38Z",
         "source": "qaz-plm1244.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NzE0NjAxLnBuZw==/315x250%23c/qi6OEf.png",
-        "bias": 0
-      },
-      {
-        "title": "Stickman Dumb Deaths Redux [Free] [Android]",
-        "link": "https://bigbroofficial.itch.io/stickman-dumb-deaths-redux",
-        "description": "Those who thought it was Fake have never seen or heard from again",
-        "pubDate": "2025-12-25T05:05:39Z",
-        "source": "bigbroofficial.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzE0Mzc0LmpwZw==/315x250%23c/9%2BMCcF.jpg",
         "bias": 0
       },
       {
@@ -211,6 +202,42 @@
       }
     ],
     "World": [
+      {
+        "title": "After two years, Bethlehem brings back it Christmas celebrations",
+        "link": "https://www.npr.org/2025/12/25/nx-s1-5648600/after-two-years-bethlehem-brings-back-it-christmas-celebrations",
+        "description": "With a ceasefire in place in Gaza, Bethlehem in the West Bank is resuming its festive Christmas celebrations.",
+        "pubDate": "2025-12-25T09:58:46Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "A group of Belgians make drones in a secret volunteer workshop to send to Ukraine",
+        "link": "https://www.npr.org/2025/12/25/nx-s1-5649486/a-group-of-belgians-make-drones-in-a-secret-volunteer-workshop-to-send-to-ukraine",
+        "description": "A group of hobbyists in Belgium make drones that help on the frontline of a war.",
+        "pubDate": "2025-12-25T09:58:35Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Trump-backed conservative candidate wins Honduras' presidential election",
+        "link": "https://www.npr.org/2025/12/25/nx-s1-5656238/trump-backed-conservative-candidate-wins-honduras-presidential-election",
+        "description": "A conservative candidate backed by President Trump won Honduras' contested presidential election.",
+        "pubDate": "2025-12-25T09:57:43Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Video: Gaza’s Christians mark first Christmas since fragile ceasefire deal",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/25/video-gazas-christians-mark-first-christmas-since-fragile-ceasefire-deal?traffic_source=rss",
+        "description": "Gaza’s Christians reflected on the loss they’ve experienced after two years of Israel’s devastating war.",
+        "pubDate": "2025-12-25T09:53:19Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Photos: Global stories of 2025 in pictures",
         "link": "https://www.aljazeera.com/gallery/2025/12/25/photos-global-stories-of-2025-in-pictures?traffic_source=rss",
@@ -556,6 +583,15 @@
     ],
     "Politics": [
       {
+        "title": "How one politically divided family keeps the peace during the holidays",
+        "link": "https://www.npr.org/2025/12/25/nx-s1-5647745/how-one-politically-divided-family-keeps-the-peace-during-the-holidays",
+        "description": "Talking about politics over the holidays can be difficult for many families, even for politicians themselves. One politically divided family in Colorado makes sure get along, especially during the holidays.",
+        "pubDate": "2025-12-25T09:58:25Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "DOJ says it may need a 'few more weeks' to finish releasing Epstein files",
         "link": "https://www.npr.org/2025/12/25/g-s1-103685/doj-says-few-more-weeks-epstein-files",
         "description": "The Justice Department said Wednesday that it may need a \"few more weeks\" to release its records on the late sex offender Jeffrey Epstein after discovering more than a million potentially relevant documents.",
@@ -569,6 +605,15 @@
     "Science": [],
     "Business": [],
     "Culture": [
+      {
+        "title": "The real ping pong champion — and hustler — who inspired 'Marty Supreme'",
+        "link": "https://www.npr.org/2025/12/25/nx-s1-5583930/marty-supreme-timothee-chalamet-marty-reisman-ping-pong-real-player",
+        "description": "Marty Reisman was nicknamed \"The Needle\" for his slender physique. He dressed well and put on a show.",
+        "pubDate": "2025-12-25T10:00:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Catherine and Charlotte perform piano duet for Christmas carol concert",
         "link": "https://www.bbc.com/news/articles/c2ep0pz8emjo?at_medium=RSS&at_campaign=rss",
