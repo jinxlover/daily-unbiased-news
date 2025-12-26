@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-12-26T09:43:52.242786Z",
+  "lastUpdate": "2025-12-26T09:55:22.619102Z",
   "news": {
     "Gaming": [
+      {
+        "title": "GUNTOUCHABLES [Free] [Adventure] [Windows]",
+        "link": "https://violarip.itch.io/guntouchables",
+        "description": "",
+        "pubDate": "2025-12-26T09:41:14Z",
+        "source": "violarip.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NzI3NTg0LmpwZw==/315x250%23c/yYZG5m.jpg",
+        "bias": 0
+      },
       {
         "title": "Gladio Mori [Free] [Action] [Windows]",
         "link": "https://toolside.itch.io/gladio-mori",
@@ -49,7 +58,7 @@
       },
       {
         "title": "Dunguns [Free] [Survival] [Windows]",
-        "link": "https://los-alamos-interactive.itch.io/dunguns-en",
+        "link": "https://los-alamos-interactive.itch.io/dunguns",
         "description": "Roguelike of ten waves, upgrade your weapon. Infinite waves after finished game.",
         "pubDate": "2025-12-26T08:22:57Z",
         "source": "los-alamos-interactive.itch.io",
@@ -165,15 +174,6 @@
         "bias": 0
       },
       {
-        "title": "christmas night [Free] [Survival] [Windows] [macOS]",
-        "link": "https://danjaye.itch.io/christmas-night",
-        "description": "I love christmas",
-        "pubDate": "2025-12-26T06:18:50Z",
-        "source": "danjaye.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzI2MzQ1LnBuZw==/315x250%23c/QXXEmD.png",
-        "bias": 0
-      },
-      {
         "title": "Se Beber, Não Alien - (Alien Hangover) [Free] [Survival]",
         "link": "https://codeplay-games.itch.io/se-beber-nao-alien",
         "description": "Onde a amizade termina e a gritaria começa.. Essa festa deu ruim.",
@@ -183,30 +183,12 @@
         "bias": 0
       },
       {
-        "title": "GB BASIC - Starter Kit - Scroll Shooting [Free] [Shooter]",
-        "link": "https://tonywang.itch.io/gbb-scroll-shooting",
-        "description": "",
-        "pubDate": "2025-12-26T06:16:40Z",
-        "source": "tonywang.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzI2Mzk3LnBuZw==/315x250%23c/CyAYt7.png",
-        "bias": 0
-      },
-      {
         "title": "INTERACTIVE GRAY!!!!!! [Free]",
         "link": "https://temugrayloverwover520.itch.io/interactive-gray",
         "description": "",
         "pubDate": "2025-12-26T06:02:23Z",
         "source": "temugrayloverwover520.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NzI2MjUzLnBuZw==/315x250%23c/0d48O6.png",
-        "bias": 0
-      },
-      {
-        "title": "heart_exe_final [Free] [Role Playing]",
-        "link": "https://shirodev404.itch.io/heart-exe-final",
-        "description": "",
-        "pubDate": "2025-12-26T06:02:09Z",
-        "source": "shirodev404.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzI2Mjc3LnBuZw==/315x250%23c/94cNAr.png",
         "bias": 0
       },
       {
@@ -224,10 +206,55 @@
         "title": "US launches strikes against Islamic State in Nigeria",
         "link": "https://www.bbc.com/news/articles/cj69j8l918do?at_medium=RSS&at_campaign=rss",
         "description": "President Donald Trump has previously accused the Nigerian government of failing to protect Christians from jihadist groups.",
-        "pubDate": "2025-12-26T09:27:19Z",
+        "pubDate": "2025-12-26T09:53:35Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de68/live/382eb510-e20e-11f0-86ca-d5a596a95198.png",
         "bias": 0
+      },
+      {
+        "title": "Zelensky hails 'new ideas' on peace after talks with US envoys",
+        "link": "https://www.bbc.com/news/articles/c4g413yz9g5o?at_medium=RSS&at_campaign=rss",
+        "description": "Ukraine's leader gives an upbeat assessment after discussing the plan with Steve Witkoff and Jared Kushner.",
+        "pubDate": "2025-12-26T09:49:35Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fea9/live/19e89c40-e1cf-11f0-84d1-ab457a8c9836.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Ex-State Dept. official on likelihood Kurdish forces join Syrian army before deadline",
+        "link": "https://www.npr.org/2025/12/26/nx-s1-5657316/ex-state-dept-official-on-likelihood-kurdish-forces-join-syrian-army-before-deadline",
+        "description": "Clean energy is surging despite political attacks. But a slowdown may be looming",
+        "pubDate": "2025-12-26T09:42:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Ukraine marks third Christmas at war with Russia",
+        "link": "https://www.npr.org/2025/12/26/nx-s1-5654445/ukraine-marks-third-christmas-at-war-with-russia",
+        "description": "Peace talks between Russia and Ukraine continue as Ukraine spent its third Christmas under Russian onslaught.",
+        "pubDate": "2025-12-26T09:41:09Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Ukrainian parliament member talks about what it's like to spend Christmas at war",
+        "link": "https://www.npr.org/2025/12/26/nx-s1-5648846/ukrainian-parliament-member-talks-about-what-its-like-to-spend-christmas-at-war",
+        "description": "Ukraine spent its third Christmas at war with Russia. NPR's Leila Fadel speaks with a Ukrainian member of parliament about celebrating in wartime and soliciting U.S. support for Ukraine.",
+        "pubDate": "2025-12-26T09:41:03Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "U.S. strikes ISIS targets in Nigeria",
+        "link": "https://www.npr.org/2025/12/26/nx-s1-5657440/u-s-strikes-isis-targets-in-nigeria",
+        "description": "President Trump announced Thursday that the U.S. launched military strikes against ISIS forces in Nigeria, alleging the group has been targeting Christians.",
+        "pubDate": "2025-12-26T09:40:52Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Jokic sets new NBA triple-double record in Nuggets OT victory over Wolves",
@@ -532,6 +559,15 @@
     "Tech": [],
     "Science": [
       {
+        "title": "Christmas is over. Here's what to do with your holiday trash",
+        "link": "https://www.npr.org/2025/12/26/nx-s1-5649424/christmas-is-over-heres-what-to-do-with-your-holiday-trash",
+        "description": "It's the day after Christmas, so here's your official reminder of what holiday detritus can and cannot be recycled.",
+        "pubDate": "2025-12-26T09:41:25Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Lions eliminated after Goff's uncharacteristic giveaways in loss that sends Packers to playoffs - AP News",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY18zRk12VThiUTJoNlBIQjJvQkIzUE10VkpqX3pkU3ZZMW45WXNMR3VxOUJtOXNyYno0TGhkeVRXYzJfNnFFY05YM05keE9jOFlmX0FDQlBtUkNVdk4wTEFYTGlhV0QtTXJmcXEyU0hqX2NULVQ2aFp0dG1ZTUpWeUFRdWdVQmJyV0ZjZ0pLRmFoMi15OWc?oc=5",
         "description": "",
@@ -543,6 +579,24 @@
     ],
     "Business": [
       {
+        "title": "Holiday spending expected to be up despite low consumer confidence",
+        "link": "https://www.npr.org/2025/12/26/nx-s1-5648379/holiday-spending-expected-to-be-up-despite-low-consumer-confidence",
+        "description": "Holiday spending was higher than expected this year, despite low confidence in the economy and many people reporting tightening their budgets.",
+        "pubDate": "2025-12-26T09:40:42Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Economic analyst says consumer spending has been resilient despite uncertainty",
+        "link": "https://www.npr.org/2025/12/26/nx-s1-5648848/economic-analyst-says-consumer-spending-has-been-resilient-despite-uncertainty",
+        "description": "NPR's Leila Fadel speaks to an economic analyst for Visa about consumer spending this year, and what we could expect going into 2026.",
+        "pubDate": "2025-12-26T09:40:36Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "What to do with unwanted Christmas presents",
         "link": "https://www.bbc.com/news/articles/ckgledvdje0o?at_medium=RSS&at_campaign=rss",
         "description": "How to regift without getting caught and other options for dealing with unwanted presents.",
@@ -553,6 +607,15 @@
       }
     ],
     "Culture": [
+      {
+        "title": "'Testament of Ann Lee' tells the story of an 18th-century religious leader with song",
+        "link": "https://www.npr.org/2025/12/26/nx-s1-5561902/testament-of-ann-lee-tells-the-story-of-an-18th-century-religious-leader-with-song",
+        "description": "",
+        "pubDate": "2025-12-26T09:42:19Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Sydney Sweeney: I want to make films that save people's lives",
         "link": "https://www.bbc.com/news/articles/c14v562gdk7o?at_medium=RSS&at_campaign=rss",
