@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-12-26T15:42:39.125704Z",
+  "lastUpdate": "2025-12-26T15:56:19.850972Z",
   "news": {
     "Gaming": [
+      {
+        "title": "While You’re Here [Free] [Interactive Fiction]",
+        "link": "https://aylight.itch.io/while-youre-here",
+        "description": "A quiet psychological visual novel about presence, memory, and staying.",
+        "pubDate": "2025-12-26T15:37:14Z",
+        "source": "aylight.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NzMwNDA1LnBuZw==/315x250%23c/IJfKDI.png",
+        "bias": 0
+      },
       {
         "title": "BadGame [Free] [Other]",
         "link": "https://itay4fom.itch.io/badgame",
@@ -9,6 +18,15 @@
         "pubDate": "2025-12-26T15:12:29Z",
         "source": "itay4fom.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NzMwMjYwLnBuZw==/315x250%23c/I3325W.png",
+        "bias": 0
+      },
+      {
+        "title": "Hillwi [Free] [Adventure] [Windows]",
+        "link": "https://isaacwebb.itch.io/hillwi",
+        "description": "The kiwi bird emerges from the eagle's nest. Now she's off to an exciting adventure in Kiwitown.",
+        "pubDate": "2025-12-26T15:05:20Z",
+        "source": "isaacwebb.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NzMwMjM3LnBuZw==/315x250%23c/HX4DSh.png",
         "bias": 0
       },
       {
@@ -228,15 +246,6 @@
         "bias": 0
       },
       {
-        "title": "Wiggers in Terabithia [Free] [Adventure]",
-        "link": "https://zeroz420.itch.io/wiggers-in-terabithia",
-        "description": "Top Down 2D open-world",
-        "pubDate": "2025-12-26T12:44:03Z",
-        "source": "zeroz420.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzI5MTM3LmpwZWc=/315x250%23c/CZAy8A.jpeg",
-        "bias": 0
-      },
-      {
         "title": "Power11 [Free] [Puzzle] [Windows]",
         "link": "https://vladimirwlrd.itch.io/power11",
         "description": "The ultimate competitive 2048 experience.",
@@ -248,12 +257,30 @@
     ],
     "World": [
       {
+        "title": "Zelensky plans to meet Trump on Sunday for talks on ending Russian war",
+        "link": "https://www.bbc.com/news/articles/cp8zg25p26zo?at_medium=RSS&at_campaign=rss",
+        "description": "The Ukrainian leader says he will see the US president in Florida and believes \"a lot can be decided before the new year\".",
+        "pubDate": "2025-12-26T15:49:13Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7da5/live/70bfb750-e257-11f0-adaa-4b49d24d5c3b.jpg",
+        "bias": 0
+      },
+      {
         "title": "US launches strikes against Islamic State in Nigeria",
         "link": "https://www.bbc.com/news/articles/cj69j8l918do?at_medium=RSS&at_campaign=rss",
         "description": "President Trump has previously accused the Nigerian government of failing to protect Christians from jihadists.",
         "pubDate": "2025-12-26T15:22:31Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de68/live/382eb510-e20e-11f0-86ca-d5a596a95198.png",
+        "bias": 0
+      },
+      {
+        "title": "Nigerian villagers are rattled by US airstrikes that made their homes shake and the sky glow red - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOV9hTE9La3I0WS1jQnVfZl81dWZXOUhEQlNxeGpxbWdlNWhNb1pzSjlzaGl6d0diaWpYcGVQazNwd0w1ZVhSdWZpX2lDbVRzY3E0MkNJTllwNHZ4R3ZJQlVqbW5tTmFRVnlKX2VJWWZ0YmZjWGh1TXgtVno5LTRtN1dpaGpBWkJtR3cwUzYxX3RUQnF1cXlPWVI4UDNmS0UyTFE?oc=5",
+        "description": "",
+        "pubDate": "2025-12-26T15:22:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -275,18 +302,9 @@
         "bias": -1
       },
       {
-        "title": "Zelensky plans to meet Trump on Sunday for talks on ending Russian war",
-        "link": "https://www.bbc.com/news/articles/cp8zg25p26zo?at_medium=RSS&at_campaign=rss",
-        "description": "The Ukrainian leader says he will see the US president in Florida and believes \"a lot can be decided before the new year\".",
-        "pubDate": "2025-12-26T14:21:38Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7da5/live/70bfb750-e257-11f0-adaa-4b49d24d5c3b.jpg",
-        "bias": 0
-      },
-      {
         "title": "Israel becomes first country to recognise Somaliland",
         "link": "https://www.aljazeera.com/news/2025/12/26/israel-becomes-first-country-to-recognise-somaliland?traffic_source=rss",
-        "description": "Breakaway region achieves diplomatic breakthrough after more than 30 years without international recognition.",
+        "description": "Breakaway region of Somalia achieves diplomatic breakthrough after more than 30 years without international recognition.",
         "pubDate": "2025-12-26T14:20:23Z",
         "source": "aljazeera.com",
         "image": "",
@@ -545,6 +563,24 @@
         "bias": -1
       },
       {
+        "title": "Trump overturned decades of US trade policy in 2025. See the impact of his tariffs, in four charts - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObC01S0k5bjB2X256SWtOWmcwZFRKUTgzZTlWZWluQ2pRQVN0bEdULTV2QldhdkpxV3NueWVIN1hmQldMQWRGeENMb2o2QVlXYzZTbzR0bi1CNGxMSktyLWtUa0RVVm5aMjYzLU5welZGcGtibmVoNUJCRTNnNl9NandHVTd2Mnk5aUY2cjh5VVFRWWdKYjg3S0FtNms?oc=5",
+        "description": "",
+        "pubDate": "2025-12-26T11:31:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Lions are out of the playoff race, Packers are among 11 teams in and 3 spots remain open - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOandSYXFxcjRTdDF3YjdzYTFGRFBIQ0IwemVxQVFNeVc1cnQ4SmNzeXFXdGZSQy1kVWFqV0t2dUprWlZEOWZkbHg0ZmVNOXJSX0pnMEhCUWd2ckVEc0VMMk1ZQzNaR05jaFloTm9lSGFzTkxCOW8xZzJ6eWRJQzRPMVVQYTJxQUlyQ2x6NGQyd19CMDBwVUN3eg?oc=5",
+        "description": "",
+        "pubDate": "2025-12-26T11:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Explosion at mosque in Syria’s Homs kills at least eight",
         "link": "https://www.aljazeera.com/news/2025/12/26/explosion-at-mosque-in-syrias-homs-kills-three-report?traffic_source=rss",
         "description": "Syria's foreign ministry condemned the attack as a 'desperate attempt to undermine security and sow chaos'.",
@@ -561,6 +597,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Turkish authorities say they have arrested suspected IS member planning New Year's attacks - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQU9hcV9MUExRY3hYaERnUEtBVHhKd20yTHg3N3hVb2FjTkxreWVEcnFhYldkY1lOd1VoUWYwMFdqWTU1UUZXN2RZZ0tacFV3UERvNm1ibC1pQU5fQUE0N1RRa3FVMmd4VzBydWdEYlZDd1llQ0toSFp4dlJvWklQQ05Oak43dng5eE5CbERYaVByZXRVVHdTU2ZHZzFsSmRGaktIT2NSZnQ?oc=5",
+        "description": "",
+        "pubDate": "2025-12-26T10:25:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Iran seizes an oil tanker in the Strait of Hormuz - AP News",
@@ -660,42 +705,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Nuclear submarine arms race heats up between North and South Korea",
-        "link": "https://www.npr.org/2025/12/26/nx-s1-5658145/nuclear-submarine-north-and-south-korea",
-        "description": "North Korea's state media released photos Thursday of what it said was the hull of a nuclear submarine. Its leader denounced South Korea's plans to build its own subs as \"an offensive act.\"",
-        "pubDate": "2025-12-26T08:32:10Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Jimmy Kimmel jokes about fascism in an 'alternative Christmas message' for Britain",
-        "link": "https://www.npr.org/2025/12/26/nx-s1-5658144/jimmy-kimmel-alternative-christmas-message-britain",
-        "description": "In an \"alternative\" message to the king's annual Christmas speech, Kimmel told British viewers that \"from a fascism perspective, this has been a really great year,\" for the United States.",
-        "pubDate": "2025-12-26T07:21:32Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "US judge blocks detention of British social media campaigner",
-        "link": "https://www.bbc.com/news/articles/c33mx6j5jrvo?at_medium=RSS&at_campaign=rss",
-        "description": "Imran Ahmed was among five people accused of seeking to \"coerce\" US firms into censoring free speech.",
-        "pubDate": "2025-12-26T06:45:14Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f58/live/54fc8ef0-e20f-11f0-a3d6-5fbf3178b7b9.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Amid a battery boom, graphite mining gets a fresh look in the US - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN3ZyUTZQeS1oemlFWHNFUlBidl94aE54Q3BpRTExTmZTRXRBb2puelc0bUtaQkJIWFM5ZEt0bDJENmJ1UkdoRGhwZ3ZtWVljWmdiRkl2S2VVQ29BMGFDRjVqS0ltQmJ2SzA1OXY4dnh4QkFOQUtsa0RpQnIwQzV5RmZXZnVhU0lraUR2dUUxM2JvODJUbzhyd1NkX1g?oc=5",
-        "description": "",
-        "pubDate": "2025-12-26T05:02:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
@@ -718,30 +727,12 @@
         "bias": -1
       },
       {
-        "title": "Trump overturned decades of US trade policy in 2025. See the impact of his tariffs, in four charts - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObC01S0k5bjB2X256SWtOWmcwZFRKUTgzZTlWZWluQ2pRQVN0bEdULTV2QldhdkpxV3NueWVIN1hmQldMQWRGeENMb2o2QVlXYzZTbzR0bi1CNGxMSktyLWtUa0RVVm5aMjYzLU5welZGcGtibmVoNUJCRTNnNl9NandHVTd2Mnk5aUY2cjh5VVFRWWdKYjg3S0FtNms?oc=5",
-        "description": "",
-        "pubDate": "2025-12-26T11:31:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Tributes as UK's first female Asian lord mayor dies",
         "link": "https://www.bbc.com/news/articles/cgjn9n6dvn8o?at_medium=RSS&at_campaign=rss",
         "description": "Councillor Manjula Sood, who served Leicester throughout her political career, dies aged 80.",
         "pubDate": "2025-12-26T11:25:54Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7615/live/bf5b7a00-e236-11f0-9988-abf27981bd79.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Lions eliminated after Goff's uncharacteristic giveaways in loss that sends Packers to playoffs - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY18zRk12VThiUTJoNlBIQjJvQkIzUE10VkpqX3pkU3ZZMW45WXNMR3VxOUJtOXNyYno0TGhkeVRXYzJfNnFFY05YM05keE9jOFlmX0FDQlBtUkNVdk4wTEFYTGlhV0QtTXJmcXEyU0hqX2NULVQ2aFp0dG1ZTUpWeUFRdWdVQmJyV0ZjZ0pLRmFoMi15OWc?oc=5",
-        "description": "",
-        "pubDate": "2025-12-26T03:28:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -764,6 +755,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Lions eliminated after Goff's uncharacteristic giveaways in loss that sends Packers to playoffs - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY18zRk12VThiUTJoNlBIQjJvQkIzUE10VkpqX3pkU3ZZMW45WXNMR3VxOUJtOXNyYno0TGhkeVRXYzJfNnFFY05YM05keE9jOFlmX0FDQlBtUkNVdk4wTEFYTGlhV0QtTXJmcXEyU0hqX2NULVQ2aFp0dG1ZTUpWeUFRdWdVQmJyV0ZjZ0pLRmFoMi15OWc?oc=5",
+        "description": "",
+        "pubDate": "2025-12-26T03:28:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Business": [
