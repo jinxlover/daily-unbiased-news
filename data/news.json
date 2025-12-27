@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-27T19:28:47.475021Z",
+  "lastUpdate": "2025-12-27T19:40:54.997797Z",
   "news": {
     "Gaming": [
       {
@@ -183,15 +183,6 @@
         "bias": 0
       },
       {
-        "title": "Da jumping game [Free]",
-        "link": "https://niki587.itch.io/da-jumping-game",
-        "description": "",
-        "pubDate": "2025-12-27T17:21:56Z",
-        "source": "niki587.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzQzODE5LnBuZw==/315x250%23c/zMmTx%2B.png",
-        "bias": 0
-      },
-      {
         "title": "Vitalik's Adventures 2 [Free] [Platformer] [Windows]",
         "link": "https://rukawhick.itch.io/vitaliks-adventures-2",
         "description": "Продолжение легендарных Приключений Виталика!",
@@ -207,15 +198,6 @@
         "pubDate": "2025-12-27T17:01:57Z",
         "source": "worldenddisk.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NzQzNTY5LnBuZw==/315x250%23c/QtYCHT.png",
-        "bias": 0
-      },
-      {
-        "title": "✏️Uncounted✏️ [Free] [Action] [Windows] [Linux]",
-        "link": "https://kholodov-ilya.itch.io/uncounted",
-        "description": "Have you ever felt like all your hard work went to waste?",
-        "pubDate": "2025-12-27T16:57:42Z",
-        "source": "kholodov-ilya.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzQzNDU4LnBuZw==/315x250%23c/fwnfHm.png",
         "bias": 0
       },
       {
@@ -264,6 +246,15 @@
         "bias": 0
       },
       {
+        "title": "A Forsaken Memory 2 (windows) [Free] [Action]",
+        "link": "https://barnhartinteractive.itch.io/a-forsaken-memory-2-windows",
+        "description": "",
+        "pubDate": "2025-12-27T05:44:11Z",
+        "source": "barnhartinteractive.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NzM4MTEyLnBuZw==/315x250%23c/ujldNY.png",
+        "bias": 0
+      },
+      {
         "title": "A Forsaken Memory 2 (Linux) [Free] [Action]",
         "link": "https://barnhartinteractive.itch.io/a-forsaken-memory-2-linux",
         "description": "",
@@ -282,6 +273,15 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/256f/live/2e8fdce0-e359-11f0-aae2-2191c0e48a3b.jpg",
         "bias": 0
+      },
+      {
+        "title": "Do Donald Trump’s strikes in Nigeria serve any purpose?",
+        "link": "https://www.aljazeera.com/video/inside-story/2025/12/27/do-donald-trumps-strikes-in-nigeria-serve-any-purpose?traffic_source=rss",
+        "description": "The US president says air strikes are against ISIL, claiming the group targets Christians.",
+        "pubDate": "2025-12-27T19:16:15Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Russia strikes Ukraine's capital and kills at least 1 person a day before Zelenskyy-Trump meeting - AP News",
@@ -482,7 +482,7 @@
         "bias": 0
       },
       {
-        "title": "Israeli forces take over homes, impose curfew on West Bank’s Qabatiya",
+        "title": "Israeli forces take over homes, impose lockdown on West Bank’s Qabatiya",
         "link": "https://www.aljazeera.com/news/2025/12/27/israeli-forces-take-over-homes-impose-curfew-on-west-banks-qabatiya?traffic_source=rss",
         "description": "Incursion follows Israeli defence minister's order for military to 'act forcefully' against the Palestinian town.",
         "pubDate": "2025-12-27T13:52:06Z",
@@ -714,18 +714,18 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Cypriot fishermen battle invasive lionfish and turn them into a tavern delicacy - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdGxNRkphZEJYY1RQYnNOZHRoOHhSMDc5VXcyNE8wWE9hYnc4MmpiaUdWcUdRZGNXR2ZoMkJVLWJ2cFFQNEt1bHhFeVV5NzZOME1TcHZhMEwyWmFxYzlOT01xZ3lNYmJiWjRkckdtR29iR2l6cWs4V1IweUtrWVFKemVrR2RtSmJzXzF4dEZiRnNhc2tnTGphWktDYWFDV2ZhMTV6Nl8yczkxNlc0a2tWMzdCSWtQQVFVdFJoUzhBZE4?oc=5",
-        "description": "",
-        "pubDate": "2025-12-27T06:13:59Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Kennedy Center vows to sue musician who canceled performance over Trump name change",
+        "link": "https://www.npr.org/2025/12/27/g-s1-103808/kennedy-center-lawsuit-chuck-redd-cancellation-trump",
+        "description": "The Kennedy Center is planning legal action after jazz musician Chuck Redd canceled an annual holiday concert. Redd pulled out after President Trump's name appeared on the building.",
+        "pubDate": "2025-12-27T19:24:10Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Week in Politics: 2025 politics overview; a look ahead at midterms",
         "link": "https://www.npr.org/2025/12/27/nx-s1-5651245/week-in-politics-2025-politics-overview-a-look-ahead-at-midterms",
@@ -769,6 +769,15 @@
         "pubDate": "2025-12-27T01:44:39Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4560/live/81d35be0-e0aa-11f0-8516-3db1ae351283.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Kennedy Center criticizes musician who canceled performance after Trump name added to building - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYWd2QmFNejlVd0Q4NzNyODhJeW11UFZ6MENLWm9XSXVqQm1XRmMxLURYWi1MMlVrd3hMc1dYUVFwaFNEUXo4Tm9ibEkzNTRPRXZJQTFSUEk1WldhVlM4V0lDdFhzX0FjSHRGamUtM1ZJSWNUcmVKR3N1eGxybmVtMm1HeXV3TGZPRWF0YVhwZ3VRd2x1TjdF?oc=5",
+        "description": "",
+        "pubDate": "2025-12-27T01:03:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       }
     ],
