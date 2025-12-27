@@ -1,7 +1,25 @@
 {
-  "lastUpdate": "2025-12-27T07:40:37.541203Z",
+  "lastUpdate": "2025-12-27T07:55:42.976378Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Buildland [Free] [Android]",
+        "link": "https://supertm.itch.io/buildland",
+        "description": "Just a sandbox building game.",
+        "pubDate": "2025-12-27T07:38:38Z",
+        "source": "supertm.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NzM4ODIwLnBuZw==/315x250%23c/iYlIAI.png",
+        "bias": 0
+      },
+      {
+        "title": "Fisher [Free] [Simulation]",
+        "link": "https://aggroazteca.itch.io/fisher",
+        "description": "A micro game about fishing. Try to get enough fish to sell.",
+        "pubDate": "2025-12-27T07:25:26Z",
+        "source": "aggroazteca.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NzM4NzU0LnBuZw==/315x250%23c/6i45o4.png",
+        "bias": 0
+      },
       {
         "title": "Behind the waterfall [Free] [Interactive Fiction]",
         "link": "https://smwhr.itch.io/behind-the-waterfall",
@@ -255,24 +273,6 @@
         "bias": 0
       },
       {
-        "title": "2025 TSA VR First Place Project [Free] [Android]",
-        "link": "https://skyelighti.itch.io/tsa-vr",
-        "description": "Made with a teammate for 2024/2025, First place at States & Nationals",
-        "pubDate": "2025-12-27T03:43:02Z",
-        "source": "skyelighti.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzM3NTc2LnBuZw==/315x250%23c/uRkoHD.png",
-        "bias": 0
-      },
-      {
-        "title": "Silent Baboon [Free] [Android]",
-        "link": "https://sgtdrakeedev.itch.io/silent-baboon",
-        "description": "A gtag fangame horror out soon",
-        "pubDate": "2025-12-27T03:42:00Z",
-        "source": "sgtdrakeedev.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzM3MzA3LmpwZw==/315x250%23c/nd3X%2Fk.jpg",
-        "bias": 0
-      },
-      {
         "title": "baldi's basics but my friends ask me to change the textures [Free] [Survival] [Windows]",
         "link": "https://jokingmaat.itch.io/baldis-basics-but-my-friends-ask-me-to-change-the-textures",
         "description": "",
@@ -283,6 +283,15 @@
       }
     ],
     "World": [
+      {
+        "title": "Thailand and Cambodia sign new ceasefire agreement to end border fighting",
+        "link": "https://www.npr.org/2025/12/27/g-s1-103785/thailand-cambodia-new-ceasefire-agreement",
+        "description": "In addition to ending fighting, the agreement calls for no further military movements by either side and no violations of either side's airspace for military purposes.",
+        "pubDate": "2025-12-27T07:44:10Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Key Bolsonaro ally arrested in Paraguay while trying to flee to El Salvador",
         "link": "https://www.aljazeera.com/news/2025/12/27/key-bolsonaro-ally-arrested-in-paraguay-while-trying-to-flee-to-el-salvador?traffic_source=rss",
@@ -392,6 +401,15 @@
         "bias": -1
       },
       {
+        "title": "Zellers scores twice, has 3 points in 6-3 US win over Germany in world junior championships - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdkV5OG1VUGczQTBMdnJmMnNydXVPX0drNU1tdGRzV1V4NWliaERHMGZhVk92dkh4bWsyWU1MRGd3dzgwbE1tRlRDeUdlc2RHQUdHM0UzMEplRmJEMWU4MDlabktSTExUNVhfaFpKUGpNMEVMVU5tcjJlR3ZYWHNoX3E3MkN5Y1R6RXUyYWgxRmNJY19WVkNuencyMnNlUFdDQUU4alh3Vk94Z3NkQWNxTHF2WQ?oc=5",
+        "description": "",
+        "pubDate": "2025-12-27T01:48:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "N Korea, Russia bound in ‘blood’ of war, Kim tells Putin in New Year note",
         "link": "https://www.aljazeera.com/news/2025/12/27/n-korea-russia-bound-in-blood-of-war-kim-tells-putin-in-new-year-note?traffic_source=rss",
         "description": "North Korean and Russian leaders celebrate their 'precious' shared experience of war, bloodshed in New Year greetings.",
@@ -451,6 +469,16 @@
     "Tech": [],
     "Science": [],
     "Business": [],
-    "Culture": []
+    "Culture": [
+      {
+        "title": "Beyoncé, Labubu and Sydney Sweeney's jeans: 15 viral moments that defined 2025",
+        "link": "https://www.bbc.com/news/articles/c8d64njy44do?at_medium=RSS&at_campaign=rss",
+        "description": "Dubai chocolate, Adolescence and the parodied Jet2 advert were some of the other most talked about moments.",
+        "pubDate": "2025-12-27T00:10:50Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93b4/live/0c64f320-e2f6-11f0-b67b-690eb873de1b.jpg",
+        "bias": 0
+      }
+    ]
   }
 }
