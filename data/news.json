@@ -1,7 +1,25 @@
 {
-  "lastUpdate": "2025-12-27T11:31:07.588528Z",
+  "lastUpdate": "2025-12-27T11:45:42.293844Z",
   "news": {
     "Gaming": [
+      {
+        "title": "sprunki MEGASWAP maxwell take [Free]",
+        "link": "https://maxwell-itchio.itch.io/sprunki-megaswap-maxwell-take",
+        "description": "",
+        "pubDate": "2025-12-27T11:36:27Z",
+        "source": "maxwell-itchio.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NzQwMzc2LnBuZw==/315x250%23c/%2BWTjTY.png",
+        "bias": 0
+      },
+      {
+        "title": "自分で選べばいいじゃない！ [Free] [Role Playing] [Windows]",
+        "link": "https://den6kan.itch.io/alternativebalance",
+        "description": "プレイの難易度を自分で選び進められるＲＰＧ",
+        "pubDate": "2025-12-27T11:33:24Z",
+        "source": "den6kan.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NzQwMzQ3LnBuZw==/315x250%23c/x4Gkc3.png",
+        "bias": 0
+      },
       {
         "title": "Automation Miner [Free] [Simulation]",
         "link": "https://gentlegarden.itch.io/automation-miner",
@@ -192,24 +210,6 @@
         "bias": 0
       },
       {
-        "title": "Interactive Just Dima [Free]",
-        "link": "https://mpeetv2012.itch.io/interactive-just-dima",
-        "description": "",
-        "pubDate": "2025-12-27T06:01:09Z",
-        "source": "mpeetv2012.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzM4MjI3LnBuZw==/315x250%23c/R4N6uN.png",
-        "bias": 0
-      },
-      {
-        "title": "Awakewood Demo [Free] [Visual Novel] [Windows] [macOS]",
-        "link": "https://neurocreativa.itch.io/awakewood",
-        "description": "In Awakewood, the roots run deep and the past never stays buried.",
-        "pubDate": "2025-12-27T05:53:43Z",
-        "source": "neurocreativa.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzM4MjIwLnBuZw==/315x250%23c/tWhTD0.png",
-        "bias": 0
-      },
-      {
         "title": "Interactive Odik [Free] [Interactive Fiction]",
         "link": "https://mpeetv2012.itch.io/interactive-odik",
         "description": "",
@@ -225,15 +225,6 @@
         "pubDate": "2025-12-27T05:34:26Z",
         "source": "sickle-n-scythe.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NzM3OTgxLnBuZw==/315x250%23c/CPKTbg.png",
-        "bias": 0
-      },
-      {
-        "title": "Critloid Game [Free] [Action]",
-        "link": "https://zongula.itch.io/critloid",
-        "description": "An open world side-scrolling MMO, set in a western town, following these creatures called Critloids.",
-        "pubDate": "2025-12-27T05:33:42Z",
-        "source": "zongula.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzM4MDQ0LnBuZw==/315x250%23c/BcfXQ9.png",
         "bias": 0
       },
       {
@@ -320,12 +311,12 @@
         "bias": -1
       },
       {
-        "title": "Poland scrambles jets as Russia strikes Kyiv before US-Ukraine peace talks",
+        "title": "Thousands without power in Kyiv after massive Russian attack",
         "link": "https://www.bbc.com/news/articles/c1dzvpg1341o?at_medium=RSS&at_campaign=rss",
-        "description": "Poland's military says its air force took a \"preventative\" response to secure its airspace.",
+        "description": "Authorities say a third of residents in the Ukrainian capital have been left without heating in freezing weather.",
         "pubDate": "2025-12-27T09:52:05Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5398/live/82578fc0-e30a-11f0-8357-83bb2c91d8e1.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cca8/live/9d97b1a0-e2f3-11f0-b67b-690eb873de1b.jpg",
         "bias": 0
       },
       {
@@ -584,7 +575,17 @@
       }
     ],
     "Tech": [],
-    "Science": [],
+    "Science": [
+      {
+        "title": "ADHD drugs may work indirectly to boost attention",
+        "link": "https://www.npr.org/sections/shots-health-news/2025/12/27/nx-s1-5658291/adhd-adderall-ritalin-mechanism",
+        "description": "Drugs like Adderall and Ritalin appear to help children with ADHD by activating brain areas involved in alertness and motivation.",
+        "pubDate": "2025-12-27T11:30:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      }
+    ],
     "Business": [
       {
         "title": "'Families can save £200 a month at community shop'",
