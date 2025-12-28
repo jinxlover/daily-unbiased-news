@@ -1,7 +1,25 @@
 {
-  "lastUpdate": "2025-12-28T09:55:35.658717Z",
+  "lastUpdate": "2025-12-28T10:21:43.914149Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Blocky Runner [Free] [Platformer]",
+        "link": "https://zioncalvo.itch.io/blocky-runner",
+        "description": "Run as fast as you can while building your path!",
+        "pubDate": "2025-12-28T09:56:38Z",
+        "source": "zioncalvo.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NzUyODMxLnBuZw==/315x250%23c/hFnU%2BA.png",
+        "bias": 0
+      },
+      {
+        "title": "HELLSCAPE [Free] [Shooter]",
+        "link": "https://haruka-apps-games.itch.io/hellscape",
+        "description": "Descend into Hell and fight endless waves of demons in this retro-style voxel FPS.",
+        "pubDate": "2025-12-28T09:49:54Z",
+        "source": "haruka-apps-games.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NzUyODgyLnBuZw==/315x250%23c/PhGzC9.png",
+        "bias": 0
+      },
       {
         "title": "TheCircus [Free]",
         "link": "https://hexven.itch.io/circusland",
@@ -90,6 +108,15 @@
         "pubDate": "2025-12-28T08:51:07Z",
         "source": "honebone.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NzUyMTcwLnBuZw==/315x250%23c/MI56Gc.png",
+        "bias": 0
+      },
+      {
+        "title": "One Last Charge (WIP) [Free]",
+        "link": "https://egg-owo.itch.io/one-last-charge",
+        "description": "",
+        "pubDate": "2025-12-28T08:47:06Z",
+        "source": "egg-owo.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NzUyOTg3LnBuZw==/315x250%23c/0ZO1sA.png",
         "bias": 0
       },
       {
@@ -192,33 +219,6 @@
         "bias": 0
       },
       {
-        "title": "la ballerina ti rasserena e ti fa compagnia [Free] [Other]",
-        "link": "https://kriccojet.itch.io/la-ballerina-ti-rasserena-e-ti-fa-compagnia",
-        "description": "for any age and for any language",
-        "pubDate": "2025-12-28T07:22:09Z",
-        "source": "kriccojet.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzUxNzIwLnBuZw==/315x250%23c/BD9qlg.png",
-        "bias": 0
-      },
-      {
-        "title": "debiduba (The Rescue Foxes) [$8.99] [Adventure] [Windows] [macOS] [Linux]",
-        "link": "https://vecderg.itch.io/debiduba",
-        "description": "Save the lost sheep in a cave while you find your lost tools!",
-        "pubDate": "2025-12-28T07:13:24Z",
-        "source": "vecderg.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzUxNTQ2LnBuZw==/315x250%23c/hd14jz.png",
-        "bias": 0
-      },
-      {
-        "title": "Joy Theft [Free] [Action]",
-        "link": "https://angeliapy.itch.io/joy-theft",
-        "description": "Three girls fight a mysterious being that has taken the joy from them, but is everything what it seems?",
-        "pubDate": "2025-12-28T07:01:35Z",
-        "source": "angeliapy.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzUyMzQ0LnBuZw==/315x250%23c/8SBeae.png",
-        "bias": 0
-      },
-      {
         "title": "OTOKONOKO SALVATION [Free] [Visual Novel]",
         "link": "https://astreayancu.itch.io/otokonoko-salvation",
         "description": "A Visual Novel Mostly Created by AI",
@@ -247,6 +247,15 @@
       }
     ],
     "World": [
+      {
+        "title": "For Ukrainians, a nuclear missile museum is a bitter reminder of what the country gave up",
+        "link": "https://www.npr.org/2025/12/28/g-s1-103485/ukraine-museum-strategic-missile-forces-budapest-agreement",
+        "description": "The Museum of Strategic Missile Forces tells the story of how Ukraine dismantled its nuclear weapons arsenal after independence in 1991. Today many Ukrainians believe that decision to give up nukes was a mistake.",
+        "pubDate": "2025-12-28T10:02:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Guinea votes in first polls since 2021 coup, military leader likely to win",
         "link": "https://www.aljazeera.com/news/2025/12/28/guinea-votes-in-first-polls-since-2021-coup-military-leader-likely-to-win?traffic_source=rss",
@@ -362,6 +371,15 @@
         "pubDate": "2025-12-28T05:53:06Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa2e/live/3a77f190-e3aa-11f0-b737-75eaf6a0c176.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Zelenskyy to meet with Trump as efforts to end Russia-Ukraine war remain elusive - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcWpUeGpPNDhYQllnTHdUNXpQMGp4NFF3bWVLWFVKdmdscG9TMWNTOVJNZW1fWUU5YlFQY05tcDdma3NuZmZQUXU0M0lQMnlYcUFQU2hDdWw4S29xQmltWE4wVjF0bzVUNmJNQ2hwQmdXVm9xNVB4TjZLMFM5LVZmaDdpTmRKc2YyVTluM1R0SG13VEthWlRVeWw1Tm5iMUJGWHR6Xw?oc=5",
+        "description": "",
+        "pubDate": "2025-12-28T05:02:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -493,21 +511,21 @@
     ],
     "Politics": [
       {
+        "title": "Thailand’s political parties name prime minister candidates for February election - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX2gxSGZneWFNRkhOMzNVaUU2TmNWdm5vdFlaaExjdnNXMmU3YXhNaEtYTEV4a1hDUkQwZDNHNERZdjlSU1lzMEN3QTFPZkU1T25pZ2xDcGtzTnkzSmotc2FGWFBSUW1uVWFiLVc2OTR1TUtHT0hXSXoxcGRWV2VpdzBEbEd6R0ZiMzExWVZ3LTN3dnB1d0d5Mi15Z19ibjhmbUIzc19kSkJqdw?oc=5",
+        "description": "",
+        "pubDate": "2025-12-28T10:05:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Starmer criticised for welcoming Egyptian activist",
         "link": "https://www.bbc.com/news/articles/cg5mr0gdnmeo?at_medium=RSS&at_campaign=rss",
         "description": "Alaa Abdel Fattah flew to the UK on Friday after a travel ban imposed by Cairo was lifted.",
         "pubDate": "2025-12-28T06:46:15Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8de0/live/5568c550-e36f-11f0-8ec1-9ba3510dd8c3.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Zelenskyy to meet with Trump as efforts to end Russia-Ukraine war remain elusive - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcWpUeGpPNDhYQllnTHdUNXpQMGp4NFF3bWVLWFVKdmdscG9TMWNTOVJNZW1fWUU5YlFQY05tcDdma3NuZmZQUXU0M0lQMnlYcUFQU2hDdWw4S29xQmltWE4wVjF0bzVUNmJNQ2hwQmdXVm9xNVB4TjZLMFM5LVZmaDdpTmRKc2YyVTluM1R0SG13VEthWlRVeWw1Tm5iMUJGWHR6Xw?oc=5",
-        "description": "",
-        "pubDate": "2025-12-28T05:02:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       }
     ],
@@ -540,7 +558,7 @@
         "description": "We look ahead to 20 notable films to watch for in 2026, from Oscar hopefuls to potential blockbusters.",
         "pubDate": "2025-12-28T00:45:45Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/637b/live/113348b0-e004-11f0-ab61-73a5e79bafa0.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5e3/live/5f32e160-e3d3-11f0-a8dc-93c15fe68710.jpg",
         "bias": 0
       }
     ]
