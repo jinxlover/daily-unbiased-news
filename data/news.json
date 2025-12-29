@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-29T11:27:29.393411Z",
+  "lastUpdate": "2025-12-29T11:43:15.746124Z",
   "news": {
     "Gaming": [
       {
@@ -72,6 +72,15 @@
         "pubDate": "2025-12-29T10:39:49Z",
         "source": "corepoint-games.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NzY3NzIwLnBuZw==/315x250%23c/Om2yLd.png",
+        "bias": 0
+      },
+      {
+        "title": "MousePresso [Free] [Simulation] [Windows]",
+        "link": "https://eyesaw.itch.io/mousepresso",
+        "description": "what does coffee have to do with it?",
+        "pubDate": "2025-12-29T10:29:08Z",
+        "source": "eyesaw.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NzY4MTMwLnBuZw==/315x250%23c/AjEzGw.png",
         "bias": 0
       },
       {
@@ -192,15 +201,6 @@
         "bias": 0
       },
       {
-        "title": "COLOUR CHASE [Free] [Action] [Windows]",
-        "link": "https://safe-dollar-studios.itch.io/colour-chase",
-        "description": "2-PLAYER ACTION!",
-        "pubDate": "2025-12-29T08:52:28Z",
-        "source": "safe-dollar-studios.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzY2NzYwLnBuZw==/315x250%23c/iru%2B%2Bw.png",
-        "bias": 0
-      },
-      {
         "title": "Projec_T [Free] [Puzzle]",
         "link": "https://egrazil.itch.io/projec-t",
         "description": "Winter Melon Jam 2026 Submission",
@@ -237,16 +237,52 @@
         "bias": 0
       },
       {
-        "title": "Locker Warfare [Free] [Survival]",
-        "link": "https://starcoder.itch.io/locker-warfare",
-        "description": "Use items from a locker room to survive as long as you can!",
-        "pubDate": "2025-12-29T08:32:19Z",
-        "source": "starcoder.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzY2NzU1LnBuZw==/315x250%23c/NHJi9G.png",
+        "title": "Card Chess (Prototype) [Free] [Strategy] [Windows] [macOS] [Linux]",
+        "link": "https://rayking1988.itch.io/card-chess",
+        "description": "",
+        "pubDate": "2025-12-29T07:48:12Z",
+        "source": "rayking1988.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NzY2MzAyLnBuZw==/315x250%23c/2rAJjh.png",
         "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "China launches live-fire military exercises around Taiwan",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/29/china-launches-live-fire-military-exercises-around-taiwan?traffic_source=rss",
+        "description": "China has begun two days of military exercises around Taiwan, that Beijing says simulate a blockade of key ports.",
+        "pubDate": "2025-12-29T11:35:40Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Russia may gain more than lose from a US intervention in Venezuela",
+        "link": "https://www.aljazeera.com/opinions/2025/12/29/russia-may-gain-more-than-lose-from-a-us-intervention-in-venezuela?traffic_source=rss",
+        "description": "The US escalation against Caracas may be part of a larger realignment for a new world order.",
+        "pubDate": "2025-12-29T11:30:00Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Starvation, ‘ghost towns’ plague Sudan as al-Burhan demands RSF surrender",
+        "link": "https://www.aljazeera.com/news/2025/12/29/starvation-ghost-towns-plague-sudan-as-al-burhan-demands-rsf-surrender?traffic_source=rss",
+        "description": "Army chief rejects compromise as funding cuts leave millions hungry, RSF sieges empty villages in Darfur and Kordofan.",
+        "pubDate": "2025-12-29T11:20:09Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Who really won Iraq’s elections?",
+        "link": "https://www.aljazeera.com/news/2025/12/29/who-really-won-iraqs-elections?traffic_source=rss",
+        "description": "Formation of the new government will have to tread a fine line to satisfy domestic and international pressures.",
+        "pubDate": "2025-12-29T11:12:29Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Video: Trump and Zelenskyy hail ‘progress’ on Russia-Ukraine peace plan",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/12/29/video-trump-and-zelenskyy-hail-progress-on-russia-ukraine-peace-plan?traffic_source=rss",
@@ -281,6 +317,15 @@
         "pubDate": "2025-12-29T10:38:29Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9679/live/da953cd0-e49c-11f0-9890-3187c4f9b06f.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Official says 6 Islamic State militants and 3 police officers killed in clash in northwest Turkey - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOUwxdkVVbU5IdWpxdzV1LTZ4YUlmaEw2SFlETjVZVDV6eS1iakI4dWJxUHgzSFNfb1FVdVh3Q3VMUWJqRmd3djVGTjV3UjZxU1ZyTGNDTkxDeGp3RXg4cjZmdXNVNk1fVzZYWGZXRnBaVlNZMFBfSG9pQnNBaTFnMzR0Yl8ySWRPbFIwN1E5bFhGOGZUT0c1eW81NjhIWU9qbHBESk1vaXp0Nm1JQ21IYQ?oc=5",
+        "description": "",
+        "pubDate": "2025-12-29T10:35:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -473,15 +518,6 @@
         "bias": 0
       },
       {
-        "title": "Islamic State group militants clash with police during raid in Turkey, wounding 7 officers - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOUwxdkVVbU5IdWpxdzV1LTZ4YUlmaEw2SFlETjVZVDV6eS1iakI4dWJxUHgzSFNfb1FVdVh3Q3VMUWJqRmd3djVGTjV3UjZxU1ZyTGNDTkxDeGp3RXg4cjZmdXNVNk1fVzZYWGZXRnBaVlNZMFBfSG9pQnNBaTFnMzR0Yl8ySWRPbFIwN1E5bFhGOGZUT0c1eW81NjhIWU9qbHBESk1vaXp0Nm1JQ21IYQ?oc=5",
-        "description": "",
-        "pubDate": "2025-12-29T07:10:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Chinese military stages drills around Taiwan to warn 'external forces'",
         "link": "https://www.npr.org/2025/12/29/g-s1-103877/chinese-military-drills-around-taiwan",
         "description": "The drills came after Beijing expressed anger at U.S. arms sales, and a statement by Japan's prime minister saying its military could get involved if China were to take action against Taiwan.",
@@ -660,42 +696,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Russia-Ukraine war: List of key events, day 1,404",
-        "link": "https://www.aljazeera.com/news/2025/12/29/russia-ukraine-war-list-of-key-events-day-1404?traffic_source=rss",
-        "description": "These are the key developments from day 1,404 of Russia’s war on Ukraine.",
-        "pubDate": "2025-12-29T01:54:16Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Trump says Ukraine and Russia are ‘closer than ever’ to peace after talks with Zelenskyy - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcWpUeGpPNDhYQllnTHdUNXpQMGp4NFF3bWVLWFVKdmdscG9TMWNTOVJNZW1fWUU5YlFQY05tcDdma3NuZmZQUXU0M0lQMnlYcUFQU2hDdWw4S29xQmltWE4wVjF0bzVUNmJNQ2hwQmdXVm9xNVB4TjZLMFM5LVZmaDdpTmRKc2YyVTluM1R0SG13VEthWlRVeWw1Tm5iMUJGWHR6Xw?oc=5",
-        "description": "",
-        "pubDate": "2025-12-29T01:42:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Living in fear of Lakurawa - the militant group Trump targeted in Nigeria strikes",
-        "link": "https://www.bbc.com/news/articles/cy7vr76l521o?at_medium=RSS&at_campaign=rss",
-        "description": "\"We cannot live freely. You cannot even play music\" - residents tell the BBC of militants' rule.",
-        "pubDate": "2025-12-29T01:30:56Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a68f/live/3af67db0-e429-11f0-b67b-690eb873de1b.jpg",
-        "bias": 0
-      },
-      {
-        "title": "North Korea’s Kim oversees test launch of long-range cruise missiles",
-        "link": "https://www.aljazeera.com/news/2025/12/29/n-koreas-kim-oversees-test-launch-of-long-range-cruise?traffic_source=rss",
-        "description": "Kim urges 'unlimited and sustained' development of nuclear combat forces as North Korea gears up for key party congress.",
-        "pubDate": "2025-12-29T00:31:18Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
@@ -805,6 +805,15 @@
         "bias": -1
       },
       {
+        "title": "HS2 goal to be running by 2033 'cannot be met'",
+        "link": "https://www.bbc.com/news/articles/c997d7lkjv8o?at_medium=RSS&at_campaign=rss",
+        "description": "HS2 CEO Mark Wild advises the government that the 2029/2033 opening schedule is not achievable.",
+        "pubDate": "2025-12-29T07:09:17Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f95/live/297ca8d0-e0ea-11f0-ab49-d7d46ee24f07.jpg",
+        "bias": 0
+      },
+      {
         "title": "Earliest coin minted in Scotland saved for the nation after 900 years",
         "link": "https://www.bbc.com/news/articles/c4g5n3gld45o?at_medium=RSS&at_campaign=rss",
         "description": "The medieval David I silver coin, discovered in a wooded area in Midlothian, has been dated to the second half of the 1130s.",
@@ -824,6 +833,15 @@
       }
     ],
     "Culture": [
+      {
+        "title": "Rainbow Six servers back online after apparent hack",
+        "link": "https://www.bbc.com/news/articles/c2ep8ykky0ro?at_medium=RSS&at_campaign=rss",
+        "description": "Publisher Ubisoft works to claw back billions of in-game currency handed out to players.",
+        "pubDate": "2025-12-29T11:29:48Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5308/live/1f90b130-e3d9-11f0-a09a-e7bcd1760d69.jpg",
+        "bias": 0
+      },
       {
         "title": "Claudia teases 'extraordinary' Traitors twist as fans speculate about new red cloak",
         "link": "https://www.bbc.com/news/articles/cgexg75y4zgo?at_medium=RSS&at_campaign=rss",
