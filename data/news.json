@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-12-29T08:35:54.610184Z",
+  "lastUpdate": "2025-12-29T08:59:00.147386Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Locker Warfare [Free] [Survival]",
+        "link": "https://starcoder.itch.io/locker-warfare",
+        "description": "Use items from a locker room to survive as long as you can!",
+        "pubDate": "2025-12-29T08:32:19Z",
+        "source": "starcoder.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NzY2NzU1LnBuZw==/315x250%23c/NHJi9G.png",
+        "bias": 0
+      },
       {
         "title": "Hollowed Eyes [Free] [Platformer]",
         "link": "https://xstardrone.itch.io/hollowed-eyes",
@@ -183,24 +192,6 @@
         "bias": 0
       },
       {
-        "title": "Detour Lorry [Free] [Action]",
-        "link": "https://jam-mack46.itch.io/detour-lorry",
-        "description": "",
-        "pubDate": "2025-12-29T06:07:27Z",
-        "source": "jam-mack46.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzY1NzEzLnBuZw==/315x250%23c/lfvu4j.png",
-        "bias": 0
-      },
-      {
-        "title": "貓將軍 [Free] [Interactive Fiction]",
-        "link": "https://pinxun.itch.io/catgeneral",
-        "description": "",
-        "pubDate": "2025-12-29T06:02:12Z",
-        "source": "pinxun.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzY1NTQ5LnBuZw==/315x250%23c/xs33k%2B.png",
-        "bias": 0
-      },
-      {
         "title": "おなさぽすごろく [Free] [Other]",
         "link": "https://mikurutodoroki.itch.io/onasaposugoroku",
         "description": "",
@@ -219,16 +210,7 @@
         "bias": 0
       },
       {
-        "title": "FOLLOW INSTRUCTIONS!!! [Free]",
-        "link": "https://citthecat.itch.io/follow",
-        "description": "VERY simple game about following instructions.",
-        "pubDate": "2025-12-29T05:20:35Z",
-        "source": "citthecat.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzY1MTY1LnBuZw==/315x250%23c/bKNhz5.png",
-        "bias": 0
-      },
-      {
-        "title": "Le Jeu de l’Oie de la Chute [$24.00] [Windows] [Linux]",
+        "title": "Le Jeu de l’Oie de la Chute [24.00€] [Windows] [Linux]",
         "link": "https://paxfabrica.itch.io/le-jeu-de-loie-de-la-chute",
         "description": "Serious game éducatif et thérapeutique pour la prévention des chutes, basé sur le jeu de l’oie.",
         "pubDate": "2025-12-29T05:10:00Z",
@@ -284,6 +266,42 @@
     ],
     "World": [
       {
+        "title": "Russia-Ukraine war live: At least 1 killed in Russian attack on Donetsk",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/12/29/russia-ukraine-war-live-at-least-1-killed-in-russian-attack-on-donetsk?traffic_source=rss",
+        "description": "Russia shells the eastern Ukrainian city of Sloviansk, killing at least one and injuring five others.",
+        "pubDate": "2025-12-29T08:30:00Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "A cry for help to save Gaza’s healthcare system",
+        "link": "https://www.aljazeera.com/opinions/2025/12/29/a-call-to-save-gazas-healthcare-system?traffic_source=rss",
+        "description": "The only thing that is still propping up Gaza's hospitals is the sense of moral duty of the surviving medical workers.",
+        "pubDate": "2025-12-29T08:23:43Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "US slashes UN humanitarian aid to $2bn, huge cut as Trump demands reforms",
+        "link": "https://www.aljazeera.com/news/2025/12/29/us-slashes-un-humanitarian-aid-to-2bn-huge-cut-as-trump-demands-reforms?traffic_source=rss",
+        "description": "The $2bn pool will target specific countries or crises, down from US contributions of up to $17bn in recent years.",
+        "pubDate": "2025-12-29T08:21:30Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "How monopolies caused havoc around the world in 2025",
+        "link": "https://www.aljazeera.com/economy/2025/12/29/how-monopolies-caused-havoc-around-the-world-in-2025?traffic_source=rss",
+        "description": "From tech companies to airlines and streaming services, monopolies are becoming more problematic around the world.",
+        "pubDate": "2025-12-29T08:18:12Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "China holds military drills around Taiwan as warning to 'separatist forces'",
         "link": "https://www.bbc.com/news/articles/c87l7xjp235o?at_medium=RSS&at_campaign=rss",
         "description": "The drills come days after the US announced the sale of one of its largest weapons packages to Taiwan.",
@@ -297,6 +315,15 @@
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORDBaNWlxdlVLVlhkMmdlbXEwMV9wQXF2TG1EZDllcV81Y21aTkhKZ0VYVVRrNlJVd1ZGVFM4TER6b1RmWEcyWlRqQnQxT3p5V0FrNjlnb2dkX1lBTFdjVHN5RFN6NElHY1dDNjM3YUYwTndxaUdQU3llQ1BJcEowNlNscnI0aDgxTDhJUTR3cXVMTGxZOTZXRU5n?oc=5",
         "description": "",
         "pubDate": "2025-12-29T08:06:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "South Korean President Lee returns to presidential palace avoided by predecessor - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNHZKanJsYXVkTm1BSzFHZVB0bWJTd2xHbFVYWW91dkQyVEVtVmlxbDZvYk94U3RMOEQ1NmlaNWtXa0RhdDRTTzlnTU9nSXNxU19vVzBtWEgxTDRfMDA3VGQ5ajlpZGpsa3RZeHhHdjV6VGQxdjd6dlBEaUlBQkpYYWtrVFpNeDFhZE53VnBza2RXdXBvTFlHQU1wSGRwODRJNC1R?oc=5",
+        "description": "",
+        "pubDate": "2025-12-29T07:40:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -428,6 +455,15 @@
         "bias": -1
       },
       {
+        "title": "Zohran Mamdani has bold promises. Can he make them come true as New York City mayor? - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVGlmNHlTTVU0MF82bzlrOXZYR0NvS3ZxTHBVUXg4c2g3dkEzMTc4QVpoWHBLMmk1UDRCSnExS0dHSDFSWkwtWE5ya0xOelZsOUIweUpaUzZHbkFZRDVrUks4OE9jZVUySVBQZnNvVnpWa1lpRVVKa3V2R0h3UkdBXzNfbG9SNENxdkRuZk1tNWptLUNPcUN2ay12Y2ppMmM?oc=5",
+        "description": "",
+        "pubDate": "2025-12-29T04:57:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Fire at Indonesia retirement home kills 16 people",
         "link": "https://www.aljazeera.com/news/2025/12/29/fire-at-indonesia-retirement-home-kills-16-people?traffic_source=rss",
         "description": "Police say the fire at the Werdha Damai retirement home in the city of Manado killed 16 and wounded three others.",
@@ -444,15 +480,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "South Korean President Lee returns to presidential palace avoided by predecessor - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNHZKanJsYXVkTm1BSzFHZVB0bWJTd2xHbFVYWW91dkQyVEVtVmlxbDZvYk94U3RMOEQ1NmlaNWtXa0RhdDRTTzlnTU9nSXNxU19vVzBtWEgxTDRfMDA3VGQ5ajlpZGpsa3RZeHhHdjV6VGQxdjd6dlBEaUlBQkpYYWtrVFpNeDFhZE53VnBza2RXdXBvTFlHQU1wSGRwODRJNC1R?oc=5",
-        "description": "",
-        "pubDate": "2025-12-29T03:44:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "An orphan's brutal murder shines a spotlight on child abuse in Somalia",
@@ -484,7 +511,7 @@
       {
         "title": "John Simpson: 'I've reported on 40 wars but I've never seen a year like 2025'",
         "link": "https://www.bbc.com/news/articles/cj4qp17e1lqo?at_medium=RSS&at_campaign=rss",
-        "description": "2025 has been a year of multiple major conflicts and it is becoming clear that one of them has geopolitical implications of unparalleled importance.",
+        "description": "It has been a year of multiple major conflicts - and there are geopolitical implications of unparalleled importance",
         "pubDate": "2025-12-29T03:03:56Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d29/live/9dad1640-dcd0-11f0-b67b-690eb873de1b.jpg",
@@ -623,6 +650,15 @@
       }
     ],
     "Business": [
+      {
+        "title": "Earliest coin minted in Scotland saved for the nation after 900 years",
+        "link": "https://www.bbc.com/news/articles/c4g5n3gld45o?at_medium=RSS&at_campaign=rss",
+        "description": "The medieval David I silver coin, discovered in a wooded area in Midlothian, has been dated to the second half of the 1130s.",
+        "pubDate": "2025-12-29T06:10:48Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96d4/live/c4327860-e3f5-11f0-8e59-137cc11df990.jpg",
+        "bias": 0
+      },
       {
         "title": "Why are young people leaving to work abroad?",
         "link": "https://www.bbc.com/news/articles/c1kpv1z372lo?at_medium=RSS&at_campaign=rss",
