@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-12-30T09:51:07.835787Z",
+  "lastUpdate": "2025-12-30T10:23:27.351844Z",
   "news": {
     "Gaming": [
       {
@@ -18,6 +18,15 @@
         "pubDate": "2025-12-30T09:40:26Z",
         "source": "markmcmanmon.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NzgzMjE0LnBuZw==/315x250%23c/Kskc74.png",
+        "bias": 0
+      },
+      {
+        "title": "Vivid Puzzles [Free] [Puzzle]",
+        "link": "https://zhaoboqiang.itch.io/vivid-puzzles",
+        "description": "tiny casual puzzle game",
+        "pubDate": "2025-12-30T09:09:35Z",
+        "source": "zhaoboqiang.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NzgzMjU5LnBuZw==/315x250%23c/hxqcuM.png",
         "bias": 0
       },
       {
@@ -210,30 +219,12 @@
         "bias": 0
       },
       {
-        "title": "A Little Mineweepers [Free] [Other] [Windows]",
-        "link": "https://majolanum.itch.io/a-little-mineweepers",
-        "description": "",
-        "pubDate": "2025-12-30T07:04:35Z",
-        "source": "majolanum.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzgyMDQ2LnBuZw==/315x250%23c/97DH4F.png",
-        "bias": 0
-      },
-      {
         "title": "EPISODE 4: ALIENS IN THE WOODS (BETA) [Free] [Shooter]",
         "link": "https://behindthemustache.itch.io/episode-4-aliens-in-the-woods",
         "description": "",
         "pubDate": "2025-12-30T06:32:08Z",
         "source": "behindthemustache.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0NzgxNzU5LnBuZw==/315x250%23c/Po8aVa.png",
-        "bias": 0
-      },
-      {
-        "title": "Gawr-Gura-clicker [Free] [Windows] [macOS]",
-        "link": "https://betaester.itch.io/gawr-gura-clicker-remade",
-        "description": "",
-        "pubDate": "2025-12-30T06:08:47Z",
-        "source": "betaester.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzgxOTI1LnBuZw==/315x250%23c/TYkIbc.png",
         "bias": 0
       },
       {
@@ -248,6 +239,51 @@
     ],
     "World": [
       {
+        "title": "Russia accuses Ukraine of attempted drone strike, threatens to harden peace stance",
+        "link": "https://www.npr.org/2025/12/30/nx-s1-5660691/russia-accuses-ukraine-of-attempted-drone-strike-threatens-to-harden-peace-stance",
+        "description": "Russia says Ukraine tried to hit one of Putin's homes with a drone. Kyiv denies it, calling the claim staged to justify war. The Kremlin now warns it may toughen its stance in the ongoing peace talks.",
+        "pubDate": "2025-12-30T09:52:22Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2025/12/30/nx-s1-5653382/morning-news-brief",
+        "description": "Trump and Israel's prime minister discuss next phase of Gaza peace plan, Russia threatens to harden stance in peace talks after accusing Ukraine attempted strike, the impact of DOGE in 2025.",
+        "pubDate": "2025-12-30T09:52:15Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "A professor breaks down Russia's negotiating tactics with Ukraine",
+        "link": "https://www.npr.org/2025/12/30/nx-s1-5660716/a-professor-breaks-down-russias-negotiating-tactics-with-ukraine",
+        "description": "Nina Khrushcheva, professor of International Affairs at New York's New School, talks about the negotiating tactics Russia is using in peace talks with Ukraine.",
+        "pubDate": "2025-12-30T09:52:01Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "More than a decade after its disappearance, Malaysia to resume search for MH370",
+        "link": "https://www.npr.org/2025/12/30/nx-s1-5660675/more-than-a-decade-after-its-disappearance-malaysia-to-resume-search-for-mh370",
+        "description": "Malaysia expects to resume its search for MH370, more than a decade after the plane vanished with 239 aboard. Its disappearance remains one of aviation's greatest mysteries.",
+        "pubDate": "2025-12-30T09:51:36Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "The Ukrainian man fighting Russian ‘lies’ with his front-line newspaper",
+        "link": "https://www.aljazeera.com/features/longform/2025/12/30/the-ukrainian-man-fighting-russian-lies-with-his-front-line-newspaper?traffic_source=rss",
+        "description": "Once a week, Myroshnyk Vassyl Savych delivers much-needed news to remote, exposed villages on the Russian border.",
+        "pubDate": "2025-12-30T09:46:32Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "K-pop band NewJeans breaks up after bitter feud with record label",
         "link": "https://www.bbc.com/news/articles/cdxwxqrde29o?at_medium=RSS&at_campaign=rss",
         "description": "Ador says it has dropped NewJeans member Danielle Marsh while the return of Minji remains uncertain.",
@@ -255,6 +291,15 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7403/live/aaf57e70-e499-11f0-9890-3187c4f9b06f.jpg",
         "bias": 0
+      },
+      {
+        "title": "China holds second day of live-fire drills around Taiwan",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/30/china-holds-second-day-of-live-fire-drills-around-taiwan?traffic_source=rss",
+        "description": "China is engaged in a second day of live-fire military exercises encircling Taiwan.",
+        "pubDate": "2025-12-30T09:38:54Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Yemen’s presidential council cancels UAE defence deal",
@@ -509,7 +554,7 @@
         "bias": 0
       },
       {
-        "title": "Fergal Keane: I've seen firsthand how growing up in war really affects a child",
+        "title": "What growing up in war does to a child's brain - and how it really affects them years later",
         "link": "https://www.bbc.com/news/articles/cre3pdxde7vo?at_medium=RSS&at_campaign=rss",
         "description": "Fergal Keane has met thousands of traumatised children while reporting on conflicts. Here, he researches the long-term effect on them - and what, if anything, can help.",
         "pubDate": "2025-12-30T03:25:02Z",
@@ -547,7 +592,7 @@
       {
         "title": "Khaleda Zia, Bangladesh’s first woman PM: A life of power and resistance",
         "link": "https://www.aljazeera.com/features/2025/12/30/khaleda-zia-bangladeshs-first-woman-pm-a-life-of-power-and-resistance?traffic_source=rss",
-        "description": "The 80-year-old fought to restore democracy after military takeover in 1980s, but corruption claims tainted her legacy.",
+        "description": "The 79-year-old fought to restore democracy after military takeover in 1980s, but corruption claims tainted her legacy.",
         "pubDate": "2025-12-30T02:21:38Z",
         "source": "aljazeera.com",
         "image": "",
@@ -572,7 +617,7 @@
         "bias": 0
       },
       {
-        "title": "Bangladesh mourns former leader Khaleda Zia, who died aged 80",
+        "title": "Bangladesh mourns former leader Khaleda Zia, who died aged 79",
         "link": "https://www.aljazeera.com/news/2025/12/30/bangladeshs-former-prime-minister-khaleda-zia-dies?traffic_source=rss",
         "description": "Bangladesh's first female prime minister dies after a prolonged illness at a hospital in Dhaka.",
         "pubDate": "2025-12-30T01:44:20Z",
@@ -642,36 +687,18 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c54e/live/91c65670-e559-11f0-b67b-690eb873de1b.jpg",
         "bias": 0
-      },
-      {
-        "title": "Coups, elections and protests - a difficult year for democracy in Africa",
-        "link": "https://www.bbc.com/news/articles/c1lr70jg2zgo?at_medium=RSS&at_campaign=rss",
-        "description": "Post-election violence in Tanzania and more coups were part of a turbulent 12 months on the continent.",
-        "pubDate": "2025-12-30T00:39:04Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edd7/live/05a0aed0-dcc5-11f0-b67b-690eb873de1b.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Russia's losses in Ukraine rise faster than ever as US pushes for peace deal",
-        "link": "https://www.bbc.com/news/articles/c62n922dnw7o?at_medium=RSS&at_campaign=rss",
-        "description": "A steep rise in soldiers' obituaries is documented by the BBC as part of its work in counting Russian war losses.",
-        "pubDate": "2025-12-30T00:12:41Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faa5/live/d25c3510-e027-11f0-b67b-690eb873de1b.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Five key takeaways from Trump-Netanyahu meeting in Florida",
-        "link": "https://www.aljazeera.com/news/2025/12/30/five-key-takeaways-from-trump-netanyahu-meeting-in-florida?traffic_source=rss",
-        "description": "US president and Israeli prime minister exchange flattery as Trump threatens Iran and stresses that Hamas must disarm.",
-        "pubDate": "2025-12-30T00:10:57Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
+      {
+        "title": "Federal appeals court judge is accused of bullying her clerks",
+        "link": "https://www.npr.org/2025/12/30/g-s1-103922/judge-complaint-clerk-legal-accountability",
+        "description": "The Legal Accountability Project complaint, which has not been previously reported, states that it is based on conversations with multiple former law clerks.",
+        "pubDate": "2025-12-30T10:00:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Government to review 'information failures' in British-Egyptian activist case",
         "link": "https://www.bbc.com/news/articles/clyzyzwxqyyo?at_medium=RSS&at_campaign=rss",
@@ -724,6 +751,15 @@
     ],
     "Business": [
       {
+        "title": "Octopus Energy to spin off $8.65bn tech arm Kraken",
+        "link": "https://www.bbc.com/news/articles/c1w9wxdl8xvo?at_medium=RSS&at_campaign=rss",
+        "description": "The energy firm sells a $1bn stake in its technology arm Kraken, paving the way for its demerger.",
+        "pubDate": "2025-12-30T09:58:34Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9a3/live/3ca9e9a0-e553-11f0-aa26-f3392ae433a0.jpg",
+        "bias": 0
+      },
+      {
         "title": "A decade on from Wales' nuclear turbines falling silent",
         "link": "https://www.bbc.com/news/articles/cj0136gr9zro?at_medium=RSS&at_campaign=rss",
         "description": "Locals say job losses, stagnant investment and a recovering economy have defined the past decade.",
@@ -743,6 +779,24 @@
       }
     ],
     "Culture": [
+      {
+        "title": "A critic's year-end 'ghost list' wanders from Italian movie sets to 'Demon Hunters'",
+        "link": "https://www.npr.org/2025/12/30/nx-s1-5651980/a-critics-year-end-ghost-list-wanders-from-italian-movie-sets-to-kpop-demon-hunters",
+        "description": "Critic-at-large John Powers gives his due to the movies, TV and books he wasn't able to cover earlier in the year, including",
+        "pubDate": "2025-12-30T10:00:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Undercover documentary reveals Russia's propaganda efforts after invasion of Ukraine",
+        "link": "https://www.npr.org/2025/12/30/nx-s1-5619271/undercover-documentary-reveals-russias-propaganda-efforts-after-invasion-of-ukraine",
+        "description": "\"Mr. Nobody Against Putin,\" a film made secretly by a teacher in Russia, shows the propaganda efforts in a country at war.",
+        "pubDate": "2025-12-30T09:53:02Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "'Maybe we all need panto a little bit more than ever now'",
         "link": "https://www.bbc.com/news/articles/cjrj95zvlljo?at_medium=RSS&at_campaign=rss",
@@ -767,7 +821,7 @@
         "description": "Music correspondent Mark Savage previews the biggest albums, tours and festivals of the coming year.",
         "pubDate": "2025-12-30T00:05:40Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a89/live/0cfcfe20-e54b-11f0-b67b-690eb873de1b.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5148/live/57818c40-e569-11f0-aae2-2191c0e48a3b.jpg",
         "bias": 0
       }
     ]
