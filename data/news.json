@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2025-12-30T06:33:34.060713Z",
+  "lastUpdate": "2025-12-30T06:58:55.014210Z",
   "news": {
     "Gaming": [
+      {
+        "title": "new update VH app [Free] [Windows]",
+        "link": "https://frostwolfdev.itch.io/v",
+        "description": "",
+        "pubDate": "2025-12-30T06:32:56Z",
+        "source": "frostwolfdev.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0NzgxODMxLnBuZw==/315x250%23c/0nc84t.png",
+        "bias": 0
+      },
       {
         "title": "Junya's Basics But It's mr beast Basics [Free] [Android]",
         "link": "https://martypapalouiebaldifan.itch.io/junyas-basics-but-its-mr-beast-basics",
@@ -219,33 +228,6 @@
         "bias": 0
       },
       {
-        "title": "Mandatory Overtime [Free] [Simulation] [Windows]",
-        "link": "https://hulgarth.itch.io/mandatory-overtime",
-        "description": "You are forced to do dangerous work harvesting resources from alien planets.",
-        "pubDate": "2025-12-30T04:15:07Z",
-        "source": "hulgarth.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzgwNjM3LnBuZw==/315x250%23c/rzHWl0.png",
-        "bias": 0
-      },
-      {
-        "title": "TimeTravelerShooter [Free] [Shooter] [Windows]",
-        "link": "https://warren-peace.itch.io/timetravelershooter",
-        "description": "",
-        "pubDate": "2025-12-30T04:14:54Z",
-        "source": "warren-peace.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzgwNjA1LnBuZw==/315x250%23c/kwYAY4.png",
-        "bias": 0
-      },
-      {
-        "title": "Infinite Grind [Free] [Simulation]",
-        "link": "https://neoxsweaty.itch.io/infinite-grind",
-        "description": "An endless Roblox-style clicker where numbers go up forever.",
-        "pubDate": "2025-12-30T04:04:34Z",
-        "source": "neoxsweaty.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0NzgwNDU4LnBuZw==/315x250%23c/iB7sOY.png",
-        "bias": 0
-      },
-      {
         "title": "Hornet Survivors [Free] [Action]",
         "link": "https://kgents.itch.io/hornet",
         "description": "Invade a honeybee hive",
@@ -257,12 +239,21 @@
     ],
     "World": [
       {
-        "title": "Khaleda Zia: Slain leader's widow who became Bangladesh's first PM",
+        "title": "Saudi-led coalition strikes Yemeni port over unauthorised weapons shipment",
+        "link": "https://www.aljazeera.com/news/2025/12/30/saudi-led-coalition-strikes-yemeni-port-over-unauthorised-weapons-shipment?traffic_source=rss",
+        "description": "The coalition carried out a strike at Yemen’s Mukalla port after accusing foreign-backed vessels of delivering weapons.",
+        "pubDate": "2025-12-30T06:26:18Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Khaleda Zia: Slain leader's widow who became Bangladesh's first female PM",
         "link": "https://www.bbc.com/news/articles/c1479kved95o?at_medium=RSS&at_campaign=rss",
         "description": "The country's first female prime minister governed in periods of violent unrest and economic hardship.",
         "pubDate": "2025-12-30T06:12:02Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13ab/live/cae69740-0962-11f0-9401-656920122950.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2b8/live/fba7ce90-e548-11f0-b627-ab7e40138496.jpg",
         "bias": 0
       },
       {
@@ -286,7 +277,7 @@
       {
         "title": "Bangladesh's first female prime minister Khaleda Zia dies aged 80",
         "link": "https://www.bbc.com/news/articles/cm2v256vdkyo?at_medium=RSS&at_campaign=rss",
-        "description": "Zia became the country's first female leader in 1991 after its first democratic election in 20 years.",
+        "description": "For decades, Zia and Sheikh Hasina were bitter rivals - and their feud defined Bangladesh's politics.",
         "pubDate": "2025-12-30T05:14:28Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfb7/live/9ac15100-e520-11f0-9c51-39520f236f90.jpg",
@@ -336,6 +327,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Anthony Joshua injured in Nigeria car crash that killed two team members",
+        "link": "https://www.bbc.com/news/articles/c8989e1wnj2o?at_medium=RSS&at_campaign=rss",
+        "description": "The British heavyweight boxer suffered minor injuries in the crash, which killed two team members and close friends.",
+        "pubDate": "2025-12-30T04:08:21Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6249/live/898b01a0-e4fe-11f0-aae2-2191c0e48a3b.jpg",
+        "bias": 0
       },
       {
         "title": "China fires several rockets around Taiwan during live military drills",
@@ -479,6 +479,15 @@
         "pubDate": "2025-12-30T01:16:00Z",
         "source": "news.google.com",
         "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Great white sharks face extinction in Mediterranean, say researchers",
+        "link": "https://www.bbc.com/news/articles/c9qe9wvq534o?at_medium=RSS&at_campaign=rss",
+        "description": "Overfishing and illegal fishing are contributing to the loss of sharks, including great whites.",
+        "pubDate": "2025-12-30T01:15:19Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e3a/live/2d959090-df36-11f0-b67b-690eb873de1b.jpg",
         "bias": 0
       },
       {
