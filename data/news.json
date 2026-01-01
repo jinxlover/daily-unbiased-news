@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-01T10:58:54.379920Z",
+  "lastUpdate": "2026-01-01T11:25:50.979738Z",
   "news": {
     "Gaming": [
       {
@@ -9,6 +9,15 @@
         "pubDate": "2026-01-01T10:36:46Z",
         "source": "mdf200.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0ODEyNzE2LmpwZw==/315x250%23c/unhQB8.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Custodian [Free] [Other] [Windows]",
+        "link": "https://foxhoundproductions.itch.io/custodian",
+        "description": "A short horror experience.",
+        "pubDate": "2026-01-01T10:35:43Z",
+        "source": "foxhoundproductions.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0ODEyNjk5LnBuZw==/315x250%23c/rgnP4Q.png",
         "bias": 0
       },
       {
@@ -183,30 +192,12 @@
         "bias": 0
       },
       {
-        "title": "Once Again [Free] [Other]",
-        "link": "https://macohi-sphis.itch.io/once-again",
-        "description": "",
-        "pubDate": "2026-01-01T06:56:19Z",
-        "source": "macohi-sphis.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0ODExMjMxLnBuZw==/315x250%23c/Ucoq3N.png",
-        "bias": 0
-      },
-      {
         "title": "Maxwell's Demon vs Entropy [Free] [Puzzle]",
         "link": "https://duskhen.itch.io/maxwells-demon-vs-entropy",
         "description": "Outsmart chaos—one molecule at a time. Unabashed casual game Thermodynamics",
         "pubDate": "2026-01-01T06:55:59Z",
         "source": "duskhen.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0ODExMjY5LmpwZw==/315x250%23c/9ZbNYg.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Demotaur [Free] [Action] [Windows]",
-        "link": "https://jlspringborn.itch.io/demotaur",
-        "description": "First Person Reverse Horror Fantasy Game.",
-        "pubDate": "2026-01-01T06:38:26Z",
-        "source": "jlspringborn.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0ODExMTM5LnBuZw==/315x250%23c/CZQ98D.png",
         "bias": 0
       },
       {
@@ -229,6 +220,51 @@
       }
     ],
     "World": [
+      {
+        "title": "Israel looking to reopen Rafah crossing after US pressure: Israeli media",
+        "link": "https://www.aljazeera.com/news/2026/1/1/israel-looking-to-reopen-rafah-crossing-after-us-pressure-israeli-media?traffic_source=rss",
+        "description": "Israel currently occupies the Palestinian side of the crossing, choking Gaza of a vital humanitarian entry point.",
+        "pubDate": "2026-01-01T11:11:42Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Photos: Thousands march in Turkiye in support of Gaza on New Year’s Day",
+        "link": "https://www.aljazeera.com/gallery/2026/1/1/photos-thousands-march-in-turkiye-in-support-of-gaza-on-new-years-day?traffic_source=rss",
+        "description": "Protesters in Istanbul march after morning prayers, calling for an end to Israel's genocidal war in Gaza.",
+        "pubDate": "2026-01-01T11:11:41Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Watch: Historic Amsterdam church engulfed by fire on New Year's Eve",
+        "link": "https://www.bbc.com/news/videos/ckgkn1xexnno?at_medium=RSS&at_campaign=rss",
+        "description": "The blaze was thought to have started just after midnight and was swiftly declared a major fire",
+        "pubDate": "2026-01-01T11:08:19Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da0f/live/806b12a0-e6e7-11f0-b67b-690eb873de1b.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Yemen’s separatist STC refuses to withdraw from provinces near Saudi Arabia",
+        "link": "https://www.aljazeera.com/news/2026/1/1/yemens-separatist-stc-refuses-to-withdraw-from-provinces-near-saudi-arabia?traffic_source=rss",
+        "description": "STC to maintain presence, but agrees to deployment of Riyadh-backed National Shield government forces in the areas.",
+        "pubDate": "2026-01-01T10:51:55Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "‘Dozens’ killed in Swiss ski resort explosion: What we know",
+        "link": "https://www.aljazeera.com/news/2026/1/1/dozens-killed-in-swiss-ski-resort-explosion-what-we-know?traffic_source=rss",
+        "description": "New Year's Eve explosion in a Swiss resort in Crans-Montana has injured more than 100 people.",
+        "pubDate": "2026-01-01T10:46:46Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "UAE won’t lose “influence in Yemen” after withdrawal",
         "link": "https://www.aljazeera.com/video/quotable/2026/1/1/uae-wont-lose-influence-in-yemen-after-withdrawal?traffic_source=rss",
@@ -365,15 +401,6 @@
         "bias": -1
       },
       {
-        "title": "Watch: Historic Amsterdam church engulfed by fire on New Year's Eve",
-        "link": "https://www.bbc.com/news/videos/ckgkn1xexnno?at_medium=RSS&at_campaign=rss",
-        "description": "The blaze was thought to have started just after midnight and was swiftly declared a major fire",
-        "pubDate": "2026-01-01T08:15:21Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da0f/live/806b12a0-e6e7-11f0-b67b-690eb873de1b.jpg",
-        "bias": 0
-      },
-      {
         "title": "Why are some African countries banning US citizens from entry?",
         "link": "https://www.aljazeera.com/news/2026/1/1/why-are-some-african-countries-banning-us-citizens-from-entry?traffic_source=rss",
         "description": "Mali and Burkina Faso are the latest to issue 'tit-for-tat' bans on visas for US citizens with immediate effect.",
@@ -446,7 +473,7 @@
         "bias": -1
       },
       {
-        "title": "Dozens presumed dead, 100 injured in blaze at Swiss ski resort town",
+        "title": "Dozens killed, 100 injured in blaze at Swiss ski resort town",
         "link": "https://www.aljazeera.com/news/2026/1/1/several-killed-in-explosion-fire-at-swiss-ski-resort-town-police?traffic_source=rss",
         "description": "The New Year’s Eve fire occurred in a bar called Le Constellation in the Swiss town of Crans-Montana.",
         "pubDate": "2026-01-01T06:53:44Z",
@@ -642,42 +669,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "US kills five in attack on alleged drug boats, search for survivors ongoing",
-        "link": "https://www.aljazeera.com/news/2026/1/1/us-kills-three-in-attack-on-alleged-drug-boats-searches-for-survivors?traffic_source=rss",
-        "description": "Latest attacks bring total number of boat strikes to 33 and the number of people killed to at least 112 since September.",
-        "pubDate": "2026-01-01T01:03:46Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Celebrini joins McDavid, MacKinnon, Crosby on Team Canada’s Olympic hockey roster - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdXN2S19VbzV1cFE0OVFSQkZoV1BlazR4VWZhNmV2NjNoR21Vbi1sZTlDRTVhSWhWLTlaaXpmb3N4NG1JX0ExWnc4SUpYZTZyQmNBYUJTaGNvVFRlMHBadjFkbHhLYzdYeUE5WE9zVzljY1FmMUpoRXV3Mm5QQzEybnQ0V2dRS25lR0ZaY3psVUxHd3M?oc=5",
-        "description": "",
-        "pubDate": "2026-01-01T00:58:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Australia names a spin-heavy squad of 15 players for the T20 World Cup in Sri Lanka and India - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZmRCMUdWWjdaamVOdTVkbHkxRVN1Ylc2U3h4Q01sQ2s4TWRJS0p3bFdQUGRyak12MGZ2REFpb0hvbGdhQ1lPVWg5dnNpSVotXzRGMUhkSl9pS0NnU2szTkRVMmtjS1RtNkFuRk1Hekt2U01vdFdlY0tJekZKWTBuNm56X1BLMWlWSFBzdUxTYlVOOTQ?oc=5",
-        "description": "",
-        "pubDate": "2026-01-01T00:42:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Teen who died after falling 150 metres from California's Mt Baldy identified",
-        "link": "https://www.bbc.com/news/articles/crrnlw4rxeyo?at_medium=RSS&at_campaign=rss",
-        "description": "Marcus Alexander Muench Casanova, 19,  who fatally fell 500 feet (150m) from a trail, was an \"avid sailor and outdoorsman\", his family says.",
-        "pubDate": "2026-01-01T00:40:36Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe08/live/76398140-e5ca-11f0-9148-81e43a6e980e.jpg",
-        "bias": 0
       }
     ],
     "Politics": [
@@ -824,6 +815,15 @@
       }
     ],
     "Culture": [
+      {
+        "title": "Gladiator Giant to revert to birth surname... Bigg",
+        "link": "https://www.bbc.com/news/articles/cy8yxv13192o?at_medium=RSS&at_campaign=rss",
+        "description": "Jamie Christian-Johal said his recent divorce and ADHD diagnosis prompted the move.",
+        "pubDate": "2026-01-01T07:09:53Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b64/live/0083ec60-e660-11f0-a8f2-d9e8fba7dc3b.jpg",
+        "bias": 0
+      },
       {
         "title": "I always wanted Paul Mescal to play Shakespeare, says Hamnet writer",
         "link": "https://www.bbc.com/news/articles/cn09e5k767yo?at_medium=RSS&at_campaign=rss",
