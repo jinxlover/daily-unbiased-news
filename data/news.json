@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-01-01T06:49:02.356858Z",
+  "lastUpdate": "2026-01-01T07:12:47.496239Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Pingas Simulator (ALPHA) [Free] [Windows]",
+        "link": "https://rianfinegan124.itch.io/pingas-simulator",
+        "description": "",
+        "pubDate": "2026-01-01T07:02:15Z",
+        "source": "rianfinegan124.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0ODExMjU5LmpwZw==/315x250%23c/gZA%2BcC.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Once Again [Free] [Other]",
+        "link": "https://macohi-sphis.itch.io/once-again",
+        "description": "",
+        "pubDate": "2026-01-01T06:56:19Z",
+        "source": "macohi-sphis.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0ODExMjMxLnBuZw==/315x250%23c/Ucoq3N.png",
+        "bias": 0
+      },
+      {
+        "title": "Space Blaster [Free] [Educational]",
+        "link": "https://razan-y.itch.io/spaceblaster",
+        "description": "",
+        "pubDate": "2026-01-01T06:39:22Z",
+        "source": "razan-y.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0ODExMDc5LmpwZw==/315x250%23c/UVExax.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Demotaur [Free] [Action] [Windows]",
+        "link": "https://jlspringborn.itch.io/demotaur",
+        "description": "First Person Reverse Horror Fantasy Game.",
+        "pubDate": "2026-01-01T06:38:26Z",
+        "source": "jlspringborn.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0ODExMTM5LnBuZw==/315x250%23c/CZQ98D.png",
+        "bias": 0
+      },
       {
         "title": "PROJECT SAND V1 [Free]",
         "link": "https://ironspider1127.itch.io/project-sand-v1",
@@ -138,33 +174,6 @@
         "bias": 0
       },
       {
-        "title": "The RainBoy Toys - Mascot Horror [Free] [Windows] [macOS] [Linux]",
-        "link": "https://colbyiscool.itch.io/the-rainboy-toys-mascot-horror",
-        "description": "Mascot horror game thingy",
-        "pubDate": "2026-01-01T04:27:02Z",
-        "source": "colbyiscool.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0ODEwMTU1LnBuZw==/315x250%23c/fCTde6.png",
-        "bias": 0
-      },
-      {
-        "title": "Snail Life [Free] [Shooter] [Windows]",
-        "link": "https://mind-virus-interactive.itch.io/snail-life",
-        "description": "",
-        "pubDate": "2026-01-01T04:26:53Z",
-        "source": "mind-virus-interactive.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0ODEwMTg1LnBuZw==/315x250%23c/9ymfSj.png",
-        "bias": 0
-      },
-      {
-        "title": "Bell Ring Blocks [Free] [Windows]",
-        "link": "https://cchimmel.itch.io/bell-ring-blocks",
-        "description": "Submitted for the 2025 New Year JamTime game jam",
-        "pubDate": "2026-01-01T04:09:27Z",
-        "source": "cchimmel.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0ODA5OTUwLmpwZw==/315x250%23c/0b2jgk.jpg",
-        "bias": 0
-      },
-      {
         "title": "Solitary the Medicine [Free] [Interactive Fiction]",
         "link": "https://tessie0713.itch.io/solitary-the-medicine",
         "description": "A short conversation between a doctor and a man who wants the medicine he wants, not the medicine the doctor prescribes.",
@@ -175,6 +184,33 @@
       }
     ],
     "World": [
+      {
+        "title": "All the big elections to look out for in 2026",
+        "link": "https://www.aljazeera.com/news/2026/1/1/all-the-big-elections-to-look-out-for-in-2026?traffic_source=rss",
+        "description": "From the February vote in Bangladesh to the November US midterms, here is a calendar of key election dates.",
+        "pubDate": "2026-01-01T06:44:18Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Zohran Mamdani sworn in as first Muslim New York City Mayor",
+        "link": "https://www.bbc.com/news/videos/c4glvg5yrlyo?at_medium=RSS&at_campaign=rss",
+        "description": "The Democratic politician took his oath over a Quran in the disused Old City Hall subway station.",
+        "pubDate": "2026-01-01T06:37:27Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ac1/live/1e4a1310-e6dc-11f0-b67b-690eb873de1b.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Photos of New Year’s celebrations across the globe - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYjF5dzRMdlJxNEdhLTBtbVVTR1o1a3NfVk5mN2p2a1A0T0trYzZaVV9qXzFkNHZlZGNTalhNN2Z5a2ZDM2t0ODhRSVY0ejVmZkNoREtOUmFJcC0yWUdvOHdnODFZZ0lOSXNTZWxfVDZ2WktOcmhsTW5IcDF2bk9NalZtQ3h4VThPNFI1NnhJWDFsMHJ2YWhTYlRHb2lSX2ZaR3dCZw?oc=5",
+        "description": "",
+        "pubDate": "2026-01-01T06:10:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "In pictures: New Year welcomed around the world",
         "link": "https://www.bbc.com/news/articles/c050j896q2do?at_medium=RSS&at_campaign=rss",
@@ -284,15 +320,6 @@
         "bias": 0
       },
       {
-        "title": "Photos of New Year’s celebrations across the globe - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYjF5dzRMdlJxNEdhLTBtbVVTR1o1a3NfVk5mN2p2a1A0T0trYzZaVV9qXzFkNHZlZGNTalhNN2Z5a2ZDM2t0ODhRSVY0ejVmZkNoREtOUmFJcC0yWUdvOHdnODFZZ0lOSXNTZWxfVDZ2WktOcmhsTW5IcDF2bk9NalZtQ3h4VThPNFI1NnhJWDFsMHJ2YWhTYlRHb2lSX2ZaR3dCZw?oc=5",
-        "description": "",
-        "pubDate": "2026-01-01T02:58:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "‘We’re not scared’: Life in Taiwan goes on amid major Chinese war games",
         "link": "https://www.aljazeera.com/features/2026/1/1/were-not-scared-life-in-taiwan-goes-on-amid-major-chinese-war-games?traffic_source=rss",
         "description": "People on the island have grown so accustomed to Chinese displays of power that life continues as usual.",
@@ -374,12 +401,30 @@
         "bias": 0
       },
       {
+        "title": "Australia names a spin-heavy squad of 15 players for the T20 World Cup in Sri Lanka and India - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZmRCMUdWWjdaamVOdTVkbHkxRVN1Ylc2U3h4Q01sQ2s4TWRJS0p3bFdQUGRyak12MGZ2REFpb0hvbGdhQ1lPVWg5dnNpSVotXzRGMUhkSl9pS0NnU2szTkRVMmtjS1RtNkFuRk1Hekt2U01vdFdlY0tJekZKWTBuNm56X1BLMWlWSFBzdUxTYlVOOTQ?oc=5",
+        "description": "",
+        "pubDate": "2026-01-01T00:42:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Teen who died after falling 150 metres from California's Mt Baldy identified",
         "link": "https://www.bbc.com/news/articles/crrnlw4rxeyo?at_medium=RSS&at_campaign=rss",
         "description": "Marcus Alexander Muench Casanova, 19,  who fatally fell 500 feet (150m) from a trail, was an \"avid sailor and outdoorsman\", his family says.",
         "pubDate": "2026-01-01T00:40:36Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe08/live/76398140-e5ca-11f0-9148-81e43a6e980e.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Anthony Joshua discharged from hospital after Nigeria car crash",
+        "link": "https://www.bbc.com/news/articles/c5yvdw77j04o?at_medium=RSS&at_campaign=rss",
+        "description": "Two of the former world champion's closest friends were killed in the accident on Monday.",
+        "pubDate": "2026-01-01T00:32:22Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8c5/live/775d3eb0-e6a4-11f0-b67b-690eb873de1b.jpg",
         "bias": 0
       },
       {
@@ -480,6 +525,25 @@
         "bias": 0
       }
     ],
-    "Culture": []
+    "Culture": [
+      {
+        "title": "Detective and crime novelist among new Traitors contestants",
+        "link": "https://www.bbc.com/news/articles/c77klkrprd2o?at_medium=RSS&at_campaign=rss",
+        "description": "A barrister, nursery school teacher and cyber security expert will also enter the TV show's castle.",
+        "pubDate": "2026-01-01T00:24:42Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b092/live/b6652d80-e658-11f0-a8dc-93c15fe68710.jpg",
+        "bias": 0
+      },
+      {
+        "title": "The Archers cast recreate first episode for 75th anniversary",
+        "link": "https://www.bbc.com/news/articles/cy5g1z6lx9ko?at_medium=RSS&at_campaign=rss",
+        "description": "The recording of the first episode didn't survive, so the current cast have recreated the opening scene.",
+        "pubDate": "2026-01-01T00:07:26Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f45/live/744f3f50-e25a-11f0-9cc8-5f4006175918.jpg",
+        "bias": 0
+      }
+    ]
   }
 }
