@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-02T15:25:46.952424Z",
+  "lastUpdate": "2026-01-02T15:44:15.443528Z",
   "news": {
     "Gaming": [
       {
@@ -18,6 +18,24 @@
         "pubDate": "2026-01-02T15:13:25Z",
         "source": "fluidios.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0ODI4NzUzLnBuZw==/315x250%23c/G8kJr3.png",
+        "bias": 0
+      },
+      {
+        "title": "Il Pianeta delle Idee [Free] [Adventure] [Windows]",
+        "link": "https://leostan3d.itch.io/il-pianeta-delle-idee",
+        "description": "Ricostruzione di una traccia di Caparezza dall'album OrbitOrbit",
+        "pubDate": "2026-01-02T15:12:07Z",
+        "source": "leostan3d.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0ODI5MDUwLnBuZw==/315x250%23c/sE4Z%2By.png",
+        "bias": 0
+      },
+      {
+        "title": "B-Type [Free] [Puzzle]",
+        "link": "https://derekamicon.itch.io/b-type",
+        "description": "Playdate version of the B-Type mode from the NES tetromino game",
+        "pubDate": "2026-01-02T15:10:45Z",
+        "source": "derekamicon.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0ODI4ODk1LnBuZw==/315x250%23c/NiiVsD.png",
         "bias": 0
       },
       {
@@ -147,15 +165,6 @@
         "bias": 0
       },
       {
-        "title": "4D pong [Free] [Educational]",
-        "link": "https://edu11539381.itch.io/4dpong",
-        "description": "4D version of pong",
-        "pubDate": "2026-01-02T14:07:51Z",
-        "source": "edu11539381.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0ODI4Mzg5LnBuZw==/315x250%23c/aKqQ4c.png",
-        "bias": 0
-      },
-      {
         "title": "Grimoria: online Card Game [Free] [Card Game]",
         "link": "https://deam94.itch.io/grimoria-online-card-game",
         "description": "A strategic, casual-friendly online card game. Battle in 1v1, 2v2 & Royale!",
@@ -192,18 +201,9 @@
         "bias": 0
       },
       {
-        "title": "Cleric - In the Deep Dark Dungeon [Free] [Role Playing]",
-        "link": "https://mannzerhacker.itch.io/cleric-tic80",
-        "description": "A menu-driven realtime RPG",
-        "pubDate": "2026-01-02T13:31:46Z",
-        "source": "mannzerhacker.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0ODI3ODUzLmdpZg==/315x250%23c/bxOeJR.gif",
-        "bias": 0
-      },
-      {
         "title": "GHOST\\\\CHROME\\\\FLESH [Free] [Shooter]",
         "link": "https://ghostchromeflesh.itch.io/ghostchromeflesh",
-        "description": "cyberpunk shoot n loot",
+        "description": "sidescrolling shoot n loot - cyberpunk",
         "pubDate": "2026-01-02T13:27:06Z",
         "source": "ghostchromeflesh.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0ODI4NTYzLnBuZw==/315x250%23c/VXUmBZ.png",
@@ -230,6 +230,24 @@
     ],
     "World": [
       {
+        "title": "What to know about the Swiss Alpine bar fire that killed 40 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR3IzMFl4OVAxbzRjMDZxaEctdlphWjEzQjJ0cGw0VG5VLW1zNTRNZ2wzdm5SZWVaYkRuM3h5ZkpFOXJnZVZzR2s4UHhVdXU0ZFhmRTNuTnRydUVxTjhGdGdJNlItNV9mQXdXNmZ2WGdoajRlMW40Z1BMdEVxUDZuVTY0YmU2UGg5cWlPMWdRc2F5bTVlV1BDRVdR?oc=5",
+        "description": "",
+        "pubDate": "2026-01-02T15:36:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Swiss and Italian teens among those missing after ski resort fire",
+        "link": "https://www.bbc.com/news/articles/c07xn220gdeo?at_medium=RSS&at_campaign=rss",
+        "description": "Families are appealing for information about children as young as 15 who are thought to have been at the bar.",
+        "pubDate": "2026-01-02T15:18:56Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44bd/live/e6b33050-e7e7-11f0-b44a-2d5156cff513.jpg",
+        "bias": 0
+      },
+      {
         "title": "Trump warns US will intervene if Iran kills protesters",
         "link": "https://www.bbc.com/news/articles/c0q4z33pnnyo?at_medium=RSS&at_campaign=rss",
         "description": "The US president says \"we will come to their rescue\" after days of demonstrations and clashes.",
@@ -239,21 +257,21 @@
         "bias": 0
       },
       {
-        "title": "What to know about the Swiss Alpine bar fire that killed 40 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR3IzMFl4OVAxbzRjMDZxaEctdlphWjEzQjJ0cGw0VG5VLW1zNTRNZ2wzdm5SZWVaYkRuM3h5ZkpFOXJnZVZzR2s4UHhVdXU0ZFhmRTNuTnRydUVxTjhGdGdJNlItNV9mQXdXNmZ2WGdoajRlMW40Z1BMdEVxUDZuVTY0YmU2UGg5cWlPMWdRc2F5bTVlV1BDRVdR?oc=5",
-        "description": "",
-        "pubDate": "2026-01-02T15:04:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "China's BYD overtakes Tesla as world's top EV seller",
         "link": "https://www.bbc.com/news/articles/cj9rjwpvmpzo?at_medium=RSS&at_campaign=rss",
         "description": "It  marks the first time the Chinese firm has outpaced its American rival for annual sales.",
         "pubDate": "2026-01-02T15:03:38Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc04/live/70e67190-e7db-11f0-aae2-2191c0e48a3b.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Yemen escalation reveals rift between Gulf powers Saudi Arabia and UAE",
+        "link": "https://www.bbc.com/news/articles/cjrz34qdr9no?at_medium=RSS&at_campaign=rss",
+        "description": "A confrontation between the Gulf powers over southern Yemen has left the country's future in the balance.",
+        "pubDate": "2026-01-02T14:59:53Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d0e/live/a89b47b0-e73f-11f0-b67b-690eb873de1b.jpg",
         "bias": 0
       },
       {
@@ -275,15 +293,6 @@
         "bias": -1
       },
       {
-        "title": "Earthquake with a preliminary magnitude of 6.5 rattles southern and central Mexico - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdE9PRWI0TFh5Ri0weVJYdUhXc3NBTGlmX2tjTUZobDlmODZPX1VnRTVXX3NPbTctT0VlMGVUcmtCRFkyVHh1d2RVbi1JajBPd0NPM2pIa1JndGVOVzIzdEtrZkJlZTdEY1dweDRvQjUwV0dfdzJIcVRjdUdCMXBucTFJa3dqZURhMDRaZTZUdjhiZw?oc=5",
-        "description": "",
-        "pubDate": "2026-01-02T14:27:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "US slashes proposed tariffs on Italian pasta imports",
         "link": "https://www.bbc.com/news/articles/c70lw7w89epo?at_medium=RSS&at_campaign=rss",
         "description": "The plan to impose steep tariffs on 13 producers could have seen major price rises for US consumers.",
@@ -297,6 +306,15 @@
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc3VfcEpGTFpBbmIwRVR2d01PUU55WkdyWl9yTnYwazlZZWg3NGJoZHhuNUhoUFhENjZLTUlLdXBTdkQ5enRZeEFya3FibEZkMFJoeTdQdWt4dWExRXN1RzFCX0ptUm9IOWlRVGNxMi1vRVJYZVhpOG1BbEpkQzBmTmNPSkdzNnZKaW85T2hDREhFSmVWd01vRTg4ekdnYkVsVE1DVw?oc=5",
         "description": "",
         "pubDate": "2026-01-02T14:19:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Earthquake with a preliminary magnitude of 6.5 rattles southern and central Mexico - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdE9PRWI0TFh5Ri0weVJYdUhXc3NBTGlmX2tjTUZobDlmODZPX1VnRTVXX3NPbTctT0VlMGVUcmtCRFkyVHh1d2RVbi1JajBPd0NPM2pIa1JndGVOVzIzdEtrZkJlZTdEY1dweDRvQjUwV0dfdzJIcVRjdUdCMXBucTFJa3dqZURhMDRaZTZUdjhiZw?oc=5",
+        "description": "",
+        "pubDate": "2026-01-02T14:18:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -324,6 +342,15 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMk56VjM1MG1SdlE2UkRZa3lhQjVzVTNRTUZNeFhTakZoUm1sNjBHMkszMmMwbmg3TWlCSHNzR3c3WXBPUHFocGg4MmF0TDVkYUxVa01OY2oyS3haZlF2VEpmV0VzRXNBZ0NWeHBTMnVRVFpDeWZ1NGRTX1dDQUZwRUNDUGo4SUV3ZmhxOXIyaWNpVXZyQ2FJ?oc=5",
         "description": "",
         "pubDate": "2026-01-02T14:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Greece cuts student population at universities by half after long study breaks are abolished - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNDdOeDM4TEk2cGlHUm1zLW9kX1hpODRROExrVjVzRXRyaFBXTVJiVDJLYVZDSldWOVlpYVNDUGNpa1pBMHBmSk9jc1ZLV1Z6XzQwYWt1OHZZMEJCQzc1SlR5YVlWcm92VHBGa3VmQWFqYzVWUlZoMi0xcGFDRFVxWGhpSE1UMWctaWJJU0dWZVFlWmJVU0pWRW1lc3FFWEhSSm1oN1FVR05XQV9jMEJj?oc=5",
+        "description": "",
+        "pubDate": "2026-01-02T13:57:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -651,36 +678,18 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
+      }
+    ],
+    "Politics": [
       {
-        "title": "Watch: Moment 400-pound runaway prop injures Disney employee",
-        "link": "https://www.bbc.com/news/videos/czjg9ge7vdeo?at_medium=RSS&at_campaign=rss",
-        "description": "The incident took place during a live recreation of a scene from the film of Indiana Jones",
-        "pubDate": "2026-01-02T07:10:11Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fb1/live/8c1c4e80-e7a9-11f0-aae2-2191c0e48a3b.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Chambliss, Carneiro lift Mississippi past Georgia 39-34 in Sugar Bowl and into CFP semifinals - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdFQ0ajZDR0Z5U1dITGJHYjVwRFN2SnBuUHpXRGctZGNPQ0RLdHlrRms0d3h3YUZFNHlKU3lXZDhuWnFPOW5MeGE3Y0VoNEU0T01XM0xqazJfT3JUdHk5cEVla080dS1LT3ZEZks1aFJ5YTJvUG5LRHp4Uk84OGV1R2daN3AxMEMyXzhPelRNaWljNmNUV1hubVh2R3hyN1lKNlE?oc=5",
+        "title": "Pakistan sentences journalists, YouTubers and ex-military officers to life over inciting violence - AP News",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOUZhWDh6UVVsNGxwY2VFSkRndW9NbTlSRkcyUnVjcTBqOTY1eG4xQTBRXzV1ODFMOFRmYXl6aF9Bd3Y1QldVeWJlNkVINFg0TFN3UW92Q1BLcVZsdVcxd0NPcHozVUlNVHF0N2FMb1h0OWtuRmhkdWJ6bTY1dGJwWXJ6akI2eFh0aXFiVVFDVHBkVFJKZ05TdHFZMjk1TWpwbGpoNDBXZjU2bmpwWjhuakdiM2ZybFJUVi1EWA?oc=5",
         "description": "",
-        "pubDate": "2026-01-02T07:00:00Z",
+        "pubDate": "2026-01-02T13:11:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
-      {
-        "title": "South African activist uses history to highlight ongoing injustice",
-        "link": "https://www.aljazeera.com/features/2026/1/2/south-african-activist-uses-history-to-highlight-ongoing-injustice?traffic_source=rss",
-        "description": "An activist-turned-historian takes tourists through South Africa's painful colonial history, which still echoes today.",
-        "pubDate": "2026-01-02T06:27:14Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      }
-    ],
-    "Politics": [
       {
         "title": "Mike Nesbitt to stand down as Ulster Unionist Party leader",
         "link": "https://www.bbc.com/news/articles/cy05g33ww12o?at_medium=RSS&at_campaign=rss",
@@ -835,7 +844,7 @@
         "title": "FTSE 100 hits 10,000 mark for first time",
         "link": "https://www.bbc.com/news/articles/c87r05143dzo?at_medium=RSS&at_campaign=rss",
         "description": "A rally on the first trading day of the new year has taken London's main share index through the milestone.",
-        "pubDate": "2026-01-02T10:45:23Z",
+        "pubDate": "2026-01-02T15:37:42Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2097/live/31602340-e7e0-11f0-aae2-2191c0e48a3b.jpg",
         "bias": 0
@@ -860,6 +869,15 @@
       }
     ],
     "Culture": [
+      {
+        "title": "Clare Balding pays tribute to 'one of a kind' dad",
+        "link": "https://www.bbc.com/sport/horse-racing/articles/c4g50vg52pxo?at_medium=RSS&at_campaign=rss",
+        "description": "Ian Balding, the legendary trainer of the 1971 Derby winner Mill Reef, dies at the age of 87.",
+        "pubDate": "2026-01-02T12:58:34Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c14/live/6715d750-e7ef-11f0-a8dc-93c15fe68710.jpg",
+        "bias": 0
+      },
       {
         "title": "Tiffany Calver on breaking the glass ceiling as she leaves 1Xtra",
         "link": "https://www.bbc.com/news/articles/cvgrz1krmjzo?at_medium=RSS&at_campaign=rss",
