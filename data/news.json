@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-02T20:23:59.411885Z",
+  "lastUpdate": "2026-01-02T20:43:45.585019Z",
   "news": {
     "Gaming": [
       {
@@ -165,15 +165,6 @@
         "bias": 0
       },
       {
-        "title": "Adventure Boy [Free] [Platformer] [Windows]",
-        "link": "https://lluis83.itch.io/adventure-boy",
-        "description": "Demo of a platformer game",
-        "pubDate": "2026-01-02T18:18:30Z",
-        "source": "lluis83.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0ODMxNTM0LnBuZw==/315x250%23c/t%2FRTms.png",
-        "bias": 0
-      },
-      {
         "title": "Simple Incremental Clicker [Free] [Other]",
         "link": "https://stika-124.itch.io/simple-incremental-clicker",
         "description": "",
@@ -201,6 +192,15 @@
         "bias": 0
       },
       {
+        "title": "Western Ghouls [2.00€] [Shooter] [Windows]",
+        "link": "https://mueller-media.itch.io/western-ghouls",
+        "description": "Free the western town from ghouls and earn money!",
+        "pubDate": "2026-01-02T10:15:45Z",
+        "source": "mueller-media.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0ODMyNzgzLnBuZw==/315x250%23c/gJV5Ng.png",
+        "bias": 0
+      },
+      {
         "title": "Watch Your Step [Free] [Puzzle] [Windows] [macOS] [Android]",
         "link": "https://dmitriieremin.itch.io/watch-your-step",
         "description": "Be careful with your mushrooms!",
@@ -217,18 +217,18 @@
         "source": "malforacic105.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0ODI0NTQwLnBuZw==/315x250%23c/zf69T%2F.png",
         "bias": 0
-      },
-      {
-        "title": "Blorpy [Free] [Survival]",
-        "link": "https://sharkdevstudios.itch.io/blorpy",
-        "description": "Bleep zap blup glep",
-        "pubDate": "2026-01-02T05:42:25Z",
-        "source": "sharkdevstudios.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0ODMxNzkwLmpwZw==/315x250%23c/IDr0As.jpg",
-        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "What images and videos tell us about why Swiss bar fire spread so quickly",
+        "link": "https://www.bbc.com/news/articles/c20gjlpw9l3o?at_medium=RSS&at_campaign=rss",
+        "description": "How the blaze took hold with such ferocity, killing at least 40 people and leaving many more critically injured, is now a key focus for officials.",
+        "pubDate": "2026-01-02T20:28:25Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb3c/live/e4b82800-e805-11f0-b67b-690eb873de1b.png",
+        "bias": 0
+      },
       {
         "title": "Swiss bar fire likely started by sparklers on champagne bottles",
         "link": "https://www.bbc.com/news/articles/cq6v41jg9jzo?at_medium=RSS&at_campaign=rss",
@@ -255,6 +255,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "College football’s Urban Meyer joins board of Florida college transformed by DeSantis - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWGx5RU1lSVdGTEo2RU5iOW9lUFVwWUxlbXZrcjFROXoxODI4djdPdTdGVHd5NHU1NXFUZXhWSnhTcnV4cUdDX3RSSFlTc3JUMDhPLTRqMFJTRXhKOWJIS1AwY0wyVFJuQzBSQ0IyN3daU21Qa0poUE1JZ2VjSFVYVGdSTUZRYXBnbUJnU3JIUlhNOUc4NjhXMEgxMDRobnpTUlJFRktad2NQUQ?oc=5",
+        "description": "",
+        "pubDate": "2026-01-02T19:38:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Iran faces growing protests amid deepening economic crisis",
@@ -315,6 +324,15 @@
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdE9PRWI0TFh5Ri0weVJYdUhXc3NBTGlmX2tjTUZobDlmODZPX1VnRTVXX3NPbTctT0VlMGVUcmtCRFkyVHh1d2RVbi1JajBPd0NPM2pIa1JndGVOVzIzdEtrZkJlZTdEY1dweDRvQjUwV0dfdzJIcVRjdUdCMXBucTFJa3dqZURhMDRaZTZUdjhiZw?oc=5",
         "description": "",
         "pubDate": "2026-01-02T18:31:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Zelenskyy names Ukraine’s head of military intelligence as his new chief of staff - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMk56VjM1MG1SdlE2UkRZa3lhQjVzVTNRTUZNeFhTakZoUm1sNjBHMkszMmMwbmg3TWlCSHNzR3c3WXBPUHFocGg4MmF0TDVkYUxVa01OY2oyS3haZlF2VEpmV0VzRXNBZ0NWeHBTMnVRVFpDeWZ1NGRTX1dDQUZwRUNDUGo4SUV3ZmhxOXIyaWNpVXZyQ2FJ?oc=5",
+        "description": "",
+        "pubDate": "2026-01-02T18:28:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -401,15 +419,6 @@
         "bias": 0
       },
       {
-        "title": "College football’s Urban Meyer joins board of Florida college transformed by DeSantis - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWGx5RU1lSVdGTEo2RU5iOW9lUFVwWUxlbXZrcjFROXoxODI4djdPdTdGVHd5NHU1NXFUZXhWSnhTcnV4cUdDX3RSSFlTc3JUMDhPLTRqMFJTRXhKOWJIS1AwY0wyVFJuQzBSQ0IyN3daU21Qa0poUE1JZ2VjSFVYVGdSTUZRYXBnbUJnU3JIUlhNOUc4NjhXMEgxMDRobnpTUlJFRktad2NQUQ?oc=5",
-        "description": "",
-        "pubDate": "2026-01-02T16:53:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Broadway director Alex Timbers achieves a rare feat with 4 shows running simultaneously - AP News",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcmkwenk1bVZHYUtSRXJoaDZxMHRCb1lzc0VYNVp4RFpISEZFUnRGNDdlbXhaSjIzbGpkRndCNG40NC1Iek1sTEo1Y1ozTjhoWktDc3RKT3NMNEJOVUdLZkxsTFdKZG12UTlvR1ppTDBRZ0p4S0o2ZmxSWFdLSmhubklfVmlLQUI5OXNhVGdhSQ?oc=5",
         "description": "",
@@ -489,15 +498,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Zelenskyy names Ukraine’s head of military intelligence as his new chief of staff - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMk56VjM1MG1SdlE2UkRZa3lhQjVzVTNRTUZNeFhTakZoUm1sNjBHMkszMmMwbmg3TWlCSHNzR3c3WXBPUHFocGg4MmF0TDVkYUxVa01OY2oyS3haZlF2VEpmV0VzRXNBZ0NWeHBTMnVRVFpDeWZ1NGRTX1dDQUZwRUNDUGo4SUV3ZmhxOXIyaWNpVXZyQ2FJ?oc=5",
-        "description": "",
-        "pubDate": "2026-01-02T15:47:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "China's BYD overtakes Tesla as world's top EV seller",
@@ -666,15 +666,6 @@
         "link": "https://www.aljazeera.com/opinions/2026/1/2/why-i-am-on-hunger-strike-in-solidarity-with-pal-action-detainees?traffic_source=rss",
         "description": "In the Pal Action detainees, I see my own story. I see clear evidence that Guantánamo did not end; it spread.",
         "pubDate": "2026-01-02T11:13:45Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Sudan’s el-Fasher now a “ghost town” after RSF takeover",
-        "link": "https://www.aljazeera.com/video/quotable/2026/1/2/sudans-el-fasher-now-a-ghost-town-after-rsf-takeover?traffic_source=rss",
-        "description": "Nathaniel Raymond of Yale School of Public Health warns of mass deaths in Sudan as UN visits el-Fasher",
-        "pubDate": "2026-01-02T11:03:11Z",
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
