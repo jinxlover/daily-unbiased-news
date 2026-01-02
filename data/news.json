@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-02T18:40:32.032884Z",
+  "lastUpdate": "2026-01-02T18:59:39.631971Z",
   "news": {
     "Gaming": [
       {
@@ -9,6 +9,15 @@
         "pubDate": "2026-01-02T18:18:48Z",
         "source": "dnp7480.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0ODMxMzk3LnBuZw==/315x250%23c/aA8nG0.png",
+        "bias": 0
+      },
+      {
+        "title": "Adventure Boy [Free] [Platformer] [Windows]",
+        "link": "https://lluis83.itch.io/adventure-boy",
+        "description": "Demo of a platformer game",
+        "pubDate": "2026-01-02T18:18:30Z",
+        "source": "lluis83.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0ODMxNTM0LnBuZw==/315x250%23c/t%2FRTms.png",
         "bias": 0
       },
       {
@@ -147,15 +156,6 @@
         "bias": 0
       },
       {
-        "title": "Collatz Explorer in Javascript [Free]",
-        "link": "https://pidginhole-studios.itch.io/navier-stokes-fluid-simulation",
-        "description": "",
-        "pubDate": "2026-01-02T17:22:55Z",
-        "source": "pidginhole-studios.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0ODMwNjMwLnBuZw==/315x250%23c/pfqGyO.png",
-        "bias": 0
-      },
-      {
         "title": "Block Runner [Free] [Platformer]",
         "link": "https://mark-khussayenov.itch.io/block-runner",
         "description": "Fast-paced 2D platformer where you run, jump, collect coins and fight a deadly ghost!",
@@ -165,21 +165,12 @@
         "bias": 0
       },
       {
-        "title": "Core Breaker [Free] [Puzzle]",
-        "link": "https://masimaro.itch.io/corebreaker",
-        "description": "A fresh take on the classic block-breaking game that protects the central core.",
-        "pubDate": "2026-01-02T17:17:10Z",
-        "source": "masimaro.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0ODMwNjI4LnBuZw==/315x250%23c/%2FVSpQ%2F.png",
-        "bias": 0
-      },
-      {
-        "title": "My Agony [Free] [Visual Novel] [Windows]",
-        "link": "https://indiesoul.itch.io/my-agony",
-        "description": "",
-        "pubDate": "2026-01-02T17:15:35Z",
-        "source": "indiesoul.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0ODMwNTUzLnBuZw==/315x250%23c/PBFs8E.png",
+        "title": "Project hEXabyte II [$3.30] [Shooter] [Windows]",
+        "link": "https://jhafer-studios.itch.io/hexabyte-ii",
+        "description": "Step into a high-octane, cyberpunk FPS experience.",
+        "pubDate": "2026-01-02T17:15:17Z",
+        "source": "jhafer-studios.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0ODMxMTYwLnBuZw==/315x250%23c/0OF%2FGH.png",
         "bias": 0
       },
       {
@@ -264,6 +255,15 @@
         "bias": 0
       },
       {
+        "title": "Blorpy [Free] [Survival]",
+        "link": "https://sharkdevstudios.itch.io/blorpy",
+        "description": "Bleep zap blup glep",
+        "pubDate": "2026-01-02T05:42:25Z",
+        "source": "sharkdevstudios.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0ODMxNzkwLmpwZw==/315x250%23c/IDr0As.jpg",
+        "bias": 0
+      },
+      {
         "title": "Double Vision [Free] [Puzzle] [Windows] [Linux]",
         "link": "https://offbytwodev.itch.io/double-vision",
         "description": "2D Puzzle Platformer where you control multiple characters at once",
@@ -275,12 +275,30 @@
     ],
     "World": [
       {
+        "title": "Tesla loses title as world’s biggest electric vehicle maker, AP Explains - AP News",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcjBEMzI2ZTNtSDgxblo3cDNvZFdBdFloa3l0Tzg3RFYtZjZDN3VBaGVvZENYcGFMUm90bUZMSnRtM2p3Wm5NOG9FNDY5R29NeWQ3OTlLQ3dEb25Rb1laQTZqbEJnSHRZa0xCb2pGSC1rRGVTdlBwc1lyMW83Q2ZIc3dpNndDSlJmazFyY1N4aXZSWjJLb2NhSlRhZWNDUzJGMTlsNnJnRGkzWXV4VFowbUdxX29EMkE1aEdRdUdzWjVjajFiZnQ0?oc=5",
+        "description": "",
+        "pubDate": "2026-01-02T18:57:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Swiss bar fire likely started by sparklers on champagne bottles",
         "link": "https://www.bbc.com/news/articles/cq6v41jg9jzo?at_medium=RSS&at_campaign=rss",
         "description": "The investigation into the fire that killed 40 people will consider whether criminal prosecutions are necessary, officials said.",
         "pubDate": "2026-01-02T18:31:58Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51a4/live/4d1c9f40-e804-11f0-b67b-690eb873de1b.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Earthquake with a preliminary magnitude of 6.5 rattles southern and central Mexico - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdE9PRWI0TFh5Ri0weVJYdUhXc3NBTGlmX2tjTUZobDlmODZPX1VnRTVXX3NPbTctT0VlMGVUcmtCRFkyVHh1d2RVbi1JajBPd0NPM2pIa1JndGVOVzIzdEtrZkJlZTdEY1dweDRvQjUwV0dfdzJIcVRjdUdCMXBucTFJa3dqZURhMDRaZTZUdjhiZw?oc=5",
+        "description": "",
+        "pubDate": "2026-01-02T18:31:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -298,7 +316,25 @@
         "description": "Families are appealing for information about children as young as 15 who are thought to have been at the bar.",
         "pubDate": "2026-01-02T18:20:47Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44bd/live/e6b33050-e7e7-11f0-b44a-2d5156cff513.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3468/live/7c1f6810-e80c-11f0-a8dc-93c15fe68710.png",
+        "bias": 0
+      },
+      {
+        "title": "FBI says it disrupted a potential New Year’s Eve attack inspired by Islamic State group - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcVNEX0dRYnFSTk9fck5mVl9UR0ZqWXZHMFpzeHo2cWdEQmRTV0VyeHFjNERYZmtVekQyd1BUWG1XdFhjRG04SGNtd0wtSC0zM0EyRmtqN1pLZ2pSdkJ6dl9RWmFUUjJxM1pGOHRBR20wTUJVcFBfb2M2emxJRFdyTWgweFJ2dDc0TnQzZ1VVckJNT25LWjk0Y2Y5Y1diNi1ZbUE?oc=5",
+        "description": "",
+        "pubDate": "2026-01-02T17:47:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Suspected deadly mountain lion attack in Colorado is not the first such harrowing encounter - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOalFXQjN3S09iRVpnWnFJeW4wRDdEQmRGenJqSVhESW5GVWpCLUNFQzdjZ2hLeWoySllPT0h6OUxUOVl5VTB2LW9XZlVWU01iZzkzQWhPUDF0d1pvR0lhOEtTRHNjUE5EZW4wM011LUR6TzBJNVdkSHpNREtUM3ZDOHk2MmJkdy1SRUQxT1ZsazEwNVBjdlducGlBNGpHTk44bG1XYQ?oc=5",
+        "description": "",
+        "pubDate": "2026-01-02T17:45:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -338,30 +374,12 @@
         "bias": 0
       },
       {
-        "title": "FBI says it disrupted a potential New Year’s Eve attack inspired by Islamic State group - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcVNEX0dRYnFSTk9fck5mVl9UR0ZqWXZHMFpzeHo2cWdEQmRTV0VyeHFjNERYZmtVekQyd1BUWG1XdFhjRG04SGNtd0wtSC0zM0EyRmtqN1pLZ2pSdkJ6dl9RWmFUUjJxM1pGOHRBR20wTUJVcFBfb2M2emxJRFdyTWgweFJ2dDc0TnQzZ1VVckJNT25LWjk0Y2Y5Y1diNi1ZbUE?oc=5",
-        "description": "",
-        "pubDate": "2026-01-02T17:11:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Anthony Joshua's driver charged over Nigeria crash that killed two",
         "link": "https://www.bbc.com/news/articles/c5y2jrdnnqyo?at_medium=RSS&at_campaign=rss",
         "description": "The former heavyweight champion was a passenger in the crash, which killed two of his team members on Monday.",
         "pubDate": "2026-01-02T17:01:00Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/445a/live/c2bcd920-e7f7-11f0-aae2-2191c0e48a3b.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Earthquake with a preliminary magnitude of 6.5 rattles southern and central Mexico - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdE9PRWI0TFh5Ri0weVJYdUhXc3NBTGlmX2tjTUZobDlmODZPX1VnRTVXX3NPbTctT0VlMGVUcmtCRFkyVHh1d2RVbi1JajBPd0NPM2pIa1JndGVOVzIzdEtrZkJlZTdEY1dweDRvQjUwV0dfdzJIcVRjdUdCMXBucTFJa3dqZURhMDRaZTZUdjhiZw?oc=5",
-        "description": "",
-        "pubDate": "2026-01-02T16:56:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -671,7 +689,7 @@
         "bias": -1
       },
       {
-        "title": "Early gains fade as Wall Street wobbles into 2026 - AP News",
+        "title": "Benchmarks in Britain and South Korea hit records as world shares get an upbeat start to 2026 - AP News",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMjlrRFgtZUpNRlVJZzRsNXVFNUhpMEh1YUVmSV9mWlNPYVFKYVREUXhoZ0Q1bjYzV0xqSVpudWpyZV91ek9mYmExSm5fZnhfSVZSaU5rQUpVaDZiQzE1N1Nkd0phczdOU0NMM0dCZlNoNjdqY3E5U09rM1pyMmFIU3JnRExLME9VeXBNZjEwN2dxRUY2VkJz?oc=5",
         "description": "",
         "pubDate": "2026-01-02T10:00:00Z",
@@ -702,24 +720,6 @@
         "link": "https://www.npr.org/2026/01/02/nx-s1-5664067/fire-at-swiss-resort-bar-kills-40-people-injures-over-100",
         "description": "About 40 people are dead and more than 100 are injured after a fire ripped through a New Year's Eve party at a Swiss ski resort bar. Authorities are still investigating what caused the blaze.",
         "pubDate": "2026-01-02T09:51:29Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Ukrainians remember broken 1994 security promises as it negotiates with Russia",
-        "link": "https://www.npr.org/2026/01/02/nx-s1-5643506/ukrainians-remember-broken-1994-security-promises-as-it-negotiates-with-russia",
-        "description": "Ukrainians recall their country giving up nuclear weapons in 1994 in exchange for international security promises that weren't kept. They don't want a repeat in their current negotiations with Russia.",
-        "pubDate": "2026-01-02T09:50:58Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Israeli podcast duo use platform to reflect on the war in Gaza",
-        "link": "https://www.npr.org/2026/01/02/nx-s1-5660689/israeli-podcast-duo-use-platform-to-reflect-on-the-war-in-gaza",
-        "description": "A podcast by two Israelis re-examines the war in Gaza and its impact on Israeli society.",
-        "pubDate": "2026-01-02T09:49:47Z",
         "source": "npr.org",
         "image": "",
         "bias": -1
@@ -851,7 +851,7 @@
         "description": "The BBC has seen several examples of it undressing women and putting them in sexual situations without their consent.",
         "pubDate": "2026-01-02T17:12:25Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/006a/live/05726930-e805-11f0-aae2-2191c0e48a3b.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/436a/live/0b2ee680-e80c-11f0-b67b-690eb873de1b.png",
         "bias": 0
       },
       {
