@@ -1,7 +1,25 @@
 {
-  "lastUpdate": "2026-01-03T08:36:57.769797Z",
+  "lastUpdate": "2026-01-03T08:54:36.584196Z",
   "news": {
     "Gaming": [
+      {
+        "title": "111219046 [Free] [Action]",
+        "link": "https://jxex.itch.io/111219046",
+        "description": "",
+        "pubDate": "2026-01-03T08:48:29Z",
+        "source": "jxex.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0ODM5Nzc5LnBuZw==/315x250%23c/i7VlV%2B.png",
+        "bias": 0
+      },
+      {
+        "title": "Home Kitchen Items [Free]",
+        "link": "https://hdbanks1.itch.io/home-kitchen-items",
+        "description": "",
+        "pubDate": "2026-01-03T08:39:51Z",
+        "source": "hdbanks1.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0ODQwMzEzLnBuZw==/315x250%23c/J2A0B6.png",
+        "bias": 0
+      },
       {
         "title": "Wabi Sabi Junior Detective: First Sight! [Free] [Adventure]",
         "link": "https://bnuuydev.itch.io/wabi-sabi-junior-detective-first-sight",
@@ -18,6 +36,15 @@
         "pubDate": "2026-01-03T07:57:38Z",
         "source": "houndfire.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0ODM5OTUyLnBuZw==/315x250%23c/DJlyrO.png",
+        "bias": 0
+      },
+      {
+        "title": "GAMIFICATION QUEST [Free]",
+        "link": "https://sinzlau.itch.io/gamification-quest",
+        "description": "",
+        "pubDate": "2026-01-03T07:52:49Z",
+        "source": "sinzlau.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0ODQwMjU2LmpwZw==/315x250%23c/cepxY5.jpg",
         "bias": 0
       },
       {
@@ -210,33 +237,6 @@
         "bias": 0
       },
       {
-        "title": "Teeth Rush [Free] [Educational]",
-        "link": "https://zany22.itch.io/teeth-rush",
-        "description": "Avoid candy, brush your teeth",
-        "pubDate": "2026-01-03T05:28:28Z",
-        "source": "zany22.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0ODM4OTE3LnBuZw==/315x250%23c/f39SQW.png",
-        "bias": 0
-      },
-      {
-        "title": "Iron & Ashes [Free] [Shooter] [Windows]",
-        "link": "https://fendor974.itch.io/iron-ashes",
-        "description": "",
-        "pubDate": "2026-01-03T05:22:07Z",
-        "source": "fendor974.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0ODM4OTI4LnBuZw==/315x250%23c/Q89aQC.png",
-        "bias": 0
-      },
-      {
-        "title": "DRAG UP [Free] [Windows] [Android]",
-        "link": "https://lordshan2245.itch.io/drag-up",
-        "description": "",
-        "pubDate": "2026-01-03T05:21:59Z",
-        "source": "lordshan2245.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0ODM4ODg3LnBuZw==/315x250%23c/OJ0ZIv.png",
-        "bias": 0
-      },
-      {
         "title": "Throw Cards Throw More [Free] [Shooter]",
         "link": "https://henohenogame.itch.io/throw-cards-throw-more",
         "description": "",
@@ -264,15 +264,6 @@
         "bias": 0
       },
       {
-        "title": "Midnight Songs [Free] [Simulation]",
-        "link": "https://alpaka-kyumuin.itch.io/midnight-songs",
-        "description": "Midnight Songs is a cozy game where you play as a rookie radio host, selecting music for your listeners late at night.",
-        "pubDate": "2026-01-03T04:47:06Z",
-        "source": "alpaka-kyumuin.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0ODM4NTM1LnBuZw==/315x250%23c/R3ZGBx.png",
-        "bias": 0
-      },
-      {
         "title": "Roll a Ball [Free] [Platformer]",
         "link": "https://tharindudamru0ne.itch.io/roll-a-ball",
         "description": "Master the Sphere: Navigate a gauntlet of deadly traps in this precision physics-based 3D platformer",
@@ -293,11 +284,20 @@
     ],
     "World": [
       {
-        "title": "Multiple explosions heard in Venezuela's Capital",
+        "title": "Multiple explosions heard in Venezuela's Capital. Maduro accuses the U.S.",
         "link": "https://www.npr.org/2026/01/03/g-s1-104329/explosions-caracas-venezuela",
         "description": "Multiple explosions and fires are being reported around Caracas. It is not immediately clear what is the cause of the blasts. The explosions began at around 2 am local time.",
         "pubDate": "2026-01-03T08:11:08Z",
         "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Iranians face mounting hardship as protests intensify",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/3/iranians-face-mounting-hardship-as-protests-intensify?traffic_source=rss",
+        "description": "Protests have entered a second week across Iran, driven by anger over soaring prices, inflation, and a plunging currency",
+        "pubDate": "2026-01-03T08:06:29Z",
+        "source": "aljazeera.com",
         "image": "",
         "bias": -1
       },
@@ -365,6 +365,15 @@
         "bias": 0
       },
       {
+        "title": "Venezuela accuses US of bombing civilian, military installations",
+        "link": "https://www.aljazeera.com/news/2026/1/3/explosions-heard-over-venezuelan-capital-caracas-amid-us-tensions?traffic_source=rss",
+        "description": "President Nicolas Maduro has declared a national state of emergency in Venezuela.",
+        "pubDate": "2026-01-03T06:30:17Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Why ordering takeout or calling the dog walker might lead to a happier relationship - AP News",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSllMVV90QmxXY0NwbHlGb2hBbzIyRlFmUFBoT1hqZE1NQU1HamxVR3VBXzE0U1M4bk9BaHFYcXNMaEhJX0JmeW4tQXNSQlZCTnNqd0t0YVhwcHhqNjA2cjhya2RIR0lrb2JLd242X1Nxd2llaEx3Z29tRWhRckE2Mmh2UE5qdmhrN1VmZWF5LWdTaHdvSTAyZjhYTnQ4ZTBOMUg4?oc=5",
         "description": "",
@@ -374,7 +383,7 @@
         "bias": 0
       },
       {
-        "title": "Live: Saudi Arabia invites Yemeni factions for ‘dialogue’ amid fighting",
+        "title": "Updates: Saudi Arabia invites Yemeni factions for ‘dialogue’ amid fighting",
         "link": "https://www.aljazeera.com/news/liveblog/2026/1/3/live-saudi-arabia-invites-yemeni-factions-for-dialogue-amid-fighting?traffic_source=rss",
         "description": "Saudi Arabia's Foreign Ministry invites Yemen's southern factions to attend a 'dialogue' in Riyadh.",
         "pubDate": "2026-01-03T05:56:06Z",
@@ -560,6 +569,24 @@
         "pubDate": "2026-01-03T00:34:25Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e30/live/b4c3eaa0-dff7-11f0-aae2-2191c0e48a3b.jpg",
+        "bias": 0
+      },
+      {
+        "title": "The year angry men dominated Bollywood - and what it means for India",
+        "link": "https://www.bbc.com/news/articles/ce8n8eye1vjo?at_medium=RSS&at_campaign=rss",
+        "description": "Violent, male-driven films dominated the Indian box-office and cultural conversations in 2025.",
+        "pubDate": "2026-01-03T00:12:34Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8e1/live/94a14320-e61a-11f0-bc37-99d14a64a534.png",
+        "bias": 0
+      },
+      {
+        "title": "Jessie Buckley 'overwhelmed' to be starring in Oscar-tipped Hamnet",
+        "link": "https://www.bbc.com/news/articles/crml22mx7m4o?at_medium=RSS&at_campaign=rss",
+        "description": "\"She was what I understand a woman to be\", says Buckley on playing Shakespeare's wife and the mother of their son Hamnet.",
+        "pubDate": "2026-01-03T00:02:40Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6e9/live/ee7bfba0-e72e-11f0-b67b-690eb873de1b.jpg",
         "bias": 0
       }
     ]
