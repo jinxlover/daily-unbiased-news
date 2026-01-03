@@ -1,16 +1,7 @@
 {
-  "lastUpdate": "2026-01-03T08:54:36.584196Z",
+  "lastUpdate": "2026-01-03T09:20:17.084628Z",
   "news": {
     "Gaming": [
-      {
-        "title": "111219046 [Free] [Action]",
-        "link": "https://jxex.itch.io/111219046",
-        "description": "",
-        "pubDate": "2026-01-03T08:48:29Z",
-        "source": "jxex.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0ODM5Nzc5LnBuZw==/315x250%23c/i7VlV%2B.png",
-        "bias": 0
-      },
       {
         "title": "Home Kitchen Items [Free]",
         "link": "https://hdbanks1.itch.io/home-kitchen-items",
@@ -18,6 +9,15 @@
         "pubDate": "2026-01-03T08:39:51Z",
         "source": "hdbanks1.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0ODQwMzEzLnBuZw==/315x250%23c/J2A0B6.png",
+        "bias": 0
+      },
+      {
+        "title": "Iced Birds [Free] [Action] [Windows]",
+        "link": "https://cpubad.itch.io/iced-birds",
+        "description": "",
+        "pubDate": "2026-01-03T08:17:10Z",
+        "source": "cpubad.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0ODM5OTM0LnBuZw==/315x250%23c/eM9U%2FU.png",
         "bias": 0
       },
       {
@@ -228,39 +228,21 @@
         "bias": 0
       },
       {
+        "title": "Polearms [Free]",
+        "link": "https://hdbanks1.itch.io/polearms",
+        "description": "",
+        "pubDate": "2026-01-03T05:49:16Z",
+        "source": "hdbanks1.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0ODM5MDU0LnBuZw==/315x250%23c/dyL%2BbR.png",
+        "bias": 0
+      },
+      {
         "title": "Protozoa Neural Network Hunt [Free]",
         "link": "https://pseudosomnia.itch.io/protozoa-neural-network-hunt",
         "description": "An interactive simulation of a single-celled organism learning, feeding, and evolving through a simple neural network.",
         "pubDate": "2026-01-03T05:46:47Z",
         "source": "pseudosomnia.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0ODM5MjQ5LnBuZw==/315x250%23c/ERSWlN.png",
-        "bias": 0
-      },
-      {
-        "title": "Throw Cards Throw More [Free] [Shooter]",
-        "link": "https://henohenogame.itch.io/throw-cards-throw-more",
-        "description": "",
-        "pubDate": "2026-01-03T05:19:37Z",
-        "source": "henohenogame.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0ODM4ODMxLnBuZw==/315x250%23c/87gsl2.png",
-        "bias": 0
-      },
-      {
-        "title": "Out of Bullets [Free] [Shooter] [Windows]",
-        "link": "https://blackhunterdev.itch.io/out-of-bullets",
-        "description": "Competitive PvE Arena FPS",
-        "pubDate": "2026-01-03T05:09:42Z",
-        "source": "blackhunterdev.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0ODM4NTY5LnBuZw==/315x250%23c/fOtqiX.png",
-        "bias": 0
-      },
-      {
-        "title": "Plants vs Zombies Fusion (V3.2.1) APK Unlimited Sun [Free] [Action]",
-        "link": "https://pvzf.itch.io/plants-vs-zombies-fusion-v321-apk-unlimited-sun",
-        "description": "Plants vs Zombies Fusion APK Unlimited Sun",
-        "pubDate": "2026-01-03T04:58:33Z",
-        "source": "pvzf.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0ODM4Njc0LnBuZw==/315x250%23c/I3PjQj.png",
         "bias": 0
       },
       {
@@ -283,6 +265,42 @@
       }
     ],
     "World": [
+      {
+        "title": "'Living a nightmare': Families of teens missing after ski resort fire desperate for news",
+        "link": "https://www.bbc.com/news/articles/c07xn220gdeo?at_medium=RSS&at_campaign=rss",
+        "description": "Families are appealing for information about children as young as 15 who are thought to have been at the bar.",
+        "pubDate": "2026-01-03T09:02:55Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3468/live/7c1f6810-e80c-11f0-a8dc-93c15fe68710.png",
+        "bias": 0
+      },
+      {
+        "title": "Video shows aftermath of explosions in Venezuela",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/3/video-shows-aftermath-of-explosions-in-venezuela?traffic_source=rss",
+        "description": "Video from the port city of La Guaira shows the aftermath of explosions that took place across Venezuela.",
+        "pubDate": "2026-01-03T08:59:43Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Explosions ring out in Venezuela as Maduro’s government accuses US of attack - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONkN3NGVXSDF3cVc5V2s4OXpWaGw0NV8za3FsSzAzYkMzR2JGQU90YjRqUU9OM1lEUGRyejVNZHBxeVNwMnAzeHltVG1KYlhFNVBhMGRmcUNkc3JEUVA2dE5PNFhlTGJXdG9fdm1weXBtVWwycFZFMTg1cTQ2UzNkX1laWEFRdlZfRTZMVUZFWW5YWWpfbXc?oc=5",
+        "description": "",
+        "pubDate": "2026-01-03T08:58:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Saudi Arabia welcomes request from Yemen to help resolve southern battle",
+        "link": "https://www.aljazeera.com/news/2026/1/3/saudi-arabia-welcomes-request-from-yemen-to-help-resolve-southern-battle?traffic_source=rss",
+        "description": "Saudi foreign ministry calls on southern factions in Yemen to participate in a forum in Riyadh amid rising casualties.",
+        "pubDate": "2026-01-03T08:36:07Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Multiple explosions heard in Venezuela's Capital. Maduro accuses the U.S.",
         "link": "https://www.npr.org/2026/01/03/g-s1-104329/explosions-caracas-venezuela",
@@ -320,22 +338,13 @@
         "bias": -1
       },
       {
-        "title": "Live: Venezuela’s capital hit by explosions, Caracas blames the US",
+        "title": "Live: Venezuela accuses US of carrying out attacks in Caracas, other states",
         "link": "https://www.aljazeera.com/news/liveblog/2026/1/3/live-loud-noises-heard-in-venezuelas-capital-amid-us-tensions?traffic_source=rss",
-        "description": "At least 7 explosions heard in Venezuela's capital, Caracas, followed by a low-flying aircraft, say media reports.",
+        "description": "The government of President Nicolas Maduro declares ‌a national ‌emergency after series of attacks across the country.",
         "pubDate": "2026-01-03T07:27:28Z",
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "At least 7 explosions and low-flying aircraft are heard in Venezuela’s Caracas - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONkN3NGVXSDF3cVc5V2s4OXpWaGw0NV8za3FsSzAzYkMzR2JGQU90YjRqUU9OM1lEUGRyejVNZHBxeVNwMnAzeHltVG1KYlhFNVBhMGRmcUNkc3JEUVA2dE5PNFhlTGJXdG9fdm1weXBtVWwycFZFMTg1cTQ2UzNkX1laWEFRdlZfRTZMVUZFWW5YWWpfbXc?oc=5",
-        "description": "",
-        "pubDate": "2026-01-03T07:11:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Explosions heard over Venezuelan capital Caracas amid US tensions",
