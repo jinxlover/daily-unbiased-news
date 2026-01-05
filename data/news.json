@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-05T11:43:46.570460Z",
+  "lastUpdate": "2026-01-05T11:55:27.088066Z",
   "news": {
     "Gaming": [
       {
@@ -9,6 +9,15 @@
         "pubDate": "2026-01-05T11:29:34Z",
         "source": "osama-mparmg-bsed.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0ODczNzY5LnBuZw==/315x250%23c/CFdopL.png",
+        "bias": 0
+      },
+      {
+        "title": "Alone on Earth [Free] [Adventure]",
+        "link": "https://rockbench.itch.io/alone-on-earth",
+        "description": "it's a cutscene. no gameplay",
+        "pubDate": "2026-01-05T11:21:24Z",
+        "source": "rockbench.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0ODczODEyLnBuZw==/315x250%23c/pK37jR.png",
         "bias": 0
       },
       {
@@ -165,33 +174,6 @@
         "bias": 0
       },
       {
-        "title": "Remembrance 2 [Free] [Other]",
-        "link": "https://jujuloaiza.itch.io/remembrance2",
-        "description": "Post Submission for TGC 2025 Game Jam",
-        "pubDate": "2026-01-05T09:09:40Z",
-        "source": "jujuloaiza.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0ODcyNTMzLnBuZw==/315x250%23c/Vb5JCy.png",
-        "bias": 0
-      },
-      {
-        "title": "Stop Right There! [Free] [Action] [Windows]",
-        "link": "https://zaped.itch.io/stop-right-there",
-        "description": "Arcade mini-game where two players confront each other in a police/thief pursuit",
-        "pubDate": "2026-01-05T08:59:31Z",
-        "source": "zaped.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0ODcyNTMxLnBuZw==/315x250%23c/Jm7p53.png",
-        "bias": 0
-      },
-      {
-        "title": "Roll The Dice, Pay The Price [Free] [Platformer]",
-        "link": "https://feiss.itch.io/roll-the-dice-pay-the-price",
-        "description": "Get to the end, mind your jumps!",
-        "pubDate": "2026-01-05T08:57:02Z",
-        "source": "feiss.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0ODcyNTYxLnBuZw==/315x250%23c/QpOYm5.png",
-        "bias": 0
-      },
-      {
         "title": "(Don't) Push The Button [Free] [Puzzle]",
         "link": "https://absolutelithops.itch.io/push-the-button",
         "description": "An exercise in perseverance",
@@ -273,15 +255,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Maduro is set to make his first appearance in a US courtroom on drug trafficking charges - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcm9QUjE1bGp6Q3ZRMlJDLUk1a3ctdEVaUDBXeE1jVGtlamF2c3I2RnE1OFN5SzFjZXlweUh1QjRxbzlpOWxnM2RxQlFvbFJ2ZjRJS2pnVVA2MThjZjBmUnlHYkNiYXQxTmM3XzkxUktOdUZyXzZqTEk1V2lNci03OFBabEJfSjhQUWxDWHk5VUc4d0lFRWZIUjlRQWI?oc=5",
-        "description": "",
-        "pubDate": "2026-01-05T10:11:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "'We need Greenland': Trump repeats threat to annex Danish territory",
@@ -419,21 +392,12 @@
         "bias": -1
       },
       {
-        "title": "An annual ode to ice is carved in frozen northern China - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTDVQd3Z3OE9BX20xeWRqYnUtOFVxSFc5WF82NWkxbFdxd2ZmbkdIZ21mNTgybTI3TXphS212RUM3UUhMLU5oNTV6N0hDcURxSnNWVDFFS3J5ZFpnSkdkSTdEUklzMHJycmUzdW4zSXp5Y2t6akVFUTdXM0xwekJvZ2IyUXhsLTdUQkxDMUdZN3c4dFdjYVAw?oc=5",
-        "description": "",
-        "pubDate": "2026-01-05T07:36:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Thirty-two Cubans killed during US attack on Venezuela",
         "link": "https://www.bbc.com/news/articles/cj9r0eyw0jno?at_medium=RSS&at_campaign=rss",
         "description": "Cuba's president said military and intelligence operatives were providing protection to captured leader Nicolás Maduro.",
         "pubDate": "2026-01-05T07:23:24Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b07/live/a95ae630-ea08-11f0-b696-4d18e91c1002.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/952a/live/cf102dd0-ea2c-11f0-b67b-690eb873de1b.jpg",
         "bias": 0
       },
       {
@@ -473,12 +437,158 @@
         "bias": -1
       },
       {
-        "title": "Czechia beats Canada 6-4 in world junior hockey to set up all-European final with Sweden - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQkhXalB4OFZoVTNOUzkxSmtMemVHaXpSd1l0ME9jTWtpSnVCb3laR2NVREUycHhZeE16d1diYXZ1aTNvXzREaEtaaXFDMzR5Y0dBSnJoTGtLQkxLUEV2LTRxUms5Z0hET0JWbm9WcndDTmV4R193Yi1Vc2w3eUhZek5oc2phdw?oc=5",
+        "title": "LIVE: Venezuela’s Maduro to appear in court, Rodriguez offers hand to US",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/1/5/live-venezuelas-maduro-to-appear-in-court-trump-threatens-more-strikes?traffic_source=rss",
+        "description": "UN Security Council to discuss the US abduction of Maduro, wife, as Trump insists control of Venezuela.",
+        "pubDate": "2026-01-05T05:59:42Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Trump warns new Venezuelan leader as Maduro set to appear in court",
+        "link": "https://www.bbc.com/news/articles/ckgnxvp477eo?at_medium=RSS&at_campaign=rss",
+        "description": "Trump said Venezuela's interim president Delcy Rodríguez could \"pay a very big price, probably bigger than Maduro\" if she \"doesn't do what's right\".",
+        "pubDate": "2026-01-05T05:23:06Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fbd/live/154f04c0-e9c3-11f0-a8dc-93c15fe68710.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Russia-Ukraine war: List of key events, day 1,411",
+        "link": "https://www.aljazeera.com/news/2026/1/5/russia-ukraine-war-list-of-key-events-day-1411?traffic_source=rss",
+        "description": "These are the key developments from day 1,411 of Russia’s war on Ukraine.",
+        "pubDate": "2026-01-05T04:36:06Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Trump’s abduction of Maduro escalates concerns over potential war with Iran",
+        "link": "https://www.aljazeera.com/news/2026/1/5/trumps-abduction-of-maduro-escalates-concerns-over-potential-war-with-iran?traffic_source=rss",
+        "description": "Experts say US military action in Caracas 'gives momentum' for conflict with Tehran and deals another blow to diplomacy.",
+        "pubDate": "2026-01-05T02:15:20Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Trump threatens Colombia’s Petro, says Cuba looks ‘ready to fall’",
+        "link": "https://www.aljazeera.com/news/2026/1/5/trump-threatens-colombias-petro-says-cuba-looks-like-its-ready-to-fall?traffic_source=rss",
+        "description": "US president says a military operation in Colombia 'sounds good' to him and warns Mexico 'to get their act together'.",
+        "pubDate": "2026-01-05T02:04:01Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Cuba says 32 Cuban fighters killed in US raids on Venezuela",
+        "link": "https://www.aljazeera.com/news/2026/1/5/cuba-says-32-cubans-killed-during-us-raids-on-venezuela?traffic_source=rss",
+        "description": "Havana declares two days of mourning for the Cubans killed in US operation to abduct Nicolas Maduro.",
+        "pubDate": "2026-01-05T01:50:30Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "N Korea’s Kim oversees hypersonic missile tests, cites geopolitical crisis",
+        "link": "https://www.aljazeera.com/news/2026/1/5/n-koreas-kim-oversaw-hypersonic-missile-tests-cites-geopolitical-crisis?traffic_source=rss",
+        "description": "Kim underscores need to bolster N Korea's nuclear deterrent, citing 'recent geopolitical crisis', state media reports.",
+        "pubDate": "2026-01-05T01:12:03Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Police identify all 40 victims of Swiss bar fire",
+        "link": "https://www.bbc.com/news/articles/c3vel0xvlvgo?at_medium=RSS&at_campaign=rss",
+        "description": "Among those killed by the blaze at Le Constellation is 16-year-old Swiss national Arthur Brodard, his mother confirms.",
+        "pubDate": "2026-01-05T00:53:59Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28ac/live/c3947320-e965-11f0-8d69-9f0dae13c5ba.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Venezuelans describe the day after U.S. strikes",
+        "link": "https://www.npr.org/2026/01/04/nx-s1-5666307/venezuelans-describe-the-day-after-u-s-strikes",
+        "description": "A day after Saturday's U.S. strikes, Venezuelans describe fear, confusion, and long lines for fuel and food.",
+        "pubDate": "2026-01-05T00:20:38Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "The French university where spies go for training",
+        "link": "https://www.bbc.com/news/articles/c98nqeqnylro?at_medium=RSS&at_campaign=rss",
+        "description": "Sciences Po Saint-Germain near Paris trains current French secret agents and potential new recruits.",
+        "pubDate": "2026-01-05T00:02:00Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ce7/live/e8c23170-ea1c-11f0-aae2-2191c0e48a3b.jpg",
+        "bias": 0
+      }
+    ],
+    "Politics": [
+      {
+        "title": "Maduro is set to make his first appearance in a US courtroom on drug trafficking charges - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcm9QUjE1bGp6Q3ZRMlJDLUk1a3ctdEVaUDBXeE1jVGtlamF2c3I2RnE1OFN5SzFjZXlweUh1QjRxbzlpOWxnM2RxQlFvbFJ2ZjRJS2pnVVA2MThjZjBmUnlHYkNiYXQxTmM3XzkxUktOdUZyXzZqTEk1V2lNci03OFBabEJfSjhQUWxDWHk5VUc4d0lFRWZIUjlRQWI?oc=5",
         "description": "",
-        "pubDate": "2026-01-05T06:36:00Z",
+        "pubDate": "2026-01-05T10:11:00Z",
         "source": "news.google.com",
         "image": "",
+        "bias": 0
+      },
+      {
+        "title": "7 takeaways from Trump's incursion into Venezuela",
+        "link": "https://www.npr.org/2026/01/05/nx-s1-5666331/trump-politics-venezuela-republicans-democrats",
+        "description": "President Trump says the U.S. will now \"run\" Venezuela after capturing its leader. Here's how the politics could play out at home.",
+        "pubDate": "2026-01-05T10:00:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Cuba braces as President Trump says the Monroe Doctrine is back",
+        "link": "https://www.npr.org/2026/01/05/nx-s1-5666190/cuba-braces-as-president-trump-says-the-monroe-doctrine-is-back",
+        "description": "With his attack on Venezuela, President Trump says the Monroe Doctrine is back, reviving a more than 200-year-old foreign policy idea. In Cuba, residents brace for what that could mean for them.",
+        "pubDate": "2026-01-05T09:48:16Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "US action in Venezuela not legal, senior Labour MP says",
+        "link": "https://www.bbc.com/news/articles/cwyr3q3xlqzo?at_medium=RSS&at_campaign=rss",
+        "description": "UK must make clear US operation is unacceptable, chairwoman of the Foreign Affairs Committee Emily Thornberry says.",
+        "pubDate": "2026-01-05T09:38:34Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c28/live/e5b57360-ea2c-11f0-a8dc-93c15fe68710.jpg",
+        "bias": 0
+      },
+      {
+        "title": "New powers to seize phones from migrants come into force",
+        "link": "https://www.bbc.com/news/articles/cm240jvnen0o?at_medium=RSS&at_campaign=rss",
+        "description": "The government says it will help gather intelligence on smuggling gangs.",
+        "pubDate": "2026-01-05T07:54:38Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/312f/live/a4e24270-ea20-11f0-aae2-2191c0e48a3b.jpg",
+        "bias": 0
+      },
+      {
+        "title": "An annual ode to ice is carved in frozen northern China - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTDVQd3Z3OE9BX20xeWRqYnUtOFVxSFc5WF82NWkxbFdxd2ZmbkdIZ21mNTgybTI3TXphS212RUM3UUhMLU5oNTV6N0hDcURxSnNWVDFFS3J5ZFpnSkdkSTdEUklzMHJycmUzdW4zSXp5Y2t6akVFUTdXM0xwekJvZ2IyUXhsLTdUQkxDMUdZN3c4dFdjYVAw?oc=5",
+        "description": "",
+        "pubDate": "2026-01-05T07:36:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "What's behind PM's notable shift on closer ties to Europe?",
+        "link": "https://www.bbc.com/news/articles/c62vzmle530o?at_medium=RSS&at_campaign=rss",
+        "description": "Sir Keir Starmer has given details of his plans for a \"Brexit reset\". What could it mean for the UK?",
+        "pubDate": "2026-01-05T07:18:41Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d0a/live/fef6dce0-ea06-11f0-aae2-2191c0e48a3b.jpg",
         "bias": 0
       },
       {
@@ -500,15 +610,6 @@
         "bias": 0
       },
       {
-        "title": "LIVE: Venezuela’s Maduro to appear in court, Rodriguez offers hand to US",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/1/5/live-venezuelas-maduro-to-appear-in-court-trump-threatens-more-strikes?traffic_source=rss",
-        "description": "UN Security Council to discuss the US abduction of Maduro, wife, as Trump insists control of Venezuela.",
-        "pubDate": "2026-01-05T05:59:42Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "US capture of Maduro divides a changed region, thrilling Trump's allies and threatening his foes - AP News",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbEhKMmstMWVFSlI2a0ZuWEQ4TWJBQmVMczlZM0JDMnZVYW5JY3lVcEk0dUg5RTdrcmJkVzZQRUxValh4S0ZZVGJwcGQ1RFNTRTc4NkZSbHJid0ZLNmVJajI2QmVXWjFaRWw5MFJ6dVNaTjNYblFKeUMtNjZJM0o1N1hMT0htUmFZNVZyMXRmeFhWSzcyX2hIN2dvNWgwWGlVTnNDcTd1U2hmQUIwc0NzYTFmZDFMUQ?oc=5",
         "description": "",
@@ -524,15 +625,6 @@
         "pubDate": "2026-01-05T05:25:00Z",
         "source": "news.google.com",
         "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Trump warns new Venezuelan leader as Maduro set to appear in court",
-        "link": "https://www.bbc.com/news/articles/ckgnxvp477eo?at_medium=RSS&at_campaign=rss",
-        "description": "Trump said Venezuela's interim president Delcy Rodríguez could \"pay a very big price, probably bigger than Maduro\" if she \"doesn't do what's right\".",
-        "pubDate": "2026-01-05T05:23:06Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fbd/live/154f04c0-e9c3-11f0-a8dc-93c15fe68710.jpg",
         "bias": 0
       },
       {
@@ -563,13 +655,13 @@
         "bias": 0
       },
       {
-        "title": "Russia-Ukraine war: List of key events, day 1,411",
-        "link": "https://www.aljazeera.com/news/2026/1/5/russia-ukraine-war-list-of-key-events-day-1411?traffic_source=rss",
-        "description": "These are the key developments from day 1,411 of Russia’s war on Ukraine.",
-        "pubDate": "2026-01-05T04:36:06Z",
-        "source": "aljazeera.com",
+        "title": "Rubio says US will press change in Venezuela with oil embargo, while Trump insists 'we're in charge' - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNUhKRmRYVWh3Vk93MjBfbk0yb255QTJMS3F2b0I3TWV6a0FlbFpHaUVOaG5sdm5PUWM3RDBhYW5EWkJqV3ZZRTYwMlVvT1Rkc2V1XzhzU0Y3OXFHNG5qcVJ1a3oxY1pRelk2MXJiVzA4QUVkeW50bHpfUU1saEUyeVlIWU1vc01OT3J2Z3dmZVhZWFgzSU1JYXNHcHZFbFBnSGhB?oc=5",
+        "description": "",
+        "pubDate": "2026-01-05T04:38:00Z",
+        "source": "news.google.com",
         "image": "",
-        "bias": -1
+        "bias": 0
       },
       {
         "title": "Myles Garrett breaks NFL single-season sack record with 23 and laments not getting 2 more - AP News",
@@ -617,66 +709,12 @@
         "bias": 0
       },
       {
-        "title": "David Alan Grier: ‘Comedy reflects the world’ - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUUdVMXRJclAyN2tLc1ZyUXY1dm1RX2xiZnM2UG5Oelowc0xyazFyMmlwU3o2ck1TQWVfVXVsWTNKWXBhWHdHcmdBVV9hUWNuNG1UN0NSS0lOMlkwX2Zvajg1QXg0aGJmaWxORWYzUF81MlFRYlhBRkFOdnl5WE4wdk5IcTJtOUpCZmk4S2w5ZldqY1lCaGZQTm9sYWswN1lrT1E?oc=5",
-        "description": "",
-        "pubDate": "2026-01-05T02:28:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Trump’s abduction of Maduro escalates concerns over potential war with Iran",
-        "link": "https://www.aljazeera.com/news/2026/1/5/trumps-abduction-of-maduro-escalates-concerns-over-potential-war-with-iran?traffic_source=rss",
-        "description": "Experts say US military action in Caracas 'gives momentum' for conflict with Tehran and deals another blow to diplomacy.",
-        "pubDate": "2026-01-05T02:15:20Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Trump threatens Colombia’s Petro, says Cuba looks ‘ready to fall’",
-        "link": "https://www.aljazeera.com/news/2026/1/5/trump-threatens-colombias-petro-says-cuba-looks-like-its-ready-to-fall?traffic_source=rss",
-        "description": "US president says a military operation in Colombia 'sounds good' to him and warns Mexico 'to get their act together'.",
-        "pubDate": "2026-01-05T02:04:01Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Cuba says 32 Cuban fighters killed in US raids on Venezuela",
-        "link": "https://www.aljazeera.com/news/2026/1/5/cuba-says-32-cubans-killed-during-us-raids-on-venezuela?traffic_source=rss",
-        "description": "Havana declares two days of mourning for the Cubans killed in US operation to abduct Nicolas Maduro.",
-        "pubDate": "2026-01-05T01:50:30Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "US intervention in Venezuela could test Trump's ability to hold GOP together in an election year - AP News",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRWxxZFlWWWp1cHRRaXI3V1M5N00xSFdtMTV0MzlEV05jd2pBc3RyOUZJRDBBeHZlN2x0Z0pjTk1zNGZxVXF3ODNSbWtwMFlET3M4Qm5Ma1VNcThIWWt4RE5rdks3QW5XYW5FUHVuRHV6Q2VTZzVYajZHcFcxWUYwYkNWUDJzaVY4ZVdGYVBNb1h5OEJmN2s0aWpfR3lGRHlDUHhXUS15OFFJSUp6b3R4dll2RTc?oc=5",
         "description": "",
         "pubDate": "2026-01-05T01:40:00Z",
         "source": "news.google.com",
         "image": "",
-        "bias": 0
-      },
-      {
-        "title": "N Korea’s Kim oversees hypersonic missile tests, cites geopolitical crisis",
-        "link": "https://www.aljazeera.com/news/2026/1/5/n-koreas-kim-oversaw-hypersonic-missile-tests-cites-geopolitical-crisis?traffic_source=rss",
-        "description": "Kim underscores need to bolster N Korea's nuclear deterrent, citing 'recent geopolitical crisis', state media reports.",
-        "pubDate": "2026-01-05T01:12:03Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Police identify all 40 victims of Swiss bar fire",
-        "link": "https://www.bbc.com/news/articles/c3vel0xvlvgo?at_medium=RSS&at_campaign=rss",
-        "description": "Among those killed by the blaze at Le Constellation is 16-year-old Swiss national Arthur Brodard, his mother confirms.",
-        "pubDate": "2026-01-05T00:53:59Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28ac/live/c3947320-e965-11f0-8d69-9f0dae13c5ba.jpg",
         "bias": 0
       },
       {
@@ -687,59 +725,12 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      }
-    ],
-    "Politics": [
-      {
-        "title": "7 takeaways from Trump's incursion into Venezuela",
-        "link": "https://www.npr.org/2026/01/05/nx-s1-5666331/trump-politics-venezuela-republicans-democrats",
-        "description": "President Trump says the U.S. will now \"run\" Venezuela after capturing its leader. Here's how the politics could play out at home.",
-        "pubDate": "2026-01-05T10:00:00Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
       },
       {
-        "title": "Cuba braces as President Trump says the Monroe Doctrine is back",
-        "link": "https://www.npr.org/2026/01/05/nx-s1-5666190/cuba-braces-as-president-trump-says-the-monroe-doctrine-is-back",
-        "description": "With his attack on Venezuela, President Trump says the Monroe Doctrine is back, reviving a more than 200-year-old foreign policy idea. In Cuba, residents brace for what that could mean for them.",
-        "pubDate": "2026-01-05T09:48:16Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "US action in Venezuela not legal, senior Labour MP says",
-        "link": "https://www.bbc.com/news/articles/cwyr3q3xlqzo?at_medium=RSS&at_campaign=rss",
-        "description": "UK must make clear US operation is unacceptable, chairwoman of the Foreign Affairs Committee Emily Thornberry says.",
-        "pubDate": "2026-01-05T09:38:34Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f011/live/9795f520-ea17-11f0-a258-11bf68011d10.jpg",
-        "bias": 0
-      },
-      {
-        "title": "New powers to seize phones from migrants come into force",
-        "link": "https://www.bbc.com/news/articles/cm240jvnen0o?at_medium=RSS&at_campaign=rss",
-        "description": "The government says it will help gather intelligence on smuggling gangs.",
-        "pubDate": "2026-01-05T07:54:38Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/312f/live/a4e24270-ea20-11f0-aae2-2191c0e48a3b.jpg",
-        "bias": 0
-      },
-      {
-        "title": "What's behind PM's notable shift on closer ties to Europe?",
-        "link": "https://www.bbc.com/news/articles/c62vzmle530o?at_medium=RSS&at_campaign=rss",
-        "description": "Sir Keir Starmer has given details of his plans for a \"Brexit reset\". What could it mean for the UK?",
-        "pubDate": "2026-01-05T07:18:41Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d0a/live/fef6dce0-ea06-11f0-aae2-2191c0e48a3b.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Rubio says US will press change in Venezuela with oil embargo, while Trump insists 'we're in charge' - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNUhKRmRYVWh3Vk93MjBfbk0yb255QTJMS3F2b0I3TWV6a0FlbFpHaUVOaG5sdm5PUWM3RDBhYW5EWkJqV3ZZRTYwMlVvT1Rkc2V1XzhzU0Y3OXFHNG5qcVJ1a3oxY1pRelk2MXJiVzA4QUVkeW50bHpfUU1saEUyeVlIWU1vc01OT3J2Z3dmZVhZWFgzSU1JYXNHcHZFbFBnSGhB?oc=5",
+        "title": "International aid groups grapple with what Israel’s ban will mean for their work in Gaza - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSjZqc2hrNHA5b3g5NGltRngwY0tMYk9ySDhkMTJaWV80SU52ZVRKeWxLaXByc0VVclFTOGs3OVpaZVpNOXpDWjZwazh1M0VMYXgtWVd2XzFrYjBFU3ZmcUtVSEhfUnVrX1hKUHlQRmRad1ZpZHhQTFFHQjVZc09nYW85YnRfMHo1UW9iVUsyNjZ5eG0teFU1bWFQYU8wWEZjQmZRdA?oc=5",
         "description": "",
-        "pubDate": "2026-01-05T04:38:00Z",
+        "pubDate": "2026-01-05T00:33:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
