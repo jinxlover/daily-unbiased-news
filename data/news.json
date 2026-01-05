@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-05T09:42:17.936144Z",
+  "lastUpdate": "2026-01-05T10:00:15.664735Z",
   "news": {
     "Gaming": [
       {
@@ -81,6 +81,15 @@
         "pubDate": "2026-01-05T08:57:02Z",
         "source": "feiss.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0ODcyNTYxLnBuZw==/315x250%23c/QpOYm5.png",
+        "bias": 0
+      },
+      {
+        "title": "(Don't) Push The Button [Free] [Puzzle]",
+        "link": "https://absolutelithops.itch.io/push-the-button",
+        "description": "An exercise in perseverance",
+        "pubDate": "2026-01-05T08:56:31Z",
+        "source": "absolutelithops.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0ODcyMzkyLnBuZw==/315x250%23c/OZWI2Y.png",
         "bias": 0
       },
       {
@@ -201,30 +210,12 @@
         "bias": 0
       },
       {
-        "title": "Soul Cultivator [Free]",
-        "link": "https://justuspan.itch.io/soul-cultivator",
-        "description": "Roguelike",
-        "pubDate": "2026-01-05T07:49:03Z",
-        "source": "justuspan.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0ODcxODg4LnBuZw==/315x250%23c/5MIjgW.png",
-        "bias": 0
-      },
-      {
         "title": "传奇外卖员之广美堕了么 [Free] [Strategy]",
         "link": "https://kit-hay-mar.itch.io/hyd333",
         "description": "扮演堕落代购，成为堕之街传奇",
         "pubDate": "2026-01-05T07:42:27Z",
         "source": "kit-hay-mar.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0ODcxOTE0LmpwZw==/315x250%23c/13P%2FA2.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Haunted School Run [Free] [Platformer] [Windows] [macOS]",
-        "link": "https://reinyy12.itch.io/haunted-school-run",
-        "description": "",
-        "pubDate": "2026-01-05T07:41:24Z",
-        "source": "reinyy12.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0ODcxODc5LnBuZw==/315x250%23c/p%2Fr0JR.png",
         "bias": 0
       },
       {
@@ -248,11 +239,74 @@
     ],
     "World": [
       {
+        "title": "'We need Greenland': Trump repeats threat to annex Danish territory",
+        "link": "https://www.bbc.com/news/articles/c4g0zg974v1o?at_medium=RSS&at_campaign=rss",
+        "description": "The US president has repeatedly said he wants the island to become a part of the US.",
+        "pubDate": "2026-01-05T09:58:20Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af2d/live/99f23d00-ea09-11f0-a8dc-93c15fe68710.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Trump’s bid to commandeer Venezuela’s oil sector faces hurdles, experts say",
+        "link": "https://www.aljazeera.com/economy/2026/1/5/trumps-bid-to-commandeer-venezuelas-oil-sector-faces-hurdles-experts-say?traffic_source=rss",
+        "description": "Exploiting Latin American country's reserves faces obstacles from decrepit infrastructure to leadership uncertainty.",
+        "pubDate": "2026-01-05T09:48:45Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Why a power plant is strategically important in the talks between Russia and Ukraine",
+        "link": "https://www.npr.org/2026/01/05/nx-s1-5664884/why-a-power-plant-is-strategically-important-in-the-talks-between-russia-and-ukraine",
+        "description": "NPR's A Martinez talks to Henry Sokolski of the Nonproliferation Policy Education Center about the Zaporizhzhia power plant and its importance in the peace talks between Russia and Ukraine.",
+        "pubDate": "2026-01-05T09:47:52Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "United Nations official shares scenes from Darfur region amid humanitarian crisis",
+        "link": "https://www.npr.org/2026/01/05/nx-s1-5664783/united-nations-official-shares-scenes-from-darfur-region-amid-humanitarian-crisis",
+        "description": "The United Nations humanitarian coordinator for Sudan recounts devastating scenes and stories of horrific violence after her team gained access to a city in the embattled Darfur region.",
+        "pubDate": "2026-01-05T09:47:44Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "What lies ahead for Venezuela after U.S. attack?",
+        "link": "https://www.npr.org/2026/01/05/nx-s1-5666189/what-lies-ahead-for-venezuela-after-u-s-attack",
+        "description": "The future of Venezuela is uncertain after the U.S. capture of President Nicolas Maduro. The vice president is now in charge, but she hasn't indicated she'll fall in step with President Trump.",
+        "pubDate": "2026-01-05T09:47:38Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Former State Department official discusses the future of Venezuela",
+        "link": "https://www.npr.org/2026/01/05/nx-s1-5666324/former-state-department-official-discusses-the-future-of-venezuela",
+        "description": "NPR's Steve Inskeep speaks with Kevin Whitaker, former U.S. ambassador to Colombia and former U.S. deputy chief of mission in Venezuela, about the U.S. raid on Caracas and engagement in Venezuela.",
+        "pubDate": "2026-01-05T09:47:34Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "The rise and fall of Nicolás Maduro",
         "link": "https://www.npr.org/2026/01/05/g-s1-104501/rise-and-fall-nicolas-maduro",
-        "description": "The rise of Venezuela's deposed president, Nicolás Maduro, was slow, beginning in youth politics and shaped by the mentorship of Hugo Chávez . His fall, too, unfolded over years.",
+        "description": "The rise of Venezuela's deposed president, Nicolás Maduro, was slow, beginning in youth politics and shaped by the mentorship of Hugo Chávez. His fall, too, unfolded over years.",
         "pubDate": "2026-01-05T09:35:41Z",
         "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "What is the US charging Nicolas Maduro with?",
+        "link": "https://www.aljazeera.com/news/2026/1/5/what-is-the-us-charging-nicolas-maduro-with?traffic_source=rss",
+        "description": "Maduro and five others are charged in the US with a number of crimes, including 'narco-terrorism'.",
+        "pubDate": "2026-01-05T09:19:13Z",
+        "source": "aljazeera.com",
         "image": "",
         "bias": -1
       },
@@ -482,15 +536,6 @@
         "bias": -1
       },
       {
-        "title": "Danish PM tells Trump to stop 'threats' against Greenland",
-        "link": "https://www.bbc.com/news/articles/c4g0zg974v1o?at_medium=RSS&at_campaign=rss",
-        "description": "Mette Frederiksen said the \"US has no right to annex any of the three nations in the Danish kingdom\".",
-        "pubDate": "2026-01-05T03:29:13Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af2d/live/99f23d00-ea09-11f0-a8dc-93c15fe68710.jpg",
-        "bias": 0
-      },
-      {
         "title": "Myles Garrett breaks NFL single-season sack record with 23 and laments not getting 2 more - AP News",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeXlpX202Y29pbjNBTzRuU3pUY2s4NTVJSEhqV0lOam9udzJGMU1Vdy1US3E5eFhwdklEVFAwRDZPS2p0SElDMWhDV2lUbTdvV0otOGhUYjRkUWYyRGNsVXNpNTZ4cnBnVzhQNkJsRjFzQ2hNLW9VbXUzcGdZc01xeHdVU1M1MkpPdk9CUlJvMTQxQWM?oc=5",
         "description": "",
@@ -631,11 +676,20 @@
         "description": "Sciences Po Saint-Germain near Paris trains current French secret agents and potential new recruits.",
         "pubDate": "2026-01-05T00:02:00Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/453f/live/9c3f1fd0-da8a-11f0-b800-5d5b12ef9423.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ce7/live/e8c23170-ea1c-11f0-aae2-2191c0e48a3b.jpg",
         "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Cuba braces as President Trump says the Monroe Doctrine is back",
+        "link": "https://www.npr.org/2026/01/05/nx-s1-5666190/cuba-braces-as-president-trump-says-the-monroe-doctrine-is-back",
+        "description": "With his attack on Venezuela, President Trump says the Monroe Doctrine is back, reviving a more than 200-year-old foreign policy idea. In Cuba, residents brace for what that could mean for them.",
+        "pubDate": "2026-01-05T09:48:16Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "US action in Venezuela not legal, senior Labour MP says",
         "link": "https://www.bbc.com/news/articles/cwyr3q3xlqzo?at_medium=RSS&at_campaign=rss",
@@ -687,6 +741,15 @@
     "Science": [],
     "Business": [
       {
+        "title": "New coins marking nation's 250th birthday begin circulating Monday",
+        "link": "https://www.npr.org/2026/01/05/nx-s1-5660747/new-coins-marking-nations-250th-birthday-begin-circulating-monday",
+        "description": "Newly-minted coins, marking the nation's 250th anniversary begin circulating this week. The Trump administration has tweaked the design of some of the coins. And in a break with tradition, the administration plans to issue a new dollar coin featuring the face of the president himself.",
+        "pubDate": "2026-01-05T09:47:03Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Gold price rises after US captures Venezuela's Maduro",
         "link": "https://www.bbc.com/news/articles/crrnw08qvg7o?at_medium=RSS&at_campaign=rss",
         "description": "Investors shift money into \"safe-haven\" assets as concerns rise about geopolitical risks.",
@@ -733,6 +796,15 @@
       }
     ],
     "Culture": [
+      {
+        "title": "Timothée's shoutout for Kylie and other moments from Critics' Choice Awards",
+        "link": "https://www.bbc.com/news/articles/cqxy8ezwee9o?at_medium=RSS&at_campaign=rss",
+        "description": "Jessie Buckley won best actress and Adolescence also scooped four awards on the night in California.",
+        "pubDate": "2026-01-05T09:45:02Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fe4/live/788776e0-ea12-11f0-b67b-690eb873de1b.jpg",
+        "bias": 0
+      },
       {
         "title": "Sound of 2026: Reluctant rockers Royel Otis tipped for success",
         "link": "https://www.bbc.com/news/articles/cgl825nz9nlo?at_medium=RSS&at_campaign=rss",
