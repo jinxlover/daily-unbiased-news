@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2026-01-06T09:52:55.456021Z",
+  "lastUpdate": "2026-01-06T10:23:50.706768Z",
   "news": {
     "Gaming": [
+      {
+        "title": "January Dream [Free] [Other]",
+        "link": "https://galatians.itch.io/january-dream",
+        "description": "A dream I had in January",
+        "pubDate": "2026-01-06T10:13:12Z",
+        "source": "galatians.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0ODg3NDU4LnBuZw==/315x250%23c/7rgYaA.png",
+        "bias": 0
+      },
       {
         "title": "Tank King 1.3.0 [Free] [Action]",
         "link": "https://chengqihe.itch.io/tank-king-130",
@@ -9,6 +18,15 @@
         "pubDate": "2026-01-06T09:46:35Z",
         "source": "chengqihe.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0ODg3MzA4LmpwZWc=/315x250%23c/OoJUh1.jpeg",
+        "bias": 0
+      },
+      {
+        "title": "荒野 [Free] [Windows]",
+        "link": "https://dovahkiin20000102.itch.io/wilds-2026",
+        "description": "醒來後你發現你在荒島上...",
+        "pubDate": "2026-01-06T09:35:33Z",
+        "source": "dovahkiin20000102.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0ODg3MzQ3LnBuZw==/315x250%23c/Xsrwiz.png",
         "bias": 0
       },
       {
@@ -84,8 +102,8 @@
         "bias": 0
       },
       {
-        "title": "LVUP ESTUDO [Free] [Windows]",
-        "link": "https://yamifayro.itch.io/lvupestudo",
+        "title": "LVUP YOU [Free] [Windows]",
+        "link": "https://yamifayro.itch.io/lvupyou",
         "description": "lvup, study, sistem, indie, rpg, life",
         "pubDate": "2026-01-06T07:19:19Z",
         "source": "yamifayro.itch.io",
@@ -165,33 +183,6 @@
         "bias": 0
       },
       {
-        "title": "地牢大冒險 [Free] [Action] [Windows]",
-        "link": "https://brn940606.itch.io/6775",
-        "description": "3D",
-        "pubDate": "2026-01-06T05:55:18Z",
-        "source": "brn940606.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0ODg1NzgzLnBuZw==/315x250%23c/d7bqc4.png",
-        "bias": 0
-      },
-      {
-        "title": "Flappy Cat [Free] [Platformer] [Windows]",
-        "link": "https://morigame.itch.io/flappy-cat",
-        "description": "",
-        "pubDate": "2026-01-06T05:54:38Z",
-        "source": "morigame.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0ODg1OTM3LnBuZw==/315x250%23c/1T5ULC.png",
-        "bias": 0
-      },
-      {
-        "title": "EFAI2026 [Free] [Windows]",
-        "link": "https://kiya922.itch.io/efai2026",
-        "description": "在夢境中消滅大腦晶片中的AI吧！",
-        "pubDate": "2026-01-06T05:34:21Z",
-        "source": "kiya922.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0ODg1ODk1LnBuZw==/315x250%23c/4q3UAs.png",
-        "bias": 0
-      },
-      {
         "title": "Space Rangers [Free] [Adventure]",
         "link": "https://unkindpig.itch.io/space-rangers",
         "description": "Space Shooter",
@@ -217,18 +208,72 @@
         "source": "cactys3.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0ODg1NTM0LnBuZw==/315x250%23c/puHTm4.png",
         "bias": 0
-      },
-      {
-        "title": "Island Life (Prototype) [Free] [Simulation] [Windows]",
-        "link": "https://avesee8916.itch.io/island-life-prototype",
-        "description": "",
-        "pubDate": "2026-01-06T02:27:45Z",
-        "source": "avesee8916.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0ODg1NTgyLnBuZw==/315x250%23c/SIcSr%2F.png",
-        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Ukraine’s top allies meet in Paris to push for Kyiv’s security guarantees",
+        "link": "https://www.aljazeera.com/news/2026/1/6/ukraines-top-allies-meet-in-paris-to-push-for-kyivs-security-guarantees?traffic_source=rss",
+        "description": "'Coalition of the willing' tries to lay groundwork for ceasefire and end to Russia's nearly four-year war in Ukraine.",
+        "pubDate": "2026-01-06T10:12:00Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "The criminal prosecution of Nicolás Maduro is underway. Here's what to expect",
+        "link": "https://www.npr.org/2026/01/06/nx-s1-5666370/nicolas-maduro-trial-legal-case-prosecution-explainer",
+        "description": "Now begins what could be a lengthy legal process of pretrial motions, potential plea negotiations and possibly a jury trial of the authoritarian leader who ruled Venezuela for more than a decade.",
+        "pubDate": "2026-01-06T10:00:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Venezuelan expats celebrate Maduro's arrest, but question their country's future",
+        "link": "https://www.npr.org/2026/01/06/nx-s1-5667077/venezuelan-expats-celebrate-maduros-arrest-but-question-their-countrys-future",
+        "description": "In Florida, members of the Venezuelan community celebrate -- and question -- the U.S. detention of Venezuelan President Nicolas Maduro.",
+        "pubDate": "2026-01-06T09:45:57Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "An inside look at Venezuela's critical gold trade",
+        "link": "https://www.npr.org/2026/01/06/nx-s1-5667058/an-inside-look-at-venezuelas-critical-gold-trade",
+        "description": "Gold -- like oil -- is crucial for Venezuela's government. NPR's Leila Fadel speaks with CNN journalist Isa Soares, who won an Emmy for her coverage of the gold trade in the country.",
+        "pubDate": "2026-01-06T09:45:52Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "U.S. faces broad condemnation for actions in Venezuela during U.N. emergency meeting",
+        "link": "https://www.npr.org/2026/01/06/nx-s1-5667052/u-s-faces-broad-condemnation-for-actions-in-venezuela-during-u-n-emergency-meeting",
+        "description": "During a U.N. Security Council emergency meeting, the U.S. called its intervention in Venezuela a law enforcement operation. Venezuela disagreed, calling the raid an illegitimate armed attack.",
+        "pubDate": "2026-01-06T09:45:43Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "What the U.S. raid in Venezuela means for countries like China and Russia",
+        "link": "https://www.npr.org/2026/01/06/nx-s1-5667051/what-the-u-s-raid-in-venezuela-means-for-countries-like-china-and-russia",
+        "description": "NPR's Steve Inskeep asks Sarah Lenti, a former National Security Council director, what U.S. engagement in Venezuela means to other global players like China and Russia.",
+        "pubDate": "2026-01-06T09:45:39Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Rosenior confirms Chelsea deal to replace Maresca at Premier League club",
+        "link": "https://www.aljazeera.com/sports/2026/1/6/rosenior-confirms-chelsea-deal-to-replace-maresca-at-premier-league-club?traffic_source=rss",
+        "description": "Liam Rosenior says he could not turn down Chelsea but admits unusual situation as a deal has not yet been signed.",
+        "pubDate": "2026-01-06T09:45:30Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "US pressure mounts at Panama Canal over Venezuelan oil shipments",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/1/6/us-pressure-mounts-at-panama-canal-over-venezuelan-oil-shipments?traffic_source=rss",
@@ -615,72 +660,36 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "This Jan. 6 plaque was made to honor law enforcement. It's nowhere to be found at the Capitol - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYWlCU21XNkh4bmh5XzhZU041N2JwdFIzcFdYR0V0a2swT05CT1NBdUg1V3QtZUNOY1VSbVVjalhLUnlYelhKOFVfdFNCUUg4RmJxREltaTBhdmpCSmtWSGp1R3djS25QYktZMjh5Q3cydnNXTzE3akoyeFQ3bDR3UER3M3dMalZRTTdaOGhKQ2ppam54WEVWNXVDbmV3d3VhNHFUaDZXYw?oc=5",
-        "description": "",
-        "pubDate": "2026-01-06T02:33:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Walz, Democrats' 2024 VP pick, drops bid for third term as Minnesota governor; Klobuchar considers - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSU5uajBOVmpObGFCWkhSdlZ6cFZqajlOWmhGclpwUl8yaDBMQzd2NmRLT3dMRUpRV0FSeklpdngtQ29ZZWM3RmNObkdxQmxwVjVaZjB4NUhVVjRRYzRlSHpIS1c0MElIZmxZLVRQdHZzaDV4Q3prNlVZVklycUI2cHVJRjJXbXdoRkkwVVJ4ZWJDdEU3Q0E4dzhYODVvY2pI?oc=5",
-        "description": "",
-        "pubDate": "2026-01-06T02:25:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Alarms raised as Trump’s CDC cuts number of suggested vaccines for children",
-        "link": "https://www.aljazeera.com/news/2026/1/6/alarms-raised-as-trumps-cdc-cuts-number-of-suggested-vaccines-for-children?traffic_source=rss",
-        "description": "An American Academy of Pediatrics official warns that changes made by political appointees could harm children.",
-        "pubDate": "2026-01-06T02:17:30Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "At least 35 people have been killed and 1,200 detained in Iran’s economic protests - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc0F5MFJSbVo5TEo4UVBSWHNBaVotelRYanc2TWlJX3dFUEJ0aXd0UlpVTWdDREQzQk1yNzNDQ3lrQ1ppaXNHUHVGbW9KbXRIYk9yS01HZm1IandVYlhCWWoxOXRsckwtREYycGpWYjgtYUF2bmFWM2VKT0Z1dmZRd09lNURzS1E3UWc?oc=5",
-        "description": "",
-        "pubDate": "2026-01-06T02:09:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Russia-Ukraine war: List of key events, day 1,412",
-        "link": "https://www.aljazeera.com/news/2026/1/6/russia-ukraine-war-list-of-key-events-day-1412?traffic_source=rss",
-        "description": "These are the key developments from day 1,412 of Russia’s war on Ukraine.",
-        "pubDate": "2026-01-06T02:02:19Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Jury seated in trial for ex-officer accused in police response to Uvalde school shooting - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdUEwaDllTk1wTmhkaWMyd3ZsajhyazRNTmtlZUljQjlfdkJwU2NuaDBpVjBITC1BUnd6TDE1aXd3eTV1MXRLTkpZdnR4YUdIRXpnaXh3SGJOSVQ1eFdaWVBMM05hMnFjZ1RrLXhRTzlLYU9jbjBWVlpMU0JRN0UxOVRmMU9TZ0VTYlQ0elNQZEZFYUdWRFBQcGYzYw?oc=5",
-        "description": "",
-        "pubDate": "2026-01-06T02:02:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Buccaneers coach Todd Bowles says he’s earned the right to return in 2026 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYVB3a3gzaDB3bWRVdjR0b0xpaUs2R1VTRmlQTTh5aU5aTVVJaHRLMHFEWkQ0QjI3b2F2TDR1ZU5PUzRGOTMtTFdHQUE0c0xxYXFPNTZzZUxkd0tHOW5YWGZSODFXbldjbFloaHdXWFp6SzdSdjdtVnlaY3dpY1o2dlB2LUh0Z3RabnpXUld1bw?oc=5",
-        "description": "",
-        "pubDate": "2026-01-06T01:49:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "US action in Venezuela morally right, Badenoch says",
+        "link": "https://www.bbc.com/news/articles/ckgnxdpv2p9o?at_medium=RSS&at_campaign=rss",
+        "description": "The Conservative leader tells the BBC the military operation raises \"serious questions about the rules-based order\".",
+        "pubDate": "2026-01-06T10:01:00Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f09/live/df219b10-eae4-11f0-97ff-1df4f0d33d7f.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Pentagon will begin review of 'effectiveness' of women in ground combat positions",
+        "link": "https://www.npr.org/2026/01/06/nx-s1-5667583/pentagon-review-women-in-ground-combat-roles",
+        "description": "The review, outlined in a Pentagon memo obtained by NPR, comes after Defense Secretary Pete Hegseth told admirals and generals in September that women must meet the \"highest male standard.\"",
+        "pubDate": "2026-01-06T10:00:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Trump to meet with House Republicans amid questions about Venezuela",
+        "link": "https://www.npr.org/2026/01/06/g-s1-104696/trump-house-gop-venezuela",
+        "description": "President Trump is set to meet with House Republicans Tuesday at the Kennedy Center as lawmakers in both chambers are calling for more details on the recent operation in Venezuela.",
+        "pubDate": "2026-01-06T10:00:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Electric car discounts are unsustainable, says industry group",
         "link": "https://www.bbc.com/news/articles/c0417v3v21ko?at_medium=RSS&at_campaign=rss",
@@ -689,6 +698,33 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/366b/live/ded172f0-ea5a-11f0-abe2-ab0fb32e3a9d.jpg",
         "bias": 0
+      },
+      {
+        "title": "Minnesota Gov. Tim Walz drops out of gubernatorial race",
+        "link": "https://www.npr.org/2026/01/06/nx-s1-5667284/minnesota-gov-tim-walz-drops-out-of-gubernatorial-race",
+        "description": "Minnesota's Democratic Gov. Tim Walz says he's dropping his bid for a third term. His decision comes amid criticism of his management of fraud investigations highlighted by President Trump,",
+        "pubDate": "2026-01-06T09:47:32Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Hegseth threatens Sen. Mark Kelly's military rank over 'illegal orders' video",
+        "link": "https://www.npr.org/2026/01/06/nx-s1-5667103/hegseth-threatens-sen-mark-kellys-military-rank-over-illegal-orders-video",
+        "description": "Secretary of Defense Pete Hegseth says he's begun the process of reducing the retirement pay and rank of Democratic Sen. Mark Kelly over a video Kelly did telling troops not to follow illegal orders.",
+        "pubDate": "2026-01-06T09:47:22Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Sen. Mark Kelly reacts to Trump administration's threat to reduce his rank over video",
+        "link": "https://www.npr.org/2026/01/06/nx-s1-5667588/sen-mark-kelly-reacts-to-trump-administrations-threat-to-reduce-his-rank-over-video",
+        "description": "NPR's Steve Inskeep asks Democratic Sen. Mark Kelly about the Trump administration's moves to reduce Kelly's retirement rank over a video urging military members not to follow illegal orders.",
+        "pubDate": "2026-01-06T09:47:01Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Danish prime minister says a US takeover of Greenland would mark the end of NATO - AP News",
@@ -766,15 +802,6 @@
       }
     ],
     "Science": [
-      {
-        "title": "Goddard Space Flight Center staff says library's closure degrades NASA's mission",
-        "link": "https://www.npr.org/2026/01/06/nx-s1-5665070/goddard-space-flight-center-staff-says-librarys-closure-degrades-nasas-mission",
-        "description": "The library at Goddard Space Flight Center in Maryland is closing after a number of disruptions and reductions by the Trump administration. Staff members say it's degrading NASA's mission.",
-        "pubDate": "2026-01-06T09:47:26Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
       {
         "title": "How Christmas trees are getting a new lease of life",
         "link": "https://www.bbc.com/news/articles/c5yx7pkwe4wo?at_medium=RSS&at_campaign=rss",
