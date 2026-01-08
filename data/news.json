@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2026-01-08T04:57:51.057350Z",
+  "lastUpdate": "2026-01-08T05:32:08.470947Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Godot Test 2 [Free]",
+        "link": "https://blobblexp.itch.io/godot-test-2",
+        "description": "",
+        "pubDate": "2026-01-08T04:55:23Z",
+        "source": "blobblexp.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0OTE0NDUyLnBuZw==/315x250%23c/lWnsqu.png",
+        "bias": 0
+      },
       {
         "title": "Chiefa 26 [Free] [Action]",
         "link": "https://nuticles.itch.io/chiefa-26",
@@ -21,12 +30,30 @@
         "bias": 0
       },
       {
+        "title": "Hello Neighbor Alpha 3 [Free] [Puzzle]",
+        "link": "https://thenoisewoag777.itch.io/hello-neighbor-alpha-3",
+        "description": "The 4th released alpha of the stealth horror indie game, Hello Neighbor. This is where it all went wrong.",
+        "pubDate": "2026-01-08T04:27:11Z",
+        "source": "thenoisewoag777.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0OTE0MDQzLnBuZw==/315x250%23c/b7nKao.png",
+        "bias": 0
+      },
+      {
         "title": "hotel-sim [Free]",
         "link": "https://viriidian.itch.io/hotel-sim",
         "description": "",
         "pubDate": "2026-01-08T04:25:23Z",
         "source": "viriidian.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0OTE0MDM5LnBuZw==/315x250%23c/BdW611.png",
+        "bias": 0
+      },
+      {
+        "title": "Definitely Not a Visitor [Free] [Simulation]",
+        "link": "https://promptpotatogames.itch.io/definitely-not-a-visitor",
+        "description": "I forced AI to code a horror game that is actually scary. Decide who gets in. Don't let the entities inside.",
+        "pubDate": "2026-01-08T04:18:48Z",
+        "source": "promptpotatogames.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0OTE0MzE1LnBuZw==/315x250%23c/6cFJa9.png",
         "bias": 0
       },
       {
@@ -54,6 +81,15 @@
         "pubDate": "2026-01-08T03:48:25Z",
         "source": "colombian-games.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0OTEzODM5LnBuZw==/315x250%23c/DWs5oq.png",
+        "bias": 0
+      },
+      {
+        "title": "click the cube [Free] [Other] [Windows]",
+        "link": "https://theonejake.itch.io/click-the-cube",
+        "description": "",
+        "pubDate": "2026-01-08T03:47:59Z",
+        "source": "theonejake.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0OTEzNzYwLnBuZw==/315x250%23c/PysV3P.png",
         "bias": 0
       },
       {
@@ -120,48 +156,12 @@
         "bias": 0
       },
       {
-        "title": "Quest to Knighthood [Free] [Platformer]",
-        "link": "https://lupogem.itch.io/quest-to-knighthood",
-        "description": "",
-        "pubDate": "2026-01-08T02:56:57Z",
-        "source": "lupogem.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0OTEzMzI0LnBuZw==/315x250%23c/Tgy8%2Fw.png",
-        "bias": 0
-      },
-      {
-        "title": "Adventures in Morningwood [Free] [Role Playing]",
-        "link": "https://kabalyero.itch.io/adventures-in-morningwood",
-        "description": "Adventuring in the town of Morningwood.",
-        "pubDate": "2026-01-08T02:50:15Z",
-        "source": "kabalyero.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0OTEzMzI1LnBuZw==/315x250%23c/IyoiI2.png",
-        "bias": 0
-      },
-      {
-        "title": "fear gods beta [Free] [Windows] [macOS] [Linux] [Android]",
-        "link": "https://lolgames21.itch.io/fear-gods",
-        "description": "",
-        "pubDate": "2026-01-08T02:47:57Z",
-        "source": "lolgames21.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0OTEzMjUxLnBuZw==/315x250%23c/EUU%2BW9.png",
-        "bias": 0
-      },
-      {
         "title": "Snake Arena [Free] [Fighting]",
         "link": "https://doomz-11.itch.io/snake-arena",
         "description": "Compete in fast-paced action against other snakes to achieve the highest length.",
         "pubDate": "2026-01-08T02:38:40Z",
         "source": "doomz-11.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0OTEzNDczLnBuZw==/315x250%23c/IrTHNZ.png",
-        "bias": 0
-      },
-      {
-        "title": "Final Flight: Mission Intercept (v0.0.16-HUDsUp) [Free] [Action] [Windows]",
-        "link": "https://bova-fett.itch.io/final-flight-mission-intercept",
-        "description": "Tech Demo In Development - Building systems for \"Final Flight: Forgotten Aces\"",
-        "pubDate": "2026-01-08T02:28:40Z",
-        "source": "bova-fett.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0OTEzMDk4LnBuZw==/315x250%23c/ph4f7J.png",
         "bias": 0
       },
       {
@@ -440,17 +440,7 @@
       }
     ],
     "Tech": [],
-    "Science": [
-      {
-        "title": "Scientists have first clear evidence that horned dinosaurs lived in Europe during Cretaceous period - AP News",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTUJ5UWxkUDVvSUdLbFhkLUhqVlJId2JLSkp4WTQzT3RKZVlPb0gwQk5aZEZEaEJVQUxwZzM0eXpBSi1WZ3dUR20ycFY3aHRLV28zYlRNSnphZkxNWk5jdm1YT09HQlNOU1RabkZqWjJZdm9sTWo4UWg4TlY3SlFEaWdFQ1h5QW5maldiYXhGVWxic01MM0x2T1ROZXo5dUZUbVMwRm4zSm9mWXdlekdCZlZ5Q3BzYnFXNjZ3SEhMWmdzejB6VmlESkxtb3RPMzcyZUVkeG5JY2Rya1JzcV9LRlVuQ2tRVWdacE1Dc0VB?oc=5",
-        "description": "",
-        "pubDate": "2026-01-08T00:50:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      }
-    ],
+    "Science": [],
     "Business": [
       {
         "title": "Unions accuse McDonald's of 'repeated harassment' against 'mostly teenage' staff",
