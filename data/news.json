@@ -1,14 +1,14 @@
 {
-  "lastUpdate": "2026-01-09T11:00:07.655434Z",
+  "lastUpdate": "2026-01-09T11:28:28.191964Z",
   "news": {
     "Gaming": [
       {
-        "title": "Project Refinement [Free] [Simulation] [Windows]",
-        "link": "https://schwiftygg.itch.io/project-refinement",
-        "description": "A technical showcase demonstrating scalable, data-driven UI architecture in Unreal Engine 5 using C++ and UMG.",
-        "pubDate": "2026-01-09T10:40:58Z",
-        "source": "schwiftygg.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0OTMyMjM3LnBuZw==/315x250%23c/DiezCa.png",
+        "title": "Project Zombie [Free] [Shooter]",
+        "link": "https://spaceverse.itch.io/project-zombie",
+        "description": "",
+        "pubDate": "2026-01-09T10:56:56Z",
+        "source": "spaceverse.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0OTMyMzAwLnBuZw==/315x250%23c/T1G9fE.png",
         "bias": 0
       },
       {
@@ -120,6 +120,15 @@
         "bias": 0
       },
       {
+        "title": "The Battle of the Moon [Free] [Shooter]",
+        "link": "https://battle-of-the-moon.itch.io/battle-of-the-moon",
+        "description": "Classic arcade space shooting with modern neon style and ruthless difficulty.",
+        "pubDate": "2026-01-09T08:57:20Z",
+        "source": "battle-of-the-moon.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0OTMxNzE0LmpwZw==/315x250%23c/FDCp5f.jpg",
+        "bias": 0
+      },
+      {
         "title": "Gamagoramon [Free] [Fighting] [Windows] [Linux]",
         "link": "https://callhector.itch.io/gamagoramon",
         "description": "",
@@ -174,15 +183,6 @@
         "bias": 0
       },
       {
-        "title": "Malaysia Explorer Adventure [Free] [Adventure] [Windows]",
-        "link": "https://syu-mr.itch.io/malaysiaexploreradventure",
-        "description": "",
-        "pubDate": "2026-01-09T08:13:42Z",
-        "source": "syu-mr.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0OTMwNzE1LnBuZw==/315x250%23c/Ia4i1C.png",
-        "bias": 0
-      },
-      {
         "title": "Whiteout [Free]",
         "link": "https://raenes.itch.io/whiteout",
         "description": "light up the grid",
@@ -208,18 +208,27 @@
         "source": "aicya222.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0OTMwNTA2LmpwZw==/315x250%23c/Vi5j%2BM.jpg",
         "bias": 0
-      },
-      {
-        "title": "VECTRA (Early Access Demo) [Free] [Puzzle] [Windows]",
-        "link": "https://ghostsand.itch.io/vectragame",
-        "description": "",
-        "pubDate": "2026-01-09T00:49:28Z",
-        "source": "ghostsand.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0OTI3MDA5LmpwZw==/315x250%23c/lQjbGq.jpg",
-        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Russia hits Ukraine with rarely-used Oreshnik missile in fresh strikes",
+        "link": "https://www.bbc.com/news/articles/cgqe9kv9xxvo?at_medium=RSS&at_campaign=rss",
+        "description": "It is only the second time Moscow has deployed the hypersonic ballistic missile, which was first used to hit Dnipro in November.",
+        "pubDate": "2026-01-09T11:26:38Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0600/live/5d755580-ed2c-11f0-b5f7-49f0357294ff.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Wawrinka handed Australian Open wildcard in final season",
+        "link": "https://www.bbc.com/sport/tennis/articles/cz9vn0vk7djo?at_medium=RSS&at_campaign=rss",
+        "description": "Stan Wawrinka receives an Australian Open wildcard as he begins the final season of his career, but Australian Nick Kyrgios misses out.",
+        "pubDate": "2026-01-09T11:23:43Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d59f/live/d9e768c0-ed30-11f0-b984-81fd88ec25bf.jpg",
+        "bias": 0
+      },
       {
         "title": "Elon Musk's Grok AI image editing limited to paid X users after deepfakes",
         "link": "https://www.bbc.com/news/articles/c99kn52nx9do?at_medium=RSS&at_campaign=rss",
@@ -227,6 +236,42 @@
         "pubDate": "2026-01-09T10:46:15Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fa6/live/1942dce0-ed34-11f0-b984-81fd88ec25bf.jpg",
+        "bias": 0
+      },
+      {
+        "title": "US to support Cambodian-Thai ceasefire with $45m aid pledge",
+        "link": "https://www.aljazeera.com/news/2026/1/9/us-to-support-cambodian-thai-ceasefire-with-45m-aid-pledge?traffic_source=rss",
+        "description": "The aid is earmarked to help support both countries in border stabilisation efforts.",
+        "pubDate": "2026-01-09T10:39:47Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Israeli strikes kill Palestinians across Gaza",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/9/israeli-strikes-kill-palestinians-across-gaza?traffic_source=rss",
+        "description": "Israeli strikes killed at least 14 Palestinians across Gaza on Thursday, including several children.",
+        "pubDate": "2026-01-09T10:32:39Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Iran’s Khamenei lashes out as Tehran struggles to quell protests",
+        "link": "https://www.aljazeera.com/news/2026/1/9/irans-khamenei-lashes-out-as-tehran-struggles-to-quell-protests?traffic_source=rss",
+        "description": "Supreme leader warns against foreign enemies and reiterates threat that authorities will crack down on the unrest.",
+        "pubDate": "2026-01-09T10:31:43Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Israeli strikes kill at least 13 across Gaza, as Trump is expected to announce Board of Peace - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ19fbW5KMS1sS1VsTXNFSzM5V2Z5QURpT091aVJCaWNiOW9uQy1POV9QRlJLOGNJbllGaWpKZ2FGRU1ldDFCUC13ejlYQnYyV3JUbDRRWEthWFZSbExnbFlMRDhkTDk2bFhJUzR4MkdXelI2YmhMd2hPanJvOFB6LUpVWHNiMlFvcnZCQXh5LUpRQQ?oc=5",
+        "description": "",
+        "pubDate": "2026-01-09T10:25:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -248,7 +293,7 @@
         "bias": 0
       },
       {
-        "title": "Yemen’s separatist Southern Transitional Council announces its dissolution",
+        "title": "Yemen’s main southern separatists to disband, senior STC official says",
         "link": "https://www.aljazeera.com/news/2026/1/9/yemens-separatist-southern-transitional-council-announces-its-dissolution?traffic_source=rss",
         "description": "The STC, which Saudi Arabia says is backed by the UAE, launched an offensive against Yemeni gov't troops in December.",
         "pubDate": "2026-01-09T10:00:56Z",
@@ -264,15 +309,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Israeli strikes kill at least 13 across Gaza, as Trump is expected to announce Board of Peace - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ19fbW5KMS1sS1VsTXNFSzM5V2Z5QURpT091aVJCaWNiOW9uQy1POV9QRlJLOGNJbllGaWpKZ2FGRU1ldDFCUC13ejlYQnYyV3JUbDRRWEthWFZSbExnbFlMRDhkTDk2bFhJUzR4MkdXelI2YmhMd2hPanJvOFB6LUpVWHNiMlFvcnZCQXh5LUpRQQ?oc=5",
-        "description": "",
-        "pubDate": "2026-01-09T09:57:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Russia says it used new Oreshnik ballistic missile in major attack on Ukraine - AP News",
@@ -347,6 +383,15 @@
         "bias": -1
       },
       {
+        "title": "Switzerland honors the victims of the deadly Alpine bar fire in a national day of mourning - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLWJiMGhLWHN2bll6RHlTZ3ZFUzNqeUdzZ1ZPUF9VaEktV3pHOGNNbEJUOE85UmNpcl8zdFloQ2N6Nm1xdGs3TmJ1d2szaUlqdGZ3RmVjQ3lxYkRoSlBZaFBiVTlLbUZJcFhBT0Y0aFFSdTQteUNSSEhEN29rZUdRZklpWWFBcXkyS1pEQVNKcXVJTHlzckJRMWhZem5NN1dtOHM4MWx6UlFZVkxFVU54SS1HRnJGdlRv?oc=5",
+        "description": "",
+        "pubDate": "2026-01-09T09:21:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Iran internet cuts a “classic ploy” by leadership",
         "link": "https://www.aljazeera.com/video/quotable/2026/1/9/iran-internet-cuts-a-classic-ploy-by-leadership?traffic_source=rss",
         "description": "Sina Azodi on Iran’s escalating protests and the use of internet shutdowns to silence dissent.",
@@ -389,24 +434,6 @@
         "pubDate": "2026-01-09T08:26:05Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3519/live/84246970-ed2f-11f0-b984-81fd88ec25bf.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Wawrinka handed Australian Open wildcard in final season",
-        "link": "https://www.bbc.com/sport/tennis/articles/cz9vn0vk7djo?at_medium=RSS&at_campaign=rss",
-        "description": "Stan Wawrinka receives an Australian Open wildcard as he begins the final season of his career, but Australian Nick Kyrgios misses out.",
-        "pubDate": "2026-01-09T08:13:54Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d59f/live/d9e768c0-ed30-11f0-b984-81fd88ec25bf.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Russia hits Ukraine with rarely-used Oreshnik missile in fresh strikes",
-        "link": "https://www.bbc.com/news/articles/cgqe9kv9xxvo?at_medium=RSS&at_campaign=rss",
-        "description": "It is only the second time Moscow has deployed the hypersonic ballistic missile, which was first used to hit Dnipro in November.",
-        "pubDate": "2026-01-09T08:04:56Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0600/live/5d755580-ed2c-11f0-b5f7-49f0357294ff.jpg",
         "bias": 0
       },
       {
@@ -633,42 +660,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "What to know about the fatal shooting of a woman by an ICE officer in Minneapolis - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMlI5S2RSRmRLZm5xWFZ1RjRCNVpmOFNoWEZGVW1QMm1MUnNTQkpjSGtSVE95NE13WHk4Ums1RkVaNTd4cnFBbG1mdWVMRXFsdFNvNHdSVXZ1VE9WUjM5N1lRb3paYTYxTzhYWlJzQWNPbWcwRkg1U0ZGdzZzRm5WcXA0WTRTOTRPLUwxOGV0cnMzbEl4TGY3SlBB?oc=5",
-        "description": "",
-        "pubDate": "2026-01-09T04:30:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Trump will not meet Iran’s ‘Crown Prince’ Pahlavi as protests intensify",
-        "link": "https://www.aljazeera.com/news/2026/1/9/trump-says-meeting-irans-crown-prince-pahlavi-would-not-be-appropriate?traffic_source=rss",
-        "description": "US president signals he is not ready to back the Israel-aligned opposition figure to lead Iran in case of regime change.",
-        "pubDate": "2026-01-09T04:14:59Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Brazil’s President Lula vetoes bill to trim Bolsonaro prison sentence",
-        "link": "https://www.aljazeera.com/news/2026/1/9/brazils-president-lula-vetoes-bill-to-trim-bolsonaro-prison-sentence?traffic_source=rss",
-        "description": "The opposition-controlled Congress voted in December to pass a bill that would reduce Bolsonaro's 27-year sentence.",
-        "pubDate": "2026-01-09T03:58:25Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Internet and phones cut in Iran as protesters heed exiled prince's call for mass demonstration - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX0Jwc1BVY1ZzWjk0ZFJvVVRESnlTQ1BhVWdSR0pBRW41akZISVNlZG9rVkxCTk9wOHFYcW1lYVE3RVJlSUVvWHFkU1ZyRG9EbjViaW5ORk4tUnNhMl9mUlJDZlhEYzdvVUxLOUdYU2ppRFFWYVNEeHhxOC1NQUprMW96dGtseEN4Qk1wSzNiZlVzWXNDZlNLeFpyTU1jMGhLeTVxS1N3?oc=5",
-        "description": "",
-        "pubDate": "2026-01-09T03:51:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
@@ -676,7 +667,7 @@
         "title": "Businesses call to be included in any pub rates backtrack",
         "link": "https://www.bbc.com/news/articles/cp80l2ndz5yo?at_medium=RSS&at_campaign=rss",
         "description": "Shops, pharmacies and music venues want any climbdown on business rates for pubs to apply to them too.",
-        "pubDate": "2026-01-09T10:50:08Z",
+        "pubDate": "2026-01-09T11:21:03Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57e2/live/76aca550-ece4-11f0-bef6-d3a75ab8dbff.jpg",
         "bias": 0
@@ -807,15 +798,6 @@
     ],
     "Culture": [
       {
-        "title": "Immigration - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBySVUtSnV5U1NPYXI2a2tlb1BidXFsSGNrOUdRUFo5b29xanY5RmtOYzZ6YXBDbk4yODJsTEd4ZC1kckdwLXdQa0h3?oc=5",
-        "description": "",
-        "pubDate": "2026-01-09T10:53:47Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Michael B. Jordan expands his cinematic universe",
         "link": "https://www.npr.org/2026/01/09/nx-s1-5593063/michael-b-jordan-sinners",
         "description": "From child actor to \"Sexiest Man Alive\" leading man status, Jordan takes on Hollywood as director-producer and soon may win awards for his performance in",
@@ -840,6 +822,15 @@
         "pubDate": "2026-01-09T06:29:09Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1928/live/b9c6e4e0-ec94-11f0-a422-4ba8a094a8fa.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Dylan Thomas 'plagiarised other poets' repeatedly as schoolboy",
+        "link": "https://www.bbc.com/news/articles/czejdpy81k0o?at_medium=RSS&at_campaign=rss",
+        "description": "He became a literary legend but as a schoolboy the young Dylan Thomas has been found to have copied poems.",
+        "pubDate": "2026-01-09T06:12:32Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98be/live/9af16940-ec95-11f0-a422-4ba8a094a8fa.jpg",
         "bias": 0
       },
       {
