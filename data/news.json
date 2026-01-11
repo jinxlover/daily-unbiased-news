@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-11T05:43:11.529982Z",
+  "lastUpdate": "2026-01-11T05:57:03.911817Z",
   "news": {
     "Gaming": [
       {
@@ -9,6 +9,15 @@
         "pubDate": "2026-01-11T05:21:20Z",
         "source": "watermelone1.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0OTYwODAyLnBuZw==/315x250%23c/VfUw6j.png",
+        "bias": 0
+      },
+      {
+        "title": "The 5@Bay [Free] [Shooter]",
+        "link": "https://charzang.itch.io/5bay",
+        "description": "Entry For Mini Jame Gam #50",
+        "pubDate": "2026-01-11T05:12:58Z",
+        "source": "charzang.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0OTYwODI1LnBuZw==/315x250%23c/1YOSR%2B.png",
         "bias": 0
       },
       {
@@ -31,7 +40,7 @@
       },
       {
         "title": "2D Survival (Prototype) [Free] [Survival]",
-        "link": "https://bogarttyyy.itch.io/basic-2d-survival-prototype",
+        "link": "https://bogarttyyy.itch.io/2d-survival-prototype",
         "description": "Base project/prototype for a topdown 2D survival game!",
         "pubDate": "2026-01-11T04:53:18Z",
         "source": "bogarttyyy.itch.io",
@@ -63,6 +72,15 @@
         "pubDate": "2026-01-11T04:45:57Z",
         "source": "kruel101.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0OTYwNDcwLmpwZw==/315x250%23c/EXQMuP.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Sandfall - Brainless Gamejam Edition [Free] [Other] [Windows]",
+        "link": "https://portlypoet.itch.io/sandfall-brainless-gamejam-edition",
+        "description": "It’s coarse and rough and irritating… and it gets everywhere.",
+        "pubDate": "2026-01-11T04:42:30Z",
+        "source": "portlypoet.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0OTYwOTM1LnBuZw==/315x250%23c/V5vbGr.png",
         "bias": 0
       },
       {
@@ -174,39 +192,12 @@
         "bias": 0
       },
       {
-        "title": "Voices of Our Ancestors [Free]",
-        "link": "https://moogie001.itch.io/voices-of-our-ancestors",
-        "description": "WIP D: - Follow the guidance of your forefathers and be the one to reach the destination your bloodline longed for!",
-        "pubDate": "2026-01-11T03:40:56Z",
-        "source": "moogie001.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0OTYwNDUxLnBuZw==/315x250%23c/Tkl0qW.png",
-        "bias": 0
-      },
-      {
         "title": "Harvest [Free] [Simulation] [Windows] [macOS] [Linux]",
         "link": "https://34deoutono.itch.io/harvest",
         "description": "A kind of rural fast food.",
         "pubDate": "2026-01-11T03:38:46Z",
         "source": "34deoutono.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0OTYwMDM1LnBuZw==/315x250%23c/CuMhSJ.png",
-        "bias": 0
-      },
-      {
-        "title": "WaR1:The Video Game (Prison Act demo) [Free] [Role Playing]",
-        "link": "https://warzone53.itch.io/war1the-video-game-demo",
-        "description": "",
-        "pubDate": "2026-01-11T03:34:48Z",
-        "source": "warzone53.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0OTYwMTIwLnBuZw==/315x250%23c/6mQtZD.png",
-        "bias": 0
-      },
-      {
-        "title": "ape dream [Free]",
-        "link": "https://jparpan.itch.io/ape-dream",
-        "description": "",
-        "pubDate": "2026-01-11T03:24:34Z",
-        "source": "jparpan.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0OTU5NzA2LmpwZw==/315x250%23c/jadfVS.jpg",
         "bias": 0
       },
       {
@@ -230,13 +221,40 @@
     ],
     "World": [
       {
-        "title": "Somali minister says Israel plans to displace Palestinians to Somaliland",
+        "title": "Iran protesters defy crackdown as videos show violent clashes",
+        "link": "https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss",
+        "description": "Hundreds of protesters are believed to have been killed or injured, and many more detained.",
+        "pubDate": "2026-01-11T05:44:56Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ffa/live/dc852db0-eea7-11f0-b5f7-49f0357294ff.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Ilia Malinin wins 4th consecutive U.S. Figure Skating title with dialed-back performance - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeUxJYUszUTJKTFU5QjdjZjBZUUxPNk41Z2dXT0FPQnl5cFBGWVBfUFVtdk5PNzUtS3NlWDNZaHhPLS1ZZzZ5TnRzUXBZVU1FRnZzNXlQSXdVMGlnMUpZb0xoQWpBcTFDZXVMVDIxd3YyX29yVURFVTZ2SHhYN0lFWjhyZkJ1Ql9seHFYTkdiSzBHNFR2WmVhM0FDdG5KVll1bTdpVF8weDNzUQ?oc=5",
+        "description": "",
+        "pubDate": "2026-01-11T05:16:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Somalia ‘has confirmed information’ of Israel’s Palestine-Somaliland plan",
         "link": "https://www.aljazeera.com/news/2026/1/11/somali-minister-says-israel-plans-to-displace-palestinians-to-somaliland?traffic_source=rss",
-        "description": "Defence minister says Somalia has 'confirmed information' that Israel plans to forcibly move Palestinians to Somaliland.",
+        "description": "Somalia's defence minister says Israel plans to forcibly move Palestinians to Somaliland, citing confirmed intelligence.",
         "pubDate": "2026-01-11T05:15:17Z",
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "The Golden Globes are tonight. Here's what to look for and how to watch and stream the show - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVXRLV1Vqa2Nhanpmai00WmlBN3J1UlFrLTUyRzVXS1BPeDk3c1JkS24zcjgyLVZQazd6c25MNUpLdE1ZaF9jdHdCN05RY253aml5SUpySElJSk95UDFSS2pUZFJORjMyNmFCcWFnTko3alpmQ3AzTjl6LVVaMnpzcmt2LXE?oc=5",
+        "description": "",
+        "pubDate": "2026-01-11T05:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Stafford's late TD pass to Parkinson lifts the Rams past the Panthers 34-31 in tense playoff opener - AP News",
@@ -273,15 +291,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Olympic favorites Chock and Bates win record-setting seventh U.S. Figure Skating ice dance title - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeUxJYUszUTJKTFU5QjdjZjBZUUxPNk41Z2dXT0FPQnl5cFBGWVBfUFVtdk5PNzUtS3NlWDNZaHhPLS1ZZzZ5TnRzUXBZVU1FRnZzNXlQSXdVMGlnMUpZb0xoQWpBcTFDZXVMVDIxd3YyX29yVURFVTZ2SHhYN0lFWjhyZkJ1Ql9seHFYTkdiSzBHNFR2WmVhM0FDdG5KVll1bTdpVF8weDNzUQ?oc=5",
-        "description": "",
-        "pubDate": "2026-01-11T02:02:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "'I had no electricity for six months': American families struggle with soaring energy prices",
