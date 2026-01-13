@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-13T08:00:05.392298Z",
+  "lastUpdate": "2026-01-13T08:43:20.338447Z",
   "news": {
     "Gaming": [
       {
@@ -12,12 +12,30 @@
         "bias": 0
       },
       {
+        "title": "ASSASSIN_INTERN [Free] [Platformer] [Windows]",
+        "link": "https://parsley1026.itch.io/assassin-intern",
+        "description": "Your standard run n gun 2D platformer with as much freedom of movement as I could pack in.",
+        "pubDate": "2026-01-13T07:48:24Z",
+        "source": "parsley1026.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0OTk2MjI3LnBuZw==/315x250%23c/paepBL.png",
+        "bias": 0
+      },
+      {
         "title": "Om Agus [Free] [Puzzle] [Windows]",
         "link": "https://umn.itch.io/om-agus",
         "description": "",
         "pubDate": "2026-01-13T07:22:13Z",
         "source": "umn.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0OTk1NzkxLnBuZw==/315x250%23c/nM4Z%2FZ.png",
+        "bias": 0
+      },
+      {
+        "title": "Z0MB13 [Free] [Survival]",
+        "link": "https://jaketurner616.itch.io/z0mb13",
+        "description": "Infinite Horde shooter in 13kb",
+        "pubDate": "2026-01-13T07:12:14Z",
+        "source": "jaketurner616.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0OTk1Njk3LnBuZw==/315x250%23c/zphFDX.png",
         "bias": 0
       },
       {
@@ -75,7 +93,7 @@
         "bias": 0
       },
       {
-        "title": "GAMBLER OUT [Free] [Simulation]",
+        "title": "GAMBLER OUT [Free] [Simulation] [Windows]",
         "link": "https://daiwoo.itch.io/gambler-out",
         "description": "Rewards always draw paths no one questions...would you follow them?",
         "pubDate": "2026-01-13T05:19:56Z",
@@ -165,30 +183,12 @@
         "bias": 0
       },
       {
-        "title": "The Spooky Francis Maze!! [Free] [Survival]",
-        "link": "https://day-likes-games.itch.io/the-spooky-francis-maze",
-        "description": "Adrian is stuck in a weird building and must get out! But she must avoid...him.",
-        "pubDate": "2026-01-13T03:49:59Z",
-        "source": "day-likes-games.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0OTk0MjA3LnBuZw==/315x250%23c/pUucVv.png",
-        "bias": 0
-      },
-      {
         "title": "Fishn' for days [Free] [Other]",
         "link": "https://knewscott.itch.io/fishing-for-days",
         "description": "Reel in as many fish as you can before the week is up!",
         "pubDate": "2026-01-13T03:48:03Z",
         "source": "knewscott.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0OTk0MzcxLnBuZw==/315x250%23c/KyT9gC.png",
-        "bias": 0
-      },
-      {
-        "title": "Rebound Clone [Free] [Sports]",
-        "link": "https://julongzhilu.itch.io/rebound-clone",
-        "description": "",
-        "pubDate": "2026-01-13T03:37:01Z",
-        "source": "julongzhilu.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI0OTk0MTIwLnBuZw==/315x250%23c/SuE1Dq.png",
         "bias": 0
       },
       {
@@ -220,6 +220,51 @@
       }
     ],
     "World": [
+      {
+        "title": "People in Iran describe heavy security and some damage in first calls to outside world",
+        "link": "https://www.npr.org/2026/01/13/g-s1-105832/iran-first-calls-outside-world",
+        "description": "Iranians could call abroad on Tuesday for the first time since communications were halted during a crackdown on nationwide protests in which activists said at least 646 people have been killed.",
+        "pubDate": "2026-01-13T08:09:55Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Le Pen's political fate rests on appeal trial opening in France",
+        "link": "https://www.bbc.com/news/articles/c62vnvx2x2po?at_medium=RSS&at_campaign=rss",
+        "description": "The head of her far-right party, Jordan Bardella, warns banning her running for president would be \"deeply worrying\" for democracy.",
+        "pubDate": "2026-01-13T07:57:04Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e54/live/014b6ca0-efd8-11f0-b5f7-49f0357294ff.jpg",
+        "bias": 0
+      },
+      {
+        "title": "US sailor sentenced to 16 years in prison in Chinese espionage case",
+        "link": "https://www.aljazeera.com/news/2026/1/13/us-sailor-sentenced-to-16-years-in-prison-in-chinese-espionage-case?traffic_source=rss",
+        "description": "Prosecutors accused sailor Jinchao Wei of selling information about US Navy ships to Chinese intelligence operatives.",
+        "pubDate": "2026-01-13T07:51:23Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Landmines destroy limbs and lives on Bangladesh-Myanmar border",
+        "link": "https://www.aljazeera.com/gallery/2026/1/13/landmines-destroy-limbs-and-lives-on-bangladesh-myanmar-border?traffic_source=rss",
+        "description": "Bangladesh border villagers maimed by Myanmar landmines as conflict spills over into their forests and farms.",
+        "pubDate": "2026-01-13T07:49:08Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "RSF drone attack kills 27 in southeast Sudan: Report",
+        "link": "https://www.aljazeera.com/news/2026/1/13/rsf-drone-attack-kills-27-in-southeast-sudan-report?traffic_source=rss",
+        "description": "Sudan's paramilitary Rapid Support Forces attacks an army base in the southeastern city of Sinja with drones.",
+        "pubDate": "2026-01-13T07:43:29Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Japan’s new PM Takaichi eyes parliament dissolution for snap polls: Report",
         "link": "https://www.aljazeera.com/news/2026/1/13/japans-new-pm-takaichi-eyes-parliament-dissolution-for-snap-polls-report?traffic_source=rss",
@@ -367,7 +412,7 @@
       {
         "title": "Australian writers’ festival cancelled after Palestinian author axed",
         "link": "https://www.aljazeera.com/news/2026/1/13/australian-writers-festival-boss-resigns-after-palestinian-author-axed?traffic_source=rss",
-        "description": "Adelaide Writers' Week cancelled following wave of speaker withdrawals and board resignations.",
+        "description": "",
         "pubDate": "2026-01-13T03:49:02Z",
         "source": "aljazeera.com",
         "image": "",
@@ -466,6 +511,15 @@
     ],
     "Politics": [
       {
+        "title": "Mandelson makes personal apology for continuing Epstein friendship",
+        "link": "https://www.bbc.com/news/articles/ce9yv73klx5o?at_medium=RSS&at_campaign=rss",
+        "description": "The former ambassador apologises \"unequivocally\" for maintaining links with Epstein after 2008 conviction",
+        "pubDate": "2026-01-13T08:08:53Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58e7/live/02600160-f00e-11f0-b5f7-49f0357294ff.jpg",
+        "bias": 0
+      },
+      {
         "title": "Crackdown on illegal working leads to surge in arrests",
         "link": "https://www.bbc.com/news/articles/cevn4ny7wvyo?at_medium=RSS&at_campaign=rss",
         "description": "Raids on businesses such as nail bars and takeaways have increased by 77% since Labour took office, the government says.",
@@ -511,15 +565,6 @@
         "bias": 0
       },
       {
-        "title": "Mandelson makes personal apology for continuing Epstein friendship",
-        "link": "https://www.bbc.com/news/articles/ce9yv73klx5o?at_medium=RSS&at_campaign=rss",
-        "description": "The former ambassador apologises \"unequivocally\" for maintaining links with Epstein after 2008 conviction",
-        "pubDate": "2026-01-13T02:25:58Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58e7/live/02600160-f00e-11f0-b5f7-49f0357294ff.jpg",
-        "bias": 0
-      },
-      {
         "title": "Mayor Khan says certain politicians use \"London as a punchbag to fit their own political end games\" - AP News",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQkkxNVl0U28tVl9YTkJQUXV2VkRJQkFBTkVfZ0dRVG1vY004MjhOaUpJUEtkZzBvRksxWmJvUEVNNGFUYUVXMlVndnpvd0NiZmdXTm9Yc0pxRGVfY09WZHI2dGxRcFhISlF6QVowTTBJX203STFUaUVkZE9PUkwyQ2U2OURxYjFrWGdmUFFoaG1GUmI2S3ptSXRjMHhnV0lhbnZ3NWJWVkxaN09qZE5LYTFTeEEyalZ6dlEwYUFKQnBRTUtrRXJwSmdUU2ZqZTRvZnNxMkRoV2pPVTRCd0xLeS1tbHFGdU5xOVBv?oc=5",
         "description": "",
@@ -538,15 +583,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-        "description": "",
-        "pubDate": "2026-01-13T03:51:51Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Why are more bosses sharing the top job?",
@@ -600,21 +636,21 @@
     ],
     "Culture": [
       {
+        "title": "BBC will aim to have Trump's $5bn defamation lawsuit thrown out",
+        "link": "https://www.bbc.com/news/articles/c394x4z8kpdo?at_medium=RSS&at_campaign=rss",
+        "description": "Court papers filed on Monday show the broadcaster will argue the Florida court lacks \"personal jurisdiction\" over the BBC.",
+        "pubDate": "2026-01-13T08:21:31Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ee1/live/a8fd0b40-f049-11f0-b5f7-49f0357294ff.jpg",
+        "bias": 0
+      },
+      {
         "title": "Mineral deposits reveal Pompeii's bathing culture preserved under the ashes of Mount Vesuvius - AP News",
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNVNwMWtuZzN3dVBBQ0QxNE1OLU8wVXNTVUJYS0ZlQkR0SGxTemRQVzQ3N19EUXFsVWhJS2pWbmlSM1MzQkpMYjNXOXBKVjRTQk9PaWJrajFsNjAxX0lySE80MEFFVTFVMURpQlJwaWZlVzMzQk5PY01UMU5hazM5Nnd3T3NFR1AxMThmN2FjdzR4eWhXUEJ6eFppOEtfSWhqYi1jWnIzdXJrcEJycHJLaXF0aW4yY2ltemdpN0ZZMjgtUjQ2Q3hENnR5UGRMZTRiUlhFMlBHSW50N0pkYXkzNGRQc3I?oc=5",
         "description": "",
         "pubDate": "2026-01-13T04:30:00Z",
         "source": "news.google.com",
         "image": "",
-        "bias": 0
-      },
-      {
-        "title": "BBC will aim to have Trump's $5bn defamation lawsuit thrown out",
-        "link": "https://www.bbc.com/news/articles/c394x4z8kpdo?at_medium=RSS&at_campaign=rss",
-        "description": "Court papers filed on Monday show the broadcaster will argue the Florida court lacks \"personal jurisdiction\" over the BBC.",
-        "pubDate": "2026-01-13T03:07:09Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ee1/live/a8fd0b40-f049-11f0-b5f7-49f0357294ff.jpg",
         "bias": 0
       },
       {
