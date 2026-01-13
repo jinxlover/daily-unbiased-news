@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-13T18:36:51.108928Z",
+  "lastUpdate": "2026-01-13T18:59:09.006366Z",
   "news": {
     "Gaming": [
       {
@@ -45,6 +45,15 @@
         "pubDate": "2026-01-13T17:21:59Z",
         "source": "rody339.itch.io",
         "image": "https://img.itch.zone/aW1nLzI1MDAxNjQzLnBuZw==/315x250%23c/qDZyja.png",
+        "bias": 0
+      },
+      {
+        "title": "Lust for Wealth [Free] [Visual Novel] [Windows] [macOS] [Linux] [Android]",
+        "link": "https://hotgamedev.itch.io/lust-for-wealth",
+        "description": "Get rich at any cost",
+        "pubDate": "2026-01-13T17:19:31Z",
+        "source": "hotgamedev.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MDAxMDk1LnBuZw==/315x250%23c/LDkSS8.png",
         "bias": 0
       },
       {
@@ -120,6 +129,15 @@
         "bias": 0
       },
       {
+        "title": "BlankedLight [Free] [Adventure] [Windows]",
+        "link": "https://nlbb.itch.io/blankedlight",
+        "description": "Infiltration Game: Infiltrate the dark. Spend your light wisely.",
+        "pubDate": "2026-01-13T16:40:09Z",
+        "source": "nlbb.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MDAxMDMyLnBuZw==/315x250%23c/IWgE0r.png",
+        "bias": 0
+      },
+      {
         "title": "EFPSE/EFPSECE games practice [Free] [Action] [Windows]",
         "link": "https://aplum.itch.io/efpse-efpsece-practice",
         "description": "Bacicly practice game for EFPSE/EFPSECE games",
@@ -129,30 +147,12 @@
         "bias": 0
       },
       {
-        "title": "Pac-Human [Free] [Action]",
-        "link": "https://abir-raiyan.itch.io/pac-human",
-        "description": "",
-        "pubDate": "2026-01-13T16:33:35Z",
-        "source": "abir-raiyan.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MDAwODgyLnBuZw==/315x250%23c/32VHja.png",
-        "bias": 0
-      },
-      {
         "title": "ADHShip [Free] [Shooter] [Windows]",
         "link": "https://automath.itch.io/adhship",
         "description": "little shooter made with vvvv Gamma!",
         "pubDate": "2026-01-13T16:19:04Z",
         "source": "automath.itch.io",
         "image": "https://img.itch.zone/aW1nLzI1MDAwOTY4LnBuZw==/315x250%23c/Jo1PTd.png",
-        "bias": 0
-      },
-      {
-        "title": "Voyage Galactic [Free] [Adventure]",
-        "link": "https://thehand123.itch.io/galactic-voyage",
-        "description": "ia",
-        "pubDate": "2026-01-13T16:13:22Z",
-        "source": "thehand123.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MDAwNjg4LnBuZw==/315x250%23c/iwPICN.png",
         "bias": 0
       },
       {
@@ -210,6 +210,15 @@
         "bias": 0
       },
       {
+        "title": "Forest Jump [Free] [Platformer] [Windows]",
+        "link": "https://yanaro.itch.io/forest-jump",
+        "description": "short and simple 3D platformer",
+        "pubDate": "2026-01-13T10:39:20Z",
+        "source": "yanaro.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0OTk4ODAxLnBuZw==/315x250%23c/G2OFUe.png",
+        "bias": 0
+      },
+      {
         "title": "Bung The Fox [Free] [Adventure] [Windows]",
         "link": "https://punzarelli.itch.io/bung-the-fox",
         "description": "",
@@ -233,9 +242,27 @@
         "title": "Republicans vow to hold Bill Clinton in contempt as he skips Epstein testimony",
         "link": "https://www.bbc.com/news/articles/cj6w17ykd89o?at_medium=RSS&at_campaign=rss",
         "description": "The former president didn't show up on Tuesday to testify before a committee investigating Epstein, saying its subpoena wasn't enforceable",
-        "pubDate": "2026-01-13T18:19:38Z",
+        "pubDate": "2026-01-13T18:51:22Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd51/live/4c322140-f0a1-11f0-a422-4ba8a094a8fa.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Uganda cuts internet days before presidential election",
+        "link": "https://www.aljazeera.com/news/2026/1/13/uganda-cuts-internet-days-before-presidential-election?traffic_source=rss",
+        "description": "The blackout comes as President Yoweri Museveni, criticised for cracking down on opponents, vies for his seventh term.",
+        "pubDate": "2026-01-13T18:37:27Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Death toll from Iranian protests surpasses 2,000, activists say, as chaos recalls 1979 revolution - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc1VtVTRqdHcxUTdBRG1pR2NTSEhCOExELW4xellfRkdYMngwNzc5ejJtejJqMEdnQmp4U0lXTG9qTV9BV2U5SHYwLVNLemdvUzM2Sk1xU2hpQ1JubTMyTElEMTNxSHZib0ZBcFdIVDRFUVowQldjZlRvYm9xN0ZELU1YZXpCQ0JFcXlHM1FveS02a21uUW9KMU9xc3liSGZaUjViOGlB?oc=5",
+        "description": "",
+        "pubDate": "2026-01-13T18:29:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -246,6 +273,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "South Korean prosecutor seeks death sentence for ex-leader Yoon over martial law decree - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMUFHWHpENlc4aGs5alVqWUtqOXVnd3o1UHBGZFdfWnFINnBpeHoyaHRnc1JzNWxMMVo2aUhKb1QtRlo2QkcyZ2pnVzBiVTRKckUxaDRNMG9qX0lIOFhWb3hoTV9VN3RHMFRVVXFhUzR5bnV6X1FnWkdBS1B0UXdUcVdTeXJyMDhFUHEzSk02THA1VjJPaThqQ292T3hqMXducTRIZEdR?oc=5",
+        "description": "",
+        "pubDate": "2026-01-13T18:02:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Tensions flare in Minnesota as protesters and federal agents repeatedly square off - AP News",
@@ -270,6 +306,15 @@
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMlJyZE5UTjBuRGlIVFo2QXQxYXVsZ3JScW5wR1E2TEhfRlJjVkF4cDFPSkVKZndFQzFMUHJPbU5KZ2NXNHBSTnBmZENoa3BJV2FGcldZSHNTblNkWUU3eWpJVTJJZTZqRl9IVloxUGI4OXY2X3p5dDg5T3RJeWM4MHd4RTZBZk9ZYlRvQVUtRHdYM1NENk5wSXZqakl3eVNJZWVTdTZ3MnFTUQ?oc=5",
         "description": "",
         "pubDate": "2026-01-13T17:48:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Fewer Americans sign up for Affordable Care Act health insurance as costs spike - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUEh2LV83RHdXd0djalB6Zld0bGJrTU44bVhsTzB6R1pTMnhUdzN6RFRuRkRXMnhmNEpsRzhhOGs4dk5yUjdueEVsVnFOXzNGSnQyeTFjR1A5dzBQUTNiSFRWWFNWUFJkT2NCMnhPaGEzLVZUcndLUHhSdFdfQ2Q3eVBXMG9iY01YV1hzaGNhMlRvdFA2Y3BhOWZudkxFa2dBZlBBcVZJaDFiMkFINWpn?oc=5",
+        "description": "",
+        "pubDate": "2026-01-13T17:43:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -329,15 +374,6 @@
         "bias": 0
       },
       {
-        "title": "Death toll from Iranian protests surpasses 2,000, activists say, as chaos recalls 1979 revolution - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc1VtVTRqdHcxUTdBRG1pR2NTSEhCOExELW4xellfRkdYMngwNzc5ejJtejJqMEdnQmp4U0lXTG9qTV9BV2U5SHYwLVNLemdvUzM2Sk1xU2hpQ1JubTMyTElEMTNxSHZib0ZBcFdIVDRFUVowQldjZlRvYm9xN0ZELU1YZXpCQ0JFcXlHM1FveS02a21uUW9KMU9xc3liSGZaUjViOGlB?oc=5",
-        "description": "",
-        "pubDate": "2026-01-13T17:16:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "BTS announce first world tour since returning from mandatory military service: See the dates - AP News",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd3RSX2g3bEc4eE9RVDdweXZ1U2NvNGFYNm90aDJqbGVQT2hfblFHVGNFNmdXRTFmWnU4MG9vNWtwNmluMmVGS3RMT052N2hFTTNDM0YxYy1wY0Y2dmJxeHRXVVhTNlNqa3k4TkJMa3lfQWpuNlV5RW5aZmdGZUZKbEN1elFaRS1uVWlld1I0Q2xfaTg?oc=5",
         "description": "",
@@ -354,15 +390,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "South Korean prosecutor seeks death sentence for ex-leader Yoon over martial law decree - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMUFHWHpENlc4aGs5alVqWUtqOXVnd3o1UHBGZFdfWnFINnBpeHoyaHRnc1JzNWxMMVo2aUhKb1QtRlo2QkcyZ2pnVzBiVTRKckUxaDRNMG9qX0lIOFhWb3hoTV9VN3RHMFRVVXFhUzR5bnV6X1FnWkdBS1B0UXdUcVdTeXJyMDhFUHEzSk02THA1VjJPaThqQ292T3hqMXducTRIZEdR?oc=5",
-        "description": "",
-        "pubDate": "2026-01-13T17:06:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Trump will visit a Ford factory and promote manufacturing in Detroit - AP News",
@@ -660,27 +687,18 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Michael Carrick signs deal with Man United to be interim head coach",
-        "link": "https://www.aljazeera.com/sports/2026/1/13/michael-carrick-signs-deal-with-man-united-to-be-interim-head-coach?traffic_source=rss",
-        "description": "Former United player Michael Carrick will take charge of the famous English football club after agreeing to terms.",
-        "pubDate": "2026-01-13T14:06:07Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Bangladesh won’t play T20 World Cup matches in India, BCB reaffirms",
-        "link": "https://www.aljazeera.com/sports/2026/1/13/bangladesh-wont-play-t20-world-cup-matches-in-india-bcb-reaffirms?traffic_source=rss",
-        "description": "Bangladesh reiterates its request to the ICC to relocate its fixtures, citing player safety and security concerns.",
-        "pubDate": "2026-01-13T14:02:01Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
+      {
+        "title": "Income tax changes unveiled in Scottish Budget",
+        "link": "https://www.bbc.com/news/articles/ckgnryke8r0o?at_medium=RSS&at_campaign=rss",
+        "description": "Finance Secretary Shona Robison unveils the government's tax and spending plans for the coming financial year.",
+        "pubDate": "2026-01-13T18:06:33Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fd3/live/902c39e0-f09b-11f0-a422-4ba8a094a8fa.jpg",
+        "bias": 0
+      },
       {
         "title": "Starting gun fired on crucial election as Wales' parliament returns",
         "link": "https://www.bbc.com/news/articles/cew80xepjypo?at_medium=RSS&at_campaign=rss",
@@ -799,18 +817,18 @@
         "bias": 0
       },
       {
-        "title": "Trump administration to shutter an immigration court, adding to judges' backlog",
-        "link": "https://www.npr.org/2026/01/13/g-s1-105679/san-francisco-immigration-court-closure",
-        "description": "The planned closure of the San Francisco Immigration Court comes as immigration judges spent the last year facing pressure to move through their caseloads faster and streamline deportations.",
+        "title": "Trump heads to Detroit to give a speech refocusing on the American economy",
+        "link": "https://www.npr.org/2026/01/13/nx-s1-5675293/trump-heads-to-detroit-to-give-a-speech-refocusing-on-the-american-economy",
+        "description": "The speech at the Detroit Economic Club comes after major foreign policy moves have overshadowed domestic policy.",
         "pubDate": "2026-01-13T10:00:00Z",
         "source": "npr.org",
         "image": "",
         "bias": -1
       },
       {
-        "title": "Trump heads to Detroit to give a speech refocusing on the American economy",
-        "link": "https://www.npr.org/2026/01/13/nx-s1-5675293/trump-heads-to-detroit-to-give-a-speech-refocusing-on-the-american-economy",
-        "description": "The speech at the Detroit Economic Club comes after major foreign policy moves have overshadowed domestic policy.",
+        "title": "Trump administration to shutter an immigration court, adding to judges' backlog",
+        "link": "https://www.npr.org/2026/01/13/g-s1-105679/san-francisco-immigration-court-closure",
+        "description": "The planned closure of the San Francisco Immigration Court comes as immigration judges spent the last year facing pressure to move through their caseloads faster and streamline deportations.",
         "pubDate": "2026-01-13T10:00:00Z",
         "source": "npr.org",
         "image": "",
@@ -879,6 +897,15 @@
         "pubDate": "2026-01-13T17:35:04Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/026d/live/659b7030-f09e-11f0-8122-3db3b1d47cf5.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Ancient Rome meets modern technology as tourists visit restored, frescoed home via livestream tours - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNy1yVFV4ZXVkM0xUYkdwcnprTU9abFJCQ0lqSzJFV1c4WUhod0xKa1BWaXQ5TnY0WFBSZWd3YWt0cG8xemJsUFdsdDdNZ3paSWZ5d3QxY0F3bi1BQnZIdzZhNVIxSnlvNHd4M19ZRVBVUzFjeFlXVHB0MGNrMlFUbkFHcEk1WWdUVHRsNUllNTRwZHB5alBEU0lTVEs1X2FULXFrV3FvVXJJVjVJSlRaUDlIQQ?oc=5",
+        "description": "",
+        "pubDate": "2026-01-13T15:59:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
