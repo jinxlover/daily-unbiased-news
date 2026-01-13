@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2026-01-13T23:25:38.750114Z",
+  "lastUpdate": "2026-01-13T23:40:38.266882Z",
   "news": {
     "Gaming": [
+      {
+        "title": "kitchen [Free] [Simulation] [Windows]",
+        "link": "https://impairnewt.itch.io/kitchen",
+        "description": "horror",
+        "pubDate": "2026-01-13T23:33:01Z",
+        "source": "impairnewt.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MDA1NDQ3LnBuZw==/315x250%23c/QU1w3I.png",
+        "bias": 0
+      },
       {
         "title": "SparkLab_AI3D [Free]",
         "link": "https://pedroua.itch.io/sparklabai3d",
@@ -192,15 +201,6 @@
         "bias": 0
       },
       {
-        "title": "Buried Alive [Free] [Platformer]",
-        "link": "https://morganltk.itch.io/buried-alive",
-        "description": "The abandoned facility is on the verge of collapse. Rising gears will crush you—move fast or be Buried Alive.",
-        "pubDate": "2026-01-13T20:55:04Z",
-        "source": "morganltk.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MDAzNjA3LnBuZw==/315x250%23c/RJ4TS4.png",
-        "bias": 0
-      },
-      {
         "title": "Naughty Circus SFW DEMO [Free] [Rhythm] [Windows] [Android]",
         "link": "https://multisekai.itch.io/naughty-circus-demo",
         "description": "Rhythm game demo",
@@ -235,9 +235,27 @@
         "source": "ml-99.itch.io",
         "image": "https://img.itch.zone/aW1nLzI0OTk5NDM1LnBuZw==/315x250%23c/a75kW8.png",
         "bias": 0
+      },
+      {
+        "title": "Space Shoot(Remake) [Free] [Shooter]",
+        "link": "https://zoeped.itch.io/space-shootremake",
+        "description": "",
+        "pubDate": "2026-01-13T11:12:24Z",
+        "source": "zoeped.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MDAwNjQyLnBuZw==/315x250%23c/GsH0C%2B.png",
+        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Live updates: Trump lashes out at Federal Reserve in speech to Detroit Economic Club - AP News",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xU0I5UVk0N2YxN29zZHlYdmNURlpXNHI5VkJ3QXFHMjFVeXNUTWpsdUJPXzd2QWMzZ0tKYkI2bTFDSkI4MWg2MHlIQllfNEUyY3FaUFZCd1hjY2EwUWpiUklFektVVzhhelpV?oc=5",
+        "description": "",
+        "pubDate": "2026-01-13T23:32:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "What’s at stake in Uganda’s presidential election?",
         "link": "https://www.aljazeera.com/video/inside-story/2026/1/13/whats-at-stake-in-ugandas-presidential-election?traffic_source=rss",
@@ -255,15 +273,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Live updates: Trump lashes out at Federal Reserve in speech to Detroit Economic Club - AP News",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xU0I5UVk0N2YxN29zZHlYdmNURlpXNHI5VkJ3QXFHMjFVeXNUTWpsdUJPXzd2QWMzZ0tKYkI2bTFDSkI4MWg2MHlIQllfNEUyY3FaUFZCd1hjY2EwUWpiUklFektVVzhhelpV?oc=5",
-        "description": "",
-        "pubDate": "2026-01-13T23:04:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "More than 2,000 people reported killed at Iran protests as Trump says 'help is on its way'",
@@ -419,6 +428,15 @@
         "bias": 0
       },
       {
+        "title": "Vikings receiver Jordan Addison faces misdemeanor trespassing charge after arrest in Florida - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYkxvN3JLVmFDVnc2NkdNd0pycXllb0lidkY1cmU5bU02RU5TbkVsNmN1M0RWZWhxZjQzTXNFTE9pQ1Q0LVVtYXE5VUQ0bFdaUWY4ZFFtclJsWUtVYXlkazY4cE5Ra3pjcXlJUUtmMjhjOWxBQV9HeHgxNVZQbVZZN2JudGR2MHNmclE?oc=5",
+        "description": "",
+        "pubDate": "2026-01-13T20:31:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Chloe Kim says she’s ‘good to go’ for Olympics despite labrum tear in shoulder - AP News",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcllCQVFFMTdfa0hJeUFiOHJ0b0ttXzFTaGVwMVp1UmdRZkN0WHd3Tm1UTnBuYmF6RHU2cEg4X0lHMnRJRTE3UU9HRl9CQTVxQ2VReWozbjhaU1lfYWNBbzRKd3dKMjlkVEpOYU1mdkdJN2N2MHRaZjJIbkFQbTNRa1pFa0JFdHpVZFBXNHlB?oc=5",
         "description": "",
@@ -522,15 +540,6 @@
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON0tLLTFXU1NiLVJuMGdtZVNvMWRUMU9VU3RSZ2xFcDB1dTZqRjNNeFRyc2lLcmZhUFFwTlQxblpMSTFMWThfNjZXN2h2U1ZEdXk5Q1dXemNlNFV1bndzTGxPODJzcEU3RjhYR3lMT1p3ZEtrTzlzWmgtYVQ2OW9kRTVMbkVVNThPd2JVUDhEVVdaYUh1M0JLRFJnbGxnWWRVZ1E?oc=5",
         "description": "",
         "pubDate": "2026-01-13T18:45:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Vikings receiver Jordan Addison faces misdemeanor trespassing charge after arrest in Florida - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYkxvN3JLVmFDVnc2NkdNd0pycXllb0lidkY1cmU5bU02RU5TbkVsNmN1M0RWZWhxZjQzTXNFTE9pQ1Q0LVVtYXE5VUQ0bFdaUWY4ZFFtclJsWUtVYXlkazY4cE5Ra3pjcXlJUUtmMjhjOWxBQV9HeHgxNVZQbVZZN2JudGR2MHNmclE?oc=5",
-        "description": "",
-        "pubDate": "2026-01-13T18:41:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -709,15 +718,6 @@
         "bias": 0
       },
       {
-        "title": "Hundreds more Venezuelans come forward to register relatives as ‘political prisoners’ - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUHlGY2xLNTJfeDJKUWpzTnFJbjZkY0k3NkJLaXJtZ21RX3p5ZGxjUEZZanFVeFhlSGZ1OHQ0dTMwTXhpV3IyM1BfV2pmdENSYmw4Mmgyc3Q0YzdwMHpQenZ5OElfajlkT1FwY1VLOFBYYmdqcWREWkZiQ3Rhd1N0V3RseWRkUTd2NmREQ3l4OU9yYXZDd1ozMGVSRGtzdG1yNGJKbWpKVnFteHpl?oc=5",
-        "description": "",
-        "pubDate": "2026-01-13T21:53:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "How Trump may act on Iran — and why",
         "link": "https://www.npr.org/2026/01/13/nx-s1-5675238/how-trump-may-act-on-iran-and-why",
         "description": "NPR's Rob Schmitz speaks to former National Security Adviser John Bolton about the protests in Iran.",
@@ -805,6 +805,15 @@
         "pubDate": "2026-01-13T15:58:14Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fce6/live/fa8949a0-f095-11f0-95e0-85a8cfcc8ed7.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Hundreds more Venezuelans come forward to register relatives as ‘political prisoners’ - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUHlGY2xLNTJfeDJKUWpzTnFJbjZkY0k3NkJLaXJtZ21RX3p5ZGxjUEZZanFVeFhlSGZ1OHQ0dTMwTXhpV3IyM1BfV2pmdENSYmw4Mmgyc3Q0YzdwMHpQenZ5OElfajlkT1FwY1VLOFBYYmdqcWREWkZiQ3Rhd1N0V3RseWRkUTd2NmREQ3l4OU9yYXZDd1ozMGVSRGtzdG1yNGJKbWpKVnFteHpl?oc=5",
+        "description": "",
+        "pubDate": "2026-01-13T15:48:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -907,6 +916,15 @@
         "bias": 0
       },
       {
+        "title": "Photos of tensions between federal officers and locals in Minneapolis - AP News",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcHprLXhKTHBtdk9ZVEUwc3RxSHlKaW5kRDgwV0NidV9qZ3FEV0FKU1ZZclZoaGRsb2tubE9SaFRaUWUyY21tLThpX0U5MWxlRW5WRER2UUFMMm9wRWpLNVZzVkktZzhjOXd6WEFyQnpjUUE1WExwWDBWbmVFWTBLUmNHYVV0YTJnQ1NGRkRFX2pscF96dGFNMWc4WHluUlFOcUo1QWUxWHFwcWRUQ2dIdjRYeTVnUHVXSG91UVlR?oc=5",
+        "description": "",
+        "pubDate": "2026-01-13T02:58:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Mayor Khan says certain politicians use \"London as a punchbag to fit their own political end games\" - AP News",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQkkxNVl0U28tVl9YTkJQUXV2VkRJQkFBTkVfZ0dRVG1vY004MjhOaUpJUEtkZzBvRksxWmJvUEVNNGFUYUVXMlVndnpvd0NiZmdXTm9Yc0pxRGVfY09WZHI2dGxRcFhISlF6QVowTTBJX203STFUaUVkZE9PUkwyQ2U2OURxYjFrWGdmUFFoaG1GUmI2S3ptSXRjMHhnV0lhbnZ3NWJWVkxaN09qZE5LYTFTeEEyalZ6dlEwYUFKQnBRTUtrRXJwSmdUU2ZqZTRvZnNxMkRoV2pPVTRCd0xLeS1tbHFGdU5xOVBv?oc=5",
         "description": "",
@@ -916,8 +934,8 @@
         "bias": 0
       },
       {
-        "title": "How NATO works at a time when Trump is threatening to seize Greenland - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSTRESFVzZkR2UkNQc1FWc0toa1BwQXczN2VKZ2VKYVplVlFmekFqeHc0endPbUcwbEV3aEhMNUlVX3ZMSW1JV2Y5bUVzWmdaOWMtUFdhdmlxZE9GU1BLM0twVTZrU0tzWldja1pWRnRvUVNRelJrWWJGX3RxYlpnSzFucmgtVFN6T2lObGZuRzNiOTc0UDNMRXVscWNiUEFhR2pB?oc=5",
+        "title": "Brooks Koepka returns to PGA Tour under stiff financial penalty just 5 weeks after leaving LIV Golf - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMUhIdEhrM1kwUURSdXlQcHBXU1ZNUkRKTFl6cFBfWlYwbVp6Y01HUkRibDhFbUwydi1VUWYzQVZzTHRNeGtHVFlERkNUejh2YlJFQmN0N3NTUEM5ZXJGQXU1a3NwQVlkT1ByRzcxMVVoOVNuakZnVVQ1LWlfYUV3UTVGTDg5RW9BSnpuMlBJUjl2NE9HY3E5dU0wZ1k3TUE?oc=5",
         "description": "",
         "pubDate": "2026-01-13T01:05:00Z",
         "source": "news.google.com",
