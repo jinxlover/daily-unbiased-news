@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-13T22:47:03.364138Z",
+  "lastUpdate": "2026-01-13T22:57:51.214074Z",
   "news": {
     "Gaming": [
       {
@@ -201,15 +201,6 @@
         "bias": 0
       },
       {
-        "title": "Cotton Distributor [Free] [Strategy] [Windows] [Linux]",
-        "link": "https://pepsiparty.itch.io/cottondistributor",
-        "description": "Whip them into shape. Keep the trucks moving. Protect the fence.",
-        "pubDate": "2026-01-13T20:10:19Z",
-        "source": "pepsiparty.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MDAzNDA3LmpwZw==/315x250%23c/DmDiTk.jpg",
-        "bias": 0
-      },
-      {
         "title": "Naughty Circus SFW DEMO [Free] [Rhythm] [Windows] [Android]",
         "link": "https://multisekai.itch.io/naughty-circus-demo",
         "description": "Rhythm game demo",
@@ -235,14 +226,32 @@
         "source": "salmemthewitchcat.itch.io",
         "image": "https://img.itch.zone/aW1nLzI1MDAxNTA0LnBuZw==/315x250%23c/X5akSI.png",
         "bias": 0
+      },
+      {
+        "title": "Dungeon-Knight [Free] [Adventure]",
+        "link": "https://ml-99.itch.io/dungeon-knight",
+        "description": "Platform-Games",
+        "pubDate": "2026-01-13T14:16:08Z",
+        "source": "ml-99.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI0OTk5NDM1LnBuZw==/315x250%23c/a75kW8.png",
+        "bias": 0
       }
     ],
     "World": [
       {
+        "title": "Live updates: Trump lashes out at Federal Reserve in speech to Detroit Economic Club - AP News",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xU0I5UVk0N2YxN29zZHlYdmNURlpXNHI5VkJ3QXFHMjFVeXNUTWpsdUJPXzd2QWMzZ0tKYkI2bTFDSkI4MWg2MHlIQllfNEUyY3FaUFZCd1hjY2EwUWpiUklFektVVzhhelpV?oc=5",
+        "description": "",
+        "pubDate": "2026-01-13T22:55:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "More than 2,000 people reported killed at Iran protests as Trump says 'help is on its way'",
         "link": "https://www.bbc.com/news/articles/cr57vmznmd9o?at_medium=RSS&at_campaign=rss",
         "description": "A US-based rights group says it has confirmed the killing of 1,850 protesters during a crackdown by authorities, as the US president urges Iranians to keep demonstrating.",
-        "pubDate": "2026-01-13T22:36:33Z",
+        "pubDate": "2026-01-13T22:50:49Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/134a/live/e02cf810-f0ac-11f0-b546-d96774f73259.jpg",
         "bias": 0
@@ -261,15 +270,6 @@
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQjIyajhCQTllUzJNcFQ0ZmN4dHlWUWlJbWh1Qjd3dndSbllOOWUzdHVsNFZGMnNpVkZOTVI1UncyQWdrcVo4YnZtWjg2QnIxVExhdU5CYWxCM1Q4RlVJaUdYOTJZTm1iRU1iM3dLU2dXbksyNzNCY1I0MzJ3RmZVQ09NTV81SVFmaEpLcFZ0U05Kd2FCVmxzQzVLRUNrdjRPamZpb2xMOU4wazlBdVdz?oc=5",
         "description": "",
         "pubDate": "2026-01-13T22:25:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Live updates: Trump lashes out at Federal Reserve in speech to Detroit Economic Club - AP News",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xU0I5UVk0N2YxN29zZHlYdmNURlpXNHI5VkJ3QXFHMjFVeXNUTWpsdUJPXzd2QWMzZ0tKYkI2bTFDSkI4MWg2MHlIQllfNEUyY3FaUFZCd1hjY2EwUWpiUklFektVVzhhelpV?oc=5",
-        "description": "",
-        "pubDate": "2026-01-13T22:19:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -356,10 +356,19 @@
         "bias": 0
       },
       {
-        "title": "UCLA alumnus leaves $17.3 million to football and men’s basketball - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYnhpWTF2SExlWGc0Vlc2SXEzYWhzNWhZZXEtSmF2NFhCM19qenduZTZsTDJxQVMxaFlkYWwzN29jdGhIZDhHN1h3MDBhWlVfdzAyczEwbVEtVGJoTFRmeUxmVllYeWRiOFBsZVhuRkJ0ZFQ5cXFDUlZmeFRORWdpT3ZZNUdtMUctM1I0?oc=5",
+        "title": "Georgia lawmakers move to strike Savannah ban on guns in unlocked cars - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTXNhWkxNVF9lYmctTVlxMmFLa25HZ0VZaXhOcXVpS0YwTDFXVXhOWUZBemZGM09FeHZianFlWTRHb0N1UlZWWmFkbTJiVkl3bWdaeE5LZEI4bXJRS1kxeFczdGZEQnYwYy13SldSYlJuam1PVkU5SnpPRzY1eGVQM09zcW1jdw?oc=5",
         "description": "",
-        "pubDate": "2026-01-13T20:52:00Z",
+        "pubDate": "2026-01-13T21:11:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Chloe Kim says she’s ‘good to go’ for Olympics despite labrum tear in shoulder - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcllCQVFFMTdfa0hJeUFiOHJ0b0ttXzFTaGVwMVp1UmdRZkN0WHd3Tm1UTnBuYmF6RHU2cEg4X0lHMnRJRTE3UU9HRl9CQTVxQ2VReWozbjhaU1lfYWNBbzRKd3dKMjlkVEpOYU1mdkdJN2N2MHRaZjJIbkFQbTNRa1pFa0JFdHpVZFBXNHlB?oc=5",
+        "description": "",
+        "pubDate": "2026-01-13T20:28:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -599,6 +608,15 @@
         "bias": -1
       },
       {
+        "title": "Syrian army and Kurdish forces exchange strikes in an area near Aleppo - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeEN3NUVScUtuOWNJMjZoSGpyZW53U05GaTdzdlQ4WmdxWHNGN2JVUkVvUEVyNWVUYWo3c2dxSEtiem0zQ0J0TDg5ZGhWajBrVDQ5OHNoekFZcHZqUXIxeG9uTzJrSjItTDR5VGtobGNmcEpQYjBHcEVGWnYtWnktQmZKZTdEZW1kTEZ3cU14b1FqZXhZQmtTMzlndlp5djRJNzl5cEV3dw?oc=5",
+        "description": "",
+        "pubDate": "2026-01-13T17:12:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Man accused of recklessly driving U-Haul into Iran protest in Los Angeles, police say - AP News",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV0lUZW1CMkxIMlQxU3hSTHFuTlJOaGlkVUNfOGRjVGdybXRicjBOTEhqUHRPV1ZFWFA0dngyN1RGWk5YcTN5Rl9HZEwzNnlndXpWLXZ3ZGh1WUdPTDE2UDZ2MjNkc2lsRnNZUU43ZGdkdXpUZnIweWx6VWZ6dEtmRWZUR3VsazhsSi1UNHRrUnFRT2NERzNqdkx5NWg?oc=5",
         "description": "",
@@ -669,24 +687,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Somali minister explains why UAE ‘smuggling’ of fugitive was ‘last straw’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/13/somali-minister-explains-why-uae-smuggling-of-fugitive-was-last?traffic_source=rss",
-        "description": "Somali government minister Ali Omar says the UAE improperly used Somali airspace to smuggle a Yemeni separatist leader.",
-        "pubDate": "2026-01-13T15:39:39Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "BTS stand to make $1bn as they announce mammoth comeback tour",
-        "link": "https://www.bbc.com/news/articles/c79rqzv1e7ro?at_medium=RSS&at_campaign=rss",
-        "description": "It's the K-pop band's first tour since completing compulsory military service in South Korea.",
-        "pubDate": "2026-01-13T15:34:32Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dec/live/89faefd0-f096-11f0-95e0-85a8cfcc8ed7.jpg",
-        "bias": 0
       }
     ],
     "Politics": [
@@ -790,7 +790,7 @@
         "bias": 0
       },
       {
-        "title": "Hundreds more Venezuelans come forward to register relatives as ‘political prisoners’ - AP News",
+        "title": "Hundreds in Venezuela come forward to say their loved ones are ‘political prisoners’ - AP News",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUHlGY2xLNTJfeDJKUWpzTnFJbjZkY0k3NkJLaXJtZ21RX3p5ZGxjUEZZanFVeFhlSGZ1OHQ0dTMwTXhpV3IyM1BfV2pmdENSYmw4Mmgyc3Q0YzdwMHpQenZ5OElfajlkT1FwY1VLOFBYYmdqcWREWkZiQ3Rhd1N0V3RseWRkUTd2NmREQ3l4OU9yYXZDd1ozMGVSRGtzdG1yNGJKbWpKVnFteHpl?oc=5",
         "description": "",
         "pubDate": "2026-01-13T15:48:00Z",
@@ -907,15 +907,6 @@
         "bias": 0
       },
       {
-        "title": "PBS weekend newscasts shut down due to funding cuts, replaced by single-topic programs - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRTJuVDBZbklBNzJCejl0OFZxRkRzSDhJQVp3ZF93SjhxLTdsQnJmcHlRNmNaM3BHUnlaM09xd2VrTXIycTVJNVMyd2o5WjhkcUJ1THdoNjJLNzY0UFl6ZlNlXzY2dlpkXzZlZlZYcGlrTWhZcE9mV3RVNHFxN2NSNHE4YnBsMzlZc2oyTnB4LUY?oc=5",
-        "description": "",
-        "pubDate": "2026-01-13T01:42:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Mayor Khan says certain politicians use \"London as a punchbag to fit their own political end games\" - AP News",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQkkxNVl0U28tVl9YTkJQUXV2VkRJQkFBTkVfZ0dRVG1vY004MjhOaUpJUEtkZzBvRksxWmJvUEVNNGFUYUVXMlVndnpvd0NiZmdXTm9Yc0pxRGVfY09WZHI2dGxRcFhISlF6QVowTTBJX203STFUaUVkZE9PUkwyQ2U2OURxYjFrWGdmUFFoaG1GUmI2S3ptSXRjMHhnV0lhbnZ3NWJWVkxaN09qZE5LYTFTeEEyalZ6dlEwYUFKQnBRTUtrRXJwSmdUU2ZqZTRvZnNxMkRoV2pPVTRCd0xLeS1tbHFGdU5xOVBv?oc=5",
         "description": "",
@@ -952,6 +943,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Trump administration labels 3 Muslim Brotherhood branches as terrorist organizations - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQVlKdkl0OHRKRC1mTFJnanYtaHhieGpxYVlGZU5qNDRfalNhbWVSQ0d6dDVLaUNUTzk5WjhaZUxSSnhlTDQzdy1MVUEzTFBUV0JzUDItcHByMXVPZk9zZHhtS3FwTzhYTWFzMHVFZExMalVUUF92Z092VlpjWGQtcndLX2xMWFpNdTdvQW04QVpNdzNhcDUyNU9BUDVsZHRaeVBwRnh5RGMzMkYyY1pYYUEtc25pcUw0N0E?oc=5",
+        "description": "",
+        "pubDate": "2026-01-13T20:03:45Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Monzo bank says issue affecting its mobile app resolved",
