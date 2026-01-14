@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2026-01-14T10:26:58.705717Z",
+  "lastUpdate": "2026-01-14T10:52:38.250231Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Blockfall [Free] [Other]",
+        "link": "https://luca-t.itch.io/blockfall",
+        "description": "",
+        "pubDate": "2026-01-14T10:40:54Z",
+        "source": "luca-t.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MDEwNjUxLnBuZw==/315x250%23c/pw911o.png",
+        "bias": 0
+      },
       {
         "title": "Parkobby [Free] [Adventure]",
         "link": "https://umn.itch.io/parkobby",
@@ -21,7 +30,7 @@
         "bias": 0
       },
       {
-        "title": "One Night with Diddy [Free] [Survival]",
+        "title": "One Night with Diddy [Free] [Survival] [Windows] [Android]",
         "link": "https://charliekirkless.itch.io/one-night-with-diddy",
         "description": "Survive a night with Charlie Kirk!",
         "pubDate": "2026-01-14T10:12:26Z",
@@ -41,7 +50,7 @@
       {
         "title": "Mythic Trials 2 [$1.50] [Action] [Windows]",
         "link": "https://hypnohs.itch.io/mythic-trials-2",
-        "description": "Online action Roguelite (Diablo-like) with Solo, Co-op and PvP",
+        "description": "Online action Roguelite (Diablo-like) Solo, Co-op & PvP",
         "pubDate": "2026-01-14T09:53:02Z",
         "source": "hypnohs.itch.io",
         "image": "https://img.itch.zone/aW1nLzI1MDEwMTc4LnBuZw==/315x250%23c/pwjFDj.png",
@@ -237,20 +246,38 @@
         "bias": 0
       },
       {
-        "title": "Fantasy Machine: An Game Poetry Collection [Free] [Other]",
+        "title": "Fantasy Machine 幻想机 [Free] [Other]",
         "link": "https://gamepoetry.itch.io/fantasy-machine",
-        "description": "An Interactive Game-style Sci-Fi Poetry Collection (by Cao Seng)",
+        "description": "A Chinese Game Poetry Collection",
         "pubDate": "2026-01-14T05:34:15Z",
         "source": "gamepoetry.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MDEwMDc0LnBuZw==/315x250%23c/4NOjTU.png",
+        "image": "https://img.itch.zone/aW1nLzI1MDEwNDk4LnBuZw==/315x250%23c/0tddLF.png",
         "bias": 0
       }
     ],
     "World": [
       {
+        "title": "Greenlanders brace for summit that could shape the Arctic's future - and their own",
+        "link": "https://www.bbc.com/news/articles/cpqyn58v0dxo?at_medium=RSS&at_campaign=rss",
+        "description": "US Vice President JD Vance will host Danish and Greenlandic foreign ministers for talks on Wednesday.",
+        "pubDate": "2026-01-14T10:42:20Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebd3/live/1ffd51a0-f0fe-11f0-b385-5f48925de19a.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Iran’s judiciary to speed up trials of accused in protests crackdown",
+        "link": "https://www.aljazeera.com/news/2026/1/14/irans-judiciary-to-speed-up-trials-of-accused-in-protests-crackdown?traffic_source=rss",
+        "description": "Prosecutors say they are bringing capital charges of 'waging war against God' against 'rioters and saboteurs'.",
+        "pubDate": "2026-01-14T10:40:06Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "The death toll from a crackdown on protests in Iran jumps to over 2,500, activists say",
         "link": "https://www.npr.org/2026/01/14/g-s1-105949/death-toll-crackdown-protests-iran",
-        "description": "The death toll from nationwide protests in Iran has surpassed 2,500, activists said, as Iranians made phone calls abroad for the first time in days Tuesday.",
+        "description": "The number of dead climbed to at least 2,571 early Wednesday, as reported by the U.S.-based Human Rights Activists News Agency, as Iranians made phone calls abroad for the first time in days.",
         "pubDate": "2026-01-14T10:12:32Z",
         "source": "npr.org",
         "image": "",
@@ -300,6 +327,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Ugandan opposition leader campaigns in flak jacket - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdnBtZGYybHlfSEg3bm1CcnFYdW5CRWxybW9VNFBCX3JUNXBCc0dmWjdrU1pBWnd6RXFOQ1hUUmUtbUVDWlI5UXo3bEIxc3pwcHdJWDNNNUlPc2szZlVaUjVwd0Q0YjdyWmJIZkhTSTUxN0ZRYjhFMHR2VzRSZDM3dV9JSkFKV3c5NnFneW00cw?oc=5",
+        "description": "",
+        "pubDate": "2026-01-14T09:12:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "China’s trade surplus surges 20% to a record $1.2 trillion, even with Trump’s tariffs - AP News",
@@ -376,7 +412,7 @@
       {
         "title": "A construction crane falls onto a moving train in Thailand, killing at least 29 people",
         "link": "https://www.npr.org/2026/01/14/g-s1-105943/construction-crane-falls-onto-moving-train-thailand",
-        "description": "A construction crane fell onto a moving passenger train, causing a fiery derailment that killed at least 29 people Wednesday in northeastern Thailand. Another 64 people were injured.",
+        "description": "The derailment, in northeastern Thailand, occurred on part of an ambitious planned high-speed rail project that will eventually connect China with much of Southeast Asia.",
         "pubDate": "2026-01-14T07:57:35Z",
         "source": "npr.org",
         "image": "",
@@ -426,6 +462,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "China announces record $1tn trade surplus despite Trump tariffs",
+        "link": "https://www.bbc.com/news/articles/c9wx1v84rzyo?at_medium=RSS&at_campaign=rss",
+        "description": "Beijing reported the largest-ever trade surplus at $1.19tn as China diversified its trade.",
+        "pubDate": "2026-01-14T07:30:30Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc52/live/94718a70-f0f8-11f0-927f-eb9fce47ee0c.jpg",
+        "bias": 0
       },
       {
         "title": "Conditions in Gaza worsen as winds and hypothermia kill 5",
@@ -502,15 +547,6 @@
       {
         "title": "Japanese and South Korean leaders jam to K-pop hits at a summit - AP News",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWTZ5OFhIQ19QTFVJbmEyQy15ZVBFUkV1WWFlNjNaMmlrSzBGUWtUT1RtNzdia095TjZIdnZjWlBvWHh3UDB1dy1TNEpTUWtRbVlmX2tkak5vV0NyQ2dXM0ZGWGFPZzc4YWc0dkNjVnpHTERCOUNBNk1NMVcyYVRUYjR2UFZZN1M2aWdCV3BWYmJFRTJYWWYxbExWUjRDWjgy?oc=5",
-        "description": "",
-        "pubDate": "2026-01-14T06:45:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Ugandan opposition leader campaigns in flak jacket - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdnBtZGYybHlfSEg3bm1CcnFYdW5CRWxybW9VNFBCX3JUNXBCc0dmWjdrU1pBWnd6RXFOQ1hUUmUtbUVDWlI5UXo3bEIxc3pwcHdJWDNNNUlPc2szZlVaUjVwd0Q0YjdyWmJIZkhTSTUxN0ZRYjhFMHR2VzRSZDM3dV9JSkFKV3c5NnFneW00cw?oc=5",
         "description": "",
         "pubDate": "2026-01-14T06:45:00Z",
         "source": "news.google.com",
@@ -599,16 +635,7 @@
         "bias": 0
       },
       {
-        "title": "Greenlanders brace for summit that could shape the Arctic's future - and their own",
-        "link": "https://www.bbc.com/news/articles/cpqyn58v0dxo?at_medium=RSS&at_campaign=rss",
-        "description": "US Vice President JD Vance will host Danish and Greenlandic foreign ministers for talks on Wednesday.",
-        "pubDate": "2026-01-14T05:11:22Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebd3/live/1ffd51a0-f0fe-11f0-b385-5f48925de19a.jpg",
-        "bias": 0
-      },
-      {
-        "title": "At least 22 people killed when crane falls on train in northeast Thailand",
+        "title": "At least 22 people killed as crane falls on train in northeast Thailand",
         "link": "https://www.aljazeera.com/news/2026/1/14/at-least-22-people-killed-after-crane-falls-on-train-in-northeast-thailand?traffic_source=rss",
         "description": "The train, travelling from Bangkok to northeast Thailand, derails when a construction crane falls on it.",
         "pubDate": "2026-01-14T05:08:52Z",
@@ -653,6 +680,15 @@
         "bias": 0
       },
       {
+        "title": "Photos of tensions between federal officers and locals in Minneapolis - AP News",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcHprLXhKTHBtdk9ZVEUwc3RxSHlKaW5kRDgwV0NidV9qZ3FEV0FKU1ZZclZoaGRsb2tubE9SaFRaUWUyY21tLThpX0U5MWxlRW5WRER2UUFMMm9wRWpLNVZzVkktZzhjOXd6WEFyQnpjUUE1WExwWDBWbmVFWTBLUmNHYVV0YTJnQ1NGRkRFX2pscF96dGFNMWc4WHluUlFOcUo1QWUxWHFwcWRUQ2dIdjRYeTVnUHVXSG91UVlR?oc=5",
+        "description": "",
+        "pubDate": "2026-01-14T03:50:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Global temperatures dipped in 2025 but more heat records on way, scientists warn",
         "link": "https://www.bbc.com/news/articles/c5y5p9rzd4ko?at_medium=RSS&at_campaign=rss",
         "description": "The last three years were Earth's hottest on record, as humanity's carbon emissions continue to heat the planet.",
@@ -669,33 +705,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "People rally around the world in support of protests in Iran, in photos - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNjVKa0tVSU00VXpBTWVCZUFzSVhYVG9VbGRCYlZpd3kycTJoUTliTnN3aTJzalR0NXdZUFJtdGlCX2tWZ19IMkhVQjA4bUFJa0t5OVZKT01leEloOEhaRWFrai1ERTQ4Q2xSTU9NSUNmY0VkSU45ZlpLVG82TTJYczY2LUFtTTJYV0p3SkQ1TQ?oc=5",
-        "description": "",
-        "pubDate": "2026-01-14T03:26:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "The death toll from a crackdown on protests in Iran jumps to at least 2,571, activists say - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc1VtVTRqdHcxUTdBRG1pR2NTSEhCOExELW4xellfRkdYMngwNzc5ejJtejJqMEdnQmp4U0lXTG9qTV9BV2U5SHYwLVNLemdvUzM2Sk1xU2hpQ1JubTMyTElEMTNxSHZib0ZBcFdIVDRFUVowQldjZlRvYm9xN0ZELU1YZXpCQ0JFcXlHM1FveS02a21uUW9KMU9xc3liSGZaUjViOGlB?oc=5",
-        "description": "",
-        "pubDate": "2026-01-14T03:16:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Trump lashes out at Federal Reserve in speech to Detroit Economic Club - AP News",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xU0I5UVk0N2YxN29zZHlYdmNURlpXNHI5VkJ3QXFHMjFVeXNUTWpsdUJPXzd2QWMzZ0tKYkI2bTFDSkI4MWg2MHlIQllfNEUyY3FaUFZCd1hjY2EwUWpiUklFektVVzhhelpV?oc=5",
-        "description": "",
-        "pubDate": "2026-01-14T03:08:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
@@ -736,21 +745,21 @@
         "bias": 0
       },
       {
+        "title": "Hundreds more in Venezuela say their loved ones are ‘political prisoners’ - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUHlGY2xLNTJfeDJKUWpzTnFJbjZkY0k3NkJLaXJtZ21RX3p5ZGxjUEZZanFVeFhlSGZ1OHQ0dTMwTXhpV3IyM1BfV2pmdENSYmw4Mmgyc3Q0YzdwMHpQenZ5OElfajlkT1FwY1VLOFBYYmdqcWREWkZiQ3Rhd1N0V3RseWRkUTd2NmREQ3l4OU9yYXZDd1ozMGVSRGtzdG1yNGJKbWpKVnFteHpl?oc=5",
+        "description": "",
+        "pubDate": "2026-01-14T07:38:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Police called as councillors vote to shelve elections",
         "link": "https://www.bbc.com/news/articles/c701xwe75v0o?at_medium=RSS&at_campaign=rss",
         "description": "Redditch Borough Council votes in favour of delaying May elections.",
         "pubDate": "2026-01-14T06:28:00Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97f2/live/413a8270-f0d1-11f0-af99-ef1c3e57a223.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Hundreds more in Venezuela say their loved ones are political prisoners - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUHlGY2xLNTJfeDJKUWpzTnFJbjZkY0k3NkJLaXJtZ21RX3p5ZGxjUEZZanFVeFhlSGZ1OHQ0dTMwTXhpV3IyM1BfV2pmdENSYmw4Mmgyc3Q0YzdwMHpQenZ5OElfajlkT1FwY1VLOFBYYmdqcWREWkZiQ3Rhd1N0V3RseWRkUTd2NmREQ3l4OU9yYXZDd1ozMGVSRGtzdG1yNGJKbWpKVnFteHpl?oc=5",
-        "description": "",
-        "pubDate": "2026-01-14T03:20:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -823,15 +832,6 @@
     ],
     "Business": [
       {
-        "title": "China announces record $1tn trade surplus despite Trump tariffs",
-        "link": "https://www.bbc.com/news/articles/c9wx1v84rzyo?at_medium=RSS&at_campaign=rss",
-        "description": "Beijing reported the largest-ever trade surplus at $1.19tn as China diversified its trade.",
-        "pubDate": "2026-01-14T07:30:30Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc52/live/94718a70-f0f8-11f0-927f-eb9fce47ee0c.jpg",
-        "bias": 0
-      },
-      {
         "title": "Saks files for bankruptcy. What went wrong at the luxury retailer?",
         "link": "https://www.bbc.com/news/articles/czdq1z73pv9o?at_medium=RSS&at_campaign=rss",
         "description": "Saks Global, which owns Saks Fifth Avenue and Neiman Marcus, files for Chapter 11 bankruptcy protection, leaving questions about the luxury retailer's future.",
@@ -866,7 +866,7 @@
         "description": "We underestimate how often we bend the truth, but doing so can leave us isolated and anxious.",
         "pubDate": "2026-01-14T00:36:32Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac15/live/bb000560-f0ab-11f0-b546-d96774f73259.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d5a/live/9159a4d0-f134-11f0-b385-5f48925de19a.jpg",
         "bias": 0
       }
     ]
