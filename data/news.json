@@ -1,7 +1,25 @@
 {
-  "lastUpdate": "2026-01-15T07:50:29.413995Z",
+  "lastUpdate": "2026-01-15T08:31:44.585339Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Circus02 [Free] [Windows] [macOS] [Linux] [Android]",
+        "link": "https://tinayuan.itch.io/circus02",
+        "description": "",
+        "pubDate": "2026-01-15T08:11:33Z",
+        "source": "tinayuan.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MDIzNTYyLnBuZw==/315x250%23c/21tsYL.png",
+        "bias": 0
+      },
+      {
+        "title": "Skypursuit [Free] [Action]",
+        "link": "https://kaldosai.itch.io/skypursuit",
+        "description": "An Arcade game like sample",
+        "pubDate": "2026-01-15T07:44:34Z",
+        "source": "kaldosai.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MDIzMzUyLnBuZw==/315x250%23c/usIAYN.png",
+        "bias": 0
+      },
       {
         "title": "Dungeon Crawler [Free] [Role Playing]",
         "link": "https://qeram.itch.io/dungeon-crawler",
@@ -9,6 +27,15 @@
         "pubDate": "2026-01-15T07:36:30Z",
         "source": "qeram.itch.io",
         "image": "https://img.itch.zone/aW1nLzI1MDIzMjc4LnBuZw==/315x250%23c/IEY5zO.png",
+        "bias": 0
+      },
+      {
+        "title": "PicoSorter [Free] [Action] [Windows] [macOS] [Linux]",
+        "link": "https://cinnabread.itch.io/minesorter-demake",
+        "description": "A PICO-8 demake of Sarn's MineSorter!",
+        "pubDate": "2026-01-15T07:31:14Z",
+        "source": "cinnabread.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MDIzMjE1LnBuZw==/315x250%23c/u8K1WF.png",
         "bias": 0
       },
       {
@@ -156,24 +183,6 @@
         "bias": 0
       },
       {
-        "title": "star doges floating block challenge [Free] [Windows] [Linux]",
-        "link": "https://squabblethebat.itch.io/star-doges-floating-block-challenge",
-        "description": "",
-        "pubDate": "2026-01-15T04:27:15Z",
-        "source": "squabblethebat.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MDIyMjIwLnBuZw==/315x250%23c/m6dhpM.png",
-        "bias": 0
-      },
-      {
-        "title": "BIT BY BIT [Free]",
-        "link": "https://tsa-video-game-2026.itch.io/bit-by-bit",
-        "description": "",
-        "pubDate": "2026-01-15T04:17:10Z",
-        "source": "tsa-video-game-2026.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MDIyMDc1LnBuZw==/315x250%23c/cXEqqi.png",
-        "bias": 0
-      },
-      {
         "title": "Another Pong Game [Free] [Simulation]",
         "link": "https://kyle-fuji.itch.io/another-pong-game",
         "description": "20 games challenge, Godot game 1",
@@ -181,18 +190,54 @@
         "source": "kyle-fuji.itch.io",
         "image": "https://img.itch.zone/aW1nLzI1MDIyMDgyLnBuZw==/315x250%23c/6N8UDI.png",
         "bias": 0
-      },
-      {
-        "title": "Shrunken Boxy [Free] [Platformer]",
-        "link": "https://couljosh.itch.io/shrunken-boxy",
-        "description": "Greybox level made in Unity using a platformer kit",
-        "pubDate": "2026-01-15T03:56:42Z",
-        "source": "couljosh.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MDIyMjA5LnBuZw==/315x250%23c/P9jMuk.png",
-        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Wary of Israeli appropriation, Palestine lists 14 sites with UNESCO",
+        "link": "https://www.aljazeera.com/features/2026/1/15/wary-of-israeli-appropriation-palestine-lists-14-sites-with-unesco?traffic_source=rss",
+        "description": "Palestinian Authority submits files for Gaza’s Old City and West Bank landmarks to UNESCO World Heritage list.",
+        "pubDate": "2026-01-15T08:03:51Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Morocco and Senegal celebrate advancing to the AFCON final showdown",
+        "link": "https://www.aljazeera.com/gallery/2026/1/15/morocco-and-senegal-celebrate-advancing-to-the-afcon-final-showdown?traffic_source=rss",
+        "description": "Senegal will now face host nation Morocco in the final, following Morocco's penalty shootout triumph over Nigeria.",
+        "pubDate": "2026-01-15T08:02:57Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Widespread delays hit Uganda election amid internet shutdown",
+        "link": "https://www.bbc.com/news/articles/cx2xn1yvgr4o?at_medium=RSS&at_campaign=rss",
+        "description": "The election is a rematch between Bobi Wine and Yoweri Museveni, who has been president for 40 years.",
+        "pubDate": "2026-01-15T07:50:52Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3027/live/577394d0-f1e6-11f0-b373-d7bde4e9f067.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Julio Iglesias accused of sexual assault as Spanish prosecutors study the allegations",
+        "link": "https://www.npr.org/2026/01/15/g-s1-106108/julio-iglesias-accused-sexual-assault",
+        "description": "Spanish prosecutors are studying allegations that Grammy-winning singer Julio Iglesias sexually assaulted two former employees at his residences in the Dominican Republic and the Bahamas.",
+        "pubDate": "2026-01-15T07:46:04Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Another crane collapses in Thailand, killing two, after 32 die previous day",
+        "link": "https://www.aljazeera.com/news/2026/1/15/another-crane-collapses-in-thailand-killing-two-after-32-die-previous-day?traffic_source=rss",
+        "description": "Thursday's incident outside Bangkok follows a crane collapse the day before that killed dozens in the northeast.",
+        "pubDate": "2026-01-15T07:44:11Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "X to stop Grok AI from undressing images of real people after backlash",
         "link": "https://www.bbc.com/news/articles/ce8gz8g2qnlo?at_medium=RSS&at_campaign=rss",
@@ -203,13 +248,40 @@
         "bias": 0
       },
       {
-        "title": "ICE agent shoots Minneapolis man in the leg",
+        "title": "Fans celebrate as AFCON hosts Morocco reach final",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/15/fans-celebrate-as-afcon-hosts-morocco-reach-final?traffic_source=rss",
+        "description": "Africa Cup of Nations hosts Morocco secured their place in the final with a 4–2 penalty shootout victory over Nigeria.",
+        "pubDate": "2026-01-15T07:33:02Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "ICE agent shoots Minneapolis man in leg after alleged attack, officials say",
         "link": "https://www.bbc.com/news/articles/c205677pxvxo?at_medium=RSS&at_campaign=rss",
         "description": "The City of Minneapolis confirmed a man was shot and taken to hospital for non-life threatening injuries.",
         "pubDate": "2026-01-15T07:30:47Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83c2/live/8b5f9fb0-f1e5-11f0-a422-4ba8a094a8fa.jpg",
         "bias": 0
+      },
+      {
+        "title": "Astronauts depart International Space Station after medical emergency",
+        "link": "https://www.aljazeera.com/news/2026/1/15/astronauts-depart-international-space-station-after-medical-emergency?traffic_source=rss",
+        "description": "Four astronauts end their mission early so that a crew member can receive medical treatment.",
+        "pubDate": "2026-01-15T07:30:33Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Gaza plan phase two: US to discuss Hamas disarmament, Israeli withdrawal",
+        "link": "https://www.aljazeera.com/news/2026/1/15/gaza-plan-phase-two-us-to-discuss-hamas-disarmament-israeli-withdrawal?traffic_source=rss",
+        "description": "The second phase of the ceasefire deal includes naming a panel of Palestinian technocrats to lead post-war Gaza.",
+        "pubDate": "2026-01-15T07:18:28Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Syrian army tells civilians to evacuate new front with SDF east of Aleppo",
@@ -284,15 +356,6 @@
         "bias": 0
       },
       {
-        "title": "Fear and anger spread after another immigration shooting in Minneapolis - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPblNFazZlVmEyZEJxWGpiTmFScXZIamotRW52TE9ZUnhfZ25waFFpNzVsT0oybDlacU9URnBHZ09jRFlTdXZUUVJVQ2JQRzFEbF92bDJhNThEaWJ3U1pJLW1LR0Y0SzFaUnltaWlFVDlha1BVdmNsek9TVlNsVmdtQkRiZ3VYaVZNSkplMHhkOEpyQnlCSW1yamhoaDJXS0x3eVB2TndfbVFTS0xkdjA5Q2tB?oc=5",
-        "description": "",
-        "pubDate": "2026-01-15T05:48:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "‘I hope they show humanity’: Greenlanders fear Trump’s desire for minerals",
         "link": "https://www.aljazeera.com/features/2026/1/15/i-hope-they-show-humanity-greenlanders-fear-trumps-desire-for-minerals?traffic_source=rss",
         "description": "US President Donald Trump says he wants to buy Greenland from Denmark and is not taking ‘no’ for an answer.",
@@ -311,7 +374,7 @@
         "bias": -1
       },
       {
-        "title": "Iran-US live: Tension lingers amid threats as Tehran reopens airspace",
+        "title": "Iran-US live: Tension lingers amid Trump’s threats, Tehran reopens airspace",
         "link": "https://www.aljazeera.com/news/liveblog/2026/1/15/iran-us-live-tension-lingers-amid-threats-as-tehran-reopens-airspace?traffic_source=rss",
         "description": "Tensions are rising in the region after the US began to withdraw some personnel from an airbase in Qatar.",
         "pubDate": "2026-01-15T05:43:11Z",
@@ -336,6 +399,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Trump set to meet Venezuelan opposition leader after cozying up to Maduro’s successor - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNlFNSHAteG0xbFA0TXU5TWZnSExiR0kyRGdTaDRiY2kteG9tel9OQUJPbUxFVjRHM0MzMWRkQ2RfYnRCZ3E3ckZSTlVieGZoQ1h2b1hQRDAxYUFyczNPdHJKRnFDNDZMdTVNZkZNQWpKd3FfcFVQbzNvSW9TSnlfUFVsTVkxd3U1U3BEMDFabzFmMVZEY2JPNmp1NmRkSVZ0T0R1MHo3VW1tM3N6?oc=5",
+        "description": "",
+        "pubDate": "2026-01-15T05:10:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Democrats propose state laws to limit ICE after Minneapolis shooting of Renee Good - AP News",
@@ -536,12 +608,12 @@
         "bias": -1
       },
       {
-        "title": "Activist in Costa Rica denies plotting to assassinate the president - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRkhyOTYxMUlpbDAxR0h3MkxjbFF4dThoeW8tWGpzU3R2NWJfNUVZN2lyVm5LU2J5MkZEZjVHdEU0UmFIMXlnazlNSzB2UUp3OFRfX0ZkbUgxSzA4WldTejVkWHlMSE1adGR4ME1kdVJQVkNOTUI2ZFczRnlTbmFZOG5IQ1ctbGhEeUljSnhUM2xWYjV2eGxlbjJ2X0tPT2VtdkRoRmNVT2hadzFvREtXNkF3?oc=5",
-        "description": "",
-        "pubDate": "2026-01-15T00:22:00Z",
-        "source": "news.google.com",
-        "image": "",
+        "title": "Why the UAE has incurred the wrath of Somalia",
+        "link": "https://www.bbc.com/news/articles/c99k4jxz0ndo?at_medium=RSS&at_campaign=rss",
+        "description": "The government in Mogadishu has accused the UAE of undermining its sovereignty.",
+        "pubDate": "2026-01-15T00:27:47Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1832/live/1bcb0510-f16b-11f0-b34c-412d8cd6a3dc.jpg",
         "bias": 0
       },
       {
@@ -568,13 +640,40 @@
         "title": "UK economy grew by 0.3% in November, beating forecasts",
         "link": "https://www.bbc.com/news/articles/c8d041pp85mo?at_medium=RSS&at_campaign=rss",
         "description": "The economy was boosted by a rebound in car production and from the services sector.",
-        "pubDate": "2026-01-15T07:48:44Z",
+        "pubDate": "2026-01-15T08:21:58Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72fb/live/37875cd0-f149-11f0-b108-71580feedafc.jpg",
         "bias": 0
       },
       {
-        "title": "Twenty two English councils ask for election delays",
+        "title": "Russia expels British diplomat over allegations of spying",
+        "link": "https://www.bbc.com/news/articles/c23rpn8k7glo?at_medium=RSS&at_campaign=rss",
+        "description": "The man has been stripped of his accreditation and must leave within two weeks, says Russia's foreign ministry.",
+        "pubDate": "2026-01-15T08:20:13Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/30250fc0-f1e7-11f0-a422-4ba8a094a8fa.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Minister open to mandatory CCTV in taxis to tackle grooming gangs",
+        "link": "https://www.bbc.com/news/articles/cvgr84yern2o?at_medium=RSS&at_campaign=rss",
+        "description": "It comes after a review into grooming gangs recommended the government act \"immediately\" on taxi licensing.",
+        "pubDate": "2026-01-15T08:05:08Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e90f/live/5be37540-f1ea-11f0-b373-d7bde4e9f067.jpg",
+        "bias": 0
+      },
+      {
+        "title": "New rules to make it easier to call up reservists for war",
+        "link": "https://www.bbc.com/news/articles/c4grjxl4w06o?at_medium=RSS&at_campaign=rss",
+        "description": "Reservists will remain on call for an extra decade, with a lower threshold for being called up.",
+        "pubDate": "2026-01-15T07:55:18Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e26/live/a319e240-f1e6-11f0-b373-d7bde4e9f067.png",
+        "bias": 0
+      },
+      {
+        "title": "Twenty-two English councils ask for election delays",
         "link": "https://www.bbc.com/news/articles/cd7z892jzdeo?at_medium=RSS&at_campaign=rss",
         "description": "A third of eligible authorities say they want to postpone local polls scheduled for May.",
         "pubDate": "2026-01-15T07:40:49Z",
@@ -583,10 +682,10 @@
         "bias": 0
       },
       {
-        "title": "Trump set to meet Venezuelan opposition leader after cozying up to Maduro’s successor - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNlFNSHAteG0xbFA0TXU5TWZnSExiR0kyRGdTaDRiY2kteG9tel9OQUJPbUxFVjRHM0MzMWRkQ2RfYnRCZ3E3ckZSTlVieGZoQ1h2b1hQRDAxYUFyczNPdHJKRnFDNDZMdTVNZkZNQWpKd3FfcFVQbzNvSW9TSnlfUFVsTVkxd3U1U3BEMDFabzFmMVZEY2JPNmp1NmRkSVZ0T0R1MHo3VW1tM3N6?oc=5",
+        "title": "Fear and anger spread after another immigration shooting in Minneapolis - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPblNFazZlVmEyZEJxWGpiTmFScXZIamotRW52TE9ZUnhfZ25waFFpNzVsT0oybDlacU9URnBHZ09jRFlTdXZUUVJVQ2JQRzFEbF92bDJhNThEaWJ3U1pJLW1LR0Y0SzFaUnltaWlFVDlha1BVdmNsek9TVlNsVmdtQkRiZ3VYaVZNSkplMHhkOEpyQnlCSW1yamhoaDJXS0x3eVB2TndfbVFTS0xkdjA5Q2tB?oc=5",
         "description": "",
-        "pubDate": "2026-01-15T05:10:00Z",
+        "pubDate": "2026-01-15T05:48:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -628,6 +727,15 @@
         "bias": 0
       },
       {
+        "title": "Activist in Costa Rica denies plotting to assassinate the president - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRkhyOTYxMUlpbDAxR0h3MkxjbFF4dThoeW8tWGpzU3R2NWJfNUVZN2lyVm5LU2J5MkZEZjVHdEU0UmFIMXlnazlNSzB2UUp3OFRfX0ZkbUgxSzA4WldTejVkWHlMSE1adGR4ME1kdVJQVkNOTUI2ZFczRnlTbmFZOG5IQ1ctbGhEeUljSnhUM2xWYjV2eGxlbjJ2X0tPT2VtdkRoRmNVT2hadzFvREtXNkF3?oc=5",
+        "description": "",
+        "pubDate": "2026-01-15T00:22:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "A part that broke on a UPS plane that crashed in Kentucky failed 4 times on other planes years ago - AP News",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR21TQXpvNVBOLVdja2RyeS1DbUVDZHdkSjRScHZTSDJ6OHdYbkZIRFQtVkVCaDBKUDM3cERZN2xIYnI2NDdfcnJOeXJYRzZUa1dPT0lPQ1pNc1NkVlZwQ2ZqcWdXbVhjdEpDbk10a3NlX19hZDZNVWxzSWxaWktET0p0cTd0YWk0REpEOGhvT0F2elN2Wk5nRHFUZlA?oc=5",
         "description": "",
@@ -650,6 +758,15 @@
       }
     ],
     "Business": [
+      {
+        "title": "Ofwat launches investigation into South East Water",
+        "link": "https://www.bbc.com/news/articles/cq6vm1rp2pjo?at_medium=RSS&at_campaign=rss",
+        "description": "South East Water says some customers in Kent and Sussex may not see supplies return until Friday.",
+        "pubDate": "2026-01-15T08:26:58Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d33b/live/09441000-f1dc-11f0-8993-11208a4a7a6b.jpg",
+        "bias": 0
+      },
       {
         "title": "FBI searches a Washington Post reporter's home as part of investigation",
         "link": "https://www.npr.org/2026/01/15/g-s1-106103/fbi-search-washington-post-reporter-home",
@@ -688,6 +805,15 @@
       }
     ],
     "Culture": [
+      {
+        "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+        "description": "",
+        "pubDate": "2026-01-15T07:52:55Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "The rise and fall of convicted TV actor John Alford",
         "link": "https://www.bbc.com/news/articles/c3v15wp9z3ro?at_medium=RSS&at_campaign=rss",
