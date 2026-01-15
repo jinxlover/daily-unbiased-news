@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2026-01-15T07:00:20.126607Z",
+  "lastUpdate": "2026-01-15T07:35:21.110439Z",
   "news": {
     "Gaming": [
+      {
+        "title": "单人间 Single Person Space [Free] [Adventure]",
+        "link": "https://nextpeter.itch.io/single-person-space",
+        "description": "​这是一个关于被困在房间里的人的故事。",
+        "pubDate": "2026-01-15T07:00:26Z",
+        "source": "nextpeter.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MDIzMTY1LnBuZw==/315x250%23c/1Euqek.png",
+        "bias": 0
+      },
       {
         "title": "Night Night Videos (Early Demo) [Free]",
         "link": "https://star-games-entertainment.itch.io/night-night-videos-early-demo",
@@ -9,6 +18,24 @@
         "pubDate": "2026-01-15T06:41:43Z",
         "source": "star-games-entertainment.itch.io",
         "image": "https://img.itch.zone/aW1nLzI1MDIzMDQxLnBuZw==/315x250%23c/dGGCtY.png",
+        "bias": 0
+      },
+      {
+        "title": "cowclicker [Free]",
+        "link": "https://acowsays.itch.io/cowclicker",
+        "description": "",
+        "pubDate": "2026-01-15T06:40:44Z",
+        "source": "acowsays.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MDIyOTU0LnBuZw==/315x250%23c/HQvL%2B%2F.png",
+        "bias": 0
+      },
+      {
+        "title": "Pix-Powered [Free] [Platformer] [Windows] [Linux]",
+        "link": "https://mystievous.itch.io/pix-powered",
+        "description": "Help the computer work, and protect it from viruses!",
+        "pubDate": "2026-01-15T06:32:40Z",
+        "source": "mystievous.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MDIzMDQ2LnBuZw==/315x250%23c/764s8m.png",
         "bias": 0
       },
       {
@@ -138,24 +165,6 @@
         "bias": 0
       },
       {
-        "title": "baldi ripoff mobile [Free] [Windows]",
-        "link": "https://jefersonleao2010.itch.io/baldi-ripoff-mobile",
-        "description": "mod for baldi but ripoff play for angry baldi",
-        "pubDate": "2026-01-15T04:09:37Z",
-        "source": "jefersonleao2010.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MDIyMTEyLnBuZw==/315x250%23c/EAvj8o.png",
-        "bias": 0
-      },
-      {
-        "title": "The Sacred Stone [Free]",
-        "link": "https://spokkirdev.itch.io/the-sacred-stone",
-        "description": "",
-        "pubDate": "2026-01-15T04:07:32Z",
-        "source": "spokkirdev.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MDIyMTAxLnBuZw==/315x250%23c/3FsTHl.png",
-        "bias": 0
-      },
-      {
         "title": "Another Pong Game [Free] [Simulation]",
         "link": "https://kyle-fuji.itch.io/another-pong-game",
         "description": "20 games challenge, Godot game 1",
@@ -190,18 +199,54 @@
         "source": "carlosfer911.itch.io",
         "image": "https://img.itch.zone/aW1nLzI1MDIyMDA0LnBuZw==/315x250%23c/6mnSTk.png",
         "bias": 0
-      },
-      {
-        "title": "Vermiculae [Free] [Other] [Windows]",
-        "link": "https://pitprincexx.itch.io/vermiculae",
-        "description": "A short alt1982 experience",
-        "pubDate": "2026-01-15T03:15:02Z",
-        "source": "pitprincexx.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MDIxNTYxLnBuZw==/315x250%23c/fU9i%2Fv.png",
-        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "ICE agent shoots Minneapolis man in the leg",
+        "link": "https://www.bbc.com/news/articles/c205677pxvxo?at_medium=RSS&at_campaign=rss",
+        "description": "The City of Minneapolis confirmed a man was shot and taken to hospital for non-life threatening injuries.",
+        "pubDate": "2026-01-15T07:30:47Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ae0/live/22015030-f1c8-11f0-a422-4ba8a094a8fa.jpg",
+        "bias": 0
+      },
+      {
+        "title": "X to stop Grok AI from undressing images of real people after backlash",
+        "link": "https://www.bbc.com/news/articles/ce8gz8g2qnlo?at_medium=RSS&at_campaign=rss",
+        "description": "Grok will no longer allow users to remove clothing from images of real people in jurisdictions where it is illegal.",
+        "pubDate": "2026-01-15T07:14:57Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e39/live/d2ffc570-f1a9-11f0-af39-d97d2e6b0b19.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Syrian army tells civilians to evacuate new front with SDF east of Aleppo",
+        "link": "https://www.aljazeera.com/news/2026/1/15/syrian-army-tells-civilians-to-evacuate-new-front-with-sdf-east-of-aleppo?traffic_source=rss",
+        "description": "A 'humanitarian zone' is expected to remain open on Thursday, allowing residents to leave Deir Hafer and Maskana.",
+        "pubDate": "2026-01-15T07:04:30Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Trump says ‘we’ve been told killing has stopped’ in Iran",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/15/trump-says-weve-been-told-killing-has-stopped-in-iran?traffic_source=rss",
+        "description": "A day after warning of ‘serious consequences,’ Trump said he had been told the killing of protesters in Iran had stopped",
+        "pubDate": "2026-01-15T06:57:31Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Australian writers’ festival apologises to Palestinian author after boycott",
+        "link": "https://www.aljazeera.com/news/2026/1/15/australian-writers-festival-apologises-to-palestinian-author-after-boycott?traffic_source=rss",
+        "description": "Randa Abdel-Fattah said she accepts the board's apology and will consider invitation to participate in 2027 event.",
+        "pubDate": "2026-01-15T06:51:49Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "'It was terrifying': Residents describe carnage after Thai train crash kills 32",
         "link": "https://www.bbc.com/news/articles/cm2yvnen1qyo?at_medium=RSS&at_campaign=rss",
@@ -230,6 +275,24 @@
         "bias": -1
       },
       {
+        "title": "Rift at top of the Taliban: BBC reveals clash of wills behind internet shutdown",
+        "link": "https://www.bbc.com/news/articles/cg7vdpy1l2vo?at_medium=RSS&at_campaign=rss",
+        "description": "The Taliban leader once warned of a split: A BBC investigation reveals how attitudes to women, the internet and religion are dividing the group at the very top.",
+        "pubDate": "2026-01-15T06:05:57Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faf9/live/7cb77910-f172-11f0-b5f7-49f0357294ff.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Democrat blasts HHS for creating confusion in cutting, then reinstating SAMHSA grants - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSTl3amU1Zm5QNlhxelkxcW5fc05EekVaSEQ1OWhvOFNrVU5TN2JyMWFDbnRpamdZTzM2MC1HcTY5SjdnZGZzbGJKT0lwemR1V3hVVmlDbk1qMTEwUGVYOGdkdkdGak5rQWRwa1RpWmUwLVc3M3Z0ZURsNXJ1aFRVYmFjUjZvWGFfZFNadm1meG0zTm5mRTR3Yldza21XSUhoSnJHREU5Yl9FaVl4MlE?oc=5",
+        "description": "",
+        "pubDate": "2026-01-15T05:57:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "‘I hope they show humanity’: Greenlanders fear Trump’s desire for minerals",
         "link": "https://www.aljazeera.com/features/2026/1/15/i-hope-they-show-humanity-greenlanders-fear-trumps-desire-for-minerals?traffic_source=rss",
         "description": "US President Donald Trump says he wants to buy Greenland from Denmark and is not taking ‘no’ for an answer.",
@@ -255,15 +318,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "ICE agent shoots Minneapolis man in the leg",
-        "link": "https://www.bbc.com/news/articles/c205677pxvxo?at_medium=RSS&at_campaign=rss",
-        "description": "The City of Minneapolis confirmed a man was shot and taken to hospital for non-life threatening injuries.",
-        "pubDate": "2026-01-15T05:39:13Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ae0/live/22015030-f1c8-11f0-a422-4ba8a094a8fa.jpg",
-        "bias": 0
       },
       {
         "title": "Labubu toy manufacturer exploited workers, labour group claims",
@@ -347,15 +401,6 @@
         "bias": 0
       },
       {
-        "title": "Iran closes its airspace to commercial aircraft for hours as tensions with US remain high - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSGUweklkcWUwV0NobFdSR0RVdjl2eDdxZkF3eTZRUFpXSDE0c3BiRHZYVFBTMHNreTlkamNYV1RnTXdBYVRwVjUyMUxpdzExX1BSeVJQNHhmMnVabmdSOUljc2RaRFBxdmVkUWV4MjlEVWNEQ3lhc2hKN2hXWTJwQzFkSEw4WGctY003UmtQUjBVY0p6MWdlWXQ2b09walJOd0IzTHc2WDlPV25WLWc?oc=5",
-        "description": "",
-        "pubDate": "2026-01-15T03:25:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Venezuela war powers resolution fails in Senate as 2 Republicans bow to Trump pressure - AP News",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMjM4aFdXTHhKU0ZmWTBDeFlGSHBBUXhKV0E5V2kwMGhPUnlxVWpNYkJRYVhvLWxnQWFfSFRjaExnbE8xX2xFY0tHdUpJakVMcTZZZmEyYzlhQXN1QXMxQ3BGM3pEYlFxa0o5WkRLQkRQZDRGd2ZRbjlXTEdrTlptUHFHZ3VFaWhPRDM2emRMZHdqcm80YS1NWQ?oc=5",
         "description": "",
@@ -425,15 +470,6 @@
         "pubDate": "2026-01-15T01:46:00Z",
         "source": "news.google.com",
         "image": "",
-        "bias": 0
-      },
-      {
-        "title": "X to stop Grok AI from undressing images of real people after backlash",
-        "link": "https://www.bbc.com/news/articles/ce8gz8g2qnlo?at_medium=RSS&at_campaign=rss",
-        "description": "Grok will no longer allow users to remove clothing from images of real people in jurisdictions where it is illegal.",
-        "pubDate": "2026-01-15T01:20:33Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e39/live/d2ffc570-f1a9-11f0-af39-d97d2e6b0b19.jpg",
         "bias": 0
       },
       {
@@ -520,6 +556,15 @@
     ],
     "Politics": [
       {
+        "title": "UK economy grew by 0.3% in November, beating forecasts",
+        "link": "https://www.bbc.com/news/articles/c8d041pp85mo?at_medium=RSS&at_campaign=rss",
+        "description": "The economy was boosted by a rebound in car production and from the services sector.",
+        "pubDate": "2026-01-15T07:15:24Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9175/live/fda60d30-f149-11f0-b108-71580feedafc.jpg",
+        "bias": 0
+      },
+      {
         "title": "Fear and anger spread after another immigration shooting in Minneapolis - AP News",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPblNFazZlVmEyZEJxWGpiTmFScXZIamotRW52TE9ZUnhfZ25waFFpNzVsT0oybDlacU9URnBHZ09jRFlTdXZUUVJVQ2JQRzFEbF92bDJhNThEaWJ3U1pJLW1LR0Y0SzFaUnltaWlFVDlha1BVdmNsek9TVlNsVmdtQkRiZ3VYaVZNSkplMHhkOEpyQnlCSW1yamhoaDJXS0x3eVB2TndfbVFTS0xkdjA5Q2tB?oc=5",
         "description": "",
@@ -533,6 +578,15 @@
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQlgwWFU0NDVBWm93d0lDM3lLMXJscnZNaFpjRFZDMlBieUU2Z1JZZmtqM1R6alUzUXowNzZ0cWQ3XzN4Y3ZZcW9NTlh5Zkxla1RSYl9LYlFZZ2V4NE53RlJRVjdhckNtRGhNY3ZWSjI4UUlFYW1YMnBJa0J6TUFQbkg4VzVJeXRJYUdzVng3NjdERDRyTFZoZmMwclVsOURZQnc?oc=5",
         "description": "",
         "pubDate": "2026-01-15T03:56:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Iran closes its airspace to commercial aircraft for hours as tensions with US remain high - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSGUweklkcWUwV0NobFdSR0RVdjl2eDdxZkF3eTZRUFpXSDE0c3BiRHZYVFBTMHNreTlkamNYV1RnTXdBYVRwVjUyMUxpdzExX1BSeVJQNHhmMnVabmdSOUljc2RaRFBxdmVkUWV4MjlEVWNEQ3lhc2hKN2hXWTJwQzFkSEw4WGctY003UmtQUjBVY0p6MWdlWXQ2b09walJOd0IzTHc2WDlPV25WLWc?oc=5",
+        "description": "",
+        "pubDate": "2026-01-15T03:25:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -561,7 +615,7 @@
         "description": "Nearly a third of eligible authorities say they want to postpone local polls scheduled for May.",
         "pubDate": "2026-01-15T01:32:01Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e752/live/a5d32690-f17d-11f0-afcf-4f8c8e73dd06.png",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f16/live/c87e5c80-f1e3-11f0-a422-4ba8a094a8fa.jpg",
         "bias": 0
       },
       {
@@ -639,6 +693,87 @@
         "pubDate": "2026-01-15T06:14:03Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fea/live/e8ef8730-f168-11f0-b34c-412d8cd6a3dc.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Asian shares are mostly lower and oil sinks $2 after Trump says Iran stopped killings - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT0NSZmpYY1ZFMUV3dDJWWVNKdlVUcHQyUno5RkhLeVZ4QUE0WVdYVUh5S0YxZHowc3hJamtQcldqSDNyWlV1SWVreTBtTFVIWk5CZzREZG9LRmltOTJoMWFNd2RxOG5YbWVJcTBld0F1Y1Bhb3N3WVh5LXhlTDc3aU1wUGNuNnNhUzdQdmRVOW9YWk0?oc=5",
+        "description": "",
+        "pubDate": "2026-01-15T04:41:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Analysis: Scale of protests and violence in Iran echoes chaos around its 1979 Islamic Revolution - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdzlXb2JyclpVV1lPRW9LYXE1N3FXZG1qeldaOVBnVjFsck5TeFM0QmZ0dlB0ZHdEaktPSWJEanJHS21sRFlMcGV5VlJGd0xocC1UTEgxS0loUTh5LXdBWWhwQ1NWY0Uya0ZHTVk0RHktekJwc1FSV0JxWWZ3ci1WbGlZNkxRRjBZWEkyMlV1UkZSREZkVjh0SDgxTk5fNmc?oc=5",
+        "description": "",
+        "pubDate": "2026-01-15T03:55:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Senate rejects Venezuela war powers resolution as 2 Republicans flip - AP News",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kcnA3ZlNyYmRSdXh4eVdPY3c5bi1mel9DbHFlYl81RnV4Z20wVzFCMnFSU2dDZHliRnBrV2o2anJmN3pFazVNclNnbmdsNDlvaHlVdnBGanNDTEQwbVJ0dTVsYjNfMjlFNXZ3?oc=5",
+        "description": "",
+        "pubDate": "2026-01-15T03:02:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Grand jury indicts suspect in vandalism of Vice President JD Vance’s Ohio home - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYXl1WDd2NGNudHg0bEZvdHBxVjREcF9weUhNQmlONF8yWm10aW5BSlpPb1M3cE1HaWR0c2s0QldEcVZVSVN5VF91Qm4td1NlOFUyQXhHUlZRWXZqZ0hQMVhaTC1ldGpQWmU0d2hfYlNYYU5QNUxSUEFfc2ZHSEJrV245TmsxZkxjQXdyWHpmZlIzSGNPTW9hdkxfWQ?oc=5",
+        "description": "",
+        "pubDate": "2026-01-15T02:10:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "NCAA urges federal regulators to suspend prediction markets that look a lot like gambling - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSTNFUXM2ZUYzbGthcEpKaDBZa1ljdjVwS3BrNHI1Zm1hWmVIVTNxU2xvcE1aNXdQN0VVX1MwZDltR3RSU2NYZ25HcGtmeHByN2RpeWFNSElwR2xRNUp0X3pFeVBnVmg4TlVOc21NNnhnWXk4cFppbXF1U3FNV3lKYnI0TnNveGRxdHY2YzlheGFjR3JZMnJj?oc=5",
+        "description": "",
+        "pubDate": "2026-01-15T01:46:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Iran signals plans for fast trials and executions while promising retaliation against US, Israel - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX2FtTXRTRTg5ZFJ1SGc5cmo0UnR1azJoajVrUUticTJXSV9MYzQzbUJsdnVMTTloZWEwSU51R2RFOTZwN1VleUViUjNTdzYxcF80enE0bWFIc0dKN05wWVlCd1RTSXlzejAyVXd1WUNDekcyaFR5MUFSNVRGbGl6U3MtT0hxNFZRSGViUVBWbXBJcDRqS1JoMjlQeUxZX1c4ZEFaWHdPOA?oc=5",
+        "description": "",
+        "pubDate": "2026-01-15T01:42:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Verizon outage disrupts calling and data services for wireless customers across the US - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdkZNZ2dYSDQ4Z0g4Ti1CTUxGYlpDTnFnMkJfVFE2cEQ5RWtSYUVIaV9MTjhLUmtON0JDUDU5MzdqZllyX3ZEVWJsQ1Rnc1JTd0FLeVpQdWtNNnNBZWZDRVdPTG9jMHBvV3FHM09kbkQ4ODFybVpqRnBpaFNuY0pJMUc4NkZyQTlfdldV?oc=5",
+        "description": "",
+        "pubDate": "2026-01-15T01:18:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Newsom says he is blocking Louisiana's push to extradite doctor accused of mailing abortion pills - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY1JDejJnNWsxTkFLMTRlckplX21FMGtmZVZXblNDSWdfUkRIS1VxLVJseDNFZkMtY1R6SzRXc1dzaUhLak1BV2lMTk9xYlV2MlN3YWwxZ1I0TjZNLTBmdm1NS3l0NjNpNHM4ZVNNZ1pRX29LdFRjVFBQOWw1eFNJX09tQUpUQy1vMFJOaHFvUEFvNl9BY19VQ1lvNmRQZUNfRUZmb1lVSVd6bGpyUk9r?oc=5",
+        "description": "",
+        "pubDate": "2026-01-15T01:18:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Julio Iglesias accused of sexual assault in Caribbean as Spanish prosecutors study the allegations - AP News",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb3NCd0VVVjJDby05UnhUb21iQkRibXJtcEdhR0pIaE1TQ0tJUWVjYVZCc1NmaUNnXzl3endmRzJfdUhNODY4VVNrWFNyTzNRdGhrVDVYbW9UOTNDTlZ6NU92ZWpFbFNibzIxd1hvNUdOczhBUTItSXBrVHNiSGltVGJQS1ZhS2lDUU4xaGpmblpXSjFUZGN1OVo3VW04MVdVc1ppQTViOFc1OUpTSmpueEhhbHExZFo1bjFCcjFyaWxNNXBOZHVV?oc=5",
+        "description": "",
+        "pubDate": "2026-01-15T01:13:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       }
     ],
