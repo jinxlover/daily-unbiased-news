@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-15T05:35:01.406974Z",
+  "lastUpdate": "2026-01-15T05:52:57.970693Z",
   "news": {
     "Gaming": [
       {
@@ -54,15 +54,6 @@
         "pubDate": "2026-01-15T04:27:15Z",
         "source": "squabblethebat.itch.io",
         "image": "https://img.itch.zone/aW1nLzI1MDIyMjIwLnBuZw==/315x250%23c/m6dhpM.png",
-        "bias": 0
-      },
-      {
-        "title": "CIRCUS01 [Free] [Windows] [macOS] [Linux] [Android]",
-        "link": "https://tinayuan.itch.io/circus01",
-        "description": "",
-        "pubDate": "2026-01-15T04:26:58Z",
-        "source": "tinayuan.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MDIyMjMxLnBuZw==/315x250%23c/DsuLY1.png",
         "bias": 0
       },
       {
@@ -156,24 +147,6 @@
         "bias": 0
       },
       {
-        "title": "Geo-Dash [Free]",
-        "link": "https://lush-studios.itch.io/geo-dash",
-        "description": "Game for my GF (SHE LOVES GEOMETRY DASH)",
-        "pubDate": "2026-01-15T03:33:07Z",
-        "source": "lush-studios.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MDIxOTEzLnBuZw==/315x250%23c/v35LZt.png",
-        "bias": 0
-      },
-      {
-        "title": "Undertale - Bibbitybop [Free]",
-        "link": "https://lion-man-playz.itch.io/undertale-bibbitybop",
-        "description": "BIBBITYBOP WANTS TO FIGHT.",
-        "pubDate": "2026-01-15T03:27:32Z",
-        "source": "lion-man-playz.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MDIxOTMxLnBuZw==/315x250%23c/mMA%2FRe.png",
-        "bias": 0
-      },
-      {
         "title": "Interstellar Demolition Office [Free] [Shooter]",
         "link": "https://sdsds222.itch.io/interstellar-demolition-office",
         "description": "[Interstellar Demolition Office] Destructible Terrain Space Bullet Hell Shooter Game Demo",
@@ -202,6 +175,24 @@
       }
     ],
     "World": [
+      {
+        "title": "Labubu toy manufacturer exploited workers, labour group claims",
+        "link": "https://www.bbc.com/news/articles/cn4037v0w12o?at_medium=RSS&at_campaign=rss",
+        "description": "Investigators allege that a factory making Pop Mart products neglected staff safety and welfare.",
+        "pubDate": "2026-01-15T05:36:45Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cef1/live/f1f72a80-f1b4-11f0-8ffc-53db395a1858.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Polls open in Uganda amid crackdown, fears of violence, internet blackout",
+        "link": "https://www.aljazeera.com/news/2026/1/15/polls-open-in-uganda-amid-crackdown-fears-of-violence-internet-blackout?traffic_source=rss",
+        "description": "UN Human Rights Office has stressed 'open access to communication & information is key to free & genuine elections'.",
+        "pubDate": "2026-01-15T05:36:21Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Trump says Iran has 'no plan' to execute protesters",
         "link": "https://www.bbc.com/news/articles/c07xpndjdd8o?at_medium=RSS&at_campaign=rss",
@@ -335,6 +326,15 @@
         "pubDate": "2026-01-15T01:46:00Z",
         "source": "news.google.com",
         "image": "",
+        "bias": 0
+      },
+      {
+        "title": "X to stop Grok AI from undressing images of real people after backlash",
+        "link": "https://www.bbc.com/news/articles/ce8gz8g2qnlo?at_medium=RSS&at_campaign=rss",
+        "description": "Grok will no longer allow users to remove clothing from images of real people in jurisdictions where it is illegal.",
+        "pubDate": "2026-01-15T01:20:33Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e39/live/d2ffc570-f1a9-11f0-af39-d97d2e6b0b19.jpg",
         "bias": 0
       },
       {
@@ -484,17 +484,7 @@
         "bias": 0
       }
     ],
-    "Tech": [
-      {
-        "title": "X to stop Grok AI from undressing images of real people after backlash",
-        "link": "https://www.bbc.com/news/articles/ce8gz8g2qnlo?at_medium=RSS&at_campaign=rss",
-        "description": "Grok will no longer allow users to remove clothing from images of real people in jurisdictions where it is illegal.",
-        "pubDate": "2026-01-15T01:20:33Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e39/live/d2ffc570-f1a9-11f0-af39-d97d2e6b0b19.jpg",
-        "bias": 0
-      }
-    ],
+    "Tech": [],
     "Science": [
       {
         "title": "Serial houseplant killer? Here's how to keep them alive",
