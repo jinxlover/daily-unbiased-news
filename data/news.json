@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-17T23:47:44.466642Z",
+  "lastUpdate": "2026-01-17T23:58:10.450429Z",
   "news": {
     "Gaming": [
       {
@@ -30,12 +30,30 @@
         "bias": 0
       },
       {
+        "title": "MojiMatch [Free] [Puzzle]",
+        "link": "https://nightmarexdgamer.itch.io/mojimatch",
+        "description": "A beautiful, interactive memory matching card game. Test your memory by matching pairs of emoji cards.",
+        "pubDate": "2026-01-17T23:28:41Z",
+        "source": "nightmarexdgamer.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MDY0MjgwLmpwZw==/315x250%23c/rpbkWZ.jpg",
+        "bias": 0
+      },
+      {
         "title": "Continuity \"Marble\" 0.1.9 [Free] [Adventure] [Windows]",
         "link": "https://ravin-1.itch.io/continuity",
         "description": "A space exploration game that's currently in the prototype stage",
         "pubDate": "2026-01-17T23:24:38Z",
         "source": "ravin-1.itch.io",
         "image": "https://img.itch.zone/aW1nLzI1MDY0MTkwLnBuZw==/315x250%23c/v9AdrD.png",
+        "bias": 0
+      },
+      {
+        "title": "Galaxy Cat [Free] [Action] [Windows]",
+        "link": "https://rufin2003.itch.io/galaxy",
+        "description": "An experimental OpenGL arcade game — shoot digits, save the cat.",
+        "pubDate": "2026-01-17T23:18:18Z",
+        "source": "rufin2003.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MDY0MDUwLnBuZw==/315x250%23c/PpvtYL.png",
         "bias": 0
       },
       {
@@ -54,6 +72,15 @@
         "pubDate": "2026-01-17T23:11:09Z",
         "source": "maidensoft.itch.io",
         "image": "https://img.itch.zone/aW1nLzI1MDYzODg2LnBuZw==/315x250%23c/vwBp%2F5.png",
+        "bias": 0
+      },
+      {
+        "title": "hovercrafts x nihilism [Free] [Adventure] [Windows] [macOS]",
+        "link": "https://soomr.itch.io/hovercrafts-x-nihilism",
+        "description": "zoomer shadow of the colossus",
+        "pubDate": "2026-01-17T23:06:36Z",
+        "source": "soomr.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MDYzOTcyLnBuZw==/315x250%23c/Sh4ww%2F.png",
         "bias": 0
       },
       {
@@ -162,33 +189,6 @@
         "pubDate": "2026-01-17T22:03:18Z",
         "source": "ricutta.itch.io",
         "image": "https://img.itch.zone/aW1nLzI1MDYzNDM3LnBuZw==/315x250%23c/1r7CUu.png",
-        "bias": 0
-      },
-      {
-        "title": "BasketballAR [Free] [Android]",
-        "link": "https://kejd.itch.io/basketballar",
-        "description": "Game in unity with AR",
-        "pubDate": "2026-01-17T22:02:39Z",
-        "source": "kejd.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MDYyOTI0LnBuZw==/315x250%23c/LSFqWT.png",
-        "bias": 0
-      },
-      {
-        "title": "STREET ERRANDS [Free] [Platformer] [Windows]",
-        "link": "https://charlie-lm18.itch.io/street-errands",
-        "description": "Fast 2.5D arcade stealth",
-        "pubDate": "2026-01-17T22:00:35Z",
-        "source": "charlie-lm18.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MDYzMDA4LmpwZw==/315x250%23c/F40tlg.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Tomeo's Rally [Free] [Racing] [Windows]",
-        "link": "https://midcardmichael.itch.io/tomeos-rally",
-        "description": "Racing game demo from my first semester of college",
-        "pubDate": "2026-01-17T21:43:57Z",
-        "source": "midcardmichael.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MDYyNjEzLnBuZw==/315x250%23c/Nyol4o.png",
         "bias": 0
       },
       {
@@ -754,6 +754,15 @@
         "bias": 0
       },
       {
+        "title": "Donald Trump - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
+        "description": "",
+        "pubDate": "2026-01-17T18:19:32Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Blair and Rubio among names on senior executive of Gaza 'Board of Peace'",
         "link": "https://www.bbc.com/news/articles/c07xv92vrz2o?at_medium=RSS&at_campaign=rss",
         "description": "The former UK prime minister and US secretary of state will sit on the \"founding executive board\", the White House says.",
@@ -799,18 +808,9 @@
         "bias": -1
       },
       {
-        "title": "Judge rules feds in Minneapolis immigration operation can’t detain or tear gas peaceful protesters - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNnRSNk0xemFDejBQWEJJV2VLVFIyWVRMc2tuVG43UjYwVzU4Z2JpbVA3OFZkVVpIekg0cVJiQ0UwR21ocGdWUS1jb2JRME9tdEJWTzFIQjA0WkxHY281UmVpNlpBaWxXdjk4SmplbGlfLWd0U0xyUVNzZTl5Wmc3TkgtUlEwSjl1WkR4VGRsczNTeVFKbmFBQjUtblZTNklkTThJ?oc=5",
-        "description": "",
-        "pubDate": "2026-01-17T11:40:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Trump is threatening to cut funding from sanctuary cities. Here's what to know",
-        "link": "https://www.npr.org/2026/01/17/nx-s1-5679562/trump-sanctuary-cities-ice-immigration",
-        "description": "President Trump says he's cutting federal money to sanctuary cities. But courts have blocked similar moves, ruling that the federal government can't use funding to coerce state and local governments.",
+        "title": "They quit their day jobs to bet on current events. A look inside the prediction market mania",
+        "link": "https://www.npr.org/2026/01/17/nx-s1-5672615/kalshi-polymarket-prediction-market-boom-traders-slang-glossary",
+        "description": "Prediction market apps are thriving in Trump's second term, with traders betting on migrant deportations to election outcomes. A community of young, mostly male and very online traders are driving the industry's bonanza.",
         "pubDate": "2026-01-17T10:00:00Z",
         "source": "npr.org",
         "image": "",
@@ -826,9 +826,9 @@
         "bias": -1
       },
       {
-        "title": "They quit their day jobs to bet on current events. A look inside the prediction market mania",
-        "link": "https://www.npr.org/2026/01/17/nx-s1-5672615/kalshi-polymarket-prediction-market-boom-traders-slang-glossary",
-        "description": "Prediction market apps are thriving in Trump's second term, with traders betting on migrant deportations to election outcomes. A community of young, mostly male and very online traders are driving the industry's bonanza.",
+        "title": "Trump is threatening to cut funding from sanctuary cities. Here's what to know",
+        "link": "https://www.npr.org/2026/01/17/nx-s1-5679562/trump-sanctuary-cities-ice-immigration",
+        "description": "President Trump says he's cutting federal money to sanctuary cities. But courts have blocked similar moves, ruling that the federal government can't use funding to coerce state and local governments.",
         "pubDate": "2026-01-17T10:00:00Z",
         "source": "npr.org",
         "image": "",
