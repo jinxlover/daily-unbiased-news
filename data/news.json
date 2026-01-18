@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-18T22:43:31.850548Z",
+  "lastUpdate": "2026-01-18T22:55:44.132811Z",
   "news": {
     "Gaming": [
       {
@@ -9,6 +9,15 @@
         "pubDate": "2026-01-18T22:34:20Z",
         "source": "lunarrrlunaaa.itch.io",
         "image": "https://img.itch.zone/aW1nLzI1MDgwMzQyLnBuZw==/315x250%23c/kxjaDl.png",
+        "bias": 0
+      },
+      {
+        "title": "Dungeon Hunt [Free] [Adventure]",
+        "link": "https://mob-ius.itch.io/dungeon-hunt",
+        "description": "",
+        "pubDate": "2026-01-18T22:22:30Z",
+        "source": "mob-ius.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MDgwNTQwLnBuZw==/315x250%23c/BANmLd.png",
         "bias": 0
       },
       {
@@ -157,10 +166,10 @@
       },
       {
         "title": "While You Glow [Free]",
-        "link": "https://killepm.itch.io/while-you-glow",
+        "link": "https://killy-pm.itch.io/while-you-glow",
         "description": "Collect the light. Stay alive.",
         "pubDate": "2026-01-18T21:40:43Z",
-        "source": "killepm.itch.io",
+        "source": "killy-pm.itch.io",
         "image": "https://img.itch.zone/aW1nLzI1MDc5NzI3LnBuZw==/315x250%23c/%2FFyEdW.png",
         "bias": 0
       },
@@ -180,15 +189,6 @@
         "pubDate": "2026-01-18T21:33:03Z",
         "source": "cipower3.itch.io",
         "image": "https://img.itch.zone/aW1nLzI1MDc5NDk3LnBuZw==/315x250%23c/eNEZkK.png",
-        "bias": 0
-      },
-      {
-        "title": "One Button Dungeon [$1.00] [Adventure]",
-        "link": "https://gxplay.itch.io/one-button-dungeon",
-        "description": "One button. One step. Infinite bad decisions. A minimalist dungeon crawler where every press advances your fate.",
-        "pubDate": "2026-01-18T21:31:32Z",
-        "source": "gxplay.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MDc5Mjc0LnBuZw==/315x250%23c/A2foH7.png",
         "bias": 0
       },
       {
@@ -237,6 +237,15 @@
         "bias": 0
       },
       {
+        "title": "监控下的他 DEMO [Free] [Visual Novel]",
+        "link": "https://august15532.itch.io/watchinghim",
+        "description": "监控下的他 DEMO 0.1.0",
+        "pubDate": "2026-01-18T19:26:36Z",
+        "source": "august15532.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MDc5Njk2LnBuZw==/315x250%23c/7FeUzG.png",
+        "bias": 0
+      },
+      {
         "title": "Initial Fuel [Free] [Racing]",
         "link": "https://smarty304.itch.io/initial-fuel",
         "description": "",
@@ -265,6 +274,33 @@
       }
     ],
     "World": [
+      {
+        "title": "At least 21 killed in Spain after crash involving high-speed trains",
+        "link": "https://www.bbc.com/news/articles/cedw6ylpynyo?at_medium=RSS&at_campaign=rss",
+        "description": "The incident happened near the town of Adamuz, close to the city of Cordoba.",
+        "pubDate": "2026-01-18T22:54:00Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0871/live/ced51930-f4b7-11f0-a422-4ba8a094a8fa.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Two high-speed trains collide in Spain, killing at least 10",
+        "link": "https://www.aljazeera.com/news/2026/1/18/two-high-speed-trains-collide-in-spain-killing?traffic_source=rss",
+        "description": "Authorities have deployed mobile intensive care units to the crash site near Adamuz, where 25 people are injured.",
+        "pubDate": "2026-01-18T22:27:08Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Senegal beat hosts Morocco to win AFCON 2025 after farcical walk-off",
+        "link": "https://www.aljazeera.com/sports/2026/1/18/senegal-beat-hosts-morocco-to-win-afcon-2025-after-farcical-walk-off?traffic_source=rss",
+        "description": "Pape Gueye scores in 1-0 win after extra time after Senegal leave the field to protest a penalty decision.",
+        "pubDate": "2026-01-18T22:26:17Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Syria agrees ceasefire with Kurdish-led forces after two weeks of clashes",
         "link": "https://www.bbc.com/news/articles/c4gwk37ewvwo?at_medium=RSS&at_campaign=rss",
@@ -311,12 +347,12 @@
         "bias": -1
       },
       {
-        "title": "Five dead after high-speed trains collide in Spain",
-        "link": "https://www.bbc.com/news/articles/cedw6ylpynyo?at_medium=RSS&at_campaign=rss",
-        "description": "At least five people are dead and dozens more injured after the derailment near the city of Cordoba.",
-        "pubDate": "2026-01-18T22:03:41Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0871/live/ced51930-f4b7-11f0-a422-4ba8a094a8fa.jpg",
+        "title": "Mark Cuban’s financial support has helped transform Indiana’s football program - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQlJfbksxX1U0eHE0QTFPWkRCWWlkTUxLNHUxekRRVjBHanN0a0tiT3dHQmJZUjdFSmNaZFAtR3pFaXRZUWdwNzRCT3dPNHQtSzRLYmoxRGdoYkhuOUVRMjYxUk9idGMxZ1pDbldmd2VEXzlDcU41azFkRDZwNGc2ckRpWHdRemNwTUdYeFJzYTFnX01WZDdYSDk1YmhWX2dnWEhzdm5n?oc=5",
+        "description": "",
+        "pubDate": "2026-01-18T22:03:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -477,6 +513,15 @@
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY0ZNZDdlNUtRYUZUZGhFUW1XdS1CVE5ZUV9wTGNOTkpjTm9idGF1bHJEd0dPOTYzMWZFNTdNWEd1NHlOb29TaEx4ODFPWUZBOTVxQmhyOWtucnBZMGNUNTJjME5DblpHUVJtRWY2VUhkZUV0ZGlsT3NYeEZQUVdla0oyT3lEMkVqTl95MzRVZVJoemxWekR6VFBmSWpUYkdreUxEMGhwUjJjbV9zcGJVVUpn?oc=5",
         "description": "",
         "pubDate": "2026-01-18T17:23:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Seahawks dominate 49ers from opening kick, advance to NFC title game with 41-6 win - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcVhyZkZqbnNPdXJtUGNYZm5oRlRyTjBmSmRzamliREczbm1mT1FMLXkyeWJQQmtTcUowZkVHeFFiNGEweWxmbVZJMkE2MmRTYmdOb3YyMGViYmZWM1E5NzhFX0lQWTRZdHhZYkVFS19PSUxZRXZoTVAxdXlETjNWVUY0TjFZRFN4OTlRQnFXQ0ltSjVFRXkzcg?oc=5",
+        "description": "",
+        "pubDate": "2026-01-18T17:05:58Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -678,45 +723,18 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Lindsey Vonn's consistency is unparalleled in the Olympic ski season with 7 podiums in 8 races - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLWIweGNSc2xaRlBsTUhLczhTYkhiVXFlTTNIX185RThqbGJhQzA0TmxDSGdNUDI5NTFZNEJ0ZkZzczFXWmNlY1ltRHpIWE9ueTN2UzlqYk02bXItQ1pYNXZnZVlyZUExblpNUVlBSkN6cVhBeUdTV3htRUJtNk5vY0dUOUxENm1FRnRRNDdlczBTcXJYU2FfSG5CSQ?oc=5",
-        "description": "",
-        "pubDate": "2026-01-18T13:15:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Syria’s al-Sharaa restores citizenship and language rights to Syrian Kurds",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/18/syrias-al-sharaa-restores-citizenship-and-language-rights-to-syrian-kurds?traffic_source=rss",
-        "description": "Syria's Ahmed al-Sharaa has signed a decree formally restoring citizenship and language rights to Syrian Kurds.",
-        "pubDate": "2026-01-18T13:12:34Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Italy’s PM Meloni calls Trump’s Greenland tariffs on Europe a mistake",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/18/italys-pm-meloni-calls-trumps-greenland-tariffs-on-europe-a-mistake?traffic_source=rss",
-        "description": "Italy’s PM Giorgia Meloni has criticised US President Donald Trump’s pledge to impose tariffs on European countries.",
-        "pubDate": "2026-01-18T13:11:35Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Top-ranked Sabalenka and Alcaraz advance on an opening day of records at the Australian Open - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLVhJY2xnUXRNaXVIX1JZdldSTExrcDZsVzBmNlg1YkhnYm9CRDQ1d05KdkNVb29OOEJqSHFPTnU4elR1ZVV2cHBKTk12eWxnOHZzT1BEZlRnZVdYSTFSTHRDRTN5T0dsVHZTSE1taXJxVHlrYVJJcXRob1FTNHN6V2RvRjFvRnNTVVROUHpsS1dBendwN3RGY0NmMGphajJyTXVTTG5vdDBOWWk4?oc=5",
-        "description": "",
-        "pubDate": "2026-01-18T13:10:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Government pulls Hillsborough Law debate after backlash",
+        "link": "https://www.bbc.com/news/articles/c5yvldj47v9o?at_medium=RSS&at_campaign=rss",
+        "description": "It was facing a potential rebellion by some Labour MPs over how the law would apply to security services.",
+        "pubDate": "2026-01-18T22:52:36Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c15b/live/e1130f00-f4a1-11f0-b385-5f48925de19a.jpg",
+        "bias": 0
+      },
       {
         "title": "Andrew Rosindell quits Tories and defects to Reform UK",
         "link": "https://www.bbc.com/news/articles/c98jn1wywdyo?at_medium=RSS&at_campaign=rss",
@@ -724,15 +742,6 @@
         "pubDate": "2026-01-18T22:12:58Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/699e/live/9e20f3b0-f4ab-11f0-ac60-ede809cb85ba.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Government pulls Hillsborough Law amendment after backlash",
-        "link": "https://www.bbc.com/news/articles/c5yvldj47v9o?at_medium=RSS&at_campaign=rss",
-        "description": "It was facing a potential rebellion by some Labour MPs over how the law would apply to security services.",
-        "pubDate": "2026-01-18T21:27:29Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c15b/live/e1130f00-f4a1-11f0-b385-5f48925de19a.jpg",
         "bias": 0
       },
       {
@@ -879,9 +888,18 @@
     ],
     "Culture": [
       {
+        "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+        "description": "",
+        "pubDate": "2026-01-18T22:33:33Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "At the movies: the case for and against musicals",
         "link": "https://www.npr.org/2026/01/18/nx-s1-5668490/at-the-movies-the-case-for-and-against-musicals",
-        "description": "At the movies: the case for and against musicals",
+        "description": "Since the first sound film came out, Hollywood musicals have provided some of the most iconic movie moments. Three NPR movie fans discuss the merits and drawbacks of the genre.",
         "pubDate": "2026-01-18T22:22:39Z",
         "source": "npr.org",
         "image": "",
