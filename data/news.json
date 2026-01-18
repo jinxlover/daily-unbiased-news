@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-18T15:43:21.141369Z",
+  "lastUpdate": "2026-01-18T15:55:51.524102Z",
   "news": {
     "Gaming": [
       {
@@ -63,6 +63,15 @@
         "pubDate": "2026-01-18T15:10:37Z",
         "source": "pillar-john-beatboxing-2.itch.io",
         "image": "https://img.itch.zone/aW1nLzI1MDczNzA2LnBuZw==/315x250%23c/1em84U.png",
+        "bias": 0
+      },
+      {
+        "title": "GIGADYNE VOLTRAID [Free] [Shooter]",
+        "link": "https://bibulous.itch.io/gigadyne-voltraid",
+        "description": "A single-stage vertical shoot 'em up! Tear through waves of enemies with the homing-lightning superweapon VOLTRAID",
+        "pubDate": "2026-01-18T15:05:43Z",
+        "source": "bibulous.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MDczNTg0LnBuZw==/315x250%23c/1ronDn.png",
         "bias": 0
       },
       {
@@ -210,33 +219,6 @@
         "bias": 0
       },
       {
-        "title": "Distracted [Free] [Other]",
-        "link": "https://rom34t.itch.io/distracted",
-        "description": "Simple point and click NSFW game",
-        "pubDate": "2026-01-18T14:15:49Z",
-        "source": "rom34t.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MDcyODI1LnBuZw==/315x250%23c/%2B%2FG8IW.png",
-        "bias": 0
-      },
-      {
-        "title": "LIMINAL TRAUMA DEMO V3 [Free] [Survival] [Windows]",
-        "link": "https://visceralpanicgamestudios.itch.io/liminal-trauma-demo-v3",
-        "description": "Liminal Trauma is a first-person horror experience that focuses on atmosphere, tension, and the uncanny.",
-        "pubDate": "2026-01-18T14:14:32Z",
-        "source": "visceralpanicgamestudios.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MDcyNjU2LmpwZw==/315x250%23c/SkqLFH.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Limited Rockets [Free] [Shooter] [Windows]",
-        "link": "https://vinaypydev.itch.io/limited-rockets",
-        "description": "Survive the 150 enemies with having a slow limited rocket launcher!",
-        "pubDate": "2026-01-18T14:14:04Z",
-        "source": "vinaypydev.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MDcyNjM4LnBuZw==/315x250%23c/jqFaC0.png",
-        "bias": 0
-      },
-      {
         "title": "City of Faith [Free] [Educational]",
         "link": "https://beetjuicer.itch.io/city-of-faith",
         "description": "A city-building farming game with teachings based on the Bible!",
@@ -253,9 +235,45 @@
         "source": "twilight-shop.itch.io",
         "image": "https://img.itch.zone/aW1nLzI1MDcyNTI3LnBuZw==/315x250%23c/Il2XWH.png",
         "bias": 0
+      },
+      {
+        "title": "Quiet Room [Free] [Simulation]",
+        "link": "https://deedotmartins.itch.io/quiet-room",
+        "description": "a Place for Care and Rest",
+        "pubDate": "2026-01-18T12:44:07Z",
+        "source": "deedotmartins.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MDcyNTc3LnBuZw==/315x250%23c/b7ahSS.png",
+        "bias": 0
+      },
+      {
+        "title": "Save Kitty From Hell [Free] [Action] [Windows]",
+        "link": "https://skyflamme.itch.io/save-kitty-from-hell",
+        "description": "Punch and rip them apart; but don't forget to pet the kitty.",
+        "pubDate": "2026-01-18T10:43:42Z",
+        "source": "skyflamme.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MDczNzc0LnBuZw==/315x250%23c/UDrsMe.png",
+        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "LIVE: Senegal vs Morocco – AFCON final",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/1/18/live-senegal-vs-morocco-afcon-final?traffic_source=rss",
+        "description": "Follow our live build-up, with team news coverage, ahead of our text commentary stream of the 2025 AFCON final in Rabat.",
+        "pubDate": "2026-01-18T15:30:00Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Sudan’s people endure ‘horror and hell’ in war, says UN rights chief",
+        "link": "https://www.aljazeera.com/news/2026/1/18/sudans-people-endure-horror-and-hell-in-war-says-un-rights-chief?traffic_source=rss",
+        "description": "United Nations rights chief Volker Turk visits Sudan and says people in country are going through 'hell'.",
+        "pubDate": "2026-01-18T15:27:00Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Six killed in Pakistan shopping mall fire",
         "link": "https://www.bbc.com/news/articles/c150pg5dvp2o?at_medium=RSS&at_campaign=rss",
@@ -572,24 +590,6 @@
         "bias": -1
       },
       {
-        "title": "The cleaner: One woman’s mission to help Britain’s hoarders",
-        "link": "https://www.aljazeera.com/features/2026/1/18/the-cleaner-one-womans-mission-to-help-britains-hoarders?traffic_source=rss",
-        "description": "For Jo Powell, cleaning is about restoring dignity and understanding the grief and shame behind every pile of rubbish.",
-        "pubDate": "2026-01-18T08:50:03Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Anti-ICE rally chases off US far-right influencer Jake Lang in Minneapolis",
-        "link": "https://www.aljazeera.com/news/2026/1/18/anti-ice-rally-chases-off-us-far-right-influencer-jake-lang-in-minneapolis?traffic_source=rss",
-        "description": "About 10 people had gathered for Lang's anti-Islam, anti-Somali and pro-ICE demonstration at City Hall.",
-        "pubDate": "2026-01-18T08:21:24Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "Around 1,500 soldiers on standby for deployment to Minneapolis, officials say",
         "link": "https://www.bbc.com/news/articles/c74v0pxg2nvo?at_medium=RSS&at_campaign=rss",
         "description": "The troops are an option should Donald Trump decide to use them to quell anti-ICE protests in the city, an official tells CBS News.",
@@ -662,6 +662,15 @@
         "bias": 0
       },
       {
+        "title": "Watch: Timelapse shows Nasa rocket's 12-hour journey to launch pad",
+        "link": "https://www.bbc.com/news/videos/cwy8l21312do?at_medium=RSS&at_campaign=rss",
+        "description": "The 98m-tall Space Launch System moved at a top speed of 0.82 mph (1.3 km/h) over the 4-mile (6.5km) journey.",
+        "pubDate": "2026-01-18T02:14:53Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5742/live/dda4e230-f410-11f0-b385-5f48925de19a.jpg",
+        "bias": 0
+      },
+      {
         "title": "Inmates in 3 Guatemalan prisons hold dozens of guards hostage - AP News",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN21uX2lwVUlNM0Y4NnVvVUNqSUFIVU11U1djNWR0WXBLcktuWi1NUV9sdVUwc295LUpKZ3B5N1RaQUhUVUU3dGExQ1pqVkJzNG5TaWxjaDNrUU9KMVoyVXRwRnEzVlJMYWlTQnUxaWI4X0N0OWhuS1NrdTVPb18wUVZFRC1Pc01zTkVZQU5VeVlyUUtvREE?oc=5",
         "description": "",
@@ -695,15 +704,6 @@
         "pubDate": "2026-01-18T01:22:46Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/943f/live/c640d2f0-f430-11f0-b385-5f48925de19a.jpg",
-        "bias": 0
-      },
-      {
-        "title": "NASA’s new moon rocket moves to the pad ahead of astronaut launch as early as February - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbndodVdsUXAtQ0ZEQm03b3ZpTWFHMmtDb1NQQTBVQ2JZbEtXalRUSS1CUWEyOEQ0bXFyMFVrQ0paeUpHQllYaGpRMjJYSldUQlV3cjE0OS1BOWZ6Qk1jZG9FRXROOTVQWXFfU19MMksxdXkteG0zV0NSN19VUlZfenBwMTB6ZFZj?oc=5",
-        "description": "",
-        "pubDate": "2026-01-18T00:33:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       }
     ],
@@ -786,33 +786,6 @@
     ],
     "Business": [
       {
-        "title": "Bo Nix breaks his right ankle late in Broncos’ playoff win, will have season-ending surgery - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObHhTU2VNZEJPUTRNT0x3QVlIRlRCdldDelFSVW94Y3cwNDgyUU9jeHo2NU9ETXlTSGtIYlctMzNIaklUYWhmU0tuRllVLXRIZUc2SUpfaXVIbm5HMDUxVV95R0JVaVljSWtXSDUxXzM2cUU3V245R19zMzhiTzVucDhtX3JPWWRqeVIyMjZkRXdwazJFdWxQdXkyYnlfdEx4elE?oc=5",
-        "description": "",
-        "pubDate": "2026-01-18T15:12:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Syrian government seizes strategic town and oil fields from Kurdish forces in ongoing push eastward - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQUlaeHNicjRWRWNlaHN3Y0NBVjZwTUNHbW5uRFJRNzVLYWZPbGdNVkp0SS1vTDRIYldMRnFXWEdVMkRZTVlHWE5RWHhDa1lKLVVoai1DR2libDVWcTU0WmFtRTQwb2lOWXZjUXRTbl94UGMyLW1kXzlNalVsOVAyaThFdDlEMlY3TVNHdEpiQlhqODFvbTJ2T3lrcFJPSVgzMXc?oc=5",
-        "description": "",
-        "pubDate": "2026-01-18T13:51:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Lindsey Vonn's consistency is unparalleled in the Olympic ski season with 7 podiums in 8 races - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLWIweGNSc2xaRlBsTUhLczhTYkhiVXFlTTNIX185RThqbGJhQzA0TmxDSGdNUDI5NTFZNEJ0ZkZzczFXWmNlY1ltRHpIWE9ueTN2UzlqYk02bXItQ1pYNXZnZVlyZUExblpNUVlBSkN6cVhBeUdTV3htRUJtNk5vY0dUOUxENm1FRnRRNDdlczBTcXJYU2FfSG5CSQ?oc=5",
-        "description": "",
-        "pubDate": "2026-01-18T13:15:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "What tariffs has Trump announced and why?",
         "link": "https://www.bbc.com/news/articles/cn93e12rypgo?at_medium=RSS&at_campaign=rss",
         "description": "Trump's volatile trade policy has thrown the world economy into chaos, and put some US prices up.",
@@ -846,51 +819,6 @@
         "pubDate": "2026-01-18T07:04:15Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c32/live/cf532a00-f21e-11f0-ac5a-9d455c4613c3.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Kevin Stefanski hired as Falcons coach after being let go by Browns - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSlhMaHBLdmhvWmVJejI3c05VN2p1VU5uUk1UU0lvR205UFVpNGNnOWJnRXlBRTR4RHFFM28wQ0FscERZRm9oa1BVdFdscC1nMWtHZUlMR2NrV3UtNm9IZ2o3VGJ5Y09vQUkwRFVFX1JTXzlxZkVNcTUyNjFsbTZVZGxfSU5lYUI5NWxN?oc=5",
-        "description": "",
-        "pubDate": "2026-01-18T05:35:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Elephant seals return to Año Nuevo State Park. Visitors watch battling bulls and 75-pound pups - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbjkzZy1UX0R2cDJEeFRYTk45NC15UV9oUGF6NVREclkzSFJIRDZCd1pZaVFMV1dfdEZwTGNubEhCMjZuQkp2ZlQ2T2xRRURYVzJDc1BRTTk5RTFldDIxTmdfVTBNSGU3aVY2MFRpSlZIcEdvcTRRNTdRV0RtLXlGdFFPMExNMFo5N1JnaGdsR2o4aUR0bk5lZkNhMTVXODA?oc=5",
-        "description": "",
-        "pubDate": "2026-01-18T05:07:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Broncos beat Bills but lose Nix, Seahawks rout 49ers to advance to conference championship games - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTkthaldFc0Q1M1NueUVrT3dlOEdsaWNvWG1oMzVwT0xSUDlQNnJqVVNLZkh1SFV4VzNxcDgxanB6RDVMSndHczc2bVQ5ajNsdmdOYjlBcVdnWHd0cUJHd0hGYllRNlQzbFk3LVNNQllVLXRJR0tHOFR2NjZtMndFdnVfcGtmemQtLVlhWDZYRzFPTlpJOGJNU01leVNjdzY3?oc=5",
-        "description": "",
-        "pubDate": "2026-01-18T04:45:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Broncos reach AFC title game after 33-30 win over Bills, but lose Nix for season with ankle injury - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNWxEQ3ZCT0Y4bmM4YW5KVGxtc09VUWN0VXJjVjUxWFZFbG5uTmVhWE1wakwxcERrMDV1M2ZTTXNUMHpZSzh6S3NHbVNJXzBXMDZWbDFqUUk3OE1mdFBSYTc3YmxKVTZVMi1OWUdGbUJvc1FLM2tKblpvY1FHVHZpZm1KVXRUMGNWRHBrU09HNDg0MmIzM1pycmJmNkdsQ0luT2RWeGlB?oc=5",
-        "description": "",
-        "pubDate": "2026-01-18T04:21:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Counter protesters chase off conservative influencer during Minneapolis immigration crackdown - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaFN3Y1V5d3BUOGVieUtIVnBKb1o4MGtKM1FWRW5KNk5HOFI4alRiUVpSWDZ1Rl9tRE9HNmtwb2FnWllGRzJ3OTNYNThTeWRueW45bU4tRTFsRmNHVko3SXVENWR4d0tocGdqTUI4dVVzaDh0aUtPNXN3cFNoXzd0ZW5zaGFtZ18zM21FblBjaVNjbll5ekE?oc=5",
-        "description": "",
-        "pubDate": "2026-01-18T02:19:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
