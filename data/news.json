@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2026-01-20T10:55:48.954032Z",
+  "lastUpdate": "2026-01-20T11:25:41.461545Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Duwum [Free]",
+        "link": "https://nathan123456789.itch.io/duwum",
+        "description": "Global Game Jam 2024 entry",
+        "pubDate": "2026-01-20T10:55:08Z",
+        "source": "nathan123456789.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MTA0MzgxLnBuZw==/315x250%23c/HzjnSw.png",
+        "bias": 0
+      },
       {
         "title": "Urban Runner (Android) [Free] [Survival] [Android]",
         "link": "https://dyn25.itch.io/urban-runner-android",
@@ -72,6 +81,15 @@
         "pubDate": "2026-01-20T09:56:56Z",
         "source": "koirenkoppi.itch.io",
         "image": "https://img.itch.zone/aW1nLzI1MTAzOTMyLnBuZw==/315x250%23c/333%2FC7.png",
+        "bias": 0
+      },
+      {
+        "title": "Project Life [Free] [Simulation] [Windows]",
+        "link": "https://primo-game-studio.itch.io/project-life",
+        "description": "SandBox energy simulator. A meditative game focused on creating Ecosystems",
+        "pubDate": "2026-01-20T09:55:21Z",
+        "source": "primo-game-studio.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MTAzOTg3LmpwZw==/315x250%23c/Z%2FSKfh.jpg",
         "bias": 0
       },
       {
@@ -208,35 +226,35 @@
         "source": "grudgedadev.itch.io",
         "image": "https://img.itch.zone/aW1nLzI1MTA0MjU2LnBuZw==/315x250%23c/v3ni%2B1.png",
         "bias": 0
-      },
-      {
-        "title": "BUNGLE'S STORE 6-7 [Free] [Adventure] [Windows]",
-        "link": "https://trasha64.itch.io/bungles-store-6-7",
-        "description": "Don't get whaaaaaaaaaattt?????",
-        "pubDate": "2026-01-20T06:06:21Z",
-        "source": "trasha64.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MTAyODU3LnBuZw==/315x250%23c/ZdQqRM.png",
-        "bias": 0
-      },
-      {
-        "title": "RollerBlade [Free] [Shooter]",
-        "link": "https://enbyval.itch.io/rollerblade",
-        "description": "a fast paced 3d shooter on skates.",
-        "pubDate": "2026-01-20T05:42:50Z",
-        "source": "enbyval.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MTAzMDE3LmpwZw==/315x250%23c/%2BBm5VX.jpg",
-        "bias": 0
       }
     ],
     "World": [
       {
-        "title": "North Korea’s Kim fires vice premier over factory failures ahead of major party congress - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaHYxdHU1QXBjZjJYaWZtUEI5aHh1bDA3cmRLODgybTZURkU1QjZFdVZXM2doMzdpcjRIN28wRTJIV0FuZkxaMVU1aUdFUlh3U3VfazBSQlF1TlYwbjRHRERxQWdvLWNHaUpCbUduZDMzUGpscWdDTGdsTm1mcUtjUkpuemhRUVprVHdKUEhSa2Z3elVZdzZya1h3MzhKbFBtS0lQaFFkbTQ?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T10:44:00Z",
-        "source": "news.google.com",
-        "image": "",
+        "title": "Twelve schoolchildren killed after bus collides with lorry in South Africa",
+        "link": "https://www.bbc.com/news/articles/cvgdmkxl1mko?at_medium=RSS&at_campaign=rss",
+        "description": "The fatal collision is just the latest in South Africa, where the road safety record is poor.",
+        "pubDate": "2026-01-20T11:23:23Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f363/live/854d2c90-f533-11f0-b5f7-49f0357294ff.jpg",
         "bias": 0
+      },
+      {
+        "title": "Trump's Board of Peace has several invited leaders trying to figure out how it'll work",
+        "link": "https://www.npr.org/2026/01/20/nx-s1-5682816/trumps-board-of-peace-has-several-invited-leaders-trying-to-figure-out-how-itll-work",
+        "description": "It's unclear how many leaders have been asked to join the board, and the large number of invitations being sent out, including to countries that don't get along, has raised questions about the board's mandate and decision-making processes.",
+        "pubDate": "2026-01-20T11:01:23Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Syria’s war-ravaged oil sector faces tough road to recovery, analysts say",
+        "link": "https://www.aljazeera.com/economy/2026/1/20/syrias-war-ravaged-oil-sector-faces-tough-road-to-recovery-analysts-say?traffic_source=rss",
+        "description": "Syrian government's control of energy reserves from SDF has raised hopes of return to pre-war production levels.",
+        "pubDate": "2026-01-20T10:56:20Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Greenland 'will stay Greenland', former Trump adviser declares",
@@ -246,6 +264,33 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b04/live/933197c0-f5d7-11f0-a422-4ba8a094a8fa.jpg",
         "bias": 0
+      },
+      {
+        "title": "How a year of Trump has reshaped the US and the world",
+        "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/1/20/how-a-year-of-trump-has-reshaped-the-us-and-the-world?traffic_source=rss",
+        "description": "The first year of Trump 2.0 featured deportations, tariffs and an abducted president.",
+        "pubDate": "2026-01-20T10:31:28Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Tymoshenko vs Zelenskyy: Political clash over graft rocks wartime Ukraine",
+        "link": "https://www.aljazeera.com/news/2026/1/20/outrageous-crime-how-ex-pms-corruption-probe-changes-ukraines-politics?traffic_source=rss",
+        "description": "Opposition politician Tymoshenko is accused of trying to obstruct cabinet appointments as she clashes with Zelenskyy.",
+        "pubDate": "2026-01-20T10:29:00Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Greenland is not just a territorial concern. It is a reckoning",
+        "link": "https://www.aljazeera.com/opinions/2026/1/20/greenland-is-not-just-a-territorial-concern-it-is-a-reckoning?traffic_source=rss",
+        "description": "It is quite ironic that the imperialism Denmark helped normalise for decades now threatens Danish sovereignty.",
+        "pubDate": "2026-01-20T10:28:30Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Researchers find Antarctic penguin breeding is heating up sooner",
@@ -264,6 +309,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Bobi Wine tells the BBC from hiding he will not contest Uganda election results in court",
+        "link": "https://www.bbc.com/news/articles/c394pk4p707o?at_medium=RSS&at_campaign=rss",
+        "description": "The losing presidential candidate calls for \"peaceful change\", saying Uganda's judiciary is not independent.",
+        "pubDate": "2026-01-20T10:05:49Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8bd/live/324e77f0-f5e3-11f0-ba9d-e74ae9ca738f.jpg",
+        "bias": 0
       },
       {
         "title": "As Trump dismantles the existing world order, his version is still taking shape",
@@ -309,15 +363,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Trump slams UK deal to hand over Chagos Islands after he previously backed it - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVmxhOEc0eE9OVFdOV19IckhNRWF4cHRqT3hHM01FOHAxZUFtTTNzUDV0bGFob2FISGR4Uzg2LVlENzY2ekMzbEs1a3gwdW51OWVydlp0Z1BKaXRZLTB1TU9uUVpnTENGNG4ycE9ha0w4THkzbU8wNk5hdkp2MUQ4RVlxa3hsQ3BmMVZyWjZ3MjRBYS1qUzRLZWpfemVmeTA?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T09:01:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Manhunt for ISIL prisoners in Syria after fighting near jails",
@@ -374,15 +419,6 @@
         "bias": -1
       },
       {
-        "title": "Davos live updates: California Gov. Newsom tells Europe to stand up to Trump over tariff threats - AP News",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DNFVYaV9aeF9XWHBnVWRWYnFtRVYzYjFfak5DMUtwN2hZeUdKWldUbi11Y3BKTG9JUk9MMl9DX2cwcHdRSUxIWmNIMjRGWWlMc1dSai1TZEZzR1ppSW13QTBFXzBtd1ZsT3h1M2J1RW5IUV83amNR?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T07:50:15Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Palestinian children's football pitch faces Israeli demolition ultimatum",
         "link": "https://www.bbc.com/news/articles/cjrz0j9p5jqo?at_medium=RSS&at_campaign=rss",
         "description": "The football club is ordered to remove the pitch, which Israel says was illegally built, or have it torn down.",
@@ -419,15 +455,6 @@
         "bias": -1
       },
       {
-        "title": "Analysis: China's birth-rate struggles underscore its millennia-long effort to manage 'the masses' - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZzRCZHBvM1BGeFlUZExQdHg1MS1BUGFab1ZPY2ZpTXJRa1B4eXYtbFZobkt3Ym1ZdTVLSTdKVTRISVgyZE1QZzJ6cjlYcUhHTERDZTQ2MVpzOERmMVdvM3ZEejAwRmdMbzlJa05hbUR6UnU1WHV0cU4tbUdmR3hkLXFFbDg2WmJPdTZTaW1Kc0pqTnZSS1h3SDBGWTQ?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T07:08:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Surfer injured in fourth shark attack in Australian state in 48 hours",
         "link": "https://www.bbc.com/news/articles/cqxy3523nq2o?at_medium=RSS&at_campaign=rss",
         "description": "Authorities are warning people to stay out of the Australian state's waterways after recent rainfall.",
@@ -439,7 +466,7 @@
       {
         "title": "Syria fighting live: Ceasefire under duress as army moves into Hasakah",
         "link": "https://www.aljazeera.com/news/liveblog/2026/1/20/syria-fighting-live-ceasefire-under-duress-as-govt-moves-into-hasakah?traffic_source=rss",
-        "description": "About 200 ISIL detainees escaped from al-Shaddadi prison with tit-for-tat allegations on who freed them.",
+        "description": "Kurdish-led SDF claims it repulsed two Syrian army attacks on Kobani as fears of ceasefire collapse grow.",
         "pubDate": "2026-01-20T06:37:18Z",
         "source": "aljazeera.com",
         "image": "",
@@ -455,15 +482,6 @@
         "bias": -1
       },
       {
-        "title": "Curt Cignetti finishes his masterpiece, coaching unbeaten Indiana to title in his 2nd season - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSEl1UlI1VGR5LTVsUXkxMWlqTU1vZGNVMFo2NmR3WVk1emVoNncwc25VdjNvY0gyWEY2NU52V1BvaWR2RW1TV1BPUHdfS01PUzhQRkl0N2x1N3JRSHM0cFB4WmUtY1gwQkpHaDlWR3E3enJwUkJZM0JqeUxwZWlSUnlxU1o1MlZDTDFHTXJQcUVEUWFYbFE?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T06:22:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Vietnam’s To Lam vows to fight corruption, pledges 10% economic growth",
         "link": "https://www.aljazeera.com/news/2026/1/20/vietnams-to-lam-vows-to-fight-corruption-pledges-10-economic-growth?traffic_source=rss",
         "description": "The Communist Party leader is reportedly considering a dual role as party chief and Vietnam's president.",
@@ -471,24 +489,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "US citizen says ICE removed him from his Minnesota home in his underwear after warrantless search - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdHM4cVBuWk16UFB3aXVaMG1FU1ZtcnhhQ2xwY3U1UmMxdWYwTktJcVRycWZoZGRkaE92SnVpMERtdFF4NkxGdmQzb1h0Ym1HRE1LRnlyVERxVmNKTmNVUW9La1ZrYmNyMnBVVDktUDF3MUl5aDc4NmhHbFdwbFZ0NU4zT0FRek05ZWphN0F0SnBnMUpLdU5rS1BaODlCRmUxN0l1Uzd5UVB3bXc?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T06:13:06Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Warriors G Jimmy Butler goes down with right knee injury against Heat, will have MRI - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVklIdDJBMDNzb05MRW04SXZiaVNacU9MWmNvbkF1SV9hcm0wejZ3dkxabXFYd3g5T2FXNGhjVWNrNDUyY3A0Z0ZHRWxkTmJ1MTRTZHVqc3phOWY0dU5kSEEtY3dOTnRKU1k2elZZalVpSXJCRmtYNG9NSW5EVzl1NG5BTmp2UQ?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T06:11:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Trump says he will '100%' carry out Greenland tariffs threat, as EU vows to protect its interests",
@@ -518,15 +518,6 @@
         "bias": -1
       },
       {
-        "title": "Death toll rises to 10 in gangsters' attacks on Guatemalan police as state of emergency is declared - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYUtLRWlLbUhiaUxxZTkya3ZmMm84ZWROTzFyYkxIZ1JvaEpRVnJuTXZoZlJueDZUcGxvUWoyNFFwSjRXYWlJdWw0QzU4dmtkcUNZTUE1MEF1QUs4Z21kcUVqZVpMRUxudUwzSlpJNkh5RzJ5VU96U0kzOTVVVXh4MWVtd2Q1bkxnNUZnUlh2MGJzbjBsVnpwYlhPa3l0QQ?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T05:14:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Bangladeshi Gen Z toppled Hasina. Now they could decide next prime minister",
         "link": "https://www.aljazeera.com/features/2026/1/20/bangladeshi-youth-toppled-hasina-now-they-could-decide-next-prime-minister?traffic_source=rss",
         "description": "Young people, who make up 44 percent of voters, ousted Hasina. But they've never seen a competitive election, until now.",
@@ -536,15 +527,6 @@
         "bias": -1
       },
       {
-        "title": "The Sundance Film Festival prepares to bid farewell to Park City, and Robert Redford - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUjFkNnA1Zm9yT0wyQktBY0lPbnJPMm9rVGdyTzZpZjVMRm1VUGVIMlpjQmg0YzBYUF81dVZEQ3MwakJZel85M2FYazRBWVdlM045dElhckRpVHJaS0FHWHRmMUVQcU42Tm0wVDVTSFo0S3lZSy1vVktLZ2xnRmJ3bFgwOWd2RGp4OU1Kb2NVYjNPR0ZHRkVjaTBHWQ?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T04:59:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "North Korea’s Kim Jong Un fires vice premier, publicly rebukes officials",
         "link": "https://www.aljazeera.com/news/2026/1/20/north-koreas-kim-jong-un-fires-vice-premier-publicly-rebukes-officials?traffic_source=rss",
         "description": "Kim condemns 'incompetent' party members for delays in government projects in advance of key ruling party meeting.",
@@ -552,24 +534,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "White House task force members attend CFP title game to prepare for the World Cup - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOamlJa21tM1lFc2VkY1U0d2ZydnVndGZhVXRkaW9CbU5QM0N2ZzhTamZCVEV0NXJmX200VmFLNHljZFJzaEVoMGZPbXd0N0dBY0tGNzE4NXhKQlEyNGt0UkEzUFRsRjdRX3NOMjlMcldHb001M21sNFpFTnpFOGtrZVo5OHFqNUNFMlExTURuVThwVGN4VU01ajZnUDUtdnZPMzdsUVNlWjZaNjd2WmVB?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T03:24:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Bulgaria’s left-leaning president Rumen Radev says he is stepping down - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc2lUY0hEY0xrRllub1VXWlFUcjFhWE90VnU1Tno5bmJCaWZCTEtjWDF4dWxSN1pnS3ZhTExOUktiZlZvZElyZU8xZld1MXZycE1DSmY2VGNIWnppcXZJLVU5QnV3YmlTOG5EVURIOThPOUJDRlRtcURzYUxmVVNHX19aZ0VMZzlURDhMMU1NWXVSVkFBdTJn?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T03:20:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Denmark sends more troops to Greenland amid tensions with Trump",
@@ -608,33 +572,6 @@
         "bias": 0
       },
       {
-        "title": "Dolphins hire former Packers defensive coordinator Jeff Hafley as head coach - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUDR5aW03SGl2c0U1NWpfcUhWRjFBX0hiaGJsRS1Rel95TFNGZ3ByY093RktGbmR5TDNyVW9vb3BsZ2tKOVYxejExRFBtSG1qV0dsQ2M4dkR1X0tVSnh0Mzh2cmFoOXJYclRtUTQyQ19wbzFGdzlJUkFlZ25sUmJMNTZVUElyV1ZGRDk1T3Z2aw?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T01:47:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Photos from the career of the late fashion designer Valentino - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc0FKTUtSTTZMUFROazFfYjR1UzlzLWhnZlE0cGc2ZExneDByVDRMUk5IVE5udEpCcDZqaWxPRi1oVG1qLWN2UlVQdm04TkxOVE1LM3lHTDUySmJIR3U0TTV3LVlvOWlxTzVRS1gwcmd6SDFUVDl2UUxUM1c1c0x0S3pJZ1ZoUm5MVzRST09qdWdDR2RKR0lKOGxOVXB5VkduV2hDOHN6bkprQWNUcF9ZY1RRdWh5VXZOZEE?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T01:46:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Canadian woman found dead on Australian beach in suspected dingo attack - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbzlFQTI3T19lTGdRZ3dKaE8yR29ianlXN3RkNDBHVF9Qa1otaFJ4clRJRzB0WFh1S0RyamF4akNMdDJLbE15MWN2MGluYlRWWThqUGF0UlJ6dmVkV25GZVRqUlJqd20zVGhtblJUSFFucWtqQzJmUVhMN0ctVzlOS2tlSi1zZXRzbkMxaDlFazU4NHFkV3ZkemxrZDFsekE?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T01:38:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "More than 100 vehicles pile up on US motorway after crash",
         "link": "https://www.bbc.com/news/videos/cly9kdklzrlo?at_medium=RSS&at_campaign=rss",
         "description": "Jack-knifed trucks were left strewn across the road after heavy snow in Ottawa Country, Michigan.",
@@ -653,30 +590,21 @@
         "bias": -1
       },
       {
-        "title": "George Kittle’s Achilles tendon injury deemed ‘best-case scenario’ by doctors - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMWdMeFg2Mi1CTkFrcWJwbFpXTk1obC1zTU04c2lKcGlsdmtMM2cwMWFTbzE0RjUzV2tUMWNrSF9oUGVhV1hXVXlhZjEwYlh0cDJjdDRSQXZXdUtjNS0tWUs4ajJsU3FKZzRIMXRHbnZRaGF1dmtZcGVuZzJ6U190STM0MWZOQQ?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T01:01:52Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Iowa cracks top 10 in AP women's basketball poll for 1st time in 2 years. UConn, South Carolina 1-2 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdDA4Y3g4dU5KbDduVTVKYi1KMndrU1NvdUNDVjNreVJtcmhhQjF0Y010cDk0d05wU2k5OW5tTlNhWmQ2ZkZhbW85Uld6b2M5OGNwbEJBUTFjWVJlR1lzeFNYSTJDd21BNE1YYldJR3RoY0pobVBRNkpJMVIxZ0tJNQ?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T00:51:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Nigeria remembers master wood carver",
         "link": "https://www.bbc.com/news/articles/cgqelez1kwwo?at_medium=RSS&at_campaign=rss",
         "description": "Kasali Akangbe Ogun, who came from a long line of wood carvers and wanted to preserve local traditions, has been buried following his death after a brief illness.",
         "pubDate": "2026-01-20T00:30:47Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61e2/live/66db0a00-f55d-11f0-b385-5f48925de19a.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Ros Atkins on...President Trump's year in numbers",
+        "link": "https://www.bbc.com/news/videos/cvgpr95npplo?at_medium=RSS&at_campaign=rss",
+        "description": "Executive orders, pardons, trips and Truth Social posts - the BBC’s Analysis Editor breaks down Donald Trump’s first year back in office, in numbers.",
+        "pubDate": "2026-01-20T00:08:41Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09c8/live/b195af60-f593-11f0-b385-5f48925de19a.png",
         "bias": 0
       }
     ],
@@ -687,7 +615,7 @@
         "description": "Conservative MS James Evans allegedly told a senior Tory he was thinking about defecting.",
         "pubDate": "2026-01-20T10:55:15Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e8d/live/f98a7e30-f5ee-11f0-a422-4ba8a094a8fa.png",
         "bias": 0
       },
       {
@@ -769,24 +697,6 @@
         "pubDate": "2026-01-20T09:43:17Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c882/live/a9df66e0-f529-11f0-90ad-db9d8738e245.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Trump threats and Bukele model on crime back Latin American progressives into corner - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUzE2bkpuSE5rLW1wMVFVN0Fxa1pUQUNhN05DNi1uNDZhYU9neDR4RzgyRUIxSVBnSEJvX2R1WVBESnJjVU1HX1NUUUNKdnBKWVgtWGthR2FBTlMxbGFHeGdKaTZVT3FLQXlBV2RELWJNVGlLdkRrVmt6VnFrVW1BTFNNVU4zTFd2cGR2TGNfdjVhM01nNV96OHVLVFkwOHZ6Njl0cGFZdFc?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T05:40:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "The US political climate spurs efforts to reclaim the MLK holiday - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdnZESXlrUXd4dU9rVWFrTU5kQU1KNnRjQWJyNkNPQ1B5N2phdHlzMUpLODBsajJsdmxBOXdYZFlJNWpzZ2xzSi1CSzFONVRabXlJT3pOSm5rQXRyVVBiY1JMV3daYTRnUHJha1Q1bXFpQWhZS0lHSVg3YklkSkFCLWNxSEkzNU9vSlhKMEJDajItVmkxSFYxN0VWUnBjWTZqVkY0UW5Nb09wMkE?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T01:31:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -878,15 +788,6 @@
       }
     ],
     "Culture": [
-      {
-        "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T10:26:14Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
       {
         "title": "Flats to block sea view made famous by Woolf novel",
         "link": "https://www.bbc.com/news/articles/ce3ekkd2nlvo?at_medium=RSS&at_campaign=rss",
