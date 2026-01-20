@@ -1,216 +1,162 @@
 {
-  "lastUpdate": "2026-01-20T11:57:10.843046Z",
+  "lastUpdate": "2026-01-20T13:02:43.046421Z",
   "news": {
     "Gaming": [
       {
-        "title": "Dundley The Story of a Family [Free] [Puzzle]",
-        "link": "https://mecosoft.itch.io/dundley-the-story-of-a-family",
-        "description": "Help the little dino to reunite with his family, gather all the parts to create each figure in a wellknown Sokoban style",
-        "pubDate": "2026-01-20T11:32:23Z",
-        "source": "mecosoft.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MTA0NjgzLmpwZw==/315x250%23c/RLnm%2FW.jpg",
+        "title": "Popping Game [Free] [Puzzle] [Windows]",
+        "link": "https://jefry-umanzor.itch.io/popping-game",
+        "description": "My first raylib game",
+        "pubDate": "2026-01-20T12:45:46Z",
+        "source": "jefry-umanzor.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MTA1NjA4LnBuZw==/315x250%23c/7iNzfQ.png",
         "bias": 0
       },
       {
-        "title": "Ballerino Online [Free]",
-        "link": "https://begumdonmez.itch.io/ballerino-online",
+        "title": "Shad Shift [Free] [Puzzle]",
+        "link": "https://neonedgegames.itch.io/shad-shift",
+        "description": "The deeper you go, the more you understand.",
+        "pubDate": "2026-01-20T12:19:48Z",
+        "source": "neonedgegames.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MTA1MDQ0LnBuZw==/315x250%23c/SdG%2FKb.png",
+        "bias": 0
+      },
+      {
+        "title": "PICE [Free] [Platformer] [Windows]",
+        "link": "https://jo0e.itch.io/pice",
+        "description": "penguin sliding and eating fish",
+        "pubDate": "2026-01-20T12:13:45Z",
+        "source": "jo0e.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MTA1MDgwLnBuZw==/315x250%23c/STH3MV.png",
+        "bias": 0
+      },
+      {
+        "title": "Bees and Flowers [Free] [Platformer] [Windows]",
+        "link": "https://laertjansen.itch.io/bees-and-flowers",
+        "description": "Simple, unfinished 2D side-scroller built in Unreal Engine in 2020, bringing a 3-year-old’s artwork to life.",
+        "pubDate": "2026-01-20T12:11:58Z",
+        "source": "laertjansen.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MTA1MDQ4LnBuZw==/315x250%23c/D8WdJL.png",
+        "bias": 0
+      },
+      {
+        "title": "2D shooter - Shoot'in Space [Free] [Shooter] [Windows]",
+        "link": "https://lc-game.itch.io/2d-shooter-shootin-space",
+        "description": "Creation of a 2D shooter, in common with studies in Michigan State University",
+        "pubDate": "2026-01-20T12:09:25Z",
+        "source": "lc-game.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MTA1MDM3LnBuZw==/315x250%23c/x6PXtp.png",
+        "bias": 0
+      },
+      {
+        "title": "DevicePhysics [Free] [Windows]",
+        "link": "https://yu5uf.itch.io/devicephysics",
+        "description": "The multiplayer physics game.",
+        "pubDate": "2026-01-20T12:04:20Z",
+        "source": "yu5uf.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MTA0OTM5LnBuZw==/315x250%23c/jnfftZ.png",
+        "bias": 0
+      },
+      {
+        "title": "[Fiale] [Free] [Puzzle] [Windows]",
+        "link": "https://ginseng234.itch.io/fiale",
+        "description": "A c++ game that I've made with the knowledge of my 4 years of C++",
+        "pubDate": "2026-01-20T12:01:44Z",
+        "source": "ginseng234.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MTA0ODEyLnBuZw==/315x250%23c/4sEI1r.png",
+        "bias": 0
+      },
+      {
+        "title": "Pixel Art Maker [Free]",
+        "link": "https://kailanipinon.itch.io/pixel-art-maker",
         "description": "",
-        "pubDate": "2026-01-20T11:26:51Z",
-        "source": "begumdonmez.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MTA0NjMwLnBuZw==/315x250%23c/AVS2q6.png",
+        "pubDate": "2026-01-20T12:00:25Z",
+        "source": "kailanipinon.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MTA0OTgwLmpwZw==/315x250%23c/%2BKd0%2Fi.jpg",
         "bias": 0
       },
       {
-        "title": "Neon Escape [Free] [Platformer]",
-        "link": "https://mvella123.itch.io/neon-escape",
+        "title": "Pong for One [Free] [Windows] [Linux]",
+        "link": "https://bar-olive.itch.io/pong-for-one",
+        "description": "A short, simple arcade-style game",
+        "pubDate": "2026-01-20T11:57:02Z",
+        "source": "bar-olive.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MTA1MzkxLnBuZw==/315x250%23c/2PAys4.png",
+        "bias": 0
+      },
+      {
+        "title": "Lyndor el Grande [Free] [Interactive Fiction]",
+        "link": "https://ardleon.itch.io/lyndor-el-grande",
         "description": "",
-        "pubDate": "2026-01-20T11:14:20Z",
-        "source": "mvella123.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MTA0NTkwLnBuZw==/315x250%23c/LvUtzJ.png",
-        "bias": 0
-      },
-      {
-        "title": "King Roy's Castle [Free] [Adventure] [Windows]",
-        "link": "https://3mily-12.itch.io/king-roys-castle",
-        "description": "A Short Bitsy Game and Escape Room Puzzle!",
-        "pubDate": "2026-01-20T11:03:24Z",
-        "source": "3mily-12.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MTA0Mzk5LnBuZw==/315x250%23c/u2w2s0.png",
-        "bias": 0
-      },
-      {
-        "title": "Duwum [Free]",
-        "link": "https://nathan123456789.itch.io/duwum",
-        "description": "Global Game Jam 2024 entry",
-        "pubDate": "2026-01-20T10:55:08Z",
-        "source": "nathan123456789.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MTA0MzgxLnBuZw==/315x250%23c/HzjnSw.png",
-        "bias": 0
-      },
-      {
-        "title": "Dundley and the sliding plates [Free] [Puzzle]",
-        "link": "https://mecosoft.itch.io/dundley-and-the-sliding-plates",
-        "description": "Help the little dino to exit the dangerous world using various sliding plates",
-        "pubDate": "2026-01-20T10:53:44Z",
-        "source": "mecosoft.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MTA0NTAyLmpwZw==/315x250%23c/jzeSCl.jpg",
-        "bias": 0
-      },
-      {
-        "title": "SkyGenesis [Free]",
-        "link": "https://maxjuniormjc-code.itch.io/skygenesis",
-        "description": "",
-        "pubDate": "2026-01-20T10:43:44Z",
-        "source": "maxjuniormjc-code.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MTA0NzA3LmpwZw==/315x250%23c/T2iV8T.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Grand Matryoshka (2021) [Free] [Puzzle] [Windows]",
-        "link": "https://undead-aubergine.itch.io/grand-matryoshka",
-        "description": "Spin the wheel, dominate the ordeal",
-        "pubDate": "2026-01-20T10:36:42Z",
-        "source": "undead-aubergine.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MTA0NjQ0LnBuZw==/315x250%23c/95GhXP.png",
-        "bias": 0
-      },
-      {
-        "title": "Run off robot! [Free] [Sports]",
-        "link": "https://ahmedthepep.itch.io/run-off-robot",
-        "description": "This is my first game, this is still a beta as there might be some glitches",
-        "pubDate": "2026-01-20T10:33:13Z",
-        "source": "ahmedthepep.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MTA0MjM4LnBuZw==/315x250%23c/mvzHyf.png",
-        "bias": 0
-      },
-      {
-        "title": "Urban Runner (Android) [Free] [Survival] [Android]",
-        "link": "https://dyn25.itch.io/urban-runner-android",
-        "description": "",
-        "pubDate": "2026-01-20T10:32:30Z",
-        "source": "dyn25.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MTA0MjExLnBuZw==/315x250%23c/RWi6zl.png",
-        "bias": 0
-      },
-      {
-        "title": "Project Slizer - The Game [Free] [Platformer]",
-        "link": "https://avohkii-studios.itch.io/project-slizer-the-game",
-        "description": "The first season of Project Slizer as a new platformer adventure!",
-        "pubDate": "2026-01-20T10:28:13Z",
-        "source": "avohkii-studios.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MTA0MTUzLmpwZw==/315x250%23c/t7iX25.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Acquire the ball [Free] [Adventure]",
-        "link": "https://dmok144.itch.io/the-quest-of-the-golden-ball",
-        "description": "",
-        "pubDate": "2026-01-20T10:25:40Z",
-        "source": "dmok144.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MTA0MTU5LnBuZw==/315x250%23c/ql1f4b.png",
-        "bias": 0
-      },
-      {
-        "title": "AT: Give me back my sandwich [Free] [Platformer] [Windows]",
-        "link": "https://lexpo.itch.io/at-give-me-back-my-sandwich",
-        "description": "Proyecto juego de plataformas para Desarrollo de Videojuegos I",
-        "pubDate": "2026-01-20T10:21:27Z",
-        "source": "lexpo.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MTA0MTMxLnBuZw==/315x250%23c/P4sBxB.png",
-        "bias": 0
-      },
-      {
-        "title": "Horde RUSH [Free] [Action]",
-        "link": "https://elliestrive.itch.io/horde-rush",
-        "description": "shooter",
-        "pubDate": "2026-01-20T10:00:42Z",
-        "source": "elliestrive.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MTA0MTM2LnBuZw==/315x250%23c/HnJreR.png",
-        "bias": 0
-      },
-      {
-        "title": "Shatter Blocks [Free] [Puzzle]",
-        "link": "https://lazyimp.itch.io/shatter-blocks",
-        "description": "",
-        "pubDate": "2026-01-20T10:00:27Z",
-        "source": "lazyimp.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MTAzODM3LnBuZw==/315x250%23c/LAW7wS.png",
-        "bias": 0
-      },
-      {
-        "title": "Never Ever: The Blood Behind [Free] [Fighting] [Windows]",
-        "link": "https://craftikxd.itch.io/never-ever-the-blood-behind",
-        "description": "Boomershooter",
-        "pubDate": "2026-01-20T09:58:32Z",
-        "source": "craftikxd.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MTAzODUwLnBuZw==/315x250%23c/7D43sO.png",
-        "bias": 0
-      },
-      {
-        "title": "The Incursion [Free] [Puzzle] [Windows]",
-        "link": "https://koirenkoppi.itch.io/incursion",
-        "description": "First-person horror puzzle game",
-        "pubDate": "2026-01-20T09:56:56Z",
-        "source": "koirenkoppi.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MTAzOTMyLnBuZw==/315x250%23c/333%2FC7.png",
-        "bias": 0
-      },
-      {
-        "title": "Project Life [Free] [Simulation] [Windows]",
-        "link": "https://primo-game-studio.itch.io/project-life",
-        "description": "SandBox energy simulator. A meditative game focused on creating Ecosystems",
-        "pubDate": "2026-01-20T09:55:21Z",
-        "source": "primo-game-studio.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MTAzOTg3LmpwZw==/315x250%23c/Z%2FSKfh.jpg",
-        "bias": 0
-      },
-      {
-        "title": "PipeShifter [Free] [Puzzle]",
-        "link": "https://80sonpurple.itch.io/pipeshifter",
-        "description": "Solve the puzzle. Fix the pipes.",
-        "pubDate": "2026-01-20T09:43:51Z",
-        "source": "80sonpurple.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MTAzNzc0LmpwZWc=/315x250%23c/1HpfIv.jpeg",
-        "bias": 0
-      },
-      {
-        "title": "InsectKiller [Free] [Action]",
-        "link": "https://pierremasamune.itch.io/insectkiller",
-        "description": "Insectkiller is a top down shooter with intense gameplay and epic music backgroud.",
-        "pubDate": "2026-01-20T09:39:21Z",
-        "source": "pierremasamune.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MTAzNzIyLnBuZw==/315x250%23c/lLbFrk.png",
-        "bias": 0
-      },
-      {
-        "title": "FlipShot - DEMO [Free] [Platformer] [Windows]",
-        "link": "https://benx-offical.itch.io/flipshot",
-        "description": "A Platformer shooter game where u shoot buttons to turn on platforms",
-        "pubDate": "2026-01-20T09:37:16Z",
-        "source": "benx-offical.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MTAzNzQ2LnBuZw==/315x250%23c/z8H04a.png",
-        "bias": 0
-      },
-      {
-        "title": "Goofy Zombie Shooter Version 0.2 [Free] [Action]",
-        "link": "https://roundycreator.itch.io/goofy-zombie-shooter-early-beta",
-        "description": "A simple top-down zombie shooter game made in scratch.",
-        "pubDate": "2026-01-20T08:57:28Z",
-        "source": "roundycreator.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MTA0MTQyLmpwZw==/315x250%23c/JePsGv.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Grudge Warlords [Free] [Adventure]",
-        "link": "https://grudgedadev.itch.io/grudge-warlords",
-        "description": "mmo Grudge Warlords Beta",
-        "pubDate": "2026-01-20T08:31:29Z",
-        "source": "grudgedadev.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MTA0MjU2LnBuZw==/315x250%23c/v3ni%2B1.png",
+        "pubDate": "2026-01-20T09:34:36Z",
+        "source": "ardleon.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MTA0MTg5LnBuZw==/315x250%23c/EkjVNd.png",
         "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Israeli crews begin bulldozing headquarters of UN agency for Palestinian refugees in East Jerusalem - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ2gycWlabFNqaTdFR0pHcTRoX1AyOTMtRy1saVBMMmR4a2FINEhMOFZWdDBLdFNSb2pLOWdXQmhjUTlESTIyV3lkWTJCNVFrMlhVOC1ZaUhvU2QtRENWV1JBZlpHMkdCQ0RxaUdJVXd6MVFhUW9RWlkzQ3VYM2JQS2s4NlJyWk5uUjVyaDU0TGNDbnBNX21MdjBqMTEtSlQzdVZXWVZyWGE?oc=5",
+        "description": "",
+        "pubDate": "2026-01-20T12:38:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Donald Trump thanks you for your attention to these matters in his second term - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeGZ1M3lXcndvNy1zQW5VVVM2WkR0WmpBQTRGQ0U0TDhmZ3VWdnU1dGlJM2l0ZS1QQ3Z4a04weVprR29qT1NDV1ZaZmlaOGUzZDB0Y0R6eEpJX1A1R2RlTUFnM2pwM3N3WHA0ejgxLVp2S1BfSmxqbTl0a0dnYjlOanJkWF9QS3lDSjZBYzdzQm5aMXoxQll5YzRxZm8?oc=5",
+        "description": "",
+        "pubDate": "2026-01-20T12:36:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "How a year of Trump reshaped the world in seven charts",
+        "link": "https://www.aljazeera.com/news/2026/1/20/how-a-year-of-trump-reshaped-the-world-in-seven-charts?traffic_source=rss",
+        "description": "First year of Trump 2.0 saw deportations, tariffs and a captured President Maduro. Al Jazeera breaks down the numbers.",
+        "pubDate": "2026-01-20T12:24:58Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Israeli prisons are akin to ‘torture camps’, Israeli rights group finds",
+        "link": "https://www.aljazeera.com/news/2026/1/20/israeli-prisons-are-akin-to-torture-camps-israeli-rights-group-finds?traffic_source=rss",
+        "description": "B’Tselem's latest report sounds alarm on abuse, dozens of deaths of Palestinian prisoners in Israeli jails.",
+        "pubDate": "2026-01-20T12:20:38Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Trump leaks world leaders' messages. And, Indiana wins its first national title",
+        "link": "https://www.npr.org/2026/01/20/g-s1-106532/up-first-newsletter-trump-world-leaders-immigration-detention-college-football-champion",
+        "description": "President Trump explains why he wants to acquire Greenland in private messages with world leaders. And, Indiana caps off a perfect football season with a national championship win over Miami.",
+        "pubDate": "2026-01-20T12:19:41Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "UK approves a ‘mega’ Chinese Embassy in London despite criticism of security risks - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQnZVRjNsZ1pxSDBWQU51cmt0VXVZc3FsR2lZZ2tYSHJpd2tRa20wbmR5U1pxSG1wTTF3Z2JNcmxmcFYtNzVXbGFaclEtZTFDa2tUYjFhRmFGb0psbXd1NG5PaHhod3NFakJyUEh3Nzh6cDJWblh3TXcza0ZxMUZWYzRlbURoUjlDamFnYjh4RnZERFczSE5n?oc=5",
+        "description": "",
+        "pubDate": "2026-01-20T12:05:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Naomi Osaka makes a grand entrance and a big fashion statement at Australian Open - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTlNtVVpSQ2lhYWVVRU1FaVM3N2hFZzJQaDA2Si00YU1LaHRRU29tZ0g3R2F5cjUzVTFjSDZqd0pWVGNMRjlHblVZYTVhR0hYWjJLQzc1ZW11Y3RtVUtZcmRzYnBnNlJXeXBBRTliLVZtck5CN0tDSDhWbW1Uc3RDaFRualNUMG03NHVTWGhYT3BKclV3SGF5dnpmRnlNT0RaZXpMWA?oc=5",
+        "description": "",
+        "pubDate": "2026-01-20T11:47:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "China's birth rate fell to a record low last year despite attempts to boost it",
         "link": "https://www.npr.org/2026/01/20/nx-s1-5682326/chinas-birth-rate-fell-to-a-record-low-last-year-despite-attempts-to-boost-it",
@@ -219,6 +165,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Spain train crash recovery continues as investigators probe 'gap' in rail",
+        "link": "https://www.bbc.com/news/articles/c5y2qjy9l4yo?at_medium=RSS&at_campaign=rss",
+        "description": "Authorities say the twisted train wreckage makes it difficult to recover people trapped inside.",
+        "pubDate": "2026-01-20T11:41:03Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/531d/live/6fdabe70-f5f3-11f0-b385-5f48925de19a.jpg",
+        "bias": 0
       },
       {
         "title": "Video: More than 100 vehicles involved in pile-up during US snowstorm",
@@ -248,6 +203,24 @@
         "bias": -1
       },
       {
+        "title": "China demands Taliban protect its citizens after deadly Kabul blast",
+        "link": "https://www.bbc.com/news/articles/c5yvqx22dyvo?at_medium=RSS&at_campaign=rss",
+        "description": "The Islamic State group says they were behind the blast in Kabul, but police say they are still investigating the cause.",
+        "pubDate": "2026-01-20T11:16:37Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9483/live/6379f150-f5e4-11f0-ba9d-e74ae9ca738f.png",
+        "bias": 0
+      },
+      {
+        "title": "Anthony Joshua's driver appears in court after crash that killed two",
+        "link": "https://www.bbc.com/news/articles/cew8jxze027o?at_medium=RSS&at_campaign=rss",
+        "description": "The former heavyweight champion was a passenger in the crash, which killed two of his team members.",
+        "pubDate": "2026-01-20T11:16:13Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25a0/live/c7faebd0-f5ed-11f0-b5f7-49f0357294ff.jpg",
+        "bias": 0
+      },
+      {
         "title": "Trump’s first year back live: US president ramps up pressure on allies",
         "link": "https://www.aljazeera.com/news/liveblog/2026/1/20/trump-first-year-back-live-us-president-ramps-up-pressure-on-allies?traffic_source=rss",
         "description": "US President Donald Trump marks first year back by expanding presidential power and reshaping global relations.",
@@ -255,6 +228,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Spain begins 3 days of mourning for deadly train wreck while death toll ticks up to 41 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN1R3eU5vY201N25XQnhReEFyX3VDd2RYdnU3UVhiRGF2bDA2SDNheHdTZExaOTROXzZ1ZUhwVTc4c0xReHZMZGRLd21UbXo2OXdLeXR2alBrVE0wd25iX01aQlE5cFpCemhySHNIWTlrSG8xVnQ2M0lNUmdPa0hDSGpxejR4Wi1ZejJWaA?oc=5",
+        "description": "",
+        "pubDate": "2026-01-20T11:10:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Trump's Board of Peace has several invited leaders trying to figure out how it'll work",
@@ -329,6 +311,15 @@
         "bias": -1
       },
       {
+        "title": "Islamic State group claims attack on a Kabul restaurant that killed 7, including a Chinese national - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcEZ5ZFZ3RUQ1UGp2VkR5NzBFSGJpYnZTNFFicU1vZW92TUEtYXhSMW9KM1o5QzFVZzlwWVU3NFotWDg4LUNaOEVfbGl4UGlFbFRQQ3ZVc1puN3d2TE5oR2R3TWlMc002ZnNpeFItcUU3N2lvcjdNMDlxcE9hQ2FMQnhBMzZiLVVKUHlyY1dKajVTYXNNaHhiWFpSUDNGVEk3d1dtYWxiVTE0TEJfNC1tVzh3MA?oc=5",
+        "description": "",
+        "pubDate": "2026-01-20T10:21:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Researchers find Antarctic penguin breeding is heating up sooner",
         "link": "https://www.npr.org/2026/01/20/g-s1-106516/antarctic-penguin-breeding-heating-up-sooner",
         "description": "Warming temperatures are forcing Antarctic penguins to breed earlier and that's a big problem for two of the cute tuxedoed species that face extinction by the end of the century, a study said.",
@@ -336,6 +327,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Trump slams UK deal to hand over Chagos Islands after he previously backed it - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVmxhOEc0eE9OVFdOV19IckhNRWF4cHRqT3hHM01FOHAxZUFtTTNzUDV0bGFob2FISGR4Uzg2LVlENzY2ekMzbEs1a3gwdW51OWVydlp0Z1BKaXRZLTB1TU9uUVpnTENGNG4ycE9ha0w4THkzbU8wNk5hdkp2MUQ4RVlxa3hsQ3BmMVZyWjZ3MjRBYS1qUzRLZWpfemVmeTA?oc=5",
+        "description": "",
+        "pubDate": "2026-01-20T10:17:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Dual citizenship: Bangladesh’s latest political flashpoint before elections",
@@ -365,15 +365,6 @@
         "bias": -1
       },
       {
-        "title": "Read Trump's full messages with European leaders – and what they tell us",
-        "link": "https://www.bbc.com/news/articles/cz7ynwzn8pqo?at_medium=RSS&at_campaign=rss",
-        "description": "A series of text messages between US President Donald Trump and European leaders have been shared publicly.",
-        "pubDate": "2026-01-20T09:58:53Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3225/live/8f1cbab0-f5f6-11f0-a745-635c33f47272.jpg",
-        "bias": 0
-      },
-      {
         "title": "European leaders call for emergency summit as tensions with the U.S. rise",
         "link": "https://www.npr.org/2026/01/20/nx-s1-5682235/european-leaders-call-for-emergency-summit-as-tensions-with-the-u-s-rise",
         "description": "European leaders will meet for an emergency summit Thursday to form an official response to President Trump's pursuit of Greenland and his threat of tariffs for any country that tries to stop him.",
@@ -401,15 +392,6 @@
         "bias": -1
       },
       {
-        "title": "Trump slams UK deal to hand over Chagos Islands after he previously backed it - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVmxhOEc0eE9OVFdOV19IckhNRWF4cHRqT3hHM01FOHAxZUFtTTNzUDV0bGFob2FISGR4Uzg2LVlENzY2ekMzbEs1a3gwdW51OWVydlp0Z1BKaXRZLTB1TU9uUVpnTENGNG4ycE9ha0w4THkzbU8wNk5hdkp2MUQ4RVlxa3hsQ3BmMVZyWjZ3MjRBYS1qUzRLZWpfemVmeTA?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T09:01:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Manhunt for ISIL prisoners in Syria after fighting near jails",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/1/20/manhunt-for-isil-prisoners-in-syria-after-fighting-near-jails?traffic_source=rss",
         "description": "Syrian government forces have been searching for dozens of ISIL fighters who escaped prison.",
@@ -435,6 +417,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "AP’s David Keyton from outside the World Economic Forum - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcW1SMHlrNmVMdWVTei1VcjBfSXl4YzhVWmlZVmhZcGJRdE8xVjBKTDY5b1NoWHFCVHJtSEhEUjJ2NmFNNUQwbFZzWTlzQnc1WHlIR0gxblhCUzRETDI3b1RST1BxNlpxVldZWTN3Q0NEODJTbnJmY3h0OUZGOU1xeFg1eWJKSVhNM3AxZURCU1B2UWdyNjRJVFNIU3EtSHNXWktQZlJxdXB4QVNOUTBkbFdR?oc=5",
+        "description": "",
+        "pubDate": "2026-01-20T08:23:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Australian Parliament backs tighter gun, hate crime laws after Bondi attack",
@@ -552,117 +543,27 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Australia closes dozens of east coast beaches after shark attacks",
-        "link": "https://www.aljazeera.com/news/2026/1/20/australia-closes-dozens-of-east-coast-beaches-after-shark-attacks?traffic_source=rss",
-        "description": "NSW coastline has seen four shark attacks since Sunday, as experts say rainy conditions draw sharks to beach areas.",
-        "pubDate": "2026-01-20T06:33:50Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Curt Cignetti finishes his masterpiece, coaching unbeaten Indiana to title in his 2nd season - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSEl1UlI1VGR5LTVsUXkxMWlqTU1vZGNVMFo2NmR3WVk1emVoNncwc25VdjNvY0gyWEY2NU52V1BvaWR2RW1TV1BPUHdfS01PUzhQRkl0N2x1N3JRSHM0cFB4WmUtY1gwQkpHaDlWR3E3enJwUkJZM0JqeUxwZWlSUnlxU1o1MlZDTDFHTXJQcUVEUWFYbFE?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T06:22:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Vietnam’s To Lam vows to fight corruption, pledges 10% economic growth",
-        "link": "https://www.aljazeera.com/news/2026/1/20/vietnams-to-lam-vows-to-fight-corruption-pledges-10-economic-growth?traffic_source=rss",
-        "description": "The Communist Party leader is reportedly considering a dual role as party chief and Vietnam's president.",
-        "pubDate": "2026-01-20T06:21:17Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Warriors G Jimmy Butler goes down with right knee injury against Heat, will have MRI - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVklIdDJBMDNzb05MRW04SXZiaVNacU9MWmNvbkF1SV9hcm0wejZ3dkxabXFYd3g5T2FXNGhjVWNrNDUyY3A0Z0ZHRWxkTmJ1MTRTZHVqc3phOWY0dU5kSEEtY3dOTnRKU1k2elZZalVpSXJCRmtYNG9NSW5EVzl1NG5BTmp2UQ?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T06:11:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Trump says he will '100%' carry out Greenland tariffs threat, as EU vows to protect its interests",
-        "link": "https://www.bbc.com/news/articles/c4g5345ylk0o?at_medium=RSS&at_campaign=rss",
-        "description": "Kaja Kallas, the EU's foreign policy chief, said the bloc has \"no interest to pick a fight, but we will hold our ground\".",
-        "pubDate": "2026-01-20T06:08:01Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5066/live/fd251470-f5ca-11f0-b385-5f48925de19a.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Spain to hold three days of mourning for victims of high-speed train crash",
-        "link": "https://www.bbc.com/news/articles/c2d7rk0865go?at_medium=RSS&at_campaign=rss",
-        "description": "At least 40 people died in Sunday's collision in  southern Spain, the worst crash the country has seen in more than a decade.",
-        "pubDate": "2026-01-20T05:26:03Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae70/live/34cf4480-f5e5-11f0-b5f7-49f0357294ff.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Gaza’s ‘phase two’ from a distance: Why hope still feels out of reach",
-        "link": "https://www.aljazeera.com/news/2026/1/20/gazas-phase-two-from-a-distance-why-hope-still-feels-out-of-reach?traffic_source=rss",
-        "description": "As Washington hails next stage of truce, Gaza sees a stark disconnect between promises and the deadly reality.",
-        "pubDate": "2026-01-20T05:22:50Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Death toll rises to 10 in gangsters' attacks on Guatemalan police as state of emergency is declared - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYUtLRWlLbUhiaUxxZTkya3ZmMm84ZWROTzFyYkxIZ1JvaEpRVnJuTXZoZlJueDZUcGxvUWoyNFFwSjRXYWlJdWw0QzU4dmtkcUNZTUE1MEF1QUs4Z21kcUVqZVpMRUxudUwzSlpJNkh5RzJ5VU96U0kzOTVVVXh4MWVtd2Q1bkxnNUZnUlh2MGJzbjBsVnpwYlhPa3l0QQ?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T05:14:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Bangladeshi Gen Z toppled Hasina. Now they could decide next prime minister",
-        "link": "https://www.aljazeera.com/features/2026/1/20/bangladeshi-youth-toppled-hasina-now-they-could-decide-next-prime-minister?traffic_source=rss",
-        "description": "Young people, who make up 44 percent of voters, ousted Hasina. But they've never seen a competitive election, until now.",
-        "pubDate": "2026-01-20T05:06:22Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Mark Fletcher and Malachi Toney delivered for Miami in the CFP final. The Hurricanes fell just short - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWmoxVHBqTEszWS1CeVJWUFBrczNtTEp4bUNzRmdkTVVWSS0zQVBKY1ZGV2Y4ZVY4cW1Sa0tHdlc1Snd5SDhGNUxoSnZrOC1ldmNaWEZIYVk0SktqSUw4amtXb1BzR3BIZ1M3cHpqc29uZVBXQWRoalNJZzRtRDhndm5LbktEMl9YZ1pSb1FGWjEtSDhsVjduQmhreS12UQ?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T05:06:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "The Sundance Film Festival prepares to bid farewell to Park City, and Robert Redford - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUjFkNnA1Zm9yT0wyQktBY0lPbnJPMm9rVGdyTzZpZjVMRm1VUGVIMlpjQmg0YzBYUF81dVZEQ3MwakJZel85M2FYazRBWVdlM045dElhckRpVHJaS0FHWHRmMUVQcU42Tm0wVDVTSFo0S3lZSy1vVktLZ2xnRmJ3bFgwOWd2RGp4OU1Kb2NVYjNPR0ZHRkVjaTBHWQ?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T04:59:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "North Korea’s Kim Jong Un fires vice premier, publicly rebukes officials",
-        "link": "https://www.aljazeera.com/news/2026/1/20/north-koreas-kim-jong-un-fires-vice-premier-publicly-rebukes-officials?traffic_source=rss",
-        "description": "Kim condemns 'incompetent' party members for delays in government projects in advance of key ruling party meeting.",
-        "pubDate": "2026-01-20T04:17:57Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
+      {
+        "title": "UK approves plans for Chinese mega-embassy",
+        "link": "https://www.bbc.com/news/articles/cm2xwp37dmgo?at_medium=RSS&at_campaign=rss",
+        "description": "Critics of the project - including some Labour MPs - warn it could pose a security risk.",
+        "pubDate": "2026-01-20T12:35:02Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ba6/live/19d7c9d0-f54b-11f0-a712-a38af32eabc0.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Trump's Chagos dig poses massive strategic question for Starmer",
+        "link": "https://www.bbc.com/news/articles/cd9eznw7x7ko?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister has built his foreign policy around being seen as a trustworthy ally of the US president.",
+        "pubDate": "2026-01-20T11:57:13Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d708/live/e14467a0-f5f3-11f0-b385-5f48925de19a.png",
+        "bias": 0
+      },
       {
         "title": "President Trump set to hold the spotlight at Davos as international tension rises",
         "link": "https://www.npr.org/2026/01/20/nx-s1-5682244/president-trump-set-to-hold-the-spotlight-at-davos-as-international-tension-rises",
@@ -682,15 +583,6 @@
         "bias": -1
       },
       {
-        "title": "UK approves plans for Chinese mega-embassy",
-        "link": "https://www.bbc.com/news/articles/cm2xwp37dmgo?at_medium=RSS&at_campaign=rss",
-        "description": "Critics of the project - including some Labour MPs - warn it could pose a security risk.",
-        "pubDate": "2026-01-20T11:44:09Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ba6/live/19d7c9d0-f54b-11f0-a712-a38af32eabc0.jpg",
-        "bias": 0
-      },
-      {
         "title": "What is the UK's Chagos Islands deal and why has Trump criticised it?",
         "link": "https://www.bbc.com/news/articles/c9dqg3nqynlo?at_medium=RSS&at_campaign=rss",
         "description": "Trump has criticised the deal under which the UK keeps control of the joint UK-US Diego Garcia military base.",
@@ -705,7 +597,7 @@
         "description": "Conservative MS James Evans allegedly told a senior Tory he was thinking about defecting.",
         "pubDate": "2026-01-20T10:55:15Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e8d/live/f98a7e30-f5ee-11f0-a422-4ba8a094a8fa.png",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4307/live/e2fb8c80-f5fe-11f0-842b-5772902eef21.jpg",
         "bias": 0
       },
       {
@@ -736,22 +628,13 @@
         "bias": -1
       },
       {
-        "title": "Gretchen Whitmer says it's not 'paranoia' to fear Trump using the military in elections",
+        "title": "Gretchen Whitmer says it's not 'paranoia' to fear Trump using homeland security personnel in elections",
         "link": "https://www.npr.org/2026/01/20/nx-s1-5675187/gretchen-whitmer-trump-midterm-elections",
         "description": "NPR's Steve Inskeep speaks with Michigan Gov. Gretchen Whitmer about tariffs, the security of upcoming elections and the prospects of a female president.",
         "pubDate": "2026-01-20T10:00:00Z",
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Trump's Chagos dig poses massive strategic question for Starmer",
-        "link": "https://www.bbc.com/news/articles/cd9eznw7x7ko?at_medium=RSS&at_campaign=rss",
-        "description": "The prime minister has built his foreign policy around being seen as a trustworthy ally of the US president.",
-        "pubDate": "2026-01-20T09:51:14Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d708/live/e14467a0-f5f3-11f0-b385-5f48925de19a.png",
-        "bias": 0
       },
       {
         "title": "Ohio lawmakers want to try new approach to get Ten Commandments in schools",
@@ -790,15 +673,6 @@
         "bias": 0
       },
       {
-        "title": "Trump threats and Bukele model on crime back Latin American progressives into corner - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUzE2bkpuSE5rLW1wMVFVN0Fxa1pUQUNhN05DNi1uNDZhYU9neDR4RzgyRUIxSVBnSEJvX2R1WVBESnJjVU1HX1NUUUNKdnBKWVgtWGthR2FBTlMxbGFHeGdKaTZVT3FLQXlBV2RELWJNVGlLdkRrVmt6VnFrVW1BTFNNVU4zTFd2cGR2TGNfdjVhM01nNV96OHVLVFkwOHZ6Njl0cGFZdFc?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T05:40:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "The US political climate spurs efforts to reclaim the MLK holiday - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdnZESXlrUXd4dU9rVWFrTU5kQU1KNnRjQWJyNkNPQ1B5N2phdHlzMUpLODBsajJsdmxBOXdYZFlJNWpzZ2xzSi1CSzFONVRabXlJT3pOSm5rQXRyVVBiY1JMV3daYTRnUHJha1Q1bXFpQWhZS0lHSVg3YklkSkFCLWNxSEkzNU9vSlhKMEJDajItVmkxSFYxN0VWUnBjWTZqVkY0UW5Nb09wMkE?oc=5",
         "description": "",
@@ -815,104 +689,23 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "George Kittle’s Achilles tendon injury deemed ‘best-case scenario’ by doctors - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMWdMeFg2Mi1CTkFrcWJwbFpXTk1obC1zTU04c2lKcGlsdmtMM2cwMWFTbzE0RjUzV2tUMWNrSF9oUGVhV1hXVXlhZjEwYlh0cDJjdDRSQXZXdUtjNS0tWUs4ajJsU3FKZzRIMXRHbnZRaGF1dmtZcGVuZzJ6U190STM0MWZOQQ?oc=5",
+        "description": "",
+        "pubDate": "2026-01-20T01:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Tech": [
       {
-        "title": "Spain begins 3 days of mourning for deadly train wreck while death toll ticks up to 41 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN1R3eU5vY201N25XQnhReEFyX3VDd2RYdnU3UVhiRGF2bDA2SDNheHdTZExaOTROXzZ1ZUhwVTc4c0xReHZMZGRLd21UbXo2OXdLeXR2alBrVE0wd25iX01aQlE5cFpCemhySHNIWTlrSG8xVnQ2M0lNUmdPa0hDSGpxejR4Wi1ZejJWaA?oc=5",
+        "title": "Israel will aid Greece in countering military drone swarms - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQanI0WXNFbWZQRWJVaGdoM3BNV2hkLWh4N0VndHRTbWU4TDJ2N3NiNFFfb3dwaVNGTkU2Sm5DcG13am9Pem1NSHNKTUxNcmh1V0ptZWhIU3VlOUpHZjQ0NDI0VGQ3LW9PS3lFR2EwWXM3cm10ejVUQzhIMTNDeFFCR2xOUV9na2JFYTd6S3BuaWhGTmNlc3hlbDUxSQ?oc=5",
         "description": "",
-        "pubDate": "2026-01-20T11:10:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Israeli crews begin bulldozing UNRWA headquarters in east Jerusalem - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ2gycWlabFNqaTdFR0pHcTRoX1AyOTMtRy1saVBMMmR4a2FINEhMOFZWdDBLdFNSb2pLOWdXQmhjUTlESTIyV3lkWTJCNVFrMlhVOC1ZaUhvU2QtRENWV1JBZlpHMkdCQ0RxaUdJVXd6MVFhUW9RWlkzQ3VYM2JQS2s4NlJyWk5uUjVyaDU0TGNDbnBNX21MdjBqMTEtSlQzdVZXWVZyWGE?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T09:22:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Valentino, designer whose gowns made royals and movie stars feel beautiful, dies at 93 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcnZ2OXVrN2w1SnJ5a0dkcExXUkNDdXdianhiQUp5YXkzY1lPUUk4Ymo3dkw3SFplekNKTEVtNDByNXNFdF85Mk83YUlicWNDdmQ2QWE4V0E3Vzk4SUNTc0VSWXJuNW1DdnZ1Ti03V08waVdqblp4TmFKTTNYd05JbFZBYUthNjE1SHYtZ0g0Nl9nRHR0NHM5azJYOTV0ZW5zMF85Umh5UFNwUQ?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T06:17:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Trump ties his stance on Greenland to not getting Nobel Peace Prize - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMGh1a1VLR1N3WnRWV2JXRmkxb0NNVldKSzU4cFNCN0dLbkI2cG1ROUJqNE10dzhma1dUUlZBNjJOc1F6d3BoeUpjRXUybThVV0ZSM1d1UGF0NTA3SHYxeUJ2SUJpUGFYclVFQmVJVVI2V1hfS2h3V1paSWhiY1laV2I5THBqRFBaNjVlZnNyMGZUWDZYZkgzQWRB?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T06:15:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Indiana completes undefeated season and wins first national title, beating Miami 27-21 in CFP final - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdlRTR2xCb21zRWZhbDBfM1hndGt4LXpQd2VkZU5EX09ubWRoejRrbnFlamc0ZWY4T1FlLUtaRmJydjMzY2dWWXlMd2pVanJXaU45M00tRFFldmhFOU9OcE5WTVVSMllnOEJYQ2VmVEZRZm1pZ21yYlVPelpKdW9URzNuMVNvaTFjbEFieEJZUlo5ZUVOQl81dE1kN0E?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T05:51:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Trump’s Board of Peace has several invited leaders trying to figure out how it’ll work - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObW5JN3JTNFdYVHFWOG5sa1dQdzJYVmxwUHhKM0xBam9XNndWV05GTEJPcnIzb0lmZVZPSGtISnc1ZFg4UHB5LVVZeHRUbEx4TE80cHdpZlpINGlDU1pCU2Q1UmZmNlBWa05VVnJEb0FzNWI1V3R3MUoweE1UaHl1YWw2eE1QVWNobTZGX19EbDM0VDJsQXA4bHBTdXQ?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T05:27:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Surrounded by billionaires in Davos, Trump plans to lay out how he'll make housing more affordable - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTk9NWV9mTW9aWGVIcUU0ejZTQURCRUZkd0ppOFZTMFh3Z1AtWlFKbTItd3FzUEpvOE5NS1FkejliTzBFYUh3aktjdFZJRWE1cWduY01NOUN1NnZXdjdtM3V2OXpMN3JFemoyWnlXbUNCeTVNblVnSUVNeDZ0MXVqNVQxblZYZVZxTUlzY1ZtV1BBUElvaWlKSnZ3NXRDdy1pdy1rcl9aYw?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T05:20:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Democrat Mikie Sherrill to be sworn in as New Jersey’s 57th governor - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSldaRW1SZW9SSTlERE9sbF8yM3d4OGxxWnJ0aG05NzJqVUItaFYyZU55RHhvR3MxX2NpcDRVMUpHSVNMVTNnamZyaUNMejlNWEdoeGlScEJzY2VvM2c1VXBQc3F2VFlyMjdPSWVTZlloYlBJOXYwZmNOV0pOaXJ2bkNHQzhOMHREU2k4RF9hMDdHOUFheTNRc1B0NnJOcm9YVjA1UXpBdFNBYlE?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T05:03:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Researchers find Antarctic penguin breeding is heating up sooner, and that’s a problem - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZFpXelo0SDQxZnZQdFhvXzUtaXBDYzFMczFIcjhRZDRFMXo1dUlBb2dQMEdGalZ3V1NJVWh2STlSNmhWbENiNlhucWhFUHFmMEMzbHhsSGpyUHlwRGtqWW9ySHZxbnZRTXNvU2JmM21jNGNjZkpJTXlIUnJ1bGJ0b0ZlZ1hjQ0V6U3VCNUFrOHh2bnZhY0FYMktOd3V3Y2hfQkp6UWY2ZmRqWndyVmc?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T05:02:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Milan Fashion Week: Five trends and buzzwords from menswear previews for next winter - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcUVVLURMLUF4SHVDRVRsem11YXdpUW9kU0dEX0ZaYmdhSWNHc3JWT0ZxTnQ1dTVhZV84emNvd29UTE1CMVM0S0hKdWtTUVYzeW56YXFjdzRYYnZJU2p2UTY3STBVMGhBaDlMMkIzYW5yM1RYUW9GenVEbENUWW5ZbVdwS2RPNEpwaXJUcUltVHNNUFpvQVNLUkxn?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T03:06:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Goalie fight breaks out between Florida's Sergei Bobrovsky and San Jose’s Alex Nedeljkovic - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN1djWDN1N0tHc1VTNlBVaGZmNWFiMEtrSS1jV2YtUWtDekxXdmtaRExkc1N3VjRqWENFTDV0S21fZmRpVDljSHlHRnVIWWV2OHBHNnd2aXdBNXR5OEVnZjhpaVBROEI5amJQbTF5dnMySmhmdzdFNVpXby1kajNxanI4eUkxZVdyU21oVFRzYVRnb0dLQi1hLVpYTndIWUxtTEF3emRPWl9Mdw?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T01:32:00Z",
+        "pubDate": "2026-01-20T12:19:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -929,6 +722,15 @@
     ],
     "Science": [
       {
+        "title": "IMAX movie tells Ohio's environmental comeback story from burning river to top-ranked state parks - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM2k4bk5paEJNWVpBWFFudURnX0tWQ2gtNzJ3Z1BKcnRPZ2RmTTdOUXphRE11dy0zWGs5TG4zRmNpVDM5WE5acEhDZWhsbGtUeFNQeUQ0QU94RE82aS02Ti1McS12QjJXSHN5emxQdjJlNDZSRGxCQ2xWbUs4cXJqa1U2ajZBdmFtVE9VaFV4N3lfelRuVnlrcUxmOWpGZHc?oc=5",
+        "description": "",
+        "pubDate": "2026-01-20T02:36:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Hidden cameras reveal what hedgehogs really get up to after dark",
         "link": "https://www.bbc.com/news/articles/cdjnr7lr7pzo?at_medium=RSS&at_campaign=rss",
         "description": "Hedgehogs are surprisingly common in UK gardens, with food a powerful attraction, say scientists.",
@@ -939,6 +741,15 @@
       }
     ],
     "Business": [
+      {
+        "title": "Toy sellers keep close watch on social media ban",
+        "link": "https://www.bbc.com/news/articles/c07x5g594neo?at_medium=RSS&at_campaign=rss",
+        "description": "Toys for teenagers and adults have revived the industry, but it could be hit by any ban on social media for under-16s.",
+        "pubDate": "2026-01-20T12:07:54Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5a0/live/5ebdf210-f5f3-11f0-b80d-a572c9b81991.jpg",
+        "bias": 0
+      },
       {
         "title": "Internet shutdown squeezes Iran’s ailing businesses already hurt by crashing currency - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV2w2Q0ozRVk2ZWxDNGRuUHdna21PY0VrV0huTno1czFZdVh1ZWkxck5HbkVRQlh3UkxMbXoydmZkQkYxdWNkVWxoaFRrRHNyVktSVXJQZU5QYWtSNVluYjJqeFdnMGxjemVMYlhCbGFqV0lEb3FPcEpJeTR3ZXFBMUVKTVg5Q2tNc1kwZzhzODJrcEVyUjdJVVpzeU05V2w3b05LOUIyMER5OVU?oc=5",
@@ -1004,6 +815,24 @@
       }
     ],
     "Culture": [
+      {
+        "title": "I don't want to reconcile with family, says Brooklyn Peltz Beckham",
+        "link": "https://www.bbc.com/news/articles/ce3ekq4z5dyo?at_medium=RSS&at_campaign=rss",
+        "description": "Speculation has been circulating in the press for months over a rift in the Beckham family.",
+        "pubDate": "2026-01-20T13:00:45Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1251/live/161ab3d0-f5e5-11f0-b5f7-49f0357294ff.jpg",
+        "bias": 0
+      },
+      {
+        "title": "The bombshell claims in Brooklyn Beckham's post - from wedding dress drama to 'hijacked' first dance",
+        "link": "https://www.bbc.com/news/articles/cvg1rxgl80yo?at_medium=RSS&at_campaign=rss",
+        "description": "The 26-year-old made a series of allegations in a six-page Instagram post on Monday.",
+        "pubDate": "2026-01-20T12:27:38Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8089/live/b7eef660-f5f1-11f0-b5f7-49f0357294ff.jpg",
+        "bias": 0
+      },
       {
         "title": "Flats to block sea view made famous by Woolf novel",
         "link": "https://www.bbc.com/news/articles/ce3ekkd2nlvo?at_medium=RSS&at_campaign=rss",
