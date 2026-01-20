@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2026-01-20T06:51:53.225738Z",
+  "lastUpdate": "2026-01-20T07:28:10.151171Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Kickboard run [Free] [Action]",
+        "link": "https://masimaro.itch.io/kickboard-run",
+        "description": "Tap-only action! Loop 360°, zip lines, tunnels—stickman kick-scooter 2D runner.",
+        "pubDate": "2026-01-20T07:17:12Z",
+        "source": "masimaro.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MTAyNjIwLnBuZw==/315x250%23c/vlwxnD.png",
+        "bias": 0
+      },
       {
         "title": "Rocket Space [Free] [Other]",
         "link": "https://qeram.itch.io/rocket-space",
@@ -39,7 +48,7 @@
         "bias": 0
       },
       {
-        "title": "2D Pixel Art Cat's Sprite [$1.00]",
+        "title": "2D Pixel Art Cat's Sprite [50% Off] [$1.00]",
         "link": "https://wakenoguly.itch.io/catmotion",
         "description": "",
         "pubDate": "2026-01-20T06:24:20Z",
@@ -48,12 +57,21 @@
         "bias": 0
       },
       {
-        "title": "Sombras del Bosque [Free] [Adventure]",
+        "title": "Sombras del Bosque [Free] [Adventure] [Windows] [Android]",
         "link": "https://andrea-palomares.itch.io/sombrasdelbosque",
         "description": "Un juego de plataformas 2D donde la exploración, la naturaleza y los desafíos ponen a prueba tu valentía",
         "pubDate": "2026-01-20T06:22:04Z",
         "source": "andrea-palomares.itch.io",
         "image": "https://img.itch.zone/aW1nLzI1MTAyMzMyLnBuZw==/315x250%23c/%2BWW8KV.png",
+        "bias": 0
+      },
+      {
+        "title": "Serpentine Reflections [Free]",
+        "link": "https://mazemuncher.itch.io/serpentine-reflections",
+        "description": "",
+        "pubDate": "2026-01-20T06:11:44Z",
+        "source": "mazemuncher.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MTAyMjY5LnBuZw==/315x250%23c/W8bdEH.png",
         "bias": 0
       },
       {
@@ -126,6 +144,15 @@
         "pubDate": "2026-01-20T05:27:25Z",
         "source": "aiden-ji.itch.io",
         "image": "https://img.itch.zone/aW1nLzI1MTAxOTY2LnBuZw==/315x250%23c/cuhQS6.png",
+        "bias": 0
+      },
+      {
+        "title": "Terminal Descent [Free] [Adventure]",
+        "link": "https://sephyyy2123.itch.io/terminal-descent",
+        "description": "A precision-based 2D landing game where fuel, control, and risk determine your score.",
+        "pubDate": "2026-01-20T05:23:23Z",
+        "source": "sephyyy2123.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MTAxOTkzLnBuZw==/315x250%23c/UI9Oo0.png",
         "bias": 0
       },
       {
@@ -246,15 +273,6 @@
         "bias": 0
       },
       {
-        "title": "Cozy Taxi [Free] [Simulation]",
-        "link": "https://geegeeli.itch.io/cozy-taxi",
-        "description": "Drive passengers, earn cash, build a space program.",
-        "pubDate": "2026-01-20T02:26:47Z",
-        "source": "geegeeli.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MTAyMjg0LmpwZw==/315x250%23c/eN8Aqi.jpg",
-        "bias": 0
-      },
-      {
         "title": "Necris [Free] [Action]",
         "link": "https://jmrsn.itch.io/necris",
         "description": "Already bit. Vision fading. My only hope lies within.",
@@ -266,7 +284,34 @@
     ],
     "World": [
       {
-        "title": "Syria fighting live: Ceasefire under duress as army moves in to Hasakah",
+        "title": "Iran ‘just getting started’ on punishing ‘rioters’ arrested during protests",
+        "link": "https://www.aljazeera.com/news/2026/1/20/iran-just-getting-started-on-punishing-rioters-arrested-during-protests?traffic_source=rss",
+        "description": "Authorities are confiscating assets of people backing protesters to pay for damages incurred during the unrest.",
+        "pubDate": "2026-01-20T07:09:43Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "World Economic Forum at Davos 2026: Dates, location and what to expect",
+        "link": "https://www.aljazeera.com/economy/2026/1/20/world-economic-forum-at-davos-2026-dates-location-and-what-to-expect?traffic_source=rss",
+        "description": "Every year, the World Economic Forum meeting takes place at the Swiss Alpine resort of Davos.",
+        "pubDate": "2026-01-20T07:09:38Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Surfer injured in fourth shark attack in Australian state in 48 hours",
+        "link": "https://www.bbc.com/news/articles/cqxy3523nq2o?at_medium=RSS&at_campaign=rss",
+        "description": "Authorities are warning people to stay out of the Australian state's waterways after recent rainfall.",
+        "pubDate": "2026-01-20T07:05:23Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/027c/live/d55ec820-f59b-11f0-b385-5f48925de19a.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Syria fighting live: Ceasefire under duress as army moves into Hasakah",
         "link": "https://www.aljazeera.com/news/liveblog/2026/1/20/syria-fighting-live-ceasefire-under-duress-as-govt-moves-into-hasakah?traffic_source=rss",
         "description": "About 200 ISIL detainees escaped from al-Shaddadi prison with tit-for-tat allegations on who freed them.",
         "pubDate": "2026-01-20T06:37:18Z",
@@ -308,15 +353,6 @@
         "pubDate": "2026-01-20T05:59:00Z",
         "source": "news.google.com",
         "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Surfer injured in fourth shark attack in Australian state in 48 hours",
-        "link": "https://www.bbc.com/news/articles/cqxy3523nq2o?at_medium=RSS&at_campaign=rss",
-        "description": "Authorities are warning people to stay out of the Australian state's waterways after recent rainfall.",
-        "pubDate": "2026-01-20T05:48:52Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/027c/live/d55ec820-f59b-11f0-b385-5f48925de19a.jpg",
         "bias": 0
       },
       {
@@ -512,7 +548,7 @@
         "title": "George Kittle’s Achilles tendon injury deemed ‘best-case scenario’ by doctors - AP News",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMWdMeFg2Mi1CTkFrcWJwbFpXTk1obC1zTU04c2lKcGlsdmtMM2cwMWFTbzE0RjUzV2tUMWNrSF9oUGVhV1hXVXlhZjEwYlh0cDJjdDRSQXZXdUtjNS0tWUs4ajJsU3FKZzRIMXRHbnZRaGF1dmtZcGVuZzJ6U190STM0MWZOQQ?oc=5",
         "description": "",
-        "pubDate": "2026-01-20T01:00:00Z",
+        "pubDate": "2026-01-20T01:01:52Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -568,7 +604,7 @@
         "description": "Donald Trump's former chief economic adviser said the US president's actions are a negotiating tactic.",
         "pubDate": "2026-01-20T00:00:23Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10bf/live/e3414ab0-f593-11f0-b473-fb6bbf2283f0.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2358/live/ff3cc220-f5d0-11f0-a32c-ff5834b4c89e.jpg",
         "bias": 0
       }
     ],
@@ -590,15 +626,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Former Michigan State player and director of hockey operations Dan Sturges dies at 40 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMXMwVUVRdmpOM19RdVY4TnZLNXBXT2g0cm9DQ2hUaG01UjBKY0dsWXQ2MHFrRDdQRXRKMVREdno3T05oeHlhVFhTNkk3TkJwcHEtOGRpeGJaRGd0UWJlT29MblZoWllPZWVlWGs1NmxRWklZdm5tcDdidjA3UHVUZE5qUkttWllzeUhNVWhIWQ?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T00:18:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Tech": [
@@ -649,69 +676,6 @@
         "pubDate": "2026-01-20T06:09:16Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff6b/live/9a0afc60-f552-11f0-a712-a38af32eabc0.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Indiana completes undefeated season and wins first national title, beating Miami 27-21 in CFP final - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdlRTR2xCb21zRWZhbDBfM1hndGt4LXpQd2VkZU5EX09ubWRoejRrbnFlamc0ZWY4T1FlLUtaRmJydjMzY2dWWXlMd2pVanJXaU45M00tRFFldmhFOU9OcE5WTVVSMllnOEJYQ2VmVEZRZm1pZ21yYlVPelpKdW9URzNuMVNvaTFjbEFieEJZUlo5ZUVOQl81dE1kN0E?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T05:51:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Surrounded by billionaires in Davos, Trump plans to lay out how he'll make housing more affordable - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTk9NWV9mTW9aWGVIcUU0ejZTQURCRUZkd0ppOFZTMFh3Z1AtWlFKbTItd3FzUEpvOE5NS1FkejliTzBFYUh3aktjdFZJRWE1cWduY01NOUN1NnZXdjdtM3V2OXpMN3JFemoyWnlXbUNCeTVNblVnSUVNeDZ0MXVqNVQxblZYZVZxTUlzY1ZtV1BBUElvaWlKSnZ3NXRDdy1pdy1rcl9aYw?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T05:20:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Researchers find Antarctic penguin breeding is heating up sooner, and that’s a problem - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZFpXelo0SDQxZnZQdFhvXzUtaXBDYzFMczFIcjhRZDRFMXo1dUlBb2dQMEdGalZ3V1NJVWh2STlSNmhWbENiNlhucWhFUHFmMEMzbHhsSGpyUHlwRGtqWW9ySHZxbnZRTXNvU2JmM21jNGNjZkpJTXlIUnJ1bGJ0b0ZlZ1hjQ0V6U3VCNUFrOHh2bnZhY0FYMktOd3V3Y2hfQkp6UWY2ZmRqWndyVmc?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T05:02:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Valentino, designer whose gowns made royals and movie stars feel beautiful, dies at 93 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcnZ2OXVrN2w1SnJ5a0dkcExXUkNDdXdianhiQUp5YXkzY1lPUUk4Ymo3dkw3SFplekNKTEVtNDByNXNFdF85Mk83YUlicWNDdmQ2QWE4V0E3Vzk4SUNTc0VSWXJuNW1DdnZ1Ti03V08waVdqblp4TmFKTTNYd05JbFZBYUthNjE1SHYtZ0g0Nl9nRHR0NHM5azJYOTV0ZW5zMF85Umh5UFNwUQ?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T03:33:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Milan Fashion Week: Five trends and buzzwords from menswear previews for next winter - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcUVVLURMLUF4SHVDRVRsem11YXdpUW9kU0dEX0ZaYmdhSWNHc3JWT0ZxTnQ1dTVhZV84emNvd29UTE1CMVM0S0hKdWtTUVYzeW56YXFjdzRYYnZJU2p2UTY3STBVMGhBaDlMMkIzYW5yM1RYUW9GenVEbENUWW5ZbVdwS2RPNEpwaXJUcUltVHNNUFpvQVNLUkxn?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T03:06:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Goalie fight breaks out between Florida's Sergei Bobrovsky and San Jose’s Alex Nedeljkovic - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN1djWDN1N0tHc1VTNlBVaGZmNWFiMEtrSS1jV2YtUWtDekxXdmtaRExkc1N3VjRqWENFTDV0S21fZmRpVDljSHlHRnVIWWV2OHBHNnd2aXdBNXR5OEVnZjhpaVBROEI5amJQbTF5dnMySmhmdzdFNVpXby1kajNxanI4eUkxZVdyU21oVFRzYVRnb0dLQi1hLVpYTndIWUxtTEF3emRPWl9Mdw?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T01:32:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Trump ties his stance on Greenland to not getting Nobel Peace Prize - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMGh1a1VLR1N3WnRWV2JXRmkxb0NNVldKSzU4cFNCN0dLbkI2cG1ROUJqNE10dzhma1dUUlZBNjJOc1F6d3BoeUpjRXUybThVV0ZSM1d1UGF0NTA3SHYxeUJ2SUJpUGFYclVFQmVJVVI2V1hfS2h3V1paSWhiY1laV2I5THBqRFBaNjVlZnNyMGZUWDZYZkgzQWRB?oc=5",
-        "description": "",
-        "pubDate": "2026-01-20T01:11:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       }
     ],
