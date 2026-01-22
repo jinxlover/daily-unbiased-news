@@ -1,14 +1,23 @@
 {
-  "lastUpdate": "2026-01-22T05:04:49.104595Z",
+  "lastUpdate": "2026-01-22T05:45:00.516445Z",
   "news": {
     "Gaming": [
       {
-        "title": "PROJECT CORTEX V1 [Free] [Android]",
-        "link": "https://project-cortex.itch.io/project-cortex-v1",
-        "description": "",
-        "pubDate": "2026-01-22T04:39:30Z",
-        "source": "project-cortex.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MTMzNzA2LnBuZw==/315x250%23c/%2FEmD5B.png",
+        "title": "跳跳糖豆人｜Jump Jump sugar person [Free] [Sports]",
+        "link": "https://tsubomi1998-star.itch.io/jump-jump-sugar-person",
+        "description": "操作可愛的跳跳糖豆人，越過一切阻礙抵達椰子樹吧！",
+        "pubDate": "2026-01-22T05:22:58Z",
+        "source": "tsubomi1998-star.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MTMzODAxLmdpZg==/315x250%23c/h7a6y0.gif",
+        "bias": 0
+      },
+      {
+        "title": "300 Hryvni [Free] [Puzzle] [Windows] [Linux]",
+        "link": "https://saemideluxe.itch.io/300-hryvni",
+        "description": "Backpack-packing with a short narrative. Created in 48 hours with love and semicongine for the Ludum Dare Game Jam 54.",
+        "pubDate": "2026-01-22T05:20:01Z",
+        "source": "saemideluxe.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MTM0MDU1LnBuZw==/315x250%23c/mgNKak.png",
         "bias": 0
       },
       {
@@ -27,6 +36,24 @@
         "pubDate": "2026-01-22T04:15:48Z",
         "source": "tburger123123.itch.io",
         "image": "https://img.itch.zone/aW1nLzI1MTMzNTUyLnBuZw==/315x250%23c/0umFqP.png",
+        "bias": 0
+      },
+      {
+        "title": "Venice Chronicles - AI RPG Generator - API Required [Free] [Adventure]",
+        "link": "https://coldtimes.itch.io/venice-chronicles",
+        "description": "No GM needed: chat with an AI that runs your campaign and lets you shape the story in your own custom setting.",
+        "pubDate": "2026-01-22T04:13:42Z",
+        "source": "coldtimes.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MTMzODE5LnBuZw==/315x250%23c/sqqjmm.png",
+        "bias": 0
+      },
+      {
+        "title": "Mostruo Loco [Free]",
+        "link": "https://zebenzui.itch.io/mostruo-loco",
+        "description": "",
+        "pubDate": "2026-01-22T04:01:14Z",
+        "source": "zebenzui.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MTM0Mjc0LnBuZw==/315x250%23c/l4uhSW.png",
         "bias": 0
       },
       {
@@ -138,15 +165,6 @@
         "bias": 0
       },
       {
-        "title": "PROYECTO_QUIBUS [Free] [Visual Novel]",
-        "link": "https://joaquin2411.itch.io/proyecto-quibus",
-        "description": "Un pequeño testeo de videojuego interactivo desarrollado en Ren'Py",
-        "pubDate": "2026-01-22T01:43:19Z",
-        "source": "joaquin2411.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MTMyMDYzLnBuZw==/315x250%23c/7ZodOT.png",
-        "bias": 0
-      },
-      {
         "title": "Greed [Free] [Strategy]",
         "link": "https://alphazexc.itch.io/greed",
         "description": "Team up and backstab to make it out alive!",
@@ -174,15 +192,6 @@
         "bias": 0
       },
       {
-        "title": "Overtime: After Hours [Free] [Other]",
-        "link": "https://majin2027.itch.io/overtime-ae",
-        "description": "Short Horror experience in office.",
-        "pubDate": "2026-01-22T01:25:42Z",
-        "source": "majin2027.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MTMyMTA0LnBuZw==/315x250%23c/zA8REH.png",
-        "bias": 0
-      },
-      {
         "title": "NEON VOLT [Free] [Simulation] [Windows]",
         "link": "https://weltherinc.itch.io/neon-volt",
         "description": "",
@@ -203,6 +212,69 @@
     ],
     "World": [
       {
+        "title": "Hong Kong begins national security trial for organisers of Tiananmen vigils",
+        "link": "https://www.aljazeera.com/news/2026/1/22/hong-kong-begins-national-security-trial-for-organisers-of-tiananmen-vigils?traffic_source=rss",
+        "description": "Rights groups condemn trial of three activists accused of 'inciting subversion of state power'.",
+        "pubDate": "2026-01-22T05:16:20Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Ghislaine Maxwell to testify before US Congress in Epstein probe",
+        "link": "https://www.bbc.com/news/articles/cr7jlylp5keo?at_medium=RSS&at_campaign=rss",
+        "description": "The convicted sex trafficker has previously said she would decline to answer questions unless she is granted immunity.",
+        "pubDate": "2026-01-22T05:14:56Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fac/live/8ac48f00-f705-11f0-a665-fb6bca5a5e3d.jpg",
+        "bias": 0
+      },
+      {
+        "title": "TikTok, Facebook, YouTube: Bangladesh’s latest election battlegrounds",
+        "link": "https://www.aljazeera.com/features/2026/1/22/tiktok-facebook-youtube-bangladeshs-latest-election-battlegrounds?traffic_source=rss",
+        "description": "On-the-ground campaigning kicks off on Thursday, but parties have been locked in online battles for month.",
+        "pubDate": "2026-01-22T05:14:34Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Rescuers search for survivors after landslide at New Zealand campsite",
+        "link": "https://www.aljazeera.com/news/2026/1/22/rescuers-search-for-survivors-after-landslide-at-new-zealand-campsite?traffic_source=rss",
+        "description": "Several people were missing after heavy rains caused flooding and landslides across New Zealand's North Island.",
+        "pubDate": "2026-01-22T04:59:18Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Five killed in ‘treacherous’ attack on military convoy in Yemen",
+        "link": "https://www.aljazeera.com/news/2026/1/22/five-killed-in-treacherous-attack-on-military-convoy-in-yemen?traffic_source=rss",
+        "description": "Bombing targeted convoy carrying Giants Brigades' commander, an ally of the Saudi-backed government, authorities say.",
+        "pubDate": "2026-01-22T04:46:25Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "National security trial for Hong Kong’s Tiananmen vigil organizers opens - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTEF4VnY5cG1qSXI1YlJqb3lYakZIcThFNFpWZVY5ZmpaTHFOQ3ZJcjU3RDFPTUtSRzBRM2k5aGFqSjFZbndMcDNTbFA1a2pPQlBVVmZPTWdOaTc5eXZmMGt2QU1aWUpqWEE5c2hvZE8zaU9ZeGt2aS1MUTk4QTd6RkZHeFk1NEN4c2JyTWtyYThZUzRTenR1Smdmd2JOVkk?oc=5",
+        "description": "",
+        "pubDate": "2026-01-22T04:19:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "US government warns it will take action if Haitian politicians destabilize country - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQnRwMHhrc3BZemN0OTVKZ1YySHVWWmFIX1k1eXYtYV9fVHNqMkNFWjNtZVY4eUczeXpZMlh1cUhhbmNnYmJ4OC1VVGxwaFFGNkxkUnlsTVgyQnV0NDVqOGNONWRxMlVjb01zUHc2Y0ZSa0RCMW10c2Z1S3ZpNlB2ZzdLWlZkMlpWaDZkVXVwMDBzZXRoajRlcWlma3diQWJaZEVn?oc=5",
+        "description": "",
+        "pubDate": "2026-01-22T04:08:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Australia observes day of mourning for victims of Bondi Beach mass shooting",
         "link": "https://www.aljazeera.com/news/2026/1/22/australia-observes-day-of-mourning-for-victims-of-bondi-beach-mass-shooting?traffic_source=rss",
         "description": "Flags will be flown at half-staff to honour the victims of the December 14 shooting at Sydney's Bondi Beach.",
@@ -210,6 +282,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Iran offers first government-issued death toll from protest crackdown, one far lower than activists - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR3VQdmJ1TGRYNkpwQWo1MG9mQVpkR2ZkaUZ1MGRZakxIeVZYOGxOa0pFbVYyY2FKZUhhYkNtLWxtMXg2UGY2NW05OWJTUXNFWTlXdTlMaHZTbXVscEdSTG1BTkl0bko0SU1mYUNGQVdjdkF6S04zbndHQWtua3VmTVJKRzNxQ0xzUElLOWcxNmQzVWpjQ1JNNFp0ZGVUSDBRV25oTWdYYmU?oc=5",
+        "description": "",
+        "pubDate": "2026-01-22T03:40:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Trump says 'framework of a future deal' discussed on Greenland as he backs off tariffs threat",
@@ -237,15 +318,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "National security trial for Hong Kong’s Tiananmen vigil organizers opens - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTEF4VnY5cG1qSXI1YlJqb3lYakZIcThFNFpWZVY5ZmpaTHFOQ3ZJcjU3RDFPTUtSRzBRM2k5aGFqSjFZbndMcDNTbFA1a2pPQlBVVmZPTWdOaTc5eXZmMGt2QU1aWUpqWEE5c2hvZE8zaU9ZeGt2aS1MUTk4QTd6RkZHeFk1NEN4c2JyTWtyYThZUzRTenR1Smdmd2JOVkk?oc=5",
-        "description": "",
-        "pubDate": "2026-01-22T02:54:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Israel bombs four Syria-Lebanon border crossings; kills 2 in south Lebanon",
@@ -279,15 +351,6 @@
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRTNKZVpwdlB5R2RPS1VZS1g2dkJMTmxKeW9GQU9rSVNyUUdFQ0NmX0ZCLUk4ckc4UHV6TVROMlFHZ0l2aVRWQy1xV2htal8zQ2JiMXJVSGJrUF9hUnMwSFRpX00tQzdJS0VfSG5vazJEd2RjLUxGUkI4cUNXNWxQNjE0d21hM3MybFVHMVJ2aUtMQ2F4MmhTTW5LRVA5OWY0Mko0Q1ZMWnM2R0pMVjV5MXFxcDNnM3JnWFZNZk15RnExOU9wbC0tS3VrbDg?oc=5",
         "description": "",
         "pubDate": "2026-01-22T01:52:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Iran offers first government-issued death toll from protest crackdown, one far lower than activists - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR3VQdmJ1TGRYNkpwQWo1MG9mQVpkR2ZkaUZ1MGRZakxIeVZYOGxOa0pFbVYyY2FKZUhhYkNtLWxtMXg2UGY2NW05OWJTUXNFWTlXdTlMaHZTbXVscEdSTG1BTkl0bko0SU1mYUNGQVdjdkF6S04zbndHQWtua3VmTVJKRzNxQ0xzUElLOWcxNmQzVWpjQ1JNNFp0ZGVUSDBRV25oTWdYYmU?oc=5",
-        "description": "",
-        "pubDate": "2026-01-22T01:47:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -349,14 +412,16 @@
     ],
     "Politics": [
       {
-        "title": "US government warns it will take action if Haitian politicians destabilize country - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQnRwMHhrc3BZemN0OTVKZ1YySHVWWmFIX1k1eXYtYV9fVHNqMkNFWjNtZVY4eUczeXpZMlh1cUhhbmNnYmJ4OC1VVGxwaFFGNkxkUnlsTVgyQnV0NDVqOGNONWRxMlVjb01zUHc2Y0ZSa0RCMW10c2Z1S3ZpNlB2ZzdLWlZkMlpWaDZkVXVwMDBzZXRoajRlcWlma3diQWJaZEVn?oc=5",
-        "description": "",
-        "pubDate": "2026-01-22T04:08:00Z",
-        "source": "news.google.com",
-        "image": "",
+        "title": "Starmer warned of Labour rebellion if leasehold reforms watered down",
+        "link": "https://www.bbc.com/news/articles/czx3gz6pq90o?at_medium=RSS&at_campaign=rss",
+        "description": "Former minister Justin Madders tells the BBC Labour must stick to its pledge to cap ground rents.",
+        "pubDate": "2026-01-22T00:57:24Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c8a/live/4e093140-f6ee-11f0-9c4a-e59460e06bbd.jpg",
         "bias": 0
-      },
+      }
+    ],
+    "Tech": [
       {
         "title": "Former Uvalde officer acquitted in trial over police response to Robb Elementary attack - AP News",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU19mZGt4WV9IeFc0ZmtwODQ3Nm9PaHZvdG04alRVU2R6RXhabXdKOW5uaGVXZjBGS3dtUDh4MW5lYVZ2TEVtMlkwVW5zelNrRDR2X1hpNmJPUGc0aWY4UlZ6WC1fRjdLN3BlazFCdURib1N4X2tmMS1RdzAyelRCZ25LbUVaNjdqcjZFbmJ0ZWJGRFRfek10cFJUVzk?oc=5",
@@ -367,12 +432,12 @@
         "bias": 0
       },
       {
-        "title": "An expected major winter storm already has some leagues reshuffling games this week - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaVJZbmZuemJkN3haTVpkek92ajR6akdmbllYWjUzVVJkZ2dEc251eTZUdjRQYkctazFFVW9mRVJjSnM1N2lSblk2cE00T2s3c0hhR19NMHk0ZHpNQjgzcUFpMzlaSUxYQ3ZvNkxnaWdhX3RQVFEzMkhTd2tNbV92bFc3Ylk2V2l3?oc=5",
-        "description": "",
-        "pubDate": "2026-01-22T03:28:00Z",
-        "source": "news.google.com",
-        "image": "",
+        "title": "Bezos' Blue Origin announces satellite rival to Musk's Starlink",
+        "link": "https://www.bbc.com/news/articles/cn0yydwe89jo?at_medium=RSS&at_campaign=rss",
+        "description": "Blue Origin will be focused on businesses and governments, while Starlink also offers services to individual customers.",
+        "pubDate": "2026-01-22T03:15:27Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73aa/live/c94863d0-f734-11f0-ab85-cdd1a514d36d.jpg",
         "bias": 0
       },
       {
@@ -394,27 +459,26 @@
         "bias": 0
       },
       {
-        "title": "Starmer warned of Labour rebellion if leasehold reforms watered down",
-        "link": "https://www.bbc.com/news/articles/czx3gz6pq90o?at_medium=RSS&at_campaign=rss",
-        "description": "Former minister Justin Madders tells the BBC Labour must stick to its pledge to cap ground rents.",
-        "pubDate": "2026-01-22T00:57:24Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c8a/live/4e093140-f6ee-11f0-9c4a-e59460e06bbd.jpg",
+        "title": "Immigration enforcement arrives in Maine as a court freezes restrictions on tactics in Minnesota - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdGR6bGhvMGFDNjFqemtnY0VGanI4QUxGamszV1NJNUZLSXMydG45MjdFUDdkd3VrWThpVkhzRGdkMy04cEZBXzBFdFVkajd6VzAtRlNVUGxwYUo4d3dRb1Y0bVJpUHA3YXg2eWhkMTBvVDV0VzB3ZWNhX2pjRlowcUh6aXgxUEM5YUQ2dl9HMGd6QkNXdnJnQzNGeGVGNFZJT0R3MmdQdU4wYkxKZUhuaW9JSHNDMEVOanc?oc=5",
+        "description": "",
+        "pubDate": "2026-01-22T00:54:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       }
     ],
-    "Tech": [
+    "Science": [
       {
-        "title": "Bezos' Blue Origin announces satellite rival to Musk's Starlink",
-        "link": "https://www.bbc.com/news/articles/cn0yydwe89jo?at_medium=RSS&at_campaign=rss",
-        "description": "Blue Origin will be focused on businesses and governments, while Starlink also offers services to individual customers.",
-        "pubDate": "2026-01-22T03:15:27Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73aa/live/c94863d0-f734-11f0-ab85-cdd1a514d36d.jpg",
+        "title": "Judge tosses lines of NYC’s only Republican House seat, as state enters redistricting wars - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRnJaODl5ajZtb2xua09sSjl1OTVSLUZsakdJRWlPOEF1UldrQjhRWmpPUXFKUmNMdlBZNV9SeHZJZkl5cTB2RzBVcWNpWUtCX2ZBTjBKbGFjcVhNSVJpWDVhanVMOGZoS29WLTBDUEhqZy1ycjQyTDZ3cHU4WlNadFZjdjZPTGFvWDlnV2NwX0JzcWVjbWFSY1c1am42blVGNUpIdFIxQll3VzFwWW1yZ0IzYmpiMlpa?oc=5",
+        "description": "",
+        "pubDate": "2026-01-22T02:21:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       }
     ],
-    "Science": [],
     "Business": [
       {
         "title": "Trump credit card plan would be a 'disaster', JP Morgan boss warns",
@@ -423,15 +487,6 @@
         "pubDate": "2026-01-22T01:09:38Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b096/live/59c66860-f71e-11f0-9491-9dbdb0e655d1.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Immigration enforcement arrives in Maine as a court freezes restrictions on tactics in Minnesota - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdGR6bGhvMGFDNjFqemtnY0VGanI4QUxGamszV1NJNUZLSXMydG45MjdFUDdkd3VrWThpVkhzRGdkMy04cEZBXzBFdFVkajd6VzAtRlNVUGxwYUo4d3dRb1Y0bVJpUHA3YXg2eWhkMTBvVDV0VzB3ZWNhX2pjRlowcUh6aXgxUEM5YUQ2dl9HMGd6QkNXdnJnQzNGeGVGNFZJT0R3MmdQdU4wYkxKZUhuaW9JSHNDMEVOanc?oc=5",
-        "description": "",
-        "pubDate": "2026-01-22T00:54:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
