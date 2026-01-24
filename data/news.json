@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-24T23:40:57.667423Z",
+  "lastUpdate": "2026-01-24T23:55:40.075931Z",
   "news": {
     "Gaming": [
       {
@@ -72,6 +72,15 @@
         "pubDate": "2026-01-24T22:37:10Z",
         "source": "hnuke.itch.io",
         "image": "https://img.itch.zone/aW1nLzI1MTc4ODg1LnBuZw==/315x250%23c/6TpGJe.png",
+        "bias": 0
+      },
+      {
+        "title": "Void Tag [Free]",
+        "link": "https://novaaafr.itch.io/void-tag",
+        "description": "",
+        "pubDate": "2026-01-24T22:32:09Z",
+        "source": "novaaafr.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MTc4OTc2LnBuZw==/315x250%23c/6okqOX.png",
         "bias": 0
       },
       {
@@ -183,15 +192,6 @@
         "bias": 0
       },
       {
-        "title": "SantaCorps Snow Patrol: Director's Cut [$4.99] [Puzzle]",
-        "link": "https://virtuosoofficial.itch.io/santacorps-snow-patrol-dx",
-        "description": "Grab a shovel and don the parka of the Snow Patrol elf unit in this accessible arcade puzzle frenzy!",
-        "pubDate": "2026-01-24T20:36:45Z",
-        "source": "virtuosoofficial.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MTc3NDI2LnBuZw==/315x250%23c/gSLtR8.png",
-        "bias": 0
-      },
-      {
         "title": "Garn47 (Unofficial Linux Build) [Free] [Linux]",
         "link": "https://zbiotr.itch.io/garn47-unofficial-linux-build",
         "description": "",
@@ -210,16 +210,7 @@
         "bias": 0
       },
       {
-        "title": "SantaCorps 4: Director's Cut [$4.99] [Platformer]",
-        "link": "https://virtuosoofficial.itch.io/santacorps4dx",
-        "description": "",
-        "pubDate": "2026-01-24T20:34:34Z",
-        "source": "virtuosoofficial.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MTc3Nzg5LnBuZw==/315x250%23c/SI1sh6.png",
-        "bias": 0
-      },
-      {
-        "title": "Kanye Roulette [Free] [Survival]",
+        "title": "Kanye Roulette [demo] [Free] [Survival]",
         "link": "https://gaminglewis.itch.io/kanye-roulette",
         "description": "Kanye west russian roulette it's pretty obvious",
         "pubDate": "2026-01-24T19:32:00Z",
@@ -234,6 +225,15 @@
         "pubDate": "2026-01-24T17:17:40Z",
         "source": "teckno1.itch.io",
         "image": "https://img.itch.zone/aW1nLzI1MTc0NTU0LnBuZw==/315x250%23c/JaPu%2FM.png",
+        "bias": 0
+      },
+      {
+        "title": "Space Orbital [Free] [Survival] [Windows]",
+        "link": "https://romainutr.itch.io/space-orbital",
+        "description": "Spatial survival game for jam",
+        "pubDate": "2026-01-24T15:24:09Z",
+        "source": "romainutr.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MTc0ODYxLmpwZw==/315x250%23c/EdthBf.jpg",
         "bias": 0
       },
       {
@@ -266,10 +266,10 @@
         "bias": 0
       },
       {
-        "title": "Thousands of flights canceled as major winter storm moves across the US - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNnJ6ckVaODFqY2tTZEtJcjZpdE05VUdqUWk5Ykw4V0ttZjVTb3N1RDlWdFhQekRBQm45aEVYeWJZejhjX1N0MENqNkYxalFaa0xVYnBDeXFaY0xYQXRPdHY1MmhzZG5vTG9EaE9ybm1lZ0Q5T05iZ2o2YVkzdF95Z2RuZTBqbWRyQ3hXM3QxVVJKb0E?oc=5",
+        "title": "Man is shot and killed during Minneapolis immigration crackdown, National Guard activated - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbzdoM01UZGsyeXdoYWljWk9SNnZDUXBxZ1B6a2thNUlFN3ZfckkyeU1WSW9KSlMxVC0xTEI0YmxKTVBYTFVkYmx2aFVCdlVYdXVFaXdDYzJ0RlBKMTRnaFVVQUtGcjdONmNXWGdqb05uVkhHVFdTdWhhUmRzT1ZZcko0c24xd1NfVG03bzh1S21lRUs5a2M0cA?oc=5",
         "description": "",
-        "pubDate": "2026-01-24T23:12:00Z",
+        "pubDate": "2026-01-24T23:33:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -347,24 +347,6 @@
         "bias": -1
       },
       {
-        "title": "Stranded by winter weather? Here’s what airlines owe you - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWnZVVFBmeGM1ZUNzdjJXREU2ZC13WXh3V3A3amRORGhfR2ozNllEZENjZXlobWdLTG92SWJMVlkyZzczTDk2TzNnaDhNU0ZIb1hBRjRaeThwZGNfRnpMbEJvX002MnZCaTQ5X1U0TU5vbVZvTWZPWWZ1OUFEQnl3LXRkeWtTSUNITDhIc3UyWkd3MmFtcTI3MS1DQ1NxWTgtN0l2QzNYVFVYX0pjR2c?oc=5",
-        "description": "",
-        "pubDate": "2026-01-24T21:29:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Democrats Crockett and Talarico showed varied styles during Senate primary debate in GOP-heavy Texas - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbE1GUm9iNzZlLUI4SndMY3BkalM2M0xjYTBDTUptR1pEOWZLSExUWVFUM1YyVkhXcWhEa3RDTVRDVktGN05IeG50VXpKd2dvS3RSWkpJdlZnN1hPdDhPSlRqRC1OWG5FUTJXenhsamc0bnZNQUVPU0k0cnFNY25CeS1OQ2UzZUNob2VlbDdnbThmQk5INmM3d0xta2laaTNFTU43M0E5ekZ3NTVaQjZrN25B?oc=5",
-        "description": "",
-        "pubDate": "2026-01-24T21:21:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "NBA postpones Timberwolves-Warriors game in Minneapolis after fatal shooting by federal officer - AP News",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTzRDbzl2Q2NDX1ZZQ1R0SUZNYmh2MnozUU5PLWZFemdNMjBlN1hjaW1wd0Z2clRpUXBueXlybUVaR3JCMFNyb1B4VHZJQVlKTHl3RUlIeWtsNEE5RHRKazZTa0tuVUtUNDZWMG9xM0U1NXRIZnV3dEFEdXNtWTB5VEpfeUVSSy1jcVlxOU9uUVFmU2l1ZkVuREVEQWRNVllueU9GODdtVU50SkpKdXJR?oc=5",
         "description": "",
@@ -392,15 +374,6 @@
         "bias": 0
       },
       {
-        "title": "Man City wins after dropping Haaland and Liverpool loses on stoppage-time goal - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdmh0dl9SbmYtU1ctV0ExSkhKTExMd09PQ0UxVU1VZ2l1WHEzMDkyVXBmZEVQRUttR1lKWHdib0hxbTRTM0FjMFZPMTRpdlJFQndnU0hqcm8ySlZOX04wU0NscGtCU3hJREdqYkt0VXRHeHk3elNfOHBxcFhjVkZhR2QtSG1sSkg2eUdxZHJpQWlSQjNHOWJFUk5YNzZLTS16T25hY2xkUHppYUpKSGhj?oc=5",
-        "description": "",
-        "pubDate": "2026-01-24T20:29:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Ceasefire between Syrian army and Kurdish-led forces extended for 15 days",
         "link": "https://www.aljazeera.com/news/2026/1/24/ceasefire-between-syrian-army-and-kurdish-led-forces-extended-for-15-days?traffic_source=rss",
         "description": "Syrian defence ministry says extension aims to help transfer of ISIL prisoners from facilities previously held by SDF.",
@@ -410,28 +383,28 @@
         "bias": -1
       },
       {
-        "title": "Trump threatens Canada with a 100% tariff over its China trade deal and escalates feud with Carney - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQjJSOEN1ZFRpOUl1dTZ1UTlBSlJJT1lEMVQ2RGplQlZvR1NfMFFzaU9BbzhUWjhqckNUZ0tTdDdyQldveUtQc1JOMDc1LWk1MHYtZlJkbmZlYzQ5RWVzak9hUlIwdDRJS21NcWItQURfbTk2QU0wcUdIZy1ydFl3WTlPSkVvdTNUMnpnY3Zra2s4VHlCN21zZg?oc=5",
+        "title": "To the Premier League? Wrexham climbs into Championship playoff spot after dramatic win - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdXRtd3Y5dF9tNEVOTHdWMU05MUMtUnJJWWVObjVYQjZ6QVBVc0hvaFZRUUdsUW42NV9Dd1VwZ2RzODJvcm9hU2Y1ekRuOGpRamFURVBNYkxRakNJbVlQdWVtdkl3WmdZRW9FbTZ0dW5CMGh1dS04MmlzdDZWYjhKTXh5N0treWRBNUZ6Sw?oc=5",
         "description": "",
-        "pubDate": "2026-01-24T20:25:00Z",
+        "pubDate": "2026-01-24T19:54:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Wilson, Stevenson rally No. 22 North Carolina past No. 14 Virginia 85-80 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcVA5VDZxX2VreUlhSHQxdDJleXZmNkpjRUFpZm5PYTh6Q2JYWkh0UVNGdHpXa1RsMjJrR2VienNqM2ItY1MwLVNid1Y0a3NjUWJBU0p3cXYtcXkwbGJXa3I5bUM0NnUzeE9zajlHZGE1SjNnYlVBQTlwSElqQ2J4dGRERS1UMGFBaENaUVZWU3BjTnNXVGhEZW4yazVHejF2dWc?oc=5",
+        "title": "Natalie Portman, Seth Rogen, Jenna Ortega arrive for Sundance Film Festival premieres - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWkN2UklxaDhGWXprQ1RSWE9zU2lVTHRsbm9NY21VQ2JpWWpMeHUyX3RGcGFUTXJLREVNRkVKZXk2Rms5YlFsWXpQMGxUcEJtU1dJUkUzQi15VmNzSWVhZVlPeG1RXzVlR2FhVHRobDdDellSOXBNNkVSN240SzM5OGZvbmE3dElQWkpibEV4ZUFwRUNySjlaanJkTC14Q3RKcHNIYTRoMF9DZFRQRmxPSA?oc=5",
         "description": "",
-        "pubDate": "2026-01-24T19:26:00Z",
+        "pubDate": "2026-01-24T19:50:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Shiffrin returns to GS podium after 2 years. Hector wins and Moltzan second - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWmlmWHA5d2h1c0NjOWNlQkxtelZzemhmUWhxZkt0VGEzS1hjYjMySFNRTWFOYUxVX3UxS0ZDWkt3OGJNV1NRMEhST1hqWEpBaW05MFVjd2ZjNV9SV29pUEFONko1djZIWFNtRE03Y3lSOXkxSWU1WVQ5N2RBS0ZDWWhWVWJpYXduYm43WjBGY3VFbk84NkhONzRpSzRSTmpvUFVOMlNZOA?oc=5",
+        "title": "Trump heaps praise on UK troops following furor over Afghanistan comments - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOblZPNmhZcmp0ZXByYUkzMy0yUnRlTWNkWUEzOTlGZktfdTFVd1VfbzA5R2JSalRnR3Itb0JXajVzNDBuclpLcFhGLXFCM2RQT21uOVh6Z2RCLXJtRk9vZmNWUks5S0IwT09oanh1eVFCcHBoT3J2MWdUSlEyUmFiX3ZXa3NPSXJ1SlNQNVh4ek9wemk3bHFtNQ?oc=5",
         "description": "",
-        "pubDate": "2026-01-24T19:13:00Z",
+        "pubDate": "2026-01-24T19:39:17Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -453,6 +426,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "In the rehearsal tent: Here's what makes the Milan Cortina Winter Olympics opening ceremony special - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPem1CRHJ6a1pkS3B1TTh2Y01YeFZrdFM0cFFvNUtJLVJxbWMwSWZQV1dGallqcDQ5ZXR5VXowcTQyQ3lBb29kTkxXeFo1V2NBN2J6Nno2NjhHckU1WG55UEI0Q0JyTTQ0Zk52NHpWYVVBWXgtLUVKQWJHX2dkUzJhTUlfU05UUEFXdERtSVVzRFczek9TMzk1d3V3NHBrQ19GNWVzcUNMajBhdjN6M3Vz?oc=5",
+        "description": "",
+        "pubDate": "2026-01-24T18:28:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Snow ploughs battle blizzards on roads and runways in Oklahoma",
@@ -482,6 +464,15 @@
         "bias": -1
       },
       {
+        "title": "Dave Franco and O’Shea Jackson Jr. lead road movie gone wrong, bringing comedy to Sundance - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZmM4bThZUjdUZzhFM1dudE5SQnJNY3JSV2E1Sm03aFZpQUZyYnd5d0xiTkJtVXFQbTB2S1hGVkFQTUpjNldFMGtYaFVmVldzS0RiX21OUmd5cVRaZ2JZdFJIWUJ5RXZCT0J2SEZacHdQUW1vd2xnUWZIa3RadHlIY0Y0Qm04bGplUk1aaXpUcTRZdkZPeTZBcVhrWHpvZ3ppRkE?oc=5",
+        "description": "",
+        "pubDate": "2026-01-24T17:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "US federal agents shoot and kill another person in Minneapolis",
         "link": "https://www.aljazeera.com/news/2026/1/24/us-federal-agents-shoot-another-person-in-minneapolis-governor?traffic_source=rss",
         "description": "Minneapolis police chief Brian O'Hara says a 37-year-old man died in hospital after suffering multiple gunshot wounds.",
@@ -498,15 +489,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Robert Redford remembered for his mentorship of new filmmakers at Sundance gala - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObmU5S0VpczB1RWJKcm5iSWo3eV9QX2FaSTRQV1B3M0QtZ0RnSmwtQnBvdDBHbnRTVjhoaVl3VGxYZm9ndXp0Q2pCSFItX0RqZC1TajVGaXJIMF9uTkhTLUV2Y1ctWjd4dmN1SUw4SVJFc1h0bEVYVWNPVkFjclQ1a1VZejBuRXVOR3JpeW9OUTg0WnBMRHdnR3Fhdk9SSlNBY1B3TDNHM2g?oc=5",
-        "description": "",
-        "pubDate": "2026-01-24T16:33:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Trump threatens 100 percent tariff on Canada over China deal",
@@ -548,7 +530,7 @@
         "title": "Trump housing finance chief OKs more mortgage spending and adds risk for government-backed lenders - AP News",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWjFMb284M3Q5eERkNFZzMkhGTlR6dGRhVHRxb1hzZnJYSDFRRzdReEhDV2dhM3BpeTJjR3JNdUFoN3Q5RWMwNVdmaWZ5Z0FvQy0xbERUcjN6Yy11NkVFQjVWTkpWblZlUHBiS3ZaYlVJeGxZNy1jQ005WW1EN0RrNTFEa2tmbVJNRGV4azNfQkRsTjZKd1F0aHVaUWlNZ2pROTRObkwwTQ?oc=5",
         "description": "",
-        "pubDate": "2026-01-24T15:31:00Z",
+        "pubDate": "2026-01-24T15:33:45Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -601,6 +583,15 @@
       {
         "title": "Toyota recalls 162,000 trucks over faulty screens - AP News",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdmxiUzFUU3h1TXJnTDBtbWUzM3hvVjBDWEU3cnd1VmhkcWk2T0ZqZ3RzY19fT1BEUkRVTHRfU2JSUzVkSnhOSFl6bEVKU0lQTG1iVkVSV2N6RHhJMFpjZnllQW0wQXlNdDZBWUJBdUotSW5Hb1d0QmxEZlNmLTlFTFdaNXdiX3l6RFNHR1B1c04xVjFjbU0wOWoycw?oc=5",
+        "description": "",
+        "pubDate": "2026-01-24T14:38:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "How the old and new US defense strategies differ on traditional priorities - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOHZsc2tmUUZqYjN6UU91VGhTMUd4NVIyYzM4SjBoNFVBcm9kWE53a19NZmx5QzBpRERPeWc4SnNMV1Q2OUVVQWRITk9mQndPVGFaSGljSjFMRngwVlBFUGpwVGhqdXhBYUp0SUdBMGdSZ1UtQVdkZ0tYYW5TUDRlU3ItcUxlZkNHeWNUUDVwbGJnQWppU3VTbFhBUmFpUQ?oc=5",
         "description": "",
         "pubDate": "2026-01-24T14:38:00Z",
         "source": "news.google.com",
@@ -662,6 +653,15 @@
         "bias": 0
       },
       {
+        "title": "Cheers! Stan Wawrinka bids farewell at Australian Open with beers and gratitude - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUlZIUlZRMHZPVmtPTWxnVkdLbHdyeEFEcmVLT09PZmpvdFVSY2dZVkhROFFUSDZ5LWVxNG5FVmdDdHdXYy1wWjlDQjFja084OFFHRTNVNlhDUVJBWUhpSVVINWZTZm5IR3JrX2hlcGJNSnhLbHd3bTdYUE5NZ01xNXNraDAxdlNPT0dJR1E0R2FTaW9IbWRLNG1wQ3JYbFhMMjY5aQ?oc=5",
+        "description": "",
+        "pubDate": "2026-01-24T13:14:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Trump’s imperial tantrum",
         "link": "https://www.aljazeera.com/video/the-listening-post/2026/1/24/trumps-imperial-tantrum?traffic_source=rss",
         "description": "Trump’s imperial rampage - the tweets, the rants, the petulance.",
@@ -709,10 +709,19 @@
     ],
     "Politics": [
       {
-        "title": "Man is shot and killed during Minneapolis immigration crackdown, National Guard activated - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbzdoM01UZGsyeXdoYWljWk9SNnZDUXBxZ1B6a2thNUlFN3ZfckkyeU1WSW9KSlMxVC0xTEI0YmxKTVBYTFVkYmx2aFVCdlVYdXVFaXdDYzJ0RlBKMTRnaFVVQUtGcjdONmNXWGdqb05uVkhHVFdTdWhhUmRzT1ZZcko0c24xd1NfVG03bzh1S21lRUs5a2M0cA?oc=5",
+        "title": "Thousands of flights canceled as major winter storm moves across the US - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNnJ6ckVaODFqY2tTZEtJcjZpdE05VUdqUWk5Ykw4V0ttZjVTb3N1RDlWdFhQekRBQm45aEVYeWJZejhjX1N0MENqNkYxalFaa0xVYnBDeXFaY0xYQXRPdHY1MmhzZG5vTG9EaE9ybm1lZ0Q5T05iZ2o2YVkzdF95Z2RuZTBqbWRyQ3hXM3QxVVJKb0E?oc=5",
         "description": "",
-        "pubDate": "2026-01-24T23:33:00Z",
+        "pubDate": "2026-01-24T23:12:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Hermès menswear designer Nichanian takes final bow after 37 years - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZW1FLUo5OU5qN3lJaFVzTVNLSnZVQWc2OTgxd0tIWHBwSmdwZ0lId0xUdkJLV0d0WEFOZV9sazlKRmtCSkM5bzVjYzBwY3E4Vjl3a1BzaVI2aERjbVRMTjVJVVJvdnRjWEREWHZUTF9nZENESmphU3dTWHp6UGY4bVRoMUdVU1h1dWlab3d3?oc=5",
+        "description": "",
+        "pubDate": "2026-01-24T22:39:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -727,28 +736,46 @@
         "bias": 0
       },
       {
-        "title": "To the Premier League? Wrexham climbs into Championship playoff spot after dramatic win - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdXRtd3Y5dF9tNEVOTHdWMU05MUMtUnJJWWVObjVYQjZ6QVBVc0hvaFZRUUdsUW42NV9Dd1VwZ2RzODJvcm9hU2Y1ekRuOGpRamFURVBNYkxRakNJbVlQdWVtdkl3WmdZRW9FbTZ0dW5CMGh1dS04MmlzdDZWYjhKTXh5N0treWRBNUZ6Sw?oc=5",
+        "title": "Stranded by winter weather? Here’s what airlines owe you - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWnZVVFBmeGM1ZUNzdjJXREU2ZC13WXh3V3A3amRORGhfR2ozNllEZENjZXlobWdLTG92SWJMVlkyZzczTDk2TzNnaDhNU0ZIb1hBRjRaeThwZGNfRnpMbEJvX002MnZCaTQ5X1U0TU5vbVZvTWZPWWZ1OUFEQnl3LXRkeWtTSUNITDhIc3UyWkd3MmFtcTI3MS1DQ1NxWTgtN0l2QzNYVFVYX0pjR2c?oc=5",
         "description": "",
-        "pubDate": "2026-01-24T19:54:00Z",
+        "pubDate": "2026-01-24T21:29:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Natalie Portman, Seth Rogen, Jenna Ortega arrive for Sundance Film Festival premieres - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWkN2UklxaDhGWXprQ1RSWE9zU2lVTHRsbm9NY21VQ2JpWWpMeHUyX3RGcGFUTXJLREVNRkVKZXk2Rms5YlFsWXpQMGxUcEJtU1dJUkUzQi15VmNzSWVhZVlPeG1RXzVlR2FhVHRobDdDellSOXBNNkVSN240SzM5OGZvbmE3dElQWkpibEV4ZUFwRUNySjlaanJkTC14Q3RKcHNIYTRoMF9DZFRQRmxPSA?oc=5",
+        "title": "Steelers and Mike McCarthy have reached a verbal agreement for McCarthy to coach his hometown team - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS3dsV0JBTU42eHdfZE5wcDY1NmRrM2s1YUl4Sms5S3k4T0R2TGExZmpETVZxcWxBazZqcUdMdzFBanhQX3h4TnI0SWNmMnh1QW04NnpRN1N5X0UyNXlxbTFEQXNQQjN6eTVzOEF6N24tYUNBY0tKZVZNb0lZYnE4VmhZdjNCMjg0Vm1NV0x6bldmNndiN1E?oc=5",
         "description": "",
-        "pubDate": "2026-01-24T19:50:00Z",
+        "pubDate": "2026-01-24T20:26:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Trump heaps praise on UK troops following furor over Afghanistan comments - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOblZPNmhZcmp0ZXByYUkzMy0yUnRlTWNkWUEzOTlGZktfdTFVd1VfbzA5R2JSalRnR3Itb0JXajVzNDBuclpLcFhGLXFCM2RQT21uOVh6Z2RCLXJtRk9vZmNWUks5S0IwT09oanh1eVFCcHBoT3J2MWdUSlEyUmFiX3ZXa3NPSXJ1SlNQNVh4ek9wemk3bHFtNQ?oc=5",
+        "title": "Trump threatens Canada with a 100% tariff over its China trade deal and escalates feud with Carney - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQjJSOEN1ZFRpOUl1dTZ1UTlBSlJJT1lEMVQ2RGplQlZvR1NfMFFzaU9BbzhUWjhqckNUZ0tTdDdyQldveUtQc1JOMDc1LWk1MHYtZlJkbmZlYzQ5RWVzak9hUlIwdDRJS21NcWItQURfbTk2QU0wcUdIZy1ydFl3WTlPSkVvdTNUMnpnY3Zra2s4VHlCN21zZg?oc=5",
         "description": "",
-        "pubDate": "2026-01-24T19:39:17Z",
+        "pubDate": "2026-01-24T20:25:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Wilson, Stevenson rally No. 22 North Carolina past No. 14 Virginia 85-80 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcVA5VDZxX2VreUlhSHQxdDJleXZmNkpjRUFpZm5PYTh6Q2JYWkh0UVNGdHpXa1RsMjJrR2VienNqM2ItY1MwLVNid1Y0a3NjUWJBU0p3cXYtcXkwbGJXa3I5bUM0NnUzeE9zajlHZGE1SjNnYlVBQTlwSElqQ2J4dGRERS1UMGFBaENaUVZWU3BjTnNXVGhEZW4yazVHejF2dWc?oc=5",
+        "description": "",
+        "pubDate": "2026-01-24T19:26:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "A bereaved father in Gaza tries to will his son back from the dead - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZlIzMkFydnN0U284QTN6dWFGRUpRRE5iVEJRZDNzYzJXeXgyMnBTZkhFOW9WeTYzbXN6SEl6WW0ySE9Qc3U1MlFsWFNnNGxhTXRPT3R0bmpUNmU5Qk9panpqNUxGMHZQeXZmV3I3NERjRm5nVGI3OGViZGF1RmNXYk1hNGhwcE50aDZWX3NJc0JYVlR6UDlXNDNCTnlqOHkz?oc=5",
+        "description": "",
+        "pubDate": "2026-01-24T19:23:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -763,28 +790,28 @@
         "bias": 0
       },
       {
-        "title": "In the rehearsal tent: Here's what makes the Milan Cortina Winter Olympics opening ceremony special - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPem1CRHJ6a1pkS3B1TTh2Y01YeFZrdFM0cFFvNUtJLVJxbWMwSWZQV1dGallqcDQ5ZXR5VXowcTQyQ3lBb29kTkxXeFo1V2NBN2J6Nno2NjhHckU1WG55UEI0Q0JyTTQ0Zk52NHpWYVVBWXgtLUVKQWJHX2dkUzJhTUlfU05UUEFXdERtSVVzRFczek9TMzk1d3V3NHBrQ19GNWVzcUNMajBhdjN6M3Vz?oc=5",
+        "title": "Shiffrin returns to GS podium after 2 years. Hector wins and Moltzan second - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWmlmWHA5d2h1c0NjOWNlQkxtelZzemhmUWhxZkt0VGEzS1hjYjMySFNRTWFOYUxVX3UxS0ZDWkt3OGJNV1NRMEhST1hqWEpBaW05MFVjd2ZjNV9SV29pUEFONko1djZIWFNtRE03Y3lSOXkxSWU1WVQ5N2RBS0ZDWWhWVWJpYXduYm43WjBGY3VFbk84NkhONzRpSzRSTmpvUFVOMlNZOA?oc=5",
         "description": "",
-        "pubDate": "2026-01-24T18:28:00Z",
+        "pubDate": "2026-01-24T19:13:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Dave Franco and O’Shea Jackson Jr. lead road movie gone wrong, bringing comedy to Sundance - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZmM4bThZUjdUZzhFM1dudE5SQnJNY3JSV2E1Sm03aFZpQUZyYnd5d0xiTkJtVXFQbTB2S1hGVkFQTUpjNldFMGtYaFVmVldzS0RiX21OUmd5cVRaZ2JZdFJIWUJ5RXZCT0J2SEZacHdQUW1vd2xnUWZIa3RadHlIY0Y0Qm04bGplUk1aaXpUcTRZdkZPeTZBcVhrWHpvZ3ppRkE?oc=5",
+        "title": "Robert Redford remembered for his mentorship of new filmmakers at Sundance gala - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObmU5S0VpczB1RWJKcm5iSWo3eV9QX2FaSTRQV1B3M0QtZ0RnSmwtQnBvdDBHbnRTVjhoaVl3VGxYZm9ndXp0Q2pCSFItX0RqZC1TajVGaXJIMF9uTkhTLUV2Y1ctWjd4dmN1SUw4SVJFc1h0bEVYVWNPVkFjclQ1a1VZejBuRXVOR3JpeW9OUTg0WnBMRHdnR3Fhdk9SSlNBY1B3TDNHM2g?oc=5",
         "description": "",
-        "pubDate": "2026-01-24T17:00:00Z",
+        "pubDate": "2026-01-24T16:33:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "How the old and new US defense strategies differ on traditional priorities - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOHZsc2tmUUZqYjN6UU91VGhTMUd4NVIyYzM4SjBoNFVBcm9kWE53a19NZmx5QzBpRERPeWc4SnNMV1Q2OUVVQWRITk9mQndPVGFaSGljSjFMRngwVlBFUGpwVGhqdXhBYUp0SUdBMGdSZ1UtQVdkZ0tYYW5TUDRlU3ItcUxlZkNHeWNUUDVwbGJnQWppU3VTbFhBUmFpUQ?oc=5",
+        "title": "Iran’s Revolutionary Guard commander warns the US his force has its ‘finger on the trigger’ - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLXRqa3FxZXhUUDk0elVRWUdUNnJSeTZsdlFnQjhBLUFqZV9KQ3VWak9BTmpvNzNJbzZ1NzJOYS1UV1l2bDJaSjg2S1BhWFl3OFpUMXlkVFRoaXJpc2VzcTlXa1BsNGp4NUM2ODZ3bnQ1cTNKSFhoVndwTVVxZGU4SDJVRl9NMW43bGR6cmw3SmRKOEJ3dWpobGc5N2pzeTFk?oc=5",
         "description": "",
-        "pubDate": "2026-01-24T14:38:00Z",
+        "pubDate": "2026-01-24T15:52:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -799,10 +826,10 @@
         "bias": 0
       },
       {
-        "title": "Cheers! Stan Wawrinka bids farewell at Australian Open with beers and gratitude - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUlZIUlZRMHZPVmtPTWxnVkdLbHdyeEFEcmVLT09PZmpvdFVSY2dZVkhROFFUSDZ5LWVxNG5FVmdDdHdXYy1wWjlDQjFja084OFFHRTNVNlhDUVJBWUhpSVVINWZTZm5IR3JrX2hlcGJNSnhLbHd3bTdYUE5NZ01xNXNraDAxdlNPT0dJR1E0R2FTaW9IbWRLNG1wQ3JYbFhMMjY5aQ?oc=5",
+        "title": "Sinner overcomes cramps, heat to continue Australian Open title defense. Djokovic gets 400th win - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUlM1VDhWOWJBa0tBSWRjdHBFSDVwMld6M2RyeWgzMnVnUHluZnFsVTd3a2hNTjRuSG5hV3dPUFNSMmRxeE5DSVlOQUNBZ3lWNFVXSFdEVU1FQzJUYVd3T1kzZ0ZULUhiczdxTWNfdXRtMG43LUg3bzNIUWRMYnBCOG5SMi1GamU4aGVjM3dONWEzUzZrTmJmSy1LUDBLWlFqbER5b3RlbV9aQjg?oc=5",
         "description": "",
-        "pubDate": "2026-01-24T13:14:00Z",
+        "pubDate": "2026-01-24T14:00:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -826,6 +853,15 @@
         "bias": 0
       },
       {
+        "title": "How a court win could help the Democrats pick up a House seat in New York - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVnpjUi1fcVpMUkRHRGZJOHhwakZVR181dndoa2NCVnItQ29vRmRMWTJZbHE5UE42aXVOYTZPbEYzbnNNOUVScTdkclZ4bzdLSWYxSXdaVEszWW11enlaeWYxZllBZXZWcDJsQzFDcHR0Rk1CRFpCcTFPT2hXNnZCVkNzTng1dWwtVFVFQjZSeUk2S3dYeWkxbUlObVhtMHl1bXdCUS1TaU53Zi1NQVNYb2M5YzhRQkg2?oc=5",
+        "description": "",
+        "pubDate": "2026-01-24T11:02:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "A deadly standoff in 1992 changed federal use-of-force rules. Here's why it matters",
         "link": "https://www.npr.org/2026/01/24/nx-s1-5684002/ice-minnesota-minneapolis-renee-macklin-good-ruby-ridge-idaho-deadly-force",
         "description": "An encounter with white separatists decades ago led to new deadly force policies for some federal law enforcement. Minneapolis is raising questions about whether it's again time to revisit the issue.",
@@ -844,130 +880,19 @@
         "bias": -1
       },
       {
+        "title": "Combining exercise with volunteering works out for members of a UK alternative to gyms - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQVZzZ1JqdU1WaWcxbWREaTdyLWlWcC1xVlFidFdmTHcxVkJHYkNYX25mblhBeks1bTFOSGphNTlkMl9MUkpSZkNGOHJsUHQ5VzJmT2hXRHU1Y0lWRVdhbHBPMGppcWF6YjB4dXMxVVdvTnF5ODNKN05RLWFINUdXQ05pMFg0bzVCOEF2bGRvdXd1dw?oc=5",
+        "description": "",
+        "pubDate": "2026-01-24T05:05:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Suns’ Devin Booker rolls his ankle and Jalen Green also hurt in loss to Hawks - AP News",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN1E2MVV1c01ULTQtT2xJU1lud2NPREJjY25tUzNYXzhzNFkzcE5VS19maUxqNUN0M2duenVOelhyNFhwWk5Pb25hSXlqNnhKSnpSRnpxVFY0R0RTd0pLZDA5WnlITmJ5V2pZd0NKTlRvb0RhY2cyeGc4MzcwaG5vd2VvaFZQSEpSVW11V1FDRHNTQ2li?oc=5",
         "description": "",
         "pubDate": "2026-01-24T04:48:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "More than half the US threatened with ice, snow and cold in massive winter storm - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRnBmQjdmV2JHbzNHQzZxU09JVy1DS0JtaDNBYkh0WXJIT2xCbHRtYm53VmtscElQZW0wbEJBMThHY0EyZm9IOE9vRmcxM3QtQzJ6S05RNklnbWdkbFUtQnBCRFRJOTNWQjM4N0ZnQm5NTzJqZmJRUUxDeGNGaDdVOWJDMUNJNXJEcXZUZmxjMGZOcnFaZlNyaW9wYjA?oc=5",
-        "description": "",
-        "pubDate": "2026-01-24T02:42:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Chinese asylum seeker who exposed rights abuses fights to stay in the US - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMVIwY3MxdktCMFpjU2lwTXhTaUtnNDV4MFo2NjZFekVVVUVjdFF2QWhyWjNJUFRrYmZTeDlSbFJQTVdKVEFQTm5MNDZmTUVQQXJ5bldIRjBEamlIR2FBVXFpZldmQVZWeHZPUUVNeGliRHpLaG1KRDc5T2Z3N0t5MDVvdFJFUThhanpOUXE5N3Zqb040ZkVWeTJHX0hpdFRWbTBOUjJqTC15WUl0Q2c?oc=5",
-        "description": "",
-        "pubDate": "2026-01-24T02:26:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Philadelphia sues over removal of slavery exhibit at Independence National Historical Park - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSGdwY2lueGFmRnR5ZUVJN2xjczZjMmlrY2RQeENYSjhzb3VMa18xQXB1ZGUyWjlBaUNaUDAtcUdOQ2xpUjd2STU2Zk5JbGFQcS1GTTQxMXBraV9IMTFaRWJIYl8tMFFZUHM3N3MzWnp0eEFRTllJWkFZTFVmNXJXZGpMNU80clU3a0syVEh2eVVOT1lTMUFtc3lsU3NqQjBNcmNoODUzNXVyS0xLMFlHMml2cDhGcWo1SkE?oc=5",
-        "description": "",
-        "pubDate": "2026-01-24T00:17:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Animal advocates prepare to weather winter storm with 80 rescued dogs in a Mississippi warehouse - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeHctc3NRR2k0Y0hhTUh0Ukt0bFZORkhVSTdOQVNZNVBETzRWVE14bnJyQkNZaFc5OXpiWEhXMnlWSEpoWFZoU3JaTlExYjNUX3lfWXNSQVpDMm9GMGlOTWNZN0tpR2dIYzVlN05jSDNKWHR1OUNqaHBKWXNuOUk2d2xaSzNxcWlrbmgwMUNSWlppRWhvWEp0T1AwSQ?oc=5",
-        "description": "",
-        "pubDate": "2026-01-24T00:06:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      }
-    ],
-    "Tech": [],
-    "Science": [
-      {
-        "title": "The man killed by a US Border Patrol officer in Minneapolis was an ICU nurse, family says - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTV9CMlJKOFF2aG9yREh4YnNfNFp3dmhRMzFwWDZwMzVWVXc5dVpxYjUyYXdrYTN0LWN5cDZ1MWxsV2hYcmhQclhPTG5XMmRNTjJZXzc1RDBRa2FDNHZYWFIzN2xZdUhtakgzVnBVRHpPekpxQkcyV3dtYnoyY0ZSTWZjcEFiRWFxeG9SYXduYjJORU1oekFXeXFLcEE4TVd4UXJydk83VmVxV3FrQ0JVT0xUTDBiQQ?oc=5",
-        "description": "",
-        "pubDate": "2026-01-24T23:17:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Hermès menswear designer Nichanian takes final bow after 37 years - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZW1FLUo5OU5qN3lJaFVzTVNLSnZVQWc2OTgxd0tIWHBwSmdwZ0lId0xUdkJLV0d0WEFOZV9sazlKRmtCSkM5bzVjYzBwY3E4Vjl3a1BzaVI2aERjbVRMTjVJVVJvdnRjWEREWHZUTF9nZENESmphU3dTWHp6UGY4bVRoMUdVU1h1dWlab3d3?oc=5",
-        "description": "",
-        "pubDate": "2026-01-24T22:39:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Steelers and Mike McCarthy have reached a verbal agreement for McCarthy to coach his hometown team - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS3dsV0JBTU42eHdfZE5wcDY1NmRrM2s1YUl4Sms5S3k4T0R2TGExZmpETVZxcWxBazZqcUdMdzFBanhQX3h4TnI0SWNmMnh1QW04NnpRN1N5X0UyNXlxbTFEQXNQQjN6eTVzOEF6N24tYUNBY0tKZVZNb0lZYnE4VmhZdjNCMjg0Vm1NV0x6bldmNndiN1E?oc=5",
-        "description": "",
-        "pubDate": "2026-01-24T20:26:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "A bereaved father in Gaza tries to will his son back from the dead - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZlIzMkFydnN0U284QTN6dWFGRUpRRE5iVEJRZDNzYzJXeXgyMnBTZkhFOW9WeTYzbXN6SEl6WW0ySE9Qc3U1MlFsWFNnNGxhTXRPT3R0bmpUNmU5Qk9panpqNUxGMHZQeXZmV3I3NERjRm5nVGI3OGViZGF1RmNXYk1hNGhwcE50aDZWX3NJc0JYVlR6UDlXNDNCTnlqOHkz?oc=5",
-        "description": "",
-        "pubDate": "2026-01-24T19:23:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Zelenskyy says trilateral talks ended constructively and more are possible next week - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSjZreXpaT1h3UmVkNnkweXB0djFBbmx3WVg5cHBvOUxmbmZTdzR4MjRSLWs1OFI5RW53T0IxM3lESGxCX3pZX2ozNkRpeGoxc2EtblhYQTNGNVdhd0hNa3ptb1d1cG5Uc3RSZERmOHBsRWk5dGF2bGpxLWdTVDFFM09qRHNLS1lGREtvdmhsVkFBeEMyTEFiRGdZal9iVEgzVnF6TU1yM1Nuem1TZkJwaWhB?oc=5",
-        "description": "",
-        "pubDate": "2026-01-24T17:54:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Iran’s Revolutionary Guard commander warns the US his force has its ‘finger on the trigger’ - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLXRqa3FxZXhUUDk0elVRWUdUNnJSeTZsdlFnQjhBLUFqZV9KQ3VWak9BTmpvNzNJbzZ1NzJOYS1UV1l2bDJaSjg2S1BhWFl3OFpUMXlkVFRoaXJpc2VzcTlXa1BsNGp4NUM2ODZ3bnQ1cTNKSFhoVndwTVVxZGU4SDJVRl9NMW43bGR6cmw3SmRKOEJ3dWpobGc5N2pzeTFk?oc=5",
-        "description": "",
-        "pubDate": "2026-01-24T15:52:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Sinner overcomes cramps, heat to continue Australian Open title defense. Djokovic gets 400th win - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUlM1VDhWOWJBa0tBSWRjdHBFSDVwMld6M2RyeWgzMnVnUHluZnFsVTd3a2hNTjRuSG5hV3dPUFNSMmRxeE5DSVlOQUNBZ3lWNFVXSFdEVU1FQzJUYVd3T1kzZ0ZULUhiczdxTWNfdXRtMG43LUg3bzNIUWRMYnBCOG5SMi1GamU4aGVjM3dONWEzUzZrTmJmSy1LUDBLWlFqbER5b3RlbV9aQjg?oc=5",
-        "description": "",
-        "pubDate": "2026-01-24T14:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "What is 'frost crack' and how does it affects trees?",
-        "link": "https://www.npr.org/2026/01/24/nx-s1-5685264/what-is-frost-crack-and-how-does-it-affects-trees",
-        "description": "Sudden or severe cold temperature can cause trees to experience \"frost crack.\" NPR's Scott Simon talks with Bill McNee of the Wisconsin Department of Natural Resources about what happens and why.",
-        "pubDate": "2026-01-24T12:28:06Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "How a court win could help the Democrats pick up a House seat in New York - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVnpjUi1fcVpMUkRHRGZJOHhwakZVR181dndoa2NCVnItQ29vRmRMWTJZbHE5UE42aXVOYTZPbEYzbnNNOUVScTdkclZ4bzdLSWYxSXdaVEszWW11enlaeWYxZllBZXZWcDJsQzFDcHR0Rk1CRFpCcTFPT2hXNnZCVkNzTng1dWwtVFVFQjZSeUk2S3dYeWkxbUlObVhtMHl1bXdCUS1TaU53Zi1NQVNYb2M5YzhRQkg2?oc=5",
-        "description": "",
-        "pubDate": "2026-01-24T11:02:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -989,6 +914,64 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "An ancient forest in Ecuador is the last stand for a tiny hummingbird facing extinction - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZVhCX1gtNUZzVExRWlZMQmRyc3hsVGowWXdKRkdmZFRJUXdISHFLUmRDZkFEMFlLZjBGU1NHdUZCRGxKT1FJb3Rya3NOWWlHYXlMVmtXTTRrYXY3Qk5nejB0aENVaERWLVk4VjljXzQtbGxZTnBmcUdBb2NTdkxvYWtEMDczTWtRbXUyNnFwR05RcHVZTUVNWW94eEJiUnM?oc=5",
+        "description": "",
+        "pubDate": "2026-01-24T02:23:20Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Teenager Blades Brown narrowly misses a 59. He's tied for American Express lead with Scheffler - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU3QzYWNfVllvMGc2U1FQeERMbnNtblYxdnMtTGNQanlBNnpUc1k0ZEFncFVVVTBIMV9NRFlQbTV0YTlQM0xBcHk2M3gzakpnaVE4Z0thTVphZHVXeFRhOTRiQi1YQS12WDdyWElLY2s2ZjJCZUNQNVV2N1pKMXdMaDdHZldmMXNxOUNUY2ZyUjVoRy1BU3NLaHVwd01HbzBrTUg4V0ZxRTM4RTJJ?oc=5",
+        "description": "",
+        "pubDate": "2026-01-24T00:54:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Massive sewage spill flowing into Potomac River upstream from Washington - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUGNSS1FhZ1lXa0tDbGU2YVdRUWdoUVNOTHpfeXVXQXFyNjFSeXBHcGpET0pnTzdsMjFNanMwUmQyZ1Ezd08tbTBLWU9EeGdxYWZMVEx0MTR5bjRIX0pBLWxjd1JEcHZfa21PX0dGU3k1akNmVVJQZE93RVpHNDc1dS1seFoybnhsMFNSSlZtTWpUcFUwYzNTeGt3?oc=5",
+        "description": "",
+        "pubDate": "2026-01-24T00:22:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Philadelphia sues over removal of slavery exhibit at Independence National Historical Park - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSGdwY2lueGFmRnR5ZUVJN2xjczZjMmlrY2RQeENYSjhzb3VMa18xQXB1ZGUyWjlBaUNaUDAtcUdOQ2xpUjd2STU2Zk5JbGFQcS1GTTQxMXBraV9IMTFaRWJIYl8tMFFZUHM3N3MzWnp0eEFRTllJWkFZTFVmNXJXZGpMNU80clU3a0syVEh2eVVOT1lTMUFtc3lsU3NqQjBNcmNoODUzNXVyS0xLMFlHMml2cDhGcWo1SkE?oc=5",
+        "description": "",
+        "pubDate": "2026-01-24T00:17:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ],
+    "Tech": [
+      {
+        "title": "Man City wins after dropping Haaland and Liverpool loses on stoppage-time goal - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdmh0dl9SbmYtU1ctV0ExSkhKTExMd09PQ0UxVU1VZ2l1WHEzMDkyVXBmZEVQRUttR1lKWHdib0hxbTRTM0FjMFZPMTRpdlJFQndnU0hqcm8ySlZOX04wU0NscGtCU3hJREdqYkt0VXRHeHk3elNfOHBxcFhjVkZhR2QtSG1sSkg2eUdxZHJpQWlSQjNHOWJFUk5YNzZLTS16T25hY2xkUHppYUpKSGhj?oc=5",
+        "description": "",
+        "pubDate": "2026-01-24T20:29:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ],
+    "Science": [
+      {
+        "title": "What is 'frost crack' and how does it affects trees?",
+        "link": "https://www.npr.org/2026/01/24/nx-s1-5685264/what-is-frost-crack-and-how-does-it-affects-trees",
+        "description": "Sudden or severe cold temperature can cause trees to experience \"frost crack.\" NPR's Scott Simon talks with Bill McNee of the Wisconsin Department of Natural Resources about what happens and why.",
+        "pubDate": "2026-01-24T12:28:06Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
       }
     ],
     "Business": [
