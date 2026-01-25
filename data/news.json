@@ -1,14 +1,32 @@
 {
-  "lastUpdate": "2026-01-25T09:43:14.861849Z",
+  "lastUpdate": "2026-01-25T09:55:31.957885Z",
   "news": {
     "Gaming": [
       {
-        "title": "NOMODOORS [Free] [Interactive Fiction]",
+        "title": "Save Central Perk: Espresso vs Pizza [Free] [Shooter]",
+        "link": "https://rockydrones.itch.io/savecentralperk",
+        "description": "Save Central Perk - will it be Joey's pizzeria or remain a coffee place",
+        "pubDate": "2026-01-25T09:35:02Z",
+        "source": "rockydrones.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MTg1OTk5LnBuZw==/315x250%23c/N9vifU.png",
+        "bias": 0
+      },
+      {
+        "title": "NOMODOORS [Free] [Interactive Fiction] [Windows]",
         "link": "https://therulermeasure.itch.io/nomodoors",
         "description": "A simple top-down game.",
         "pubDate": "2026-01-25T09:17:16Z",
         "source": "therulermeasure.itch.io",
         "image": "https://img.itch.zone/aW1nLzI1MTg2MDYzLnBuZw==/315x250%23c/1elYMb.png",
+        "bias": 0
+      },
+      {
+        "title": "Japanese Cuisine Chronicles: Rise of the Ninja [Free] [Action]",
+        "link": "https://pixelcat7.itch.io/the-silent-japanese-ninja-chronicles",
+        "description": "A fast‑paced ninja game where sushi and other food fall from the sky.",
+        "pubDate": "2026-01-25T09:08:23Z",
+        "source": "pixelcat7.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MTg2MTA0LnBuZw==/315x250%23c/U3HGss.png",
         "bias": 0
       },
       {
@@ -208,18 +226,18 @@
         "source": "gooblejooble000.itch.io",
         "image": "https://img.itch.zone/aW1nLzI1MTgyNjQzLnBuZw==/315x250%23c/u2aDd%2B.png",
         "bias": 0
-      },
-      {
-        "title": "rva-snow-jam [Free]",
-        "link": "https://jonandrewitchio.itch.io/rva-snow-jam",
-        "description": "",
-        "pubDate": "2026-01-25T03:23:28Z",
-        "source": "jonandrewitchio.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MTgyMjM4LnBuZw==/315x250%23c/okgQKv.png",
-        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Climber Alex Honnold scales 101-floor skyscraper without safety gear",
+        "link": "https://www.bbc.com/news/articles/c4gl0njzxjdo?at_medium=RSS&at_campaign=rss",
+        "description": "Alex Honnold has become the first person to climb the Taiwanese building alone without safety equipment.",
+        "pubDate": "2026-01-25T09:46:03Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a737/live/00bfee20-f99f-11f0-8577-b9c001932fb3.jpg",
+        "bias": 0
+      },
       {
         "title": "Who was Alex Pretti, the nurse shot dead by federal agents in Minneapolis?",
         "link": "https://www.aljazeera.com/news/2026/1/25/who-was-alex-pretti-the-nurse-shot-dead-by-federal-agents-in-minneapolis?traffic_source=rss",
@@ -263,15 +281,6 @@
         "pubDate": "2026-01-25T08:14:00Z",
         "source": "news.google.com",
         "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Climber Alex Honnold scales 101-floor skyscraper without safety gear",
-        "link": "https://www.bbc.com/news/articles/c4gl0njzxjdo?at_medium=RSS&at_campaign=rss",
-        "description": "Alex Honnold has become the first person to climb the Taiwanese building alone without safety equipment.",
-        "pubDate": "2026-01-25T08:06:16Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a737/live/00bfee20-f99f-11f0-8577-b9c001932fb3.jpg",
         "bias": 0
       },
       {
@@ -329,6 +338,15 @@
         "bias": -1
       },
       {
+        "title": "Trump’s Greenland ambitions strain MAGA ties with Europe’s far-right - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSnZfNTR4Z1M2YjVadllhU0xqSjY0Q0xGYU1yVUNJOVVHTXdLQVViM1ZBOWM4S3dvcG1oT0FPQmJNNGxGRUcyQk9TMUEtRE4wQUZZTDhWb1JFdnZUblRsX21ia0xwZktaS1EwejZmcXVSV2podVNGNTZyZnJSZTNkVWxkeUFXcHdmeE9TQW0wS3JDazBrbW1xMFdyVjQxdw?oc=5",
+        "description": "",
+        "pubDate": "2026-01-25T07:03:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Natalie Portman, Seth Rogen debut new movies at Sundance Film Festival - AP News",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWkN2UklxaDhGWXprQ1RSWE9zU2lVTHRsbm9NY21VQ2JpWWpMeHUyX3RGcGFUTXJLREVNRkVKZXk2Rms5YlFsWXpQMGxUcEJtU1dJUkUzQi15VmNzSWVhZVlPeG1RXzVlR2FhVHRobDdDellSOXBNNkVSN240SzM5OGZvbmE3dElQWkpibEV4ZUFwRUNySjlaanJkTC14Q3RKcHNIYTRoMF9DZFRQRmxPSA?oc=5",
         "description": "",
@@ -383,6 +401,15 @@
         "bias": 0
       },
       {
+        "title": "What we know about fatal shooting of Alex Pretti by federal agents in Minneapolis",
+        "link": "https://www.bbc.com/news/articles/c20zjyxep99o?at_medium=RSS&at_campaign=rss",
+        "description": "Trump officials says federal agents shot in self-defence, as Pretti's parents accuse them of \"sickening lies\".",
+        "pubDate": "2026-01-25T04:19:46Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdf1/live/82c53a10-f9d1-11f0-b5f7-49f0357294ff.jpg",
+        "bias": 0
+      },
+      {
         "title": "Myanmar holds final election round, military-backed party set to win",
         "link": "https://www.aljazeera.com/news/2026/1/25/myanmar-holds-final-election-round-military-backed-party-set-to-win?traffic_source=rss",
         "description": "UN official describes monthlong polls as 'illegitimate', while ASEAN regional bloc says it will not certify the vote.",
@@ -423,15 +450,6 @@
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYllxWUtzQTVhOVhqZEdEbXVMNnIzUm5yUzFXbk1HNnYxZWZuUEwwX1ZGVVZoQ2pjR2tzTnVGS2dvTHYwNXV0anFYanNmbDVKMWlKZU16SnRWOHNUTXRXdlhDeHdrTmZFdzdKNlF2Y05QbmZrd1VFQy1qbHpUM1NrN29wM21mXzU5X1JsRFpGbXZNclVWd1FlVjJFN1ZVcC1GZTctdnhTSkdGaERtS1dWS3MtdmlZQ3hIVlFrczQxS0ljUUtURUFRc19FNXlCZGg4UHJKSDlDYVJmWXM1QzllRGs5MkpGbjg?oc=5",
         "description": "",
         "pubDate": "2026-01-25T02:51:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "The man killed by a US Border Patrol officer in Minneapolis was an ICU nurse, family says - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTV9CMlJKOFF2aG9yREh4YnNfNFp3dmhRMzFwWDZwMzVWVXc5dVpxYjUyYXdrYTN0LWN5cDZ1MWxsV2hYcmhQclhPTG5XMmRNTjJZXzc1RDBRa2FDNHZYWFIzN2xZdUhtakgzVnBVRHpPekpxQkcyV3dtYnoyY0ZSTWZjcEFiRWFxeG9SYXduYjJORU1oekFXeXFLcEE4TVd4UXJydk83VmVxV3FrQ0JVT0xUTDBiQQ?oc=5",
-        "description": "",
-        "pubDate": "2026-01-25T02:41:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -544,6 +562,15 @@
         "pubDate": "2026-01-25T07:35:29Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf24/live/eb920e00-d60a-11f0-a170-530c17232108.png",
+        "bias": 0
+      },
+      {
+        "title": "The man killed by a US Border Patrol officer in Minneapolis was an ICU nurse, family says - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTV9CMlJKOFF2aG9yREh4YnNfNFp3dmhRMzFwWDZwMzVWVXc5dVpxYjUyYXdrYTN0LWN5cDZ1MWxsV2hYcmhQclhPTG5XMmRNTjJZXzc1RDBRa2FDNHZYWFIzN2xZdUhtakgzVnBVRHpPekpxQkcyV3dtYnoyY0ZSTWZjcEFiRWFxeG9SYXduYjJORU1oekFXeXFLcEE4TVd4UXJydk83VmVxV3FrQ0JVT0xUTDBiQQ?oc=5",
+        "description": "",
+        "pubDate": "2026-01-25T02:41:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
