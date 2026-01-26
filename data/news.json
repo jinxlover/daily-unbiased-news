@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-26T10:27:32.088265Z",
+  "lastUpdate": "2026-01-26T10:53:47.647096Z",
   "news": {
     "Gaming": [
       {
@@ -9,6 +9,15 @@
         "pubDate": "2026-01-26T10:15:58Z",
         "source": "jabbo4.itch.io",
         "image": "https://img.itch.zone/aW1nLzI1MjA3MDkxLmpwZw==/315x250%23c/UBM3D%2B.jpg",
+        "bias": 0
+      },
+      {
+        "title": "To The Fridge! [Free] [Platformer] [Windows] [macOS] [Linux]",
+        "link": "https://mikawishaupt49.itch.io/to-the-fridge",
+        "description": "For the 2026 Patch Notes Gamejam.",
+        "pubDate": "2026-01-26T10:14:01Z",
+        "source": "mikawishaupt49.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MjA3MDQ1LnBuZw==/315x250%23c/OenjHp.png",
         "bias": 0
       },
       {
@@ -183,39 +192,12 @@
         "bias": 0
       },
       {
-        "title": "GDIM32 - MG3 [Free]",
-        "link": "https://sunrd.itch.io/gdim32-mg3",
-        "description": "",
-        "pubDate": "2026-01-26T08:19:44Z",
-        "source": "sunrd.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MjA1OTA5LmpwZw==/315x250%23c/wI%2Bprm.jpg",
-        "bias": 0
-      },
-      {
-        "title": "MamaCat [Free] [Other]",
-        "link": "https://sathalom.itch.io/mamacat",
-        "description": "A cute game about watching kittens play",
-        "pubDate": "2026-01-26T08:15:11Z",
-        "source": "sathalom.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MjA1ODkzLnBuZw==/315x250%23c/osHco2.png",
-        "bias": 0
-      },
-      {
         "title": "Dont Grow! [Free] [Strategy]",
         "link": "https://moofys.itch.io/dont-grow",
         "description": "A clicker game made for Chippy's #1 Weekly Game Jam",
         "pubDate": "2026-01-26T08:05:39Z",
         "source": "moofys.itch.io",
         "image": "https://img.itch.zone/aW1nLzI1MjA2MDUzLnBuZw==/315x250%23c/3%2FbOOe.png",
-        "bias": 0
-      },
-      {
-        "title": "Death to Doodles [Free]",
-        "link": "https://willowflame.itch.io/death-to-doodles",
-        "description": "Clean away the doodles!",
-        "pubDate": "2026-01-26T05:42:31Z",
-        "source": "willowflame.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MjA0MzIwLmpwZWc=/315x250%23c/5DXG6q.jpeg",
         "bias": 0
       },
       {
@@ -226,9 +208,36 @@
         "source": "culturecatalystlabs.itch.io",
         "image": "https://img.itch.zone/aW1nLzI1MjAzMDE2LnBuZw==/315x250%23c/ACdqMY.png",
         "bias": 0
+      },
+      {
+        "title": "FURGLE! [Free] [Platformer] [Windows] [Linux]",
+        "link": "https://hekmin.itch.io/furgle",
+        "description": "A small game about climbing from the bottom of a tree to the top as a turtle/frog hybrid :)",
+        "pubDate": "2026-01-26T00:55:10Z",
+        "source": "hekmin.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MjA2Njc3LnBuZw==/315x250%23c/ie9dl8.png",
+        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Uganda's military chief denies army assaulted Bobi Wine's wife",
+        "link": "https://www.bbc.com/news/articles/c20zdj8n7vgo?at_medium=RSS&at_campaign=rss",
+        "description": "Barbara Kyagulanyi, married to the opposition leader, says she refused to reveal her husband's whereabouts.",
+        "pubDate": "2026-01-26T10:31:33Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1cd/live/5280ef80-fa98-11f0-a6ee-1768c9a638e7.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Gold prices cross $5,100 for the first time amid geopolitical uncertainties",
+        "link": "https://www.aljazeera.com/news/2026/1/26/gold-prices-cross-5100-for-the-first-time-amid-geopolitical-uncertainties?traffic_source=rss",
+        "description": "Spot gold price touches an all-time high of $5,110.50 for an ounce in the first hours of the day.",
+        "pubDate": "2026-01-26T10:29:40Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Deadly winter storm grips large parts of the US",
         "link": "https://www.bbc.com/news/videos/cpqyxlqwqqlo?at_medium=RSS&at_campaign=rss",
@@ -248,6 +257,24 @@
         "bias": 0
       },
       {
+        "title": "Global shares mostly dip as the yen rises against the U.S. dollar - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcE1uYnFpcjV0NHlfd0pYcjQwd3FNWWJ0YVJMWG9RaElLd01sYlNZNHppRXNwckVEejk5U2dteEdHaXlJU0xicWg3UHZxd0VxbUktOHdqS0RMWXRtenl4eWpyaUo2VkZPUkRQQ2ZpbUxlSE42WlVZSmFsRlJzU1N4S0pPbUdUVHNsM0lOeHQ4N3hfaXJtZkl3?oc=5",
+        "description": "",
+        "pubDate": "2026-01-26T09:59:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Israel to reopen Gaza crossing after search for last dead hostage's body ends",
+        "link": "https://www.bbc.com/news/articles/c801mj1n04lo?at_medium=RSS&at_campaign=rss",
+        "description": "Israel's military says its troops are searching for the remains of Ran Gvili, reportedly at a cemetery in northern Gaza.",
+        "pubDate": "2026-01-26T09:52:05Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/955e/live/1baa6450-fa98-11f0-a422-4ba8a094a8fa.jpg",
+        "bias": 0
+      },
+      {
         "title": "France could become second country to ban social media for some teens",
         "link": "https://www.npr.org/2026/01/26/nx-s1-5686578/france-could-become-second-country-to-ban-social-media-for-some-teens",
         "description": "France is set to debate a proposed social media ban for those under 15 years old, as the country's president backs stricter rules and a high school phone ban.",
@@ -264,15 +291,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Trump says administration 'reviewing everything' after fatal shooting of Minneapolis nurse",
-        "link": "https://www.bbc.com/news/articles/cr571qg4m61o?at_medium=RSS&at_campaign=rss",
-        "description": "The US president was asked by the Wall Street Journal whether the immigration agent who shot dead a man in Minneapolis had done the right thing.",
-        "pubDate": "2026-01-26T09:46:21Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba23/live/2b0c80d0-fa76-11f0-b5f7-49f0357294ff.jpg",
-        "bias": 0
       },
       {
         "title": "At least 10 people die, million without power as winter storm grips US",
@@ -347,6 +365,15 @@
         "bias": -1
       },
       {
+        "title": "Greece biscuit factory fire leaves at least three dead",
+        "link": "https://www.bbc.com/news/articles/c89q5q8leeqo?at_medium=RSS&at_campaign=rss",
+        "description": "A search is continuing for people still missing after a blaze broke out at a biscuit factory near the city of Trikala.",
+        "pubDate": "2026-01-26T08:06:42Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14f0/live/86816ff0-fa9b-11f0-a422-4ba8a094a8fa.jpg",
+        "bias": 0
+      },
+      {
         "title": "Ukraine’s security guarantees: What are they and why might they fall short?",
         "link": "https://www.aljazeera.com/news/2026/1/26/ukraines-security-guarantees-what-are-they-and-why-might-they-fall-short?traffic_source=rss",
         "description": "Kyiv is ready to send an agreement to Parliament and US Congress but Ukrainians say their safety is far from guaranteed.",
@@ -388,7 +415,7 @@
         "description": "Temperatures are expected to peak on Tuesday, reaching the \"high forties\" in Victoria and South Australia.",
         "pubDate": "2026-01-26T07:15:24Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c71/live/75a49390-fa6b-11f0-ba3f-fd73924e5353.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c467/live/fe7a5a50-faa3-11f0-a422-4ba8a094a8fa.jpg",
         "bias": 0
       },
       {
@@ -554,15 +581,6 @@
         "bias": 0
       },
       {
-        "title": "Asian shares mostly dip as the yen rises against the U.S. dollar - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcE1uYnFpcjV0NHlfd0pYcjQwd3FNWWJ0YVJMWG9RaElLd01sYlNZNHppRXNwckVEejk5U2dteEdHaXlJU0xicWg3UHZxd0VxbUktOHdqS0RMWXRtenl4eWpyaUo2VkZPUkRQQ2ZpbUxlSE42WlVZSmFsRlJzU1N4S0pPbUdUVHNsM0lOeHQ4N3hfaXJtZkl3?oc=5",
-        "description": "",
-        "pubDate": "2026-01-26T04:21:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Ukraine’s Zelenskyy says US security agreement ‘100% ready’ to be signed",
         "link": "https://www.aljazeera.com/news/2026/1/26/ukraines-zelenskyy-says-us-security-agreement-100-ready-to-be-signed?traffic_source=rss",
         "description": "Ukrainian leader says Kyiv and Moscow continue to have 'fundamentally different' positions on territorial concessions.",
@@ -635,7 +653,7 @@
         "bias": -1
       },
       {
-        "title": "Ferry carrying over 350 people sinks in Philippines, killing at least 19",
+        "title": "Ferry carrying over 350 people sinks in Philippines, killing at least 18",
         "link": "https://www.aljazeera.com/news/2026/1/26/ferry-carrying-over-350-people-sinks-in-philippines-killing-at-least-seven?traffic_source=rss",
         "description": "The coastguard says at least 317 people have been rescued so far, while 24 others remain missing.",
         "pubDate": "2026-01-26T01:48:41Z",
@@ -651,36 +669,18 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Scottie Scheffler starts a new season looking like nothing has changed. He wins his PGA Tour opener - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSnhIT3piZmdrOTFoWVpJeUJHM2ZFZG5ET3VxZFRzcUExT1FLQThwbW9FOE9yWUhkdW9DOWNtbDUzVl9xcGJJRUh3dC1rZzBhXzhWREQ3STVKQUdZSzZqY2N6OEFNdl9RRlZVazJJQmZzVGZKM1NydWo4d1JBR2RtQk9Ya3U1QTlRUXVGdjNXRVBDOGxSNXFGbDk3eXRBMUJEalNsM1pVaXdvcW1PQnQ4Tg?oc=5",
-        "description": "",
-        "pubDate": "2026-01-26T01:42:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Massive winter storm dumps sleet, freezing rain and snow around much of US - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbWFxVTdjNUFlYXpWQ2ozWDNxZEVkUUtaUTNiSm5zMF9xcTh6MDdKZlZzX2JfQ2dQYzlOTWh2OFpaMkR4T0FHSHppWDl2RDlKOXVqZ19yX2NvTGs1aFNNVl9PODVSWXRwSDdlalQxV2twcThwcnlPZ3VwWjQ2d2kxczNhOG5VQ0tZeER0SUE3SVVPVnY0eWJJN0VwUQ?oc=5",
-        "description": "",
-        "pubDate": "2026-01-26T01:35:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Videos of deadly Minneapolis shooting contradict government statements - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdDJIOEVycHY2M3hRV1V3WURsZnNEbWhpS3NrYVc2MEtBREZ6c2czOUk1alRPMi00YTVfcTN3S0hKZGh1Zl9TQ19FSkNkVlBuRHJ0dmRyRlJTX0FpS0tmTVlmVlJkbWJReTZ2MDBXTHNBc1AtN0UxNlpiSjZQYlFBc2xXTXY4R3RIeVJ6RkJqeEd0azJjVFlRcVpn?oc=5",
-        "description": "",
-        "pubDate": "2026-01-26T01:21:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Police to be set 15-minute response target for some 999 calls",
+        "link": "https://www.bbc.com/news/articles/c4gwx2271xzo?at_medium=RSS&at_campaign=rss",
+        "description": "The Home Office says its plans to cut red tape will see officers spending more time out on the streets.",
+        "pubDate": "2026-01-26T10:28:05Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af92/live/629a1c10-fa2b-11f0-9dc3-0da0e125fd57.jpg",
+        "bias": 0
+      },
       {
         "title": "All eyes on Rubio as he navigates the world in 2 critical roles",
         "link": "https://www.npr.org/2026/01/26/nx-s1-5668228/greenland-iran-venezuela-marco-rubio-ukraine-foreign-policy",
@@ -778,6 +778,15 @@
     ],
     "Business": [
       {
+        "title": "Two charities get £300k to support older residents",
+        "link": "https://www.bbc.com/news/articles/c394498jprdo?at_medium=RSS&at_campaign=rss",
+        "description": "Independent Age has given £149,997 to Citizens Advice Swale and £150,000 to Age UK East Sussex.",
+        "pubDate": "2026-01-26T10:31:24Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16a4/live/7232b830-f864-11f0-9796-05e6aeca39b2.jpg",
+        "bias": 0
+      },
+      {
         "title": "Ryanair to raise fares after profits dip amid Italy fine",
         "link": "https://www.bbc.com/news/articles/c620506dvmjo?at_medium=RSS&at_campaign=rss",
         "description": "The airline says it expects fares to go up by at least 8% as passenger numbers grow this year.",
@@ -840,6 +849,15 @@
         "pubDate": "2026-01-26T06:20:27Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e02/live/8d562bb0-f88c-11f0-802d-45770cee28e3.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Alison Hammond: 'I'm Brummie through and through'",
+        "link": "https://www.bbc.com/news/articles/c5y2lxz8pj3o?at_medium=RSS&at_campaign=rss",
+        "description": "The TV presenter says she would never change her accent to fit a showbiz mould.",
+        "pubDate": "2026-01-26T06:04:45Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f10c/live/7c505ee0-f9ee-11f0-a24b-df29ade509fc.jpg",
         "bias": 0
       }
     ]
