@@ -1,7 +1,25 @@
 {
-  "lastUpdate": "2026-01-27T05:46:36.267196Z",
+  "lastUpdate": "2026-01-27T05:59:54.274533Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Platformer Maze [Free]",
+        "link": "https://yevheniiasimakagmailcom.itch.io/platformer-maze-godot",
+        "description": "This is the first time I've ever made a game in Godot, a platformer maze!",
+        "pubDate": "2026-01-27T05:55:16Z",
+        "source": "yevheniiasimakagmailcom.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MjIyNDQ5LnBuZw==/315x250%23c/bu5P%2F6.png",
+        "bias": 0
+      },
+      {
+        "title": "Ghoul Simulator [Free] [Interactive Fiction]",
+        "link": "https://lumpty.itch.io/ghoul-simulator",
+        "description": "",
+        "pubDate": "2026-01-27T05:51:49Z",
+        "source": "lumpty.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MjIyNDA4LmpwZw==/315x250%23c/nZ1zUN.jpg",
+        "bias": 0
+      },
       {
         "title": "Chain Reaction [Free] [Adventure] [Windows] [macOS] [Linux] [Android]",
         "link": "https://66xlit.itch.io/chain-reaction",
@@ -156,15 +174,6 @@
         "bias": 0
       },
       {
-        "title": "Detective Simulator [Free] [Role Playing]",
-        "link": "https://grpofficial.itch.io/detective-simulator",
-        "description": "Be a detective, and catch the culpurit! Randomly generated suspects, and events.",
-        "pubDate": "2026-01-27T01:10:11Z",
-        "source": "grpofficial.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MjIxNDQ1LnBuZw==/315x250%23c/ydxF5t.png",
-        "bias": 0
-      },
-      {
         "title": "Call For Reality [Free] [Action]",
         "link": "https://icedgames.itch.io/call-for-reality",
         "description": "This game is in early access expect bugs and glitches",
@@ -174,16 +183,7 @@
         "bias": 0
       },
       {
-        "title": "BicolRacerDemo [Free] [Racing] [Windows]",
-        "link": "https://frostnino.itch.io/bicolracer",
-        "description": "",
-        "pubDate": "2026-01-27T01:00:23Z",
-        "source": "frostnino.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MjIwOTAwLnBuZw==/315x250%23c/ei6iF0.png",
-        "bias": 0
-      },
-      {
-        "title": "Roguemon [Free] [Strategy] [Windows]",
+        "title": "Pokemon: Roguemon [Free] [Strategy] [Windows]",
         "link": "https://crozwords.itch.io/roguemon",
         "description": "Randomized Roguelike",
         "pubDate": "2026-01-27T00:53:13Z",
@@ -205,7 +205,7 @@
       {
         "title": "Instagram, Facebook and WhatsApp to trial premium subscriptions",
         "link": "https://www.bbc.com/news/articles/ce8rpdmm284o?at_medium=RSS&at_campaign=rss",
-        "description": "Under the plan, access to the platforms' core services would remain free to use.",
+        "description": "Under the plan, access to Meta platforms' core services would remain free to use.",
         "pubDate": "2026-01-27T05:37:52Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eaa4/live/f5a13ad0-fb38-11f0-9ffe-0d55f5bffcbe.jpg",
@@ -228,6 +228,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Trump administration’s trust and credibility tested in wake of Pretti’s death in Minneapolis - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQODJCazBBOWh3djJFUjZlSEEzUm1lb0llMEdNaWpuM3pmanhiYjFfN3c5QnhOTkNrR0lSTnlXVm5yaVZMc1J3Vk9kUmRQcmJ6VkpWVllBM2hpbERIN1ZKTHc5bzdTVGJUbmdyNHlBbEE2WU96OGtCVFpNbzYtNnhZWmlRalhpUldsVEMwWmR0TjFQYVh6S200SVVIaUdJNThTQVR3VTRLVjI?oc=5",
+        "description": "",
+        "pubDate": "2026-01-27T05:03:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Lives on hold for two years: Hope, fear stuck behind Gaza’s Rafah crossing",
@@ -495,7 +504,17 @@
         "bias": 0
       }
     ],
-    "Science": [],
+    "Science": [
+      {
+        "title": "Several Nigerian military officers will be tried on accusations they plotted a coup - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLTZMQ1lQejdta0tvdkd1OHN2OEpDOXJZd1VBZi0yYkhrZDZpQ2RjXzNQYXpGU3hFdTFzZk92dEgwT0ljUk5DTTZpdFZtVnF1dDNrUE12c290VUlwNW5CYmxUSm9HV1RsZi1SYzJhWUtfYlpxdGJWUTdWWWZvMV9TaUZEeE5sc3B0Vkwya2FpRy1ibmVMcm4w?oc=5",
+        "description": "",
+        "pubDate": "2026-01-27T01:04:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ],
     "Business": [
       {
         "title": "Businesses clean-up in Little Rock after dangerous winter storm - AP News",
