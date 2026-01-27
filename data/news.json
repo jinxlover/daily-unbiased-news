@@ -1,14 +1,32 @@
 {
-  "lastUpdate": "2026-01-27T20:33:24.656955Z",
+  "lastUpdate": "2026-01-27T20:53:31.614291Z",
   "news": {
     "Gaming": [
       {
-        "title": "Alexender Escape [Free]",
-        "link": "https://ahmedtb123.itch.io/alexender-escape",
-        "description": "this is a new project ! a test for my new game ! pls donate if u wanna support me making new and better games !",
-        "pubDate": "2026-01-27T20:28:04Z",
-        "source": "ahmedtb123.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MjMzMzYwLnBuZw==/315x250%23c/ZwDws4.png",
+        "title": "Planet Conqueror: The Game [Free] [Strategy]",
+        "link": "https://mvhs.itch.io/planet-conqueror-the-game",
+        "description": "",
+        "pubDate": "2026-01-27T20:37:49Z",
+        "source": "mvhs.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MjMzNDY2LnBuZw==/315x250%23c/L447Qa.png",
+        "bias": 0
+      },
+      {
+        "title": "Vessels [Free] [Platformer]",
+        "link": "https://mvhs.itch.io/vessels",
+        "description": "",
+        "pubDate": "2026-01-27T20:36:12Z",
+        "source": "mvhs.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MjMzNDU1LnBuZw==/315x250%23c/eFWong.png",
+        "bias": 0
+      },
+      {
+        "title": "Signal Lost at Dawn [Free] [Adventure] [Windows]",
+        "link": "https://holic134.itch.io/signal-lost-at-dawn",
+        "description": "",
+        "pubDate": "2026-01-27T20:35:50Z",
+        "source": "holic134.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MjMzNDMwLmpwZw==/315x250%23c/%2F8gfAH.jpg",
         "bias": 0
       },
       {
@@ -30,7 +48,7 @@
         "bias": 0
       },
       {
-        "title": "SuperWilhelm [Free] [Platformer]",
+        "title": "SuperWilhelm(Godot engine) [Free] [Platformer]",
         "link": "https://vadym-furman.itch.io/superwilhelm",
         "description": "",
         "pubDate": "2026-01-27T20:18:41Z",
@@ -63,6 +81,15 @@
         "pubDate": "2026-01-27T19:57:07Z",
         "source": "engiepickle.itch.io",
         "image": "https://img.itch.zone/aW1nLzI1MjMyOTM1LnBuZw==/315x250%23c/IpnvPp.png",
+        "bias": 0
+      },
+      {
+        "title": "Enter The Loop [Free] [Adventure]",
+        "link": "https://themilkman-0.itch.io/enter-the-loop",
+        "description": "short and sweet, just like u",
+        "pubDate": "2026-01-27T19:53:59Z",
+        "source": "themilkman-0.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MjMyOTExLnBuZw==/315x250%23c/cEMhUM.png",
         "bias": 0
       },
       {
@@ -147,48 +174,30 @@
         "bias": 0
       },
       {
-        "title": "Mining Cats [Free] [Other]",
-        "link": "https://seal-the-dev.itch.io/mining-cats",
-        "description": "idle",
-        "pubDate": "2026-01-27T18:59:27Z",
-        "source": "seal-the-dev.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MjMyMTU1LnBuZw==/315x250%23c/kPgpua.png",
-        "bias": 0
-      },
-      {
-        "title": "Dino Explore [Free] [Adventure]",
-        "link": "https://feddetheman.itch.io/dino-explore",
-        "description": "Expore to te end!",
-        "pubDate": "2026-01-27T18:51:20Z",
-        "source": "feddetheman.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MjMxOTQ1LnBuZw==/315x250%23c/DArFQo.png",
-        "bias": 0
-      },
-      {
-        "title": "Babel Zero [Free] [Visual Novel] [Windows]",
-        "link": "https://cozy-pumpkin-studio.itch.io/babel-zero",
-        "description": "Fuck sexy girls in a dystopian future inside a tower",
-        "pubDate": "2026-01-27T18:38:34Z",
-        "source": "cozy-pumpkin-studio.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MjMxODA3LnBuZw==/315x250%23c/%2BausSs.png",
-        "bias": 0
-      },
-      {
-        "title": "Inferno [Free] [Visual Novel] [Windows] [macOS]",
-        "link": "https://fbrzvnrnd.itch.io/inferno",
-        "description": "Il remake di un racconto-gioco mai esistito",
-        "pubDate": "2026-01-27T18:35:37Z",
-        "source": "fbrzvnrnd.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MjMyMDU4LmpwZw==/315x250%23c/jpub%2FP.jpg",
-        "bias": 0
-      },
-      {
         "title": "Ball Platformer [Free] [Platformer] [Windows] [macOS]",
         "link": "https://basovdima.itch.io/ball-platformer",
         "description": "",
         "pubDate": "2026-01-27T18:26:26Z",
         "source": "basovdima.itch.io",
         "image": "https://img.itch.zone/aW1nLzI1MjMxNTkxLnBuZw==/315x250%23c/S8HIR4.png",
+        "bias": 0
+      },
+      {
+        "title": "The Accused [Free] [Other]",
+        "link": "https://kingpandastudio.itch.io/the-accused",
+        "description": "",
+        "pubDate": "2026-01-27T18:21:49Z",
+        "source": "kingpandastudio.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MjMxNDI0LnBuZw==/315x250%23c/n6mTGa.png",
+        "bias": 0
+      },
+      {
+        "title": "Dome Zero Adventure! [Free] [Visual Novel]",
+        "link": "https://zeggle.itch.io/dome-zero-adventure",
+        "description": "",
+        "pubDate": "2026-01-27T18:19:22Z",
+        "source": "zeggle.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MjMxNjA5LnBuZw==/315x250%23c/lo6kZk.png",
         "bias": 0
       },
       {
@@ -201,30 +210,21 @@
         "bias": 0
       },
       {
-        "title": "Station Builder [Free] [Puzzle]",
-        "link": "https://fernofai.itch.io/station-builder",
-        "description": "Puzzly roguelike where you build a space station and optimize your production",
-        "pubDate": "2026-01-27T17:42:28Z",
-        "source": "fernofai.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MjMxMjIzLnBuZw==/315x250%23c/7lJ5H3.png",
-        "bias": 0
-      },
-      {
-        "title": "Fractal Nexus [Free] [Interactive Fiction]",
-        "link": "https://anoraqxx.itch.io/fractal-nexus",
-        "description": "5 fractal levels",
-        "pubDate": "2026-01-27T17:32:59Z",
-        "source": "anoraqxx.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MjMyMTMwLnBuZw==/315x250%23c/HK6VKW.png",
-        "bias": 0
-      },
-      {
         "title": "Status: Benign (Demo) [Free] [Windows]",
         "link": "https://cocsmin.itch.io/status-benign-demo",
         "description": "Keep your heart rate down... or he will find you.",
         "pubDate": "2026-01-27T17:24:03Z",
         "source": "cocsmin.itch.io",
         "image": "https://img.itch.zone/aW1nLzI1MjMxNjUyLnBuZw==/315x250%23c/FwxZYO.png",
+        "bias": 0
+      },
+      {
+        "title": "Carne de la tierra [Free] [Windows] [Linux]",
+        "link": "https://mini-clown.itch.io/carne-de-la-tierra",
+        "description": "En el gallinero de los esmiders",
+        "pubDate": "2026-01-27T16:06:04Z",
+        "source": "mini-clown.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MjI5NjQ4LnBuZw==/315x250%23c/dfc1%2Bx.png",
         "bias": 0
       },
       {
@@ -239,6 +239,24 @@
     ],
     "World": [
       {
+        "title": "'We all know someone who was killed' -  Iran protesters tell BBC of brutal crackdown",
+        "link": "https://www.bbc.com/news/articles/cy8y2jxx9ppo?at_medium=RSS&at_campaign=rss",
+        "description": "Young Iranians able tell the BBC how they saw friends and other people die as security forces crushed protests earlier this month.",
+        "pubDate": "2026-01-27T20:39:46Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85fb/live/714cbd90-fb9c-11f0-a422-4ba8a094a8fa.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Will Palestinians ever find their loved ones in Gaza’s rubble?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/1/27/will-palestinians-ever-find-their-loved-ones-in-gazas?traffic_source=rss",
+        "description": "Thousands are missing as Israel blocks machinery essential for the search.",
+        "pubDate": "2026-01-27T20:26:37Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "TikTok US pushes back on claims it is censoring content",
         "link": "https://www.bbc.com/news/articles/ckgjedpn8p8o?at_medium=RSS&at_campaign=rss",
         "description": "Thousands of people claim political content is being suppressed after the US operation was spun off.",
@@ -248,6 +266,42 @@
         "bias": 0
       },
       {
+        "title": "Iran president tells Saudi crown prince that US threats cause instability",
+        "link": "https://www.aljazeera.com/news/2026/1/27/iran-president-tells-saudi-crown-prince-that-us-threats-cause-instability?traffic_source=rss",
+        "description": "Iranian President Masoud Pezeshkian emphasised that regional instability 'benefits no one' during the call.",
+        "pubDate": "2026-01-27T20:23:01Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Shooting involving Border Patrol leaves 1 in critical condition near US-Mexico border - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNkhqbkRvdHdLMVI5YlE3UE1KN25hQW5RTmdfNWQ2QmtzRU1Nb1Q2ZWkySE5zQUJlMnNHQVE4QlhKbkNZN1lHNmJTQVZpZGtYU3Q0cjlxLU5FQXRWZ1pFWUp4bzZNZ2t3ejZwTVRUbEROZXgyLWdsRll1d3kxdElMXzEtODR6MjR3WmJUa19vbzVpMnI4RGhOZ2JHWDFRd1E?oc=5",
+        "description": "",
+        "pubDate": "2026-01-27T20:19:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "See inside the former US embassy in Tehran",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/27/see-inside-the-former-us-embassy-in-tehran?traffic_source=rss",
+        "description": "Al Jazeera’s Ali Hashem went to the site where the US-Iranian relationship took a drastic turn for the worse in 1979.",
+        "pubDate": "2026-01-27T20:14:31Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Palestinian patients wait for reopening of the Rafah border",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/27/palestinian-patients-wait-for-reopening-of-the-rafah-border?traffic_source=rss",
+        "description": "Palestinians in need of advanced medical care say they’re hopeful Gaza’s Rafah border with Egypt will reopen soon.",
+        "pubDate": "2026-01-27T20:13:48Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "‘Mother of all deals’: India, EU broker trade agreement",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/1/27/mother-of-all-deals-india-eu-broker-trade-agreement?traffic_source=rss",
         "description": "India and the European Union have announced a landmark trade deal after two decades of talks, creating a market of two b",
@@ -255,6 +309,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Investigator describes intense air traffic at time of deadly midair collision near DC - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbkNrdW9nMmtwNXhkNEFONU90UGNnYmZ6bTlvb2RJNGZ3MlRRQWpEZUNPdkRweFJNXzZkX2Y2M1R3QTJNR2pkUUdna2ppVDlaRXVPUldjSXdOa2hpb01xUklyYW5xZ3lsQ2ZYLV9uOGpQU0hBMUR5YkZOYnM2am8tX1ZXWWpOUFNwcEJZYzRCOF9PM1g4N204bEFtY19hUkczVElN?oc=5",
+        "description": "",
+        "pubDate": "2026-01-27T19:40:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "CBS News’ Bari Weiss unveils new strategy amid backlash, viewership lags",
@@ -302,6 +365,24 @@
         "bias": 0
       },
       {
+        "title": "Wall Street flirts with a record as stocks zigzag following mixed profit reports - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMUxac2Q3R0Y5cHVXWUt0RC1wWjdadVlIR09yaVBsSmRjUE11TmtpQThCbWpzWDBCSFJxcHJqN0RzUnpwelVyOUppTi15bXl5RVMyWlJwSG5GcVBVWjZDRVpIbEFQbnBVZmc3QUV2c3ZPVzdDanhZdS03bE9SVExvaDBvLXJLdEFpX2xHX3FCQmY2N0xGdXFHUQ?oc=5",
+        "description": "",
+        "pubDate": "2026-01-27T19:10:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Minneapolis shooting scrambles Second Amendment politics for Trump - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc3dzN1JZZENFY2VLbUR5V29zQ1BSb3hWVkZkdVFDNGJSMlZCRGdNVE9aVDRLaVEyMlowZGtBbUFqVDZZNjk5ZkFReUVzc1NOWm1KeExrRG42QkdHV1BSWE9PTDJvRHJ4U1JWUmlaMFotcUlpWlJQQ1BmSV9laG9nN1pDRkh6Q19fRW9YcldlZWllTTNaNkhkTlBkbHV2emItNDVkR253?oc=5",
+        "description": "",
+        "pubDate": "2026-01-27T19:03:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "'Doomsday Clock' moves closer to midnight over threats from nuclear weapons, climate change and AI - AP News",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMUMwMW81Z1IxbmFack56TFZLXzk1Vm5tdWlGMGUxY0c1dlFVUXpmc25sUXJNZENhdFBSQmw4R1dsMGhtU0NYbTR0R1lybUlTVENWTGN5UGJRRVpYRGdUNFZKMjBnNk95VlVvdGtsc010WG50aF8zZkEtelk5V1Q1eGgzRjFSX1kyZUhQX09FbjE2ZnJaSGhwTDRzTlRSY2Nlam5iY1F2Y2pDOFNM?oc=5",
         "description": "",
@@ -338,6 +419,15 @@
         "bias": 0
       },
       {
+        "title": "Steelers hire Mike McCarthy as head coach - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNGtVMTM4eVpWNUdMc2RhLUN1WGN5OGprRVlFdktlRkJCamZBV3RVMWJvQ0RucU4tSlFlWFVyYWlqc2k1Nk0tZXBpQWRRZGoxMGtRdEdFZ1JfR2pnTk5HSGd4eWNoOGdjREVZNjI2eWRMVGJXNTZ5SUdTcjJXeENxYlRsM2t4U2Q0Y0d6VVVwSXU5amxZR2dCQWdwSm82dw?oc=5",
+        "description": "",
+        "pubDate": "2026-01-27T18:50:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Why is Pakistan backing Bangladesh in its T20 World Cup row with India?",
         "link": "https://www.aljazeera.com/sports/2026/1/27/why-is-pakistan-backing-bangladesh-in-its-t20-world-cup-row-with-india?traffic_source=rss",
         "description": "Regional politics at the fore after Bangladesh ousted from the T20 World Cup in India.",
@@ -345,15 +435,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Investigator describes intense air traffic at time of deadly midair collision near DC - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbkNrdW9nMmtwNXhkNEFONU90UGNnYmZ6bTlvb2RJNGZ3MlRRQWpEZUNPdkRweFJNXzZkX2Y2M1R3QTJNR2pkUUdna2ppVDlaRXVPUldjSXdOa2hpb01xUklyYW5xZ3lsQ2ZYLV9uOGpQU0hBMUR5YkZOYnM2am8tX1ZXWWpOUFNwcEJZYzRCOF9PM1g4N204bEFtY19hUkczVElN?oc=5",
-        "description": "",
-        "pubDate": "2026-01-27T18:36:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Minnesota judge orders ICE chief to appear in court",
@@ -365,28 +446,10 @@
         "bias": -1
       },
       {
-        "title": "Wall Street flirts with a record as stocks zigzag following mixed profit reports - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMUxac2Q3R0Y5cHVXWUt0RC1wWjdadVlIR09yaVBsSmRjUE11TmtpQThCbWpzWDBCSFJxcHJqN0RzUnpwelVyOUppTi15bXl5RVMyWlJwSG5GcVBVWjZDRVpIbEFQbnBVZmc3QUV2c3ZPVzdDanhZdS03bE9SVExvaDBvLXJLdEFpX2xHX3FCQmY2N0xGdXFHUQ?oc=5",
-        "description": "",
-        "pubDate": "2026-01-27T18:13:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "French ex-senator on trial for drugging lawmaker to abuse her - AP News",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOWpUOFZObzhJeXlsbWJ6emY0VmRBWWR2RkpMTzdpenFYRy1mdHNDWjFhd1Bydk5nVDBpUm0yQlIyc2xpYzkzczdybUVTSmtWZlhpTGM5X2dCTndWbHQ0TVZubVFtLTRTSzNzN0ZUS05Ua1dyWUhzSHdUWkUwSzBvNW5oSy14RHczRzZvck56ZEVKMTZNclRLVFYxcFFCMzV1QmIybHk1OXNxWnVXU3EwR1ZB?oc=5",
         "description": "",
         "pubDate": "2026-01-27T18:03:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Dutch court jails Eritrean man for 20 years over ‘cruel’ people smuggling - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRlBxdzBRUXpqRkxYWFNYX1NnWXJpaERNVlFkTFNBY3l0VDJWUVJTQ3Y3QzVKXzhQTjZaS1R2Ums3YzZZajg4c0JTOUtnRDVodHlXVzZBNVRtRmdsMkZZcWllalQwaTl5S08wVjIxZU5mM1UxYkcteWY4WlJoMDhSUEozRkI5bHlyUFdnT0NHVC1INFczRlQ4SFRiS3Y1Q3VCMzNrc3pOaUlNZ2pYUDRqMXRuX0o?oc=5",
-        "description": "",
-        "pubDate": "2026-01-27T18:01:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -419,15 +482,6 @@
         "bias": 0
       },
       {
-        "title": "'We all know someone who was killed' -  Iran protesters tell BBC of brutal crackdown",
-        "link": "https://www.bbc.com/news/articles/cy8y2jxx9ppo?at_medium=RSS&at_campaign=rss",
-        "description": "Young Iranians able tell the BBC how they saw friends and other people die as security forces crushed protests earlier this month.",
-        "pubDate": "2026-01-27T17:38:09Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85fb/live/714cbd90-fb9c-11f0-a422-4ba8a094a8fa.jpg",
-        "bias": 0
-      },
-      {
         "title": "TikTok settles just before social media addiction trial to begin",
         "link": "https://www.bbc.com/news/articles/c24g8v6qr1mo?at_medium=RSS&at_campaign=rss",
         "description": "Defendants include Meta, which owns Instagram and Facebook, and YouTube parent Google.",
@@ -444,6 +498,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "NTSB arrives to investigate Maine plane crash that killed 6 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTzV6Q0NyU2RKSDl5VmxFajhDVHR3aE1YZDJ4REhsNVdTN3RIdUlBTlR3UjB4RHBCbzRCeU9FaGlJQTk3Y1hfVTlEeEVJeUNDaW1wLW5sSXd2T0xrZGdZYzBtcXhDVGNkZGNYd3lUaGFXMHdzbU9oNWVZY3AyanFKcmhDWk8xUkU1Q0E?oc=5",
+        "description": "",
+        "pubDate": "2026-01-27T17:23:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "World pauses to commemorate International Holocaust Remembrance Day - AP News",
@@ -624,77 +687,14 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Rwanda takes legal action against UK over axed migrant deal",
-        "link": "https://www.bbc.com/news/articles/czx32yxnvzro?at_medium=RSS&at_campaign=rss",
-        "description": "The African nation argues it is owed payments but Downing Street says it will fight the case.",
-        "pubDate": "2026-01-27T15:17:38Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8177/live/7b11f3e0-fb8d-11f0-bd4c-9d8c48f8eab8.png",
-        "bias": 0
-      },
-      {
-        "title": "Iraq presidential vote delayed as Kurdish blocs struggle to pick candidate",
-        "link": "https://www.aljazeera.com/news/2026/1/27/iraq-presidential-vote-delayed-as-kurdish-blocs-struggle-to-pick-candidate?traffic_source=rss",
-        "description": "Whoever is nominated from the two Kurdish parties still needs approval from the Shia and Sunni blocs in the parliament.",
-        "pubDate": "2026-01-27T14:54:02Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Firefighters battle 'emergency level' blazes in Australia heatwave",
-        "link": "https://www.bbc.com/news/articles/cpqyp9w84eeo?at_medium=RSS&at_campaign=rss",
-        "description": "Firefighters in Victoria are battling at least six major fires amid a record-breaking heatwave.",
-        "pubDate": "2026-01-27T14:49:44Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc12/live/bdf0fa00-fb4f-11f0-8a3f-efae3b17f55b.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Trump’s ‘Board of Peace’ puts rights abusers in charge of global order",
-        "link": "https://www.aljazeera.com/opinions/2026/1/27/trumps-board-of-peace-puts-rights-abusers-in-charge-of-global-order?traffic_source=rss",
-        "description": "Trump’s latest assault on the UN replaces international law with power, money and impunity.",
-        "pubDate": "2026-01-27T14:45:56Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Minneapolis shooting scrambles Second Amendment politics for Trump - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc3dzN1JZZENFY2VLbUR5V29zQ1BSb3hWVkZkdVFDNGJSMlZCRGdNVE9aVDRLaVEyMlowZGtBbUFqVDZZNjk5ZkFReUVzc1NOWm1KeExrRG42QkdHV1BSWE9PTDJvRHJ4U1JWUmlaMFotcUlpWlJQQ1BmSV9laG9nN1pDRkh6Q19fRW9YcldlZWllTTNaNkhkTlBkbHV2emItNDVkR253?oc=5",
-        "description": "",
-        "pubDate": "2026-01-27T14:43:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Sabalenka, Svitolina to meet in semis after Gauff's racket-shattering exit, Alcaraz sails through - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPamxRTmpxRWhoa0xrQ01hMUZYcmpWQlpneG1wMXVCd2dOQllNUmxPbzhSemlGX0c5OGNpZUpmNkJEb3g2X1pDUzNWcnpydUNZSDlsOXNWSEZiX29YNFRNN041dU1MWGg4dUg2bHpfQjFaRWktc2l6X0ZsQ1ZxSklYenRjYW96cmFNaXUwWEJDZ2poeGZHSGg0OEpvaV9MUzlw?oc=5",
-        "description": "",
-        "pubDate": "2026-01-27T14:39:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "LIVE: Trump to pitch affordability amid outrage over protest killings",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/1/27/live-trump-to-pitch-affordability-amid-outrage-over-protest-killings?traffic_source=rss",
-        "description": "Trump set to attempt to pivot Republican messaging as he shows signs of softening on deadly Minnesota operation.",
-        "pubDate": "2026-01-27T14:30:33Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
       {
-        "title": "More arctic air is expected for Southern states hit by ice and riddled with power outages - AP News",
+        "title": "Bitter cold grips the eastern US as winter storm deaths rise and power outages linger - AP News",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNajJ1WXJ3ckU1Y0Vmb3NsOWtvRDZta3ZSR25OSW5sUTlQOFpCdTgtQ3A2QkNiM202cVNUejVobHdOalBCVHlOZ3hYb3V1aUFtbFZtRG1HS3FuVmVYTGZNTTlvWFE0VkJnUEJXcTU3NDJkV05CMG45OFBPVWoxeDRkX1VWdHFmOVA5NzFWd3ZFaWlzZmM2R2lLM1Y2bFdvNERWbFctTVFSdXlOQXVoVXc?oc=5",
         "description": "",
-        "pubDate": "2026-01-27T19:35:00Z",
+        "pubDate": "2026-01-27T20:39:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -727,15 +727,6 @@
         "bias": 0
       },
       {
-        "title": "Steelers hire Mike McCarthy as head coach - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNGtVMTM4eVpWNUdMc2RhLUN1WGN5OGprRVlFdktlRkJCamZBV3RVMWJvQ0RucU4tSlFlWFVyYWlqc2k1Nk0tZXBpQWRRZGoxMGtRdEdFZ1JfR2pnTk5HSGd4eWNoOGdjREVZNjI2eWRMVGJXNTZ5SUdTcjJXeENxYlRsM2t4U2Q0Y0d6VVVwSXU5amxZR2dCQWdwSm82dw?oc=5",
-        "description": "",
-        "pubDate": "2026-01-27T18:50:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Plaid MP broke rules inadvertently, says watchdog",
         "link": "https://www.bbc.com/news/articles/cm2xp0kr0ryo?at_medium=RSS&at_campaign=rss",
         "description": "Liz Saville Roberts failed to register donations to a cross-party group she chairs within 28 days.",
@@ -760,6 +751,15 @@
         "pubDate": "2026-01-27T18:15:05Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/521b/live/a8c12e10-fbaa-11f0-a422-4ba8a094a8fa.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Dutch court jails Eritrean man for 20 years over ‘cruel’ people smuggling - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRlBxdzBRUXpqRkxYWFNYX1NnWXJpaERNVlFkTFNBY3l0VDJWUVJTQ3Y3QzVKXzhQTjZaS1R2Ums3YzZZajg4c0JTOUtnRDVodHlXVzZBNVRtRmdsMkZZcWllalQwaTl5S08wVjIxZU5mM1UxYkcteWY4WlJoMDhSUEozRkI5bHlyUFdnT0NHVC1INFczRlQ4SFRiS3Y1Q3VCMzNrc3pOaUlNZ2pYUDRqMXRuX0o?oc=5",
+        "description": "",
+        "pubDate": "2026-01-27T18:01:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -844,10 +844,10 @@
         "bias": 0
       },
       {
-        "title": "UK’s Starmer heads to China seeking a thaw in relations but risking a rift with Trump - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTkt5U2dGa3JwLXVBX0pRUUZQVG9tSzhsYUlJSHRNRVpmNVF0UTFNTTJhejkyckFTeV94SFh4cGZCSzVrMmtvZHA2TnUxMWE3NEFsNTlFSnNKVnZnWm9KMVdfVVlWNkdkQ1BnMFRsWDNnc0JwV2hTTjJQSG5WeEo0UUdVRGw0ekxkWlhWZW8zSWlYbGtTaFhr?oc=5",
+        "title": "Sabalenka, Svitolina to meet in semis after Gauff's racket-shattering exit, Alcaraz sails through - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPamxRTmpxRWhoa0xrQ01hMUZYcmpWQlpneG1wMXVCd2dOQllNUmxPbzhSemlGX0c5OGNpZUpmNkJEb3g2X1pDUzNWcnpydUNZSDlsOXNWSEZiX29YNFRNN041dU1MWGg4dUg2bHpfQjFaRWktc2l6X0ZsQ1ZxSklYenRjYW96cmFNaXUwWEJDZ2poeGZHSGg0OEpvaV9MUzlw?oc=5",
         "description": "",
-        "pubDate": "2026-01-27T14:48:00Z",
+        "pubDate": "2026-01-27T14:39:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -886,6 +886,15 @@
         "pubDate": "2026-01-27T12:35:49Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b56/live/3a536b20-fb7b-11f0-a422-4ba8a094a8fa.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Days after a disputed election, Uganda’s army is on the hunt for opposition leader Bobi Wine - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaGh2T3VOdUxoU29HNWtJS3NzcUp6Yy1iNXRQTVFNN2pwLXlDVWpsTVJMT0FXQnlpd0RqLXpmMkhUY0U4bi1FNWVLUWNXTDdBcVlvOXFwaDUwS2tfVUxZNjN3dXNrdjhMVmRtMHRSYjBqanlXMTJ2YVc4YUxqT2RyZGRyNmFKZFRCZjJrOUI1Y01YNDlBcFJWUDlRMA?oc=5",
+        "description": "",
+        "pubDate": "2026-01-27T11:57:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -976,6 +985,15 @@
         "pubDate": "2026-01-27T03:50:27Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36e1/live/aeddc6d0-fb2f-11f0-b385-5f48925de19a.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Border Patrol commander Greg Bovino and some agents expected to leave Minneapolis, AP source says - AP News",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54dXA5U1ZGT0RFZml5ZkpMcW1Dem8tU3BESGJKN0M2Yml2LUNZanU1MVVGaE9BekpJVHk2aUlSMDdRQTgxNlZfeEZJanVQMlgyRkF3RG1Ebm8ta1Z2b3NncGFSRG9GZm81ZmgxVlRvbXNVZHlvNGwtUlBsbEZERkU?oc=5",
+        "description": "",
+        "pubDate": "2026-01-27T02:42:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -1272,6 +1290,15 @@
         "pubDate": "2026-01-27T10:56:42Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90d1/live/03be0dd0-fb5e-11f0-b385-5f48925de19a.jpg",
+        "bias": 0
+      },
+      {
+        "title": "French lawmakers approve bill banning social media for children under 15 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRkY3N3ZmNlZnNXJNZE16X2ZyTURObmd3LUFUazhJZUI2ZFlZOVg5Q2xNRjZrTm9faTE3ZmFvZEZvb0pGeVd3TzVRdkZMZVFSOWtyU0FUMjZhMHQxdHFWcFVmUUd5ZUx2aFlZanRNendqR0UxSThxTXZpdm54MkRzSEFiaVpyd3RmVTduS25MNW9vbmRONUI0?oc=5",
+        "description": "",
+        "pubDate": "2026-01-27T10:54:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
