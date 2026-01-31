@@ -1,7 +1,25 @@
 {
-  "lastUpdate": "2026-01-31T10:55:34.242146Z",
+  "lastUpdate": "2026-01-31T11:21:07.488568Z",
   "news": {
     "Gaming": [
+      {
+        "title": "run to the key [Free] [Platformer]",
+        "link": "https://malekahmed.itch.io/run-to-the-key",
+        "description": "",
+        "pubDate": "2026-01-31T11:01:09Z",
+        "source": "malekahmed.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MjkyOTUyLnBuZw==/315x250%23c/EBZ%2Feq.png",
+        "bias": 0
+      },
+      {
+        "title": "Double O Squatch [Free] [Adventure]",
+        "link": "https://watso28.itch.io/double-o-squatch",
+        "description": "",
+        "pubDate": "2026-01-31T10:45:58Z",
+        "source": "watso28.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1MjkyOTQwLnBuZw==/315x250%23c/XTIwbj.png",
+        "bias": 0
+      },
       {
         "title": "humanlife [Free]",
         "link": "https://moeshit.itch.io/humanlife",
@@ -183,15 +201,6 @@
         "bias": 0
       },
       {
-        "title": "Leaps and Bounds Demo [Free] [Platformer]",
-        "link": "https://back-to-basic.itch.io/leaps-and-bounds-demo",
-        "description": "",
-        "pubDate": "2026-01-31T08:20:04Z",
-        "source": "back-to-basic.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1MjkxODQwLnBuZw==/315x250%23c/Kms1XQ.png",
-        "bias": 0
-      },
-      {
         "title": "Sore Eyes [Free] [Platformer]",
         "link": "https://thatmushroom.itch.io/sore-eyes",
         "description": "You live in an infected facility and you must reach the top to kill the entity before it kills you.",
@@ -202,6 +211,60 @@
       }
     ],
     "World": [
+      {
+        "title": "Israeli strikes kill 23 Palestinians as Gaza ceasefire inches forward",
+        "link": "https://www.npr.org/2026/01/31/g-s1-108142/israeli-strikes-kill-23-palestinians-gaza",
+        "description": "Hospitals in Gaza said Israeli strikes killed at least 23 Palestinians Saturday, one of the highest tolls since the October ceasefire aimed at stopping the fighting.",
+        "pubDate": "2026-01-31T11:13:24Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Takeaways from the millions of newly released Epstein files",
+        "link": "https://www.bbc.com/news/articles/cevnmxyy4wjo?at_medium=RSS&at_campaign=rss",
+        "description": "Three million new documents include hundreds of mentions of Trump and emails between Epstein and a person called \"The Duke\".",
+        "pubDate": "2026-01-31T11:13:04Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02e3/live/289bd6d0-fe17-11f0-8a1e-69aa641f4cb6.jpg",
+        "bias": 0
+      },
+      {
+        "title": "President Diaz-Canel slams Trump’s bid to ‘suffocate’ Cuba’s economy",
+        "link": "https://www.aljazeera.com/news/2026/1/31/president-diaz-canel-slams-trumps-bid-to-suffocate-cuba-economy?traffic_source=rss",
+        "description": "Cuba's leader says US president's threat to impose tariffs on countries providing oil is 'fascist, criminal, genocidal'.",
+        "pubDate": "2026-01-31T10:54:28Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Djokovic vs Alcaraz – Australian Open final: Start time, head-to-head",
+        "link": "https://www.aljazeera.com/sports/2026/1/31/djokovic-vs-alcaraz-australian-open-final-start-time-head-to-head?traffic_source=rss",
+        "description": "The veteran icon faces the young champion as their inter-generational tennis rivalry sets up a blockbuster showdown.",
+        "pubDate": "2026-01-31T10:47:53Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Why have rapper Ghali’s Israel comments led to Winter Olympics criticism?",
+        "link": "https://www.aljazeera.com/sports/2026/1/31/why-has-rapper-ghalis-israel-comments-led-to-winter-olympics-criticism?traffic_source=rss",
+        "description": "The Milano-Cortina Winter Olympics open on Monday, but rapper Ghali's inclusion draws criticism in his native Italy.",
+        "pubDate": "2026-01-31T10:39:24Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Judge blocks US gov’t move to end deportation protections for Ethiopians",
+        "link": "https://www.aljazeera.com/news/2026/1/31/judge-blocks-us-govt-move-to-end-deportation-protections-for-ethiopians?traffic_source=rss",
+        "description": "Ruling delays February 13 deadline affecting 5,000 people amid wider legal challenges to Trump's immigration crackdown.",
+        "pubDate": "2026-01-31T10:32:59Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Israeli strikes kill 20 Palestinians, including children, as Gaza ceasefire inches forward - AP News",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZFBjS1c5Q0RkLXNYWmxLdWlfZ1ZrRGFuaTF6bWFKdlBaNk51ekFwT0VucUtTSTdsQUpjaTNvNmRTUlZiNEp1blRaQk5nYjd5R3NEblJUODVvYWhtbFE0SmVTdDUwanNKVFJiTUlWTE5sOV9MNFhQZmVzRkR3eWxmaTZiUjNpSzhrWV9EUnQ0ZlZrcmRoMmtF?oc=5",
@@ -266,6 +329,15 @@
         "bias": -1
       },
       {
+        "title": "Coordinated attacks in Pakistan kill 10 security personnel and dozens of insurgents - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZmtSdllGRTVlOGZCZE9LRGI3U01UYXAxeUQyQklDR2NhRlJ3S3lHcUtVWTF0WFNTSG9BT1VpS2pqemxhU21OVnBIZkk0WHdIbWRFWUlqa08zM3pJa2J6SFF5MzJRQTc5bmliWU1RQjQ2QnA5ZGpIdTVpZkM3MnNjdlY3WF9FSVdoaFdMZFhMWC00NF9rRy1udU9iWQ?oc=5",
+        "description": "",
+        "pubDate": "2026-01-31T09:24:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Lindsey Vonn sits out final race before Olympics but remains on track for Games after crash - AP News",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbW1hQnhJYU1oZUtOVWZCUDdHOVo3VlNCck5sdzFFWnE1MURCWHRGT1VlQ29iaExnT2VRYTRaMDRIcGdwcFJQYjJfNXoxUFJmMVhaZGxTWG5UcnFHVmdHbXhLZW52VUJTRGF1QVEtRzE0S01MVFFkUlVHaW9Rblk2WTNQUEdITWxJNFRzY2hValo?oc=5",
         "description": "",
@@ -293,7 +365,7 @@
         "bias": -1
       },
       {
-        "title": "LIVE: Israel kills 19, including 6 children, in new Gaza ceasefire breach",
+        "title": "LIVE: Israel kills 28, including 6 children, in new Gaza ceasefire breach",
         "link": "https://www.aljazeera.com/news/liveblog/2026/1/31/live-israel-kills-12-palestinians-in-gaza-as-rafah-crossing-set-to-open?traffic_source=rss",
         "description": "Israel carries out deadly attacks in Gaza a day before the Rafah crossing is due to reopen.",
         "pubDate": "2026-01-31T08:46:46Z",
@@ -302,17 +374,17 @@
         "bias": -1
       },
       {
-        "title": "Takeaways from the millions of newly released Epstein files",
-        "link": "https://www.bbc.com/news/articles/cevnmxyy4wjo?at_medium=RSS&at_campaign=rss",
-        "description": "Three million new documents include hundreds of mentions of Trump and emails between Epstein and a person called \"The Duke\".",
-        "pubDate": "2026-01-31T08:42:28Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02e3/live/289bd6d0-fe17-11f0-8a1e-69aa641f4cb6.jpg",
+        "title": "A Sudanese doctor recounts his harrowing escape from a Darfur city under rebel bombardment - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQXFlbnBBYjl5aFo4R3hlVTRBVkNLRjlvSEt5WXpJaWU2bzYwUWFJd203RWxHX2pZWk5PX0pkeGphdUxkZ2hSSWZqYjB4Yk5XbFRVTllZaEZHX0ltRmJkM2dCSUJKMUFwRF9mNWJBODhBclVOemxNUDdGMjBRVDF0OTAtaEdENy1YSHJnRF9hZE8tMkE?oc=5",
+        "description": "",
+        "pubDate": "2026-01-31T08:33:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
-        "title": "A Sudanese doctor recounts his harrowing escape from a Darfur city under rebel bombardment - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQXFlbnBBYjl5aFo4R3hlVTRBVkNLRjlvSEt5WXpJaWU2bzYwUWFJd203RWxHX2pZWk5PX0pkeGphdUxkZ2hSSWZqYjB4Yk5XbFRVTllZaEZHX0ltRmJkM2dCSUJKMUFwRF9mNWJBODhBclVOemxNUDdGMjBRVDF0OTAtaEdENy1YSHJnRF9hZE8tMkE?oc=5",
+        "title": "Olympic program review opens path to relax Winter Games mandate for only sports on snow and ice - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc3RCeHZGZjR4M1RTbGtNaEF4UW9vNkc3b3BhcWMyMnhpOXV4bDJuYkQtb004VThwT3dVdElXcXU0UmdhVWE4ZElhdW1IMlhTQzgzNjA5cldnMEZpZ2ZiSGoxYXpxZkhUeHBuaXVEZ1NUdVZlVjFINXNUTU9tYm9ZTTZlbkkyVzBxUnoyTUZzSUQwVVJaR3ZiVjV1NmVyS0FySXJKS3lfVndrcTE3?oc=5",
         "description": "",
         "pubDate": "2026-01-31T08:33:00Z",
         "source": "news.google.com",
@@ -545,6 +617,15 @@
         "bias": 0
       },
       {
+        "title": "Democrats Menefee and Edwards compete for a House seat that will narrow GOP's slim majority - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGtJS3hxQXY0OFdIUkZPMDZNVUQ3TG1KY05CNkZFT0dpOWlZZW9yb0Z1SnFQc2RSZWw1MDZKRkJxZm0zREV6N2RIU016SkFaQ0lpaUdzaU5IQ3F5aUUxLW9ZZ01JdE5ic2tqemYxbm9lWnVrX0FvX00tMzg4QkpPejZNRFl2emVXeGtVT0JlZmQ5R0JsSWkwSGNkcHFMUlp4dG1kcjk1UXBvOGc?oc=5",
+        "description": "",
+        "pubDate": "2026-01-31T05:01:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Iraqi calligrapher’s handwritten Quran ends 6 years of artistry and craft - AP News",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSmVJVWEyN2xTY1RkcDZNSmpmUzJNUkRJWTYtbldlTWNTenY2MHRIb2NTSk5TekxlTi1fUHVtNGFmREJFSG8wQUdtZEg1OU9mVjFsbGNKSEg0RnM1ZDM3ZmVCZUsyTWxvdHR5eXROMmdzd3FkOWNXWmhpYUZuNG5tN1I0M1VYRHJ4ME5LajJTRzdJdVppSG5mbnI5R0o5WDZWSmx5azlrYw?oc=5",
         "description": "",
@@ -579,78 +660,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Huge cache of Epstein documents includes emails financier exchanged with wealthy and powerful - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObkc0YkQ5azItNk8xRFBvcU1oUEdqelYyT085ZUxTMzN2S1I4dHVvSHczeEVjeXVfUXVnM3NETXpQNVhNdDFSQ0Q4M2h3RHBmVFQ0cFppRkpqLWJzVlYyeDZRYU1wQkUtbmFfZ1piT2o0OXVuRU9DX2xWcm9WMkMxMy1fZ2NjQk9SRWd0MTU2YUxIN0ZjbjZkYWxjN1RFNmg4T01kWEFB?oc=5",
-        "description": "",
-        "pubDate": "2026-01-31T03:39:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "US approves $6.6bn sale of attack helicopters, assault vehicles to Israel",
-        "link": "https://www.aljazeera.com/news/2026/1/31/us-approves-6-6bn-sale-of-attack-helicopters-assault-vehicles-to-israel?traffic_source=rss",
-        "description": "The approved sale includes 30 Apache helicopters, which Israeli forces have used to attack Palestinians in Gaza.",
-        "pubDate": "2026-01-31T03:36:41Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Pushed by Trump, US allies are resetting relations with China - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMUJwa1ZyeWU5bVdqR09JTlVEOUp1S3VCb2ZBMkg2U0Z6eEU4Z29VRTNvUHQ1MFpsQUx0RlpGak1CbnFfb25pb2dYUVhvcGdHYXdyYUlYWFpUQlRyd084emFraG1yOXJNekZGaVY3THl0VEZXR2N1ZnEyWEs5Z19ac0tkWl9BOGxrNVRhckZSc2t1TFd6Z2Q1cU9UT1MyakVtWEdv?oc=5",
-        "description": "",
-        "pubDate": "2026-01-31T03:26:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "DOJ says it’s releasing 3 million pages of Epstein files, as accusers criticize release - AP News",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNaHVwT1ppVENiSmdORmIxMGRXSzVSNjJtU1NGNFBmMU9VS1dYWXZpakhZRHRHRzYyMEVLRDdYWjdvZm9Obk5mVU54ZHpqTlg4MWFPTFVkaDRZQjRGR1FyY29XUUF5SEpjZEl3cg?oc=5",
-        "description": "",
-        "pubDate": "2026-01-31T03:19:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Brief US government shutdown begins after funding deadline lapses",
-        "link": "https://www.aljazeera.com/news/2026/1/31/us-senate-approves-spending-package-but-short-government-shutdown-likely?traffic_source=rss",
-        "description": "US gov't funding impasse driven by Democratic anger over federal agents killing two people during immigration crackdown.",
-        "pubDate": "2026-01-31T03:09:28Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Georgia city warns against drinking tap water after Atlanta airport fuel spill - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYnV3ZTdONGsyRzREYzFFblFlNS1SYms0V21DbEtadi1CT25FUGk3amxfYVNPR1NQMDJ2bWRnQnJ5emFRM3NsakFKUTBqMHZGVHV6VlJKVDM5bnlOb3RLY3ZCU1g5bzZ4cW04LU9fdm11QWtlc19KQXdMTnZ5OElhX0V3X3Y5UzlGeFBqVGpSVWRnY1NhcGdGampMQVI4empqS1NmZHkwUHVUUQ?oc=5",
-        "description": "",
-        "pubDate": "2026-01-31T03:08:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "What we learned - and didn't - from the Melania documentary",
-        "link": "https://www.bbc.com/news/articles/cwy1ed1vgxro?at_medium=RSS&at_campaign=rss",
-        "description": "Melania, directed by Brett Ratner, provides a fleeting glimpse into the life of the enigmatic first lady.",
-        "pubDate": "2026-01-31T03:03:31Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b660/live/c0e8c9e0-fe47-11f0-9972-d3f265c101c6.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Stay or go - what's next for coyote that escaped to Alcatraz?",
-        "link": "https://www.bbc.com/news/articles/c0q4y95yv4jo?at_medium=RSS&at_campaign=rss",
-        "description": "The canine is surviving on a diet of birds after swimming to the isolated prison island.",
-        "pubDate": "2026-01-31T02:49:56Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fbf/live/64fe95d0-fe45-11f0-b7e1-afb6d0884c18.jpg",
-        "bias": 0
       }
     ],
     "Politics": [
