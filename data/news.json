@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2026-02-08T07:47:40.917448Z",
+  "lastUpdate": "2026-02-08T08:15:52.106817Z",
   "news": {
     "Gaming": [
+      {
+        "title": "my friend AM [Free] [Role Playing]",
+        "link": "https://loom-souhail-mexatron.itch.io/my-friend-am",
+        "description": "\"Born of Code and Void\" entry to Playground 2.0 Game Jam",
+        "pubDate": "2026-02-08T07:55:25Z",
+        "source": "loom-souhail-mexatron.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1NDY0NzA2LnBuZw==/315x250%23c/VjWIbl.png",
+        "bias": 0
+      },
       {
         "title": "Desparcha234 [Free] [Rhythm] [macOS] [Android]",
         "link": "https://jacobo1304.itch.io/desparcha234",
@@ -9,6 +18,15 @@
         "pubDate": "2026-02-08T07:36:09Z",
         "source": "jacobo1304.itch.io",
         "image": "https://img.itch.zone/aW1nLzI1NDY0NzkzLnBuZw==/315x250%23c/TMKHiB.png",
+        "bias": 0
+      },
+      {
+        "title": "NIGHT OF UNDEAD [Free] [Survival] [Windows]",
+        "link": "https://lovedeeppawar1.itch.io/night-of-undead",
+        "description": "",
+        "pubDate": "2026-02-08T07:34:00Z",
+        "source": "lovedeeppawar1.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1NDY1MDU4LnBuZw==/315x250%23c/soD0%2FK.png",
         "bias": 0
       },
       {
@@ -107,7 +125,7 @@
         "description": "",
         "pubDate": "2026-02-08T06:25:33Z",
         "source": "egchannel.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1NDY0MTY4LnBuZw==/315x250%23c/qp%2BZBd.png",
+        "image": "https://img.itch.zone/aW1nLzI1NDY1MDIzLnBuZw==/315x250%23c/EFRAEc.png",
         "bias": 0
       },
       {
@@ -174,24 +192,6 @@
         "bias": 0
       },
       {
-        "title": "ABBYCORE [Free] [Other]",
-        "link": "https://notflonk.itch.io/abbycore",
-        "description": "",
-        "pubDate": "2026-02-08T05:56:10Z",
-        "source": "notflonk.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1NDYzNzM1LnBuZw==/315x250%23c/UszMoo.png",
-        "bias": 0
-      },
-      {
-        "title": "20game_pong [Free]",
-        "link": "https://qazpig.itch.io/20game-pong",
-        "description": "My first game for godot.",
-        "pubDate": "2026-02-08T05:54:21Z",
-        "source": "qazpig.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1NDY0MDU4LnBuZw==/315x250%23c/Aj5BND.png",
-        "bias": 0
-      },
-      {
         "title": "Play My Game [Free] [Platformer]",
         "link": "https://localskeleton.itch.io/play-my-game",
         "description": "Play my GAMe",
@@ -244,18 +244,27 @@
         "source": "okahuna.itch.io",
         "image": "https://img.itch.zone/aW1nLzI1NDU5ODAwLnBuZw==/315x250%23c/AEIx3Z.png",
         "bias": 0
-      },
-      {
-        "title": "Shop Slicker [Free] [Action] [Windows] [Linux]",
-        "link": "https://cheezytaco101.itch.io/shop-slicker",
-        "description": "skate around and steal shit with a freaking sticky hand!",
-        "pubDate": "2026-02-08T00:11:56Z",
-        "source": "cheezytaco101.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1NDU4NDIxLnBuZw==/315x250%23c/9rnQoJ.png",
-        "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Japanese people brave snow to vote in snap election",
+        "link": "https://www.bbc.com/news/articles/cx2y7d2z29xo?at_medium=RSS&at_campaign=rss",
+        "description": "A coalition led by Takaichi is expected to clinch a decisive win, according to polls.",
+        "pubDate": "2026-02-08T07:59:33Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca98/live/a23d25a0-04a4-11f1-a81c-112ebee512f6.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Saudi Arabia slams ‘foreign interference’ in Sudan after deadly RSF attacks",
+        "link": "https://www.aljazeera.com/news/2026/2/8/saudi-arabia-slams-foreign-interference-in-sudan-after-deadly-rsf-attacks?traffic_source=rss",
+        "description": "Riyadh condemns RSF attacks in Kordofan, blames foreign fighters and weapons for fuelling Sudan's three-year conflict.",
+        "pubDate": "2026-02-08T07:34:12Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Iran-US talks in Muscat bought time, not a deal",
         "link": "https://www.aljazeera.com/opinions/2026/2/8/iran-us-talks-in-muscat-bought-time-not-a-deal?traffic_source=rss",
@@ -335,15 +344,6 @@
         "pubDate": "2026-02-08T05:03:00Z",
         "source": "news.google.com",
         "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Japanese people brave snow to vote in snap election",
-        "link": "https://www.bbc.com/news/articles/cx2y7d2z29xo?at_medium=RSS&at_campaign=rss",
-        "description": "A coalition led by Takaichi is expected to clinch a decisive win, according to polls.",
-        "pubDate": "2026-02-08T04:24:37Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca98/live/a23d25a0-04a4-11f1-a81c-112ebee512f6.jpg",
         "bias": 0
       },
       {
@@ -493,6 +493,15 @@
         "bias": 0
       },
       {
+        "title": "Fears stars for No. 10 Michigan State in OT win over No. 5 Illinois after Izzo debated benching him - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVXNJb3JMcGFnWjRVVnhPQS13YmxobHVoWmdJUjh0eXppRURoTjM5MFY2bDd4M0tzUWcwQzZDQUc1VWVpQTJZVDdMR0JBZ3Bja0M0Z25uOVJtNnQ5TW1ObGxqaHdRNkpXdktsV3Y4dzU0NEJya1ZaZ282Nlp2SVdPd3gxbzFMMUJialhfanpqUkRiMnd6NVdJ?oc=5",
+        "description": "",
+        "pubDate": "2026-02-08T04:47:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Families of Venezuelans detained for political activism demand their release outside infamous prison - AP News",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ3VGSEx5MXpTRzFSVWZEQmZkekFic1Ezdnl6VURGRGxhOTZIUUMtc18yb0x1TXJvNEw3R2x0VFlTRnE3d181VjM2a3NYVXJXNENFS1BsM3ktZ3FGOXdmd29RSFg5dXlJenNVbVYycEwxdEJ3X1psVF9KWjFuVERsbWtpdml6eWpGSTdQcHc5Ymt2aDlVSDB0V1Z5Z184alA5X1BkbjEtd0RoOUtNeXM2Mm5DY0NhblZMaGl3?oc=5",
         "description": "",
@@ -522,6 +531,15 @@
         "pubDate": "2026-02-08T07:36:50Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25d4/live/489256a0-02a7-11f1-9dbd-3d594ba5a424.jpg",
+        "bias": 0
+      },
+      {
+        "title": "How Britain became a fried chicken nation",
+        "link": "https://www.bbc.com/news/articles/c5yvnqqv9n2o?at_medium=RSS&at_campaign=rss",
+        "description": "An internet craze for American-style chicken has come to the UK, but what does it mean for traditional chippies?",
+        "pubDate": "2026-02-08T01:08:46Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9132/live/790330a0-046b-11f1-b5e2-dd58fc65f0f6.jpg",
         "bias": 0
       }
     ],
