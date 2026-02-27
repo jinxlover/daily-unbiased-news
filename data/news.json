@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "2026-02-27T11:18:55.395475Z",
+  "lastUpdate": "2026-02-27T11:48:45.982170Z",
   "news": {
     "Gaming": [
+      {
+        "title": "Solar eclipse! [Free]",
+        "link": "https://fireredsnivy.itch.io/solar-eclipse",
+        "description": "",
+        "pubDate": "2026-02-27T11:38:55Z",
+        "source": "fireredsnivy.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1ODQzMzc5LnBuZw==/315x250%23c/KILaF%2F.png",
+        "bias": 0
+      },
+      {
+        "title": "A Street Cat's Tale [Free] [Adventure] [Windows]",
+        "link": "https://emily-ferrel.itch.io/a-street-cats-tale",
+        "description": "",
+        "pubDate": "2026-02-27T11:38:22Z",
+        "source": "emily-ferrel.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1ODQzMzcwLmpwZw==/315x250%23c/o3zAyH.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Komstsuu [Free]",
+        "link": "https://simuandrei.itch.io/komstsuu",
+        "description": "Simple first game",
+        "pubDate": "2026-02-27T11:22:18Z",
+        "source": "simuandrei.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1ODQzMDQ0LnBuZw==/315x250%23c/P8cpHS.png",
+        "bias": 0
+      },
+      {
+        "title": "Al_Anor [Free]",
+        "link": "https://zog2.itch.io/al-anor",
+        "description": "",
+        "pubDate": "2026-02-27T11:16:29Z",
+        "source": "zog2.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1ODQzMDA3LmpwZWc=/315x250%23c/o7%2BqOY.jpeg",
+        "bias": 0
+      },
       {
         "title": "The Data Janitor [Free] [Survival] [Windows]",
         "link": "https://annaan00.itch.io/the-data-janitor",
@@ -84,6 +120,15 @@
         "bias": 0
       },
       {
+        "title": "4 OLD TOWERS [Free] [Platformer]",
+        "link": "https://sebmuseum.itch.io/four-old-towers",
+        "description": "A cool platformer for Pico fantasy console",
+        "pubDate": "2026-02-27T09:49:32Z",
+        "source": "sebmuseum.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1ODQzMTcyLnBuZw==/315x250%23c/EA9LML.png",
+        "bias": 0
+      },
+      {
         "title": "L'évasion [Free]",
         "link": "https://temps-des-cerises.itch.io/la-prison",
         "description": "Jeu réalisé pendant le stage Open Lab de février 2026",
@@ -147,30 +192,12 @@
         "bias": 0
       },
       {
-        "title": "Rhythm Paper Scissors [Free] [Rhythm]",
-        "link": "https://goldsquared.itch.io/rhythm-paper-scissors",
-        "description": "RPS, but you can read minds, but your opponent thinks fast.",
-        "pubDate": "2026-02-27T09:07:37Z",
-        "source": "goldsquared.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1ODQwODQ0LmdpZg==/original/9c5mc8.gif",
-        "bias": 0
-      },
-      {
         "title": "Pedro Sanchez escapa juego [Free] [Windows] [macOS] [Linux]",
         "link": "https://faze-pepinillo-production.itch.io/pedro-sanchez-escapa-juego",
         "description": "Pedro Sanchez",
         "pubDate": "2026-02-27T09:05:39Z",
         "source": "faze-pepinillo-production.itch.io",
         "image": "https://img.itch.zone/aW1nLzI1ODQxMTM3LnBuZw==/315x250%23c/CR8COu.png",
-        "bias": 0
-      },
-      {
-        "title": "Compás 4/4 [Free] [Fighting]",
-        "link": "https://geeorgiee.itch.io/comps-44",
-        "description": "RPG por turnos en el que el rock intenta ganar al flamenco.",
-        "pubDate": "2026-02-27T09:03:39Z",
-        "source": "geeorgiee.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1ODQxMTIwLmpwZw==/315x250%23c/z%2BOtgq.jpg",
         "bias": 0
       },
       {
@@ -183,21 +210,12 @@
         "bias": 0
       },
       {
-        "title": "FastBall 2 [Free] [Platformer] [Windows]",
-        "link": "https://creamative.itch.io/fastball-2",
-        "description": "Blink and you’ll miss it! Test your reflexes in this high-speed, obstacle-packed rolling adventure.",
-        "pubDate": "2026-02-27T08:50:45Z",
-        "source": "creamative.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1ODQxMDYxLnBuZw==/315x250%23c/IdW4FD.png",
-        "bias": 0
-      },
-      {
-        "title": "21Lucky [Free] [Card Game]",
-        "link": "https://dammmiao.itch.io/21lucky",
-        "description": "A little game of blackjack with a twist of balatro.",
-        "pubDate": "2026-02-27T08:25:18Z",
-        "source": "dammmiao.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1ODQxMDMxLnBuZw==/315x250%23c/%2FrcC9X.png",
+        "title": "Arkanoid Arkanoid [Free] [Windows]",
+        "link": "https://manoenzr.itch.io/arkanoid-arkanoid",
+        "description": "Arkanoid Game made in Unity6 2D",
+        "pubDate": "2026-02-27T08:59:24Z",
+        "source": "manoenzr.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1ODQxMDg1LnBuZw==/315x250%23c/biXGhy.png",
         "bias": 0
       },
       {
@@ -221,21 +239,57 @@
     ],
     "World": [
       {
+        "title": "What we know after latest escalation in Pakistan-Afghanistan tensions",
+        "link": "https://www.bbc.com/news/articles/cj32zx48xvxo?at_medium=RSS&at_campaign=rss",
+        "description": "Bombings by Pakistan are the most significant development in tensions between the two neighbours - though the physical impact remains unclear.",
+        "pubDate": "2026-02-27T11:45:02Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3fe/live/542ab260-13c7-11f1-8c68-835571867502.jpg",
+        "bias": 0
+      },
+      {
+        "title": "As U.S. and Iran wrap latest round of nuclear talks, Trump weighs his options",
+        "link": "https://www.npr.org/2026/02/27/nx-s1-5727680/as-u-s-and-iran-wrap-latest-round-of-nuclear-talks-trump-weighs-his-options",
+        "description": "President Trump weighs his military options in Iran as his administration continues negotiating over Tehran's nuclear program.",
+        "pubDate": "2026-02-27T11:39:31Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Behind the myths of the British Empire: Nigel Biggar and Mehdi Hasan",
+        "link": "https://www.aljazeera.com/video/head-to-head/2026/2/27/behind-the-myths-of-the-british-empire-nigel-biggar-and-mehdi-hasan?traffic_source=rss",
+        "description": "Mehdi Hasan goes head-to-head with Nigel Biggar on the brutal legacy of Britain’s colonial past.",
+        "pubDate": "2026-02-27T11:36:26Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "F1 driver Doohan says armed men confronted him in Miami after death threats",
+        "link": "https://www.aljazeera.com/sports/2026/2/27/f1-driver-doohan-says-armed-men-confronted-him-in-miami-after-death-threats?traffic_source=rss",
+        "description": "Australia's Jack Doohan says received death threats before being dropped by F1 team Alpine, six races into last season.",
+        "pubDate": "2026-02-27T11:22:24Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Did Epstein help Israel push for a security deal with Ivory Coast?",
+        "link": "https://www.aljazeera.com/news/2026/2/27/did-epstein-help-israel-push-for-a-security-deal-with-ivory-coast?traffic_source=rss",
+        "description": "Latest Epstein files released in January reveal the extent of his relations with some prominent African leaders.",
+        "pubDate": "2026-02-27T11:07:04Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "At least 55 Ghanaians killed in Russia-Ukraine war, minister says",
         "link": "https://www.bbc.com/news/articles/cgl5gxg3zj9o?at_medium=RSS&at_campaign=rss",
         "description": "This is the highest number of confirmed casualties from a single African country in the Ukraine-Russia war.",
         "pubDate": "2026-02-27T10:56:45Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdce/live/16146210-13bc-11f1-b1c6-5b17a410755e.jpg",
-        "bias": 0
-      },
-      {
-        "title": "What we know after latest escalation in Pakistan-Afghanistan tensions",
-        "link": "https://www.bbc.com/news/articles/cj32zx48xvxo?at_medium=RSS&at_campaign=rss",
-        "description": "Bombings by Pakistan are the most significant development in tensions between the two neighbours - though the physical impact remains unclear.",
-        "pubDate": "2026-02-27T10:50:46Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3fe/live/542ab260-13c7-11f1-8c68-835571867502.jpg",
         "bias": 0
       },
       {
@@ -275,15 +329,6 @@
         "bias": -1
       },
       {
-        "title": "Larry Summers will resign from teaching at Harvard during review of Epstein ties, university says - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPelB5SkV4YjQxNnd0MkRON3FLSm9VNWJzdHY0aGxXZG9PVjR5MEJqRmZtUkkyZDRoNm1qdFFsQ1IxdHJoTHUxRmNWT2RsQUZCLWt3SVM0aDFLbmhnNFVmMHlRdnFWR2VkLTVvaUd6LURNY1U4Z1FiUmxqbHkzbkpPeUNnZEVqYXlQWjJuNGhOanM4Zw?oc=5",
-        "description": "",
-        "pubDate": "2026-02-27T10:07:04Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "A team of midlife cheerleaders in Ukraine refuses to let war defeat them",
         "link": "https://www.npr.org/2026/02/27/nx-s1-5712284/russia-ukraine-war-midlife-women-cheerleading",
         "description": "Ukrainian women in their 50s and 60s say they've embraced cheerleading as a way to cope with the extreme stress and anxiety of four years of Russia's full-scale invasion.",
@@ -300,6 +345,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "World shares are mostly higher in a week dominated by AI news - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX28wQUN6X3BxaHRKUXg5OTJQb2sxNWE1YjJiNHdJem52QndFbkVsR0tpNlV0OHVlUzRxclp5Ym9GUVdfOUJnLWR5SVRvREg2TTNlSGdFdU1wQ3l1dm5aUWdjRjBaaVQ1MTZWTjE3VlRkV1VFT1J3RDJfazRabDZQWm01b3oxdDhiRnpBd0RJMWRtZTg3VFRVRg?oc=5",
+        "description": "",
+        "pubDate": "2026-02-27T09:55:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Affected by the war in Ukraine, Germany works to recover its economy",
@@ -331,7 +385,7 @@
       {
         "title": "Pakistan bombs Kabul: Why are Afghanistan and Pakistan fighting?",
         "link": "https://www.aljazeera.com/news/2026/2/27/pakistan-bombs-kabul-why-are-afghanistan-and-pakistan-fighting?traffic_source=rss",
-        "description": "Pakistani defence minister says Pakistan is waging 'open war' against Afghanistan.",
+        "description": "Pakistani defence minister says Pakistan and Afghanistan are now at 'open war'.",
         "pubDate": "2026-02-27T09:22:06Z",
         "source": "aljazeera.com",
         "image": "",
@@ -347,7 +401,7 @@
         "bias": 0
       },
       {
-        "title": "A new Gallup poll shows how Americans' sympathies have shifted in the Israeli-Palestinian conflict - AP News",
+        "title": "Americans' sympathies in the Israeli-Palestinian conflict have shifted dramatically, new poll shows - AP News",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNjRlT1gzM2JpTk1kczRfV2hfSi05dlBWZnYxTnV3OEpfcl9OWHNrZVY5ZEY5Z1ROM1pyNGgyRkZFTm9tWXRWSkl2ZVpNMEZhdHBSLWN3TzVpTTJDelBZVTJJRHhqTXJ4Qy04X0F6U1E3emh1dUw4U1hIMEIzWUVnQk5FYkVIbGxMTHNPRzZpeDJuQUVOOF9DOGFGYlpodkpjMHdJbDBoNlRKRWlCb2phS21pdlZPSHZBNFBDcnVOTm0?oc=5",
         "description": "",
         "pubDate": "2026-02-27T09:07:00Z",
@@ -633,53 +687,26 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Russia-Ukraine war: List of key events, day 1,464",
-        "link": "https://www.aljazeera.com/news/2026/2/27/russia-ukraine-war-list-of-key-events-day-1464?traffic_source=rss",
-        "description": "These are the key developments from day 1,464 of Russia’s war on Ukraine.",
-        "pubDate": "2026-02-27T03:01:36Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "A chief judge warns Minnesota’s top prosecutor and ICE: Obey court orders or face contempt - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUkhMakl3RFFwMFQwT1F2WVVDWXRJT0ltSG1iX19HWTZfMFNvV09CMXFQZWlfYUhVTk8yRXB5cVRXUjM0S3laeXRkWmtOZzIwSHVIZ0R6NWRSZjJuWVZqcUhqQThseFpPLTNUX01mUGUzaTJuUTBpdXZSeFBZZEJ0dTR2UVVIUnNDU1hsR1pKZ3lNNmRZd1NRTE5rYUV2Y3VfSjZIZVpYUEVSRlFFWTlTalFZdFg?oc=5",
-        "description": "",
-        "pubDate": "2026-02-27T02:57:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Netflix walks away from Warner Bros deal, clearing the path for Paramount - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPakF0WmJtcjVZRlBNajRpNjJ3UllzcW5tSE9TMkRKNU5BcnJvcDI3SnhWcERFOHhpN1hVR1JyaE9mMkx6UEZSU185c0ozajk3SmtQRER4X3BGNkZ0R0p3V3p4OHRiRnNDMVNJanNSWi1BbXpnYTZZS19wUDV2RVRFM1ZCb0lZQU03WFh2dg?oc=5",
-        "description": "",
-        "pubDate": "2026-02-27T02:36:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Airstrikes hit Afghan capital of Kabul, hours after Afghanistan attacks Pakistan - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNXNUMEtBdkFhN1VCemFpaTdDVjBrQklYLWVaUTRPU092RzJadlN4M0MwcXBCZzBoYkVwQ0dHUXRNOFJ5dVVUYkF3T1NFY29fYkk2S1JBdHZxY3JzRUFCaGFObFowV2NGRjB6cXNzaFlFcDkyTDBTQ3ZjU2hHdkxjbWtZZFBPWUk1c2pkMUFHbU9LamtlaHc?oc=5",
-        "description": "",
-        "pubDate": "2026-02-27T02:33:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
       {
-        "title": "'Family voting' concerns raised by election observers in Gorton and Denton",
+        "title": "Police say no reports of electoral offences in by-election",
         "link": "https://www.bbc.com/news/articles/c5yqpr28jrwo?at_medium=RSS&at_campaign=rss",
-        "description": "The officer responsible for running the by-election said no reports of family voting were made by polling station staff.",
-        "pubDate": "2026-02-27T11:16:54Z",
+        "description": "It comes after election observers raised concerns about \"extremely high\" levels of family voting.",
+        "pubDate": "2026-02-27T11:46:50Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e710/live/e2d94360-138a-11f1-801d-ed3cff6bf876.jpg",
         "bias": 0
+      },
+      {
+        "title": "House Oversight Committee member Rep. Wesley Bell discusses the Clintons' deposition",
+        "link": "https://www.npr.org/2026/02/27/nx-s1-5727874/house-oversight-committee-member-rep-wesley-bell-discusses-the-clintons-deposition",
+        "description": "Democratic Rep. Wesley Bell of Missouri, a member of the House Oversight Committee, talks about the deposition of the Clintons in the Epstein probe, which continues Friday with the former president.",
+        "pubDate": "2026-02-27T11:39:14Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "SNL mocked her as a 'scary mom.' In the Senate, Katie Britt is an emerging dealmaker",
@@ -790,6 +817,15 @@
         "bias": -1
       },
       {
+        "title": "Hundreds of corrections being issued for Texas’ Bible-infused curriculum - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNTZJdXY4dFRUQ215TGdIbWVRdWRDVURHckFKZDFvaW9uV2ktWEdkRlZqQlhWM3kzd1JOZmxjQ3U3WEIxWHRmd05fZVV3NEVIb3JYdnhVMWRXR2d4X0c1QVNyal91a2UzX1U0cnF5MDBhamtNcTcwS0wzM2FlY3NNSUVuWW51ZzJRc0Z6U3M1WjJSalk?oc=5",
+        "description": "",
+        "pubDate": "2026-02-27T00:44:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Miliband says climate impact of data centres is uncertain",
         "link": "https://www.bbc.com/news/articles/cx2drxgz7x8o?at_medium=RSS&at_campaign=rss",
         "description": "The admission comes after MPs said they were concerned about emissions from a boom in data centres.",
@@ -815,7 +851,7 @@
         "description": "The young woman, who accuses Meta and Google of making addictive social media platforms, has been speaking in court.",
         "pubDate": "2026-02-27T09:57:43Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d158/live/7d9b5bf0-1349-11f1-997a-4fa90321348b.png",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b5a/live/c9586ed0-13cf-11f1-9120-a910fc22c6ac.jpg",
         "bias": 0
       },
       {
@@ -826,6 +862,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Artificial intelligence - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Qi1oeTk1Z21hMnphRDg4Q3FlR1NuQmd0RUpidzBDU3A4YVRlVlZoMnZDbFVNSXA5bWVtUU55UkFqaXBVR1JqY29Sd0Q4NUZOOWtSNFJEWmVZUQ?oc=5",
+        "description": "",
+        "pubDate": "2026-02-27T08:28:05Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Deadline looms as Anthropic rejects Pentagon demands it remove AI safeguards",
@@ -877,6 +922,24 @@
     ],
     "Business": [
       {
+        "title": "How did Paramount beat Netflix to Warner Bros?",
+        "link": "https://www.bbc.com/news/articles/cm21z4zgkx7o?at_medium=RSS&at_campaign=rss",
+        "description": "What to know about the two firms' blockbuster battle to control Warner Bros Discovery.",
+        "pubDate": "2026-02-27T11:38:36Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1557/live/e34d06d0-d49f-11f0-8c06-f5d460985095.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Waitrose to suspend mackerel sales due to overfishing concerns",
+        "link": "https://www.bbc.com/news/articles/cgl5gee07xzo?at_medium=RSS&at_campaign=rss",
+        "description": "The supermarket chain says it will stop sourcing fresh, chilled and frozen mackerel by 29 April.",
+        "pubDate": "2026-02-27T11:24:43Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f304/live/8e2ba5b0-13cb-11f1-aa2d-1d11f10592ef.jpg",
+        "bias": 0
+      },
+      {
         "title": "Dyson settles forced labour suit in landmark UK case",
         "link": "https://www.bbc.com/news/articles/cddnry8dnl7o?at_medium=RSS&at_campaign=rss",
         "description": "Migrant workers alleged they were subjected to abusive treatment in a Malaysian factory for Dyson.",
@@ -911,20 +974,11 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6f3/live/4cdfd380-1329-11f1-8080-b36026ca95b4.jpg",
         "bias": 0
-      },
-      {
-        "title": "Oregon jury orders PacifiCorp to pay $305M to wildfire victims in latest class-action verdict - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcGI0Tm1XMm80S3gwQlpkTnFidVNJb2tFWnMyckZOVGFjOGY4ZXZWNGMwenRaWko5NXZsRUoxcUNQT2tUYVJLRGFPdHhVYWlKM0lqMnplMFVsVDJ0MWFsSWl5VU5ZSTNGTFpici1qZXRTMm9raG44NU9ZVVZfUm5YU1VQeGhidy1KNjl5U3VhOWd4d0FnREo5MEZZelpFOW5N?oc=5",
-        "description": "",
-        "pubDate": "2026-02-27T00:24:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Culture": [
       {
-        "title": "Gregg Wallace discontinues data claim against BBC",
+        "title": "Gregg Wallace drops data claim against BBC",
         "link": "https://www.bbc.com/news/articles/cx2ly3p4q7qo?at_medium=RSS&at_campaign=rss",
         "description": "Court documents state the claim against the BBC and BBC Studios has been \"discontinued\".",
         "pubDate": "2026-02-27T09:52:10Z",
