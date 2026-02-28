@@ -1,7 +1,16 @@
 {
-  "lastUpdate": "2026-02-28T11:19:55.616770Z",
+  "lastUpdate": "2026-02-28T11:37:23.503751Z",
   "news": {
     "Gaming": [
+      {
+        "title": "2D Chess [Free]",
+        "link": "https://mateo1q.itch.io/2d-chess",
+        "description": "​​A 2D multiplayer chess game built with Photon. Classic chess rules.",
+        "pubDate": "2026-02-28T11:09:16Z",
+        "source": "mateo1q.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1ODYxNjIwLnBuZw==/315x250%23c/ySScrn.png",
+        "bias": 0
+      },
       {
         "title": "Schwarz Salvage [Free] [Puzzle]",
         "link": "https://grg.itch.io/schwarz-salvage",
@@ -27,6 +36,15 @@
         "pubDate": "2026-02-28T10:44:52Z",
         "source": "fixverse.itch.io",
         "image": "https://img.itch.zone/aW1nLzI1ODYxNzE2LnBuZw==/315x250%23c/YwOP6s.png",
+        "bias": 0
+      },
+      {
+        "title": "Milions Must Perish [Free] [Strategy]",
+        "link": "https://marcelurpi.itch.io/milions-must-perish",
+        "description": "An egyptian incremental game",
+        "pubDate": "2026-02-28T10:30:32Z",
+        "source": "marcelurpi.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI1ODYxNzkzLnBuZw==/315x250%23c/F%2BVD%2BU.png",
         "bias": 0
       },
       {
@@ -183,15 +201,6 @@
         "bias": 0
       },
       {
-        "title": "Blue Jumper [BETA] [Free] [Action] [Windows]",
-        "link": "https://bluefox-games.itch.io/blue-jumoper-beta",
-        "description": "Experience our new game",
-        "pubDate": "2026-02-28T09:43:18Z",
-        "source": "bluefox-games.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1ODYwOTY5LnBuZw==/315x250%23c/OeVIsw.png",
-        "bias": 0
-      },
-      {
         "title": "NOVA STRIKE [$1.99] [Action]",
         "link": "https://seferk.itch.io/nova-strike",
         "description": "",
@@ -210,39 +219,12 @@
         "bias": 0
       },
       {
-        "title": "Inside Mirror [Free] [Puzzle]",
-        "link": "https://zzjjzz716.itch.io/inside-mirror",
-        "description": "",
-        "pubDate": "2026-02-28T09:26:30Z",
-        "source": "zzjjzz716.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1ODYwODAxLnBuZw==/315x250%23c/%2BzzJvM.png",
-        "bias": 0
-      },
-      {
-        "title": "Watch Out, Pinguin! [Free] [Other]",
-        "link": "https://arakungamedev.itch.io/watch-out-pinguin",
-        "description": "",
-        "pubDate": "2026-02-28T09:23:40Z",
-        "source": "arakungamedev.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1ODYwOTE0LnBuZw==/315x250%23c/EqMeUR.png",
-        "bias": 0
-      },
-      {
-        "title": "Bot Beats [Free] [Other]",
-        "link": "https://brotir.itch.io/bot-beats",
-        "description": "Unleash your inner coder, build epic robots, and conquer the arena.",
-        "pubDate": "2026-02-28T07:55:59Z",
-        "source": "brotir.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1ODU5OTA4LnBuZw==/315x250%23c/5Jo5jI.png",
-        "bias": 0
-      },
-      {
         "title": "LADDERS [Free] [Action] [Windows]",
         "link": "https://baf972.itch.io/ladders",
         "description": "",
         "pubDate": "2026-02-28T02:49:17Z",
         "source": "baf972.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1ODYxODU1LmpwZw==/315x250%23c/q4MRuZ.jpg",
+        "image": "https://img.itch.zone/aW1nLzI1ODYyMTUyLmpwZw==/315x250%23c/EHMPcO.jpg",
         "bias": 0
       },
       {
@@ -257,6 +239,15 @@
     ],
     "World": [
       {
+        "title": "What we know about the joint US-Israel attack on Iran",
+        "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
+        "description": "Iran has retaliated with a missile barrage towards Israel, while explosions have been heard in Qatar, Bahrain, Saudi Arabia, and the UAE.",
+        "pubDate": "2026-02-28T11:28:16Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/946f/live/0241ffa0-148d-11f1-8d66-9b0d49d7a97e.jpg",
+        "bias": 0
+      },
+      {
         "title": "Pakistan carries out airstrikes inside Afghanistan with no letup in border fighting - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVk1JUzdvWmpjb2g3S25WZ2tGN1RMV3JCRld0YUYxZVd1SndRTnN6YjVuUWFmN1NnLTZpV3FxT1FjSkN3TEpOV3AtZXRzeUtRMzhsZVRfVVF3a2ZqODF5bzNNaDFtU0JuSkFqU0QyYjZuM0I0aVc0VnpZWFJFVk5FM1N1NkhvOHFxa2dnYldHc00yT0pzRVVGb0ZIbjViMkdfdGJIMWNINW5xV1E?oc=5",
         "description": "",
@@ -264,6 +255,15 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "Moment of Iran strike on US military base in Bahrain",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/28/moment-of-iran-strike-on-us-military-base-in-bahrain?traffic_source=rss",
+        "description": "Video shows the moment an Iranian missile struck a United States military base in Bahrain.",
+        "pubDate": "2026-02-28T11:02:14Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Kyiv's elderly endure blackouts and bombardment, clinging to warmth and hope",
@@ -291,15 +291,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "What we know about the joint US-Israel attack on Iran",
-        "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
-        "description": "Iran has retaliated with a missile barrage towards Israel, while explosions have been heard in Qatar, Bahrain, Saudi Arabia, and the UAE.",
-        "pubDate": "2026-02-28T10:31:42Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/946f/live/0241ffa0-148d-11f1-8d66-9b0d49d7a97e.jpg",
-        "bias": 0
       },
       {
         "title": "Iran strikes US military base in Bahrain as explosions heard across Gulf",
@@ -390,6 +381,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "FIFA World Cup - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWMXpkQXNoa0hVNXJSNFAySlNQc25KdzJLR0xtLVhvWE9lWEREMkxDS25jb1VYYWcyQXctLVpZN3ZwTFJsYkh6R0N3VXFnUQ?oc=5",
+        "description": "",
+        "pubDate": "2026-02-28T08:22:03Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Trump says “major combat operations” in Iran have begun",
@@ -608,15 +608,6 @@
         "bias": 0
       },
       {
-        "title": "Peace ‘within reach’ as Iran agrees no nuclear material stockpile: Oman FM",
-        "link": "https://www.aljazeera.com/news/2026/2/28/peace-within-reach-as-iran-agrees-no-nuclear-material-stockpile-oman-fm?traffic_source=rss",
-        "description": "Oman's Foreign Minister says most recent indirect talks between US, Iran 'really advanced, substantially'.",
-        "pubDate": "2026-02-28T03:51:14Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "Trump orders government to stop using Anthropic in battle over AI use",
         "link": "https://www.bbc.com/news/articles/cn48jj3y8ezo?at_medium=RSS&at_campaign=rss",
         "description": "The move announced on social media comes after a standoff between Anthropic's boss and the US Department of Defense.",
@@ -696,15 +687,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Flight logs and hot tub photo among key moments from Bill Clinton's deposition",
-        "link": "https://www.bbc.com/news/videos/ce94d4xk5mvo?at_medium=RSS&at_campaign=rss",
-        "description": "The former US president, who is featured in photographs within the Epstein files, denies having any knowledge of the convicted sex offender's crimes.",
-        "pubDate": "2026-02-28T02:32:50Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9903/live/143a8e00-1435-11f1-9120-a910fc22c6ac.jpg",
-        "bias": 0
       }
     ],
     "Politics": [
@@ -770,15 +752,6 @@
       }
     ],
     "Culture": [
-      {
-        "title": "Sports - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5tUkV5MHdMcTdZamNZUmVsUHU1N0FSQ2daMXpzdmRQajFDanhlNGJ4QXJubmU1bmZlcEF0elRn?oc=5",
-        "description": "",
-        "pubDate": "2026-02-28T09:43:03Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
       {
         "title": "Inside the £3.25m castle bought by Celebrity Traitors winner Alan Carr",
         "link": "https://www.bbc.com/news/articles/cy8grn7evm2o?at_medium=RSS&at_campaign=rss",
