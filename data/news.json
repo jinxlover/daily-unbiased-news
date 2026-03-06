@@ -1,252 +1,26 @@
 {
-  "lastUpdate": "2026-03-06T21:46:30.570059Z",
+  "lastUpdate": "2026-03-06T22:01:24.142412Z",
   "news": {
-    "Gaming": [
-      {
-        "title": "HeatUp [Free] [Survival]",
-        "link": "https://juusohaaja.itch.io/heatup",
-        "description": "",
-        "pubDate": "2026-03-06T21:31:11Z",
-        "source": "juusohaaja.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1OTkyNDQyLnBuZw==/315x250%23c/nziPJh.png",
-        "bias": 0
-      },
-      {
-        "title": "Game a Day 1 - New Bodega [Free]",
-        "link": "https://fortunes-fwl.itch.io/game-a-day-1-new-bodega",
-        "description": "",
-        "pubDate": "2026-03-06T21:31:10Z",
-        "source": "fortunes-fwl.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1OTkyNDY3LnBuZw==/315x250%23c/LqxHSL.png",
-        "bias": 0
-      },
-      {
-        "title": "Neo Void Space Shooter X [Free] [Shooter]",
-        "link": "https://fun-gamez-studio.itch.io/neo-void-space-shooter-x-neon-edition-version-00016",
-        "description": "",
-        "pubDate": "2026-03-06T21:07:14Z",
-        "source": "fun-gamez-studio.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1OTkyMzgyLnBuZw==/315x250%23c/RyB9Kw.png",
-        "bias": 0
-      },
-      {
-        "title": "Project Rightan [Free]",
-        "link": "https://caleb12233333.itch.io/project-rightan",
-        "description": "",
-        "pubDate": "2026-03-06T21:03:39Z",
-        "source": "caleb12233333.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1OTkyMjk4LmpwZw==/315x250%23c/ardEDt.jpg",
-        "bias": 0
-      },
-      {
-        "title": "TTRPG Gamer Solidarity Design [Free] [Other]",
-        "link": "https://servsci.itch.io/ttrpg-gamer-solidarity-design",
-        "description": "",
-        "pubDate": "2026-03-06T21:00:25Z",
-        "source": "servsci.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1OTkxOTYzLnBuZw==/315x250%23c/XMezNo.png",
-        "bias": 0
-      },
-      {
-        "title": "Minimal Sim CS417 MP2 [Free]",
-        "link": "https://jon-tg.itch.io/minimal-sim-cs417-mp2",
-        "description": "",
-        "pubDate": "2026-03-06T20:58:15Z",
-        "source": "jon-tg.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1OTkxOTUyLnBuZw==/315x250%23c/eeKL81.png",
-        "bias": 0
-      },
-      {
-        "title": "Tic-Tac-Tomb [Free]",
-        "link": "https://zapjackson.itch.io/tic-tac-tomb",
-        "description": "A Roguelike with Tic-Tac-Toe combat",
-        "pubDate": "2026-03-06T20:43:01Z",
-        "source": "zapjackson.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1OTkxODgzLnBuZw==/315x250%23c/%2Fhufwz.png",
-        "bias": 0
-      },
-      {
-        "title": "Create your meme! [Free]",
-        "link": "https://troy-en-games.itch.io/create-your-meme",
-        "description": "A meme creator!",
-        "pubDate": "2026-03-06T20:32:26Z",
-        "source": "troy-en-games.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1OTkxNTQ3LnBuZw==/315x250%23c/w0gZPo.png",
-        "bias": 0
-      },
-      {
-        "title": "Capybara Against Humanity [Free] [Other]",
-        "link": "https://denismedia.itch.io/capybara-against-humanity",
-        "description": "capybara tower defence holding againts waves of human invaders!",
-        "pubDate": "2026-03-06T20:32:01Z",
-        "source": "denismedia.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1OTkxNTEyLnBuZw==/315x250%23c/84VCVO.png",
-        "bias": 0
-      },
-      {
-        "title": "Spider Controller Protoype [Free] [Action] [Windows]",
-        "link": "https://samdotgov.itch.io/spider-controller-protoype",
-        "description": "This prototype is made to understand more about web swinging, web zipping and wall crawling mechanics",
-        "pubDate": "2026-03-06T20:31:41Z",
-        "source": "samdotgov.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1OTkxNjE0LmpwZw==/315x250%23c/hDdqJR.jpg",
-        "bias": 0
-      },
-      {
-        "title": "El otro Lado [Free] [Adventure]",
-        "link": "https://ldvg2025.itch.io/el-otro-lado",
-        "description": "Proyecto realizado por Ciro  Díaz, Camila  Iriarte y Paula  Pérez",
-        "pubDate": "2026-03-06T20:31:09Z",
-        "source": "ldvg2025.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1OTkxNjUyLnBuZw==/315x250%23c/IfdAFv.png",
-        "bias": 0
-      },
-      {
-        "title": "Erirescate [Free] [Adventure]",
-        "link": "https://ldvg2025.itch.io/erirescate",
-        "description": "Proyecto realizado por Constanza Poller",
-        "pubDate": "2026-03-06T20:27:16Z",
-        "source": "ldvg2025.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1OTkxNTIxLnBuZw==/315x250%23c/kFBc2f.png",
-        "bias": 0
-      },
-      {
-        "title": "Project: House [Free] [Interactive Fiction]",
-        "link": "https://lercia.itch.io/project-house",
-        "description": "",
-        "pubDate": "2026-03-06T20:20:14Z",
-        "source": "lercia.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1OTkxNjUzLnBuZw==/315x250%23c/wloUm7.png",
-        "bias": 0
-      },
-      {
-        "title": "Papattack! [Free] [Action]",
-        "link": "https://ldvg2025.itch.io/papattack",
-        "description": "Proyecto realizado por Constanza Jerez",
-        "pubDate": "2026-03-06T20:19:55Z",
-        "source": "ldvg2025.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1OTkxNDU2LnBuZw==/315x250%23c/6rkYAp.png",
-        "bias": 0
-      },
-      {
-        "title": "Car Game [Free]",
-        "link": "https://troy-en-games.itch.io/car-game",
-        "description": "A simple game with cars",
-        "pubDate": "2026-03-06T20:19:16Z",
-        "source": "troy-en-games.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1OTkxNDEwLnBuZw==/315x250%23c/n8otDi.png",
-        "bias": 0
-      },
-      {
-        "title": "DunJOHN [Free] [Action]",
-        "link": "https://delta-428.itch.io/dunjohn",
-        "description": "A simple turn based randomly generate dungeon crawler",
-        "pubDate": "2026-03-06T20:06:35Z",
-        "source": "delta-428.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1OTkwODM3LnBuZw==/315x250%23c/NPFmsu.png",
-        "bias": 0
-      },
-      {
-        "title": "☘ Six Graves of Fortune [Free] [Strategy]",
-        "link": "https://joostw.itch.io/six-graves-of-fortune",
-        "description": "A dice-based dungeon crawler roguelite",
-        "pubDate": "2026-03-06T20:01:04Z",
-        "source": "joostw.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1OTkxNTc5LmpwZw==/315x250%23c/83EKID.jpg",
-        "bias": 0
-      },
-      {
-        "title": "StarHunter3 [Free] [Platformer]",
-        "link": "https://zen-d.itch.io/starhunter3",
-        "description": "",
-        "pubDate": "2026-03-06T19:59:51Z",
-        "source": "zen-d.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1OTkxMzQ1LnBuZw==/315x250%23c/%2Fdv2F2.png",
-        "bias": 0
-      },
-      {
-        "title": "I don't want to be seen [Free] [Interactive Fiction]",
-        "link": "https://chipset.itch.io/i-dont-want-to-be-seen",
-        "description": "a bitsy blog post about not wanting to be seen",
-        "pubDate": "2026-03-06T19:58:06Z",
-        "source": "chipset.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1OTkxMTE4LmdpZg==/original/wIUrhS.gif",
-        "bias": 0
-      },
-      {
-        "title": "The Adventures of a Bee [Free] [Platformer]",
-        "link": "https://innaivashchenko.itch.io/the-adventures-of-a-bee",
-        "description": "The Bee have to collect of flowers to feed the hive.Boy and bear are trying to stop her.Help the bee complete a mission.",
-        "pubDate": "2026-03-06T19:50:21Z",
-        "source": "innaivashchenko.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1OTkyMDU4LnBuZw==/315x250%23c/6kVTi6.png",
-        "bias": 0
-      },
-      {
-        "title": "L'AVENTURE MÉGA ÉPIQUE SUPRÊME À TRITSTAN DORION [Free] [Adventure] [Windows]",
-        "link": "https://pachot.itch.io/laventure-mga-pique-suprme-tritstan-dorion",
-        "description": "",
-        "pubDate": "2026-03-06T19:42:36Z",
-        "source": "pachot.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1OTkwODMwLnBuZw==/315x250%23c/cas6%2Bw.png",
-        "bias": 0
-      },
-      {
-        "title": "Bitamine [Free] [Simulation] [Windows]",
-        "link": "https://troxyz.itch.io/bitamine",
-        "description": "",
-        "pubDate": "2026-03-06T19:29:04Z",
-        "source": "troxyz.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1OTkwODY2LnBuZw==/315x250%23c/dTDl4p.png",
-        "bias": 0
-      },
-      {
-        "title": "Pole Rush [Free] [Other]",
-        "link": "https://unknown-player-games.itch.io/pole-rush",
-        "description": "Magnetic dot physics game. Build clusters, crush enemies, dominate the field.",
-        "pubDate": "2026-03-06T19:10:07Z",
-        "source": "unknown-player-games.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1OTkxMjY4LmpwZw==/315x250%23c/HcdAxs.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Matt 0.5 [Free] [Other] [Windows]",
-        "link": "https://skyhighgaming.itch.io/matt-05",
-        "description": "A ~2400 Elo chess engine with Chaos Mode;  aggressive, unpredictable, and free.",
-        "pubDate": "2026-03-06T14:26:31Z",
-        "source": "skyhighgaming.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1OTg2Nzg4LnBuZw==/315x250%23c/qUCnRX.png",
-        "bias": 0
-      },
-      {
-        "title": "Brittle Blocks [Free] [Platformer]",
-        "link": "https://lennerd.itch.io/brittle-blocks",
-        "description": "Build your path to an emerald with blocks that sink into deadly goop.",
-        "pubDate": "2026-03-06T13:01:52Z",
-        "source": "lennerd.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1OTkxMTM3LnBuZw==/315x250%23c/DGGhTu.png",
-        "bias": 0
-      },
-      {
-        "title": "Creepypasta Castle (Reupload) [Free] [Windows]",
-        "link": "https://dylanhoctor.itch.io/creepypasta-castle-reupload",
-        "description": "",
-        "pubDate": "2026-03-06T12:42:29Z",
-        "source": "dylanhoctor.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1OTkxNzI2LnBuZw==/315x250%23c/GOEEb8.png",
-        "bias": 0
-      },
-      {
-        "title": "EXE Nightmares (Reupload) [Free] [Windows]",
-        "link": "https://dylanhoctor.itch.io/exe-nightmares-reupload",
-        "description": "",
-        "pubDate": "2026-03-06T12:38:35Z",
-        "source": "dylanhoctor.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI1OTkxOTE4LnBuZw==/315x250%23c/Pkx3Mh.png",
-        "bias": 0
-      }
-    ],
+    "Gaming": [],
     "World": [
+      {
+        "title": "Sluggish demand prompts China to set lowest growth target in decades",
+        "link": "https://www.npr.org/2026/03/06/nx-s1-5735887/sluggish-demand-prompts-china-to-set-lowest-growth-target-in-decades",
+        "description": "China has set a more modest growth target for its economy. That reflects the drag from sluggish domestic demand.",
+        "pubDate": "2026-03-06T21:52:16Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "US issues limited licence for Venezuelan gold following high-level visit",
+        "link": "https://www.aljazeera.com/news/2026/3/6/us-issues-limited-licence-for-venezuelan-gold-following-high-level-visit?traffic_source=rss",
+        "description": "The licence follows a push from US President Donald Trump to open Venezuela's resource sector to outside investment.",
+        "pubDate": "2026-03-06T21:31:09Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Fired Michigan football coach Sherrone Moore reaches plea deal to resolve home invasion case - AP News",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd1kwbFRoR1REVTROcy1xRXdnTHpsdEE5NXZVMHlmaFNLQjh1enNzVS02blZVcEZPZFZxSUR6bm81b0g3QUJhUlVZV0gzNThWdnFSV3RISVFva0RMWHgwQ29zUldxM3NId09oZ29HMUdjM0dnSE1BTWpwWk5oNHNGaTl5eVpyRVJiSi02RFRhLVlUYVBtUG12eWlaWFRhTWszVHpMSzBmdktmck5iOFE?oc=5",
@@ -313,6 +87,15 @@
       {
         "title": "Russian flag returns as Milan Cortina Winter Paralympics open amid Middle East war and boycott - AP News",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX09lX2x0NE9RekFFakV2VThhWUpmYXJiaTBSbl9Vd0pDVHp2QXU0eWpROFQ5NWhLV1Fsc3U3RVRvbzRJcnVOdHFvaFhNX3RqaGc5NHRlTzVCZ3B5R1JBUmtaWUR5U0hDd19DUk8xS0d3aVU3OF9VYXhWRV9rY1A3SGpuS1JxYTlmQ1NzMEMxaVFEVFV6Ny1EaVFLd0Y5dUU1OWZ0ZVBqLXdBRzRjOGZzdFU2TmpGZw?oc=5",
+        "description": "",
+        "pubDate": "2026-03-06T20:26:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "SK lays off nearly 1,000 workers at Georgia plant amid cooling automaker EV plans - AP News",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRU5Dd3VMYUVtWVBaRzZUbGYwdkp2M0ZCcVktMmJRZUpMdExFUXAzZTVvdEtSOHdtTXpVQmFPdEF2UTFHbnpoRXd0VzFwZV9Uck1TNFNJR3RROUpfSHlYNmo2bGYyVmtCdTFVcDRPY0d1ZXlGbHpXSVJrQnJ3bUE3MDU1d0FkWU1RTFJzQ0VjckI1Q3lTN3lNYm1QaGZ1MnI5QkpVS2dHeUp0ZEJQdWRXdlFSbzkxU0NQbzlvWXBlcw?oc=5",
         "description": "",
         "pubDate": "2026-03-06T20:26:00Z",
         "source": "news.google.com",
@@ -545,15 +328,6 @@
         "bias": 0
       },
       {
-        "title": "For US Muslims, immigration crackdown fears, new war worries and anti-Muslim rhetoric cloud Ramadan - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSWRjamRDMExKa01Dc3dCUnBqak1ybnVvMG1VNVNSZmNFcFBiOXZUYlY2QUhVSVB1dkNyZjc0dGRlblF3SnBTVEpoMzVPbGFIYzNPcDhUUXlpMDFMWE5pVHQySjBjTzRudlNWU095SjVzUjM2NGV1TVBTb1puR1NpWGFfTmpmZExEU0RwZHJmNWxCWkpWa1Y2eWwxSmotMHJkV05WM2ZRTFpxaFNkZkREcFln?oc=5",
-        "description": "",
-        "pubDate": "2026-03-06T17:18:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Daryl Hannah issues scathing response to portrayal of her on TV series about Kennedy and Bessette - AP News",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWGc1M1ZYemlCMEdrb3lQVEVLTlBhUHNxQ0ZiWVdXZGtvV0Z3S0RNeUtJcVFoeDgzcVZ6aTJtanlfTEdlOXNYanlPVDdadkVBems3OG4zXzNuQjlPV3pwbmhJM21UQm9haU1zb19DZGlOU2huVEx5a3k3YUw0RlJDVkd5TkxlX0RXWW51bXRnN182bzhsdlk4clMwdUxoSmx4Wmc?oc=5",
         "description": "",
@@ -617,6 +391,15 @@
         "bias": -1
       },
       {
+        "title": "Kurdish Iranian dissidents in Iraq deny attack plans but say they would join a US invasion of Iran - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLUNlTVB6QTE5WENlRElQTDktLUlULThBVm1iTWtIMWd2cDh6cTBqRm50aUhkcFFfTVZIMldSRFptMnczaTQ2dEtGeklFR2x6YmhIcHpPaGpGekRGbGR6MWItbkQ2OXhKSW9NUHRkUXl6VEY0U2R2eXd5SWFoS2cyakFXM2o?oc=5",
+        "description": "",
+        "pubDate": "2026-03-06T16:19:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "South Florida university probes racist group chat tied to a local GOP official - AP News",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbEV3a0dROWJiQ2ZlVzhGYkJSNEZGWnpvS1BTT2Vnd1JITnJnLWVhT2RwT1hsb2k1eHEwUEtUQjc0ZEt6Qm9HZEdjQV9hS3V5d01mS3JYcWdJWk5sOUN5T3JCUjdjQTRQd0lFelp5bDhURjd5dVA2bEtCSVVGVUJFQXRZQmEzdlJNeVVXSmthRlBBd09FSGt2SVZMeWMxR00?oc=5",
         "description": "",
@@ -644,15 +427,6 @@
         "bias": -1
       },
       {
-        "title": "Britney Spears arrested on suspicion of driving under the influence of alcohol and drugs - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONFZyMVNVRXZKRW9DenR4eTVVZVFmTmFxYjA0cHFnS3cyeVU3elFDYld5VEoyNW5VcEZaWjYxbzY0MGxjUzNVYTRzeUVja29KWHExdDFmTktxcllSblQ1UURkakRXNHM0M3dIbTN0a3NSTDdOMFpXUG91WEc0MjRCTVltZzBJWVV4NUdUSlFTUTB0SEctQVBNSkpB?oc=5",
-        "description": "",
-        "pubDate": "2026-03-06T15:55:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "How springing forward to daylight saving time could affect your health - AP News",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdWVpa3hoTUdtQWx4SEtUdWlhcjh5UlF1bWg4X25zRkdpV1NEdkFwczFNRDdCd004SXU0b0hNRE5CWkhIZXprY1Z3QVJwRllwNTFzOWZSaDdUZGJjelZ4dG1mdm9KMUNEOXVSYjA5YkxHTlJISGdxUHV0b1hZdzltcWd5RXVmN2ZOZ2gtaDVnbFZVN3pQWFNYcUk4VQ?oc=5",
         "description": "",
@@ -678,24 +452,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Shohei Ohtani hits a grand slam at the World Baseball Classic after putting on a show in BP - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRk4tVU5NcVZVSnpEY3Vvd1JQSi05WEhxcDMtUFozUFBFbXdhUk5VTUIwLU90SGZINnpaZkNvMmt5cDdfLU5KQ3FhaDQ5R3F3OUlBQ21qenRHYWFVaXU0V2ZhRmo0RzBUckxjbllWcXIxUFh0WVNDcVplUWFiM1J6UW1TZTdLWl9LYmh4TV93eEhBLU9aTVFRb056d01FaGpyNmc?oc=5",
-        "description": "",
-        "pubDate": "2026-03-06T15:34:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Kurdish opposition mulls whether to trust Trump after Iran uprising call",
-        "link": "https://www.aljazeera.com/news/2026/3/6/kurdish-opposition-mulls-whether-to-trust-trump-after-iran-uprising-call?traffic_source=rss",
-        "description": "Iranian Kurds weigh risks of fighting government, uncertain of US and Israeli support for any uprising.",
-        "pubDate": "2026-03-06T15:24:47Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
@@ -703,7 +459,7 @@
         "title": "Donald Trump - AP News",
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
         "description": "",
-        "pubDate": "2026-03-06T20:25:41Z",
+        "pubDate": "2026-03-06T20:44:33Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -763,12 +519,30 @@
         "bias": -1
       },
       {
+        "title": "For survivors, Rhode Island clergy abuse report brings vindication and renewed demands - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdVg1R0doV1dGVVN4QnE0RDlFMlFLZzJHaHpQV2pEX0Yzcm9HQVkzNHBTbUpHTFY0dUhQNk53eE9HaFRNSHRNUl9wdjZjaFdZVnNGY3NsdkVyUUVubGVYZDZ6OXJ3Z3lWUFdLU2xVNmRvbGd1em4zYVhlUVZNSlFfUWNhRnVKVThxcDhZZXZGUGZ5Wi1qdDN1NERqSks?oc=5",
+        "description": "",
+        "pubDate": "2026-03-06T18:37:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Ministers offer Tories more peers to end hereditary bill standoff",
         "link": "https://www.bbc.com/news/articles/c4gjxwre1ydo?at_medium=RSS&at_campaign=rss",
         "description": "It comes as the government tries to pass a bill to end hereditary peerages ahead of a spring deadline.",
         "pubDate": "2026-03-06T17:29:17Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8756/live/89aa7000-1981-11f1-9156-4356592fc9c8.jpg",
+        "bias": 0
+      },
+      {
+        "title": "For US Muslims, immigration crackdown fears, new war worries and anti-Muslim rhetoric cloud Ramadan - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSWRjamRDMExKa01Dc3dCUnBqak1ybnVvMG1VNVNSZmNFcFBiOXZUYlY2QUhVSVB1dkNyZjc0dGRlblF3SnBTVEpoMzVPbGFIYzNPcDhUUXlpMDFMWE5pVHQySjBjTzRudlNWU095SjVzUjM2NGV1TVBTb1puR1NpWGFfTmpmZExEU0RwZHJmNWxCWkpWa1Y2eWwxSmotMHJkV05WM2ZRTFpxaFNkZkREcFln?oc=5",
+        "description": "",
+        "pubDate": "2026-03-06T17:18:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -790,30 +564,21 @@
         "bias": 0
       },
       {
+        "title": "Britney Spears arrested on suspicion of driving under the influence of alcohol and drugs - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONFZyMVNVRXZKRW9DenR4eTVVZVFmTmFxYjA0cHFnS3cyeVU3elFDYld5VEoyNW5VcEZaWjYxbzY0MGxjUzNVYTRzeUVja29KWHExdDFmTktxcllSblQ1UURkakRXNHM0M3dIbTN0a3NSTDdOMFpXUG91WEc0MjRCTVltZzBJWVV4NUdUSlFTUTB0SEctQVBNSkpB?oc=5",
+        "description": "",
+        "pubDate": "2026-03-06T15:55:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Mandelson's bail conditions lifted after misconduct in public office arrest",
         "link": "https://www.bbc.com/news/articles/ce8wjg507yro?at_medium=RSS&at_campaign=rss",
         "description": "Lord Peter Mandelson has had his passport returned by police, his lawyers say.",
         "pubDate": "2026-03-06T14:05:11Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abec/live/73a86f20-195c-11f1-9120-a910fc22c6ac.jpg",
-        "bias": 0
-      },
-      {
-        "title": "This weekend’s US clock change is a problem, and there’s a deep divide on how to fix it - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQTJJS0VUaFFKRmc0UHpEVUMtd3RCNkw1SE5EckNNMHEwNmk0dDNHVUg0SEVtYS1zQU9pNTBDR2xJcDAyTzBGU2RfODJ6N1ExaUpLdkJkYVdmVWNSb0VUMkFlTjVvNjhLUURTZks0VEpFUFN2Q01QWjczUUZaOU1IejRhT1pTWHd3WmVacmRwVDRFRXpxRjhXYm9GR1MxOEt2SHJ4WGFXTnA?oc=5",
-        "description": "",
-        "pubDate": "2026-03-06T13:29:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "NCAA appeals to Mississippi Supreme Court, seeking to bar Trinidad Chambliss from playing in 2026 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWUZRN2JPQTA3ZVFSZ2s3OTdSdk1kaU5xamVKMmxld0V3VnNVbmpfYWgtVHVmZkZDbnVMWWYtLW1Hc3BRLXFGcDNNbjdIeDVYSmFrMGlJN2dJSWtIM1NmY29nVjFOakRaZEZnTnhSZUFpNlZxWnhtZHYyakdISDM2eDBMVlJHNnQxZWhXX0tDa0x2MnlQSVpkUjY4YTNZN2w2bndhYg?oc=5",
-        "description": "",
-        "pubDate": "2026-03-06T13:06:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -862,6 +627,15 @@
         "bias": -1
       },
       {
+        "title": "The victory lap for America's Olympic hockey champions quietly shed politics from the celebration - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbWhZRnIyejJDb1lORk9FdTBEMzZhbXJFd1k3dFltaEptaGw2NFlaaDFpSkp1ejdkTktVVm54ZnVISUJoYVFXTnF0RlNqT1R3cmgtdE1Vb05uMEhQMlpIcUdTaHowLUVibmJQSHF2cVlUQWZJU0YwZ0ttUXpIdElpajJoWTRrbmdGTXc?oc=5",
+        "description": "",
+        "pubDate": "2026-03-06T09:43:56Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Former Sen. Ben Sasse on laughing his way through terminal cancer",
         "link": "https://www.npr.org/2026/03/06/nx-s1-5729065/former-sen-ben-sasse-talks-about-the-state-of-us-politics-and-his-fight-with-cancer",
         "description": "Former Sen. Ben Sasse, a Republican from Nebraska, talks with NPR's Steve Inskeep about the state of politics and his life after being diagnosed with terminal pancreatic cancer.",
@@ -907,10 +681,10 @@
         "bias": 0
       },
       {
-        "title": "Danica Patrick says she chose to leave Sky Sports’ F1 coverage - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTU1ubGVVWFdlVi1qaWJGdlpTbFlTZUxBdTVJOVBfZlY0c2tOS2Z0MEUxNHkxUnExZW1KM0Rkc2ZIVXRZQVlSbkpwWnpTWm02dmpsUjFWY2JGd25ma2IzUVNaN01xcXF0QTJDOWRVemp4N1RMWThOQzVkbm8yV1YydUtKb2d4VWJjeUU4WWN6SGNmLV9Uc2lLdlAtazNFRzh6eWVKM1Fn?oc=5",
+        "title": "Talarico became famous with viral videos. Can Republicans turn that against him? - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT2R5SG5hX2JqamdRVW5oU05MeGlJbHdSa3Y0c3pCZFdsSi1NVjVmcEtTb0ZRMlBXNVZadVlzdXlwTnlaSDIyNmo5WmpZcVd1S0ZkSnRfSUY0XzdCMjVBenA3cjk4ZzlpQ0VWUHlCRE9SUnRyNHJMU1hVYmZBSFpVelV4bFYwSEhSRktvRFhZczFxaGd6NDNjaERtRUtuLUppYlJDdlBlVlc?oc=5",
         "description": "",
-        "pubDate": "2026-03-06T00:46:00Z",
+        "pubDate": "2026-03-06T05:13:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -934,6 +708,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "NCAA appeals to Mississippi Supreme Court, seeking to bar Trinidad Chambliss from playing in 2026 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWUZRN2JPQTA3ZVFSZ2s3OTdSdk1kaU5xamVKMmxld0V3VnNVbmpfYWgtVHVmZkZDbnVMWWYtLW1Hc3BRLXFGcDNNbjdIeDVYSmFrMGlJN2dJSWtIM1NmY29nVjFOakRaZEZnTnhSZUFpNlZxWnhtZHYyakdISDM2eDBMVlJHNnQxZWhXX0tDa0x2MnlQSVpkUjY4YTNZN2w2bndhYg?oc=5",
+        "description": "",
+        "pubDate": "2026-03-06T13:06:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Xbox confirms new console is coming - but can it revive the brand?",
@@ -983,6 +766,15 @@
     ],
     "Science": [
       {
+        "title": "How a handful of koalas are changing scientists understanding of genetic risk",
+        "link": "https://www.npr.org/2026/03/06/nx-s1-5734568/how-a-handful-of-koalas-are-changing-scientists-understanding-of-genetic-risk",
+        "description": "It's long been assumed that koalas in southern Australia are genetically unhealthy. A new study finds they're actually recovering, changing how scientists look at genetic risks.",
+        "pubDate": "2026-03-06T21:52:18Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Sheep are disappearing from our hills - and our dinner plates",
         "link": "https://www.bbc.com/news/articles/cgrzd72wp5zo?at_medium=RSS&at_campaign=rss",
         "description": "Have we have passed \"peak sheep\" in the UK?",
@@ -998,15 +790,6 @@
         "pubDate": "2026-03-06T10:43:38Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecdf/live/0c768d70-fe20-11f0-a8b8-bdd2c5f9bcad.png",
-        "bias": 0
-      },
-      {
-        "title": "Talarico became famous with viral videos. Can Republicans turn that against him? - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT2R5SG5hX2JqamdRVW5oU05MeGlJbHdSa3Y0c3pCZFdsSi1NVjVmcEtTb0ZRMlBXNVZadVlzdXlwTnlaSDIyNmo5WmpZcVd1S0ZkSnRfSUY0XzdCMjVBenA3cjk4ZzlpQ0VWUHlCRE9SUnRyNHJMU1hVYmZBSFpVelV4bFYwSEhSRktvRFhZczFxaGd6NDNjaERtRUtuLUppYlJDdlBlVlc?oc=5",
-        "description": "",
-        "pubDate": "2026-03-06T05:13:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       }
     ],
