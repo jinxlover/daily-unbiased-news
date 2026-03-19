@@ -1,12 +1,440 @@
 {
-  "lastUpdate": "2026-03-19T00:02:47.374141Z",
+  "lastUpdate": "2026-03-19T03:18:19.948945Z",
   "news": {
-    "Gaming": [],
-    "World": [],
-    "Politics": [],
+    "Gaming": [
+      {
+        "title": "How to Save Your Town and Kill a Dragon [Free] [Windows] [macOS] [Android]",
+        "link": "https://teasel.itch.io/how-to-save-your-town-and-kill-a-dragon",
+        "description": "",
+        "pubDate": "2026-03-19T03:13:15Z",
+        "source": "teasel.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MjA0NjQxLnBuZw==/315x250%23c/sw125x.png",
+        "bias": 0
+      },
+      {
+        "title": "GoosePet [Free] [Windows] [macOS]",
+        "link": "https://toastinggames.itch.io/goosepet",
+        "description": "This is a goose pet for your desktop made in godot.",
+        "pubDate": "2026-03-19T03:12:04Z",
+        "source": "toastinggames.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MjA0NTc3LnBuZw==/315x250%23c/xUx%2BIF.png",
+        "bias": 0
+      },
+      {
+        "title": "​Bank Job – UE5 Level Design Project [Free] [Action]",
+        "link": "https://0dd-games.itch.io/bank-job-ue5-level-design-project",
+        "description": "A small FPS level set inside a bank environment, built in Unreal Engine 5.",
+        "pubDate": "2026-03-19T03:00:49Z",
+        "source": "0dd-games.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MjA0NTYzLnBuZw==/315x250%23c/o4acIN.png",
+        "bias": 0
+      },
+      {
+        "title": "ShortStackPunny [$20.00]",
+        "link": "https://koreychu.itch.io/shortstackpunny",
+        "description": "",
+        "pubDate": "2026-03-19T02:56:30Z",
+        "source": "koreychu.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MjA0NDU2LnBuZw==/315x250%23c/0%2BevLz.png",
+        "bias": 0
+      },
+      {
+        "title": "japanese blues - the office [Free] [Visual Novel]",
+        "link": "https://berniebro.itch.io/japanese-blues-the-office",
+        "description": "",
+        "pubDate": "2026-03-19T02:55:00Z",
+        "source": "berniebro.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MjA0NDQwLnBuZw==/315x250%23c/pybRBn.png",
+        "bias": 0
+      },
+      {
+        "title": "Photon Taggers [Free]",
+        "link": "https://baconedstudios.itch.io/photontaggers",
+        "description": "",
+        "pubDate": "2026-03-19T02:54:40Z",
+        "source": "baconedstudios.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MjA0NDQ5LnBuZw==/315x250%23c/7gMHly.png",
+        "bias": 0
+      },
+      {
+        "title": "SECTOR-X [Free] [Adventure] [Windows]",
+        "link": "https://kathleen-drv.itch.io/sector-x",
+        "description": "",
+        "pubDate": "2026-03-19T02:43:30Z",
+        "source": "kathleen-drv.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MjA0MzU0LnBuZw==/315x250%23c/ZtBQIr.png",
+        "bias": 0
+      },
+      {
+        "title": "Account Mu [Free] [Puzzle] [Windows]",
+        "link": "https://bennymakesgames.itch.io/account-mu",
+        "description": "It's a puzzle game (demo).",
+        "pubDate": "2026-03-19T02:38:29Z",
+        "source": "bennymakesgames.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MjA0Mjc4LnBuZw==/315x250%23c/6DYSJD.png",
+        "bias": 0
+      },
+      {
+        "title": "LightOff [Free] [Survival] [Windows] [Android]",
+        "link": "https://delayproduction.itch.io/lightoff",
+        "description": "",
+        "pubDate": "2026-03-19T02:25:43Z",
+        "source": "delayproduction.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MjA0MjQzLnBuZw==/315x250%23c/h2W5p0.png",
+        "bias": 0
+      },
+      {
+        "title": "Farm Slots: Harvest Fortune [Free] [Other]",
+        "link": "https://ludito.itch.io/aarm-slots-harvest-fortune",
+        "description": "",
+        "pubDate": "2026-03-19T02:18:29Z",
+        "source": "ludito.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MjA0MjM3LnBuZw==/315x250%23c/yaP2MX.png",
+        "bias": 0
+      },
+      {
+        "title": "Conurban 2077 [Free] [Racing] [Windows] [macOS]",
+        "link": "https://crisogamedev.itch.io/conurban-2077",
+        "description": "Carreras arcade en el conurbano, con autos clásicos modificados y caos nocturno.",
+        "pubDate": "2026-03-19T02:10:43Z",
+        "source": "crisogamedev.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MjA0MjUyLnBuZw==/315x250%23c/l2p9w7.png",
+        "bias": 0
+      },
+      {
+        "title": "hit the mole [Free]",
+        "link": "https://kettlelazy.itch.io/hit-the-mole",
+        "description": "simple hit_mole_game",
+        "pubDate": "2026-03-19T02:10:16Z",
+        "source": "kettlelazy.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MjA0MTgwLmpwZw==/315x250%23c/9R6bMZ.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Slime Spike Showdown [$5.00] [Action] [Windows]",
+        "link": "https://omniscye.itch.io/slime-spike-showdown",
+        "description": "A modern day Slime Volleyball type of game.",
+        "pubDate": "2026-03-19T02:05:26Z",
+        "source": "omniscye.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MjAzOTY4LnBuZw==/315x250%23c/d0eZCi.png",
+        "bias": 0
+      },
+      {
+        "title": "オフィス japanese blues the office scene JP [Free] [Visual Novel]",
+        "link": "https://berniebro.itch.io/japanese-blues-the-office-scene-jp",
+        "description": "",
+        "pubDate": "2026-03-19T01:57:24Z",
+        "source": "berniebro.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MjAzOTE1LnBuZw==/315x250%23c/25F5ad.png",
+        "bias": 0
+      },
+      {
+        "title": "PONG [Free] [Windows]",
+        "link": "https://xover-studio.itch.io/pong",
+        "description": "jogo pong agora",
+        "pubDate": "2026-03-19T01:56:45Z",
+        "source": "xover-studio.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MjAzOTg3LnBuZw==/315x250%23c/dZBUqw.png",
+        "bias": 0
+      },
+      {
+        "title": "Waiter Wait! [Free] [Other]",
+        "link": "https://talalcodes83.itch.io/waiter-wait",
+        "description": "cool game by talal",
+        "pubDate": "2026-03-19T01:52:11Z",
+        "source": "talalcodes83.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MjA0MDI2LnBuZw==/315x250%23c/NSVqoK.png",
+        "bias": 0
+      },
+      {
+        "title": "Erased Cope [Free] [Survival]",
+        "link": "https://akvthebest.itch.io/erased-cope",
+        "description": "A Retro Horror Game",
+        "pubDate": "2026-03-19T01:46:00Z",
+        "source": "akvthebest.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MjAzODEzLnBuZw==/315x250%23c/gvvGqZ.png",
+        "bias": 0
+      },
+      {
+        "title": "F1FTYCAL: The Saga [Free] [Role Playing] [Windows] [macOS] [Linux] [Android]",
+        "link": "https://f1ftycal.itch.io/f1ftycal-the-saga",
+        "description": "Idle RPG",
+        "pubDate": "2026-03-19T01:43:21Z",
+        "source": "f1ftycal.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MjA0NTg1LmpwZw==/315x250%23c/9Kghwl.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Corpocracy DEMO [Free] [Strategy]",
+        "link": "https://tapionx.itch.io/corpocracy",
+        "description": "Run a chaotic startup. Survive bad decisions, lawsuits, and the board.",
+        "pubDate": "2026-03-19T01:04:00Z",
+        "source": "tapionx.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MjAzMzg5LnBuZw==/315x250%23c/mKNy%2FD.png",
+        "bias": 0
+      },
+      {
+        "title": "ZAMURAI [Free] [Windows] [macOS]",
+        "link": "https://guriguri00451.itch.io/zamurai",
+        "description": "",
+        "pubDate": "2026-03-19T00:44:10Z",
+        "source": "guriguri00451.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MjAzMjEyLnBuZw==/315x250%23c/HxwEg0.png",
+        "bias": 0
+      },
+      {
+        "title": "ARCAENEUM [Free] [Action]",
+        "link": "https://skultetyb.itch.io/arcaeneum",
+        "description": "Conjure spells with your movement",
+        "pubDate": "2026-03-19T00:43:06Z",
+        "source": "skultetyb.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MjAzNzc3LnBuZw==/315x250%23c/LFMkPx.png",
+        "bias": 0
+      },
+      {
+        "title": "LowBattery [Free] [Platformer]",
+        "link": "https://xdeyvidhx.itch.io/lowbattery",
+        "description": "",
+        "pubDate": "2026-03-19T00:35:00Z",
+        "source": "xdeyvidhx.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MjA0NDYzLnBuZw==/315x250%23c/txZlFY.png",
+        "bias": 0
+      },
+      {
+        "title": "BettaLife [Free] [Simulation] [Windows]",
+        "link": "https://marte-pixelart-studios.itch.io/bettalife",
+        "description": "",
+        "pubDate": "2026-03-19T00:34:11Z",
+        "source": "marte-pixelart-studios.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MjAzODcwLnBuZw==/315x250%23c/CwHpmB.png",
+        "bias": 0
+      },
+      {
+        "title": "DDAY [Free] [Shooter] [Windows] [macOS] [Linux] [Android]",
+        "link": "https://bugfam.itch.io/dday",
+        "description": "FPS BR and Mini Games",
+        "pubDate": "2026-03-19T00:11:48Z",
+        "source": "bugfam.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MjAzNjI0LnBuZw==/315x250%23c/QdCsTg.png",
+        "bias": 0
+      }
+    ],
+    "World": [
+      {
+        "title": "Strikes hit world’s largest natural gas field in Iran, and Tehran retaliates with more attacks - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVmJ0TUdGeFpOejZhUGlLV0Q5TXY2STNfNFRCWWF6QkJrLWVBMGJ3VTJRZF90eVpRc2NmaGU0SnFHZkZpSWhfcFdyb1AwN0N5UFhuQjdNVGw5YmRtMFhWclEwZWswSzRTQVcyTE56dEdkbEdxbEEtN2o4akhwU05OOF94SVRGQWJIS2VGTzlhajVtbmRVV2lTaVAwNjl3LXdQ?oc=5",
+        "description": "",
+        "pubDate": "2026-03-19T03:02:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "César Chavez accused of sexually abusing labor rights leader Dolores Huerta and others - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVXlOSXhOWEp2LVpTd1hnSnFlMGVXRHB6NXVWcWZ2dG1heVRXNW1aSXZmZVV5UGhjakpLNFU2M0wyeW9SMG1BTHpPdzBKeFBOWXlQMjNPQm92Z1BBZy12cjFlS2dFX19YZHNaQ1ZCZ01PYko1MVVHRTJOS0NOUkZVeEFEYm9tT2szYkRpQkxkeXlVR0ItdEYwQUYwWTV2MVhvWTBwZVVTUDJwUDZLZGc?oc=5",
+        "description": "",
+        "pubDate": "2026-03-19T02:37:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Three women killed in occupied West Bank missile attack",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/three-women-killed-in-occupied-west-bank-missile-attack?traffic_source=rss",
+        "description": "Three women in an occupied West Bank hair salon became the first Palestinian deaths of the US-Israeli war on Iran.",
+        "pubDate": "2026-03-19T02:19:28Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Saudi FM warns Iran that patience in Gulf not ‘unlimited’ amid attacks",
+        "link": "https://www.aljazeera.com/news/2026/3/19/saudi-fm-warns-iran-that-patience-in-gulf-not-unlimited-amid-attacks?traffic_source=rss",
+        "description": "Foreign minister warns Iran that regional neighbours have 'significant' capabilities with which to respond to attacks.",
+        "pubDate": "2026-03-19T02:11:25Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Oil crosses $110 a barrel after gas field strike",
+        "link": "https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&at_campaign=rss",
+        "description": "Iran's military warned it would take \"decisive action\" in response to the strike on its energy infrastructure.",
+        "pubDate": "2026-03-19T01:35:37Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8fb/live/167b5fd0-22e7-11f1-b297-95b0a0a8331e.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Galatasaray player Noa Lang sustains freak hand injury after colliding with advertising boards - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMmxmZ2lCY21xVFdqNV9VR2U4emlEVFJfTE1oamJMaEFBM1RhZHJ6NXh4RjR6VWMwVWF0ZUJwQVQ3MF9kUkhIdVlqbUhNVlRHR19fVUVNbjVSX204ZzQzb0sxMDByWHNyOWVNeVhvaGtnZXRiaDF5eHdtbjVPQWt3VlpIcW5ETXBSZzFDckhJR1JBSkwxdnpmdmN5aWlITzdDMGt3UFA0SzdrVUVOTmhqTElaTlQ?oc=5",
+        "description": "",
+        "pubDate": "2026-03-19T01:09:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "US civil rights leader Cesar Chavez accused of sexual abuse",
+        "link": "https://www.bbc.com/news/articles/cp8r8rggxmmo?at_medium=RSS&at_campaign=rss",
+        "description": "The allegations have prompted the cancellations of events and celebrations planned in his honour later this month.",
+        "pubDate": "2026-03-19T00:56:43Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8dd/live/c1e897c0-2314-11f1-83bb-2f220ea2da92.jpg",
+        "bias": 0
+      },
+      {
+        "title": "As Cuba struggles with power cuts, how is the island holding up?",
+        "link": "https://www.bbc.com/news/videos/c07j7yr0p2no?at_medium=RSS&at_campaign=rss",
+        "description": "The BBC's Will Grant reports from the island days after the entire national electric grid collapsed.",
+        "pubDate": "2026-03-19T00:46:25Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd59/live/af90e2f0-232b-11f1-b297-95b0a0a8331e.jpg",
+        "bias": 0
+      },
+      {
+        "title": "US aircraft carrier to sail to Crete for repairs after fire on board",
+        "link": "https://www.bbc.com/news/articles/c0rjr28nxrwo?at_medium=RSS&at_campaign=rss",
+        "description": "The USS Gerald R Ford has played a significant role in US operations during the war with Iran.",
+        "pubDate": "2026-03-19T00:44:57Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cff3/live/a2371e90-2316-11f1-83bb-2f220ea2da92.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Afghan evacuees in limbo in Qatar camp accuse US of betrayal",
+        "link": "https://www.bbc.com/news/articles/c2lrke1wjdyo?at_medium=RSS&at_campaign=rss",
+        "description": "More than 1,100 Afghans evacuated by the US fear their route to promised resettlement is closed for good.",
+        "pubDate": "2026-03-19T00:42:16Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fac7/live/d06369e0-22e4-11f1-a79a-77e93010d956.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Ex-counterterrorism official says he wasn't allowed to share concerns about Iran war with Trump - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVUtwWUc1dTlackEtcVBrT1dyYzZiR3NHeHlSZnVLem1HTTZrQVpHSTZqcFp6elprYXdPUWk3bi1HQVcwRUhocjk1RHNnMm9LRVV3YkRGLXpGcEhoZmhDd3RfSXJHdTU1NFFRVEdneWJPWjV4OF9QcGlxODY2RnBBUWJFT0lUcjRzYUVhZHE2aW5wRGFhaGV4Mzg1ei0?oc=5",
+        "description": "",
+        "pubDate": "2026-03-19T00:42:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Democrats storm out of Justice Department leaders’ briefing on the Epstein files - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWlk2OU1uXzAtR01rNnBhempocGpGdi0zZmxoQzJwUFYxY3g2aHJSQVdEc2N0QXZFMUoydmNpd3RpeVdMV0VrYW1keDdtWklBX3h5cENtQkoyYUxGY0czN05QNjBSeFN1bVl6LWFYX0ZuLTJDQkt3a0RLOFRXV0pmZlJzUEtIdVVaM1h2a2o2LUtfZTBKLTRUd0pSRHZ3S2UxM1E?oc=5",
+        "description": "",
+        "pubDate": "2026-03-19T00:38:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Iran war live: Qatar, Saudi energy sites attacked; Riyadh says trust gone",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/3/19/iran-war-live-qatar-saudi-energy-sites-attacked-riyadh-says-trust-gone?traffic_source=rss",
+        "description": "Iranian strikes on Gulf energy come after Israel attacked Iran's South Pars gasfield and navy assets in the north.",
+        "pubDate": "2026-03-19T00:30:00Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Qatar expels Iranian attaches after LNG facility strike",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/qatar-expels-iranian-attaches-after-lng-facility-strike?traffic_source=rss",
+        "description": "Qatar is expelling Iran’s military and security attaches after Iranian missiles caused “extensive damage” to Ras Laffan.",
+        "pubDate": "2026-03-19T00:20:00Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Funerals held for Afghans killed in Pakistani strike on Kabul hospital",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/funerals-held-for-afghans-killed-in-pakistani-strike-on-kabul-hospital?traffic_source=rss",
+        "description": "Afghans are burying the victims from a Pakistani air strike on a drug rehabilitation centre in Kabul.",
+        "pubDate": "2026-03-19T00:14:18Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "At least eight killed as Brazilian police carry out lethal favela raid",
+        "link": "https://www.aljazeera.com/news/2026/3/19/at-least-eight-killed-as-brazilian-police-carry-out-lethal-favela-raid?traffic_source=rss",
+        "description": "Brazilian police say that raid in Rio de Janeiro targeted a leader of Red Command, a powerful criminal group.",
+        "pubDate": "2026-03-19T00:07:24Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "India's young are more educated than ever. So why are so many jobless?",
+        "link": "https://www.bbc.com/news/articles/c17841zez8wo?at_medium=RSS&at_campaign=rss",
+        "description": "India’s educational enrolment has surged but jobs, especially good ones, are not keeping pace, a new report finds.",
+        "pubDate": "2026-03-19T00:02:04Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6661/live/91cb0600-2291-11f1-a268-8f21a3f62cfd.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Labubu film is official with Paddington director at the helm",
+        "link": "https://www.bbc.com/news/articles/c20j01gqx1eo?at_medium=RSS&at_campaign=rss",
+        "description": "The film will combine live action and computer-generated animation and is in \"early development\".",
+        "pubDate": "2026-03-19T00:01:18Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f272/live/21a57450-233b-11f1-8a9a-652e396751f3.jpg",
+        "bias": 0
+      }
+    ],
+    "Politics": [
+      {
+        "title": "Analysis: Is government going wobbly on its migration plans?",
+        "link": "https://www.bbc.com/news/articles/cjenegnl0ngo?at_medium=RSS&at_campaign=rss",
+        "description": "Chris Mason asks if the UK government will stick to its big immigration shake-up or water it down.",
+        "pubDate": "2026-03-19T00:53:01Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f40/live/fc531d20-232a-11f1-a79a-77e93010d956.jpg",
+        "bias": 0
+      }
+    ],
     "Tech": [],
-    "Science": [],
-    "Business": [],
+    "Science": [
+      {
+        "title": "Stretching 2,689 miles, the world's longest coastal path opens in England",
+        "link": "https://www.bbc.com/news/articles/cy0dxexdd8xo?at_medium=RSS&at_campaign=rss",
+        "description": "The King Charles coastal path will allow walkers right of access to the entire coast for the first time.",
+        "pubDate": "2026-03-19T02:36:02Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6dc/live/abd7cc00-22fe-11f1-b297-95b0a0a8331e.jpg",
+        "bias": 0
+      }
+    ],
+    "Business": [
+      {
+        "title": "How Finnish supermarkets are central to the country's defence",
+        "link": "https://www.bbc.com/news/articles/cly1mg3zy20o?at_medium=RSS&at_campaign=rss",
+        "description": "The chains all have detailed plans to follow in the event of the nation going to war.",
+        "pubDate": "2026-03-19T00:10:45Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0dc/live/89a6fa90-22b6-11f1-934f-036468834728.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Impact of Iran war expected to bring hold in interest rates",
+        "link": "https://www.bbc.com/news/articles/c8d5dee3ep8o?at_medium=RSS&at_campaign=rss",
+        "description": "Before the conflict began, analysts had expected a cut in the Bank rate at this meeting.",
+        "pubDate": "2026-03-19T00:10:32Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbfd/live/920acb20-22b2-11f1-8a6e-abb477324122.jpg",
+        "bias": 0
+      },
+      {
+        "title": "UK sets target to boost steel making and cut imports",
+        "link": "https://www.bbc.com/news/articles/c98q8q4zl8qo?at_medium=RSS&at_campaign=rss",
+        "description": "Up to half of steel used in Britain should be made there, the government says, as it announces its steel strategy.",
+        "pubDate": "2026-03-19T00:04:46Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f5e/live/6ed1a370-2304-11f1-b297-95b0a0a8331e.jpg",
+        "bias": 0
+      }
+    ],
     "Culture": []
   }
 }
