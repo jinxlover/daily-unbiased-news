@@ -1,279 +1,234 @@
 {
-  "lastUpdate": "2026-03-22T19:58:33.268888Z",
+  "lastUpdate": "2026-03-22T20:38:00.549305Z",
   "news": {
     "Gaming": [
       {
-        "title": "A Thief's Quest [Free] [Role Playing] [Linux]",
-        "link": "https://wizzowl.itch.io/a-thiefs-quest",
+        "title": "Midnight Vending [Free] [Action] [Windows] [Linux]",
+        "link": "https://broken-joysticks.itch.io/midnight-vending",
+        "description": "After buying a bottle of water, you suddenly notice that the path ahead is shrouded in fog.",
+        "pubDate": "2026-03-22T20:22:08Z",
+        "source": "broken-joysticks.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2Mjc0NTc1LnBuZw==/315x250%23c/O7enje.png",
+        "bias": 0
+      },
+      {
+        "title": "Candle B10L (Commodore Plus/4) by FeCO [Free] [Action]",
+        "link": "https://bunsen.itch.io/candle-b10l-by-feco",
+        "description": "[BASIC 10Liner 2026] [EXTREM-256]",
+        "pubDate": "2026-03-22T20:13:09Z",
+        "source": "bunsen.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2Mjc0MjA0LnBuZw==/315x250%23c/RvUCqe.png",
+        "bias": 0
+      },
+      {
+        "title": "TimeRunners - Employee of the Month [Free] [Puzzle]",
+        "link": "https://serantiko.itch.io/timerunners",
+        "description": "Godot XR GameJam 2026",
+        "pubDate": "2026-03-22T20:11:55Z",
+        "source": "serantiko.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2Mjc0MjIxLnBuZw==/315x250%23c/MKY8P2.png",
+        "bias": 0
+      },
+      {
+        "title": "BirdKnight [Free] [Action]",
+        "link": "https://quantumstahl.itch.io/birdknight",
+        "description": "Fast-paced browser action game playable on PC & Mobile. No download required.",
+        "pubDate": "2026-03-22T20:11:34Z",
+        "source": "quantumstahl.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MjczNzM3LnBuZw==/315x250%23c/oUidNy.png",
+        "bias": 0
+      },
+      {
+        "title": "1D Terry [$1.50] [Other] [Windows]",
+        "link": "https://pesky-bird2573.itch.io/1d-terry",
+        "description": "The worst 1D game ever.",
+        "pubDate": "2026-03-22T20:10:41Z",
+        "source": "pesky-bird2573.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2Mjc0Mzc0LnBuZw==/315x250%23c/xWqoNi.png",
+        "bias": 0
+      },
+      {
+        "title": "Astro10 (MSX) by Tiago Tresoldi [Free] [Action]",
+        "link": "https://bunsen.itch.io/astro10-msx-by-tiago-tresoldi",
+        "description": "[BASIC 10Liner 2026] [PUR-80]",
+        "pubDate": "2026-03-22T20:08:24Z",
+        "source": "bunsen.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2Mjc0MTI1LnBuZw==/315x250%23c/MIZhEV.png",
+        "bias": 0
+      },
+      {
+        "title": "Shadows of Eldara [Free]",
+        "link": "https://babaoriley.itch.io/shadowsofeldara",
+        "description": "A game by my eight-year-old son",
+        "pubDate": "2026-03-22T20:08:09Z",
+        "source": "babaoriley.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2Mjc0MTA1LnBuZw==/315x250%23c/qDPmIN.png",
+        "bias": 0
+      },
+      {
+        "title": "Run! (MSX) by Biim Games [Free] [Sports]",
+        "link": "https://bunsen.itch.io/run-msx-by-biim-games",
+        "description": "[BASIC 10Liner 2026] [PUR-80]",
+        "pubDate": "2026-03-22T20:02:48Z",
+        "source": "bunsen.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MjczOTg2LnBuZw==/315x250%23c/EcK15r.png",
+        "bias": 0
+      },
+      {
+        "title": "The little borrows [Free] [Adventure] [Windows] [macOS] [Linux]",
+        "link": "https://forezavr.itch.io/the-little-borrows",
+        "description": "You are one of the Borrowers — a tiny person living hidden in the human world.",
+        "pubDate": "2026-03-22T20:00:28Z",
+        "source": "forezavr.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2Mjc0MjkyLnBuZw==/315x250%23c/1rIx0g.png",
+        "bias": 0
+      },
+      {
+        "title": "Brew Luck [Free] [Puzzle]",
+        "link": "https://engeda.itch.io/brew-luck",
+        "description": "First day in a potion shop: mix unclear ingredients, serve customers, and face the side effects.",
+        "pubDate": "2026-03-22T20:00:24Z",
+        "source": "engeda.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2Mjc0NDUyLnBuZw==/315x250%23c/uF0DNi.png",
+        "bias": 0
+      },
+      {
+        "title": "Deep Dig [Free] [Other]",
+        "link": "https://coffeetimerz.itch.io/deep-dig",
+        "description": "Click, upgrade, and DIG",
+        "pubDate": "2026-03-22T19:59:22Z",
+        "source": "coffeetimerz.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2Mjc0MjAyLnBuZw==/315x250%23c/EZYI3K.png",
+        "bias": 0
+      },
+      {
+        "title": "blue path [$2.00] [Windows] [Linux]",
+        "link": "https://raven-games-studios.itch.io/blue-path",
         "description": "",
-        "pubDate": "2026-03-22T19:54:57Z",
-        "source": "wizzowl.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2MjczODAwLnBuZw==/315x250%23c/FZjce%2B.png",
+        "pubDate": "2026-03-22T19:58:09Z",
+        "source": "raven-games-studios.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MjczOTExLnBuZw==/315x250%23c/VvJzTK.png",
         "bias": 0
       },
       {
-        "title": "Pick a Pocket [Free] [Windows]",
-        "link": "https://sarahnademakes.itch.io/pick-a-pocket",
+        "title": "Strugglin' Knight [Free] [Platformer]",
+        "link": "https://mosswarden.itch.io/strugglin-knight",
+        "description": "Simple platformer",
+        "pubDate": "2026-03-22T19:52:11Z",
+        "source": "mosswarden.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MjczODE2LnBuZw==/315x250%23c/o%2BFbq3.png",
+        "bias": 0
+      },
+      {
+        "title": "Small Jack Car [Free]",
+        "link": "https://silc-ag.itch.io/small-jack-car",
         "description": "",
-        "pubDate": "2026-03-22T19:53:51Z",
-        "source": "sarahnademakes.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2MjczODc1LnBuZw==/315x250%23c/zaA%2Bot.png",
+        "pubDate": "2026-03-22T19:43:05Z",
+        "source": "silc-ag.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2Mjc0MDc3LnBuZw==/315x250%23c/N7vbaS.png",
         "bias": 0
       },
       {
-        "title": "Mori [Free] [Strategy]",
-        "link": "https://kindlsticks.itch.io/mori",
+        "title": "Gyaku Line [Free] [Puzzle]",
+        "link": "https://elpulpooz.itch.io/gyaku-line",
+        "description": "Submission for the UGA Cultural Festival Game Jam",
+        "pubDate": "2026-03-22T19:36:23Z",
+        "source": "elpulpooz.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MjczNzgxLnBuZw==/315x250%23c/C2K1cg.png",
+        "bias": 0
+      },
+      {
+        "title": "Package Panic [Free]",
+        "link": "https://handguninteractive.itch.io/package-panic",
         "description": "",
-        "pubDate": "2026-03-22T19:48:37Z",
-        "source": "kindlsticks.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2MjczNjE1LnBuZw==/315x250%23c/Gf4wgr.png",
+        "pubDate": "2026-03-22T19:34:14Z",
+        "source": "handguninteractive.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MjczMzA0LnBuZw==/315x250%23c/bMNZCF.png",
         "bias": 0
       },
       {
-        "title": "Some Robot Thief [Free]",
-        "link": "https://spartan-plume.itch.io/some-robot-thief",
+        "title": "Hannibal Lectric [Free] [Strategy]",
+        "link": "https://wellregardedkevin.itch.io/hannibal-lectric",
         "description": "",
-        "pubDate": "2026-03-22T19:47:37Z",
-        "source": "spartan-plume.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2MjczODcwLnBuZw==/315x250%23c/bSS6W8.png",
+        "pubDate": "2026-03-22T19:29:40Z",
+        "source": "wellregardedkevin.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MjczMjU1LnBuZw==/315x250%23c/hcUTUQ.png",
         "bias": 0
       },
       {
-        "title": "Occupied Waters [Free] [Shooter]",
-        "link": "https://falcon89.itch.io/occupied-waters",
-        "description": "Tear through waves of hostile boats and find out what's lurking underwater.",
-        "pubDate": "2026-03-22T19:45:58Z",
-        "source": "falcon89.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2MjczNjM2LnBuZw==/315x250%23c/0hpw8K.png",
+        "title": "Clause and Effect [Free] [Puzzle]",
+        "link": "https://adglx.itch.io/clause-and-effect",
+        "description": "This is Clause and Effect! Our entry for the Shrekathon 2026.",
+        "pubDate": "2026-03-22T19:25:06Z",
+        "source": "adglx.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MjczMzcwLnBuZw==/315x250%23c/N%2Bg20X.png",
         "bias": 0
       },
       {
-        "title": "Whisp Dash [Free] [Racing]",
-        "link": "https://bengargames.itch.io/whisp-dash",
-        "description": "Short game about getting the best score AND combo you can.",
-        "pubDate": "2026-03-22T19:45:47Z",
-        "source": "bengargames.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2MjczNjEzLmdpZg==/original/rmr4fN.gif",
+        "title": "OrbWeaver [Free] [Action]",
+        "link": "https://saikyosan.itch.io/orbweaver",
+        "description": "A mouse-only survival shooter focused on dodging and high scores.",
+        "pubDate": "2026-03-22T19:07:14Z",
+        "source": "saikyosan.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MjczMzI1LnBuZw==/315x250%23c/OlJJub.png",
         "bias": 0
       },
       {
-        "title": "Barik-barik [Free] [Platformer]",
-        "link": "https://iraidelopez.itch.io/barik-barik",
-        "description": "Lanera berandu zoaz eta Barik-a pasatzea ahaztu duzu",
-        "pubDate": "2026-03-22T19:45:12Z",
-        "source": "iraidelopez.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2MjczNjQ2LnBuZw==/315x250%23c/ClYO9R.png",
+        "title": "Chicken, Eggs and Onions [Free] [Shooter]",
+        "link": "https://byern.itch.io/chicken-eggs-and-onions",
+        "description": "Short, incremental survivor-like shooter with an interesting twist!",
+        "pubDate": "2026-03-22T18:43:55Z",
+        "source": "byern.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2Mjc0MzY2LnBuZw==/315x250%23c/jwubS5.png",
         "bias": 0
       },
       {
-        "title": "Nebulosa survive [Free] [Windows]",
-        "link": "https://lenylord.itch.io/nebulosa-survive",
-        "description": "a imagem ao lado foi criada com ia mas baseada no jogo original",
-        "pubDate": "2026-03-22T19:43:52Z",
-        "source": "lenylord.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2MjczNTI5LnBuZw==/315x250%23c/nfq7BH.png",
-        "bias": 0
-      },
-      {
-        "title": "Crayon Eater [Free] [Puzzle]",
-        "link": "https://imclyte.itch.io/crayon-eater",
-        "description": "WASD to move and mouse to play the puzzles",
-        "pubDate": "2026-03-22T19:43:25Z",
-        "source": "imclyte.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2MjczNjU1LmpwZw==/315x250%23c/IbedCS.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Project University Modded [Free]",
-        "link": "https://vort3x-taggers.itch.io/project-university-modded",
+        "title": "RGNT TURBO ⚡ [Free]",
+        "link": "https://neonvoidstudio.itch.io/rgnt-turbo",
         "description": "",
-        "pubDate": "2026-03-22T19:40:25Z",
-        "source": "vort3x-taggers.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2MjczNTE5LnBuZw==/315x250%23c/Y971U6.png",
+        "pubDate": "2026-03-22T18:34:43Z",
+        "source": "neonvoidstudio.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MjcyNTQyLmpwZw==/315x250%23c/VR0GX%2F.jpg",
         "bias": 0
       },
       {
-        "title": "Museum Heist [Free]",
-        "link": "https://gabrielrg.itch.io/museum-heist",
+        "title": "WIZ [Free] [Fighting]",
+        "link": "https://breadstudioss.itch.io/wiz",
         "description": "",
-        "pubDate": "2026-03-22T19:38:53Z",
-        "source": "gabrielrg.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2MjczNTk3LnBuZw==/315x250%23c/ryqAQH.png",
+        "pubDate": "2026-03-22T17:37:30Z",
+        "source": "breadstudioss.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MjcwNzQzLnBuZw==/315x250%23c/h%2BeBz9.png",
         "bias": 0
       },
       {
-        "title": "Jumpy cow 2026 [Free] [Platformer]",
-        "link": "https://toiletgamez.itch.io/jumpycow",
-        "description": "Jumping game",
-        "pubDate": "2026-03-22T19:36:36Z",
-        "source": "toiletgamez.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2MjczNDIxLmpwZWc=/315x250%23c/EdJrNS.jpeg",
-        "bias": 0
-      },
-      {
-        "title": "Data Miner [Free]",
-        "link": "https://one-warrior-games.itch.io/data-miner",
-        "description": "In this game, you break into an old computer’s security systems through conversations with them.",
-        "pubDate": "2026-03-22T19:35:28Z",
-        "source": "one-warrior-games.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2MjczODAxLnBuZw==/315x250%23c/Rrh2ks.png",
-        "bias": 0
-      },
-      {
-        "title": "SpaceShoot-GHE1 [Free] [Action]",
-        "link": "https://gustavoghe.itch.io/spaceshoot-ghe1",
-        "description": "Learning Project",
-        "pubDate": "2026-03-22T19:26:54Z",
-        "source": "gustavoghe.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2MjczNDY0LnBuZw==/315x250%23c/XQI%2BTr.png",
-        "bias": 0
-      },
-      {
-        "title": "Shadow Thieving [Free]",
-        "link": "https://bagueaver.itch.io/shadow-thieving",
-        "description": "hide in the shadows, avoid guards, steal the crown!",
-        "pubDate": "2026-03-22T19:26:05Z",
-        "source": "bagueaver.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2MjczNjIxLnBuZw==/315x250%23c/87Znqv.png",
-        "bias": 0
-      },
-      {
-        "title": "SUPER BOARD BASEBALL [Free] [Windows]",
-        "link": "https://hiroshi-todo.itch.io/super-board-baseball",
-        "description": "A simple arcade-style board baseball game.",
-        "pubDate": "2026-03-22T19:24:07Z",
-        "source": "hiroshi-todo.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2MjczMDcwLnBuZw==/315x250%23c/PVfq5K.png",
-        "bias": 0
-      },
-      {
-        "title": "Boing! Demo [Free] [Platformer] [Windows]",
-        "link": "https://benunagames.itch.io/boing-demo",
-        "description": "Bounce around as a kitten and launch yourself into the stars",
-        "pubDate": "2026-03-22T19:23:08Z",
-        "source": "benunagames.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2MjcyOTA0LnBuZw==/315x250%23c/E2P2jE.png",
-        "bias": 0
-      },
-      {
-        "title": "Cosmic Crusader: Reloaded [Free] [Action] [Windows]",
-        "link": "https://wdspencer99.itch.io/cosmic-crusader-reloaded",
-        "description": "A fast paced arcade style, spaceship flight game.",
-        "pubDate": "2026-03-22T19:22:37Z",
-        "source": "wdspencer99.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2MjczMDY0LnBuZw==/315x250%23c/yRy7It.png",
-        "bias": 0
-      },
-      {
-        "title": "The Society of Benevolent Witches (DEMO) [Free] [Other]",
-        "link": "https://lezbianesthere.itch.io/the-society-of-benevolent-witches-demo",
-        "description": "society-of-benevolent-witches",
-        "pubDate": "2026-03-22T19:12:33Z",
-        "source": "lezbianesthere.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2MjczMzI5LnBuZw==/315x250%23c/VE98H9.png",
-        "bias": 0
-      },
-      {
-        "title": "Don Jacinto vs el diablo [Free] [Platformer]",
-        "link": "https://johan-meneses.itch.io/don-jacinto-vs-el-diablo",
-        "description": "En esta ocasión podremos ayudar a don Jacinto a explorar el mapa",
-        "pubDate": "2026-03-22T18:56:52Z",
-        "source": "johan-meneses.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2MjcyNTgyLnBuZw==/315x250%23c/2y6bGj.png",
-        "bias": 0
-      },
-      {
-        "title": "Ebb and Snow [Free] [Platformer]",
-        "link": "https://seichred.itch.io/ebb-and-snow",
-        "description": "Steel vampire stuck in an eternal blizzard",
-        "pubDate": "2026-03-22T18:37:33Z",
-        "source": "seichred.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2MjcxODIzLnBuZw==/315x250%23c/qxnZkm.png",
-        "bias": 0
-      },
-      {
-        "title": "Type and Strike [Free] [Action]",
-        "link": "https://kosame395.itch.io/type-and-strike",
-        "description": "",
-        "pubDate": "2026-03-22T18:29:08Z",
-        "source": "kosame395.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2MjcyMDAzLnBuZw==/315x250%23c/ukrg5s.png",
-        "bias": 0
-      },
-      {
-        "title": "Katana Master [Free] [Adventure]",
-        "link": "https://zn1p3r.itch.io/katana-master",
-        "description": "Joc realizat pentru ROG 20-Year Coding Challenge 2026.",
-        "pubDate": "2026-03-22T18:27:57Z",
-        "source": "zn1p3r.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2MjczNTg2LmpwZw==/315x250%23c/H7QEzt.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Unidas Frevaremos [Free]",
-        "link": "https://carlsz.itch.io/unidas-frevaremos",
-        "description": "",
-        "pubDate": "2026-03-22T18:02:37Z",
-        "source": "carlsz.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2MjcxNTAwLnBuZw==/315x250%23c/BUSH0J.png",
-        "bias": 0
-      },
-      {
-        "title": "My Baby Bird [Free] [Simulation] [Windows] [macOS] [Linux]",
-        "link": "https://fragskye.itch.io/my-baby-bird",
-        "description": "Infiltrate a mall and leech blood off of victims",
-        "pubDate": "2026-03-22T17:33:31Z",
-        "source": "fragskye.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2MjczNDA2LnBuZw==/315x250%23c/wDbBvT.png",
-        "bias": 0
-      },
-      {
-        "title": "TIME THIEF [Free] [Adventure]",
-        "link": "https://punished-djhlowercase.itch.io/time-thief",
-        "description": "Take what you can - before the fuzz arrives!",
-        "pubDate": "2026-03-22T17:15:24Z",
-        "source": "punished-djhlowercase.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2MjcwOTQzLnBuZw==/315x250%23c/qBK5AU.png",
-        "bias": 0
-      },
-      {
-        "title": "Neon Survivors [Free] [Action] [Windows] [Linux]",
-        "link": "https://btmc1.itch.io/neon-survivors",
-        "description": "Darksynth arcade survivor — hack reality, chain combos, defeat the Overlord",
-        "pubDate": "2026-03-22T17:01:40Z",
-        "source": "btmc1.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2MjcxNzU1LnBuZw==/315x250%23c/A5H4py.png",
-        "bias": 0
-      },
-      {
-        "title": "Gangsticks [Free] [Simulation]",
-        "link": "https://piggward.itch.io/crime",
-        "description": "Run a criminal gang and dispatch members to missions!",
-        "pubDate": "2026-03-22T15:02:01Z",
-        "source": "piggward.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2MjY4NDIxLnBuZw==/315x250%23c/i8Q3hW.png",
-        "bias": 0
-      },
-      {
-        "title": "Fear Response [Free] [Other] [Windows] [Linux]",
-        "link": "https://cvirlik.itch.io/fear-response",
-        "description": "Can you respond to your mind if you always fear something?",
-        "pubDate": "2026-03-22T14:54:04Z",
-        "source": "cvirlik.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2MjcxMjYzLmdpZg==/original/zftw%2Fy.gif",
-        "bias": 0
-      },
-      {
-        "title": "Stack The Odds [Free] [Puzzle] [Windows] [macOS]",
-        "link": "https://britdan.itch.io/stacktheodds",
-        "description": "A puzzle-platformer where you must stack up to progress.",
-        "pubDate": "2026-03-22T11:07:23Z",
-        "source": "britdan.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2MjY0ODI1LnBuZw==/315x250%23c/drwkl0.png",
+        "title": "Boomerang Combat [Free] [Fighting] [Windows]",
+        "link": "https://elagmae.itch.io/boomerang-combat",
+        "description": "A multiplayer game where you can attack others using boomerangs.",
+        "pubDate": "2026-03-22T16:07:48Z",
+        "source": "elagmae.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MjcwMzYxLnBuZw==/315x250%23c/A%2BpG1F.png",
         "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Hawaii storms have caused $1bn in damage, governor says",
+        "link": "https://www.bbc.com/news/articles/czxrdxn6qwqo?at_medium=RSS&at_campaign=rss",
+        "description": "The full scale of the damages to roads and other infrastructure from rain and flooding in the state must still be assessed, Gov Josh Green says.",
+        "pubDate": "2026-03-22T20:24:27Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b17/live/8ccc1860-2624-11f1-aad6-2d605a562384.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Israel to expand ground and air attacks against Hezbollah in Lebanon",
+        "link": "https://www.bbc.com/news/articles/c30rl05evd8o?at_medium=RSS&at_campaign=rss",
+        "description": "There are fears in Lebanon that Israel is preparing for a large-scale ground invasion.",
+        "pubDate": "2026-03-22T20:23:07Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d43/live/a0b7c9f0-2629-11f1-aad6-2d605a562384.jpg",
+        "bias": 0
+      },
       {
         "title": "Israeli settlers violently storm through occupied West Bank",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/israeli-settlers-violently-storm-through-occupied-west-bank?traffic_source=rss",
@@ -308,6 +263,15 @@
         "pubDate": "2026-03-22T19:05:30Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51ee/live/da1f4290-2610-11f1-a79a-77e93010d956.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Italy’s justice referendum becomes a high stakes test for conservative Premier Giorgia Meloni - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdUxETkRUdDQ0NmducENub0lWRkpwNnVRQTZFRjk4WWs3LVJ5MEJESnZGTWw3SU0tdXk2cVVBamFBWFZVaXRERlE0R0ljT2k5X1hFVnExUlFTenllenRIT3VEUHNvUFFJWVdqN3hmSVVzSm9HSzhwdzM5NHNCZ2NpdVRibjFhM1pieTloOVV4dElDbk9WajdhZnBiUEFXSDBWbVlYQU4wTHdHWGVIZnpr?oc=5",
+        "description": "",
+        "pubDate": "2026-03-22T18:54:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -410,6 +374,15 @@
         "bias": 0
       },
       {
+        "title": "Cuba begins to restore power after nationwide grid collapse - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYTNWNE1Fd1ZaVFZmb1FITzdtdW1fT04ybGt6eEZtYXBucHY1blVtUzdYb0tWU19wajdKczJHc2RqZnE2NE5jVG9sZ3FwN3YtWW9YbTVHaTExQ0NrTHo0RDd6WkpHMnM0NDF5LWFoRHFwYlpWNlJwUlpRbkJrNDhKcFY3NF9yRlk?oc=5",
+        "description": "",
+        "pubDate": "2026-03-22T16:55:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "1 dead in Istanbul after gas explosion collapses 2 buildings - AP News",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZWxId0NDdHFlbWJBMzFzQWxsLVJKd3VlQWRvUWk1cFRCMkphQXNQZnlveDVIREFaem8tYlFOM1hoOEVLNTZNTUZWY3NVUWY3OXhIQllURVUzVEV0QWhvdU5PTXAzT3d5NTJPdmVDMXh2OTBXcEdTNGJYOVpSZm1nNlJaWUtTUEl0RGNHbmlTZGNiQlJNRi0zbA?oc=5",
         "description": "",
@@ -464,15 +437,6 @@
         "bias": -1
       },
       {
-        "title": "Italy’s justice referendum becomes a high stakes test for conservative Premier Giorgia Meloni - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdUxETkRUdDQ0NmducENub0lWRkpwNnVRQTZFRjk4WWs3LVJ5MEJESnZGTWw3SU0tdXk2cVVBamFBWFZVaXRERlE0R0ljT2k5X1hFVnExUlFTenllenRIT3VEUHNvUFFJWVdqN3hmSVVzSm9HSzhwdzM5NHNCZ2NpdVRibjFhM1pieTloOVV4dElDbk9WajdhZnBiUEFXSDBWbVlYQU4wTHdHWGVIZnpr?oc=5",
-        "description": "",
-        "pubDate": "2026-03-22T15:48:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Iran claims missile attacks on key Israeli military bases",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/iran-claims-missile-attacks-on-key-israeli-military-bases?traffic_source=rss",
         "description": "Iran says it launched multiple ballistic missile and drone strikes, targeting bases across Israel, UAE, and Kuwait.",
@@ -522,15 +486,6 @@
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSW1VMHJXMWgybXgzcUwxeXUtNGh1T0djZ0pkbGs1cHJOel9WUUJDeWRLRll3MjdkTm1yVTF4NUZ1a1cxWDJsMnNvSTZlb2xselRlRG5CMG45dlBYTmR0dnVDbmREZ29JZW42VUs0ZDRUSGx0aFFpcWYxSVFWN19BMXp3QnZ5djI5bVJlZHlDQ01MZDFkWGpJeUtjc2ZkVmVpazJiTy03OEk2bFViSVUtMg?oc=5",
         "description": "",
         "pubDate": "2026-03-22T14:50:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Cuba begins to restore power after third nationwide collapse in a month - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYTNWNE1Fd1ZaVFZmb1FITzdtdW1fT04ybGt6eEZtYXBucHY1blVtUzdYb0tWU19wajdKczJHc2RqZnE2NE5jVG9sZ3FwN3YtWW9YbTVHaTExQ0NrTHo0RDd6WkpHMnM0NDF5LWFoRHFwYlpWNlJwUlpRbkJrNDhKcFY3NF9yRlk?oc=5",
-        "description": "",
-        "pubDate": "2026-03-22T14:47:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -702,24 +657,6 @@
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/latin-american-presidents-criticise-us-actions?traffic_source=rss",
         "description": "Latin American leaders met at the CELAC Summit in Colombia where President Petro called for a Middle East ceasefire.",
         "pubDate": "2026-03-22T11:24:18Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Trump threatens to 'obliterate' Iran's power plants as Iran strikes 2 Israeli cities",
-        "link": "https://www.npr.org/2026/03/22/nx-s1-5756308/trump-threatens-obliterate-irans-power-plants-iran-strikes-2-israeli-cities",
-        "description": "Iran launched missiles at two southern Israeli cities that lie close to the country's main nuclear research center, while President Trump gave Iran 48 hours to reopen the Strait of Hormuz.",
-        "pubDate": "2026-03-22T11:22:57Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Iran war is creating ‘heightened risks of instability across countries in A",
-        "link": "https://www.aljazeera.com/video/quotable/2026/3/22/iran-war-is-creating-heightened-risks-of-instability-across-countries-in-a?traffic_source=rss",
-        "description": "David Owiro says that African countries are particularly vulnerable to the economic consequences of the Iran war.",
-        "pubDate": "2026-03-22T11:19:46Z",
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
