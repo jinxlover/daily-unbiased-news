@@ -1,10 +1,347 @@
 {
-  "lastUpdate": "2026-03-28T00:02:47.758997Z",
+  "lastUpdate": "2026-03-28T03:13:45.773471Z",
   "news": {
-    "Gaming": [],
-    "World": [],
-    "Politics": [],
-    "Tech": [],
+    "Gaming": [
+      {
+        "title": "SCHMUP Part 1 [Free] [Windows] [macOS]",
+        "link": "https://paulcamp1164.itch.io/schmup-part-1",
+        "description": "",
+        "pubDate": "2026-03-28T02:58:50Z",
+        "source": "paulcamp1164.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MzY0MzI5LnBuZw==/315x250%23c/qu%2Bku0.png",
+        "bias": 0
+      },
+      {
+        "title": "Anti Vaxxers [Free] [Survival] [Windows]",
+        "link": "https://ruthlessforge.itch.io/anti-vaxxers",
+        "description": "2036. The government saved everyone. You refused. Now survive.",
+        "pubDate": "2026-03-28T02:57:01Z",
+        "source": "ruthlessforge.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MzY0NDYzLnBuZw==/315x250%23c/qsXJp4.png",
+        "bias": 0
+      },
+      {
+        "title": "Pig Hunter Bear ⚒️ [Free]",
+        "link": "https://clarachang.itch.io/pighunterbear",
+        "description": "",
+        "pubDate": "2026-03-28T02:55:23Z",
+        "source": "clarachang.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MzY0MzYzLnBuZw==/315x250%23c/zSY%2Bha.png",
+        "bias": 0
+      },
+      {
+        "title": "Snow Surfer [Free] [Other]",
+        "link": "https://vaan25.itch.io/snow-surfer",
+        "description": "A 2D snowboarding game built in Unity focused on physics-based movement, rotation control, and responsive gameplay feel.",
+        "pubDate": "2026-03-28T02:38:47Z",
+        "source": "vaan25.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MzY0MjE3LnBuZw==/315x250%23c/8Usdes.png",
+        "bias": 0
+      },
+      {
+        "title": "memory-tap-king [Free] [Educational]",
+        "link": "https://rflame.itch.io/memory-tap-king",
+        "description": "#memorytapking",
+        "pubDate": "2026-03-28T02:29:32Z",
+        "source": "rflame.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MzY0MDk2LnBuZw==/315x250%23c/DioDKj.png",
+        "bias": 0
+      },
+      {
+        "title": "asset dump thing (another concept) [Free] [Survival]",
+        "link": "https://youxe.itch.io/asset-dump-thing-another-concept",
+        "description": "",
+        "pubDate": "2026-03-28T02:24:25Z",
+        "source": "youxe.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MzY0MDMyLnBuZw==/315x250%23c/5TbOS0.png",
+        "bias": 0
+      },
+      {
+        "title": "job simulater free [Free] [Role Playing] [Android]",
+        "link": "https://mrheatvr.itch.io/job-simulater-free",
+        "description": "",
+        "pubDate": "2026-03-28T02:20:55Z",
+        "source": "mrheatvr.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MzYzOTA4LnBuZw==/315x250%23c/WuccNq.png",
+        "bias": 0
+      },
+      {
+        "title": "Goldrush [Free] [Survival]",
+        "link": "https://roi-de-jupiter.itch.io/goldrush",
+        "description": "Survive the frontier.",
+        "pubDate": "2026-03-28T02:10:08Z",
+        "source": "roi-de-jupiter.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MzYzODMzLnBuZw==/315x250%23c/%2FBaghY.png",
+        "bias": 0
+      },
+      {
+        "title": "Proto1 - OneInputGameplay [Free] [Fighting] [Windows]",
+        "link": "https://bal021.itch.io/proto1-oneinputgameplay",
+        "description": "What can you do with only one button?",
+        "pubDate": "2026-03-28T02:08:59Z",
+        "source": "bal021.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MzYzODYyLnBuZw==/315x250%23c/IZipBb.png",
+        "bias": 0
+      },
+      {
+        "title": "FNF vr [Free] [Rhythm] [Android]",
+        "link": "https://mrheatvr.itch.io/fnf-vr",
+        "description": "",
+        "pubDate": "2026-03-28T02:02:33Z",
+        "source": "mrheatvr.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MzYzNzMwLnBuZw==/315x250%23c/38i0qZ.png",
+        "bias": 0
+      },
+      {
+        "title": "Space Blaster! 10 Levels! [Free] [Shooter] [Windows]",
+        "link": "https://alpacabites.itch.io/space-blaster-10-levels",
+        "description": "2D Space Shooter !",
+        "pubDate": "2026-03-28T02:01:32Z",
+        "source": "alpacabites.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MzYzNzM4LnBuZw==/315x250%23c/gTDlFl.png",
+        "bias": 0
+      },
+      {
+        "title": "Zen tagging [Free] [Linux]",
+        "link": "https://spookis21.itch.io/zen-tagging",
+        "description": "",
+        "pubDate": "2026-03-28T01:56:57Z",
+        "source": "spookis21.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MzYzNzc2LmpwZw==/315x250%23c/VC2rzX.jpg",
+        "bias": 0
+      },
+      {
+        "title": "gtag fangame [Free]",
+        "link": "https://renbronxnew.itch.io/gtag-fangame",
+        "description": "its crappy",
+        "pubDate": "2026-03-28T01:49:31Z",
+        "source": "renbronxnew.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MzYzNjE3LmpwZw==/315x250%23c/D1%2BzLq.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Chroma Orbit [Free] [Other]",
+        "link": "https://onlinespawn.itch.io/chroma-orbit",
+        "description": "An attempt to represent colors as 3D sound for blind people.",
+        "pubDate": "2026-03-28T01:44:25Z",
+        "source": "onlinespawn.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MzYzNTM3LnBuZw==/315x250%23c/%2BDMRGN.png",
+        "bias": 0
+      },
+      {
+        "title": "Apiary [Free] [Simulation]",
+        "link": "https://roi-de-jupiter.itch.io/apiary",
+        "description": "Tend the hive.",
+        "pubDate": "2026-03-28T01:42:34Z",
+        "source": "roi-de-jupiter.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MzYzNjI5LnBuZw==/315x250%23c/caFnk4.png",
+        "bias": 0
+      },
+      {
+        "title": "solace [Free] [Shooter]",
+        "link": "https://rebell-echo.itch.io/solace",
+        "description": "",
+        "pubDate": "2026-03-28T01:41:23Z",
+        "source": "rebell-echo.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MzYzNTE1LnBuZw==/315x250%23c/iNVM4F.png",
+        "bias": 0
+      },
+      {
+        "title": "Tilevania [Free] [Adventure]",
+        "link": "https://vaan25.itch.io/tilevania",
+        "description": "A 2D platformer built in Unity focusing on tilemaps, player movement, camera systems, and scene management.",
+        "pubDate": "2026-03-28T01:41:09Z",
+        "source": "vaan25.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MzYzNTYwLnBuZw==/315x250%23c/RkAX8f.png",
+        "bias": 0
+      },
+      {
+        "title": "Darkness.exe [Free] [Simulation] [Windows]",
+        "link": "https://janescoolgames.itch.io/darknessexe",
+        "description": "walk around",
+        "pubDate": "2026-03-28T01:38:28Z",
+        "source": "janescoolgames.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MzYzNDgxLnBuZw==/315x250%23c/aybHFL.png",
+        "bias": 0
+      },
+      {
+        "title": "How to Leave the Hero's Guild [Free] [Interactive Fiction] [Windows] [macOS]",
+        "link": "https://ahill-a.itch.io/heroquit",
+        "description": "Fantasy Bureaucracy Simulator",
+        "pubDate": "2026-03-28T01:35:11Z",
+        "source": "ahill-a.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MzYzNDM5LnBuZw==/315x250%23c/yWXhUK.png",
+        "bias": 0
+      },
+      {
+        "title": "Tunners realm (DEMO!!!) [Free] [Other]",
+        "link": "https://chickentender0s.itch.io/rv",
+        "description": "",
+        "pubDate": "2026-03-28T01:30:08Z",
+        "source": "chickentender0s.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MzYzNDk2LnBuZw==/315x250%23c/Nv2M05.png",
+        "bias": 0
+      },
+      {
+        "title": "Granny vr FREE [Free] [Puzzle] [Android]",
+        "link": "https://mrheatvr.itch.io/granny-vr-free",
+        "description": "game about a abusive granny",
+        "pubDate": "2026-03-28T01:28:00Z",
+        "source": "mrheatvr.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MzYzMzM3LmpwZw==/315x250%23c/rYzbeO.jpg",
+        "bias": 0
+      },
+      {
+        "title": "The Bleeding Ink [Free] [Adventure] [Windows]",
+        "link": "https://marvininfante.itch.io/the-bleeding-ink",
+        "description": "In this city, secrets aren't told. They are bled onto the floor.",
+        "pubDate": "2026-03-28T01:00:35Z",
+        "source": "marvininfante.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2MzYzMTA3LnBuZw==/315x250%23c/bmcYPT.png",
+        "bias": 0
+      }
+    ],
+    "World": [
+      {
+        "title": "Intense bombing in Tehran, Isfahan",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/intense-bombing-in-tehran-isfahan?traffic_source=rss",
+        "description": "Black smoke is rising over Tehran and Isfahan after early morning US-Israeli airstrikes on the cities.",
+        "pubDate": "2026-03-28T02:27:33Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "US House to vote on DHS funding as travel chaos deepens",
+        "link": "https://www.bbc.com/news/articles/c33l4j03kr3o?at_medium=RSS&at_campaign=rss",
+        "description": "The planned vote is unlikely to end the funding impasse as long security lines at US airports continue.",
+        "pubDate": "2026-03-28T01:49:48Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1ab/live/5cf32210-29c5-11f1-952c-77491ff53aff.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Israel hits Iranian nuke facilities and Tehran strikes base in Saudi Arabia, wounding US troops - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaUZNZWJHMnBzZmtITzU2RFRySm9rbXV1ZDBac2lUbGRLMUtHeXNJVkVtZDZkSkp5aWQzaUhLcjlEYWpGYklSUzBoV0pCM2RXZTNSUlFkdHhTUi0yUVlueDFjcGQ3V0xPSTdjRG5rVHlxcFdlbEdzM0tiQTBqYU1LUDBZNHVNNWZISlN5UU9tSmR6XzM4bHBTMHVlU2ZNWGNXaktRSw?oc=5",
+        "description": "",
+        "pubDate": "2026-03-28T01:48:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Tiger Woods arrested for suspected DUI after rolling his car",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/tiger-woods-arrested-for-suspected-dui-after-rolling-his?traffic_source=rss",
+        "description": "Police are charging professional golfer Tiger Woods with driving under the influence for a second time.",
+        "pubDate": "2026-03-28T01:27:48Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "3 killed in tour company helicopter crash off the coast of the Hawaiian island of Kauai - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb3psMkZmWmc4OEFWMUE2bG5DcmZZUzR3V3d5dzRzMWtDR2xxSlZMaEpCYlBjQXFDTHNrOExqRnE0b0lfSXk1QkN5VXExTG9DWVJWNXJQX1gwaWpvbjZuWVFGYWV4aHZTX00zc2dKckQyd3JLNzV6aXI3S2lkZTViZ3BOVFlaY0luM09fUWQtSUZhUXc?oc=5",
+        "description": "",
+        "pubDate": "2026-03-28T01:13:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Tiger Woods charged with driving under influence after crash",
+        "link": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss",
+        "description": "Tiger Woods is facing charges of driving under the influence after rolling his car in a crash in Florida.",
+        "pubDate": "2026-03-28T01:00:35Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3ec/live/b9891b80-2a40-11f1-934f-036468834728.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Eighth-grader's perfect women's NCAA bracket lasts until Sweet 16 before finally missing a game - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeXlxeGUtdU5sVlZIanY0YnVLTnNHSDRMWlBvNjhyLVZIc3lVZm1hdU1XZVBYSGtKcXdYckMweS1sRU5qQVkxYkdoSEV2b1FwTUFpcEZrdHZoUUtUY24zUHBlWDdXR2VLVEh4T1B3cHJTNHhOSmRRbGV0dERBdUYxRXJHdk54ZzBIWW5YQ1ZJTWhZQ0ltbmc5SEdhRQ?oc=5",
+        "description": "",
+        "pubDate": "2026-03-28T00:57:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "New York City and Dr. Phil’s son resolve dispute over NYPD reality show - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdEdZOTJXM2pqQlNvaF9xQWdtQkRfcExJYnBaa0E1MjJQbUVZUG1oUHJ4UElHRGRUUVZuSkdZMXU0M1JVUHlQR0l4YXRKYVNBZzZYaGNtUEdTQmVDaG1LaHB5UHJ2V1NEWmFUVVJsT3UzWUFMSVVlZUg1UGFsSlZ3RUhLb2xQUXktcmxIbmtFZGxQdUduSnhpTUpTMA?oc=5",
+        "description": "",
+        "pubDate": "2026-03-28T00:44:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Notre Dame's Hannah Hidalgo breaks NCAA single-season steals record in March Madness game - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTHZyd0xMNmtEelZPekFyMGNrU2NvY1NKMHhFdHoxSVd2aGl3NFpkdUF3UnlaVGpleEEzV1VLMWNYeTQxR0xHUVFmVjBCQWluOUN4NXN2SmoyaE1Tc2gwWUcxNVRRMXA1YUhkYTMySmo5WWg4WElHT01OTEJSbnZZSDgtTWZLWlJQYnRvemtyRHdVNXIwMGZN?oc=5",
+        "description": "",
+        "pubDate": "2026-03-28T00:16:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Trump says US-Israeli war on Iran creating a new Middle East",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/trump-says-us-israeli-war-on-iran-creating-a-new-middle-east?traffic_source=rss",
+        "description": "Donald Trump told a Saudi investment conference that the Middle East will soon be free from Iranian “nuclear blackmail.”",
+        "pubDate": "2026-03-28T00:05:46Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Iran war live: Trump again slams NATO’s lack of support for war on Tehran",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/3/28/iran-war-live-trump-again-slams-natos-lack-of-support-for-war-on-tehran?traffic_source=rss",
+        "description": "Iranian Red Crescent says more than 92,600 civilian units were damaged across the country in US-Israeli attacks.",
+        "pubDate": "2026-03-28T00:00:48Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      }
+    ],
+    "Politics": [
+      {
+        "title": "2 students dead and at least 7 others injured in Tennessee school bus crash - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU2tjTEJkMy1SbzNWSmRONE9OVDhHbDZXSlVMT2ZncW5oRnNKdGUtZEZDcVRVWHVGNGZLbzB2R3JYR2Q4Y3U2OWgyU3BreDQxN0tfenBvVmVnSFdmdzVGYzRnOE4zOU1KQ0RuSWVZTTc2N1VCM01zRXF5bFZVaVNJSklwakxidFF6WWpQaVhSSVZicDEzbUF4Yy1aU281dWF5d2c?oc=5",
+        "description": "",
+        "pubDate": "2026-03-28T02:26:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Photos shows the crawfish processing in Louisiana, an industry hit by a shortage of foreign workers - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVVdkSk41UkNpSHp5ak83Xy1EZUhaRENkVENOZUlvTDRraEV3aFZKbmtlSGp6VktFQ1pIYlBwblIxQ2NrNkM5U3hqWUhaNjZDYWxScTFRM2RMU19LMjZ0N1lBcnJwR2VNOWNFUmFaRGVpaUYxdm9JbV9mSEQ5dWsyMkNUQWRURURpWkJxS2tDWUtEdXNiSzJndW5lUmg0YzJoVm9F?oc=5",
+        "description": "",
+        "pubDate": "2026-03-28T02:20:02Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Education Department directs student loan borrowers in SAVE plan to prepare for repayment - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcUJQQzdIZ01PMWpzWEU2ektzeXJjYjhKcGtUQlpPWUtwakpLRXQzVENfd0g5QjNkeF9DR0FCTTAwVG0zMzlKS1hqRDFIQzNHM1hGd2xVZ2xMLWFQRndOVnd2bkg5NUJWdDZXR0RqOHM0eXhaaF9qTHJ2ck5jZFNNVURHXy1QclJwVmNlbGExSUxNeFluQmNHT0RtOEk5RlhLYmRTUks4RUE3dDQ?oc=5",
+        "description": "",
+        "pubDate": "2026-03-28T02:08:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ],
+    "Tech": [
+      {
+        "title": "Tech Now",
+        "link": "https://www.bbc.co.uk/iplayer/episode/m002tkdv?at_medium=RSS&at_campaign=rss",
+        "description": "How research linking climate change and extreme weather events is being used in lawsuits.",
+        "pubDate": "2026-03-28T01:00:00Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0n987mt.jpg",
+        "bias": -1
+      }
+    ],
     "Science": [],
     "Business": [],
     "Culture": []
