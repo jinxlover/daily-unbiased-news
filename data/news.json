@@ -1,260 +1,106 @@
 {
-  "lastUpdate": "2026-03-30T17:32:55.713186Z",
+  "lastUpdate": "2026-03-30T18:36:12.954562Z",
   "news": {
-    "Gaming": [
-      {
-        "title": "FlappyBird [Free]",
-        "link": "https://monkeytree-ron.itch.io/flappybird-ron",
-        "description": "",
-        "pubDate": "2026-03-30T17:17:48Z",
-        "source": "monkeytree-ron.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDE1NTU1LmpwZw==/315x250%23c/N89Zhb.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Hadron [Free] [Interactive Fiction]",
-        "link": "https://vidaliar.itch.io/hadron",
-        "description": "",
-        "pubDate": "2026-03-30T17:11:45Z",
-        "source": "vidaliar.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDE1NDM2LnBuZw==/315x250%23c/8W%2BKWv.png",
-        "bias": 0
-      },
-      {
-        "title": "P3anuts Platformer [Free] [Platformer] [Windows]",
-        "link": "https://awesome-dino15.itch.io/p3anuts-platformer",
-        "description": "w speed",
-        "pubDate": "2026-03-30T17:08:12Z",
-        "source": "awesome-dino15.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDE1Mzc4LnBuZw==/315x250%23c/UO9%2FvB.png",
-        "bias": 0
-      },
-      {
-        "title": "Wild Behaviour Tree [Free]",
-        "link": "https://mozharova-yuliia.itch.io/wild-behaviour-tree",
-        "description": "",
-        "pubDate": "2026-03-30T17:06:16Z",
-        "source": "mozharova-yuliia.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDE1MDIyLnBuZw==/315x250%23c/zk6JPm.png",
-        "bias": 0
-      },
-      {
-        "title": "Alien Terminator [Free] [Platformer]",
-        "link": "https://adrianbecru.itch.io/alien-terminator",
-        "description": "Small demo I made as a grade 10 for a self directed project.",
-        "pubDate": "2026-03-30T17:05:44Z",
-        "source": "adrianbecru.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDE1NjM4LnBuZw==/315x250%23c/mW1LXH.png",
-        "bias": 0
-      },
-      {
-        "title": "Operation Banana Breakout [Free] [Windows]",
-        "link": "https://shab4.itch.io/operation-banana-breakout",
-        "description": "",
-        "pubDate": "2026-03-30T17:02:34Z",
-        "source": "shab4.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDE1NDQwLnBuZw==/315x250%23c/%2BnUj%2Fg.png",
-        "bias": 0
-      },
-      {
-        "title": "La Vengeance de Perséphone [Free] [Puzzle]",
-        "link": "https://poire-a-doxe.itch.io/la-vengeance-de-persphone",
-        "description": "parce que c'est pluton mec",
-        "pubDate": "2026-03-30T16:55:24Z",
-        "source": "poire-a-doxe.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDE1NDc4LmpwZw==/315x250%23c/gfaB1i.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Rotting In Thy Mind - Legacy [Free] [Survival] [Windows]",
-        "link": "https://radical-rendy.itch.io/rotting-in-thy-mind-le",
-        "description": "Experience the hatred of a long lost friend. It is all inside your head.",
-        "pubDate": "2026-03-30T16:49:26Z",
-        "source": "radical-rendy.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDE0ODk2LnBuZw==/315x250%23c/jfe%2FQE.png",
-        "bias": 0
-      },
-      {
-        "title": "OYAN [Free] [Visual Novel] [Windows] [macOS] [Linux]",
-        "link": "https://souffle1.itch.io/oyan",
-        "description": "Псиx. хоррор по мотивам Чингиза Айтматова.",
-        "pubDate": "2026-03-30T16:41:18Z",
-        "source": "souffle1.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDE0OTQxLnBuZw==/315x250%23c/plaw3g.png",
-        "bias": 0
-      },
-      {
-        "title": "STACK ATTACK [Free] [Puzzle] [Windows] [macOS]",
-        "link": "https://artikldraws.itch.io/stack-attack",
-        "description": "",
-        "pubDate": "2026-03-30T16:38:54Z",
-        "source": "artikldraws.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDE1NDg5LnBuZw==/315x250%23c/P5yuT%2F.png",
-        "bias": 0
-      },
-      {
-        "title": "The CentiSplats [Free] [Platformer] [Windows]",
-        "link": "https://strawberrychar.itch.io/the-centisplats",
-        "description": "",
-        "pubDate": "2026-03-30T16:38:54Z",
-        "source": "strawberrychar.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDE0MzAxLnBuZw==/315x250%23c/846OFJ.png",
-        "bias": 0
-      },
-      {
-        "title": "The Purge: Night Shift [Free] [Action]",
-        "link": "https://derikipereira.itch.io/the-purge-night-shift",
-        "description": "Auto-shooter urbano — aguente até o amanhecer.",
-        "pubDate": "2026-03-30T16:35:27Z",
-        "source": "derikipereira.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDE1NTQ3LnBuZw==/315x250%23c/C8jjQA.png",
-        "bias": 0
-      },
-      {
-        "title": "Monktivity Reborn V2 [Free] [Adventure]",
-        "link": "https://st4r-bl4ze.itch.io/monktivity-reborn-v2",
-        "description": "",
-        "pubDate": "2026-03-30T16:33:53Z",
-        "source": "st4r-bl4ze.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDE0NTcwLnBuZw==/315x250%23c/V5XrxV.png",
-        "bias": 0
-      },
-      {
-        "title": "El lince ibérico: El fantasma del bosque mediterráneo [Free] [Educational] [Windows]",
-        "link": "https://pacosaurus21.itch.io/el-lince-ibrico-el-fantasma-del-bosque-mediterrneo",
-        "description": "",
-        "pubDate": "2026-03-30T16:33:21Z",
-        "source": "pacosaurus21.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDE0Njg2LnBuZw==/315x250%23c/vrwiPK.png",
-        "bias": 0
-      },
-      {
-        "title": "Knights vs Archers [Free] [Simulation]",
-        "link": "https://kitae.itch.io/knights-vs-archers",
-        "description": "Simulates a fight between thousands of units",
-        "pubDate": "2026-03-30T16:29:19Z",
-        "source": "kitae.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDE0NjUzLmpwZWc=/315x250%23c/Qu9qWd.jpeg",
-        "bias": 0
-      },
-      {
-        "title": "The Blitz Blade Battle Maiden 雷斬ノ刀使 [Free] [Action] [Windows]",
-        "link": "https://nzm6230.itch.io/the-blitz-blade-battle-maiden",
-        "description": "",
-        "pubDate": "2026-03-30T16:29:15Z",
-        "source": "nzm6230.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDE0ODM3LnBuZw==/315x250%23c/ejPs%2Fs.png",
-        "bias": 0
-      },
-      {
-        "title": "Deepest Dark [Free] [Survival]",
-        "link": "https://theupsidedownheart.itch.io/deepest-dark",
-        "description": "A short horror game made in 5 days. Explore the cursed mines while escaping prosecution.",
-        "pubDate": "2026-03-30T16:23:39Z",
-        "source": "theupsidedownheart.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDE0ODEzLnBuZw==/315x250%23c/uTl2vr.png",
-        "bias": 0
-      },
-      {
-        "title": "Deep In The Darkness [Free] [Educational] [Windows]",
-        "link": "https://pacosaurus21.itch.io/deep-in-the-darkness",
-        "description": "",
-        "pubDate": "2026-03-30T16:23:16Z",
-        "source": "pacosaurus21.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDE0NTIwLnBuZw==/315x250%23c/Zs13aT.png",
-        "bias": 0
-      },
-      {
-        "title": "Planet Destruction [PROTOTYPE] [Free]",
-        "link": "https://denshust.itch.io/planet-destruction",
-        "description": "",
-        "pubDate": "2026-03-30T16:13:12Z",
-        "source": "denshust.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDE0NzAxLnBuZw==/315x250%23c/jxauX1.png",
-        "bias": 0
-      },
-      {
-        "title": "\"Single vampires in your area\" (Русский язык/Russian language) [Free] [Visual Novel]",
-        "link": "https://cyberqueen-xd.itch.io/vampires-in-your-area-russian",
-        "description": "Single vampires in your area\" (Russian language)",
-        "pubDate": "2026-03-30T16:10:17Z",
-        "source": "cyberqueen-xd.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDE0NjQzLnBuZw==/315x250%23c/If%2F9Og.png",
-        "bias": 0
-      },
-      {
-        "title": "The Last Technology [Free] [Adventure] [Windows]",
-        "link": "https://giorgioblasi.itch.io/the-last-technology",
-        "description": "Un'intelligenza artificiale ha preso il controllo del mondo. Disattivala per far tornare tutto alla normalità.",
-        "pubDate": "2026-03-30T16:02:41Z",
-        "source": "giorgioblasi.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDEzNzYyLmpwZWc=/315x250%23c/iwPTDk.jpeg",
-        "bias": 0
-      },
-      {
-        "title": "Rageometry [Free] [Platformer] [Windows] [Linux]",
-        "link": "https://brainblast-studios.itch.io/rageometry",
-        "description": "",
-        "pubDate": "2026-03-30T15:20:02Z",
-        "source": "brainblast-studios.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDE0MzQwLnBuZw==/315x250%23c/b1UC6l.png",
-        "bias": 0
-      },
-      {
-        "title": "Roast 'Em All [Free] [Action] [Windows]",
-        "link": "https://challenging-games.itch.io/roast-em-all",
-        "description": "",
-        "pubDate": "2026-03-30T15:04:12Z",
-        "source": "challenging-games.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDE1MDY1LnBuZw==/315x250%23c/yEaKSe.png",
-        "bias": 0
-      },
-      {
-        "title": "AI kitchen [Free] [Educational]",
-        "link": "https://eulinden.itch.io/aikitchen",
-        "description": "Learn AI at the last minute",
-        "pubDate": "2026-03-30T14:48:33Z",
-        "source": "eulinden.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDEyOTU0LnBuZw==/315x250%23c/65OBib.png",
-        "bias": 0
-      },
-      {
-        "title": "Chaos Dance [Free] [Rhythm] [Windows]",
-        "link": "https://saldaw.itch.io/chaos-dance",
-        "description": "Даже в хаосе есть ритм. Найди его — и вырвись на свободу!",
-        "pubDate": "2026-03-30T14:45:49Z",
-        "source": "saldaw.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDEzNjU5LnBuZw==/315x250%23c/dkE4QB.png",
-        "bias": 0
-      },
-      {
-        "title": "CHRONO ROULETTE [Free] [Adventure]",
-        "link": "https://puditvacharakittanond.itch.io/shamble-journey",
-        "description": "",
-        "pubDate": "2026-03-30T08:46:19Z",
-        "source": "puditvacharakittanond.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDA4NDEzLnBuZw==/315x250%23c/uOaHOt.png",
-        "bias": 0
-      }
-    ],
+    "Gaming": [],
     "World": [
       {
-        "title": "Trump threatens to destroy Iran’s civilian infrastructure if a deal is not reached ‘shortly’ - AP News",
+        "title": "Barbie Dream Fest in Florida to issue refunds after fan complaints",
+        "link": "https://www.bbc.com/news/articles/cp3l1422d3qo?at_medium=RSS&at_campaign=rss",
+        "description": "Fans, who paid up to $450 (£340), complained of a grey convention centre backdrop and a \"swag bag\" that included only a plastic pouch with a Barbie hand sanitiser.",
+        "pubDate": "2026-03-30T18:13:45Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bbe/live/2cfde220-2c5e-11f1-862e-73ba828c2693.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Two more UN peacekeepers killed in southern Lebanon: UNIFIL",
+        "link": "https://www.aljazeera.com/news/2026/3/30/two-more-un-peacekeepers-killed-in-southern-lebanon-unifil?traffic_source=rss",
+        "description": "At least three UN peacekeepers killed this week as violence surges amid Israel's expanding invasion of southern Lebanon.",
+        "pubDate": "2026-03-30T18:11:15Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Most Syrian refugees in Germany expected to return home in three years, Merz says",
+        "link": "https://www.bbc.com/news/articles/cy41vqx4pdzo?at_medium=RSS&at_campaign=rss",
+        "description": "Merz’s government has taken a tougher line on refugees and migrants, amid surging support for the anti-immigration AfD party.",
+        "pubDate": "2026-03-30T18:08:12Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6330/live/571088e0-2c60-11f1-88c4-254a3d5fc979.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Shock, sadness and relief in town at centre of Australia's seven-month manhunt for Dezi Freeman",
+        "link": "https://www.bbc.com/news/articles/cq59wj31vl4o?at_medium=RSS&at_campaign=rss",
+        "description": "The Australian town has been in the spotlight since Dezi Freeman shot dead two police officers last year.",
+        "pubDate": "2026-03-30T18:01:03Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1ed/live/a1fee4e0-2c48-11f1-b979-37139b7cb8c6.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Trump again threatens widespread destruction in Iran if a deal is not reached ‘shortly’ - AP News",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQODlQQTN0QkFJamxJVnBkeHFGSWhHWk1xMXl6Nkhfa2tqazRvUjNCcXBWWVBZVnJfckRHZ01idUpFS1RHYUlfNWRWaldScUtjWnRjbVhkTjNkWEwtWFhGV0w2ZDNJbFFjVzIwYnNPNWNEOFlMeTZrSXRMc19EcDNHV3pLcElSVlgxOHpGcEJLdElCdC1MNHViX1RFQ2dKMGtwZWNwXw?oc=5",
         "description": "",
-        "pubDate": "2026-03-30T17:13:00Z",
+        "pubDate": "2026-03-30T17:59:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "US stocks edge higher in shaky trading as oil prices keep climbing - AP News",
+        "title": "What is the ‘Greater Israel’ project?",
+        "link": "https://www.aljazeera.com/video/the-take-2/2026/3/30/aje-onl-tt_isr_greaterisrael_av_v2-300326?traffic_source=rss",
+        "description": "What was once a fringe idea is now voiced more openly and seen on the ground. What does a Greater Israel really mean?",
+        "pubDate": "2026-03-30T17:55:31Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Zelensky says allies asked him to scale back attacks on Russian energy",
+        "link": "https://www.bbc.com/news/articles/c0e7lrxrelwo?at_medium=RSS&at_campaign=rss",
+        "description": "Ukraine's president says partners asked if the attacks could be \"reduced\" as prices soar due to the Iran war.",
+        "pubDate": "2026-03-30T17:53:51Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f026/live/0d729d50-2c5a-11f1-862e-73ba828c2693.jpg",
+        "bias": 0
+      },
+      {
+        "title": "US stocks waver in shaky trading as oil prices keep climbing - AP News",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdjlXaktoUHhvcHZmaGh0ZFVnRGU0SE9qTG9ONnVscDRRczRXTGFOazJfaGQyOF9XVzVRRzg0eXBxWWhhaWdlRGpjVmpGZTJVak1aSWJxN2ZVRFhpRElTYWh6Q0dBRm9Rdy1zNm93bkRzTUtSRmhGT2tqRzdnRTAzLUEybkV4ckxrY1FFUWpGUzdqbnFrekU4?oc=5",
         "description": "",
-        "pubDate": "2026-03-30T17:02:00Z",
+        "pubDate": "2026-03-30T17:49:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "In their words: What judges have said about birthright citizenship - AP News",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQamFmV0tUU2p0eGRObzdRNlc3VVNjRXBJdlFwRERsbjRackRHbkIxbFRCanlyMzBjYUhHam12VWplajRLMGxfOVF4MEo2bEZQWnUtMlZsTGU2VjVoQ2ZuTFotSnNVUDY0aTRUeHBCS3EySjlmVUJmWmpSanFiNTRlNXduSDdiWFIyVU1Zd2g5R3pDbTdwMC1rMlB2ZWlsVE9odnBlRE5pc1NLQTJEdnB4WFA1Ym1IU1VQNWVxN1B3?oc=5",
+        "description": "",
+        "pubDate": "2026-03-30T17:34:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Air Canada CEO will retire this year after his English-only crash message was criticized - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYll5THpBTWxTUVh2ZWVYSFZRZUVvSW5oR29EYmFKYzVybk91TTVLZ3pLOVVRbFo1SDM0NlFhRXEtc0FrX0tBalk0MERLck5WUlNBSHZrTEhKTFQyZHRfVHRjOTN5X2lVdEZDT3o4ZVVwWVVkQjFGWHFjWGp4anhETFZ5LXcyZUs4Q014b05MQlZjUHpCYXExVGNYeXNJaF9TQ0pKMA?oc=5",
+        "description": "",
+        "pubDate": "2026-03-30T17:34:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "ICE announces death of another Mexican detainee in US immigration custody",
+        "link": "https://www.aljazeera.com/news/2026/3/30/ice-announces-death-of-another-mexican-detainee-in-us-immigration-custody?traffic_source=rss",
+        "description": "Mexico's President Claudia Sheinbaum says her country will take steps to protest death of another Mexican citizen in US.",
+        "pubDate": "2026-03-30T17:20:51Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "G7 ready to take ‘necessary measures’ to ensure energy market stability",
@@ -284,6 +130,15 @@
         "bias": 0
       },
       {
+        "title": "France suspects an Iran link after foiling bomb attack outside Bank of America - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQclVjRFdBR1VGc013UkNhb0lFV3djcmRQTWNrU3ZSbTgzVXJycTVoaDVITVRpY0NDTktqYld2eEpwRjlwdExxR3JoZXkwbkdKdFJhbVZmUzRsajNPYUNURDdReDRDUjNpbm1ObXcteURuVElCMmZIcklnQ2F1OWwxQzJVWFRIUVBCQWVtX1prd3pjSEMxczBHTkNPNnc0S0JISUhpdF9FWQ?oc=5",
+        "description": "",
+        "pubDate": "2026-03-30T16:43:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Nigerian president's rivals get major boost as political heavyweight joins fold",
         "link": "https://www.bbc.com/news/articles/c2k3vzjp1ylo?at_medium=RSS&at_campaign=rss",
         "description": "Rabiu Kwankwaso joins the ADC, a coalition poised to take on President Tinubu in the 2027 elections.",
@@ -302,6 +157,15 @@
         "bias": -1
       },
       {
+        "title": "New York Times accuses Pentagon of flouting judge’s order blocking its press access policy - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeFBLTmFDRDJXTS1EN0NOUFRQV3ZXODZjSExkZEhhTUZMQzQ2cmo5Y040MWhXNkVDdGRuWFdZcDdYajMzVHhvLVlYM0dndTZiM0F3TjV3X3MydklJSFQ1WXJrWkpTZ19VTG93VHU2NFRRcTZiQUFKRWlLUmxIcm9PWnRXaWFQbDZabnJsZG5DUkZ3aXdOdVNpYTRYblVWZlNMM3gw?oc=5",
+        "description": "",
+        "pubDate": "2026-03-30T16:30:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Fire contained after missile attack on oil refinery in Israel’s Haifa",
         "link": "https://www.aljazeera.com/news/2026/3/30/fire-contained-after-missile-attack-on-oil-refinery-in-israels-haifa?traffic_source=rss",
         "description": "Attack marks second time Oil Refineries facility in northern Israel targeted during US-Israeli war on Iran.",
@@ -315,15 +179,6 @@
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNemxfbG5GNlVQeWVKQ25ETjA0b3dPYmFYNi1RdnBiLWNQQjRybmoxTFd6SWJwZ24tYng0VTNHS2ljdG9IdXJBNlNveXF2ck9ydzVwRWZMMWxRZGpSUzdlYjM2VURrT2FudDY2ODdGWVFMNVNDcGlSb2JmRHBpREctZ1N4c2VqNllZSDF5cHJn?oc=5",
         "description": "",
         "pubDate": "2026-03-30T16:25:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "In their words: What judges have said about birthright citizenship - AP News",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQamFmV0tUU2p0eGRObzdRNlc3VVNjRXBJdlFwRERsbjRackRHbkIxbFRCanlyMzBjYUhHam12VWplajRLMGxfOVF4MEo2bEZQWnUtMlZsTGU2VjVoQ2ZuTFotSnNVUDY0aTRUeHBCS3EySjlmVUJmWmpSanFiNTRlNXduSDdiWFIyVU1Zd2g5R3pDbTdwMC1rMlB2ZWlsVE9odnBlRE5pc1NLQTJEdnB4WFA1Ym1IU1VQNWVxN1B3?oc=5",
-        "description": "",
-        "pubDate": "2026-03-30T16:22:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -390,6 +245,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Gunmen kill more than 70 in South Sudan after a dispute at a gold mine - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcFZaR1VJRVY1WE55Yks2TkE0clZ4bkc1R09yamRjTWpPX1ZvWUpBR0dWVGluak80Nk52Ul9UUncyaklzWE9EcXY0eWFCMXRYaUMyNk9SS1VnWjJMU2J0UGJpUDlfbjF3d3FvbzZKZl9iUTFCSnRUNS1vZUt4MVV0RE1qNWdUNjVteWVTZkZyWXJRbUtGQUphU2RKdjh0dFFqSGd6NEtuVQ?oc=5",
+        "description": "",
+        "pubDate": "2026-03-30T15:54:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Trump threatens to ‘blow up’ desalination plants in Iran if no deal reached",
@@ -509,7 +373,7 @@
         "bias": 0
       },
       {
-        "title": "Rubio says Strait of Hormuz to reopen ‘one way or another’",
+        "title": "Rubio says Strait of Hormuz to reopen ‘one way or another’ amid Iran war",
         "link": "https://www.aljazeera.com/news/2026/3/30/rubio-tells-al-jazeera-strait-of-hormuz-will-reopen-one-way-or-another?traffic_source=rss",
         "description": "In an exclusive interview, top US diplomat says Trump seeks diplomacy and demands Iran end nuclear, missile programme.",
         "pubDate": "2026-03-30T14:21:00Z",
@@ -527,10 +391,10 @@
         "bias": -1
       },
       {
-        "title": "Air Canada CEO will retire this year after his English-only crash message was criticized - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYll5THpBTWxTUVh2ZWVYSFZRZUVvSW5oR29EYmFKYzVybk91TTVLZ3pLOVVRbFo1SDM0NlFhRXEtc0FrX0tBalk0MERLck5WUlNBSHZrTEhKTFQyZHRfVHRjOTN5X2lVdEZDT3o4ZVVwWVVkQjFGWHFjWGp4anhETFZ5LXcyZUs4Q014b05MQlZjUHpCYXExVGNYeXNJaF9TQ0pKMA?oc=5",
+        "title": "Tapping, twirling and \"T\" signs: Sports replays have a language all their own - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdnZQM3VMM3BlazEweTdrT3NUYU42US1Lck5xRHJ0Q0hkSDVRY19Kanl0TlQ1ZTFiRnFqcEpkMEpXWFk2eFRHT3JTQjVzWUNad2JEWE96TDRMMmZrUElDUlcwSWVRU29SYzBsWjN3ZW1kM2JJV1laRnREdTdXMm1oTGFMaE1HbTdN?oc=5",
         "description": "",
-        "pubDate": "2026-03-30T14:05:00Z",
+        "pubDate": "2026-03-30T14:18:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -542,15 +406,6 @@
         "pubDate": "2026-03-30T13:55:01Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5da/live/17b9c0c0-2c3e-11f1-9d83-af3423d2a1a1.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Photos show Lebanon's Catholics marking Palm Sunday as the shadow of war weighs heavily - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMERNMkNnMlBNWi1aYTVmSnZqWDlfM2U5UDUtVklvSWIzRHBSR3F0TVVpb2ZyVmJrNEREczZvbTRUa3lqUzhWZDBuOGFjazA5Rk9ZR2U3bmd0cHQtbUp3Q0N6bG12Tm43a3ZJdWFPZFdkekNxNk9WZDNOWEM3SkpFdG9jaV9fQ3NPZTRQeTMtYXh1Sk8yR2l0XzhyT3RIVWs1WUR4ODhYWC1PV01od0FtNm1LN0I?oc=5",
-        "description": "",
-        "pubDate": "2026-03-30T13:52:30Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -597,96 +452,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Spain closes airspace to US planes involved in war on Iran",
-        "link": "https://www.aljazeera.com/news/2026/3/30/spain-closes-airspace-to-us-planes-involved-in-war-on-iran?traffic_source=rss",
-        "description": "The announcement comes after Madrid refused to let Washington use jointly operated military bases for the war on Iran.",
-        "pubDate": "2026-03-30T13:23:35Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "More women are having babies later in life. How to improve your chance of a healthy pregnancy - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeW1oRmJLS005UEpRQkRMZHZkOEJsWGoySm9OY0hoMkphYUQ1WW9qemlzYVdfYWlUczRTY0VLQVdMNE1YblFSZl9aYVFoWjQ4X2ZVWWdtY0paaVhvNmFxXzQ2a1RjYm5Xb1BOeXdEamFfNEFBQjRuN3lNZTlrT0l2R0pkdGo0MHNVNUlrcWp4Nm1uYjFxaUFXeXpiME5qT2hxekJMQS1n?oc=5",
-        "description": "",
-        "pubDate": "2026-03-30T13:16:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "France probes possible Iran link after bomb attack foiled outside Bank of America - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQclVjRFdBR1VGc013UkNhb0lFV3djcmRQTWNrU3ZSbTgzVXJycTVoaDVITVRpY0NDTktqYld2eEpwRjlwdExxR3JoZXkwbkdKdFJhbVZmUzRsajNPYUNURDdReDRDUjNpbm1ObXcteURuVElCMmZIcklnQ2F1OWwxQzJVWFRIUVBCQWVtX1prd3pjSEMxczBHTkNPNnc0S0JISUhpdF9FWQ?oc=5",
-        "description": "",
-        "pubDate": "2026-03-30T13:10:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Kris Jenner's image spreads in Chinese social media good luck trend",
-        "link": "https://www.bbc.com/news/articles/c0rx57zgz52o?at_medium=RSS&at_campaign=rss",
-        "description": "Hundreds of thousands of posts have been shared in the past three days as users hope for prosperity",
-        "pubDate": "2026-03-30T12:59:23Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86a5/live/faaf16e0-2c3a-11f1-9d83-af3423d2a1a1.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Why have the US and Israel bombed more than 75 Iranian police facilities?",
-        "link": "https://www.aljazeera.com/news/2026/3/30/why-have-the-us-and-israel-bombed-more-than-75-iranian-police-facilities?traffic_source=rss",
-        "description": "An Al Jazeera investigation finds internal security facilities in populated areas have been heavily targeted.",
-        "pubDate": "2026-03-30T12:54:15Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Palestinian recalls brother’s arrest at the Rafah crossing",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/palestinian-recalls-brothers-arrest-at-the-rafah-crossing?traffic_source=rss",
-        "description": "A Palestinian man’s long-awaited return to Gaza ended in anguish after Israel detained his brother at the Rafah crossing",
-        "pubDate": "2026-03-30T12:47:53Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Gunmen kill more than 70 in South Sudan after a dispute at a gold mine - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcFZaR1VJRVY1WE55Yks2TkE0clZ4bkc1R09yamRjTWpPX1ZvWUpBR0dWVGluak80Nk52Ul9UUncyaklzWE9EcXY0eWFCMXRYaUMyNk9SS1VnWjJMU2J0UGJpUDlfbjF3d3FvbzZKZl9iUTFCSnRUNS1vZUt4MVV0RE1qNWdUNjVteWVTZkZyWXJRbUtGQUphU2RKdjh0dFFqSGd6NEtuVQ?oc=5",
-        "description": "",
-        "pubDate": "2026-03-30T12:45:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Iran says its expelled ambassador won’t leave Lebanon as political tensions soar - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQenZ3QnJLYXBsNjlXQ0RTekU4T2NMcGJkQi12SFlLU1JCR2JnUmIzMXpLN0hNc1BoOW1KRE1nVzFTRmdjX1hjM3QyTE5zbTdyWTVUTENsMlBFbVFOSWlObkpKYkhsMFN4Zy1Zdlkyd0paOHRHZXZRc1ZUVVFjb3loMl9jMjNUUXprRndZUFVTLTRXNkRBMFp2RQ?oc=5",
-        "description": "",
-        "pubDate": "2026-03-30T12:45:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Homes damaged as Iranian missiles trigger sirens across northern Israel",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/homes-damaged-as-iranian-missiles-trigger-sirens-across-northern-israel?traffic_source=rss",
-        "description": "Missile debris from Iranian launches struck parts of central and northern Israel, damaging multiple areas.",
-        "pubDate": "2026-03-30T12:38:42Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Iran’s Foreign Ministry denies claims of US-Iran negotiations",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/irans-foreign-ministry-denies-claims-of-us-iran-negotiations?traffic_source=rss",
-        "description": "Iran’s foreign ministry denied claims of negotiations with the US.",
-        "pubDate": "2026-03-30T12:38:37Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
@@ -745,6 +510,15 @@
         "bias": -1
       },
       {
+        "title": "Photos show Lebanon's Catholics marking Palm Sunday as the shadow of war weighs heavily - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMERNMkNnMlBNWi1aYTVmSnZqWDlfM2U5UDUtVklvSWIzRHBSR3F0TVVpb2ZyVmJrNEREczZvbTRUa3lqUzhWZDBuOGFjazA5Rk9ZR2U3bmd0cHQtbUp3Q0N6bG12Tm43a3ZJdWFPZFdkekNxNk9WZDNOWEM3SkpFdG9jaV9fQ3NPZTRQeTMtYXh1Sk8yR2l0XzhyT3RIVWs1WUR4ODhYWC1PV01od0FtNm1LN0I?oc=5",
+        "description": "",
+        "pubDate": "2026-03-30T13:52:30Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Government must do more to help detained Brits in UAE, advocacy group says",
         "link": "https://www.bbc.com/news/articles/cevkd2jzpxyo?at_medium=RSS&at_campaign=rss",
         "description": "The UK Foreign Office says it is giving consular assistance to \"a small number of British nationals\" that have been detained there after allegedly taking pictures of Iranian attacks.",
@@ -763,12 +537,12 @@
         "bias": 0
       },
       {
-        "title": "Gunmen kill at least 20 in nighttime attack in Nigeria - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYXByS2gxTFdzbTcyMDdjMlFCdU5lbW1vT0pheWdqbXhfODJyMnBiR2hOS2FmYVhFWXN4WDgtSVAtZTVDNFZtXzd2VzhEajFhNklVaUN0RFQtRkN0RldZUXZkeHF2VThGc3NmandNclMtSFRDLUFYR2Y3ZFVEZkpjSVZsSDZ0WktNN1VCUi0zbTVFQQ?oc=5",
-        "description": "",
-        "pubDate": "2026-03-30T09:47:00Z",
-        "source": "news.google.com",
-        "image": "",
+        "title": "Russia expels British diplomat over spying allegations",
+        "link": "https://www.bbc.com/news/articles/czx94e7j5jpo?at_medium=RSS&at_campaign=rss",
+        "description": "A UK Foreign Office spokesman accused Russia of an \"aggressive and co-ordinated campaign of harassment against British diplomats\".",
+        "pubDate": "2026-03-30T10:33:56Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e89/live/9a6bef20-2c1b-11f1-a4a0-8d864191ac73.jpg",
         "bias": 0
       },
       {
@@ -808,10 +582,10 @@
         "bias": 0
       },
       {
-        "title": "Actor Antonio Banderas leads Palm Sunday procession in his hometown of Malaga - AP News",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM2FFWkJnaXpMYTNaZDFuSUFreUFkZWtwSU90UGlaNFNqa2dpV1c2LUlqU0hnTllVU0ZtNl9PU1d3dkgwcVNrU0tZYjdiRjVtVlp4R1hoLTRNZmhVSGJhckVYWjBmcWs1RWlWTHBuNDRadHlzVEd5ME9IRUI1cnp1WjVpUWR6emZVbEg4cXJLWlE0ZGpDelBYQWFpblhzUkhVNHg0NmUxTGJKQXhrMUE1NEs5R2lVaU1WYmNyUkdnU0o2WWVYQTJmNUpCT1dEelF2?oc=5",
+        "title": "In South Sudan, a prophet’s sacred stick helps fuel a violent struggle for political power - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMUxEeG9RNWZNMXQySTRkWE9CeXNQbWQ2c000Q0JJNFFSb2JDd0JUNFR5QTVuNXpscU1RTzVVelZzNHpHbk5mdkFqTmhydHpZa2wyMi1HWUJOQU4xRk51akNaS25XOEJYc3BwMlJYSGJRcjRCdDJKVjNoMWlyYUp2YmZWa3lJOTNSR1BNbGtlSFBmMnJTNFUwdUZJYVUtSm91aE1QWXNvNzZhcHcwWXc?oc=5",
         "description": "",
-        "pubDate": "2026-03-30T05:34:00Z",
+        "pubDate": "2026-03-30T06:02:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -828,10 +602,10 @@
     ],
     "Tech": [
       {
-        "title": "Tapping, twirling and \"T\" signs: Sports replays have a language all their own - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdnZQM3VMM3BlazEweTdrT3NUYU42US1Lck5xRHJ0Q0hkSDVRY19Kanl0TlQ1ZTFiRnFqcEpkMEpXWFk2eFRHT3JTQjVzWUNad2JEWE96TDRMMmZrUElDUlcwSWVRU29SYzBsWjN3ZW1kM2JJV1laRnREdTdXMm1oTGFMaE1HbTdN?oc=5",
+        "title": "AP Decision Notes: What to expect in Arkansas’ primary runoff elections - AP News",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNGc2Zk41VW9faTJMWXBQUVQ5cnhTb25Sb0VtVU1wTmwyc1BvY0dDMXJvZklTbG1fa21tUTBhVHlUTWlSejRFdFI0N3RrQURybF93anZmN3dpX3BBMVA0Ny1sZkZOQzA5MTQ1b00tOU1wYS1RVlc5d1hQdGV3Q1BCcG9Hc21iMXhGbURpdUEzSFE2TWpiZE0td0diNE9IOHFXWnN3MEcwemtEaGRScEs5ZzhoSGg2b01QbUV1ZDc1ZEZ2T29fc0xpWXhka2NGQQ?oc=5",
         "description": "",
-        "pubDate": "2026-03-30T14:18:00Z",
+        "pubDate": "2026-03-30T12:30:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -846,7 +620,16 @@
         "bias": 0
       },
       {
-        "title": "China's chatbot industry is fiercely competing for customers. Cue the freebies",
+        "title": "Gunmen kill at least 20 in nighttime attack in Nigeria - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYXByS2gxTFdzbTcyMDdjMlFCdU5lbW1vT0pheWdqbXhfODJyMnBiR2hOS2FmYVhFWXN4WDgtSVAtZTVDNFZtXzd2VzhEajFhNklVaUN0RFQtRkN0RldZUXZkeHF2VThGc3NmandNclMtSFRDLUFYR2Y3ZFVEZkpjSVZsSDZ0WktNN1VCUi0zbTVFQQ?oc=5",
+        "description": "",
+        "pubDate": "2026-03-30T09:47:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "China's AI chatbots are advanced and versatile — and begging for more users",
         "link": "https://www.npr.org/2026/03/30/nx-s1-5760939/china-chatbot-industry-doubao-qwen-yuanbao",
         "description": "Chinese AI companies are focused less on being cutting edge and more on attracting customers. That means holiday promotions, and making chatbots useful in everyday life.",
         "pubDate": "2026-03-30T09:00:00Z",
@@ -902,15 +685,6 @@
         "bias": -1
       },
       {
-        "title": "Spain closes the country’s airspace to US planes involved in the Iran war - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeUlqd1RMWmp6UlZ3Q0twSVRheTF0WUkxby1yWGdZMUdCRDllLW4zYW9JREI3N29ETDlVQWdRaW9SZmkydFN0c3NjUFFPakh5RGY3cEpJb0cwMEE5aXNHcjNzUTJGcGlnNk9LbEdGVWpVN1JEeVNwcjhIS0pJLXpxRWJjTzFSM01CNmpGRkFwZUVaeUZpdHZSbDRn?oc=5",
-        "description": "",
-        "pubDate": "2026-03-30T14:40:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "When is Nasa's Moon mission launch and what will Artemis do?",
         "link": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&at_campaign=rss",
         "description": "The first crewed Moon mission in 50 years could launch in April, ahead of a future lunar landing.",
@@ -954,15 +728,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "White Sox's Murakami joins Guardians' DeLauter in exclusive club with HRs in first 3 MLB games - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2FjVUQ0a1gwRHFpV1lPcVB5alNVdGtNbmlidWl3RlRMMS1qakxRMUs0TnF4SkN5ZzdybHN4UDhwbFVyc0dtLW9SdzhObE9KYmZpZXliU0d6cng3WjVCRjhvM3hPdlNQRlU1ZEhhcXN2bFFKS2ZFYUJuMWtMWE80UW5oU0g?oc=5",
-        "description": "",
-        "pubDate": "2026-03-30T02:35:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Business": [
@@ -970,7 +735,7 @@
         "title": "Millions of drivers mis-sold car finance to receive average £829 in compensation",
         "link": "https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&at_campaign=rss",
         "description": "The City regulator says 12.1 million motor finance deals will be eligible for redress.",
-        "pubDate": "2026-03-30T17:01:12Z",
+        "pubDate": "2026-03-30T18:05:45Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09ba/live/d4f128a0-29e5-11f1-81d4-f1e3c77fafb4.jpg",
         "bias": 0
@@ -1035,9 +800,18 @@
         "title": "Scott Mills' abrupt sacking creates another headache for the BBC",
         "link": "https://www.bbc.com/news/articles/clyr1z4kre0o?at_medium=RSS&at_campaign=rss",
         "description": "Radio 2 DJ Scott Mills was sacked from the BBC on Monday following allegations over his conduct.",
-        "pubDate": "2026-03-30T16:41:48Z",
+        "pubDate": "2026-03-30T17:59:20Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aefc/live/d94ea670-2c42-11f1-86ea-7b38ea33820f.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Euphoria season three trailer: Everything we know so far",
+        "link": "https://www.bbc.com/news/articles/cx23vxkj0zmo?at_medium=RSS&at_campaign=rss",
+        "description": "The third season will air on 12 April and picks up five years on from the last episode.",
+        "pubDate": "2026-03-30T17:38:11Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba8f/live/a0536de0-2c3f-11f1-88b9-4987f82331d9.jpg",
         "bias": 0
       },
       {
