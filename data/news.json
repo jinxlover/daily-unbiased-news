@@ -1,12 +1,457 @@
 {
-  "lastUpdate": "2026-03-30T00:01:59.566638Z",
+  "lastUpdate": "2026-03-30T03:35:46.683059Z",
   "news": {
-    "Gaming": [],
-    "World": [],
-    "Politics": [],
+    "Gaming": [
+      {
+        "title": "Extinction [Free] [Fighting]",
+        "link": "https://nrxtfwd.itch.io/extinction",
+        "description": "Become  a raging dinosaur that uses cards to attack his foes ​",
+        "pubDate": "2026-03-30T03:25:36Z",
+        "source": "nrxtfwd.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDAzNTU1LnBuZw==/315x250%23c/rd4m5z.png",
+        "bias": 0
+      },
+      {
+        "title": "MEGALABYRINTHIA [Free] [Survival]",
+        "link": "https://forgedfromtungsten.itch.io/megalabyrinthia",
+        "description": "Eat apples, avoid monsters, stay alive.",
+        "pubDate": "2026-03-30T03:22:23Z",
+        "source": "forgedfromtungsten.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDA1MDMwLnBuZw==/315x250%23c/GP2g2w.png",
+        "bias": 0
+      },
+      {
+        "title": "Void Runner [Free] [Strategy]",
+        "link": "https://slickab.itch.io/void-runner",
+        "description": "",
+        "pubDate": "2026-03-30T03:17:36Z",
+        "source": "slickab.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDA1MDE1LnBuZw==/315x250%23c/eWIJKs.png",
+        "bias": 0
+      },
+      {
+        "title": "Bunny's Descent [Free] [Role Playing] [Windows] [Linux]",
+        "link": "https://hyenaheartbeats.itch.io/bunnys-descent",
+        "description": "Short autobattler made for Mini Jam 207",
+        "pubDate": "2026-03-30T03:14:49Z",
+        "source": "hyenaheartbeats.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDA1MDQwLnBuZw==/315x250%23c/EcA2VV.png",
+        "bias": 0
+      },
+      {
+        "title": "Taxi Driver [Free] [Interactive Fiction] [Windows]",
+        "link": "https://chrisorbee.itch.io/taxi-driver",
+        "description": "Another late night shift in the city, who will you be picking up today?",
+        "pubDate": "2026-03-30T03:13:55Z",
+        "source": "chrisorbee.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDA0OTUxLnBuZw==/315x250%23c/9lI8wl.png",
+        "bias": 0
+      },
+      {
+        "title": "Universal Blob Eradicator [Free] [Adventure]",
+        "link": "https://arcadecodestorm.itch.io/universal-blob-eradicator",
+        "description": "",
+        "pubDate": "2026-03-30T03:11:42Z",
+        "source": "arcadecodestorm.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDA0OTE3LnBuZw==/315x250%23c/7Tk4UC.png",
+        "bias": 0
+      },
+      {
+        "title": "ShaunBall [Free] [Puzzle] [Windows]",
+        "link": "https://dickbutt-productions.itch.io/shaunball",
+        "description": "He's Shaun... and he's a ball!",
+        "pubDate": "2026-03-30T03:10:32Z",
+        "source": "dickbutt-productions.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDA0OTAxLmpwZw==/315x250%23c/aKyXMc.jpg",
+        "bias": 0
+      },
+      {
+        "title": "What Would You Do If... [$1.00] [Survival]",
+        "link": "https://hiyahgames.itch.io/what-would-you-do-if",
+        "description": "Every choice feels right... until it doesn't.",
+        "pubDate": "2026-03-30T03:06:37Z",
+        "source": "hiyahgames.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDA0NjUwLnBuZw==/315x250%23c/KrtP19.png",
+        "bias": 0
+      },
+      {
+        "title": "The Whispers [Free] [Visual Novel]",
+        "link": "https://zoebiscuit.itch.io/the-whispers",
+        "description": "Storygame about a widower",
+        "pubDate": "2026-03-30T03:04:17Z",
+        "source": "zoebiscuit.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDA0ODk0LmpwZw==/315x250%23c/%2FjQV9o.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Infinite Recursion [Free]",
+        "link": "https://for265.itch.io/infinite-recursion",
+        "description": "",
+        "pubDate": "2026-03-30T03:03:12Z",
+        "source": "for265.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDA0ODQ4LnBuZw==/315x250%23c/3OYDvm.png",
+        "bias": 0
+      },
+      {
+        "title": "Life Blood [Free] [Action]",
+        "link": "https://pots-and-pans.itch.io/life-blood",
+        "description": "Sumbission for minijam 207.",
+        "pubDate": "2026-03-30T02:57:19Z",
+        "source": "pots-and-pans.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDA0NzM4LnBuZw==/315x250%23c/HWiteJ.png",
+        "bias": 0
+      },
+      {
+        "title": "Flood Escape [Free] [Platformer] [Windows]",
+        "link": "https://meepnaysh.itch.io/flood-escape",
+        "description": "Escape the rising tide before it's too late!",
+        "pubDate": "2026-03-30T02:55:52Z",
+        "source": "meepnaysh.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDA0Nzc5LnBuZw==/315x250%23c/4H9m8N.png",
+        "bias": 0
+      },
+      {
+        "title": "Ace Pilot [Free] [Action]",
+        "link": "https://ryumo0205.itch.io/ace-fighter",
+        "description": "A 2D Jet Fighter Game",
+        "pubDate": "2026-03-30T02:55:51Z",
+        "source": "ryumo0205.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDA0NjMyLnBuZw==/315x250%23c/M8sxso.png",
+        "bias": 0
+      },
+      {
+        "title": "Chess Surprise Unlimited [Free] [Puzzle]",
+        "link": "https://ultramanr.itch.io/chess-surprise-unlimited",
+        "description": "A refreshing and challenging  way to play chess. Take photos of your surroundings to add power-ups onto the chessboard.",
+        "pubDate": "2026-03-30T02:45:02Z",
+        "source": "ultramanr.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDA0NTg4LmpwZw==/315x250%23c/3c1Sfv.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Crash Out [Free] [Action] [Windows]",
+        "link": "https://wateronacomputer.itch.io/crash-out",
+        "description": "The world is ending, so might as well have fun.",
+        "pubDate": "2026-03-30T02:43:57Z",
+        "source": "wateronacomputer.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDA0NjA1LnBuZw==/315x250%23c/IkH7EO.png",
+        "bias": 0
+      },
+      {
+        "title": "Eggsnatcher [Free] [Action]",
+        "link": "https://donutdude143.itch.io/eggsnatcher",
+        "description": "Steal dinosaur eggs. Hatch an army. A Vampire Survivors-style auto-battler made for Mini Jam 207.",
+        "pubDate": "2026-03-30T02:43:41Z",
+        "source": "donutdude143.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDA0OTMzLnBuZw==/315x250%23c/22IL6x.png",
+        "bias": 0
+      },
+      {
+        "title": "Babushka Blitz [Free] [Shooter]",
+        "link": "https://folkor.itch.io/babushka-blitz",
+        "description": "\"Say Hello to My Littler Friend\"",
+        "pubDate": "2026-03-30T02:43:35Z",
+        "source": "folkor.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDA0NzY0LnBuZw==/315x250%23c/rm60O6.png",
+        "bias": 0
+      },
+      {
+        "title": "SNACKE AI (FHSFDJS) [Free] [Interactive Fiction] [Windows]",
+        "link": "https://furcan9.itch.io/snacke-ai",
+        "description": "",
+        "pubDate": "2026-03-30T02:40:09Z",
+        "source": "furcan9.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDA0NDQyLnBuZw==/315x250%23c/QV5i6v.png",
+        "bias": 0
+      },
+      {
+        "title": "Amazon Run [Free] [Adventure] [Windows] [macOS] [Linux] [Android]",
+        "link": "https://dfatima.itch.io/amazon-run",
+        "description": "Jogo popular",
+        "pubDate": "2026-03-30T02:37:29Z",
+        "source": "dfatima.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDA0NTU1LnBuZw==/315x250%23c/IkuYVo.png",
+        "bias": 0
+      },
+      {
+        "title": "Face Stealer [Free] [Other]",
+        "link": "https://super-perrymen-trevino.itch.io/face-stealer",
+        "description": "A short horror experience about a mask maker who makes friends in a peculiar way with its patrons",
+        "pubDate": "2026-03-30T02:31:43Z",
+        "source": "super-perrymen-trevino.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDA0Mzg4LnBuZw==/315x250%23c/VGv%2BsZ.png",
+        "bias": 0
+      },
+      {
+        "title": "Med School Survivors [Free] [Action] [Windows]",
+        "link": "https://ycgun.itch.io/med-school-survivors",
+        "description": "",
+        "pubDate": "2026-03-30T02:31:04Z",
+        "source": "ycgun.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDA0NTYyLnBuZw==/315x250%23c/j3iSNs.png",
+        "bias": 0
+      },
+      {
+        "title": "Giants Din [Free] [Adventure]",
+        "link": "https://taycodes28.itch.io/giants-din",
+        "description": "",
+        "pubDate": "2026-03-30T02:27:28Z",
+        "source": "taycodes28.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDA0NTM0LnBuZw==/315x250%23c/5IbfqK.png",
+        "bias": 0
+      },
+      {
+        "title": "Squarey Shootout [Free] [Shooter]",
+        "link": "https://funnymations1.itch.io/squarey-shootout",
+        "description": "SHOOT BOXES, IT'S REALLY FUN!",
+        "pubDate": "2026-03-30T02:22:16Z",
+        "source": "funnymations1.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDA0MzkxLnBuZw==/315x250%23c/xhNVQ1.png",
+        "bias": 0
+      },
+      {
+        "title": "Animals in the forest [Free] [Action] [Windows]",
+        "link": "https://anufriyev.itch.io/animals-in-the-forest",
+        "description": "Hidden objects game",
+        "pubDate": "2026-03-30T02:22:15Z",
+        "source": "anufriyev.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDA0NTE5LmpwZw==/315x250%23c/aiibcV.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Spinebreaker Beta 1.1 [Free]",
+        "link": "https://theasbestal.itch.io/spinebreaker-beta-11",
+        "description": "",
+        "pubDate": "2026-03-30T02:16:40Z",
+        "source": "theasbestal.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDA0MTYyLnBuZw==/315x250%23c/KC7wsd.png",
+        "bias": 0
+      },
+      {
+        "title": "Unknown Caller [Free]",
+        "link": "https://hamsu-dev.itch.io/unknown-caller",
+        "description": "",
+        "pubDate": "2026-03-30T02:16:25Z",
+        "source": "hamsu-dev.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDA0Mjc5LnBuZw==/315x250%23c/1dBOz0.png",
+        "bias": 0
+      },
+      {
+        "title": "VOID DREAKER [Free] [Action]",
+        "link": "https://raul-aghayev.itch.io/void-dreaker",
+        "description": "",
+        "pubDate": "2026-03-30T02:09:22Z",
+        "source": "raul-aghayev.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDA0MzY5LmpwZw==/315x250%23c/%2BFd7XB.jpg",
+        "bias": 0
+      },
+      {
+        "title": "The Great Escape [Free] [Platformer] [Windows]",
+        "link": "https://davis-luce.itch.io/the-great-escape",
+        "description": "Traverse through a underground dungeon to escape!",
+        "pubDate": "2026-03-30T02:03:03Z",
+        "source": "davis-luce.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDA0MzAwLnBuZw==/315x250%23c/ULPgC%2F.png",
+        "bias": 0
+      },
+      {
+        "title": "Bone King [Free] [Fighting]",
+        "link": "https://crazedmonkey231.itch.io/bone-king",
+        "description": "Arena brawler",
+        "pubDate": "2026-03-30T01:59:02Z",
+        "source": "crazedmonkey231.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDA0NzA2LnBuZw==/315x250%23c/1c6gg3.png",
+        "bias": 0
+      },
+      {
+        "title": "Cherry Blossom Tag [Free] [Adventure] [Android]",
+        "link": "https://coolosty.itch.io/cherry-blossom-tag",
+        "description": "a good gtag copy made by mystic",
+        "pubDate": "2026-03-30T01:33:48Z",
+        "source": "coolosty.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDAzNTgzLnBuZw==/315x250%23c/JrNX%2BO.png",
+        "bias": 0
+      },
+      {
+        "title": "Borderline [Free] [Survival]",
+        "link": "https://od1n1ks.itch.io/borderline",
+        "description": "Run, survive, and decide: remain human or embrace the darkness.",
+        "pubDate": "2026-03-30T00:35:00Z",
+        "source": "od1n1ks.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDA0OTQ4LnBuZw==/315x250%23c/TkKSQj.png",
+        "bias": 0
+      }
+    ],
+    "World": [
+      {
+        "title": "CAF general secretary quits amid AFCON final controversy",
+        "link": "https://www.aljazeera.com/sports/2026/3/30/caf-general-secretary-quits-amid-afcon-final-controversy?traffic_source=rss",
+        "description": "Veron Mosengo-Omba's resignation follows the fallout over the CAF board's decision to strip Senegal of the AFCON title.",
+        "pubDate": "2026-03-30T02:58:14Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "White Sox's Murakami joins Guardians' DeLauter in exclusive club with HRs in first 3 MLB games - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2FjVUQ0a1gwRHFpV1lPcVB5alNVdGtNbmlidWl3RlRMMS1qakxRMUs0TnF4SkN5ZzdybHN4UDhwbFVyc0dtLW9SdzhObE9KYmZpZXliU0d6cng3WjVCRjhvM3hPdlNQRlU1ZEhhcXN2bFFKS2ZFYUJuMWtMWE80UW5oU0g?oc=5",
+        "description": "",
+        "pubDate": "2026-03-30T02:35:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "IAEA says Iran’s Khondab heavy water reactor no longer operational",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/iaea-says-irans-khondab-heavy-water-reactor-no-longer-operational?traffic_source=rss",
+        "description": "The UN’s nuclear watchdog says Iran’s Khondab heavy water production plant is no longer operational.",
+        "pubDate": "2026-03-30T02:13:21Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Mullins Madness! Freshman's 35-footer gives UConn a 73-72 win over Duke and a Final Four spot - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTVI1Tk1JTjByRUhHNUd1a2UyVHA0UkVKSGs2dGVfRkJ2NEotUHpuNnZIeFZRd01YbFBPQ3pBV0ppMTB6OTdZNWZGUVhsMk1Sc1Q2TDZBNjUwZ01pMmhVQ2dmNFJlRDJHRHFSU2h1QWxLRlFUdzZ2cTNMUlVpRUFhOFFrQ3lDOFNsZXFLNmhtVUJjcUs0?oc=5",
+        "description": "",
+        "pubDate": "2026-03-30T01:40:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Mongolia’s ruling party picks a new prime minister candidate after leader’s resignation - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYm1rU0sxSlJERDhPRUt6TnJ1VG9kWlh0MnZQZTRwTF9wNjg4NHhPM2cwTTNxSmZaRDlNS0J5ZnU1eGc2M0JFWGt1d2lrcl9qN1h2TFo5M0lSckE4WGdsdm94aFpIckc0RDlsX2RPN0gxdkN6WDF5MnRQZjNSQVFNWmM3SEpxQ2xQZi1WbE5zbk54NXhTQUE?oc=5",
+        "description": "",
+        "pubDate": "2026-03-30T01:37:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Trump says he has 'no problem' with Russian oil tanker bringing relief to Cuba despite blockade - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONWQtVkFiQS1Ic0pjN2dxcUplNmlKVzFNUUUtRDlnVnE3NTBNTWxaektLNGVhU3hNYjM2VEFQMU12TzVVa0lXMkEweC1wV25CRXlfNlQxWkd6dkl5ZHpTMmd0WVNSS1hLYU9nZkI4d0lLUXZpUHVCdFBrSnZLMmJqMHRIOE0tZUlUTjdMZTFHbXI4X2c1?oc=5",
+        "description": "",
+        "pubDate": "2026-03-30T01:34:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Iranian academic describes US-Israeli attacks on Iran’s universities",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/iranian-academic-describes-us-israeli-attacks-on-irans-universities?traffic_source=rss",
+        "description": "Doutaghi says the attack reflects a wider pattern and raises questions about what defines ‘legitimate retaliation'.",
+        "pubDate": "2026-03-30T01:24:55Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Netanyahu orders deeper Israeli invasion into Lebanon",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/netanyahu-orders-deeper-israeli-invasion-into-lebanon?traffic_source=rss",
+        "description": "Israeli Prime Minister Benjamin Netanyahu has ordered the military to expand its invasion in southern Lebanon.",
+        "pubDate": "2026-03-30T01:09:32Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Oil tops $116 a barrel as Iran accuses US of preparing invasion",
+        "link": "https://www.aljazeera.com/economy/2026/3/30/oil-rises-above-116-a-barrel-as-iran-accuses-us-of-preparing-invasion?traffic_source=rss",
+        "description": "Crude prices continue to climb as world faces its biggest energy crisis in decades.",
+        "pubDate": "2026-03-30T00:53:36Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Iranian attack damages Kuwait power and desalination plant, kills worker",
+        "link": "https://www.aljazeera.com/news/2026/3/30/iranian-attack-damages-kuwait-power-and-desalination-plant-kills-worker?traffic_source=rss",
+        "description": "Kuwaiti authorities say Indian worker killed in attack that also caused 'significant material damage' to building.",
+        "pubDate": "2026-03-30T00:52:55Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Netanyahu says Latin Patriarch will have full access to holy site",
+        "link": "https://www.bbc.com/news/articles/cvg0128z41eo?at_medium=RSS&at_campaign=rss",
+        "description": "The Israeli PM said Cardinal Pierbattista Pizzaballa had been asked not to enter the church out of concern for his safety.",
+        "pubDate": "2026-03-30T00:41:58Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db3d/live/10b10f40-2b85-11f1-9b12-e7dc1d4ddef6.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Chesney the kangaroo scales tall fence and flees petting zoo for three days on the lam - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORlpsVy1TTThuVXNTN2diWHJodUpqU09uOUdhMExVYkFUWUNzZDk5YzRzYXBpYXZ5V2V1WEdmMVpqakYyZFFsNC16T0s3cU5yYzNYSjdKb1N3dVZYSEJzZm5hUGhnV2VNNDZJVWRWcHBkdzZzU09iQlJWNjBnb2M2eUUwZG1sUHhINVVjRGl5dkFyOHduWVdEM0FqLXlMdw?oc=5",
+        "description": "",
+        "pubDate": "2026-03-30T00:28:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "These men carry towers of birds through Mexico's streets. They say their tradition is dying out. - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdExfSkE3Mkl6Qms5SDVlQUFPbFRPN3RzaXFnNHJEMENxekE4S1A0ZGZzZ1h4cHd6TnBIQ0RUSnpXR3NqMHdYVS1LMkNtUnpKcUlHWm5VcF9jaTB4TGl4X3g5a1FZNTNjV3VGN0c0eXpjWFRkZnNlcTRncGVYQjJOOUhJSzNDdw?oc=5",
+        "description": "",
+        "pubDate": "2026-03-30T00:14:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "TSA pay may be coming, but airport delays could persist and ICE agents may not leave soon - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYkptOUVURng0X0pqZVdkU085YTJTbmdTRTZoRkswRHJUWkRnNUlEZ2pRcFVsVk1TRHgzMWYwNkx2SjF3eDMwdWxRRVdySElGSlV2RGlPU1hRWW4tbEw4ZnFTQzZEQlcyRE5uRWhPbFRUa2l6VnhjVENnQ2I4bWV0b2lJclNjd0R3c1ZLajExaUJBSVZCb2c?oc=5",
+        "description": "",
+        "pubDate": "2026-03-30T00:11:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Iran war live: Trump says wants to take Iran’s oil; Kuwait power site hit",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/3/30/iran-war-live-worker-killed-in-kuwait-israel-intercepts-drones-from-yemen?traffic_source=rss",
+        "description": "Kuwait says an Indian worker has been killed in an Iranian raid as attacks across the Gulf continue.",
+        "pubDate": "2026-03-30T00:00:44Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Tennessee’s season ends with another Elite Eight loss, this time to Michigan - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYmVObjVwbUd2d2Y4aXpxcWU5bG92YXY2ZF9JM0x2d0dDX0tlQVVYTFdTZnljNWp6QmZOeUV1NGY4QXBSV3ctV3NIMXR0SV93ZU1tQTBONUhNbmdpSmliR1hVSGdFTnlWcnR1NzNMNzA0OElwS25XZm80ZnRIN0VnaU1MdWN3VmhER3Z0SVBaVWNleGlSUUdXRWZ6NDdUSTkwQTl5ZUlmMlRla1U?oc=5",
+        "description": "",
+        "pubDate": "2026-03-30T00:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ],
+    "Politics": [
+      {
+        "title": "ICE officers could remain at airports after TSA workers are paid",
+        "link": "https://www.npr.org/2026/03/29/nx-s1-5765454/tsa-paychecks-ice-airports-tom-homan",
+        "description": "Even when Transportation Security Administration workers get paid, Immigration and Customs Enforcement agents could still be present at U.S. airports.",
+        "pubDate": "2026-03-30T00:00:17Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      }
+    ],
     "Tech": [],
     "Science": [],
-    "Business": [],
+    "Business": [
+      {
+        "title": "Oil rises above $115 and Asia shares slide as Iran war escalates",
+        "link": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss",
+        "description": "It comes after Iran-backed Houthi rebels in Yemen joined the conflict by striking Israel over the weekend.",
+        "pubDate": "2026-03-30T03:34:37Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a744/live/29a533f0-2bdf-11f1-b2aa-4d44460d139f.jpg",
+        "bias": 0
+      }
+    ],
     "Culture": []
   }
 }
