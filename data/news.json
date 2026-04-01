@@ -1,176 +1,239 @@
 {
-  "lastUpdate": "2026-04-01T14:19:49.973005Z",
+  "lastUpdate": "2026-04-01T15:47:13.628697Z",
   "news": {
     "Gaming": [
       {
-        "title": "310 Sector-9 HUD (Pro Edition) [$17.00] [Windows]",
-        "link": "https://d3athk1d.itch.io/310-sector-9-hud-pro-edition",
+        "title": "Le Scrabble [Free] [Puzzle] [Windows] [macOS] [Linux]",
+        "link": "https://dayroxoff.itch.io/le",
+        "description": "Une version web du célèbre jeu de Scrabble",
+        "pubDate": "2026-04-01T15:32:02Z",
+        "source": "dayroxoff.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDU2ODk1LnBuZw==/315x250%23c/bgCzVB.png",
+        "bias": 0
+      },
+      {
+        "title": "Akabur Trainer: HR Approved Edition [Free] [Visual Novel] [Windows] [Android]",
+        "link": "https://j0pasruchkoi.itch.io/akabur-trainer",
+        "description": "This is NOT a game by Akabur, it's just a short parody VN.",
+        "pubDate": "2026-04-01T15:21:36Z",
+        "source": "j0pasruchkoi.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDU2Njg4LnBuZw==/315x250%23c/Ev0v99.png",
+        "bias": 0
+      },
+      {
+        "title": "Roll-A-Ball [Free] [Puzzle]",
+        "link": "https://pawcade.itch.io/roll-a-ball",
         "description": "",
-        "pubDate": "2026-04-01T14:11:28Z",
-        "source": "d3athk1d.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDU1NjI1LnBuZw==/315x250%23c/2Wbq26.png",
+        "pubDate": "2026-04-01T15:20:32Z",
+        "source": "pawcade.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDU2ODUxLnBuZw==/315x250%23c/VnDlNJ.png",
         "bias": 0
       },
       {
-        "title": "Acadian Tracks [Free] [Puzzle]",
-        "link": "https://pea-gloober.itch.io/acadian-tracks",
-        "description": "A small train puzzle game where players are tasked with completing 5 puzzle towers in any order they choose",
-        "pubDate": "2026-04-01T14:02:08Z",
-        "source": "pea-gloober.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDU1NTAzLmdpZg==/original/8KPTev.gif",
+        "title": "ReQrut [Free] [Action] [Windows]",
+        "link": "https://pamukdevstuffs.itch.io/reqrut",
+        "description": "Arena Shooter Online",
+        "pubDate": "2026-04-01T15:18:46Z",
+        "source": "pamukdevstuffs.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDU2NjcwLnBuZw==/315x250%23c/rfsaCZ.png",
         "bias": 0
       },
       {
-        "title": "Maze Runner 2026 [$5.00] [Adventure]",
-        "link": "https://readel.itch.io/maze-runner-2026",
+        "title": "Nebula Drift [Free]",
+        "link": "https://redbluecarrots.itch.io/nebula",
         "description": "",
-        "pubDate": "2026-04-01T14:00:25Z",
-        "source": "readel.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDU1NTIyLmpwZw==/315x250%23c/8E7liF.jpg",
+        "pubDate": "2026-04-01T15:18:45Z",
+        "source": "redbluecarrots.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDU2ODExLnBuZw==/315x250%23c/m8Vsz%2F.png",
         "bias": 0
       },
       {
-        "title": "NickOfTime [Free] [Puzzle] [Windows]",
-        "link": "https://legenberry.itch.io/nickoftime",
+        "title": "Hell Jump 2 [Free] [Platformer] [Windows] [Linux]",
+        "link": "https://aramczgames.itch.io/hell-jump-2",
+        "description": "A greedy game",
+        "pubDate": "2026-04-01T15:16:55Z",
+        "source": "aramczgames.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDU2NjU0LnBuZw==/315x250%23c/6Z88NN.png",
+        "bias": 0
+      },
+      {
+        "title": "OneShot 2 REAL!?!?!?! [Free] [Other] [Windows]",
+        "link": "https://zackcraft64.itch.io/oneshot-2-real",
+        "description": "THE ONESHOT 2 IS REAL!!!!!",
+        "pubDate": "2026-04-01T15:15:27Z",
+        "source": "zackcraft64.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDU2NjM0LnBuZw==/315x250%23c/EtobGH.png",
+        "bias": 0
+      },
+      {
+        "title": "Desert Game [Free] [Fighting] [Windows] [macOS] [Linux]",
+        "link": "https://dayroxoff.itch.io/desert-game",
+        "description": "Jeu de combat en tour par tour",
+        "pubDate": "2026-04-01T15:04:17Z",
+        "source": "dayroxoff.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDU2NzUzLnBuZw==/315x250%23c/h66qOC.png",
+        "bias": 0
+      },
+      {
+        "title": "Jerby's Adventure (Demo) [Free] [Adventure]",
+        "link": "https://desturbed-games.itch.io/jerbys-adventure-demo",
+        "description": "A demo for a physics magic system!",
+        "pubDate": "2026-04-01T15:04:05Z",
+        "source": "desturbed-games.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDU2NDE3LnBuZw==/315x250%23c/Lmp4bV.png",
+        "bias": 0
+      },
+      {
+        "title": "MDS BETA [Free] [Platformer]",
+        "link": "https://mrk1cker.itch.io/to-date-a-max",
         "description": "",
-        "pubDate": "2026-04-01T13:58:40Z",
-        "source": "legenberry.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDU1NTkwLnBuZw==/315x250%23c/8wCpCA.png",
+        "pubDate": "2026-04-01T15:02:14Z",
+        "source": "mrk1cker.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDU2MzU5LnBuZw==/315x250%23c/Q6eJG0.png",
         "bias": 0
       },
       {
-        "title": "Farming sim [Free] [Educational] [Windows]",
-        "link": "https://game-development-uwa.itch.io/farming-sim",
+        "title": "Betralia [Free] [Other] [Windows] [Linux]",
+        "link": "https://xavixxar.itch.io/betralia",
         "description": "",
-        "pubDate": "2026-04-01T13:57:35Z",
-        "source": "game-development-uwa.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDU1NTM5LnBuZw==/315x250%23c/ZIvwe8.png",
+        "pubDate": "2026-04-01T15:01:59Z",
+        "source": "xavixxar.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDU2NDE0LnBuZw==/315x250%23c/JNCOnv.png",
         "bias": 0
       },
       {
-        "title": "Bot VS Cockroach (Prototyp) [Free] [Other] [Windows]",
-        "link": "https://lollysheep.itch.io/bot-vs-cockroach",
-        "description": "Kakerlaken kämpfen lassen mit Coolen Waffen",
-        "pubDate": "2026-04-01T13:41:07Z",
-        "source": "lollysheep.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDU1MjMwLnBuZw==/315x250%23c/GpYJlY.png",
+        "title": "Super Return of BROTHER [Free] [Platformer] [Windows]",
+        "link": "https://smedis2.itch.io/super-return-of-brother",
+        "description": "Do You Renenber From Child Hood?",
+        "pubDate": "2026-04-01T14:51:21Z",
+        "source": "smedis2.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDU2MTg1LnBuZw==/315x250%23c/BI1oEV.png",
         "bias": 0
       },
       {
-        "title": "[ THAI ] Spirit of Life Real Full Version [Free] [Role Playing] [Windows]",
-        "link": "https://siwadev2007.itch.io/spirit-of-life-full-version",
-        "description": "Thai Horror Game.",
-        "pubDate": "2026-04-01T13:36:22Z",
-        "source": "siwadev2007.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDU1MDg2LnBuZw==/315x250%23c/Je8rx5.png",
-        "bias": 0
-      },
-      {
-        "title": "Demon [Free]",
-        "link": "https://mw-4.itch.io/demon",
+        "title": "simons realm but Spukaghytjykiujlojhyht6r53e423w5egthygyujiujk [Free]",
+        "link": "https://vojtabubela11.itch.io/simons-realm-but-spukag",
         "description": "",
-        "pubDate": "2026-04-01T13:32:06Z",
-        "source": "mw-4.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDU1MDQ1LmpwZw==/315x250%23c/ZljG%2BQ.jpg",
+        "pubDate": "2026-04-01T14:51:03Z",
+        "source": "vojtabubela11.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDU2MTk0LmdpZg==/original/YU4d2j.gif",
         "bias": 0
       },
       {
-        "title": "Kill the Lich [Free] [Simulation] [Windows]",
-        "link": "https://stop-sign.itch.io/kill-the-lich",
-        "description": "​Use automation and strategy to unlock over 300 actions over 2 prestige layers and a NG+ in this idle game.",
-        "pubDate": "2026-04-01T13:26:27Z",
-        "source": "stop-sign.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDU0OTE4LnBuZw==/315x250%23c/vF3MHZ.png",
-        "bias": 0
-      },
-      {
-        "title": "Merchant Realms [Free] [Simulation]",
-        "link": "https://coopertroopergames.itch.io/merchant-realms",
+        "title": "Strikeout - BEST EDITION [Free] [Survival]",
+        "link": "https://letslukas.itch.io/strikeout-best-edition",
         "description": "",
-        "pubDate": "2026-04-01T13:05:51Z",
-        "source": "coopertroopergames.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDU1MjU2LnBuZw==/315x250%23c/tRhwkS.png",
+        "pubDate": "2026-04-01T14:49:45Z",
+        "source": "letslukas.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDU2MTk2LnBuZw==/315x250%23c/qqmRRs.png",
         "bias": 0
       },
       {
-        "title": "SOM The House Cat [Free]",
-        "link": "https://gensoexpp.itch.io/som-the-house-cat",
-        "description": "Leap, slash, and dash! Help a brave kitty smash through everything in his way to reach the great outdoors.",
-        "pubDate": "2026-04-01T13:05:45Z",
-        "source": "gensoexpp.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDU0NTc2LnBuZw==/315x250%23c/xl1NMi.png",
+        "title": "TRUDGE [Free] [Racing]",
+        "link": "https://atwilightgem.itch.io/trudge",
+        "description": "Tank Racing Ultimate Drift Grapple Extreme",
+        "pubDate": "2026-04-01T14:48:45Z",
+        "source": "atwilightgem.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDU2MTg2LnBuZw==/315x250%23c/Zib96i.png",
         "bias": 0
       },
       {
-        "title": "12 Days [Free] [Interactive Fiction]",
-        "link": "https://jeanlucdesira.itch.io/12-days",
-        "description": "Story Choice narrative",
-        "pubDate": "2026-04-01T13:05:14Z",
-        "source": "jeanlucdesira.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDU0NjMxLnBuZw==/315x250%23c/b%2BaHOC.png",
-        "bias": 0
-      },
-      {
-        "title": "Void Runner Turbo [Free] [Survival]",
-        "link": "https://nwsms.itch.io/void-runner-turbo",
+        "title": "One hundred points [Free] [Windows]",
+        "link": "https://jabageim.itch.io/onehundredpoints",
         "description": "",
-        "pubDate": "2026-04-01T13:03:33Z",
-        "source": "nwsms.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDU0NDE4LnBuZw==/315x250%23c/3nrRPy.png",
+        "pubDate": "2026-04-01T14:41:54Z",
+        "source": "jabageim.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDU2NDIyLnBuZw==/315x250%23c/vQvgSg.png",
         "bias": 0
       },
       {
-        "title": "Silvers Snake [$2.32] [Puzzle] [Windows] [Linux]",
-        "link": "https://oliviersala.itch.io/silvers-snake",
-        "description": "Silvers Snake - Roguelike Snake with levels, biomes and items!",
-        "pubDate": "2026-04-01T12:46:49Z",
-        "source": "oliviersala.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDU0NzQ1LnBuZw==/315x250%23c/vEmCJ8.png",
+        "title": "(AF) SpongeLife 3 [Free] [Other]",
+        "link": "https://hdroid.itch.io/bsf",
+        "description": "april fools game based off bpongebob's sasics bossfight by dillonleft",
+        "pubDate": "2026-04-01T14:30:54Z",
+        "source": "hdroid.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDU2Mjc3LnBuZw==/315x250%23c/9Wq%2FQ8.png",
         "bias": 0
       },
       {
-        "title": "ORIN GAMBLE [Free] [Visual Novel] [Windows] [macOS] [Linux]",
-        "link": "https://aokoro.itch.io/orin-gamble",
-        "description": "Luck-based VN.",
-        "pubDate": "2026-04-01T12:24:56Z",
-        "source": "aokoro.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDUzNzc2LnBuZw==/315x250%23c/1YqZcN.png",
+        "title": "Shadow of the Butterfly [Free] [Visual Novel] [Windows]",
+        "link": "https://sophiamiln.itch.io/shadow-of-the-butterfly",
+        "description": "A visual novel about time travel, where your choices affect the fate of the characters.",
+        "pubDate": "2026-04-01T14:19:28Z",
+        "source": "sophiamiln.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDU1ODMxLmpwZw==/315x250%23c/t%2Fth%2FG.jpg",
         "bias": 0
       },
       {
-        "title": "Divine Possession [Free] [Visual Novel] [Windows]",
-        "link": "https://jazzainab.itch.io/divine-possession",
+        "title": "Ship Happens [Free] [Puzzle]",
+        "link": "https://angryrubberducky.itch.io/ship-happens",
+        "description": "Build very stable code to guide your rocket through space until you reach the finish line. Watch out for asteroids!",
+        "pubDate": "2026-04-01T13:07:55Z",
+        "source": "angryrubberducky.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDU2MjY3LnBuZw==/315x250%23c/V8jGa6.png",
+        "bias": 0
+      },
+      {
+        "title": "Noctis: behind the trees [Free]",
+        "link": "https://allo77.itch.io/noctis-behind-the-trees",
+        "description": "horror game about darkness",
+        "pubDate": "2026-04-01T12:57:00Z",
+        "source": "allo77.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDU1MTk4LnBuZw==/315x250%23c/hON%2B8w.png",
+        "bias": 0
+      },
+      {
+        "title": "Jiekl RELOADED [Free] [Other] [Windows]",
+        "link": "https://pan-0.itch.io/jieklreloaded",
+        "description": "remaster of the original JIEKL videogame",
+        "pubDate": "2026-04-01T12:19:16Z",
+        "source": "pan-0.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDU0MzY1LnBuZw==/315x250%23c/ABE3Sk.png",
+        "bias": 0
+      },
+      {
+        "title": "slice! [Free]",
+        "link": "https://ntyn.itch.io/slice",
         "description": "",
-        "pubDate": "2026-04-01T12:02:37Z",
-        "source": "jazzainab.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDUzNzE4LnBuZw==/315x250%23c/PcUSlR.png",
-        "bias": 0
-      },
-      {
-        "title": "Vikings DrunkJump`In [Free] [Platformer] [Windows]",
-        "link": "https://greenwoltec.itch.io/vikings-drunkjumpin",
-        "description": "",
-        "pubDate": "2026-04-01T11:49:20Z",
-        "source": "greenwoltec.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDU0MjQzLnBuZw==/315x250%23c/uTUak7.png",
-        "bias": 0
-      },
-      {
-        "title": "Aurea [Free] [Puzzle]",
-        "link": "https://zenoparadox.itch.io/aurea",
-        "description": "Puzzle-hommage à  la spirale d'or",
-        "pubDate": "2026-04-01T11:46:09Z",
-        "source": "zenoparadox.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2NDUzNjY4LnBuZw==/315x250%23c/EKGbmt.png",
+        "pubDate": "2026-04-01T07:54:08Z",
+        "source": "ntyn.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2NDU2MzUwLnBuZw==/315x250%23c/VRQtZk.png",
         "bias": 0
       }
     ],
     "World": [
       {
-        "title": "Can Russia help fill the global energy gap?",
-        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/4/1/can-russia-help-fill-the-global-energy-gap?traffic_source=rss",
-        "description": "Higher crude prices due to the disruption in the Strait of Hormuz have helped Russia earn more from energy exports.",
-        "pubDate": "2026-04-01T13:55:55Z",
+        "title": "Explosions at Burundi ammunition depot kill civilians, witnesses say",
+        "link": "https://www.bbc.com/news/articles/c5y7x7qre0zo?at_medium=RSS&at_campaign=rss",
+        "description": "Powerful blasts destroyed homes and sparked panic in the city of Bujumbura on Tuesday night.",
+        "pubDate": "2026-04-01T15:23:06Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a9/live/94aacd40-2ddd-11f1-b297-95b0a0a8331e.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Rubio's and Vance's differing postures on Iran war highlight their challenges ahead of 2028 election - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNVowNWtMRFpkNEpDSWZxQ05QMldrejZiNkxaZmNia0NZYm10YXRpM1F3TkUtMVlKSUZDQ0w0a1VMRUlURFFxcFNLWGFzMmtXZ08tSmFSVU1tYVJyY20yV3FkZVh4bFRBTnJEZFN4Y3dPOXYtajZQc3BRM1VKUWJLaGpqSXlkcE1VbG1Vd0FnXzNzUWJFd3NxRHJQUnpiY3JleEV1VDZ3?oc=5",
+        "description": "",
+        "pubDate": "2026-04-01T15:20:54Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "After Israel's invasion, many in southern Lebanon worry they'll never go home",
+        "link": "https://www.npr.org/2026/04/01/g-s1-115929/israel-south-lebanon-evacuation",
+        "description": "Israel says it's creating a \"security zone\" inside Lebanon, where homes will be demolished, and residents won't be allowed to return home until people in northern Israel feel safe.",
+        "pubDate": "2026-04-01T15:15:11Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Iran War: What a Marine Expeditionary Unit is – and other US military terms",
+        "link": "https://www.aljazeera.com/news/2026/4/1/iran-war-what-a-marine-expeditionary-unit-is-and-other-us-military-terms?traffic_source=rss",
+        "description": "The US has deployed thousands of additional Marines and airborne troops to the Middle East since the Iran war began.",
+        "pubDate": "2026-04-01T15:13:13Z",
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
@@ -179,10 +242,55 @@
         "title": "DR Congo declares national holiday after reaching World Cup for first time in 52 years",
         "link": "https://www.bbc.com/news/articles/cm296yv05eeo?at_medium=RSS&at_campaign=rss",
         "description": "This is just the second time that DR Congo have reached the World Cup finals, sparking celebrations in Kinshasa.",
-        "pubDate": "2026-04-01T13:50:56Z",
+        "pubDate": "2026-04-01T15:13:13Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61eb/live/71b3dd20-2dcb-11f1-b297-95b0a0a8331e.jpg",
         "bias": 0
+      },
+      {
+        "title": "Iran denies Trump’s claim Iranian president requested ceasefire",
+        "link": "https://www.aljazeera.com/news/2026/4/1/iran-denies-trumps-claim-iranian-president-requested-ceasefire?traffic_source=rss",
+        "description": "Donald Trump says US will continue 'blasting Iran into oblivion' until Strait of Hormuz is reopened.",
+        "pubDate": "2026-04-01T15:11:31Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Ali Zafar wins defamation case against Meesha Shafi: Why it matters",
+        "link": "https://www.aljazeera.com/news/2026/4/1/ali-zafar-wins-defamation-case-against-meesha-shafi-why-it-matters?traffic_source=rss",
+        "description": "Shafi’s 2018 sexual harassment allegations against Zafar are widely seen as Pakistan’s highest‑profile #MeToo case.",
+        "pubDate": "2026-04-01T14:40:55Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "South African army arrive in crime hotspots to help tackle gangs",
+        "link": "https://www.bbc.com/news/articles/cx2e78yk09no?at_medium=RSS&at_campaign=rss",
+        "description": "The army has been deployed to five of South Africa's nine provinces for a year-long operation.",
+        "pubDate": "2026-04-01T14:35:00Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/604d/live/c73f2440-2dc4-11f1-b372-019434fa5473.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Megan Thee Stallion hospitalized after exiting ‘Moulin Rouge! The Musical’ mid-show - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUTNaaFVPSm5TNXpTeU1TZi1sRmFMOW9LSEtNOVY5Wml4T2ppY3pvNGVTWWJHUEFSNmZoLUw1dV9XbGlwdDRxQzNSMklycXVibE14c0FudW5YMnBjUnFOTThlVVdDeG9mWEJLeXBkM2oxLWtRem5WbEJXMWFfaF9ic3V3UFd3T1FWT1prWWNWOW5mdw?oc=5",
+        "description": "",
+        "pubDate": "2026-04-01T14:12:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Can Russia help fill the global energy gap?",
+        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/4/1/can-russia-help-fill-the-global-energy-gap?traffic_source=rss",
+        "description": "Higher crude prices due to the disruption in the Strait of Hormuz have helped Russia earn more from energy exports.",
+        "pubDate": "2026-04-01T13:55:55Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       },
       {
         "title": "Russia claims to take full control of Ukraine’s Luhansk region",
@@ -230,6 +338,15 @@
         "bias": -1
       },
       {
+        "title": "Warming winters lead to more nitrate pollution in the drinking water near farms - AP News",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUHdMOGd5c3B1LVgwNTl5enlHLXRxc19NUnRsblI4UEwwS3JuZ29HelFnT0dLWmVpOGhBeEluU0h6ajRyYThzQnM0d18zM3UzeUplNjN4dVUwdHZ6YlRwOFY5Vl90YmJJSDhJS0FzN1FGX1R1VnE0T2tFQS1oZVJxYWtJbjRWeFFzRDV2VWpKQnU2MDJvQkYyNm1Lcl8zSTFSaGg0NjRkNWFGd0paNXFfYV9MVjNsSWpWWkxOQlZB?oc=5",
+        "description": "",
+        "pubDate": "2026-04-01T13:03:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Lebanon faces growing displacement crisis",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/lebanon-faces-growing-displacement-crisis?traffic_source=rss",
         "description": "The UN warns Lebanon is facing a cycle of ‘coercive displacement’ as more than one million people flee Israeli attacks.",
@@ -266,15 +383,6 @@
         "bias": -1
       },
       {
-        "title": "NASA begins fueling rocket to launch astronauts on the first lunar trip in half a century - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYzZ6Z3d6RHdJdkpyY1l4cVJaYnpTc0FVNzdIMG9SWkRiQURkLTdVUmxyZTNpRDlpSGo3UmVpWC1tSE1XZHhWcGs4QUtvcUtxQ0p4ODRxWks1UTBoZHZob3B1ZlBOb0FjMWYtTUF0enhtOWlUYVZZOEZISFRPQTE1TjZGTzUzRFc4MDJYLQ?oc=5",
-        "description": "",
-        "pubDate": "2026-04-01T12:45:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "UK finds pro-Palestine protest organisers guilty of breaching police rules",
         "link": "https://www.aljazeera.com/news/2026/4/1/pro-palestine-civil-leaders-convicted-for-breaching-protest-rules-in-london?traffic_source=rss",
         "description": "Human Rights Watch slams the ruling against Ben Jamal and Chris Nineham as a 'political' move to silence dissent.",
@@ -284,21 +392,12 @@
         "bias": -1
       },
       {
-        "title": "AP Exclusive: Pakistan and Afghan Taliban resume talks in China as Beijing seeks ceasefire - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU2VrMGR0cUxudFc0aVd3QmExcFJkMUwtT0tfWFRqQjViSDYyeGpPZ0RNZU9lY0dRTG9OazF3aGNsZXdBRUh5REpNYWc1SnRZa0JvMzdVMHZRSFFJZzh4LVdiZ2RTM1NFWFJubmo2N1JNb0RQLXdJTXVPLUItSHdxbjBGaGVkN1lxV0x0ZlB6ckJHdkRLOGJrZXFiMGRPeVdYZWJsM2s5cWhwWWdyWmJIWS02ZWt0UQ?oc=5",
-        "description": "",
-        "pubDate": "2026-04-01T12:18:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Devastated Italians reckon with 'third apocalypse' of World Cup failure",
         "link": "https://www.bbc.com/news/articles/cj943rmkkm4o?at_medium=RSS&at_campaign=rss",
         "description": "Azzurri fans and management alike are pondering what went wrong after Italy fail to qualify for third World Cup in a row.",
         "pubDate": "2026-04-01T12:05:34Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f50/live/42a3e730-2dbe-11f1-b297-95b0a0a8331e.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dfb/live/a7fefac0-2dd7-11f1-a186-bdbec3fa8607.jpg",
         "bias": 0
       },
       {
@@ -383,8 +482,26 @@
         "bias": -1
       },
       {
+        "title": "Brazil judge blocks Sugarloaf Mountain zipline",
+        "link": "https://www.bbc.com/news/articles/cx29e3wljj2o?at_medium=RSS&at_campaign=rss",
+        "description": "The project to build a zipline linking the popular Rio tourist spot to Morro da Urca proved controversial.",
+        "pubDate": "2026-04-01T11:17:18Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1777/live/c6537470-2db3-11f1-927b-f98ec5617a78.jpg",
+        "bias": 0
+      },
+      {
         "title": "Final gargoyle returned to its perch atop rehabbed Kentucky cathedral modeled after Notre Dame - AP News",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTmxqSm96SVRQU0ktRm5EVUZLcXBFd1JhbWx5TWxGXzdqa3FuenpJNkJ0b0Q2a1d0S3dmYk5ZODBiTEc1d1VUdHhLQkNhU0JWNzBDclFEZG9ZOThSdzZWWVV3cEpDWm9BS3hmR3JYOElGSUNlU0JCRk11dElIelFIZGhvLW51djRyZXIwQnlZb0pBQXpyVFBIaHl4a3B3OGF2WmdOVG41azRMeEI0NlE?oc=5",
+        "description": "",
+        "pubDate": "2026-04-01T11:09:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "North Carolina's electoral future may hinge on rural Black voters who feel ignored by Democrats - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaktmYm5PVEw4RTQ0MGdkY2l6RTFaQThTeVlWN2JCem1MaEtFQS1CV19rZ3VpdzRLWnd6VEVlRm84VUJLOTR2bTdqTGFCUGNfZHpxRmVXdllaeUhlMFp2YzBiTWNtMHJzRm1LZ2hxX2VEd2VZM3lObkJtRnVLYTUzT2VRd0p2Qm5qMWxQaGNqVUJpb0VRTDJoTXVweVg1U0ZRVGJIeG1PZw?oc=5",
         "description": "",
         "pubDate": "2026-04-01T11:09:00Z",
         "source": "news.google.com",
@@ -437,6 +554,15 @@
         "bias": -1
       },
       {
+        "title": "Congo’s World Cup qualification unites a troubled country and brings a rare moment of joy - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcGVneXhUSkJvQmVHRVdyY3VtM0k0Y1ZtMHl6dGFONlNkcXc5QzItODB6YmVJLTRpNmY4TXdYMXlCR3ZiTmtBREpQVC1jMS1ESG9GM1FQN2d0TDZzRVgtZ2FVTVBhbU5NSU5TbGpNSUI2R0Vodm1VM2EyQVAzeWttTjhoQlY5UDY2dUFLelc2d2dSQQ?oc=5",
+        "description": "",
+        "pubDate": "2026-04-01T10:24:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Indonesia to deport Scottish crime boss wanted by Spain on murder and drug trafficking charges - AP News",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY2Q2Q2NweTR5QU9hZm1WY1MxUXEtdHhyVWpfa1o3clVEUnAzREVsSmo0UFJaSnZBLWNUU0pacTF0ZTIyRzlEbUxVRUFBdkZ3S3BHdTdpZHZHVjRtQlNhc2w3ejY2alFleHFPSlhQanE5Z0dnbXU2R1JiR056MjRVVUM0cFRmcmN2S19CdFpnTGRORzMxT1pnSm9IdW5QNXJLRnczZmhqNmpKaGJi?oc=5",
         "description": "",
@@ -464,28 +590,19 @@
         "bias": 0
       },
       {
-        "title": "Trump to address nation after saying U.S. may leave war within weeks",
+        "title": "Trump will address the nation after saying the U.S. may leave the Iran war within weeks",
         "link": "https://www.npr.org/2026/04/01/nx-s1-5769805/iran-war-trump",
-        "description": "President Trump is set to address the nation on the Iran war at 9 p.m. Eastern time on Wednesday night, with White House press secretary Karoline Leavitt saying he would be providing \"an important update,\" without providing further details.",
+        "description": "President Trump is set to address the nation on the Iran war Wednesday night and provide an \"important update,\" White House press secretary Karoline Leavitt said.",
         "pubDate": "2026-04-01T10:02:54Z",
         "source": "npr.org",
         "image": "",
         "bias": -1
       },
       {
-        "title": "Advocacy groups urge YouTube to protect kids from ‘AI slop’ videos - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWFAxemc2NlB3eTc2cmhBSTlPMTJfRWhlc25yZndQQXM3Zi05NGtfcFNraXJaa1R3QjBjam1TRW85OHpVT2dvTVlSdFkxcU5PUUpjUEJKUzFGejZiWHVic2ptMVFTcVlobEhMODYweWJNQWJPZkNvRUVKTko1bFJEMVVWVHJDOWZybGRwSlFZMWF6ZkE?oc=5",
+        "title": "Joy and heartbreak as final World Cup spots are decided, in photos - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ1d4VXJiaVU1SmpkbXBhSTdkZk85SFQ4Wnc3UWp0d0pDMnNFcTI0V3hHTkNtdVNhaktJLWFmOFFocUY3bnhialFfUnFocjBIVDVIRndzY2N2M2dBM2RzaC0yU3lsM0xlcy1Tc2V2UElIaDJwcnBPZC0zVjFRQWk3UEtGN1FKM0RuVVhUMURQWm5ERUNYeFl0cHBvbjFOOU1UYzAtalI4TGlnZVZhSWpB?oc=5",
         "description": "",
-        "pubDate": "2026-04-01T10:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Stopgap measures aren't enough to halt rising gas prices as the world scrambles for more oil - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUzUxQ244TnBvc1hnajlwQnBFRWZScFZHanRoa1BHR29obEoxb2JDdVJVdXBqZEhySzIwNG1HUzU4Zm1ySW04NVNUWkF1YmkweUt5dmlrZnU1N0dsaDV6Mk9WLUNKd2p1NGdoaHpEMWdJRndTZHdpX3B1TEU1bnNMUFFmcEhCLWZ6M2dZNzRBcHNjNXFYbklLTndtRHR0d1BEa3QzVEszRQ?oc=5",
-        "description": "",
-        "pubDate": "2026-04-01T09:58:00Z",
+        "pubDate": "2026-04-01T09:56:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -534,90 +651,27 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "India has begun its long-delayed population census. Here’s why it matters - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUXJBbGpKRElUZ2FFempkV0FOX1h6bjR3T1VOc054R002bFNodGFRbW1wQjNpem1QZm81M19GbGwwa3hqRjVPWlNKRXVTSGwyeTRPaHVTQkNVcnJlSTljSFRpdXA3ZFNYMDdyR2lXZ1FKc1hNMkpYMlpfejlCTlEwbDlKSGc2aFVnMERn?oc=5",
-        "description": "",
-        "pubDate": "2026-04-01T09:16:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "‘An incredible feeling’: Turkiye beat Kosovo to end 24-year World Cup wait",
-        "link": "https://www.aljazeera.com/sports/2026/4/1/turkiye-beat-kosovo-to-end-24-year-world-cup-wait?traffic_source=rss",
-        "description": "Turkiye secure a return to football's biggest tournament for the first time since 2002, when they finished third.",
-        "pubDate": "2026-04-01T09:06:41Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "US messages via Witkoff and intermediaries are not negotiations: Araghchi",
-        "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/4/1/us-messages-via-witkoff-and-intermediaries-are-not-negotiations-araghchi?traffic_source=rss",
-        "description": "Iran's foreign minister says message exchanges continue with Washington, but insists there are no negotiations or trust.",
-        "pubDate": "2026-04-01T09:00:08Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "India begins world’s largest population census",
-        "link": "https://www.aljazeera.com/news/2026/4/1/india-begins-worlds-biggest-population-count?traffic_source=rss",
-        "description": "More than three million Indian officials have begun the yearlong task of counting the country’s population.",
-        "pubDate": "2026-04-01T08:47:21Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "‘Gerrymandering’ in India’s Assam cuts Muslim representation before vote",
-        "link": "https://www.aljazeera.com/features/2026/4/1/gerrymandering-in-indias-assam-cuts-muslim-representation-before-vote?traffic_source=rss",
-        "description": "Muslims formed the majority in about 35 of the state’s 126 constituencies. Now that is down to about 20 seats.",
-        "pubDate": "2026-04-01T08:46:49Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "After years in Russian captivity, former mayor of Ukrainian city returns home",
-        "link": "https://www.npr.org/2026/04/01/nx-s1-5735845/after-years-in-russian-captivity-former-mayor-of-ukrainian-city-returns-home",
-        "description": "After spending most of the full-scale war in Russian captivity, the former mayor of a frontline Ukrainian city recalls his ordeal as he returns to a hometown deeply transformed by modern warfare.",
-        "pubDate": "2026-04-01T08:42:03Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "War on Iran: Three key takeaways from Araghchi’s interview with Al Jazeera",
-        "link": "https://www.aljazeera.com/news/2026/4/1/war-on-iran-three-key-takeaways-from-araghchis-interview-with-al-jazeera?traffic_source=rss",
-        "description": "Araghchi confirmed direct talks with Witkoff but denied that they constituted negotiations in an exclusive interview.",
-        "pubDate": "2026-04-01T08:27:51Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Lebanese displaced by war fill Beirut’s streets, upending city life - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRW5uZ2NEd0cteG5CaE1lWm5JWHlDLUg5TUY2M0FZdXNHNEJjQ016c3FGRTNwbGtZVDNKR0JvZHlIcjVJNEE0bDZidk9ZYThpSzV6S1RsTk15Zkg2RlRmakQtdnFISlRYRmIzTHJzMS00b013TkgtcHMwa0Y3Xy1ZV0lvdm1KaUxDQ3FQQ2tkUDB4cHhMYldhLXdjT2hYa2k4TWlGT0N1X0k?oc=5",
-        "description": "",
-        "pubDate": "2026-04-01T08:03:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Israeli police inspect damage on the road after missile impact",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/israeli-police-inspect-damage-on-the-road-after-missile-impact?traffic_source=rss",
-        "description": "Police inspect a strike site in Tel Aviv after a missile hit the city.",
-        "pubDate": "2026-04-01T07:55:50Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
+      {
+        "title": "Spain closes off its airspace to US planes involved in the Iran war - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeUlqd1RMWmp6UlZ3Q0twSVRheTF0WUkxby1yWGdZMUdCRDllLW4zYW9JREI3N29ETDlVQWdRaW9SZmkydFN0c3NjUFFPakh5RGY3cEpJb0cwMEE5aXNHcjNzUTJGcGlnNk9LbEdGVWpVN1JEeVNwcjhIS0pJLXpxRWJjTzFSM01CNmpGRkFwZUVaeUZpdHZSbDRn?oc=5",
+        "description": "",
+        "pubDate": "2026-04-01T15:44:31Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "NASA begins fueling rocket to launch astronauts on the first lunar trip in half a century - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYzZ6Z3d6RHdJdkpyY1l4cVJaYnpTc0FVNzdIMG9SWkRiQURkLTdVUmxyZTNpRDlpSGo3UmVpWC1tSE1XZHhWcGs4QUtvcUtxQ0p4ODRxWks1UTBoZHZob3B1ZlBOb0FjMWYtTUF0enhtOWlUYVZZOEZISFRPQTE1TjZGTzUzRFc4MDJYLQ?oc=5",
+        "description": "",
+        "pubDate": "2026-04-01T14:25:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "SNP candidate ditched over handling of Linden complaints",
         "link": "https://www.bbc.com/news/articles/cp86v8lze34o?at_medium=RSS&at_campaign=rss",
@@ -646,12 +700,48 @@
         "bias": 0
       },
       {
+        "title": "Transatlantic rift widens as Trump lashes out at NATO allies over unpopular Mideast war - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdWFFMEhFRmdIZ0tUNXo5ZzFjcWlTQ08zMnc2VTFzbDUwaU94UlhsQWVBdi1MeHk2UUpxcWk3U0lDREdQVmwwbUdaNzFUd1RoZ3NwcE5TaDlDV0V4ejFWb1hoZ2ptendBNDlOSHBCd2FRbThKSFhHWDVuRnVBeUp3RllZa3JxWHJUdjBMS1o1dFNFMVpyMF96bFVpczY?oc=5",
+        "description": "",
+        "pubDate": "2026-04-01T13:18:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Analysis: Starmer holds off from emergency measures but warns storm is coming",
         "link": "https://www.bbc.com/news/articles/cjr9nq94vrwo?at_medium=RSS&at_campaign=rss",
         "description": "The prime minister used a Downing Street news conference to make three big calls on the Iran war and cost of living pressures.",
         "pubDate": "2026-04-01T13:03:10Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cd0/live/7d4e8700-2dcd-11f1-91d2-f9f3a172f846.jpg",
+        "bias": 0
+      },
+      {
+        "title": "AP Exclusive: Pakistan and Afghan Taliban resume talks in China as Beijing seeks ceasefire - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU2VrMGR0cUxudFc0aVd3QmExcFJkMUwtT0tfWFRqQjViSDYyeGpPZ0RNZU9lY0dRTG9OazF3aGNsZXdBRUh5REpNYWc1SnRZa0JvMzdVMHZRSFFJZzh4LVdiZ2RTM1NFWFJubmo2N1JNb0RQLXdJTXVPLUItSHdxbjBGaGVkN1lxV0x0ZlB6ckJHdkRLOGJrZXFiMGRPeVdYZWJsM2s5cWhwWWdyWmJIWS02ZWt0UQ?oc=5",
+        "description": "",
+        "pubDate": "2026-04-01T12:18:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Advocacy groups urge YouTube to protect kids from ‘AI slop’ videos - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWFAxemc2NlB3eTc2cmhBSTlPMTJfRWhlc25yZndQQXM3Zi05NGtfcFNraXJaa1R3QjBjam1TRW85OHpVT2dvTVlSdFkxcU5PUUpjUEJKUzFGejZiWHVic2ptMVFTcVlobEhMODYweWJNQWJPZkNvRUVKTko1bFJEMVVWVHJDOWZybGRwSlFZMWF6ZkE?oc=5",
+        "description": "",
+        "pubDate": "2026-04-01T10:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Russian military plane crash in Crimea kills 29 people - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONWtmWHMyRE5CdEljZ1dOSEo0SHBVZVdfeWZVWXZHTkN6dE0wTjFqTElCTUJNNG12TWJxczNuUjRMRENvNVRyOFZZWlFoRmZERE1JWXhZc2JkLWplTkJqWl9WWjBKYVhfYlhuQzVXeExvX2gyd0tSUkZQeS1kc09wRFVJdi03eENwWTFwUHB3?oc=5",
+        "description": "",
+        "pubDate": "2026-04-01T09:16:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -673,6 +763,15 @@
         "bias": 0
       },
       {
+        "title": "Military suicides fell in 2024 but long-term rate for active duty troops still rising, Pentagon says - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUtzMDVXMEE5NVZIbUthclIwNm4wSlpSMlEtUGRfOEhpeUJ3MzZYcXdrNVRyVkwxOWJxWk02X1FCeHM5TGdVbUFzN3V0MklhQ21jVTZlcGs0OGRnNHZKRFJJYzVVM2gyaUg5SFY1dkVISF90dm1aZnNGeFlxRWNxVlVHYmlHUGlOelFoSVlSSjhzRHRxWFZyOTNxRWpyd3NT?oc=5",
+        "description": "",
+        "pubDate": "2026-04-01T06:47:55Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Suspension lifted for helicopter pilots who hovered near Kid Rock's home",
         "link": "https://www.npr.org/2026/04/01/nx-s1-5769800/suspension-lifted-helicopter-pilots-kid-rock",
         "description": "The Army pilots who hovered two helicopters near Kid Rock's Tennessee home during a training run while he clapped and saluted have had their suspension lifted, Defense Secretary Pete Hegseth said Tuesday.",
@@ -682,28 +781,37 @@
         "bias": -1
       },
       {
-        "title": "Trump plans to attend Wednesday's Supreme Court hearing on birthright citizenship",
-        "link": "https://www.npr.org/2026/04/01/g-s1-116019/trump-attend-supreme-court-birthright-citizenship",
-        "description": "President Donald Trump plans to sit in on Wednesday's Supreme Court hearing on birthright citizenship, making him the first sitting president to attend oral arguments at the nation's highest court.",
+        "title": "Trump attends Supreme Court arguments over his executive order, a presidential first",
+        "link": "https://www.npr.org/2026/04/01/g-s1-116019/trump-supreme-court-oral-arguments-birthright-citizenship",
+        "description": "The Supreme Court is hearing arguments about Trump's birthright citizenship order. Trump told reporters he wanted to sit in, bucking norms, because \"I have listened to this argument for so long.\"",
         "pubDate": "2026-04-01T05:26:14Z",
         "source": "npr.org",
         "image": "",
         "bias": -1
       },
       {
-        "title": "Netanyahu says Iran no longer threat to Israel’s existence, details security buffer zones - AP News",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVVF3OFdNTUhET3JpYV9WSC1oY0o5bl92d19HcmNtQUJvWmpGMU9yX3ZDcG05ZlBLVHJtZ3Z1SkgtRGdsdGkxSTVTTzV3RFo2OVhyaFE4TTVzcEp6Ql9NLXV0SXdaN0FLekN0bmZQektEMGk0WExBaHgxWjM2bWZlcV9hcUIwMHFCbWwxWW9zNXJuQVVJcElKNlRaZjdQNndFLWx0Y1FZSzRPbHdCeTNLWW1QaUI0RDJGblU1eFhBenZBd3hzZThUUkxrZlN0UGJxY0pqalJBNHNlUVFZVXc?oc=5",
+        "title": "Bruce Springsteen brings ‘Streets of Minneapolis’ home as he launches US tour with ‘War’ - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOC1qYWp0YnFMRVhqODdISWtiMkFncFo2dHM1U2hSLW1ROFl0bGdkWGg3bEZ4Um82VXI4OVRjVlB5U3BnSm0wdG5tZjdDZGNlQTB3ems1bDhPbzFhTW5fQm1iNlEwZUF3V2lKcm5BUkdWT3pzMDlpVUZSZnp2LTVxTjJDVVRZUEY0WXFTWGJ4U2N3VEx6MW13YTFxU0FCYW9mVzZGbkMyZ0hkZ3VGTlhETTIwS3JzR1F3?oc=5",
         "description": "",
-        "pubDate": "2026-04-01T01:18:00Z",
+        "pubDate": "2026-04-01T04:50:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "NFL Commissioner Roger Goodell has no plans to scrap Rooney Rule, despite Florida AG pressure - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNemVmSjJjY3VDalhzNDJSdFdPbV9YNDRpUWpVbF81d3QyUm11RHdzNTl2LWsxUFlpdHhGNy1DQnAyTU1uejBjZHJDUlh4NENOV3l5Rk9iNGlQbFpTdG92RkJOVnVWMDR2MF9UeGxIaE1fbG52TkdyV0ktaXpydi0tYnpkbnJvY01kbmsxb2ZUMTVhSWNud1g4Vw?oc=5",
+        "title": "Mariners agree to $95 million, 8-year contract with top shortstop prospect Colt Emerson - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcWZsdWNZOE9XZEtoQWx6RDZ1Q25WODlFdFBENUt6aDJTeXBLajg0Q0dsOC00TTBYR1c2M3NtS3FJS2RvXy1yb00teU5JWDVkd0hnVWlWX1RPcmc4aExkb09NWTE4QVd6UUFwUm1zb3JxVUFEa2M0YU9tR1BJaEs1dkpFZmhEUnJM?oc=5",
         "description": "",
-        "pubDate": "2026-04-01T00:17:00Z",
+        "pubDate": "2026-04-01T04:33:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Tiger Woods says he’ll seek treatment after pleading not guilty to DUI - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOWhHYXZSRnV4eHk1N2hJVW1fN21mZnFGTkdTd1AzcktXeG9YRWJrUVFST2ZLMUZxNjRKQnotWHBqYmZYa2FJVzVUc3BrSkZkdUNnVGhlYURoMnh3V2FKMm1FNHpEbkJuS1pfWUh0dmZuMTRKRnhyTVZLU0llX0s0UFZlc1E0eFNx?oc=5",
+        "description": "",
+        "pubDate": "2026-04-01T01:32:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -729,16 +837,25 @@
         "bias": -1
       },
       {
-        "title": "Lawyers for man accused of killing Charlie Kirk ask to delay preliminary hearing - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQm1yZmg0T2Exd3EydVAwWl9JSHlnMTY4RC1SVVNvWkVoVFdNaGl1eEtFZTA4SW9jaGgtb1h2QzlTMzlORTAzV0ozWkg1V0lzcWtBZ193ekhVejRLVG5lTmg4ZmprMkM3a3B5TFN1QUltcUQ1amxZei1XZ0tCalRwZnNFc1FjT1RfanpqZkpLeHpsVjhOX183Q1N6TUNYY2pzMVhRek13?oc=5",
+        "title": "2 little twists that make roasted carrots pop on an Easter table - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ0czT1ZFYVJCaVdJNkF5cWM3X2dTdEVfXzRoMkd4Z0hiUUhhNld4OXRLVXF4bXVuNlRLRkJCNnpvRDFhUERNYWNLbVhsUlVIb3pkZXhwLURkdFk3Mm1oVm5FRE1yamo1WmFYcjM1b3ZZOXBaeFpwcExEQXdkYUVfb2JIaXRBbl9mN3lVSUQ0M083QUE?oc=5",
         "description": "",
-        "pubDate": "2026-04-01T04:19:32Z",
+        "pubDate": "2026-04-01T01:36:27Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       }
     ],
     "Science": [
+      {
+        "title": "Project to bring rare butterfly back to Yorkshire",
+        "link": "https://www.bbc.com/news/articles/cly081kmrnlo?at_medium=RSS&at_campaign=rss",
+        "description": "The UK's largest native butterfly has not been seen in the region for more than a century.",
+        "pubDate": "2026-04-01T15:07:54Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d172/live/444b4c40-2dd7-11f1-a186-bdbec3fa8607.jpg",
+        "bias": 0
+      },
       {
         "title": "UK engineer says Moon is 'stepping stone' to Mars",
         "link": "https://www.bbc.com/news/articles/cdxkv454n7zo?at_medium=RSS&at_campaign=rss",
@@ -764,15 +881,6 @@
         "pubDate": "2026-04-01T09:22:22Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe20/live/40414aa0-2db4-11f1-a79a-77e93010d956.png",
-        "bias": 0
-      },
-      {
-        "title": "Russian military plane crash in Crimea kills 29 people - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONWtmWHMyRE5CdEljZ1dOSEo0SHBVZVdfeWZVWXZHTkN6dE0wTjFqTElCTUJNNG12TWJxczNuUjRMRENvNVRyOFZZWlFoRmZERE1JWXhZc2JkLWplTkJqWl9WWjBKYVhfYlhuQzVXeExvX2gyd0tSUkZQeS1kc09wRFVJdi03eENwWTFwUHB3?oc=5",
-        "description": "",
-        "pubDate": "2026-04-01T09:16:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -803,15 +911,6 @@
         "bias": 0
       },
       {
-        "title": "Project to bring rare butterfly back to Yorkshire",
-        "link": "https://www.bbc.com/news/articles/cly081kmrnlo?at_medium=RSS&at_campaign=rss",
-        "description": "The UK's largest native butterfly has not been seen in the region for more than a century.",
-        "pubDate": "2026-04-01T05:13:05Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c04/live/f4806b20-2dc5-11f1-b372-019434fa5473.png",
-        "bias": 0
-      },
-      {
         "title": "Museum gets grant for Bradford astronomer project",
         "link": "https://www.bbc.com/news/articles/c17vr0w020go?at_medium=RSS&at_campaign=rss",
         "description": "The project at Bolling Hall Museum will focus on Bradford-born astronomer Abraham Sharp.",
@@ -828,20 +927,11 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64e5/live/975ac590-2d2e-11f1-b297-95b0a0a8331e.jpg",
         "bias": 0
-      },
-      {
-        "title": "'It's going to be a great show': Crowds gather for countdown to Nasa’s Artemis launch",
-        "link": "https://www.bbc.com/news/articles/cz0e1myvl2ko?at_medium=RSS&at_campaign=rss",
-        "description": "Huge crowds are gathering around the Kennedy Space Centre to see the launch of the historic moon mission.",
-        "pubDate": "2026-04-01T00:00:18Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64e5/live/975ac590-2d2e-11f1-b297-95b0a0a8331e.jpg",
-        "bias": 0
       }
     ],
     "Business": [
       {
-        "title": "Leamington restaurant to close after rising costs",
+        "title": "Popular restaurant to close after rising costs",
         "link": "https://www.bbc.com/news/articles/cp86d611336o?at_medium=RSS&at_campaign=rss",
         "description": "A restaurant in Leamington say rising costs and falling footfall are behind their decision to close.",
         "pubDate": "2026-04-01T13:29:47Z",
@@ -906,6 +996,24 @@
     ],
     "Culture": [
       {
+        "title": "The NBA’s stretch run has arrived. Here’s a look at what’s happening - AP News",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeVozVGJiVWFaSGhDLTdRN1RxQ1dnOUVTUGowNmpDeWRQaUZ2aUxTby1qdXRiSERwOFZOZXR4bkVVbGFKRTJ6UGVtc0hEd1c1UE03MFVYbWZMeXcyeDNKVXVOaWRKTjllQnlXRWJ1cWpJVUJocFBnNkxWcHMzOXVEcnk2RQ?oc=5",
+        "description": "",
+        "pubDate": "2026-04-01T13:28:52Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "German leader raises prospect of many Syrians returning home as the country's president visits - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdjV5bHZrTFZXVFhBOE92ZUlrRXBjNjl0VHh3LTJ6Y1lyUVB4dTFrX0Vic0pldHFVVGZCellZbElZVjJWaDZ3cGhYV3MwUjd2aGlRYUlzMXptSWJCRWJTS2dkNGpjRjBkN19aYTE5S3FQZ212ZEd1c3JPMTFkSllLdVdicUg0VGxvenZxQ29Ea0dmNTJzQ0dReF9RYjczNnM?oc=5",
+        "description": "",
+        "pubDate": "2026-04-01T12:35:37Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "BBC knew about Scott Mills sexual offences investigation in 2017",
         "link": "https://www.bbc.com/news/articles/cwywvrye76lo?at_medium=RSS&at_campaign=rss",
         "description": "The corporation also says it is \"doing more work to understand the detail of what was known by the BBC\".",
@@ -933,12 +1041,12 @@
         "bias": 0
       },
       {
-        "title": "Photos show the effects of the Iran war on global energy worldwide - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbFdRdnBVZGRFaDlQRUlDdTdqaVBJbExyenFyZDZJSm5vRVhBbTdUMkZlSFBaaVhqN2dHLWR1eEpoTXg3NVdvWEVyUEZLN0FoZ0dOWnNDVUZjdVpPZmxUUGN5enZFMC1SUzFheTFGRWFZU1NTcklhRnRKNTVEMHNBX1NrdGRvVFJKSVAxamZ6TUdEODhBT1czZ0FJNA?oc=5",
-        "description": "",
-        "pubDate": "2026-04-01T06:49:00Z",
-        "source": "news.google.com",
-        "image": "",
+        "title": "US Army pilots who flew near Kid Rock's home suspended and then reinstated within hours",
+        "link": "https://www.bbc.com/news/articles/c4gx2rw87e9o?at_medium=RSS&at_campaign=rss",
+        "description": "The crews of two military helicopters were suspended by the army, then told there would be \"no investigation\" by Defence Secretary Pete Hegseth.",
+        "pubDate": "2026-04-01T00:51:56Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/268d/live/f3fb2740-2d51-11f1-8287-670af2c7ae92.jpg",
         "bias": 0
       }
     ]
