@@ -1,9 +1,453 @@
 {
-  "lastUpdate": "2026-04-15T00:06:06.849456Z",
+  "lastUpdate": "2026-04-15T03:36:41.701607Z",
   "news": {
-    "Gaming": [],
-    "World": [],
-    "Politics": [],
+    "Gaming": [
+      {
+        "title": "DRIVE TO SURVIVE [Free]",
+        "link": "https://alan-ying.itch.io/drive-to-survive",
+        "description": "",
+        "pubDate": "2026-04-15T02:54:37Z",
+        "source": "alan-ying.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2Njk2MTA1LnBuZw==/315x250%23c/tnAmz%2B.png",
+        "bias": 0
+      },
+      {
+        "title": "Goobert: The Dark Ritual [Free] [Action]",
+        "link": "https://gbam13.itch.io/goobert-the-dark-ritual",
+        "description": "Nobody messes with Goobert. Not even death.",
+        "pubDate": "2026-04-15T02:50:08Z",
+        "source": "gbam13.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2Njk2MDY5LnBuZw==/315x250%23c/Z83hcY.png",
+        "bias": 0
+      },
+      {
+        "title": "Speedy Todd: Run. Like. Hell. [Free]",
+        "link": "https://spencetk.itch.io/speedy-todd-run-like-hell",
+        "description": "",
+        "pubDate": "2026-04-15T02:48:53Z",
+        "source": "spencetk.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2Njk2MTQwLnBuZw==/315x250%23c/OGvUF7.png",
+        "bias": 0
+      },
+      {
+        "title": "Slime Fest [Free]",
+        "link": "https://classic2024.itch.io/slime-fest",
+        "description": "",
+        "pubDate": "2026-04-15T02:47:06Z",
+        "source": "classic2024.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2Njk2MTEzLnBuZw==/315x250%23c/nWnNX%2F.png",
+        "bias": 0
+      },
+      {
+        "title": "Therynvald's Journey [Free] [Role Playing]",
+        "link": "https://ronniekrazy.itch.io/therynvalds-journey",
+        "description": "A short demo - My first attempt at developing in RPG Maker",
+        "pubDate": "2026-04-15T02:43:23Z",
+        "source": "ronniekrazy.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2Njk1OTk2LnBuZw==/315x250%23c/rxXq9X.png",
+        "bias": 0
+      },
+      {
+        "title": "Interactive Scene Rough Build [Free]",
+        "link": "https://withoutthejuice.itch.io/interactive-scene-rough-build",
+        "description": "",
+        "pubDate": "2026-04-15T02:30:26Z",
+        "source": "withoutthejuice.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2Njk1ODc3LnBuZw==/315x250%23c/g0JsIF.png",
+        "bias": 0
+      },
+      {
+        "title": "シリコン設計士 [Free] [Puzzle]",
+        "link": "https://burebure.itch.io/silicon-designer",
+        "description": "半導体を学ぼう",
+        "pubDate": "2026-04-15T02:27:24Z",
+        "source": "burebure.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2Njk1ODE2LnBuZw==/315x250%23c/CWiKqv.png",
+        "bias": 0
+      },
+      {
+        "title": "Capsule Killer [Free] [Survival] [Windows]",
+        "link": "https://tr1ss.itch.io/capsule-killer",
+        "description": "My first ever working game",
+        "pubDate": "2026-04-15T02:25:02Z",
+        "source": "tr1ss.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2Njk1NzkzLnBuZw==/315x250%23c/0MBrcw.png",
+        "bias": 0
+      },
+      {
+        "title": "dgh fully fixed [Free] [Android]",
+        "link": "https://hawkgt.itch.io/dgh-fully-fixed",
+        "description": "",
+        "pubDate": "2026-04-15T02:24:34Z",
+        "source": "hawkgt.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2Njk1ODAzLnBuZw==/315x250%23c/dI2oUg.png",
+        "bias": 0
+      },
+      {
+        "title": "weird beach game [Free] [Other] [Windows]",
+        "link": "https://maeowve.itch.io/beach-game",
+        "description": "unsure how to describe this one",
+        "pubDate": "2026-04-15T02:24:28Z",
+        "source": "maeowve.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2Njk2MjI3LnBuZw==/315x250%23c/UYX2GM.png",
+        "bias": 0
+      },
+      {
+        "title": "Drones do Governo [Free]",
+        "link": "https://jvlc77.itch.io/drones-do-governo",
+        "description": "",
+        "pubDate": "2026-04-15T02:21:20Z",
+        "source": "jvlc77.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2Njk1Nzg0LnBuZw==/315x250%23c/xbEy%2FU.png",
+        "bias": 0
+      },
+      {
+        "title": "Cube Combat [Free] [Shooter] [Linux]",
+        "link": "https://kburchfiel.itch.io/cube-combat",
+        "description": "A 3D 3rd-person shooter created in C++ using Godot 4.6 and GDExtension",
+        "pubDate": "2026-04-15T02:20:18Z",
+        "source": "kburchfiel.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2Njk1OTI4LnBuZw==/315x250%23c/bwLWZw.png",
+        "bias": 0
+      },
+      {
+        "title": "DeepFall [Free]",
+        "link": "https://kaysans.itch.io/deepfall",
+        "description": "",
+        "pubDate": "2026-04-15T02:18:30Z",
+        "source": "kaysans.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2Njk2MDU4LnBuZw==/315x250%23c/SP5Xam.png",
+        "bias": 0
+      },
+      {
+        "title": "Drunk Lumberjack (real real demo) [Free]",
+        "link": "https://zaydekai.itch.io/drunk-lumberjack-real-demo",
+        "description": "",
+        "pubDate": "2026-04-15T02:10:00Z",
+        "source": "zaydekai.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2Njk0ODgxLmpwZw==/315x250%23c/f1RkSy.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Trashtropolis: Smart City Game [Free] [Adventure]",
+        "link": "https://lollysya.itch.io/trashtropolis-smart-city-game",
+        "description": "SMART CITY 2D GAME",
+        "pubDate": "2026-04-15T02:04:35Z",
+        "source": "lollysya.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2Njk1NjI0LmpwZw==/315x250%23c/ZybNEl.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Teddy's Game Chapter 1 Demo [Free] [Other] [Windows]",
+        "link": "https://lukewarm79.itch.io/teddys-game-chapter-1-demo",
+        "description": "The tutorial chapter for Teddy's Game.",
+        "pubDate": "2026-04-15T02:04:22Z",
+        "source": "lukewarm79.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2Njk1NDc4LnBuZw==/315x250%23c/wpvKpv.png",
+        "bias": 0
+      },
+      {
+        "title": "NEON-RUSH [Free] [Action]",
+        "link": "https://vrishabvarun.itch.io/neon-rush",
+        "description": "A fast-paced neon cyberpunk runner. Jump, dodge, survive.",
+        "pubDate": "2026-04-15T02:00:48Z",
+        "source": "vrishabvarun.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2Njk1NDgyLnBuZw==/315x250%23c/xEN8b1.png",
+        "bias": 0
+      },
+      {
+        "title": "Infinity Invasion [Free]",
+        "link": "https://pedrangolo.itch.io/infinity-invasion",
+        "description": "",
+        "pubDate": "2026-04-15T01:55:38Z",
+        "source": "pedrangolo.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2Njk1NTI2LnBuZw==/315x250%23c/kZUPf6.png",
+        "bias": 0
+      },
+      {
+        "title": "La deuda de sal [Free] [Visual Novel]",
+        "link": "https://wayakstudios.itch.io/deuda-de-sal",
+        "description": "visual novel",
+        "pubDate": "2026-04-15T01:52:55Z",
+        "source": "wayakstudios.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2Njk1Mzg4LnBuZw==/315x250%23c/Iwq9mt.png",
+        "bias": 0
+      },
+      {
+        "title": "It Was Always Her [Free] [Adventure] [Windows]",
+        "link": "https://hugxq.itch.io/it-was-always-her",
+        "description": "",
+        "pubDate": "2026-04-15T01:49:42Z",
+        "source": "hugxq.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2Njk1NTE0LnBuZw==/315x250%23c/MNzSNw.png",
+        "bias": 0
+      },
+      {
+        "title": "Hatronicles [Free] [Action] [Windows]",
+        "link": "https://santy834.itch.io/hatronicles",
+        "description": "Aventuras fuera de lo común, para un sobrero fuera de lo común",
+        "pubDate": "2026-04-15T01:27:56Z",
+        "source": "santy834.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2Njk1NTcxLnBuZw==/315x250%23c/s3XM3l.png",
+        "bias": 0
+      },
+      {
+        "title": "Riverrun Raid [Free] [Action]",
+        "link": "https://dangerdan.itch.io/riverrun-raid",
+        "description": "Fly your dragon. Destroy the castle. Don't shoot your food.",
+        "pubDate": "2026-04-15T01:20:29Z",
+        "source": "dangerdan.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2Njk1NTA2LnBuZw==/315x250%23c/oH853Y.png",
+        "bias": 0
+      },
+      {
+        "title": "VR Rowing [Free] [Sports] [Windows]",
+        "link": "https://reveluvable.itch.io/vr-rowing",
+        "description": "",
+        "pubDate": "2026-04-15T01:13:15Z",
+        "source": "reveluvable.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2Njk1MTU2LnBuZw==/315x250%23c/o0y4z5.png",
+        "bias": 0
+      },
+      {
+        "title": "signs of life [Free] [Interactive Fiction]",
+        "link": "https://moonfellow.itch.io/signs-of-life",
+        "description": "",
+        "pubDate": "2026-04-15T00:42:00Z",
+        "source": "moonfellow.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2Njk1Njg4LnBuZw==/315x250%23c/ICQKLE.png",
+        "bias": 0
+      },
+      {
+        "title": "Angel Dash [Free]",
+        "link": "https://zhongzhongq.itch.io/angel-dash",
+        "description": "",
+        "pubDate": "2026-04-15T00:05:44Z",
+        "source": "zhongzhongq.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2Njk0MTMyLnBuZw==/315x250%23c/MQmDhh.png",
+        "bias": 0
+      }
+    ],
+    "World": [
+      {
+        "title": "Watch: Vance heckled as he chides Pope",
+        "link": "https://www.bbc.com/news/videos/c86eevyg121o?at_medium=RSS&at_campaign=rss",
+        "description": "The US Vice-President was speaking at a Turning Point USA event, where he said Pope Leo should \"be careful when he talks about matters of theology.\"",
+        "pubDate": "2026-04-15T03:09:28Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2007/live/ffd57940-3877-11f1-8606-05fe34b06e1b.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Trump hints Iran talks could resume this week as US port blockade continues",
+        "link": "https://www.bbc.com/news/articles/c20ddnz4w5lo?at_medium=RSS&at_campaign=rss",
+        "description": "The United Nations' secretary general said it was \"highly probable\" that the negotiations would restart.",
+        "pubDate": "2026-04-15T02:58:25Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe40/live/503273c0-3832-11f1-b164-cbd9e6dd0bb7.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Carney suspends Canada’s fuel tax in first act after securing a majority government - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORVpmR003bmFhd0VNYTBBeGxIaFJ0UDc0eExyc2NyeXpoOEtTZzB3NF9ONDJjSGZpZGNaWU12WkNCSHRoN2pZTlJJcEc4NGctZHRKS0RtelgyYXg3dzFqYmg0TDdjVWZwV0xVNlpwM0c5ZVJmR3dDcnBEVnZmYU5XVmJ1blMwUWpRd0dtTEhfRDkxdTJ2SmlhS1ZPNE1idkk?oc=5",
+        "description": "",
+        "pubDate": "2026-04-15T02:58:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "US forces kill 4 people in latest strike on vessels in eastern Pacific",
+        "link": "https://www.aljazeera.com/news/2026/4/15/us-forces-kill-4-people-in-latest-strike-on-vessels-in-eastern-pacific?traffic_source=rss",
+        "description": "The killings mark the fourth US deadly strike in the past four days on vessels in the eastern Pacific Ocean.",
+        "pubDate": "2026-04-15T02:54:08Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "In apparent flub, Energy Secretary Wright says US heading ‘in the wrong direction’ - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSjlrY0lIU2p0RDcxYVk3blZIdnlvU09kVElNMU0tTUhNdmhDR2Y5bjJJVUdkMjdUVkwzXzN5N3VIZ2NnWVBBdVFna0hsT0ZtUkJtZUtyT1NmbWZCbjUta2pSb1dsWEZPWEFOcEdkT2dZakw1d2JKajlUdklrcXphMXR0TXkySWlBQTJITXp5SjAxNEJsRDZpVUFlMDRqcE42ZjA5WExfRQ?oc=5",
+        "description": "",
+        "pubDate": "2026-04-15T02:07:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Israel and Lebanon hold direct talks for first time in decades",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/15/israel-and-lebanon-hold-direct-talks-for-first-time-in-decades?traffic_source=rss",
+        "description": "After the first direct talks in decades, Israel and Lebanon have agreed to begin negotiations.",
+        "pubDate": "2026-04-15T01:47:29Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Peru faces a presidential runoff as election count drags on after ballot delays - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVi1Dc3d5UWNwYnlNdUNyc3c3bE8tcmNBV0JoNTRnMVZqQWpzdWJHX3BwZFNXMzdaOG5nSXpvZkt4NXE4UFZEcXF0dWhiT05BX2tyd2tYM0lDOVRaZzFqZDNKdy1ZbEdRUkcwcTd3ZGJ3NGgxbGYwSFRPeTB4aDdwRkkxTldwX3J4ck95Z0VoYkR5ZEs1eEE?oc=5",
+        "description": "",
+        "pubDate": "2026-04-15T01:45:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "What to know about Eric Swalwell’s exit from Congress and the California governor’s race - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdXpPbE14dmx0aVFTMFktSzR1MnlPcVFfTnMxaDNoaTJ5OGttdEhiYUZIVjJ6cGt0TGlsS2NKRTJkMWU1V0llTmFWYmwwTExJc011WFlBYVUyWlNkOGtJTTRvdnd5dnJvUGx6NGJCQVVIV1g4VGtGX2ZpbWxqMlhzUFdmZzREdXhRVVlXb29DS0cyZXJEYTUxazBFdTFkMFBzNXRLYXlzbWZWSFI3R2lrcA?oc=5",
+        "description": "",
+        "pubDate": "2026-04-15T01:42:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "US sanctions 2 casinos and 3 people over alleged links to Mexico’s Cartel del Noreste - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM1NkczZWelI5VTZpMFIzajgzOHFQNkpxTmJlcTVKTXlCSDBHUzlYRklNMUZCYkw2N1Q1T0dmS1NxTmRMQ3hHYnZ5UHFlZG1VRDJpS3BpVjREUHhKSGUxNzhwUlNseDJaUC0xZzczT3U1aDNrN1NqNjNXa3ZsSnBZc2QxbnlzOVc5b0hWemFTZGdkRXQxS2Y4SFFMWDk?oc=5",
+        "description": "",
+        "pubDate": "2026-04-15T01:34:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "250 missing after migrant boat sinks in Indian Ocean",
+        "link": "https://www.bbc.com/news/articles/cz6778j78vlo?at_medium=RSS&at_campaign=rss",
+        "description": "The trawler \"reportedly sank due to heavy winds, rough seas and overcrowding\", the United Nations said.",
+        "pubDate": "2026-04-15T01:28:08Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a78/live/41248c90-3866-11f1-88f7-8f678e5cb386.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Diplomats try to arrange more US-Iran talks during first full day of American blockade - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVGF4UVRuVk1TZGoyV202ZkpPSFp4MldhZFJKYk5MY0R5dW80UTU3V0wtWW1ORGUtNW1MODlfeTZIWTgzZ3VUdTV6QUJJTmVjdVQ1dHJvOTlaN0dva2VlYlVUdnptTGl3cVFyY2VpTDZzajZxZURRb0RPUXVuSm94SmNMQ3NCdC12eWZ5em44dWlZakppN3dCSXdHQlRuMFluSzVKT194eXlLV3lTQ05MS3FlWQ?oc=5",
+        "description": "",
+        "pubDate": "2026-04-15T01:28:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Heat's Bam Adebayo out for the game after Hornets' LaMelo Ball trips him, leading to hard fall - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdkpJWjJmdVBuMXhDZVp3Q093elg1TFVCLXMzd05pc3dkTVNuVHRsU21nM3dxeWhxLUJpUzdTLUhIVTBlZmZZeWhJUC1YMWNGdlpxWmZNQ2psUC1XWXFPNjhkaFI0QmhJY2t6RzhsTzNfaHZ3SFYxUGVQVURjbjlTMXpXNEs5T043U2FXS1R1OEhzcGVhaEE?oc=5",
+        "description": "",
+        "pubDate": "2026-04-15T01:28:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Israeli attacks kill 11, including two children, in day of strikes on Gaza",
+        "link": "https://www.aljazeera.com/news/2026/4/15/israeli-attacks-kill-11-including-two-children-in-day-of-strikes-on-gaza?traffic_source=rss",
+        "description": "A three-year-old and a 14-year-old were among those killed in Israel's latest strikes on northern Gaza.",
+        "pubDate": "2026-04-15T01:16:20Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "From chants on trams to a parliament rave, young Hungarians provided a soundtrack for Orbán’s defeat - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObmNWUGhtb3pFNXJqaTJEV1NiaTQwVlBVME1TcHd4ZFBrR3RHRllMUXFiTjVaTVBEaDlCNGNKOF9sSmFwdE1oU2V6RVVFa1c3WlJJME5YdnVPVmtpVXMzM2g1YzdLcWxDSk5FUktXUWlaaXNWVzlPZGRQbFpOQUlLUGRzQnhLaTltd0lvcHcwVFVJektLSWFVN0Z0Mm1uTkNBeF95N0VVa1k0cmQ4N2VB?oc=5",
+        "description": "",
+        "pubDate": "2026-04-15T00:59:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Former UCLA gynecologist pleads guilty to sex abuse after previous conviction was overturned - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYlZLY2JKeXc2YmQ5NjFKUTdjdmNmcDFFNTFHS3hfNkhlY1c3OHlNSVhzN0dodWZZVkN2bUtabVY2OWVTXzU1Q3BRTXpyS1FJaDdtOUFZbDBxcTFMQkp0X05BRU93MGtqdURtTXo2WEQ1b1lvX3V0YXNHWklKN2wxc2dsSzYzZGVReEhaREJIaktFWF9VOFNZVmVBOG5xYmJMMXlhcnpocEtfY3JFOWYyYTZn?oc=5",
+        "description": "",
+        "pubDate": "2026-04-15T00:49:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Justice Department moves to toss seditious conspiracy convictions of Oath Keepers and Proud Boys - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOenJzVGFSQll2dXNabk92RHBpV01fUDc2eDg4djF0cHlyMGpQN0xXODh6Tng2RU5OZ05GWXVYWklZLWRTRFg0Unczb085U2VONTJHM01qVGxWczJ0eTkxRTZmTGZMc1F4Xzh2T0czNGJwRDBRN1N2T3dJNUgwMmRsMThJWkk2RW8yRVU2VFJrd0tuRndJTU1TZ2gteExjSVREMURiZEFUekgyUGM?oc=5",
+        "description": "",
+        "pubDate": "2026-04-15T00:20:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "California woman says she was raped by Rep. Eric Swalwell in 2018 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMjk0TWgtdUJsMkJ5WExmZUpONExoTElaNTBvaEVqT3V5d0IzUkhoU0FPdkIzeGlyaklCZW9sU29mV0JDQWxHYm5fMHgtSlY3TEhvZ3R1eXYwek5hZV9DdkFUdnFnQzg3NWNIWFFDUDNnX3NTcElKMFZrTlRIVW5hdDZKenN0WVRzOVUyU1ljNmZUV0Q1SmhDcF81WFlHYWFhekZtcFNOc1N4cGpaLXc?oc=5",
+        "description": "",
+        "pubDate": "2026-04-15T00:15:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Mexico’s Sheinbaum pushes back on Trump over migrant deaths and Cuba - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN2lKcGU2RDFmZFdCMXdOeDBZSC1ySkhnbXdBQl9rLUNyaTV4Zno4aTRGVVRlRmxpZzRCVzR1U1BGeENjWDdsWE1GYXBxNjVrNmpKQVZOSHR2R1dEY3dGYnZjUWUwdi1ocmNSaHlTU2o5VTFFanN4Zm5oTVNIRUsxSDJxLXlMVWtsZVFUaF9oaGhmOEl0VDV3UFJiSQ?oc=5",
+        "description": "",
+        "pubDate": "2026-04-15T00:13:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Haiti’s Culture Ministry fires workers over citadel stampede that killed 25",
+        "link": "https://www.aljazeera.com/news/2026/4/15/haitis-culture-ministry-fires-workers-over-citadel-stampede-that-killed-25?traffic_source=rss",
+        "description": "At least nine people have been arrested following the stampede, including police officers and ministry employees.",
+        "pubDate": "2026-04-15T00:11:37Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "‘Mormon Wives’ star Taylor Frankie Paul will not be charged in recent fights with ex-partner - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX3lacU1yYmU4ZjU0Q3VubzNtZTh6YUJnOWJDX0wwVG1iYmNTbkM3U25nSFJlYkhwX0ZhVllaNlVxTEFHU3JlWjVFcWM2WGFFX29ZYmZPNXdja0lBTl9MTVB4YnFib2NsQ2Z5VnVJOXk3OE9Kd1NhZHhZQkxsZkVLdGR5VnpibjlwQm1wTE9ibV94WVQwQmxYT25rMW1mNUhWRVhfQWJqSWo?oc=5",
+        "description": "",
+        "pubDate": "2026-04-15T00:11:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Iran war live: Trump says war ‘close to over’ as Hormuz blockade continues",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/4/15/iran-war-live-trump-hints-at-second-round-of-talks-israel-pounds-lebanon?traffic_source=rss",
+        "description": "US president says second round of talks could be held in Pakistan as naval blockade of Iranian ports continues.",
+        "pubDate": "2026-04-15T00:00:00Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      }
+    ],
+    "Politics": [
+      {
+        "title": "Lebanon and Israel hold first direct diplomatic talks in decades in Washington - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNjFLcUViT0tkeEZrb3VlXzFxaVZwdG43eWJTaVFkS1lZRTBsdXJ6RFNVY0NsY1dKdWRLSUl4QzFZOXNsQUhjZmI3TnZiVjhfbWEtTThKX3BBQTdsekZqV0hySEI0cW14dzQ0RktEZGF0UUlQTEV1dHh0U0N4U2tHZUFQVGZ6U09kNXl2N1JOdTJoNzRpQkhuUTd1YWNjalNfaUgzN0dSWQ?oc=5",
+        "description": "",
+        "pubDate": "2026-04-15T03:10:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Attorney for suspect in attack at Sam Altman’s home says he was in midst of 'mental health crisis' - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYkliTmF5dnU5Y2N1b1d4SU1zY0dhUFowd3RFWjFRQjduOFhUNzU5QnM2WWFYUkZoLWl4SmxXNWJSTkZiaUh2M3RQWWRQX09mNnd2cjFKaG1MaENOTFl1YXVqdk1pTTRGQ21PU2tMV2VmWTAwSm9reXhWSVFvNkJEbUJRVG1UYTNqeUlMb2VYUUZmQ1UxX01lYkYwQmZ6anRwQWx5MEJIdlI?oc=5",
+        "description": "",
+        "pubDate": "2026-04-15T00:39:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "California governor candidates see opening after Swalwell’s exit - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOVVSdFVxdUlLRUdwY2l0S3VlOHNiWm5FU0Rlclg1cDd5M09BOWN4bzBxcGxnV0lXYmc1MzNsR2FoTkJ3Q1JtUW1Yb0xLWDdHVTlnZGxOZGtYcnRxZF9oV1ZQelh4VzdDZjhmUFBCRHNacUFiaGxIUkFaczdkMnEtLWVxMzhRTnRhZjdSVGJpYVMwSE16SDVoVXh1OXZLWkRVQmg0XzEtMU52amNfQk4zZ3JB?oc=5",
+        "description": "",
+        "pubDate": "2026-04-15T00:18:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ],
     "Tech": [],
     "Science": [],
     "Business": [],
