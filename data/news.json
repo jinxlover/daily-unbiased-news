@@ -1,243 +1,35 @@
 {
-  "lastUpdate": "2026-04-20T23:09:01.807569Z",
+  "lastUpdate": "2026-04-20T23:58:33.271175Z",
   "news": {
-    "Gaming": [
-      {
-        "title": "Garden Tag [Free]",
-        "link": "https://henriqueaa1.itch.io/garden-tag",
-        "description": "https://github.com/Henrique-Albuquerque2/TutorialIntroducaoUnity",
-        "pubDate": "2026-04-20T22:58:58Z",
-        "source": "henriqueaa1.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODA5NzgxLnBuZw==/315x250%23c/lWFcVn.png",
-        "bias": 0
-      },
-      {
-        "title": "Primal Clash (Beta) [Free] [Role Playing]",
-        "link": "https://mrhonda.itch.io/primal-clash",
-        "description": "A retro-style dinosaur battle RPG where you capture, train, and fight powerful dinos.",
-        "pubDate": "2026-04-20T22:50:13Z",
-        "source": "mrhonda.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODA5NTY3LnBuZw==/315x250%23c/3OlXjS.png",
-        "bias": 0
-      },
-      {
-        "title": "Signals and Points [Free] [Strategy]",
-        "link": "https://squimmy.itch.io/signals-and-points",
-        "description": "Build an island-spanning rail network!",
-        "pubDate": "2026-04-20T22:45:55Z",
-        "source": "squimmy.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODA5NjI2LnBuZw==/315x250%23c/Cb53B%2B.png",
-        "bias": 0
-      },
-      {
-        "title": "Chimera [Free] [Simulation] [Windows] [macOS] [Linux] [Android]",
-        "link": "https://dipuno1985.itch.io/chimera",
-        "description": "",
-        "pubDate": "2026-04-20T22:41:37Z",
-        "source": "dipuno1985.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODA5NjA1LnBuZw==/315x250%23c/TSsB%2Bf.png",
-        "bias": 0
-      },
-      {
-        "title": "Heaven Clash [Free] [Fighting] [Windows]",
-        "link": "https://harushion64.itch.io/heaven-clash",
-        "description": "",
-        "pubDate": "2026-04-20T22:40:05Z",
-        "source": "harushion64.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODA5MzgyLnBuZw==/315x250%23c/zPm6Q6.png",
-        "bias": 0
-      },
-      {
-        "title": "Scary Chef [Free] [Interactive Fiction]",
-        "link": "https://mamadox01.itch.io/scary-chef",
-        "description": "Run and Jump",
-        "pubDate": "2026-04-20T22:36:47Z",
-        "source": "mamadox01.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODA5MzIzLnBuZw==/315x250%23c/pRJj6r.png",
-        "bias": 0
-      },
-      {
-        "title": "AIST: Absolutely Irrational Sapper Technology [Free] [Shooter]",
-        "link": "https://unbird.itch.io/aist-absolutely-irrational-sapper-technology",
-        "description": "Game for Ludum Dare 59. Theme \"Signal\"",
-        "pubDate": "2026-04-20T22:35:36Z",
-        "source": "unbird.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODA3OTc2LnBuZw==/315x250%23c/Ir%2BKlL.png",
-        "bias": 0
-      },
-      {
-        "title": "Signal Keeper [Free] [Puzzle]",
-        "link": "https://indiepandagames.itch.io/signal-keeper",
-        "description": "Space, Loneliness, Confession",
-        "pubDate": "2026-04-20T22:35:26Z",
-        "source": "indiepandagames.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODA5MTc1LnBuZw==/315x250%23c/tZEr6y.png",
-        "bias": 0
-      },
-      {
-        "title": "SincerelyDamnSignal [Free] [Puzzle] [Windows]",
-        "link": "https://persivalko.itch.io/sincerelydamnsignal",
-        "description": "",
-        "pubDate": "2026-04-20T22:34:22Z",
-        "source": "persivalko.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODA5MzA5LnBuZw==/315x250%23c/gFVNgy.png",
-        "bias": 0
-      },
-      {
-        "title": "Space Pawn Space Shop [Free] [Puzzle] [Windows]",
-        "link": "https://bananplyte.itch.io/space-pawn-space-shop",
-        "description": "Welcome to the Space Pawn Space Shop!",
-        "pubDate": "2026-04-20T22:23:33Z",
-        "source": "bananplyte.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODA5MDM5LnBuZw==/315x250%23c/QegVmI.png",
-        "bias": 0
-      },
-      {
-        "title": "Formation Tactics: Line Breaker [Free] [Puzzle]",
-        "link": "https://wdebowicz.itch.io/formation-tactics",
-        "description": "",
-        "pubDate": "2026-04-20T22:18:41Z",
-        "source": "wdebowicz.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODA5NDkzLnBuZw==/315x250%23c/f580Af.png",
-        "bias": 0
-      },
-      {
-        "title": "USED [Free] [Action] [Windows]",
-        "link": "https://salazar-smile.itch.io/used",
-        "description": "",
-        "pubDate": "2026-04-20T22:17:02Z",
-        "source": "salazar-smile.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODA5NDg4LnBuZw==/315x250%23c/dBPK21.png",
-        "bias": 0
-      },
-      {
-        "title": "Lagworld Relay 59 [Free] [Puzzle]",
-        "link": "https://fazilovdev.itch.io/lagworld-relay-59",
-        "description": "Control a Mars rover through delayed signals. Command. Wait. Hope it survives.",
-        "pubDate": "2026-04-20T22:11:54Z",
-        "source": "fazilovdev.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODA4OTEzLnBuZw==/315x250%23c/thlH75.png",
-        "bias": 0
-      },
-      {
-        "title": "Islandia [Free] [Adventure] [Windows]",
-        "link": "https://derekglennon.itch.io/islandia",
-        "description": "Explore the island, light the signal fire, escape",
-        "pubDate": "2026-04-20T21:44:52Z",
-        "source": "derekglennon.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODA4NDA3LnBuZw==/315x250%23c/xZnCyG.png",
-        "bias": 0
-      },
-      {
-        "title": "My QR code Maker [Free] [Other]",
-        "link": "https://linh-is-tibia.itch.io/my-qr-code-maker",
-        "description": "free and customizable QR code maker that you do not have to pay for",
-        "pubDate": "2026-04-20T21:37:49Z",
-        "source": "linh-is-tibia.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODA4MjcyLmpwZWc=/315x250%23c/Lqieje.jpeg",
-        "bias": 0
-      },
-      {
-        "title": "Food Fighters [Free] [Fighting]",
-        "link": "https://angeloza.itch.io/food-fighters",
-        "description": "¡Bienvenidos! A un juego de peleas local con luchadores temáticos inspirados/hechos a base de comida",
-        "pubDate": "2026-04-20T21:29:14Z",
-        "source": "angeloza.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODA5NTAwLnBuZw==/315x250%23c/wNecFa.png",
-        "bias": 0
-      },
-      {
-        "title": "Kittycide [Free] [Interactive Fiction] [Windows]",
-        "link": "https://sumadinac-games-studios.itch.io/kittycide",
-        "description": "Kittycide is a 2D pixel-art tower defense game with a retro arcade feel.",
-        "pubDate": "2026-04-20T21:09:36Z",
-        "source": "sumadinac-games-studios.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODA3NzM5LnBuZw==/315x250%23c/VA1KCW.png",
-        "bias": 0
-      },
-      {
-        "title": "Sword of Selection [$1.00] [Role Playing] [Windows]",
-        "link": "https://queenscourt.itch.io/sword-of-selection",
-        "description": "Open world RPG",
-        "pubDate": "2026-04-20T21:02:15Z",
-        "source": "queenscourt.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODA5NDM4LnBuZw==/315x250%23c/wUkhjx.png",
-        "bias": 0
-      },
-      {
-        "title": "OVERDRIVE SIGNAL [Free] [Shooter]",
-        "link": "https://ihar21.itch.io/overdrive-signal",
-        "description": "Escape the laboratory infested with murderous cyborgs!",
-        "pubDate": "2026-04-20T20:01:13Z",
-        "source": "ihar21.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODA5NDk2LnBuZw==/315x250%23c/GlloFk.png",
-        "bias": 0
-      },
-      {
-        "title": "Interstellar Scam: 2G Compound! [Free] [Puzzle]",
-        "link": "https://dullahanhh.itch.io/is2c",
-        "description": "",
-        "pubDate": "2026-04-20T19:51:20Z",
-        "source": "dullahanhh.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODA2ODMzLmpwZw==/315x250%23c/xsZ6vJ.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Klat Shat [Free] [Puzzle]",
-        "link": "https://xahon.itch.io/klat-shat",
-        "description": "",
-        "pubDate": "2026-04-20T18:45:38Z",
-        "source": "xahon.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODA5NDQxLnBuZw==/315x250%23c/xEk2Pk.png",
-        "bias": 0
-      },
-      {
-        "title": "Lost Crab in the Great Sand Labyrinth [Free] [Puzzle]",
-        "link": "https://volts-alpaca.itch.io/lost-crab-in-the-great-sand-labyrinth",
-        "description": "Help poor crab escape the great sand labyrinth",
-        "pubDate": "2026-04-20T18:21:27Z",
-        "source": "volts-alpaca.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODA0MTUxLmpwZw==/315x250%23c/8pBWSu.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Analog Tune Override [Free]",
-        "link": "https://arryos.itch.io/analog-tune-override",
-        "description": "",
-        "pubDate": "2026-04-20T17:27:13Z",
-        "source": "arryos.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODA5NzkwLnBuZw==/315x250%23c/SsB0Ts.png",
-        "bias": 0
-      },
-      {
-        "title": "hehe, CARS [Free] [Racing] [Windows]",
-        "link": "https://trsthstrs.itch.io/hehe-cars",
-        "description": "RC Car Racing Game, hehe",
-        "pubDate": "2026-04-20T13:57:29Z",
-        "source": "trsthstrs.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2Nzk4ODY3LnBuZw==/315x250%23c/%2BWO1fE.png",
-        "bias": 0
-      },
-      {
-        "title": "Glitched Signal [Free] [Adventure]",
-        "link": "https://jamope.itch.io/glitchedsignal",
-        "description": "Tune in. Bring things back. Don't lose the signal. A Ludum Dare 59 game.",
-        "pubDate": "2026-04-20T11:21:34Z",
-        "source": "jamope.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODA4OTY3LnBuZw==/315x250%23c/QlhEex.png",
-        "bias": 0
-      },
-      {
-        "title": "Ping and Panic [Free] [Shooter]",
-        "link": "https://kabura.itch.io/ping-and-panic",
-        "description": "Ludum Dare - 59",
-        "pubDate": "2026-04-20T09:53:24Z",
-        "source": "kabura.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2Nzk1NTIxLnBuZw==/315x250%23c/UroWem.png",
-        "bias": 0
-      }
-    ],
+    "Gaming": [],
     "World": [
+      {
+        "title": "‘Predators’: Amnesty slams Netanyahu, Putin, Trump as human rights decline",
+        "link": "https://www.aljazeera.com/news/2026/4/20/predators-amnesty-slams-netanyahu-putin-trump-as-human-rights-decline?traffic_source=rss",
+        "description": "Global rights group says leaders of three countries behind devastating wars inspire other states to carry out abuses.",
+        "pubDate": "2026-04-20T23:43:01Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Shooting at pyramids north of Mexico City leaves 1 Canadian tourist dead, injures 6 people - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS0gwWUJTMEg3VlUzSnZrQlJnSFdYbWd2cTJaYi1lVFV0WWhHNHVITWtpVlhEZlMtYkd4bHVzU2IxbzBnMUFCaEREV0FlczRsazRrbk5Qd1VXNkhMM1lCczNzczdQbkl1SDl6UEw1MjZ6aVZTc19BcG5mMzVhc09CV0paRVFGUUVabkQ1R2J0YnRfTkZlMlQyLXRzVF9KdnFZeTVpai12VXY?oc=5",
+        "description": "",
+        "pubDate": "2026-04-20T23:18:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Hungary’s incoming PM says Netanyahu would be arrested if he visits",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/hungarys-incoming-pm-says-netanyahu-would-be-arrested-if-he-visits?traffic_source=rss",
+        "description": "Hungary’s election winner says he would enact an ICC arrest warrant for Israeli PM Benjamin Netanyahu and detain him.",
+        "pubDate": "2026-04-20T23:08:14Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "US singer D4vd pleads not guilty to murder in death of missing teen girl",
         "link": "https://www.bbc.com/news/articles/crr1v4gzkvlo?at_medium=RSS&at_campaign=rss",
@@ -300,6 +92,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Blue Origin’s New Glenn rocket is grounded after launching satellite into the wrong orbit - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdXpMOGhGMnJPbFg4Q3JNZWJfVnhfaFJJTHhLWTY2Wk9xVmpSblE1elprR21iUm55QWMyQjNSRF9xVVhzTE9XS1MyMDRnYUNkZVBwM2l0Y2NYeFJGWEc3SHhNei1WMjFldUlhbWpvdkY5RnNfMDlNY3I5Vm5xbWhheTQza1AyeFIzbVFOZ3NpTEFjUWRQVGhRa0hLbw?oc=5",
+        "description": "",
+        "pubDate": "2026-04-20T22:04:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Photos show scene of deadly Louisiana domestic attack that killed eight children - AP News",
@@ -518,6 +319,15 @@
         "bias": 0
       },
       {
+        "title": "Yankees right-hander Cam Schlittler says he and his family have received threats from Red Sox fans - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYjhoajRrT1k2blY2cWZTV3hTMHZSbEVUTk95eGFXbVNVY2NxZmxoU3RmSXBldnZJeWNUMU1Gblh2UHhvYzZUY2lYSnNyWGhDODlYYklMdEFTU1M5U09DU1VrQUNjeGFFYmw0Y1pVblVmVk56M1BWcTdMY0plOFUtQjRZNUl5MjVwYnFxci1JTWxkQmJuVDJCWGtB?oc=5",
+        "description": "",
+        "pubDate": "2026-04-20T20:02:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Rapper D4vd’ charged with murder of 14-year-old girl",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/rapper-d4vd-charged-with-murder-of-14-year-old-girl?traffic_source=rss",
         "description": "Prosecutors in California are charging rapper D4vd with the murder of 14-year-old Celeste Rivas Hernandez.",
@@ -525,15 +335,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Gunman at pyramids near Mexico City kills 1 Canadian tourist and injures 6 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS0gwWUJTMEg3VlUzSnZrQlJnSFdYbWd2cTJaYi1lVFV0WWhHNHVITWtpVlhEZlMtYkd4bHVzU2IxbzBnMUFCaEREV0FlczRsazRrbk5Qd1VXNkhMM1lCczNzczdQbkl1SDl6UEw1MjZ6aVZTc19BcG5mMzVhc09CV0paRVFGUUVabkQ1R2J0YnRfTkZlMlQyLXRzVF9KdnFZeTVpai12VXY?oc=5",
-        "description": "",
-        "pubDate": "2026-04-20T19:51:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Gunman kills Canadian woman, injures six at Mexico’s Teotihuacan pyramids",
@@ -554,15 +355,6 @@
         "bias": -1
       },
       {
-        "title": "Blue Origin’s New Glenn rocket is grounded after launching satellite into the wrong orbit - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdXpMOGhGMnJPbFg4Q3JNZWJfVnhfaFJJTHhLWTY2Wk9xVmpSblE1elprR21iUm55QWMyQjNSRF9xVVhzTE9XS1MyMDRnYUNkZVBwM2l0Y2NYeFJGWEc3SHhNei1WMjFldUlhbWpvdkY5RnNfMDlNY3I5Vm5xbWhheTQza1AyeFIzbVFOZ3NpTEFjUWRQVGhRa0hLbw?oc=5",
-        "description": "",
-        "pubDate": "2026-04-20T19:36:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Louisiana mass shooting: What we know about suspect, eight children killed",
         "link": "https://www.aljazeera.com/news/2026/4/20/louisiana-mass-shooting-what-we-know-about-suspect-eight-children-killed?traffic_source=rss",
         "description": "The Shreveport attack is the deadliest mass shooting reported in the US in over two years.",
@@ -576,6 +368,15 @@
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMl9JVFI5R0tlOTN2dldUVXdTRjlQTmU5ZE9OTzRJV016WTE0OEZZTm1nWndpVmxOalpNRWp0R0k0dmRHWUNtT2ZLWk1zOXVsS01PWld6NUtNWUxvNzlQbXZkd0Q1WU11dDNVNGpld0F2bkpHUFpJNFVJcnU3QXZjcm1GQm5fQy1YTGNoX2xnRnE?oc=5",
         "description": "",
         "pubDate": "2026-04-20T19:26:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Mob boss John Gotti’s grandson sentenced to 15 months in prison for COVID-19 loan fraud - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWXJRN1BpSnpoQnlSQk41R3BSbFRiM1REY05xajRmekhud2Qta0lvQWNHWFNCZ05kcUJqZmg3VEZhc2Vja2NQVFotOEpKQllfTmMyNFR4dzFnc1lpUlRGT0thUGVsTDJMZFp6aWFZbHdya2s2Z0gzajFUd3VueE5laUgxVnlLX29Ta0FwamxNWVRIZmtycWNkRFZsQWV0MG04Q1FpNg?oc=5",
+        "description": "",
+        "pubDate": "2026-04-20T19:19:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -626,6 +427,15 @@
         "bias": -1
       },
       {
+        "title": "Cowboys make Brandon Aubrey the NFL's highest-paid kicker with a $28 million, 4-year contract - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdFFEWFZKMVNLeHFHSzhJRnNDT25LbWlnOFBFWGJEYjBmSmNtOXlGa2NwWFVfUjFNUG9yOWI0SWpIN2E4NFVDUHlZYktrMWVoeTVyTWZ5M3l0TFc2MGREcUkxNEljUy10NFIzc2JRWkxWakhrNmVNajBzcE1CeHI4eXlTNDNjc205RG1FLWZNTG1ORGgySnc?oc=5",
+        "description": "",
+        "pubDate": "2026-04-20T18:01:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "UAE reports dismantling of Iran-linked ‘terror’ cell",
         "link": "https://www.aljazeera.com/news/2026/4/20/uae-reports-dismantling-of-iran-linked-terror-cell?traffic_source=rss",
         "description": "Arrests come after United Arab Emirates bore the brunt of Iranian attacks on Gulf neighbours.",
@@ -642,63 +452,9 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Woman charged in US with trafficking arms to Sudan for Iranian government",
-        "link": "https://www.aljazeera.com/news/2026/4/20/woman-charged-in-us-with-trafficking-arms-to-sudan-for-iranian-government?traffic_source=rss",
-        "description": "US accuses Iranian citizen of brokering arms deals, including for drones and ammunition, with Sudan Ministry of Defence.",
-        "pubDate": "2026-04-20T17:46:29Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Trailblazing black beauty queen who defied apartheid South Africa dies aged 76",
-        "link": "https://www.bbc.com/news/articles/cy41kklknreo?at_medium=RSS&at_campaign=rss",
-        "description": "At the 1972 Miss World contest, Cynthia Shange was one of two contestants from South Africa - one black and one white.",
-        "pubDate": "2026-04-20T17:38:22Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8944/live/873e6570-3cd5-11f1-879d-1b2f5c3919b8.jpg",
-        "bias": 0
-      },
-      {
-        "title": "‘Nothing left’: Hong Kong fire survivors return to burnt homes",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/nothing-left-hong-kong-fire-survivors-return-to-burnt-homes?traffic_source=rss",
-        "description": "Hong Kong fire survivors return to Wang Fuk Court five months after a blaze killed 168 people.",
-        "pubDate": "2026-04-20T17:35:33Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Search is on for 6 crew from a ship that overturned near the Northern Marianas during a typhoon - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPblpSXzJHN2NLZkVhYS1KTG16T3ByQkI0N3JDWVJHWEl1R1hXWlUxOUZRQ25aaDM3ZFFscDJlQXVuOTdlQkxtallpampSLXdQWUk3elA5YmRnbXQwN3Z2eXJVVDBhWmhTZGVsWXhYYVBTOEw3V20zSV84c25jOEZidTVxVHFxd3FaQ0hWT3NhcGZhYkNCY0FwVVdJbw?oc=5",
-        "description": "",
-        "pubDate": "2026-04-20T17:35:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Police gunfight with favela gang traps 200 tourists on hilltop",
-        "link": "https://www.bbc.com/news/articles/cjr9vvr904wo?at_medium=RSS&at_campaign=rss",
-        "description": "The access route to Morro Dois Irmãos was blocked during the operation in Vidigal, leaving scores of alarmed sightseers stuck on the hill.",
-        "pubDate": "2026-04-20T17:34:10Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4b9/live/ab7c12f0-3cd2-11f1-816e-3fe511deafa9.jpg",
-        "bias": 0
       }
     ],
     "Politics": [
-      {
-        "title": "Amtrak cancels Florida auto train service as a wildfire disrupts routes - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX3FFUVJSRlNDU2o2S3BKczI5RHJYSkNyWk85Z3pVTlE4QURxZTNKNzVKN1BpXzdWMGs0dXFUdWRuRFdMcnh6dkVRcGtveGhHRm1QbDd3TFNPc1BSQnZBcFY2MU5FanRiY0tGb20yTG9oNnQ0NzRhYjRhaDQxLUhqYTZkZXFDS2RhQnFVY3VoOFZQZ3l4SU1ua1lWWnRBbjg?oc=5",
-        "description": "",
-        "pubDate": "2026-04-20T22:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
       {
         "title": "Trump's labor secretary resigns amid investigation into misconduct",
         "link": "https://www.npr.org/2026/04/20/nx-s1-5739251/labor-secretary-trump-chavez-deremer",
@@ -754,6 +510,15 @@
         "bias": 0
       },
       {
+        "title": "Vermont seeks feedback from residents on possible restoration of the Bennington Battle Monument - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN1dhdVNMTk80VmlBVUc0MUdYanVydlMzOXg3QlN5SU53WHRPZVk3WGtEbFJOY2V5eXZ0TTlFdVlqUEJLLW5LYzN0T0RqSVZkZXI0TUpjNC1xV3dyOTZLcUhzR3h0YmtQQkpEQ3hrQUo3ZVEwUVZUUndFYW5BWm5fNk04Wkh3OW9hRFY5dG1UVWJxS3JQMWp0RTYzem00UU85U0Q0?oc=5",
+        "description": "",
+        "pubDate": "2026-04-20T18:07:37Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Officials deliberately withheld Mandelson vetting result from me, Starmer says",
         "link": "https://www.bbc.com/news/articles/cx2wllel54no?at_medium=RSS&at_campaign=rss",
         "description": "The PM tells the Commons that if he had known the peer failed security vetting he would not have been appointed.",
@@ -790,15 +555,6 @@
         "bias": 0
       },
       {
-        "title": "A top paramilitary commander defects to Sudan’s military as war enters 4th year - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZDd1RWtxUFl5bV9TeE9XUEtmcWtjaXROeU9TenB6RGlsQ18wUWdSNENZdTl0UlhEOTJQNWQ4ZjhtRExHRnlMZnlMc1JWMjA2OTFvRHpiUUdHVy1EdmtWZDhPUVpKbS1qS3J5cWhNZ3FMa2wwaVFjVG9XLThFZEpuWlRRUUE4aWhRREE?oc=5",
-        "description": "",
-        "pubDate": "2026-04-20T15:24:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Reform pledges to review all asylum claims for past five years if it wins power",
         "link": "https://www.bbc.com/news/articles/c0rxd5wpyqwo?at_medium=RSS&at_campaign=rss",
         "description": "The current Labour government has already announced major crackdowns on immigration, including disrupting gangs.",
@@ -817,18 +573,18 @@
         "bias": 0
       },
       {
-        "title": "Who owns presidential records? Trump's Justice Department says it's him",
-        "link": "https://www.npr.org/2026/04/20/g-s1-117887/trump-justice-department-presidential-records-lawsuit",
-        "description": "The Trump administration asserts that a nearly 50-year-old law requiring the preservation of presidential records is unconstitutional. Historians warn important papers could be destroyed.",
+        "title": "Voters say they feel confused and misled on Virginia's redistricting vote",
+        "link": "https://www.npr.org/2026/04/20/nx-s1-5790809/virginia-redistricting-election-trump-gerrymandering",
+        "description": "Contradictory election mailers, conflicting TV ads and vague wording on the ballot have Virginia voters saying that the campaigns on either side of the redistricting vote are muddying the waters.",
         "pubDate": "2026-04-20T09:00:00Z",
         "source": "npr.org",
         "image": "",
         "bias": -1
       },
       {
-        "title": "Voters say they feel confused and misled on Virginia's redistricting vote",
-        "link": "https://www.npr.org/2026/04/20/nx-s1-5790809/virginia-redistricting-election-trump-gerrymandering",
-        "description": "Contradictory election mailers, conflicting TV ads and vague wording on the ballot have Virginia voters saying that the campaigns on either side of the redistricting vote are muddying the waters.",
+        "title": "Who owns presidential records? Trump's Justice Department says it's him",
+        "link": "https://www.npr.org/2026/04/20/g-s1-117887/trump-justice-department-presidential-records-lawsuit",
+        "description": "The Trump administration asserts that a nearly 50-year-old law requiring the preservation of presidential records is unconstitutional. Historians warn important papers could be destroyed.",
         "pubDate": "2026-04-20T09:00:00Z",
         "source": "npr.org",
         "image": "",
@@ -853,10 +609,10 @@
         "bias": 0
       },
       {
-        "title": "Man kills 7 of his children plus another child in shooting in Louisiana neighborhood - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTVFUbUhTMUprUW9YV1NkU3ItcWxVMnJTQ2VhanpmT0FXMnJLMk42UENzWXJFQVpIdE5VMXk3eUI0aW5FT1VRb3BUclpZVFBmd2JrOVAwd25tWUM2YWhMNDRERTJXWmtjSGtZdGhWX1VkU2RzY1ZoMW1Eanllb25vUGdDS093UUhQQWpDRTB6b2ZLdGF2aThteEVn?oc=5",
+        "title": "Sabres score 4 3rd-period goals to beat the Bruins 4-3 in playoff opener - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWi1paUFzTmxCS0VDM3hJQ3MwcmN5QjM3SV9ZcnBkX2ZxM0F4VVZoYkNJTUtacEVYYlktcmk0SjdJSllZaE43clR1QmNXX0xMcURQM3luakphVF9XWVNvSVVmekp0eXpGM1I1dm1JV1pSalJqTnhpWjBBMmZQb05sMEFKdzcxZENpOW9xY0JJTDJYUQ?oc=5",
         "description": "",
-        "pubDate": "2026-04-20T04:48:00Z",
+        "pubDate": "2026-04-20T03:46:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -873,6 +629,24 @@
     ],
     "Tech": [
       {
+        "title": "Singer D4vd pleads not guilty to murder in death of 14-year-old Celeste Rivas Hernandez - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX1I0bG1kZ0dfcHRid0Y5alY1dVFxS2VvdWdCOC1vXzhKVFNMZWJQU015ME5vQVRWbHZCa0J5U1R4czdudmszZ2RCVk1fS3FSX3ZvTzRRRjE1V1dOUnBhVVFtYzNmUmZqdkZuWlVQQTRRZDF0SjZpTFpkcXdYODFzYk81N1I0TUU4QmIxRDFsT19yNGhpVFRoaW9fcEE?oc=5",
+        "description": "",
+        "pubDate": "2026-04-20T23:35:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "The 'dumb machine' promising a clean energy breakthrough",
+        "link": "https://www.bbc.com/news/articles/c5yvm11xrn6o?at_medium=RSS&at_campaign=rss",
+        "description": "A stellarator is difficult to build, but could it be the best way to make fusion energy work?",
+        "pubDate": "2026-04-20T23:09:41Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cdc/live/60502c90-2c32-11f1-a79a-77e93010d956.jpg",
+        "bias": 0
+      },
+      {
         "title": "Apple names new chief executive to replace Tim Cook",
         "link": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss",
         "description": "John Ternus will take over running the technology giant as Cook steps up to become executive chairman.",
@@ -882,9 +656,9 @@
         "bias": 0
       },
       {
-        "title": "Tim Cook will step down as Apple CEO",
+        "title": "Tim Cook to step down as Apple CEO. In letter, describes 15 years of emails",
         "link": "https://www.npr.org/2026/04/20/g-s1-118159/apple-ceo-tim-cook-stepping-down",
-        "description": "The 65-year-old Cook will turn over CEO duties to Apple's head of hardware products, John Ternus, on September 1 while remaining involved with the Cupertino, California, company as executive chairman.",
+        "description": "The 65-year-old Cook will turn over CEO duties to Apple's head of hardware products, John Ternus, in September. Cook will remain with the company as executive chairman.",
         "pubDate": "2026-04-20T21:57:52Z",
         "source": "npr.org",
         "image": "",
@@ -913,15 +687,6 @@
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbGdBNUFMd3pIbklMY1BDWGVFdUN4V3FfdVp6VWZJdjNGQU9EelB3cFVJNjF0LW90amVVaUVNSm9IYzVPaElWQ29lNU9zYW5BdWJkRmk1YWotN1FfYUlZUUsyWWZUWHRXeHMtdVR5TmdmdXFJMXhMUzF3cTJZLWZGaVVMZEpBWk5IRmNOZkNRZlNFTGFWWVdlQnZQSkNYY1hwWVBnV0hQN0pqY05hbVpWNThmYmZhekE?oc=5",
         "description": "",
         "pubDate": "2026-04-20T19:41:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Sabres score 4 3rd-period goals to beat the Bruins 4-3 in playoff opener - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWi1paUFzTmxCS0VDM3hJQ3MwcmN5QjM3SV9ZcnBkX2ZxM0F4VVZoYkNJTUtacEVYYlktcmk0SjdJSllZaE43clR1QmNXX0xMcURQM3luakphVF9XWVNvSVVmekp0eXpGM1I1dm1JV1pSalJqTnhpWjBBMmZQb05sMEFKdzcxZENpOW9xY0JJTDJYUQ?oc=5",
-        "description": "",
-        "pubDate": "2026-04-20T03:46:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -958,21 +723,21 @@
     ],
     "Business": [
       {
+        "title": "The 20-somethings juggling three jobs to make ends meet",
+        "link": "https://www.bbc.com/news/articles/cn89n9exl11o?at_medium=RSS&at_campaign=rss",
+        "description": "While UK unemployment is at a five-year-high, increasing numbers of those in work have more than one job.",
+        "pubDate": "2026-04-20T23:08:10Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0166/live/ca067670-3cbe-11f1-8307-55aabab9b8cb.jpg",
+        "bias": 0
+      },
+      {
         "title": "Petrol thefts surge as Iran war pushes up fuel costs",
         "link": "https://www.bbc.com/news/articles/cx2drmm1mglo?at_medium=RSS&at_campaign=rss",
         "description": "One petrol retailer says he is experiencing about five drive-offs a week at each forecourt, costing him thousands.",
         "pubDate": "2026-04-20T23:04:23Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a03/live/1abcd3c0-3cf6-11f1-a60f-41d0a7fcc620.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Singer D4vd pleads not guilty to murder in death of 14-year-old Celeste Rivas Hernandez - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX1I0bG1kZ0dfcHRid0Y5alY1dVFxS2VvdWdCOC1vXzhKVFNMZWJQU015ME5vQVRWbHZCa0J5U1R4czdudmszZ2RCVk1fS3FSX3ZvTzRRRjE1V1dOUnBhVVFtYzNmUmZqdkZuWlVQQTRRZDF0SjZpTFpkcXdYODFzYk81N1I0TUU4QmIxRDFsT19yNGhpVFRoaW9fcEE?oc=5",
-        "description": "",
-        "pubDate": "2026-04-20T22:30:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -1091,15 +856,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "US Navy seizes an Iranian-flagged ship near Strait of Hormuz and Tehran vows swift response - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUVLVi16MVVUcm1kWTZNd1ItcDJMQlJ6YUVYdHN1aWIxM1BmMXJ3VWVSSng3VTV1aHdRSE1NSFNGcEg4MHd4YUNjX1JBdmFGVDItVTZnQjV4WjFNaDVveVlieE44Q3FIbmRxUThuakc0V3h2ZlNKNTYxWUhQMnp4ZU8zSVd4d0NmOHlncVE3WjltamlwUkdlQkhQU0lIVFlD?oc=5",
-        "description": "",
-        "pubDate": "2026-04-20T00:06:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Culture": [
@@ -1107,7 +863,7 @@
         "title": "Music - AP News",
         "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9FQWF3bmRaX2NPTlZiaFhIZ2JhTFVUYXdDcjZnRWMzT2RHQkRVbzJLSlZZQ0VXSmY4Nk5HS2lYZzRvQQ?oc=5",
         "description": "",
-        "pubDate": "2026-04-20T16:37:55Z",
+        "pubDate": "2026-04-20T16:44:09Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1128,6 +884,15 @@
         "pubDate": "2026-04-20T14:12:27Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/317a/live/6b90c220-70e7-11ef-bb5b-c361f7cd4381.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Russia has looted thousands of Ukrainian cultural objects in the war. Finding them is a challenge - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbVlobTAyZXlWUlBnZmxtYnB2MHZDeHJlT0lkQkg4aGN4OU9aZTFnVDVVS3RyVGtsVWRuWEk2WnZBdHNoRGxFQm83Zzg0YUJSN2o5cXVwVlpBMEEzT2tOS3gwY2w4ZlZKVHFuRmVBWk5na2Ewc1MtSU42c3pOSHM0aFp6ZUJMUEVjQVNYUG9nNmNRZ1dZNTVwRVdINEpEM0Jh?oc=5",
+        "description": "",
+        "pubDate": "2026-04-20T14:03:31Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
