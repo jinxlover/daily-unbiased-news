@@ -1,252 +1,297 @@
 {
-  "lastUpdate": "2026-04-25T18:04:53.827663Z",
+  "lastUpdate": "2026-04-25T19:08:23.552274Z",
   "news": {
     "Gaming": [
       {
-        "title": "Hallomeer [Free] [Platformer] [Windows]",
-        "link": "https://kohuten.itch.io/hallomeer",
+        "title": "Праздник Жизни [Free] [Visual Novel] [Windows]",
+        "link": "https://natovchanin.itch.io/party-life",
+        "description": "Почему я не должен умирать?",
+        "pubDate": "2026-04-25T18:48:59Z",
+        "source": "natovchanin.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2ODk4OTE4LnBuZw==/315x250%23c/eHX9jS.png",
+        "bias": 0
+      },
+      {
+        "title": "Word Games [Free] [Other]",
+        "link": "https://xemstudio.itch.io/word-games",
+        "description": "5 word games in one - new games every day!",
+        "pubDate": "2026-04-25T18:42:46Z",
+        "source": "xemstudio.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2ODk4NzAwLnBuZw==/315x250%23c/gJa1Mu.png",
+        "bias": 0
+      },
+      {
+        "title": "BFDIE 3 but it's on Game Boy Advance Video [Free]",
+        "link": "https://bozhik.itch.io/bfdie-3-but-its-on-game-boy-advance-video",
         "description": "",
-        "pubDate": "2026-04-25T17:52:21Z",
-        "source": "kohuten.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODk3Nzc4LmpwZw==/315x250%23c/UMracB.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Drawing Platformer [Free] [Platformer]",
-        "link": "https://sanya-h.itch.io/drawing-platformer",
-        "description": "Draw your own platforms - concept prototype",
-        "pubDate": "2026-04-25T17:51:44Z",
-        "source": "sanya-h.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODk3OTU3LnBuZw==/315x250%23c/oV83VX.png",
-        "bias": 0
-      },
-      {
-        "title": "VillageRimLite [Free] [Fighting]",
-        "link": "https://bluesamoyed777.itch.io/villagerimlite",
-        "description": "",
-        "pubDate": "2026-04-25T17:51:00Z",
-        "source": "bluesamoyed777.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODk3OTA1LmpwZw==/315x250%23c/WcEZ4l.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Wood Fit [Free] [Puzzle]",
-        "link": "https://conjurerofcheapbits.itch.io/wood-fit",
-        "description": "Simple puzzle game.",
-        "pubDate": "2026-04-25T17:49:46Z",
-        "source": "conjurerofcheapbits.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODk3ODkwLnBuZw==/315x250%23c/qB7OJE.png",
-        "bias": 0
-      },
-      {
-        "title": "Magical Girl Shooter [Free] [Shooter]",
-        "link": "https://sanya-h.itch.io/magical-girl-shooter",
-        "description": "Visual effects for a magical girl shooter",
-        "pubDate": "2026-04-25T17:41:51Z",
-        "source": "sanya-h.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODk3ODAwLnBuZw==/315x250%23c/N2cwfS.png",
-        "bias": 0
-      },
-      {
-        "title": "Cat Fishing [Free]",
-        "link": "https://pennupgrade.itch.io/cat-fishing",
-        "description": "",
-        "pubDate": "2026-04-25T17:40:37Z",
-        "source": "pennupgrade.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODk3OTE3LnBuZw==/315x250%23c/NJLImA.png",
-        "bias": 0
-      },
-      {
-        "title": "Misotheism [Free] [Interactive Fiction]",
-        "link": "https://maxime-nourry.itch.io/misotheism",
-        "description": "a retro psychological horror game",
-        "pubDate": "2026-04-25T17:40:21Z",
-        "source": "maxime-nourry.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODk3NTk1LnBuZw==/315x250%23c/%2Bbvym8.png",
-        "bias": 0
-      },
-      {
-        "title": "Lab Escape [Free] [Puzzle] [Windows]",
-        "link": "https://miothewitch.itch.io/lab-escape",
-        "description": "",
-        "pubDate": "2026-04-25T17:38:22Z",
-        "source": "miothewitch.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODk3NzI2LnBuZw==/315x250%23c/dAyb43.png",
-        "bias": 0
-      },
-      {
-        "title": "One Way Ticket [Free]",
-        "link": "https://honey-badgers.itch.io/one-way-ticket-2",
-        "description": "Anomalia",
-        "pubDate": "2026-04-25T17:31:13Z",
-        "source": "honey-badgers.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODk3NTY1LnBuZw==/315x250%23c/DyuQQd.png",
-        "bias": 0
-      },
-      {
-        "title": "Beyond the Starlight [Free] [Adventure]",
-        "link": "https://mentalbreakdancecyb2026.itch.io/beyond-the-starlight",
-        "description": "Gra zespołu Mental Breakdance na Lem Game Jam 2026, który został stworzony podczas konkursu Cyberiada 2025-2026.",
-        "pubDate": "2026-04-25T17:26:09Z",
-        "source": "mentalbreakdancecyb2026.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODk3NjE3LnBuZw==/315x250%23c/%2FSp26A.png",
-        "bias": 0
-      },
-      {
-        "title": "Room Esc 2027 [Free] [Visual Novel] [Windows] [macOS] [Android]",
-        "link": "https://victor-curshan.itch.io/room-esc-2027",
-        "description": "Escape Game",
-        "pubDate": "2026-04-25T17:24:02Z",
-        "source": "victor-curshan.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODk3MzM5LmpwZw==/315x250%23c/YJJyyB.jpg",
-        "bias": 0
-      },
-      {
-        "title": "debug.unclog [Free] [Platformer] [Windows]",
-        "link": "https://raining-pixels.itch.io/debug-unclog",
-        "description": "Rescue the Virtua!",
-        "pubDate": "2026-04-25T17:18:43Z",
-        "source": "raining-pixels.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODk3MDI4LnBuZw==/315x250%23c/OO%2BsUO.png",
-        "bias": 0
-      },
-      {
-        "title": "Neon Drift [Free] [Strategy] [Windows]",
-        "link": "https://mrduo1000.itch.io/neon-drift",
-        "description": "Can you go far?",
-        "pubDate": "2026-04-25T17:17:10Z",
-        "source": "mrduo1000.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODk3MzM3LnBuZw==/315x250%23c/4%2Fspyd.png",
-        "bias": 0
-      },
-      {
-        "title": "Space Fighter [Free]",
-        "link": "https://andresdonoso.itch.io/space-fighter",
-        "description": "",
-        "pubDate": "2026-04-25T17:11:05Z",
-        "source": "andresdonoso.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODk3MjM1LnBuZw==/315x250%23c/rviUeo.png",
-        "bias": 0
-      },
-      {
-        "title": "BFDIA 1 but it's on Game Boy Advance Video [Free]",
-        "link": "https://bozhik.itch.io/bfdia-1-but-its-on-game-boy-advance-video",
-        "description": "",
-        "pubDate": "2026-04-25T17:10:59Z",
+        "pubDate": "2026-04-25T18:41:40Z",
         "source": "bozhik.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODk3MjQ5LnBuZw==/315x250%23c/UND%2FsZ.png",
+        "image": "https://img.itch.zone/aW1nLzI2ODk4NzIwLnBuZw==/315x250%23c/noTjcj.png",
         "bias": 0
       },
       {
-        "title": "Smile Guy wants Burgers [Free] [Platformer] [Windows]",
-        "link": "https://rabid-guineapig.itch.io/smile-guy-wants-burgers",
-        "description": "(hopefully) A little more than you might expect....",
-        "pubDate": "2026-04-25T17:09:06Z",
-        "source": "rabid-guineapig.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODk3NzQyLnBuZw==/315x250%23c/3kD43M.png",
-        "bias": 0
-      },
-      {
-        "title": "Najgorsza Gra Presented By: Team Shapeless 😎 [Free] [Interactive Fiction]",
-        "link": "https://verthi.itch.io/najgorsza-gra",
-        "description": "spróbuj zrozumieć o co chodzi",
-        "pubDate": "2026-04-25T17:08:54Z",
-        "source": "verthi.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODk3MzUyLnBuZw==/315x250%23c/Bxg7N8.png",
-        "bias": 0
-      },
-      {
-        "title": "Bomb Blitz [Free]",
-        "link": "https://pennupgrade.itch.io/mark",
+        "title": "Monkey taggers [Free] [Windows] [macOS] [Linux] [Android]",
+        "link": "https://emil123641.itch.io/monkey-taggers",
         "description": "",
-        "pubDate": "2026-04-25T17:08:34Z",
+        "pubDate": "2026-04-25T18:36:02Z",
+        "source": "emil123641.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2ODk4NjExLnBuZw==/315x250%23c/%2Fw7s5S.png",
+        "bias": 0
+      },
+      {
+        "title": "SLIjk [Free] [Simulation]",
+        "link": "https://jkivlo.itch.io/slijk",
+        "description": "A fast-paced 2d multiplayer snake game where you collect dots, grow longer, and compete to survive.",
+        "pubDate": "2026-04-25T18:34:10Z",
+        "source": "jkivlo.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2ODk4NjQ2LnBuZw==/315x250%23c/ot7Sl8.png",
+        "bias": 0
+      },
+      {
+        "title": "Food Fighters [Free] [Windows]",
+        "link": "https://pennupgrade.itch.io/food-fighters",
+        "description": "",
+        "pubDate": "2026-04-25T18:23:19Z",
         "source": "pennupgrade.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODk3NDE0LnBuZw==/315x250%23c/W7JBgW.png",
+        "image": "https://img.itch.zone/aW1nLzI2ODk4MzcyLnBuZw==/315x250%23c/kZSM4r.png",
         "bias": 0
       },
       {
-        "title": "Flappy Bird [Free] [Action] [Windows]",
-        "link": "https://vipexhere.itch.io/flappy-bird",
-        "description": "My version of Flappy Bird made in Unreal Engine 5",
-        "pubDate": "2026-04-25T17:06:36Z",
-        "source": "vipexhere.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODk3NTY0LnBuZw==/315x250%23c/xH9NZe.png",
+        "title": "Masked Impostor [Free] [Other]",
+        "link": "https://veezy85.itch.io/masked-impostor",
+        "description": "The ultimate party game for local multiplayer: Uncover the impostor, bluff your way to victory",
+        "pubDate": "2026-04-25T18:13:56Z",
+        "source": "veezy85.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2ODk4NDI2LnBuZw==/315x250%23c/MZ1SS8.png",
         "bias": 0
       },
       {
-        "title": "Cat-astrophe Lite Web-Edition [Free] [Platformer]",
-        "link": "https://finnmonster1.itch.io/cat-astrophe-lite-web-edition",
-        "description": "Cat-astrophe lite, but on the web! Avoid the hassle of downloading a game to play  it right on the web!",
-        "pubDate": "2026-04-25T17:03:29Z",
-        "source": "finnmonster1.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODk3MTMyLnBuZw==/315x250%23c/ZR%2F%2BZD.png",
+        "title": "VIRAL MADNESS [Free] [Windows]",
+        "link": "https://ryan-alves-dos-santos.itch.io/viral-madnes",
+        "description": "meu primeiro jogo lançado",
+        "pubDate": "2026-04-25T18:12:00Z",
+        "source": "ryan-alves-dos-santos.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2ODk4OTQ5LnBuZw==/315x250%23c/tRkf2O.png",
         "bias": 0
       },
       {
-        "title": "Junjun [Free] [Survival]",
-        "link": "https://jurbit.itch.io/junjun",
-        "description": "Unvoluntary search in the forest, finding clues to what you seek.",
-        "pubDate": "2026-04-25T16:46:35Z",
-        "source": "jurbit.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODk2NTExLnBuZw==/315x250%23c/Ww%2FI1f.png",
+        "title": "Survive Wall Street [Free] [Simulation]",
+        "link": "https://n1ckstefan.itch.io/survive-wall-street",
+        "description": "Managing risk in the stock market simulator.",
+        "pubDate": "2026-04-25T18:11:55Z",
+        "source": "n1ckstefan.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2ODk4MTc3LnBuZw==/315x250%23c/szN4%2B1.png",
         "bias": 0
       },
       {
-        "title": "Dosimeter [Free] [Platformer] [Windows]",
-        "link": "https://fokos001.itch.io/dosimeter",
-        "description": "Gather decaying relics after the Paks nuclear disaster",
-        "pubDate": "2026-04-25T15:34:56Z",
-        "source": "fokos001.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODk1MzEyLnBuZw==/315x250%23c/6zaun2.png",
+        "title": "Critical Core [Free] [Strategy]",
+        "link": "https://criticalcore.itch.io/critical-core",
+        "description": "critcore",
+        "pubDate": "2026-04-25T18:11:43Z",
+        "source": "criticalcore.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2ODk4MTk4LnBuZw==/315x250%23c/uaqavx.png",
         "bias": 0
       },
       {
-        "title": "They said no. [Free] [Action]",
-        "link": "https://interstellar-group.itch.io/they-said-no",
+        "title": "Ivy Invaders [Free]",
+        "link": "https://pennupgrade.itch.io/ivy-invaders",
         "description": "",
-        "pubDate": "2026-04-25T15:30:51Z",
-        "source": "interstellar-group.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODk1MzY0LnBuZw==/315x250%23c/B42yXD.png",
+        "pubDate": "2026-04-25T18:11:01Z",
+        "source": "pennupgrade.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2ODk4MjkxLnBuZw==/315x250%23c/VGwqKT.png",
         "bias": 0
       },
       {
-        "title": "The Space Cursor REBIRTH [Free] [Action]",
-        "link": "https://eld0d0.itch.io/the-space-cursor-rebirth",
-        "description": "Embark on a space adventure with a flaming cursor, and fly as far as you can.",
-        "pubDate": "2026-04-25T15:21:47Z",
-        "source": "eld0d0.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODk3NDExLnBuZw==/315x250%23c/laImhu.png",
+        "title": "Cuida a tu furry femboy Floofy <3 [Free] [Visual Novel]",
+        "link": "https://soypinto.itch.io/cuida-a-tu-furry-femboy-floofy",
+        "description": "en este juego cuidas a tu furry femboy Floofy <3 (el juego es corto porque tarde 3 horas en hacerlo xdxd)",
+        "pubDate": "2026-04-25T18:05:06Z",
+        "source": "soypinto.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2ODk4MTAzLnBuZw==/315x250%23c/AGVXBG.png",
         "bias": 0
       },
       {
-        "title": "Aetheric Tides [Free] [Card Game] [Windows] [macOS] [Linux] [Android]",
-        "link": "https://omni882.itch.io/aetheric-tides",
-        "description": "my first game but turns out well , A handcrafted card roguelike where your deck mutates with your morality",
-        "pubDate": "2026-04-25T15:16:58Z",
-        "source": "omni882.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODk1MTM5LmpwZw==/315x250%23c/ThZDEV.jpg",
+        "title": "brodefect|鸡煲兄弟 [Free] [Adventure]",
+        "link": "https://maxpanda.itch.io/brodefect",
+        "description": "",
+        "pubDate": "2026-04-25T18:04:30Z",
+        "source": "maxpanda.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2ODk4MTE1LnBuZw==/315x250%23c/wzCLLE.png",
         "bias": 0
       },
       {
-        "title": "Cubic Glitch [Free] [Puzzle]",
-        "link": "https://anomalocaris-games.itch.io/cubic-glitch",
-        "description": "​Find the glitches in reality",
-        "pubDate": "2026-04-25T12:50:48Z",
-        "source": "anomalocaris-games.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODkzMjA4LnBuZw==/315x250%23c/mWOdnv.png",
+        "title": "Zizzle's Zizdoings [Free] [Platformer]",
+        "link": "https://bii39.itch.io/zizzles-zizzdoings",
+        "description": "A silly little platformer",
+        "pubDate": "2026-04-25T18:04:26Z",
+        "source": "bii39.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2ODk4MDY1LnBuZw==/315x250%23c/umrVcE.png",
         "bias": 0
       },
       {
-        "title": "Revive and Survive [Free] [Survival]",
-        "link": "https://jackonius.itch.io/revive-and-survive",
-        "description": "A geometric tower defense survival game where fallen enemies become your army.",
-        "pubDate": "2026-04-25T12:07:11Z",
-        "source": "jackonius.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2ODk3NjczLnBuZw==/315x250%23c/bv1nmx.png",
+        "title": "Balance [10% Off] [$11.70]",
+        "link": "https://twistedbyart.itch.io/balance",
+        "description": "Fun hyper-casual game, dodge obstacles, collect items, and chase high scores.",
+        "pubDate": "2026-04-25T18:02:33Z",
+        "source": "twistedbyart.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2ODk4MDUwLnBuZw==/315x250%23c/NydGHY.png",
+        "bias": 0
+      },
+      {
+        "title": "The Ultra Realistic Accurate Farmer Simulator [$5.00] [Visual Novel] [Windows] [macOS] [Linux]",
+        "link": "https://cgcfss.itch.io/the-ultra-realistic-accurate-farmer-simulator",
+        "description": "A short satirical visual novel where a farmer chases a subsidy through forms, calls, errors, and a shocking ending.",
+        "pubDate": "2026-04-25T17:49:09Z",
+        "source": "cgcfss.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2ODk4MDY0LnBuZw==/315x250%23c/GDAp9E.png",
+        "bias": 0
+      },
+      {
+        "title": "Beetle's: Now Completely Bug-free! [Free] [Simulation]",
+        "link": "https://neronzz.itch.io/beetles-now-completely-bug-free",
+        "description": "Manage Beetle's shop, where each of the 15 days brings a unique twist as you organize its stocks and reputation.",
+        "pubDate": "2026-04-25T17:47:05Z",
+        "source": "neronzz.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2ODk3OTIzLnBuZw==/315x250%23c/23Zmdq.png",
+        "bias": 0
+      },
+      {
+        "title": "FREQUENCY [Free] [Puzzle]",
+        "link": "https://wingcreator.itch.io/frequency",
+        "description": "Your grandfather disappeared in 1984. He left you his radio. Tune in. Don't stop.",
+        "pubDate": "2026-04-25T17:45:55Z",
+        "source": "wingcreator.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2ODk4MjczLnBuZw==/315x250%23c/lXaHas.png",
+        "bias": 0
+      },
+      {
+        "title": "Slash&Dash [Free] [Action]",
+        "link": "https://jessieboyil.itch.io/slashdash",
+        "description": "",
+        "pubDate": "2026-04-25T17:33:10Z",
+        "source": "jessieboyil.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2ODk4NDgyLnBuZw==/315x250%23c/9Yp3Ks.png",
+        "bias": 0
+      },
+      {
+        "title": "SpectArt [Free] [Puzzle] [Windows]",
+        "link": "https://jkf427.itch.io/spectart",
+        "description": "Solve riddles, explore cursed rooms, and avoid what’s chasing you.",
+        "pubDate": "2026-04-25T17:11:10Z",
+        "source": "jkf427.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2ODk2OTI0LnBuZw==/315x250%23c/%2Fk5xGZ.png",
+        "bias": 0
+      },
+      {
+        "title": "Rumbral [Free] [Puzzle] [Windows]",
+        "link": "https://itorohutunet-web.itch.io/rumbral",
+        "description": "",
+        "pubDate": "2026-04-25T16:50:26Z",
+        "source": "itorohutunet-web.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2ODk2OTI5LmpwZw==/315x250%23c/zCIE7S.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Growth Trap [$1.00] [Action] [Windows]",
+        "link": "https://devy-games.itch.io/growth-trap",
+        "description": "The market doesn't sleep, and neither does the Eye.",
+        "pubDate": "2026-04-25T16:37:21Z",
+        "source": "devy-games.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2ODk5MTExLnBuZw==/315x250%23c/biRL8Y.png",
+        "bias": 0
+      },
+      {
+        "title": "Dungeon of The Betting Kings [Free] [Action]",
+        "link": "https://beealeavez.itch.io/dungeon-of-the-betting-kings",
+        "description": "Face the most powerful monsters, while the kings of the dungeons wager on your death.",
+        "pubDate": "2026-04-25T16:23:20Z",
+        "source": "beealeavez.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2ODk1ODk0LnBuZw==/315x250%23c/pFG5h8.png",
+        "bias": 0
+      },
+      {
+        "title": "Darwins EVO [$4.00] [Strategy] [Windows]",
+        "link": "https://ultrasombra.itch.io/darwins-evo",
+        "description": "Build your village. Record your sound. Defend your kingdom.",
+        "pubDate": "2026-04-25T15:26:56Z",
+        "source": "ultrasombra.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2ODk3NTg1LnBuZw==/315x250%23c/GvXIK2.png",
+        "bias": 0
+      },
+      {
+        "title": "The Cats Manager [Free] [Other]",
+        "link": "https://cold-coffee-studio.itch.io/catsmanager",
+        "description": "",
+        "pubDate": "2026-04-25T14:54:32Z",
+        "source": "cold-coffee-studio.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2ODk3NzcwLnBuZw==/315x250%23c/Pf4gGH.png",
+        "bias": 0
+      },
+      {
+        "title": "Devil in the Details [Free] [Card Game]",
+        "link": "https://allony.itch.io/devil-in-the-details",
+        "description": "The game of your dreams ... with some additional 'features'",
+        "pubDate": "2026-04-25T08:12:15Z",
+        "source": "allony.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2ODk1NzU5LnBuZw==/315x250%23c/qD9bCm.png",
+        "bias": 0
+      },
+      {
+        "title": "Elephant Juggling [Free] [Action]",
+        "link": "https://jolateral.itch.io/elephant-juggling",
+        "description": "Juggle as an elephant! :)",
+        "pubDate": "2026-04-25T06:30:49Z",
+        "source": "jolateral.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI2ODg4ODY0LnBuZw==/315x250%23c/U1NmQh.png",
         "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Talks stumble as Iran's top diplomat leaves Pakistan and Trump says he told envoys not to go - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVGFHVTN3QXlKR0tYYVdRVi01R2RKZi1USXpmSVRORVdRX2xyQXlnclhQRDhGbDBySTRIZUZIV1Z4TnJUTldZaTJod1dVNF9aWWRHVm1ETm9YZ3RyQnlkTTU2NFZoaHZtUXJuWk1jWUR1NE05M3M3bFF2b2RlSnJBYkdMeG1HT1VCZno1VXBzMXk0aXNlNDZEeFBhRFRITzhJYjZIcDcyNm5rbFRTRkxmVWx4Umt4MHRHdGc?oc=5",
+        "description": "",
+        "pubDate": "2026-04-25T18:24:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Watch: How one orangutan braved new bridge to unite his split community",
+        "link": "https://www.bbc.com/news/videos/ckgerdnvm2xo?at_medium=RSS&at_campaign=rss",
+        "description": "The forest where the Sumatran orangutans live has been split by a road.",
+        "pubDate": "2026-04-25T18:23:45Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5987/live/f6c53a30-40cd-11f1-b55d-0f258dce1735.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Trump cancels US envoys’ trip after Iran’s Araghchi leaves Pakistan",
+        "link": "https://www.aljazeera.com/news/2026/4/25/trump-cancels-envoys-trip-to-pakistan-after-irans-araghchi-leaves-country?traffic_source=rss",
+        "description": "Trump later suggests that next talks will be over phone, saying 'If they want to talk, all they have to do is call!!!'",
+        "pubDate": "2026-04-25T18:16:34Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Roommate charged with two counts of murder in death, disappearance of two USF students - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNnhTWXZQcVUyQTlURU1IMmlscFNYVlNoanpGMWNjRDg4b0hCdUQ4ZHpYR2NRMXdzdHRKVFBkNnNVcThWY1U2Rl9ZYmk0Vm82UFR1bElHNlFWa1Q0dDRGTzd3ckY1SG1YZEVFS21IU0xkT2txR05NZlJYeUo0bnhOZXdGRno3c1J2MjdMVXJRZlc0eUJmaWRtcFdjRXNDZ0V3V2pLN0hGVQ?oc=5",
+        "description": "",
+        "pubDate": "2026-04-25T18:06:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Palestinians vote in local elections in West Bank and part of Gaza - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV1pTZzloMmswbmp4TjV0Ymh4amg1Mk9BS3U1TDVxQTFEQktkOEhpSDhISWVCalJmTWkzRTVteGRFbm81WTBBU3h4NDVieUZyTWExTFhWVFZ0aVp3UmNDeVMzQ1pFc1RJRTUxQzZEbXNNdGtOci1rN3hVay1hVThIOW80RW5IbDJfazg5d2FmR1RJbmt6NmFaR2JWYWdaRFdDd0Y3Qw?oc=5",
+        "description": "",
+        "pubDate": "2026-04-25T17:51:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Mexico says US agents killed in crash weren't permitted to operate there",
         "link": "https://www.bbc.com/news/articles/cx2491we011o?at_medium=RSS&at_campaign=rss",
@@ -284,10 +329,28 @@
         "bias": -1
       },
       {
+        "title": "A sudden shift: ICE arrests drop nearly 12% after Minneapolis killings and immigration shake-up - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOGJ5azRPTDFhNXNzNm5aSGdrOHcyS0xMb01JU1N4U2EzbGlrcXd2QnJsa3UwRXYtSWM3ZFFCWlZaeGQ1VU9nRldQTjRPa2MwN0hjV2JfRzRDWHZlZmlsOXprRFhRX3dzS1czUmhZUWR5N3RIVUkzNWtVWUR6MjktRjQ1U0NIWi04VnZzRWo5S0RVR1J0Nlc0WUVlXy05eHJSOG4tdUJBMHc?oc=5",
+        "description": "",
+        "pubDate": "2026-04-25T17:25:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "US says it’s hunting for explosive mines in latest push to open the Strait of Hormuz - AP News",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeXRfYzZHbXpVWlpTRWNWNVY3NU82SjVFRGlWV1BGM2Y3Y0ZnX3pVSkNWRDhleDBMa1pONzBDdl92OG1ucm14cVAzNWhTaDNDbXp2R1lndWFVX0R4WTlHdU81T0l3aWxUVXU0QXh4LTNVOXZqMTVKTVhPeW1FTTlRbTlFeVRHSDM2VEdVSFJrZDB4cjNJU3ptdFU3WTdDcko0VUZCbmZubHMwWC14cTFMdA?oc=5",
         "description": "",
         "pubDate": "2026-04-25T17:16:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "New York’s new jails boss once served time in a cell block he now oversees - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaUxKeTVfNFlBaVF4QWVfZFRRd2xEVzZYX3E1Y21TNFNVWTNjN3lUZkZLSWczSVNqTjlnTTJlUlU0eUdHc1BRUFB3ODBHZEx6ZktaRm43cnB0anJkUzFtWjcwZU9JMERZSlptdHBRMUlENWdrTmVhTWdXZnJvTTVBdXk2TkgyekVDeFNfTC0taW8waVdvNlh5TjJiVmFZZDR5SERCV3ZwUVd3UQ?oc=5",
+        "description": "",
+        "pubDate": "2026-04-25T17:08:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -320,15 +383,6 @@
         "bias": 0
       },
       {
-        "title": "Roommate charged with two counts of murder in death, disappearance of two USF students - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNnhTWXZQcVUyQTlURU1IMmlscFNYVlNoanpGMWNjRDg4b0hCdUQ4ZHpYR2NRMXdzdHRKVFBkNnNVcThWY1U2Rl9ZYmk0Vm82UFR1bElHNlFWa1Q0dDRGTzd3ckY1SG1YZEVFS21IU0xkT2txR05NZlJYeUo0bnhOZXdGRno3c1J2MjdMVXJRZlc0eUJmaWRtcFdjRXNDZ0V3V2pLN0hGVQ?oc=5",
-        "description": "",
-        "pubDate": "2026-04-25T16:35:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "US to allow Venezuelan government to cover Maduro’s lawyer fees",
         "link": "https://www.aljazeera.com/news/2026/4/25/us-to-allow-venezuelan-government-to-cover-maduros-lawyer-fees?traffic_source=rss",
         "description": "Defence lawyers had asked for case to be thrown out, claiming Maduro's rights were violated following US abduction.",
@@ -336,15 +390,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Trump tells Fox News he’s no longer sending Witkoff and Kushner to Pakistan for Iran talks - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVGFHVTN3QXlKR0tYYVdRVi01R2RKZi1USXpmSVRORVdRX2xyQXlnclhQRDhGbDBySTRIZUZIV1Z4TnJUTldZaTJod1dVNF9aWWRHVm1ETm9YZ3RyQnlkTTU2NFZoaHZtUXJuWk1jWUR1NE05M3M3bFF2b2RlSnJBYkdMeG1HT1VCZno1VXBzMXk0aXNlNDZEeFBhRFRITzhJYjZIcDcyNm5rbFRTRkxmVWx4Umt4MHRHdGc?oc=5",
-        "description": "",
-        "pubDate": "2026-04-25T16:19:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Afghanistan calls on Afghans who helped US in war and are now stuck in Qatar to return home - AP News",
@@ -419,6 +464,15 @@
         "bias": -1
       },
       {
+        "title": "Leaders of France and Greece say the EU's defense splurge is no alternative to the NATO alliance - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVNDUzNhUXhxZDhXMF9ubHZBZjJLZmo0ano4TTVKYUdOUmdsYVN4bGNHeDBIUjl2OThqT0pBelExbkhyaWlGdklIekVQcmlsQ2tWZTkxVUlBZVpGTFVpZUQ3TDlMZlVBUmZBMkl5VVlOR0FlSndqWTlxZnV6eU8wZlBaRVZ2TFdrYjh6Y0NxcnJ6Wk5jaUdobXp2ZkVFV1JJWGlaVQ?oc=5",
+        "description": "",
+        "pubDate": "2026-04-25T13:53:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Tunisia suspends one of Africa’s oldest rights groups as crackdown widens - AP News",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdFVFWHlZbTJfRXFLTkFsRF9aRHFuSGdfb0J4S3l6ekh0TjdGMmYzdWNKWnBGSXBOSnRVOGxYLXhiWUQ4TkVEV0ZCc3E2RFdUOE1PU3B2dlRlaVJDcVhONWV5U0dTRjROOF9XeFJ3THNRX2NweW15MHVuUVdFYWdrcFNzalBHMS1qTnc3cnROYl81NzVN?oc=5",
         "description": "",
@@ -444,6 +498,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Trees are magic. In Newport, volunteers are working to expand their healthy reach - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT0owRUZrOFZ5NjJWVG1hNHNpYnVDVkJKS0ZzZ0trMFdyZjZYbk1rSFF2Vmk0WFNKTHJDazVrNXZhbEE4Z3RFdGRCWkNsUWtfMkJ4N0t1RUxSUHp4SkRiQjJIcFNRQk8xLTVmZ09Ra3pFR1lGcFZURFJWOUlCVU9FMjJqTDJocFlHM3RLQWEweVdVSmtmM1lQbUQ3eXY3Zw?oc=5",
+        "description": "",
+        "pubDate": "2026-04-25T13:18:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "LIVE: Arsenal vs Newcastle – Premier League",
@@ -480,15 +543,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "A sudden shift: ICE arrests drop nearly 12% after Minneapolis killings and immigration shake-up - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOGJ5azRPTDFhNXNzNm5aSGdrOHcyS0xMb01JU1N4U2EzbGlrcXd2QnJsa3UwRXYtSWM3ZFFCWlZaeGQ1VU9nRldQTjRPa2MwN0hjV2JfRzRDWHZlZmlsOXprRFhRX3dzS1czUmhZUWR5N3RIVUkzNWtVWUR6MjktRjQ1U0NIWi04VnZzRWo5S0RVR1J0Nlc0WUVlXy05eHJSOG4tdUJBMHc?oc=5",
-        "description": "",
-        "pubDate": "2026-04-25T12:35:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Indonesian UN peacekeeper becomes sixth killed in Lebanon",
@@ -540,15 +594,6 @@
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeDJ3dUR2ZU5zME1oZmJVQ05JeVkxNk1wSjZxdUFKOG5hV2RTMm1MWkNWS0FHUGlRQVhnWkRrUHBxZ0V3RFJSU0FtU2FaSXc2UVZBeWxpUGx5TEFZN1c2TEFyTk9jNFFSeGxnOGRoVW1OT0JZTUdOTDRFVVByMWlPT3V6MmRsRG1PRUF2c3FOZUV0VlY2S1JLWWJEMldUQ3poRWJIa2JPdzNvX0thV0lzcQ?oc=5",
         "description": "",
         "pubDate": "2026-04-25T11:51:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Local elections in the West Bank and part of Gaza could test public trust - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV1pTZzloMmswbmp4TjV0Ymh4amg1Mk9BS3U1TDVxQTFEQktkOEhpSDhISWVCalJmTWkzRTVteGRFbm81WTBBU3h4NDVieUZyTWExTFhWVFZ0aVp3UmNDeVMzQ1pFc1RJRTUxQzZEbXNNdGtOci1rN3hVay1hVThIOW80RW5IbDJfazg5d2FmR1RJbmt6NmFaR2JWYWdaRFdDd0Y3Qw?oc=5",
-        "description": "",
-        "pubDate": "2026-04-25T11:02:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -651,54 +696,18 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "West Bank scepticism as Palestinians doubt local elections will change much",
-        "link": "https://www.aljazeera.com/features/2026/4/25/west-bank-scepticism-as-palestinians-doubt-local-elections-will-change-much?traffic_source=rss",
-        "description": "Frustration with the Palestinian Authority and Israeli occupation fuel voter apathy in local West Bank elections.",
-        "pubDate": "2026-04-25T07:16:54Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "US sanctions China’s ‘teapot’ refinery for buying Iranian oil",
-        "link": "https://www.aljazeera.com/news/2026/4/25/us-sanctions-chinas-teapot-refinery-for-buying-iranian-oil?traffic_source=rss",
-        "description": "The Hengli refinery has generated hundreds of millions of dollars for Iran's military, says US Treasury.",
-        "pubDate": "2026-04-25T07:10:19Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Brazil and Chelsea star Estevao’s World Cup hopes in doubt after injury",
-        "link": "https://www.aljazeera.com/sports/2026/4/25/brazil-and-chelsea-star-estevaos-world-cup-hopes-in-doubt-after-injury?traffic_source=rss",
-        "description": "The winger will miss the rest of the season after suffering a hamstring injury in last week's 1-0 loss ⁠to Man United.",
-        "pubDate": "2026-04-25T07:09:46Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Iran's foreign minister leaves Pakistan, then Trump cancels U.S. delegation's travel",
-        "link": "https://www.npr.org/2026/04/25/nx-s1-5799372/iran-middle-east-updates",
-        "description": "After arriving on Friday, Iran's Abbas Araghchi has left Islamabad, prompting President Trump to announce that his envoys Steve Witkoff and Jared Kushner will no longer travel there Saturday for peace talks",
-        "pubDate": "2026-04-25T06:35:21Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Spurs beat Trail Blazers 120-108 without Wembanyama to take 2-1 series lead - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYk1PMmlZWk9uazQ0MGJlVy00MTZXLWJIYU5CbjVIWDlOQ2NkZmtlRzJnazdlc1F2UlNNNmVvNWc3dy1GTXlfV1dmU0djQzRTYW4yc0QxY0ltY0dTQkI4WjA3YXNDTzlXaW9xdV9VMng2ZGJQaUlWV1VDZTFsTmtHRVhhaDE0TEZnM0dmaTJ3?oc=5",
-        "description": "",
-        "pubDate": "2026-04-25T06:29:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Fired former UK official says he felt political pressure to approve Mandelson as US ambassador - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPckVsck1FOXRyYVZkbkcwbnFWVWd6NjF2ZFZjQjNSVm5QbGRxVm1ldHJEU2ROeWg4UDdCaXRhZVZ5SXBrMXhvRjluYnhhaEVDNW1GM2JUeWxHN2tUZ18xMy1NVUpHSjFXRUc1a2tpelIzY2NIb0w1Q2xIMERmd2t6ai1tQ3ZSc19LMTVZUWpn?oc=5",
+        "description": "",
+        "pubDate": "2026-04-25T18:42:14Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Pope Leo reiterates opposition to death penalty on same day U.S. approves firing squads",
         "link": "https://www.npr.org/2026/04/25/g-s1-118767/pope-leo-trump-death-penalty",
@@ -715,15 +724,6 @@
         "pubDate": "2026-04-25T16:43:38Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e57/live/9a824350-40c1-11f1-9af5-0bf991029b02.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Leaders of France and Greece say the EU's defense splurge is no alternative to the NATO alliance - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVNDUzNhUXhxZDhXMF9ubHZBZjJLZmo0ano4TTVKYUdOUmdsYVN4bGNHeDBIUjl2OThqT0pBelExbkhyaWlGdklIekVQcmlsQ2tWZTkxVUlBZVpGTFVpZUQ3TDlMZlVBUmZBMkl5VVlOR0FlSndqWTlxZnV6eU8wZlBaRVZ2TFdrYjh6Y0NxcnJ6Wk5jaUdobXp2ZkVFV1JJWGlaVQ?oc=5",
-        "description": "",
-        "pubDate": "2026-04-25T13:53:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -754,18 +754,18 @@
         "bias": -1
       },
       {
-        "title": "DOJ wants to shield its lawyers from outside scrutiny. Critics worry about oversight",
-        "link": "https://www.npr.org/2026/04/25/g-s1-118356/justice-department-ethics-rules-state-bar",
-        "description": "Critics say the proposed rule to let the DOJ step into state bar investigations could weaken one of the last independent checks on government lawyers.",
+        "title": "The rising cost of fertilizer and fuel prices is pushing some farmers to the brink",
+        "link": "https://www.npr.org/2026/04/25/nx-s1-5795674/farmers-tariffs-iran-trump-mississippi",
+        "description": "In the Mississippi Delta, a crucial agricultural region, farmers say their patience is wearing thin. Reeling from the effects of tariffs, they must now also navigate rising fertilizer and fuel costs.",
         "pubDate": "2026-04-25T09:00:00Z",
         "source": "npr.org",
         "image": "",
         "bias": -1
       },
       {
-        "title": "The rising cost of fertilizer and fuel prices is pushing some farmers to the brink",
-        "link": "https://www.npr.org/2026/04/25/nx-s1-5795674/farmers-tariffs-iran-trump-mississippi",
-        "description": "In the Mississippi Delta, a crucial agricultural region, farmers say their patience is wearing thin. Reeling from the effects of tariffs, they must now also navigate rising fertilizer and fuel costs.",
+        "title": "DOJ wants to shield its lawyers from outside scrutiny. Critics worry about oversight",
+        "link": "https://www.npr.org/2026/04/25/g-s1-118356/justice-department-ethics-rules-state-bar",
+        "description": "Critics say the proposed rule to let the DOJ step into state bar investigations could weaken one of the last independent checks on government lawyers.",
         "pubDate": "2026-04-25T09:00:00Z",
         "source": "npr.org",
         "image": "",
