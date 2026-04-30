@@ -1,32 +1,222 @@
 {
-  "lastUpdate": "2026-04-30T00:10:10.848951Z",
+  "lastUpdate": "2026-04-30T04:03:43.166740Z",
   "news": {
-    "Gaming": [
-      {
-        "title": "Walking Through The Louvre [Free] [Adventure]",
-        "link": "https://zapidgames.itch.io/walking-through-the-lourve",
-        "description": "A game where you’re a ghost exploring an art gallery.",
-        "pubDate": "2026-04-30T00:05:33Z",
-        "source": "zapidgames.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI2OTgyODEwLnBuZw==/315x250%23c/LQOwkc.png",
-        "bias": 0
-      }
-    ],
+    "Gaming": [],
     "World": [
+      {
+        "title": "King Charles III arrives at the White House on a delicate mission to restore the UK-US relationship - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNakcycFdvX1RVME9NY3R5eHlIdnZZTnFLcE5qSWVQZXgyS3pSaUpFZno4bHNXQ0VnS1lVY0s3VzRTZ3lILTdlTzNFQnIxNFhMSmt5S3R5cEtvcnZjWVVjZzRpRTE3UENVMDhfUHBDU2pFWjgyOWJ1UXFwYV8yLXlnUWlELUkxb0d3ZGdmcGs4cnNVV0hOZHplamljREZvZw?oc=5",
+        "description": "",
+        "pubDate": "2026-04-30T03:57:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "US charges Mexican governor and other leaders with aiding drug cartel",
         "link": "https://www.bbc.com/news/articles/cpqpzlrd3wwo?at_medium=RSS&at_campaign=rss",
         "description": "The governor of Sinaloa, Rúben Rocha Moya, hails from the same party as the president of Mexico.",
-        "pubDate": "2026-04-30T00:00:15Z",
+        "pubDate": "2026-04-30T03:20:04Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2720/live/47c46aa0-4416-11f1-9fe7-21f79f0ffc75.jpg",
         "bias": 0
+      },
+      {
+        "title": "'I did not expect it': Kenya's Sabastian Sawe welcomed home with jubilant celebrations",
+        "link": "https://www.bbc.com/news/articles/cddp4y0rzjdo?at_medium=RSS&at_campaign=rss",
+        "description": "The first man to run a marathon in under two hours in a competitive race received a hero's welcome from supporters and family when he arrived home.",
+        "pubDate": "2026-04-30T03:15:16Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/914e/live/c21ba570-4420-11f1-ac78-2112837ce2aa.jpg",
+        "bias": 0
+      },
+      {
+        "title": "US charges Sinaloa state governor, 9 others over Mexican drug cartel links",
+        "link": "https://www.aljazeera.com/news/2026/4/30/us-charges-sinaloa-state-governor-9-others-over-mexican-drug-cartel-links?traffic_source=rss",
+        "description": "Indictment alleges that Governor Ruben Rocha Moya and other current and former officials worked with cartel leaders.",
+        "pubDate": "2026-04-30T03:12:47Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Bondi shooting inquiry calls for gun reform and more security at Jewish festivals",
+        "link": "https://www.bbc.com/news/articles/cdjpw0n889yo?at_medium=RSS&at_campaign=rss",
+        "description": "An interim report says country should prioritise 'nationally consistent' firearms reforms.",
+        "pubDate": "2026-04-30T03:08:19Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/283d/live/261df4e0-443c-11f1-adcb-799f507df11c.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Israel seizes Global Sumud Flotilla boats 1,000km away from Gaza",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/israel-seizes-global-sumud-flotilla-boats-1000km-away-from-gaza?traffic_source=rss",
+        "description": "Israeli forces have intercepted around a dozen Gaza-bound aid boats from the Global Sumud Flotilla.",
+        "pubDate": "2026-04-30T02:10:26Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Joy as record-breaking runner Sawe returns home",
+        "link": "https://www.bbc.com/news/videos/cglpkexdye1o?at_medium=RSS&at_campaign=rss",
+        "description": "BBC reports from Kenya, home to Sabastian Sawe, the first man to run a marathon in under two hours.",
+        "pubDate": "2026-04-30T02:03:17Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2358/live/4098c5c0-4437-11f1-ac78-2112837ce2aa.jpg",
+        "bias": 0
+      },
+      {
+        "title": "'Attacked 28 times in a day' - BBC visits heavily targeted US-UK base in Iraq",
+        "link": "https://www.bbc.com/news/videos/c5y9wdprpyyo?at_medium=RSS&at_campaign=rss",
+        "description": "Before the fragile ceasefire in the region, this was one of the most heavily targeted US and UK military bases in the Middle East.",
+        "pubDate": "2026-04-30T01:46:52Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f34/live/f5e8fd30-43fd-11f1-ac78-2112837ce2aa.jpg",
+        "bias": 0
+      },
+      {
+        "title": "US singer D4vd bought tools online to dispose of girl's body, prosecutors allege",
+        "link": "https://www.bbc.com/news/articles/cvgzll79529o?at_medium=RSS&at_campaign=rss",
+        "description": "The Tiktok star's attorneys have maintained his innocence and vowed to \"vigorously defend\" him.",
+        "pubDate": "2026-04-30T01:43:40Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fb3/live/aa703ff0-3e8d-11f1-93dd-c79ff08bbda8.jpg",
+        "bias": 0
+      },
+      {
+        "title": "House approves bill to extend divisive US surveillance program, but path forward uncertain - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRm9VOTQtSkJfM3NJbVNLZ0ZlamZnZzcyYkFRQ1Q5ZjNuR0ZqbDdDS1BKNWVEbWhBdi1uMzFSaWE0aDNBNlYwaVNmQkxOQVlfY094TVFXS19fQkRlOVZTR1NIUzZoZlJIQTVlWTI0dDhQQm5EYVpvMnhsYlU2eFRXM3N5aFotWldKSkZPQ0VxSG1vR0ZHZTlwZDZFNUpDRWFmbEFiRlVYYlgtZw?oc=5",
+        "description": "",
+        "pubDate": "2026-04-30T01:40:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Pro-government rally in Tehran demands end to US threats",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/pro-government-rally-in-tehran-demands-end-to-us-threats?traffic_source=rss",
+        "description": "Hundreds of Iranians have rallied in Tehran to demand an end to US threats and the ongoing blockade of Iranian ports.",
+        "pubDate": "2026-04-30T01:37:51Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Hundreds of Ultra-Orthodox Jews protest Israel’s military draft",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/hundreds-of-ultra-orthodox-jews-protest-israels-military-draft?traffic_source=rss",
+        "description": "Hundreds of Ultra-Orthodox Jews blocked a main road, as part of protests against Israel’s mandatory military service.",
+        "pubDate": "2026-04-30T01:16:18Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Trump says he is weighing reducing American troop presence in Germany after Iran feud - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObGdwTWdwVUNxbFFjUmdPaG55ZFZTeG5jUjFXek5aMllhYTJ3OHl4dWtSQVVSd1VSM2JIelJKZm51R09ITjNpeWM0RWlFbGdCNEpYQlRzZm1zNDFvQzlyMURRQnVqeDhXZTFRWV91aDNpWkJsWXVYU20zbkIxd3Z4WWptakN4aDBCNVNlaDNn?oc=5",
+        "description": "",
+        "pubDate": "2026-04-30T00:59:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Watch: Aerial video shows destruction after tornado strikes small Texas town",
+        "link": "https://www.bbc.com/news/videos/cvgzlpzglx2o?at_medium=RSS&at_campaign=rss",
+        "description": "A severe storm outbreak has been battering parts of the Midwest and Southern United States for nearly a week.",
+        "pubDate": "2026-04-30T00:56:23Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1258/live/9eb8eda0-442e-11f1-b55d-0f258dce1735.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Supreme Court weakens the Voting Rights Act and aids GOP efforts to control the House - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObnEzUUZrQWdtSXNpcEVTVDk0bUg1b1ZBNFRRZ1doYzBnYjkxdUtCanJGMC1LM0NsS0oxdFlEM2ZyTW1EZHZJczF5QkJNQ25pdzB1NURyZnZPWHp6TDVLX3ViNXgtS0c5bEZmNUlxR3NoY1pJWFhrLXdHb0NGY3BSSExvSEZkdGFaMF9tQkxUNG9odmVETGFNVldWeE1oYkRqOVZTRXhUaW5xSVdyYzVKczBYRVlaLW1iYzNQU1BMelJzOUE?oc=5",
+        "description": "",
+        "pubDate": "2026-04-30T00:52:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "London police say the stabbing of 2 Jewish men is an act of terror. The suspect was arrested - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSWdxV2VBUkVBWHdPcTBVTkZkcUZULTVEME4tSTdQUFZCeFJPQ1BadWNVcTF1SE44eHRRNkNHalgydk53MVlpeWJ5bVNYSVhZNTh4V3ZDbzhpMk5zcjE2dEVibU5vNGpuazVTcFJGUGZqYXB4clFacFI0YmdKeXA2bHdCalRsa3FrWTFMRnRWNzgzcWxUSW13QzlPclo2dDJ3Z0JCZ1hIdmRWR1l2eEE?oc=5",
+        "description": "",
+        "pubDate": "2026-04-30T00:43:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "The King and Queen in the Big Apple: What the royals did on their third day in the US",
+        "link": "https://www.bbc.com/news/videos/ce9pj2ygmkno?at_medium=RSS&at_campaign=rss",
+        "description": "After visiting the 9/11 Memorial, Queen Camilla read to children at the New York Public Library and King Charles visited a community organisation in Harlem.",
+        "pubDate": "2026-04-30T00:37:45Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3803/live/25879b90-442c-11f1-bd52-e755d604ece4.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Slovak top court upholds 21-year sentence for man who tried to assassinate Prime Minister Fico - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbWxsVmJBZC1DMHJZWEw4X2F2anhQOXhhYlI1aHpQV3NsaU5pZkpHSUpkNFBmZDRZcF9VaWxBS0M5VmJtUFlsa3g5V29QRXRyVi1VUHBuSHVWc1l4aERxT3Qtdkk0Z3BOSmtYMGRNUUR5VFFkalJBMEItWlU0bERkTlQ1RjNBc1pRTUtrSUgtU3hiM0JHTkhOZEU3cDZmZ3QxTkF2cTVMdFBZM1RG?oc=5",
+        "description": "",
+        "pubDate": "2026-04-30T00:33:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Hegseth faces withering questions about Iran in first congressional appearance since war began - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMGJSeEdBOGh3a2ZZMWp6eDVTQ1hDS2FxdW50NGFkaHgyc19jbDU2d1ZwZm1tRHlUbGxZLW94UmlHQnNlck5LRUpubE9xbHlhU1NkTDB4eW45QkdCUllFaUQ4TlNfUzVLUlB6SXNhZ19hc04tUDlTWDBIUE8yTGlPYkVTdkZTa1lTN2JfcU45dVd3NjNIcFBrTDJ4dTJ1LXR1U0dVdXhMZW1YNDg?oc=5",
+        "description": "",
+        "pubDate": "2026-04-30T00:18:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Brazil’s Senate blocks Lula’s Supreme Court nominee, first rejection in 132 years - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbElJb3ZLNGh3dlVzN0xBa1hQZkdFQ092V24xUnFFdEhXSFdSUG9vVDA3RGs0Zml1d0kxQ3JUX0dqYnRUcVdlYktCTFNhbVlKRW1LVzZGT3NTRUItS0ZCaDR2aXZBc284dGJvSDRBR1dWSGE3dFlEM3lPQWdCUFJKUWliOVEyUU1VRzdOdmFVR2I4VlUxOGNrNWo0X2xYOFBrcmlN?oc=5",
+        "description": "",
+        "pubDate": "2026-04-30T00:02:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Iran war live: Trump urges Tehran to ‘give up’; Ghalibaf mocks US strategy",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/4/30/iran-war-live-trump-urges-tehran-to-just-give-up-as-oil-prices-surge?traffic_source=rss",
+        "description": "Mohammad Bagher Ghalibaf ridicules US's economic pressure campaign as oil prices surge and Hormuz standoff continues.",
+        "pubDate": "2026-04-30T00:00:20Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
       }
     ],
-    "Politics": [],
+    "Politics": [
+      {
+        "title": "Philippine congressional committee rules there's evidence to impeach Vice President Duterte - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUXlIT2JZdExBMXBYNVpjNGpSanhkVXJlWnNLOUtFVDZaSWJoOTdiSm1RN01xcG5acmN1dGVQTDNKTlQybFlsazY0UkJvai04dFhpaHFaTzc1NHo5amEwWXMtV2NLUy1aNjJEZjBKcmUxZHB5aWlwU1Y4MjZXMVJ2NnZaTHF1VGRzdjdjNi05Tkp3Ql9IcjZRZTlhQlpJZkRzRG1WMEpzOFlyYmFQWlRiOQ?oc=5",
+        "description": "",
+        "pubDate": "2026-04-30T01:27:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ],
     "Tech": [],
     "Science": [],
-    "Business": [],
+    "Business": [
+      {
+        "title": "Meta shares slide as investors weigh Big Tech's AI spending spree",
+        "link": "https://www.bbc.com/news/articles/crkpd4r2y7eo?at_medium=RSS&at_campaign=rss",
+        "description": "Meta, Amazon, Alphabet and Microsoft all reported earnings at the same time on Wednesday.",
+        "pubDate": "2026-04-30T00:48:47Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6a0/live/137a2f70-43f1-11f1-9113-1988573e8ff7.jpg",
+        "bias": 0
+      }
+    ],
     "Culture": []
   }
 }
