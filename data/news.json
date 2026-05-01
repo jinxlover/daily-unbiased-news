@@ -1,207 +1,71 @@
 {
-  "lastUpdate": "2026-05-01T15:14:38.123359Z",
+  "lastUpdate": "2026-05-01T16:13:23.313141Z",
   "news": {
-    "Gaming": [
-      {
-        "title": "Figments Forge Character Editor [Free] [Android]",
-        "link": "https://mighty-ramen.itch.io/figments-forge-character-editor",
-        "description": "",
-        "pubDate": "2026-05-01T15:03:38Z",
-        "source": "mighty-ramen.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3MDEyNzc5LmpwZw==/315x250%23c/e8gONx.jpg",
-        "bias": 0
-      },
-      {
-        "title": "GameTest 20/10/23 [Free] [Other]",
-        "link": "https://musisolete.itch.io/gametest-alien",
-        "description": "found this sitting in my files",
-        "pubDate": "2026-05-01T15:00:30Z",
-        "source": "musisolete.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3MDEyNjUyLnBuZw==/315x250%23c/nkznC6.png",
-        "bias": 0
-      },
-      {
-        "title": "Potato is your only Friend [Free]",
-        "link": "https://hyperdoxical.itch.io/potato-is-your-only-friend-trijam-370",
-        "description": "",
-        "pubDate": "2026-05-01T14:55:26Z",
-        "source": "hyperdoxical.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3MDEyODI0LnBuZw==/315x250%23c/G9OmsP.png",
-        "bias": 0
-      },
-      {
-        "title": "Harvest Havoc [Free] [Survival]",
-        "link": "https://mounirnawwar.itch.io/harvest-havoc",
-        "description": "Defend your pumpkin patch from waves of crows, foxes, and thieves.",
-        "pubDate": "2026-05-01T14:49:53Z",
-        "source": "mounirnawwar.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3MDA4NjY2LmpwZw==/315x250%23c/9KUBVH.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Knights End [Free] [Adventure] [Windows]",
-        "link": "https://ventinohaqqie.itch.io/knights-end",
-        "description": "",
-        "pubDate": "2026-05-01T14:41:20Z",
-        "source": "ventinohaqqie.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3MDEyNDMxLnBuZw==/315x250%23c/QMUZbw.png",
-        "bias": 0
-      },
-      {
-        "title": "Warxt blockers [Free] [Puzzle]",
-        "link": "https://warxt-studio.itch.io/warxt-blockers",
-        "description": "strategy",
-        "pubDate": "2026-05-01T14:37:48Z",
-        "source": "warxt-studio.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3MDEyMTg4LnBuZw==/315x250%23c/4E22%2BB.png",
-        "bias": 0
-      },
-      {
-        "title": "MOLE CLIMBER [Free] [Action]",
-        "link": "https://nhideyuki.itch.io/mole-climber",
-        "description": "Jump between the cleaning gondolas and scale the skyscraper! How high can you climb? 🏗️🏢",
-        "pubDate": "2026-05-01T14:35:41Z",
-        "source": "nhideyuki.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3MDEyMTQ1LnBuZw==/315x250%23c/HJqBaC.png",
-        "bias": 0
-      },
-      {
-        "title": "Nexland 2D Test Build [Free] [Windows]",
-        "link": "https://dorians-universe.itch.io/nexland-2d-test-build",
-        "description": "Dated Jan 9th, 1993",
-        "pubDate": "2026-05-01T14:29:43Z",
-        "source": "dorians-universe.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3MDEyMDYxLnBuZw==/315x250%23c/ooCabl.png",
-        "bias": 0
-      },
-      {
-        "title": "Internet Empire [$1.00]",
-        "link": "https://icewaternotice.itch.io/internet-empire",
-        "description": "",
-        "pubDate": "2026-05-01T14:25:41Z",
-        "source": "icewaternotice.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3MDExOTQ3LnBuZw==/315x250%23c/HlDxFy.png",
-        "bias": 0
-      },
-      {
-        "title": "Wire Racer (Hardcore) [Free] [Racing]",
-        "link": "https://eugeneosi.itch.io/wire-racer",
-        "description": "A deadly chase in a neon maze. Grapple the walls, reach insane speeds, earn points.",
-        "pubDate": "2026-05-01T14:22:55Z",
-        "source": "eugeneosi.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3MDEyMDM0LmdpZg==/original/NOQZ%2Bf.gif",
-        "bias": 0
-      },
-      {
-        "title": "Bluffaroo - The multiplayer imposter game [Free] [Other]",
-        "link": "https://crocsdev.itch.io/bluffaroo",
-        "description": "One player secretly gets a different question — bluff your way through or catch the imposter. Free, no signup.",
-        "pubDate": "2026-05-01T14:19:40Z",
-        "source": "crocsdev.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3MDEyMjM1LnBuZw==/315x250%23c/UBoJSA.png",
-        "bias": 0
-      },
-      {
-        "title": "A flight to a new home [Free] [Other]",
-        "link": "https://comigo.itch.io/flight-to-new-home",
-        "description": "Join me on this flight",
-        "pubDate": "2026-05-01T14:18:49Z",
-        "source": "comigo.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3MDExODU2LnBuZw==/315x250%23c/2DhIPa.png",
-        "bias": 0
-      },
-      {
-        "title": "Granny's Garden [Free]",
-        "link": "https://ypengal.itch.io/grannys-garden",
-        "description": "",
-        "pubDate": "2026-05-01T14:11:28Z",
-        "source": "ypengal.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3MDExMjczLnBuZw==/315x250%23c/Lae0b9.png",
-        "bias": 0
-      },
-      {
-        "title": "la muerte [Free]",
-        "link": "https://blancelopato.itch.io/la-muerte",
-        "description": "",
-        "pubDate": "2026-05-01T14:10:57Z",
-        "source": "blancelopato.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3MDExOTMzLnBuZw==/315x250%23c/NjZlVA.png",
-        "bias": 0
-      },
-      {
-        "title": "Chochoy2026 [Free] [Card Game]",
-        "link": "https://amaranthgames.itch.io/chochoy2026",
-        "description": "",
-        "pubDate": "2026-05-01T14:08:46Z",
-        "source": "amaranthgames.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3MDExNjY0LnBuZw==/315x250%23c/0imkVx.png",
-        "bias": 0
-      },
-      {
-        "title": "[Twine Game ] Rattanakosin 150 Year The Grand Celebration of 1932 [Free]",
-        "link": "https://tonkeng-twine-game-th.itch.io/rattanakosin-150-the-grand-celebration-of-1932",
-        "description": "The 150th Anniversary of the Capital",
-        "pubDate": "2026-05-01T14:04:04Z",
-        "source": "tonkeng-twine-game-th.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3MDExNTc1LnBuZw==/315x250%23c/SxqE0a.png",
-        "bias": 0
-      },
-      {
-        "title": "Nay Project [Alpha 0.1] [Free] [Visual Novel] [Windows]",
-        "link": "https://nayeib.itch.io/nay-project",
-        "description": "Una colección de historias interactivas y demos de novela visual (NTR, Adult, 3D Elements).",
-        "pubDate": "2026-05-01T13:54:19Z",
-        "source": "nayeib.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3MDExNzE4LnBuZw==/315x250%23c/mxpdN9.png",
-        "bias": 0
-      },
-      {
-        "title": "💼 Business Mogul [Free] [Simulation]",
-        "link": "https://noanunikki.itch.io/businessmogul",
-        "description": "",
-        "pubDate": "2026-05-01T13:37:23Z",
-        "source": "noanunikki.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3MDExNDYxLnBuZw==/315x250%23c/3e5dZo.png",
-        "bias": 0
-      },
-      {
-        "title": "Sanguine Immolare Demo [Free] [Card Game]",
-        "link": "https://jammie2312.itch.io/sanguine-immolare-demo",
-        "description": "Gothic roguelike deckbuilder",
-        "pubDate": "2026-05-01T12:05:26Z",
-        "source": "jammie2312.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3MDEyMTgwLmpwZw==/315x250%23c/4%2BuLBv.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Smile Runner [Free] [Action]",
-        "link": "https://plunke.itch.io/smile-runner",
-        "description": "Sprint across a never-ending path. Avoid danger, charge your Overload, and push your limits. How long can you last?",
-        "pubDate": "2026-05-01T12:04:00Z",
-        "source": "plunke.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3MDA5NTAyLnBuZw==/315x250%23c/NXC266.png",
-        "bias": 0
-      },
-      {
-        "title": "Paranoid Seclusion​ [Free] [Survival] [Windows]",
-        "link": "https://joshscannell24.itch.io/paranoid-seclusion",
-        "description": "familiarity becomes our protagonists' best defense, as he protects himself from whatever follows him home.",
-        "pubDate": "2026-05-01T11:25:36Z",
-        "source": "joshscannell24.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3MDEwMTk0LmpwZw==/315x250%23c/ZBNCmj.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Build a Butsudan [Free] [Educational]",
-        "link": "https://emmamcdonald.itch.io/build-a-butsudan",
-        "description": "An educational game",
-        "pubDate": "2026-05-01T01:46:35Z",
-        "source": "emmamcdonald.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3MDAzMjAwLnBuZw==/315x250%23c/7DQiiE.png",
-        "bias": 0
-      }
-    ],
+    "Gaming": [],
     "World": [
+      {
+        "title": "EU trade deal with South America’s Mercosur bloc takes provisional effect",
+        "link": "https://www.aljazeera.com/news/2026/5/1/eu-trade-deal-with-south-americas-mercosur-bloc-takes-provisional-effect?traffic_source=rss",
+        "description": "The long-awaited deal creates one of the world’s largest free trade areas with 720m potential consumers.",
+        "pubDate": "2026-05-01T16:03:27Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Pentagon announces deal with seven AI companies for classified systems",
+        "link": "https://www.aljazeera.com/news/2026/5/1/pentagon-announces-deal-with-seven-ai-companies-for-classified-systems?traffic_source=rss",
+        "description": "Most recent instance of department integrating with AI comes amid Anthropic standoff, concern over use in Iran war.",
+        "pubDate": "2026-05-01T15:57:09Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Turkish police fire tear gas, arrest hundreds at May Day rally",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/1/turkish-police-fire-tear-gas-arrest-hundreds-at-may-day-rally?traffic_source=rss",
+        "description": "Turkish authorities violently crackdown on May Day demonstrations at Istanbul’s Taksim Square, firing tear gas.",
+        "pubDate": "2026-05-01T15:34:18Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "What to know about May Day demonstrations as workers face rising energy costs due to Iran war - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdzRmcnZqMWRfUDZQUjVCZEVlUDdRSVBBeUFTMWc4aWJpSmZRaFRXWF9xNkJNRGpYVFgxdC1kX29NaWF2dld1NmJJX0c4WEhsaUtQcG9xMmcxajRjOXZEV1owVEhsdVZvTzhqa25SUE9tampVZ3JTYlFNNkcyNVFSQ3VyamUzX2ZVZ3RVc3o5Zy04WmlPT2Nra0VRSEVyajdZRWpQdTA3VTFnTGpWcWJwSkR3?oc=5",
+        "description": "",
+        "pubDate": "2026-05-01T15:32:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Italian firefighters respond to Tuscany wildfires",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/1/italian-firefighters-respond-to-tuscany-wildfires?traffic_source=rss",
+        "description": "Wildfires have ravaged over 810 hectares (2,000 acres) of forest in Tuscany.",
+        "pubDate": "2026-05-01T15:11:25Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Cricket club bans social media comments to protect players’ mental health",
+        "link": "https://www.aljazeera.com/sports/2026/5/1/cricket-club-bans-social-media-comments-to-protect-players-mental-health?traffic_source=rss",
+        "description": "English basement county, Kent, are led by former international Adam Hollioake, who is concerned for players' well being.",
+        "pubDate": "2026-05-01T15:01:23Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Israeli authorities taking 2 activists from a Gaza-bound flotilla to Israel for questioning - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdmRJZ25CanNpTmhYQ2xsMFlpa0pBdHZEOGsxeWVwLV9kRnlsdVFyRXRGNkl3c0xXaTdrRUt2Tm5yZ00xUTh1aHFlczFoMkthNWRmYXRDcWctWW9LWkVfS0hSay1EMk1NdHB2SzlJbHZsZS1FSWI3N1BSRGtvZ1BaX0xDWXc1S1NPUXd6M1NyNA?oc=5",
+        "description": "",
+        "pubDate": "2026-05-01T14:52:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "US imposes sanctions on DR Congo ex-President Kabila alleging rebel support",
         "link": "https://www.bbc.com/news/articles/clyprzx10w2o?at_medium=RSS&at_campaign=rss",
@@ -221,10 +85,37 @@
         "bias": 0
       },
       {
+        "title": "Workers around the world demonstrate on May Day, in photos - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUWlFRGp6SHRqajlleVczUTBBZmhzSTRZcDhRNnRoMm1rbnhZeHFCcHB4UTFVemZvVzNOQlJBZURwZjVrTk1iYW13dXFpNVpfVGIyUGVfS0JEa3RLYWRjUFVJSTlDLWRGRmg4VXpweE5HNUh4cG16MlBoa2E1U2tqVHUzZjJPeFIycDgxNHoyV2kzTWxYcGdweTkxZnRpVTFrcndBZlRmaUF2RHdBN0wzUg?oc=5",
+        "description": "",
+        "pubDate": "2026-05-01T14:32:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "War-battered Syria now sells itself as a safe corridor amid regional conflict - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUVJXRGVGeG9Zdzc0TktRVV9kd1h0WDlJYTBWWS13UUs5Y1hackFlWDBmOW54cVlCY3VJV1N2VV9ubW8waUs4UWpBbElGbXgyazNLWi1tUHEzbzBtUjlUeXJnZlBWVENjX2ZjSm5DZlItdFVfNGRPTEVmZExKZk9SaXhpZGdkSzl2TFlhQ3N4cTVWVW1XOW11UA?oc=5",
+        "description": "",
+        "pubDate": "2026-05-01T14:16:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Habitat for Humanity is developing a new Atlanta community with help from the Carters' initiative - AP News",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcmxQam1hU2tZMjZEVHkzd1RJZTRpQlFvWC1DRHhwUkpfd3l6TFRnWm9aampSdHRJallzNjBQc01qOTJFcHN3Z3Z4OVNZRGxEekRrbW9hS1FwM2NzbGFQUElhcFRwTmVXX2loQ1Z3YmZLSFdobUVYLUl0LTRGN2J1N2dtTk0xR3gxMlI1OGRGZC1ZLXQtTXB5d2V5azZTSGV5QmdtVkZDcHBsT1M1WTFFYg?oc=5",
         "description": "",
         "pubDate": "2026-05-01T14:13:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "After major enforcement operations, the Trump administration recalibrates its immigration crackdown - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLUVXWkNrRHc2YlU4dTU2dlk1YmlzZTlUYS1odkpsTWV6ZzJFbVRjbUpOXzEyTUVRckNzcTB0RnE4UmFMRUNhOXFZV0JkYzhoTlJST0xmSVFCRk9iZ2RTYzkxcEg3eElrbnVPd0s0cGN4U2dKenQyYnVBeXJWc200MFBJallqRUVSYzRxSjd4WDNubGlRaFpxTjRLSldiSEVnb2ktRWJFNHF0UQ?oc=5",
+        "description": "",
+        "pubDate": "2026-05-01T14:08:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -237,15 +128,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Israeli authorities taking 2 activists who led a Gaza-bound flotilla to Israel for questioning - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdmRJZ25CanNpTmhYQ2xsMFlpa0pBdHZEOGsxeWVwLV9kRnlsdVFyRXRGNkl3c0xXaTdrRUt2Tm5yZ00xUTh1aHFlczFoMkthNWRmYXRDcWctWW9LWkVfS0hSay1EMk1NdHB2SzlJbHZsZS1FSWI3N1BSRGtvZ1BaX0xDWXc1S1NPUXd6M1NyNA?oc=5",
-        "description": "",
-        "pubDate": "2026-05-01T13:47:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Howe says Saudi owners’ desire for success at Newcastle remains unchanged",
@@ -311,12 +193,30 @@
         "bias": 0
       },
       {
+        "title": "Long DACA renewal wait times leave some 'Dreamers' without status, a job and fearing detainment - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQanJkaVdNMlI4UUVIOGFCcGp2alpWbUFzQ2RPc2dmNWRTdHNTeXk0VExkcGRQRHRTVUJiNXdGM1pYM2lOb1dDdU92XzNNWlMxaDZtZW9JNGdBYndaazJMQlBMeTQ1UkRrZXJ3RXpXU1JIbzRhanJfczRhYVMxMWd1SGJQa3VoQQ?oc=5",
+        "description": "",
+        "pubDate": "2026-05-01T13:03:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Missing Oscar found after Academy Award winner blocked from taking it on flight",
         "link": "https://www.bbc.com/news/articles/cz72j59znw3o?at_medium=RSS&at_campaign=rss",
         "description": "The airline said the Academy Award was safely in its care in Frankfurt and was arranging its return.",
         "pubDate": "2026-05-01T12:42:29Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fe5/live/c5211800-44f6-11f1-b31a-1d206af1842d.jpg",
+        "bias": 0
+      },
+      {
+        "title": "A converted church in rural Pennsylvania is becoming an incubator for Amish roots music - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYWN0RXIwcXdob29qc05lTy1GVmlTS2ZBYUd3dlB5UmlMam9NbFNZX1VPNE9xMmNLUWhkQjBjMWlQei1qb1RpVlltTjF4T2xHdTB6aFlHbkV1ZmlCdktFOTk5NDZ4d3d6MzVrdGw1bE9HQzIwUnJUX3BNTkpFMlVzQ2huRlhpVkZaX2t1ZVliU2I0b0JtSFZlWlZzZkVqaUNGb2JRUHln?oc=5",
+        "description": "",
+        "pubDate": "2026-05-01T12:42:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -329,8 +229,8 @@
         "bias": -1
       },
       {
-        "title": "Major global news moments of April, in AP photos - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjk4TlNpbmRxYjI0MVlPcjVxVUE3SFc2RVRpcExlMFFjcHdLbWRVNFEySlRfNlRXMTFkamthUTZzRTNtUEs3cGlOSTl6QV9kdlhlYm80T1FyMHpxTzZsd2M3ajZ5MExYWTJ4LThHek9KRVFnR3BIbW44c3RFcVJyMEtraDQ1N2ZYUW1BYWV1NzNHTXg4TUswS0lNSkVqdnZPTnpqUE5SVzlNVTg?oc=5",
+        "title": "The top photos of the day by AP’s photojournalists - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcjRzVjFCX05qZ1pIaDJsRFM0NzdSQUFaOVQyZ0lmSEtKZmZnNkF1VUxUalA2MzFhZVRLRXVzaVRhbi1LWkhYaWo2UGp6ZzJaRXF0VFZVNTkxYWpsMHJoYUp6dVZFRUhwRzJvRXl1Vkl4WnByS1BLYUVLWU03QUxvQ283NG9aQ3phYk4wcW1BVGswaUdTNktJT1o4TnpwS2hka2x1Qw?oc=5",
         "description": "",
         "pubDate": "2026-05-01T12:30:33Z",
         "source": "news.google.com",
@@ -356,15 +256,6 @@
         "bias": 0
       },
       {
-        "title": "A converted church in rural Pennsylvania is becoming an incubator for Amish roots music - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYWN0RXIwcXdob29qc05lTy1GVmlTS2ZBYUd3dlB5UmlMam9NbFNZX1VPNE9xMmNLUWhkQjBjMWlQei1qb1RpVlltTjF4T2xHdTB6aFlHbkV1ZmlCdktFOTk5NDZ4d3d6MzVrdGw1bE9HQzIwUnJUX3BNTkpFMlVzQ2huRlhpVkZaX2t1ZVliU2I0b0JtSFZlWlZzZkVqaUNGb2JRUHln?oc=5",
-        "description": "",
-        "pubDate": "2026-05-01T12:02:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Record-breaking DHS shutdown ends. And, May Day protests to draw crowds nationwide",
         "link": "https://www.npr.org/2026/05/01/g-s1-119694/up-first-newsletter-iran-us-strait-of-hormuz-dhs-shutdown-trump-surgeon-general",
         "description": "Congress has ended the record-breaking shutdown of the Department of Homeland Security. And, May Day demonstrations across the U.S. are expected to draw crowds protesting the Trump administration.",
@@ -372,15 +263,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "After major enforcement operations, the Trump administration recalibrates its immigration crackdown - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLUVXWkNrRHc2YlU4dTU2dlk1YmlzZTlUYS1odkpsTWV6ZzJFbVRjbUpOXzEyTUVRckNzcTB0RnE4UmFMRUNhOXFZV0JkYzhoTlJST0xmSVFCRk9iZ2RTYzkxcEg3eElrbnVPd0s0cGN4U2dKenQyYnVBeXJWc200MFBJallqRUVSYzRxSjd4WDNubGlRaFpxTjRLSldiSEVnb2ktRWJFNHF0UQ?oc=5",
-        "description": "",
-        "pubDate": "2026-05-01T11:32:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Gaza aid flotilla vessels taken to Crete after Israeli interception",
@@ -435,15 +317,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "What to know about May Day demonstrations as workers face rising energy costs due to Iran war - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdzRmcnZqMWRfUDZQUjVCZEVlUDdRSVBBeUFTMWc4aWJpSmZRaFRXWF9xNkJNRGpYVFgxdC1kX29NaWF2dld1NmJJX0c4WEhsaUtQcG9xMmcxajRjOXZEV1owVEhsdVZvTzhqa25SUE9tampVZ3JTYlFNNkcyNVFSQ3VyamUzX2ZVZ3RVc3o5Zy04WmlPT2Nra0VRSEVyajdZRWpQdTA3VTFnTGpWcWJwSkR3?oc=5",
-        "description": "",
-        "pubDate": "2026-05-01T10:15:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Who profits big from the war on Iran?",
@@ -579,97 +452,43 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Man charged with attempted murder after stabbings of Jewish men in London",
-        "link": "https://www.npr.org/2026/05/01/g-s1-119674/man-charged-with-attempted-murder-after-london-stabbings",
-        "description": "A 45-year-old man was charged with attempted murder in the stabbings of two Jewish men in London, the latest in a string of attacks that have sparked fear and anger in Britain's Jewish community.",
-        "pubDate": "2026-05-01T08:09:30Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Ukraine begins to flex muscle as an emerging air power, angering Russia",
-        "link": "https://www.aljazeera.com/news/2026/5/1/ukraine-begins-to-flex-muscle-as-an-emerging-air-power-angering-russia?traffic_source=rss",
-        "description": "Russian officials cast Ukrainian attacks as 'terrorism' as they urge 'vigilance'.",
-        "pubDate": "2026-05-01T08:02:57Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "UK police charge man over stabbing of two Jewish men in London",
-        "link": "https://www.aljazeera.com/news/2026/5/1/uk-police-charge-man-over-stabbing-of-two-jewish-men-in-london?traffic_source=rss",
-        "description": "British officials have raised the national terrorism threat to its second-highest level.",
-        "pubDate": "2026-05-01T08:01:23Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Is Saudi Arabia's sports revolution unravelling?",
-        "link": "https://www.bbc.com/sport/articles/cglp42nnyeko?at_medium=RSS&at_campaign=rss",
-        "description": "Saudi Arabia will withdraw its multi-billion dollar backing of LIV Golf, but what does this mean for the country's other sporting investments? Dan Roan takes a closer look.",
-        "pubDate": "2026-05-01T07:49:18Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f37c/live/d42b73f0-454a-11f1-ac78-2112837ce2aa.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Workers around the world demonstrate on May Day, in photos - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUWlFRGp6SHRqajlleVczUTBBZmhzSTRZcDhRNnRoMm1rbnhZeHFCcHB4UTFVemZvVzNOQlJBZURwZjVrTk1iYW13dXFpNVpfVGIyUGVfS0JEa3RLYWRjUFVJSTlDLWRGRmg4VXpweE5HNUh4cG16MlBoa2E1U2tqVHUzZjJPeFIycDgxNHoyV2kzTWxYcGdweTkxZnRpVTFrcndBZlRmaUF2RHdBN0wzUg?oc=5",
-        "description": "",
-        "pubDate": "2026-05-01T07:46:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Iran vows ‘long, painful’ response if US renews attacks",
-        "link": "https://www.aljazeera.com/news/2026/5/1/iran-vows-long-painful-response-if-us-renews-attacks?traffic_source=rss",
-        "description": "Diplomatic efforts to resolve the conflict have hit an impasse, with a ceasefire in place since April 8.",
-        "pubDate": "2026-05-01T07:32:57Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Six injured in Washington state school stabbing",
-        "link": "https://www.bbc.com/news/articles/cewp2ll1zljo?at_medium=RSS&at_campaign=rss",
-        "description": "Five students and one security guard were taken to hospital following the attack at Foss High School.",
-        "pubDate": "2026-05-01T07:12:23Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d6c/live/7799e9e0-4528-11f1-bd52-e755d604ece4.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Hegseth faces questions about Iran in first congressional appearance since war began",
-        "link": "https://www.npr.org/2026/05/01/g-s1-119666/hegseth-faces-questions-about-iran",
-        "description": "Making his first appearance before Congress since the Trump administration went to war against Iran, Defense Secretary Pete Hegseth faced withering questioning from skeptical Democrats.",
-        "pubDate": "2026-05-01T06:50:44Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
       {
+        "title": "Whisky tariffs deal sparks political squabble over who claims credit",
+        "link": "https://www.bbc.com/news/articles/cg5p7yg82jro?at_medium=RSS&at_campaign=rss",
+        "description": "Party leaders quickly changed their campaign plans after Donald Trump's announcement on the tariffs deal.",
+        "pubDate": "2026-05-01T15:34:51Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0973/live/4cb0ef70-456a-11f1-b55d-0f258dce1735.jpg",
+        "bias": 0
+      },
+      {
         "title": "Polanski apologises for sharing post criticising police",
         "link": "https://www.bbc.com/news/articles/cp8p7k4k8xno?at_medium=RSS&at_campaign=rss",
-        "description": "Green Party leader sorry for sharing post condemning actions of police officers who arrested suspect in Golders Green attack.",
-        "pubDate": "2026-05-01T15:03:48Z",
+        "description": "The Green leader was facing a growing backlash for appearing to back criticism of arresting officers.",
+        "pubDate": "2026-05-01T15:32:42Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c38f/live/afbb8cb0-456a-11f1-978c-1335807b5925.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfd9/live/0a9e2d10-4573-11f1-bd52-e755d604ece4.jpg",
         "bias": 0
       },
       {
         "title": "Kemi Badenoch use of Bloody Sunday footage 'disgusting', says MP",
         "link": "https://www.bbc.com/news/articles/c1l2gnvd0lgo?at_medium=RSS&at_campaign=rss",
         "description": "The footage of soldiers on Bloody Sunday appeared in a Conservative Party video opposing reforms to the Legacy Act.",
-        "pubDate": "2026-05-01T14:31:25Z",
+        "pubDate": "2026-05-01T15:27:25Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9a2/live/0d4cea70-4554-11f1-a4b0-8306ec2ff5e9.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Profit for the biggest US oil companies declined in the first quarter, but only on paper - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU3dOZENJS2cwcEFWTl9mY1JmaVdmSm5JcjZ3bUNZNGtQY0Q3MHR4SlMzMjVfTWlUcjNDME5rODZTbVJWalZlN25Nc19mTGFsQmFuMEJSLS13OUZ4aE9kUk1uOTIwTUFWelZnazNJTndPemVyeDFBTnY3dkZwMmdOaTh2d19ZX0pUZUxkX01QRDZzS1c4MmJUZ0hiZENZQQ?oc=5",
+        "description": "",
+        "pubDate": "2026-05-01T15:02:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -697,6 +516,15 @@
         "pubDate": "2026-05-01T12:32:30Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4046/live/768660c0-4559-11f1-a4b0-8306ec2ff5e9.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Superdry cofounder James Holder convicted of rape after a night of drinking - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQVUzOTZJU0tYcGNseU5pMGJlMFFzU211VXhzSFZpSVM1QnprYnRLcV9nNjcwbEtjUGdvbEZ2anZISndJNl94M05yWHpLeklRS3dnaTJEbHE2V2FvS1pHYXcyNFJzZThHQkl4RU81dlRFMDZhR2k3ZnROQ0xSODF3aTdSUHlwbGZURHNmbFhCWTd3U014ek1qcTFkaWxhbnhGYkk4TA?oc=5",
+        "description": "",
+        "pubDate": "2026-05-01T12:14:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -736,27 +564,18 @@
         "bias": 0
       },
       {
-        "title": "Jaden McDaniels and the feisty Timberwolves oust the Nuggets and move on to meet the Spurs - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFFpVVB3R2pWSkdZOXhaM0FUSU1yTHFVSTFVM1hiUVUwN0dwNlo5TWJ1Q3doX1pWRFZkSFhvcndnV2RkYlFUVE9tR0Q4aDVHUlVmYnRsQUllQU5KY2kxY2ZTdTlGTDlQcWMweDFnMjQ3V2gyWE11WDJsNVlRVWFZZzBxR3dfOUNmbER2ZnF3?oc=5",
-        "description": "",
-        "pubDate": "2026-05-01T10:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Nationwide May Day protests expected to pick up mantle of 'No Kings'",
-        "link": "https://www.npr.org/2026/05/01/nx-s1-5805805/may-day-protests-boycott-schools-trump",
-        "description": "The protest organizers are calling for a boycott of work, school and shopping to protest Trump administration policies and what activists describe as a billionaire takeover of government.",
+        "title": "It's Day 1 of Medicaid work requirements in Nebraska. People are worried",
+        "link": "https://www.npr.org/2026/05/01/nx-s1-5806260/trump-medicaid-work-requirements-nebraska-big-beautiful-bill-hr1-obbba",
+        "description": "Starting May 1, many people covered by Medicaid in Nebraska have to prove they are working. It's a requirement most states will have to implement under President Trump's budget law, beginning in January.",
         "pubDate": "2026-05-01T09:00:00Z",
         "source": "npr.org",
         "image": "",
         "bias": -1
       },
       {
-        "title": "It's Day 1 of Medicaid work requirements in Nebraska. People are worried",
-        "link": "https://www.npr.org/2026/05/01/nx-s1-5806260/trump-medicaid-work-requirements-nebraska-big-beautiful-bill-hr1-obbba",
-        "description": "Starting May 1, many people covered by Medicaid in Nebraska have to prove they are working. It's a requirement most states will have to implement under President Trump's budget law, beginning in January.",
+        "title": "Nationwide May Day protests expected to pick up mantle of 'No Kings'",
+        "link": "https://www.npr.org/2026/05/01/nx-s1-5805805/may-day-protests-boycott-schools-trump",
+        "description": "The protest organizers are calling for a boycott of work, school and shopping to protest Trump administration policies and what activists describe as a billionaire takeover of government.",
         "pubDate": "2026-05-01T09:00:00Z",
         "source": "npr.org",
         "image": "",
@@ -790,15 +609,6 @@
         "bias": -1
       },
       {
-        "title": "Jokic still wants to be 'Nuggets forever,' but an early playoff exit leaves them searching for more - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPekVZTEI0X1Yta3BSRVFlcEp4bTNCa2dZY1NRQnNPdU1iTmZRZDlkOUdJMlhidWluVm9WLWctMmxHS0FRSVE1ZFdRdnlQdFBVeElnWHJqZ3dyY0VmQm5xUXk3WFhCb3ZuVXdveW5naWJNU0pnTUJNM3ZQOG5EVGNaWFRfX1pwcmlxV2hyTTlGRTRkYTRfdnpkTQ?oc=5",
-        "description": "",
-        "pubDate": "2026-05-01T07:12:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Labour's London squeeze exposes a fragmented British politics",
         "link": "https://www.bbc.com/news/articles/cwy2vlww2ezo?at_medium=RSS&at_campaign=rss",
         "description": "London offers an insight into the dilemma Labour faces about which direction to take.",
@@ -829,7 +639,7 @@
         "title": "US-Venezuela nonstop flights resume, and other top photos from Latin America and the Caribbean - AP News",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcEJFU1ZQU2VsX29scXNmaFNCazdYbm1mS3FIV3NZLUtZZ1UzdE5kaU40b0RxTFZOQXVoYTBQbF9DQTZYeEg4N0RrU0NIU1FsZ2ljRzZQYjYweU14NDFVc25OeUJIa2pMb1JDTkxLbzRwS0x6OTBLZWNEaV8yOEl4RElnRzhqdnpDTUpPcThBMUQtbU9iSFo0NVUwWWJBZ0hoSC01SVcxWDNQNHJTMGRPeW9rUS1iZVBSSGpmVTZLcGt5YWM?oc=5",
         "description": "",
-        "pubDate": "2026-05-01T05:25:00Z",
+        "pubDate": "2026-05-01T05:30:53Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -841,15 +651,6 @@
         "pubDate": "2026-05-01T04:53:44Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f69/live/bf4755a0-42f5-11f1-9516-81393c122a1a.png",
-        "bias": 0
-      },
-      {
-        "title": "Foo Fighters bring their stadium show to a modest NYC venue. Inside the exclusive, surprise concert - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSlNUdjJyVXgzY2k3UlB2WkdsMmR3eFI1NmlZLWNDOVQzUUlsdVdLMWF3Rm9RQ0x3MEwxdHp4R2ZtN0djWVRUNVIzUXlwY3cxb1VYam9NcExCSmYtZWpja2d0cXRuTmM0QjJTbkE1OWpGa1RWc3dPdlhtRC1YSHoybEZsQWlzN0J5TllnMFNoQ20zYmFzOWJRd0JmQnVRel9HTkZxSw?oc=5",
-        "description": "",
-        "pubDate": "2026-05-01T04:08:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -871,28 +672,10 @@
         "bias": 0
       },
       {
-        "title": "Trump administration says its war in Iran has been ‘terminated’ before 60-day deadline - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYzZiM1lJS3NoVGZrU0l4Q245cDR3VjZhMnpnXzVXUUM5bVJKY3dVT0Q0SFhEVzJGZ3Z5X3cwTjNyNGozVW9LZ0V4QU9aa2MtZFlqakR1ZENEVHBFOHBiQWtUdlppeTQ4SVlVWTRHc2I2eF81dTc4YUtoRWtFbUFfZlBKbnFPTGVReFQ1WFktZjJJa1Np?oc=5",
-        "description": "",
-        "pubDate": "2026-05-01T02:08:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Louisiana congressional primaries are suspended as a result of the Supreme Court’s ruling - AP News",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbDgyTDlUOFdqRDV4amhGbmM4Y3FSRy1XLWsxVFlxOF9RUHdqVEZJOWJJbGY1ZU1zRmlhNWhEMlhoMVpJSktOSF9ZaDRKLUxBdTJNNlh6cmJ5Unk0d0FpdXJzbE1hcEhHU1Y0d0ZEc3E1Rl9udlExMi1wMFJGRUlsNWVXVVRXalo5VXU4aDV4M3hRS2NPbHVUSThUa2pGSnotbXg1eA?oc=5",
         "description": "",
         "pubDate": "2026-05-01T01:12:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Brazil’s Congress overrides Lula’s veto of a bill to reduce Bolsonaro’s sentence - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcVFxSWZHNVZ5TnIyNjV0Z1VTYkVhZkY0OTBXZlNLWXBydjNvLUd1bU9MNFdXcjZkMWZlRGVrbndXQjg0ZWs3TzFrVWo1R3hDYURWQTEzZUJvbld6b20zTkZ2TWM2czhrRVhYLW15ajZmb0JUTWRNS3huc1lCRW1QUzhjbHJKdjlYeTA0LXFSR283Z19TczYxbjFXbWRkRndoTUUyVzJQQ3E?oc=5",
-        "description": "",
-        "pubDate": "2026-05-01T00:14:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -904,6 +687,15 @@
         "pubDate": "2026-05-01T00:07:12Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f782/live/8df007e0-43d1-11f1-bf3e-3d07e81b01ce.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Investment group comes forward to buy the Vancouver Whitecaps and move team to Las Vegas - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUi14RC1jTV9GSUYzcGJTNFRZMUVodE81RTdKWlkza2EwUGZzZ1RTZ0ExbWlxX18tS1g1RGN4NlhpX1dwdXo5NEZhUDVhRlprNzUyZFdlR2x5N0M5V0l5Sk9TRXFUNVZ2eEFYbWYxcTZYaEZ4cVA0amhWWG02NDFvM3F4TlRqVzQ4aXFkTGhGZXM1SHE1R1RMYQ?oc=5",
+        "description": "",
+        "pubDate": "2026-05-01T00:03:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       }
     ],
@@ -927,19 +719,10 @@
         "bias": 0
       },
       {
-        "title": "Bessent wants Americans to avoid easy-money traps and invest in financial literacy - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVWtHcWFzbWxDaFZVaHQ5SURZcUVDaGUxa1h0bjhTRWVBZm96WnhlWGFaYkc1NnZ4VHlyVDgzZjFwRGdhbEI3ZEwzRVZ2N05pOWYxbGxZUU51WDRGRnljWldOU0VfN3QyWHJvajRiM2JNWEEtamczUUU3YWd6eTZVWXNWbXJGUklHMzFzaTRmR18tS1FjTjVLVnBn?oc=5",
+        "title": "Donna Brothers steps away from NBC’s Kentucky Derby coverage after 26 races - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVzdON0xXcUFXMXhXQ3llb29aOWNHNTVDV2F6SDVfTFZlZHA4Wm5OVS1nTno0ZXhCOXFzR1p1MUhXMjJlYVRGU29xaXVfY1BYRFRabVZTVE5hUkFUSVN2Z214YnJQRDlJOW9TYVVrMU9PMXVLblA4UThtME80NmtKQlRmd3dsLWY4SlBUMDFYT08?oc=5",
         "description": "",
-        "pubDate": "2026-05-01T11:08:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Senate bans its own members and staff from betting in prediction markets - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS2IyMWNOaEU0WFRBeDdRblAwUG9mejlMZWFTS1M4TU1DcktaRDlTVG1VdERtUkVWbFRJYXpXUDkyVFk5MEFCeU5iOVFQYXNoc3kyelNFUFd1c29HT1JkZ2VYYzkyakZreTBoZ3ZKeThZSVJ6WVdiQnhQNGk2SlpnY3RNOUYtVC1LRDFyVlo1eFByY2pudjQ4aFZzNTVYTkRzZWZpcjBNNU84dw?oc=5",
-        "description": "",
-        "pubDate": "2026-05-01T10:20:27Z",
+        "pubDate": "2026-05-01T10:00:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -954,10 +737,10 @@
         "bias": 0
       },
       {
-        "title": "Music Review: Kacey Musgraves’ ‘Middle of Nowhere’ is where you’ll want to be - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPazN4TGVVazUzWl9qVWxSZGp1SVJvRjFHWWdvdWpkM1RIamNxc051TzBVNG9FXzQyMGg2bmtpSTE5dWxQQkRlNFZ5LU9IZENDWFJrdElRaGpoU1FHZGFjdnhZSTNZeG5tVUw1UjFRdml0VUdDZlQweVdReElkcy1OY21QRG92M1lLcXlXZndhaXdVdWgyT3p2aXQxQi15QjV6c2c?oc=5",
+        "title": "Foo Fighters bring their stadium show to a modest NYC venue. Inside the exclusive, surprise concert - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSlNUdjJyVXgzY2k3UlB2WkdsMmR3eFI1NmlZLWNDOVQzUUlsdVdLMWF3Rm9RQ0x3MEwxdHp4R2ZtN0djWVRUNVIzUXlwY3cxb1VYam9NcExCSmYtZWpja2d0cXRuTmM0QjJTbkE1OWpGa1RWc3dPdlhtRC1YSHoybEZsQWlzN0J5TllnMFNoQ20zYmFzOWJRd0JmQnVRel9HTkZxSw?oc=5",
         "description": "",
-        "pubDate": "2026-05-01T04:01:00Z",
+        "pubDate": "2026-05-01T04:08:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -965,12 +748,30 @@
     ],
     "Science": [
       {
+        "title": "Eggs of elusive bird rescued by firefighters during wildfire",
+        "link": "https://www.bbc.com/news/articles/c2k20ggnqldo?at_medium=RSS&at_campaign=rss",
+        "description": "During a wildfire in Brookeborough, County Fermanagh on Thursday, a curlew nest directly in the fire's path was found.",
+        "pubDate": "2026-05-01T15:50:04Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21ce/live/0d560c00-4571-11f1-b442-c37a8b277356.jpg",
+        "bias": 0
+      },
+      {
         "title": "Is this actually what Anne Boleyn looked like?",
         "link": "https://www.bbc.com/news/videos/c3d2e581k7do?at_medium=RSS&at_campaign=rss",
         "description": "An algorithm has suggested images of what were thought to be Anne Boleyn might not be.",
         "pubDate": "2026-05-01T14:44:02Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e87/live/9a3df7e0-4562-11f1-b55d-0f258dce1735.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Jaden McDaniels and the feisty Timberwolves oust the Nuggets and move on to meet the Spurs - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFFpVVB3R2pWSkdZOXhaM0FUSU1yTHFVSTFVM1hiUVUwN0dwNlo5TWJ1Q3doX1pWRFZkSFhvcndnV2RkYlFUVE9tR0Q4aDVHUlVmYnRsQUllQU5KY2kxY2ZTdTlGTDlQcWMweDFnMjQ3V2gyWE11WDJsNVlRVWFZZzBxR3dfOUNmbER2ZnF3?oc=5",
+        "description": "",
+        "pubDate": "2026-05-01T14:40:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -990,9 +791,36 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d04d/live/99f6e310-43bd-11f1-b55d-0f258dce1735.jpg",
         "bias": 0
+      },
+      {
+        "title": "Jokic still wants to be 'Nuggets forever,' but an early playoff exit leaves them searching for more - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPekVZTEI0X1Yta3BSRVFlcEp4bTNCa2dZY1NRQnNPdU1iTmZRZDlkOUdJMlhidWluVm9WLWctMmxHS0FRSVE1ZFdRdnlQdFBVeElnWHJqZ3dyY0VmQm5xUXk3WFhCb3ZuVXdveW5naWJNU0pnTUJNM3ZQOG5EVGNaWFRfX1pwcmlxV2hyTTlGRTRkYTRfdnpkTQ?oc=5",
+        "description": "",
+        "pubDate": "2026-05-01T07:12:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Big 12 strikes a private capital deal in hopes of growing revenue, AP sources says - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdk41U25wUGp5RHpyS1VBdXBTU1FCTzNGajhMajFKN1hxM2FQakQ2UG5najJrOUhVTFhfaENfMFJrc1hxNUdSckl1MHg0MVhSVHRkTTdZLUxPallPek9IUmFGaVpLQWNfWG5McjZqRk44Y0lJZng3aThyb09YaGZIMnBHOXk5ZjVGLWpabnJZdWhXWE1YdHFqaXp6Tjg3QQ?oc=5",
+        "description": "",
+        "pubDate": "2026-05-01T02:34:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Business": [
+      {
+        "title": "The Real Greek restaurant chain on brink of collapse",
+        "link": "https://www.bbc.com/news/articles/c93xqnlq33qo?at_medium=RSS&at_campaign=rss",
+        "description": "The 28-strong Mediterranean-styled restaurant chain is facing unsustainable cost pressures, its owners say.",
+        "pubDate": "2026-05-01T16:11:44Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8b5/live/3d482cf0-4570-11f1-b2fe-073887f0633b.jpg",
+        "bias": 0
+      },
       {
         "title": "No evidence of widespread fuel price-gouging, watchdog says",
         "link": "https://www.bbc.com/news/articles/c62djjj0z09o?at_medium=RSS&at_campaign=rss",
@@ -1093,6 +921,15 @@
         "bias": 0
       },
       {
+        "title": "Haslam breaks ground on Browns’ $2.4B domed stadium set to open in 2029 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lWWdLN2YxNjk4UGtVLWg5TWNGWXFudi1iTE5zOHA1cjhyVmliblJmXzNkY3l5UDZPZ2gxSkdzQTE4NW9RSjNsLXJOOGIxRnVJdjI4TE85Rno2ekNBR3pKN0hXdFJGQ3ZIdWVkT0Njb1NoVkFqOUlpblU2OEpXdHc?oc=5",
+        "description": "",
+        "pubDate": "2026-05-01T01:18:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Chippies sell catfish as 'traditional fish supper'",
         "link": "https://www.bbc.com/news/articles/cvg0337n0y1o?at_medium=RSS&at_campaign=rss",
         "description": "A BBC investigation finds chip shop owners passing off cheaper species as \"traditional fish and chips\".",
@@ -1103,6 +940,24 @@
       }
     ],
     "Culture": [
+      {
+        "title": "Graham Linehan's conviction for damaging trans activist's phone overturned",
+        "link": "https://www.bbc.com/news/articles/czx2vk4zx3xo?at_medium=RSS&at_campaign=rss",
+        "description": "Linehan had previously been found guilty of criminal damage after a confrontation with a trans activist.",
+        "pubDate": "2026-05-01T15:38:13Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1990/live/5252dcb0-456d-11f1-978c-1335807b5925.jpg",
+        "bias": 0
+      },
+      {
+        "title": "'The Devil Wears Prada 2' is a fizzy sequel -- with more to say than the original",
+        "link": "https://www.npr.org/2026/05/01/nx-s1-5805896/the-devil-wears-prada-2-is-a-fizzy-sequel-with-more-to-say-than-the-original",
+        "description": "Like any good sequel, this movie feels like a reunion. Anne Hathaway, Emily Blunt and Meryl Streep return in a cleverly written film that will delight anyone who loved the 2006 original.",
+        "pubDate": "2026-05-01T15:37:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "'Dreams come true' for singer joining Lady Gaga on Devil Wears Prada soundtrack",
         "link": "https://www.bbc.com/news/articles/c4g0vv9klepo?at_medium=RSS&at_campaign=rss",
@@ -1164,6 +1019,15 @@
         "pubDate": "2026-05-01T05:08:16Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7845/live/1b4e8ed0-447d-11f1-b545-b533bcf4cad2.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Timberwolves' injury woes worsen with Dosunmu sidelined for Game 6 by sore calf, Anderson out ill - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWHp0eEFZeVVxY2xYZVRDWTJHMjBqbmwwcXZ4WERFeE04aUZ6N1BNVHA0bzdCRnhQMzVVRTVpVV9oc0lSZi1YVWFyZHYyZmxNRDMxZk5ZNVpVeWhYQnRDanBLU2ptbk1YVjdQZkVtNDJocms2UFNmYkVmN082YWFKTnZLUkxpR2dtb0JhbEdWRHlQVEJ0VzFhVw?oc=5",
+        "description": "",
+        "pubDate": "2026-05-01T01:27:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       }
     ]
