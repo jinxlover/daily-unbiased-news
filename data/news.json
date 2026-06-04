@@ -1,189 +1,423 @@
 {
-  "lastUpdate": "2026-06-04T18:02:43.182686Z",
+  "lastUpdate": "2026-06-04T20:20:55.109026Z",
   "news": {
     "Gaming": [
       {
-        "title": "KnockBack [Free] [Platformer]",
-        "link": "https://codepenguin10.itch.io/knockback",
+        "title": "FOCUS [Free] [Adventure]",
+        "link": "https://kjackw.itch.io/focus",
+        "description": "A microgame about adhd",
+        "pubDate": "2026-06-04T20:15:39Z",
+        "source": "kjackw.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3Njc4MDAxLnBuZw==/315x250%23c/5YU%2Bkf.png",
+        "bias": 0
+      },
+      {
+        "title": "Peter vs Grutto's [Free] [Adventure]",
+        "link": "https://dextroyer12.itch.io/peter-vs-gruttos",
+        "description": "kill grutto's",
+        "pubDate": "2026-06-04T20:07:28Z",
+        "source": "dextroyer12.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3Njc3ODcwLnBuZw==/315x250%23c/qgfMPZ.png",
+        "bias": 0
+      },
+      {
+        "title": "Good Night [Free] [Visual Novel]",
+        "link": "https://maigamesdev.itch.io/good-night",
+        "description": "An 'emotional deduction' game where you infer the patient's emotions to prescribe the appropriate medicine.",
+        "pubDate": "2026-06-04T19:57:45Z",
+        "source": "maigamesdev.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3Njc3NTU2LnBuZw==/315x250%23c/BT3xQA.png",
+        "bias": 0
+      },
+      {
+        "title": "Kick Ups [20% Off] [$10.40]",
+        "link": "https://twistedbyart.itch.io/kick-ups",
+        "description": "Keep the ball up, handle as many balls as possible, and beat your high score!",
+        "pubDate": "2026-06-04T19:57:03Z",
+        "source": "twistedbyart.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3Njc3Njk5LnBuZw==/315x250%23c/XWxnFx.png",
+        "bias": 0
+      },
+      {
+        "title": "Molla [Free] [Other]",
+        "link": "https://lermaodog.itch.io/molla",
+        "description": "Horror office game jam molla wonder game jam major minor labubu",
+        "pubDate": "2026-06-04T19:52:52Z",
+        "source": "lermaodog.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3Njc3ODYyLnBuZw==/315x250%23c/AVecgN.png",
+        "bias": 0
+      },
+      {
+        "title": "Ogre Island 4 [Free] [Windows]",
+        "link": "https://dextroyer12.itch.io/ogre-island-4",
+        "description": "fight Grutto's!",
+        "pubDate": "2026-06-04T19:47:03Z",
+        "source": "dextroyer12.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3Njc3NTE1LnBuZw==/315x250%23c/GViSQ1.png",
+        "bias": 0
+      },
+      {
+        "title": "Pong99 [Free] [Other] [Windows]",
+        "link": "https://mariomaker2player1.itch.io/pong99",
+        "description": "just pong, no changes",
+        "pubDate": "2026-06-04T19:43:10Z",
+        "source": "mariomaker2player1.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3Njc3OTI1LnBuZw==/315x250%23c/yoBDSc.png",
+        "bias": 0
+      },
+      {
+        "title": "Magnetic_Core [Free] [Windows]",
+        "link": "https://volter-hit-wall.itch.io/magnetic-core",
         "description": "",
-        "pubDate": "2026-06-04T17:58:27Z",
-        "source": "codepenguin10.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3Njc1NjE0LnBuZw==/315x250%23c/7oojvJ.png",
+        "pubDate": "2026-06-04T19:42:47Z",
+        "source": "volter-hit-wall.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3Njc3OTAxLnBuZw==/315x250%23c/XpiJ7P.png",
         "bias": 0
       },
       {
-        "title": "Sunny runners [Free]",
-        "link": "https://official-greyvr.itch.io/sunny-runners",
+        "title": "rigariga's gold clicker [Free] [Other]",
+        "link": "https://rigariga.itch.io/rigarigas-gold-clicker",
+        "description": "Click the 'Gold' button for gold! Buy upgrades for more gold!",
+        "pubDate": "2026-06-04T19:42:26Z",
+        "source": "rigariga.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3Njc3NjYwLnBuZw==/315x250%23c/psWarT.png",
+        "bias": 0
+      },
+      {
+        "title": "JF900 [Free]",
+        "link": "https://meadowmods.itch.io/jf900",
         "description": "",
-        "pubDate": "2026-06-04T17:50:07Z",
-        "source": "official-greyvr.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3Njc1NDk1LnBuZw==/315x250%23c/0r7rDO.png",
+        "pubDate": "2026-06-04T19:39:35Z",
+        "source": "meadowmods.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3Njc3Mzc2LnBuZw==/315x250%23c/J2%2Bu5g.png",
         "bias": 0
       },
       {
-        "title": "SLIPPIY TOPPY ULTIMATE SLOP HORROR [Free] [Survival]",
-        "link": "https://itzzfishy.itch.io/slippiy-toppy-ultimate-slop-horror",
+        "title": "HPLD's WAPE downloadable [Free]",
+        "link": "https://hpld776.itch.io/hpld",
+        "description": "GAMO NOT VIRUS",
+        "pubDate": "2026-06-04T19:39:27Z",
+        "source": "hpld776.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3Njc3MzczLnBuZw==/315x250%23c/Kv4VXC.png",
+        "bias": 0
+      },
+      {
+        "title": "FNaF World (Horror Story) [Free] [Action] [Windows] [Linux]",
+        "link": "https://gippobon.itch.io/fnaf-world-horror-story",
         "description": "",
-        "pubDate": "2026-06-04T17:44:26Z",
-        "source": "itzzfishy.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3Njc1MzgwLnBuZw==/315x250%23c/0qqagq.png",
+        "pubDate": "2026-06-04T19:37:54Z",
+        "source": "gippobon.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3Njc3MzUzLmpwZw==/315x250%23c/NQcRQv.jpg",
         "bias": 0
       },
       {
-        "title": "Gooooal! 2 [Free] [Simulation] [Windows] [macOS] [Linux]",
-        "link": "https://real-ed3n.itch.io/gooooal-2",
+        "title": "Traffic Coleso Fortune v2 HD [Free]",
+        "link": "https://cyberiongames.itch.io/traffic-coleso-fortune-v2-hd",
         "description": "",
-        "pubDate": "2026-06-04T17:32:47Z",
-        "source": "real-ed3n.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3Njc1MTM0LnBuZw==/315x250%23c/3buuGb.png",
+        "pubDate": "2026-06-04T19:33:36Z",
+        "source": "cyberiongames.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3Njc3Mjg5LnBuZw==/315x250%23c/WULfuT.png",
         "bias": 0
       },
       {
-        "title": "Cool game [Free] [Educational]",
-        "link": "https://kebabsea.itch.io/cool-game",
-        "description": "Game is gemaakt in GODOT 4.6",
-        "pubDate": "2026-06-04T17:31:59Z",
-        "source": "kebabsea.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3Njc1MjUwLnBuZw==/315x250%23c/HTd0Q5.png",
+        "title": "Meow Match Café [Free] [Puzzle]",
+        "link": "https://immasam.itch.io/meow-match-caf",
+        "description": "Match cute kittens and bakes to run a cozy café — a sweet hyper-casual match puzzle.",
+        "pubDate": "2026-06-04T19:32:51Z",
+        "source": "immasam.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3Njc3NDU5LnBuZw==/315x250%23c/NbP2UI.png",
         "bias": 0
       },
       {
-        "title": "RPS: Battle through history [Free] [Strategy]",
-        "link": "https://hazemindgames.itch.io/rps-battle-through-history",
-        "description": "A strategy puzzle game where every Rock-Paper-Scissors opponent follows a learnable pattern.",
-        "pubDate": "2026-06-04T17:31:33Z",
-        "source": "hazemindgames.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3Njc1MjMwLnBuZw==/315x250%23c/uxsU3C.png",
+        "title": "Stellar Solitaire [Free] [Card Game]",
+        "link": "https://immasam.itch.io/stellar-solitaire",
+        "description": "Classic solitaire with a cosmic twist — clear the deck across glowing galaxies.",
+        "pubDate": "2026-06-04T19:30:11Z",
+        "source": "immasam.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3Njc3NDYxLnBuZw==/315x250%23c/xlIOz7.png",
         "bias": 0
       },
       {
-        "title": "Eurydice - Studio AA [Free] [Action] [Windows]",
-        "link": "https://studioaa.itch.io/eurydice",
-        "description": "​Eurydice is a 3rd-person 3D action adventure RPG, modern retelling of the Orpheus and Eurydice myth.",
-        "pubDate": "2026-06-04T17:28:09Z",
-        "source": "studioaa.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3Njc0NzQ3LnBuZw==/315x250%23c/NuKCWb.png",
+        "title": "A Guest Best Served Cold [Free] [Visual Novel] [Windows] [macOS]",
+        "link": "https://blqgumi.itch.io/a-guest-best-served-cold",
+        "description": "A Murder Mystery Dinner turns Deadly. Finished version",
+        "pubDate": "2026-06-04T19:27:58Z",
+        "source": "blqgumi.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3Njc3MDYyLmpwZw==/315x250%23c/0Ttfny.jpg",
         "bias": 0
       },
       {
-        "title": "Rise [Free] [Other]",
-        "link": "https://scarecellar.itch.io/rise",
-        "description": "Ascend an elevator and traverse a dangerous rope bridge in this new rage game by ScareCellar",
-        "pubDate": "2026-06-04T17:22:34Z",
-        "source": "scarecellar.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3Njc1MTA1LmpwZw==/315x250%23c/HZLbuZ.jpg",
+        "title": "King of the Prairie (Training Project) [Free] [Action]",
+        "link": "https://lobinhodomar.itch.io/the-journay-king-pradarie",
+        "description": "A fan-made recreation of Stardew Valley's King of the Prairie minigame, developed as a Unity training project.",
+        "pubDate": "2026-06-04T19:27:29Z",
+        "source": "lobinhodomar.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3Njc3MTY3LnBuZw==/315x250%23c/cmzbcG.png",
         "bias": 0
       },
       {
-        "title": "GTA6 - Lucia Caminos Clicker (v.1.0) [Free] [Puzzle] [Windows] [macOS] [Linux] [Android]",
-        "link": "https://taptaplegends.itch.io/lucia-caminos-clicker",
+        "title": "Tales from Taxonia [Free] [Role Playing]",
+        "link": "https://abselafi.itch.io/tales-from-taxonia",
+        "description": "Really cool/s first game of mine",
+        "pubDate": "2026-06-04T19:25:23Z",
+        "source": "abselafi.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3Njc3MTI2LnBuZw==/315x250%23c/IG4I7L.png",
+        "bias": 0
+      },
+      {
+        "title": "Lost Goblin [Free]",
+        "link": "https://sancor.itch.io/lost-goblin",
         "description": "",
-        "pubDate": "2026-06-04T17:17:49Z",
-        "source": "taptaplegends.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3Njc1NTY0LmpwZw==/315x250%23c/GuJEXN.jpg",
+        "pubDate": "2026-06-04T19:14:18Z",
+        "source": "sancor.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3Njc3Mjk2LnBuZw==/315x250%23c/GFjJnv.png",
         "bias": 0
       },
       {
-        "title": "Can I get my GameDev Card back pls [Free] [Other] [Windows]",
-        "link": "https://kai20.itch.io/can-i-get-my-gamedev-card-back-pls",
-        "description": "eurotrash 2018 twitter mental health flatpack videogame",
-        "pubDate": "2026-06-04T17:16:47Z",
-        "source": "kai20.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3Njc0ODQ1LnBuZw==/315x250%23c/AHE71G.png",
-        "bias": 0
-      },
-      {
-        "title": "CHROMA (Demo) [Free] [Platformer]",
-        "link": "https://cat-jug.itch.io/chroma",
-        "description": "Restore The World's Color",
-        "pubDate": "2026-06-04T17:15:45Z",
-        "source": "cat-jug.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3Njc0ODk3LnBuZw==/315x250%23c/J2sc2q.png",
-        "bias": 0
-      },
-      {
-        "title": "Kimi no Yuurei Wa/Il fantasma di Te [Free] [Visual Novel]",
-        "link": "https://kimuratakayama.itch.io/kimi-no-yuurei-wail-fantasma-di-te",
-        "description": "Una ragazza cerca disperatamente di avere notizie della sua vecchia amica. Comune per questo tipo di storie, vero?",
-        "pubDate": "2026-06-04T17:14:57Z",
-        "source": "kimuratakayama.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3Njc0NzI1LnBuZw==/315x250%23c/L96peZ.png",
-        "bias": 0
-      },
-      {
-        "title": "Losing [Free] [Platformer]",
-        "link": "https://malinah.itch.io/losing",
+        "title": "Deadbeat Dad [Free] [Role Playing] [Windows]",
+        "link": "https://fassb.itch.io/deadbeat-dad",
         "description": "",
-        "pubDate": "2026-06-04T17:06:53Z",
-        "source": "malinah.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3Njc1MDAyLnBuZw==/315x250%23c/Nbk%2FKs.png",
+        "pubDate": "2026-06-04T19:05:25Z",
+        "source": "fassb.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3Njc2NzgxLmpwZw==/315x250%23c/qonzNw.jpg",
         "bias": 0
       },
       {
-        "title": "Cyber Choice [Free] [Educational]",
-        "link": "https://mirfat-s.itch.io/cyber-choice",
-        "description": "Strike or Shield",
-        "pubDate": "2026-06-04T17:06:46Z",
-        "source": "mirfat-s.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3Njc0NjkwLnBuZw==/315x250%23c/Z0HL1e.png",
-        "bias": 0
-      },
-      {
-        "title": "GEM MATCH QUEST [Free] [Puzzle]",
-        "link": "https://jjgames8.itch.io/gem-match-quest",
-        "description": "Gem Matching Game",
-        "pubDate": "2026-06-04T17:02:59Z",
-        "source": "jjgames8.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3Njc0NjEyLnBuZw==/315x250%23c/Y%2BhX2P.png",
-        "bias": 0
-      },
-      {
-        "title": "Last Train Home [Free] [Visual Novel] [Windows]",
-        "link": "https://njadhav-08.itch.io/last-train-home",
+        "title": "Tea Party For 4 [Free] [Adventure] [Windows] [macOS]",
+        "link": "https://evekehat.itch.io/tea-party-for-4",
         "description": "",
-        "pubDate": "2026-06-04T17:02:26Z",
-        "source": "njadhav-08.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3Njc0NjIxLnBuZw==/315x250%23c/IM154r.png",
+        "pubDate": "2026-06-04T19:00:43Z",
+        "source": "evekehat.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3Njc4MDQ4LnBuZw==/315x250%23c/JjhCY6.png",
         "bias": 0
       },
       {
-        "title": "Falling Blocks Ultimate Engine Template – HTML5 Arcade Game Kit | Tetris - Like - Clone [31% Off] [$8.96] [Puzzle]",
-        "link": "https://liquid-glass-web.itch.io/falling-blocks-ultimate-engine-template-tetris-clone",
-        "description": "A complete HTML5 falling-blocks arcade engine with mobile controls, game modes, power-ups, daily challenge logic",
-        "pubDate": "2026-06-04T16:51:03Z",
-        "source": "liquid-glass-web.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3Njc0NDA5LmpwZw==/315x250%23c/LEz6KS.jpg",
+        "title": "La Tapadita [Free]",
+        "link": "https://dario923.itch.io/la-tapadita",
+        "description": "¿Tenés buena vista? No le saques el ojo a las chapitas y encontrá la pelotita oculta.",
+        "pubDate": "2026-06-04T18:58:30Z",
+        "source": "dario923.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3Njc3MjkwLnBuZw==/315x250%23c/UV4Z2w.png",
         "bias": 0
       },
       {
-        "title": "GM-PCGRL Dungeon [Free] [Role Playing] [Windows]",
-        "link": "https://rafaeldavidjose.itch.io/gm-pcgrl-dungeon",
-        "description": "Every floor is generated by an AI trying to challenge you at the right level.",
-        "pubDate": "2026-06-04T16:18:09Z",
-        "source": "rafaeldavidjose.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3Njc0Mzg2LnBuZw==/315x250%23c/GAPXkO.png",
+        "title": "Dodge Bar [Free]",
+        "link": "https://scavex.itch.io/dodge-bar",
+        "description": "Dodging Game!",
+        "pubDate": "2026-06-04T17:57:35Z",
+        "source": "scavex.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3Njc3NzYyLnBuZw==/315x250%23c/tLhWMn.png",
         "bias": 0
       },
       {
-        "title": "Trade Secrets [Free] [Card Game]",
-        "link": "https://dz-tt2195.itch.io/trade-secrets",
-        "description": "Trade cards with other players, with one card being secret.",
-        "pubDate": "2026-06-04T05:25:43Z",
-        "source": "dz-tt2195.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3NjY1MjU1LnBuZw==/315x250%23c/nsoieJ.png",
+        "title": "Pumpkin Sir Fight [Free] [Platformer]",
+        "link": "https://liliana666.itch.io/pumpkin-sir-fight",
+        "description": "A duel against a strange pumpkin man, where you have to avoid its attacks while dodging and parrying.",
+        "pubDate": "2026-06-04T15:43:17Z",
+        "source": "liliana666.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3NjczMjQ5LnBuZw==/315x250%23c/Kfz%2Fzm.png",
         "bias": 0
       },
       {
-        "title": "Melodic Marauder [Free] [Windows] [macOS]",
-        "link": "https://galactic-gamer-42.itch.io/melodic-marauder",
-        "description": "A rail runner rhythm game where you slash to the beat.",
-        "pubDate": "2026-06-04T05:01:39Z",
-        "source": "galactic-gamer-42.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3Njc0ODgyLnBuZw==/315x250%23c/tt1JFq.png",
+        "title": "in an alternative universe [Free] [Interactive Fiction]",
+        "link": "https://lyishere.itch.io/inau",
+        "description": "a short story about a girl and repetition",
+        "pubDate": "2026-06-04T14:13:16Z",
+        "source": "lyishere.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3NjcxODExLnBuZw==/315x250%23c/LLDhHJ.png",
         "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Does Israel still need U.S. support?",
+        "link": "https://www.npr.org/2026/06/04/nx-s1-5845010/does-israel-still-need-u-s-support",
+        "description": "In recent years, Israel's relationship with the U.S. has changed — not for the better, some analysts say. Now, new tensions have emerged between President Trump and Israeli Prime Minister Netanyahu.",
+        "pubDate": "2026-06-04T20:13:01Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Ex-national security adviser John Bolton will plead guilty in classified information case: AP source - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWWd4RzU2MGJTWktEamdDc2xfbTBKS0VZbmlkemFMV2JjbU1naWNyNVJSRkF3Z19QZ3RMVnFBeVFUaXNCTmM3NEJsZm15bEgtQ1B4cmRtUlhMU2d2M1Q4X0lPY3NYNUk4aGJud014RWw4LXp4clZPLS1jcXh4ZlpoaVJ4QWd2aDlWRXZFZjY0aW1qVFBpUTlKVTRaVGxUa1A1X2NqNTJPcmJOQzFtclVlczI4eTQ?oc=5",
+        "description": "",
+        "pubDate": "2026-06-04T19:53:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Lufthansa employees injured after Boeing 787’s nose landing gear collapses at Frankfurt airport - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU0htcW5QSjRXU0FSZUp0eTIzclNYZlp3cDN3QndsYjZfSjIzSDFINExKVGdYNkgxWEd5Q0xDaG5XVkVfWUx4Rm54QjRfZ2lhMU9SRkxyYldCSW1vU254anM4aDFvMkh3VUxNZ1ZjbGs1WkduVl9BZnN2aF9peUpQWjl2VnpobW14RlVqVTk3NWpjMmNqcnoxZHNjSWxEYUJQeldxN1ZhckpqMmZMOEE?oc=5",
+        "description": "",
+        "pubDate": "2026-06-04T19:48:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Block the bombs: Support grows for US bill to restrict arms for Israel",
+        "link": "https://www.aljazeera.com/news/2026/6/4/block-the-bombs-support-grows-for-us-bill-to-restrict-arms-for-israel?traffic_source=rss",
+        "description": "'Long road' remains ahead as bill garners 73 co-sponsors one year after its introduction in Congress, advocates say.",
+        "pubDate": "2026-06-04T19:43:14Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Putin says Russia will bolster its air defenses in response to Ukrainian drone attacks - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR1BoYzBXUzhiMWl4b0FzR2RRXzJVclBsZFVXZTViYUFwMWhnaWRIY2RWYVJUdXNjTWFqRnhIaXdrUnVfTlB4WEFuRlg3Wk1FTlBLRVNaQnFBWHVHVW02aEIyczUwV2RJUmpFYkVYZlo4Qm0xaDZSZF9ybXpPdHdKbE5mSkRRRGhWS3RrMHFERWRVQXZiTGtwTmZZNjQ5ejRyZlE?oc=5",
+        "description": "",
+        "pubDate": "2026-06-04T19:43:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "What it’s like to go inside New York City’s dank, dangerous, bug-filled sewers - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb2pkWDFEdHo2LTRGdllldEdrNFlhQS1kVW9lTTFOWTVHRmdiYmRSRkxmLVA4QXpTMko1UFdfX2xHdzQwblo2T084aU5CZFpIZ1ppR0tRSTBnSHFYSDNiczhybzIwSDhoaWlZamJzX0lCY2tCcDR5UHpZUU5wanF1R29QVFZhb1Q4NXBQZTM5QklyMlBtdEVwYVJrdER5UzIybFMw?oc=5",
+        "description": "",
+        "pubDate": "2026-06-04T19:41:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "John Bolton expected to plead guilty in classified documents case, sources confirm",
+        "link": "https://www.bbc.com/news/articles/c2e2e71xyjzo?at_medium=RSS&at_campaign=rss",
+        "description": "Trump's former advisor turned critic had reached a deal with prosecutors, two people said.",
+        "pubDate": "2026-06-04T19:28:06Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c19e/live/e507f340-6036-11f1-9792-c579e9d62a5f.jpg",
+        "bias": 0
+      },
+      {
+        "title": "History-making qualifier Chwalinska sets up Andreeva French Open final",
+        "link": "https://www.aljazeera.com/sports/2026/6/4/qualifier-chwalinska-sets-up-andreeva-french-open-final?traffic_source=rss",
+        "description": "Poland's Maja Chwalinska beats Diana Shnaider to reach French Open final and makes history after qualifying run.",
+        "pubDate": "2026-06-04T19:16:54Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "What to know about the New World screwworm fly and its reappearance in the US - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcmNPeUVkeGtsdEh5MlFEbzY2T3VkY1psLVhqUVYwN0xTOGxMazFqTFh5UjBDUnl0UGJDRkxHNkt1WnN2clNGT3l6UEdKMGEwQ2FRS1ZtVkw1R3F6MVFTR21DVmg5eC1WclRpdDlTUmdEdWY5NEsyc2RxNXNKZHhyX2pvcmI3ZlBSemNrbVlMajZCX3pfUmFaOUZmVVhDb2x4amJ2cHRpSQ?oc=5",
+        "description": "",
+        "pubDate": "2026-06-04T19:05:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Liverpool appoint Spaniard Iraola as new manager in place of Slot",
+        "link": "https://www.aljazeera.com/sports/2026/6/4/liverpool-appoint-spaniard-iraola-as-new-manager-in-place-of-slot?traffic_source=rss",
+        "description": "Andoni Iraola left his role at Bournemouth at the end of the season and takes over at Liverpool in place of Arne Slot.",
+        "pubDate": "2026-06-04T19:01:41Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Russia kills 12 in Ukraine as Kyiv mourns 707 children killed since 2022",
+        "link": "https://www.aljazeera.com/news/2026/6/4/twelve-people-killed-scores-wounded-in-russian-attacks-on-ukraine?traffic_source=rss",
+        "description": "Russia's latest attacks come as Ukraine commemorates the children killed by Russia over the course of the all-out war.",
+        "pubDate": "2026-06-04T18:59:43Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Hundreds protest in Libya outside UN agency against undocumented migrants",
+        "link": "https://www.aljazeera.com/news/2026/6/4/hundreds-protest-in-libya-outside-un-agency-against-undocumented-migrants?traffic_source=rss",
+        "description": "Protesters accuse the UN of settling undocumented migrants in the country, a claim the agency rejects.",
+        "pubDate": "2026-06-04T18:52:34Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Why is this teen fashion brand closing its fitting rooms?",
+        "link": "https://www.bbc.com/news/articles/c1k2knwgy3eo?at_medium=RSS&at_campaign=rss",
+        "description": "Brandy Melville's move has caused uproar among some young women who frequent its stores, with one calling it a \"devastating news\".",
+        "pubDate": "2026-06-04T18:48:29Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/851b/live/b3d6e150-6045-11f1-8640-4d9d14baae43.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Venice Biennale artists demand names removed from visitors’ ballot and threaten lawsuit - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2pYWjVIVlRYVXdma1ZZLVl3a1N1OGd3Q0ljenpTUHN4RkJ2SXBjdjdfZ0o1RWtzczZVTFo1ZThleGU1cURiZmExZTVNOGVwR3F2TXFMc1FtcnZ4emdMemZNV0tPWXhBd2FDNm5NM3lkSThqSG1nTlh0bGc3bjlYOUtZTXBnUkZra3R3bmN6aGNWb2R0dzNKYXVlRWhlZ2FLLUI5WWVDbXpuN3hLZEE?oc=5",
+        "description": "",
+        "pubDate": "2026-06-04T18:47:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Man is charged with bringing a bomb in his carry-on bag to a California airport - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLVRtM005cW9KTk84b1U3VlFRTHdjby1sWXNQeVpNejBlMVlsQU5sUmV5ZkhYWWltV0w4aFVZNTdQYlFoUklWdVcwWHNZZk8zR2cxUFkwSzNwRW1UNzZWcUI1a0tSTlY1V2ZKT2VJaU5MR2I4Q05NTm5qMzMycEdKRlhRemZvMTVBRzdMa2dJVkpSN2RfN2hTTUt2MlMtYUJsR3VIaU9ZZUxOZw?oc=5",
+        "description": "",
+        "pubDate": "2026-06-04T18:43:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Sherpa found alive on Mount Everest after six days missing",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/sherpa-found-alive-on-mount-everest-after-six-days-missing?traffic_source=rss",
+        "description": "A Nepali Sherpa has been found alive on the slopes of Mount Everest after missing for six days without food or oxygen.",
+        "pubDate": "2026-06-04T18:31:45Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Saudi energy minister calls for ‘stable energy sector’ during Russia visit",
+        "link": "https://www.aljazeera.com/news/2026/6/4/saudi-energy-minister-call-for-stable-energy-sector-on-russia-visit?traffic_source=rss",
+        "description": "Prince Abdulaziz bin Salman and other top OPEC officials visit the St Petersburg International Economic Forum.",
+        "pubDate": "2026-06-04T18:30:49Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Hezbollah rejects latest ceasefire agreement as Israeli strikes kill 4 in Lebanon - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaWxhTXE4RVFMNzZSeHRMdVdCRkIzeHktVTdfazU4ZVAxVkU4eUJJZlpOdUxTYVhuVUphemMtNFIxYmJXcFRYTTl2V3UyeTAwS0VoY3dPRmN5aDRLUzVtU2pNZ1UycTd1RFpSOHNmZk9OOEZXWXoxdWRtd3JEVnJWTUxFMUx6VWpORGt5V3lzMHRTc0NZaFdzSUJGaVFxd0pWXzlYUG0tdUs1QQ?oc=5",
+        "description": "",
+        "pubDate": "2026-06-04T18:27:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Marjane Satrapi, the author of ‘Persepolis,’ dies at 56",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/marjane-satrapi-the-author-of-persepolis-dies-at-56?traffic_source=rss",
+        "description": "Known for her graphic novel ‘Persepolis,’ Iranian-French artist and filmmaker Marjane Satrapi has died at the age of 56.",
+        "pubDate": "2026-06-04T18:24:40Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "House poised to pass Ukraine aid over the objections of Republican leaders - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMFNBczRNemh1NVo1aEkxWHVocVUya19YR05tbUVJaFZrR25Ccmt2X2JXLVllVjJXRV9jNnkyOC02TjBzaVB1cUdNSmxIRHZVZS1kM3hkS2RwU2ZzUnNxSlJhbzNkb0JlZ1lWdVBlSHJ5ZGNZYXIzLWV5S0J4OWZjaFY2RUZRdHgzVFJMTG51MUFTU04zQWlMWDBJcEhneFh2YkxfdVkySm4?oc=5",
+        "description": "",
+        "pubDate": "2026-06-04T18:24:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Ex-wife of Dubai ruler's nephew missing, says lawyer",
+        "link": "https://www.bbc.com/news/articles/c362618d9e8o?at_medium=RSS&at_campaign=rss",
+        "description": "British lawyer David Haigh lost contact with Zeynab Javadli on Tuesday and the BBC has been told her home in Dubai is locked and empty.",
+        "pubDate": "2026-06-04T18:01:54Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e875/live/5db4d870-604c-11f1-b682-cf91850925ea.jpg",
+        "bias": 0
+      },
       {
         "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
         "link": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
@@ -212,6 +446,15 @@
         "bias": 0
       },
       {
+        "title": "Clashes erupt in Somalia’s capital ahead of a planned anti-government rally - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOazN4QW9uMk1XbV9IQU9yWEZqTjFxSHVYWVBEV01iUklCZk45cDFBeG92MVhlTXJRYUNoN0tqZ2V1SC1nbUF1LVh3T0I4WG5rUWtoR2dzamhQay1JWDFfQk96V01HeTVUT05fcUUxUjYza2N6TEt0ZlJXcjRqa0UxNm9WZEV1ek05cmJmdTVmdw?oc=5",
+        "description": "",
+        "pubDate": "2026-06-04T17:21:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Ecuador’s disappeared: Inside one family’s search for answers",
         "link": "https://www.aljazeera.com/news/longform/2026/6/4/ecuadors-disappeared-inside-one-familys-search-for-answers?traffic_source=rss",
         "description": "Advocates warn that 51 people have disappeared during Ecuador's military operations, leaving loved ones without answers.",
@@ -230,10 +473,10 @@
         "bias": -1
       },
       {
-        "title": "What it’s like to go inside New York City’s dank, dangerous, bug-filled sewers - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb2pkWDFEdHo2LTRGdllldEdrNFlhQS1kVW9lTTFOWTVHRmdiYmRSRkxmLVA4QXpTMko1UFdfX2xHdzQwblo2T084aU5CZFpIZ1ppR0tRSTBnSHFYSDNiczhybzIwSDhoaWlZamJzX0lCY2tCcDR5UHpZUU5wanF1R29QVFZhb1Q4NXBQZTM5QklyMlBtdEVwYVJrdER5UzIybFMw?oc=5",
+        "title": "Trump says Reflecting Pool work is done and it’s set to be filled with water - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVC1IRFVQblQyZlQxU085NlJySm5jZU11dFZfTTdZWW56M1FwMVl5MnB3bjlwTGdsQ0MzZlJvWE9wUTN2Vk45bldDRzJicDVlY1B3aExUVzAzN2JpSV81b0xCT3QzZ1BTa3ZZMC16ampONDVrNHc5Uk9WZ2ZabENsZU5sWUJ3YUxFaUk3TVVYUjVKa25PeU5ka2x5bFFHY2s?oc=5",
         "description": "",
-        "pubDate": "2026-06-04T16:59:00Z",
+        "pubDate": "2026-06-04T16:52:53Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -243,24 +486,6 @@
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMnh0SnZnZnhydWRQSXk3RlloTWp2bTRPT0RLX1dsaThCTTJ2eVVPcVROaFloQ2xuNDNTYmVYTk0wcEFpOEdGNHZ4TVoyWHhXcVhSZUlYeGREanZGaW9RYXlsNjZsYW44YW41YlI5OTFlQlM1aFlISURUaWRsck1aQmxkTElIT282VDYtUVBLRll1ZXp3bk1GVHFVRGcxTVh5QXJVSA?oc=5",
         "description": "",
         "pubDate": "2026-06-04T16:49:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "With Oval Office replica and skyline views of Chicago, Obama's new museum is political and personal - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV3VVdFdrcm1lUlJrdGRqOEdjY29adGtTYUJyQU5ob0M0VlRQRGtvNmo1OGY2bnpEaS1SU1V4MzV3U2ljZ2FDektCdUt4SFRQTWpwdlhVN2RueEd5YjRMal9HMVRrQTJvdTRTQTc3ZFRMZUo5Qkh2cm05WGtnZEFlY3J3b0ZOSnhoSk1rVXpjRzBMd21QNEhITQ?oc=5",
-        "description": "",
-        "pubDate": "2026-06-04T16:49:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Lufthansa employees injured in a Boeing nose gear incident at Frankfurt airport - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU0htcW5QSjRXU0FSZUp0eTIzclNYZlp3cDN3QndsYjZfSjIzSDFINExKVGdYNkgxWEd5Q0xDaG5XVkVfWUx4Rm54QjRfZ2lhMU9SRkxyYldCSW1vU254anM4aDFvMkh3VUxNZ1ZjbGs1WkduVl9BZnN2aF9peUpQWjl2VnpobW14RlVqVTk3NWpjMmNqcnoxZHNjSWxEYUJQeldxN1ZhckpqMmZMOEE?oc=5",
-        "description": "",
-        "pubDate": "2026-06-04T16:47:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -293,6 +518,24 @@
         "bias": -1
       },
       {
+        "title": "US jobless aid filings, a proxy for layoffs, hit highest level since Iran war began in February - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZXAxN2FUVEhHYTNENTA0ZTZ6WnFDYl8yWnMyaU5yc0hXQ3c0RnN3ay1VYWZ1QkMwVWhhaGx1MmhWdC1MbDBSVERBek5ySGlmc2dJSVZxcEFDQzcwcU1MbUdUeHBVbzFZNmNWSGh0a2djYlFvcG5VSkYwQm9aaUUtczFLUk1iWWFNZndjOE5vbEJWRnU4MXYzQUFqVFRXOVB1eDdhNzYtSXMwME5JV204?oc=5",
+        "description": "",
+        "pubDate": "2026-06-04T16:30:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Marilyn Monroe auction features star's make-up and gowns on 100th birthday",
+        "link": "https://www.bbc.com/news/articles/cvgzgd2xe2zo?at_medium=RSS&at_campaign=rss",
+        "description": "The auction has already brought in thousands in bids and includes intimate items from her life.",
+        "pubDate": "2026-06-04T16:28:40Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f9e/live/72232b80-6025-11f1-95b8-61705f259545.jpg",
+        "bias": 0
+      },
+      {
         "title": "Ronaldo, Messi at World Cup: Who else is playing their final tournament?",
         "link": "https://www.aljazeera.com/sports/2026/6/4/ronaldo-messi-at-world-cup-who-else-is-playing-their-final-tournament?traffic_source=rss",
         "description": "The World Cup is set to be the swansong for some big names, including Cristiano Ronaldo and Lionel Messi, but who else?",
@@ -309,15 +552,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Trump expected to announce $700 million in new support for struggling coal industry - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTnFadUxjelFVNnFuRUQwdUV6Q2lpMm1FZkxKTXZQZlVNbTNDYjh2T0twOTJ1T2hESDdHdE5xYkhkdGJpdE9wSUVzSjFXWWRBQzdCNWRhQmN4UUhaWUxaYmpuaDVZbGRpSXdvN2JfMzdwdVRILWs4MVIzTDhIczl2T0VNT1FpdlZheHgybDhUN2UzbUEtSEFneFE4ZENwTW5acnJIZzN1cW1xWWl5N1E?oc=5",
-        "description": "",
-        "pubDate": "2026-06-04T15:52:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "The making of Sudan’s RSF",
@@ -338,15 +572,6 @@
         "bias": -1
       },
       {
-        "title": "American Airlines temporarily suspends some of its summer routes due to steep jet fuel costs - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZkJROFdmM1dHSWxlV01vLUx3cEY1dTU1d0VMTFJ6eEpwN1JzdTlfRDNOamNDSmhDSjRuSzNTdU9iSmhhYzlxcDVTYkRMUXJreERpT21FRUFqcVR5TjhjeDlmTGl2dGNHUGVXeHZMS0VZelJpSHBlakthY21MdnpnUmxfS19UamhlLTFqbHNicHN5dFFqOWtybEJzdVp3QQ?oc=5",
-        "description": "",
-        "pubDate": "2026-06-04T15:46:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "‘Unpatriotic’: Trump decries Republicans who voted to constrain Iran war",
         "link": "https://www.aljazeera.com/news/2026/6/4/unpatriotic-trump-decries-republicans-who-voted-to-constrain-iran-war?traffic_source=rss",
         "description": "Trump takes aim at lawmakers after House passes war powers resolution; advocates call on Senate to advance the measure.",
@@ -354,15 +579,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Prosecutor tells jury that the killing of a teen at a Texas track meet was murder, not self-defense - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRVZzcnFVMDNraVhIb0VmRGJJYVgxMnN0d3dXYnBLWTU0a3VHQUgtVzJHb3MzZ3h5OU5Ub09GOGs0MmZsUnlmVTBUWU1FT3gyMndyNGtGQVJZMU82ZjZOTVVzOTRMUG5xLUxTVk9UeGpOcUY5TXN5cTNFUXVYS3BHa3NYU1VTWFd6TnZUUnA2S1ZRaWVHYXVMWVFlZl85WmlEVVVN?oc=5",
-        "description": "",
-        "pubDate": "2026-06-04T15:39:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "MAHA moms test their influence in US glyphosate fight",
@@ -387,15 +603,6 @@
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeGU0Q2FCZU9JcG5VdERNVFFXUHlmaG5Ya3FNUmRreWsyN2U2ZGVuQ1ZEY0htTDdvakNyTTUzSERBWENoUnhlbU9FZmRmS3Z3VURqclUtaGpWdWNsQ09GZEo0RE5ES2hKb2JvQ3Fwc0pMNTNkdFBqaVNvUl9QTE1McnNiQ0NMNW5fUTNiUVQ3ejFiWEI0RDQxdmdJRFdUaVNCcDNsNEg1cw?oc=5",
         "description": "",
         "pubDate": "2026-06-04T15:29:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Man is charged with bringing a bomb in his carry-on bag to a California airport - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLVRtM005cW9KTk84b1U3VlFRTHdjby1sWXNQeVpNejBlMVlsQU5sUmV5ZkhYWWltV0w4aFVZNTdQYlFoUklWdVcwWHNZZk8zR2cxUFkwSzNwRW1UNzZWcUI1a0tSTlY1V2ZKT2VJaU5MR2I4Q05NTm5qMzMycEdKRlhRemZvMTVBRzdMa2dJVkpSN2RfN2hTTUt2MlMtYUJsR3VIaU9ZZUxOZw?oc=5",
-        "description": "",
-        "pubDate": "2026-06-04T15:17:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -471,171 +678,90 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
+      }
+    ],
+    "Politics": [
       {
-        "title": "Buffalo named Donald Trump for his golden locks is a sensation at a Bangladesh zoo - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOFdsUExFdjU4bHdXS2RxaFBCLWJjMTYySVpIanlQcW5DZC0tLV9CaGdmT2tiZVNFeVBBa1l3Rk0tWmtwQW95WF9LeVJFRzBlbVBKNFQ5c3VBRDluejhJdWZ2VjRqWXN4b0FYdXN0ck5lTGZoM0VoWkJvUHdjeDhtNlpGdEN5OUYyUG9BNVpFc1VUZkpNMmxSa2Fibw?oc=5",
-        "description": "",
-        "pubDate": "2026-06-04T13:56:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Why is a US Ebola facility in Kenya sparking protests?",
-        "link": "https://www.aljazeera.com/news/2026/6/4/why-is-a-us-ebola-facility-in-kenya-sparking-protests?traffic_source=rss",
-        "description": "The plan has drawn backlash from  Kenyans as well as the country's union of healthcare workers.",
-        "pubDate": "2026-06-04T13:51:55Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Fearful foreign nationals in South Africa forced out of their homes",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/fearful-foreign-nationals-in-south-africa-forced-out-of-their-homes?traffic_source=rss",
-        "description": "Anti-immigration violence in South Africa has forced foreign migrants to flee their homes.",
-        "pubDate": "2026-06-04T13:40:32Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Rights group sues South African government over US arms exports",
-        "link": "https://www.aljazeera.com/news/2026/6/4/rights-group-sues-south-african-government-over-us-arms-exports?traffic_source=rss",
-        "description": "Case challenges permits approved by South Africa’s arms control body, citing compliance failures and oversight gaps.",
-        "pubDate": "2026-06-04T13:23:17Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Archaeologists find ancient matrilineal society in Turkiye’s Catalhoyuk",
-        "link": "https://www.aljazeera.com/features/2026/6/4/archaeologists-find-ancient-matrilineal-society-in-turkiyes-catalhoyuk?traffic_source=rss",
-        "description": "About 9,000 years ago, the settlement was an egalitarian, matrilineal society with no evidence of organised violence.",
-        "pubDate": "2026-06-04T13:13:26Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Fighting in Somalia’s capital as anger over election delay erupts",
-        "link": "https://www.aljazeera.com/news/2026/6/4/fighting-in-somalias-capital-as-anger-over-election-delay-erupts?traffic_source=rss",
-        "description": "Residents flee from their homes due to fighting between two warring political factions.",
-        "pubDate": "2026-06-04T13:08:00Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "First US screwworm case in 60 years: Should America be worried?",
-        "link": "https://www.aljazeera.com/news/2026/6/4/first-us-screwworm-case-in-60-years-should-america-be-worried?traffic_source=rss",
-        "description": "The US Department of Agriculture says New World screwworm has been detected in a Texas calf.",
-        "pubDate": "2026-06-04T13:05:11Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Israel and Lebanon reach an agreement, but ceasefire stalls",
-        "link": "https://www.npr.org/2026/06/04/g-s1-125942/israel-lebanon-ceasefire",
-        "description": "The U.N. peacekeeping mission for Lebanon, known as UNIFIL, said one peacekeeper was killed and others were wounded when they came under mortar fire in southeastern Lebanon.",
-        "pubDate": "2026-06-04T13:00:18Z",
+        "title": "Trump's attacks on the press often focus on women reporters who challenge him",
+        "link": "https://www.npr.org/2026/06/04/nx-s1-5846590/trumps-attacks-on-the-press-often-focus-on-women-reporters-who-challenge-him",
+        "description": "In an exchange with CNN's Kaitlin Collins, President Trump told her she had \"hatred in her eyes.\" We look at the president's contentious relationship with the press and women reporters in particular.",
+        "pubDate": "2026-06-04T20:02:56Z",
         "source": "npr.org",
         "image": "",
         "bias": -1
       },
       {
-        "title": "What do Turkiye and Indonesia want from bilateral talks?",
-        "link": "https://www.aljazeera.com/news/2026/6/4/what-do-turkiye-and-indonesia-want-from-bilateral-talks?traffic_source=rss",
-        "description": "Turkiye's Foreign Minister Hakan Fidan travelled to Indonesia to cement the two states' growing partnership.",
-        "pubDate": "2026-06-04T12:59:38Z",
-        "source": "aljazeera.com",
+        "title": "Republican lawmaker on why he voted to end the war in Iran",
+        "link": "https://www.npr.org/2026/06/04/nx-s1-5846569/republican-lawmaker-on-why-he-voted-to-end-the-war-in-iran",
+        "description": "NPR's Ailsa Chang talks with Republican Congressman Brian Fitzpatrick about his decision to join Democrats and three other Republicans to vote to end the war in Iran.",
+        "pubDate": "2026-06-04T20:02:54Z",
+        "source": "npr.org",
         "image": "",
         "bias": -1
       },
       {
-        "title": "N Korea’s Kim Jong Un calls for ‘exponential’ expansion of nuclear arsenal",
-        "link": "https://www.aljazeera.com/news/2026/6/4/n-koreas-kim-jong-un-calls-for-exponential-expansion-of-nuclear-arsenal?traffic_source=rss",
-        "description": "Kim says expansion necessary due to worsening security threats, long-term confrontations with 'most ferocious enemies'.",
-        "pubDate": "2026-06-04T12:50:09Z",
-        "source": "aljazeera.com",
+        "title": "The Trump administration infrequently backs down, but it did this week",
+        "link": "https://www.npr.org/2026/06/04/nx-s1-5844656/the-trump-administration-infrequently-backs-down-but-it-did-this-week",
+        "description": "NPR's Scott Detrow talks to The Atlantic's Anne Applebaum about why the Trump administration appears to be backing off some of its actions and what that means for concerns about democratic backsliding.",
+        "pubDate": "2026-06-04T20:02:52Z",
+        "source": "npr.org",
         "image": "",
         "bias": -1
       },
       {
-        "title": "Heavy gunfire in Somali capital as row over election delay escalates",
-        "link": "https://www.bbc.com/news/articles/cpdpwgxl1qzo?at_medium=RSS&at_campaign=rss",
-        "description": "The opposition has called for protests after the president's term in office was extended by a year.",
-        "pubDate": "2026-06-04T12:40:22Z",
+        "title": "Henry Nowak deserves legacy that goes beyond tragedy, says PM",
+        "link": "https://www.bbc.com/news/articles/c8jvj9l8x4eo?at_medium=RSS&at_campaign=rss",
+        "description": "Prime Minister Sir Keir Starmer mets the family of Henry Nowak at 10 Downing Street.",
+        "pubDate": "2026-06-04T19:46:09Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed5b/live/edefa830-5fe2-11f1-a292-23ac7fbac375.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d38/live/b49285a0-6044-11f1-8b8c-6d33e1d5abb6.png",
         "bias": 0
       },
       {
-        "title": "Argentina seeks a glorious end to the Messi era with another World Cup title - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMFRzY01KYlV0end0ZGFxV3VVYkkwWDRSWVZlWUFkUEl0UUloaUtoNGxYMnE4VTFaZ0hSb2NlRUx2c0RnYm9IVldrMEh2dU9MRU15ZTJlbmRNT2o4eWdPa2lSOTBCYU53UUEtWmJIQjBkaFJxZ3JWWmlPUVVSXzNxNHI0bnJKcVc2Zkh2T1dkalVLSXRCUXhELWlSelU1UQ?oc=5",
+        "title": "Senate rejects first effort to bar Trump from creating $1.8B settlement fund - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNVBJUmlFeEFJMGxLOW9QOTVLclFwTWw2YVNPUUZVaUk1d1hIaG5jMzVfWGsyZGJXbXhzekVoMzE3YTNWVW9oVUJwcXF0TmN5UTBJS3hnYS11dU9UazBKYjNfM0cwR2pYck5CSXVkMXFjUVRYWTNGdDV2MmFFWjUyd0djTktfeDBnay1rMURaUEdva28yMFZLdzBnTUt6WWd0?oc=5",
         "description": "",
-        "pubDate": "2026-06-04T12:15:00Z",
+        "pubDate": "2026-06-04T19:46:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Who are the World Cup Golden Boot favourites? Mbappe, Ronaldo, Messi, Kane?",
-        "link": "https://www.aljazeera.com/sports/2026/6/4/who-are-the-world-cup-golden-boot-favourites-mbappe-ronaldo-messi-kane?traffic_source=rss",
-        "description": "There are a host of top players who could claim the coveted title of top goal scorer, including two from the same team.",
-        "pubDate": "2026-06-04T12:13:20Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Israel’s Smotrich announces plan for 2,162 homes in occupied West Bank",
-        "link": "https://www.aljazeera.com/news/2026/6/4/israels-smotrich-announces-plan-for-2162-homes-in-occupied-west-bank?traffic_source=rss",
-        "description": "The far-right finance minister says the new houses will 'strengthen our hold on the land'.",
-        "pubDate": "2026-06-04T12:06:17Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Man City threatens legal action against Real Madrid following Haaland claim",
-        "link": "https://www.aljazeera.com/sports/2026/6/4/man-city-threaten-legal-action-against-real-madrid-following-haaland-claim?traffic_source=rss",
-        "description": "Enrique Riquelme held up a Real Madrid shirt bearing Erling Haaland's name, while campaigning for club presidency.",
-        "pubDate": "2026-06-04T11:57:24Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Ukraine accused of killing four in occupied Crimea",
-        "link": "https://www.bbc.com/news/articles/c0r2klj0nyxo?at_medium=RSS&at_campaign=rss",
-        "description": "At least 10 people have been injured in the attacks, according to Russian-backed officials.",
-        "pubDate": "2026-06-04T11:55:20Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba03/live/958b2530-5ff0-11f1-b682-cf91850925ea.jpg",
-        "bias": 0
-      },
-      {
-        "title": "'Nothing left to chance' for Bayeux Tapestry's journey to London",
-        "link": "https://www.bbc.com/news/articles/c9d37dl139eo?at_medium=RSS&at_campaign=rss",
-        "description": "The 950-year-old work will be as safe \"as a baby\" during its move to London, French officials say.",
-        "pubDate": "2026-06-04T11:52:58Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03aa/live/6f27ac50-6005-11f1-932e-d972ba5bcb91.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Sherpa guide missing for a week on Mount Everest rescued while crawling to base camp - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNakVDWjlKdEJNajFvMXdRc1NLNC1XVjZndFJLNWVFRDdCcUtGNUdwVW1acG5SVzNXYWNEOVI4QnVlcm82M1l1RWc3WEVWbUo1eU1YdUU2VVl4YmRDS3FlWkJvSXBTZGJTa3F0T01XZGVWbi14WGpoYWpZRGstN0xMYjl3Yk9INXpXQ3c?oc=5",
+        "title": "NBA bans two fans for life after one runs onto court during Game 1, attempts selfie with Wemby - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSVJ4TVJzTUQyNUJuY0txMkRkejNweU1LUmlaaVVKLWh4Y3FxRHpYYXRNM2FHRHUyVVQ5WWVXZGoxTDhWYV9TVDNfalBlY1Q2XzZ0S010YzFQWVBzUnN6cG1FT2c0cW81c0hUaFFTZ0RvMWlVUlREWU9iZVFuMThIVzhCMmtLamtJSVZN?oc=5",
         "description": "",
-        "pubDate": "2026-06-04T11:26:00Z",
+        "pubDate": "2026-06-04T19:05:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      }
-    ],
-    "Politics": [
+      },
+      {
+        "title": "Prosecutor tells jury that teen’s killing at a Texas track meet was murder, not self-defense - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRVZzcnFVMDNraVhIb0VmRGJJYVgxMnN0d3dXYnBLWTU0a3VHQUgtVzJHb3MzZ3h5OU5Ub09GOGs0MmZsUnlmVTBUWU1FT3gyMndyNGtGQVJZMU82ZjZOTVVzOTRMUG5xLUxTVk9UeGpOcUY5TXN5cTNFUXVYS3BHa3NYU1VTWFd6TnZUUnA2S1ZRaWVHYXVMWVFlZl85WmlEVVVN?oc=5",
+        "description": "",
+        "pubDate": "2026-06-04T18:48:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Trump expected to announce $700 million in new support for struggling coal industry - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTnFadUxjelFVNnFuRUQwdUV6Q2lpMm1FZkxKTXZQZlVNbTNDYjh2T0twOTJ1T2hESDdHdE5xYkhkdGJpdE9wSUVzSjFXWWRBQzdCNWRhQmN4UUhaWUxaYmpuaDVZbGRpSXdvN2JfMzdwdVRILWs4MVIzTDhIczl2T0VNT1FpdlZheHgybDhUN2UzbUEtSEFneFE4ZENwTW5acnJIZzN1cW1xWWl5N1E?oc=5",
+        "description": "",
+        "pubDate": "2026-06-04T18:10:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "The Dow jumps 800 points as oil prices ease, but slumping AI stocks keep Wall Street in check - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMXZLR3lZUjlfN3phOENCbElUVUFpVEtpY3FDZG0xZUFPYzJuTjlzT09mQkFaZTZMQU51RmptenpIQk01OUlTdkltUnZEcXNJMXk5X2ZVRXlVQm1LNTdhdThTcE9pTjJJa1l6VFNIYTE4d1pnZ1EyUWplMVpXMXNJRllxX1h1NV9FUXRWSkVnclVvWms?oc=5",
+        "description": "",
+        "pubDate": "2026-06-04T17:50:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Jones praised Mandelson for 'great job' after sacking",
         "link": "https://www.bbc.com/news/articles/c1w2rvn8nqyo?at_medium=RSS&at_campaign=rss",
@@ -643,33 +769,6 @@
         "pubDate": "2026-06-04T17:49:11Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62cc/live/a3ae88b0-5fe5-11f1-9e8e-893122412ba5.png",
-        "bias": 0
-      },
-      {
-        "title": "Ex-national security adviser John Bolton will plead guilty in classified information case: AP source - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWWd4RzU2MGJTWktEamdDc2xfbTBKS0VZbmlkemFMV2JjbU1naWNyNVJSRkF3Z19QZ3RMVnFBeVFUaXNCTmM3NEJsZm15bEgtQ1B4cmRtUlhMU2d2M1Q4X0lPY3NYNUk4aGJud014RWw4LXp4clZPLS1jcXh4ZlpoaVJ4QWd2aDlWRXZFZjY0aW1qVFBpUTlKVTRaVGxUa1A1X2NqNTJPcmJOQzFtclVlczI4eTQ?oc=5",
-        "description": "",
-        "pubDate": "2026-06-04T17:32:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Hezbollah rejects latest ceasefire agreement as Israeli strikes kill 4 in Lebanon - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaWxhTXE4RVFMNzZSeHRMdVdCRkIzeHktVTdfazU4ZVAxVkU4eUJJZlpOdUxTYVhuVUphemMtNFIxYmJXcFRYTTl2V3UyeTAwS0VoY3dPRmN5aDRLUzVtU2pNZ1UycTd1RFpSOHNmZk9OOEZXWXoxdWRtd3JEVnJWTUxFMUx6VWpORGt5V3lzMHRTc0NZaFdzSUJGaVFxd0pWXzlYUG0tdUs1QQ?oc=5",
-        "description": "",
-        "pubDate": "2026-06-04T17:22:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Clashes erupt in Somalia’s capital ahead of a planned anti-government rally - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOazN4QW9uMk1XbV9IQU9yWEZqTjFxSHVYWVBEV01iUklCZk45cDFBeG92MVhlTXJRYUNoN0tqZ2V1SC1nbUF1LVh3T0I4WG5rUWtoR2dzamhQay1JWDFfQk96V01HeTVUT05fcUUxUjYza2N6TEt0ZlJXcjRqa0UxNm9WZEV1ek05cmJmdTVmdw?oc=5",
-        "description": "",
-        "pubDate": "2026-06-04T17:21:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -691,6 +790,15 @@
         "bias": 0
       },
       {
+        "title": "With Oval Office replica and skyline views of Chicago, Obama's new museum is political and personal - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV3VVdFdrcm1lUlJrdGRqOEdjY29adGtTYUJyQU5ob0M0VlRQRGtvNmo1OGY2bnpEaS1SU1V4MzV3U2ljZ2FDektCdUt4SFRQTWpwdlhVN2RueEd5YjRMal9HMVRrQTJvdTRTQTc3ZFRMZUo5Qkh2cm05WGtnZEFlY3J3b0ZOSnhoSk1rVXpjRzBMd21QNEhITQ?oc=5",
+        "description": "",
+        "pubDate": "2026-06-04T16:49:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Are Trump's controversies affecting his agenda?",
         "link": "https://www.npr.org/2026/06/04/nx-s1-5845049/are-trumps-controversies-affecting-his-agenda",
         "description": "NPR's Steve Inskeep asks Jonah Goldberg, editor-in-chief of The Dispatch, about whether President Trump's political controversies are interfering with his legislative agenda.",
@@ -700,10 +808,19 @@
         "bias": -1
       },
       {
-        "title": "The Dow jumps 800 points as oil prices ease, but slumping AI stocks keep Wall Street in check - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMXZLR3lZUjlfN3phOENCbElUVUFpVEtpY3FDZG0xZUFPYzJuTjlzT09mQkFaZTZMQU51RmptenpIQk01OUlTdkltUnZEcXNJMXk5X2ZVRXlVQm1LNTdhdThTcE9pTjJJa1l6VFNIYTE4d1pnZ1EyUWplMVpXMXNJRllxX1h1NV9FUXRWSkVnclVvWms?oc=5",
+        "title": "A garbage crisis engulfs Havana as fuel shortages stall trash pickup - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZi1ZU2xtZFdyMFpUQzdiSVdIX1VoLUtyVjlFSkFpcVBJclljZjFUSnlCODFONFBSRENseXBtZk5VU3VucjFNOU0tVW1fbzMyUlJleTFEb0ZONGFjUEh0WklwaGF0QUh3T1JNakhOOHBESW04eUd4TVpFQV9nTzdrMWhYYy1QczdCc3RwYWJSTjJLNDQ?oc=5",
         "description": "",
-        "pubDate": "2026-06-04T15:26:00Z",
+        "pubDate": "2026-06-04T16:15:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "American Airlines temporarily suspends some of its summer routes due to steep jet fuel costs - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZkJROFdmM1dHSWxlV01vLUx3cEY1dTU1d0VMTFJ6eEpwN1JzdTlfRDNOamNDSmhDSjRuSzNTdU9iSmhhYzlxcDVTYkRMUXJreERpT21FRUFqcVR5TjhjeDlmTGl2dGNHUGVXeHZMS0VZelJpSHBlakthY21MdnpnUmxfS19UamhlLTFqbHNicHN5dFFqOWtybEJzdVp3QQ?oc=5",
+        "description": "",
+        "pubDate": "2026-06-04T15:46:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -727,24 +844,6 @@
         "bias": 0
       },
       {
-        "title": "Senate begins voting on bill to fund ICE, Border Patrol as Democrats try to derail it - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNVBJUmlFeEFJMGxLOW9QOTVLclFwTWw2YVNPUUZVaUk1d1hIaG5jMzVfWGsyZGJXbXhzekVoMzE3YTNWVW9oVUJwcXF0TmN5UTBJS3hnYS11dU9UazBKYjNfM0cwR2pYck5CSXVkMXFjUVRYWTNGdDV2MmFFWjUyd0djTktfeDBnay1rMURaUEdva28yMFZLdzBnTUt6WWd0?oc=5",
-        "description": "",
-        "pubDate": "2026-06-04T14:12:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Iranian-French cartoonist and filmmaker Marjane Satrapi, author of ‘Persepolis,’ dies at 56 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdVdtUlN0NlFaekZSVmMxWWZJZGZNa1FsYUZnc1R0S1o4MnVNSmRrY0laRmlSb29VNlhhOFR3cWNmdHNIc3hhTmlDdkpSNERpSzYyendqRGNRS2tnaDJGSmdCV1IyR05SV1ZYOUJ0Rl9FS0hOVFFLTGlzV21JVlExOWZibjhsQkNGYjZiRzhjcjY2OXlyRDRQaGUxbk9OU2Zz?oc=5",
-        "description": "",
-        "pubDate": "2026-06-04T14:09:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Crypto billionaires help Reform cement fundraising lead",
         "link": "https://www.bbc.com/news/articles/cn4pkkpe9ppo?at_medium=RSS&at_campaign=rss",
         "description": "The party received £7m from two overseas British crypto billionaires earlier this year, figures show",
@@ -754,10 +853,10 @@
         "bias": 0
       },
       {
-        "title": "9 killed in strikes in Gaza overnight, hospital says - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYU5FenFyR2dyS2hiUEJvZmFtZDFLdjhJSnVjOTQzSW42WFZVOUJWMXRCMW9aQXFVMkxtTnpLclowTGJvX19vM08wZDRFSjBRbkxhY0xEWDhVQzFiN3ZsR0h1cm5EcmhBYUU0MlJqTnUwN09KZnRWMG5HT2lhcXlmc1lGTFFTUGNXR0xJUU8tUjVuMEVORU1HbXhHSjZ2Zw?oc=5",
+        "title": "UK Royal Navy says 3 members died in a helicopter crash during a training exercise - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd3VJdFBkTDU3SGFobDFvX2wzNzZSNEJ6UU1XRWhfRUU4UHlTc3pESVBkWmtOclVXY3ItRE1JTEJGdFBmR3FPSjVkcllGUkM3S3BZbW1PTkkwaFQwZ0pRb05zcy1vdF9aUmxzaEJmTEhER3VRNDhEWFJZR0pZQzRJdmVuZEZDMDQ3Z1FWZQ?oc=5",
         "description": "",
-        "pubDate": "2026-06-04T13:26:00Z",
+        "pubDate": "2026-06-04T13:49:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -772,10 +871,28 @@
         "bias": 0
       },
       {
-        "title": "The EU will look for ways to make it quicker for the Western Balkan countries to join the bloc - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVjQ2ZmJRbXJsMkhPUHZ1QVo3UmxHY1lHMFllOEtnSkFnN2N3RFRwdUdYYWRKTDNwQXJuMExsdkdpaVBPZGlCUko1MlhJMmROYi1lMkxoempIb3ZOUkwyV2NJbUx5ak94OWpFdWhwRzRwOHM1ZG5FbmVhNzJPWWVDYVdGdjl6M0hLWlZLMFNjdTJncEpJY3Z1UXhmVFZWLTA4NEx4aE1QX3hQX1Zpc1E?oc=5",
+        "title": "What to know about the deal between Israel and Lebanon extending their shaky ceasefire - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcXZXS1p5TWZIeVdfODdIQTRRQTBUSUp5WlM5NUxZdWIxUUs2TGN0YmtXRzM2SHpxMlZZTGt3R2kxU1hYeU93TWRaZXlyZncxLV93VmtocVR1NVFyY0lKX3dJcTMzdTk2LU9WNGlwV2gzRnY2QTRXZEZ6MUR5M0dYTkEwUHd0OWl2Y2JvWHkzVmVsYktHNTRhc1lQQ0FLcTV0MG5pQk1B?oc=5",
         "description": "",
-        "pubDate": "2026-06-04T12:14:00Z",
+        "pubDate": "2026-06-04T13:11:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Takeaways from how water pollution in Iowa can deflate summer fun - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVmdrLXowcFE5dHQ5cWUtb2gzSHYxZkZOWFNCeF9EMkZmZWxGNDN2TkNtaTBpdG1XSFo4OGpmdkNYdTRDLUNqUzNKZkpLaUZfX1hIZGo4V0FOektwRTVEMXZsVXlWa3lJRkVtVjNvcXBDTldfVUlhQnBFOTJPU0hxRkM4VElYNThCQUhXYXNJYTZYanJlM0QtN2ZDSlBLT3VHbWJvTGV3aw?oc=5",
+        "description": "",
+        "pubDate": "2026-06-04T13:02:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Mali junta bans motorcycles outside cities and creates military zones to reduce militant attacks - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOTZad3ItM3Y5YnJ0VDRXM1VjNUswZFdLN3Fac3lTNkR3R2ZSSV9yOGZGVDdRMXNwalVtX3RYVk9zTlFtOEJaWVI5QU5yTVhBNUNXUDhoMXlWUFRycnJRLXNBdlZLUVEzdU5yNWM1TXFYWERKc3c2ejlUWWZmWi1qeW50NEczZ1ptZDRsYUhzeUFPUDNoQ0kxRXc5MlF0dEZ4SU1KTjkxaHc0OVYw?oc=5",
+        "description": "",
+        "pubDate": "2026-06-04T12:55:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -799,30 +916,12 @@
         "bias": 0
       },
       {
-        "title": "Ahead of papal visit, Spain pushes forward with reparations for church sex abuse victims - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRlNlV1dmSld0Qno5LVdJdzBUdGt4Y0I5b2xWZ3FqTG1UbDdxR3NfNmpqSXJVOG1HazIyd3Uwakd1d0swRThVa2JVcFNacGx0dFVFTlcxOXI0elFudlFfWnBFYmJDREZEU1hpQzV4cDVpWHQtWEU3MnNVcTYtRUVmYk1wLVJWN3RUdXFFaEVCVXgtTnNwN2VXUWNtcllFVTVTVXp5T2k2emlZR1ZueklWUA?oc=5",
-        "description": "",
-        "pubDate": "2026-06-04T11:17:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "PM backs female MP for suing xAI over bikini photo",
         "link": "https://www.bbc.com/news/articles/c62xpv34d9do?at_medium=RSS&at_campaign=rss",
         "description": "Suffolk MP Jess Asato claims the firm's tool Grok was used to create fake images of her in a bikini.",
         "pubDate": "2026-06-04T11:13:16Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e119/live/3101b250-efb1-11f0-b61c-6bc75d705b6c.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Five Eyes alliance warns that China is targeting personnel via fake job ads - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaFR5Mk4tY2RTbmpJS2FfZ2dKM0ZCTDhibUJGSzVoNVhIdEhaZUV6M0d4cVgyQ3VpSlNxODlrdXpkby1QQmQxdEc4dk9pdzZwaDVBbFA5dXl4UEFGa0tpbm1DdDJpWnh5b3R2a2hDQ2JZUEt4STgxckdXeGFVWDBWTlhLSlZ4ZHJIbl84N1VEbUdXWjli?oc=5",
-        "description": "",
-        "pubDate": "2026-06-04T11:00:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -871,10 +970,10 @@
         "bias": -1
       },
       {
-        "title": "North Korea unveils a new plant to produce fuel for nuclear weapons - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUXp1c3JXXzRjdVZPSkZaZUFoVVJkYTc3ZExIejNqcHVuc04wUGRzdHNuWVhkVklqeGFjTEV6V05Pdjd5RzczNVJxWmVqT2xqeUtsUFVrNlJ5QnBnOEFQRXBqY2t5XzlVT2tKalhMWGRXNnRRR3BMblZQaGhJd3NpcWxaWHMzMlczSHBPaUJxaDhzT0lablE?oc=5",
+        "title": "Women are the first caregivers in this Ebola outbreak and the most at risk - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSUVVa28tVmpJaVB3aDZGaEVFODdBRHdaUU5IM3cyUm5jcUswWTYwY01ORHNBRHMyNzJKX3hIYVY0SFlObkRLZWI1dUlBbE1CdlM5RVBLVk9fQ1pGVmZXbmZHX1pTMUtmYmJ6ZWRYckNmeTlZYkgtNXhMVzFjeE1XQUZrdDhtU25Ea2UwMDhWanozNllmMWVJ?oc=5",
         "description": "",
-        "pubDate": "2026-06-04T08:43:00Z",
+        "pubDate": "2026-06-04T08:45:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -898,55 +997,10 @@
         "bias": -1
       },
       {
-        "title": "Divisions between GOP and Trump surface over 'anti-weaponization fund' and Iran war",
-        "link": "https://www.npr.org/2026/06/04/nx-s1-5845129/divisions-between-gop-and-trump-surface-over-anti-weaponization-fund-and-iran-war",
-        "description": "Some Republicans' frustration with President Trump has been on display in Congress this week, first with Trump's \"anti-weaponization fund\" and then the war with Iran.",
-        "pubDate": "2026-06-04T08:38:58Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Rep. Katherine Clark on the House passing war powers resolution to end Iran war",
-        "link": "https://www.npr.org/2026/06/04/nx-s1-5845824/rep-katherine-clark-on-the-house-passing-war-powers-resolution-to-end-iran-war",
-        "description": "NPR's Steve Inskeep asks Democratic Whip Katherine Clark of Massachusetts about House approval of a war powers resolution directing President Trump to pull U.S. forces from hostilities with Iran.",
-        "pubDate": "2026-06-04T08:38:50Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Trump signs executive order that makes it easier to fire federal employees",
-        "link": "https://www.npr.org/2026/06/04/nx-s1-5845444/trump-signs-executive-order-that-makes-it-easier-to-fire-federal-employees",
-        "description": "President Trump signed an executive order reclassifying 8,000 high-ranking civil servants into at-will employees who can be fired without due process.",
-        "pubDate": "2026-06-04T08:38:44Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "Lebanese Americans open their wallets and hearts as war rages back home - AP News",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZVA2YWxjWmFNd1JpeTV3ME9oUUhmNm1tZHZnZWNJZlZ0Ry1SUEM0bXZ0Tm9yS1Z2VnRheWlNZU1hSlhjbzhTZDdmeFY5dGFpZjBUcm5aUUU0V0t6enVNQkZwbzNYZWdyN1c4bWZzZE5JMy1OR1d4N3pMVW5NV1Vuak9pRmZUUUJ3bE90My1pQ0JlUW1VeHNSTXMwcXF3dWZGeHFVMjkzQlRtb2ctemZn?oc=5",
         "description": "",
         "pubDate": "2026-06-04T07:18:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "How Voodoo overcame suppression and became a democratic force in the West African nation of Benin - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnlmTW5lc3JLZ2RqMzFjX0ctbGVDUFQ5SzZKbnZZQXZEdXQ5dVlLSFZBdlNHamd5c2VoNXBsQlJ0cjM5U01iNml6ZldURThySnJRMXFFSHZzM1V0d3NTRzUtbkhlcjlPUWxGcnRicHk2UGoxaDhqREpzSThvMldQLVk4QndJb1NHM3dvNmhwT0oxYWlYc1ZoZEt6b2YwU0N2aFNHWjROcXYyalE?oc=5",
-        "description": "",
-        "pubDate": "2026-06-04T04:22:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "AI companies are barreling toward huge Wall Street debuts. A look at the biggest players - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYWp3QlpSdWJKYVpsVXlJdldxblNaeC1wcEp3b1VxOWYzOHF2UmRLT3ZUMWlqUmVqN1E1bjkxQkNLT2JpcURMc1ZQRlRnWWFKSWxBSXl6M3JiUmMtWWJ0SVBqZ0wyU0M4cHEtN3JRcWpXUTNIWWxSN1VOMm9Hbzd1Z1ViNkJrQzJDeGNHTEV6cFg0dUR5MXVxdzVzY09DVnpfcS1aZ0JsTGVSdFoxUGxRSjhFLUc?oc=5",
-        "description": "",
-        "pubDate": "2026-06-04T04:01:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -961,46 +1015,19 @@
         "bias": 0
       },
       {
-        "title": "President Trump says he will nominate Todd Blanche to serve as attorney general - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUc1WWtFQlpHWDVsQzZZdlRsSXJTRHBNcVRwWXBOR2tjMmRGanJTQVZ2UGQ3NWZxSER6cENObnVWRkVSSXZZZS1pZnh2TllaTF95YlFRbmIzaTF3c2cxVERJQ09kNFdkSWU4YmpWV2UxYVVkM3pDVFcwSF80REcwN3QzcHI2emdXZlZrTV9LaTl4ZVBGa3RN?oc=5",
+        "title": "A lawsuit challenges Hawaii homestead leases limited to those with 50% Hawaiian blood - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUXNWTnVXT0VBXzJDRlJkTm9xZ2Z2TG0wS3NnMENicTYxUjJ0dTR2RjNVWnhVbG1GUExjSkIzLUI2TFpQb2lzcEtOMThlcGdWVmI4NEd0d05UdjFfdE8ybWFtTlc5VDNVVFd1VzVCY29vVDJGbGZnZEtmam50aFd0NjU2R21kYUVTd094ZlN1dVg?oc=5",
         "description": "",
-        "pubDate": "2026-06-04T03:35:00Z",
+        "pubDate": "2026-06-04T03:20:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Suspect who took 10 people hostage in California standoff has been shot and killed, police say - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNall5NXAyMUZCaFJlYWF2bUwwS2pWNUpzMWRLSGllUjQ2UFg4ellfU1p3WlJWV29HWGp3b25RNElxYWFnTnNtWG1kb0dFQ3dZNG02UW1qc0FUZk9sLTNja1BCcF9wZjdSdjQ5WXREQzFzWGdZaWE5X05sOWdvMm12ODNlclFBRjAxOVJId1g3MHJ1RmwzN0wzSng3VDJvb3FBTnpZN1VZZmo1QQ?oc=5",
+        "title": "Ohio State trustees OK $100M settlement with hundreds of former students abused by doctor - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLW9WbEozU2VybENTaVh4ZmdhYWhBZ0FjZVN3LVFsdHREc1dpekNXUVJwMGNkUkdtQ0d6TlhFMDE5cVNpSDlZVlg0SUtJZGFiMVBFc1ZaZlNzN200UlVBZGNaZTJBRURMaUV4aGx5Z0RlNFJpVnRCVjJNWlZCWFB2aXRzdkVweGtkVDA4MGFIdHplUWUyS3hPNVlpaHFvZkU4ZHlUN1RR?oc=5",
         "description": "",
-        "pubDate": "2026-06-04T02:47:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Phillies ace Sánchez's scoreless streak ends at 50 2/3 innings, 3rd-longest in more than a century - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbUFnanBpVUZNcHZyajNmVTQ5ZUZud0pfSzVaWk5hY050TExBdTA3SjBfQ1o2ZVkxdVVjV1MxZkJ0T1R4Nkxfb0dxQ183QUJWVXNSekZqU1BHdjg5TG5XdEZSdkxKTFFoSTRkQXBINGI3cmVHSnA0UGpEUENSVWxUdUdtVHlkV0wzdlc0TDBtRlRzUnpXbDl4ODI1UVFiYkczTXhrblZR?oc=5",
-        "description": "",
-        "pubDate": "2026-06-04T02:45:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "US strike on an alleged drug boat kills 2 in the eastern Pacific Ocean - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOGlvUldQZnQwSmpKLWQtSjBoR0dQb2xkVWFpSWVnc2xKcFpLdjJNQnF2dTN1QkdvcGxraTY1TEJ6aFpwQ0tqS1I1Y2I1VDZLc0JDZ0t4eERUekR5OGtqQjNGdXFmU1RnY0ZHUXNrV29Kbm5sdjFWdXBhLTcySURqb0g0NlU4cHNUbVFDenhwMzNjektGbVpEMHBYY3NzSXpxeHBV?oc=5",
-        "description": "",
-        "pubDate": "2026-06-04T01:46:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Treasury Secretary Scott Bessent refuses to say whether Trump remains exempt from IRS audits - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWVlqOXNNZkJ0YTlGcUNNY3RQMDNKejFnUFE2UzZlYUMzeG9GT3BEN0pySFFZTTM5bFlqbGd3M193R05YQ2xMQTZJeUlobGQtbkVaWXRWSFpjbmo0OURvUTF3cWFKamNLaXFzUGxJSmRiX09lT2JWSHJpbTRoTU9FcG9uMTFWV29lRzZTZl9mQzJtb1R5eHowZWNjOUx3S19TWFNpR3ZnSVA0Y0E?oc=5",
-        "description": "",
-        "pubDate": "2026-06-04T00:16:00Z",
+        "pubDate": "2026-06-04T02:03:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1008,19 +1035,46 @@
     ],
     "Tech": [
       {
-        "title": "US jobless aid filings, a proxy for layoffs, hit highest level since Iran war began in February - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZXAxN2FUVEhHYTNENTA0ZTZ6WnFDYl8yWnMyaU5yc0hXQ3c0RnN3ay1VYWZ1QkMwVWhhaGx1MmhWdC1MbDBSVERBek5ySGlmc2dJSVZxcEFDQzcwcU1MbUdUeHBVbzFZNmNWSGh0a2djYlFvcG5VSkYwQm9aaUUtczFLUk1iWWFNZndjOE5vbEJWRnU4MXYzQUFqVFRXOVB1eDdhNzYtSXMwME5JV204?oc=5",
+        "title": "Choose ‘Trainspotting’: Ewan McGregor and Danny Boyle reflect on the life-changing film - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSlVDaG9xVUVWbjZ1YWhyblZaQWJQMWdCZ1U4ZUZ0ZndsdlFhclAwRlVzRmJTOUFNZ1lPcm43aEFXSzBSX0FESWx2cDMzdWhOaDVjaDhRXzlubkxOc2pnYzNlUlFZdUQ0TDRtcXNvaGRJeWRtOXdnRkc2VVFIbDNmelBtVEI5ZGhVQ0hnRGdqeFd1VjRvMFE?oc=5",
         "description": "",
-        "pubDate": "2026-06-04T16:30:00Z",
+        "pubDate": "2026-06-04T17:19:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "A garbage crisis engulfs Havana as fuel shortages stall trash pickup - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZi1ZU2xtZFdyMFpUQzdiSVdIX1VoLUtyVjlFSkFpcVBJclljZjFUSnlCODFONFBSRENseXBtZk5VU3VucjFNOU0tVW1fbzMyUlJleTFEb0ZONGFjUEh0WklwaGF0QUh3T1JNakhOOHBESW04eUd4TVpFQV9nTzdrMWhYYy1QczdCc3RwYWJSTjJLNDQ?oc=5",
+        "title": "Arizona Supreme Court denies prosecutor appeal against sending fake elector case back to grand jury - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWVJSblBTMzRETk9KYzlQWDV1ZTJja2dvNVVMZ2JyUFg4bDBkamM0NlNtcC1paHNFcWpRWGZWYU1zT210R2ZNRXlQaTVOY3lCVFEzXy1fQ1gydlhNU2luSThORW1Vb3E5WjdPOExvNDk0cGhKVDl3el8zUm9nTDNIYWxFbU5RY1RoZGRkWlp6LU9Wcm9NNGZjVEFBT01ueVRvWUZsbHkwWkEyVUplVE5Qd3c5YWFrbzg?oc=5",
         "description": "",
-        "pubDate": "2026-06-04T16:15:00Z",
+        "pubDate": "2026-06-04T17:17:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Karen Read sues the police agencies that investigated her Boston police boyfriend’s death - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSjFjcnBMOUhxdGQwTWJnWDdRVnhFejRlQ2ZoQkVMb0NhOE5rZWk3NGR0X2xsYk05SFFPa0ZBeVhDTFpFQXJfZTU2U0VYaUx3dTAtNzhJRmh5LVlxMGpwb1hhYVJaLVhieXNod3dtRi1fNUVjTlBDdVpkQ1ZlS3lxLXBET1pKN1NYa0ZnWVdhR294UGQzaWh4S2U3S3BNUkts?oc=5",
+        "description": "",
+        "pubDate": "2026-06-04T16:42:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Apple TV's retelling of 'Cape Fear' brings a psycho killer into our homes in 'a nightmare for today' - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNlFnNXpGYkVCb1d2VDVKcVdnNFk3cG9YWnoyY01xMnRTbHRMb3lYcVFxUWxkRk9PcjZwN1RER0JNcHZjbEtQaUh0bWgzTHR4LTlsYXU1SnJPcVVILWxMOFNJX3Fqb2pXenJxNFp3am1tVEUyQS1CYXJleTNQbWRYYzl5UTU?oc=5",
+        "description": "",
+        "pubDate": "2026-06-04T15:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Iranian-French cartoonist and filmmaker Marjane Satrapi, author of ‘Persepolis,’ dies at 56 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdVdtUlN0NlFaekZSVmMxWWZJZGZNa1FsYUZnc1R0S1o4MnVNSmRrY0laRmlSb29VNlhhOFR3cWNmdHNIc3hhTmlDdkpSNERpSzYyendqRGNRS2tnaDJGSmdCV1IyR05SV1ZYOUJ0Rl9FS0hOVFFLTGlzV21JVlExOWZibjhsQkNGYjZiRzhjcjY2OXlyRDRQaGUxbk9OU2Zz?oc=5",
+        "description": "",
+        "pubDate": "2026-06-04T14:09:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1035,10 +1089,28 @@
         "bias": 0
       },
       {
-        "title": "What to know about the deal between Israel and Lebanon extending their shaky ceasefire - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcXZXS1p5TWZIeVdfODdIQTRRQTBUSUp5WlM5NUxZdWIxUUs2TGN0YmtXRzM2SHpxMlZZTGt3R2kxU1hYeU93TWRaZXlyZncxLV93VmtocVR1NVFyY0lKX3dJcTMzdTk2LU9WNGlwV2gzRnY2QTRXZEZ6MUR5M0dYTkEwUHd0OWl2Y2JvWHkzVmVsYktHNTRhc1lQQ0FLcTV0MG5pQk1B?oc=5",
+        "title": "The EU will look for ways to make it quicker for the Western Balkan countries to join the bloc - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVjQ2ZmJRbXJsMkhPUHZ1QVo3UmxHY1lHMFllOEtnSkFnN2N3RFRwdUdYYWRKTDNwQXJuMExsdkdpaVBPZGlCUko1MlhJMmROYi1lMkxoempIb3ZOUkwyV2NJbUx5ak94OWpFdWhwRzRwOHM1ZG5FbmVhNzJPWWVDYVdGdjl6M0hLWlZLMFNjdTJncEpJY3Z1UXhmVFZWLTA4NEx4aE1QX3hQX1Zpc1E?oc=5",
         "description": "",
-        "pubDate": "2026-06-04T13:11:00Z",
+        "pubDate": "2026-06-04T12:14:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Ahead of papal visit, Spain pushes forward with reparations for church sex abuse victims - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRlNlV1dmSld0Qno5LVdJdzBUdGt4Y0I5b2xWZ3FqTG1UbDdxR3NfNmpqSXJVOG1HazIyd3Uwakd1d0swRThVa2JVcFNacGx0dFVFTlcxOXI0elFudlFfWnBFYmJDREZEU1hpQzV4cDVpWHQtWEU3MnNVcTYtRUVmYk1wLVJWN3RUdXFFaEVCVXgtTnNwN2VXUWNtcllFVTVTVXp5T2k2emlZR1ZueklWUA?oc=5",
+        "description": "",
+        "pubDate": "2026-06-04T11:17:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Five Eyes alliance warns that China is targeting personnel via fake job ads - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaFR5Mk4tY2RTbmpJS2FfZ2dKM0ZCTDhibUJGSzVoNVhIdEhaZUV6M0d4cVgyQ3VpSlNxODlrdXpkby1QQmQxdEc4dk9pdzZwaDVBbFA5dXl4UEFGa0tpbm1DdDJpWnh5b3R2a2hDQ2JZUEt4STgxckdXeGFVWDBWTlhLSlZ4ZHJIbl84N1VEbUdXWjli?oc=5",
+        "description": "",
+        "pubDate": "2026-06-04T11:00:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1069,9 +1141,90 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "North Korea unveils a new plant to produce fuel for nuclear weapons - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUXp1c3JXXzRjdVZPSkZaZUFoVVJkYTc3ZExIejNqcHVuc04wUGRzdHNuWVhkVklqeGFjTEV6V05Pdjd5RzczNVJxWmVqT2xqeUtsUFVrNlJ5QnBnOEFQRXBqY2t5XzlVT2tKalhMWGRXNnRRR3BMblZQaGhJd3NpcWxaWHMzMlczSHBPaUJxaDhzT0lablE?oc=5",
+        "description": "",
+        "pubDate": "2026-06-04T08:43:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Takeaways from the AP's report on children who have been separated from their parents a second time - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR2hCa2JfRW1UWm54d0J6OXRtUjl0Nm1pcGl3YlJvcm16RG9xMTRleFltLTczV19PMmk4dGVhLW5Lek56MGo3VlhiYXZZUnhyX3BZRmRYZTh5S01PbHhXR19IdkxhM3dwNllXeTFlT2ZFVnVBNURzQUJRYWpMdV9ObFMzZk4wTzdDQTUyeFRpSFlxSXdPVEpPWEw5Q29tbFB0dDBVRDVMcHE?oc=5",
+        "description": "",
+        "pubDate": "2026-06-04T04:23:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "How Voodoo overcame suppression and became a democratic force in the West African nation of Benin - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnlmTW5lc3JLZ2RqMzFjX0ctbGVDUFQ5SzZKbnZZQXZEdXQ5dVlLSFZBdlNHamd5c2VoNXBsQlJ0cjM5U01iNml6ZldURThySnJRMXFFSHZzM1V0d3NTRzUtbkhlcjlPUWxGcnRicHk2UGoxaDhqREpzSThvMldQLVk4QndJb1NHM3dvNmhwT0oxYWlYc1ZoZEt6b2YwU0N2aFNHWjROcXYyalE?oc=5",
+        "description": "",
+        "pubDate": "2026-06-04T04:22:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "AI companies are barreling toward huge Wall Street debuts. A look at the biggest players - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYWp3QlpSdWJKYVpsVXlJdldxblNaeC1wcEp3b1VxOWYzOHF2UmRLT3ZUMWlqUmVqN1E1bjkxQkNLT2JpcURMc1ZQRlRnWWFKSWxBSXl6M3JiUmMtWWJ0SVBqZ0wyU0M4cHEtN3JRcWpXUTNIWWxSN1VOMm9Hbzd1Z1ViNkJrQzJDeGNHTEV6cFg0dUR5MXVxdzVzY09DVnpfcS1aZ0JsTGVSdFoxUGxRSjhFLUc?oc=5",
+        "description": "",
+        "pubDate": "2026-06-04T04:01:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "President Trump says he will nominate Todd Blanche to serve as attorney general - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUc1WWtFQlpHWDVsQzZZdlRsSXJTRHBNcVRwWXBOR2tjMmRGanJTQVZ2UGQ3NWZxSER6cENObnVWRkVSSXZZZS1pZnh2TllaTF95YlFRbmIzaTF3c2cxVERJQ09kNFdkSWU4YmpWV2UxYVVkM3pDVFcwSF80REcwN3QzcHI2emdXZlZrTV9LaTl4ZVBGa3RN?oc=5",
+        "description": "",
+        "pubDate": "2026-06-04T03:35:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Suspect who took 10 people hostage in California standoff has been shot and killed, police say - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNall5NXAyMUZCaFJlYWF2bUwwS2pWNUpzMWRLSGllUjQ2UFg4ellfU1p3WlJWV29HWGp3b25RNElxYWFnTnNtWG1kb0dFQ3dZNG02UW1qc0FUZk9sLTNja1BCcF9wZjdSdjQ5WXREQzFzWGdZaWE5X05sOWdvMm12ODNlclFBRjAxOVJId1g3MHJ1RmwzN0wzSng3VDJvb3FBTnpZN1VZZmo1QQ?oc=5",
+        "description": "",
+        "pubDate": "2026-06-04T02:47:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "US strike on an alleged drug boat kills 2 in the eastern Pacific Ocean - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOGlvUldQZnQwSmpKLWQtSjBoR0dQb2xkVWFpSWVnc2xKcFpLdjJNQnF2dTN1QkdvcGxraTY1TEJ6aFpwQ0tqS1I1Y2I1VDZLc0JDZ0t4eERUekR5OGtqQjNGdXFmU1RnY0ZHUXNrV29Kbm5sdjFWdXBhLTcySURqb0g0NlU4cHNUbVFDenhwMzNjektGbVpEMHBYY3NzSXpxeHBV?oc=5",
+        "description": "",
+        "pubDate": "2026-06-04T01:46:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Science": [
+      {
+        "title": "Scientists probe how pigeons use magnetism to navigate",
+        "link": "https://www.npr.org/2026/06/04/nx-s1-5845078/scientists-probe-how-pigeons-use-magnetism-to-navigate",
+        "description": "Homing pigeons rely on a variety of signals to navigate, including magnetism. But it hasn't been clear how they detect magnetic cues. Researchers propose the answer may be found in the birds' livers.",
+        "pubDate": "2026-06-04T20:13:04Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "BBC Inside Science",
+        "link": "https://www.bbc.co.uk/sounds/play/w3ct977p?at_medium=RSS&at_campaign=rss",
+        "description": "What role will humans play in the future of scientific research?",
+        "pubDate": "2026-06-04T20:00:00Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
+        "bias": -1
+      },
       {
         "title": "Musk's SpaceX share sale: Four things you need to know",
         "link": "https://www.bbc.com/news/articles/czx299wpp56o?at_medium=RSS&at_campaign=rss",
@@ -1082,13 +1235,13 @@
         "bias": 0
       },
       {
-        "title": "BBC Inside Science",
-        "link": "https://www.bbc.co.uk/sounds/play/w3ct977p?at_medium=RSS&at_campaign=rss",
-        "description": "What role will humans play in the future of scientific research?",
-        "pubDate": "2026-06-04T16:00:00Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
-        "bias": -1
+        "title": "9 killed in strikes in Gaza overnight, hospital says - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYU5FenFyR2dyS2hiUEJvZmFtZDFLdjhJSnVjOTQzSW42WFZVOUJWMXRCMW9aQXFVMkxtTnpLclowTGJvX19vM08wZDRFSjBRbkxhY0xEWDhVQzFiN3ZsR0h1cm5EcmhBYUU0MlJqTnUwN09KZnRWMG5HT2lhcXlmc1lGTFFTUGNXR0xJUU8tUjVuMEVORU1HbXhHSjZ2Zw?oc=5",
+        "description": "",
+        "pubDate": "2026-06-04T13:26:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Bathing warning lifted after pollution investigation",
@@ -1133,15 +1286,6 @@
         "pubDate": "2026-06-04T05:14:10Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb38/live/68a01b40-5f58-11f1-8dad-8347ac6f73d8.png",
-        "bias": 0
-      },
-      {
-        "title": "Trump acknowledges calling Netanyahu 'crazy' and says Israel is complicating peace talks with Iran - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeUJLY2FURzR0NU9tVGcxLWNIa0pIZEJYVXg2eFF0NlkyYzI2VU5BcWRoMXd1S19lWjdfck5lVVJPMmRSSU1xVURMYmFqUWR3SEh4MWxOV2JJc2NWZVhWVlJnUmpHeDJKVGF6ZkwtcXQxZm1FMEZ5dXZrX0YxZERmUlVQRWF0cGxlUV9GSDNxS1ZwVVVxdEpaX3FfSHo3b1BudWRwbGxTaw?oc=5",
-        "description": "",
-        "pubDate": "2026-06-04T03:36:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       }
     ],
@@ -1255,15 +1399,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Oscar-nominated Persepolis author Marjane Satrapi dies aged 56",
-        "link": "https://www.bbc.com/news/articles/c4g0nnj51jyo?at_medium=RSS&at_campaign=rss",
-        "description": "The French-Iranian author and illustrator was known for her graphic novel series and Oscar-nominated film.",
-        "pubDate": "2026-06-04T13:29:05Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91ee/live/290a58d0-5ffb-11f1-8fb5-d943e40a1a99.jpg",
-        "bias": 0
       },
       {
         "title": "Harry and Meghan celebrate Lilibet's fifth birthday",
