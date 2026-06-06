@@ -1,19 +1,408 @@
 {
-  "lastUpdate": "2026-06-06T00:05:43.314849Z",
+  "lastUpdate": "2026-06-06T04:16:50.527478Z",
   "news": {
     "Gaming": [
       {
-        "title": "Break A Box [Free] [Android]",
-        "link": "https://antoantimal.itch.io/break-a-box",
-        "description": "Un proyecto simple en el que tienes que romper cajas para conseguir dinero y mejorar las cajas.",
-        "pubDate": "2026-06-06T00:00:25Z",
-        "source": "antoantimal.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI3NzAwNzM0LmpwZw==/315x250%23c/7qsTh%2B.jpg",
+        "title": "Parodybox Refreshened [Free] [Rhythm]",
+        "link": "https://cyleranimates.itch.io/parodybox-refreshened",
+        "description": "",
+        "pubDate": "2026-06-06T03:59:26Z",
+        "source": "cyleranimates.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3NzAzMDYyLnBuZw==/315x250%23c/QoYcBR.png",
+        "bias": 0
+      },
+      {
+        "title": "The Ballroom [Free] [Adventure] [Windows]",
+        "link": "https://verstopping.itch.io/the-ballroom",
+        "description": "",
+        "pubDate": "2026-06-06T03:56:46Z",
+        "source": "verstopping.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3NzAzMDI2LnBuZw==/315x250%23c/NUMF5%2F.png",
+        "bias": 0
+      },
+      {
+        "title": "The World is now a Red Sea [Free] [Adventure]",
+        "link": "https://snakedriver.itch.io/the-world-is-now-a-red-sea",
+        "description": "turn the water back to blue...",
+        "pubDate": "2026-06-06T03:46:45Z",
+        "source": "snakedriver.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3NzAyOTM5LnBuZw==/315x250%23c/7grMbN.png",
+        "bias": 0
+      },
+      {
+        "title": "Counting Acorns! [Free] [Educational]",
+        "link": "https://chivitogg.itch.io/counting-acorns",
+        "description": "Childrens Math Game",
+        "pubDate": "2026-06-06T03:28:21Z",
+        "source": "chivitogg.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3NzAyODQ1LnBuZw==/315x250%23c/%2B8en%2FP.png",
+        "bias": 0
+      },
+      {
+        "title": "The Dumbest Dating Sim [Free] [Visual Novel]",
+        "link": "https://gamerw777.itch.io/the-dumbest-dating-sim",
+        "description": "Made for JustJeff game jam",
+        "pubDate": "2026-06-06T03:27:02Z",
+        "source": "gamerw777.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3NzAyOTMxLnBuZw==/315x250%23c/1WmJn2.png",
+        "bias": 0
+      },
+      {
+        "title": "REST IN PIECES [$1.75]",
+        "link": "https://mandude22.itch.io/rest-in-peaces",
+        "description": "",
+        "pubDate": "2026-06-06T03:18:00Z",
+        "source": "mandude22.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3NzAyNzMzLnBuZw==/315x250%23c/L44pYz.png",
+        "bias": 0
+      },
+      {
+        "title": "Monster Siege [Free] [Action] [Windows]",
+        "link": "https://malboy.itch.io/siege",
+        "description": "",
+        "pubDate": "2026-06-06T03:01:12Z",
+        "source": "malboy.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3NzAyNjkxLnBuZw==/315x250%23c/uk1WrY.png",
+        "bias": 0
+      },
+      {
+        "title": "1 Game A Month May 2026 - Chip Smash [Free] [Action]",
+        "link": "https://codemonkeyzero.itch.io/1-game-a-month-may-2026",
+        "description": "Smash some chips, it was a hard month.",
+        "pubDate": "2026-06-06T02:41:04Z",
+        "source": "codemonkeyzero.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3NzAyNDcwLnBuZw==/315x250%23c/TFSypz.png",
+        "bias": 0
+      },
+      {
+        "title": "Carnival Cannon [Free] [Shooter] [Windows]",
+        "link": "https://vulkendov.itch.io/carnival-cannon",
+        "description": "Ever wanted to give a carnival game a try but they are too far from home? Well, fear not!",
+        "pubDate": "2026-06-06T02:40:35Z",
+        "source": "vulkendov.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3NzAyMzg3LnBuZw==/315x250%23c/6%2BUelj.png",
+        "bias": 0
+      },
+      {
+        "title": "ok [Free]",
+        "link": "https://colba.itch.io/ok",
+        "description": "",
+        "pubDate": "2026-06-06T02:39:16Z",
+        "source": "colba.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3NzAyNDAyLmpwZWc=/315x250%23c/3wQ0bz.jpeg",
+        "bias": 0
+      },
+      {
+        "title": "Get Started with unity [Free] [Windows]",
+        "link": "https://drmoxer.itch.io/get-started-with-unity",
+        "description": "First tutorial built in editor with Unity engine",
+        "pubDate": "2026-06-06T02:38:42Z",
+        "source": "drmoxer.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3NzAyNTc2LnBuZw==/315x250%23c/WrPUlL.png",
+        "bias": 0
+      },
+      {
+        "title": "Filius Abyss [Free]",
+        "link": "https://alexvalla200.itch.io/filius-abyss",
+        "description": "",
+        "pubDate": "2026-06-06T02:34:21Z",
+        "source": "alexvalla200.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3NzAyNDAxLnBuZw==/315x250%23c/FOc6NW.png",
+        "bias": 0
+      },
+      {
+        "title": "Being Dead Simulator [Free] [Windows] [Linux]",
+        "link": "https://beanguy1282.itch.io/being-dead-simulator",
+        "description": "Its A Black Screen, Accurate To Being Dead",
+        "pubDate": "2026-06-06T02:32:58Z",
+        "source": "beanguy1282.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3NzAyMjk5LmpwZw==/315x250%23c/itZF0s.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Project Spark [Free]",
+        "link": "https://banjovr.itch.io/project-spark",
+        "description": "",
+        "pubDate": "2026-06-06T02:31:55Z",
+        "source": "banjovr.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3NzAxOTkyLnBuZw==/315x250%23c/EWn%2FRD.png",
+        "bias": 0
+      },
+      {
+        "title": "beneath [Free]",
+        "link": "https://highlanderlo.itch.io/beneath",
+        "description": "hi",
+        "pubDate": "2026-06-06T02:31:29Z",
+        "source": "highlanderlo.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3NzAyMzQ3LnBuZw==/315x250%23c/8DI9wj.png",
+        "bias": 0
+      },
+      {
+        "title": "4D Spin the Bottle with Multiversal Time Travel [Free] [Strategy]",
+        "link": "https://newspaperman.itch.io/4d-spin-the-bottle-with-multiversal-time-travel",
+        "description": "",
+        "pubDate": "2026-06-06T02:29:28Z",
+        "source": "newspaperman.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3NzAyNzA3LnBuZw==/315x250%23c/vwEnBE.png",
+        "bias": 0
+      },
+      {
+        "title": "Space Hopper [Free] [Simulation]",
+        "link": "https://brawlerstudios.itch.io/space-hopper",
+        "description": "Cruise through space and jump over orbs, it's that simple.",
+        "pubDate": "2026-06-06T02:19:49Z",
+        "source": "brawlerstudios.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3NzAyMTMzLnBuZw==/315x250%23c/f8Sh2E.png",
+        "bias": 0
+      },
+      {
+        "title": "CRONOCION [Free]",
+        "link": "https://s4ntiago124gg.itch.io/cronocion",
+        "description": "un juego terrorifico phicologico ARVERTENCIA puede ver tus fotos",
+        "pubDate": "2026-06-06T02:18:09Z",
+        "source": "s4ntiago124gg.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3NzAxODcwLnBuZw==/315x250%23c/kNHGXN.png",
+        "bias": 0
+      },
+      {
+        "title": "the forest is dark [Free] [Adventure] [Windows] [macOS] [Linux]",
+        "link": "https://youssef20134.itch.io/the-forest-is-dark",
+        "description": "",
+        "pubDate": "2026-06-06T02:17:42Z",
+        "source": "youssef20134.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3NzAyMDk5LnBuZw==/315x250%23c/Rai1cB.png",
+        "bias": 0
+      },
+      {
+        "title": "ECHO [Free] [Strategy]",
+        "link": "https://exodus-indiedev.itch.io/echo",
+        "description": "Manipulate information, Influence populations, Exploit crises.",
+        "pubDate": "2026-06-06T02:15:45Z",
+        "source": "exodus-indiedev.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3NzAyNDQ3LnBuZw==/315x250%23c/AABES%2F.png",
+        "bias": 0
+      },
+      {
+        "title": "Whispers of the forest [Free] [Windows]",
+        "link": "https://franforne.itch.io/whispers-of-the-forest",
+        "description": "",
+        "pubDate": "2026-06-06T02:11:49Z",
+        "source": "franforne.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3NzAyNTk1LnBuZw==/315x250%23c/wVTw96.png",
+        "bias": 0
+      },
+      {
+        "title": "Febuary 1st (Demo) [Free] [Windows]",
+        "link": "https://noiseymcgee.itch.io/febuary-1st-demo",
+        "description": "AREA 51 (18+) DO NOT PLAY CURSED SCARY",
+        "pubDate": "2026-06-06T02:06:34Z",
+        "source": "noiseymcgee.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3NzAxOTg5LnBuZw==/315x250%23c/B1QWSv.png",
+        "bias": 0
+      },
+      {
+        "title": "ChromaSlide [Free] [Puzzle]",
+        "link": "https://midnight-jerry.itch.io/chromaslide",
+        "description": "Slide and match color blocks!",
+        "pubDate": "2026-06-06T01:59:13Z",
+        "source": "midnight-jerry.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3NzAxOTExLnBuZw==/315x250%23c/KFR5CW.png",
+        "bias": 0
+      },
+      {
+        "title": "Echoes [Free]",
+        "link": "https://julianp05.itch.io/echoes",
+        "description": "Echoes quiere adentrarse en el mundo de lo raro, incomprensible a la mente humana y lo que no quieres ver ni saber",
+        "pubDate": "2026-06-06T00:06:56Z",
+        "source": "julianp05.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3NzAwNzM2LnBuZw==/315x250%23c/8LWGEW.png",
         "bias": 0
       }
     ],
-    "World": [],
-    "Politics": [],
+    "World": [
+      {
+        "title": "U.S. military says it shot down Iranian drones launched toward Gulf allies",
+        "link": "https://www.npr.org/2026/06/06/nx-s1-5848184/u-s-military-shot-down-iranian-drones",
+        "description": "The exchange of strikes comes as the Trump administration ramps up pressure on Iran to make a deal to end the conflict.",
+        "pubDate": "2026-06-06T04:15:26Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Cuba to open hotel sector to management by Cubans at home and abroad after chains leave island - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTnRiSTlHeWF5ME5ULVd0U1F5V0lQc2xsNW5lS0N6T280dHJlblZBRDlZN0J3dXd5YUtoMnlvdVlJS1N5VkV0ZFdIM0NNT0YyMTBKYXczNTB5MVEyQW1BZmt6aWI5TmxMWTh4dnRKeDVwMDh1Z2RrQ1hQa0ZsMWdtZE1YWlQyalpSMi1iY3J6T1ZNV0NjNXJDbk1fNHNsVHRqU1EzNExvQVl1cElVT2c?oc=5",
+        "description": "",
+        "pubDate": "2026-06-06T02:22:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Stadium workers near Los Angeles vote to authorize a strike days before the World Cup begins - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWUs0OVNsbUZIdHhzYm5mMW54X0hHUDdSYzc1MExnYWxTTWZ6dWRLd2FiQ0dXUzhWQllLdEZzSDA4b05ma2ZxR0JlSk5jSTJubXlDRGdBQlNZR1EyQS1ZWHFfNmo5Q08tamlPS3JHWjZORGQxLVIzdGFRWXZlcnpxM3lSZDJxV3RkSENVRzZpR0l3dXpEOEF3VTFreDUyNTU2c01SYnlsYw?oc=5",
+        "description": "",
+        "pubDate": "2026-06-06T02:10:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Trump keeps the door open to a call with Taiwan's president even though China has warned against it - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS2hjelpKazE3aEJlTzN4RWlheXgxM3JIb3JzUEtWaXM0Y2V4bl9TZUtaQ002TkROOGF0S0ZUVG9QbThoNVBXOEd6VzNaZmJWb19XUzFiMGpRT1d0cFFyamNHRjJmU3VjRjhQYm1meHBhOUk4X01qOW12M1NCbXdtSHl0c2ZOY2VpVXRlU1VNc2wxbTA?oc=5",
+        "description": "",
+        "pubDate": "2026-06-06T02:06:23Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Arrests of critics in Ghana provokes alarm over free speech under Mahama",
+        "link": "https://www.aljazeera.com/news/2026/6/6/arrests-of-critics-in-ghana-provokes-alarm-over-free-speech-under-mahama?traffic_source=rss",
+        "description": "Ghana’s 14 arrests in 16 months linked to false news have raised concerns about free speech.",
+        "pubDate": "2026-06-06T02:01:27Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "US plans to fight flesh-eating screwworm outbreak with flies and dogs",
+        "link": "https://www.bbc.com/news/articles/c7v9vz1gd76o?at_medium=RSS&at_campaign=rss",
+        "description": "The insect, which has been found in America for the first time since 1966, is a growing concern in the southern US.",
+        "pubDate": "2026-06-06T01:55:03Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90ab/live/66e59fb0-6079-11f1-8ba8-b772d95cbb2a.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Ronaldo joins Portugal training ahead of sixth World Cup appearance",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/aje-onl-nf_clip_-ronaldo-trains-with-portugal-ahead-of-fifa-050626?traffic_source=rss",
+        "description": "Portuguese star Cristiano Ronaldo hit the training pitch as he readies for his sixth World Cup appearance.",
+        "pubDate": "2026-06-06T01:34:49Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Gaza fishermen stay afloat with dinghies made from doorframes",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/gaza-fishermen-stay-afloat-with-dinghies-made-from-doorframes?traffic_source=rss",
+        "description": "Fishermen in Gaza are using dinghies made of reclaimed fiberglass, wood, and doorframes salvaged from rubble.",
+        "pubDate": "2026-06-06T01:13:29Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Democrat Xavier Becerra advances to general election in race for California governor - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT3JMVzVTbDJPQVR0R3NLX296SjFmRDhyYmVDZktBZ3ZqYmRVNGJKUG1KaUR2dExnb1FscUtFLU40WFNLeWZYZTk1eTVIZjNwNUM2S2lubEFDV1FBdlFibzZRNkw5NnVha2gwT0lacWFEWnozQnZhNmkyZVhSMDZ6aWstNmp0REJPT29wTEFhdmdNS0pUQ0wxWnJCLTRRLUlLWGRB?oc=5",
+        "description": "",
+        "pubDate": "2026-06-06T00:58:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Texas governor wants to speed up work on a fly-breeding factory to fight a cattle parasite - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNkVwQU5FT2ZKU2JZcW9wYmZORkp3aTFCRlZneGg3bjM3NTRqd3NZU3Nfd3NOWGgtd2lGMC1YSFpBRlFhMGdVcHNybjFHczN6dUp2Vlo1VG5JNWVmNXFVd2cxeEM4c1h0dTBzY3gxaUN3WnM0TnNiZW5qZkUyMXpIMGlkSDl5UmViR3Bzd3Q4YXJ5eWtjaFAwTVJ5OG0zRjhkS3dyU2tRZVRhVHhvRC1vag?oc=5",
+        "description": "",
+        "pubDate": "2026-06-06T00:53:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "What to know about the New World screwworm fly and its reappearance in the US - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcmNPeUVkeGtsdEh5MlFEbzY2T3VkY1psLVhqUVYwN0xTOGxMazFqTFh5UjBDUnl0UGJDRkxHNkt1WnN2clNGT3l6UEdKMGEwQ2FRS1ZtVkw1R3F6MVFTR21DVmg5eC1WclRpdDlTUmdEdWY5NEsyc2RxNXNKZHhyX2pvcmI3ZlBSemNrbVlMajZCX3pfUmFaOUZmVVhDb2x4amJ2cHRpSQ?oc=5",
+        "description": "",
+        "pubDate": "2026-06-06T00:51:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Matsui advances to November ballot in reelection bid for California congressional seat - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcGgwaXpYX0M4cnBoT1lhZ09DN1NTT1I4Y1pwcXFId3RlTDNvMGppOGpTamlEWXVHMU43QzhVelFSUTJqcE1tQWFLdlJxaFVZYmw1c1JVcXd5aVRHR1duMXRmMFRWaHpjQU1YejItN3JmZUVRVjRVNGtmcGtRbDRaelFKeHcwalg1UWg5RVlkdDkzUktWTUw4Y21PT0h5SElVeEphRHJwbXk?oc=5",
+        "description": "",
+        "pubDate": "2026-06-06T00:36:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Iran’s World Cup team approved for visas to play games in the US, officials say - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORkJfWFZXV2Q3MjdNV3JQZUFhZXU3QWRpaWNHRk5HQmZJTFVpRC1GYTVtcVh5Ujc5RzRRcXVYbTdEaUZTTVNLNzJvWlFMeVpkUHRIQV9rS3FDOU1pRVRBdm04MXAtdXNuNGRuZHh5Mk84d29zeTdkSUlleVNjVERnM1psZWdDUmt2MFVhemxYcTM?oc=5",
+        "description": "",
+        "pubDate": "2026-06-06T00:31:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Iran war live: Iranian missiles target Kuwait, Bahrain after US-Iran clash",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/6/6/iran-war-live-us-says-iranian-drones-shot-down-radar-sites-attacked?traffic_source=rss",
+        "description": "The United Nations reports that 1.4 million people are in need of aid in Lebanon amid Israel's attacks on the country.",
+        "pubDate": "2026-06-06T00:00:00Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      }
+    ],
+    "Politics": [
+      {
+        "title": "US military says it shot down Iranian missiles, drones launched toward Gulf allies, Strait of Hormuz - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY1h5Qk1UNmoyeVpUMGJlLVlteWk0TTlqd1pCSHNGX1h5Q1c2aW9PZ3NaY1BNM1NHdWs5bUFHRHdkX0ZPallOVFRMNmVBSkFMM1prWW9mUHVKSmpZa3MxSWZBQkh3aFNqNWpCRERmYzBUREN3MzVUcUgzRFpxNVdaX0pkMC1SazlvX2c?oc=5",
+        "description": "",
+        "pubDate": "2026-06-06T02:55:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Downing Street hits out after Vance post about Henry Nowak",
+        "link": "https://www.bbc.com/news/articles/crlplwn1jkro?at_medium=RSS&at_campaign=rss",
+        "description": "The US vice-president wrote the \"only response is righteous anger\" when referring to Henry Nowak's death on X.",
+        "pubDate": "2026-06-06T02:33:24Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f2e/live/80d90a20-610e-11f1-89a3-d1f559421220.jpg",
+        "bias": 0
+      },
+      {
+        "title": "China can build humanoids at scale. The hard part is finding enough buyers - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWnh1UXF4c2t5RGRoZ0ZEX0JsUlVFTFl1ajVHUXBvcEl1c1N4TXBOanhRQXhkX21hdWlxalRSOGh6cW8xVEV0LXdvbWY0aF9jTUpBMGZuV0drbmp2Z0E4SGF3dGZOcm9kZkx0TmluaDc3T0ZKMVRnSzYtTzhEQVY2cmY2ZnptWUtwX3JvQXNkYkwxbmNqblE?oc=5",
+        "description": "",
+        "pubDate": "2026-06-06T02:07:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Democrat Xavier Becerra wins the top spot in November's race for California governor",
+        "link": "https://www.npr.org/2026/06/05/nx-s1-5845847/xavier-becerra-california-governor-hilton-steyer-newsom",
+        "description": "Former Health and Human Services Secretary Xavier Becerra has clinched the top spot on California's ballot for governor. With millions of ballots still to be counted, his November challenger is unknown.",
+        "pubDate": "2026-06-06T00:42:57Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Judge halts Trump administration efforts to impose conditions on SNAP - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYnRkLVpmeTZUdmtzN2x0c1l0UWdLTXZJVXYzR0tvcjI3UUxlX1FKcUk4VVFvZk9Nd2NDeWxQWG1ja0tGLWFxOHBFSVBWdFNpNkJ2ZG52NFluSXp5blM5dUlUN1dKQ3h5MTJrYzVEelNuZ0wxT1Fjb2R2MmJNNzBpeHhZQV80TEpacDVSVWJn?oc=5",
+        "description": "",
+        "pubDate": "2026-06-06T00:35:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Connecticut police officer hugs supporters, appears in court in fatal shooting of Black man - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSEJqdnkwOHpSTm5PVXpueHQxaWczSmVRQmJPZU81dGNqMUFUanNjVmxLZkticXZ5OEZkY0tHYkdYMjRKWTg0eG04WTdJNzFnZkt4UVEyS2xoa2h3bk9ZVHNlenZfNnFTc3loRFREcjd3VVZZX1V2T0hmcFJKeER3S3N0c25jejFlZWFaeVk5Q2RXdEJxZFdJc2xWMjlyYzJHb3NtWVV3?oc=5",
+        "description": "",
+        "pubDate": "2026-06-06T00:21:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ],
     "Tech": [],
     "Science": [],
     "Business": [],
