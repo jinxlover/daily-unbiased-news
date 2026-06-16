@@ -1,61 +1,620 @@
 {
-  "lastUpdate": "2026-06-16T12:28:46.938036Z",
+  "lastUpdate": "2026-06-16T17:33:17.918662Z",
   "news": {
-    "Gaming": [],
+    "Gaming": [
+      {
+        "title": "Garde Robe [Free] [Puzzle]",
+        "link": "https://leo-lagrange.itch.io/garde-robe",
+        "description": "",
+        "pubDate": "2026-06-16T17:29:35Z",
+        "source": "leo-lagrange.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3OTA2MjYyLnBuZw==/315x250%23c/Y3Mm4X.png",
+        "bias": 0
+      },
+      {
+        "title": "COPA QUIZ [Free] [Educational]",
+        "link": "https://mard-93.itch.io/copa-quiz",
+        "description": "",
+        "pubDate": "2026-06-16T17:28:58Z",
+        "source": "mard-93.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3OTA2MzAzLnBuZw==/315x250%23c/1KWKyn.png",
+        "bias": 0
+      },
+      {
+        "title": "Timeline Sokoban [Free] [Puzzle]",
+        "link": "https://gamejob.itch.io/timeline-sokoban",
+        "description": "A Sokoban where new characters replay your past moves.",
+        "pubDate": "2026-06-16T17:14:43Z",
+        "source": "gamejob.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3OTA2MTc2LnBuZw==/315x250%23c/rVR3MZ.png",
+        "bias": 0
+      },
+      {
+        "title": "Game Effect Editor (spritesheet export) [7.99€] [Windows]",
+        "link": "https://vidikstudio.itch.io/game-effect-editorspritesheet-export",
+        "description": "Stop wasting time on manual sprite sheet assembly",
+        "pubDate": "2026-06-16T17:14:39Z",
+        "source": "vidikstudio.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3OTA1Njc5LnBuZw==/315x250%23c/68txwQ.png",
+        "bias": 0
+      },
+      {
+        "title": "Tiny Sail [Free] [Strategy]",
+        "link": "https://sirsep.itch.io/tiny-sail",
+        "description": "A small and cute rogue-like, just collect coins and defeat skeletons",
+        "pubDate": "2026-06-16T17:12:50Z",
+        "source": "sirsep.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3OTA1ODc2LnBuZw==/315x250%23c/On8r0a.png",
+        "bias": 0
+      },
+      {
+        "title": "The leap of the Ninja not just fom window [Free] [Windows] [macOS] [Linux] [Android]",
+        "link": "https://asanieris10gmailcom.itch.io/the-leap-of-the-ninja-for-phone",
+        "description": "Hi",
+        "pubDate": "2026-06-16T17:09:46Z",
+        "source": "asanieris10gmailcom.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3OTA1OTU1LmpwZWc=/315x250%23c/0eOyQ%2B.jpeg",
+        "bias": 0
+      },
+      {
+        "title": "SOLAR CATCH [Free] [Action] [Windows]",
+        "link": "https://ziruel.itch.io/solar-catch",
+        "description": "A fast paced, sky bound arcade adventure. Collect suns, dodge clouds, and go as far as you can!",
+        "pubDate": "2026-06-16T17:09:11Z",
+        "source": "ziruel.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3OTA2MDExLnBuZw==/315x250%23c/S3Ym%2Bv.png",
+        "bias": 0
+      },
+      {
+        "title": "flappy bird [Free] [Platformer] [Windows]",
+        "link": "https://justin72181.itch.io/flappy-bird",
+        "description": "",
+        "pubDate": "2026-06-16T17:06:08Z",
+        "source": "justin72181.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3OTA1ODI2LnBuZw==/315x250%23c/l44G6A.png",
+        "bias": 0
+      },
+      {
+        "title": "Entrapment [Free] [Other] [Windows]",
+        "link": "https://meepster859.itch.io/entrapment",
+        "description": "You Can Only Move.",
+        "pubDate": "2026-06-16T17:05:48Z",
+        "source": "meepster859.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3OTA1ODAwLnBuZw==/315x250%23c/zrA%2Fc5.png",
+        "bias": 0
+      },
+      {
+        "title": "Brave Quest: Emerald Sword [$9.99] [Strategy]",
+        "link": "https://williamfburk.itch.io/brave-quest-emerald-sword",
+        "description": "",
+        "pubDate": "2026-06-16T17:00:18Z",
+        "source": "williamfburk.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3OTA1NTg1LnBuZw==/315x250%23c/n3UtHy.png",
+        "bias": 0
+      },
+      {
+        "title": "Hermes Model - Type Night [$4.99] [Role Playing]",
+        "link": "https://samiti3d.itch.io/hermes-ai-agent-model",
+        "description": "",
+        "pubDate": "2026-06-16T16:51:24Z",
+        "source": "samiti3d.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3OTA1MTExLnBuZw==/315x250%23c/rervDD.png",
+        "bias": 0
+      },
+      {
+        "title": "FS 26 ZETOR PROXIMA 120 [Free]",
+        "link": "https://modsfsmobile.itch.io/fs-26-zetor-proxima-120",
+        "description": "",
+        "pubDate": "2026-06-16T16:47:23Z",
+        "source": "modsfsmobile.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3OTA1MzI3LnBuZw==/315x250%23c/YZEhlD.png",
+        "bias": 0
+      },
+      {
+        "title": "I Cast Water Balloons! [Free]",
+        "link": "https://faerally.itch.io/i-cast-water-balloons",
+        "description": "",
+        "pubDate": "2026-06-16T16:46:45Z",
+        "source": "faerally.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3OTA1NDkxLnBuZw==/315x250%23c/YW3rrt.png",
+        "bias": 0
+      },
+      {
+        "title": "À la recherche du cadeau [Free] [Adventure]",
+        "link": "https://leo-lagrange.itch.io/a-la-recherche-du-cadeau",
+        "description": "",
+        "pubDate": "2026-06-16T16:46:38Z",
+        "source": "leo-lagrange.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3OTA1MzExLnBuZw==/315x250%23c/HDear2.png",
+        "bias": 0
+      },
+      {
+        "title": "\"You Are Not Garbage. You Are a Son.\" [$1.00]",
+        "link": "https://neonvoidstudio.itch.io/you-are-not-garbage-you-are-a-son",
+        "description": "The simple truth about who you really are — and why God never called you garbage.",
+        "pubDate": "2026-06-16T16:42:50Z",
+        "source": "neonvoidstudio.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3OTA1Njg0LnBuZw==/315x250%23c/UPMe4U.png",
+        "bias": 0
+      },
+      {
+        "title": "Angel Shell [Free] [Action] [Windows] [Linux]",
+        "link": "https://zahranworrell.itch.io/angel-shell",
+        "description": "Anchor the abyss",
+        "pubDate": "2026-06-16T16:42:09Z",
+        "source": "zahranworrell.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3OTA1MTU2LnBuZw==/315x250%23c/i5fpAW.png",
+        "bias": 0
+      },
+      {
+        "title": "Dave's Word Game [$5.00] [Puzzle]",
+        "link": "https://bearwaves.itch.io/daves-word-game",
+        "description": "A daily word game. Find words, clear rows and columns, aim for the highest score you can. A new board every day!",
+        "pubDate": "2026-06-16T16:40:51Z",
+        "source": "bearwaves.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3OTA1MDgzLnBuZw==/315x250%23c/CU6eB1.png",
+        "bias": 0
+      },
+      {
+        "title": "Brick Studio [Free] [Simulation]",
+        "link": "https://jpetree331.itch.io/brick-studio",
+        "description": "Build with bricks in 3D, right in your browser — then walk through what you made.",
+        "pubDate": "2026-06-16T16:37:13Z",
+        "source": "jpetree331.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3OTA2MTUwLnBuZw==/315x250%23c/PFdAO5.png",
+        "bias": 0
+      },
+      {
+        "title": "Jak šli děti nakoupit Pejskovi a Kočičce [Free] [Simulation]",
+        "link": "https://hummbeee.itch.io/jak-sli-deti-nakoupit-pejskovi-a-kocicce",
+        "description": "",
+        "pubDate": "2026-06-16T16:37:03Z",
+        "source": "hummbeee.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3OTA1MDY2LnBuZw==/315x250%23c/jjCr%2B9.png",
+        "bias": 0
+      },
+      {
+        "title": "PULSARI Demo [Free] [Rhythm]",
+        "link": "https://critics-arcade.itch.io/pulsari",
+        "description": "Difficult rhythm arcade",
+        "pubDate": "2026-06-16T16:30:38Z",
+        "source": "critics-arcade.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3OTA0OTEwLnBuZw==/315x250%23c/t9jIlN.png",
+        "bias": 0
+      },
+      {
+        "title": "SysOps — Cybersecurity Simulator [Free] [Simulation]",
+        "link": "https://michael-atias.itch.io/sysops-cybersecurity-simulator",
+        "description": "Build a PC, master the Linux terminal, and learn real cybersecurity by hacking.",
+        "pubDate": "2026-06-16T16:23:43Z",
+        "source": "michael-atias.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3OTA0OTQ4LnBuZw==/315x250%23c/gCNEwq.png",
+        "bias": 0
+      },
+      {
+        "title": "Loop 32 [Free] [Other]",
+        "link": "https://lettuceketchup.itch.io/loop-32",
+        "description": "",
+        "pubDate": "2026-06-16T16:12:24Z",
+        "source": "lettuceketchup.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3OTA0NDk0LnBuZw==/315x250%23c/LTzUIF.png",
+        "bias": 0
+      },
+      {
+        "title": "Deadly Aquarium Prototype 1 [Free] [Simulation]",
+        "link": "https://runswithpencil.itch.io/deadly-aquarium",
+        "description": "Hatch, feed and raise baby fish to adulthood, earn you coins to buy more expensive eggs to hatch.",
+        "pubDate": "2026-06-16T09:09:41Z",
+        "source": "runswithpencil.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI3OTAzNTgyLnBuZw==/315x250%23c/h%2BUmhG.png",
+        "bias": 0
+      }
+    ],
     "World": [
       {
-        "title": "Gaza children running out of time to treat blast-induced hearing loss",
-        "link": "https://www.aljazeera.com/news/2026/6/16/gaza-hearing-loss-running-out-of-time?traffic_source=rss",
-        "description": "Gaza children increasingly developing hearing impairments due to repeated exposure to blasts.",
-        "pubDate": "2026-06-16T12:10:54Z",
+        "title": "In Albania, anger grows against the government for supporting a Kushner-linked luxury resort",
+        "link": "https://www.npr.org/2026/06/16/g-s1-128162/albania-resort-protests-kushner-trump",
+        "description": "Albania's government has given preliminary approval to plans for the luxury resort along a stretch of coastline, prompting daily protests and legal challenges by environmental groups.",
+        "pubDate": "2026-06-16T17:10:17Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Trump slams Israeli attacks on Lebanon at G7 summit",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/trump-slams-israeli-attacks-on-lebanon-at-g7-summit?traffic_source=rss",
+        "description": "US President Donald Trump slammed Israeli attacks on Lebanon at the G7 Summit.",
+        "pubDate": "2026-06-16T16:55:31Z",
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
       },
       {
-        "title": "Suffragettes to Palestine Action: A history of direct-action protest in UK",
-        "link": "https://www.aljazeera.com/news/2026/6/16/suffragettes-to-palestine-action-a-history-of-direct-action-protest-in-uk?traffic_source=rss",
-        "description": "Analysts say Britain is responding to civil disobedience with unprecedented severity.",
-        "pubDate": "2026-06-16T12:07:04Z",
+        "title": "Qatar renews mediation efforts for regional stability after US-Iran deal",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/aje-onl-nf_qatar-renews-mediation-efforts-after-us-iran-deal-160626?traffic_source=rss",
+        "description": "Qatar says it is working to prevent a return to war, following the signing of the MoU between the US and Iran.",
+        "pubDate": "2026-06-16T16:51:19Z",
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
       },
       {
-        "title": "Messi, Argentina begin World Cup title defence against Algeria: All to know",
-        "link": "https://www.aljazeera.com/sports/2026/6/16/messi-argentina-begin-world-cup-title-defence-against-algeria-all-to-know?traffic_source=rss",
-        "description": "Superstar Lionel Messi is back for a sixth World Cup and leads Argentina into their group match debut against Algeria.",
-        "pubDate": "2026-06-16T11:43:43Z",
+        "title": "Post-apartheid South Africa: 50 years after Soweto riots, what has changed?",
+        "link": "https://www.aljazeera.com/news/2026/6/16/post-apartheid-south-africa-50-years-after-soweto-riots-what-has-changed?traffic_source=rss",
+        "description": "Black students braved bullets to protest the discriminatory apartheid-era education policies.",
+        "pubDate": "2026-06-16T16:45:31Z",
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
       },
       {
-        "title": "Trump tells Netanyahu to be ‘more responsible with respect to Lebanon’",
-        "link": "https://www.aljazeera.com/news/2026/6/16/trump-warns-all-hell-will-rain-down-if-iran-tries-to-get-a-nuclear-weapon?traffic_source=rss",
-        "description": "US president also made unusually critical comments about Israel's military offensive in Lebanon.",
-        "pubDate": "2026-06-16T11:41:29Z",
+        "title": "The overnight World Cup?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/the-overnight-world-cup?traffic_source=rss",
+        "description": "For fans outside North America, watching the FIFA World Cup live means late nights and early mornings.",
+        "pubDate": "2026-06-16T16:42:23Z",
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
       },
       {
-        "title": "G7 allies scramble to put Ukraine back atop Trump’s agenda as war drags on - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQckhNTFdNSlJ2WjJYeVBYUVd4RDhZRTV6Wk9IRHRIX3d2M19ZN1M1OEhPcWhmdnhqb1FtLUdQdkJjRmN5MkRTZG90Zk9tSDBRbC1SZmg1b3VNS01tYWJIQnJtTDRTbk0wR0ktUUJlQzFUbXpDX3g4R19YVDV3eHFFMmNaTjh4NHp2RXE5UmwwN2lYVlVuNW5WTnBSbXppc1E?oc=5",
+        "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
+        "link": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
+        "description": "BBC News understands the yacht had drifted towards the Admiral Grigorovich, a Russian frigate which has been operating in the Channel.",
+        "pubDate": "2026-06-16T16:38:55Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b77/live/208679c0-699a-11f1-9685-4f5a66750059.jpg",
+        "bias": 0
+      },
+      {
+        "title": "World Cup 2026: Day five",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/world-cup-2026-day-five?traffic_source=rss",
+        "description": "Al Jazeera’s Rahul Pathak has your FIFA World Cup 2026 day five recap.",
+        "pubDate": "2026-06-16T16:35:02Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions",
+        "link": "https://www.bbc.com/news/articles/cvgepl5gdp1o?at_medium=RSS&at_campaign=rss",
+        "description": "Many Lebanese remain doubtful that the agreement could finally mean the end of the fighting between Israel and Hezbollah.",
+        "pubDate": "2026-06-16T16:20:33Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16f0/live/d36dc9e0-6994-11f1-b1db-af71d47507d6.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Drones create the first-ever Fifa scoreboard in Seattle sky",
+        "link": "https://www.bbc.com/news/videos/ced4y9ljye9o?at_medium=RSS&at_campaign=rss",
+        "description": "BBC reporter Max Matza is in Seattle, Washington, where 400 drones lit up the night sky on Monday to display the score of the Egypt v Belgium match.",
+        "pubDate": "2026-06-16T16:20:04Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12cb/live/82656b70-699e-11f1-b1db-af71d47507d6.jpg",
+        "bias": 0
+      },
+      {
+        "title": "A taste of home, yerba mate is a shared bond for many World Cup fans - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM0dmcGk5dUE0WmhFd3pxV01raHhLWEtxNEdxcUgzalVkY0QxMGxnblZILVdPanFjSF93aGhiQjJsTFlhUXVjZDNqd3htakg1d0k0MFh5LXloZjZlMmQ4NDd0Zjl3Nk5EVnZIRDU5YnV2dk51NnNyZkRYT0ozUW10UXJWRUl4d1U?oc=5",
         "description": "",
-        "pubDate": "2026-06-16T11:38:00Z",
+        "pubDate": "2026-06-16T16:15:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Will a US-Iran deal unlock $300bn in investment fund for Tehran?",
-        "link": "https://www.aljazeera.com/news/2026/6/16/will-a-us-iran-deal-unlock-300bn-in-investment-fund-for-tehran?traffic_source=rss",
-        "description": "The Trump administration has been adamant the investment fund is not a payout for Iranian enriched uranium.",
-        "pubDate": "2026-06-16T11:30:08Z",
+        "title": "Aldon Smith's brain donated to CTE Center as family's attorneys investigate his death at age 36 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZHkxc28xTmc5QXU0TFIxZm90ZlR6VGZfa1g3dzE4dHhYQjVWY1kzbG5nTW5ob05OY3VRUzAzY0NMWXVnUVptVXFQN1N0QWdMZ3UzQUwxOTQ4MHMzeVNjXy1nQWt1X2EtMzNXTDc4SXNBX3RPT1dqWFQ5V1RSanNfd1pxZC1SWFRH?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T16:14:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "FBI thwarted plot targeting White House UFC event, Patel says",
+        "link": "https://www.bbc.com/news/articles/cqx10xlje1lo?at_medium=RSS&at_campaign=rss",
+        "description": "In newly unsealed court documents, the government alleges that the plan would have used drones.  The FBI boss says multiple suspects are in custody.",
+        "pubDate": "2026-06-16T16:11:17Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76bb/live/f3fbc9c0-6979-11f1-a63b-a7cb529e1ca8.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Nearly all children globally exposed to at least one climate hazard: Report",
+        "link": "https://www.aljazeera.com/news/2026/6/16/nearly-all-children-globally-exposed-to-at-least-one-climate-hazard-report?traffic_source=rss",
+        "description": "Report highlights the growing threats posed by climate change and calls for the green transition to be accelerated.",
+        "pubDate": "2026-06-16T16:08:58Z",
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Israel went to war with Iran, but Netanyahu may be the loser",
+        "link": "https://www.aljazeera.com/news/2026/6/16/israel-went-to-war-with-iran-netanyahu-may-be-loser?traffic_source=rss",
+        "description": "Critics say PM Benjamin Netanyahu's Iran war strengthened Tehran, strained US ties, and left Israel weaker.",
+        "pubDate": "2026-06-16T15:57:03Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Photo highlights from the G7 Summit of world leaders - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ1M1dDV1R3VaRlBuc3RZVm9OODMzVi1KTHlxaEFWRnZwd0VfR0poaS1TYnhBQV81dEU1NWtWMmx2RWw5SVY1Y1lRbkg2V3lLSHpPRFBJblJTdzNvbHdscTFidFF4Y1NfdzJDT3ExVFB2TnZHQ3lXdFFaeEwwbkQ0VzlvNjJCenFWOGdQanQ2em9aZTZyV3ExZGR3Yw?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T15:50:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "A Mexican citizen died in ICE custody. Now his family is demanding answers",
+        "link": "https://www.aljazeera.com/news/longform/2026/6/16/a-mexican-citizen-died-in-ice-custody-now-his-family-is-demanding-answers?traffic_source=rss",
+        "description": "Jose Guadalupe Ramos is one of 19 people who have died in ICE detention this year. Experts say he's part of a trend.",
+        "pubDate": "2026-06-16T15:45:59Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Optics of peace first, details later: The US-Iran 60-day challenge",
+        "link": "https://www.aljazeera.com/features/2026/6/16/optics-of-peace-first-details-later-the-us-iran-60-day-challenge?traffic_source=rss",
+        "description": "Negotiators have yet to hold talks on key issues that have plagued US-Iran diplomacy for decades, say analysts.",
+        "pubDate": "2026-06-16T15:39:55Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Ukrainian drone detonates near Moscow",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/ukrainian-drone-detonates-near-moscow?traffic_source=rss",
+        "description": "Footage shows the moment a Ukrainian drone hit a building under construction.",
+        "pubDate": "2026-06-16T15:34:58Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
+        "link": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss",
+        "description": "For many Iranians, the question is not whether the deal means victory, but whether it lowers prices and reduces fear of another war.",
+        "pubDate": "2026-06-16T15:31:24Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd69/live/fa1ab490-698f-11f1-bf78-b9ee73ed2967.jpg",
+        "bias": 0
+      },
+      {
+        "title": "France vs Senegal live: World Cup 2026",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/6/16/france-vs-senegal-live-world-cup-2026-group-i?traffic_source=rss",
+        "description": "Follow the build-up, analysis and live text commentary as France take on Senegal in a Group I clash in New Jersey.",
+        "pubDate": "2026-06-16T15:30:00Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "From JCPOA exit to the 2026 deal: How US-Iran ties soured under Trump",
+        "link": "https://www.aljazeera.com/news/2026/6/16/from-jcpoa-exit-to-the-2026-deal-how-us-iran-ties-soured-under-trump?traffic_source=rss",
+        "description": "Ties between the US and Iran have been strained through both of Donald Trump's terms as US president.",
+        "pubDate": "2026-06-16T15:21:32Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "With Israel unleashed, there can be no peace in the Middle East",
+        "link": "https://www.aljazeera.com/opinions/2026/6/16/with-israel-unleashed-there-can-be-no-peace-in-the-middle-east?traffic_source=rss",
+        "description": "The US has long extended unconditional support for Israeli aggression. Now, it struggles to rein it in.",
+        "pubDate": "2026-06-16T15:20:48Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Venezuela signs deal with US energy giant to rebuild power grid",
+        "link": "https://www.bbc.com/news/articles/c0jyzpv52yyo?at_medium=RSS&at_campaign=rss",
+        "description": "The deal with General Electric is the latest sign of co-operation between US firms and Venezuela's interim government.",
+        "pubDate": "2026-06-16T15:19:52Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/206d/live/4711bd90-6993-11f1-bf78-b9ee73ed2967.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Mixed emotions ahead of Haiti vs. Brazil for dually aligned fans headed to the World Cup game - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPblFSaW90ei1SYkFiUTd2MnEtQ0FQU0hWdDRrTTFtSS1tY3pfSnJHWExjdWRUblFMUnJfMlM0VEZWbC1aS05zYmEzb0toeEhrUU9vRXRoaG4xOXZQSjBVRmlGQl9NM3hWalU1ektCSUdhQXZUb0thVVdIZ2tPQmxGYzl1M3g0T2s5LUhTczNnNkowOEI2NWZwVVhR?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T15:11:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "FBI says it foiled ‘planned attacks’ targeting White House UFC event",
+        "link": "https://www.aljazeera.com/news/2026/6/16/fbi-says-it-foiled-planned-attacks-targeting-white-house-ufc-event?traffic_source=rss",
+        "description": "At least five people are in custody in an alleged plot that included 23 people, according to US media reports.",
+        "pubDate": "2026-06-16T14:57:15Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "France's oldest female detainee, 79, goes on trial for in-law's grisly murder",
+        "link": "https://www.bbc.com/news/articles/cy498llene1o?at_medium=RSS&at_campaign=rss",
+        "description": "A dismembered body found in a chain-bound trunk in the Seine in 1995 was only recently connected to the defendant by DNA evidence.",
+        "pubDate": "2026-06-16T14:46:35Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a49/live/29c3a640-6989-11f1-bf78-b9ee73ed2967.png",
+        "bias": 0
+      },
+      {
+        "title": "Somaliland opens Jerusalem embassy after Israel's recognition of its independence",
+        "link": "https://www.bbc.com/news/articles/cj4gn4d54y0o?at_medium=RSS&at_campaign=rss",
+        "description": "The move comes six months after Israel became the first country to recognise the breakaway East African state.",
+        "pubDate": "2026-06-16T14:34:39Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f4f/live/5af064b0-6975-11f1-a610-610c6ec6d3a5.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Gaza’s football fans follow World Cup matches despite hardships",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/gazas-football-fans-follow-world-cup-matches-despite-hardships?traffic_source=rss",
+        "description": "Gaza’s football fans follow World Cup matches despite hardships.",
+        "pubDate": "2026-06-16T14:31:03Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Hardliners and moderates: What do Iran’s factions think of deal with US?",
+        "link": "https://www.aljazeera.com/news/2026/6/16/hardliners-and-moderates-what-do-irans-factions-think-of-deal-with-us?traffic_source=rss",
+        "description": "Factional divisions in Iran remain as leaders debate the implementation of deal with the US, amid fears of capitulation.",
+        "pubDate": "2026-06-16T14:13:43Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Three reasons ships are not going through the Strait of Hormuz yet",
+        "link": "https://www.bbc.com/news/articles/cn4rw784nj2o?at_medium=RSS&at_campaign=rss",
+        "description": "Experts say that there are significant obstacles preventing  traffic from returning to the levels seen before the conflict began – security, mines and tolls.",
+        "pubDate": "2026-06-16T14:11:30Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/939d/live/e5acdee0-6983-11f1-b1db-af71d47507d6.png",
+        "bias": 0
+      },
+      {
+        "title": "Brazil police arrest bungee jumping operators after woman dies",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/brazil-police-arrest-bungee-jumping-operators-after-woman-dies?traffic_source=rss",
+        "description": "A woman in Brazil died after bungee jumping operators failed to attach her cord before a jump from a 40-metre bridge.",
+        "pubDate": "2026-06-16T14:11:24Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "‘Justice prevailed’: Is the Netherlands shifting its stance on Israel?",
+        "link": "https://www.aljazeera.com/news/2026/6/16/justice-prevailed-is-the-netherlands-shifting-its-stance-on-israel?traffic_source=rss",
+        "description": "A court case, a Eurovision boycott and Gaza polling prompt Dutch debate over Palestine and Israel ties.",
+        "pubDate": "2026-06-16T14:10:53Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "US visa rules leave Senegal’s World Cup fans behind",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/us-visa-rules-leave-senegals-world-cup-fans-behind?traffic_source=rss",
+        "description": "US visa rules leave Senegal’s World Cup fans behind",
+        "pubDate": "2026-06-16T14:10:35Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Republican Gov. Mike DeWine says Ohio should abolish the death penalty, saying it is not a deterrent - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWG51aWhkY1lWckh1TUVpQ2xNM2RvNGx1SzVXT0QydDRMUnlGdUJvcWlPUXRka0JCQk8wWkgtT0lJcnc3Vl8yUWZpUndMMGZITnV5SUdFM3hFVGVXQ3Jva2xVRzRWWVZVV3FFTHo5SU9Yajh3a2hLcmlGbi1nVm84QXpORmVyUUs3b3ZwdGdB?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T14:10:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Lebanese rush back to their devastated homes in south after US-Iran deal",
+        "link": "https://www.aljazeera.com/features/2026/6/16/lebanese-rush-back-to-their-devastated-homes-in-south-after-us-iran-deal?traffic_source=rss",
+        "description": "Thousands return to their homes following Iran-US deal despite Israel saying it won't end its occupation of Lebanon.",
+        "pubDate": "2026-06-16T13:56:37Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Iran coach says team ‘oppressed’ by travel chaos after World Cup NZ draw",
+        "link": "https://www.aljazeera.com/sports/2026/6/16/iran-coach-says-team-oppressed-by-travel-chaos-after-world-cup-nz-draw?traffic_source=rss",
+        "description": "Amir Ghalenoei made the comment after Iran were forced to leave the US for their Mexico base after their opening match.",
+        "pubDate": "2026-06-16T13:52:58Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "‘Mistrust’ leaves ebola patients receiving treatment too late",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/mistrust-leaves-ebola-patients-receiving-treatment-too-late?traffic_source=rss",
+        "description": "A growing sense of mistrust is hampering efforts to contain the Ebola outbreak in the Democratic Republic of the Congo.",
+        "pubDate": "2026-06-16T13:48:50Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Trump signals swift return of sanctions on Russian oil as G7 refocuses on Ukraine - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQckhNTFdNSlJ2WjJYeVBYUVd4RDhZRTV6Wk9IRHRIX3d2M19ZN1M1OEhPcWhmdnhqb1FtLUdQdkJjRmN5MkRTZG90Zk9tSDBRbC1SZmg1b3VNS01tYWJIQnJtTDRTbk0wR0ktUUJlQzFUbXpDX3g4R19YVDV3eHFFMmNaTjh4NHp2RXE5UmwwN2lYVlVuNW5WTnBSbXppc1E?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T13:48:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Why eat junk on a camping trip? Tips and recipes for nutritious food on the trail - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObUwwV2NzQTlnTnI2SEJVTC1lQ0MzaFV0bHN2S0o3LXJqYUZEVFVEVVBsNFZJcU42aFlRdzNZMHRWbnJZUGowZEgwdlNtTkRaX0RHd05sdzBtNy1YOHVEYjR5OUdYZm5UXzhoQ0RCbkZseVNaVGhTVVNBUlp6bm0tM0lsaWNfQURvTUtGYlhmX05HWGRw?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T13:40:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Israeli court rules to keep prominent Palestinian doctor in detention",
+        "link": "https://www.aljazeera.com/news/2026/6/16/israeli-court-rules-to-keep-prominent-palestinian-doctor-in-detention?traffic_source=rss",
+        "description": "The Palestinian doctor demanded his release last week after months of imprisonment and visible signs of torture.",
+        "pubDate": "2026-06-16T13:24:20Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Georgia Republicans are under Trump's shadow as they choose Senate and governor nominees - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYXFkMlZwMmwySzJEdXRxQ3Vwalp3ZXlrSzRqMTFGcU5iMFhFRzUzSlE5d29sUU5CNjczWDVodkpMNjNLVW1GemtIMHBPR1lwS3BOT0k0VkVUdkdKbVRmV2tRc1g0TENFaVBsQTNFX0ExVDZrdHR3emF2V0JuQ2hHS1pZZUZiY0YyY0h4eDFVV0xfWF9rWkcyb3R3bDlMaENnVzBxaUFwZlRQWHN1N3dZ?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T13:13:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "‘There’s divergence between US and Israeli objectives in the region’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/theres-divergence-between-us-and-israeli-objectives-in-the?traffic_source=rss",
+        "description": "‘There’s divergence between US and Israeli objectives in the region’",
+        "pubDate": "2026-06-16T13:09:16Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Geneva to host Iran-US deal event: What other pacts have been signed there?",
+        "link": "https://www.aljazeera.com/news/2026/6/16/geneva-to-host-iran-us-deal-event-what-other-pacts-have-been-signed-there?traffic_source=rss",
+        "description": "Geneva is widely recognised as the 'Peace Capital' of the world.",
+        "pubDate": "2026-06-16T13:05:44Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Swedish man jailed for four years for coercing wife into sex with 120 men",
+        "link": "https://www.bbc.com/news/articles/crlwxg721eeo?at_medium=RSS&at_campaign=rss",
+        "description": "The 61-year-old was found to have coerced his wife into sexual acts with men he found online in exchange for payment.",
+        "pubDate": "2026-06-16T12:46:03Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2212/live/a6860d70-34c9-11f1-b079-8d85ad9c406e.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Hungary's MPs block return of Orbán, limiting rule of PM to eight years",
+        "link": "https://www.bbc.com/news/articles/c621zplqrrno?at_medium=RSS&at_campaign=rss",
+        "description": "The vote fulfils a promise by new PM Péter Magyar to stop his predecessor from becoming prime minister again.",
+        "pubDate": "2026-06-16T12:42:15Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b138/live/13ff5dc0-697c-11f1-a63b-a7cb529e1ca8.jpg",
+        "bias": 0
       },
       {
         "title": "Cuba tourism collapses as US pressure campaign bites",
@@ -64,24 +623,6 @@
         "pubDate": "2026-06-16T11:16:59Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5724/live/1d7d1180-6972-11f1-8cc2-edef34f05c3f.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Trump says ‘hell will rain down’ if Iran gets nuclear weapons",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/trump-says-hell-will-rain-down-if-iran-gets-nuclear-weapons?traffic_source=rss",
-        "description": "Trump says ‘hell will rain down’ if Iran gets nuclear weapons",
-        "pubDate": "2026-06-16T11:12:17Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "A month-old pony moves to a 4th-floor apartment in Croatia. Neighbors don’t mind - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVFRQZmhWYzJpUDAtRzA0WElpTXdwWVYxYlRxTUdpSmNLNmVaTjRTTGwzNE83ZVBaVnllb1JOSVI5MWhUZFBNSm15aUpJT3BCbEd4OUtnVlFYaW4zSHB0SHBYY1Zma1QwdV9TQzJXMUlvMlpOQk5YSFZoTTJQZlRzblYxVDVvMkxKZWg0TVdjbVpaZnJRc1JGMXRtaFRZcWM?oc=5",
-        "description": "",
-        "pubDate": "2026-06-16T11:12:00Z",
-        "source": "news.google.com",
-        "image": "",
         "bias": 0
       },
       {
@@ -94,19 +635,19 @@
         "bias": 0
       },
       {
-        "title": "Qatar’s Emir hails Iran deal and touts US investments in Trump meeting",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/qatars-emir-hails-iran-deal-and-touts-us-investments-in-trump-meeting?traffic_source=rss",
-        "description": "Qatar’s Emir hails Iran deal and touts US investments in Trump meeting.",
-        "pubDate": "2026-06-16T10:57:16Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "How Israel could complicate Iran peace negotiations. And, World Cup highlights",
         "link": "https://www.npr.org/2026/06/16/g-s1-128341/up-first-newsletter-iran-israel-g7-primaries-luigi-mangione",
         "description": "Israel has been sidelined in the agreement between the U.S. and Iran. It could spoil peace negotiations. And, it's been a thrilling start to the World Cup.",
         "pubDate": "2026-06-16T10:53:19Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Israeli ambassador to U.S. says Israel is 'not going to withdraw from South Lebanon'",
+        "link": "https://www.npr.org/2026/06/16/nx-s1-5858937/israels-ambassador-to-the-u-s-talks-about-u-s-iran-deal-to-end-war",
+        "description": "NPR's Steve Inskeep asks Israel's ambassador to the U.S. Michael Leiter about the peace deal the Trump administration says it's made with Iran.",
+        "pubDate": "2026-06-16T10:41:29Z",
         "source": "npr.org",
         "image": "",
         "bias": -1
@@ -119,342 +660,270 @@
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/802d/live/a26f4a30-6962-11f1-9f4a-21531e88e991.jpg",
         "bias": 0
-      },
-      {
-        "title": "Australia warns El Nino weather pattern set to be strongest in decades",
-        "link": "https://www.aljazeera.com/news/2026/6/16/australia-warns-el-nino-weather-pattern-set-to-be-strongest-in-decades?traffic_source=rss",
-        "description": "Australia’s Bureau of Meteorology says forecasts have pointed towards a 'very strong El Nino event'.",
-        "pubDate": "2026-06-16T10:35:32Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "China offers staunch support to Myanmar president during his state visit",
-        "link": "https://www.aljazeera.com/news/2026/6/16/china-offers-staunch-support-to-myanmar-president-during-his-state-visit?traffic_source=rss",
-        "description": "The two countries sign 18 cooperation deals, including on free trade and assistance in the event of natural disasters.",
-        "pubDate": "2026-06-16T10:06:22Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Mixed emotions ahead of Haiti vs. Brazil for dually aligned fans headed to the World Cup game - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPblFSaW90ei1SYkFiUTd2MnEtQ0FQU0hWdDRrTTFtSS1tY3pfSnJHWExjdWRUblFMUnJfMlM0VEZWbC1aS05zYmEzb0toeEhrUU9vRXRoaG4xOXZQSjBVRmlGQl9NM3hWalU1ektCSUdhQXZUb0thVVdIZ2tPQmxGYzl1M3g0T2s5LUhTczNnNkowOEI2NWZwVVhR?oc=5",
-        "description": "",
-        "pubDate": "2026-06-16T10:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "World Cup: Can Senegal stun France again? Predictions, schedule on Day 6",
-        "link": "https://www.aljazeera.com/sports/2026/6/16/world-cup-can-senegal-stun-france-again-predictions-schedule-on-day-6?traffic_source=rss",
-        "description": "France take on Senegal in a repeat of their famous 2002 opener while Messi's Argentina face Algeria in Kansas City.",
-        "pubDate": "2026-06-16T09:39:06Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Watch: California wildfires rage near passing vehicles",
-        "link": "https://www.bbc.com/news/videos/cn8q909jld2o?at_medium=RSS&at_campaign=rss",
-        "description": "The fires in Riverside County cover over 2,000 acres, say authorities.",
-        "pubDate": "2026-06-16T09:30:13Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07d9/live/e691eab0-6962-11f1-9f4a-21531e88e991.jpg",
-        "bias": 0
-      },
-      {
-        "title": "8 people died in B-52 bomber crash at US Air Force base in Southern California, officials say - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOHZVck1vUEpZMGZGYmhkZHpDenhmeU5EdWpQcVUxeUZ2NE1Nb09NZlRlemhKU1JuNHo3VnEtWjhsUzZpZl9IMXg2VVFLdnY4SXNSREhtRmphenIwamgzcWV1SWM5WVU2UGtoY19PY3pBbENrbC1PQldhZ3I5bWJycGRnaVhqbUV3dWtaWXQ0Zkh6MnJtYWNueWkxUUNfYVF1eUVyLU9R?oc=5",
-        "description": "",
-        "pubDate": "2026-06-16T09:25:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "India temporarily bans Telegram over exam paper leak concerns",
-        "link": "https://www.bbc.com/news/articles/cn074j04l3eo?at_medium=RSS&at_campaign=rss",
-        "description": "The NEET exam had earlier been scrapped over allegations of a paper leak, sparking massive protests.",
-        "pubDate": "2026-06-16T09:23:06Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4759/live/948671f0-695d-11f1-b208-61bbe9701388.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Iran says Israeli occupation in Lebanon would breach US deal",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/iran-says-israeli-occupation-in-lebanon-would-breach-us-deal?traffic_source=rss",
-        "description": "Iran says any continued Israeli occupation in Lebanon would be a breach of the Memorandum of Understanding with the US.",
-        "pubDate": "2026-06-16T09:22:26Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "G7 leaders meet in France with Iran and Ukraine high on agenda",
-        "link": "https://www.aljazeera.com/news/2026/6/16/g7-leaders-meet-in-france-with-iran-and-ukraine-high-on-agenda?traffic_source=rss",
-        "description": "French President Emmanuel Macron said Tuesday’s lunch summit would focus on reopening the Strait of Hormuz.",
-        "pubDate": "2026-06-16T09:13:41Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Nigerian army frees widow of ex-general who died in captivity",
-        "link": "https://www.bbc.com/news/articles/cly720833z5o?at_medium=RSS&at_campaign=rss",
-        "description": "Maj Gen Rabe Abubakar and his wife Amina were abducted in north-west Nigeria at the end of last month.",
-        "pubDate": "2026-06-16T09:06:57Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76f0/live/883820c0-6961-11f1-8e1d-bbbb1017d210.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Iran fans react to team’s first World Cup match amid political schisms",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/iran-fans-react-to-teams-first-world-cup-match-amid-political-schisms?traffic_source=rss",
-        "description": "Iran fans react to team’s first World Cup match amid political schisms",
-        "pubDate": "2026-06-16T09:04:50Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "What to know about this week’s US primary elections",
-        "link": "https://www.aljazeera.com/news/2026/6/16/what-to-know-about-this-weeks-us-primary-elections?traffic_source=rss",
-        "description": "Primaries are set to take place in Alabama, California, Oklahoma, Georgia, and the capital, Washington, DC, on Tuesday.",
-        "pubDate": "2026-06-16T08:58:44Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "G7 leaders meet for first full day of summit Tuesday",
-        "link": "https://www.npr.org/2026/06/16/nx-s1-5859260/g7-leaders-meet-for-first-full-day-of-summit-tuesday",
-        "description": "President Trump meets with G7 leaders, as well as Ukrainian President Zelenskyy and the heads of Qatar and UAE, during the key summit's first full day.",
-        "pubDate": "2026-06-16T08:46:03Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Football fans celebrate the World Cup across continents and cultures",
-        "link": "https://www.aljazeera.com/gallery/2026/6/16/football-fans-celebrate-the-world-cup-across-continents-and-cultures?traffic_source=rss",
-        "description": "Fans in jerseys and painted faces gather to watch World Cup matches, celebrating unity and rivalry alike.",
-        "pubDate": "2026-06-16T08:43:00Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Former CAR president on trial in absentia over crimes against humanity",
-        "link": "https://www.aljazeera.com/news/2026/6/16/former-car-president-on-trial-in-absentia-over-crimes-against-humanity?traffic_source=rss",
-        "description": "The alleged crimes committed by Bozize's security forces include murder, enforced disappearance, torture and rape.",
-        "pubDate": "2026-06-16T08:40:02Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Eight people killed in US Air Force B-52 bomber crash: What we know",
-        "link": "https://www.aljazeera.com/news/2026/6/16/us-b-52-bomber-crashes-in-california-what-we-know?traffic_source=rss",
-        "description": "The aircraft, one of the US Air Force's longest-used bombers, goes down during a routine test mission.",
-        "pubDate": "2026-06-16T08:32:45Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Japan raises interest rate to highest for 31 years",
-        "link": "https://www.bbc.com/news/articles/cjdgl213dpzo?at_medium=RSS&at_campaign=rss",
-        "description": "The Bank of Japan has been raising rates from near-zero since 2024.",
-        "pubDate": "2026-06-16T08:26:30Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a76/live/d7e33c30-6872-11f1-8d7f-231b457c3604.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Palestine weekly wrap: World sanctions settlers, Israel funds settlements",
-        "link": "https://www.aljazeera.com/news/2026/6/16/palestine-weekly-wrap-world-sanctions-settlers-israel-funds-settlements?traffic_source=rss",
-        "description": "Amnesty calls West Bank ethnic cleansing 'state-sponsored' and international allies bar Finance Minister Smotrich.",
-        "pubDate": "2026-06-16T08:23:25Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-        "description": "",
-        "pubDate": "2026-06-16T08:22:18Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Israel uses ‘battlefield evidence’ to prosecute Palestinians abroad",
-        "link": "https://www.aljazeera.com/news/2026/6/16/israel-uses-battlefield-evidence-to-prosecute-palestinians-abroad?traffic_source=rss",
-        "description": "Palestinian activists are being put on trial in Europe for supporting Hamas on the basis of Israeli evidence.",
-        "pubDate": "2026-06-16T08:19:15Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "‘My voice is being heard’: A month of India’s Cockroach Janta Party",
-        "link": "https://www.aljazeera.com/news/2026/6/16/my-voice-is-being-heard-a-month-of-indias-cockroach-janta-party?traffic_source=rss",
-        "description": "Satirical party launches nationwide Gen Z protest to demand federal education minister's removal over exam paper leaks.",
-        "pubDate": "2026-06-16T08:13:39Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Iran war day 109: Tehran, Washington, sign MoU electronically",
-        "link": "https://www.aljazeera.com/news/2026/6/16/iran-war-day-109-tehran-washington-sign-mou-electronically?traffic_source=rss",
-        "description": "Iran’s National Security Council said on Monday that the deal ends fighting on all fronts, including in Lebanon.",
-        "pubDate": "2026-06-16T08:08:11Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Japan’s central bank raises interest rates to highest level since 1995",
-        "link": "https://www.aljazeera.com/economy/2026/6/16/japans-central-bank-raises-interest-rates-to-highest-level-since-1995?traffic_source=rss",
-        "description": "Bank of Japan hikes benchmark rate to 1 percent, continuing shift away from decades of ultra-low borrowing costs.",
-        "pubDate": "2026-06-16T07:49:41Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "China Shock 2.0: Surging Chinese exports threaten Europe's economy, raising concern at G7 summit - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSDk3Z3JNajhvNEFlUk9wRnlEdzBmWWYzRmJsamZ2aDdUUldQeDU5WFVyN0dZbzBPb0FIZGdackc3dVQxRFVId1dTWXp2Z0txcWVRNEJuOFZLX1NfNWFhZWk0aEtPV3JJSWJhN2hlZjVLejZPbC1LcWpOWGphY3ZWdDdoQnExZVUtRkc3NGdBcjJQeEhXb3J3ZGpYbUJuTDY2Wk5V?oc=5",
-        "description": "",
-        "pubDate": "2026-06-16T07:28:58Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "'Dancing girl's' bare torso restored in Indian textbook after backlash",
-        "link": "https://www.bbc.com/news/articles/c7vyzgl2142o?at_medium=RSS&at_campaign=rss",
-        "description": "A picture in a new school textbook had covered up the naked torso of the famous figurine with dark shading.",
-        "pubDate": "2026-06-16T07:05:54Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4be3/live/3aa49d90-6946-11f1-b8da-53bba3cad46c.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Fit to be tied: The big upsets at the World Cup so far have been matches ending at 0-0, 1-1 and 2-2 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRVFIVmcyc1QtN1FlaEhXa2puWkpHY1RqLVlNMFltdEMxVHh5ZGkwQTRURktWZFF1OWU3alYycjBpSThFYU1UTzMwVmY4UlMyNUVZZjBzNGZFY19pZTFra25UVjNNVHRSN1hIS2pzTk5mejJLYmxjTFJ6MlRvZGdkU3FXTmlnWFkyZjdKejlwWC0zaGRSalE?oc=5",
-        "description": "",
-        "pubDate": "2026-06-16T07:01:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Venezuela signs power deal with US energy giant",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/venezuela-signs-power-deal-with-us-energy-giant?traffic_source=rss",
-        "description": "Venezuela has signed an agreement with General Electric Vernova aimed at boosting electricity generation",
-        "pubDate": "2026-06-16T06:53:24Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Tunisia sack head coach just one game into World Cup",
-        "link": "https://www.bbc.com/sport/football/articles/cp8rldpky7wo?at_medium=RSS&at_campaign=rss",
-        "description": "Tunisia sack Sabri Lamouchi one game into their World Cup, with former Morocco and Saudi Arabia manager Herve Renard replacing him.",
-        "pubDate": "2026-06-16T06:43:19Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e22/live/ff8e8a90-695e-11f1-8546-8f19e4fe30f4.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Football upstages politics as Iranians rally behind their team at World Cup",
-        "link": "https://www.aljazeera.com/news/2026/6/16/football-upstages-politics-as-iranians-rally-behind-their-team-at-world-cup?traffic_source=rss",
-        "description": "In opener against New Zealand in Los Angeles, Iran's Team Melli gets cheers from thousands of anti-regime supporters.",
-        "pubDate": "2026-06-16T06:37:22Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "G7 allies scramble to put Ukraine back atop Trump's agenda as war drags on",
-        "link": "https://www.npr.org/2026/06/16/g-s1-128325/g7-leaders-summit",
-        "description": "U.S. allies at the Group of Seven summit are pushing the war in Ukraine back on President Donald Trump's agenda. The Iran conflict has recently overshadowed the war in Ukraine.",
-        "pubDate": "2026-06-16T05:37:59Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Utah canyon BASE jump kills 2, including daredevil athlete who performed with Madonna - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZVZzd1MxZGlwRi1yTGw5cmJzTjhXazFqNUhLc3pvVVR5NVVmYXg5blRXaGczZngyd0p6SDhhdkZKUnp0SHUwRVRkYUo1YUxpTmZWSzVsVDZRUi1uMTZ2ZnFJcmYwdXlHNnJycW82em1VZnpMR2tkdWdIM0hVWGVnTFhmS29WdW1idy15d3g2bDJMckx0Sy1r?oc=5",
-        "description": "",
-        "pubDate": "2026-06-16T05:28:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Iran coach says team ordered out of US right after 2-2 draw with New Zealand in World Cup opener - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORWd3Tm4yc1JYbjNQT0RFM3dxLXRGUjFyazJaa1FaTTA3dnZibXVKNWxlODBzNFF6YjlLXzNYR05HQW1nSjBJM2tUT1ZEOGNSLVBzbUs5WDh6cWI4eG9RczVkVVYwaG9GLUZXZElES013WkxDMzJZZjdfUk5ldHBONjVJWUxrUEV5cXQwdnJESk9YV1JNb0JN?oc=5",
-        "description": "",
-        "pubDate": "2026-06-16T05:07:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "As Iran chases the World Cup, its US diaspora is divided between protesting and cheering - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRFhnM0dBbExwd2Z5dlM2NzNySzdVNEFmcC1xWE5XWDd0TWxxejBpS3NEYUJNRC11SWRHZW50cTMwMmxPY1FGLUlHMzdlQ2h1YTZkSGhBb1hVSnJuSUZrRGhfSHJiR3NyZV8yUUNnZHZpcXZQR3QxWlRsZ054alBadHRPOFJfVWpjTVE?oc=5",
-        "description": "",
-        "pubDate": "2026-06-16T04:57:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "UK seizes Russian ‘shadow fleet’ tanker – what that means",
-        "link": "https://www.aljazeera.com/news/2026/6/16/uk-seizes-russian-shadow-fleet-tanker-what-that-means?traffic_source=rss",
-        "description": "UK's Royal Marines conduct first-of-its-kind operation in the English Channel, causing other tankers to turn around.",
-        "pubDate": "2026-06-16T04:54:06Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Scaloni: 'The whole planet' awaits Messi's 200th cap as Argentina opens World Cup against Algeria - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS01oTmx2VTczT2FhU29idWl2RG1VakRvOWY2dS1QZU1BdGNaM2hoQW9MWklPUEZNWGQtMFEzTThmN0dZMkRGTzRxNU1vc0NvT0hYc090eWJTbVpYZGNFSlcwYk9Ea2dQZmZCbHlIaGljSnEzcDBhTmFCRE5vN3IySnJBZVNxeXFieFVNVmkyek45Z2h5U2hV?oc=5",
-        "description": "",
-        "pubDate": "2026-06-16T04:31:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "World Cup official says twitch caused gesture resembling supremacist sign; FIFA says no breach - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdzNLSHRsSmlKdHNUa1E1ZkJLQ0F3emNMRGxzQWF5YWViT2xvNlpPVkFVb2kzVWZpTWI5cnF3NXdKdHlKemhfNGVnZVVfZDZlR1dNUklLWjVxZHlyQ0hhNHZQbzRCYUZzT2Y1MUpMd0lQc3YtTm11VUF0S29VdUZKZW41emtUTEIzMXowNjFLekFCVkdHSUV3STJCM1RFUQ?oc=5",
-        "description": "",
-        "pubDate": "2026-06-16T04:28:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Iranian-Americans protest against Iran team at World Cup",
-        "link": "https://www.bbc.com/news/videos/cm20yglrgjlo?at_medium=RSS&at_campaign=rss",
-        "description": "The BBC’s Shaimaa Khalil was outside the Iran v New Zealand opening round match as protesters called for an end to Tehran’s clerical regime.",
-        "pubDate": "2026-06-16T04:25:59Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87b4/live/7790f100-694a-11f1-8e1d-bbbb1017d210.jpg",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "UK forces face operational cuts without more cash, defence chief warns",
+        "link": "https://www.bbc.com/news/articles/c20ydx06ym2o?at_medium=RSS&at_campaign=rss",
+        "description": "It comes as ex-defence secretary John Healey says the UK's enemies \"do not follow timetables set by the Treasury\".",
+        "pubDate": "2026-06-16T17:09:36Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa3e/live/1b787b00-698a-11f1-8e1d-bbbb1017d210.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Sean Penn to direct Warner Bros. movie about a police officer at the Jan. 6 Capitol riot - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcDJzX3NheWQzTzF5dlFaNlk5UWNIS0lUZkJWVHQwaG1vNkVrTFBVa0VuLUNqRGQ5MWhDX25FY3pBN3N0UFpoUG04MVh6d2ppbW9VeXh3ZWp2NFBtY3gwYmljaEVZd1ZDZmIwWm54V0RRdXYzQVc5OFZiY2V4NmQyeHRXSVpZa1Q4?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T16:47:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Higher prices for gas, groceries and flights will likely outlast the Iran war - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTzVEbExkLXpzSUdlRjNRbDhibmFKVC1BUXZKdGhBOERzaVVBSlBlMU9pT19WOUtTcnR0TmxtRGlCNzZSZWpWcDNqN2tNZE1fSkFXd1FwTzNVQWNPUlBqRUM2bktnNmc0NWllMEJqSXlBbFFKTzNtODBFZnhkUUJrUTJjMFVWUDV6djIxNXF5R3l5VUMzNzJ6ZGYtcFdkZDZVM2JxeQ?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T16:40:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Russian warship fires warning shots near UK-registered yacht in Channel",
+        "link": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
+        "description": "BBC News understands the yacht had drifted towards the Admiral Grigorovich, a Russian frigate which has been operating in the Channel.",
+        "pubDate": "2026-06-16T16:38:55Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b77/live/208679c0-699a-11f1-9685-4f5a66750059.jpg",
+        "bias": 0
+      },
+      {
+        "title": "FBI disrupts a planned attack on the White House UFC cage-fighting show, court papers say - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTWRZLXlqODloZDZHV1JmWWtqZDB2X2hLZm10ZTZWWGZiMC1WOHJRNllmb0tIMGc1aHpoczMxd1djamRHMm90UWNZek1FckpaZnpZeHdHWllOSElLRktHcjg3MC1TTmF1WmRNUGEybG9WaFZFZ0l4MGJIaDZUdWtEcFhsT3lOTW9LUXpSQ19n?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T16:38:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "UK will play full part in reopening Strait of Hormuz, Starmer says",
+        "link": "https://www.bbc.com/news/articles/cvgj1g6e5d3o?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister says the UK is working with other countries on a plan to protect vessels in the key waterway.",
+        "pubDate": "2026-06-16T16:23:02Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2447/live/53938ec0-6977-11f1-8e1d-bbbb1017d210.png",
+        "bias": 0
+      },
+      {
+        "title": "Iran says the deal to end the war with the US requires Israel to withdraw from Lebanon - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMU9UVU0xalpEMWRiaWd2TmRycmtVR0x4aXhhOUFEaTZpbzFRY3l0YzRqb0NxcVZDa2NDX3NscUJfeDNrbkh0bXA4OXNtaEFCU0t0X0w3Q2lfMDNlWUY2SDhDMnRrTVdVUENVQnNmWXRqZ0sydXBVVmU3aEExX3NKOEdaUFo5b0FFWUZTRl9Ia09QQy1IUlBpNW5FaUVUd1lKajRnXy1B?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T16:21:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "McDonald’s is serving fried apple pie again for America’s 250th birthday - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTHg2am03TDZ5MWxsS3lkbzRtY2NGSW9RMVRUajh2SUlyR21ISk90LUtleDhKMU1YWENhT1FLclNHSDdQVnJrUUVQUGZmU3B2eGdYa1p5YzFPR1Iyc05MMktKZ01BXy1zNUZsdVItOEw4dW5VQnpIX1h0NG5NN1AyM3FWTVRVV2Y2QWxZbWZEUjVxQmNMeWxoRlp1WFdTQQ?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T16:17:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Pizza Hut, overtaken by the arrival of delivery culture, will be sold for $2.7 billion - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONTRNMXRaX2RhWnlHUUM1ZWNrWFFtRUFlZ1luSHM1RVdTeFFfRk13M0djSmJqcTQ2WklreTJNbUVfSlJpdmlLSk95ZGpMbVlFanljeFotbnhzTTgzbkc0SDZWbDZRUjEtMXc2M0VVaS1SakIwT25vaVluN0J6eGtWU0FJemhCU00?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T16:01:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "UK military investigates report that Russian warship fired warning shots at yacht in the Channel - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTG9Ob0pzMjliVEhaUmdSaDJDaGx1dS0wb1gtNzdFMGZhU0djM1VHNEhobjd1UUZoWDRub3R3TFVyX2I2bGFvRjhWNGgzRUxaaHZFa1NQcGQyb04wOFdySWdHT2xGWVIyUS10LXZDMGg2X3V6d2hobGg0THI1YkVLMy1UM1N6MHB5RE8zNVVTV3E3TjlCZzNDMG5RR042ODlNZHpheGdUM0lIZ2hNOHA1TA?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T16:01:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Oil prices fall back to $80 per barrel, while US stocks drift - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS3RrandZeW9uNEJna2RmSTh1LUNZR0R6bjdLOS1ZeEJsQTY1ckdBR3pVOHVPX3pmNHBOTU9JZC1IZ1k3cHBVa251UUpOQlItTW9pajVlOUlPNVhkSk0zc0RqaVIyems0VUxjM2RTb3lnUFE1WDRtMTZzUnY2TjRWby12clVTNlh6VWEyekZwZ2tvQQ?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T15:56:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Luke’s ‘Empire’ lightsaber, ‘Wizard of Oz’ witch hat and Lebowski rugs going up for auction - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOVlndFRYNkhKOV9tdkdkZEtrQWM0cmRZMkEyMnFCTXRJOERnZ3RWeXZrLUVvVFluS0lnS2tkSlB0VkpialdlOUpjYVpvV3B3bHpsVWtsVDdoTjF4a2szTkxlZ0wtUWUtUHFhNnJHcmJBNXRRSGVyazlSeFdUa2M3MWZQb2JhMWFiWkhRVjhhZllZcU5RZXczOFB3TlNTYWZoVl8zOQ?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T15:55:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Row over potential cull of Dartmoor hill ponies",
+        "link": "https://www.bbc.com/news/articles/cgjxlvp58zgo?at_medium=RSS&at_campaign=rss",
+        "description": "Campaigners say requirements to cut livestock grazing could lead to a 90% cull of its hill ponies.",
+        "pubDate": "2026-06-16T15:52:22Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5de9/live/a633acc0-6984-11f1-ac49-cbb0d85207cb.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Nvidia’s Huang pledges AI will boost manufacturing jobs. A test will come in Texas - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV29DNFB5S19MZXh2Y3l6Ry1vVmM3Z3hwdm1nSFlBRDFobmNjSVRORzloTU94SmNjTmpPTk1KNFpYNmhIWjFfcVhCZlg2X2pNb0NYXzV5bFhOdGd0VEM1S0p1VzhId29vTkhER3lnRm9pSXduQkh2VjJxY2h2eFoza0ZzNG9EOEpubWpuRWlhcEFETndvOFUtMkFkTUZYS3k0a0g3cmtxZFo?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T15:51:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "What to know about Edwards Air Force Base in Southern California’s Mojave Desert - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTjF5ZmU3bHJ6RXM3YTJEbnEyM3l0RzJYeW5CWkpBOG84Y0NfYXFUSWo0R3Rnam5wN2tudmt2c2ZWNW43RDFSbHRqcEdkUGpmN0tXMm1ISDRWeThsZHRRTVlKOTJiSkRVMTdHMlBxVk5oS3dPcXR0MjlZSmVSY0ZndGV3YUp1UldfcnJjVDl1YmZmN25Ra0F2VXlzRlA2bkJEM2JnSmZlSTI?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T15:51:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Streeting warns against 'expensive' Labour leadership pledges",
+        "link": "https://www.bbc.com/news/articles/c4gyeg2207yo?at_medium=RSS&at_campaign=rss",
+        "description": "The ex-health secretary says he would not make campaign promises that he would have to later reverse.",
+        "pubDate": "2026-06-16T15:47:46Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2339/live/1a065a20-699a-11f1-9685-4f5a66750059.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Washington, DC, voters cast ballots in crucial primaries as Trump reshapes the capital - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMkxEeVJZV0dpamY4cFVELWZ4MGljQUFnZFYzRjc0UERxTDRKakh6cllrRzk3SXB3cjg5VWZ6YXB1ODdmZ0MtQW1lendSTllNZDNGb21HZVYxbjJHTGNmUy1KMEdlTk5DcVRmanVzY25vX0VnYy04Vjh2RlhyamNoWUx2OE80SlhaNTl2akpzZm12UWhWSUpNODhZNk1uSGVMcGlaX2JR?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T15:23:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Labour activist admits vote rigging offence",
+        "link": "https://www.bbc.com/news/articles/c4gy2rx2k71o?at_medium=RSS&at_campaign=rss",
+        "description": "Gabriel Leroy, a former councillor in Southend, pleaded guilty to conspiracy to commit an offence under the Criminal Law Act and the Computer Misuse Act.",
+        "pubDate": "2026-06-16T15:20:14Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca41/live/c564d160-698d-11f1-bf78-b9ee73ed2967.jpg",
+        "bias": 0
+      },
+      {
+        "title": "A 6.7 magnitude earthquake shakes part of Indonesia, causing damage and injuries - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY0xINkRvQUN3S01IekR6a3B2RllLdjRKUWhrQmdPQWNDV01zWTNocmNVcGw0dUtzbkhOSnNXR3F6ZTA5b3dCTFRIT1FsSUNxZ18wWFB4SGlMSU9saFlmM2QwVWlmVFFhZTRZS3BFTi1DRmRNMnhNd3dyOXpyTU1MY0ZwLUN4Rmg4dWNhd3J2TG1EZEdla2xQM1ZR?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T15:14:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "MLB issues warning after Giants' Roupp, 2 other pitchers add Bible verses to their Pride Night caps - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVjF3VVdpTHdOTFcteFlsNzdYWlN3WU5oZ196Sng5UVp0VExXMWhKNEx4TEEwZC1yNndsTnBHX1FSY2ZKU2JzNWNsVl93bVNFeG9sMGhmSHdXVjFmV2RFOWVkT3lld3RVV1V6TThLNGM0U3VqbENqdDlvelB6TVoyb3NrS2F3LVE0QVBlSzNWOEs?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T14:53:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "‘Obsession’ is a sensation. Everyone, including Curry Barker, is trying to figure out what it means - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVVFDdGpUY3pmd1owdFZGZXplcml3d2hjdkNMWEJiRF81OTlMUzMxRlQ4QmNsTWFqZlc4MzBHNVZXbUo4Ry1MbGsycm1Cd2R1RDJRRkw2ZmZ1SXpyblpxSDh3MUl6UkZ5ekRjWGx5RUFTa2N0eF84a2NLQ01nSHdsaWFhMjYyUm5Ya3p5cTQxMENVOUNl?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T14:41:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Judge who had sex in courthouse and attended political event agrees to exit Georgia election case - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUkFkX3V5cUF0UXVGT2RzMU5JQWU1bWtCMFdtWm1XOFRJSGFiSmlKeFl6a0V5RElEejItR0N6VlM2R3E4ZXAzUi1tcEJCZDU2WkdkUFVpUzZGRlNSZTZKRUxIRFlrQjJXZXA2cklDN240VUhaWmg5UzFJRkl1SHhaS1lZdUo2QjltbGpRNm5OOTRldko3bk5SRV9LWDR0MTBTcy1oUXlud29KT2hnMmRXT1lQVQ?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T14:38:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Former NHL player Kyle Calder dies at 47 after an illness - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQai1GYXpOTjFaUG9md19Nd0NjMzVKZ2hkTUVkMHQycjQ5ZzFfckJnZzl3Vk02cGpfWGY5Z3F1TmxaU1ZwNzNmUzEyMXFYSFV4QVBYcVRWd1RXM25kUV9CQkVsUXNNX0tEOGR3MmxoT1I5X1hPUjJ4Ni1IWG5iUGJlTVd3?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T14:34:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Sorsby won't play for Texas Tech after unprecedented legal fight over his eligibility for gambling - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMFZ3Wi10T0dWLWc5RnpmVno4OFFQM2FyV0xJQzg5SHlfaHFaRnBybGVIYVlqaU5kNW0wZkE1eDZzX1JSRVM3QnN3M01PX0xLZ2JYZ0Jhc0lOOC1WR3g2SnN2eWZ3RlJnempCcXZUbldWalZqOW1nS3BNSmo4XzFDdFJSakRsbUtoNjZSYVRIcw?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T13:47:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "5 tomato superstars for a mouthwatering summer harvest - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV2hqZzZra2FDZW5sR1o4S3dlOHNHNVlnUUdSMUVMOWoxbGJkTHR1OXNtQ2dyMHlXR3ZpbFVpdUZmM3p5d09CcTR0OUtuc2hxZlBEVzVNaW5JMVN1MVpyVDU0ZWt0Y3VzLUhkemUyTGh5bGhRV1hWSFZuYjBpNXFYMkxmTkVKNmtCRWN6bm9uWmpPQUtMZ0E?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T13:37:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Watch: Defence spending plans fall well short, says Healey",
+        "link": "https://www.bbc.com/news/videos/cddle7nnp88o?at_medium=RSS&at_campaign=rss",
+        "description": "The ex-defence secretary repeats his call for more funding in a Commons speech following his resignation.",
+        "pubDate": "2026-06-16T13:36:35Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3317/live/016a8bd0-6986-11f1-8e1d-bbbb1017d210.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Track UK's latest migration numbers - net migration, visas, asylum and small boats",
+        "link": "https://www.bbc.com/news/articles/c70989jrdweo?at_medium=RSS&at_campaign=rss",
+        "description": "Use our interactive tracker to explore the latest migration statistics for the UK",
+        "pubDate": "2026-06-16T13:35:18Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a530/live/da608860-cb5a-11f0-a892-01d657345866.png",
+        "bias": 0
+      },
+      {
+        "title": "Can $100 million overcome a Trump endorsement? What to watch in Tuesday’s elections - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSlpyQm0wak9aRTBneGxLekpfUmY5VGZ4Zzk3OHpFeVhvR1pvMC0tdGZvU2c4Nk56bVNBMzhISkZjVjBtUVJzMHBZMW5pZjE2dlc4TldjejR5bzMtbUdWV3VzNzgzMVE3ZUZJU2xNVHN4eDJ2VEE3c0NXUkV5YXlpUzFZS05KZ0R5RlRXV3YyZVhpZHFjWUItTzRlRmZzUjl1b3lhNTlRT2M?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T12:56:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Singer Bonnie Tyler out of coma but in intensive care after emergency surgery - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZHNrR1hZMmtXTlBsQml4dW5nWWtUa0dHVXNFcmZoUHN0UXplT0QxT0VPRUUza3Z3S1ZFaFF3OTkzOFJ4d0RLOGItcXh0RUtRTXFBNU9GWVJQelVKeEdmNU90VWJfUHlHVFV6YlhPVnlpbkpRMXJMV285b1lENWFidzhXU2NWZUQ4WGpVMDlOR2pVbXVuaU9zcTRtOUZ0NGVJRXlTbXA2TUwzTXM?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T12:54:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Thames Water moves step closer to nationalisation after government objects to rescue deal",
         "link": "https://www.bbc.com/news/articles/cly089d0wl7o?at_medium=RSS&at_campaign=rss",
@@ -465,55 +934,46 @@
         "bias": 0
       },
       {
-        "title": "UK will play full part in reopening Strait of Hormuz, Starmer says",
-        "link": "https://www.bbc.com/news/articles/cvgj1g6e5d3o?at_medium=RSS&at_campaign=rss",
-        "description": "The prime minister says the UK is working with other countries on a plan to protect vessels in the key waterway.",
-        "pubDate": "2026-06-16T12:19:21Z",
+        "title": "Authorities say at least 9 dead, 25 hurt after a train and bus collide in Zimbabwe - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU3ZmU0dQNGdoSTJUaHVVWFMtN21zemdINjdySEpvQzNaS1N6MEhTY2U0Nldxclc0TllLRXdjZnYtbHdTeHhvYmtpa3FTNzcwdnd6STRzcldMbmJGLU5Wd3NpbElOWm9NSGxFZmcyNzZhczhLMXJobFNTT0EyUF9iQ2xfQ1NQYlU1VWVaU2J2OEZBbm16SG9uOUNfYmNXQWxfOEpkbDJudw?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T12:14:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "A month-old pony moves to a 4th-floor apartment in Croatia. Neighbors don’t mind - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVFRQZmhWYzJpUDAtRzA0WElpTXdwWVYxYlRxTUdpSmNLNmVaTjRTTGwzNE83ZVBaVnllb1JOSVI5MWhUZFBNSm15aUpJT3BCbEd4OUtnVlFYaW4zSHB0SHBYY1Zma1QwdV9TQzJXMUlvMlpOQk5YSFZoTTJQZlRzblYxVDVvMkxKZWg0TVdjbVpaZnJRc1JGMXRtaFRZcWM?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T11:12:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Starmer pleased 'justice has been done' after arson attacks",
+        "link": "https://www.bbc.com/news/articles/cgjx5qw75v8o?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister said he was \"very pleased for my family's sake\" that two men had been convicted of the 2025 arson attacks.",
+        "pubDate": "2026-06-16T10:50:21Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2447/live/53938ec0-6977-11f1-8e1d-bbbb1017d210.png",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5efa/live/96c12740-697f-11f1-8e1d-bbbb1017d210.jpg",
         "bias": 0
       },
       {
-        "title": "Iran says the deal to end the war with the US requires Israel to withdraw from Lebanon - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMU9UVU0xalpEMWRiaWd2TmRycmtVR0x4aXhhOUFEaTZpbzFRY3l0YzRqb0NxcVZDa2NDX3NscUJfeDNrbkh0bXA4OXNtaEFCU0t0X0w3Q2lfMDNlWUY2SDhDMnRrTVdVUENVQnNmWXRqZ0sydXBVVmU3aEExX3NKOEdaUFo5b0FFWUZTRl9Ia09QQy1IUlBpNW5FaUVUd1lKajRnXy1B?oc=5",
+        "title": "Solar cold storage helps African farmers cut losses and reach global markets - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUS1xeTlTWVRObVRzU2NRcjU1RzlPN0FHb2pwcUd4SjFuQm90MzBvYVVRYXJqRi10ZjZDTVp1NzlqenN1T0NzQW0zcXgzSGR4UGNWTDRMRGlOTEo4YV9hVVpQNmRXZ0xpSjJxa2xJUElvTUQ1YWtaNDVqdHV3NVVuRF9CQlZVTVlIcE16NDVkdkstY2o5Z1oxMWQ5OXRJZw?oc=5",
         "description": "",
-        "pubDate": "2026-06-16T10:57:00Z",
+        "pubDate": "2026-06-16T10:50:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Photo highlights from the G7 Summit of world leaders - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ1M1dDV1R3VaRlBuc3RZVm9OODMzVi1KTHlxaEFWRnZwd0VfR0poaS1TYnhBQV81dEU1NWtWMmx2RWw5SVY1Y1lRbkg2V3lLSHpPRFBJblJTdzNvbHdscTFidFF4Y1NfdzJDT3ExVFB2TnZHQ3lXdFFaeEwwbkQ0VzlvNjJCenFWOGdQanQ2em9aZTZyV3ExZGR3Yw?oc=5",
+        "title": "Bank of Japan raises its key interest rate to a three-decade high of 1%, citing inflation - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbHNSZXhfNnZtZDR0ZmJmNlJmRmZNZGVxazZWMTR2R0Zjc1JGdFRGRk5DNll2NDR0SzFGdGFYVXptazd3cTNPam92NHdtOHJvSEpoeEdlbXNGcHhITy1CZkpqTTBRZVR0bUpLLTI3WFZEVTdnZ0g5U3piblZrQU9fSUFvdkNPdjZQdGtGOGFfWTdkTEhINjVGOGVMcw?oc=5",
         "description": "",
-        "pubDate": "2026-06-16T10:21:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Luke’s ‘Empire’ light saber, ‘Wizard of Oz’ witch hat and Lebowski rugs going up for auction - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOVlndFRYNkhKOV9tdkdkZEtrQWM0cmRZMkEyMnFCTXRJOERnZ3RWeXZrLUVvVFluS0lnS2tkSlB0VkpialdlOUpjYVpvV3B3bHpsVWtsVDdoTjF4a2szTkxlZ0wtUWUtUHFhNnJHcmJBNXRRSGVyazlSeFdUa2M3MWZQb2JhMWFiWkhRVjhhZllZcU5RZXczOFB3TlNTYWZoVl8zOQ?oc=5",
-        "description": "",
-        "pubDate": "2026-06-16T10:06:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "6.7-magnitude earthquake shakes part of Indonesia, causing damage and injuries - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY0xINkRvQUN3S01IekR6a3B2RllLdjRKUWhrQmdPQWNDV01zWTNocmNVcGw0dUtzbkhOSnNXR3F6ZTA5b3dCTFRIT1FsSUNxZ18wWFB4SGlMSU9saFlmM2QwVWlmVFFhZTRZS3BFTi1DRmRNMnhNd3dyOXpyTU1MY0ZwLUN4Rmg4dWNhd3J2TG1EZEdla2xQM1ZR?oc=5",
-        "description": "",
-        "pubDate": "2026-06-16T09:40:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Higher prices for gas, groceries and flights will likely outlast the Iran war - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTzVEbExkLXpzSUdlRjNRbDhibmFKVC1BUXZKdGhBOERzaVVBSlBlMU9pT19WOUtTcnR0TmxtRGlCNzZSZWpWcDNqN2tNZE1fSkFXd1FwTzNVQWNPUlBqRUM2bktnNmc0NWllMEJqSXlBbFFKTzNtODBFZnhkUUJrUTJjMFVWUDV6djIxNXF5R3l5VUMzNzJ6ZGYtcFdkZDZVM2JxeQ?oc=5",
-        "description": "",
-        "pubDate": "2026-06-16T09:18:00Z",
+        "pubDate": "2026-06-16T10:34:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -537,15 +997,6 @@
         "bias": -1
       },
       {
-        "title": "Iran war is a ‘wake-up call’ for Southeast Asia’s energy sector, report says - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUDhzaVJ3dTZnMW94OUY5elZYbTBJdVRnSldmM3VzSnVmQmZGZDJOZ2RzQ0hKN190RDRBR0ExSG9Db1JpbEFZYmw4V0VrY1JTbVA4alFhN1laa2RFcEZ0TFNTNkR3azgyN1lPYmpxQlFSdldLdkNjM3h5MTFoekt3VHpnbDFiYnFHN1pmX2ZoSWVvQU9G?oc=5",
-        "description": "",
-        "pubDate": "2026-06-16T07:48:25Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "UFC boss Dana White says 'never again' to another White House fight night",
         "link": "https://www.npr.org/2026/06/16/nx-s1-5859911/ufc-boss-says-never-again-white-house",
         "description": "The headaches over weather concerns in the outdoors show, the logistics of construction of the cage and staging events at federal landmarks and the soaring cost made Freedom 250 a one-off.",
@@ -564,46 +1015,19 @@
         "bias": 0
       },
       {
-        "title": "What to know about Edwards Air Force Base in Southern California’s Mojave Desert - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTjF5ZmU3bHJ6RXM3YTJEbnEyM3l0RzJYeW5CWkpBOG84Y0NfYXFUSWo0R3Rnam5wN2tudmt2c2ZWNW43RDFSbHRqcEdkUGpmN0tXMm1ISDRWeThsZHRRTVlKOTJiSkRVMTdHMlBxVk5oS3dPcXR0MjlZSmVSY0ZndGV3YUp1UldfcnJjVDl1YmZmN25Ra0F2VXlzRlA2bkJEM2JnSmZlSTI?oc=5",
-        "description": "",
-        "pubDate": "2026-06-16T05:24:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "The top photos of the day by AP photojournalists - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMWdySmJreUgtbmJVVEVicXNRcnRkS3FLUUhFcmVVMjh6WG5OdGVDX2tPdktkYzRFUWlmTnVLdVFaeEpaNUFxLTRXeTBTQzBTQ3h5dHVfaVh4SndhVmRINXpmMFBpS3U4ZnZHelJqX29SN2FxWlZqM1hSNjRQY0NSb3RJdFFFc0hfVDRIN05Qd1FYSG9XWTZ1eDVHY1p3cVFUUnc?oc=5",
-        "description": "",
-        "pubDate": "2026-06-16T05:21:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Author Amy Griffin sues woman who alleged she stole her stories of sexual abuse in memoir 'The Tell' - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV0VaaWVFRXExZmxHM3NtTVJGZUgyaW1MV18wUVpOVW9zN0hkOEVnOUFTTl9RblQ1QUptUDRWUkpOVnR2UDVBbkdPYVZ6VS1nVlRWemVENGttM2NzalBTSnpBLTBaazdlN1RWQlAzVFNWSElUZ3NCVnZPc3VwOUh0X1M2S3kwUQ?oc=5",
-        "description": "",
-        "pubDate": "2026-06-16T04:16:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Washington, DC, voters cast ballots in crucial primaries as Trump reshapes the capital - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMkxEeVJZV0dpamY4cFVELWZ4MGljQUFnZFYzRjc0UERxTDRKakh6cllrRzk3SXB3cjg5VWZ6YXB1ODdmZ0MtQW1lendSTllNZDNGb21HZVYxbjJHTGNmUy1KMEdlTk5DcVRmanVzY25vX0VnYy04Vjh2RlhyamNoWUx2OE80SlhaNTl2akpzZm12UWhWSUpNODhZNk1uSGVMcGlaX2JR?oc=5",
-        "description": "",
-        "pubDate": "2026-06-16T04:08:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "What to know about the demining and escort mission that US allies want for the Strait of Hormuz - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQODZGMXRJaE5CM0h3TkhfQTAtRFhWcDJXS0p6OXFpWS10VjNjOTI4WUFaSkFOVE43cmo1LW5IMDQ4VGpGbGVzMUx0aVF1OUp2eXhLZ0ZGMTVuSU40LW54bzJROUFTWGlQWDFrNmtiZUpVU0FLc0RSWDhUU1FRRTlhdVI3SFFYeEwxendaRzRWQ2N0QjcwWVpoUk9WbmdwOTI5MU5tUnY3N1hfclE?oc=5",
         "description": "",
         "pubDate": "2026-06-16T04:08:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Special election for former US Rep. Eric Swalwell’s seat draws a crowded field in California - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUTdqQXl3eDNVUW90cnNWR2kwLUFKRWhKWFVza09kRlJRTWI1ZGlXOGpYckFWMmNjSEpUY2VuaWJIM2pJLVJSdko1eUMwWHJkbDZOeHFaVTJsRGd2cFNIZmd1Xy00cThwZUVXT0tOMm5jNU9YSVNUaWJjXzRVODJocThOQVIyamJaUW41ak11Q0sxZDVtX01faEJfT3MzMkh2eHYzdUFmc0Z1eHF0U2Z0WkZDXy1OQQ?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T04:04:59Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -616,15 +1040,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Can $100 million overcome a Trump endorsement? What to watch in Tuesday’s elections - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSlpyQm0wak9aRTBneGxLekpfUmY5VGZ4Zzk3OHpFeVhvR1pvMC0tdGZvU2c4Nk56bVNBMzhISkZjVjBtUVJzMHBZMW5pZjE2dlc4TldjejR5bzMtbUdWV3VzNzgzMVE3ZUZJU2xNVHN4eDJ2VEE3c0NXUkV5YXlpUzFZS05KZ0R5RlRXV3YyZVhpZHFjWUItTzRlRmZzUjl1b3lhNTlRT2M?oc=5",
-        "description": "",
-        "pubDate": "2026-06-16T04:01:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "All eyes turn to Fed chair Kevin Warsh and his first moves on interest rates - AP News",
@@ -659,16 +1074,34 @@
         "title": "Five big questions about the UK's under-16s social media ban",
         "link": "https://www.bbc.com/news/articles/c9824zvpz9po?at_medium=RSS&at_campaign=rss",
         "description": "A ban is coming - but it's still not clear what it will mean for sites including Roblox, YouTube and WhatsApp.",
-        "pubDate": "2026-06-16T12:09:57Z",
+        "pubDate": "2026-06-16T15:28:15Z",
         "source": "bbc.com",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f489/live/f8af2a90-6977-11f1-a610-610c6ec6d3a5.jpg",
         "bias": 0
       },
       {
-        "title": "Multiple arrests as FBI disrupts 'planned attacks' targeting White House UFC show, director says - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTWRZLXlqODloZDZHV1JmWWtqZDB2X2hLZm10ZTZWWGZiMC1WOHJRNllmb0tIMGc1aHpoczMxd1djamRHMm90UWNZek1FckpaZnpZeHdHWllOSElLRktHcjg3MC1TTmF1WmRNUGEybG9WaFZFZ0l4MGJIaDZUdWtEcFhsT3lOTW9LUXpSQ19n?oc=5",
+        "title": "Iran war is a wake-up call for Southeast Asia’s energy sector, IEA report says - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUDhzaVJ3dTZnMW94OUY5elZYbTBJdVRnSldmM3VzSnVmQmZGZDJOZ2RzQ0hKN190RDRBR0ExSG9Db1JpbEFZYmw4V0VrY1JTbVA4alFhN1laa2RFcEZ0TFNTNkR3azgyN1lPYmpxQlFSdldLdkNjM3h5MTFoekt3VHpnbDFiYnFHN1pmX2ZoSWVvQU9G?oc=5",
         "description": "",
-        "pubDate": "2026-06-16T12:00:00Z",
+        "pubDate": "2026-06-16T14:24:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T14:23:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Serena and Venus Williams to play doubles together at Wimbledon with a combined age of 90 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSWtPTDlGMVlvOHhaQVBTcU91OVhVU2xFX2gxVXFZWGdBUV9NdEdEVDhibHhQWVZYdWtQU1JxRGstSXpZZzNxTWtBSkJMRzdTOTVmZXU0TlF2LU1Ydk55N0J1UTUwbzR3SGpkaDI5RHEyUm0xc242cENBVnRjM080dFpQby1JVi1SUl9OWHU5QzVVOEtTMGIzLTR1SXFoeUdwYTF5Nw?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T12:02:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -679,14 +1112,32 @@
         "description": "The measures will see apps including TikTok and Snapchat banned for UK teens early in 2027.",
         "pubDate": "2026-06-16T10:58:25Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f62a/live/493305d0-6965-11f1-9f4a-21531e88e991.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5af/live/d0303040-6982-11f1-8e1d-bbbb1017d210.jpg",
         "bias": 0
       },
       {
-        "title": "Solar cold storage helps African farmers cut losses and reach global markets - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUS1xeTlTWVRObVRzU2NRcjU1RzlPN0FHb2pwcUd4SjFuQm90MzBvYVVRYXJqRi10ZjZDTVp1NzlqenN1T0NzQW0zcXgzSGR4UGNWTDRMRGlOTEo4YV9hVVpQNmRXZ0xpSjJxa2xJUElvTUQ1YWtaNDVqdHV3NVVuRF9CQlZVTVlIcE16NDVkdkstY2o5Z1oxMWQ5OXRJZw?oc=5",
+        "title": "Private school choice vouchers leave behind many kids in public school - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WbFd6VGpuNHV3Y2MwSk1qb25wdjJnYTE0a1VZaFZHVjRqV2VZRXVpcTVKVzl2d0kyVG5BWm5HRTFTWDBKb2VIME5MR3JzM21HYmFPeERIU1Y4SllFejMwQnNVd2ZOM3gz?oc=5",
         "description": "",
-        "pubDate": "2026-06-16T10:50:00Z",
+        "pubDate": "2026-06-16T09:17:55Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Promoter of election conspiracy theories wins GOP primary for Nevada secretary of state - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZzJkdHhoTnU1Mm1nNUdZbHpobWIza0JEZk1kMzg3aW05QTJrZVdrYmY2UTNzYm5OeDlsRDR3VVk3NUhFbnAweWJ5bUxXY2RqazhFMlM1ZlYxXzNLcGJicFBWcjdIa2dHVnJRaHF3aGpzUTlDOG93T2s5TmdDTE9Oc2RLS0ZYNHZKaFpKOG5hZ3BXY1M3YW5MaDZCellwYlJSSTdjTEhWLWhGaXpvck1xbFg2VWFMMkk?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T01:33:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Georgia U.S. Senate Runoff Election Live Results 2026 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWlRPV21WaWI0amMwT0JTTFM4cXJTUFlEbTBlbDgtb0sxeExEeFhEclZiOEEtUmV4UVpuOTlfYTFLMHFGdmhIbW5mcVAyNVpMYlBZMi1NREh3Q3ZfOGxfa1lHTDRxaVUyUnRVUWU1MERLSUdiZnMzMVJiX0ZkQ2Y0Rkl2VldoU2lTb1V2bw?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T01:10:17Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -703,12 +1154,21 @@
     ],
     "Science": [
       {
-        "title": "Musk's SpaceX buys AI coding start-up for $60bn days after IPO",
-        "link": "https://www.bbc.com/news/articles/cvgd5g7d7gyo?at_medium=RSS&at_campaign=rss",
-        "description": "Elon Musk's rocket company has agreed to buy Cursor, which uses AI to automate the process of writing code.",
-        "pubDate": "2026-06-16T12:11:23Z",
-        "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d41/live/929b64a0-697a-11f1-8546-8f19e4fe30f4.jpg",
+        "title": "From YouTube to Hollywood: Digital creators are remaking the movie business - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPenR6NVhJVEVkMW9uU1k2VldFS0FCS2hqV3kyVDBDRnF5NkgxNmk5ZldmZnRZcDNCcENTVnV6V3ZobEZZT2lIUWtWMzEwU2hQaFVrcDlfNkNyclU1VnJoNUJQRTlERVdXZVJveF9XUzBmdGZjckVBSkZlYi1oM3JUYjFpWG1aVUNud1NGbUdMT2h2NE4tdnFPaUlZdFFSR2VURHBjMi1CTE0?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T14:20:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Steve Harvey: God’s blessings come with a duty to give back - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRnkxNG90VW5aRWFDMVZtc0JGSG1lZW5UX3dRQ3dYSVpBR1duaUJMQ1B1NnZVMUdoUlFhNTI0UFhXWTN1ZGswclE3ejFuaFc1Q2ltMmFlZ2dLeGdhcWlUVjhzN2h3ZW8wNWxlc0t6TVNjWGNXSVlyVHNFdE0zX1B5VW1JLUxTd0Zyc0xPSzd0RF9Hb2tIZFhjUWFSOTQxaVFjX0VwaXRQNGw3T3M?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T13:11:00Z",
+        "source": "news.google.com",
+        "image": "",
         "bias": 0
       },
       {
@@ -722,6 +1182,51 @@
       }
     ],
     "Business": [
+      {
+        "title": "Struggling Pizza Hut chain to be sold for $2.7bn",
+        "link": "https://www.bbc.com/news/articles/c75yd6dy2vlo?at_medium=RSS&at_campaign=rss",
+        "description": "The decision comes after a prolonged period of difficulty for the chain, which has faced increasing competition from a range of rivals.",
+        "pubDate": "2026-06-16T17:19:09Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc30/live/7b572ab0-69a0-11f1-938e-83ab58a2163c.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Musk's SpaceX overtakes Amazon to become world's fifth most valuable firm",
+        "link": "https://www.bbc.com/news/articles/cvgd5g7d7gyo?at_medium=RSS&at_campaign=rss",
+        "description": "Elon Musk's rocket firm has overtaken the retail and media empire in value after a surge in its share price.",
+        "pubDate": "2026-06-16T16:38:14Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d41/live/929b64a0-697a-11f1-8546-8f19e4fe30f4.jpg",
+        "bias": 0
+      },
+      {
+        "title": "The war with Iran is making oil changes pricier. And a deal won't solve it",
+        "link": "https://www.npr.org/2026/06/16/nx-s1-5847024/motor-oil-iran-war",
+        "description": "The U.S. may be the world's biggest producer of",
+        "pubDate": "2026-06-16T15:29:02Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Survey confirms the struggle of working parents: 'No way to be two things at once'",
+        "link": "https://www.npr.org/2026/06/16/nx-s1-5856274/working-parents-balance-work-pew",
+        "description": "A new Pew survey finds many working parents feel they cannot give 100% at either work or home. Benefits like paid sick leave and more affordable childcare could help.",
+        "pubDate": "2026-06-16T14:00:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "‘Task’ master Brad Inglesby put Ruffalo’s redemption at center of HBO series from the start - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZHBSNUd1VzFvLXhMVkhDMmlaUkozdjVKRm41SnZkWlVOLWhsbVNDcFVlbV93S1NKRTFxd0x5V0dDVzJvQ1dkVDlPQ1BzdUoxbXZqTVVtWURiUy0yYkJwcklNSzBMR2p2TzJJN2o2c1R0NGtjNndSU2tzX0NmcFdqZE5oWDBpakNfMDRlZlNn?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T13:04:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Funds available to help with back-to-school costs",
         "link": "https://www.bbc.com/news/articles/cp8rlg86wkyo?at_medium=RSS&at_campaign=rss",
@@ -750,15 +1255,6 @@
         "bias": 0
       },
       {
-        "title": "Bank of Japan raises its key interest rate to a three-decade high of 1%, citing inflation - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbHNSZXhfNnZtZDR0ZmJmNlJmRmZNZGVxazZWMTR2R0Zjc1JGdFRGRk5DNll2NDR0SzFGdGFYVXptazd3cTNPam92NHdtOHJvSEpoeEdlbXNGcHhITy1CZkpqTTBRZVR0bUpLLTI3WFZEVTdnZ0g5U3piblZrQU9fSUFvdkNPdjZQdGtGOGFfWTdkTEhINjVGOGVMcw?oc=5",
-        "description": "",
-        "pubDate": "2026-06-16T10:34:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Is it a renter's market? It depends on where you live",
         "link": "https://www.npr.org/2026/06/16/nx-s1-5847678/rent-apartment-landlord-construction-boom",
         "description": "About 40% of rentals on Zillow offer move-in deals, like a month of free rent, thanks to a construction boom that created an apartment surplus in some parts of the United States.",
@@ -777,6 +1273,15 @@
         "bias": 0
       },
       {
+        "title": "Japan’s tech business SoftBank rolls out OpenAI ‘patches’ against cyberattacks - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV1hOMEh1YWtmRExkaEVQenRodHdOTTV2eWFNX2pYMXAxMjhHTEF1UkxKSk52dGwtdjJpWXg4eEtXRUZjcWxXc0FnLU02WlJWWVFabDM5amNkNjlPdlN2aHhYMDlZai1EdzBsa1NNMlVDN1llT3RqTzRRLUdQbEVoWVdWWTJYSHFjSlYzSEZkd2wzS3NYR01YOC1NTEoyd1ZfeFVtUlhrem94Zk5vTU9ONDVqdGRmX01xV0E?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T08:53:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Visa and OpenAI integrate Visa's secure global payment directly into ChatGPT",
         "link": "https://www.npr.org/2026/06/16/nx-s1-5853914/visa-and-openai-integrate-visas-secure-global-payment-directly-into-chatgpt",
         "description": "Would you hand an AI chatbot your credit card? This week, Visa's deal with ChatGPT maker OpenAI became the latest step in the march toward a future where AI offers to shop on your behalf.",
@@ -784,9 +1289,81 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Japan raises interest rate to highest for 31 years",
+        "link": "https://www.bbc.com/news/articles/cjdgl213dpzo?at_medium=RSS&at_campaign=rss",
+        "description": "The Bank of Japan has been raising rates from near-zero since 2024.",
+        "pubDate": "2026-06-16T08:26:30Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a76/live/d7e33c30-6872-11f1-8d7f-231b457c3604.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Author Amy Griffin sues woman who alleged she stole her stories of sexual abuse in memoir 'The Tell' - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV0VaaWVFRXExZmxHM3NtTVJGZUgyaW1MV18wUVpOVW9zN0hkOEVnOUFTTl9RblQ1QUptUDRWUkpOVnR2UDVBbkdPYVZ6VS1nVlRWemVENGttM2NzalBTSnpBLTBaazdlN1RWQlAzVFNWSElUZ3NCVnZPc3VwOUh0X1M2S3kwUQ?oc=5",
+        "description": "",
+        "pubDate": "2026-06-16T04:16:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Culture": [
+      {
+        "title": "Take That tightrope walker says it's an 'honour' to perform with the group",
+        "link": "https://www.bbc.com/news/articles/c74ykwrkjj4o?at_medium=RSS&at_campaign=rss",
+        "description": "Ellis Grover walked between two stages with a six-metre drop below him as Take That performed in Cardiff.",
+        "pubDate": "2026-06-16T17:05:03Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54d0/live/ca91c580-68bb-11f1-8546-8f19e4fe30f4.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Naomi Campbell blames lawyer for 'fraud and deception' at charity ban appeal",
+        "link": "https://www.bbc.com/news/articles/cj3gn3ly3y1o?at_medium=RSS&at_campaign=rss",
+        "description": "The supermodel is appealing the ban against her, telling an appeal tribunal that fake emails were used to misdirect funds.",
+        "pubDate": "2026-06-16T16:41:45Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02df/live/fb4f74c0-6973-11f1-a610-610c6ec6d3a5.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Grammy Awards add Asian Pop and Latin song categories",
+        "link": "https://www.bbc.com/news/articles/czj8n9p0v0po?at_medium=RSS&at_campaign=rss",
+        "description": "The music awards adds five new categories after wins from Bad Bunny and KPop Demon Hunters.",
+        "pubDate": "2026-06-16T16:16:57Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8225/live/ed0c6dc0-699e-11f1-938e-83ab58a2163c.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Tom Holland confirms wedding to Zendaya and addresses viral AI pics",
+        "link": "https://www.bbc.co.uk/bitesize/articles/ztprywx?at_medium=RSS&at_campaign=rss",
+        "description": "Photos appearing to show Tom Holland and Zendaya getting married in Italy have had millions of likes - but they’re not real",
+        "pubDate": "2026-06-16T14:54:56Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/images/ic/480xn/p0n5wv9y.png",
+        "bias": -1
+      },
+      {
+        "title": "West End theatre to be named after Dame Judi Dench",
+        "link": "https://www.bbc.com/news/articles/c4gy4d0d7qjo?at_medium=RSS&at_campaign=rss",
+        "description": "The Shaftesbury Theatre is to be renamed to honour Dame Judi's contribution to the performing arts.",
+        "pubDate": "2026-06-16T14:47:16Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c585/live/7faa3320-698a-11f1-bf78-b9ee73ed2967.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Paddington musical set for Broadway debut",
+        "link": "https://www.bbc.com/news/articles/c8j2el87yj0o?at_medium=RSS&at_campaign=rss",
+        "description": "The production will launch in the US at New York's Al Hirschfeld Theatre in March 2027.",
+        "pubDate": "2026-06-16T13:12:47Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1975/live/0fa12c60-697f-11f1-ac49-cbb0d85207cb.jpg",
+        "bias": 0
+      },
       {
         "title": "Cate Blanchett to become visiting Oxford professor",
         "link": "https://www.bbc.com/news/articles/cy5vnx0252yo?at_medium=RSS&at_campaign=rss",
@@ -797,12 +1374,12 @@
         "bias": 0
       },
       {
-        "title": "Paul O'Grady life story show set for national tour",
-        "link": "https://www.bbc.com/news/articles/c2dy490kglro?at_medium=RSS&at_campaign=rss",
-        "description": "Savage will open in Leicester in February 2027 and visit cities including Liverpool and Birmingham.",
-        "pubDate": "2026-06-16T10:18:30Z",
+        "title": "Cause of TOWIE star's death unknown, court told",
+        "link": "https://www.bbc.com/news/articles/cp8ry836pmro?at_medium=RSS&at_campaign=rss",
+        "description": "A full inquest into the death of the 35-year-old has been set for December.",
+        "pubDate": "2026-06-16T11:30:54Z",
         "source": "bbc.com",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d8e/live/4c5ae3a0-696e-11f1-8cc2-edef34f05c3f.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ad7/live/fccb7150-4a01-11f1-a9e7-0f8f590f205b.jpg",
         "bias": 0
       },
       {
@@ -815,12 +1392,12 @@
         "bias": 0
       },
       {
-        "title": "Russian Tu-22M3 bomber crashes during training flight in Siberia - AP News",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaUo1azZWM1JSVm02S29IWmFYQUU4d0p6YkJ1X3FBNTN6Z1MzZXpmMDRkUW0xT0lYZzZ0eUpjamtDLWlUTC1aNXV0c1pZV1BacUhWcnZVWGgza3k4OHg1SHQ3azVkcldCazkyTDk1SXhtdjJ0cm1jb3dJOU5ycVp0U2o5clpkaHhzT20tSWZ5UEVLaF9RQU8ycHVMeWhOWEJwTUl0MlBjSlVGYmd1NWpTcUFxYzZtN0dtMHMzN0ZYYw?oc=5",
-        "description": "",
-        "pubDate": "2026-06-16T09:06:00Z",
-        "source": "news.google.com",
-        "image": "",
+        "title": "Trust in news hits a new low, research suggests",
+        "link": "https://www.bbc.com/news/articles/cvgq1py92eko?at_medium=RSS&at_campaign=rss",
+        "description": "The Reuters Institute records its lowest trust figures since the annual research began in 2015.",
+        "pubDate": "2026-06-16T03:57:28Z",
+        "source": "bbc.com",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b6e/live/317c5140-695a-11f1-b1db-af71d47507d6.jpg",
         "bias": 0
       }
     ]
