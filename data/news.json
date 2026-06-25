@@ -1,12 +1,594 @@
 {
-  "lastUpdate": "2026-06-25T00:13:04.555303Z",
+  "lastUpdate": "2026-06-25T04:36:31.020080Z",
   "news": {
-    "Gaming": [],
-    "World": [],
-    "Politics": [],
-    "Tech": [],
-    "Science": [],
-    "Business": [],
+    "Gaming": [
+      {
+        "title": "Tank37 [Free] [Action] [Windows]",
+        "link": "https://zeverart-dev.itch.io/tank37",
+        "description": "Destroy all targets",
+        "pubDate": "2026-06-25T04:22:23Z",
+        "source": "zeverart-dev.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4MDc1OTAzLnBuZw==/315x250%23c/SGBtMu.png",
+        "bias": 0
+      },
+      {
+        "title": "3D earth click (beta) [Free] [Other]",
+        "link": "https://jasetheace.itch.io/3d-earth-click-beta",
+        "description": "",
+        "pubDate": "2026-06-25T04:08:48Z",
+        "source": "jasetheace.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4MDc1OTYwLnBuZw==/315x250%23c/UiYmFO.png",
+        "bias": 0
+      },
+      {
+        "title": "Shadow Rift [$5.00] [Action] [Windows] [macOS] [Android]",
+        "link": "https://hornypenguin.itch.io/shadow-rift",
+        "description": "Rough like 2D wave survival slasher with a cyber punk esthetic",
+        "pubDate": "2026-06-25T04:05:07Z",
+        "source": "hornypenguin.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4MDc1Nzc1LmpwZw==/315x250%23c/mXR7NQ.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Paranormal Office Investigation [Free]",
+        "link": "https://jacob-ferguson.itch.io/paranormal-office-investigation",
+        "description": "",
+        "pubDate": "2026-06-25T03:57:34Z",
+        "source": "jacob-ferguson.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4MDc1Njg1LnBuZw==/315x250%23c/0mQqp%2B.png",
+        "bias": 0
+      },
+      {
+        "title": "PROJECT JUSTICE [Free]",
+        "link": "https://zohaven.itch.io/project-justice",
+        "description": "",
+        "pubDate": "2026-06-25T03:55:46Z",
+        "source": "zohaven.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4MDc1NjUyLnBuZw==/315x250%23c/JnTHc8.png",
+        "bias": 0
+      },
+      {
+        "title": "Samurai Deck [Free] [Action] [Windows]",
+        "link": "https://gon97.itch.io/samuraideck",
+        "description": "Roguelike",
+        "pubDate": "2026-06-25T03:52:05Z",
+        "source": "gon97.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4MDc1NTg3LnBuZw==/315x250%23c/99Chsz.png",
+        "bias": 0
+      },
+      {
+        "title": "Guesspedia [Free] [Educational]",
+        "link": "https://lumicroft.itch.io/guesspedia",
+        "description": "Hints unfold over time — guess the country and pick its flag. A daily geo & flag quiz.",
+        "pubDate": "2026-06-25T03:49:13Z",
+        "source": "lumicroft.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4MDc1NjI4LnBuZw==/315x250%23c/2kuiox.png",
+        "bias": 0
+      },
+      {
+        "title": "tundra project- text only [Free] [Educational]",
+        "link": "https://aki-roll.itch.io/draft-of-tundra-project",
+        "description": "Just the draft. It should work, I think.",
+        "pubDate": "2026-06-25T03:42:31Z",
+        "source": "aki-roll.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4MDc1NTA3LnBuZw==/315x250%23c/Jl4Nuw.png",
+        "bias": 0
+      },
+      {
+        "title": "Bad Hare Night [Free] [Survival] [Windows]",
+        "link": "https://monkeycode.itch.io/bad-hare-night",
+        "description": "Build a camp by day, survive the monster bunny by night.",
+        "pubDate": "2026-06-25T03:35:37Z",
+        "source": "monkeycode.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4MDc1NTkwLnBuZw==/315x250%23c/4asCA9.png",
+        "bias": 0
+      },
+      {
+        "title": "JumpWall Runner [Free]",
+        "link": "https://pink-esteban.itch.io/jumpwall-runner",
+        "description": "",
+        "pubDate": "2026-06-25T03:34:54Z",
+        "source": "pink-esteban.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4MDc1NzU4LnBuZw==/315x250%23c/SQA0n8.png",
+        "bias": 0
+      },
+      {
+        "title": "Knight Rush [Free] [Platformer]",
+        "link": "https://xylica-shadow.itch.io/knight-rush",
+        "description": "",
+        "pubDate": "2026-06-25T03:33:59Z",
+        "source": "xylica-shadow.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4MDc1NDY0LnBuZw==/315x250%23c/cjSFER.png",
+        "bias": 0
+      },
+      {
+        "title": "Chameléon Waves [Free] [Action] [Android]",
+        "link": "https://pato-honey.itch.io/chamelon",
+        "description": "",
+        "pubDate": "2026-06-25T03:23:13Z",
+        "source": "pato-honey.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4MDc1MzM1LnBuZw==/315x250%23c/ZFRDXJ.png",
+        "bias": 0
+      },
+      {
+        "title": "坐庄风云 2· Pump & Dump Tycoon 2 [Free] [Simulation]",
+        "link": "https://liy221062-svg.itch.io/pumpdumptycoon2",
+        "description": "",
+        "pubDate": "2026-06-25T03:23:04Z",
+        "source": "liy221062-svg.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4MDc1MzE3LmpwZw==/315x250%23c/hofM1%2B.jpg",
+        "bias": 0
+      },
+      {
+        "title": "PAY ROLL [Free] [Platformer]",
+        "link": "https://thedoritosdudestudios.itch.io/pay-roll",
+        "description": "Rage game heavily inspired by Get To Work",
+        "pubDate": "2026-06-25T03:21:56Z",
+        "source": "thedoritosdudestudios.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4MDc1MzE4LnBuZw==/315x250%23c/4%2BxyvN.png",
+        "bias": 0
+      },
+      {
+        "title": "Punky's Adventure [Free]",
+        "link": "https://weezllane.itch.io/punkys-adventure",
+        "description": "",
+        "pubDate": "2026-06-25T03:17:31Z",
+        "source": "weezllane.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4MDc1MzgxLnBuZw==/315x250%23c/f7VJB1.png",
+        "bias": 0
+      },
+      {
+        "title": "Hot Tub Adventurer 2 [Free] [Action] [Windows]",
+        "link": "https://boofbamboo.itch.io/hot-tub-adventurer-2",
+        "description": "Defeat the bossman using the hot tub",
+        "pubDate": "2026-06-25T03:05:30Z",
+        "source": "boofbamboo.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4MDc1MDM3LnBuZw==/315x250%23c/YwcZXX.png",
+        "bias": 0
+      },
+      {
+        "title": "StickManLAND: Prototype [Free] [Role Playing] [Windows]",
+        "link": "https://pooooobarrel1112222.itch.io/stickmanland-prototype",
+        "description": "",
+        "pubDate": "2026-06-25T03:03:50Z",
+        "source": "pooooobarrel1112222.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4MDc1MTc1LnBuZw==/315x250%23c/DkkUM8.png",
+        "bias": 0
+      },
+      {
+        "title": "Spins and Needles [Free]",
+        "link": "https://ibros.itch.io/spins-and-needles",
+        "description": "Spin",
+        "pubDate": "2026-06-25T03:03:26Z",
+        "source": "ibros.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4MDc1MTU2LnBuZw==/315x250%23c/WFaRN5.png",
+        "bias": 0
+      },
+      {
+        "title": "The Geometry Game [Beta 0.10] [Free] [Rhythm] [Windows]",
+        "link": "https://moonzda.itch.io/the-geometry-game-beta",
+        "description": "Fan game of Geometry Dash, The impossible game and Rolling Sky",
+        "pubDate": "2026-06-25T03:03:11Z",
+        "source": "moonzda.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4MDc1MDY3LmpwZw==/315x250%23c/SvCzSg.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Shooting Over It [Free] [Platformer]",
+        "link": "https://daloserchamp.itch.io/shooting-over-it",
+        "description": "A precision-platformer with different routes you can shoot yourself up to.",
+        "pubDate": "2026-06-25T03:01:34Z",
+        "source": "daloserchamp.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4MDc1MjI1LnBuZw==/315x250%23c/wltYiI.png",
+        "bias": 0
+      },
+      {
+        "title": "Boss Is Watching [Free] [Action] [Windows]",
+        "link": "https://authenticdoor.itch.io/boss-is-watching",
+        "description": "A serious game about spinning at your desk.",
+        "pubDate": "2026-06-25T02:59:36Z",
+        "source": "authenticdoor.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4MDc1MDE2LnBuZw==/315x250%23c/SA2bXd.png",
+        "bias": 0
+      },
+      {
+        "title": "RogueLike [Free] [Action]",
+        "link": "https://braedonpolytech.itch.io/roguelike",
+        "description": "",
+        "pubDate": "2026-06-25T02:58:05Z",
+        "source": "braedonpolytech.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4MDc0OTg2LnBuZw==/315x250%23c/vETtNO.png",
+        "bias": 0
+      },
+      {
+        "title": "DepthsOfIdlenor [Free] [Other]",
+        "link": "https://depthsofidlenor.itch.io/depthsofidlenor",
+        "description": "An idle, turn based fighting game",
+        "pubDate": "2026-06-25T02:55:39Z",
+        "source": "depthsofidlenor.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4MDc1MDEwLnBuZw==/315x250%23c/ahlR3G.png",
+        "bias": 0
+      },
+      {
+        "title": "Shadow Traceur [Free] [Platformer] [Windows]",
+        "link": "https://sharer.itch.io/shadow-traceur",
+        "description": "Outrun your shadow and your past in this cyber-punk parkour platformer.",
+        "pubDate": "2026-06-25T02:53:45Z",
+        "source": "sharer.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4MDc1MjA0LnBuZw==/315x250%23c/ptNf1Z.png",
+        "bias": 0
+      },
+      {
+        "title": "Battle Cubes [Free] [Action] [Windows]",
+        "link": "https://timkoogames.itch.io/battle-cubes",
+        "description": "",
+        "pubDate": "2026-06-25T02:44:24Z",
+        "source": "timkoogames.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4MDc0ODY3LnBuZw==/315x250%23c/JVzTLy.png",
+        "bias": 0
+      },
+      {
+        "title": "Doggy's Day at the Beach [Free] [Simulation]",
+        "link": "https://avaskye.itch.io/doggys-day-at-the-beach",
+        "description": "a short game about a naughty dog",
+        "pubDate": "2026-06-25T02:42:31Z",
+        "source": "avaskye.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4MDc1MjIxLnBuZw==/315x250%23c/HQ1ErE.png",
+        "bias": 0
+      },
+      {
+        "title": "Celda 601 [Free] [Adventure]",
+        "link": "https://ezzell.itch.io/celda-601",
+        "description": "Juego de escape, con temática terrorífica y paranormal.",
+        "pubDate": "2026-06-25T02:33:20Z",
+        "source": "ezzell.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4MDc0NDg0LmpwZWc=/315x250%23c/f2sALp.jpeg",
+        "bias": 0
+      }
+    ],
+    "World": [
+      {
+        "title": "Thousands feared dead as twin earthquakes cause devastation across Venezuel",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/thousands-feared-dead-as-twin-earthquakes-cause-devastation-across-venezuel?traffic_source=rss",
+        "description": "Thousands feared dead as twin earthquakes cause devastation across Venezuela.",
+        "pubDate": "2026-06-25T04:16:01Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Mexico win 3–0 to eliminate Czechia and win all three World Cup matches",
+        "link": "https://www.aljazeera.com/sports/2026/6/25/mexico-win-3-0-to-eliminate-czechia-and-win-all-three-world-cup?traffic_source=rss",
+        "description": "Mateo Chavez opened the scoring in the 55th minute, and Julian Quinones scored his second goal of the tournament in the 61st.",
+        "pubDate": "2026-06-25T04:13:33Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Senate Republicans hold new vote on war powers after Trump berated them at Capitol meeting - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb0RkNTJCSE91MldwX3VRekZ2Tm5fS2x5b3A1UzM2NGZNTEROMDg3eTZvWnQyR29ock5RSlhZU0EtUmM2SW1RdmNlWk1nc0pyTGF3RG11V3hpVXkyalF6ckVtZkpxTG9WRzB0WHNoSnhuM1VxMTdZaHVBaTlualI2dzIxNmNnanEwWm5icFVJWHJDS25IUnJqSA?oc=5",
+        "description": "",
+        "pubDate": "2026-06-25T04:06:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Iranians mark first Ashura since Khamenei’s killing in the US-Iran war",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/iranians-mark-first-ashura-since-khameneis-killing-in-the-us-iran-war?traffic_source=rss",
+        "description": "Thousands gathered in Tehran on the eve of Ashura, the first since the killing of Iranian supreme leader Ali Khamenei.",
+        "pubDate": "2026-06-25T03:55:07Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Migrants left to endure deadly Paris heat with little shelter or aid",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/migrants-left-to-endure-deadly-paris-heat-with-little-shelter-or-aid?traffic_source=rss",
+        "description": "Hundreds of migrants in Paris are left exposed as a heatwave sweeps Europe.",
+        "pubDate": "2026-06-25T03:50:26Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Trump’s showdown with Republican Sen. Cassidy: Inside the blow-up on Capitol Hill - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRkNjeVNoZkdEMUlKZGQwN0Ztc3VhRFI2ZlpQbktXNjBQWXR6UWtsajdseW1FaUpfYmZUSDdfb1k2V19DZkduYWQyMVZJYnI1RmszOGlhYy1Fc3ByRy1mVHRhaHdZRFRsMlc5TjlDNDVqWkNraGFqN3Q4eV9nRXhxMGJxYjYyNld4MFpXR1VXd21YLTRLZThEWTVtaEt2aFJxZEFMdQ?oc=5",
+        "description": "",
+        "pubDate": "2026-06-25T03:35:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "South Africa stun South Korea to reach World Cup knockouts for the first time",
+        "link": "https://www.aljazeera.com/sports/2026/6/25/south-africa-stun-south-korea-to-reach-world-cup-knockouts-for-the-first-time?traffic_source=rss",
+        "description": "Bafana Bafana, playing in the tournament for the first time since they hosted it in 2010, have reached the round of 32.",
+        "pubDate": "2026-06-25T03:30:45Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "2 major earthquakes strike northern Venezuela, near Caracas",
+        "link": "https://www.npr.org/2026/06/24/nx-s1-5869817/2-major-earthquakes-strike-northern-venezuela-near-caracas",
+        "description": "A 7.2-magnitude earthquake and a 7.5-magnitude were less than a minute apart, said the U.S. Geological Survey. The second earthquake was the largest to hit the country since 1900.",
+        "pubDate": "2026-06-25T03:11:54Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Homophobic chant returns in Mexico’s World Cup match against the Czech Republic - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVDBXMDZPTDl5SjJ4RldKVnYybGZKNHU4dXJfZDJNY2FiTDFqYTZsN21SX05EaV9pVnlZZF9aWDVRY1lhMEFkajFucnFYTGZKZ1ZzdUxLSDdvcmgwTjNIWVRaSDdsR1NvZ2RBQnhsSHdJYS1Xei1ob3lVb3M3VVVQMzlLQnJjbkRPempNTmU2Wkw?oc=5",
+        "description": "",
+        "pubDate": "2026-06-25T03:02:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "South Africa reaches World Cup knockout round for 1st time with 1-0 win over South Korea - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOODhCWmhYN2ZURFRhLW5kQ1JLX0VfaUw4UXlfS2NSWXFJTlBLbl9yLS00SW5jLUNMY2RfTlY3a05Tc2JrYks4WF9tbF92QWVmMTg1M0ZkMS1JWlI1SG16eWtZZHBkSE5mTVpQV3lXNXpJMnFYcmtpRXVvRjRJV0xiQ3BYZThNSEtLU0VYakw0RVE5MlRaVlV1Mk1EU0RMaDJna2c?oc=5",
+        "description": "",
+        "pubDate": "2026-06-25T03:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Rutte attempts to ease Trump-NATO rift over Iran ahead of annual summit",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/rutte-attempts-to-ease-trump-nato-rift-over-iran-ahead-of-annual-summit?traffic_source=rss",
+        "description": "NATO chief Mark Rutte visited the White House to ease tensions with Trump ahead of next month's NATO summit.",
+        "pubDate": "2026-06-25T02:22:08Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Russian opposition leader jailed over anti-war social media posts",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/russian-opposition-leader-jailed-over-anti-war-social-media-posts?traffic_source=rss",
+        "description": "Russian opposition leader jailed over anti-war social media posts.",
+        "pubDate": "2026-06-25T01:34:19Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Vinícius Júnior scores 2 goals as Brazil beats Scotland 3-0 to win its World Cup group - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRENPODBKcU1kd29SNXdoOTNlMlRER3JOUFRZei1Ra1FpWDk3TWNCZzFIYzRwMFJrZXkwd2JqWUoyRkhYSlpOZHNFNkppRjVuMW40NXY5cU5XNGZoeDRKY052QUt2WnAtSldXS3NyajUyYU4yTkxwSExXeWtuV0FiUlRlT3V1TmhoaFRnMV9YS1JzczlRZUE?oc=5",
+        "description": "",
+        "pubDate": "2026-06-25T01:33:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "‘Our idol is back': Neymar debuts in this World Cup as a sub for Brazil against Scotland - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbmFEUnZfclJVbHZPTjJNYmRUczEwVmMxUURGbFBjbXY0T1F3V0tWQ2d4bWl6dDlsYmhtVnNXc3RhbWcxSHYyMm13UndrY24yLWNfVzE5NXNQZ3l6cXJad0pOd3Q0V1JOV1BaYjRyb2xYSlBBUVdBR1UxU2VOOG5kUjRJa01qRmhwY0xR?oc=5",
+        "description": "",
+        "pubDate": "2026-06-25T01:15:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Venezuela earthquakes live: Tremors of 7.5, 7.2 collapse Caracas buildings",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/6/25/venezuela-earthquakes-live-two-powerful-quakes-shake-s-american-country?traffic_source=rss",
+        "description": "A magnitude 7.2 earthquake hit Venezuela near city of Moron, followed by a stronger magnitude 7.5 quake in same area.",
+        "pubDate": "2026-06-25T01:11:53Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Morocco come back after historic Haiti goals to reach World Cup last 32",
+        "link": "https://www.aljazeera.com/sports/2026/6/25/morocco-come-back-against-historic-haiti-goals-to-reach-world-cup-last-32?traffic_source=rss",
+        "description": "Despite bowing out without a point in first World Cup since 1974, Haiti twice led against 2022 semifinalists Morocco.",
+        "pubDate": "2026-06-25T00:53:21Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Bosnia-Herzegovina boosts chances of advancing at World Cup with 3-1 win over Qatar - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUkN1Yk85bEtpQ3NXUGVZbVc1U19RUjJwdF93alczV0F0SjBmcVdjdmtPQm9FbTg5OTdQRU43Tk5tTFBBb2xORkJuWkdvVTMyNHptTGlqSGxsMW9hUDUwQXg0Wjl6NXI1bnVvNlVqeDJUazc4MlU4ZXFiOC0zRUVMSGdHTUhETm1iOWotdXc1SjgwUQ?oc=5",
+        "description": "",
+        "pubDate": "2026-06-25T00:30:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Buildings collapse in Venezuelan capital after powerful earthquakes hit",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/buildings-collapse-in-venezuelan-capital-after-powerful-earthquakes-hit?traffic_source=rss",
+        "description": "Buildings collapse in Venezuelan capital after powerful earthquakes hit.",
+        "pubDate": "2026-06-25T00:18:28Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Vinicius nets twice and Neymar returns as Brazil ease by Scotland",
+        "link": "https://www.aljazeera.com/sports/2026/6/25/vinicius-nets-twice-and-neymar-returns-as-brazil-ease-by-scotland?traffic_source=rss",
+        "description": "Brazil beat Scotland as Vinicius Jr scored first two goals and Neymar returned to seal top spot in World Cup group.",
+        "pubDate": "2026-06-25T00:15:05Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Two years on, Kenyan families still seek justice after Gen Z protests",
+        "link": "https://www.aljazeera.com/news/2026/6/25/two-years-on-kenyan-families-still-seek-justice-after-gen-z-protests?traffic_source=rss",
+        "description": "Families of those killed and missing say investigations have stalled as accountability remains out of reach.",
+        "pubDate": "2026-06-25T00:11:16Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Venezuela struck by back-to-back earthquakes, many casualties feared",
+        "link": "https://www.aljazeera.com/news/2026/6/25/venezuela-struck-by-back-to-back-earthquakes-high-casualties-feared?traffic_source=rss",
+        "description": "US Geological Survey says casualties could range from 10,000 to 100,000 people.",
+        "pubDate": "2026-06-25T00:07:32Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Iran war live: US vows to defend Gulf interests; Israel kills 2 in Lebanon",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/6/25/iran-war-live-us-vows-to-defend-gulf-interests-israel-kills-2-in-lebanon?traffic_source=rss",
+        "description": "Rubio promises to protect Gulf interests in talks with Iran, as Israel says it will not withdraw from southern Lebanon.",
+        "pubDate": "2026-06-25T00:00:00Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      }
+    ],
+    "Politics": [
+      {
+        "title": "Trump describes Burnham as 'the mayor of a town' and 'extremely liberal'",
+        "link": "https://www.bbc.co.uk/news/videos/cly81w5g1qwo?at_medium=RSS&at_campaign=rss",
+        "description": "Donald Trump gives his first public reaction to the prospect of Andy Burnham becoming prime minister.",
+        "pubDate": "2026-06-25T04:30:07Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e84/live/bdd8ed80-7024-11f1-b1db-af71d47507d6.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Twin earthquakes strike Venezuela, in photos - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWRlS3lDRi1CTF8zZjFjR1B4T0hZWXZlaGlrT0g5bG5FTkpRT1hTd0R4V0pFdkJIaVhoN1o0VVNfWTFqbjFZUFExLXFMWUJSTVJZaFBzUUhSSXVsNVVkZEdnY0NyVzBybE1RbDczUnNqX193bWZadDdrQ05XUGpZeGFYUTVRYUNUOFFvN0F1cDZ5U1NoTGR1U09B?oc=5",
+        "description": "",
+        "pubDate": "2026-06-25T03:41:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Trump turns America 250 kickoff into a campaign-style rally on the National Mall - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaWhGaUNMUnFpRThMUGpWbi1LZk5EWkhNWG9JZVVPOUZyODB3TE1PNnp1TWhXV3ZUcnFCVkRtbUYta2RwUVV2WWNDWmV6SGdFSmwwSC1aNkxrMEszTlVyV0lpYnlydVhrZUdLLUVheHlmUXZob29LVWpManVfa2hnQUY0WFRuS3NhZ1RN?oc=5",
+        "description": "",
+        "pubDate": "2026-06-25T03:08:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "New Mexico governor calls for criminal probe of DEA allowing fentanyl shipments to hit streets - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTzhDUlE2NXBxd2JFS1ZzQjBrNjhYR0FXaGlFS3UyMDJZMWVHSjlnUlZKYWRhRkVGVGx5S3V6S3pCdkhwcDBaamZ0X2RZWG5fNTJQT1ZBMXhyTG1aNUI1S1lQRnhYTExGYTNiRWVwOXRGb2swWkxra2tFN3JCbFFFUFgxSlo2dENPc2YtTUFmVFFxYm8?oc=5",
+        "description": "",
+        "pubDate": "2026-06-25T03:03:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Caitlin Clark leaves Fever’s loss with a back injury, doesn’t return after 3rd-quarter scare - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUEFaRlVldkpvWExtMnZWVk5GUTNBaWtBU19xXzE4dTcxX2trNndUYURoODRoR3RrSU82Q3lyUnVzYkRGNTVyVkpXUUJ1Q2JzenNsMFY0VEp3UmFyNHI0d2RtZHdlSzZWUGMtQ05uUENUU2NNdXQ3eUpmR2owNDZQNEpn?oc=5",
+        "description": "",
+        "pubDate": "2026-06-25T02:29:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Back-to-back powerful earthquakes slam Venezuela, collapsing buildings in the capital of Caracas - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVXpHa29VWnJ2cGpHZkR5NUJiU1NaTHNkNFJmeTU3WGhlMlFodlZ5cGFSRVhLVnlEcHhJUDN1VVZCenR5UExaQmNrYS1OSVFJRE5yUkN3RjlzZWxPZktaSjY2b0R3YW9oRzh3S05WanhJQjRLb1NUanp1ZEdrb3FVWWxaR1ViTGhxU0FhQTJTajI0UQ?oc=5",
+        "description": "",
+        "pubDate": "2026-06-25T01:41:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Astronomers find biggest super-puff planets yet that are lighter than cotton candy - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNTVmM3N0S2tqR2RvNmd4MGg1NzBKaXQxOUpIMWxSa3ByZmdRaHlPMGNnLTNhOHpxVUtZZ0cxaUlRRy01Q285TEIwSlNJVlE5LU5OWU1VTGlOQXpHVE1Tcmc5OEJDZzd1MTU2NVVJRkVsRG5QOFh5ZzBabXdDWUd4UnM4Ny1zTFAzTEVxR1hIQ3ZPdXFkMzVONlpQSVhXTXRkbDN6ampjdw?oc=5",
+        "description": "",
+        "pubDate": "2026-06-25T01:02:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Lawmakers demand answers as turmoil over Reflecting Pool repair continues - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYXZTRzN3Z3FYY0NVcVVzMXFlQ1dpUnYxOVU1S0c1Y2tQd2gtRjM4U01KazJuc0ZkbU1qVDJ0RjlTSGtER2loN05maHlJOS14SmVSaWlLUGtzc2lDZUNuQ2dpTDFNVGx6cUpMbEhvT0dfeDk3Z3FiLWdBXzZOVERqNEZzUXA3U3lTREhOU2lDMTJCVXdXcmFUVFd2T1dROENM?oc=5",
+        "description": "",
+        "pubDate": "2026-06-25T00:55:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Powerful 6.9-magnitude earthquake strikes off northern Japan. No tsunami warning - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONk9vbDNHSXF5NUU2MGh1eFBaZzJnRktPMUNjZGtObFl2azNGemw4Ym14NW1RMlZaRXRSLU5ZdDk0VFJGNE9EemxiQ2RKdkFVZTJnOGdoTWlzVWpVa25leEV5WXl4bDlPY2VqdUhodU9YanktSnRubzh6SG8xWlhRUVhFWDl3UU85ckVQWg?oc=5",
+        "description": "",
+        "pubDate": "2026-06-25T00:53:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ],
+    "Tech": [
+      {
+        "title": "New York City Council candidate is accused of forgery over AI-generated posts - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcXIwajlTOXVhanVveGFVazZXWWI3cms3endLeE04YTYwUVNBcVhjeHRaWENRX2R1bnhsYmNZTW80RWxwVV9kU2JOalk5NG95T1Q1SUNpeHFPd05JTU5YMUtXb29iMkZQY0pzUU9EOTV2bjdTbER3Z19Ec2ppb3ZaLXFjTjEwNXdPUTFOcjJzcUJjOUlqMjhCREtJR184RDlEcnc?oc=5",
+        "description": "",
+        "pubDate": "2026-06-25T02:36:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "US Congress welcomes Taiwan's parliamentary leader to Washington, affirms support for the island - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb1JTQ1ZvTDYybENCNmlFNlEwY0tqajQyZGc3ajFobnFpTkJiUmhsQ0VVNllPbzBVOURfeHhsUnI5Y2M3c29kVnBCOUtzQ3pxVWN2YTNMYW9LNHF2THNaRzNDUmNkaGpHWl82X1ZfbU1vQmNKS3kxRUpmN2paTDBwVWNiYnY4SjVxV0FkSzJfSkk0eGJQcTVHRlpjNl9lY2JMdmYtbw?oc=5",
+        "description": "",
+        "pubDate": "2026-06-25T00:53:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ],
+    "Science": [
+      {
+        "title": "NBA draft finishes up in New York, where some second-round picks are revered - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMlBaY09EODVtbUFyUVkxUHJQLWlzeTVobTBYQnpnWTZCR0k2cmhoeTRDb1lEWEtxdUg1M0x5bE1rVFMwYWRlVUNMcU83NUluVDAzMG5pSmdMVGVhU084MVlGaTF0alBJSmE4TVVmNWJYV0RYLUtIV2cwd0xtd3NXcVdKd29hd3I1MFFMZkpRT0tQa0tYYjJBdA?oc=5",
+        "description": "",
+        "pubDate": "2026-06-25T03:11:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "UK sees hottest June day on record as 36.1C recorded in Hampshire",
+        "link": "https://www.bbc.co.uk/news/articles/c30y619glveo?at_medium=RSS&at_campaign=rss",
+        "description": "Heat records were broken when temperatures soared across southern England on Wednesday afternoon.",
+        "pubDate": "2026-06-25T02:25:26Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6551/live/0e9d3450-6fea-11f1-b1db-af71d47507d6.jpg",
+        "bias": -1
+      }
+    ],
+    "Business": [
+      {
+        "title": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
+        "link": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&at_campaign=rss",
+        "description": "The firm alleged that Alibaba used fraudulent accounts to access data from its Claude AI model.",
+        "pubDate": "2026-06-25T03:12:17Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7085/live/09a38e00-7034-11f1-a04c-33d78a0285d7.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Trump accuses big oil firms of price-gouging drivers",
+        "link": "https://www.bbc.co.uk/news/articles/cly790j1j6ro?at_medium=RSS&at_campaign=rss",
+        "description": "The US president named Shell, ExxonMobil, BP and Chevron when talking to reporters about a probe into fuel prices.",
+        "pubDate": "2026-06-25T01:45:33Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f3c/live/b5ef2030-702e-11f1-86a5-c78e0086fe7e.jpg",
+        "bias": -1
+      }
+    ],
     "Culture": []
   }
 }
