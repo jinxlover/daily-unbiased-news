@@ -1,277 +1,295 @@
 {
-  "lastUpdate": "2026-07-12T16:29:21.204929Z",
+  "lastUpdate": "2026-07-12T17:35:12.360254Z",
   "news": {
     "Gaming": [
       {
-        "title": "primate tag *wip* [Free] [Windows] [macOS] [Linux]",
-        "link": "https://drago-studios.itch.io/primate-tag-wip",
+        "title": "Witchy Wanty [Free] [Puzzle]",
+        "link": "https://playingwcolor.itch.io/witchy-wanty",
+        "description": "a cute little game made for the raylib 6.x gamejam",
+        "pubDate": "2026-07-12T17:21:04Z",
+        "source": "playingwcolor.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDQ3NzY3LnBuZw==/315x250%23c/hfqXN2.png",
+        "bias": 0
+      },
+      {
+        "title": "Undercurrent Studio [Free] [Interactive Fiction] [Windows]",
+        "link": "https://mitter123.itch.io/undercurrent-studio",
         "description": "",
-        "pubDate": "2026-07-12T16:20:37Z",
-        "source": "drago-studios.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NDQ2Mjg1LnBuZw==/315x250%23c/416ADT.png",
+        "pubDate": "2026-07-12T17:17:18Z",
+        "source": "mitter123.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDQ3NjAxLmpwZw==/315x250%23c/MH%2BZDy.jpg",
         "bias": 0
       },
       {
-        "title": "Misterios Ocultos [Free] [Survival] [Windows]",
-        "link": "https://ahdevgames.itch.io/misterios-ocultos",
+        "title": "Back in the Picture [Free] [Puzzle]",
+        "link": "https://stoopididea.itch.io/back-in-the-picture",
         "description": "",
-        "pubDate": "2026-07-12T16:12:50Z",
-        "source": "ahdevgames.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NDQ2MDcxLmpwZw==/315x250%23c/yi%2BoLo.jpg",
+        "pubDate": "2026-07-12T17:17:01Z",
+        "source": "stoopididea.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDQ3NzYxLnBuZw==/315x250%23c/N8q6bg.png",
         "bias": 0
       },
       {
-        "title": "The Veiled Isle [Free] [Windows]",
-        "link": "https://garakutaya.itch.io/the-veiled-isle",
+        "title": "Hex Hex [Free] [Puzzle]",
+        "link": "https://mrholmez.itch.io/hex-hex",
+        "description": "A minimal color-mixing hex-grid puzzle for the Raylib 6.x GameJam",
+        "pubDate": "2026-07-12T17:08:59Z",
+        "source": "mrholmez.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDQ3NTgyLnBuZw==/315x250%23c/yDqTzm.png",
+        "bias": 0
+      },
+      {
+        "title": "Zipp the Silent [Free] [Other]",
+        "link": "https://ayrun.itch.io/zipp-the-silent",
+        "description": "Demo for my original character's model and animations",
+        "pubDate": "2026-07-12T17:08:13Z",
+        "source": "ayrun.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDQ3MDg2LnBuZw==/315x250%23c/AwZH7v.png",
+        "bias": 0
+      },
+      {
+        "title": "Jumpstick dash [Free] [Platformer]",
+        "link": "https://skyweb.itch.io/jumpstickdash",
+        "description": "Jump on platforms and don't fall",
+        "pubDate": "2026-07-12T17:05:09Z",
+        "source": "skyweb.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDQ3MzQ5LnBuZw==/315x250%23c/xfJLf6.png",
+        "bias": 0
+      },
+      {
+        "title": "Citadels Shadow City Demo [Free] [Card Game]",
+        "link": "https://ms-production.itch.io/citadels-shadow-city",
+        "description": "Outsmart your rivals and build the greatest city in this dark fantasy adaptation of the classic hidden-role board game.",
+        "pubDate": "2026-07-12T17:01:30Z",
+        "source": "ms-production.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDQ3Mjk2LnBuZw==/315x250%23c/kcjFwB.png",
+        "bias": 0
+      },
+      {
+        "title": "Shoohex [Free] [Shooter]",
+        "link": "https://szydlov.itch.io/shoohex",
+        "description": "A shooter where you merge bullets",
+        "pubDate": "2026-07-12T17:01:19Z",
+        "source": "szydlov.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDQ3ODY1LnBuZw==/315x250%23c/y%2B0aZi.png",
+        "bias": 0
+      },
+      {
+        "title": "bounce_it [Free] [Simulation]",
+        "link": "https://bounce-it.itch.io/bounce-it",
+        "description": "Allume la machine, le studio t'attend.",
+        "pubDate": "2026-07-12T16:58:23Z",
+        "source": "bounce-it.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDQ3MTY0LnBuZw==/315x250%23c/UcP2Uj.png",
+        "bias": 0
+      },
+      {
+        "title": "Hamlet — An Interactive Tragedy [Free]",
+        "link": "https://tidalmoss.itch.io/hamlet-an-interactive-tragedy",
+        "description": "A short literary interactive fiction adapted from Shakespeare. Every hesitation decides who the prince becomes.",
+        "pubDate": "2026-07-12T16:57:47Z",
+        "source": "tidalmoss.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDQ3MzEwLnBuZw==/315x250%23c/GD9x1l.png",
+        "bias": 0
+      },
+      {
+        "title": "Project Reclamation [Free] [Role Playing] [Windows]",
+        "link": "https://limejoe.itch.io/projectr",
+        "description": "Save the colonies of mankind from a horrifying alien threat.",
+        "pubDate": "2026-07-12T16:57:43Z",
+        "source": "limejoe.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDQ3MTM2LnBuZw==/315x250%23c/TCihBP.png",
+        "bias": 0
+      },
+      {
+        "title": "Cant Wake Mama [Free] [Platformer]",
+        "link": "https://likider.itch.io/cant-wake-mama",
         "description": "",
-        "pubDate": "2026-07-12T16:10:31Z",
-        "source": "garakutaya.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NDQ2MTI5LnBuZw==/315x250%23c/a5pDu5.png",
+        "pubDate": "2026-07-12T16:57:34Z",
+        "source": "likider.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDQ3MzExLnBuZw==/315x250%23c/NlIs6T.png",
         "bias": 0
       },
       {
-        "title": "Hex Defend [Free]",
-        "link": "https://drewhjava.itch.io/hex-defend",
-        "description": "Build and merge towers to defend base!",
-        "pubDate": "2026-07-12T16:08:24Z",
-        "source": "drewhjava.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NDQ1OTgzLnBuZw==/315x250%23c/ETI%2BzG.png",
+        "title": "Nethertide: Depths CCG [Free] [Card Game]",
+        "link": "https://tallboygames.itch.io/nethertide",
+        "description": "No mana screw, ever. A dark deckbuilding card game — sink any card for power.",
+        "pubDate": "2026-07-12T16:57:30Z",
+        "source": "tallboygames.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDQ3NDAzLnBuZw==/315x250%23c/tVdu6S.png",
         "bias": 0
       },
       {
-        "title": "MINDLE [Free] [Strategy] [Windows]",
-        "link": "https://5ldd.itch.io/mindle",
+        "title": "Laberinto Encantado [Free]",
+        "link": "https://patibaran.itch.io/laberinto-encantado",
         "description": "",
-        "pubDate": "2026-07-12T16:00:20Z",
-        "source": "5ldd.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NDQ1NzA4LnBuZw==/315x250%23c/r76ADU.png",
+        "pubDate": "2026-07-12T16:57:29Z",
+        "source": "patibaran.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDQ3NjI1LnBuZw==/315x250%23c/Tvn84c.png",
         "bias": 0
       },
       {
-        "title": "Sloppy's Magical Adventure to Hell [Free] [Adventure]",
-        "link": "https://mynameisphip.itch.io/sloppys-magical-adventure-to-hell",
-        "description": "Sloppy needs to rescue his best friend from Hell in this strange prototype roguelike!",
-        "pubDate": "2026-07-12T16:00:13Z",
-        "source": "mynameisphip.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NDQ1OTc3LnBuZw==/315x250%23c/ppAITV.png",
+        "title": "Platfoxxer ZERO edition [Free] [Platformer]",
+        "link": "https://orangefox-thatisfederex.itch.io/platfoxxer-zero-edition",
+        "description": "Platfoxxer",
+        "pubDate": "2026-07-12T16:51:01Z",
+        "source": "orangefox-thatisfederex.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDQ3MjI3LnBuZw==/315x250%23c/0katMK.png",
         "bias": 0
       },
       {
-        "title": "fusemage [Free] [Action]",
-        "link": "https://ndkean.itch.io/fusemage",
+        "title": "FIGHT A BRAINROT : BRAINROT  BOSSRUSH [Free]",
+        "link": "https://jim-triangle.itch.io/fight-a-brainrot",
+        "description": "The ultimate Brainrot fighting game  - Wasd to move space to dash click to attack",
+        "pubDate": "2026-07-12T16:48:09Z",
+        "source": "jim-triangle.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDQ3MjQyLnBuZw==/315x250%23c/%2BzQ2ZY.png",
+        "bias": 0
+      },
+      {
+        "title": "Minecraft 2D [Free] [Windows]",
+        "link": "https://hadjersayeh711.itch.io/minecraft-2d",
         "description": "",
-        "pubDate": "2026-07-12T15:53:20Z",
-        "source": "ndkean.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NDQ1NTE4LnBuZw==/315x250%23c/5%2FPiSq.png",
+        "pubDate": "2026-07-12T16:47:52Z",
+        "source": "hadjersayeh711.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDQ2OTE5LnBuZw==/315x250%23c/HJ7oRH.png",
         "bias": 0
       },
       {
-        "title": "Blaranny — she's already home. [Free] [Other] [Windows]",
-        "link": "https://moonflight.itch.io/blaranny",
-        "description": "Big black Blaranny",
-        "pubDate": "2026-07-12T15:50:35Z",
-        "source": "moonflight.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NDQ2Mjk5LnBuZw==/315x250%23c/OB9Ox8.png",
-        "bias": 0
-      },
-      {
-        "title": "Jinxified [Free] [Puzzle]",
-        "link": "https://krstnvz.itch.io/jinxified",
-        "description": "Create potions to cure your customers in this little puzzle game!",
-        "pubDate": "2026-07-12T15:50:18Z",
-        "source": "krstnvz.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NDQ1NTU5LnBuZw==/315x250%23c/V7e31J.png",
-        "bias": 0
-      },
-      {
-        "title": "xpuzzle — daily puzzle collection [Free] [Puzzle]",
-        "link": "https://cezikmertcan.itch.io/xpuzzle",
-        "description": "four daily brain games: void, bloom, mosaic and path.",
-        "pubDate": "2026-07-12T15:48:48Z",
-        "source": "cezikmertcan.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NDQ1ODUwLnBuZw==/315x250%23c/B3HNuf.png",
-        "bias": 0
-      },
-      {
-        "title": "Shapeshifter Hunt [Free] [Puzzle]",
-        "link": "https://kikibyte.itch.io/shapeshifter-hunt",
-        "description": "Spot the Differences in a Sea of Shapes",
-        "pubDate": "2026-07-12T15:46:54Z",
-        "source": "kikibyte.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NDQ1NzI1LmpwZw==/315x250%23c/2%2BjnFS.jpg",
-        "bias": 0
-      },
-      {
-        "title": "clean hearts [Free] [Visual Novel]",
-        "link": "https://umsyt.itch.io/clean-hearts",
-        "description": "it's about trust [18+]",
-        "pubDate": "2026-07-12T15:46:26Z",
-        "source": "umsyt.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NDQ1NTQ0LnBuZw==/315x250%23c/q9ddEs.png",
-        "bias": 0
-      },
-      {
-        "title": "Sprunki Eclipse Shifted [Free] [Rhythm] [Windows] [macOS] [Linux] [Android]",
-        "link": "https://ezzi-the-sprunki-creator.itch.io/spunki-eclipse-shifted",
+        "title": "Hexplosion [Free]",
+        "link": "https://haldorj.itch.io/hexplosion",
         "description": "",
-        "pubDate": "2026-07-12T15:42:07Z",
-        "source": "ezzi-the-sprunki-creator.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NDQ1NDI5LnBuZw==/315x250%23c/b8PNFL.png",
+        "pubDate": "2026-07-12T15:53:39Z",
+        "source": "haldorj.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDQ1NjE5LnBuZw==/315x250%23c/NF8vfp.png",
         "bias": 0
       },
       {
-        "title": "Island Racer [Free] [Racing] [Windows]",
-        "link": "https://paninidrift.itch.io/island-racer",
-        "description": "This game about island racing",
-        "pubDate": "2026-07-12T15:40:58Z",
-        "source": "paninidrift.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NDQ2MDAyLnBuZw==/315x250%23c/XKzDUd.png",
+        "title": "Lightners Live [Free] [Rhythm] [Windows]",
+        "link": "https://creativecoder35.itch.io/lightners-live",
+        "description": "Multiplayer recreation of the \"Rock Video\" minigame from Deltarune!",
+        "pubDate": "2026-07-12T15:05:56Z",
+        "source": "creativecoder35.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDQ0NzgzLnBuZw==/315x250%23c/BptVKc.png",
         "bias": 0
       },
       {
-        "title": "Island Merge [Free] [Platformer]",
-        "link": "https://darkcrossprime.itch.io/island-merge",
-        "description": "Merge tiles to build your city, win by escaping the flood",
-        "pubDate": "2026-07-12T15:40:00Z",
-        "source": "darkcrossprime.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NDQ1NTgxLnBuZw==/315x250%23c/SHirht.png",
+        "title": "The Cattle [Free] [Survival] [Windows]",
+        "link": "https://san-nie.itch.io/the-cattle",
+        "description": "A survival observation horror game where a routine inspection job slowly spirals into an unnatural nightmare.",
+        "pubDate": "2026-07-12T14:37:00Z",
+        "source": "san-nie.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDQ0OTQ1LmpwZw==/315x250%23c/6cnjPi.jpg",
         "bias": 0
       },
       {
-        "title": "Beverage Cell Sim [Free] [Simulation]",
-        "link": "https://petrichorimpression.itch.io/beverage-cell-sim",
-        "description": "Just a simple project made while learning Godot.",
-        "pubDate": "2026-07-12T15:39:14Z",
-        "source": "petrichorimpression.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NDQ1NDM3LmpwZWc=/315x250%23c/RRATQs.jpeg",
+        "title": "Double Snake (SEGA Genesis / Mega Drive) [Free] [Windows] [macOS] [Linux] [Android]",
+        "link": "https://z4k4.itch.io/double-snake",
+        "description": "2 player snake game for SEGA Genesis / Mega Drive",
+        "pubDate": "2026-07-12T14:20:56Z",
+        "source": "z4k4.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDQ1MjIxLnBuZw==/315x250%23c/LOd4Ur.png",
         "bias": 0
       },
       {
-        "title": "Cyber Magen [Free] [Strategy]",
-        "link": "https://litcandlearrow.itch.io/cyber-magen",
-        "description": "Command the Blue Team in a cyber defense RTS — hunt the intruder and hold the network before the ransomware hits.",
-        "pubDate": "2026-07-12T15:38:33Z",
-        "source": "litcandlearrow.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NDQ1ODA1LnBuZw==/315x250%23c/NdtIUJ.png",
-        "bias": 0
-      },
-      {
-        "title": "Soulwolven [Free] [Adventure] [Windows]",
-        "link": "https://somewhere-lei.itch.io/connection",
+        "title": "Danger Stars [Free] [Role Playing]",
+        "link": "https://charlequin.itch.io/danger-stars",
         "description": "",
-        "pubDate": "2026-07-12T15:28:34Z",
-        "source": "somewhere-lei.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NDQ1MjY0LmpwZw==/315x250%23c/4jfBR8.jpg",
-        "bias": 0
-      },
-      {
-        "title": "LABORATORIO DE VIDEOJUEGOS [Free] [Adventure] [Windows]",
-        "link": "https://surprised-monkey.itch.io/laboratorio-de-videojuegos",
-        "description": "Aprende a crear videojuegos mientras juegas, diseñas y compartes tus propios niveles.",
-        "pubDate": "2026-07-12T15:22:04Z",
-        "source": "surprised-monkey.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NDQ0OTg3LnBuZw==/315x250%23c/cyXNkE.png",
-        "bias": 0
-      },
-      {
-        "title": "MOON PIERCER [Free] [Other] [Windows]",
-        "link": "https://vaughnraphael.itch.io/moon-piercer",
-        "description": "PIERCE THE MOON",
-        "pubDate": "2026-07-12T15:05:15Z",
-        "source": "vaughnraphael.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NDQ1MzI3LnBuZw==/315x250%23c/tbVoLP.png",
-        "bias": 0
-      },
-      {
-        "title": "O Operador de Máquinas (Pt-Br) [Free] [Other] [Windows]",
-        "link": "https://d4iane520.itch.io/o-operador-de-mquinas-pt-br",
-        "description": "Jogo curto de terror sobre um operador de máquinas.",
-        "pubDate": "2026-07-12T14:45:02Z",
-        "source": "d4iane520.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NDQ0NTIxLnBuZw==/315x250%23c/CetcWp.png",
-        "bias": 0
-      },
-      {
-        "title": "Market Wizard [Free] [Shooter]",
-        "link": "https://chienf0u.itch.io/market-wizard",
-        "description": "",
-        "pubDate": "2026-07-12T14:42:30Z",
-        "source": "chienf0u.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NDQ1NTI5LnBuZw==/315x250%23c/QBFaFs.png",
-        "bias": 0
-      },
-      {
-        "title": "Hexadore [Free] [Action]",
-        "link": "https://intervinn.itch.io/hexadore",
-        "description": "Color combining arcade game",
-        "pubDate": "2026-07-12T14:41:47Z",
-        "source": "intervinn.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NDQ0NTQ5LnBuZw==/315x250%23c/yh9GDA.png",
-        "bias": 0
-      },
-      {
-        "title": "the Invisible ladder (无形之梯) [Free] [Visual Novel]",
-        "link": "https://wuhoutoken.itch.io/invisible-ladder",
-        "description": "A knowledge-driven story of grassroots governance—where theory collides with messy realities.",
-        "pubDate": "2026-07-12T14:40:53Z",
-        "source": "wuhoutoken.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NDQzMzI0LnBuZw==/315x250%23c/nGQAgB.png",
-        "bias": 0
-      },
-      {
-        "title": "Plant Alchemy [Free] [Simulation]",
-        "link": "https://spolchen.itch.io/plant-alchemy",
-        "description": "Conjure your own Plants through the magic of Alchemy",
-        "pubDate": "2026-07-12T14:22:11Z",
-        "source": "spolchen.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NDQ1NDIxLnBuZw==/315x250%23c/WX3DAo.png",
-        "bias": 0
-      },
-      {
-        "title": "OHRANNIK [Free] [Puzzle] [Windows] [Linux]",
-        "link": "https://bulkka.itch.io/ohrannik",
-        "description": "meow",
-        "pubDate": "2026-07-12T13:13:58Z",
-        "source": "bulkka.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NDQyMzYzLmpwZw==/315x250%23c/GW4CA2.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Arnisia [Free] [Action]",
-        "link": "https://jesshiyoo.itch.io/anisia",
-        "description": "Filipino Martial Art Game",
-        "pubDate": "2026-07-12T12:54:40Z",
-        "source": "jesshiyoo.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NDQ0Mjc1LnBuZw==/315x250%23c/qJbj%2BN.png",
-        "bias": 0
-      },
-      {
-        "title": "HEX-SHOOT [Free] [Shooter]",
-        "link": "https://lqurent.itch.io/hex-shoot",
-        "description": "Merge your lasers, absorb bullets, and break the walls.",
-        "pubDate": "2026-07-12T12:31:58Z",
-        "source": "lqurent.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NDQ1NDcxLnBuZw==/315x250%23c/%2BJepnH.png",
+        "pubDate": "2026-07-12T00:08:02Z",
+        "source": "charlequin.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDQ3MzQwLnBuZw==/315x250%23c/CtxHcg.png",
         "bias": 0
       }
     ],
     "World": [
       {
+        "title": "Toronto police looking for suspects after deadly shooting at festival",
+        "link": "https://www.npr.org/2026/07/12/g-s1-133229/toronto-shooting-salsa-festival",
+        "description": "At least two people are dead and at least four people are injured after a shooting on Saturday night at a festival celebrating Latin culture in Canada's biggest city.",
+        "pubDate": "2026-07-12T17:22:29Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Sen. Lindsey Graham, a close Trump ally and foreign policy hawk, dies after a brief illness - AP News",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcGhrZ2FzTUtJem9sWmVlbWNIVFdEdmw0dGNpXzZoenpMLXNIVXZGblVJOEs3MUhPU2hwQTF2cUVtU0VfWjZlOUdmc0pfQy0xWE0xYlFuaDhCY0pBcVFMU3p3dkM3ZXhlc04tdTlEOEpSMDVzWkJ4ZkFlQmVPOVM4ZjhoOVZJdHFXRDVIOUhTMDlVZDMtenEyWmxR?oc=5",
         "description": "",
-        "pubDate": "2026-07-12T16:09:00Z",
+        "pubDate": "2026-07-12T17:10:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
+        "title": "UK Christians protest for Church of England to recognise genocide in Gaza",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/uk-christians-protest-for-church-of-england-to-recognise-genocide-in-gaza?traffic_source=rss",
+        "description": "UK Christians are urging the Church of England General Synod to pass a motion to engage with Kairos Palelestine II",
+        "pubDate": "2026-07-12T16:54:49Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+        "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+        "description": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
+        "pubDate": "2026-07-12T16:46:24Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e75/live/a70b6a10-7e07-11f1-afb0-9dae682daff3.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Funeral prayers held for Qatar’s Father Emir Sheikh Hamad",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/funeral-prayers-held-for-qatars-father-emir-sheikh-hamad?traffic_source=rss",
+        "description": "Funeral prayers have been held for the Father Emir, Sheikh Hamad bin Khalifa Al Thani, at Qatar’s national mosque.",
+        "pubDate": "2026-07-12T16:43:24Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "‘Sheikh Hamad will be fondly remembered across the Gulf’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/sheikh-hamad-will-be-fondly-remembered-across-the?traffic_source=rss",
+        "description": "‘Sheikh Hamad will be fondly remembered across the Gulf’",
+        "pubDate": "2026-07-12T16:38:34Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
         "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
         "link": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
         "description": "He took power in 1996 after staging a bloodless coup against his father, and went on to transform Qatar into the gas-rich power it is today.",
-        "pubDate": "2026-07-12T16:07:59Z",
+        "pubDate": "2026-07-12T16:35:50Z",
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d015/live/7ee2a4e0-7df8-11f1-9800-45cddfec00b9.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Iran war: US strategic success or diplomatic failure?",
+        "link": "https://www.aljazeera.com/video/upfront/2026/7/12/iran-war-us-strategic-success-or-diplomatic-failure?traffic_source=rss",
+        "description": "Marc Lamont Hill challenges former United States diplomat Heino Klinck on the US-Israeli war in Iran.",
+        "pubDate": "2026-07-12T16:34:17Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "FIFA World Cup 2026: Day 31",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/fifa-world-cup-2026-day-31?traffic_source=rss",
+        "description": "Al Jazeera’s Basel Ghazoghli has your #FIFAworldcup26 day 31 recap, as England and Argentina reach the semi-finals.",
+        "pubDate": "2026-07-12T16:30:57Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "United States at 250: Seven tests of the American experiment",
+        "link": "https://www.aljazeera.com/video/featured-documentaries/2026/7/12/united-states-at-250-seven-tests-of-the-american-experiment?traffic_source=rss",
+        "description": "Seven stories test America’s promises of freedom, opportunity and power as the United States marks its 250th year.",
+        "pubDate": "2026-07-12T16:30:00Z",
+        "source": "aljazeera.com",
+        "image": "",
         "bias": -1
       },
       {
@@ -284,13 +302,13 @@
         "bias": -1
       },
       {
-        "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
-        "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-        "description": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
-        "pubDate": "2026-07-12T15:58:15Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e75/live/a70b6a10-7e07-11f1-afb0-9dae682daff3.jpg",
-        "bias": -1
+        "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+        "description": "",
+        "pubDate": "2026-07-12T15:54:25Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Syrian parliament convenes for first time following al-Assad’s overthrow",
@@ -313,7 +331,7 @@
       {
         "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
         "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
-        "description": "Donald Trump paid tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
+        "description": "Donald Trump pays tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
         "pubDate": "2026-07-12T15:34:45Z",
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0992/live/576e9b70-7dc2-11f1-b976-0b9c15b0ccfc.jpg",
@@ -329,9 +347,9 @@
         "bias": -1
       },
       {
-        "title": "David Willey, esteemed BBC foreign correspondent, dies aged 93",
+        "title": "David Willey, esteemed BBC Vatican correspondent, dies aged 93",
         "link": "https://www.bbc.co.uk/news/articles/cn9403518jro?at_medium=RSS&at_campaign=rss",
-        "description": "Willey is best known for covering the Vatican, and reported on five popes during his long career.",
+        "description": "One of the BBC's longest-serving foreign correspondents, he reported on five popes during his career.",
         "pubDate": "2026-07-12T15:22:52Z",
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c5d/live/b0df0c60-7e05-11f1-afb0-9dae682daff3.jpg",
@@ -360,6 +378,15 @@
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWNIZWpPMUROMXlXU0EwT1pjWWUycXFoTjBobEJLM0JpWGhjTWZwN0Q2RkxaY3N6cU9fNXZOT194MWFHYllDYUh4RWdEdmF3NVpGQ2tlOTl4dWI5VzVMWlgycVBYcmtSRDR6UV9lQmtoWkZMUWRvLUYwZXhIQzlGcVVpTGlMZElhRkxkT0pkMXlEZDJmSll0c2JsYkY?oc=5",
         "description": "",
         "pubDate": "2026-07-12T14:59:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Vietnam police detain captain after speedboat capsizing kills 15 Indian tourists - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU25nLWp3Y0VwR2VTRURaZ18xYU9nQ0F6YlZRS1RfT1lHYUNOYUpsVlY4c255ekpPdFBXeXZBWFJoTkhZZjgzUW9pWEhhbEQ1cnB4d0FoY19TVzdQaGJZdnNnUnBJYmMzUWswMnhzX1pvcThBVFRwbXpLNW5mNzQxSTc3VkYycXNVb05Nc0xBcTVId0lScG1naU1PcTY?oc=5",
+        "description": "",
+        "pubDate": "2026-07-12T14:48:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -482,6 +509,15 @@
         "bias": -1
       },
       {
+        "title": "Wimbledon final features defending champion Jannik Sinner vs. French Open winner Alexander Zverev - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ3U5ZEZRREVyOUZQUk9xdHc4Tmp0enI0Qm5ERHNnQ0dXRk1BSzVoN0tRT2VpT1dGdF9SVUQ1b0o5YWhuZHpHalZqN1Nic2ptRmZDNjZxY3o1Z0lvZjI1OC12ZFBzT2pzbW1RX0ItN1dPTzFwMDNZeG1iUnloNjNxY3gzamdDMWRtX3pKbmphNzFhYVE?oc=5",
+        "description": "",
+        "pubDate": "2026-07-12T12:31:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "FIFA World Cup 2026: Biggest takeaways from the quarterfinals",
         "link": "https://www.aljazeera.com/sports/2026/7/12/fifa-world-cup-2026-biggest-takeaways-from-the-quarterfinals?traffic_source=rss",
         "description": "The quarterfinals are now behind us, with plenty of key moments and incidents as the tournament enters the final four.",
@@ -518,60 +554,6 @@
         "bias": -1
       },
       {
-        "title": "IRGC releases video of retaliatory missile strikes",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/irgc-releases-video-of-retaliatory-missile-strikes?traffic_source=rss",
-        "description": "IRGC releases video of retaliatory missile strikes",
-        "pubDate": "2026-07-12T11:07:26Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Key moments from former Qatar Emir Sheikh Hamad bin Khalifa Al Thani’s life",
-        "link": "https://www.aljazeera.com/news/2026/7/12/key-moments-from-former-qatar-emir-sheikh-hamad-bin-khalifa-al-thanis-life?traffic_source=rss",
-        "description": "Sheikh Hamad's 18-year rule catapulted Qatar to prosperity and reshaped its domestic, regional and global footprint.",
-        "pubDate": "2026-07-12T11:00:08Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Photos: Qatari Father Emir Sheikh Hamad bin Khalifa Al Thani",
-        "link": "https://www.aljazeera.com/gallery/2026/7/12/photos-qatari-father-emir-sheikh-hamad-bin-khalifa-al-thani?traffic_source=rss",
-        "description": "Sheikh Hamad, who ruled Qatar from 1995 to 2013 and stepped aside to make his son Sheikh Tamim emir, dies aged 74.",
-        "pubDate": "2026-07-12T10:17:04Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "The spectacle and symbolism of Khamenei’s funeral",
-        "link": "https://www.aljazeera.com/video/the-listening-post/2026/7/12/the-spectacle-and-symbolism-of-khameneis-funeral?traffic_source=rss",
-        "description": "How coverage of the supreme leader's funeral exposed the limits of familiar narratives about Iran.",
-        "pubDate": "2026-07-12T09:53:49Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies: Reactions",
-        "link": "https://www.aljazeera.com/news/2026/7/12/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-reactions?traffic_source=rss",
-        "description": "After Sheikh Hamad's death, global leaders offer condolences, praise his legacy and Qatar’s growth.",
-        "pubDate": "2026-07-12T09:40:23Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Iran attacks five Gulf nations, shuts Hormuz after US bombing: All to know",
-        "link": "https://www.aljazeera.com/news/2026/7/12/iran-attacks-five-gulf-nations-shuts-hormuz-after-us-bombing-all-to-know?traffic_source=rss",
-        "description": "Tehran hits back at several GCC countries, following the most intense US bombing since an MoU was signed last month.",
-        "pubDate": "2026-07-12T09:13:26Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "People flee as Russian strike hits near Ukraine coffee shop",
         "link": "https://www.bbc.co.uk/news/videos/c8r27drk1nxo?at_medium=RSS&at_campaign=rss",
         "description": "Three cameras caught the moment people ducked then ran for cover in Sumy, in north eastern Ukraine.",
@@ -590,6 +572,15 @@
         "bias": -1
       },
       {
+        "title": "Conor McGregor suffers early knee injury in return, loses to Max Holloway at UFC 329 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcWZrdnNJYzI3MDVrVXRxbjN1aFpMTFh4XzBoaENsS0lQWXRlNGVkVGozMm1MY2hyYTE5cHJQZGRHUGxQZEZ2Z2xXOWxXTHhIQTFkdlRfaVVieHpBekUybmQ3ZkhUMnhBaGR3V3lyZm1zNGJqNWt2NnhaR3hBbDZvS2hOX0s5bElLOGlzM21iMHdfMjdoNkVLNDNnTU5LRlFq?oc=5",
+        "description": "",
+        "pubDate": "2026-07-12T06:52:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Alvarez’s 112th-minute goal helps lift Argentina past Switzerland 3-1 and into World Cup semifinals - AP News",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYzltWml3U2pWSzlQdHF5SE5CVFpLUm5WLWRCUXpQUU9yT09ic01hVzhHTmFPa3VmUlV6TW1iR2s0bzVSdTFKQmV6Qk5yZzRtcjNxOTJNQ2xYLXduZ0tDQzltdGpJd3JzSmRTZ1p1UlhLSDhwSkM0dXEwRkIyZWxGUFp6WFNyUm1ocVI1RTJ4eVRRekMybzlCUUFjNXhrZw?oc=5",
         "description": "",
@@ -603,15 +594,6 @@
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb3piNGVPelRzRGU5LWp5cmFKM3FlcDdXYnZMeFNqWk5EUks3MTdrYjJrT3k4YjJIOTJyWlRaZ3JDN0JZX1dxNlU5Ull6SUl5ajhvZXVMX0kyaXQ0X1RZSWVWakFZSGdsS1hKaGg0VWMtXzJaYXRJME9BQVhsUEpLRG9mMkktQlRrSzZXMDZ4eEhXLVYtb1pBZGRPYU1QUQ?oc=5",
         "description": "",
         "pubDate": "2026-07-12T05:11:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Focus turns to building stronger institutions in Africa to speed shift to renewable energy - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY2wzNThUanJTUlREMmptaWRSOVl5S0E5MkRjalZPYjJIbnZrek1oT1J5S19OOFo3THZsckRCejA0YnRUYkpfaVBZV01aNXp2Ujlqc3p3ajdZOG1XVTFBandHOTVpVU1OSE9QQUJWck1meDl6NTJQdDhLQndfY2FXMnlNRElncEVYWVE4SVhBU3JCNXF1amc?oc=5",
-        "description": "",
-        "pubDate": "2026-07-12T05:02:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -638,7 +620,7 @@
         "title": "Lionel Messi’s World Cup scoring streak ends, but his assist sparks Argentina’s win over Switzerland - AP News",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVUlnRURwNUpIZ3h3aHYxXy1lNUkteXBzVkxWNEhwSndDRXVnYlluQXpLdVFkVGVTeFlTN0pKaHg1c1lCZGY1T09id3F0MTl1WHJ2VEFkb3JvWVZIQ2VrdzVzdDlUSHZwY3ZldVN5eHhDT001c1duS3pwZ01qWjdYVWRaY0lRQV9GdGozY0Vn?oc=5",
         "description": "",
-        "pubDate": "2026-07-12T04:19:00Z",
+        "pubDate": "2026-07-12T04:25:22Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -669,50 +651,23 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Heat and humidity make World Cup quarterfinal challenge for Norway, England even tougher - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY0hhcU5McnFCNWV5TnRMaGtnRVJ6blRrS0FRWUY2Y01qVUpuRThRU0hDX3AzajNwc2xGQTNwTzV3alNLQzNBN1VxS2x5cTdoc2NZaThDNHNJMGlLZlNFbE9XME9CMXFJMkc1cDlGdlNTa2M2Sm9iOV9hVGRHWVM0X1g4NUxuMTBrRjRxT01ybmJBSk54cndF?oc=5",
-        "description": "",
-        "pubDate": "2026-07-12T02:58:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "‘Ted Lasso’ stars bring World Cup fever to Kansas City as Argentina faces Switzerland - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSVhqQjgtWDR5OG9wUU1MWTBBWGo0NXU2NlY2YjhlRWNRdHhUa3ZlWEtBTURrLVBhX2d1WXJELU5IWGFlMnlfSS1IMkt4VWF5bFd3UmVRRWVST242R2huckxmNDd6RjRBdkFWX2F0WXZvMXFDNmtZUXIyd3BZVW1lVjdSVVlTd251NHA4S2toX25xdDZQT3c?oc=5",
-        "description": "",
-        "pubDate": "2026-07-12T01:47:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Erling Haaland neutralized by England and subbed off late as Norway’s World Cup run ends - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbEdHS1BfR1lFVzFfbWhwcGtFWkg0enZWSDNMVU1uSmx4VFdaXzFVMldUeG0xX3BmNTRpWVJlMnJiNmFVZDRLSTRVdWw2R0hLWTV3NERKS0ZUZTA2dDAyOVRYV0xHQk9YY0NOUE83Z1VLaFB1VUJTYzBLOE02T3VpaWxxQzh2Y2M2djhQd0ZYSml5cmFGRGc?oc=5",
-        "description": "",
-        "pubDate": "2026-07-12T01:45:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "England scores in World Cup match with Norway after ball appears to hit camera cable over field - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTHE2ekU4dno5MHAxZGZsd2JrZzdBSlM5b2R3YUdsN1E2c0E1R0RhUHFPWUJYbkNWa29tZjBZdTJoaE5seFhXalNWeHhXMjN1Mnc2UVAxLVJwUDhiYk52amdPUXJXcm5aSHJuemgwdWRST0Z1eGVKdDBXcXdreVNqLVpZdDl1XzVXY2dVanB5RmVoNUpFVHRjVFEwcw?oc=5",
-        "description": "",
-        "pubDate": "2026-07-12T01:42:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
       {
+        "title": "Bill for Hillsborough Law set to be approved by MPs",
+        "link": "https://www.bbc.co.uk/news/articles/cz754eey3xeo?at_medium=RSS&at_campaign=rss",
+        "description": "The crush at the 1989 FA Cup semi-final between Liverpool and Nottingham Forest left 97 fans dead.",
+        "pubDate": "2026-07-12T17:03:39Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3885/live/3ffd8160-7b04-11f1-856d-fd44bbf1f4a6.png",
+        "bias": -1
+      },
+      {
         "title": "From staunch critic to fierce ally: Graham's long, strange and consequential friendship with Trump - AP News",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN0dGNzRaQmFaTlBZTEJ4bENBX2VEeGVWREg4b3c1Y1ZwclE3dDYwcFR4SlFXNl9iZHNONXNBMkZOS2UtWVZTcVl4SHVlSHhVeDRiVHQ2ZEhwTGp5Si1uNHpQNTA0YkpoYzZGREp0ZXMwY0lFczVKb2RIMlZXdHVvbE5nWk9fOWh4cGNkUzM5QTRRY1NUZWlUUWZOYndlaUtiaTlXSWgzYw?oc=5",
         "description": "",
-        "pubDate": "2026-07-12T16:17:00Z",
+        "pubDate": "2026-07-12T16:25:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -727,6 +682,15 @@
         "bias": -1
       },
       {
+        "title": "Macron warns of resurgent demons of antisemitism as France honors Alfred Dreyfus - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVG9ITFoxYlp3US1CVFhpcTlFSXhQSUFOakw4QXl3ZmxnT2psWXRmdHRLUVh5WDBmdnRtbjduMjRYQk82dmVPNFludUtPRVp6ZmVhMEdOWmpnVUpHelRMMWVyTkl2Nm9DY05TYlBfOFlRRHNkcXg3MjN6OURGU01xRG9uTjYyM1ZObjZaT3RpQXVIaEt3T1lqck1kM1N2Zw?oc=5",
+        "description": "",
+        "pubDate": "2026-07-12T16:10:04Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Ukraine’s prime minister steps down as Zelenskyy announces government reshuffle - AP News",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWFdBOU1paEhkRXRwdjF6aXZjdWJOeXpzRmxhOG5vTHVqNXdHSzJLWXdDRjlzVE9BUE9zVWdzeDJYUnpDV0V2V3RpSXJLV3h1allFck5jN2tWQV9tVVF0ZjllR2FXd3dzUUVNbGFsNm4tUzNkTkozWUJraWpINmNVZTFxWUJuZ1JXUVpvQWFMd3owT2pJU1YwdEFvYXpqaW8?oc=5",
         "description": "",
@@ -736,10 +700,10 @@
         "bias": 0
       },
       {
-        "title": "Vietnam police detain captain after speedboat capsizing kills 15 Indian tourists - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU25nLWp3Y0VwR2VTRURaZ18xYU9nQ0F6YlZRS1RfT1lHYUNOYUpsVlY4c255ekpPdFBXeXZBWFJoTkhZZjgzUW9pWEhhbEQ1cnB4d0FoY19TVzdQaGJZdnNnUnBJYmMzUWswMnhzX1pvcThBVFRwbXpLNW5mNzQxSTc3VkYycXNVb05Nc0xBcTVId0lScG1naU1PcTY?oc=5",
+        "title": "Israeli fire in Gaza kills 5 people, including a little girl, health officials say - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMG9aTHRZOUl1VXc1WEROTm5fcWJ3RXVEeFpCenhmOW1jalV6RGNpcFpuTUx5LS14blI5ZF9tdHoxZVJsNnIwZFphM0o4c29VdmtZU1hXWWNiTV81UGVEbHlROTRnUDhhdVp0VHMwUFZXazJrX2JRM1ZOeVRHT0gybmpZQXl0TWYxVHE0M1dXV1gwN3Q2T2lmZ1puelRSYzQ0RUE?oc=5",
         "description": "",
-        "pubDate": "2026-07-12T14:48:00Z",
+        "pubDate": "2026-07-12T14:22:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -754,15 +718,6 @@
         "bias": 0
       },
       {
-        "title": "Bill for Hillsborough Law set to be approved by MPs",
-        "link": "https://www.bbc.co.uk/news/articles/cz754eey3xeo?at_medium=RSS&at_campaign=rss",
-        "description": "The crush at the 1989 FA Cup semi-final between Liverpool and Nottingham Forest left 97 fans dead.",
-        "pubDate": "2026-07-12T13:55:51Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3885/live/3ffd8160-7b04-11f1-856d-fd44bbf1f4a6.png",
-        "bias": -1
-      },
-      {
         "title": "Police say no suggestion of political motive in Widdecombe killing after new arrest",
         "link": "https://www.bbc.co.uk/news/articles/c8628q3eqdeo?at_medium=RSS&at_campaign=rss",
         "description": "Police say they are not looking for anyone else after a 28-year-old man was arrested in Rotherham, South Yorkshire.",
@@ -770,15 +725,6 @@
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4545/live/1a6c45a0-7dd7-11f1-91f9-abeb669686c2.jpg",
         "bias": -1
-      },
-      {
-        "title": "Wimbledon final features defending champion Jannik Sinner vs. French Open winner Alexander Zverev - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ3U5ZEZRREVyOUZQUk9xdHc4Tmp0enI0Qm5ERHNnQ0dXRk1BSzVoN0tRT2VpT1dGdF9SVUQ1b0o5YWhuZHpHalZqN1Nic2ptRmZDNjZxY3o1Z0lvZjI1OC12ZFBzT2pzbW1RX0ItN1dPTzFwMDNZeG1iUnloNjNxY3gzamdDMWRtX3pKbmphNzFhYVE?oc=5",
-        "description": "",
-        "pubDate": "2026-07-12T12:31:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "How longtime GOP Senator Lindsey Graham went from critic to ally of President Trump",
@@ -862,10 +808,10 @@
         "bias": -1
       },
       {
-        "title": "Conor McGregor suffers early knee injury in return, loses to Max Holloway at UFC 329 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcWZrdnNJYzI3MDVrVXRxbjN1aFpMTFh4XzBoaENsS0lQWXRlNGVkVGozMm1MY2hyYTE5cHJQZGRHUGxQZEZ2Z2xXOWxXTHhIQTFkdlRfaVVieHpBekUybmQ3ZkhUMnhBaGR3V3lyZm1zNGJqNWt2NnhaR3hBbDZvS2hOX0s5bElLOGlzM21iMHdfMjdoNkVLNDNnTU5LRlFq?oc=5",
+        "title": "Focus turns to building stronger institutions in Africa to speed shift to renewable energy - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY2wzNThUanJTUlREMmptaWRSOVl5S0E5MkRjalZPYjJIbnZrek1oT1J5S19OOFo3THZsckRCejA0YnRUYkpfaVBZV01aNXp2Ujlqc3p3ajdZOG1XVTFBandHOTVpVU1OSE9QQUJWck1meDl6NTJQdDhLQndfY2FXMnlNRElncEVYWVE4SVhBU3JCNXF1amc?oc=5",
         "description": "",
-        "pubDate": "2026-07-12T06:52:00Z",
+        "pubDate": "2026-07-12T05:02:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -875,6 +821,15 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc1o2Rll3VDlMMDFoNE8yUV84cGZWNXRMTXcwcVExb1lSNTJVTC1fZVZCLTBEUG9FU3NYZmVuRk5NajN5TGJZTnBIRjRyXzhLSF96Nk5wTkg0THg4SlhLcTZLSE0yZFhoSWxJSVZEVm9acGhxNHJKYnJmdEpLcWd4YnlXbGFQd0Z6MG9Ic2JhTGNpeThpbnNj?oc=5",
         "description": "",
         "pubDate": "2026-07-12T03:48:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Mexican builder fatally shot by an ICE officer is mourned after making a life in the US - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcVo3MFhOUks2d1FTNTNsWE5tOGFGblpBLWN2MzlMZ0Y3a3RLQU01UHVZZzlScGdyWmN2aXRuSHVXNk1pTXg1ckJCVUppSko2SkZIc0V3RERtcU9kQWg1aUFycXNubEFWXzA1WDNrM1FBWkM1WFZGeHRLTlZ3UWowRzFWeUd1QXowdWp2eVJSeHJEY0l2akF3a0Zjc2RSQQ?oc=5",
+        "description": "",
+        "pubDate": "2026-07-12T01:36:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -968,6 +923,15 @@
       }
     ],
     "Culture": [
+      {
+        "title": "Andrew Flintoff's Top Gear crash passenger sues BBC Studios",
+        "link": "https://www.bbc.co.uk/news/articles/c4gy59p5gz6o?at_medium=RSS&at_campaign=rss",
+        "description": "Expert driver Paul Rees is claiming personal injury, which BBC Studios is disputing.",
+        "pubDate": "2026-07-12T16:11:20Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90ef/live/d00c17f0-2063-11f0-9c65-a5c3dc449bf3.jpg",
+        "bias": -1
+      },
       {
         "title": "'The perfect football song': Why England fans (like Beckham) and players love Wonderwall",
         "link": "https://www.bbc.co.uk/news/articles/cx2wllrlrxgo?at_medium=RSS&at_campaign=rss",
