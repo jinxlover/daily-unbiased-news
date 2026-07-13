@@ -1,16 +1,368 @@
 {
-  "lastUpdate": "2026-07-13T11:14:19.392226Z",
+  "lastUpdate": "2026-07-13T13:30:52.191328Z",
   "news": {
-    "Gaming": [],
+    "Gaming": [
+      {
+        "title": "Field Artillery Training [Free] [Simulation]",
+        "link": "https://misdake.itch.io/field-artillery-training",
+        "description": "",
+        "pubDate": "2026-07-13T13:20:34Z",
+        "source": "misdake.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDY1ODc0LnBuZw==/315x250%23c/Z2W4qN.png",
+        "bias": 0
+      },
+      {
+        "title": "Ragdoll Yeet [Free] [Action] [macOS]",
+        "link": "https://yuu1ch1-3.itch.io/ragdoll-yeet",
+        "description": "Fling a ragdoll across a warehouse full of furniture. Chain the boosts. Reach places you should not be able to reach.",
+        "pubDate": "2026-07-13T13:19:19Z",
+        "source": "yuu1ch1-3.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDY1NjY4LnBuZw==/315x250%23c/jySnz7.png",
+        "bias": 0
+      },
+      {
+        "title": "Audio FMOD/SFML Project [Free] [Action]",
+        "link": "https://spudsrlife.itch.io/audio-fmodsfml-project",
+        "description": "",
+        "pubDate": "2026-07-13T13:11:50Z",
+        "source": "spudsrlife.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDY1NzIyLnBuZw==/315x250%23c/XrEHCF.png",
+        "bias": 0
+      },
+      {
+        "title": "Adventures of the Flippy Ball [Free]",
+        "link": "https://aselimnl.itch.io/flippy-ball",
+        "description": "",
+        "pubDate": "2026-07-13T13:01:12Z",
+        "source": "aselimnl.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDY1NDA1LnBuZw==/315x250%23c/q5yJYE.png",
+        "bias": 0
+      },
+      {
+        "title": "Happy Birthday, Mr. Rubik! [Free] [Puzzle]",
+        "link": "https://gaborkepes.itch.io/happy-birthday-mr-rubik",
+        "description": "",
+        "pubDate": "2026-07-13T12:58:45Z",
+        "source": "gaborkepes.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDY1MjY1LnBuZw==/315x250%23c/PavHSO.png",
+        "bias": 0
+      },
+      {
+        "title": "ONE OVER THREE [Free] [Windows]",
+        "link": "https://iam3aldi.itch.io/one-over-three",
+        "description": "one over three type crap three mod",
+        "pubDate": "2026-07-13T12:57:17Z",
+        "source": "iam3aldi.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDY1MjQ2LnBuZw==/315x250%23c/1ZOJPL.png",
+        "bias": 0
+      },
+      {
+        "title": "Undercooked [Free]",
+        "link": "https://shenuka-nilesh.itch.io/undercooked",
+        "description": "UnderCooked is a fun  Multiplayer  3D cooking game.",
+        "pubDate": "2026-07-13T12:45:07Z",
+        "source": "shenuka-nilesh.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDY1MDU0LnBuZw==/315x250%23c/u9z%2FV%2F.png",
+        "bias": 0
+      },
+      {
+        "title": "Taiwan Puzzle Journey [Free] [Puzzle]",
+        "link": "https://old-hen.itch.io/discover-taiwan",
+        "description": "A Pixel Puzzle Adventure",
+        "pubDate": "2026-07-13T12:39:40Z",
+        "source": "old-hen.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDY0ODc4LnBuZw==/315x250%23c/1c9gp%2F.png",
+        "bias": 0
+      },
+      {
+        "title": "Casual Escape [Free] [Other] [Windows]",
+        "link": "https://nanapepper.itch.io/casual-escape",
+        "description": "Physic is your best friend to escape this unwelcoming place !",
+        "pubDate": "2026-07-13T12:35:37Z",
+        "source": "nanapepper.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDY1NDA2LmpwZw==/315x250%23c/wkB2jS.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Horse Adventure simustor [Free] [Action] [Windows]",
+        "link": "https://temuvibe.itch.io/horse-adventure-simustor",
+        "description": "",
+        "pubDate": "2026-07-13T12:34:16Z",
+        "source": "temuvibe.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDY0OTI5LmpwZw==/315x250%23c/PQm7TC.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Fedrometry Dash v1.01 [Free] [Action] [Windows]",
+        "link": "https://gopero.itch.io/fedrometry-dash-v101",
+        "description": "",
+        "pubDate": "2026-07-13T12:30:39Z",
+        "source": "gopero.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDY0ODY5LmpwZw==/315x250%23c/mLS0rB.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Devalaya [Free] [Simulation] [Windows]",
+        "link": "https://lohanidamodar.itch.io/devalaya",
+        "description": "Tend a tiny roadside shrine into a golden Grand Pagoda. A cozy temple-management and decoration sim",
+        "pubDate": "2026-07-13T12:29:42Z",
+        "source": "lohanidamodar.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDY0OTYzLnBuZw==/315x250%23c/6XypVt.png",
+        "bias": 0
+      },
+      {
+        "title": "Free Kicker [Free] [Sports]",
+        "link": "https://hammer600.itch.io/free-kicker",
+        "description": "Free Kicker is a football free-kick game where your goal is to score as many goals as possible.",
+        "pubDate": "2026-07-13T12:26:08Z",
+        "source": "hammer600.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDY1MTcyLmpwZw==/315x250%23c/SPeVe9.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Bichrome Core [Free] [Action] [Windows]",
+        "link": "https://sirkania.itch.io/bichrome-core",
+        "description": "Shift colors, absorb enemy fire, and save a reactor split between two realities.",
+        "pubDate": "2026-07-13T12:21:25Z",
+        "source": "sirkania.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDY0ODMxLnBuZw==/315x250%23c/vMY54E.png",
+        "bias": 0
+      },
+      {
+        "title": "Dodge the Creeps (Godot Tutorial) [Free] [Survival]",
+        "link": "https://gabrielouroborus.itch.io/dodge-the-creeps-godot-tutorial",
+        "description": "Godot 2D game tutorial.",
+        "pubDate": "2026-07-13T12:16:42Z",
+        "source": "gabrielouroborus.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDY0NjkzLnBuZw==/315x250%23c/yXfqsG.png",
+        "bias": 0
+      },
+      {
+        "title": "Heaven & Hell (2003) – Retro Preservation Page [Free] [Strategy]",
+        "link": "https://davminew-800.itch.io/heaven-hell-retro-preservation-page-2003",
+        "description": "Pagina retro dedicata a Heaven & Hell (2003): scheda tecnica, manuale ricreato e materiali di preservazione.",
+        "pubDate": "2026-07-13T12:16:23Z",
+        "source": "davminew-800.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDY0NjQ3LnBuZw==/315x250%23c/ev%2Bb6w.png",
+        "bias": 0
+      },
+      {
+        "title": "Untold [Free] [Adventure]",
+        "link": "https://wacko8867.itch.io/untold",
+        "description": "Discover skills held within and defeat the Great Dragon Lord!",
+        "pubDate": "2026-07-13T12:09:23Z",
+        "source": "wacko8867.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDY1Nzc1LnBuZw==/315x250%23c/tkY2yZ.png",
+        "bias": 0
+      },
+      {
+        "title": "Jogo dos Pássaros [Free] [Other] [Windows]",
+        "link": "https://justneno.itch.io/jogo-dos-pssaros",
+        "description": "FlappyBird-like feito com as aulas do curso NoNeClass",
+        "pubDate": "2026-07-13T11:29:28Z",
+        "source": "justneno.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDY0NDg0LmdpZg==/original/%2B0nK2B.gif",
+        "bias": 0
+      },
+      {
+        "title": "Dinner Sort [Free] [Simulation]",
+        "link": "https://deepfriedtech.itch.io/dinner-sort",
+        "description": "A tiny game about dinner prep. Sort ingredients  for your dish.",
+        "pubDate": "2026-07-13T10:59:57Z",
+        "source": "deepfriedtech.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDY0NTA1LnBuZw==/315x250%23c/x3OQr%2F.png",
+        "bias": 0
+      },
+      {
+        "title": "Platformer 2D Adventure [Free]",
+        "link": "https://saadeddinziargmailcom.itch.io/platformer-2d-adventure",
+        "description": "Platformer 2D Adventure هي لعبة شبيهة بلعبة سوبرماريو ويمكنك لعبها  مع اخوك",
+        "pubDate": "2026-07-13T10:50:52Z",
+        "source": "saadeddinziargmailcom.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDYzNDY0LnBuZw==/315x250%23c/ZsryVh.png",
+        "bias": 0
+      },
+      {
+        "title": "Advanced Fun With Viktor Strobovski (1.0V) [Free] [Action]",
+        "link": "https://baldimoder323.itch.io/advanced-fun-with-viktor-strobovski-10v",
+        "description": "",
+        "pubDate": "2026-07-13T10:14:24Z",
+        "source": "baldimoder323.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDYzMTAwLnBuZw==/315x250%23c/ttU1TJ.png",
+        "bias": 0
+      },
+      {
+        "title": "Alt+Tab Apocalypse [Free] [Action]",
+        "link": "https://googlinux.itch.io/alttab-apocalypse",
+        "description": "A frantic office comedy arcade game about slacking off, panic-hiding windows, and surviving the boss.",
+        "pubDate": "2026-07-13T06:42:16Z",
+        "source": "googlinux.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDYxMTk0LmdpZg==/original/Mlgtov.gif",
+        "bias": 0
+      },
+      {
+        "title": "Academia Brawl [Free] [Action]",
+        "link": "https://kitasanbroccolidev.itch.io/academia-brawl",
+        "description": "",
+        "pubDate": "2026-07-13T05:13:35Z",
+        "source": "kitasanbroccolidev.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDY1MzQ3LnBuZw==/315x250%23c/bcCvAN.png",
+        "bias": 0
+      }
+    ],
     "World": [
       {
-        "title": "At least 27 killed, 25 critically injured after fire engulfs Bangkok bar",
+        "title": "What is Japan’s new intelligence agency, and why is Tokyo building it?",
+        "link": "https://www.aljazeera.com/news/2026/7/13/what-is-japans-new-intelligence-agency-and-why-is-tokyo-building-it?traffic_source=rss",
+        "description": "Japan plans to launch its first centralised intelligence body with help from Western allies.",
+        "pubDate": "2026-07-13T13:07:15Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "What will happen to Trump’s agenda after Lindsey Graham’s death?",
+        "link": "https://www.aljazeera.com/news/2026/7/13/what-will-happen-to-trumps-agenda-after-lindsey-grahams-death?traffic_source=rss",
+        "description": "Graham, an ex-Trump critic, had turned into staunch supporter of the US president’s domestic and international policies.",
+        "pubDate": "2026-07-13T12:41:22Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "The late Sheikh Hamad bin Khalifa Al Thani’s legacy on women’s reform",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/the-late-sheikh-hamad-bin-khalifa-al-thanis-legacy-on-womens-reform?traffic_source=rss",
+        "description": "Qatar's late Emir Sheikh Hamad bin Khalifa Al Thani’s 18-year rule brought pivotal changes towards women empowerment.",
+        "pubDate": "2026-07-13T12:36:41Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "At least 28 killed, 25 critically injured after fire engulfs Bangkok bar",
         "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
         "description": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.",
-        "pubDate": "2026-07-13T11:10:58Z",
+        "pubDate": "2026-07-13T12:32:08Z",
         "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1848/live/dc8219e0-7e85-11f1-926f-c90d1bcfbc84.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32aa/live/d7f9b550-7eb6-11f1-8439-ebc9c5f19300.jpg",
         "bias": -1
+      },
+      {
+        "title": "Street in Illinois named after murdered Palestinian boy",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/street-in-illinois-named-after-murdered-palestinian-boy?traffic_source=rss",
+        "description": "A street in the US state of Illinois has been named after a six year old Palestinian American boy who was killed.",
+        "pubDate": "2026-07-13T12:31:36Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Police investigate the death of South Africa World Cup soccer player Jayden Adams - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOUNkR0xwTjNpa3YtVU9meHNCSEpBM2dsZEdUZlF3eklVcTdfbHpHb1BDX1dPNkl2S1ZSSXBXTEVGUHVzaGIyVkt4M2xmZGtBUWFXWFZ6YWdQa2J2UlRFM2pLTzlaM1hjU0N1cVJ0UnR3WGRadzNueTF0MklVSERqNHRSR1A5VEFDcUtrSTJfX3IyVk1uN0lNVGpXUjJGdEdqQnVQaFBnemk?oc=5",
+        "description": "",
+        "pubDate": "2026-07-13T12:21:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "March to July: What’s different as US-Iran fighting escalates again?",
+        "link": "https://www.aljazeera.com/news/2026/7/13/march-to-july-whats-different-as-us-iran-fighting-escalates-again?traffic_source=rss",
+        "description": "With ceasefire in shambles and both sides exchanging tit-for-tat attacks, is the region again plunging into all-out war?",
+        "pubDate": "2026-07-13T12:12:46Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "The U.S.-Iran ceasefire grows more distant. And, Congress faces a consequential week",
+        "link": "https://www.npr.org/2026/07/13/g-s1-133269/up-first-newsletter-us-iran-war-congress-lindsey-graham-gaza-israel-hussam-abu-safiya",
+        "description": "The U.S. and Iran exchanged fire over the weekend amid tensions over the Strait of Hormuz. And, Congress returns from recess facing tight deadlines.",
+        "pubDate": "2026-07-13T12:02:33Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
+        "link": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss",
+        "description": "Friends, politicians and fellow film stars remember Neill following his \"sudden and unexpected\" death.",
+        "pubDate": "2026-07-13T11:52:55Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83b5/live/99882570-7e86-11f1-926f-c90d1bcfbc84.jpg",
+        "bias": -1
+      },
+      {
+        "title": "South Korea rolls out plan to tackle youth suicide crisis",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/south-korea-rolls-out-plan-to-tackle-youth-suicide-crisis?traffic_source=rss",
+        "description": "South Korea rolls out plan to tackle youth suicide crisis",
+        "pubDate": "2026-07-13T11:48:52Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "The SpaceX IPO made history. One month on has it lost momentum?",
+        "link": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&at_campaign=rss",
+        "description": "A month on from the firm's stock market debut, the reality of how SpaceX currently makes money has seemed to come into clearer focus.",
+        "pubDate": "2026-07-13T11:45:25Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab1/live/ee081470-7c79-11f1-b976-0b9c15b0ccfc.png",
+        "bias": -1
+      },
+      {
+        "title": "Al Jazeera bids farewell to founder Sheikh Hamad",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/al-jazeera-bids-farewell-to-founder-sheikh-hamad?traffic_source=rss",
+        "description": "Al Jazeera bids farewell to founder Sheikh Hamad",
+        "pubDate": "2026-07-13T11:38:09Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Yemen government says its forces attacked Sanaa airport",
+        "link": "https://www.aljazeera.com/news/2026/7/13/yemen-govt-says-its-forces-attacked-sanaa-airport?traffic_source=rss",
+        "description": "Gov't says its forces carried out a strike at Sanaa airport to prevent an Iranian aircraft from landing there.",
+        "pubDate": "2026-07-13T11:38:03Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "German court convicts Iraqi couple of enslaving Yazidi girls",
+        "link": "https://www.bbc.co.uk/news/articles/cg53rp4e2j4o?at_medium=RSS&at_campaign=rss",
+        "description": "The pair, named only as Twana H.S. and Asia R. A., left Germany for Iraq in 2015 and became members of the Islamic State group.",
+        "pubDate": "2026-07-13T11:36:18Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62ef/live/5cd629d0-7eac-11f1-a302-011524d23ac9.jpg",
+        "bias": -1
+      },
+      {
+        "title": "UK says an Iran-backed group was behind attacks on Jewish community, bans Revolutionary Guard - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY2lwM1ZyVkI4akUtUE0zX0tRNEp6TjVhVjFWUG9CWERiNlVKUGNHb0h0VGlwVHlvSWxDVG1DbkRpeWVQUVdrOWJKNTNkYXdkM3M3TVZWeXF0RDktYWpxS0dtOEU2alZnR1JJQzBJMTFZMjQwSWJoQzY5cExxSVBPOWxnUGVqWUFEVnR6c2owWXk?oc=5",
+        "description": "",
+        "pubDate": "2026-07-13T11:30:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Will the 2030 World Cup expand to 64 teams? What FIFA’s Infantino says",
+        "link": "https://www.aljazeera.com/news/2026/7/13/gianni-infantino-64-teams-expansion-comments-fifa-2030-world-cup?traffic_source=rss",
+        "description": "FIFA president says during the first World Cup to feature 48 teams that it's under consideration.",
+        "pubDate": "2026-07-13T11:29:20Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Massive AI buildout poses latest inflation threat as consumers pay more for laptops and electricity - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSURhX3FMdWtnTzItVmVORkhQbldIYkdDWmhlWTlkNUk5N0IwdE1ndVdoNl9nSlhCelo4dkVHb1E3aXB0SEFoUlU3cG84Nk5EeVN2RlBPdmt0Nzk0NnhsckowY1ZvNW5ZVkJNdWRLLVFZQ21BSVdGbzZpMmV5QXJiaHRaRFFIRnZKM3k1c2VKMkptUQ?oc=5",
+        "description": "",
+        "pubDate": "2026-07-13T11:28:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "EU countries consider sanctions on trade from illegal Israeli settlements",
@@ -42,7 +394,7 @@
       {
         "title": "People flee Bangkok bar as huge flames shoot out from doorway",
         "link": "https://www.bbc.co.uk/news/videos/cy5vx2e45xdo?at_medium=RSS&at_campaign=rss",
-        "description": "At least 27 people have died and 25 are critically injured after a fire tore through a bar in a popular Bangkok district.",
+        "description": "At least 28 people have died and 25 are critically injured after a fire tore through a bar in a popular Bangkok district.",
         "pubDate": "2026-07-13T10:17:13Z",
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49fc/live/872134c0-7ea5-11f1-926f-c90d1bcfbc84.jpg",
@@ -56,6 +408,15 @@
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a195/live/c3779220-7e9b-11f1-bff3-4914dc3e2c6b.jpg",
         "bias": -1
+      },
+      {
+        "title": "What to know about the Bangkok bar fire that killed 27 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSzV3MlVCS3BrZGxnWHZyV2NTS01YTE1kR2plUmxQTXl3M1ZzdG1ORjBCMzJSejNCRUR6LVJhUzdNc2Z3anQ5aExkdmloRWdQbERZdUpkVDZ3aVRDUTcwVEdsTzhlOG1ZcU1nSlR2ZW51UWppRW9Edm5SSTVHbFBuc3lFa3Q2MGtvQ0ZWNWU2c1JSVVd1Y1hvdTBqRWVWSDJPdVU3Y3JB?oc=5",
+        "description": "",
+        "pubDate": "2026-07-13T10:03:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "France vs Spain: World Cup semifinal – Mbappe, Yamal, predictions, kickoff",
@@ -92,6 +453,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Oil prices jump and world shares are mixed as US and Iran carry out airstrikes - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcHZ0YWpGZjBZakNRRmRveklzX1hRUklIWUc2MzVoWE51Z1Bjc0JFU05vd2tGVWhaSVVVSmFvbHU3QWJZcEs0R2dkRjFxcG9WaGMtWFo2SmhqTTVjSDNFVFk5Zl8xcmdiaTFHUmM5cWU0RzNDeDU2TGM4RWJJMjg3Y2lYeEJBWkdqeXFWUjg0eWpNZw?oc=5",
+        "description": "",
+        "pubDate": "2026-07-13T09:27:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Hollywood blockbusters and arthouse films: Sam Neill's best-known roles in pictures",
@@ -139,6 +509,15 @@
         "bias": -1
       },
       {
+        "title": "Singapore court postpones French teen’s straw-licking case to July 30 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOREVETEZBNjRPcGxQV0dnd0ZnM3dNN3pLaURSZE5MMnU3b3Q4eXQ2NUlDTW5qRVlGZzJPWENuRGFPb1FxSlhsUzNKZ2lxNk5TTVdtN09KWnZEOWstWm16SC1hUS1XMDdQMlhBYnNGS2pxMjF5dmNOaHRIdTJ1QlVWX2VSRDlsamNmcnV4LUprYWM5S1NralZTbW1aWQ?oc=5",
+        "description": "",
+        "pubDate": "2026-07-13T08:21:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Watch World Cup: Preview ahead of Spain-France semifinal 1",
         "link": "https://www.aljazeera.com/video/2026/7/13/video-world-cup-2026-highlights?traffic_source=rss",
         "description": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
@@ -175,6 +554,15 @@
         "bias": -1
       },
       {
+        "title": "Sen. Lindsey Graham likely died after aorta tear, medical examiner says - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcGhrZ2FzTUtJem9sWmVlbWNIVFdEdmw0dGNpXzZoenpMLXNIVXZGblVJOEs3MUhPU2hwQTF2cUVtU0VfWjZlOUdmc0pfQy0xWE0xYlFuaDhCY0pBcVFMU3p3dkM3ZXhlc04tdTlEOEpSMDVzWkJ4ZkFlQmVPOVM4ZjhoOVZJdHFXRDVIOUhTMDlVZDMtenEyWmxR?oc=5",
+        "description": "",
+        "pubDate": "2026-07-13T07:24:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Sam Neill, known for 'Jurassic Park' and 'The Piano,' dies at 78, his family says",
         "link": "https://www.npr.org/2026/07/13/nx-s1-5891505/actor-sam-neill-dies",
         "description": "In 2023, Neill disclosed he had been diagnosed with angioimmunoblastic T-cell lymphoma, a rare type of non-Hodgkin lymphoma. Neill died on Monday in Sydney, according to a statement posted to the actor's social media page.",
@@ -184,13 +572,13 @@
         "bias": -1
       },
       {
-        "title": "The SpaceX IPO made history. One month on has it lost momentum?",
-        "link": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&at_campaign=rss",
-        "description": "A month on from the firm's stock market debut, the reality of how SpaceX currently makes money has seemed to come into clearer focus.",
-        "pubDate": "2026-07-13T07:19:57Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab1/live/ee081470-7c79-11f1-b976-0b9c15b0ccfc.png",
-        "bias": -1
+        "title": "Trump suggests a standing order to attack Iran if it assassinates him. But Vance would make the call - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS09GLTR6OERMc0tDYndyV0VZQ3NxdEFwa1Zpc1JZZVpzVFVqME1hLWtaNElHNmZsZjZIbjFyRGwyakdSU0U2cjdXSUFaSlVBYks2ejFtOVg5LUpLZGc4akg3SjI1eXY1VHJveE1TMVUyTHgxR1ZCOWExdHAwQXRUZTloanZ2WWVrbWROLVhsR1VDSEZybHQ2OGttdmI2LWc0Z01V?oc=5",
+        "description": "",
+        "pubDate": "2026-07-13T07:18:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "FIFA World Cup: Which semifinal team has best chance to win the trophy?",
@@ -229,33 +617,6 @@
         "bias": -1
       },
       {
-        "title": "How former Emir Sheikh Hamad bin Khalifa Al Thani built Qatar’s economy",
-        "link": "https://www.aljazeera.com/news/2026/7/13/how-former-emir-sheikh-hamad-bin-khalifa-al-thani-built-qatar-economy?traffic_source=rss",
-        "description": "Sheikh Hamad, who passed away aged 74 on Sunday, reshaped Qatar's economy by building lasting wealth and growth.",
-        "pubDate": "2026-07-13T05:18:17Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Iran attacks US military bases in Bahrain, Kuwait, and Jordan",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/iran-attacks-us-military-bases-in-bahrain-kuwait-and-jordan?traffic_source=rss",
-        "description": "Iran launches attacks on Gulf states, targeting US military assets in Bahrain, Kuwait, and Jordan.",
-        "pubDate": "2026-07-13T05:15:54Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Elderly Palestinian describes being beaten up by Israeli settlers",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/aje-onl-nf_elderly-palestinian-beaten-up-by-israeli-settlers-130726?traffic_source=rss",
-        "description": "Israeli settlers assaulted 79-year-old Ibrahim al-Jabour and his family in Masafer Yatta in the Occupied West Bank.",
-        "pubDate": "2026-07-13T05:06:03Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "Watch: At the scene where Bangkok's deadly bar fire unfolded",
         "link": "https://www.bbc.co.uk/news/videos/clyrd9nwn9wo?at_medium=RSS&at_campaign=rss",
         "description": "The BBC’s South East Asia correspondent visits the site where at least 27 people were killed during a bar fire in Thailand.",
@@ -265,13 +626,31 @@
         "bias": -1
       },
       {
-        "title": "FIFA World Cup: Is France, Spain, Argentina and England best semifinals?",
-        "link": "https://www.aljazeera.com/sports/2026/7/13/are-messi-mbappe-yamal-and-kane-part-of-the-best-world-cup-semifinal-yet?traffic_source=rss",
-        "description": "Mbappe, Messi, Yamal, Kane - and Bellingham - are in the semifinals, but will the performances match the reputations?",
-        "pubDate": "2026-07-13T04:56:18Z",
-        "source": "aljazeera.com",
+        "title": "Greece awaits Nolan’s ‘The Odyssey’ with anticipation despite casting controversy - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbFFYOW1wS3FNel9ERTYtVnVlRGE5bGNVY3BZNkZYVnh1ZnNYUnI2OHA1YkxQNlJmODY2QThPYXRtN0k3ZkplalVqMnZrLVNYaHNaUnFrYUROTmtTNlJVdXJmaGdUX0tKZXhTbW1qMEh6dnU1eV8tclVwajFONkxJeENhNHJrX3dqLTBxbWc0ZzlfeVJoYWc?oc=5",
+        "description": "",
+        "pubDate": "2026-07-13T04:28:00Z",
+        "source": "news.google.com",
         "image": "",
-        "bias": -1
+        "bias": 0
+      },
+      {
+        "title": "Man who killed Dartmouth professors at 17 seeks reduced prison sentence - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQME5aZHpCOUFkTDZHTXYzeFRZbzlYU1RsVE80TDV5ZHNkT0RJN3RMUHdyN2R3NUZnLXB3eEVTRllPMWU4UHdhR21JQ1A3SU5ZSjBkSFhjX1VSajZ4aF9JbG4td0l3RW9wdlRkbGNRS1pVUFFoZm94cnAtNTVwSFR4aDFXd0R5WHpvLVNVN1ZraGxJanQ3N2FHY0tTd1FmcnZHZjBEdlNzdUtPQmhGWTJvMGlGTkt1QQ?oc=5",
+        "description": "",
+        "pubDate": "2026-07-13T04:16:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Ukraine reels after Sen. Lindsey Graham’s sudden death, fearing a weaker link to Trump - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPellBSHhlNWRLclozaXhPSzhGc21IbGNrNzVUNzl2N0N5TFd5TlNzbjl5QnREZzJlZ2FjWTlyRFM0NEhuc3lQYjYzX1JlZExIWTdJcHNzQzdhS2ZmRF95bzdmNi1OSGJJNXFvX1pRSVRhSC1mTEh4Wjc5NUl5UG9qOFF1WllfQUN0SHBfb0ZTYnV4bzZRZTQtcV9OMFdhYWNDTEMyNUxYM2Jkb1VhaWRRNw?oc=5",
+        "description": "",
+        "pubDate": "2026-07-13T04:10:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Bombs, blood, ambushes - football coaching with the army",
@@ -281,107 +660,98 @@
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d7d/live/da7f58f0-7e6d-11f1-bee8-53ce494e1abc.jpg",
         "bias": -1
-      },
-      {
-        "title": "Deadly Bangkok pub blaze revives concerns over fire safety lapses",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/deadly-bangkok-pub-blaze-revives-concerns-over-fire-safety-lapses?traffic_source=rss",
-        "description": "Al Jazeera's Tony Cheng reports from the site where a deadly fire tore through a Bangkok pub around midnight on Monday.",
-        "pubDate": "2026-07-13T03:24:24Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Oil prices jump as US and Iran trade attacks over Strait of Hormuz",
-        "link": "https://www.aljazeera.com/economy/2026/7/13/oil-prices-jump-as-us-and-iran-trade-attacks-over-strait-of-hormuz?traffic_source=rss",
-        "description": "Brent crude climbs more than 4 percent as Washington and Tehran clash over control of critical waterway.",
-        "pubDate": "2026-07-13T02:58:05Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Israel releases video of hidden tunnels below Lebanon’s Beaufort Castle",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/israel-releases-video-of-hidden-tunnels-below-lebanons-beaufort-castle?traffic_source=rss",
-        "description": "The Israeli Army has released footage of what it says are hidden tunnels under Lebanon’s historic Beaufort Castle.",
-        "pubDate": "2026-07-13T02:10:10Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "At least 27 dead as fire engulfs popular Bangkok pub near Chatuchak market",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/at-least-27-dead-as-fire-engulfs-popular-bangkok-pub-near-chatuchak-market?traffic_source=rss",
-        "description": "At least 27 people were killed and 63 injured, many critically, after a fire ripped through a popular pub in Bangkok.",
-        "pubDate": "2026-07-13T01:27:30Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Japan’s pet care industry booms as ‘fur babies’ outnumber infants",
-        "link": "https://www.aljazeera.com/economy/2026/7/13/japans-pet-care-industry-booms-as-fur-babies-outnumber-infants?traffic_source=rss",
-        "description": "Japanese baby product manufacturers turn their attention to the pet market amid collapsing birthrate.",
-        "pubDate": "2026-07-13T01:20:33Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "British couple return to village at heart of deadly Spanish wildfire",
-        "link": "https://www.bbc.co.uk/news/articles/cx24e09x79no?at_medium=RSS&at_campaign=rss",
-        "description": "At least 13 people, including five believed to be Britons, were killed by Thursday's wildfire in Spain's Almeria province.",
-        "pubDate": "2026-07-13T00:29:21Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3502/live/a47f3390-7e4c-11f1-bee8-53ce494e1abc.png",
-        "bias": -1
-      },
-      {
-        "title": "How Indian scientists are mapping the brain's last frontier",
-        "link": "https://www.bbc.co.uk/news/articles/cg53l737v1qo?at_medium=RSS&at_campaign=rss",
-        "description": "India's new brainstem atlas offers scientists an unprecedented map of one of the brain's least known regions.",
-        "pubDate": "2026-07-13T00:08:11Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8230/live/dff3e310-79da-11f1-a400-b302bc872d47.jpg",
-        "bias": -1
-      },
-      {
-        "title": "10 years of Pokémon Go and the millions still trying to catch 'em all",
-        "link": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss",
-        "description": "Michael Steranka, vice president at the mobile game's owner Scopely, says it has always been about bringing people together.",
-        "pubDate": "2026-07-13T00:07:00Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c312/live/88ec5440-7be6-11f1-9010-bd4e2d0a26e0.png",
-        "bias": -1
-      },
-      {
-        "title": "The Chinese graduate accused of being Mexico's 'fentanyl king'",
-        "link": "https://www.bbc.co.uk/news/articles/c39ymggglxeo?at_medium=RSS&at_campaign=rss",
-        "description": "Cartel members and ex-colleagues describe how Zhang Zhidong allegedly linked Chinese chemicals to Mexican drug labs.",
-        "pubDate": "2026-07-13T00:05:46Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4005/live/916366b0-7b8a-11f1-bee8-53ce494e1abc.jpg",
-        "bias": -1
       }
     ],
     "Politics": [
       {
-        "title": "Ann Widdecombe murder probe: What we know so far",
-        "link": "https://www.bbc.co.uk/news/articles/c3vyqkqkvr9o?at_medium=RSS&at_campaign=rss",
-        "description": "The former MP was found dead at her home in Haytor, Devon, on Thursday morning.",
-        "pubDate": "2026-07-13T10:58:51Z",
+        "title": "Zelenskyy seeks more European air defense support for Ukraine at Paris meeting - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMkkwY2FkVlNuY2pSdjdKVlk4SHZLOFN6V0xqbFdSVzBseHBjRFlkZk1LX1VpcEtWaGtEMGNhU1FnUEZkZ2NlTHdrUU5jd2ZBUlpKOV9neDlybnlybEZWSTluY0I0R0xZQlUyQXVRSXY1YW91SnRaamVlZzM0MmF5Um5MTzVUXzZFbUZEUEZjMEUzcWtHLWlPVXRuR0VwNVFtaUVR?oc=5",
+        "description": "",
+        "pubDate": "2026-07-13T13:01:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Fire breaks out at a pub in Bangkok, killing at least 27 people - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRDZqVUcxbWQwdkVZbGFYZDROU0F1WG1oOTRHd1J2SWhWQTFocXdOV19PVW54NHFvb3FseEVtdl9GYjRTcEktZDdKME9WcjdjSkpwQ2JhTWJiWE1IUXVLNmgxclVsSERkenBiYWZvVjZPcklPdk54RGIyRXg1ajd1UlNIN2JCM0ZUTC00cmR3?oc=5",
+        "description": "",
+        "pubDate": "2026-07-13T13:01:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "UK bans support for Iran's Islamic Revolutionary Guard Corps",
+        "link": "https://www.bbc.co.uk/news/articles/cz0jkj7e87go?at_medium=RSS&at_campaign=rss",
+        "description": "Shabana Mahmood will use new powers to ban support for the group, which has been linked to death threats and intimidation on British soil.",
+        "pubDate": "2026-07-13T12:50:19Z",
         "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7013/live/f9f4ed40-7c8c-11f1-bee8-53ce494e1abc.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/203a/live/824742b0-7eb3-11f1-b5ec-67e9897fe2ad.jpg",
         "bias": -1
       },
       {
-        "title": "Suspect in Ann Widdecombe murder seen on CCTV getting into car with object",
+        "title": "Counter terrorism police take over investigation into Ann Widdecombe's death",
         "link": "https://www.bbc.co.uk/news/articles/c0mydjl12mwo?at_medium=RSS&at_campaign=rss",
-        "description": "The man, dressed in a white shirt and shorts, can be seen getting into a red car outside a house in Rotherham in the footage.",
-        "pubDate": "2026-07-13T10:29:22Z",
+        "description": "The man in custody has since been re-arrested on suspicion of commission, preparation or instigation of acts of terrorism, police say.",
+        "pubDate": "2026-07-13T12:19:19Z",
         "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8ee/live/caaf3660-7ea5-11f1-b976-0b9c15b0ccfc.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2039/live/11681ab0-7ebd-11f1-8439-ebc9c5f19300.jpg",
         "bias": -1
+      },
+      {
+        "title": "Former top official Robbins takes legal action over sacking",
+        "link": "https://www.bbc.co.uk/news/articles/cjegqpwxk98o?at_medium=RSS&at_campaign=rss",
+        "description": "The former official was fired in April over Lord Mandelson's vetting to be the UK's ambassador to the US.",
+        "pubDate": "2026-07-13T12:06:06Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e212/live/c7332040-7eab-11f1-b5df-57d742fa94ec.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Support for Israel isn’t a high priority for younger Jewish Americans, an AP-NORC poll finds - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcFlhaXZHRE8zTTJkZE9ZenYtN2p6NWcwVnRkRWtadm5OZkpZeUU0NW5CQmRmY1dvUmljVzVDSEtMb044VzRpblBlRVowU1NGaGFLWWplTGplRjl2VC1DSUxnQ0FQOUJRVTNyWGRaYm5LZGVXLUlLR0NnV1dkV29OeHBaQXk3b29kUmVaZEVkSXU1c0gzZkhUM2xsZmhEcXpRbWZXUmpmalRvdXhW?oc=5",
+        "description": "",
+        "pubDate": "2026-07-13T12:06:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Mahmood to set out plan to deport grooming gang leader",
+        "link": "https://www.bbc.co.uk/news/articles/ce8m9615dqlo?at_medium=RSS&at_campaign=rss",
+        "description": "Calls have grown to deport Rochdale grooming gang ringleader Shabir Ahmed after his release from prison.",
+        "pubDate": "2026-07-13T11:15:39Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aacd/live/424cd010-7e5b-11f1-b976-0b9c15b0ccfc.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Sen. Richard Blumenthal talks about Lindsey Graham's legacy",
+        "link": "https://www.npr.org/2026/07/13/nx-s1-5890884/sen-richard-blumenthal-talks-about-lindsey-grahams-legacy",
+        "description": "NPR's A Martinez speaks with Sen. Richard Blumenthal, D-Conn., about Sen. Lindsey Graham's legacy.",
+        "pubDate": "2026-07-13T11:08:53Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "EU targets Russian intelligence officers accused of running a yearslong cyberspying campaign - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTmV6aWhWTlFUdU5wdi04MDVaQXJZTmk1MUxHYzlEWmdsYVpHNWtvWkZUb01NLUJkYlNpU3dIZ28temtNTWozcDhwMGd6V2xZbVdCQUFtMFZsVEV2anoyZjJJdHIybmRzcWFPUDQtZGx5c0pyUk0yZDloLTh2Z25xNlJNVTNwR0ZUbTdydDVzNVFDRDU0QjJkX0x4Y3JJc1BsSi1TQXZWcw?oc=5",
+        "description": "",
+        "pubDate": "2026-07-13T11:02:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Fire at a music bar in Bangkok kills at least 27 people - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNXzROblpEeTNtb2dGcVlidHpfWDBWN29CUnhnR21xSm52aHJwWGV4elJ6TUMybFZHR0hpbjBiVzRTV3lPNlhoMWNNMjNUbXpKU29FX25aZy1UYnpkQzlhTXJoYTdydEd3eXBwaUJFTkM3U2dfbHZ2TGlxd0g0VWtmdm1BQnlJbGJXdmNiWnp3?oc=5",
+        "description": "",
+        "pubDate": "2026-07-13T10:33:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "MP arrives at court for sexual assault trial",
@@ -391,6 +761,15 @@
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2932/live/e8765370-7e9d-11f1-b62f-ff1d7cedfbfe.jpg",
         "bias": -1
+      },
+      {
+        "title": "Michigan Sen. Gary Peters backs Democratic Rep. Haley Stevens in contentious race to succeed him - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWmx5WVJCVFBMMHlKN0ZKVVdVTDJFUTJmOU1yNUxmSm5PLTNyVTA2OTFIQTBENmJTNVNxejlBdmUyLWVPZjRXWVp2Z3ZucDNzOGtaeW00OF9jNlpYamZTSnBWUkxZcWJxbkp5ckItQXBTQUZRamxFV0IzMEw0akdXbXVEY2V5U1RmQ2dRLWd5LWhqcThWUFFfVGxiN1E3Yk04bFJ5ZGhGQ0JramxfMHdjOGthRlMwc3h4dmc?oc=5",
+        "description": "",
+        "pubDate": "2026-07-13T09:16:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "He was having a mental health crisis. Memphis task force agents came and shot him",
@@ -447,13 +826,13 @@
         "bias": -1
       },
       {
-        "title": "Mahmood to set out plan to deport grooming gang leader",
-        "link": "https://www.bbc.co.uk/news/articles/ce8m9615dqlo?at_medium=RSS&at_campaign=rss",
-        "description": "Calls have grown to deport Rochdale grooming gang ringleader Shabir Ahmed after his release from prison.",
-        "pubDate": "2026-07-13T08:44:27Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aacd/live/424cd010-7e5b-11f1-b976-0b9c15b0ccfc.jpg",
-        "bias": -1
+        "title": "Ryan Blaney wins 3-wide battle on final lap of overtime in NASCAR Cup race in Atlanta - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOVhBR3dYdVpvMEx6Ym1Zd0ItLVhDalIxS2VBS2pxTllfMVJNamdnX3NNY2htOF9uNHYzOXdOczREdTc0bk0tT0Nfc1VyYm1mR2t2VmFNVms3X0dybEVHQTVnVl90al8wVUlTQU1Wd2VoNFR4eEdNTDRoM1dLdGNmM0Rhb2lJbEh0?oc=5",
+        "description": "",
+        "pubDate": "2026-07-13T06:35:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "McConnell says a fall led to his hospitalization, breaking weeks of silence",
@@ -463,10 +842,47 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "China’s ‘Green Great Wall’ tames desert growth, but scientists warn the fight is not over - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRFhzUjRFS1d4ZGRvUHk5M1JBV2FJbWpfV0I2Y2k4SnFlTUE3ZF9GdHFvQ3dwdjF0b2JOaXFHLXZieGJZWmZSS0g5bzk2bUFVOVVOS1JmXzE4WDN4NEozMzY3N0tEVHdXV3NESzRfWWx0TEU2SnJJcWo5QUN3cDBMR2xwNm42MThBbkRmVi1KOVUzbG5NR043YzdDMXYzdWdKRVNjeU9GY0R5QUpKa1Y2TjFHU1BidnVF?oc=5",
+        "description": "",
+        "pubDate": "2026-07-13T03:38:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Truck carrying wedding guests struck on Indonesia highway, killing 13 people - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNlptVkpJM013SzJla2pnZ2lqa3VBcjMweDFNOGthMU5VRnFzQWdva2h0SUg0UlZKemthUG1yNlpDWlNaTE1IckpRUlJQclduYzhnMUIzS0NMMndnM3BFOTlXMUhOTldPaWJJTlU5bXRac083U3JUUkwwYkRKRm1CVXBPYjl2elJaTTNsR1FxRzl0aHFOQ1FlYm9tbUY?oc=5",
+        "description": "",
+        "pubDate": "2026-07-13T02:14:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
-    "Tech": [],
+    "Tech": [
+      {
+        "title": "Iran persecutes its Baha’i minority fiercely in a year of protests and war, rights groups say - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNHBlbXlFX0ZjVEdZbS1jcmlXSDlNcDItZVdVRmdxVEhIYnVHMkFrYUJGWVNPbU9NN09uaHN6Mk5UdDhpSFdNVFI4NEc5eWxEZUtoRXdUZWVrSWVONEI2LVR2X3lWZnE3R21UbWZSUGNySnkyS3lyUV85Uk1qSGV0UkJmWnVUT3cxX3prb2xtT2dtOEE4azBXbFRiY1NhamhFOVVz?oc=5",
+        "description": "",
+        "pubDate": "2026-07-13T05:17:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ],
     "Science": [
+      {
+        "title": "Work to protect adders, slow worms and lizards in Scots peatland",
+        "link": "https://www.bbc.co.uk/news/articles/c17yzvn4qwdo?at_medium=RSS&at_campaign=rss",
+        "description": "New shelters are being created at the site near Dumfries, using peat, tree material and brash.",
+        "pubDate": "2026-07-13T13:18:07Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7994/live/eb540ff0-73d1-11f1-b1db-af71d47507d6.png",
+        "bias": -1
+      },
       {
         "title": "Pythons' extreme biology may hold clues for treating human disease",
         "link": "https://www.npr.org/2026/07/13/nx-s1-5887668/pythons-metabolism-digestion-human-disease-treatment",
@@ -526,6 +942,33 @@
     ],
     "Culture": [
       {
+        "title": "Stars back bid to create Scotland's Rock and Roll Hall of Fame",
+        "link": "https://www.bbc.co.uk/news/articles/ce8k7jj0rl7o?at_medium=RSS&at_campaign=rss",
+        "description": "Midge Ure and Jim Kerr support plans to house the museum at Glasgow's troubled Centre for Contemporary Arts.",
+        "pubDate": "2026-07-13T13:14:16Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d1f/live/fbcf70b0-7e9c-11f1-bff3-4914dc3e2c6b.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Country estate festivals cancelled over finances",
+        "link": "https://www.bbc.co.uk/news/articles/cp9ldlr588go?at_medium=RSS&at_campaign=rss",
+        "description": "Heritage Live calls off summer festivals at Sandringham, Audley End and Englefield at short notice.",
+        "pubDate": "2026-07-13T12:33:12Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4469/live/cbb01580-7eae-11f1-a302-011524d23ac9.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Sam Neill: A versatile actor whose roles went far beyond Jurassic Park",
+        "link": "https://www.bbc.co.uk/news/articles/cx2wrvqq9rlo?at_medium=RSS&at_campaign=rss",
+        "description": "The actor, who has died aged 78, built up a long string of screen credits over a five-decade career.",
+        "pubDate": "2026-07-13T12:10:38Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ea5/live/c04458f0-7eae-11f1-a302-011524d23ac9.jpg",
+        "bias": -1
+      },
+      {
         "title": "Amber Davies calls out audience member for filming Legally Blonde performance",
         "link": "https://www.bbc.co.uk/news/articles/c14y35erdg2o?at_medium=RSS&at_campaign=rss",
         "description": "The ex-Love Islander says she asked for the theatregoer, who was sitting in the front row, to be kicked out.",
@@ -535,7 +978,7 @@
         "bias": -1
       },
       {
-        "title": "Sam Neill: His best-known roles in pictures",
+        "title": "Sam Neill's best-known roles in pictures",
         "link": "https://www.bbc.co.uk/news/articles/c8r271zx43mo?at_medium=RSS&at_campaign=rss",
         "description": "The beloved actor's career ranged from box office blockbusters to thrillers and award-winning dramas.",
         "pubDate": "2026-07-13T09:19:44Z",
