@@ -1,8 +1,396 @@
 {
-  "lastUpdate": "2026-07-14T08:37:23.104640Z",
+  "lastUpdate": "2026-07-14T10:23:06.336770Z",
   "news": {
-    "Gaming": [],
+    "Gaming": [
+      {
+        "title": "∄XIT [Free] [Puzzle] [Windows]",
+        "link": "https://beatrizloyola.itch.io/exit",
+        "description": "Um escape em espaços liminares onde a lógica é a chave da porta.",
+        "pubDate": "2026-07-14T10:08:26Z",
+        "source": "beatrizloyola.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDg0OTk0LnBuZw==/315x250%23c/LJL0TY.png",
+        "bias": 0
+      },
+      {
+        "title": "Legacy of Aeon (0.1 Archive) [Free] [Windows]",
+        "link": "https://meritocratic-orange.itch.io/legacy-of-aeon-01-archive",
+        "description": "Legacy of Aeon as it was the day it came out!",
+        "pubDate": "2026-07-14T10:03:23Z",
+        "source": "meritocratic-orange.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDg0OTM5LnBuZw==/315x250%23c/fx4oPM.png",
+        "bias": 0
+      },
+      {
+        "title": "BOOMER-LIFE [Free] [Shooter] [Windows]",
+        "link": "https://verceypants.itch.io/boomer-life",
+        "description": "BOOMER-LIFE",
+        "pubDate": "2026-07-14T09:52:22Z",
+        "source": "verceypants.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDgyNjk4LnBuZw==/315x250%23c/hmc9wr.png",
+        "bias": 0
+      },
+      {
+        "title": "Life, ASCII and Everything [Free] [Simulation]",
+        "link": "https://amagni.itch.io/life-ascii-and-everything",
+        "description": "An implementation of Conway's Life in JavaScript",
+        "pubDate": "2026-07-14T09:51:33Z",
+        "source": "amagni.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDg0NzA5LnBuZw==/315x250%23c/oCMtww.png",
+        "bias": 0
+      },
+      {
+        "title": "Water Drop Merge: Puzzle Game [Free] [Puzzle] [Android]",
+        "link": "https://joygame.itch.io/water-drop-merge-puzzle-game",
+        "description": "Merge shiny water drops, trigger chain reactions, and challenge the big bubble!",
+        "pubDate": "2026-07-14T09:44:29Z",
+        "source": "joygame.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDg0NjUzLnBuZw==/315x250%23c/%2F%2F1q40.png",
+        "bias": 0
+      },
+      {
+        "title": "Musiclicker [Free]",
+        "link": "https://patuuu.itch.io/musiclicker",
+        "description": "",
+        "pubDate": "2026-07-14T09:42:32Z",
+        "source": "patuuu.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDg0NjExLnBuZw==/315x250%23c/kLznSJ.png",
+        "bias": 0
+      },
+      {
+        "title": "Lets Go Gnome! [Free] [Puzzle]",
+        "link": "https://stefanlock.itch.io/lets-go-gnome",
+        "description": "",
+        "pubDate": "2026-07-14T09:38:42Z",
+        "source": "stefanlock.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDg0OTMyLnBuZw==/315x250%23c/6Eon3W.png",
+        "bias": 0
+      },
+      {
+        "title": "Fairgrounds [Free] [Adventure]",
+        "link": "https://jajgames.itch.io/fairgrounds",
+        "description": "",
+        "pubDate": "2026-07-14T09:35:28Z",
+        "source": "jajgames.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDg0NTI3LnBuZw==/315x250%23c/78MfyD.png",
+        "bias": 0
+      },
+      {
+        "title": "Zed Ops: Java Edition [Free] [Shooter]",
+        "link": "https://nottechtitan.itch.io/zed-ops-java-edition",
+        "description": "Now with pre-rendered sprites!",
+        "pubDate": "2026-07-14T09:29:44Z",
+        "source": "nottechtitan.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDg0NzEzLnBuZw==/315x250%23c/MP7XMI.png",
+        "bias": 0
+      },
+      {
+        "title": "hearth & harvest [Free] [Simulation]",
+        "link": "https://shania28.itch.io/hearth-harvest",
+        "description": "",
+        "pubDate": "2026-07-14T09:27:45Z",
+        "source": "shania28.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDg0NTI0LnBuZw==/315x250%23c/ID7kZy.png",
+        "bias": 0
+      },
+      {
+        "title": "HookLine [Free] [Platformer]",
+        "link": "https://nothulky.itch.io/hookline",
+        "description": "Welcome to Hookline, a physics-based swinging game where momentum is everything!",
+        "pubDate": "2026-07-14T09:25:04Z",
+        "source": "nothulky.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDg0OTI2LnBuZw==/315x250%23c/Ll2UAX.png",
+        "bias": 0
+      },
+      {
+        "title": "Image library of babel [Free]",
+        "link": "https://dawson-mcgee.itch.io/image-library-of-babel",
+        "description": "",
+        "pubDate": "2026-07-14T09:12:15Z",
+        "source": "dawson-mcgee.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDg0OTU2LmpwZw==/315x250%23c/BPV13o.jpg",
+        "bias": 0
+      },
+      {
+        "title": "THE KIDNAP FILE! [Free] [Adventure]",
+        "link": "https://ready64.itch.io/the-kidnap",
+        "description": "Terrorists have stolen plutonium and kidnapped the Professor.",
+        "pubDate": "2026-07-14T09:11:12Z",
+        "source": "ready64.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDg0MzE4LnBuZw==/315x250%23c/ua19DW.png",
+        "bias": 0
+      },
+      {
+        "title": "Guest at Three A.M. [Free] [Interactive Fiction]",
+        "link": "https://ninghan0gmailcom.itch.io/guest-at-three-am",
+        "description": "",
+        "pubDate": "2026-07-14T09:10:37Z",
+        "source": "ninghan0gmailcom.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDg0NzIyLnBuZw==/315x250%23c/HVehMl.png",
+        "bias": 0
+      },
+      {
+        "title": "SoftPaint.exe (2021 Reupload) [Free] [Windows]",
+        "link": "https://htv9600.itch.io/softpaintexe-2021-reupload",
+        "description": "",
+        "pubDate": "2026-07-14T08:58:29Z",
+        "source": "htv9600.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDg0MTAwLmpwZw==/315x250%23c/ch3hwQ.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Frankenmonster [Free] [Fighting] [Android]",
+        "link": "https://i7rkive.itch.io/frankenmonster",
+        "description": "Monster-collector with PvP",
+        "pubDate": "2026-07-14T08:58:14Z",
+        "source": "i7rkive.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDg0MzE2LnBuZw==/315x250%23c/FzO2se.png",
+        "bias": 0
+      },
+      {
+        "title": "Rise of The Unfelled (Archive) [Free] [Role Playing] [Windows]",
+        "link": "https://meritocratic-orange.itch.io/unfelled-archive",
+        "description": "A Great Evil Threatens The World, Will You Rise to Stop It?",
+        "pubDate": "2026-07-14T08:57:36Z",
+        "source": "meritocratic-orange.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDg0MDg1LnBuZw==/315x250%23c/bCO1wS.png",
+        "bias": 0
+      },
+      {
+        "title": "Hop and pop [Free]",
+        "link": "https://paranoid-dev.itch.io/hop-and-pop",
+        "description": "A frog trying to protect itself from little guys~",
+        "pubDate": "2026-07-14T08:54:34Z",
+        "source": "paranoid-dev.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDg0Njg0LnBuZw==/315x250%23c/TFfjRl.png",
+        "bias": 0
+      },
+      {
+        "title": "Singaporepickleballopen [Free] [Sports]",
+        "link": "https://lauerics.itch.io/singaporepickleballopen",
+        "description": "",
+        "pubDate": "2026-07-14T08:51:44Z",
+        "source": "lauerics.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDgzOTk4LnBuZw==/315x250%23c/whPErH.png",
+        "bias": 0
+      },
+      {
+        "title": "S.Rotro Adventur [Free] [Adventure]",
+        "link": "https://sking95.itch.io/srotro-adventer",
+        "description": "",
+        "pubDate": "2026-07-14T08:48:21Z",
+        "source": "sking95.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDg0MDM2LnBuZw==/315x250%23c/oQTQsr.png",
+        "bias": 0
+      },
+      {
+        "title": "Monker Shooters [Free] [Fighting]",
+        "link": "https://applejuice106574.itch.io/monker-shooters",
+        "description": "",
+        "pubDate": "2026-07-14T08:42:49Z",
+        "source": "applejuice106574.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDgzOTA5LnBuZw==/315x250%23c/yBorU2.png",
+        "bias": 0
+      },
+      {
+        "title": "hyperwoo [Free] [Shooter] [Windows]",
+        "link": "https://a-unconditional.itch.io/hyperwoo",
+        "description": "",
+        "pubDate": "2026-07-14T08:41:33Z",
+        "source": "a-unconditional.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDg0Mzg2LmpwZw==/315x250%23c/KQkwOT.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Dildo Coach [PLUS Edition] [$9.99] [Other] [Windows] [macOS]",
+        "link": "https://gusdark.itch.io/dildo-coach-plus",
+        "description": "",
+        "pubDate": "2026-07-14T08:37:23Z",
+        "source": "gusdark.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDg0MjI3LnBuZw==/315x250%23c/LfqwvG.png",
+        "bias": 0
+      },
+      {
+        "title": "Pandemonium Arena Demo [Free] [Fighting]",
+        "link": "https://ghostbit01.itch.io/pandem",
+        "description": "",
+        "pubDate": "2026-07-14T08:24:25Z",
+        "source": "ghostbit01.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDg0MDQ1LnBuZw==/315x250%23c/0dWxvl.png",
+        "bias": 0
+      },
+      {
+        "title": "Sprunki Disabilityphobia [Free] [Rhythm]",
+        "link": "https://skybluelmao.itch.io/sprunkidisabilityphobia",
+        "description": "Disabilityphobia",
+        "pubDate": "2026-07-14T07:42:50Z",
+        "source": "skybluelmao.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDgzMzc1LnBuZw==/315x250%23c/dRdR9G.png",
+        "bias": 0
+      },
+      {
+        "title": "Drugs VS Police [Free] [Strategy]",
+        "link": "https://balbesik-nya.itch.io/drugs-vs-police",
+        "description": "Защити свой подвал от облавы полиции!",
+        "pubDate": "2026-07-14T07:29:12Z",
+        "source": "balbesik-nya.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDgzMzAwLmpwZw==/315x250%23c/RyqszR.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Double chess [Free] [Strategy] [Windows]",
+        "link": "https://dooyar.itch.io/double-chess",
+        "description": "",
+        "pubDate": "2026-07-14T07:13:06Z",
+        "source": "dooyar.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDgzMDI2LmpwZw==/315x250%23c/NJ8Aq3.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Clappi [Free] [Simulation]",
+        "link": "https://mdarshad.itch.io/clappi",
+        "description": "",
+        "pubDate": "2026-07-14T03:13:24Z",
+        "source": "mdarshad.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI4NDg0NDQxLnBuZw==/315x250%23c/FK6%2BN4.png",
+        "bias": 0
+      }
+    ],
     "World": [
+      {
+        "title": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
+        "link": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&at_campaign=rss",
+        "description": "The Iran-backed Houthis blame Saudi Arabia for the attack in Yemen's capital and say they targeted Abha airport in response.",
+        "pubDate": "2026-07-14T10:02:43Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddfb/live/25ca1c70-7ebc-11f1-8439-ebc9c5f19300.jpg",
+        "bias": -1
+      },
+      {
+        "title": "The U.S. is set to reinstate a blockade over the Strait of Hormuz",
+        "link": "https://www.npr.org/2026/07/14/nx-s1-5893257/us-iran-updates",
+        "description": "The U.S. military announced it will begin its blockade of Iranian ships over the Strait of Hormuz on Tuesday, as Iran vowed to assert its own control over the critical international waterway.",
+        "pubDate": "2026-07-14T09:56:45Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Argentina war vets urge focus on football for England World Cup semifinal",
+        "link": "https://www.aljazeera.com/sports/2026/7/14/argentina-war-vets-urge-focus-on-football-for-england-world-cup-semifinal?traffic_source=rss",
+        "description": "One of sport's great rivalries sees Argentina face England in an ever feisty encounter in the 2026 edition's semifinal.",
+        "pubDate": "2026-07-14T09:52:45Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "US attacks Iran and Tehran retaliates across the Middle East, threatening a return to all-out war - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWnBwMkRnYlE0eWdLanFlS1JwcWNwQW83YkJMbFJXdzZYRGFiZUtib0UzM1hRVFozX3RCTmwxUVQzV2RvNTU2ZE56RjZOYjRQbzF5SkJ1Y0RTQnktRmg1NjliM2pMcy1kY045dVQ4bk9sYkNDU2N6WTFnNV9NNjZMa21IYkxLX3NmWDF2NXMzUmRtRkN0eGlwRmx6SHdlakU?oc=5",
+        "description": "",
+        "pubDate": "2026-07-14T09:41:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
+        "link": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&at_campaign=rss",
+        "description": "Svetlana Grković told Serbian media that her husband is \"seriously injured and in shock\".",
+        "pubDate": "2026-07-14T09:40:23Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80c3/live/89cc6310-7f5f-11f1-a97a-9b1029617ccb.jpg",
+        "bias": -1
+      },
+      {
+        "title": "ICE kills 26-year-old in Maine: What happened, and who else has ICE killed?",
+        "link": "https://www.aljazeera.com/news/2026/7/14/ice-kills-26-year-old-in-maine-what-happened-and-who-else-has-ice-killed?traffic_source=rss",
+        "description": "More than 60 people have died in ICE shootings or while in detention since Donald Trump returned to power.",
+        "pubDate": "2026-07-14T09:34:55Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Emir of Qatar receives condolences on the death of the Father Emir",
+        "link": "https://www.aljazeera.com/news/2026/7/14/emir-of-qatar-receives-condolences-on-the-death-of-the-father-emir?traffic_source=rss",
+        "description": "Condolences from several government leaders, who expressed their sincere sympathy to Qatar, its leadership and people.",
+        "pubDate": "2026-07-14T09:20:56Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "FIFA World Cup brackets: Semifinal schedule, France vs Spain prediction",
+        "link": "https://www.aljazeera.com/sports/2026/7/14/fifa-world-cup-brackets-semifinal-schedule-france-vs-spain-prediction?traffic_source=rss",
+        "description": "France face Spain in the first World Cup semifinal, as Argentina prepare to renew their rivalry with England.",
+        "pubDate": "2026-07-14T09:05:24Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "European troops and warplanes join Paris Bastille Day parade in a show of unity for Ukraine - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX0dUR3ZGMlczZHc3Y2dMOU9DNTNvY2cwUldGY0tCQ0t6Y1J1cnAzUVNRNklqX1N6MEw2THRLd2I2SlFfVjhhdnJQcXBHS0NfZHNNYzdpaW9CTFhRU0hvTElUQ1RTTXEtaHh0b3dhVGN5ekZ1UFU1OF9FRDRfa1ktUTE4ZVFrVWtrLUEwRW5MVVc5aHFlZmU4Q0c2UjV1OGpOdThZ?oc=5",
+        "description": "",
+        "pubDate": "2026-07-14T08:56:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "US bombs Iran again, Tehran strikes Gulf, tankers: What’s the latest?",
+        "link": "https://www.aljazeera.com/news/2026/7/14/us-bombs-iran-again-tehran-strikes-gulf-tankers-whats-the-latest?traffic_source=rss",
+        "description": "While Trump has threatened to hit targets in Iran including Pickaxe Mountain, he has said a deal is possible.",
+        "pubDate": "2026-07-14T08:52:22Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Photos: Wildfires ravage historic forest near Paris",
+        "link": "https://www.aljazeera.com/gallery/2026/7/14/photos-wildfires-ravage-historic-forest-near-paris?traffic_source=rss",
+        "description": "Wildfires near Paris scorch 1,300 hectares as France endures its third heatwave in three months.",
+        "pubDate": "2026-07-14T08:38:07Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "EU bans gold imports from Sudan to curb money financing the war",
+        "link": "https://www.bbc.co.uk/news/articles/ce3e3nqwr5do?at_medium=RSS&at_campaign=rss",
+        "description": "The ban also restricts exports of mercury and cyanide to Sudan, chemicals widely used in gold mining.",
+        "pubDate": "2026-07-14T08:32:49Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6a5/live/d6cd2350-7f52-11f1-a97a-9b1029617ccb.jpg",
+        "bias": -1
+      },
+      {
+        "title": "‘Country grows, we grow too’: 1 million migrants seek legal status in Spain",
+        "link": "https://www.aljazeera.com/news/2026/7/14/country-grows-we-grow-too-1-million-migrants-seek-legal-status-in-spain?traffic_source=rss",
+        "description": "The government expected half a million people to apply, but nearly double that number came forward.",
+        "pubDate": "2026-07-14T08:30:48Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "US military releases video of its latest strikes on Iran",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-military-releases-video-of-its-latest-strikes-on-iran?traffic_source=rss",
+        "description": "US Central Command has released video showing its latest wave of attacks reportedly hitting Iran's mainland and islands.",
+        "pubDate": "2026-07-14T08:23:29Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Watch FIFA World Cup: Mbappe vs Yamal headlines Spain-France semifinal",
+        "link": "https://www.aljazeera.com/video/2026/7/14/video-world-cup-2026-highlights?traffic_source=rss",
+        "description": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
+        "pubDate": "2026-07-14T08:15:41Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "How India's Lord's win echoes the legacy of its pioneering women cricketers",
         "link": "https://www.bbc.co.uk/news/articles/cd0m1rjyxmmo?at_medium=RSS&at_campaign=rss",
@@ -11,6 +399,15 @@
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07d6/live/bc919ae0-7e92-11f1-8c82-ff770b17755a.jpg",
         "bias": -1
+      },
+      {
+        "title": "Death toll from a Bangkok music bar fire rises to 30, dozens remain in hospital - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWDFwdmpsbU5Oa0E3MmxXamY4cHZoblItUXR5WHNFQlJ6RXVvS2FKLW1EYm1NMERtRjZIUEhoVTcyNDNya0JodngzVGVlSGNHSzQ5XzRXSmJfVkVxeDAzT3NnVm1XOXRSa2JfbmVlTXJPUGZ1ZDBheDROMGFURFhlcXpoVWVRSWJhcVhKdzdB?oc=5",
+        "description": "",
+        "pubDate": "2026-07-14T08:05:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Who will win the 2026 FIFA World Cup? Here’s what AI predicts",
@@ -22,15 +419,6 @@
         "bias": -1
       },
       {
-        "title": "US attacks Iran and Tehran retaliates across the Middle East as both vie for control of strait - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWnBwMkRnYlE0eWdLanFlS1JwcWNwQW83YkJMbFJXdzZYRGFiZUtib0UzM1hRVFozX3RCTmwxUVQzV2RvNTU2ZE56RjZOYjRQbzF5SkJ1Y0RTQnktRmg1NjliM2pMcy1kY045dVQ4bk9sYkNDU2N6WTFnNV9NNjZMa21IYkxLX3NmWDF2NXMzUmRtRkN0eGlwRmx6SHdlakU?oc=5",
-        "description": "",
-        "pubDate": "2026-07-14T07:52:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Bangkok bar fire death toll rises to 30 as police probe possible negligence",
         "link": "https://www.aljazeera.com/news/2026/7/14/bangkok-fire-death-toll-rises-to-30-as-police-probe-possible-negligence?traffic_source=rss",
         "description": "Thailand authorities say that 24 people remain in critical condition in hospital after the blaze at a pub.",
@@ -38,6 +426,24 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "China’s June exports surge 27% from a year earlier as AI boom drives strong demand - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUDlLanJfZnpqT0hONGJNLVl0eG5Hbk1lUkMwZ2tpaW5tR2RLcG9CZDNjMnoxU0VYbEFIUE96emJIWTd5WUUtZWNfNHlvZFdlaTUxRTVkN1Fma0tmNXNsYmZZWThjdE1UQ2lBcUwwYnBMUkQxM1c5UXhHT0dlSVhzRFlGNmZWU3dGR0M5cmJnRlU?oc=5",
+        "description": "",
+        "pubDate": "2026-07-14T07:21:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Iran executes 2 Islamic State members convicted of armed rebellion - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOEFHVEprbUc3WURpSlk0a3Z3R1BSMEVKVGViSXUwZzgxS0FDaEx0WWEzM2lRV3FtRTdsQTN5cEVweXhqXzBBU3Y2X0NGRzJXeXJxMjBPY2pjZ0FMVXpIcDhLQjdOYkNOeG1jWlBUUVQ2clV3VHRkZXRxZzJVRkNQYkRtWWNvOVVOeEdSc1hWSXZCTEhOY1o2LXd3?oc=5",
+        "description": "",
+        "pubDate": "2026-07-14T07:11:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "War and economic crisis complicate efforts to protect Iran’s rich but endangered wildlife - AP News",
@@ -67,15 +473,6 @@
         "bias": -1
       },
       {
-        "title": "Death toll from a Bangkok music bar fire rises to 30, dozens remain in hospital - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWDFwdmpsbU5Oa0E3MmxXamY4cHZoblItUXR5WHNFQlJ6RXVvS2FKLW1EYm1NMERtRjZIUEhoVTcyNDNya0JodngzVGVlSGNHSzQ5XzRXSmJfVkVxeDAzT3NnVm1XOXRSa2JfbmVlTXJPUGZ1ZDBheDROMGFURFhlcXpoVWVRSWJhcVhKdzdB?oc=5",
-        "description": "",
-        "pubDate": "2026-07-14T06:02:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Why is India blocking film on a man who counted Punjab insurgency killings?",
         "link": "https://www.aljazeera.com/news/2026/7/14/why-is-india-blocking-film-on-a-man-who-counted-punjab-insurgency-killings?traffic_source=rss",
         "description": "Satluj, based on life and murder of rights activist Jaswant Singh Khalra, is still finding its audience despite the ban.",
@@ -85,7 +482,7 @@
         "bias": -1
       },
       {
-        "title": "Trump threatens to attack ‘Pickaxe Mountain’ a nuclear facility inside Ira",
+        "title": "Trump threatens to attack ‘Pickaxe Mountain’ a nuclear facility inside Iran",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-threatens-to-attack-pickaxe-mountain-a-nuclear-facility-inside-ira?traffic_source=rss",
         "description": "US President Donald Trump is threatening to attack a heavily-fortified underground nuclear facility in Iran",
         "pubDate": "2026-07-14T05:15:40Z",
@@ -103,15 +500,6 @@
         "bias": -1
       },
       {
-        "title": "European troops and warplanes join Paris Bastille Day parade in a show of unity for Ukraine - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX0dUR3ZGMlczZHc3Y2dMOU9DNTNvY2cwUldGY0tCQ0t6Y1J1cnAzUVNRNklqX1N6MEw2THRLd2I2SlFfVjhhdnJQcXBHS0NfZHNNYzdpaW9CTFhRU0hvTElUQ1RTTXEtaHh0b3dhVGN5ekZ1UFU1OF9FRDRfa1ktUTE4ZVFrVWtrLUEwRW5MVVc5aHFlZmU4Q0c2UjV1OGpOdThZ?oc=5",
-        "description": "",
-        "pubDate": "2026-07-14T05:04:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
         "link": "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&at_campaign=rss",
         "description": "Simon Andriesz made the discovery about Howard Lutnick in publicly released Epstein files.",
@@ -119,24 +507,6 @@
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2b7/live/dad63ca0-7e9b-11f1-bee8-53ce494e1abc.jpg",
         "bias": -1
-      },
-      {
-        "title": "China’s June exports surge 27% from a year earlier as AI boom drives strong demand - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUDlLanJfZnpqT0hONGJNLVl0eG5Hbk1lUkMwZ2tpaW5tR2RLcG9CZDNjMnoxU0VYbEFIUE96emJIWTd5WUUtZWNfNHlvZFdlaTUxRTVkN1Fma0tmNXNsYmZZWThjdE1UQ2lBcUwwYnBMUkQxM1c5UXhHT0dlSVhzRFlGNmZWU3dGR0M5cmJnRlU?oc=5",
-        "description": "",
-        "pubDate": "2026-07-14T04:44:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "What to know about the Bangkok bar fire that killed 30 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSzV3MlVCS3BrZGxnWHZyV2NTS01YTE1kR2plUmxQTXl3M1ZzdG1ORjBCMzJSejNCRUR6LVJhUzdNc2Z3anQ5aExkdmloRWdQbERZdUpkVDZ3aVRDUTcwVEdsTzhlOG1ZcU1nSlR2ZW51UWppRW9Edm5SSTVHbFBuc3lFa3Q2MGtvQ0ZWNWU2c1JSVVd1Y1hvdTBqRWVWSDJPdVU3Y3JB?oc=5",
-        "description": "",
-        "pubDate": "2026-07-14T04:37:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Birthday present for Spain’s Yamal? World Cup semifinal win over France",
@@ -335,63 +705,45 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
-        "link": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss",
-        "description": "Friends, politicians and fellow film stars remember Neill following his \"sudden and unexpected\" death.",
-        "pubDate": "2026-07-14T01:29:58Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83b5/live/99882570-7e86-11f1-926f-c90d1bcfbc84.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Record El Niño threatens to unleash floods across East Africa and Asia",
-        "link": "https://www.aljazeera.com/news/2026/7/14/record-el-nino-threatens-to-unleash-floods-across-east-africa-and-asia?traffic_source=rss",
-        "description": "Aid groups warn a record-strength El Niño could unleash flooding and hunger from Somalia to Pakistan.",
-        "pubDate": "2026-07-14T01:27:57Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Indonesia’s jailing of Gojek founder raises fears for investor confidence",
-        "link": "https://www.aljazeera.com/economy/2026/7/14/indonesias-jailing-of-gojek-founder-raises-fears-for-investor-confidence?traffic_source=rss",
-        "description": "Authorities say Nadiem Makarim abused his authority to favour Google in the procurement of laptops for school kids.",
-        "pubDate": "2026-07-14T00:53:51Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Trump reduces size of 2 national monuments in Utah as Republicans reshape land management - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM1NqTEdrM3llcTRicGpRakxQSW5Jc29BMVlYLTFsdGJLR0x4TTJId3Z2b090WFhFNlVndHN0ZUlKZGpfM2pVWnhiVlVOanpxWUllTDNPQlFBbFpxTjVzUVIwaGt0UjRUdW1yUHdaSktrbm1JSk5jSnF2LTdSRWpaeWpqbDNfdFFhZXB2eFRGaTFrVGdDdHJYZHNDYjcwUmdfMWNyTg?oc=5",
-        "description": "",
-        "pubDate": "2026-07-14T00:53:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "How Kenyan volunteers hunt polio’s hidden trail",
-        "link": "https://www.aljazeera.com/news/2026/7/14/how-kenyan-volunteers-hunt-polios-hidden-trail?traffic_source=rss",
-        "description": "Community health volunteers travel across remote northern Kenya to detect poliovirus before it can spread.",
-        "pubDate": "2026-07-14T00:35:07Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Iran war live: US launches more attacks; 1 killed in Iranian strike on ship",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/7/14/iran-war-live-us-launches-more-attacks-trump-orders-blockade-in-hormuz?traffic_source=rss",
-        "description": "Tehran claims retaliatory strikes on Kuwait, Bahrain and Jordan, as well as two oil tankers in the Strait of Hormuz.",
-        "pubDate": "2026-07-14T00:00:00Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       }
     ],
     "Politics": [
+      {
+        "title": "South Carolina's governor appoints Lindsey Graham's sister to serve out his term",
+        "link": "https://www.npr.org/2026/07/14/nx-s1-5891798/south-carolinas-governor-appoints-lindsey-grahams-sister-to-serve-out-his-term",
+        "description": "South Carolina Gov. Henry McMaster says he is appointing Darline Graham to finish the term of her late brother, former Republican Sen. Lindsey Graham, who died in office Saturday at age 71.",
+        "pubDate": "2026-07-14T09:01:46Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Some states will ask voters to make it harder to pass constitutional amendments",
+        "link": "https://www.npr.org/2026/07/14/nx-s1-5877715/direct-democracy-state-constitutional-amendment-thresholds",
+        "description": "Several states have ballot measures this year that could raise the thresholds needed to pass state constitutional amendments. Many advocates are critical of such limits on direct democracy.",
+        "pubDate": "2026-07-14T09:00:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Trump's National Guard deployment in D.C. has been extended until 2029",
+        "link": "https://www.npr.org/2026/07/14/nx-s1-5892498/national-guard-deployment-dc-2029",
+        "description": "President Trump's deployment of the National Guard to Washington, D.C. has been extended several times. Now, it's set to last until Inauguration Day 2029.",
+        "pubDate": "2026-07-14T09:00:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Platner's voters are reeling as Maine Democratic Party races to choose his replacement",
+        "link": "https://www.npr.org/2026/07/14/nx-s1-5892502/platner-collins-maine-democratic-party-senate",
+        "description": "Graham Platner generated enthusiasm in Maine with his progressive policies. Now he's out of the race, and his supporters have to decide what's next, as Maine Democrats prepare to choose a nominee.",
+        "pubDate": "2026-07-14T09:00:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Andy Burnham's path to becoming prime minister",
         "link": "https://www.bbc.co.uk/news/videos/cg535dm4128o?at_medium=RSS&at_campaign=rss",
@@ -402,7 +754,7 @@
         "bias": -1
       },
       {
-        "title": "A bin, a Fox and a fish finger: The candidates fighting Clacton",
+        "title": "The candidates standing in Clacton by-election",
         "link": "https://www.bbc.co.uk/news/articles/crlw69p6lyeo?at_medium=RSS&at_campaign=rss",
         "description": "The full list of candidates who have declared they intend to fight the Clacton by-election.",
         "pubDate": "2026-07-14T06:32:46Z",
@@ -429,10 +781,10 @@
         "bias": 0
       },
       {
-        "title": "El Salvador’s ruling party clears the way for Bukele’s 3rd term - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZHVUWlotdFBHMV9DNzQzUkVPaTB2M3YyNmFRRlVCcWxEU2huUjNNc2ExSWFDTjB3eWtYbWRwaGZ1U0hRM2NFVGtBWTl3VWNtUTRHX2RObDF2cExZbmh3c2JZVGY1LXlKUU1ONkRIZ1lILWhndkYxMkNKRkRZRTJjM0ZROVpiZ1Q3WUFZOWYxSGE1aVFlX2FYQTZ0bDJXanJKR3JWWFpzRDFvZGxYbXIzUmtn?oc=5",
+        "title": "Bryce Harper says FanDuel used his Cameo video as VIP reward without consent in a gambler’s case - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbjUwSFo0b25YWGduQmw1SjBvNEdFU2ZBYlNDUzVES1I2aEE0ZU13Qzk1NUh5NmpOWW1oM3ltaEZiNUZTeGd5Q2F4OFFuNWlTeDA0VWY4bkllN2ZhTTlXOWt5Y29XMk9Ndjh0eDlLTFZ6bVAzWUxyNWJHWWM2OFJyS0JnZjNiUU1XQ2xj?oc=5",
         "description": "",
-        "pubDate": "2026-07-14T00:22:14Z",
+        "pubDate": "2026-07-14T00:22:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -449,6 +801,24 @@
     ],
     "Tech": [
       {
+        "title": "What to know about the Bangkok bar fire that killed 30 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSzV3MlVCS3BrZGxnWHZyV2NTS01YTE1kR2plUmxQTXl3M1ZzdG1ORjBCMzJSejNCRUR6LVJhUzdNc2Z3anQ5aExkdmloRWdQbERZdUpkVDZ3aVRDUTcwVEdsTzhlOG1ZcU1nSlR2ZW51UWppRW9Edm5SSTVHbFBuc3lFa3Q2MGtvQ0ZWNWU2c1JSVVd1Y1hvdTBqRWVWSDJPdVU3Y3JB?oc=5",
+        "description": "",
+        "pubDate": "2026-07-14T04:37:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "US attacks Iran and Tehran retaliates across the Middle East as both vie for control of strait - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQXlDMHpMczFma2paOVJQMzZuZzVNVFZLeS04V0VXUk1zUFBSTGRaelYzaU1fQlg0azEwQ1dQQ2lfV2VmOFBMZ0ZGa0tjSWJGUWVFdDhhUTdCbmpKMy1QRHVOdE5YRnliNmJfVkRKU09zdVhYSm1hQW94MDlUbEp1OXB0ZjIzZlFtYUdZZHBQb2pHT1V5bjZtbVE0QVN3cTg?oc=5",
+        "description": "",
+        "pubDate": "2026-07-14T04:10:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "FACT FOCUS: Sen. Lindsey Graham’s sudden death spurs false claims - AP News",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR2JTZGhlSkpaWVpzTnB3cUs0THAtRUlKN1N2Nkppd3pyZTJlZldpTEd0SURaUndvbUV6N2xxMXZiNVNySjRSMjZJNnhqQS1uZDJZQ0tVbS1Da24yei1BMXE0QWN3M1JrN3NQNW9DMHdCczZDWlhaSERtcm1HUnpKU09YRnFxdEY1SmZ0ekoyMzZxMVNnZVJHTklwTmJubUpYSUlxd3R0VmU3c2JwMXJ1LQ?oc=5",
         "description": "",
@@ -459,6 +829,15 @@
       }
     ],
     "Science": [
+      {
+        "title": "How deadly have the heatwaves in England and Wales been?",
+        "link": "https://www.bbc.co.uk/news/videos/c9929nl2m3go?at_medium=RSS&at_campaign=rss",
+        "description": "Experts suggest more than 2,700 people may have died from heat-related causes during the heatwaves.",
+        "pubDate": "2026-07-14T09:38:32Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b1e/live/ffb6c450-7f5d-11f1-926f-c90d1bcfbc84.jpg",
+        "bias": -1
+      },
       {
         "title": "In pictures: 3,000-mile journey to save rare horses",
         "link": "https://www.bbc.co.uk/news/articles/c4gynqly2dyo?at_medium=RSS&at_campaign=rss",
@@ -479,6 +858,42 @@
       }
     ],
     "Business": [
+      {
+        "title": "California leads lawsuit to block Paramount Warner Bros mega merger",
+        "link": "https://www.bbc.co.uk/news/articles/cgev34lvgp4o?at_medium=RSS&at_campaign=rss",
+        "description": "The state, where both studios have headquarters, has joined 11 others to halt the deal.",
+        "pubDate": "2026-07-14T10:17:11Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78bd/live/e5f7dff0-7edf-11f1-931d-ab3863ef09cd.jpg",
+        "bias": -1
+      },
+      {
+        "title": "South East Water must pay £30.5m for supply failures",
+        "link": "https://www.bbc.co.uk/news/articles/cevlvxgggxyo?at_medium=RSS&at_campaign=rss",
+        "description": "Regulator Ofwat confirms this penalty follows three investigations into the water company.",
+        "pubDate": "2026-07-14T10:13:59Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39e0/live/2c24cef0-7f5a-11f1-a97a-9b1029617ccb.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Woman's Hour",
+        "link": "https://www.bbc.co.uk/sounds/play/m002yx3c?at_medium=RSS&at_campaign=rss",
+        "description": "We hear about a new study exploring the impact hormones have on women with ADHD.",
+        "pubDate": "2026-07-14T10:12:00Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1q1c4.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Removing tax from food could cost £14m - minister",
+        "link": "https://www.bbc.co.uk/news/articles/czded34ydz4o?at_medium=RSS&at_campaign=rss",
+        "description": "Treasury says a GST removal from essential grocery items would mostly benefit the richest islanders.",
+        "pubDate": "2026-07-14T09:25:31Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7896/live/db494ce0-7f63-11f1-9609-01288c52c40a.jpg",
+        "bias": -1
+      },
       {
         "title": "Pop-up free school uniform and prom dress stall",
         "link": "https://www.bbc.co.uk/news/articles/c8628n87w71o?at_medium=RSS&at_campaign=rss",
@@ -512,7 +927,7 @@
         "title": "Immigration - AP News",
         "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBySVUtSnV5U1NPYXI2a2tlb1BidXFsSGNrOUdRUFo5b29xanY5RmtOYzZ6YXBDbk4yODJsTEd4ZC1kckdwLXdQa0h3?oc=5",
         "description": "",
-        "pubDate": "2026-07-14T08:29:29Z",
+        "pubDate": "2026-07-14T10:19:38Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
