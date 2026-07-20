@@ -1,288 +1,197 @@
 {
-  "lastUpdate": "2026-07-20T11:07:02.266794Z",
+  "lastUpdate": "2026-07-20T13:15:13.919225Z",
   "news": {
-    "Gaming": [
-      {
-        "title": "Recurse Merge [Free]",
-        "link": "https://nielsek.itch.io/recurse-merge",
-        "description": "drop * merge * recurse * repeat",
-        "pubDate": "2026-07-20T11:01:37Z",
-        "source": "nielsek.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjE4ODE3LnBuZw==/315x250%23c/DBBzqF.png",
-        "bias": 0
-      },
-      {
-        "title": "DON'T MOVE [Free] [Other] [Windows]",
-        "link": "https://esteekay.itch.io/dont-move",
-        "description": "The only way to hide is to freeze.",
-        "pubDate": "2026-07-20T10:47:08Z",
-        "source": "esteekay.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjE4ODE0LnBuZw==/315x250%23c/sclP6f.png",
-        "bias": 0
-      },
-      {
-        "title": "YoraBlocks [Free] [Puzzle] [Android]",
-        "link": "https://yoratune.itch.io/yorablocks",
-        "description": "A simple and addictive block puzzle game designed for mobile players.",
-        "pubDate": "2026-07-20T10:41:25Z",
-        "source": "yoratune.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjE4NjU0LnBuZw==/315x250%23c/flLOhY.png",
-        "bias": 0
-      },
-      {
-        "title": "FloppyQuiz [Free]",
-        "link": "https://moosepod.itch.io/floppyquiz",
-        "description": "Made for KFest 2026 Hackfest",
-        "pubDate": "2026-07-20T10:30:23Z",
-        "source": "moosepod.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjE4NDc5LmpwZWc=/315x250%23c/tyoiKq.jpeg",
-        "bias": 0
-      },
-      {
-        "title": "Hunting-Void Incursion [Free] [Action]",
-        "link": "https://tageiris.itch.io/hunting-void-incursion",
-        "description": "​This is a 2D side-scrolling high-speed action game",
-        "pubDate": "2026-07-20T10:25:36Z",
-        "source": "tageiris.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjE4MzEyLnBuZw==/315x250%23c/MrkWtS.png",
-        "bias": 0
-      },
-      {
-        "title": "FS 26 CLAAS PACK [$10.00]",
-        "link": "https://modsfsmobile.itch.io/fs-26-claas-pack",
-        "description": "",
-        "pubDate": "2026-07-20T10:25:12Z",
-        "source": "modsfsmobile.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjE4Mjk3LnBuZw==/315x250%23c/UvM0kf.png",
-        "bias": 0
-      },
-      {
-        "title": "Rusty Dungeon [Free] [Adventure] [Windows] [Linux]",
-        "link": "https://2spicy-noodles.itch.io/rusty-dungeon",
-        "description": "A rust based RPG-cli game that teaches you Linux.",
-        "pubDate": "2026-07-20T10:24:45Z",
-        "source": "2spicy-noodles.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjE4MjkxLnBuZw==/315x250%23c/UHsnAS.png",
-        "bias": 0
-      },
-      {
-        "title": "rycerz-w-lochach [Free] [Platformer]",
-        "link": "https://artur4448.itch.io/rycerz-w-lochach",
-        "description": "",
-        "pubDate": "2026-07-20T10:22:55Z",
-        "source": "artur4448.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjE4NTkzLnBuZw==/315x250%23c/uSphDE.png",
-        "bias": 0
-      },
-      {
-        "title": "Spiderman 3d game [Free] [Action]",
-        "link": "https://ggioele.itch.io/spiderman-3d-game",
-        "description": "",
-        "pubDate": "2026-07-20T10:21:53Z",
-        "source": "ggioele.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjE4NDg4LmpwZw==/315x250%23c/L%2FPsI3.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Chat Fishing [Free] [Other]",
-        "link": "https://xarsdev.itch.io/chat-fishing",
-        "description": "",
-        "pubDate": "2026-07-20T10:21:24Z",
-        "source": "xarsdev.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjE4MjU5LnBuZw==/315x250%23c/jj%2Fu12.png",
-        "bias": 0
-      },
-      {
-        "title": "eFootball: 2026™ [Free] [Sports] [macOS] [Android]",
-        "link": "https://wizi-games.itch.io/efootball-2026",
-        "description": "⚽🎮 Play eFootball™ & top games on Mobile! Download now, dominate the pitch and enjoy the action! 🚀🔥",
-        "pubDate": "2026-07-20T10:20:47Z",
-        "source": "wizi-games.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjE4Mzc4LmpwZw==/315x250%23c/Abz1pm.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Keyboard Warrior [Free]",
-        "link": "https://mackmakesgames1.itch.io/keyboard-warrior",
-        "description": "Type trash talk on beat in solo runs, private 1v1s, and ranked online battles.",
-        "pubDate": "2026-07-20T10:17:00Z",
-        "source": "mackmakesgames1.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjE4MjU4LnBuZw==/315x250%23c/jpvQu6.png",
-        "bias": 0
-      },
-      {
-        "title": "Porklike (ZX Spectrum) [Free] [Strategy]",
-        "link": "https://hairyviking.itch.io/porklike-zx-spectrum",
-        "description": "A ZX Spectrum port of Krystman's Porklike for the Pico 8",
-        "pubDate": "2026-07-20T10:12:11Z",
-        "source": "hairyviking.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjE4MzYwLnBuZw==/315x250%23c/oJ3roO.png",
-        "bias": 0
-      },
-      {
-        "title": "Dodge the Creeps 2D (by Godot Docs) [Free] [Survival]",
-        "link": "https://moby-sensei.itch.io/dodge-the-creeps-2d-godot-docs",
-        "description": "",
-        "pubDate": "2026-07-20T10:11:51Z",
-        "source": "moby-sensei.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjE4NDA2LnBuZw==/315x250%23c/5mS0xx.png",
-        "bias": 0
-      },
-      {
-        "title": "Destroids [Free] [Action]",
-        "link": "https://ewaldhorn.itch.io/destroids",
-        "description": "Odin Asteroids with a slight twist",
-        "pubDate": "2026-07-20T10:10:57Z",
-        "source": "ewaldhorn.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjE4MTI0LnBuZw==/315x250%23c/z2AwjO.png",
-        "bias": 0
-      },
-      {
-        "title": "Tractor Tycoon: Idle Farm [Free] [Simulation]",
-        "link": "https://lukaa-8588.itch.io/tractor-tycoonidlefarmv493",
-        "description": "Plant, harvest, and automate your dream farm. Simple, addictive, and fun.",
-        "pubDate": "2026-07-20T10:05:55Z",
-        "source": "lukaa-8588.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjE4NzUyLnBuZw==/315x250%23c/E806MD.png",
-        "bias": 0
-      },
-      {
-        "title": "Retrieve Your HighScore [Free] [Shooter]",
-        "link": "https://raider-64.itch.io/retrieve-your-highscore",
-        "description": "",
-        "pubDate": "2026-07-20T10:05:52Z",
-        "source": "raider-64.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjE4MDM1LnBuZw==/315x250%23c/7GHTRe.png",
-        "bias": 0
-      },
-      {
-        "title": "Katsuobushi Shaving Master [Free] [Action]",
-        "link": "https://zxcuio.itch.io/katsuobushi",
-        "description": "",
-        "pubDate": "2026-07-20T10:02:25Z",
-        "source": "zxcuio.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjE3OTg5LnBuZw==/315x250%23c/GSbnDa.png",
-        "bias": 0
-      },
-      {
-        "title": "MonkeyyTimee [Free] [Platformer]",
-        "link": "https://jammman.itch.io/monkeyytimee",
-        "description": "",
-        "pubDate": "2026-07-20T09:59:19Z",
-        "source": "jammman.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjE3OTEwLnBuZw==/315x250%23c/Zqi6Dy.png",
-        "bias": 0
-      },
-      {
-        "title": "FacePoke [Free] [Other] [Windows]",
-        "link": "https://cookiesdll.itch.io/facepoke",
-        "description": "A silly and cute game for my beautiful girlfriend. When I’m not there, I’m here.",
-        "pubDate": "2026-07-20T09:57:25Z",
-        "source": "cookiesdll.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjE4MDUxLnBuZw==/315x250%23c/sGq20H.png",
-        "bias": 0
-      },
-      {
-        "title": "Naruto: Family Vacation [Free] [Visual Novel] [macOS] [Android]",
-        "link": "https://august-terrace.itch.io/naruto-family-vacation",
-        "description": "A fan-made slice-of-life visual novel. Manage schedules, make choices, and enjoy a family vacation in the Leaf Village.",
-        "pubDate": "2026-07-20T09:56:56Z",
-        "source": "august-terrace.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjE3ODM4LmpwZw==/315x250%23c/6n036H.jpg",
-        "bias": 0
-      },
-      {
-        "title": "CursedWeaponShop [Free] [Visual Novel]",
-        "link": "https://kumakorori.itch.io/cursedweaponshop",
-        "description": "",
-        "pubDate": "2026-07-20T09:29:23Z",
-        "source": "kumakorori.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjE4MTk4LnBuZw==/315x250%23c/B9ymzD.png",
-        "bias": 0
-      },
-      {
-        "title": "Adella [Free]",
-        "link": "https://madame1.itch.io/adella",
-        "description": "",
-        "pubDate": "2026-07-20T09:25:36Z",
-        "source": "madame1.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjE3NTQ4LnBuZw==/315x250%23c/k0etGX.png",
-        "bias": 0
-      },
-      {
-        "title": "Sparky the Wingdawg [Free]",
-        "link": "https://tamgom9267.itch.io/wingdawg",
-        "description": "",
-        "pubDate": "2026-07-20T09:17:38Z",
-        "source": "tamgom9267.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjE3OTczLnBuZw==/315x250%23c/Q9ZQya.png",
-        "bias": 0
-      },
-      {
-        "title": "Spark And Dynamite [Free] [Other] [Windows]",
-        "link": "https://max-omerzu.itch.io/spark-and-dynamite",
-        "description": "Short game about a spark of fire exploding bombs.",
-        "pubDate": "2026-07-20T09:15:57Z",
-        "source": "max-omerzu.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjE3OTUzLnBuZw==/315x250%23c/3FolHG.png",
-        "bias": 0
-      },
-      {
-        "title": "Password Defense [Free] [Educational]",
-        "link": "https://shangrilacreate.itch.io/password-defense",
-        "description": "",
-        "pubDate": "2026-07-20T09:14:11Z",
-        "source": "shangrilacreate.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjE4MzM3LnBuZw==/315x250%23c/vZYDz3.png",
-        "bias": 0
-      },
-      {
-        "title": "カメラスイッチャー [Free] [Action]",
-        "link": "https://nagi-1025.itch.io/camera-switcher",
-        "description": "フィギュアスケートの演技をカメラを切り替えて鑑賞するミニゲーム",
-        "pubDate": "2026-07-20T09:11:58Z",
-        "source": "nagi-1025.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjE3NjAzLnBuZw==/315x250%23c/Vcw8Wn.png",
-        "bias": 0
-      },
-      {
-        "title": "Button & Chico in: A Game of Cat and Mouse [Free] [Visual Novel]",
-        "link": "https://dogfolder.itch.io/button-and-chico",
-        "description": "A visual novel based around a cream mouse and orange spotted cat.",
-        "pubDate": "2026-07-20T09:10:55Z",
-        "source": "dogfolder.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjE3NTQ3LnBuZw==/315x250%23c/KrgaSS.png",
-        "bias": 0
-      },
-      {
-        "title": "KURU-TEQUE [Free] [Strategy] [Windows]",
-        "link": "https://640-blood-puppy.itch.io/kuru-teque",
-        "description": "a roguelike about cannibals and the apocalypse",
-        "pubDate": "2026-07-20T09:01:42Z",
-        "source": "640-blood-puppy.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjE3ODg1LnBuZw==/315x250%23c/2S5R3y.png",
-        "bias": 0
-      },
-      {
-        "title": "Lights, Camera, Scandal! [Free] [Visual Novel]",
-        "link": "https://chiselworks.itch.io/lightscamerascandal",
-        "description": "Take on the role of a celebrity caught in a reality show where you're accused of a scandal you may not have committed.",
-        "pubDate": "2026-07-20T08:53:22Z",
-        "source": "chiselworks.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjE2NzE3LmdpZg==/original/XmtwR5.gif",
-        "bias": 0
-      },
-      {
-        "title": "Pixel Gnome: Foraging Pack [Free]",
-        "link": "https://pixelgnome.itch.io/pixel-gnome-foraging-pack",
-        "description": "16x16 px, 30 simple & cute foraging assets!",
-        "pubDate": "2026-07-20T02:51:43Z",
-        "source": "pixelgnome.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjEzNTA4LnBuZw==/315x250%23c/x3cIla.png",
-        "bias": 0
-      }
-    ],
+    "Gaming": [],
     "World": [
+      {
+        "title": "Russian strike on ship near Odesa kills 10, Ukraine hits Moscow with drones",
+        "link": "https://www.aljazeera.com/news/2026/7/20/russian-strike-on-ship-near-odesa-kills-10-ukraine-hits-moscow-with-drones?traffic_source=rss",
+        "description": "Ukraine launches hundreds of drones towards Moscow a day after Russia unleashed a massive barrage of ballistic missiles.",
+        "pubDate": "2026-07-20T12:50:04Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Why are thousands of people protesting in Delhi?",
+        "link": "https://www.bbc.co.uk/news/articles/cedj9j911p8o?at_medium=RSS&at_campaign=rss",
+        "description": "Thousands of mostly young people have marched on India's parliament to demand changes to how the education system is run.",
+        "pubDate": "2026-07-20T12:33:01Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ce8/live/e9dcdfb0-842c-11f1-926f-c90d1bcfbc84.jpg",
+        "bias": -1
+      },
+      {
+        "title": "India’s Rohit Sharma ends retirement talk as World Cup 2027 still in sight",
+        "link": "https://www.aljazeera.com/sports/2026/7/20/indias-rohit-sharma-ends-retirement-talk-as-world-cup-2027-still-in-sight?traffic_source=rss",
+        "description": "Rohit struck 138 off 110 balls in defeat by England in third ODI, which some speculated could be his last for India.",
+        "pubDate": "2026-07-20T12:30:15Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Argentina fans throw stones at police after World Cup defeat",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/argentina-fans-throw-stones-at-police-after-world-cup-defeat?traffic_source=rss",
+        "description": "Argentina fans throw stones at police after World Cup defeat",
+        "pubDate": "2026-07-20T12:20:49Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Don’t believe Andy Burnham’s PR machine",
+        "link": "https://www.aljazeera.com/opinions/2026/7/20/dont-believe-andy-burnhams-pr-machine?traffic_source=rss",
+        "description": "As his empty Gaza apology clearly demonstrates, he will not bring the radical change Labour really needs.",
+        "pubDate": "2026-07-20T12:15:05Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Utah firefighter and four family members killed in flash flooding",
+        "link": "https://www.bbc.co.uk/news/articles/c9d8l88jnwvo?at_medium=RSS&at_campaign=rss",
+        "description": "A husband, wife and their three sons died - meaning that only a daughter who did not join the outing is still alive.",
+        "pubDate": "2026-07-20T12:13:58Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0523/live/61b044e0-842e-11f1-8db9-6b4471749e2a.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Why is Christopher Nolan’s Odyssey so controversial?",
+        "link": "https://www.aljazeera.com/news/2026/7/20/why-is-christopher-nolans-odyssey-so-controversial?traffic_source=rss",
+        "description": "Controversy has centred largely on casting, but it also reflects broader debates on who gets to retell this epic story.",
+        "pubDate": "2026-07-20T12:10:51Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Southeast Asian ministers set to call for opening of Strait of Hormuz in Manila talks - AP News",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdHBYUFlRT18zYmxRNXZKSWw4NEd4SWR0dFUtbU5kTVpOOVQtdUpyN28zbEdoR1Y0dE9rRTJtZGgxcElLWHZMREVWT3ljZjl5S2hQLURKLVJjLXVlUFRsejljVGZDbGtSLXAwU2pCV3F5U3p2MjRYWVJGMDg3blJxVEtEZzZDZTJVZll2aHgyX0VEOEl4Wm1OOWFpN2Z0WGVUNEVyc3BzMVRrVFhhS1JXTGdadGZnY0hzdnJtUVBPekJrcm0wVmZIRDRnVlJRMTg?oc=5",
+        "description": "",
+        "pubDate": "2026-07-20T11:59:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Iran says Spain World Cup win brings joy to critics of US, Israel",
+        "link": "https://www.aljazeera.com/sports/2026/7/20/iran-says-spain-world-cup-win-brought-joy-to-critics-of-us-israel?traffic_source=rss",
+        "description": "Iran praises Spain's win over Argentina after Spanish government's condemnation of policies on Gaza and war on Iran.",
+        "pubDate": "2026-07-20T11:50:40Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "3 U.S. personnel killed in Iran conflict. And, Hunter Biden opens up to NPR",
+        "link": "https://www.npr.org/2026/07/20/g-s1-134553/up-first-newsletter-iran-us-service-members-hunter-biden",
+        "description": "Three U.S. service members have been killed since Friday amid rising tension between the U.S. and Iran. And, Hunter Biden talks to NPR's Newsmakers about addiction and public scrutiny.",
+        "pubDate": "2026-07-20T11:40:28Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Spain’s on-field World Cup celebrations marred by scuffles with Argentina players - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMmxkYlZCMFZLQk5YLUVQMEZwLUVHWXlJS29ZMlJZbGs4Y3RsUExhb1QzWGJhMXhjQmhuMjd4cjFkbHI4VmhZaUNiX3o4YmxKUEthUVRrdlN5OTVIRlVfcjZEcXJldDdGU0g4UTlIXzlMd0ZWTzJmOU1VaTRBcnhqUDRISDk4bXJvdUF5RldmTDVoZ2hGN2NMZjJFb1hfUQ?oc=5",
+        "description": "",
+        "pubDate": "2026-07-20T11:40:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Scores feared dead after passenger ferry capsizes off Guyana",
+        "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+        "description": "Sixty-seven people have been rescued but the ferry is thought to have had more than 130 people on board.",
+        "pubDate": "2026-07-20T11:37:32Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be5c/live/801f6fc0-838c-11f1-a4c3-dfd0ee4be073.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Why is Iran bombing Gulf states while avoiding US naval assets and Israel?",
+        "link": "https://www.aljazeera.com/news/2026/7/20/why-is-iran-bombing-gulf-states-while-avoiding-us-naval-assets-and-israel?traffic_source=rss",
+        "description": "Analysts say Iran is using Gulf states to pressure Washington while avoiding direct confrontation with US forces.",
+        "pubDate": "2026-07-20T11:35:02Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Photos: Police fire tear gas at India’s Cockroach movement supporters",
+        "link": "https://www.aljazeera.com/gallery/2026/7/20/photos-police-fire-tear-gas-at-indias-cockroach-movement-supporters?traffic_source=rss",
+        "description": "The youth-led Cockroach Janta Party protests in New Delhi, demanding India's education minister resign over exam leaks.",
+        "pubDate": "2026-07-20T11:34:38Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "‘I go with a smile’ says outgoing UK PM Keir Starmer in final speech",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/i-go-with-a-smile-says-outgoing-uk-pm-keir-starmer-in-final-speech?traffic_source=rss",
+        "description": "‘I go with a smile’ says outgoing UK PM Keir Starmer in final speech",
+        "pubDate": "2026-07-20T11:33:46Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "JD Vance says wife Usha and son 'happy and healthy' after birth of fourth child",
+        "link": "https://www.bbc.co.uk/news/articles/cj63kngxpxpo?at_medium=RSS&at_campaign=rss",
+        "description": "The couple welcomed their fourth child, Alec Neel Vance, on Sunday morning.",
+        "pubDate": "2026-07-20T11:28:30Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6ab/live/23ffb250-83c2-11f1-8c17-094a3427da23.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Hamas names Khalil al-Hayya as new leader after run-off with Khaled Meshaal",
+        "link": "https://www.aljazeera.com/news/2026/7/20/hamas-names-khalil-al-hayya-as-new-leader-after-run-off-with-khaled-meshaal?traffic_source=rss",
+        "description": "Al-Hayya was previously one of the five-member leadership council after previous Hamas chief Yahya Sinwar was killed.",
+        "pubDate": "2026-07-20T11:27:04Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
+        "link": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
+        "description": "Iran responded with attacks in Syria and Jordan, as two ships reportedly exploded in the Strait of Hormuz.",
+        "pubDate": "2026-07-20T11:18:40Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b59a/live/8b160770-83fc-11f1-8948-1f76bc360535.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Jubilation in Spain as La Roja beat Argentina to win second World Cup title",
+        "link": "https://www.aljazeera.com/sports/2026/7/20/jubilation-in-spain-as-la-roja-beat-argentina-to-win-second-world-cup-title?traffic_source=rss",
+        "description": "Fans in Spanish city on Mediterranean cheer on both sides as Spain defeat Argentina 1-0 in extra time.",
+        "pubDate": "2026-07-20T11:15:15Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "World Cup: Spain to be welcomed home by million-strong Madrid crowd",
+        "link": "https://www.aljazeera.com/sports/2026/7/20/world-cup-spain-to-be-welcomed-home-by-million-strong-madrid-crowd?traffic_source=rss",
+        "description": "Spain beat Argentina 1-0 in Sunday's final in the US, and are expected to parade the trophy in Madrid on Monday.",
+        "pubDate": "2026-07-20T11:09:16Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "AP Decision Notes: What to expect in Arizona’s state primary - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZzBnYl9ocWNwbGVSbTRMNXRfY19qTF8wcW0zcTNvQXo2WVRlVHFBZGJ6WFR2azZLb2h2U2JoWXk2ak1mRU1aVVA5cWJvZThkZjI0ZnY3UFVkS0NZVTVuRmxoZWMwZWRCWGhjb1pOSUk3THlrWnl2cTM2d0xjOXBZSXh3UnpheGpicTFsVWItZHQxb0lzc0J6aWh0bHd6cE1Ja09xcHVjSFo5YnpFMWc?oc=5",
+        "description": "",
+        "pubDate": "2026-07-20T11:09:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "At least 930 people have died in Congo's Ebola outbreak",
         "link": "https://www.npr.org/2026/07/20/g-s1-134548/ebola-congo-deaths",
@@ -302,10 +211,10 @@
         "bias": -1
       },
       {
-        "title": "Starmer says his work is done as Andy Burnham prepares to take office as UK prime minister - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObmpFTnBJcVJSbTdmSFR6SXIyOU9saWNFLWJ5QW1uS2QzanBfU3hyREhOdHJGTGI2VTlqeHJXTXA5NjZ5OEJyQ0k0bmliV0lsMTZfQXZWOGpmR244SUFCX3hRMjFFVFlCNV9feWNBMXd1NDFMRE9ZNkZrTTVMcWZZT3h4RHFxZzlZc3B6UlZsLUdndGdUUW93Rk1MdGY5MlJYamc2ZWdvaE4?oc=5",
+        "title": "China’s new AI model halts new subscriptions as demand swamps capacity - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ0pwc01XYlBBaFVDNjRlNEluSlN3bkxsZjRld2o0VmxyeWJnNWpLdHpESndudTFRcDdka2c3UGxkQ05yaThiVXlzUXNUSGNFV2hBQlVWdFVYcExtSVA3bGUxSmdvMndZQTlsTDV1dFVtSlktODNJdXFMY3htQldXMVJvZ29sNEtZNzVnNmZR?oc=5",
         "description": "",
-        "pubDate": "2026-07-20T10:30:00Z",
+        "pubDate": "2026-07-20T10:20:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -345,6 +254,15 @@
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab7b/live/58c683d0-8424-11f1-926f-c90d1bcfbc84.jpg",
         "bias": -1
+      },
+      {
+        "title": "The World Cup is over. Here’s where to get your next soccer fix - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQktXdlIzNW5tTkhqTnlUSUZLWlN4UmlFQVRla242VWtIRlhnUXB3ZHpuRnJqSmd0a0MyVFYyNmY1dVYweXUySFQ1ZElSUmhST2lEM3d0N2J2RWN0UUNJVFA4UjNkejBaRE9wYS0zekh1WUh4My1qaC1Rb3VaekNIdVpVSXhDamx0NFFHVUZjODVRTmJ6eDBvbV9ndw?oc=5",
+        "description": "",
+        "pubDate": "2026-07-20T10:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Police attack Cockroach activists as thousands march on Indian parliament",
@@ -392,7 +310,7 @@
         "bias": -1
       },
       {
-        "title": "LIVE: Andy Burnham to become UK PM, deliver first speech at 10 Downing",
+        "title": "LIVE: Andy Burnham appointed UK PM, delivers first speech at 10 Downing St",
         "link": "https://www.aljazeera.com/news/liveblog/2026/7/20/live-andy-burnham-to-become-uk-pm-deliver-first-speech-at-10-downing?traffic_source=rss",
         "description": "The new leader takes over from Keir Starmer just two years after outgoing PM led Labour to a landslide election victory.",
         "pubDate": "2026-07-20T09:12:03Z",
@@ -401,9 +319,9 @@
         "bias": -1
       },
       {
-        "title": "Keir Starmer resigns, Andy Burnham becomes U.K. prime minister",
+        "title": "Andy Burnham becomes U.K. prime minister",
         "link": "https://www.npr.org/2026/07/19/nx-s1-5895993/andy-burnham-prime-minister-keir-starmer",
-        "description": "In a transition of power presided over by King Charles, Andy Burnham replaces Keir Starmer as the United Kingdom's prime minister. Both are from the center-left Labour Party.",
+        "description": "In a transition of power presided over by King Charles, Andy Burnham has replaced Keir Starmer as the United Kingdom's prime minister. Both are from the center-left Labour Party.",
         "pubDate": "2026-07-20T08:41:42Z",
         "source": "npr.org",
         "image": "",
@@ -464,19 +382,19 @@
         "bias": -1
       },
       {
+        "title": "At least 930 people have died in Congo’s Ebola outbreak - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY3p0MHFpZ1YyalptakdfbG5TQl9aSEk0Njc1elZsOThpSmRxd1lKckJQci1jTkVCQVpmbHU5enpzXzZTVVlld20yXzlOVjdBb1hzYlBRSmdYU2pLMkFMVUpNUWN2aWNfM3RaZnI2WklwVTNaTnNQbnB4bFpZeUhhck1rUi0?oc=5",
+        "description": "",
+        "pubDate": "2026-07-20T08:05:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "US renews attacks on Iran after US soldier killed: What’s the latest?",
         "link": "https://www.aljazeera.com/news/2026/7/20/us-renews-attacks-on-iran-after-us-soldier-killed-whats-the-latest?traffic_source=rss",
         "description": "Iran's IRGC claims an attack on Jordan while the US embassy issues a warning to Americans in Bahrain.",
         "pubDate": "2026-07-20T07:47:42Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Singapore minister resigns over ‘interactions with a woman’, PM says",
-        "link": "https://www.aljazeera.com/news/2026/7/20/singapore-minister-resigns-over-interactions-with-a-woman-pm-says?traffic_source=rss",
-        "description": "The People's Action Party, which prides itself on ​a clean reputation, has been rocked by a series of scandals recently.",
-        "pubDate": "2026-07-20T07:32:47Z",
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
@@ -491,58 +409,31 @@
         "bias": 0
       },
       {
-        "title": "Infantino tries to usher Trump away as Spain lift World Cup",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/infantino-tries-to-usher-trump-away-as-spain-lift-world-cup?traffic_source=rss",
-        "description": "Infantino tries to usher Trump away as Spain lift World Cup",
-        "pubDate": "2026-07-20T07:03:12Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "World shares are mixed and South Korea’s Kospi drops 4.5% as some AI stocks swoon - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORW43YVlhU1dNU0ZSTVNQc2tJRGpwLTNlY3FCcExTWDhOSWJ2ZC0tci10V0pYeUpMNTk5OFpReGVia2wzaHRqS09CNk56MkJzN3N2Nkk4UlNNVlFoamhFS0NrT3JjODhSRG9lSmdHRG5wald0UUtlTHpZRGlnWHJ6ZWthWnlKRkdTX0t3US1EejB1Rzg?oc=5",
+        "title": "Japanese beetle advances through northern Italy's vineyards and orchards, frustrating farmers - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVjlNZjlEZkRrbzJjTks0c1g1MTBLRGdhbS1SVU1XS05HREZ5YzJUTUVveWV3YUpfQ1V4NEc0TUVubUZnRTdBc0dpZFlxUG5yb204dHItTURJemtJZW9xVTNVZXROQ2JFemtpTmhPZFBFd3ZKd3dDckFoc1lJdHJyREdIQThRbmdXb2FhRUlET2VXODA5Y1E?oc=5",
         "description": "",
-        "pubDate": "2026-07-20T06:32:35Z",
+        "pubDate": "2026-07-20T07:19:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
-        "link": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
-        "description": "Iran responded with attacks in Syria and Jordan, as two ships reportedly exploded in the Strait of Hormuz.",
-        "pubDate": "2026-07-20T06:31:55Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b59a/live/8b160770-83fc-11f1-8948-1f76bc360535.jpg",
-        "bias": -1
+        "title": "As defaults on student loans surge, millions are trying to get their lives back on track - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQy04VG56UHFCVFQ5cF9YRkpoNWdja2JpZlZsaTJUT3ZoZVRoR3pDWmVDOVBSZC14X25lZjdtUEhzTmVzcW9tcklReHpMN2p0Y3d6OVJ1ZEdnSjMtOWhMSzRzcWtFa1RPZy1lQkh4Umt5MVRLMHFrRVBCcDFpUndSdnZIaU1sSnU3TkhERmh3?oc=5",
+        "description": "",
+        "pubDate": "2026-07-20T07:13:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
-        "title": "Last night, I was Spanish, and so were millions around the world",
-        "link": "https://www.aljazeera.com/opinions/2026/7/20/last-night-i-was-spanish-and-so-were-millions-around-the-world?traffic_source=rss",
-        "description": "For many of us, Gaza was on our mind when we watched and celebrated Spain’s triumph at the World Cup.",
-        "pubDate": "2026-07-20T06:21:31Z",
-        "source": "aljazeera.com",
+        "title": "Children describe how Nigerian militants moving south are seizing more young captives - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVFVnSnkyQmNJTTB3Yk4zYWpQRGhwWWNCa1pic3NEd1RqSmYtODd2RVRFM1h5c0czSEpoMV9ZcE03ckpzMVZ0eVMyVDBUeHpQb0ZRZ1BCNDVkb0FreC1VTDdnd3RKcVpSU05fZVliTk1LdkMtSHBpU0VqaEpfTm5XaVZickZIelJHMmpsVEtEb1RVMWo5OGt5eVNQZ092ZDg?oc=5",
+        "description": "",
+        "pubDate": "2026-07-20T05:14:00Z",
+        "source": "news.google.com",
         "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Protests continue in Houston over ICE killing of Lorenzo Salgado Araujo",
-        "link": "https://www.aljazeera.com/news/2026/7/20/protests-in-houston-continue-after-ice-killing-of-lorenzo-salgado-araujo?traffic_source=rss",
-        "description": "Hundreds of demonstrators in Texas city demand justice in fatal shooting of 52-year-old Mexican man.",
-        "pubDate": "2026-07-20T05:01:07Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Trump: Latest strikes on Iran ‘in honour’ of killed US military personnel",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_trump-latest-strikes-on-iran-in-honour-200726?traffic_source=rss",
-        "description": "US President Donald Trump said the latest strikes on Iran were carried out 'in honour' of killed US military personnel.",
-        "pubDate": "2026-07-20T04:52:56Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
+        "bias": 0
       },
       {
         "title": "Spanish and Argentinian fans react outside World Cup final",
@@ -554,33 +445,6 @@
         "bias": -1
       },
       {
-        "title": "US releases footage of ninth consecutive night of strikes on Iran",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/us-releases-footage-of-ninth-consecutive-night-of-strikes-on-iran?traffic_source=rss",
-        "description": "The US military carried out its ninth consecutive night of strikes on Iran.",
-        "pubDate": "2026-07-20T04:38:16Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Tearful Scaloni uncertain of Argentina future after World Cup loss",
-        "link": "https://www.aljazeera.com/sports/2026/7/20/tearful-scaloni-uncertain-of-argentina-future-after-world-cup-loss?traffic_source=rss",
-        "description": "Manager says it would be difficult to assemble another squad capable of reaching two consecutive World Cup finals.",
-        "pubDate": "2026-07-20T04:31:13Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Women’s tennis players must take one-time gene test for eligibility",
-        "link": "https://www.aljazeera.com/sports/2026/7/20/womens-tennis-players-must-take-one-time-gene-test-for-eligibility?traffic_source=rss",
-        "description": "Players will need to take a test ​for the SRY gene, which helps to determine biological sex, the WTA says.",
-        "pubDate": "2026-07-20T04:21:57Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "3 women’s world records set at the annual Lumberjack World Championships in Wisconsin - AP News",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONWxadUhsQ2JLNDlIT3JfYWpuZHRjVkxTZkpTSHdtWFRkakZ5Uy0tQWU2TnN0ZWRDT1FVWURsMW1xRjhpdldLdDMxNzZ6SkpqUUNEZlZJSlpkaXV0S2Y2SnVqanJNckt6bk9xT21RYy04ZXd3U0t1MWFiWEp4YmVjd29aRjh0VXVCYW1vS0NtVTJOWWN6bUVfcEdzTEo?oc=5",
         "description": "",
@@ -588,161 +452,125 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Fans in Madrid party all night long after Spain’s World Cup victory",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_fans-in-madrid-party-after-spains-world-cup-victory-190726?traffic_source=rss",
-        "description": "Spanish fans spent the night partying in Madrid after their team defeated Argentina 1-0 in the final of the World Cup.",
-        "pubDate": "2026-07-20T03:59:18Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Food delivery rider wins China's top literary prize",
-        "link": "https://www.bbc.co.uk/news/articles/c5ydr3xd0kvo?at_medium=RSS&at_campaign=rss",
-        "description": "Wang Jibing is among blue-collar Chinese workers gaining wider attention for their literary works.",
-        "pubDate": "2026-07-20T03:53:07Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27d9/live/016c8b40-83eb-11f1-a4bc-65277c7fcf81.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Argentinians show pride in Buenos Aires despite World Cup final defeat",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/argentinians-show-pride-in-buenos-aires-despite-world-cup-final-defeat?traffic_source=rss",
-        "description": "Argentinians filled the streets of Buenos Aires to honour their team despite its World Cup final defeat.",
-        "pubDate": "2026-07-20T03:52:54Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "How a young and cohesive Spain took down Lionel Messi’s Argentina",
-        "link": "https://www.aljazeera.com/sports/2026/7/20/how-a-young-and-cohesive-spain-took-down-lionel-messis-argentina?traffic_source=rss",
-        "description": "La Roja nullified and frustrated Argentina as they secured victory in New Jersey to win their second World Cup.",
-        "pubDate": "2026-07-20T03:43:42Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Dodgers two-way star Shohei Ohtani won’t pitch for ‘some time’ because of left knee irritation - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb0gzVWh2eU9hLThZWWtZMDZqai1FY2ZwS0RGaXZWNW1nQ2hWWW1ZQlVOSzdrc1loTVlSV252aFk4MEtVdG9XZkhMSmk1eGdLRVUyVmRIdWxaaXF2WHRXMEdaX1dqZDhwUTRlYmRTbVJxRE1DcjVNVDRDdF9fal9zczFBdDdtZmNkdDZBZVVmZXVpeHlfRDFqNi1ibnVDYmlsRXZSNWJn?oc=5",
-        "description": "",
-        "pubDate": "2026-07-20T03:30:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "What’s next as Andy Burnham takes over as UK’s next prime minister?",
-        "link": "https://www.aljazeera.com/news/2026/7/20/andy-burnham-to-become-uks-pm-on-monday-what-happens-next?traffic_source=rss",
-        "description": "Andy Burnham will become UK prime minister. Here's how the transition of power will unfold.",
-        "pubDate": "2026-07-20T03:20:48Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Test that found source of US explosive diarrhoea outbreak was false positive, health officials say",
-        "link": "https://www.bbc.co.uk/news/articles/c4gw9n1kx9do?at_medium=RSS&at_campaign=rss",
-        "description": "The latest update from the US Food and Drug Administration means the exact source of the parasite is still not known.",
-        "pubDate": "2026-07-20T02:35:04Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab10/live/42509dd0-8383-11f1-8537-c5e158f8690c.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Spain wins the World Cup by beating Argentina 1-0 on Ferran Torres’ goal in extra time - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMk9mUjZkMnBxaV9HTjEtWmI3WjdyMzBZVlVGa1BHWlgzZ2UteEo2djEzQVJfa2U4OXdwdk5zSGUzbXNHNS1jcktrRS16LTZBMzFQVU1mN0hQbWZKZHptWi0zdHBMZ3h2bjBwSExObm9xTjRGN3hqblltcUhNYy0xYlc0RWtndllzNDdjOGx5ei11YXI2UXBvZWtnTzBzdXJZYlBFTWpn?oc=5",
-        "description": "",
-        "pubDate": "2026-07-20T02:07:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "France commemorates the Vel d’Hiv roundup after a Paris plaque honoring rescuers is vandalized - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhvU05fY1JvaXVfMHpLLVh4bENtc1VDUnN4cTdPMGd6c01ycG0yX0JkNDFLOHRRdW1hRzQtRXQ0cUEzY1hYTHVUYy1oaHJYakFNZ1pBU0pVNkJMaXZFYjNtWmFzS1hsc1VrZE5yYjR5Z1g3bG1fTFBCWHVpVVF6bnZWQ3RXcEtWNVF1NE4tTElvQQ?oc=5",
-        "description": "",
-        "pubDate": "2026-07-20T01:48:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "How Ferran Torres scored the World Cup-winning goal for Spain to beat Argentina - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcjFyaFk1dkxhOFFBZHBwMUVaMDZhRFFnMmxmUlJEV2ZzZmpWd1ViaTRGV0JxbXd3OGRIRWVDejIzeldsUC02aThTQmtfaEtnS2RYT0NoWFdjLVhNenk1eFZPakVUOVNRak5pWkhyTmlZWkpSM2Jad2licW9hcHdHeEJET1dNNnpqVnQ0anYxWU5MVjFxYm9LLW1OWQ?oc=5",
-        "description": "",
-        "pubDate": "2026-07-20T01:19:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "The flight hours and miles of World Cup travels of FIFA’s Infantino in numbers - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSEFUek16VTBOMzBLbGNyODYzZloxSWkxNVhPT29KZjRzVjU0bWhZRWp6Mjlvcm1NNS1zVzY1WVhKX0w5SWVOUjQ4enprTWFTY0Q3VHNpWmlXZkUwcVlzQm5jS05ULTZ4OVk1MHpqR25kY0ZuQmpXU3dTX0EtT0RzV20xM3Rhb0VpMlc1OFJIWFd3dFBBcDNCR01pbXRnejg?oc=5",
-        "description": "",
-        "pubDate": "2026-07-20T01:17:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Norway opens new memorial for victims of 2011 massacre",
-        "link": "https://www.bbc.co.uk/news/articles/c07r9m22gyyo?at_medium=RSS&at_campaign=rss",
-        "description": "The artwork in the capital Oslo was unveiled on Sunday ahead of the 15th anniversary of the attack.",
-        "pubDate": "2026-07-20T01:11:08Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/949e/live/653e44b0-83cd-11f1-bee8-53ce494e1abc.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Trump celebrates the World Cup as a US victory as he presents trophy to the winner, Spain - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVzFYUG91TzJuN0RjbWhPdVlwako3eUtzNEswNkRZZC02UHprUzFNQ2JrUnJldGotMXhTSEVTbXRRT1BBV0cweHFJN291WFR2T3NuZFJiQ3Eya1h1d2tYWlB2VVRaZjFSYmd0WGY0cHhnaVdDMERaSzJWeFNyQTVKbEc1YVdXYVJN?oc=5",
-        "description": "",
-        "pubDate": "2026-07-20T00:50:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent",
-        "link": "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo?at_medium=RSS&at_campaign=rss",
-        "description": "Aggression against recruitment officers has become increasingly threatening, police say.",
-        "pubDate": "2026-07-20T00:19:12Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/150a/live/ddf43180-81e8-11f1-9b73-1d2c7fa8d439.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Argentina's Martinez plays cool in net, even as teammates turn reckless in historic World Cup final - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON0V1VlpuNGprWnFKVUl5ZUFyMkIwX0RsWjJxV3o5OS1WT1pqMGFkV2xFdWU1NUpXY2FiaFpNYkV3RFVmQ1VTdWVGV1daNURmRFpORVdoSXBZZHZpX01UNlIybHQtUlpvVjRuQ1NxdlpxemtpUUNpTWlaQzBTQU12dV9xVHZScTdYRk9TTGhoOFRfaXdvYlRDQWdB?oc=5",
-        "description": "",
-        "pubDate": "2026-07-20T00:10:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "They sing, they stomp, they dance. World Cup fans from Argentina, Spain spent cash at the final - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSVJsMU5XdElUX3ZZTU1KXzhfbzlRbE5fNnFuTVNISVNLRDk4WFg0RVBzMDAza2E4a0xobEUySWRYZVJmckxfSk5hUDFjTzR6eVNyd2Q5d3c0eGRDdFkxdm5Pd1ZWYXNteUMyZzZERzRaMDk5VFdJa2c1MFg4bkE2OUtzSFdWQlZFTVlIVmt3?oc=5",
-        "description": "",
-        "pubDate": "2026-07-20T00:07:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
       {
-        "title": "Watch: Sir Keir Starmer's last speech as prime minister in full",
-        "link": "https://www.bbc.co.uk/news/videos/cx2ml6g4y6ko?at_medium=RSS&at_campaign=rss",
-        "description": "Starmer spoke in front of an applauding crowd on Downing Street.",
-        "pubDate": "2026-07-20T10:37:20Z",
+        "title": "Burnham promises help with your money. How could it affect you?",
+        "link": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&at_campaign=rss",
+        "description": "New Prime Minister Andy Burnham says he wants life to be more affordable, but how could he do it?",
+        "pubDate": "2026-07-20T13:03:23Z",
         "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a2a/live/e0f2fac0-8426-11f1-b976-0b9c15b0ccfc.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea7b/live/acd4de30-8439-11f1-b976-0b9c15b0ccfc.jpg",
         "bias": -1
+      },
+      {
+        "title": "Burnham pressed on ambition to end rough sleeping",
+        "link": "https://www.bbc.co.uk/news/videos/ckg4l8zd9vqo?at_medium=RSS&at_campaign=rss",
+        "description": "Andy Burnham has said ending rough sleeping in the UK is one of his priorities.",
+        "pubDate": "2026-07-20T12:57:49Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1941/live/8d5bd6f0-8437-11f1-b976-0b9c15b0ccfc.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Mason: What image does Burnham want to project?",
+        "link": "https://www.bbc.co.uk/news/videos/cd69v8lp9g7o?at_medium=RSS&at_campaign=rss",
+        "description": "Mason: What image does Burnham want to project?",
+        "pubDate": "2026-07-20T12:52:32Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdc8/live/0ea76610-8439-11f1-926f-c90d1bcfbc84.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Watch: Starmer resigns, Burnham becomes PM... the day so far",
+        "link": "https://www.bbc.co.uk/news/videos/cd0xgxgz135o?at_medium=RSS&at_campaign=rss",
+        "description": "Andy Burnham has become the UK's prime minister after being appointed by the King at Buckingham Palace.",
+        "pubDate": "2026-07-20T12:49:18Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25ef/live/b2e56890-8438-11f1-b976-0b9c15b0ccfc.jpg",
+        "bias": -1
+      },
+      {
+        "title": "US bombing of Iran expands as American troops killed and Tehran retaliates against the Gulf states - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQajNHTE9aUmxpa2RIMy1jNjZ4RmgzZlk2OXE3ZXBtRzdxaUpnQldzeUtxaHh6Z3VTQzZMUGNtZ1oxNE5lQzZwLVhnX3BTZWk1OVBVT1ZiNFFtMnoyRDhHbFBnV0pFdTdNcnBKdWVuT0RidVJoWXFCYkdlNDE2V1hmZ1VhUlZhLXExZTZjOHo1YmRYMm5ra1U4RE9DU29CMVU?oc=5",
+        "description": "",
+        "pubDate": "2026-07-20T12:49:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Who is Andy Burnham's wife, Marie-France van Heel?",
+        "link": "https://www.bbc.co.uk/news/articles/c75y4q61eevo?at_medium=RSS&at_campaign=rss",
+        "description": "Van Heel, known as Frankie, is a marketing executive who has been in a relationship with Burnham since their university days.",
+        "pubDate": "2026-07-20T12:43:13Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62b9/live/86c5bb20-8433-11f1-bee8-53ce494e1abc.png",
+        "bias": -1
+      },
+      {
+        "title": "Wall Street futures rise, oil prices retreat despite an escalation in fighting by the US and Iran - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORW43YVlhU1dNU0ZSTVNQc2tJRGpwLTNlY3FCcExTWDhOSWJ2ZC0tci10V0pYeUpMNTk5OFpReGVia2wzaHRqS09CNk56MkJzN3N2Nkk4UlNNVlFoamhFS0NrT3JjODhSRG9lSmdHRG5wald0UUtlTHpZRGlnWHJ6ZWthWnlKRkdTX0t3US1EejB1Rzg?oc=5",
+        "description": "",
+        "pubDate": "2026-07-20T12:33:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "'Make politics work', Burnham says in first speech as PM",
+        "link": "https://www.bbc.co.uk/news/videos/cpq8d01yvero?at_medium=RSS&at_campaign=rss",
+        "description": "Burnham said his generation of politicians will need to \"raise our game\" and rise to the challenges in front of them.",
+        "pubDate": "2026-07-20T12:29:48Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f6b/live/dde1ec60-8435-11f1-926f-c90d1bcfbc84.jpg",
+        "bias": -1
+      },
+      {
+        "title": "'I've had to lay off most of my staff due to roadworks'",
+        "link": "https://www.bbc.co.uk/news/videos/cgmkvkk07vno?at_medium=RSS&at_campaign=rss",
+        "description": "Traders have expressed fears about a drop in trade with some even having to let some workers go.",
+        "pubDate": "2026-07-20T12:23:38Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f27/live/42a43e00-8431-11f1-8db9-6b4471749e2a.jpg",
+        "bias": -1
+      },
+      {
+        "title": "'A circuit-breaker moment' - Watch Andy Burnham's first speech as PM in full",
+        "link": "https://www.bbc.co.uk/news/videos/c934q2kkkvxo?at_medium=RSS&at_campaign=rss",
+        "description": "Andy Burnham spoke outside Downing Street after he replaced Keir Starmer as prime minister and leader of the Labour party.",
+        "pubDate": "2026-07-20T12:21:31Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/428a/live/2c39f3b0-8433-11f1-bee8-53ce494e1abc.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Yemen’s Houthis announce a maritime embargo against Saudi Arabia - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeUxVTTdGN3I2VHpkcGVLZFAzeXZlSjh3TmVGaXpPVjlsdG5iMEtmR1hscHVmbnlNQjBVYUVoTFI1c2Q2VS15SDVfSTVPb3FjM1FFMVREY0NKdk1hQ2Y2SGhkN3hvN2p2NHk1MTd0RU1HbDJvM3ZDTGhvQmpBNzBLQ1hpNk1mNjhpQmNxUmMtMnJ1Vk45N25lN3NBUQ?oc=5",
+        "description": "",
+        "pubDate": "2026-07-20T12:21:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "A very quick guide to new prime minister Andy Burnham",
+        "link": "https://www.bbc.co.uk/news/articles/clyv9qe6wj7o?at_medium=RSS&at_campaign=rss",
+        "description": "Andy Burnham replaces Sir Keir Starmer as PM, after winning the backing of Labour MPs.",
+        "pubDate": "2026-07-20T11:52:27Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0302/live/3e93ace0-8433-11f1-926f-c90d1bcfbc84.jpg",
+        "bias": -1
+      },
+      {
+        "title": "US military identifies 2 soldiers killed in Iranian attack on Jordan as from Texas and Hawaii - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPelNiSUdhbjhraUJ2RmhZbDN4eDJydVAzdnZJODRIYnhpS3dVUjBFYW9IU01TWHlUdzZERFBMOHl5a1E1XzRYRlpmdGpkaGlDYzFMODNmU053X3JGeE9HVjB4bUdXcXJ6ZzdzdHd6d0oySkJIbEdOdGp5QkVNaGFSMGpFNDM5TEZWdjM0NmJKcFRPYmFfRDdROC0yS2tqcl9aVXc?oc=5",
+        "description": "",
+        "pubDate": "2026-07-20T10:56:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Police fire tear gas at India's Cockroach movement supporters as they attempt a march to Parliament - AP News",
@@ -754,30 +582,12 @@
         "bias": 0
       },
       {
-        "title": "Who is Andy Burnham's wife, Marie-France van Heel?",
-        "link": "https://www.bbc.co.uk/news/articles/c75y4q61eevo?at_medium=RSS&at_campaign=rss",
-        "description": "Van Heel, known as Frankie, is a marketing executive who has been in a relationship with Burnham since their university days.",
-        "pubDate": "2026-07-20T09:44:31Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8d1/live/e4fdaef0-81f4-11f1-926f-c90d1bcfbc84.jpg",
-        "bias": -1
-      },
-      {
         "title": "He'll be the first Andy in No 10 - but his rise to power has been decades in the making",
         "link": "https://www.bbc.co.uk/news/articles/cp8pml5z8p6o?at_medium=RSS&at_campaign=rss",
         "description": "The outgoing Greater Manchester mayor is lining up a third attempt to be Labour leader following his return to Westminster.",
         "pubDate": "2026-07-20T09:35:56Z",
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8f6/live/1fd811f0-6e27-11f1-b1db-af71d47507d6.png",
-        "bias": -1
-      },
-      {
-        "title": "A very quick guide to Andy Burnham",
-        "link": "https://www.bbc.co.uk/news/articles/clyv9qe6wj7o?at_medium=RSS&at_campaign=rss",
-        "description": "Andy Burnham will replace Sir Keir Starmer as PM, after winning the backing of Labour MPs.",
-        "pubDate": "2026-07-20T09:32:07Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d73/live/071ae5b0-81ab-11f1-bee8-53ce494e1abc.jpg",
         "bias": -1
       },
       {
@@ -790,6 +600,15 @@
         "bias": 0
       },
       {
+        "title": "‘King of the North’ Andy Burnham went from Manchester mayor to Britain’s new leader - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMjM5R09qT3MxTG8zczBiMzVWc3R0VkpCZzdkQXZCaEVjVFh4UG9yRDlUaXVxVDVXa2NLOEtGZTlDTFhzNGswVEpxR2VrYVllQkZ3UmE1eUc5Y1p1R0psZFVoVUdOWElYTDBkTGJ3eS11S1hselp3UzNPVDNiWUVvdTdQeUUyRndiNVE2aHhiQ2RybU41YzN4UA?oc=5",
+        "description": "",
+        "pubDate": "2026-07-20T09:13:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Prisons minister Lord Timpson quits government",
         "link": "https://www.bbc.co.uk/news/articles/cvg0xlrvv4mo?at_medium=RSS&at_campaign=rss",
         "description": "The businessman said it was an \"honour\" to serve in the post, but the BBC understands he feels he has achieved all he can in the role.",
@@ -797,6 +616,15 @@
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6384/live/0d7bf680-841a-11f1-926f-c90d1bcfbc84.jpg",
         "bias": -1
+      },
+      {
+        "title": "How to keep babies safe when temperatures soar - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVk12NUN6dHFTZHU0S3NZT1UwZUxLMVh4RUJUM1JaVHhxZTFlXy16Nm1XdkJKUkY1UEViR2pna3N5ZDFuaU5Tanl1RjBjb2Fza2FxQ2U3TlBMZXRYdkNNZGdhYnBYM0o5X2hJYTN3eG1hdzJGOGtGYXNkeTN4VGViNi1Xc2VNV2p6U1V0c0o0dzJpdw?oc=5",
+        "description": "",
+        "pubDate": "2026-07-20T09:08:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Jobs, benefits and taxes: What Andy Burnham means for your finances",
@@ -835,42 +663,6 @@
         "bias": -1
       },
       {
-        "title": "US bombing of Iran expands as American troops killed and Tehran retaliates against the Gulf states - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQajNHTE9aUmxpa2RIMy1jNjZ4RmgzZlk2OXE3ZXBtRzdxaUpnQldzeUtxaHh6Z3VTQzZMUGNtZ1oxNE5lQzZwLVhnX3BTZWk1OVBVT1ZiNFFtMnoyRDhHbFBnV0pFdTdNcnBKdWVuT0RidVJoWXFCYkdlNDE2V1hmZ1VhUlZhLXExZTZjOHo1YmRYMm5ra1U4RE9DU29CMVU?oc=5",
-        "description": "",
-        "pubDate": "2026-07-20T08:23:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "At least 930 people have died in Congo’s Ebola outbreak - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY3p0MHFpZ1YyalptakdfbG5TQl9aSEk0Njc1elZsOThpSmRxd1lKckJQci1jTkVCQVpmbHU5enpzXzZTVVlld20yXzlOVjdBb1hzYlBRSmdYU2pLMkFMVUpNUWN2aWNfM3RaZnI2WklwVTNaTnNQbnB4bFpZeUhhck1rUi0?oc=5",
-        "description": "",
-        "pubDate": "2026-07-20T08:05:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Japanese beetle advances through northern Italy's vineyards and orchards, frustrating farmers - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVjlNZjlEZkRrbzJjTks0c1g1MTBLRGdhbS1SVU1XS05HREZ5YzJUTUVveWV3YUpfQ1V4NEc0TUVubUZnRTdBc0dpZFlxUG5yb204dHItTURJemtJZW9xVTNVZXROQ2JFemtpTmhPZFBFd3ZKd3dDckFoc1lJdHJyREdIQThRbmdXb2FhRUlET2VXODA5Y1E?oc=5",
-        "description": "",
-        "pubDate": "2026-07-20T07:19:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Counties to be split into three new unitary councils",
-        "link": "https://www.bbc.co.uk/news/videos/cx2vkwxdqwpo?at_medium=RSS&at_campaign=rss",
-        "description": "Oxfordshire - and a part of Berkshire - will be split into three new unitary authorities.",
-        "pubDate": "2026-07-20T07:18:51Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96a4/live/febea010-827b-11f1-b976-0b9c15b0ccfc.jpg",
-        "bias": -1
-      },
-      {
         "title": "A wave of student loan borrowers have entered default since pandemic-era protections lapsed - AP News",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS1ItODBZUzJnc18zZkJhQ01Oc2pHbG44QzZ2SFdfYldGeFd2czA1WVl1enY5QWlrRmRqV2dQTmZMTzdmc1V2cGdQQkNuMnlnX3F1aU9HLTkyUUFXbzM3V084LUZwWEVIWDJZdGZ6YnpmMGM5TGJBb3hLWVdWY2hlYWNTM3RRVmdiSmdJVnc2djN2ZlVt?oc=5",
         "description": "",
@@ -880,46 +672,19 @@
         "bias": 0
       },
       {
-        "title": "As defaults on student loans surge, millions are trying to get their lives back on track - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQy04VG56UHFCVFQ5cF9YRkpoNWdja2JpZlZsaTJUT3ZoZVRoR3pDWmVDOVBSZC14X25lZjdtUEhzTmVzcW9tcklReHpMN2p0Y3d6OVJ1ZEdnSjMtOWhMSzRzcWtFa1RPZy1lQkh4Umt5MVRLMHFrRVBCcDFpUndSdnZIaU1sSnU3TkhERmh3?oc=5",
+        "title": "In one of Kyiv’s most frequently bombed neighborhoods, residents choose to stay - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaTY4TkQwaVdVVHVxQ0psWEtHY2JsREdSYW5NQVljM0hrUkNUVUxlQU1WM0t0eElpV3p6QkZUUFR5eFdBVlYwQXpab0NuNnBKbm5sOXlDX1lSdUhZWWgzVU5mdy1VYVhMN3YtYWgxV2hHMDdiQ0tKNnM3cFpiLUM5Z2tqeHZvQ29nclRlZFFvUzYxSzhzVmMtM2IzOWpxemVkYVBiN0hXa1ROZlpzd2JWSi03NFpZRzIyXzFZ?oc=5",
         "description": "",
-        "pubDate": "2026-07-20T07:13:00Z",
+        "pubDate": "2026-07-20T07:10:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Badenoch: Burnham's plans are 'airy-fairy stuff'",
-        "link": "https://www.bbc.co.uk/news/videos/cdrvdm47r3ko?at_medium=RSS&at_campaign=rss",
-        "description": "Kemi Badenoch was asked about Andy Burnham as prime minister during Sunday with Laura Kuenssberg.",
-        "pubDate": "2026-07-20T05:51:20Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b586/live/ea17aa20-83fd-11f1-b976-0b9c15b0ccfc.jpg",
-        "bias": -1
       },
       {
         "title": "CENTCOM video released as US launches more airstrikes against Iran - AP News",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTWc0SEZtalR4dm83dUVhUzdFX2RmQUd4dHVJZzFBSndyeXpKcVNrQ2hiay14OGZDcFNuWGhSbG1rN3NnWnNMZVRHSHI3MXEzWXJ0WFZHRk02a3o3SEZ0LWZTYUl5NFJaT3ZmRG5kOFNYWHBZMExRc0luclRDNTVRMWxvRkpjU3JkaVQ3WHJ3RHNFXzJqUHBnT0tmMXlRR0FuZjFBRnFmcEhQZDRWTi1kdFg5TWZqNm90ZE9IdUJIOE1qQQ?oc=5",
         "description": "",
         "pubDate": "2026-07-20T05:34:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "What do people in Burnham-on-Sea think of the likely new PM?",
-        "link": "https://www.bbc.co.uk/news/videos/c3d39zj4kp0o?at_medium=RSS&at_campaign=rss",
-        "description": "Andy Burnham has pledged to undertake a summer tour across the UK during the early weeks of his premiership.",
-        "pubDate": "2026-07-20T05:26:35Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884d/live/e6033a50-813f-11f1-bee8-53ce494e1abc.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Iran war, Myanmar crisis and South China Sea rifts under the spotlight in ASEAN ministerial talks - AP News",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdHBYUFlRT18zYmxRNXZKSWw4NEd4SWR0dFUtbU5kTVpOOVQtdUpyN28zbEdoR1Y0dE9rRTJtZGgxcElLWHZMREVWT3ljZjl5S2hQLURKLVJjLXVlUFRsejljVGZDbGtSLXAwU2pCV3F5U3p2MjRYWVJGMDg3blJxVEtEZzZDZTJVZll2aHgyX0VEOEl4Wm1OOWFpN2Z0WGVUNEVyc3BzMVRrVFhhS1JXTGdadGZnY0hzdnJtUVBPekJrcm0wVmZIRDRnVlJRMTg?oc=5",
-        "description": "",
-        "pubDate": "2026-07-20T04:56:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -934,31 +699,13 @@
         "bias": 0
       },
       {
-        "title": "Rescuers in Indonesia find mother and son survivors from sunken passenger boat - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbnJ0M2Q0NTlvUTVHemV6MzNUcnJGY1JINTdhQnN5cXA5dE1yLVl2RWRGLWRQM0JOZ0hOVzJLZG53MnMyR1hPa2ZEWjVGbXBtX0E2QjExRUt3THhsTURvbF9yZzV5azFpd1NyYmpkTDQtWUJfM21vNXp3RGJ0X2stel9qZS1jS3RtejFlWWtmSmx1akZVd0NQencwWUktS0ljcWc?oc=5",
+        "title": "Dodgers two-way star Shohei Ohtani won’t pitch for ‘some time’ because of left knee irritation - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb0gzVWh2eU9hLThZWWtZMDZqai1FY2ZwS0RGaXZWNW1nQ2hWWW1ZQlVOSzdrc1loTVlSV252aFk4MEtVdG9XZkhMSmk1eGdLRVUyVmRIdWxaaXF2WHRXMEdaX1dqZDhwUTRlYmRTbVJxRE1DcjVNVDRDdF9fal9zczFBdDdtZmNkdDZBZVVmZXVpeHlfRDFqNi1ibnVDYmlsRXZSNWJn?oc=5",
         "description": "",
-        "pubDate": "2026-07-20T02:08:00Z",
+        "pubDate": "2026-07-20T03:30:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Chinese company demands compensation from the UK over British Steel nationalization - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPektqZmZxSDJVTGl0S2lFMU9vT2h3bkw1ekk5YWJPMENWNHBrYUpjNnJMWGRPLTJEd1JHdUpoMW5yN24zRTZvdEhITmMxMEd0dURHTXhNdXpfT2g3WHFIVzZCMTBfMmJXcmUyVkNXdkRLM0JFNWstdU1vS1drMnI5ODBlQmtoRU9hUUJ1YmNLQTJITVpxVGk5VGxFVQ?oc=5",
-        "description": "",
-        "pubDate": "2026-07-20T01:59:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Burnham to promise 'more breathing room' in first speech as PM",
-        "link": "https://www.bbc.co.uk/news/articles/cy8m7k98p3no?at_medium=RSS&at_campaign=rss",
-        "description": "The Labour leader will say he is \"acutely conscious\" of the UK's high turnover of prime ministers, as he becomes the seventh in 10 years on Monday.",
-        "pubDate": "2026-07-20T01:11:51Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f095/live/c05bf310-83a5-11f1-8175-0b71720eeb65.jpg",
-        "bias": -1
       },
       {
         "title": "Atlanta’s Angel Reese leaves game against Chicago with left leg injury - AP News",
@@ -970,8 +717,27 @@
         "bias": 0
       }
     ],
-    "Tech": [],
+    "Tech": [
+      {
+        "title": "Starmer says his work is done as Andy Burnham prepares to take office as UK prime minister - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObmpFTnBJcVJSbTdmSFR6SXIyOU9saWNFLWJ5QW1uS2QzanBfU3hyREhOdHJGTGI2VTlqeHJXTXA5NjZ5OEJyQ0k0bmliV0lsMTZfQXZWOGpmR244SUFCX3hRMjFFVFlCNV9feWNBMXd1NDFMRE9ZNkZrTTVMcWZZT3h4RHFxZzlZc3B6UlZsLUdndGdUUW93Rk1MdGY5MlJYamc2ZWdvaE4?oc=5",
+        "description": "",
+        "pubDate": "2026-07-20T10:30:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ],
     "Science": [
+      {
+        "title": "The hunger-striking engineer demanding education reforms in India",
+        "link": "https://www.bbc.co.uk/news/articles/cq562x2zlw4o?at_medium=RSS&at_campaign=rss",
+        "description": "Climate activist Sonam Wangchuk has a long history of challenging the status quo and refusing food to highlight his causes.",
+        "pubDate": "2026-07-20T12:25:57Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/956d/live/76fe5780-8431-11f1-b976-0b9c15b0ccfc.jpg",
+        "bias": -1
+      },
       {
         "title": "Going with the flow: Renewable energy battery breakthrough",
         "link": "https://www.bbc.co.uk/news/articles/c3dyd4l8250o?at_medium=RSS&at_campaign=rss",
@@ -1016,15 +782,6 @@
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8722/live/7fd31050-81d2-11f1-97b7-87871fc222bc.jpg",
         "bias": -1
-      },
-      {
-        "title": "The underwater harvest hoping for a bumper crop",
-        "link": "https://www.bbc.co.uk/news/articles/cd69qdg7l95o?at_medium=RSS&at_campaign=rss",
-        "description": "Volunteers harvest seagrass seeds in a bid to boost underwater meadows in the south of England.",
-        "pubDate": "2026-07-20T05:12:41Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/390c/live/3ce677c0-82e3-11f1-b976-0b9c15b0ccfc.jpg",
-        "bias": -1
       }
     ],
     "Business": [
@@ -1049,6 +806,15 @@
     ],
     "Culture": [
       {
+        "title": "Former World's Strongest Man to become a Gladiator",
+        "link": "https://www.bbc.co.uk/news/articles/c330e0jg6vlo?at_medium=RSS&at_campaign=rss",
+        "description": "Tom Stoltman, a 32-year-old, 6ft 8in athlete from the Highlands, will join the cast of the BBC Saturday night primetime show for the fourth series.",
+        "pubDate": "2026-07-20T11:22:28Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2904/live/af383250-8428-11f1-96d8-4b9d5565f166.jpg",
+        "bias": -1
+      },
+      {
         "title": "Tributes paid to influential soul singer Ray King",
         "link": "https://www.bbc.co.uk/news/articles/cg7mg4ev8vko?at_medium=RSS&at_campaign=rss",
         "description": "King is remembered as a \"Coventry musician who did so much and cared so much about his home city\".",
@@ -1063,7 +829,16 @@
         "description": "Stourton hosted Radio 4's Today programme for a decade and was a founding member of Channel 4 News.",
         "pubDate": "2026-07-20T07:30:13Z",
         "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2506/live/2e158a30-8101-11f1-b976-0b9c15b0ccfc.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/027f/live/1a608050-842e-11f1-b976-0b9c15b0ccfc.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Maternity scandal to be dramatised in new series",
+        "link": "https://www.bbc.co.uk/news/articles/cj9djljr43lo?at_medium=RSS&at_campaign=rss",
+        "description": "The drama will centre on Sarah and Jack Hawkins, who were among the first people to raise the alarm.",
+        "pubDate": "2026-07-20T05:09:05Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d8e/live/b5261330-835b-11f1-8d99-f1f0cec0b1ae.png",
         "bias": -1
       }
     ]
