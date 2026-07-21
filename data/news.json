@@ -1,206 +1,151 @@
 {
-  "lastUpdate": "2026-07-21T13:02:26.791729Z",
+  "lastUpdate": "2026-07-21T15:14:47.113167Z",
   "news": {
-    "Gaming": [
-      {
-        "title": "The Pong NoneClass [Free] [Action]",
-        "link": "https://hokagueartsgamestudio.itch.io/thepongnoneclass",
-        "description": "",
-        "pubDate": "2026-07-21T12:56:23Z",
-        "source": "hokagueartsgamestudio.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjQyMzg2LmpwZw==/315x250%23c/KbT4rv.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Five Times as My Own [Free] [Visual Novel] [Windows]",
-        "link": "https://loren-ae-jef.itch.io/five-times-as-my-own",
-        "description": "",
-        "pubDate": "2026-07-21T12:45:50Z",
-        "source": "loren-ae-jef.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjQyMjcyLmpwZw==/315x250%23c/f1PJBt.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Merge Cats Defender [Free]",
-        "link": "https://crimsun-studios.itch.io/merge-cats-defender",
-        "description": "A lane-based tower-defense game (Plants-vs-Zombies style",
-        "pubDate": "2026-07-21T12:45:47Z",
-        "source": "crimsun-studios.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjQyMTA0LnBuZw==/315x250%23c/Lj%2FMjf.png",
-        "bias": 0
-      },
-      {
-        "title": "Mindmatch Mahjong [Free] [Windows] [macOS] [Linux]",
-        "link": "https://priteshmd.itch.io/mindmatch-mahjong",
-        "description": "",
-        "pubDate": "2026-07-21T12:37:03Z",
-        "source": "priteshmd.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjQyNDI0LnBuZw==/315x250%23c/pdryHB.png",
-        "bias": 0
-      },
-      {
-        "title": "Enshittification [Free]",
-        "link": "https://aistrat.itch.io/enshittification",
-        "description": "enshittification",
-        "pubDate": "2026-07-21T12:17:01Z",
-        "source": "aistrat.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjQxODUxLnBuZw==/315x250%23c/oSY5Ql.png",
-        "bias": 0
-      },
-      {
-        "title": "TOWER DEFENSE [Free] [Strategy]",
-        "link": "https://gg99games.itch.io/tower-defense",
-        "description": "Gather logs and stones, arm your towers, and stop the enemy from reaching the princess.",
-        "pubDate": "2026-07-21T12:12:13Z",
-        "source": "gg99games.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjQyMDYwLnBuZw==/315x250%23c/xBPJCC.png",
-        "bias": 0
-      },
-      {
-        "title": "El Faro de Sant Bru [Free] [Adventure]",
-        "link": "https://foko-games.itch.io/el-faro-de-sant-bru",
-        "description": "Misterio arcade isométrico ZX Spectrum, jugable en el navegador.",
-        "pubDate": "2026-07-21T12:04:54Z",
-        "source": "foko-games.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjQxOTM4LnBuZw==/315x250%23c/WjaS80.png",
-        "bias": 0
-      },
-      {
-        "title": "Buch-Match [Free] [Puzzle]",
-        "link": "https://bardon.itch.io/buch-match",
-        "description": "Match3-Game",
-        "pubDate": "2026-07-21T11:58:00Z",
-        "source": "bardon.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjQxNzU5LnBuZw==/315x250%23c/khY0mX.png",
-        "bias": 0
-      },
-      {
-        "title": "Live Hard, Die Hard [Free] [Strategy] [Windows]",
-        "link": "https://maheraxxz.itch.io/live-hard-die-hard",
-        "description": "",
-        "pubDate": "2026-07-21T11:53:38Z",
-        "source": "maheraxxz.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjQxNjk5LmpwZw==/315x250%23c/vKGxvp.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Gemz! [Free] [Puzzle]",
-        "link": "https://free-consciousness.itch.io/gemz",
-        "description": "Drop blocks, clear lines, chain gems, and climb to Champion's League",
-        "pubDate": "2026-07-21T11:51:46Z",
-        "source": "free-consciousness.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjQxMzM4LnBuZw==/315x250%23c/loWXOx.png",
-        "bias": 0
-      },
-      {
-        "title": "Van Damme [Free] [Strategy] [Windows] [macOS] [Linux]",
-        "link": "https://samuelrodri.itch.io/van-damme",
-        "description": "",
-        "pubDate": "2026-07-21T11:49:41Z",
-        "source": "samuelrodri.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjQyMDA4LnBuZw==/315x250%23c/KZoS17.png",
-        "bias": 0
-      },
-      {
-        "title": "the hollow maze [Free] [Other] [Windows]",
-        "link": "https://linkvr3773.itch.io/the-hollow-maze",
-        "description": "its a maze game with story",
-        "pubDate": "2026-07-21T11:42:44Z",
-        "source": "linkvr3773.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjQxNDE3LnBuZw==/315x250%23c/m6C3ko.png",
-        "bias": 0
-      },
-      {
-        "title": "Project Satyrfrog [Free] [Platformer]",
-        "link": "https://istoselidas.itch.io/satyrfrog",
-        "description": "A tiny painted-cartoon action adventure on a mythic Aegean shore.",
-        "pubDate": "2026-07-21T11:36:19Z",
-        "source": "istoselidas.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjQxNDA1LnBuZw==/315x250%23c/nAQWpJ.png",
-        "bias": 0
-      },
-      {
-        "title": "The Superb Bill Manufacturer [Free] [Platformer]",
-        "link": "https://storessss.itch.io/the-superb-bill-manufacturer",
-        "description": "",
-        "pubDate": "2026-07-21T11:34:08Z",
-        "source": "storessss.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjQxNDM1LnBuZw==/315x250%23c/jaqjBr.png",
-        "bias": 0
-      },
-      {
-        "title": "Lured In [Free] [Simulation] [Windows]",
-        "link": "https://maheraxxz.itch.io/lured-in",
-        "description": "",
-        "pubDate": "2026-07-21T11:20:59Z",
-        "source": "maheraxxz.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjQxMTk1LmpwZw==/315x250%23c/9rVXof.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Divided [Free] [Puzzle] [Windows]",
-        "link": "https://thetechumbrella.itch.io/divided",
-        "description": "A precision cutting arcade game, slice each object as close to the target split as you can.",
-        "pubDate": "2026-07-21T11:19:26Z",
-        "source": "thetechumbrella.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjQxNjM4LnBuZw==/315x250%23c/cEhyTf.png",
-        "bias": 0
-      },
-      {
-        "title": "FOOTHOLD [Free] [Puzzle]",
-        "link": "https://zeezbitstudios.itch.io/foothold",
-        "description": "Climb by standing on every version of yourself that fell short.",
-        "pubDate": "2026-07-21T11:18:24Z",
-        "source": "zeezbitstudios.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjQxNTMyLnBuZw==/315x250%23c/dwcxc1.png",
-        "bias": 0
-      },
-      {
-        "title": "Virtual Board Game Room Player [Free] [Other]",
-        "link": "https://skullcrewstudios.itch.io/virtual-board-game-room",
-        "description": "Play virtual board games online with your friends",
-        "pubDate": "2026-07-21T11:09:31Z",
-        "source": "skullcrewstudios.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjQwOTIxLmpwZw==/315x250%23c/O773Rn.jpg",
-        "bias": 0
-      },
-      {
-        "title": "文链迷踪_Trace Chain [Free] [Adventure]",
-        "link": "https://liglor.itch.io/trace-chain",
-        "description": "Dual-character text-node cooperative deduction puzzle.",
-        "pubDate": "2026-07-21T10:43:45Z",
-        "source": "liglor.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjQxNzQxLnBuZw==/315x250%23c/%2F0aLB2.png",
-        "bias": 0
-      },
-      {
-        "title": "Swarm The Throne [Free] [Strategy]",
-        "link": "https://lilchill-games.itch.io/swarm-the-throne",
-        "description": "A pixel idle auto-battler: tap to rally a swarm, crush goblin hordes, fell the King, free the Realm, save the Princess.",
-        "pubDate": "2026-07-21T09:35:32Z",
-        "source": "lilchill-games.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjM5NzU5LnBuZw==/315x250%23c/FAJxz0.png",
-        "bias": 0
-      },
-      {
-        "title": "endless-expedition [Free] [Windows]",
-        "link": "https://adds2001.itch.io/endless-expedition",
-        "description": "",
-        "pubDate": "2026-07-21T05:42:56Z",
-        "source": "adds2001.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjM3MTYzLnBuZw==/315x250%23c/3isqW3.png",
-        "bias": 0
-      }
-    ],
+    "Gaming": [],
     "World": [
+      {
+        "title": "Israeli air strike in Gaza City kills family of six, medics say",
+        "link": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
+        "description": "Firas al-Masri, his wife and their four children died in the attack, which the Israeli military says targeted a Hamas operative.",
+        "pubDate": "2026-07-21T14:47:41Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b85/live/38d92850-8511-11f1-bee8-53ce494e1abc.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Saudi condemns Houthi blockade: How will the rest of the world be impacted?",
+        "link": "https://www.aljazeera.com/news/2026/7/21/saudi-condemns-houthi-blockade-how-will-the-rest-of-the-world-be-impacted?traffic_source=rss",
+        "description": "Saudi Arabia has condemned the Houthi naval blockade that could impact oil flow to importers of Saudi oil.",
+        "pubDate": "2026-07-21T14:37:47Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Searching for closure: Venezuela families refuse to give up after quakes",
+        "link": "https://www.aljazeera.com/features/2026/7/21/searching-for-closure-venezuela-families-refuse-to-give-up-after-quakes?traffic_source=rss",
+        "description": "Weeks after earthquakes, relatives are still searching for bodies of loved ones who disappeared beneath the rubble.",
+        "pubDate": "2026-07-21T14:08:59Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Japan’s AI gamble: Can technology offset the cost of an ageing society?",
+        "link": "https://www.aljazeera.com/features/2026/7/21/japan-ai-gamble-can-technology-offset-the-cost-of-an-ageing-society?traffic_source=rss",
+        "description": "From underground networks to emerging AI start-ups, Japan is testing whether its greatest issue can be an opportunity.",
+        "pubDate": "2026-07-21T14:06:44Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "ASEAN diplomats voice ‘serious concern’ over Iran war and energy crisis",
+        "link": "https://www.aljazeera.com/news/2026/7/21/asean-diplomats-voice-serious-concern-over-iran-war-and-energy-crisis?traffic_source=rss",
+        "description": "Southeast Asian countries are highly affected by oil supply shortages caused by Iran war and Strait of Hormuz closure.",
+        "pubDate": "2026-07-21T13:43:48Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "What does a heatwave cost?",
+        "link": "https://www.aljazeera.com/video/money-works/2026/7/21/what-does-a-heatwave-cost?traffic_source=rss",
+        "description": "What does a heatwave cost?",
+        "pubDate": "2026-07-21T13:42:38Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Clashes between police and people protesting Italy arrest death",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/clashes-between-police-and-people-protesting-italy-arrest-death?traffic_source=rss",
+        "description": "Clashes between police and people protesting Italy arrest death",
+        "pubDate": "2026-07-21T13:36:46Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "India tunnel collapse at a hydropower project kills 10 as 17 remain missing",
+        "link": "https://www.aljazeera.com/news/2026/7/21/india-tunnel-collapse-at-a-hydropower-project-kills-10-as-17-remain-missing?traffic_source=rss",
+        "description": "Rescue teams have been struggling to reach the 17 people trapped because of hazardous conditions inside the tunnel.",
+        "pubDate": "2026-07-21T13:32:04Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "‘There is ‌no safe place’: Israeli attack kills family of six in Gaza",
+        "link": "https://www.aljazeera.com/news/2026/7/21/there-is-no-safe-place-israeli-attack-kills-family-of-six-in-gaza?traffic_source=rss",
+        "description": "Israeli forces launch regular attacks on Gaza despite a US-backed 'ceasefire' agreed in October.",
+        "pubDate": "2026-07-21T13:26:40Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Trump’s new 50 percent Canada tariffs: What products are affected and why?",
+        "link": "https://www.aljazeera.com/news/2026/7/21/trumps-new-50-percent-canada-tariffs-what-products-are-affected-and-why?traffic_source=rss",
+        "description": "US leader imposes new sweeping tariffs on Canada, straining already tense ties with its second-largest trading partner.",
+        "pubDate": "2026-07-21T13:25:37Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Bodycam shows Florida student tased and arrested by campus police",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/bodycam-shows-florida-student-tased-and-arrested-by-campus-police?traffic_source=rss",
+        "description": "Bodycam shows Florida student tased and arrested by campus police",
+        "pubDate": "2026-07-21T13:17:04Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Watch Texas police officer pull man from burning car",
+        "link": "https://www.bbc.co.uk/news/videos/clyej920j5po?at_medium=RSS&at_campaign=rss",
+        "description": "Bodycam and dashcam footage shows a police officer rescue a man seconds before his car was engulfed in flames in Texas.",
+        "pubDate": "2026-07-21T13:01:09Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5644/live/ffaf5190-8500-11f1-926f-c90d1bcfbc84.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Baby trafficking ringleader jailed for 7 years",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/baby-trafficking-ringleader-jailed-for-7-years?traffic_source=rss",
+        "description": "An Indonesian court has sentenced Lie Siu Luan to seven years in prison for leading a baby trafficking ring.",
+        "pubDate": "2026-07-21T12:59:28Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Mexican drug lord ‘El Mayo’ sentenced to life in US prison",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/mexican-drug-lord-el-mayo-sentenced-to-life-in-us-prison?traffic_source=rss",
+        "description": "Mexican drug lord ‘El Mayo’ sentenced to life in US prison",
+        "pubDate": "2026-07-21T12:56:21Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Dozens hurt in Bologna protests after man dies while being restrained by police",
         "link": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss",
         "description": "Thousands of people took to the streets demanding justice for a Moroccan-born man who died on Sunday.",
         "pubDate": "2026-07-21T12:48:37Z",
         "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f0c/live/19cce410-84f8-11f1-bee8-53ce494e1abc.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0ee/live/ea2e8340-850a-11f1-b976-0b9c15b0ccfc.jpg",
         "bias": -1
+      },
+      {
+        "title": "Turkish opposition's deposed leader plans a new party to take on Erdogan after court-ordered ouster - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUG5tZms1Ui0xZ0hWN0I0M0M4X1FfU0pKQkVZZUdiUHF2VUNUQ2Jac0lqS3MzaHJJcVpyNHRrenBvZVhqblpCZTVjVGpoVjVCTFZYbmtrakhrYzRkNnNqeUVmd3F1Z3Q0M3VwYzNGVWF3NnZza2xwYm0tS0NKRlVaODZhdFNEbGpVeXdXUDdlLV9yT0tIbWhDaGFwU25CTGVmQlRfQg?oc=5",
+        "description": "",
+        "pubDate": "2026-07-21T12:40:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Iran war: Look beyond stocks to understand state of economy, experts say",
@@ -248,6 +193,15 @@
         "bias": -1
       },
       {
+        "title": "LIV Golf suffers setback with Asian Tour joining new alliance with European and PGA tours - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeHBvOGdrNUMzMVBBbXVRRDZtQ1VRbnJHVEgyVjNaOFZBY1N3MDBtLXlsNHktT2RuSE9qRTg2Yjg3MExxd3FwUUMzOWcxemJNTXBJOXNXdVl6eGNJZUFfbnpmMmFOa21KTnpXR21JUWZzajBmbHVGYVpxVU1xOG1oYTFvQXQyNmpoWVdEX0dqd05La2FJZXFJQkV5MHBqVXl4ZDBLcw?oc=5",
+        "description": "",
+        "pubDate": "2026-07-21T12:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "India’s ‘cockroach’ protest movement halts marches after police violence",
         "link": "https://www.aljazeera.com/news/2026/7/21/indias-cockroach-protest-movement-halts-marches-after-police-violence?traffic_source=rss",
         "description": "Leaders of the movement say they will continue campaigning but will not stage another march through New Delhi.",
@@ -266,7 +220,7 @@
         "bias": -1
       },
       {
-        "title": "Traffic officers arrested for allegedly seeking bribe from Nigeria's anti-corruption boss",
+        "title": "Police officers arrested for allegedly seeking roadside bribe from Nigeria's anti-corruption boss",
         "link": "https://www.bbc.co.uk/news/articles/c9q97028ex5o?at_medium=RSS&at_campaign=rss",
         "description": "They are accused of stopping Musa Aliyu at a fake roadblock and telling him to drive to a cash machine.",
         "pubDate": "2026-07-21T11:40:53Z",
@@ -329,15 +283,6 @@
         "bias": -1
       },
       {
-        "title": "Tropical Storm Bertha in the Gulf of Mexico is moving toward the Florida Panhandle and Alabama - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNXhkUXc1NHJHLUJGQVJIOXhVdHg3dGNKOE43cm96R1NXNUh6QWV6NDZxemdKZ1JLUVBva0RyNHVDbXF5ZF8zTVlDZEp1M0tMWjVZbi1SMzBFLWM3QzFUbGhJbVYtMThDRTN1UUFuV09FdFpTT2pzam1PbW5QSC1md19nNWZKbjNVWjFIY0pfZkJNcnpkRGQ3RFd1dXJvSnZkcndPMEVKZDhfX3Y4cDduMmlB?oc=5",
-        "description": "",
-        "pubDate": "2026-07-21T11:10:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "What to know about the key challenges Andy Burnham faces as UK prime minister - AP News",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV0hzRWNFTTlGS3hwUGgxNUVSOXhRZmpvby10Uzd1QUlocVp2Ymo3c3BOTnEtdWFNbS1nMzFOUDJnakJUVlRMbGp3Y0lIYVVYY1o4STRpZHVtdVZiV0p5d1k0WWVZVTQzNlBhUGtFdFBEZmRQaWUtUlBreWFOM29TUVU5R2wwWUxucEpYYmRpWC13T2tiVXc4d1JRelZaM3lwUGh3X3BHWHZiNzdhcHI5X0RscVJ6YzhtOVE?oc=5",
         "description": "",
@@ -385,7 +330,7 @@
       {
         "title": "Amid U.S.-Iran war, Houthi rebels threaten to blockade another key strait",
         "link": "https://www.npr.org/2026/07/21/nx-s1-5901846/us-iran-updates",
-        "description": "The Houthis, a Shiite militia in Yemen, which is aligned with Iran, have announced a naval blockade of a key waterway, the Bab Al-Mandeb Strait.",
+        "description": "The Houthis, a Shia militia in Yemen that's aligned with Iran, have announced a naval blockade of a key waterway, the Bab el-Mandeb Strait.",
         "pubDate": "2026-07-21T10:21:43Z",
         "source": "npr.org",
         "image": "",
@@ -437,75 +382,12 @@
         "bias": -1
       },
       {
-        "title": "Huge fire at Ukraine shopping centre after Russian drone strike",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/huge-fire-at-ukraine-shopping-centre-after-russian-drone-strike?traffic_source=rss",
-        "description": "A fire engulfed a shopping centre in Ukraine's Sumy after Russian drone strikes hit the building.",
-        "pubDate": "2026-07-21T09:52:56Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Argentina deny World Cup villains’ role after Samuel Jackson-led slants",
-        "link": "https://www.aljazeera.com/sports/2026/7/21/argentina-grapple-with-world-cup-villainy-amid-samuel-l-jackson-led-slant?traffic_source=rss",
-        "description": "Hollywood actor Samuel L Jackson was among those who criticised Argentina at World Cup, with racism among allegations.",
-        "pubDate": "2026-07-21T09:48:55Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
         "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
         "description": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.",
         "pubDate": "2026-07-21T09:48:20Z",
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae7d/live/d48c2a30-84c7-11f1-b976-0b9c15b0ccfc.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Philippine Foreign Secretary says ASEAN must work together",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/philippine-foreign-secretary-says-asean-must-work-together-2?traffic_source=rss",
-        "description": "Philippine Foreign Secretary says ASEAN must work together",
-        "pubDate": "2026-07-21T09:18:50Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "FIFA World Cup - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWMXpkQXNoa0hVNXJSNFAySlNQc25KdzJLR0xtLVhvWE9lWEREMkxDS25jb1VYYWcyQXctLVpZN3ZwTFJsYkh6R0N3VXFnUQ?oc=5",
-        "description": "",
-        "pubDate": "2026-07-21T09:11:40Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Hormuz tankers on fire, as US, Iran continue attacks: What’s the latest?",
-        "link": "https://www.aljazeera.com/news/2026/7/21/hormuz-tankers-on-fire-as-us-iran-continue-attacks-whats-the-latest?traffic_source=rss",
-        "description": "The White House told Al Jazeera that the US would continue its attacks unless Trump decides otherwise.",
-        "pubDate": "2026-07-21T09:04:50Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Mamdani says he takes Netanyahu’s ICC arrest warrant ‘seriously’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/mamdani-says-he-takes-netanyahus-icc-arrest-warrant?traffic_source=rss",
-        "description": "Mamdani says he takes Netanyahu’s ICC arrest warrant ‘seriously’",
-        "pubDate": "2026-07-21T08:56:19Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Farage, Reform in ‘trouble’, as UK braces for crypto influence in politics",
-        "link": "https://www.aljazeera.com/news/2026/7/21/farage-reform-in-trouble-as-uk-braces-for-crypto-influence-in-politics?traffic_source=rss",
-        "description": "Farage's crisis after revelations of substantial crypto donations prompts broader political questions over donor clout.",
-        "pubDate": "2026-07-21T08:51:19Z",
-        "source": "aljazeera.com",
-        "image": "",
         "bias": -1
       },
       {
@@ -518,56 +400,11 @@
         "bias": -1
       },
       {
-        "title": "Israeli forces open fire on children in Syrian village",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/israeli-forces-open-fire-on-children-in-syrian-village?traffic_source=rss",
-        "description": "Israeli forces open fire on children in Syrian village",
-        "pubDate": "2026-07-21T08:39:16Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Bangladesh face Australia Test might as Cummins, Hazlewood and Lyon return",
-        "link": "https://www.aljazeera.com/sports/2026/7/21/bangladesh-face-australia-test-might-as-cummins-hazlewood-and-lyon-return?traffic_source=rss",
-        "description": "Australia return to full strength for two-Test series against Bangladesh, as injured trio return to strengthen squad.",
-        "pubDate": "2026-07-21T08:25:34Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Moment terrifying floodwaters sweep through Afghan village",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/moment-terrifying-floodwaters-sweep-through-afghan-village?traffic_source=rss",
-        "description": "Moment terrifying floodwaters sweep through Afghan village",
-        "pubDate": "2026-07-21T07:58:52Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Five Palestinians killed in fire after Israeli attack in Gaza",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/five-palestinians-die-in-fire-after-israeli-attack-in-gaza?traffic_source=rss",
-        "description": "An Israeli air attack on an apartment in Gaza City set the building on fire, killing five people.",
-        "pubDate": "2026-07-21T07:55:43Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "Spain's World Cup champions return home for parade in front of almost 2 million",
         "link": "https://www.npr.org/2026/07/21/nx-s1-5901832/spain-world-cup-champions-return-home",
         "description": "The players and their coaching staff met with the country's royals, and Prime Minister Pedro Sánchez. An estimated crowd of almost 2 million was on hand to greet the squad through the streets of Madrid.",
         "pubDate": "2026-07-21T07:09:22Z",
         "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "World Cup: Messi thanks Argentina fans but ‘wound will take time to heal’",
-        "link": "https://www.aljazeera.com/sports/2026/7/21/world-cup-messi-thanks-argentina-fans-wound-will-take-time-to-heal?traffic_source=rss",
-        "description": "Argentina were beaten 1-0 in the final by Spain in what has been rumoured to be Lionel Messi's final World Cup game.",
-        "pubDate": "2026-07-21T06:52:38Z",
-        "source": "aljazeera.com",
         "image": "",
         "bias": -1
       },
@@ -579,24 +416,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Yemen’s Iranian-backed Houthis say they will block Saudi shipping at Red Sea gateway - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeUxVTTdGN3I2VHpkcGVLZFAzeXZlSjh3TmVGaXpPVjlsdG5iMEtmR1hscHVmbnlNQjBVYUVoTFI1c2Q2VS15SDVfSTVPb3FjM1FFMVREY0NKdk1hQ2Y2SGhkN3hvN2p2NHk1MTd0RU1HbDJvM3ZDTGhvQmpBNzBLQ1hpNk1mNjhpQmNxUmMtMnJ1Vk45N25lN3NBUQ?oc=5",
-        "description": "",
-        "pubDate": "2026-07-21T02:23:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "US soldiers killed by Iran were from Texas and Hawaii, military says - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPelNiSUdhbjhraUJ2RmhZbDN4eDJydVAzdnZJODRIYnhpS3dVUjBFYW9IU01TWHlUdzZERFBMOHl5a1E1XzRYRlpmdGpkaGlDYzFMODNmU053X3JGeE9HVjB4bUdXcXJ6ZzdzdHd6d0oySkJIbEdOdGp5QkVNaGFSMGpFNDM5TEZWdjM0NmJKcFRPYmFfRDdROC0yS2tqcl9aVXc?oc=5",
-        "description": "",
-        "pubDate": "2026-07-21T02:17:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "'Anti-ICE' army veteran started fire outside Manhattan federal building, say officials",
@@ -626,15 +445,6 @@
         "bias": 0
       },
       {
-        "title": "Spain’s World Cup winners return home, in photos - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeExuaWluLThUOWY0NU0zbUdvRl9IY0VmbC1ObXZVcEkwczhoOWtFYnJQbVJFVjNHdTRraS1haDJENExqZHpiNHhQU2N5cHNVc3hPRnRKaHdFN096RGdTT3BHYmppRXd2RzdUMG9IaE5NU3NsY0FfMFBlN1VLX0pvUF8tVFJNZDkwR29mV05hZzZzWWItWG1oY0ZCeVZHYTA3M09weFA1UDZYcWRlemlF?oc=5",
-        "description": "",
-        "pubDate": "2026-07-21T00:52:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Flying axes and rolling logs at the Lumberjack World Championships, in photos - AP News",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQV25zTU53TjVTUlFSVEdwOUJrdTQ2aHZJdElXcmppZk5WNXN5WURlYTdEendSTTRPVWdHLVNTSnZLRHVEYVFXczUyUHJwNVdOdFUzQU8yVTg1eEJpTkpoRmZ5MVF1QmVWWWo3cC02UXVaV3BralpZbURONjZXTGNXeEZwUDJidUEwUFJwcUVheE9QWk1aV2huTUxkNmJNemk3V3Zxb2I5QndwM0QyMm5JYm9ZN2F2Y1BhRHhlRS00dlQ1VHp3RmQ4?oc=5",
         "description": "",
@@ -649,9 +459,117 @@
         "title": "Whitehall officials offered move to No 10 North in Manchester",
         "link": "https://www.bbc.co.uk/news/articles/c9d8p0l29pxo?at_medium=RSS&at_campaign=rss",
         "description": "London-based civil servants willing to move north have been told they will be offered relocation packages, the BBC understands.",
-        "pubDate": "2026-07-21T12:56:18Z",
+        "pubDate": "2026-07-21T15:12:02Z",
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca4f/live/7282e170-84f5-11f1-ae95-69a18db8092b.jpg",
+        "bias": -1
+      },
+      {
+        "title": "How northern is PM Andy Burnham's new cabinet?",
+        "link": "https://www.bbc.co.uk/news/videos/cy74ke5pmx8o?at_medium=RSS&at_campaign=rss",
+        "description": "Northern MPs make up a big part of Andy Burnham's new cabinet - but how many are there?",
+        "pubDate": "2026-07-21T14:58:44Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/065e/live/9638eff0-8514-11f1-a08a-6d526d664753.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Sir Chris Bryant outlines 'checklist' of issues as he takes up NI secretary role",
+        "link": "https://www.bbc.co.uk/news/articles/c20e5x4dy9lo?at_medium=RSS&at_campaign=rss",
+        "description": "Hilary Benn replaced by a former Anglican priest as part of a Cabinet reshuffle by the new Prime Minister, Andy Burnham.",
+        "pubDate": "2026-07-21T14:53:04Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26ef/live/04423d70-84d0-11f1-bc1a-3f050829cba4.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Ann Widdecombe was hit on head 21 times with hammer, prosecutors say",
+        "link": "https://www.bbc.co.uk/news/articles/cj03r77n07jo?at_medium=RSS&at_campaign=rss",
+        "description": "Joshua Kerry, 28, attacked Widdecombe while she was eating lunch at her home in Devon before stealing her wallet, prosecutors say.",
+        "pubDate": "2026-07-21T14:46:58Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46ee/live/0e6c41b0-8511-11f1-926f-c90d1bcfbc84.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Tropical Storm Bertha in the Gulf of Mexico is moving toward the Florida Panhandle and Alabama - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNXhkUXc1NHJHLUJGQVJIOXhVdHg3dGNKOE43cm96R1NXNUh6QWV6NDZxemdKZ1JLUVBva0RyNHVDbXF5ZF8zTVlDZEp1M0tMWjVZbi1SMzBFLWM3QzFUbGhJbVYtMThDRTN1UUFuV09FdFpTT2pzam1PbW5QSC1md19nNWZKbjNVWjFIY0pfZkJNcnpkRGQ3RFd1dXJvSnZkcndPMEVKZDhfX3Y4cDduMmlB?oc=5",
+        "description": "",
+        "pubDate": "2026-07-21T14:39:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Will scrapping digital ID pay for a VAT cut?",
+        "link": "https://www.bbc.co.uk/news/videos/cgk4xnkgy2zo?at_medium=RSS&at_campaign=rss",
+        "description": "BBC Political Correspondent Damien Grammaticas explains Andy Burnham's plan to cut VAT and its link to the scrapped digital ID scheme.",
+        "pubDate": "2026-07-21T14:37:18Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31ec/live/4237b720-850e-11f1-926f-c90d1bcfbc84.jpg",
+        "bias": -1
+      },
+      {
+        "title": "VAT to be cut from household electricity bills in October",
+        "link": "https://www.bbc.co.uk/news/articles/cjwxll8jyz8o?at_medium=RSS&at_campaign=rss",
+        "description": "Homes will save around £45 a year through the cut announced on Andy Burnham's first full day as prime minister.",
+        "pubDate": "2026-07-21T14:25:22Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c71b/live/5cd10c80-8509-11f1-bee8-53ce494e1abc.jpg",
+        "bias": -1
+      },
+      {
+        "title": "UK leader Burnham gathers his Cabinet after sweeping away Starmer supporters - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNjNfbHA5NnEwdmNoUFpQM2RJWnR4V2VlaXlvNG1hbnRXNGhNS2g5LXYyZEtWZFNMTEtGWW1SNkIzTjZ0R3lzNUFjM1AxTVNYSVFUZWM0SHRQRDdtaVVkOGdvaS1kQmEtYktsamVSdlBPdEdIdERTRXhWRlZrbG5NVXBqX0RuMHRleFNSckpNN2NxWm14RWtabElMXzhnUVMtdTBVNTNwcW5PTGNqZGc?oc=5",
+        "description": "",
+        "pubDate": "2026-07-21T14:18:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Farage calls for general election: 'Burnham has no mandate'",
+        "link": "https://www.bbc.co.uk/news/videos/cg4dz2dgv41o?at_medium=RSS&at_campaign=rss",
+        "description": "The Reform UK leader says the public want a vote on the new PM's 10-year plan.",
+        "pubDate": "2026-07-21T14:07:40Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0598/live/cbe36d50-850b-11f1-926f-c90d1bcfbc84.jpg",
+        "bias": -1
+      },
+      {
+        "title": "India’s youth-led Cockroach movement vows to keep demanding reforms after police crackdown - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTmplcEQ0OFNyUjdrZjRqV09sVEljWW9VOGJjM1dVQVlwWHF3bEZaaEdHWmI5RkNLdjNLc05IalM4aU8weGVvRWc3UlhqRDdFdmhCYll6NHhNVEliNTUyNFlzMlVheUwwZW90Q3dhRXg2VF9YM1hYcGdrLWhYMWtPT1prZXJwUkJUNVJmMmNibW8zMmM?oc=5",
+        "description": "",
+        "pubDate": "2026-07-21T13:53:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Iran and US persist in their attacks, as Pakistan tries to keep diplomacy alive - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR3ByTjM2MjQxUW43TEtOc0JJNXpDYmNxdDNYRlNXMk0yZUNlYnMwVXlrZUxyMlF3UlZjMk9IOFpzVjl6TzI3Q0JPQ0hkazlZSDFHeWpHYTN1RVp0QjNYQTlYX3g4TlVBZmlEV0VIT1ZXaG1nUTFnYnRGTGhDOFZrWFVWc1B4LUI3Q0JhQjlvMkgyTk1HU09UcG9TNDN4M0E?oc=5",
+        "description": "",
+        "pubDate": "2026-07-21T13:36:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Lebanon’s president will meet with Trump in Washington to push for Israeli troop withdrawal - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM0dLUVFUSUI0cG1faEJlMDl1ZVBEb2NZWFN5Z2REZThIRktHbDhpUVJ5UzlwTDNEUE4taWFpTXlSQTRLNzdhS25rN0JzS1lkSkMxUDZGMGszSFl1QlBuWWEzdXF3eWVyTGFYLS1jNlBoOUd2aWMxazVrNUQwMWlvU2d5QllFU2xQSUZpdjNJc3RaVjBpellDSVdpWk5xc3UyVTIxcS1UTmM?oc=5",
+        "description": "",
+        "pubDate": "2026-07-21T13:30:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Who is the UK's new chancellor?",
+        "link": "https://www.bbc.co.uk/news/videos/c5yw8gzzgp5o?at_medium=RSS&at_campaign=rss",
+        "description": "After becoming PM on Monday, Burnham appointed John Healey as chancellor, Ed Miliband as foreign secretary and Wes Streeting as defence secretary",
+        "pubDate": "2026-07-21T13:15:31Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/402c/live/34025640-84ed-11f1-bee8-53ce494e1abc.jpg",
         "bias": -1
       },
       {
@@ -664,24 +582,6 @@
         "bias": -1
       },
       {
-        "title": "Burnham thanks ministers for joining cabinet",
-        "link": "https://www.bbc.co.uk/news/videos/c07rgvedx7ko?at_medium=RSS&at_campaign=rss",
-        "description": "Andy Burnham holds his first cabinet meeting as prime minister",
-        "pubDate": "2026-07-21T12:47:43Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a174/live/1b7913d0-8500-11f1-b976-0b9c15b0ccfc.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Applause as Burnham arrives for first cabinet meeting as PM",
-        "link": "https://www.bbc.co.uk/news/videos/cq6d28p7jgzo?at_medium=RSS&at_campaign=rss",
-        "description": "Andy Burnham is holding his first cabinet meeting as prime minister",
-        "pubDate": "2026-07-21T12:39:42Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a07e/live/66a652f0-84fb-11f1-8b9b-a724b687bb3b.jpg",
-        "bias": -1
-      },
-      {
         "title": "UK borrows less than expected in June but public finances remain a challenge",
         "link": "https://www.bbc.co.uk/news/articles/cx2vd3qgjy9o?at_medium=RSS&at_campaign=rss",
         "description": "Public finances for last month were better than expected but the UK is carrying major debt.",
@@ -691,7 +591,7 @@
         "bias": -1
       },
       {
-        "title": "Former Labour leader 'thrilled to bits' as son becomes new Welsh secretary",
+        "title": "Former Labour leader's 'delight' as son becomes new Welsh secretary",
         "link": "https://www.bbc.co.uk/news/articles/c5y3m14km87o?at_medium=RSS&at_campaign=rss",
         "description": "Stephen Kinnock is the son of ex-Labour leader Lord Kinnock and former MEP Glenys Kinnock.",
         "pubDate": "2026-07-21T12:35:04Z",
@@ -700,19 +600,10 @@
         "bias": -1
       },
       {
-        "title": "Sir Chris Bryant appointed new NI secretary",
-        "link": "https://www.bbc.co.uk/news/articles/c20e5x4dy9lo?at_medium=RSS&at_campaign=rss",
-        "description": "Hilary Benn replaced by a former Anglican priest as part of a Cabinet reshuffle by the new Prime Minister, Andy Burnham.",
-        "pubDate": "2026-07-21T12:34:51Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26ef/live/04423d70-84d0-11f1-bc1a-3f050829cba4.jpg",
-        "bias": -1
-      },
-      {
-        "title": "India’s youth-led Cockroach movement vows to continue protest after police crackdown - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTmplcEQ0OFNyUjdrZjRqV09sVEljWW9VOGJjM1dVQVlwWHF3bEZaaEdHWmI5RkNLdjNLc05IalM4aU8weGVvRWc3UlhqRDdFdmhCYll6NHhNVEliNTUyNFlzMlVheUwwZW90Q3dhRXg2VF9YM1hYcGdrLWhYMWtPT1prZXJwUkJUNVJmMmNibW8zMmM?oc=5",
+        "title": "Appeals court rejects Biden’s bid to block release of recordings of ghostwriter interviews - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZnppZGVlVzI5ZUdPd2dXWWM4RldGdkY5RndqQjNSazJLUHBMc0pYZ0swTWJ3VlZCVFJ5VWVrekt0UHBHNUxack1vTVIyWVpNYWpvX2lvQWlMX3ZrNDZBQUhDcXBqQUpiZUtjWE1Db1dYQmpDNnlpYkhnTGVLaGZOenZhdXdaUDVoS0Y1Ym1reEljSXVpTm9sWFJBeFp4STZLaVZpM2JZcW1JSU1WOW1JRHF2TQ?oc=5",
         "description": "",
-        "pubDate": "2026-07-21T12:16:00Z",
+        "pubDate": "2026-07-21T12:12:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -725,6 +616,15 @@
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dbc/live/016bda30-84f7-11f1-aefd-63161e2ad075.jpg",
         "bias": -1
+      },
+      {
+        "title": "Thousands of African winter skiing tourists are flocking to snowy Lesotho - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMS1SeUNBbEFyWDNwbGFtT3FFRlZ1em9rNDhUSDlocU40c1hDZnBfN1VpRU5FZjljT21sdTJTYXRLLVI4Q1pNaUtLblFJLS04NXJwQjc5WWtONzJoUHRVQjQ2YlAtRjRGOEFOSHh2Q0pNMWZ5SElKZjRpUl9QbmdGYUxLSUtzM2EzNzZwMk4tWDZOdGYxa0FlRFZGdFJ4RV9PaVE?oc=5",
+        "description": "",
+        "pubDate": "2026-07-21T12:07:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Man stabs and wounds tourists near the Acropolis in Athens, Greece - AP News",
@@ -763,15 +663,6 @@
         "bias": -1
       },
       {
-        "title": "Key moments on day Andy Burnham became prime minister",
-        "link": "https://www.bbc.co.uk/news/videos/cy5d3w7d2v9o?at_medium=RSS&at_campaign=rss",
-        "description": "Andy Burnham has replaced Sir Keir Starmer as UK prime minister, after becoming Labour leader last week.",
-        "pubDate": "2026-07-21T10:37:59Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3e7/live/7a277d80-84ed-11f1-b976-0b9c15b0ccfc.jpg",
-        "bias": -1
-      },
-      {
         "title": "Trump imposes 50% tariffs on Canadian goods",
         "link": "https://www.npr.org/2026/07/21/nx-s1-5901905/trump-imposes-tariffs-canadian-goods",
         "description": "President Donald Trump on Monday imposed 50% tariffs on most Canadian goods, declaring that Canada has unfairly discriminated against American autos, alcohol and dairy products.",
@@ -788,24 +679,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "VAT to be cut from household electricity bills in October",
-        "link": "https://www.bbc.co.uk/news/articles/cjwxll8jyz8o?at_medium=RSS&at_campaign=rss",
-        "description": "Homes will save around £45 a year through the cut announced on Andy Burnham's first full day as prime minister.",
-        "pubDate": "2026-07-21T10:07:38Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1d8/live/f32ce4c0-84c7-11f1-85ee-9979bc27393b.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Cause of Ann Widdecombe's death not yet established, inquest hears",
-        "link": "https://www.bbc.co.uk/news/articles/cq89q0yyqz4o?at_medium=RSS&at_campaign=rss",
-        "description": "The 78-year-old was found with \"visible injuries\" at her home in Devon on 9 July.",
-        "pubDate": "2026-07-21T09:56:49Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2505/live/fe8b1ee0-84ea-11f1-993e-3dec65835866.jpg",
-        "bias": -1
       },
       {
         "title": "Officials sought phone records of NYT journalists and their relatives in an effort to unmask sources - AP News",
@@ -844,15 +717,6 @@
         "bias": -1
       },
       {
-        "title": "American road trips are a summertime staple. Test how much you know - AP News",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZVVVrOFpIM1gxSk5PVTRHVG9ZenFvN0FLTjBfTlNaMkM1d2JXYXY0Z2pjR0V3akhod2xsbW1QN0trOEtxRU9XS21EMVdrTFJFUG9Yc00xX1poVkxCYnNUR0N3ZDk4ZWJmUG9XTXhxZUg?oc=5",
-        "description": "",
-        "pubDate": "2026-07-21T09:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "New Air Force One going out of commission to get safety upgrades",
         "link": "https://www.npr.org/2026/07/21/nx-s1-5901113/new-air-force-one-going-out-of-commission-to-get-safety-upgrades",
         "description": "The new Air Force One is going out of commission to receive safety upgrades. What needs to be done and was it safe for President Trump to fly the plane to Turkey earlier this month?",
@@ -860,15 +724,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Ski enthusiasts flock to sub-Saharan Africa and a snowy mountain resort in Lesotho - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMS1SeUNBbEFyWDNwbGFtT3FFRlZ1em9rNDhUSDlocU40c1hDZnBfN1VpRU5FZjljT21sdTJTYXRLLVI4Q1pNaUtLblFJLS04NXJwQjc5WWtONzJoUHRVQjQ2YlAtRjRGOEFOSHh2Q0pNMWZ5SElKZjRpUl9QbmdGYUxLSUtzM2EzNzZwMk4tWDZOdGYxa0FlRFZGdFJ4RV9PaVE?oc=5",
-        "description": "",
-        "pubDate": "2026-07-21T08:41:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Who's in Andy Burnham's cabinet?",
@@ -889,13 +744,13 @@
         "bias": -1
       },
       {
-        "title": "Will Burnham's cut to electricity VAT help households?",
-        "link": "https://www.bbc.co.uk/news/videos/cx2vpygw1ewo?at_medium=RSS&at_campaign=rss",
-        "description": "Andy Burnham says he will remove VAT for household electricity bills, marking his first major costed policy announcement as prime minister.",
-        "pubDate": "2026-07-21T06:10:30Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/731b/live/692a8a70-84c7-11f1-926f-c90d1bcfbc84.jpg",
-        "bias": -1
+        "title": "Another tanker attacked in Strait of Hormuz as US strikes Iran for 10th consecutive night - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQajNHTE9aUmxpa2RIMy1jNjZ4RmgzZlk2OXE3ZXBtRzdxaUpnQldzeUtxaHh6Z3VTQzZMUGNtZ1oxNE5lQzZwLVhnX3BTZWk1OVBVT1ZiNFFtMnoyRDhHbFBnV0pFdTdNcnBKdWVuT0RidVJoWXFCYkdlNDE2V1hmZ1VhUlZhLXExZTZjOHo1YmRYMm5ra1U4RE9DU29CMVU?oc=5",
+        "description": "",
+        "pubDate": "2026-07-21T04:30:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Powerball ticket sales begin Tuesday in the United Kingdom - AP News",
@@ -925,6 +780,24 @@
         "bias": 0
       },
       {
+        "title": "Yemen’s Iranian-backed Houthis say they will block Saudi shipping at Red Sea gateway - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeUxVTTdGN3I2VHpkcGVLZFAzeXZlSjh3TmVGaXpPVjlsdG5iMEtmR1hscHVmbnlNQjBVYUVoTFI1c2Q2VS15SDVfSTVPb3FjM1FFMVREY0NKdk1hQ2Y2SGhkN3hvN2p2NHk1MTd0RU1HbDJvM3ZDTGhvQmpBNzBLQ1hpNk1mNjhpQmNxUmMtMnJ1Vk45N25lN3NBUQ?oc=5",
+        "description": "",
+        "pubDate": "2026-07-21T02:23:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "US soldiers killed by Iran were from Texas and Hawaii, military says - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPelNiSUdhbjhraUJ2RmhZbDN4eDJydVAzdnZJODRIYnhpS3dVUjBFYW9IU01TWHlUdzZERFBMOHl5a1E1XzRYRlpmdGpkaGlDYzFMODNmU053X3JGeE9HVjB4bUdXcXJ6ZzdzdHd6d0oySkJIbEdOdGp5QkVNaGFSMGpFNDM5TEZWdjM0NmJKcFRPYmFfRDdROC0yS2tqcl9aVXc?oc=5",
+        "description": "",
+        "pubDate": "2026-07-21T02:17:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "US suspends funding for US Virgin Islands’ housing authority and accuses it of corruption - AP News",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMmVtZ0ZfTTM1cEtKUk5lSzFTX2FlMHVjdFAxby1NQkNSekpCSDhDQXk2cklBal9BZlV3bVQ0dkFycnFPVUVqRTJkVWlXSEhNMlo1Z1FGM0NlY3VTQk9OVWdYUWdHTE1lQ3dSdlJ0Um13NEhZY25HWVRONFYxb3NhWG13bWg3dXpfaFJlYWN2ZlBRSW1LOVk4cEpFamdhdFJtcm01TmtxS0dobGlRR0R4bw?oc=5",
         "description": "",
@@ -945,55 +818,19 @@
     ],
     "Tech": [
       {
-        "title": "Appeals court rejects Biden’s bid to block release of recordings of ghostwriter interviews - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZnppZGVlVzI5ZUdPd2dXWWM4RldGdkY5RndqQjNSazJLUHBMc0pYZ0swTWJ3VlZCVFJ5VWVrekt0UHBHNUxack1vTVIyWVpNYWpvX2lvQWlMX3ZrNDZBQUhDcXBqQUpiZUtjWE1Db1dYQmpDNnlpYkhnTGVLaGZOenZhdXdaUDVoS0Y1Ym1reEljSXVpTm9sWFJBeFp4STZLaVZpM2JZcW1JSU1WOW1JRHF2TQ?oc=5",
-        "description": "",
-        "pubDate": "2026-07-21T12:12:00Z",
-        "source": "news.google.com",
+        "title": "The best games of 2026 so far, picked by NPR's staff",
+        "link": "https://www.npr.org/2026/07/21/nx-s1-5897567/best-games-2026-npr",
+        "description": "Titans like",
+        "pubDate": "2026-07-21T13:00:00Z",
+        "source": "npr.org",
         "image": "",
-        "bias": 0
+        "bias": -1
       },
       {
-        "title": "Iranian official meets mediators in Pakistan as Iran and US keep up a 10th day of attacks - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR3ByTjM2MjQxUW43TEtOc0JJNXpDYmNxdDNYRlNXMk0yZUNlYnMwVXlrZUxyMlF3UlZjMk9IOFpzVjl6TzI3Q0JPQ0hkazlZSDFHeWpHYTN1RVp0QjNYQTlYX3g4TlVBZmlEV0VIT1ZXaG1nUTFnYnRGTGhDOFZrWFVWc1B4LUI3Q0JhQjlvMkgyTk1HU09UcG9TNDN4M0E?oc=5",
+        "title": "Southeast Asia’s top diplomats hold security talks in Manila as Iran war rages - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT2Jmd09QX1pBX2d0cExqNVg5MXZFNUpfQ2o2bmJIRGlPTmFoY2dkYXVIb2J1YTVvSXR0SjBBQzUyQk5KRVo5RXB5aXpXWkIyN25RS1lOa3RVOW9vQVphRzZuLWx3YTd1OW16NDNrUHFXQzhhanNmM0tUZkFleUU3NzN5bXlMSC1CLVFhRldYemM4aFNkVzBGVkxxcXFIU0RUaVBsSw?oc=5",
         "description": "",
-        "pubDate": "2026-07-21T11:10:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "International criminal groups use technology to expand in and beyond Asia, UN report says - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYkk2MmxNakhINk8teVJEUmRlUmVDdlhKUHJzYkstamFTWlVtX25xaDlKNWdNbXlraG1NODNFalR1TnZuLWE4aEFoZ1RKbE1TOEY5bFljRjlfUWtCOUNHMlhaNW1yTlFQSlJLLWNhb2pCTzdMaE9sYU42WkhBVGJxajBOeGVQQWEwWnRucjl3cG9DMVFacVhIdkEtTWhraUU4b0RGYWt3UERjTnM?oc=5",
-        "description": "",
-        "pubDate": "2026-07-21T10:37:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "UK leader Burnham gathers his Cabinet after sweeping away Starmer supporters - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNjNfbHA5NnEwdmNoUFpQM2RJWnR4V2VlaXlvNG1hbnRXNGhNS2g5LXYyZEtWZFNMTEtGWW1SNkIzTjZ0R3lzNUFjM1AxTVNYSVFUZWM0SHRQRDdtaVVkOGdvaS1kQmEtYktsamVSdlBPdEdIdERTRXhWRlZrbG5NVXBqX0RuMHRleFNSckpNN2NxWm14RWtabElMXzhnUVMtdTBVNTNwcW5PTGNqZGc?oc=5",
-        "description": "",
-        "pubDate": "2026-07-21T10:29:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Lebanon’s president will meet with Trump in Washington to push for Israeli troop withdrawal - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM0dLUVFUSUI0cG1faEJlMDl1ZVBEb2NZWFN5Z2REZThIRktHbDhpUVJ5UzlwTDNEUE4taWFpTXlSQTRLNzdhS25rN0JzS1lkSkMxUDZGMGszSFl1QlBuWWEzdXF3eWVyTGFYLS1jNlBoOUd2aWMxazVrNUQwMWlvU2d5QllFU2xQSUZpdjNJc3RaVjBpellDSVdpWk5xc3UyVTIxcS1UTmM?oc=5",
-        "description": "",
-        "pubDate": "2026-07-21T08:37:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Another tanker attacked in Strait of Hormuz as US strikes Iran for 10th consecutive night - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQajNHTE9aUmxpa2RIMy1jNjZ4RmgzZlk2OXE3ZXBtRzdxaUpnQldzeUtxaHh6Z3VTQzZMUGNtZ1oxNE5lQzZwLVhnX3BTZWk1OVBVT1ZiNFFtMnoyRDhHbFBnV0pFdTdNcnBKdWVuT0RidVJoWXFCYkdlNDE2V1hmZ1VhUlZhLXExZTZjOHo1YmRYMm5ra1U4RE9DU29CMVU?oc=5",
-        "description": "",
-        "pubDate": "2026-07-21T04:30:00Z",
+        "pubDate": "2026-07-21T11:47:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1013,7 +850,7 @@
         "title": "Parts of the UK move closer to drought",
         "link": "https://www.bbc.co.uk/weather/articles/cjwx0xv571eo?at_medium=RSS&at_campaign=rss",
         "description": "Eight areas across England are now in prolonged dry weather – the stage before drought.",
-        "pubDate": "2026-07-21T12:10:08Z",
+        "pubDate": "2026-07-21T13:46:05Z",
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbfc/live/260f1bc0-84fe-11f1-bee8-53ce494e1abc.jpg",
         "bias": -1
@@ -1028,15 +865,6 @@
         "bias": -1
       },
       {
-        "title": "LIV Golf suffers setback with Asian Tour joining new alliance with European and PGA tours - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeHBvOGdrNUMzMVBBbXVRRDZtQ1VRbnJHVEgyVjNaOFZBY1N3MDBtLXlsNHktT2RuSE9qRTg2Yjg3MExxd3FwUUMzOWcxemJNTXBJOXNXdVl6eGNJZUFfbnpmMmFOa21KTnpXR21JUWZzajBmbHVGYVpxVU1xOG1oYTFvQXQyNmpoWVdEX0dqd05La2FJZXFJQkV5MHBqVXl4ZDBLcw?oc=5",
-        "description": "",
-        "pubDate": "2026-07-21T12:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "UK's bumblebees are struggling in heatwaves",
         "link": "https://www.bbc.co.uk/news/videos/c4gxw0dpp0jo?at_medium=RSS&at_campaign=rss",
         "description": "UK bumblebees could suffer sharp falls in their numbers as heatwaves become more frequent.",
@@ -1044,6 +872,15 @@
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9683/live/aefd0bc0-84f1-11f1-bee8-53ce494e1abc.jpg",
         "bias": -1
+      },
+      {
+        "title": "Conflicts and energy shocks threaten progress against global hunger, UN agency head warns - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdExpakI0dm9lZTFiNUtaenA1M0N6TGhtNzNVSVhXOTFVY05mWl82dXhvaEtZbDVKcWdVakJ3MnhyMFotQUpaeHNBVHRwRFUzUHZmUnVRbEpvcnFJM3NWSWZMUHkxREZ4RWl3Ulp4SHZhZ094WkZ5d21vQnFHT3BBU1NpaUhaVVhIN1hlNUtDOXExSzNGdGk3X2hScw?oc=5",
+        "description": "",
+        "pubDate": "2026-07-21T10:27:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Tropical Storm Bertha threatens US Gulf coast",
@@ -1065,6 +902,42 @@
       }
     ],
     "Business": [
+      {
+        "title": "Is the internet broken?",
+        "link": "https://www.bbc.co.uk/videos/c0qv07pzyepo?at_medium=RSS&at_campaign=rss",
+        "description": "75% of the world is online, and in many ways it makes all our lives better. But faced with AI slop, misinformation and toxicity, many people are asking: Is there a better way?",
+        "pubDate": "2026-07-21T15:10:43Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/448d/live/3aeb4d30-8516-11f1-926f-c90d1bcfbc84.jpg",
+        "bias": -1
+      },
+      {
+        "title": "UK's first sugar factory at risk of closure",
+        "link": "https://www.bbc.co.uk/news/articles/c8dnq6v5pvgo?at_medium=RSS&at_campaign=rss",
+        "description": "Over 100 jobs are at risk after British Sugar announced plans to shut one of its four factories.",
+        "pubDate": "2026-07-21T13:57:21Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0748/live/766430f0-850e-11f1-9ebc-53bc1d9d88bb.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Ozempic-maker sues rival over false advertising",
+        "link": "https://www.bbc.co.uk/news/articles/c3v0rzd2l17o?at_medium=RSS&at_campaign=rss",
+        "description": "Novo Nordisk, the maker of Wegovy and Ozempic, has launched legal action accusing its arch rival Eli Lilly of false advertising.",
+        "pubDate": "2026-07-21T13:47:23Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c4c/live/b65dcff0-8508-11f1-bee8-53ce494e1abc.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Ryanair broken window may have been caused by 'foreign object'",
+        "link": "https://www.bbc.co.uk/news/articles/cy9wq82q1pgo?at_medium=RSS&at_campaign=rss",
+        "description": "Passenger Ljubisa Karović was partially sucked out of a cabin window on the Boeing aircraft.",
+        "pubDate": "2026-07-21T13:10:49Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cbb/live/a414ae00-8507-11f1-8b9b-a724b687bb3b.jpg",
+        "bias": -1
+      },
       {
         "title": "Thames Water lenders offer 'golden share' to head off nationalisation",
         "link": "https://www.bbc.co.uk/news/articles/clyv43x372wo?at_medium=RSS&at_campaign=rss",
