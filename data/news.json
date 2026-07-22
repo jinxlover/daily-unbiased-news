@@ -1,261 +1,143 @@
 {
-  "lastUpdate": "2026-07-22T10:53:43.280932Z",
+  "lastUpdate": "2026-07-22T12:24:18.883770Z",
   "news": {
-    "Gaming": [
-      {
-        "title": "Avoid the Obstacles [Free] [Action]",
-        "link": "https://do-siem.itch.io/avoid-the-obstacles",
-        "description": "Prosta gra zręcznościowa stworzona w Pythonie z wykorzystaniem biblioteki Pygame",
-        "pubDate": "2026-07-22T10:41:15Z",
-        "source": "do-siem.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjYxNzMzLnBuZw==/315x250%23c/nPoy4t.png",
-        "bias": 0
-      },
-      {
-        "title": "Card Race [Free]",
-        "link": "https://armanden.itch.io/card-race",
-        "description": "A card racing game where cards race their fate",
-        "pubDate": "2026-07-22T10:31:55Z",
-        "source": "armanden.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjYxNjQ2LnBuZw==/315x250%23c/9JHrpx.png",
-        "bias": 0
-      },
-      {
-        "title": "🍪Clickin-Cookies🌮 Taco & Burrito Addon [$1.00] [Simulation]",
-        "link": "https://icegamer6163.itch.io/clickin-cookies-taco-addon",
-        "description": "a Clicker Game Soon To Become Popular Taco & Burrito Addon",
-        "pubDate": "2026-07-22T10:31:37Z",
-        "source": "icegamer6163.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjYxNTE1LnBuZw==/315x250%23c/5NTiai.png",
-        "bias": 0
-      },
-      {
-        "title": "Bobby's Wonderfull Worlds [Free] [Action] [Windows]",
-        "link": "https://recrut01.itch.io/bobbys-wonderfull-worlds",
-        "description": "",
-        "pubDate": "2026-07-22T10:27:31Z",
-        "source": "recrut01.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjYxMzMxLmpwZw==/315x250%23c/ghimfw.jpg",
-        "bias": 0
-      },
-      {
-        "title": "The Third Side [Free] [Strategy]",
-        "link": "https://itchypaone.itch.io/the-third-side",
-        "description": "Keep the world at war. Profit from the dark.",
-        "pubDate": "2026-07-22T10:24:15Z",
-        "source": "itchypaone.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjYxNDMzLnBuZw==/315x250%23c/Tg8AIm.png",
-        "bias": 0
-      },
-      {
-        "title": "Skyline Raptor [Free]",
-        "link": "https://orbyte.itch.io/raptor",
-        "description": "Command the F-22, outmaneuver intelligent enemies, and dominate the skies.",
-        "pubDate": "2026-07-22T10:24:05Z",
-        "source": "orbyte.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjYxNDA2LnBuZw==/315x250%23c/7H5kxw.png",
-        "bias": 0
-      },
-      {
-        "title": "Touchant [Free] [Puzzle]",
-        "link": "https://leon.itch.io/touchant",
-        "description": "A game that you play with your hands",
-        "pubDate": "2026-07-22T10:22:34Z",
-        "source": "leon.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjYxMzEwLnBuZw==/315x250%23c/Xr2V9u.png",
-        "bias": 0
-      },
-      {
-        "title": "TowersOfIllusion [$1.00]",
-        "link": "https://happydog666.itch.io/towersofillusion",
-        "description": "Towers of Illusion is a minimalist isometric puzzle game inspired by impossible geometry and optical illusion.",
-        "pubDate": "2026-07-22T10:18:09Z",
-        "source": "happydog666.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjYxNTgwLnBuZw==/315x250%23c/G%2BD9ad.png",
-        "bias": 0
-      },
-      {
-        "title": "Spirit Scramble [Free] [Simulation]",
-        "link": "https://aquatic-architect.itch.io/spirit-scramble",
-        "description": "Potion making hijinks",
-        "pubDate": "2026-07-22T10:17:13Z",
-        "source": "aquatic-architect.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjYxMjAzLnBuZw==/315x250%23c/X2qSdn.png",
-        "bias": 0
-      },
-      {
-        "title": "FS 26 KOSIARKA RZS 160 [$5.00]",
-        "link": "https://modsfsmobile.itch.io/fs-26-kosiarka-rzs-160",
-        "description": "",
-        "pubDate": "2026-07-22T10:12:36Z",
-        "source": "modsfsmobile.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjYxMTczLnBuZw==/315x250%23c/wzxUOS.png",
-        "bias": 0
-      },
-      {
-        "title": "backyard apiary [Free] [Simulation]",
-        "link": "https://pirategnome.itch.io/backyard-apiary",
-        "description": "",
-        "pubDate": "2026-07-22T10:10:44Z",
-        "source": "pirategnome.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjYxMjMwLnBuZw==/315x250%23c/nMGEDM.png",
-        "bias": 0
-      },
-      {
-        "title": "나락손해보험 [Free]",
-        "link": "https://bigstarim.itch.io/narak-risk-insurance",
-        "description": "",
-        "pubDate": "2026-07-22T09:57:09Z",
-        "source": "bigstarim.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjYwOTA4LnBuZw==/315x250%23c/AHemRi.png",
-        "bias": 0
-      },
-      {
-        "title": "Arenda: Horror Survival [Free] [Survival] [Windows]",
-        "link": "https://ayandev-studio.itch.io/arenda-horror-survival",
-        "description": "Welcome to a dark apartment where every creak and shadow makes you feel unsafe.",
-        "pubDate": "2026-07-22T09:41:46Z",
-        "source": "ayandev-studio.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjYwNzMxLnBuZw==/315x250%23c/7K%2F1nW.png",
-        "bias": 0
-      },
-      {
-        "title": "Mosquito Simulator [Free] [Action]",
-        "link": "https://yugiriworks.itch.io/mosquito-simulator",
-        "description": "Drink blood, dodge danger, and escape before you get swatted.",
-        "pubDate": "2026-07-22T09:34:32Z",
-        "source": "yugiriworks.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjYwNzMzLnBuZw==/315x250%23c/BfKfrD.png",
-        "bias": 0
-      },
-      {
-        "title": "Goat clicker [Free]",
-        "link": "https://koza-game.itch.io/goat",
-        "description": "",
-        "pubDate": "2026-07-22T09:33:57Z",
-        "source": "koza-game.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjYwNzA2LmpwZWc=/315x250%23c/nvv9IE.jpeg",
-        "bias": 0
-      },
-      {
-        "title": "FobII [Free]",
-        "link": "https://madame1.itch.io/fobii",
-        "description": "",
-        "pubDate": "2026-07-22T09:31:50Z",
-        "source": "madame1.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjYwNjc4LnBuZw==/315x250%23c/knA%2Fek.png",
-        "bias": 0
-      },
-      {
-        "title": "UGroup icebreaker [Free]",
-        "link": "https://bountyape.itch.io/ugroup-icebreaker",
-        "description": "",
-        "pubDate": "2026-07-22T09:31:24Z",
-        "source": "bountyape.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjYwODk4LmpwZw==/315x250%23c/YA05qu.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Eternal Realms Arc 4 - Oh No! The Warden! [$4.00] [Other]",
-        "link": "https://blazesm.itch.io/eternal-realms-arc-4-oh-no-the-warden",
-        "description": "",
-        "pubDate": "2026-07-22T09:28:11Z",
-        "source": "blazesm.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjYwOTI5LmpwZw==/315x250%23c/kCDE9P.jpg",
-        "bias": 0
-      },
-      {
-        "title": "!!EL CUBITO ARGENTINO!! [Free] [Windows]",
-        "link": "https://ozielinho98.itch.io/el-cubito-argentino",
-        "description": "Un juego 2D argentino donde sos un cubito que debe destruir meteoritos con un cañón láser y sumar kilómetros.",
-        "pubDate": "2026-07-22T09:21:15Z",
-        "source": "ozielinho98.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjYwNzkxLnBuZw==/315x250%23c/q9TNRk.png",
-        "bias": 0
-      },
-      {
-        "title": "[C64] Murder on the Mississippi Remastered [Free] [Adventure]",
-        "link": "https://crystalct.itch.io/c64-murder-on-the-mississippi-remastered",
-        "description": "A new remastered format on a Magic Desk Plus cartridge.",
-        "pubDate": "2026-07-22T09:18:43Z",
-        "source": "crystalct.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjYwNTIzLnBuZw==/315x250%23c/qNfWlM.png",
-        "bias": 0
-      },
-      {
-        "title": "Stellar Gravity [Free] [Simulation] [Windows] [Linux]",
-        "link": "https://bulblight.itch.io/stellar-gravity",
-        "description": "Build stars, planets, and black holes in a realistic 2D gravity sandbox.",
-        "pubDate": "2026-07-22T09:14:12Z",
-        "source": "bulblight.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjUyMTg2LmpwZw==/315x250%23c/0PTQOp.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Safe Harbor [Free] [Strategy] [Windows]",
-        "link": "https://lvkksyringa.itch.io/safeharbor",
-        "description": "A modified edition of classic board game \"Up The River\".",
-        "pubDate": "2026-07-22T08:58:53Z",
-        "source": "lvkksyringa.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjYwMzUzLnBuZw==/315x250%23c/0J7LOR.png",
-        "bias": 0
-      },
-      {
-        "title": "Demon Source - Soulslike Roguelike (Demo) [Free] [Action] [Windows]",
-        "link": "https://firenest.itch.io/demon-source",
-        "description": "New build each 30 minutes",
-        "pubDate": "2026-07-22T08:16:25Z",
-        "source": "firenest.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjYwMzIzLnBuZw==/315x250%23c/XjFUig.png",
-        "bias": 0
-      },
-      {
-        "title": "Racing Kartoons [Free] [Racing]",
-        "link": "https://fuzzydweeb.itch.io/racing-kartoons",
-        "description": "It's not Mario Kart but it is FREE :)",
-        "pubDate": "2026-07-22T08:02:32Z",
-        "source": "fuzzydweeb.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjU5Nzg4LmpwZw==/315x250%23c/XYecS7.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Eerie Room | 詭屋 [Free] [Survival]",
-        "link": "https://treqzm3369.itch.io/eerie-room-20260720",
-        "description": "A YouTuber accidentally entered a eerie house... | 知名YT誤入詭屋...",
-        "pubDate": "2026-07-22T07:59:01Z",
-        "source": "treqzm3369.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjYxMDc5LnBuZw==/315x250%23c/Ax8CG6.png",
-        "bias": 0
-      },
-      {
-        "title": "Murder Meet Cute demo [Free] [Interactive Fiction]",
-        "link": "https://kitico.itch.io/murder-meet-cute-demo",
-        "description": "Interactive fiction thriller inspired by 90s FMVs and interface dramas.",
-        "pubDate": "2026-07-22T07:24:57Z",
-        "source": "kitico.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjU5Mjg3LnBuZw==/315x250%23c/Lv%2FjDr.png",
-        "bias": 0
-      },
-      {
-        "title": "PLACE WALL [Free] [Puzzle]",
-        "link": "https://mumu-fumu.itch.io/place-wall",
-        "description": "Place walls. Find the rule.",
-        "pubDate": "2026-07-22T06:08:00Z",
-        "source": "mumu-fumu.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjYxMTQxLnBuZw==/315x250%23c/DkjOA0.png",
-        "bias": 0
-      },
-      {
-        "title": "Bamboo & Iron [Free] [Fighting]",
-        "link": "https://woobolt.itch.io/bamboo-iron",
-        "description": "A zen puppet duel: your opponent imitates your move. Ultimately, you fight yourself. Best on mobile.",
-        "pubDate": "2026-07-22T00:09:52Z",
-        "source": "woobolt.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NjU0NzcwLmpwZw==/315x250%23c/5UzsPz.jpg",
-        "bias": 0
-      }
-    ],
+    "Gaming": [],
     "World": [
+      {
+        "title": "India protest: How Modi’s refusal to sack education minister fits a pattern",
+        "link": "https://www.aljazeera.com/news/2026/7/22/india-protest-how-modis-refusal-to-sack-education-minister-fits-a-pattern?traffic_source=rss",
+        "description": "Protesters want Dharmendra Pradhan to be sacked over serial exam leaks. But that's not how Modi works.",
+        "pubDate": "2026-07-22T12:09:13Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Modelling scout linked to Epstein found dead in Paris suburbs",
+        "link": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss",
+        "description": "Daniel Siad, whose name appears in the Epstein files thousands of times, had previously denied knowledge of the threat Jeffrey Epstein posed.",
+        "pubDate": "2026-07-22T12:08:41Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6bd/live/3c1a6c30-85b7-11f1-bd07-3b1b1452001a.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Iran war’s $37bn price tag: Why does the Pentagon want $67bn more?",
+        "link": "https://www.aljazeera.com/news/2026/7/22/iran-wars-37bn-price-tag-why-does-trump-want-67bn-more?traffic_source=rss",
+        "description": "The US must rapidly replenish its stockpiles of weapons as the war on Iran rages on.",
+        "pubDate": "2026-07-22T12:05:12Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "‘Creeping death’: Israel weaponises ‘Yellow Line’ to annex Gaza",
+        "link": "https://www.aljazeera.com/news/2026/7/22/creeping-death-israel-weaponises-yellow-line-to-annex-gaza?traffic_source=rss",
+        "description": "Analysts and locals say the move mirrors what happened after the 1967 war with Israel's occupation of the West Bank.",
+        "pubDate": "2026-07-22T11:52:29Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Italy makes financial ‘exceptions’ in bid to hire Pep Guardiola as coach",
+        "link": "https://www.aljazeera.com/sports/2026/7/22/italy-makes-financial-exceptions-in-bid-to-hire-pep-guardiola-as-coach?traffic_source=rss",
+        "description": "Italy's football federation chief holds talks with Guardiola over vacant role, but appointment not yet confirmed.",
+        "pubDate": "2026-07-22T11:39:49Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Cocaine worth $370m seized in Liberia's biggest-ever drugs bust",
+        "link": "https://www.bbc.co.uk/news/articles/cyvl3zgr3v4o?at_medium=RSS&at_campaign=rss",
+        "description": "The seizure follows a long-running investigation into drug-trafficking networks, police say.",
+        "pubDate": "2026-07-22T11:32:11Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc8a/live/d822f230-859b-11f1-95ab-5d94529b7f34.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Why are thousands protesting for education reform in India?",
+        "link": "https://www.bbc.co.uk/news/articles/cedj9j911p8o?at_medium=RSS&at_campaign=rss",
+        "description": "Thousands of mostly young people tried to march on India's parliament to demand changes to how the education system is run.",
+        "pubDate": "2026-07-22T11:30:59Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c26/live/e37d7760-8440-11f1-bee8-53ce494e1abc.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Trump to attend dignified transfer of fallen soldiers. And, Hegseth testifies on Iran",
+        "link": "https://www.npr.org/2026/07/22/g-s1-134896/up-first-newsletter-trump-iran-war-pete-hegseth-arizona-primaries",
+        "description": "Trump will attend the dignified transfer of U.S. service members killed in the Middle East. And, Pete Hegseth is requesting billions from Congress to help with the rising cost of the war in Iran.",
+        "pubDate": "2026-07-22T11:24:22Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Syrian people must not be failed again",
+        "link": "https://www.aljazeera.com/opinions/2026/7/22/syrian-people-must-not-be-failed-again?traffic_source=rss",
+        "description": "Stabilising Syria means stabilising its economy. It urgently needs international support and a safer investment climate.",
+        "pubDate": "2026-07-22T11:23:43Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Trump ally Andy Biggs wins Republican nomination for Arizona governor",
+        "link": "https://www.aljazeera.com/news/2026/7/22/trump-ally-andy-biggs-wins-republican-nomination-for-arizona-governor?traffic_source=rss",
+        "description": "Biggs overwhelmingly defeats David Schweikert and will now face Democratic Governor Katie Hobbs in November.",
+        "pubDate": "2026-07-22T11:18:44Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "US Secretary of State say Iran is in ‘a lot of trouble’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/us-secretary-of-state-say-iran-is-in-a-lot-of?traffic_source=rss",
+        "description": "US Secretary of State say Iran is in ‘a lot of trouble’",
+        "pubDate": "2026-07-22T11:05:39Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Baulking at shipping sanctions, Greece balances Ukraine aid, fear of Russia",
+        "link": "https://www.aljazeera.com/news/2026/7/22/baulking-at-shipping-sanctions-greece-balances-ukraine-aid-fear-of-russia?traffic_source=rss",
+        "description": "Sanctions on Russian LNG would hurt Greek shipping, argues Athens, but it also fears Moscow’s hybrid warfare.",
+        "pubDate": "2026-07-22T11:04:43Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Austria turns Adolf Hitler’s birthplace into police station",
+        "link": "https://www.aljazeera.com/news/2026/7/22/austria-turns-adolf-hitlers-birthplace-into-police-station?traffic_source=rss",
+        "description": "Austrian politicians hope the change will prevent neo-Nazis from visiting the building as a place of pilgrimage.",
+        "pubDate": "2026-07-22T11:02:42Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Lebanese army deployed in ‘pilot zone’ as families wait to return home",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/lebanese-army-deployed-in-pilot-zone-as-families-wait-to-return-home?traffic_source=rss",
+        "description": "Lebanese army deployed in ‘pilot zone’ as families wait to return home",
+        "pubDate": "2026-07-22T10:53:53Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Graphic evidence shown as D4vd murder hearing begins",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/graphic-evidence-shown-as-d4vd-murder-hearing-begins?traffic_source=rss",
+        "description": "Hearing in singer D4vd's murder case begins.",
+        "pubDate": "2026-07-22T10:51:41Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "U.S. and Iranian attacks continue as tensions mount on a key waterway in the Red Sea",
         "link": "https://www.npr.org/2026/07/22/nx-s1-5902843/us-iran-updates",
@@ -266,30 +148,12 @@
         "bias": -1
       },
       {
-        "title": "Modelling scout linked to Epstein found dead in Paris suburbs",
-        "link": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss",
-        "description": "Daniel Siad, whose name appears in the Epstein files thousands of times, had previously denied knowledge of the threat Jeffrey Epstein posed.",
-        "pubDate": "2026-07-22T10:40:14Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6bd/live/3c1a6c30-85b7-11f1-bd07-3b1b1452001a.jpg",
-        "bias": -1
-      },
-      {
         "title": "Ukraine hits more warehouses of top Russian online retailer",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/ukraine-hits-more-warehouses-of-top-russian-online-retailer?traffic_source=rss",
         "description": "Ukrainian drones have hit two more warehouses belonging to Russia’s biggest online retailer Wildberries.",
         "pubDate": "2026-07-22T10:22:06Z",
         "source": "aljazeera.com",
         "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Why are thousands protesting for education reform in India?",
-        "link": "https://www.bbc.co.uk/news/articles/cedj9j911p8o?at_medium=RSS&at_campaign=rss",
-        "description": "Thousands of mostly young people tried to march on India's parliament to demand changes to how the education system is run.",
-        "pubDate": "2026-07-22T10:18:32Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c26/live/e37d7760-8440-11f1-bee8-53ce494e1abc.jpg",
         "bias": -1
       },
       {
@@ -410,15 +274,6 @@
         "bias": 0
       },
       {
-        "title": "Sirens sound in Jordan as Israel says kingdom is targeted by Iranian missiles - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVkxVRHNEai1jeXMzeVdPZVZqZmJvUjBqdTY5ZVZyWEp5bC0yWFJTWldhSlhlbFhoRmEwcFBnNkk0UWdDdHZMWFRXMk5acElxZEFSQ0otZzFQRElSMXdER1NlT0ptZUxVbTRPT3dFM25rOGtsb08yLUdXRll4SkhUZk9QejZ2RWZrb1hLcmhBYktXeEhrTTZIR3FTSTN6RUk?oc=5",
-        "description": "",
-        "pubDate": "2026-07-22T08:19:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Chelsea signs Morgan Rogers from Aston Villa in record British deal",
         "link": "https://www.aljazeera.com/sports/2026/7/22/chelsea-sign-morgan-rogers-from-aston-villa-in-record-british-deal?traffic_source=rss",
         "description": "The 23-year-old Rogers, one of the Premier League's top attacking talents, has signed a contract until 2033.",
@@ -500,13 +355,22 @@
         "bias": -1
       },
       {
-        "title": "Iran toll in Hormuz would set ‘dangerous precedent’ says Rubio",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/iran-toll-in-hormuz-would-set-dangerous-precedent-says-rubio?traffic_source=rss",
-        "description": "Iran toll in Hormuz would set 'dangerous precedent' says Rubio",
-        "pubDate": "2026-07-22T07:10:36Z",
-        "source": "aljazeera.com",
+        "title": "See the world in vertical: Top photos by AP photojournalists - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY2pvcG9WU1FSYURmVUxmZ25pYUo4WVNqMzFzeG54S0xSNEFmdFdyN0VhUTEwclJzNDVUZjhkUU01bWkwTTBfNEFlbXdYS3BxM2VScGdLTF9LamVjaWRyNFRFa2UyNHpBdFQybjV6V2ZSUmFSekVDR0dPNVA2eVNJTlBMWXlKSk9vWUtfa0E5ZjdwNFRsWVRaX0JOSDNXNDBoVHZra21HNnJsZHZPbDExc3JiZEUyUQ?oc=5",
+        "description": "",
+        "pubDate": "2026-07-22T07:16:00Z",
+        "source": "news.google.com",
         "image": "",
-        "bias": -1
+        "bias": 0
+      },
+      {
+        "title": "Beaches closed and sandbags filled as Tropical Storm Bertha approaches the Gulf Coast - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQemtTejktLV9VZl9XYW9vOEZUNHA5TlkyLXVBbHAxemRNc3RfZGw1eVlWZHRKQzJQbV9HV1ctSlcxVTRvTUFObkNqU0ZXVG9NQWlzWnFaeWVHai1xWEZndTI4Tnp5SXd2Y09nTVgyU0N6SzFtODhsaHBoUHk3V2hERlpXbVU3YVJTLWw0aS1WLVhfQ2JMRTFLNjRRUXk3SFVWMlZTNUZpR0QyTU5sTFpRZmtn?oc=5",
+        "description": "",
+        "pubDate": "2026-07-22T07:13:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Japan temperatures soar over 40C, marking first 'cruelly hot day'",
@@ -515,15 +379,6 @@
         "pubDate": "2026-07-22T07:00:24Z",
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0551/live/d9d25ea0-8595-11f1-8c0b-a342efb64389.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Can Pakistan-administered Kashmir’s election overcome a violent summer?",
-        "link": "https://www.aljazeera.com/features/2026/7/22/can-pakistan-administered-kashmirs-election-overcome-a-violent-summer?traffic_source=rss",
-        "description": "After months of protests and a crackdown, Pakistan-administered Kashmir heads into elections clouded by uncertainty.",
-        "pubDate": "2026-07-22T06:13:11Z",
-        "source": "aljazeera.com",
-        "image": "",
         "bias": -1
       },
       {
@@ -536,7 +391,7 @@
         "bias": -1
       },
       {
-        "title": "Tunnel collapse in India kills 12 workers",
+        "title": "Tunnel collapse in India kills 14 workers",
         "link": "https://www.bbc.co.uk/news/articles/c80nv79204eo?at_medium=RSS&at_campaign=rss",
         "description": "Rescue operation is ongoing but hazardous conditions have hampered efforts to reach those still inside.",
         "pubDate": "2026-07-22T05:38:22Z",
@@ -563,30 +418,12 @@
         "bias": -1
       },
       {
-        "title": "Goats of football: Indian village holds tournament with an indigenous twist",
-        "link": "https://www.aljazeera.com/news/2026/7/22/goats-of-football-indian-village-holds-tournament-with-an-indigenous-twist?traffic_source=rss",
-        "description": "In a remote district surrounded by forests and hills, teams from tribal villages compete for football glory - and goats.",
-        "pubDate": "2026-07-22T05:19:05Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "Meet the women breaking world records in lumberjack sports",
         "link": "https://www.bbc.co.uk/news/articles/c6293zk14njo?at_medium=RSS&at_campaign=rss",
         "description": "The BBC finds out what is driving the sports' increasing popularity with women and what it takes to be the best.",
         "pubDate": "2026-07-22T05:06:35Z",
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/125a/live/1632e710-853d-11f1-b976-0b9c15b0ccfc.jpg",
-        "bias": -1
-      },
-      {
-        "title": "US expands strikes on 11th straight night of attacks",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/us-expands-strikes-on-11th-straight-night-of-attacks?traffic_source=rss",
-        "description": "The US military’s 11th consecutive night of strikes extended to Iranian provinces not previously hit.",
-        "pubDate": "2026-07-22T05:05:25Z",
-        "source": "aljazeera.com",
-        "image": "",
         "bias": -1
       },
       {
@@ -599,66 +436,12 @@
         "bias": -1
       },
       {
-        "title": "Hegseth called a ‘failure’ over Iran as he reveals $37b cost of war",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hegseth-called-a-failure-over-iran-as-he-reveals-37b-cost-of-war?traffic_source=rss",
-        "description": "US Defense Secretary Pete Hegseth gets into a heated exchange after being called a failed leader by Michigan Senator.",
-        "pubDate": "2026-07-22T05:02:51Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Guyana ferry capsize death toll rises to 53 as survivors describe terror",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/guyana-ferry-capsize-death-toll-rises-to-53-as-survivors-describe-terror?traffic_source=rss",
-        "description": "A ferry capsized in Guyana over the weekend, killing at least 53 people.",
-        "pubDate": "2026-07-22T04:47:35Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Mamdani: Netanyahu is a war criminal, but New York cannot arrest him",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/aje-onl-nf_new-yorks-mayor-calls-netanyahu-a-war-criminal-210726?traffic_source=rss",
-        "description": "NYC Mayor Zohran Mamdani releases a video statement calling for Israeli PM Netanyahu to face trial for war crimes.",
-        "pubDate": "2026-07-22T04:07:58Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "France passes law banning under-15s from social media",
         "link": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss",
         "description": "The law will require social media platforms in France to verify all users age from January.",
         "pubDate": "2026-07-22T03:50:55Z",
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e36/live/b7c9f5c0-859a-11f1-926f-c90d1bcfbc84.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Palestine weekly: Ahead of elections, Israel doubles down on attacks",
-        "link": "https://www.aljazeera.com/news/2026/7/22/palestine-weekly-ahead-of-elections-israel-doubles-down-on-attacks?traffic_source=rss",
-        "description": "Gaza mourns as families are buried after Israeli attacks leave dozens dead, including children and displaced families.",
-        "pubDate": "2026-07-22T03:46:11Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "More than 140 dead, missing on refugee boat stranded off Mauritania",
-        "link": "https://www.aljazeera.com/news/2026/7/22/more-than-140-dead-missing-on-refugee-boat-stranded-off-mauritania?traffic_source=rss",
-        "description": "Boat carrying migrants and refugees from Africa ran out of fuel, leading to a tragedy with 143 dead and 38 rescued.",
-        "pubDate": "2026-07-22T03:45:36Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "France becomes first EU country to officially ban social media for children",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/france-becomes-first-eu-country-to-officially-ban-social-media-for-children?traffic_source=rss",
-        "description": "France will ban social media for under-15s from September 1, following the UK and Australia’s moves toward blanket bans.",
-        "pubDate": "2026-07-22T03:34:11Z",
-        "source": "aljazeera.com",
-        "image": "",
         "bias": -1
       },
       {
@@ -669,45 +452,27 @@
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b2a/live/c37aad90-8579-11f1-8811-6b329a8b70ce.jpg",
         "bias": -1
-      },
-      {
-        "title": "How armed group alliances are reshaping Mali’s conflict and the wider Sahel",
-        "link": "https://www.aljazeera.com/news/2026/7/22/how-armed-group-alliances-are-reshaping-malis-conflict-and-the-wider-sahel?traffic_source=rss",
-        "description": "A deadly attack near Anefis exposes the growing challenges facing Mali's military leaders.",
-        "pubDate": "2026-07-22T02:39:13Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Gruesome images in D4vd hearing are 'worst nightmare' for teen girl's family",
-        "link": "https://www.bbc.co.uk/news/articles/c4g4lyze30vo?at_medium=RSS&at_campaign=rss",
-        "description": "The court hears the singer ordered a body bag, chainsaws and an inflatable pool to dispose of the teen's body.",
-        "pubDate": "2026-07-22T02:33:11Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5310/live/31c9bd90-85ac-11f1-a300-4537eea2be58.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
-        "link": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
-        "description": "The hearing was disrupted by protests and a shouting match as Hegseth testified at a pivotal time in the war.",
-        "pubDate": "2026-07-22T02:15:05Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd9c/live/8cde08d0-8552-11f1-b976-0b9c15b0ccfc.jpg",
-        "bias": -1
-      },
-      {
-        "title": "A blast in a tunnel at an Indian hydropower project leaves 12 dead and 13 missing - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY3ZnQjhycGI3cENWVWlBU1BiSHNnbnllRWktWGlmTHR1NFZkcmVqTm1zbUtBdmNMajgzOEtNYVVYd2VPbTJqSFVOWXRCcHhDRUhPYUhhT2RMamQzMll4MWFpanlYX0I5MkhfMmgxMms0aTBYbkY4blpranZsSFluVGJUYkpaMFBseWVTbXlUSHFTZVFWR0gwYThRcGVDVlE?oc=5",
-        "description": "",
-        "pubDate": "2026-07-22T01:28:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Burnham says he will review early prisoner release scheme",
+        "link": "https://www.bbc.co.uk/news/articles/c0ejwedl1gno?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister says he cannot commit to changing the policy but wants to look at it in detail \"before we go further forward\".",
+        "pubDate": "2026-07-22T12:22:58Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ed2/live/943da5d0-85bc-11f1-a407-4750df4c0797.jpg",
+        "bias": -1
+      },
+      {
+        "title": "No immediate change to income tax allowance, says Burnham",
+        "link": "https://www.bbc.co.uk/news/articles/c935g67wyvgo?at_medium=RSS&at_campaign=rss",
+        "description": "The new prime minister previously said voters were frustrated over the freeze in tax-free personal allowance.",
+        "pubDate": "2026-07-22T10:55:51Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0f0/live/aef0e940-855e-11f1-bee8-53ce494e1abc.jpg",
+        "bias": -1
+      },
       {
         "title": "Defense Secretary Pete Hegseth defends Iran war funding request at fiery hearing",
         "link": "https://www.npr.org/2026/07/22/nx-s1-5901981/defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
@@ -739,7 +504,7 @@
         "title": "A protest movement is challenging India's establishment. What to know about the 'Cockroaches' - AP News",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ21DM2hQYWF3bWpUTmpFU29yNHBNekUzVk9iV2ZSLTNRU0d4d0xPQ3ZDdk1JbHVxd29BMWN2eWRwN29OQ3lTMWpEZTdPR2hoWVltYkpGa2Z0RU1TZzR6aFJrWG0tLXhaODZoRXRGV3F5djhDQ0NXa1loeDUtcHZidzBWY1hvQWFtYWtsU3VTTlp3N3d2VmZpOGZxRWNQTjBRc2d2YlNKWFJEQmM1LWc?oc=5",
         "description": "",
-        "pubDate": "2026-07-22T09:38:00Z",
+        "pubDate": "2026-07-22T10:32:43Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -770,6 +535,24 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Louvre reopens Apollo Gallery after a brazen heist, but no jewels on display - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMlVSTk9UV0R5S2tQQmo5U0ZGalp5NEc5RGloeW5IM1hsM3h0ODhheVdFSFB5aTFpa0JTZVlGTUMyWWhudHdmYmRpa1c0R0JCUnljanY1cFYtX1V1bVMzNlNZbnBFZDltbVhTeks1S2F0bFJBMHdfLTBaQ3ZwVS02MTVEYmllOWVsWEhycUZYRUY3YnVKQVZpWmRyT1lrZw?oc=5",
+        "description": "",
+        "pubDate": "2026-07-22T08:58:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Toxic gas slows efforts to rescue 13 workers trapped in India hydropower tunnel - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSDBHUUt1S3U4a0RZR21KLUlOVElOcU9oSXYzMTlDM2hsOXludU0teVV4bzJWbFlOT0VsM2UtNkdEcXRTNHZzNUlmYlRWczBiQlNQZmU5YTdBejEyNFZTM1d1SFVDc2VnN295LV9MUWhMV0xSU0lEWEw3Vm5sZnI5WVBZcHE2di1WSU5kOFRfQXJYMDFKRHM0WXpLcmxHalFhR0Q4SDRTbV91QQ?oc=5",
+        "description": "",
+        "pubDate": "2026-07-22T08:56:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "A Palestinian family split between Israel and Gaza reunites after years of war and loss - AP News",
@@ -826,15 +609,6 @@
         "bias": 0
       },
       {
-        "title": "Beaches closed and sandbags filled as Tropical Storm Bertha approaches the Gulf Coast - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQemtTejktLV9VZl9XYW9vOEZUNHA5TlkyLXVBbHAxemRNc3RfZGw1eVlWZHRKQzJQbV9HV1ctSlcxVTRvTUFObkNqU0ZXVG9NQWlzWnFaeWVHai1xWEZndTI4Tnp5SXd2Y09nTVgyU0N6SzFtODhsaHBoUHk3V2hERlpXbVU3YVJTLWw0aS1WLVhfQ2JMRTFLNjRRUXk3SFVWMlZTNUZpR0QyTU5sTFpRZmtn?oc=5",
-        "description": "",
-        "pubDate": "2026-07-22T07:13:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "How will Burnham fund £2 bus fare cap?",
         "link": "https://www.bbc.co.uk/news/videos/cdewk0je71go?at_medium=RSS&at_campaign=rss",
         "description": "Most single bus fares in England will be capped at £2 from January, Prime Minister Andy Burnham announces.",
@@ -851,15 +625,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Burnham pulls back on suggestion to increase income tax allowance",
-        "link": "https://www.bbc.co.uk/news/articles/c935g67wyvgo?at_medium=RSS&at_campaign=rss",
-        "description": "The new prime minister previously said voters were frustrated over the freeze in tax-free personal allowance.",
-        "pubDate": "2026-07-22T06:10:45Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0f0/live/aef0e940-855e-11f1-bee8-53ce494e1abc.jpg",
-        "bias": -1
       },
       {
         "title": "Mamdani says New York City can't arrest Netanyahu but the federal government should",
@@ -889,6 +654,15 @@
         "bias": -1
       },
       {
+        "title": "Trump will attend the dignified transfer of 4 US service members killed in the Middle East - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV3NfXzBZYV9KUGRjVUZsU3VXM1QxZTA4RkN1TXZ6UWxyVUZMZkZMQmR0b1BlV2hvUzJzVzhoaEwtOWJuVXVWVXRZNTVnS3IyTFNKM1laZ0tkUTliN1B5eGVHd0U4MTlONXZ0LXVWeUo3VnRGX21UWHoyWUVhU1JzNFhqeUNLMVBPNUVHbGIxcVdaa1NzcXJEQQ?oc=5",
+        "description": "",
+        "pubDate": "2026-07-22T04:12:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "From the Mexican border to Washington: A tiny Texas town fights Trump’s wall plan - AP News",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVHFWWWQtQkFmeHBCUGlRcU5RSEFrcXpobGhpNnBoREhsRnNnODFYYWlhZkUxQ1BIT1RiWE1ZRF9fSW9mNGRHTFBsaF84b0g4a3NMY0VGdFhDcy1NcmhTa0pmMEQ3R241RFJsMGRzS0R3emJRX1VfNk5iV3o5TnBaRGJhTG12dzRjejdibGNRXzBCQVJZd0UyRjI0YTNUdndDbWp2VmZRLXFJN0lXUkRr?oc=5",
         "description": "",
@@ -916,15 +690,6 @@
         "bias": 0
       },
       {
-        "title": "House passes temporary government funding bill months early to avoid election season shutdown - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbl85OU10QmtZYk5lYXEzeFlDNEtwVFkwVG4yV2xoc0xFZGd2VTR1X20zSlRVSGI5ekt3MWdpZVhyYlFwWmpxT0xmVU40ZzdQdktrWmozUF9YMkdTTnZoX05HVWZDTi16dmg3ajVGWmpmU21LTDgzNG9FcWZRX0ZYMXY1VXY1LXJyUG1ROEVRcTBQWTlQ?oc=5",
-        "description": "",
-        "pubDate": "2026-07-22T02:22:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "House votes to extend government funding, aiming to avoid an election year shutdown",
         "link": "https://www.npr.org/2026/07/21/nx-s1-5902245/government-funding-house-vote-continuing-resolution",
         "description": "Lawmakers are hoping to avoid a third shutdown since last September. The stopgap funding measure now heads to the Senate, where it faces an uncertain future.",
@@ -932,6 +697,24 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "A blast in a tunnel at an Indian hydropower project leaves 12 dead and 13 missing - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY3ZnQjhycGI3cENWVWlBU1BiSHNnbnllRWktWGlmTHR1NFZkcmVqTm1zbUtBdmNMajgzOEtNYVVYd2VPbTJqSFVOWXRCcHhDRUhPYUhhT2RMamQzMll4MWFpanlYX0I5MkhfMmgxMms0aTBYbkY4blpranZsSFluVGJUYkpaMFBseWVTbXlUSHFTZVFWR0gwYThRcGVDVlE?oc=5",
+        "description": "",
+        "pubDate": "2026-07-22T01:28:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Trump administration says it's deferring $1B in Medicaid payments to California and Minnesota - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdjdMT20tQjlhSTNsbVF3S0dxQjBBaXlNRlNTSl80b3JPZ01fdmNTc2FDMmE3V0hjNXVhMTlRaEF6TmplSXZBd1dEVmVEWldMblRnWXdVWEpBR1A1WU42bWNWV0NSMkhEc3I3Wjg1N0hvQ1k0TUpoQU1fWERaSktrb2N3Slp1dGxWWVZCc29PeTF0ZmFyT3MyQ3JEZUx0dUpUbXRFVDNfN2R5Mnlf?oc=5",
+        "description": "",
+        "pubDate": "2026-07-22T01:16:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Detective says D4vd ordered chain saws, body bags in hearing to decide if singer should go to trial - AP News",
@@ -943,10 +726,10 @@
         "bias": 0
       },
       {
-        "title": "Spanish hotel chain Meliá is leaving Cuba because of legal and financial hurdles from US sanctions - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVWFFYm5KRGF5YVFCb2lzOXBieFRyd3B0VFBMcFQxSHhrOTVpcUtXWmpmekM1ZWR4eEVrc19lOHdiTDBvcmU1YTM1dkNCSFhydHBlNHMxbU1vclhRejRxVk1KS3ZuM3VkeGh2UXAyUTRsQXRXdGVmSEo0cjdlSGhtc2lla090RVdaQW9sQU82akRnd2RlNDZRNDR5WVdNSFlxVC15bFphZw?oc=5",
+        "title": "Louisiana Rep. Cleo Fields won’t seek reelection after Democrat’s seat was redrawn - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbFUzY2hLTExwbEFxSUM3OG5ZMVVXTzlaVDhjUWZQWUNmUl9leXhuVUh5eEtKY0phQjF6akVjamlOc2Y2cU1sXzVtSDU0NmE5dlltbkJLQWM4bDR2bDBJTmlRNlpPcXoyWEhlV1Zyb1haYXhHaEpldDRodHlsS2J4NVBKQTlhNnRQeHhLb25yR3NHWGVfa2k0Sm8xMA?oc=5",
         "description": "",
-        "pubDate": "2026-07-22T00:14:00Z",
+        "pubDate": "2026-07-22T00:20:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -957,10 +740,19 @@
         "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
         "link": "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o?at_medium=RSS&at_campaign=rss",
         "description": "It is one of the first publicly disclosed cyber-attacks carried out by AI without direct human involvement.",
-        "pubDate": "2026-07-22T10:21:15Z",
+        "pubDate": "2026-07-22T11:40:11Z",
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93cd/live/b064bc90-85b6-11f1-926f-c90d1bcfbc84.jpg",
         "bias": -1
+      },
+      {
+        "title": "US and Iran attacks rage as officials question whether diplomacy can stop march toward war resuming - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVkxVRHNEai1jeXMzeVdPZVZqZmJvUjBqdTY5ZVZyWEp5bC0yWFJTWldhSlhlbFhoRmEwcFBnNkk0UWdDdHZMWFRXMk5acElxZEFSQ0otZzFQRElSMXdER1NlT0ptZUxVbTRPT3dFM25rOGtsb08yLUdXRll4SkhUZk9QejZ2RWZrb1hLcmhBYktXeEhrTTZIR3FTSTN6RUk?oc=5",
+        "description": "",
+        "pubDate": "2026-07-22T11:33:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "US military completes 11th night of strikes on Iran as attacks overshadow diplomacy - AP News",
@@ -1017,15 +809,6 @@
         "bias": 0
       },
       {
-        "title": "Ex-Army soldier jailed on arson charge after fiery attack on Manhattan federal building - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ0lKN2JBaUJNUmNEQlI5QlNQTE1RY01ObE9PU0w5RDUxX2ZGTVNyVU42VVhrNFc4WjFoYXl1eV8yYmxyOHNfdnZhVlR0dUh0X0xDUDlBNnlUZHZ4aExUVnRQNVhHT3ZEaHdBanUxV1Z0NWw3WEg2YVlMOG4tNUZUenhPaHZjSF92d2xva2VlQU5QQTV4U3VPYlRYVFVOX3NjVG1TZTlzLVdxSWpK?oc=5",
-        "description": "",
-        "pubDate": "2026-07-22T00:22:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Chile’s Congress puts President Kast’s economic overhaul on track to becoming law - AP News",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcWNmRy00aDdsSmhxVXNYVDkwVk1zd3c3SEhsUmlXMEFYS2dwZlhYMnBaQVE2bTZwZkZaMzhOU1lqWHRPYmxkZ2dNZS1NYXl5Szh5UTZpbVVjTUVHSmYtalFYSVRSNlZLVy1RaENLRTNOd3ZkVTFUVVBtN1U2NFhPdmlCRnNlanRjOE9fU0tHaWxMcjZDa0xJa0lSZ0tDN1dvZW13RFdaYWtDaVp5OXhoV2tsXzYySDNvam5yUnRxLThOYlAzN1NlY0NPbnQ?oc=5",
         "description": "",
@@ -1033,9 +816,27 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "Spanish hotel chain Meliá is leaving Cuba because of legal and financial hurdles from US sanctions - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVWFFYm5KRGF5YVFCb2lzOXBieFRyd3B0VFBMcFQxSHhrOTVpcUtXWmpmekM1ZWR4eEVrc19lOHdiTDBvcmU1YTM1dkNCSFhydHBlNHMxbU1vclhRejRxVk1KS3ZuM3VkeGh2UXAyUTRsQXRXdGVmSEo0cjdlSGhtc2lla090RVdaQW9sQU82akRnd2RlNDZRNDR5WVdNSFlxVC15bFphZw?oc=5",
+        "description": "",
+        "pubDate": "2026-07-22T00:14:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Science": [
+      {
+        "title": "Fate of massive 20m-high space radar in ministers' hands",
+        "link": "https://www.bbc.co.uk/news/articles/cn0nxe1g3xxo?at_medium=RSS&at_campaign=rss",
+        "description": "The MoD wants to put 27 giant radar dishes in Pembrokeshire, which campaigners have strongly opposed.",
+        "pubDate": "2026-07-22T12:04:20Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64cb/live/68468f70-853d-11f1-bee8-53ce494e1abc.jpg",
+        "bias": -1
+      },
       {
         "title": "UK's largest wind farm to be rebuilt with fewer, larger turbines",
         "link": "https://www.bbc.co.uk/news/articles/cvgl9vp4vqvo?at_medium=RSS&at_campaign=rss",
@@ -1044,15 +845,6 @@
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d04/live/ccd6e420-8502-11f1-8b9b-a724b687bb3b.jpg",
         "bias": -1
-      },
-      {
-        "title": "Ex-Socceroos captain Paul Wade says he has probable CTE, urges no heading for junior players - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaHo1bGw4SG55ODY1eDNaSUgzeHp2TkN6OFJybGFvRXhIS2dlN3ZXSElHbU4xSmxsMlZOZmhhYXpjVWhiY1dxVUZqR1htLVBRM1FydUVPZnRFR0xtRmxkYnBEWm1QdXZKOEhYZE9qbzlXb0tDWnpzS1ozSzU1NHRIR2hkX2NoTGZTSW5NSUl3?oc=5",
-        "description": "",
-        "pubDate": "2026-07-22T06:37:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "How farmers could fix Wales' polluted rivers and save money",
@@ -1064,16 +856,52 @@
         "bias": -1
       },
       {
-        "title": "Trump will attend the dignified transfer of 4 US service members killed in the Middle East - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV3NfXzBZYV9KUGRjVUZsU3VXM1QxZTA4RkN1TXZ6UWxyVUZMZkZMQmR0b1BlV2hvUzJzVzhoaEwtOWJuVXVWVXRZNTVnS3IyTFNKM1laZ0tkUTliN1B5eGVHd0U4MTlONXZ0LXVWeUo3VnRGX21UWHoyWUVhU1JzNFhqeUNLMVBPNUVHbGIxcVdaa1NzcXJEQQ?oc=5",
+        "title": "Conflicts and energy shocks threaten progress against global hunger, UN agency head warns - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdExpakI0dm9lZTFiNUtaenA1M0N6TGhtNzNVSVhXOTFVY05mWl82dXhvaEtZbDVKcWdVakJ3MnhyMFotQUpaeHNBVHRwRFUzUHZmUnVRbEpvcnFJM3NWSWZMUHkxREZ4RWl3Ulp4SHZhZ094WkZ5d21vQnFHT3BBU1NpaUhaVVhIN1hlNUtDOXExSzNGdGk3X2hScw?oc=5",
         "description": "",
-        "pubDate": "2026-07-22T04:12:00Z",
+        "pubDate": "2026-07-22T01:27:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Ex-Army soldier jailed on arson charge after fiery attack on Manhattan federal building - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ0lKN2JBaUJNUmNEQlI5QlNQTE1RY01ObE9PU0w5RDUxX2ZGTVNyVU42VVhrNFc4WjFoYXl1eV8yYmxyOHNfdnZhVlR0dUh0X0xDUDlBNnlUZHZ4aExUVnRQNVhHT3ZEaHdBanUxV1Z0NWw3WEg2YVlMOG4tNUZUenhPaHZjSF92d2xva2VlQU5QQTV4U3VPYlRYVFVOX3NjVG1TZTlzLVdxSWpK?oc=5",
+        "description": "",
+        "pubDate": "2026-07-22T00:22:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       }
     ],
     "Business": [
+      {
+        "title": "What does an Andy Burnham-led government mean for your money?",
+        "link": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&at_campaign=rss",
+        "description": "The new PM says he will look at how much people can earn before paying tax but there will be no change yet.",
+        "pubDate": "2026-07-22T11:41:08Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1255/live/0866b6d0-84f1-11f1-b976-0b9c15b0ccfc.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Most bus fares in England to be capped at £2 from January",
+        "link": "https://www.bbc.co.uk/news/articles/cz64l78n5vpo?at_medium=RSS&at_campaign=rss",
+        "description": "The government says the policy will \"help with the cost of living and give people the breathing space they need\"",
+        "pubDate": "2026-07-22T11:39:51Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d97/live/7d511c80-8558-11f1-bd53-c7e815b2479a.jpg",
+        "bias": -1
+      },
+      {
+        "title": "What's happening to UK interest rates and what does it mean for mortgages?",
+        "link": "https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
+        "description": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
+        "pubDate": "2026-07-22T11:19:06Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfe8/live/54e10600-3e38-11f1-929e-dd2b5d4dae7a.jpg",
+        "bias": -1
+      },
       {
         "title": "What is happening to UK prices?",
         "link": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
@@ -1089,16 +917,7 @@
         "description": "June's fall in inflation will be welcomed by the new prime minister but analysts warn the fall is temporary.",
         "pubDate": "2026-07-22T10:10:01Z",
         "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9fc/live/b4c56850-859a-11f1-a6e0-e3aa80f742c2.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Most bus fares in England to be capped at £2 from January",
-        "link": "https://www.bbc.co.uk/news/articles/cz64l78n5vpo?at_medium=RSS&at_campaign=rss",
-        "description": "The government says the policy will \"help with the cost of living and give people the breathing space they need\"",
-        "pubDate": "2026-07-22T08:41:20Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d97/live/7d511c80-8558-11f1-bd53-c7e815b2479a.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19da/live/ef0496f0-85bb-11f1-b976-0b9c15b0ccfc.jpg",
         "bias": -1
       },
       {
@@ -1111,22 +930,13 @@
         "bias": -1
       },
       {
-        "title": "Removing tax from sanitary products 'pointless'",
-        "link": "https://www.bbc.co.uk/news/articles/cn8k0n0rdz0o?at_medium=RSS&at_campaign=rss",
-        "description": "Jersey's government has spent more than £500,000 on its free period product scheme since 2022.",
-        "pubDate": "2026-07-22T05:29:25Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a030/live/054d6d00-85ae-11f1-9454-77c2271a5b4a.png",
-        "bias": -1
-      },
-      {
-        "title": "The borough where families are slowly disappearing",
-        "link": "https://www.bbc.co.uk/news/articles/cgjxqg08q82o?at_medium=RSS&at_campaign=rss",
-        "description": "Islington is a snapshot of a trend playing out across inner London, Britain and much of the world.",
-        "pubDate": "2026-07-22T05:15:39Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75bd/live/8efb37a0-7f6c-11f1-b9cd-05138ffe27e6.jpg",
-        "bias": -1
+        "title": "Ex-Socceroos captain Paul Wade says he has probable CTE, urges no heading for junior players - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaHo1bGw4SG55ODY1eDNaSUgzeHp2TkN6OFJybGFvRXhIS2dlN3ZXSElHbU4xSmxsMlZOZmhhYXpjVWhiY1dxVUZqR1htLVBRM1FydUVPZnRFR0xtRmxkYnBEWm1QdXZKOEhYZE9qbzlXb0tDWnpzS1ozSzU1NHRIR2hkX2NoTGZTSW5NSUl3?oc=5",
+        "description": "",
+        "pubDate": "2026-07-22T06:37:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Staying in a job for the health insurance? About 1 in 4 Americans do, a survey says",
@@ -1139,6 +949,33 @@
       }
     ],
     "Culture": [
+      {
+        "title": "'Devastated' Millie Bobby Brown leads tributes to Kaylee Hottle",
+        "link": "https://www.bbc.co.uk/news/articles/cm2glm5r185o?at_medium=RSS&at_campaign=rss",
+        "description": "The 18-year-old Godzilla vs Kong actress died in a car crash in Frederick, Maryland.",
+        "pubDate": "2026-07-22T12:04:49Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/094a/live/e4aa3fd0-85ba-11f1-a407-4750df4c0797.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Oasis overtake The Beatles in all-time UK album chart",
+        "link": "https://www.bbc.co.uk/news/articles/cy9wq778dvzo?at_medium=RSS&at_campaign=rss",
+        "description": "The Gallagher brothers surpass their idols on a list published for the 70th anniversary of the album chart.",
+        "pubDate": "2026-07-22T11:37:03Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f25/live/d9002540-85bb-11f1-a407-4750df4c0797.jpg",
+        "bias": -1
+      },
+      {
+        "title": "YouTube star MrBeast marries Thea Booysen on Richard Branson's island",
+        "link": "https://www.bbc.co.uk/news/articles/clyq2dnq2zzo?at_medium=RSS&at_campaign=rss",
+        "description": "The world's biggest YouTuber said he had finally found his \"Mrs Beast\".",
+        "pubDate": "2026-07-22T11:05:20Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b97/live/04672880-85aa-11f1-a300-4537eea2be58.jpg",
+        "bias": -1
+      },
       {
         "title": "'Play music loud to remember Ozzy' says Sharon on first anniversary of his death",
         "link": "https://www.bbc.co.uk/news/articles/cd7lnl9jzgyo?at_medium=RSS&at_campaign=rss",
@@ -1154,7 +991,16 @@
         "description": "Winnie Ama couldn't believe her luck when she had the chance to sing her original song in the new Supergirl movie - but there was a catch.",
         "pubDate": "2026-07-22T08:14:12Z",
         "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c403/live/5099c170-842b-11f1-96d8-4b9d5565f166.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bb9/live/a1966120-85c3-11f1-bee8-53ce494e1abc.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Glasgow School of Art cannot afford to restore fire-hit Mackintosh building",
+        "link": "https://www.bbc.co.uk/news/articles/ce34lxy2793o?at_medium=RSS&at_campaign=rss",
+        "description": "The art school previously insisted it was committed to a faithful reinstatement of the building.",
+        "pubDate": "2026-07-22T07:50:24Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51c5/live/db7c5130-85ad-11f1-bee8-53ce494e1abc.jpg",
         "bias": -1
       }
     ]
