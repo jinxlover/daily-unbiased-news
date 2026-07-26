@@ -1,261 +1,53 @@
 {
-  "lastUpdate": "2026-07-26T15:33:28.265552Z",
+  "lastUpdate": "2026-07-26T16:33:01.797219Z",
   "news": {
-    "Gaming": [
-      {
-        "title": "Blob wants to Live [Free] [Puzzle] [Windows] [Linux]",
-        "link": "https://therulermeasure.itch.io/blob-wants-to-live",
-        "description": "Top-down 2D explore and puzzles.",
-        "pubDate": "2026-07-26T15:26:55Z",
-        "source": "therulermeasure.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4Nzk2MjgyLnBuZw==/315x250%23c/Ljoyy4.png",
-        "bias": 0
-      },
-      {
-        "title": "Papers, Pretty Please [Free] [Puzzle] [Windows] [Linux]",
-        "link": "https://jille.itch.io/papers-pretty-please",
-        "description": "For the GMTK 2026 game jam",
-        "pubDate": "2026-07-26T15:22:25Z",
-        "source": "jille.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4Nzk2MDAzLnBuZw==/315x250%23c/q2qEtO.png",
-        "bias": 0
-      },
-      {
-        "title": "Save Your Breath [Free] [Adventure] [Windows]",
-        "link": "https://woodlandcatdev.itch.io/save-your-breath",
-        "description": "A short, mildy scary, underwater game.",
-        "pubDate": "2026-07-26T15:19:27Z",
-        "source": "woodlandcatdev.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4Nzk1MjQyLnBuZw==/315x250%23c/qwcG7g.png",
-        "bias": 0
-      },
-      {
-        "title": "Timer Hell [Free]",
-        "link": "https://spark987.itch.io/timer-hell",
-        "description": "Bullet hell with random effects every 10 seconds",
-        "pubDate": "2026-07-26T15:18:27Z",
-        "source": "spark987.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4Nzk1MzM5LnBuZw==/315x250%23c/8S2KLh.png",
-        "bias": 0
-      },
-      {
-        "title": "Wacky Guns (GMTK GAME JAM 2026) [Free] [Shooter]",
-        "link": "https://epicnoobs.itch.io/wacky-guns-gmtk-game-jam-2026",
-        "description": "My first game jam :D",
-        "pubDate": "2026-07-26T15:17:31Z",
-        "source": "epicnoobs.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4Nzk0OTAwLmpwZWc=/315x250%23c/kcLiN1.jpeg",
-        "bias": 0
-      },
-      {
-        "title": "The Great Bomb [Free]",
-        "link": "https://mufidodev.itch.io/the-great-bomb",
-        "description": "",
-        "pubDate": "2026-07-26T15:15:43Z",
-        "source": "mufidodev.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4Nzk3Mjc4LnBuZw==/315x250%23c/lufmk8.png",
-        "bias": 0
-      },
-      {
-        "title": "SLIME SURFER [Free] [Sports]",
-        "link": "https://tip-tree-interactive.itch.io/slime-surfer",
-        "description": "",
-        "pubDate": "2026-07-26T15:10:25Z",
-        "source": "tip-tree-interactive.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4Nzk1NDU1LnBuZw==/315x250%23c/9e1f1U.png",
-        "bias": 0
-      },
-      {
-        "title": "Deep Dart Firesy [Free] [Adventure] [Windows]",
-        "link": "https://socks1024.itch.io/deep-dart-firesy",
-        "description": "An adventure game about a fire mage. Be careful of Fire.",
-        "pubDate": "2026-07-26T15:05:48Z",
-        "source": "socks1024.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NzkzNjYwLnBuZw==/315x250%23c/z%2Bqgn5.png",
-        "bias": 0
-      },
-      {
-        "title": "Moose Caboose [Free] [Strategy]",
-        "link": "https://obscure-fruit-studios.itch.io/moose-caboose",
-        "description": "",
-        "pubDate": "2026-07-26T14:52:32Z",
-        "source": "obscure-fruit-studios.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NzkxNjI5LnBuZw==/315x250%23c/AP%2B%2BTa.png",
-        "bias": 0
-      },
-      {
-        "title": "TimeScapes [Free] [Shooter] [Windows]",
-        "link": "https://c4k3ss.itch.io/timescapes",
-        "description": "Time Is Life",
-        "pubDate": "2026-07-26T14:51:26Z",
-        "source": "c4k3ss.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NzkxNDU1LnBuZw==/315x250%23c/Q7U3h7.png",
-        "bias": 0
-      },
-      {
-        "title": "Lose it all! [Free] [Strategy]",
-        "link": "https://jordanraia.itch.io/lose-it-all",
-        "description": "Lose all your money before time runs out.",
-        "pubDate": "2026-07-26T14:43:25Z",
-        "source": "jordanraia.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NzkxMzYyLnBuZw==/315x250%23c/xgCQdT.png",
-        "bias": 0
-      },
-      {
-        "title": "Live to Explode [Free] [Windows]",
-        "link": "https://ignorantsoul.itch.io/live-to-explode",
-        "description": "You are a dynamite. Your job is to explode, but that won't be easy.",
-        "pubDate": "2026-07-26T14:42:13Z",
-        "source": "ignorantsoul.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4Nzk2OTExLnBuZw==/315x250%23c/h5do4R.png",
-        "bias": 0
-      },
-      {
-        "title": "There's Been a Terrible Accident at the Bomb Factory! [Free] [Adventure] [Windows]",
-        "link": "https://wyzegye.itch.io/bomb-factory",
-        "description": "A small mystery game where you count people who were downed by an explosion.",
-        "pubDate": "2026-07-26T14:31:10Z",
-        "source": "wyzegye.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4Nzk1MTQ0LnBuZw==/315x250%23c/IRp6CY.png",
-        "bias": 0
-      },
-      {
-        "title": "PRESS TO DECREMENT [Free] [Interactive Fiction]",
-        "link": "https://cs0m1.itch.io/press-to-decrement",
-        "description": "There is a button, and a number, and the number is ten.",
-        "pubDate": "2026-07-26T14:23:49Z",
-        "source": "cs0m1.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NzkwMTI2LnBuZw==/315x250%23c/y1lpke.png",
-        "bias": 0
-      },
-      {
-        "title": "Nullify [Free] [Puzzle]",
-        "link": "https://user3318.itch.io/nullify",
-        "description": "GTMK Game Jame Entry 2026",
-        "pubDate": "2026-07-26T13:46:26Z",
-        "source": "user3318.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4Nzk3MjIyLnBuZw==/315x250%23c/SvXzVb.png",
-        "bias": 0
-      },
-      {
-        "title": "Fuse && Flood [Free] [Puzzle]",
-        "link": "https://pisu96.itch.io/fuse-flood",
-        "description": "BoxWorld meets the ice caves.",
-        "pubDate": "2026-07-26T13:44:52Z",
-        "source": "pisu96.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4Nzg0OTkxLnBuZw==/315x250%23c/0Dph9F.png",
-        "bias": 0
-      },
-      {
-        "title": "Control Down [Free] [Puzzle] [Windows]",
-        "link": "https://royal-den-studios.itch.io/control-down",
-        "description": "Every Move is Finite",
-        "pubDate": "2026-07-26T13:28:00Z",
-        "source": "royal-den-studios.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4Nzg4ODgxLnBuZw==/315x250%23c/nu1C2Q.png",
-        "bias": 0
-      },
-      {
-        "title": "Sundown [Free] [Action]",
-        "link": "https://pyritohedron.itch.io/sundown",
-        "description": "The farther down you go, the weaker you get. How long can you survive?",
-        "pubDate": "2026-07-26T11:50:40Z",
-        "source": "pyritohedron.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4Nzc2Mzc3LnBuZw==/315x250%23c/6x1dfH.png",
-        "bias": 0
-      },
-      {
-        "title": "sOS: File Management Sim [Free] [Simulation]",
-        "link": "https://aydinsafi53.itch.io/sosfms",
-        "description": "sOS: File Management Sim is a simulator game where you manage your downloads and fix your downloader's file problems.",
-        "pubDate": "2026-07-26T11:46:33Z",
-        "source": "aydinsafi53.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NzgwMjgyLnBuZw==/315x250%23c/fGvp%2Br.png",
-        "bias": 0
-      },
-      {
-        "title": "Rave Robber [Free] [Rhythm]",
-        "link": "https://tiay.itch.io/rave-robber",
-        "description": "",
-        "pubDate": "2026-07-26T11:38:15Z",
-        "source": "tiay.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4Nzk2ODg0LnBuZw==/315x250%23c/x9zhys.png",
-        "bias": 0
-      },
-      {
-        "title": "Steamy Jeevis & The Cool-Coal Conundrum [Free] [Puzzle]",
-        "link": "https://designerdave.itch.io/steamy-jeevis-the-cool-coal-conundrum",
-        "description": "Poor Jeevis has to please everyone... or die.",
-        "pubDate": "2026-07-26T11:24:35Z",
-        "source": "designerdave.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4Nzc4ODI1LnBuZw==/315x250%23c/vM%2BVtC.png",
-        "bias": 0
-      },
-      {
-        "title": "Avoca-Doh! [Free] [Survival]",
-        "link": "https://quinnbii.itch.io/avoca-doh",
-        "description": "Can you eat the avocaDoh at the right time?",
-        "pubDate": "2026-07-26T10:12:43Z",
-        "source": "quinnbii.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NzcwNjkyLnBuZw==/315x250%23c/scKhV%2F.png",
-        "bias": 0
-      },
-      {
-        "title": "Bring It Down [Free] [Puzzle]",
-        "link": "https://harborned.itch.io/bring-it-down",
-        "description": "A demolition puzzler - Place charges, set their fuses and start the count down... ...careful of the neighbours!",
-        "pubDate": "2026-07-26T06:30:19Z",
-        "source": "harborned.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NzYyMjY3LnBuZw==/315x250%23c/rKpjUF.png",
-        "bias": 0
-      },
-      {
-        "title": "Overtime [Free] [Strategy]",
-        "link": "https://gfwozniak.itch.io/overtime",
-        "description": "",
-        "pubDate": "2026-07-26T06:05:16Z",
-        "source": "gfwozniak.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NzkyNjc1LnBuZw==/315x250%23c/ayYgNT.png",
-        "bias": 0
-      },
-      {
-        "title": "Searching For Electric Sheep [Free] [Puzzle] [Windows]",
-        "link": "https://greatbrick.itch.io/searching-for-electric-sheep",
-        "description": "",
-        "pubDate": "2026-07-26T04:20:16Z",
-        "source": "greatbrick.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NzY5MjI0LmdpZg==/original/fHhStA.gif",
-        "bias": 0
-      },
-      {
-        "title": "Biking Hour - GMTK Jam 2026 [Free] [Simulation]",
-        "link": "https://donamougou.itch.io/biking-hour-gmtk-jam-2026",
-        "description": "Chaos is looming. Only you can prevent society collapsing by ensuring that bike-sharing stations are properly managed.",
-        "pubDate": "2026-07-26T02:12:10Z",
-        "source": "donamougou.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NzU0NTc2LnBuZw==/315x250%23c/MgZsLF.png",
-        "bias": 0
-      },
-      {
-        "title": "Mosquito Defense System [Free] [Shooter]",
-        "link": "https://luminescent-cheese.itch.io/mosquito-defense-system",
-        "description": "(You are the Mosquito)",
-        "pubDate": "2026-07-26T01:51:21Z",
-        "source": "luminescent-cheese.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NzU2OTgwLnBuZw==/315x250%23c/TnwzaK.png",
-        "bias": 0
-      },
-      {
-        "title": "Don´t sink twice! [Free] [Rhythm] [Windows] [Linux]",
-        "link": "https://brickless.itch.io/dontsinktwice",
-        "description": "Dual focus rhythm game about escaping the underworld.",
-        "pubDate": "2026-07-26T01:49:23Z",
-        "source": "brickless.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI4NzgwNjM0LnBuZw==/315x250%23c/vBrvYz.png",
-        "bias": 0
-      }
-    ],
+    "Gaming": [],
     "World": [
+      {
+        "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+        "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+        "description": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
+        "pubDate": "2026-07-26T16:30:22Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48d0/live/634ce840-88ec-11f1-8824-a9ae603ecd1c.png",
+        "bias": -1
+      },
+      {
+        "title": "Darfur: Weaponising Identity",
+        "link": "https://www.aljazeera.com/video/aljazeerauntangles/2026/7/26/darfur-weaponising-identity?traffic_source=rss",
+        "description": "How land conflict, state neglect and racist ideology have driven Darfur towards alleged genocide.",
+        "pubDate": "2026-07-26T16:20:27Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Typhoon Noul batters Southeast China",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/typhoon-noul-batters-southeast-china?traffic_source=rss",
+        "description": "Footage shows the aftermath of Typhoon Noul after it battered southern China's coastal regions.",
+        "pubDate": "2026-07-26T16:19:07Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Who is India’s new education minister Pralhad Joshi?",
+        "link": "https://www.aljazeera.com/news/2026/7/26/who-is-indias-new-education-minister-pralhad-joshi?traffic_source=rss",
+        "description": "Joshi has been a member of the cabinet since 2019 and is seen as close to powerful PM Modi.",
+        "pubDate": "2026-07-26T16:18:03Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Senator Whitehouse: Netanyahu a ‘walking provocation’ for Americans",
+        "link": "https://www.aljazeera.com/video/the-bottom-line/2026/7/26/senator-whitehouse-netanyahu-a-walking-provocation-for-americans?traffic_source=rss",
+        "description": "Democratic lawmaker Sheldon Whitehouse says the US is turning into one of the world’s ‘worst-behaved countries’.",
+        "pubDate": "2026-07-26T15:26:57Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Lando Norris wins Hungarian Grand Prix for first F1 triumph in 2026",
         "link": "https://www.aljazeera.com/sports/2026/7/26/lando-norris-wins-hungarian-grand-prix-for-first-f1-triumph-in-2026?traffic_source=rss",
@@ -293,10 +85,10 @@
         "bias": -1
       },
       {
-        "title": "German police hunt suspect after van ramming near Berlin Pride kills 1, hurts many more - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUk1peTczYkVuampNNFg3QXNzcV9acU1tTndtdXl3dFcwT01hZGJxUzQ5b2ZfckltZnJaLWpzVXdZcmlpQl93cFJqWWFxa3RmLTdkWlhDTTBnX3RMUGtvejhDWDJmRVEwTWl3ZWJHNlhubWRwOWFoYjdKWHBXakxPRVhqSnNkb1UwczFCaF82YnpuZEk4bVdwdzc4RC1sSEtwS2RDTXRsVDA?oc=5",
+        "title": "Wildfires in France drive 250,000 people from their homes and creep toward wine city of Bordeaux - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNczhHX2xpd0c1SE9SNVh5TW5kN1ZsajJkTUhnRE5zYmJLbGd3X1B6bFJJUEVRTUxQV2ZWRWVIWnBnZ0liQS1ESHJaTVFZZlBwWkNKVXRQNklpVVdkUG9xaXZRZFFLX0lBTUE3b3FUNnpGSE1CZDRHSDB1cjFOeWpYbFlwNXFianFabGVNTnpaODRhbkNkcXUzcklfN0NsWFk?oc=5",
         "description": "",
-        "pubDate": "2026-07-26T14:37:00Z",
+        "pubDate": "2026-07-26T14:33:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -392,15 +184,6 @@
         "bias": -1
       },
       {
-        "title": "Water outage at UK’s Gatwick airport leaves toilets out of order and restaurants closed - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbHE5Y3NKNnl1TlNsUTZFQlNzek5Ta09vaklUeDZvc2tPdHI3SnhzZjZFd1VWSzJYSThRemtEbXBfNk5WTU5UNXYtb01iVHo2SlpOYmdPblh3c2NPS0cwX1hWQThhdV9NeVY1U0YzYUprcVdRN2poZ3k3aW9IS2EzcFlTS2s4M2lVUndpdFlFdXJWOU1Ba1Y5WE4xZm5KOWNpRG5xUGJ6WE04YW5FSkhzejVR?oc=5",
-        "description": "",
-        "pubDate": "2026-07-26T13:16:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "What next for India’s ‘Cockroach’ movement after education minister sacked",
         "link": "https://www.aljazeera.com/news/2026/7/26/what-next-for-indias-cockroach-movement-after-education-minister-sacked?traffic_source=rss",
         "description": "The weeks-long Gen Z-led protests forced a key Modi minister to resign. Where does the movement go from here?",
@@ -491,51 +274,6 @@
         "bias": -1
       },
       {
-        "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
-        "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
-        "description": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
-        "pubDate": "2026-07-26T11:29:07Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48d0/live/634ce840-88ec-11f1-8824-a9ae603ecd1c.png",
-        "bias": -1
-      },
-      {
-        "title": "Malaysia to host rescheduled Bahrain Grand Prix F1 race in October",
-        "link": "https://www.aljazeera.com/sports/2026/7/26/malaysia-to-host-rescheduled-bahrain-grand-prix-f1-race-in-october?traffic_source=rss",
-        "description": "The race in Bahrain was rescheduled in April amid the US-Israel war on Iran and will now be held in Malaysia.",
-        "pubDate": "2026-07-26T11:28:24Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Anti-war protesters demand end to US use of UK airbase to strike Iran",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/anti-war-protesters-demand-end-to-us-use-of-uk-airbase-to-strike-iran?traffic_source=rss",
-        "description": "Anti-war activists have protested outside a UK airbase over US forces using it to bomb Iran",
-        "pubDate": "2026-07-26T11:18:00Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Female football referee suffers concussion amid male players’ melee",
-        "link": "https://www.aljazeera.com/news/2026/7/26/female-football-referee-suffers-concussion-amid-male-players-melee?traffic_source=rss",
-        "description": "Referee Mathilde Demoncay was knocked down as the players fought during a friendly club match in France.",
-        "pubDate": "2026-07-26T11:00:32Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Why the UK cancelled a military exercise in Kenya – and what it means",
-        "link": "https://www.aljazeera.com/news/2026/7/26/why-the-uk-cancelled-a-military-exercise-in-kenya-and-what-it-means?traffic_source=rss",
-        "description": "A dispute over military cooperation and accountability strains a decades-old UK-Kenya partnership.",
-        "pubDate": "2026-07-26T10:47:27Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
         "link": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
         "description": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two Israelis dead.",
@@ -563,15 +301,6 @@
         "bias": -1
       },
       {
-        "title": "Hurricane Genevieve moves through the Pacific off Mexico, but no direct threat to land is forecast - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcTFibTN2Vm9oNTJqYk50UDJCYzNRNEZwaTZZaDRLMG5yajFKYTR0SUtGejhOQUxSeXhyS1dyWVRGMUJQbmx6S1ROMEo3N1pkRXhzcDR2TE5NTkFtOWlmZkNOUGtpQ1dMb3pQcjZQSnJJWXFOVTBCNk5ZbGhvSmFScDk1RWZwZllUZ0JEcEcwTUlkYXN0X3BTc2VmUVNCUnA3bDdqMnZ3?oc=5",
-        "description": "",
-        "pubDate": "2026-07-26T08:59:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Watch: At the scene of Berlin Pride attack as manhunt continues",
         "link": "https://www.bbc.co.uk/news/videos/c74gzknyyz2o?at_medium=RSS&at_campaign=rss",
         "description": "A 21-year-old suspect has been identified by police, but he has not been found.",
@@ -579,6 +308,15 @@
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b81f/live/5ba2aae0-88c8-11f1-b2ab-0dd01740f9f6.jpg",
         "bias": -1
+      },
+      {
+        "title": "Jones and Clark help Team Spoon beat Team Coop 129-122 in the WNBA All-Star Game - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOelRKX3RzREJMQ2luWUJzTF92VGIzUWJWSnRzX2JHaXJyVERYVTV1MjkxVTVHVDM3VGdSSHBzT01TOGVGN0lWNmZVNEtTS0UzTkN1dGRtU2pDLWpfREIta0djTXNscFROTVlTOFJTWk5CUXR1ZVJ1Ujh3OWVJbjBMTFNaaG8?oc=5",
+        "description": "",
+        "pubDate": "2026-07-26T04:21:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US - AP News",
@@ -664,10 +402,28 @@
     ],
     "Politics": [
       {
+        "title": "German police search for the suspect in Berlin Pride attack that killed 1 person and injured 29 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUk1peTczYkVuampNNFg3QXNzcV9acU1tTndtdXl3dFcwT01hZGJxUzQ5b2ZfckltZnJaLWpzVXdZcmlpQl93cFJqWWFxa3RmLTdkWlhDTTBnX3RMUGtvejhDWDJmRVEwTWl3ZWJHNlhubWRwOWFoYjdKWHBXakxPRVhqSnNkb1UwczFCaF82YnpuZEk4bVdwdzc4RC1sSEtwS2RDTXRsVDA?oc=5",
+        "description": "",
+        "pubDate": "2026-07-26T15:54:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "A fatal attack on Berlin’s Pride festival leaves locals wondering how their city will recover - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX09RWTJwX2RScTAtQnN1VHJGREF0cUVVTTI5ZEpQRE80MjRrWG9UU1c3aHY3N1VqdFd3ZFNDaFA3U2dBYkhCRC0yWlR1d0xaQ3JCenNRNmpZcWVpY1JUdVliVjNfWExLOHZrcHRCRmxpMkF2dklDbTVHdzdHQmJlSVhFRFlaS0xMRGdoeDdnRkdLdWRh?oc=5",
+        "description": "",
+        "pubDate": "2026-07-26T15:21:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "US pauses attacks on Iran for a second straight day and Tehran does too - AP News",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd1ZkcWRJbVdJX0lWSFo1TGFnSDdhUkFQbHZ1ZGlHVUp0b1BwbEZ0SHVPNGY2NS12NmQ3c3dpbjNVVG5qXzJvUDh6NGVSQnFkS2hEQ1BNbi1jUV9nN1lhUHF5MVlrRVpHdURweU9hTnZPTUYxSFVYaklYeWhlTURTQWJteG5acjYybFplamI2XzlJSW5RbktF?oc=5",
         "description": "",
-        "pubDate": "2026-07-26T15:12:27Z",
+        "pubDate": "2026-07-26T14:57:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -686,15 +442,6 @@
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSDJtcENfTHM5OWVuVUtDX3o4a3RtZThUejFNSDEwSTRBZ0NKT29Zdm9OMENJWFktQmhoNUtxQ1VLOG83SVZwU0FrOEtYWVNSc0djWXNPbEZ5ZDZqazMwXzBvdzlUSUxzSGRHZlJXdl95TEVDMGxDQngwdWFmSHNzbHpmUEJvS250MHhRR0dWYUFuOXpVLTBxLUVJRmh5YVNnOVdJQ0p0ODJyeGNab2ZfWEtwWXNsME0tMEQtM0gtOGl5dUt1?oc=5",
         "description": "",
         "pubDate": "2026-07-26T13:00:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Wildfires in France drive 250,000 people from their homes and creep toward wine city of Bordeaux - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNczhHX2xpd0c1SE9SNVh5TW5kN1ZsajJkTUhnRE5zYmJLbGd3X1B6bFJJUEVRTUxQV2ZWRWVIWnBnZ0liQS1ESHJaTVFZZlBwWkNKVXRQNklpVVdkUG9xaXZRZFFLX0lBTUE3b3FUNnpGSE1CZDRHSDB1cjFOeWpYbFlwNXFianFabGVNTnpaODRhbkNkcXUzcklfN0NsWFk?oc=5",
-        "description": "",
-        "pubDate": "2026-07-26T12:36:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -754,6 +501,15 @@
         "bias": -1
       },
       {
+        "title": "Hurricane Genevieve moves through the Pacific off Mexico, but no direct threat to land is forecast - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcTFibTN2Vm9oNTJqYk50UDJCYzNRNEZwaTZZaDRLMG5yajFKYTR0SUtGejhOQUxSeXhyS1dyWVRGMUJQbmx6S1ROMEo3N1pkRXhzcDR2TE5NTkFtOWlmZkNOUGtpQ1dMb3pQcjZQSnJJWXFOVTBCNk5ZbGhvSmFScDk1RWZwZllUZ0JEcEcwTUlkYXN0X3BTc2VmUVNCUnA3bDdqMnZ3?oc=5",
+        "description": "",
+        "pubDate": "2026-07-26T08:59:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Airstrikes have paused and talks are pressing forward. But can the US and Iran take the off-ramp? - AP News",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNDJld2dfWkJobEFGdjZJaUQ0LThjRlJfcDFXSVc4dEwxMjhmeVB4QVVqcFVTV3B3RGRFV2NHWmpQdWsyVEx6ckxOdWVXcXcyRmpuejVER2R2alBhTEIyRlhGaHkyUXRQSjNKQ1kySDR4dHZvdm9LTWxMMXZUZ3p1ZUJqOE1WS1VNYlpKalF0NWdsVTdWZ3c0ZGRB?oc=5",
         "description": "",
@@ -781,10 +537,10 @@
         "bias": -1
       },
       {
-        "title": "Jones and Clark help Team Spoon beat Team Coop 129-122 in the WNBA All-Star Game - AP News",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOelRKX3RzREJMQ2luWUJzTF92VGIzUWJWSnRzX2JHaXJyVERYVTV1MjkxVTVHVDM3VGdSSHBzT01TOGVGN0lWNmZVNEtTS0UzTkN1dGRtU2pDLWpfREIta0djTXNscFROTVlTOFJTWk5CUXR1ZVJ1Ujh3OWVJbjBMTFNaaG8?oc=5",
+        "title": "Comic-Con 2026: David Jonsson is new Black Panther, Ryan Gosling joins Marvel as Ghost Rider - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTEY0V3dRZDM4dWhzX1VhWW5nQ0lDQ05STHpTa3Y3bFdGS25aSU5pOXVtWDk2RDRKLUk1cl9uOG9GOVNCZmJVU0dydFZsNy1fZE52dzZ3LVdoS2Z0M2p4bk1HWDlIS2RYeTNoc1F5T0VYaW1Bc3hnTzlPSW94aWVmcHc2TWhBZktVMF9FVmdYYXBhcnNvTXNwVE9zWGRnQi1UTzhORHA2X0xXbmRIUnd2bw?oc=5",
         "description": "",
-        "pubDate": "2026-07-26T04:21:00Z",
+        "pubDate": "2026-07-26T03:40:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -800,6 +556,15 @@
       }
     ],
     "Tech": [
+      {
+        "title": "Water outage at UK’s Gatwick airport leaves toilets out of order and restaurants closed - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbHE5Y3NKNnl1TlNsUTZFQlNzek5Ta09vaklUeDZvc2tPdHI3SnhzZjZFd1VWSzJYSThRemtEbXBfNk5WTU5UNXYtb01iVHo2SlpOYmdPblh3c2NPS0cwX1hWQThhdV9NeVY1U0YzYUprcVdRN2poZ3k3aW9IS2EzcFlTS2s4M2lVUndpdFlFdXJWOU1Ba1Y5WE4xZm5KOWNpRG5xUGJ6WE04YW5FSkhzejVR?oc=5",
+        "description": "",
+        "pubDate": "2026-07-26T13:16:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Video shows Berlin Pride attendees being told to leave the event due ‘to a difficult situation’ - AP News",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPY28zTUJjMkh0UHlTTDlXS1J0OEQtZXh2VUhGRzZWcW1TcVdhZzhJZWUtXzV6bDl3WmVfd1haRWYyQ3NHODNDaUk1bXhtSWZzZnlWamJXN05fdm5WT0NfbHMxYmJNdHVGeU04cy1tNE9lc0JkUXNjdmZyNE5Ma2RyN2REVjAwV0pVdXJFZi1hOFh3X3NZZFYyd0FfeEs1aHBNNThRcVN1VzRLWDN2eFo2d0ZLZHE4ak45QlBmRzN0SHJmNGJPaXRISnlpNWZUV1k3Yk1Z?oc=5",
@@ -819,10 +584,10 @@
         "bias": -1
       },
       {
-        "title": "Comic-Con 2026: David Jonsson is new Black Panther, Ryan Gosling joins Marvel as Ghost Rider - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTEY0V3dRZDM4dWhzX1VhWW5nQ0lDQ05STHpTa3Y3bFdGS25aSU5pOXVtWDk2RDRKLUk1cl9uOG9GOVNCZmJVU0dydFZsNy1fZE52dzZ3LVdoS2Z0M2p4bk1HWDlIS2RYeTNoc1F5T0VYaW1Bc3hnTzlPSW94aWVmcHc2TWhBZktVMF9FVmdYYXBhcnNvTXNwVE9zWGRnQi1UTzhORHA2X0xXbmRIUnd2bw?oc=5",
+        "title": "Brazil’s government denies visas to US officials over upcoming elections - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOERMYjhmR2VIUUtiVF9uZE1tUjdFMHZ3SUlKS2taYWhHSkJMLVBZZEg4NkxtRFJORk5qaFhsbjRaY2xMemQ4NXIxU1hXbkxMTDN0WU1IaGU3TnUwTDlqM1Z6U0Zqem8wVWJ1dkFxTko0MjFSQ2pMV05LY2taZEktaG8wazVrbldzcExqWkNXM29FOVZXM2NFS2Y0S2M5cGM?oc=5",
         "description": "",
-        "pubDate": "2026-07-26T03:40:00Z",
+        "pubDate": "2026-07-26T02:20:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -889,7 +654,7 @@
         "title": "Gatwick Airport left without running water after major outage",
         "link": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
         "description": "Bottled water is being handed out to passengers and staff while the issue is investigated.",
-        "pubDate": "2026-07-26T15:29:29Z",
+        "pubDate": "2026-07-26T15:59:08Z",
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/409a/live/99bb0920-88f6-11f1-8824-a9ae603ecd1c.jpg",
         "bias": -1
