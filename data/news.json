@@ -1,9 +1,173 @@
 {
-  "lastUpdate": "2026-08-01T00:14:17.765422Z",
+  "lastUpdate": "2026-08-01T03:54:44.699952Z",
   "news": {
     "Gaming": [],
-    "World": [],
-    "Politics": [],
+    "World": [
+      {
+        "title": "Yemen’s Houthis deny plan to charge ships transiting Red Sea",
+        "link": "https://www.aljazeera.com/news/2026/8/1/yemens-houthis-deny-plan-to-charge-ships-transiting-red-sea?traffic_source=rss",
+        "description": "Houthis say Red Sea route remains free to use, pushing back on report of new shipping fees.",
+        "pubDate": "2026-08-01T03:33:38Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Is Israel really ready to withdraw from Gaza?",
+        "link": "https://www.aljazeera.com/news/2026/8/1/is-israel-really-ready-to-withdraw-from-gaza?traffic_source=rss",
+        "description": "Netanyahu faces political turmoil over Gaza disarmament plan tied to Israel's potential withdrawal from the enclave.",
+        "pubDate": "2026-08-01T03:21:52Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Liberia’s kush crisis: The hidden trade behind a generation at risk",
+        "link": "https://www.aljazeera.com/news/2026/8/1/liberias-kush-crisis-the-hidden-trade-behind-a-generation-at-risk?traffic_source=rss",
+        "description": "As kush spreads across Liberia, families face the fallout while traffickers remain largely out of reach.",
+        "pubDate": "2026-08-01T03:18:29Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Russia hits Ukrainian capital with ballistic missiles and drones killing 3 and wounding over a dozen - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMy1Tb2ZpdTlKMEJmT3JZb0hYWlp1Y1g3R2dwYmZTWEgtRVFsNWhEcUZ3bmx0M09qTWtvSi0wU05pZVdNYzRsa2tITGN0cF9qaWYycl9zWUNrN3pQRjlFVF9PcjFRTUxDam0yOGRMR1pFQTNYWFA5ZFVIeFJvWUxzYTRJMkM4WkhtYXRQd2R3TTlEU2pKZDNUdm5LREp5ZEZXS3FxRkd4b3F1ODYwYlRNZy10VlQ?oc=5",
+        "description": "",
+        "pubDate": "2026-08-01T02:27:33Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
+        "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
+        "description": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
+        "pubDate": "2026-08-01T02:21:29Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6d5/live/e4eae1c0-8d4e-11f1-b2ab-0dd01740f9f6.jpg",
+        "bias": -1
+      },
+      {
+        "title": "SEC, Big Ten add long-missing support to college sports bill and revive its chances in the Senate - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMTlMV09QUXN5bG9WcDh0c1g5ay1ZWFV5b0FjV2JYT3dCSG9UaFRDUDFmc21KLXZZMF9HN0ZRRGxabG9EY0VuVlY4YXBabXEzTXppcUdmWkZrMENTYXJCWVFValF1bUF1S3hJRjZGSVlFMjQyS191blBaV3M5T1ZLOUhfcWp5VFRhSTZiQ2p1MFFfYXYxd2ZaREVzdFlXLXc?oc=5",
+        "description": "",
+        "pubDate": "2026-08-01T02:16:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Russian missile attack kills three in Ukraine’s Kyiv",
+        "link": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss",
+        "description": "Residents trapped as partially collapsed building catches fire after deadly strike on Ukrainian capital.",
+        "pubDate": "2026-08-01T02:06:00Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "US military says F-35B jet fighter crashes in California, pilot safe",
+        "link": "https://www.aljazeera.com/news/2026/8/1/us-military-says-f-35b-jet-fighter-crashes-in-california-pilot-safe?traffic_source=rss",
+        "description": "The jet went down on Friday near the Miramar airbase in San Diego.",
+        "pubDate": "2026-08-01T01:55:27Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Infantino abandons plans to sell World Cup profits to private equity following massive pushback - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWEpDcHVOTlpQTHlKczVBamNkUWFHcUtOT2VlS1pSVlZ2VWg1QTZfLXFJZDA4VEl1eDB6c3FGbU5USlNZbjFDMXlaX0xRZHlSbmpmckh4WjF5RTZrWEFEOHh6SDVmSC0zWW9RQ2Zxd2hLajhkV1lVaTgwb3F1aC1tNWhxdUgxYlU1bVRyQnphemhPck95Mkh1bjR3?oc=5",
+        "description": "",
+        "pubDate": "2026-08-01T01:47:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Chancellor grants 19 college basketball players a 5th season and orders portal open Monday - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ280MFVIdHk2QkZrLWY4cWtSWWR3M2Y2YWZ5eGxOT0MzQkktcFN1V3dRLVVnU1h3N242clljd29RUzlBeXBFd1UySVRBZ1BjdWtCSzh6NGxjaWZwRTlJNDhJVHlkNzMxMEFJNk1TRktmZHZITUJ5SlpmRmdTbTRzNHlBMnNVUlhJZDRieU1YbU91NDB0TTQ3cTQwd3V3cENFUUJoeHNn?oc=5",
+        "description": "",
+        "pubDate": "2026-08-01T01:47:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Why has Infantino scrapped FIFA’s World Cup investment plan? What to know",
+        "link": "https://www.aljazeera.com/sports/2026/8/1/why-has-infantino-scrapped-fifas-world-cup-investment-plan-what-to-know?traffic_source=rss",
+        "description": "How FIFA President Gianni Infantino was forced abandon his World Cup equity plan after seismic backlash across football.",
+        "pubDate": "2026-08-01T01:10:58Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Israel launches attacks across Gaza one day after Hamas agrees to disarm",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israel-launches-attacks-across-gaza-one-day-after-hamas-agrees-to-disarm?traffic_source=rss",
+        "description": "Israeli attacks across Gaza have killed at least two Palestinians, hours after Hamas agreed to a draft peace deal.",
+        "pubDate": "2026-08-01T00:48:37Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "White House signals Trump is weighing new strikes on Iran, and other developments in the Middle East - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOR25talQyd3dfUlZoWlU4YmRvZVp0TEJ4a3lWQXluc05RVlpSQ1hhRVlYNWlWaDNZRkQtRmtxeVp5RU9OTHhfSWtWOG93a3pKU05MU09OdHd2RkNXR1RCV2g5MzlFcHRsdk1TVjdMczZqWGZuMGNfeVY0ZDVvUU9LaGdLSElQZG5FeEo4RkhnVHhOc1ZoRVFpb3ZVS1JfN2prZDFZNklEMHpIdHg3Uk1BMg?oc=5",
+        "description": "",
+        "pubDate": "2026-08-01T00:34:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Infantino abandoned his World Cup equity plan after seismic FIFA backlash. Here's what to know - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeXVVaG1zc0QyQ3JfMFoxWjVfUEx2cTRpTDRxTzZIQ0pjcFdvLVJwQWdJQ2hVQnBLOVRsZDNKOGp0X3FuRW1tOWVJb3NLRGJtdkQzY0toazlHbzFDaVZFZl8xT1Z6UnlBbzZMYlVWUVR2Sy1VMXBWb1NWMGFTMnlFblJzdm55MHpmSXBrYkZsU0prM0lHcVZHZzFn?oc=5",
+        "description": "",
+        "pubDate": "2026-08-01T00:21:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Trump says anti-weaponization fund in IRS settlement is ‘dead’ even as he defends it - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORmxlakE4Z2pCMEFKODRZQXBFdUNKUTEtR3l1YU56V0dlck1nUkxrZjQyVHJCbGU3UzVvVTFXcDk4OV9FMlNSQS1sTHc3a2hKRUZLRWhkVlAyT1F2MGpIZ2pnampUdWR3MHp6aXNyUDZxd0k5VG9hb0RVNUlBem92OExqYWpfTUJZNjNmOGg1SnNWQlJrZlNvWHhGczliWGdLeF9RUkx2U3pHaHNZZ2JPMHlNbHUyQQ?oc=5",
+        "description": "",
+        "pubDate": "2026-08-01T00:19:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Trump administration to dismiss Reflecting Pool charges against David Hearn",
+        "link": "https://www.aljazeera.com/news/2026/8/1/trump-administration-to-dismiss-reflecting-pool-charges-against-david-hearn?traffic_source=rss",
+        "description": "US Attorney Jeanine Pirro, a Trump appointee, acknowledges that the peeling sealant is result of 'botched installation'.",
+        "pubDate": "2026-08-01T00:02:37Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      }
+    ],
+    "Politics": [
+      {
+        "title": "Budget in October, Healey announces, as ministers urged to stick to spending limits",
+        "link": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss",
+        "description": "The new chancellor pledged to move money and power out of Westminster, and into every postcode around Britain.",
+        "pubDate": "2026-08-01T03:34:26Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f911/live/99ae70c0-8ced-11f1-a573-93159e2b55da.jpg",
+        "bias": -1
+      },
+      {
+        "title": "What to know about the Spanish territory of Ceuta as migrant arrivals from Morocco spike - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVDZ0cTJsQlVfb1NSX2NwYWRaemctTlhPRjZBT2F3NWtvQXNyTGYyTVFhaTNDUjF4S3pvT1d4T0dRZXpLYVRFdGc4eEEyT0hOS3RPUVBtQnpQLUpPSlhvTlVXMlNkcmlveVJWRHk0aU96bUtGcGZSLU9mZFF1aUxwRGpPVXFFVkZzczVpU2VtbW5lTTJPcUxUblhlbWNrU3BJYnc?oc=5",
+        "description": "",
+        "pubDate": "2026-08-01T03:03:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ],
     "Tech": [
       {
         "title": "Tech Now",
@@ -16,7 +180,26 @@
       }
     ],
     "Science": [],
-    "Business": [],
+    "Business": [
+      {
+        "title": "Budget to be held in October, Healey announces",
+        "link": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss",
+        "description": "The new chancellor pledged to move money and power out of Westminster, and into every postcode around Britain.",
+        "pubDate": "2026-08-01T03:34:26Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f911/live/99ae70c0-8ced-11f1-a573-93159e2b55da.jpg",
+        "bias": -1
+      },
+      {
+        "title": "FIFA scraps controversial deal to sell stakes in World Cup to private investors",
+        "link": "https://www.npr.org/2026/07/31/nx-s1-5915820/fifa-world-cup-gianni-infantino",
+        "description": "FIFA abandoned a plan to create a commercial venture and then sell stakes to minority investors, just days after unveiling it. The plan drew sharp condemnation — and a boycott from European nations.",
+        "pubDate": "2026-08-01T02:08:51Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      }
+    ],
     "Culture": []
   }
 }
