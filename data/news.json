@@ -1,225 +1,44 @@
 {
-  "lastUpdate": "2026-08-04T22:40:52.631327Z",
+  "lastUpdate": "2026-08-04T23:45:28.506979Z",
   "news": {
-    "Gaming": [
-      {
-        "title": "AtackZ [Free] [Action] [Windows] [Android]",
-        "link": "https://ooops-studios.itch.io/atackz",
-        "description": "",
-        "pubDate": "2026-08-04T22:33:24Z",
-        "source": "ooops-studios.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MDYyMzUwLnBuZw==/315x250%23c/GEtja%2B.png",
-        "bias": 0
-      },
-      {
-        "title": "Space Invaders [Free] [Shooter]",
-        "link": "https://memorix101.itch.io/space-invaders",
-        "description": "Porting a space invaders game to different platforms, frameworks and game engines",
-        "pubDate": "2026-08-04T22:19:37Z",
-        "source": "memorix101.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MDYyMjQxLnBuZw==/315x250%23c/wnLSUM.png",
-        "bias": 0
-      },
-      {
-        "title": "Scramble Arena [Free] [Platformer] [Windows] [macOS]",
-        "link": "https://beebopplegames.itch.io/scramble-arena",
-        "description": "",
-        "pubDate": "2026-08-04T22:00:59Z",
-        "source": "beebopplegames.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MDYxODI1LnBuZw==/315x250%23c/lKYjzc.png",
-        "bias": 0
-      },
-      {
-        "title": "BOSS FIGHT CONTRA O DAVID DO MAL [Free] [Educational]",
-        "link": "https://doggydoggysigla.itch.io/bfcoddm",
-        "description": "",
-        "pubDate": "2026-08-04T21:57:42Z",
-        "source": "doggydoggysigla.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MDYxNTI5LnBuZw==/315x250%23c/wpALZT.png",
-        "bias": 0
-      },
-      {
-        "title": "✅available and access to all packs✅ [$2.50]",
-        "link": "https://elkoki1312.itch.io/available-and-access-to-all-packs",
-        "description": "",
-        "pubDate": "2026-08-04T21:53:58Z",
-        "source": "elkoki1312.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MDYxNjAxLmpwZw==/315x250%23c/fIl5X4.jpg",
-        "bias": 0
-      },
-      {
-        "title": "green house [Free] [Other] [Windows]",
-        "link": "https://nerddo.itch.io/green-house",
-        "description": "made in a week out of boredom",
-        "pubDate": "2026-08-04T21:52:27Z",
-        "source": "nerddo.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MDYxNjA1LnBuZw==/315x250%23c/cCZmwW.png",
-        "bias": 0
-      },
-      {
-        "title": "awesome tag 2 [Free]",
-        "link": "https://awesomeektor14.itch.io/awesome-tag-2",
-        "description": "awesomeektor14",
-        "pubDate": "2026-08-04T21:42:21Z",
-        "source": "awesomeektor14.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MDYxNTUyLnBuZw==/315x250%23c/X8Wkvu.png",
-        "bias": 0
-      },
-      {
-        "title": "Bloons TD 5 Demo [Free] [Strategy]",
-        "link": "https://samadibeligaswatte1.itch.io/bloons-td-5-demo",
-        "description": "",
-        "pubDate": "2026-08-04T21:36:38Z",
-        "source": "samadibeligaswatte1.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MDYxNDkwLnBuZw==/315x250%23c/m0NBkC.png",
-        "bias": 0
-      },
-      {
-        "title": "Summer Arc [Free] [Role Playing]",
-        "link": "https://studiodrastic.itch.io/summer-arc",
-        "description": "Un'estate. Tre paesi. Un pallone.",
-        "pubDate": "2026-08-04T21:33:47Z",
-        "source": "studiodrastic.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MDYxNDczLnBuZw==/315x250%23c/bLjnJ9.png",
-        "bias": 0
-      },
-      {
-        "title": "DualDraft Battle [Free] [Strategy]",
-        "link": "https://potron-minet.itch.io/dualdraft-battle",
-        "description": "Fight for the center in this fast competitive 1V1 game !!",
-        "pubDate": "2026-08-04T21:30:29Z",
-        "source": "potron-minet.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MDYxNzExLnBuZw==/315x250%23c/bQghs5.png",
-        "bias": 0
-      },
-      {
-        "title": "Ashkin: Idle Legends [Free] [Role Playing]",
-        "link": "https://ash-kin.itch.io/ashkin-idle-legends",
-        "description": "An idle RPG rooted in Southern African folklore. Play the first twenty levels in your browser",
-        "pubDate": "2026-08-04T21:25:46Z",
-        "source": "ash-kin.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MDYxNDM4LnBuZw==/315x250%23c/2Bv1A7.png",
-        "bias": 0
-      },
-      {
-        "title": "MIRROR SHIP [$2.00]",
-        "link": "https://marc-vittorini.itch.io/mirror-ship",
-        "description": "ATARI 2600 / VCS",
-        "pubDate": "2026-08-04T21:23:28Z",
-        "source": "marc-vittorini.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MDYxMjcxLnBuZw==/315x250%23c/8t1Bap.png",
-        "bias": 0
-      },
-      {
-        "title": "disappointed [Free] [Windows]",
-        "link": "https://xdvr2.itch.io/disappointed",
-        "description": "",
-        "pubDate": "2026-08-04T21:21:26Z",
-        "source": "xdvr2.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MDYxMTQwLnBuZw==/315x250%23c/kO7IH%2B.png",
-        "bias": 0
-      },
-      {
-        "title": "Legacy Bloom [Free] [Puzzle] [Windows] [macOS] [Android]",
-        "link": "https://colopr32.itch.io/legacybloom",
-        "description": "encajar flores y recolectar",
-        "pubDate": "2026-08-04T21:16:07Z",
-        "source": "colopr32.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MDYxMzQ4LnBuZw==/315x250%23c/M4KBKl.png",
-        "bias": 0
-      },
-      {
-        "title": "Points [Free]",
-        "link": "https://vaskerian.itch.io/points",
-        "description": "",
-        "pubDate": "2026-08-04T21:10:45Z",
-        "source": "vaskerian.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MDYxMTgwLnBuZw==/315x250%23c/EOu%2Fcj.png",
-        "bias": 0
-      },
-      {
-        "title": "Blind Blackout [Free] [Platformer]",
-        "link": "https://eg-game.itch.io/blind-blackout",
-        "description": "Die to learn",
-        "pubDate": "2026-08-04T21:10:37Z",
-        "source": "eg-game.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MDYxMjkyLnBuZw==/315x250%23c/Y%2F5M29.png",
-        "bias": 0
-      },
-      {
-        "title": "Astrophibia [Free] [Action]",
-        "link": "https://thetruegofri.itch.io/astrophibia",
-        "description": "The greatest jump in amphibian history",
-        "pubDate": "2026-08-04T21:08:29Z",
-        "source": "thetruegofri.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MDYwOTI4LnBuZw==/315x250%23c/H2NE42.png",
-        "bias": 0
-      },
-      {
-        "title": "Adventures of Carol [Free] [Adventure]",
-        "link": "https://ruuroger.itch.io/adventure-of-carol",
-        "description": "A 2.5D RPG",
-        "pubDate": "2026-08-04T20:33:13Z",
-        "source": "ruuroger.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MDYwNjkwLmpwZw==/315x250%23c/8QKOaI.jpg",
-        "bias": 0
-      },
-      {
-        "title": "BatsBatsBats2 [Free] [Puzzle]",
-        "link": "https://a-ndy-x.itch.io/batsbatsbats2",
-        "description": "DEMO",
-        "pubDate": "2026-08-04T20:15:10Z",
-        "source": "a-ndy-x.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MDYxMDg3LnBuZw==/315x250%23c/GYurXG.png",
-        "bias": 0
-      },
-      {
-        "title": "Icon Smash [Free] [Puzzle] [Windows]",
-        "link": "https://b3agz.itch.io/icon-smash",
-        "description": "Smash icons together to make other icons.",
-        "pubDate": "2026-08-04T20:02:22Z",
-        "source": "b3agz.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MDYxMTIzLnBuZw==/315x250%23c/VhmBJe.png",
-        "bias": 0
-      },
-      {
-        "title": "Kururuga [Free] [Action]",
-        "link": "https://meinong.itch.io/kururuga",
-        "description": "whirling polar action",
-        "pubDate": "2026-08-04T18:26:51Z",
-        "source": "meinong.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MDU4MDg5LnBuZw==/315x250%23c/jOZJmQ.png",
-        "bias": 0
-      },
-      {
-        "title": "Nobody's Listening [Free] [Simulation]",
-        "link": "https://gyles0.itch.io/nobodys-listening",
-        "description": "You work at a nuclear plant. Nobody's listening. Click anyway.",
-        "pubDate": "2026-08-04T15:06:46Z",
-        "source": "gyles0.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MDYxMzg5LnBuZw==/315x250%23c/si5JI%2B.png",
-        "bias": 0
-      },
-      {
-        "title": "Brick Destruction Physics [Free] [Simulation] [Windows]",
-        "link": "https://dev-abominations.itch.io/brick-destruction-in-development",
-        "description": "A Destruction physics game that its in development.",
-        "pubDate": "2026-08-04T13:10:29Z",
-        "source": "dev-abominations.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MDYxMDA1LnBuZw==/315x250%23c/UbQwL9.png",
-        "bias": 0
-      },
-      {
-        "title": "Before you log off [Free] [Visual Novel] [Windows] [macOS]",
-        "link": "https://rosspar.itch.io/before-you-log-off",
-        "description": "Visual Novel",
-        "pubDate": "2026-08-04T07:48:47Z",
-        "source": "rosspar.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MDQ3NzQ5LnBuZw==/315x250%23c/MndEHs.png",
-        "bias": 0
-      }
-    ],
+    "Gaming": [],
     "World": [
+      {
+        "title": "Armed man with armour-piercing bullets arrested near Trump's California golf course",
+        "link": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
+        "description": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the golf course.",
+        "pubDate": "2026-08-04T23:36:11Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
+        "bias": -1
+      },
+      {
+        "title": "Former Rep. Elaine Luria wins Democratic nomination for battleground U.S. House seat in Virginia - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX3lyMDZNUlh3T1UtT0ItQlZib1huVTNGLVRWUE5GVkFLdTF5cVZnUDE1a0diOGlhNXBHenEyUTYwTkwzcmJGXzR1aWQwVDRKQlF5N1ktR3lVS2tpV3ZTZUpDejlLUUxTQlEzMEh6YnBOZlhDNDJNT3BGbVZrNHZkVmNHTlQ4X0NLNF9ySk1XaUJLckJNQVRLUFZoTm94MF80UVRNNnNhQmdmeFRPM2dEQzQ1VTlzMjRNNnhJY1F3QjktcmlsQmVXQWhn?oc=5",
+        "description": "",
+        "pubDate": "2026-08-04T23:32:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Mysterious elephant deaths in Kenya raise questions around pesticides",
+        "link": "https://www.bbc.co.uk/news/articles/cx27p32jzj2o?at_medium=RSS&at_campaign=rss",
+        "description": "A wave of Kenyan elephant deaths has been blamed on pesticides, but experts tell the BBC they are doubtful.",
+        "pubDate": "2026-08-04T23:13:04Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a9e/live/76921b10-900c-11f1-aabc-c3c7aa714117.jpg",
+        "bias": -1
+      },
+      {
+        "title": "'My grandmother subjected my baby to female genital mutilation behind my back'",
+        "link": "https://www.bbc.co.uk/news/articles/c3r0vp7n0pro?at_medium=RSS&at_campaign=rss",
+        "description": "In Colombia, where FGM is still practised by some members of an indigenous group, a landmark bill banning the practice has been enacted.",
+        "pubDate": "2026-08-04T23:13:01Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db8f/live/0ca41740-9006-11f1-9dfb-fd4408d16f2f.jpg",
+        "bias": -1
+      },
       {
         "title": "'I was slut-shamed' - Indian women 'cockroach' protesters doxxed and abused",
         "link": "https://www.bbc.co.uk/news/articles/c4g43l251vyo?at_medium=RSS&at_campaign=rss",
@@ -230,10 +49,10 @@
         "bias": -1
       },
       {
-        "title": "Chipotle pulls jalapeños from some restaurants as health officials investigate salmonella outbreak - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbUN5R1hXRGxndjVsR1hxOFRZV2J3RHhaMng1LVZlbVFMb1Y2eUtfUDFCYnZ5ZThaTXhLQm12SEVCdlFtVlVQdEQ5LUd0MU9MWFNzdm1vRTRFdHN4SHhFZEgySkttQjVhYVEtQllad0E3WmlxUXc0b0t1UEFoR3pIcmFCblhmYmJSQk45aVJwN1MxRXR3UUdwWkpKLXI5bjIwMDlVTWw3b24zaktYQkg4cw?oc=5",
+        "title": "Top FIFA officials Wenger and Grafström distance themselves from Infantino's World Cup sell-off plan - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZEtKNXpiSVNwRGtGMXQwNWhxNHZ2eGM4RzdVaGlrVFRWNXJwVU9laXBDekpsV3lEOTFpVzVjZ29ZY3dnczB4YUZ0eEtuRzZHQUs3ZGhrdmZBWU8xSW5nN1VDWmo5eWxUQUV4WG5xZ3hDeWh2S3BUb3pXcmlDRU9RNFE5VVhZVnVGTXkxVlRJbWI3alBkTEI5SHRRaWYyT0lGaVpfcmVwWk1sUTlySFE?oc=5",
         "description": "",
-        "pubDate": "2026-08-04T22:13:00Z",
+        "pubDate": "2026-08-04T22:17:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -264,6 +83,15 @@
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8945/live/5bb99010-8fe0-11f1-bb3b-43bf44dc94d9.jpg",
         "bias": -1
+      },
+      {
+        "title": "House Ethics Committee opens investigation into domestic abuse allegations against Rep. Max Miller - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXp2OTVsQUNja0thVFFhbXRnMEJnZUVJYlNHaDc4bE1xallJYnRMX1NrNHpVcmVVYnBCb2twNk1oUGV5RGZ5UTZoV2hlVFNYYXJxcFBMSndhSmRQTzBzRDZBay1zS1NaWnNxZFI1OTZrS1l6NFBHUzZnbUhmbjVwNExWbC1zRlBTSXVOTnd3RXJUbkw2ZkNrWnM5M3lpUFJL?oc=5",
+        "description": "",
+        "pubDate": "2026-08-04T22:08:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Elon Musk’s SpaceX reports losses but less than expected",
@@ -347,6 +175,24 @@
         "bias": -1
       },
       {
+        "title": "Trump's arch could disrupt the historical significance of many of Washington's sites, report says - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZm9yZ2pPZ3J4cEZtYXNWdDlJSzYxdjk4V0hNdTFOajhTOFUwQWFtTHhiekk0d0h5UjNOaWZhWE8yNFI5R2pfTU5WNnhlYWNRX2FwYjM4cVBMcDlKVE45NkR2LTdsOUJDYXVFMkdBYUFMRHpXOHdWNHlwQklRMVVjWUtRNDFuU2tmNjRhWDVTX0I4RnBXbW00dW9UTVNOdw?oc=5",
+        "description": "",
+        "pubDate": "2026-08-04T20:58:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Extreme heat and drought take a toll around the world, in photos - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORjgtQzRUUERwSVBXM1ZMcUc5Q1NJT0ZkRDRSaHlvQVcxRGNJU3dCX1RxWU1fSC13ODA0UmNXZG9ZQWJTUkk5TTR0Z3Bmb0lweEtTRkUwREt1RmlJQXhCVEMwcmFGaWEyTTV2U1RqUlJXT2dpaFNlSWY2Vk9MRVpOMS0zY19Bd3NIdkZiZXd3ZW52QWZrZGkwV1VUMkdDSXBUYzVnMmgya3NnbEVPVXpxTm5uRmNJM3c?oc=5",
+        "description": "",
+        "pubDate": "2026-08-04T20:53:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Data center approvals in Texas halted until audits completed, Gov. Greg Abbott says - AP News",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS19xZk52d3F3VzAxT09ZcTZFaWNDXzJmZGpKT3lrSG4wUkV4TTEydUpHSHNkSllERVd5Q0c4Q1BCdWJrVk1NdWJZdF9kTDM5LWY4NVJibVUxUEh5NG1Ta05ua29XeWpNQndldUo3Q3B3djRuOVFVQkxKZFdaVndVRHhxSEhFOXRTeEZwMEg3QmZKX1N5OHNtbTFMaVVxUWxxckNybg?oc=5",
         "description": "",
@@ -374,6 +220,15 @@
         "bias": -1
       },
       {
+        "title": "SpaceX posts loss in first report as a public company but less than expected - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWExWNGc3WlZRU0Frc0ZwX1Zyb01Hd3NPOFowX1M3UEtGWmpmSzNSX3VHMEpIVy1PNkVXZWRZUU9oQ3V3Qk03MFdSZ2JQV05mZVd1OW9hOHdkcVlCeEZiVFBBSmhYa1I4MUJETllZdS1aV3hFMXQxekdEV0VjcUpaYzYwM2tvRkgwdXMzdlFzV05BY01iNWZmQg?oc=5",
+        "description": "",
+        "pubDate": "2026-08-04T20:34:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "‘I wanted to hug whatever remained’: Gaza families’ 3-year wait for funeral",
         "link": "https://www.aljazeera.com/news/2026/8/4/i-wanted-to-hug-whatever-remained-gaza-families-3-year-wait-for-funeral?traffic_source=rss",
         "description": "Thousands gather for mass funeral of 112 members of Abu Shreia and al-Hassaina families killed in 2023 Israeli attack.",
@@ -390,6 +245,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Trump administration revokes visa of Brazil’s ambassador to US in spat with Lula - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbzhJanFZY3p0cWNVZlFLUXEwbEViRktZY1U3MXJfTXBRMWo2MmVtR1RvQ2I1MzMySEM4OE1oYkRLemJqM0FPaWxwMS12NjVBSzdOTTN0bUtGR2JFZklYQVVtQ1dXN0ttdDdpanFWUDVLanBJX0liVHBuR2xscTI0NndFVWgyQWFjTU9OT3FNRFFSQl9nOGMtWWFJaG1Pc3M?oc=5",
+        "description": "",
+        "pubDate": "2026-08-04T20:27:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Shop owners dismantle businesses after Israeli demolition orders",
@@ -417,6 +281,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Divided federal appeals court says Trump administration was wrong to terminate climate funds - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMm5rN2k1VkFhLUdQaWhKSklHdElzMU9XZmhlT1M5eVBkVG1HSXB6WUc4V3hHOEQwTWFKTjlPSVA2YTRrcFEzWlFSc1BRVTJRdUVEMEozbXJTYkM1MVRYbUNYSU8zWkI2bnhPbTNQZUJXN2ZtSFduYzBMWmg2UVNuV1ZRVDA3bF9CUWp5YkNlQnIwMm8tVHc?oc=5",
+        "description": "",
+        "pubDate": "2026-08-04T20:13:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Firefighters scramble to contain fires outside Athens before winds and high temperatures return - AP News",
@@ -491,15 +364,6 @@
         "bias": -1
       },
       {
-        "title": "Judge allows clergy abuse claimants to sue for parish assets in Vermont Catholic bankruptcy case - AP News",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbGtsWldnQ2wyUFQ3dTJSSnlkdExFQi15aG15S2h1WHRJZVNrTkZ1V29RRHFiVi1Qa0tOaXpZZVB5cU84a0N2a1RmUEY0bDg1XzM0ZHR3Zk55SkRMYU1sNkJHSnJsVk1PYVpCeEZPdUNTbnA5TTIxNGNlSk5qQ2VZZ0N4a3J5a2ktMHlZaXBwNENEcGJBeVJqTXFPMkdsQTAxcEdyN1dGbWR4c3pDWWxFcmwxVzQ?oc=5",
-        "description": "",
-        "pubDate": "2026-08-04T19:35:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Arrests in Egypt after people allegedly impersonate judges",
         "link": "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo?at_medium=RSS&at_campaign=rss",
         "description": "Egyptian authorities say the alleged scam involved fabricated scenes in court as part of a plot to defraud people.",
@@ -530,7 +394,7 @@
         "title": "Mississippi lawmakers launch redistricting process after Supreme Court ruling - AP News",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMEVpMHFySzRHeW9YR3ZSTWZEUGpEbGIxMFRIM25YaEU1MEpTMC1mQzVOWm5URmhPellHU1F2eTZtTWVWMjI3bHRGRS0zcF9SWGMzV1pBOHlyUTE4al8wTnNoR3Jib0loOHNUeGxNazNNbk0wUTBTdDd4WnZaTXdkZWtOckxqMGJtMFh5anF5X1BhLUtEMEFubXpmSEYtc1U3RlFjNTQ3SUlYLXA0NExNR2lpYTNGZm8?oc=5",
         "description": "",
-        "pubDate": "2026-08-04T19:08:58Z",
+        "pubDate": "2026-08-04T19:07:54Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -588,104 +452,32 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "US stocks rush toward records, and Dow soars 1,000 as profits keep piling up and oil prices ease - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTV9wOHRxaHZsa1ZVU3B5ZUYzRnhVT1ptZVFCcFBzOFM1SkZzQ1o3ZGlIM2FHZWphMllYbHRrS0lNWUU5ZzhUOUFfcWEtZlZjSXRNZFIwbXZ2VmI0Q1hIZVhVYXFEMlFIeTdwUXF3bVNKWXNDUFZqNFg3VlNJMmhtc2JwS0d4aGgxYlFPcllrUVg5SlFOU2o2UzdlRE5ka09lOGc?oc=5",
-        "description": "",
-        "pubDate": "2026-08-04T18:43:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Mass funeral held for 112 members of two Palestinian families",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/mass-funeral-held-for-112-members-of-two-palestinian-families?traffic_source=rss",
-        "description": "Palestinians in Gaza held a mass funeral for 112 members of the Abu Sharia and al-Hasayna families.",
-        "pubDate": "2026-08-04T18:35:35Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "‘Maximum use’: Iran boosts military strength during ceasefire with US",
-        "link": "https://www.aljazeera.com/news/2026/8/4/maximum-use-iran-boosts-military-strength-during-ceasefire-with-us?traffic_source=rss",
-        "description": "IRGC spokesman Hossein Mohebbi said last month that Iran's missile production rate increased during the ceasefire.",
-        "pubDate": "2026-08-04T18:34:48Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Rubio: Progress made to reopen Strait of Hormuz",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/rubio-progress-made-to-reopen-strait-of-hormuz?traffic_source=rss",
-        "description": "Marco Rubio, US Secretary of State, said there has been progress in negotiations to reopen the Strait of Hormuz.",
-        "pubDate": "2026-08-04T18:27:15Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "How to avoid the worst of the Italian heat",
-        "link": "https://www.bbc.co.uk/news/articles/c05q1gz0p1yo?at_medium=RSS&at_campaign=rss",
-        "description": "From supermarkets to night-time tours, experts share how to make the most of Italy during this latest heatwave.",
-        "pubDate": "2026-08-04T18:21:00Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb0a/live/67b4c860-8f51-11f1-99e6-95543b07d23d.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Why did the US economy slow down?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/why-did-the-us-economy-slow-down?traffic_source=rss",
-        "description": "The US economy slowed more than expected, but it's not because Americans stopped spending. So what really happened?",
-        "pubDate": "2026-08-04T18:17:58Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Israel election pressure fuels settlement push as West Bank violence surges",
-        "link": "https://www.aljazeera.com/news/2026/8/4/israel-election-pressure-fuels-settlement-push-as-west-bank-violence-surges?traffic_source=rss",
-        "description": "Analysts point to uptick in activity of settlement movement as it bids to entrench West Bank chokehold.",
-        "pubDate": "2026-08-04T18:08:08Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "The soaring demand for Patriot missiles, from the Middle East to Ukraine",
-        "link": "https://www.npr.org/2026/08/04/g-s1-137287/us-patriot-missiles-ukraine-middle-east-iran-war",
-        "description": "The U.S. and its partners depend on Patriot interceptors to shoot down incoming ballistic missiles. But Russia and Iran are firing their weapons at rates far higher than Patriots can be produced.",
-        "pubDate": "2026-08-04T18:01:04Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Guatemala is on alert and evacuates hundreds of villagers after eruption of the Fuego volcano erupts - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbF9mMWV4WFZuV1plYmgtZU1SZUtuY2xCaExLZWVYbTZjcFpLMDhLUExRaVNBbWlKSFBZajZPRTFLU3VFaUYwcmZUdTFGQkRpaEptMkFfbnZuSGY5bHJ5QnI2aWNGbTROWlMxcEV1Sm5oMjZoREJwcEctSW56OFFvVkJQcjM2a28zYk4wdHVIbF9teUloRG9xdzVuX3ZsVnQxYlBFVFNn?oc=5",
-        "description": "",
-        "pubDate": "2026-08-04T18:01:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Utility's idle transmission tower caused 2025 Eaton fire that killed 19, Los Angeles officials say - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN3h4Vl9WOUkyc1dzMFZ0OVVvRFJrU2NHTmVUQ1JfMTVTa2U0NWVjYVZLUlJSOXNsOVRuNlJxY0Fya2VaWFZNeWpoQVNva1NiZXB0ZHR4ZFRHVi04TFFsdl9VVmU4VW9DLTNZLWJoUnZqMkRUcWszdk1BMmZMNEcwSnN1SGlCSTlHd1MyaVZDOUlXUE5ickg5RkE0NTlJclRIWHMyUg?oc=5",
+        "description": "",
+        "pubDate": "2026-08-04T23:27:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Chipotle pulls jalapeños from some restaurants as health officials investigate salmonella outbreak - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbUN5R1hXRGxndjVsR1hxOFRZV2J3RHhaMng1LVZlbVFMb1Y2eUtfUDFCYnZ5ZThaTXhLQm12SEVCdlFtVlVQdEQ5LUd0MU9MWFNzdm1vRTRFdHN4SHhFZEgySkttQjVhYVEtQllad0E3WmlxUXc0b0t1UEFoR3pIcmFCblhmYmJSQk45aVJwN1MxRXR3UUdwWkpKLXI5bjIwMDlVTWw3b24zaktYQkg4cw?oc=5",
+        "description": "",
+        "pubDate": "2026-08-04T22:13:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "In-N-Out worker killed in shooting at newly opened Idaho restaurant traveled to open stores - AP News",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ2J5eWEwWktqLUh2S0h5OE1SNHJGNnhKVTdCM3U1Zjh0OWtOQ2ZXZkx6ajMxd0JtckJRNWd1WE8weXZPNHRXa0JHQlgxTkdZNG44eGREeFdvOVBFMVMzRUtXLTJsaU8waHVqc1l1NlZLMXNDdEFuV0ZuWnMteUlwQ254OHUxek42cF82aVNXWnJtUWR4WGZF?oc=5",
         "description": "",
         "pubDate": "2026-08-04T21:15:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Trump administration revokes visa of Brazil’s ambassador to US in spat with Lula - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbzhJanFZY3p0cWNVZlFLUXEwbEViRktZY1U3MXJfTXBRMWo2MmVtR1RvQ2I1MzMySEM4OE1oYkRLemJqM0FPaWxwMS12NjVBSzdOTTN0bUtGR2JFZklYQVVtQ1dXN0ttdDdpanFWUDVLanBJX0liVHBuR2xscTI0NndFVWgyQWFjTU9OT3FNRFFSQl9nOGMtWWFJaG1Pc3M?oc=5",
-        "description": "",
-        "pubDate": "2026-08-04T20:27:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -698,51 +490,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Divided federal appeals court says Trump administration was wrong to terminate climate funds - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMm5rN2k1VkFhLUdQaWhKSklHdElzMU9XZmhlT1M5eVBkVG1HSXB6WUc4V3hHOEQwTWFKTjlPSVA2YTRrcFEzWlFSc1BRVTJRdUVEMEozbXJTYkM1MVRYbUNYSU8zWkI2bnhPbTNQZUJXN2ZtSFduYzBMWmg2UVNuV1ZRVDA3bF9CUWp5YkNlQnIwMm8tVHc?oc=5",
-        "description": "",
-        "pubDate": "2026-08-04T20:13:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Utility's idle transmission tower caused 2025 Eaton fire that killed 19, Los Angeles officials say - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN3h4Vl9WOUkyc1dzMFZ0OVVvRFJrU2NHTmVUQ1JfMTVTa2U0NWVjYVZLUlJSOXNsOVRuNlJxY0Fya2VaWFZNeWpoQVNva1NiZXB0ZHR4ZFRHVi04TFFsdl9VVmU4VW9DLTNZLWJoUnZqMkRUcWszdk1BMmZMNEcwSnN1SGlCSTlHd1MyaVZDOUlXUE5ickg5RkE0NTlJclRIWHMyUg?oc=5",
-        "description": "",
-        "pubDate": "2026-08-04T20:11:07Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Virginia Democrats pick nominees in 2 US House seats they hope to flip in midterms - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX3lyMDZNUlh3T1UtT0ItQlZib1huVTNGLVRWUE5GVkFLdTF5cVZnUDE1a0diOGlhNXBHenEyUTYwTkwzcmJGXzR1aWQwVDRKQlF5N1ktR3lVS2tpV3ZTZUpDejlLUUxTQlEzMEh6YnBOZlhDNDJNT3BGbVZrNHZkVmNHTlQ4X0NLNF9ySk1XaUJLckJNQVRLUFZoTm94MF80UVRNNnNhQmdmeFRPM2dEQzQ1VTlzMjRNNnhJY1F3QjktcmlsQmVXQWhn?oc=5",
-        "description": "",
-        "pubDate": "2026-08-04T20:07:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Salvadoran man complained of access to medication before death at NJ immigration jail, family says - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOHpPUDY0Sy1FNUF6RDg1cG5tOG01UzdULTRoaHpjZC1XZzN2RUxBV1dxOWtqeFlJLWZtMEUyNkNYTlc2eXZrWWtvaGt2bm1pUHRxdG91dHR6SloyVzBtcWlJQWJYMVRLQ3lFWUhkMEtZTnJab2FwN1ZtdGhXZ2hhZmUwaWRGTlZhbDZMMnJWTUFVT1BYZHFoRHJxTzN6R3pLYzZKeFJ3?oc=5",
-        "description": "",
-        "pubDate": "2026-08-04T20:05:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "House Ethics Committee opens investigation into domestic abuse allegations against Rep. Max Miller - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXp2OTVsQUNja0thVFFhbXRnMEJnZUVJYlNHaDc4bE1xallJYnRMX1NrNHpVcmVVYnBCb2twNk1oUGV5RGZ5UTZoV2hlVFNYYXJxcFBMSndhSmRQTzBzRDZBay1zS1NaWnNxZFI1OTZrS1l6NFBHUzZnbUhmbjVwNExWbC1zRlBTSXVOTnd3RXJUbkw2ZkNrWnM5M3lpUFJL?oc=5",
-        "description": "",
-        "pubDate": "2026-08-04T19:53:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Millions join Arbaeen pilgrimage in Iraq amid fears of US-Iran escalation - AP News",
@@ -781,15 +528,6 @@
         "bias": 0
       },
       {
-        "title": "Spanish Prime Minister Sanchez fends off blistering criticism within the EU over Ceuta crisis - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSEx1aXZ5LU0zTzFzTUhzR1pmRElsWlVyN2EwV0R1MG1kSW5kTWY1N0RTaTRpcEJlUi1zTm4zTnJWYV80RHMxTm1EUXlNQTZKaV9jazFLUE15WENEQm1NVGJOWkIyNnc0SHBteUVTYWZIZlpDM3V4WThmYmVyUUlCckxBajJNX3VWeW1NQlhUUDBRXzRkWFlsMQ?oc=5",
-        "description": "",
-        "pubDate": "2026-08-04T18:38:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Ebola kills 1,700 in eastern Congo as the fastest-growing outbreak surges - AP News",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS2NlUWpWemNHaS1rTkN1MWh0Z2tIR01xbVFZeEk0ZUhhWVg3NTIyWktxY1FzSWR4QWFMR2JvdWJLX2wxUnVOblMwSEtPeUpOcF9xZWp6S0I2aTczOGJTcEpmWjVLVlRZWVVNTkZydi1HSU1tZDZFQndMNEF4S1VVNl9mOA?oc=5",
         "description": "",
@@ -799,19 +537,10 @@
         "bias": 0
       },
       {
-        "title": "Buckingham Palace: Princess Eugenie welcomes a baby girl in Portugal - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWlZad2tST2JaTzBiUjVCd3hWWVE3NldERGFtUk05X1BOVnpVNDFRSXoteGwyVmkyczBOVGEtR0xjQmt0RGg0dDZNaGpaTy1mYWFMUUhsQTJxTnJtMmNKNmRVeGN2c2VXOVJKNTVGQTFpaHVUWllEbkpNZUNNa244SGlqaHFBanRLbTdLdFZ0RHJyS1JPRG5ycDBpWGRDWF91UVNJS09ScmR3S3BDS3FSOA?oc=5",
+        "title": "Funeral honors Ukrainian student killed as she helped the victims of a Russian strike - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOTZhelVtX1Q1U0pUVGhFX2Q5TFJJMWtUQWpQMEZRR1NjdlNCLUtnU05RUENRdnRHR1lwNjlmak42enpCWTBZUzhmaVM3VGxFbWNnOWFaRXRLLWV2LWJvNEYzUUpiZ3htVWxVR2V1bThDVUNFVmNnc0haQWNqQUVNck5zZmZzUXQwNGJvWEhkc1NsZw?oc=5",
         "description": "",
-        "pubDate": "2026-08-04T18:04:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Trump administration will close 5 smaller US consulates in Africa, Asia and the Western Hemisphere - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc2E4ZXpVUmpPaUhsOGFLVml5M2tQRmJXN2NXckpVTjlYeUhmTC1odnYtOGQybjRvNjBKOTZnM2k2dVVYYzdZZFlrSXZ4RVlqUVh2OUpkSUtKNzBVYVBkYVNKbVdyRmVKaEdzUm9RVFBVU280bUJLRTByWW5ZWkxpUHZaTk91QkdIS1hFSmhIcDVZdENzVzJtT2hYamN2amhQeWdKeFlFc3I4cVF2LWZ6dnRR?oc=5",
-        "description": "",
-        "pubDate": "2026-08-04T17:48:00Z",
+        "pubDate": "2026-08-04T17:47:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -862,6 +591,24 @@
         "bias": 0
       },
       {
+        "title": "US job openings slip to 7.4 million, but labor market remains resilient in face of fighting in Iran - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMGNsN0o2Um5qMnRTaTdUZkxNOGpxY3hSaXVmY3FHZnBnbDdwVnR1VXlYUHFVVU5wSngtUS1MTFpkQjhpNGNOSUV1X29PM0JMajg4Mml3VTBvUVpKdkxtUF90QzFoTDhUekMtSkNqTkJnVmFTcXBJcWRXdWlMZV8zX3RBY0pZNExwbmNkSmNmZm5EV3ItVXhTNzVXTkw?oc=5",
+        "description": "",
+        "pubDate": "2026-08-04T14:33:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Former progressive Squad member Cori Bush attempts political comeback against Missouri US Rep. Bell - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMi1OWHNpNHVPZTdCOWduU0RkQWxhNmpkY1l4SFRaOXNNZ3dGbU5TTU1WNFlTOGd2Rjk2M2FVd2I0YWtoZjJDVzdtZlBtVExCclJ0Z19vZXVtSmRacXRWTmNoZTE4MWhwWW5jbzc2TWZHRjlZUWFRNDd0YUo5S3JwV1V3MWRibnU4aGhsSXhtZjBwcVJa?oc=5",
+        "description": "",
+        "pubDate": "2026-08-04T13:14:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "South Korean students detained for allegedly breaking into US military base - AP News",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaWtlSGRfc1VnME8wbFVwNHo4bklNdU5KOUNDYVJLT1d0UEQta2RuQ2VQRWpmOEVGV0dGRlZUR1ZNN2M4bXpNekx3T2luUkl3akQ4SjdvWjQtM05ZLTZCeE9vaTA2YTI0MDdvT09SZHZHS0VRUUhNYU1nNW4wcnhrMVdFNGJRTEdmU0JQdnZuZDhEbEJ4SVc3T1VjT09XZ0RjVUVF?oc=5",
         "description": "",
@@ -887,15 +634,6 @@
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99d3/live/fec4a720-8ffb-11f1-b2a2-11d8521bf2f1.jpg",
         "bias": -1
-      },
-      {
-        "title": "AI-driven Ring Cycle sparks boos at 150th anniversary Wagner Festival - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTXVMYU9JZ19uNGFHT3FNcEdzVkIxNF9BcGpQWFo3OEw0N19lbDVWeU5feEczVENuWVdIQUtiM1ZSa0hDT2RnWFVyVTJwX3BDaFBFbmEyUnIwTVJ6ZmpnUl9VR3lRTmtVT3RpaHIzVTBBRmVfSXRFYTh4X0tVNXgxS1BzLWVEbnJiSGpOZDlrX1BXOE53Wkp5cnIzMA?oc=5",
-        "description": "",
-        "pubDate": "2026-08-04T12:01:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Michigan U.S. House Primary Election Live Results 2026 - AP News",
@@ -988,10 +726,10 @@
         "bias": 0
       },
       {
-        "title": "Ariana Grande withdraws from London musical and will take a break from the public eye - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNHBGS0ZoVmlWV3l5ZEkzZFV5cHIwWmxtZlVNMHBlUWxJaG9UaTlTSHhXeEpCTlljdG1GSGd6bjE1aFA2X1EtUTREd3dxX2czajhyOTdnZ3RsMWtvTkY2SURJZFRYZE9QZHJkQlVPUGxkSjNseXdFV1lZWG5wQkQzeklhVEx3dnJ1X0phSktyRC1MYzdEN1FzRmdETzVNZ2FCbWJPOFYtSQ?oc=5",
+        "title": "Authorities arrest arson suspect in connection with one of the devastating Spokane wildfires - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSHppbDIxTzQ0MWQ0SU0wa2lxeUo3VGtHN0cxTTh5NUlzNDZYRUhvWmFKNGdxWlJydmZLZDR5Z1M2S24yaDlBeFg3c21Lb2UzWjc4YmtXR0JGdzZBS3pnY0RvVExPUmlRY014NWJObTFOaTROYUlRTzF2Y0VvOXdWa2phNWJHYnJlcWVnZ0o2TW1WOFdNeVdRUy15d2w?oc=5",
         "description": "",
-        "pubDate": "2026-08-04T03:26:00Z",
+        "pubDate": "2026-08-04T04:26:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1006,6 +744,24 @@
         "bias": 0
       },
       {
+        "title": "Judge rules New York can’t ban federal agents from wearing face coverings - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVUtYRkhVR1hFd21tNFRzVFNyZUcwWmpJNEpwb3EwTW93TnllX2l2d21mREhnTW9GMXgzcEQ2ZGQyTktKNU5jbXlEaGUzTWdSYmxpeXVNUVprZXhoaURpUVF2OWpjT1hWa0oteTVoZUFnVnlnVW11b0QwVEhaQmtSNDN5M1ZqVTBfNEZLM1FONk9sb1JtX1E4eVVB?oc=5",
+        "description": "",
+        "pubDate": "2026-08-04T03:06:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Trump optimistic Iran talks will reopen strait, and other developments in the Middle East - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXk4T2kzT3g2bk5zc040bF9IVk1UTlB2WXNoa2tPTldBbjdRY0F6dFo5dk1YY1N1YUFFaFpONHdWeG9YaENDaG9KcExEUHJCdUYwdEV1c3lGMURoenctSVlaUW93ODYwUi1SSGdRd3lWNkpGazlMYndZT0p3TzhWZ3lEWVBSZDdFblJVbnpIZnhLWTNvc2h0MU81SHJRNDBrb3c?oc=5",
+        "description": "",
+        "pubDate": "2026-08-04T02:57:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "A Honduran judge grants former President Juan Orlando Hernández release as corruption trial proceeds - AP News",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWkFrTlNzR0ZDX2pSWWp6OEk4anc2d3RsQ3BkcnF6WXFlRUJuOHpOSnFIRmg4UU1sV0RCLVZWdDdqQzhrM2s2WmQyQ0prbWFFcFNHcGFmbnBRRHp6NGM4RVFBZ3Ixd25aZ3NGR25NazVCVEVyTWJ6dUdScU5nMWpOaVJOZXlIbXFYU216bUZfaVpOOWJzMUxqeFVydjRQdHItTjZ6YURESy1sUXlGZXIwSllLT3NFRVhGM3MtZg?oc=5",
         "description": "",
@@ -1013,9 +769,45 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "Kansas Primary Results 2026: Senate, House and Governor - AP News",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlNU9UXzg1R3MyWXI0UFVURE0wTUhzVElYT3Zfc0ZPSktIc3N6OHJnX3gxaG9iV3FRWFdqM0t4QlNic01zSTBPSEdrQTc1UWRhd2NESTlScjJYRVZDNmhCYk1yRXpQVEdwLUQ0dXNubEdHam5W?oc=5",
+        "description": "",
+        "pubDate": "2026-08-04T02:28:15Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Former ’60 Minutes’ correspondents Pelley, Alfonsi go from newsroom to classroom - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVlRyOEVwNGFvcGxGOW10TFBlSnJBeGU0aTFwc0NySDU1Mk5oSTdDTWZNZ05Jb2RLd2ZxQnQzU0VybHc2UFg3V3R4RHVDNHVmanJid2tSdUctRVBlcF92SVFnUVMwR0xjV3pBLUg3WUdrN0xJc3YzWlhvN21EZnBQcHJtbFh4cjYwQzVzTllvb3JQelk?oc=5",
+        "description": "",
+        "pubDate": "2026-08-04T00:04:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Tech": [
+      {
+        "title": "Could tech replace firefighters in the battle against wildfires?",
+        "link": "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss",
+        "description": "Tech is being used to watch for wildfires but firefighters are still needed to put them out.",
+        "pubDate": "2026-08-04T23:21:47Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f7b/live/9039ecc0-8f10-11f1-a7ab-8b30adf0800a.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Saudi-led group completes $55bn purchase of gaming giant EA",
+        "link": "https://www.bbc.co.uk/news/articles/cjejyl34345o?at_medium=RSS&at_campaign=rss",
+        "description": "The deal takes the maker of titles including The Sims and EA FC into private ownership - and loads it with debt.",
+        "pubDate": "2026-08-04T23:09:44Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1afa/live/1dcd5c10-8f1c-11f1-9a6b-afa7ab10ffdf.jpg",
+        "bias": -1
+      },
       {
         "title": "SpaceX's revenue rises as its once-soaring stock price drifts back to Earth",
         "link": "https://www.npr.org/2026/08/04/nx-s1-5918536/spacex-first-earnings-report-since-ipo",
@@ -1028,7 +820,7 @@
       {
         "title": "SpaceX's first-ever earnings show higher revenues and huge spending",
         "link": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
-        "description": "Elon Musk's company has struggled to maintain investor enthusiasm that greeted its stock market debut.",
+        "description": "Elon Musk said during a call with financial analysts that people were \"underestimating\" his company.",
         "pubDate": "2026-08-04T21:57:19Z",
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a14/live/a0d16bc0-903d-11f1-a691-e5bd21941ac1.jpg",
@@ -1044,10 +836,10 @@
         "bias": 0
       },
       {
-        "title": "SpaceX posts loss in first report as a public company but less than expected - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWExWNGc3WlZRU0Frc0ZwX1Zyb01Hd3NPOFowX1M3UEtGWmpmSzNSX3VHMEpIVy1PNkVXZWRZUU9oQ3V3Qk03MFdSZ2JQV05mZVd1OW9hOHdkcVlCeEZiVFBBSmhYa1I4MUJETllZdS1aV3hFMXQxekdEV0VjcUpaYzYwM2tvRkgwdXMzdlFzV05BY01iNWZmQg?oc=5",
+        "title": "Judge allows clergy abuse claimants to sue for parish assets in Vermont Catholic bankruptcy case - AP News",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbGtsWldnQ2wyUFQ3dTJSSnlkdExFQi15aG15S2h1WHRJZVNrTkZ1V29RRHFiVi1Qa0tOaXpZZVB5cU84a0N2a1RmUEY0bDg1XzM0ZHR3Zk55SkRMYU1sNkJHSnJsVk1PYVpCeEZPdUNTbnA5TTIxNGNlSk5qQ2VZZ0N4a3J5a2ktMHlZaXBwNENEcGJBeVJqTXFPMkdsQTAxcEdyN1dGbWR4c3pDWWxFcmwxVzQ?oc=5",
         "description": "",
-        "pubDate": "2026-08-04T20:34:00Z",
+        "pubDate": "2026-08-04T19:35:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1060,15 +852,6 @@
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p2ns9q.jpg",
         "bias": -1
-      },
-      {
-        "title": "Trump’s arch could harm the integrity of many of Washington’s historical sites, report says - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZm9yZ2pPZ3J4cEZtYXNWdDlJSzYxdjk4V0hNdTFOajhTOFUwQWFtTHhiekk0d0h5UjNOaWZhWE8yNFI5R2pfTU5WNnhlYWNRX2FwYjM4cVBMcDlKVE45NkR2LTdsOUJDYXVFMkdBYUFMRHpXOHdWNHlwQklRMVVjWUtRNDFuU2tmNjRhWDVTX0I4RnBXbW00dW9UTVNOdw?oc=5",
-        "description": "",
-        "pubDate": "2026-08-04T18:23:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Japan says combat drones key to adapting to new warfare as regional tensions rise - AP News",
@@ -1096,9 +879,45 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
+      },
+      {
+        "title": "What to watch in the Aug. 4 primaries: Michigan Senate race tests Democrats’ path forward - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSVhzbjFSb011WlRldWhpNWU5UkJvTEM2UUpwRG11UTQ5VUZzd3VVRWFxd1dUUFBiUTc1X09zWUI3NEhLZlcxbVp5Y3ZfWHNJQUtPS0VHSWRVUFdHRTVUUDdaNkgtaFpGZGNhaTdrNVNQMlRlRVphTVc1Q283bHVzQU5iRGlLQ0dVTFJ1MWdEQlQ3RDdzWExfbnFCanlNblpHU2I1cy10R1ZNeTkyWkM5bVpOSDRLQmJZNWc?oc=5",
+        "description": "",
+        "pubDate": "2026-08-04T04:20:55Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "US dollar weakens sharply against the Japanese yen after market interventions - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkpfVU0zTnBZSEZnbmNLUUxSMzVoSzVTMk1xZVRyS1FaU1hHbXBlVlpIWHJsQ1owSndGU3hKS3Znc3RVUjFiS3VnUl9vWU54Y05JT1dWb19GeG50NkttOVZld1hNUndETHJOdzhBSnhsY3FtQml3dXRRWmZxbTVSOE0teE1wMldFVmtuS3F3RXdDM1JMU29DcA?oc=5",
+        "description": "",
+        "pubDate": "2026-08-04T03:06:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Science": [
+      {
+        "title": "Salvadoran man complained of access to medication before death at NJ immigration jail, family says - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOHpPUDY0Sy1FNUF6RDg1cG5tOG01UzdULTRoaHpjZC1XZzN2RUxBV1dxOWtqeFlJLWZtMEUyNkNYTlc2eXZrWWtvaGt2bm1pUHRxdG91dHR6SloyVzBtcWlJQWJYMVRLQ3lFWUhkMEtZTnJab2FwN1ZtdGhXZ2hhZmUwaWRGTlZhbDZMMnJWTUFVT1BYZHFoRHJxTzN6R3pLYzZKeFJ3?oc=5",
+        "description": "",
+        "pubDate": "2026-08-04T22:18:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "US stocks hit records as profits keep piling up for Palantir and others, while oil prices ease - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTV9wOHRxaHZsa1ZVU3B5ZUYzRnhVT1ptZVFCcFBzOFM1SkZzQ1o3ZGlIM2FHZWphMllYbHRrS0lNWUU5ZzhUOUFfcWEtZlZjSXRNZFIwbXZ2VmI0Q1hIZVhVYXFEMlFIeTdwUXF3bVNKWXNDUFZqNFg3VlNJMmhtc2JwS0d4aGgxYlFPcllrUVg5SlFOU2o2UzdlRE5ka09lOGc?oc=5",
+        "description": "",
+        "pubDate": "2026-08-04T21:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "How do newborns react to the smell of their fathers?",
         "link": "https://www.npr.org/2026/08/04/nx-s1-5910665/how-do-newborns-react-to-the-smell-of-their-fathers",
@@ -1131,24 +950,6 @@
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUW9xNGExM09EbEdnQ1lNMkZCOEM0TE1FeGxMbGJGZkExOW5YdkpGQlVUOWFuRTVhSF93cm5tcjd6QnZmVVNrMmdHY2dYUXpkRDhRNGhzU252THJCejdCZXcteThHRGptY05VOWtWYVJCRUFBZ3lvWnRXZ0J1cGRMSldmSnJwVzQxN045Y00yZnFhUlJkSzBoVWJqa0Z5ZFprY3daTg?oc=5",
         "description": "",
         "pubDate": "2026-08-04T16:59:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Bono, Eddie Vedder among mourners at the funeral of Oscar-winning songwriter Glen Hansard - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRm5JeUZKUzhPTlZOVGN1QmFRY1RWOFlSVDV5akZfYVQzN2RUZlBDV1hWTlZuckx4Q0xTQmEwSWxMOU9PLWtSSVBZZ01WSndMcmZhS1NzVGxDMkVITmVvcEh0NUtkbmN2LURJN3BIb1JkWjh1YzMwTlNKVlU0Y004NEtncVJ6em1xZHZLMmpsWEVhUlprLTdUOGoyTDVkRGV4Y21uMmVtSGE?oc=5",
-        "description": "",
-        "pubDate": "2026-08-04T16:52:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "What to watch in the Aug. 4 primaries: Michigan Senate race tests Democrats’ path forward - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSVhzbjFSb011WlRldWhpNWU5UkJvTEM2UUpwRG11UTQ5VUZzd3VVRWFxd1dUUFBiUTc1X09zWUI3NEhLZlcxbVp5Y3ZfWHNJQUtPS0VHSWRVUFdHRTVUUDdaNkgtaFpGZGNhaTdrNVNQMlRlRVphTVc1Q283bHVzQU5iRGlLQ0dVTFJ1MWdEQlQ3RDdzWExfbnFCanlNblpHU2I1cy10R1ZNeTkyWkM5bVpOSDRLQmJZNWc?oc=5",
-        "description": "",
-        "pubDate": "2026-08-04T14:18:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -1199,6 +1000,15 @@
         "bias": -1
       },
       {
+        "title": "Man charged with setting Spokane's largest wildfire was questioned about 2 other blazes last year - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObjlrYTFEWU1Td0psdzA1WmlzRUpyelV2aEtibTIyY3FidC14QkxNckU3ZmI1VUFmMVFpOExQOFMyQjBXZTlEdUhLTWFqQnd0UUh5ZE16eEZKOThCSFdzQ2RDMTVkbFRKeUN4elR3bHJJQUl6S1l2Um5uSEpRclhIMkZabHRmbjJwTTJLS25QRVNiQjVpSDJPcm9PM3VPeEZZN0J0MUUxTlY?oc=5",
+        "description": "",
+        "pubDate": "2026-08-04T05:45:37Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Curlew revival continues at nature reserve",
         "link": "https://www.bbc.co.uk/news/articles/cly54v48n0zo?at_medium=RSS&at_campaign=rss",
         "description": "Birds from previous releases pair up and return to nest at the site on the Isle of Sheppey.",
@@ -1209,6 +1019,33 @@
       }
     ],
     "Business": [
+      {
+        "title": "The cost of being single – and how friends are teaming up to beat it",
+        "link": "https://www.bbc.co.uk/news/articles/cly7dqprlnvo?at_medium=RSS&at_campaign=rss",
+        "description": "Many singles face extra costs for housing, bills, food and holidays but there are ways to ease the burden.",
+        "pubDate": "2026-08-04T23:21:08Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfc3/live/a1894040-7ad7-11f1-81e2-67653cf46e84.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Fashion brand Jaded has ad banned for 'glamourising smoking'",
+        "link": "https://www.bbc.co.uk/news/articles/cly843vd3jmo?at_medium=RSS&at_campaign=rss",
+        "description": "The advertising watchdog said Jaded London's marketing email made smoking seem appealing.",
+        "pubDate": "2026-08-04T23:20:12Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/542f/live/f6658220-905a-11f1-a14e-21a96dfbd328.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Kansas Governor Primary Election Live Results 2026 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcGNyYlJaeDRfTnpqNUUzNGwwYzl0MHhtRFZ6cGNCM25GQXAtdFFUeV9HMGpsVF9DaThfZHVvVUZ2VzNpRkFWdGRMTzBDV2dnTHcxeTV3dmJMcUVBTVlPbzFsTkxkbS1LX3dCVTJTWHdGcE5FS1ZRMktybnliN2o2Sw?oc=5",
+        "description": "",
+        "pubDate": "2026-08-04T20:23:50Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Green means go for uniform ahead of new school year",
         "link": "https://www.bbc.co.uk/news/articles/cx2dn0p5zlyo?at_medium=RSS&at_campaign=rss",
@@ -1271,15 +1108,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Michigan Governor Primary Election Live Results 2026 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRDlrZ2FqYi1EWFVGNFJ3SWVnWU1nUENfbmxERWF3NGVvaUp4VmRCMW5uUTJOeDU3TUVQeVg0QkRIRThvOXNRVHhQZExTblYwRm9SVmhzT0dVQnJXMkhpMGN2MGxCVGZjcUdvT2plMmpma0pWYlh2OHVXSEp0cnd5T2JKOA?oc=5",
-        "description": "",
-        "pubDate": "2026-08-04T08:43:44Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Apple will invest tariff refund into U.S. manufacturing",
@@ -1435,24 +1263,6 @@
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0446/live/d6152490-8fd2-11f1-a999-eb18d79411a9.jpg",
         "bias": -1
-      },
-      {
-        "title": "Padres acquire Robbie Ray from Giants, Casey Mize from Tigers for another playoff push - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU2otQUlidHJaRUdjU2RfZTM0QmdCWHdPX25YZ2xvRFRFeThFd0tDUHpFOFNpMXpLZ2VuOVlkWGNCVkt1OVROWWZHQW5qTFJPNDNldXFIMzNhaWxFM0gtT3M3Rk5PWHZKNlNTckI2MTZtajJ2bk9kamZMbWhkeEdkbnhWWWZ6bjVrRkZuQ3JUdURReExa?oc=5",
-        "description": "",
-        "pubDate": "2026-08-04T00:33:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Red Sox get All-Star catcher Adley Rutschman from AL East rival Orioles - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY0NKTE9qN1N6WUcxZHJ6SmZrTGlOdG1jUXc0MmJJa2RSdkpkT2F3V0Z0enFIcDBQTlVtdVlCa2haeEQ1X3haWk1xZG9mQ21GN3F2d0dXcDZCdEhadkF1MGdGTlA4VWoyMEZNRDRYNVBwclowUm1IN0htbnBudGYzV0pGS0tWc1poeW5hVDJsY3ZxaUpOZk93NkszWlRRQQ?oc=5",
-        "description": "",
-        "pubDate": "2026-08-04T00:26:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ]
   }
