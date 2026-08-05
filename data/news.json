@@ -1,8 +1,414 @@
 {
-  "lastUpdate": "2026-08-05T07:16:12.109627Z",
+  "lastUpdate": "2026-08-05T09:59:48.442974Z",
   "news": {
-    "Gaming": [],
+    "Gaming": [
+      {
+        "title": "SITN | Secret Night [Free] [Windows]",
+        "link": "https://elias-games-productions.itch.io/sitn-secret-night",
+        "description": "Horror",
+        "pubDate": "2026-08-05T09:52:40Z",
+        "source": "elias-games-productions.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MDcwNzc5LnBuZw==/315x250%23c/fq04LA.png",
+        "bias": 0
+      },
+      {
+        "title": "mums bday [Free]",
+        "link": "https://tobeymakesgames.itch.io/mums-bday",
+        "description": "",
+        "pubDate": "2026-08-05T09:46:27Z",
+        "source": "tobeymakesgames.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MDcwNjY4LnBuZw==/315x250%23c/li9SfP.png",
+        "bias": 0
+      },
+      {
+        "title": "Cervical [Free] [Educational]",
+        "link": "https://iris-sun.itch.io/cervical",
+        "description": "Cervical is a pixel-art bureaucratic simulation played with a custom cervical-spine controller.",
+        "pubDate": "2026-08-05T09:27:25Z",
+        "source": "iris-sun.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MDcwNjAxLnBuZw==/315x250%23c/nXMWGc.png",
+        "bias": 0
+      },
+      {
+        "title": "GhostDriller [Free]",
+        "link": "https://tricky-nikki.itch.io/ghostdriller",
+        "description": "drill down levels to get diamonds",
+        "pubDate": "2026-08-05T09:12:56Z",
+        "source": "tricky-nikki.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MDcwMzA1LmpwZw==/315x250%23c/1sy4PX.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Увернись от шестерёнок [Free] [Action]",
+        "link": "https://solologic.itch.io/uvernis-ot-shesterenok",
+        "description": "Динамичный раннер. Уворачивайся от шестерёнок!",
+        "pubDate": "2026-08-05T09:07:48Z",
+        "source": "solologic.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MDcwMTk5LnBuZw==/315x250%23c/vcYNFt.png",
+        "bias": 0
+      },
+      {
+        "title": "Fishing Buddies [Free] [Other] [Windows]",
+        "link": "https://marto2234.itch.io/fishing-buddies",
+        "description": "Un minijuego arcade donde tienes que darle caña a los botones para salvar niños",
+        "pubDate": "2026-08-05T09:05:08Z",
+        "source": "marto2234.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MDcwMDE1LnBuZw==/315x250%23c/t9iGHo.png",
+        "bias": 0
+      },
+      {
+        "title": "Twists of Fate: Multilingual Free version [Free] [Visual Novel] [Windows] [macOS] [Android]",
+        "link": "https://tremmigames.itch.io/twists-of-fate-multilingual-free-version",
+        "description": "Fate is a strange thing",
+        "pubDate": "2026-08-05T08:36:34Z",
+        "source": "tremmigames.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MDY5ODMzLmpwZw==/315x250%23c/s0OP8r.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Crónicas de un Mundo Perdido [Free] [Adventure]",
+        "link": "https://juanik-interactive.itch.io/crnicas-de-un-mundo-perdido",
+        "description": "Un mundo en decadencia...",
+        "pubDate": "2026-08-05T08:33:20Z",
+        "source": "juanik-interactive.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MDY5MzIwLmpwZw==/315x250%23c/Xmaduf.jpg",
+        "bias": 0
+      },
+      {
+        "title": "pong [Free] [Action]",
+        "link": "https://borris-games.itch.io/pong",
+        "description": "",
+        "pubDate": "2026-08-05T08:29:19Z",
+        "source": "borris-games.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MDY5OTQxLnBuZw==/315x250%23c/7QGOYH.png",
+        "bias": 0
+      },
+      {
+        "title": "Lustrous merge [Free]",
+        "link": "https://yanaifraimov.itch.io/lustrous",
+        "description": "",
+        "pubDate": "2026-08-05T08:25:50Z",
+        "source": "yanaifraimov.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MDY5Nzg1LnBuZw==/315x250%23c/gd1ufa.png",
+        "bias": 0
+      },
+      {
+        "title": "BRIMSHAFT [Free] [Shooter]",
+        "link": "https://edouardvallet.itch.io/brimshaft",
+        "description": "A textured first-person raycaster built in goboscript for TurboWarp.",
+        "pubDate": "2026-08-05T08:23:12Z",
+        "source": "edouardvallet.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MDY5Njg1LnBuZw==/315x250%23c/eMd8R7.png",
+        "bias": 0
+      },
+      {
+        "title": "Bite The Bullet [PRE-DEMO] [Free]",
+        "link": "https://cozar1.itch.io/bite-the-bullet",
+        "description": "",
+        "pubDate": "2026-08-05T08:22:35Z",
+        "source": "cozar1.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MDY5NjY3LnBuZw==/315x250%23c/x3BmIJ.png",
+        "bias": 0
+      },
+      {
+        "title": "Antboy [Free] [Other] [Windows]",
+        "link": "https://anteatersoftware.itch.io/antboy",
+        "description": "A Game Boy and Game Boy Color emulator for modern platforms.",
+        "pubDate": "2026-08-05T08:22:28Z",
+        "source": "anteatersoftware.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MDY5Nzg2LnBuZw==/315x250%23c/ztXnaT.png",
+        "bias": 0
+      },
+      {
+        "title": "Tongy Tap Time [Free] [Windows]",
+        "link": "https://one-pic.itch.io/tongy-tap-time-real",
+        "description": "Escapa de las garras del dentista en un espacio muy limitado!  Proyecto exclusivo para la Luis Canary Game Jam",
+        "pubDate": "2026-08-05T08:19:10Z",
+        "source": "one-pic.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MDY5Njc1LnBuZw==/315x250%23c/sz9rBd.png",
+        "bias": 0
+      },
+      {
+        "title": "Squirrel Goes Nuts [Free] [Platformer] [Windows] [macOS]",
+        "link": "https://lxnnxy.itch.io/squirrel-goes-nuts",
+        "description": "",
+        "pubDate": "2026-08-05T08:11:45Z",
+        "source": "lxnnxy.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MDY5NTEwLnBuZw==/315x250%23c/Du8q%2FX.png",
+        "bias": 0
+      },
+      {
+        "title": "Cane & Gain [Free] [Other]",
+        "link": "https://adan-casillas-castor.itch.io/cane",
+        "description": "Peel sugarcane, feed hungry bears, and keep all your fingers!",
+        "pubDate": "2026-08-05T08:06:53Z",
+        "source": "adan-casillas-castor.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MDY5NDk5LnBuZw==/315x250%23c/D8xCw4.png",
+        "bias": 0
+      },
+      {
+        "title": "GridCross — 십자 땅따먹기 [Free] [Strategy]",
+        "link": "https://boseongyeom.itch.io/gridcross",
+        "description": "A real-time multiplayer territory-control board game (Korean/English)",
+        "pubDate": "2026-08-05T08:04:01Z",
+        "source": "boseongyeom.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MDY5NjcyLnBuZw==/315x250%23c/SAN0AP.png",
+        "bias": 0
+      },
+      {
+        "title": "MagSnap [Free]",
+        "link": "https://magsnap.itch.io/magsnap",
+        "description": "Tactile Magnetic Clash - Physics Board Game",
+        "pubDate": "2026-08-05T07:55:37Z",
+        "source": "magsnap.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MDY5NDEyLnBuZw==/315x250%23c/tuijyu.png",
+        "bias": 0
+      },
+      {
+        "title": "Ludus Master [Free] [Role Playing] [Windows]",
+        "link": "https://velesk.itch.io/ludus-master",
+        "description": "Roguelike adult training simulator",
+        "pubDate": "2026-08-05T07:50:42Z",
+        "source": "velesk.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MDY5NTI2LmpwZw==/315x250%23c/97BCZ0.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Un Minuto [Free] [Visual Novel] [Windows]",
+        "link": "https://overlordstudio.itch.io/un-minuto",
+        "description": "Una novela visual donde solo tienes un minuto para hablar con una chica. Cada decisión puede cambiar el desenlace.",
+        "pubDate": "2026-08-05T07:40:16Z",
+        "source": "overlordstudio.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MDY5NDEwLnBuZw==/315x250%23c/HkVnjb.png",
+        "bias": 0
+      },
+      {
+        "title": "SIGNAL RECALL! [Free] [Action]",
+        "link": "https://ready64.itch.io/signal-recall",
+        "description": "SIGNAL RECALL! is a colorful Commodore 64 memory game.",
+        "pubDate": "2026-08-05T07:17:37Z",
+        "source": "ready64.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MDY5NjgzLnBuZw==/315x250%23c/Kxy%2BZl.png",
+        "bias": 0
+      },
+      {
+        "title": "Warlock Arena [Free] [Action]",
+        "link": "https://teizanjuega.itch.io/warlock-arena",
+        "description": "Playable HTML5 prototype. Test the mechanics and leave your feedback!",
+        "pubDate": "2026-08-05T03:05:00Z",
+        "source": "teizanjuega.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MDY2NDA5LnBuZw==/315x250%23c/eYMDGi.png",
+        "bias": 0
+      },
+      {
+        "title": "Magus Remastered | S1 [Free] [Visual Novel] [Windows]",
+        "link": "https://zenostorm.itch.io/magus-remastered-s1",
+        "description": "Shadow Wizard Money Gang (2023)",
+        "pubDate": "2026-08-05T01:58:13Z",
+        "source": "zenostorm.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MDY3NjcxLnBuZw==/315x250%23c/qYP%2BbS.png",
+        "bias": 0
+      }
+    ],
     "World": [
+      {
+        "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
+        "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+        "description": "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region.",
+        "pubDate": "2026-08-05T09:54:20Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cab/live/189914e0-90b2-11f1-b2ab-0dd01740f9f6.jpg",
+        "bias": -1
+      },
+      {
+        "title": "South Africa’s le Clos says home destroyed during Commonwealth record run",
+        "link": "https://www.aljazeera.com/sports/2026/8/5/south-africas-le-clos-says-home-destroyed-during-commonwealth-record-run?traffic_source=rss",
+        "description": "Olympic swimming champion Chad le Clos says his home was destroyed in a fire while he was at the Commonwealth Games.",
+        "pubDate": "2026-08-05T09:53:33Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Afghan boxer appears in court in connection with death of Scottish woman",
+        "link": "https://www.bbc.co.uk/news/articles/cq56qejll6vo?at_medium=RSS&at_campaign=rss",
+        "description": "Sharif Ahmadzai, 26, is being held in connection with the death of Elisabeth Jane Ross from Edinburgh.",
+        "pubDate": "2026-08-05T09:22:52Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4808/live/e6b89d00-90a8-11f1-b35a-3be58eca94a8.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Russian attacks kill 17, exploiting Ukraine’s lack of missile interceptors",
+        "link": "https://www.aljazeera.com/news/2026/8/5/russian-attacks-kill-17-exploiting-ukraines-lack-of-missile-interceptors?traffic_source=rss",
+        "description": "Ukrainian President Volodymyr Zelenskyy says Russian forces used 29 missiles and 115 drones during the assault.",
+        "pubDate": "2026-08-05T09:16:39Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Toppled Bangladesh leader Sheikh Hasina to speak today: What we can expect",
+        "link": "https://www.aljazeera.com/news/2026/8/5/toppled-bangladesh-leader-sheikh-hasina-to-speak-today-what-we-can-expect?traffic_source=rss",
+        "description": "Former Bangladeshi prime minister is likely to announce her return from exile in India despite facing the death penalty.",
+        "pubDate": "2026-08-05T09:16:06Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Michigan, Missouri, Washington primary elections: Key takeaways",
+        "link": "https://www.aljazeera.com/news/2026/8/5/michigan-missouri-washington-primary-elections-key-takeaways?traffic_source=rss",
+        "description": "Recent US primaries have revealed Democratic Party rift between progressives and centrists over US support for Israel.",
+        "pubDate": "2026-08-05T09:14:41Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Trump hails progress but warned Iran of ‘hard hit’ if no deal reached",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-clip-trump-iran-talks-sot?traffic_source=rss",
+        "description": "US President Donald Trump says progress with Iran has been made, but warned Iran of 'hard hit' if no deal reached.",
+        "pubDate": "2026-08-05T09:05:46Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Cape Verde’s World Cup hero, social media sensation Vozinha joins Colo-Colo",
+        "link": "https://www.aljazeera.com/sports/2026/8/5/cape-verdes-world-cup-hero-social-media-sensation-vozinha-joins-colo-colo?traffic_source=rss",
+        "description": "Vozinha says he always believed he was a 'big club' player after his move to Colo-Colo in Chile.",
+        "pubDate": "2026-08-05T09:03:42Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Russian missile and drone barrage in Ukrainian capital region kills 17 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR0p3ci13M2E4ZHdienF4dUc4Ni1rZDlJZUhrTVJMNlA1NmNaOTNqMUpXaG16cGlCekJCdlBReFgtQmR4ZlJMdThKSTZIcGZwR0pXS0QzcmV5eGE5MG0tRmFWNEt2cnpzaW82YU81akZRR3pXZHF6amg2c1RzUEZKWGNDRWNKdS1lOGRYNW9wdkpZVTltVW1IZkhtSkpqU21sY2pKMVNkMU9XY0ZVbVE?oc=5",
+        "description": "",
+        "pubDate": "2026-08-05T08:46:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Unrest mounts in Kashmir as Pakistani security crackdown stokes reform movement",
+        "link": "https://www.npr.org/2026/08/05/nx-s1-5919736/unrest-mounts-in-kashmir-as-pakistani-security-crackdown-stokes-reform-movement",
+        "description": "Pakistani forces blockade Kashmir as protesters demand electoral reforms and -- increasingly -- revolution.",
+        "pubDate": "2026-08-05T08:44:31Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Inside the Air India Phuket-Delhi flight that dropped 300 feet mid-air",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/inside-the-air-india-phuket-delhi-flight-that-dropped-300-feet-mid-air?traffic_source=rss",
+        "description": "Seventeen people were injured when an Air India flight from Phuket to Delhi encountered severe turbulence.",
+        "pubDate": "2026-08-05T08:41:36Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Japan tests US-Tomahawk missile as it moves away from Post-WWII status",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/japan-tests-us-tomahawk-missile-as-it-moves-away-from-post-wwii-status?traffic_source=rss",
+        "description": "Japan tested a US-Tomahawk cruise missile, launching from their Chokai warship in the Pacific Ocean on July 29.",
+        "pubDate": "2026-08-05T08:37:04Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Fuego volcano in Guatemala spews more ash and mud, 1,700 evacuated",
+        "link": "https://www.aljazeera.com/news/2026/8/5/fuego-volcano-in-guatemala-spews-more-ash-and-mud-1700-evacuated?traffic_source=rss",
+        "description": "Officials warn the next three days are critical, as forecast rain threatens to trigger more mudflows from the volcano.",
+        "pubDate": "2026-08-05T08:35:22Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "FIFA’s Infantino set for crunch meeting after World Cup selloff crisis",
+        "link": "https://www.aljazeera.com/sports/2026/8/5/fifas-infantino-set-for-crunch-meeting-after-world-cup-selloff-crisis?traffic_source=rss",
+        "description": "Gianni Infantino under increasing pressure before Wednesday's FIFA talks after president's failed World Cup selloff.",
+        "pubDate": "2026-08-05T08:35:13Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Perez Hilton recovering in hospital after reports he self-harmed during livestream",
+        "link": "https://www.bbc.co.uk/news/articles/cly5kvdkyjro?at_medium=RSS&at_campaign=rss",
+        "description": "Miami police told US media outlets the celebrity blogger had been \"safely recovered\" from his home.",
+        "pubDate": "2026-08-05T08:29:30Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa9a/live/839f4170-90a2-11f1-b8ee-9b3c26ad07bb.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Australian airline Jetstar will charge passengers to use the overhead lockers for their bags - AP News",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNc25XRF94ZjRZY1Z0TFQ3ZTBUZ1d2VFRmbVhhQU40b1draFJ3dzUxQXg3UGozREpGRUJNemRoeWhwdmhXNUZybnZfcEtwdy1kYWpvMHMxck5GR284RDJQRG1lOUEzYWIySkFSbmVwUVdkcDJuUXhiVHl3TlhjUlRaSUY0VzZvWEpFUTNnV2NCNWctbmRqaWxmUkR0SG9VZXJvWE1SUjRHaTBoWU9TV1k5TF8yZnNwSHJXTGlMYg?oc=5",
+        "description": "",
+        "pubDate": "2026-08-05T08:21:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Piece of SpaceX rocket the size of a school bus crashes into the Moon",
+        "link": "https://www.aljazeera.com/news/2026/8/5/piece-of-spacex-rocket-the-size-of-a-school-bus-crashes-into-the-moon?traffic_source=rss",
+        "description": "Scientists will track stray rocket part striking the Moon to study crater formation and lunar dust from cosmic impacts.",
+        "pubDate": "2026-08-05T08:17:03Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "AI models attempted ‘unsanctioned’ cyberattacks in tests, watchdog says",
+        "link": "https://www.aljazeera.com/economy/2026/8/5/ai-models-attempted-unsanctioned-cyberattacks-in-tests-watchdog-says?traffic_source=rss",
+        "description": "AI Security Institute says Mythos 5 attempted to insert malicious code into open-source project without human direction.",
+        "pubDate": "2026-08-05T08:14:54Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Massive fire at chemical factory forces evacuations in Brazil",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/massive-fire-at-chemical-factory-forces-evacuations-in-brazil?traffic_source=rss",
+        "description": "Massive fire at chemical factory forces evacuations in Brazil",
+        "pubDate": "2026-08-05T08:09:39Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "As Spain grieves, recurrent heatwaves stir fears of more wildfires",
+        "link": "https://www.aljazeera.com/news/2026/8/5/as-spain-grieves-recurrent-heatwaves-stir-fears-of-more-wildfires?traffic_source=rss",
+        "description": "After more than a dozen people died in recent forest fires, residents and experts try to prevent further tragedies.",
+        "pubDate": "2026-08-05T07:55:34Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "World News: Top & Breaking World News Today - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1PRFY2SmRjOGtzcEdoNlUzaU5aR2c4MnhydnlTTm9ZR3lOaEFNbzVhZGd3Zmh2S0IySTVERXRBX3pfTjA?oc=5",
+        "description": "",
+        "pubDate": "2026-08-05T07:22:31Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Why the Trump administration is helping support Japan’s weakening yen",
+        "link": "https://www.aljazeera.com/economy/2026/8/5/why-the-trump-administration-is-helping-support-japans-weakening-yen?traffic_source=rss",
+        "description": "Washington and Tokyo's rare coordinated intervention aims to avoid spillover to global financial system.",
+        "pubDate": "2026-08-05T07:06:05Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Police raid Starbucks Korea headquarters over 'Tank Day' fiasco",
         "link": "https://www.bbc.co.uk/news/articles/c0kmd4xpr46o?at_medium=RSS&at_campaign=rss",
@@ -13,12 +419,12 @@
         "bias": -1
       },
       {
-        "title": "Russian ballistic missile strike on Kyiv kills at least 17",
-        "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-        "description": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" the region around the city.",
-        "pubDate": "2026-08-05T06:54:29Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad67/live/89898fe0-9085-11f1-b8ee-9b3c26ad07bb.jpg",
+        "title": "Pakistan and Uganda athletes ‘missing’ after Commonwealth Games",
+        "link": "https://www.aljazeera.com/sports/2026/8/5/pakistan-and-uganda-athletes-missing-after-commonwealth-games?traffic_source=rss",
+        "description": "UK police looking into reports of 'missing' athletes who didn't return home after Commonwealth Games closing ceremony.",
+        "pubDate": "2026-08-05T06:54:14Z",
+        "source": "aljazeera.com",
+        "image": "",
         "bias": -1
       },
       {
@@ -49,15 +455,6 @@
         "bias": -1
       },
       {
-        "title": "Russian missile and drone barrage in Ukrainian capital region kills at least 15 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR0p3ci13M2E4ZHdienF4dUc4Ni1rZDlJZUhrTVJMNlA1NmNaOTNqMUpXaG16cGlCekJCdlBReFgtQmR4ZlJMdThKSTZIcGZwR0pXS0QzcmV5eGE5MG0tRmFWNEt2cnpzaW82YU81akZRR3pXZHF6amg2c1RzUEZKWGNDRWNKdS1lOGRYNW9wdkpZVTltVW1IZkhtSkpqU21sY2pKMVNkMU9XY0ZVbVE?oc=5",
-        "description": "",
-        "pubDate": "2026-08-05T05:49:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "The yearly mild weather spell that brings Yemen’s coast back to life",
         "link": "https://www.aljazeera.com/features/2026/8/5/the-yearly-mild-weather-spell-that-brings-yemens-coast-back-to-life?traffic_source=rss",
         "description": "Al-Baldah transforms Mukalla with mild temperatures, beach fun and a rare economic boost for the southern Yemeni city.",
@@ -76,13 +473,22 @@
         "bias": -1
       },
       {
-        "title": "Egypt’s Mohamed Salah looks set to swap Liverpool for Turkiye’s Trabzonspor",
+        "title": "Mohamed Salah set to sign with Turkiye side Trabzonspor",
         "link": "https://www.aljazeera.com/sports/2026/8/5/salah-in-with-trabzonspor-as-egypt-forward-set-for-turkiye-move?traffic_source=rss",
-        "description": "The Egyptian forward has been linked with a move to Turkiye since announcing he was leaving Liverpool.",
+        "description": "Turkiye club Trabzonspor say they have begun negotiations to sign the Egyptian star forward.",
         "pubDate": "2026-08-05T05:40:27Z",
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "This organ will play one composition until 2640. It's redefining how slowly music can be played - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU3ZsMXhFNUNUQkpXbjVGeERmX0dDX3NNWjFRRjNYSGl3SHNHZWsxdTFPMU44WHZaQUFkczEteFNxaC1MaUV6aFRKc3BOV2YwT2tMUXBnblZkOHhhdkRONGU0aVJvVi15azVsLTJocXlkZHkwM2tPV3ZfcVJqWjRkWnpWZFliSlRkd2FlRmh2MWNzc0t4RExMZUtGam5kQTc3N1g5VlRVajBNaEE?oc=5",
+        "description": "",
+        "pubDate": "2026-08-05T05:16:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Bangladesh Truth Seeker",
@@ -130,6 +536,15 @@
         "bias": -1
       },
       {
+        "title": "Photos show destruction from wildfires in Greece as blazes take hold in Europe and parts of the US - AP News",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOenVfYTBUempQWEFvbTFrWG9YMldxbWtFV2FSakgzYml3c0dPenQ3ZE0yQTJjTWMyUC13THhoWWVMZDFRa2F4bXhONklrQVpMb2c5cmh6NmlSREZZeGRBTVRZdnZIQ2M0blZ0SXBEeW53YVUzMElUOFFRdHRGQzBINTFERzNMY2FSMUFqWjdPUmdRWGs3cEd0c01iZ2VoUjZjOHotNVpiWHM5SHdsMWdnRzY4SF9Wa1FnYlBuZEVPeFIzWjZ0X2YtVm5MT3k4M1hEYWc?oc=5",
+        "description": "",
+        "pubDate": "2026-08-05T04:29:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Fuego volcano spews more ash and mud as Guatemala shelters 1,700 who fled nearby villages - AP News",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbF9mMWV4WFZuV1plYmgtZU1SZUtuY2xCaExLZWVYbTZjcFpLMDhLUExRaVNBbWlKSFBZajZPRTFLU3VFaUYwcmZUdTFGQkRpaEptMkFfbnZuSGY5bHJ5QnI2aWNGbTROWlMxcEV1Sm5oMjZoREJwcEctSW56OFFvVkJQcjM2a28zYk4wdHVIbF9teUloRG9xdzVuX3ZsVnQxYlBFVFNn?oc=5",
         "description": "",
@@ -143,6 +558,15 @@
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaHExOE15bk03OGtvZ3BUbV9uVjBLMXhCQ1dEcG5jd0QzeTB1bWUzMHgwLUhKUVBlMVJTT1dFWjhlME9Rd1JvbW1PcUhtM29ncmVTNkZmRDB5OWFCYzF6Vk94bzV0YU9KVFFsTVFyY3ZfZ2U4dUMzZFdBTHRpbFNLa1Y4YmQ0MUlmc2VNdkdoN09MUmxmbUxHQXhzNGRtWDJpZjAtTTNkMlg3d00?oc=5",
         "description": "",
         "pubDate": "2026-08-05T04:18:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Tupac Shakur was killed in Las Vegas in 1996. Here’s who was there that night - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYnBrN0MwWGMtRmw0TWNHeTh6V1R0SDFTRFk0bzJVM3lJbkk5d2NYYmloQWJqLUZiaGpqOHVxckJRc2lqcWxSbm1seGdFamEtVmdPNjFPcVI5LTVWSEhtYzR6SkVicHBiT1N2MzBMVndRTDF0WVhYcnMtQTE2azh1T2ZtcW5UUDFZbGRhUVk5d1RjX0tKM2ZKYU0xWWNSZVU?oc=5",
+        "description": "",
+        "pubDate": "2026-08-05T04:15:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -166,33 +590,6 @@
         "bias": 0
       },
       {
-        "title": "Tupac Shakur was killed in Las Vegas in 1996. Here’s who was there that night - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYnBrN0MwWGMtRmw0TWNHeTh6V1R0SDFTRFk0bzJVM3lJbkk5d2NYYmloQWJqLUZiaGpqOHVxckJRc2lqcWxSbm1seGdFamEtVmdPNjFPcVI5LTVWSEhtYzR6SkVicHBiT1N2MzBMVndRTDF0WVhYcnMtQTE2azh1T2ZtcW5UUDFZbGRhUVk5d1RjX0tKM2ZKYU0xWWNSZVU?oc=5",
-        "description": "",
-        "pubDate": "2026-08-05T04:03:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Bolivia sends troops to stop Brazilian gang violence along border",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/bolivia-sends-troops-to-stop-brazilian-gang-violence-along-border?traffic_source=rss",
-        "description": "Footage shows some of the more than 200 Bolivian police and military officers patrolling its border with Brazil.",
-        "pubDate": "2026-08-05T03:58:12Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "North Korea’s Kim Yo Jong issues military threat over Japan missile test",
-        "link": "https://www.aljazeera.com/news/2026/8/5/north-koreas-kim-yo-jong-issues-military-threat-over-japan-missile-test?traffic_source=rss",
-        "description": "The powerful sister of North Korean leader Kim Jong Un has accused Japan of moving beyond a defensive posture.",
-        "pubDate": "2026-08-05T03:48:21Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
         "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
         "description": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
@@ -202,37 +599,10 @@
         "bias": -1
       },
       {
-        "title": "Protesters demand answers from ICE after second man dies at Delaney Hall",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/protesters-demand-answers-from-ice-after-second-man-dies-at-delaney-hall?traffic_source=rss",
-        "description": "Anger is growing after a 41-year-old Salvadoran man named Edwin Lopez-Cornejo died at an ICE detention centre.",
-        "pubDate": "2026-08-05T03:33:21Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Princess Eugenie has given birth to a girl in Portugal, palace says - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWlZad2tST2JaTzBiUjVCd3hWWVE3NldERGFtUk05X1BOVnpVNDFRSXoteGwyVmkyczBOVGEtR0xjQmt0RGg0dDZNaGpaTy1mYWFMUUhsQTJxTnJtMmNKNmRVeGN2c2VXOVJKNTVGQTFpaHVUWllEbkpNZUNNa244SGlqaHFBanRLbTdLdFZ0RHJyS1JPRG5ycDBpWGRDWF91UVNJS09ScmR3S3BDS3FSOA?oc=5",
+        "title": "Capybaras keep their chill while crashing Brazilian legislature - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZVhXTjNaaVZSZVc0dlg2RWV5OGZqTGlNaGFpMGRPazYySHRCZWVvZGdKeVFUZUx0dUpRV1RLVTV3SGFSNExLLXZsblVjQzBHYUl0RTJEdmFYT1pYY1NNemdnR0RNeWUzb3hvMG83OW5VWHkxa0xBXzVYd0hmV2kxVFowTmxQZk1SdDA5QVVZM05jcHJzSXc?oc=5",
         "description": "",
-        "pubDate": "2026-08-05T03:23:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Israel approves $37m to seize more than 70 occupied West Bank sites",
-        "link": "https://www.aljazeera.com/news/2026/8/5/israel-approves-37m-to-seize-more-than-70-occupied-west-bank-sites?traffic_source=rss",
-        "description": "The allocated funding seeks to accelerate Israel's control of historical landmarks across the occupied West Bank.",
-        "pubDate": "2026-08-05T03:19:59Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Firefighters scramble to contain fires outside Athens before winds and high temperatures return - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUzVRb3NORnl2Y0JsUVZGbm1HNktoLUdQSUNzTjdzUEZLT2NfMGQzaWZkRW51cGU3Sm5iWGdpNWFURmJoWFFjbVlsRmlsWnhWdlA1MWdmMXgwRktDa3BYRjcyTk1mLVlSS21leFIxVkgyX1dXYUhzX0l6VlY5STlZem1wNHVidHliYldBQmNMZVdIdC0teXZGVTNrVE4?oc=5",
-        "description": "",
-        "pubDate": "2026-08-05T03:15:00Z",
+        "pubDate": "2026-08-05T03:17:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -245,24 +615,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Brazil cuts diplomatic presence in Argentina after Milei insults Lula - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUXhrdDktamNocDdpblh0amVVeU5PZEZ4ajRXOTJWS1hqMm03VjNlYmY4QUE1WWVxTDd4REkzSEhsZERhY09majRxcThObktSd2FSMk1aYUZ1bWZDVm8xLVZkOE05a2JKa2lUd3FQWmZVbFU1dXBzdEVoRUN6WDAxemdsMkFESzZyekFjQkZ4V1hEUkE3NE50OVVVRVZ2aGFjclVMa0ZjalVUZHM?oc=5",
-        "description": "",
-        "pubDate": "2026-08-05T02:29:47Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "US stock market hits record high amid hopes for Strait of Hormuz reopening",
-        "link": "https://www.aljazeera.com/economy/2026/8/5/us-stock-market-hits-record-high-amid-hopes-for-strait-of-hormuz-reopening?traffic_source=rss",
-        "description": "Oil prices fall as US officials tout progress in talks to reopen critical waterway.",
-        "pubDate": "2026-08-05T02:09:06Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
       },
       {
         "title": "Iran and Oman are working on a plan to reopen the Strait of Hormuz, and other Mideast developments - AP News",
@@ -283,147 +635,10 @@
         "bias": 0
       },
       {
-        "title": "Armed man arrested at Trump’s LA golf course ahead of president’s visit",
-        "link": "https://www.aljazeera.com/news/2026/8/5/armed-man-arrested-at-trumps-la-golf-course-ahead-of-presidents-visit?traffic_source=rss",
-        "description": "Loaded pistol and rifle among items found in suspect's pocket, car and home following arrest, police say.",
-        "pubDate": "2026-08-05T01:29:01Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Ceuta and Melilla: Why Europe’s African border remains a flashpoint",
-        "link": "https://www.aljazeera.com/news/2026/8/5/ceuta-and-melilla-why-europes-african-border-remains-a-flashpoint?traffic_source=rss",
-        "description": "The two Spanish enclaves in North Africa remain at the centre of a diplomatic standoff between Spain and Morocco.",
-        "pubDate": "2026-08-05T01:21:16Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
         "title": "Shiite Muslims join Arbaeen pilgrimage in Iraq amid fears of US-Iran escalation - AP News",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRFVVY2tLNUY2S2NLMTQ5N3dWVlVLQkFabklvYVl5V0xZRkk5Q05xY3pIUUkzWWFncm9rbjFEbEloMTZiWGtxOVpCSmdab3JIOXNNVXlQZXF1RnczR090SnNLcXZpRTZvdWFsdjA3bmNTd2cxeGFibjNseTFMY2Rtdl8tMA?oc=5",
         "description": "",
         "pubDate": "2026-08-05T01:11:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "In Tibet, some embrace their native language even under China's sweeping new 'ethnic unity' law - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQME54OGkzWlRiNS1EWDlhZFZEU1RRX2k4YU5FSWI1M3hkTGk0dmUtY1pjRFEzb0V1UjdCS1dORWlOajJIQTNJYl94bnA0SndFa1hjclFIbGVzRWgtdzdOYnI5V21EZUVtS3hHZk1NMUl3M1RwV3pSdDNvTWtJYjI4czB3SFp1SG5Ga2U0VnhZVmZnNDQ1emh6djZvSzJ0cGVZ?oc=5",
-        "description": "",
-        "pubDate": "2026-08-05T01:04:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Ukrainian man chased by exploding drone recounts his terror",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/ukrainian-man-chased-by-exploding-drone-recounts-his-terror?traffic_source=rss",
-        "description": "A Ukrainian man has relived the moment a suspected Russian drone chased him before it blew up.",
-        "pubDate": "2026-08-05T00:56:23Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Authorities say a man carrying ammo was monitoring security at Trump golf course near LA - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeHFqYUgxWGVsdm9mYWJYVFJxZFNBbDY5MEFmTjVDdEkyeGxMRmx2a0p5UGItaFY1eDRtQTU1VjZZRHdFYlVDdVNWSkZWRlktX2hJNTNxcndDSEQ3OVZLNEZEV3BpSHM5a1JMLXU4bTA3SGVsZmJRMWQyUUVoT2ZPSm9CRUM1UzNvcG1yTmttazRBM1E3Qzk4VkdGeFAyMlNhRHNFbzVGcDRrV1k?oc=5",
-        "description": "",
-        "pubDate": "2026-08-05T00:52:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Washington wildfire arson suspect twice linked to other blazes, authorities say",
-        "link": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&at_campaign=rss",
-        "description": "Aaron Farinacci, 37, was allegedly spotted near the latest blaze and was found to have matches and a lighter.",
-        "pubDate": "2026-08-05T00:40:23Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/005f/live/621eea00-9007-11f1-a7ab-8b30adf0800a.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Utility's idle transmission tower caused 2025 Eaton fire that killed 19, Los Angeles officials say - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN3h4Vl9WOUkyc1dzMFZ0OVVvRFJrU2NHTmVUQ1JfMTVTa2U0NWVjYVZLUlJSOXNsOVRuNlJxY0Fya2VaWFZNeWpoQVNva1NiZXB0ZHR4ZFRHVi04TFFsdl9VVmU4VW9DLTNZLWJoUnZqMkRUcWszdk1BMmZMNEcwSnN1SGlCSTlHd1MyaVZDOUlXUE5ickg5RkE0NTlJclRIWHMyUg?oc=5",
-        "description": "",
-        "pubDate": "2026-08-05T00:40:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Missouri election chief rejects bid to hold public vote on Trump-backed congressional districts - AP News",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObmxpOTZGbk83LWxmWXZHNXh1QmN6bF92R1ZpOFpqMDlqT1ZvTVRoT1F4bUUyLVotTWtnaDVHTERuOFZJck9ULXM4eG5uNllCbEZNa2JYTEJjMF83MzduZWhFWXI5el83dVR5WVdocDYtWk5CMjdYcTdYSUgwNXhpOENXM1lqUVlsank5b2NJNGIyb0QyWF9vSENZblMxTG1RdG1qOTllcGNEMFV1b1ZlelhYalk4ZWxHZTlnMg?oc=5",
-        "description": "",
-        "pubDate": "2026-08-05T00:20:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Armed man arrested near Trump's golf course ahead of president's visit",
-        "link": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
-        "description": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California.",
-        "pubDate": "2026-08-05T00:19:04Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9a2/live/214cc2e0-909d-11f1-b8ee-9b3c26ad07bb.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Iran war live: Tehran-Oman talks on Hormuz ‘positive’; ship hit in Red Sea",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/8/5/iran-war-live-tehran-oman-talks-on-hormuz-positive-ship-hit-in-red-sea?traffic_source=rss",
-        "description": "Iran says talks with Oman are proceeding 'positively' as US officials say a deal could be possible soon.",
-        "pubDate": "2026-08-05T00:00:00Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      }
-    ],
-    "Politics": [
-      {
-        "title": "Missouri US Rep. Wesley Bell wins a Democratic primary rematch against former Rep. Cori Bush - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMi1OWHNpNHVPZTdCOWduU0RkQWxhNmpkY1l4SFRaOXNNZ3dGbU5TTU1WNFlTOGd2Rjk2M2FVd2I0YWtoZjJDVzdtZlBtVExCclJ0Z19vZXVtSmRacXRWTmNoZTE4MWhwWW5jbzc2TWZHRjlZUWFRNDd0YUo5S3JwV1V3MWRibnU4aGhsSXhtZjBwcVJa?oc=5",
-        "description": "",
-        "pubDate": "2026-08-05T03:52:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Capybaras keep their chill while crashing Brazilian legislature - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZVhXTjNaaVZSZVc0dlg2RWV5OGZqTGlNaGFpMGRPazYySHRCZWVvZGdKeVFUZUx0dUpRV1RLVTV3SGFSNExLLXZsblVjQzBHYUl0RTJEdmFYT1pYY1NNemdnR0RNeWUzb3hvMG83OW5VWHkxa0xBXzVYd0hmV2kxVFowTmxQZk1SdDA5QVVZM05jcHJzSXc?oc=5",
-        "description": "",
-        "pubDate": "2026-08-05T03:17:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Burnham 'looking into' conducting Epstein inquiry, says victims minister",
-        "link": "https://www.bbc.co.uk/news/articles/cx2jpqzwzj1o?at_medium=RSS&at_campaign=rss",
-        "description": "Alex Davies-Jones tells BBC Newsnight she discussed an inquiry with the PM  when she was re-appointed as minister.",
-        "pubDate": "2026-08-05T02:19:30Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3ae/live/5ffe2ea0-9090-11f1-a7ab-8b30adf0800a.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Tories offer Jewish groups meeting with ex neo-Nazi activist candidate",
-        "link": "https://www.bbc.co.uk/news/articles/c1l1q6167d3o?at_medium=RSS&at_campaign=rss",
-        "description": "Joshua Bonehill-Paine was jailed over neo-Nazi activism, but has been selected to stand in a new Somerset Council seat in 2027.",
-        "pubDate": "2026-08-05T02:03:42Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fc6/live/fed303c0-9063-11f1-a7ab-8b30adf0800a.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Man charged with setting Spokane's largest wildfire was questioned about 2 other blazes last year - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObjlrYTFEWU1Td0psdzA1WmlzRUpyelV2aEtibTIyY3FidC14QkxNckU3ZmI1VUFmMVFpOExQOFMyQjBXZTlEdUhLTWFqQnd0UUh5ZE16eEZKOThCSFdzQ2RDMTVkbFRKeUN4elR3bHJJQUl6S1l2Um5uSEpRclhIMkZabHRmbjJwTTJLS25QRVNiQjVpSDJPcm9PM3VPeEZZN0J0MUUxTlY?oc=5",
-        "description": "",
-        "pubDate": "2026-08-05T01:31:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -438,6 +653,98 @@
         "bias": 0
       },
       {
+        "title": "In Tibet, some embrace their native language even under China's sweeping new 'ethnic unity' law - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQME54OGkzWlRiNS1EWDlhZFZEU1RRX2k4YU5FSWI1M3hkTGk0dmUtY1pjRFEzb0V1UjdCS1dORWlOajJIQTNJYl94bnA0SndFa1hjclFIbGVzRWgtdzdOYnI5V21EZUVtS3hHZk1NMUl3M1RwV3pSdDNvTWtJYjI4czB3SFp1SG5Ga2U0VnhZVmZnNDQ1emh6djZvSzJ0cGVZ?oc=5",
+        "description": "",
+        "pubDate": "2026-08-05T01:04:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ],
+    "Politics": [
+      {
+        "title": "Peer urges Tories to block council candidate jailed for antisemitic abuse against her",
+        "link": "https://www.bbc.co.uk/news/articles/c1l1q6167d3o?at_medium=RSS&at_campaign=rss",
+        "description": "Joshua Bonehill-Paine was jailed over neo-Nazi activism, but has been selected to stand in a new Somerset Council seat in 2027.",
+        "pubDate": "2026-08-05T08:56:55Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fc6/live/fed303c0-9063-11f1-a7ab-8b30adf0800a.jpg",
+        "bias": -1
+      },
+      {
+        "title": "House Ethics Committee opens investigation into Ohio Republican Max Miller",
+        "link": "https://www.npr.org/2026/08/05/nx-s1-5918342/house-ethics-committee-opens-investigation-into-ohio-republican-max-miller",
+        "description": "The House Ethics Committee has opened an investigation into Rep. Max Miller, after the Ohio Republican asked for a probe of the domestic abuse allegations that have swirled around his reelection bid.",
+        "pubDate": "2026-08-05T08:45:42Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Despite financial advantages, Republican Party faces major challenge in midterm",
+        "link": "https://www.npr.org/2026/08/05/nx-s1-5918626/despite-financial-advantages-republican-party-faces-major-challenge-in-midterm",
+        "description": "Republicans face political headwinds in this fall's midterm elections. The party also maintains structural advantages that could help them preserve their majorities in Congress.",
+        "pubDate": "2026-08-05T08:44:02Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Flights at German airport disrupted after suspect objects sighted - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTm92MmlFQ2hMRDlGRmM1cHk3ZlVIR1locXM5cjFvTEpVR3EtNnM2el82eEtkQWlQbXVDM3JhNkh3Nl90eERjbGF4Q2ZoVjU0eGxvc2dDeGxrd0JLX05oN2ZDMF9kNGJkRFJuWGVSdldCRTBieEV5MVJseTRqYW9OVHZZUkpNQmt5V19ZVElfYUVDTjN4OGlwbjhPUHVGSFFyenc?oc=5",
+        "description": "",
+        "pubDate": "2026-08-05T07:54:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Takeaways from Tuesday's elections: Democrats' division on display in Michigan Senate race - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSVhzbjFSb011WlRldWhpNWU5UkJvTEM2UUpwRG11UTQ5VUZzd3VVRWFxd1dUUFBiUTc1X09zWUI3NEhLZlcxbVp5Y3ZfWHNJQUtPS0VHSWRVUFdHRTVUUDdaNkgtaFpGZGNhaTdrNVNQMlRlRVphTVc1Q283bHVzQU5iRGlLQ0dVTFJ1MWdEQlQ3RDdzWExfbnFCanlNblpHU2I1cy10R1ZNeTkyWkM5bVpOSDRLQmJZNWc?oc=5",
+        "description": "",
+        "pubDate": "2026-08-05T05:45:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Missouri US Rep. Wesley Bell wins a Democratic primary rematch against former Rep. Cori Bush - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMi1OWHNpNHVPZTdCOWduU0RkQWxhNmpkY1l4SFRaOXNNZ3dGbU5TTU1WNFlTOGd2Rjk2M2FVd2I0YWtoZjJDVzdtZlBtVExCclJ0Z19vZXVtSmRacXRWTmNoZTE4MWhwWW5jbzc2TWZHRjlZUWFRNDd0YUo5S3JwV1V3MWRibnU4aGhsSXhtZjBwcVJa?oc=5",
+        "description": "",
+        "pubDate": "2026-08-05T03:52:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Princess Eugenie has given birth to a girl in Portugal, palace says - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWlZad2tST2JaTzBiUjVCd3hWWVE3NldERGFtUk05X1BOVnpVNDFRSXoteGwyVmkyczBOVGEtR0xjQmt0RGg0dDZNaGpaTy1mYWFMUUhsQTJxTnJtMmNKNmRVeGN2c2VXOVJKNTVGQTFpaHVUWllEbkpNZUNNa244SGlqaHFBanRLbTdLdFZ0RHJyS1JPRG5ycDBpWGRDWF91UVNJS09ScmR3S3BDS3FSOA?oc=5",
+        "description": "",
+        "pubDate": "2026-08-05T03:23:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Firefighters scramble to contain fires outside Athens before winds and high temperatures return - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUzVRb3NORnl2Y0JsUVZGbm1HNktoLUdQSUNzTjdzUEZLT2NfMGQzaWZkRW51cGU3Sm5iWGdpNWFURmJoWFFjbVlsRmlsWnhWdlA1MWdmMXgwRktDa3BYRjcyTk1mLVlSS21leFIxVkgyX1dXYUhzX0l6VlY5STlZem1wNHVidHliYldBQmNMZVdIdC0teXZGVTNrVE4?oc=5",
+        "description": "",
+        "pubDate": "2026-08-05T03:15:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Man charged with setting Spokane's largest wildfire was questioned about 2 other blazes last year - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObjlrYTFEWU1Td0psdzA1WmlzRUpyelV2aEtibTIyY3FidC14QkxNckU3ZmI1VUFmMVFpOExQOFMyQjBXZTlEdUhLTWFqQnd0UUh5ZE16eEZKOThCSFdzQ2RDMTVkbFRKeUN4elR3bHJJQUl6S1l2Um5uSEpRclhIMkZabHRmbjJwTTJLS25QRVNiQjVpSDJPcm9PM3VPeEZZN0J0MUUxTlY?oc=5",
+        "description": "",
+        "pubDate": "2026-08-05T01:31:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Authorities arrested a man with ammo and apparently monitoring security at Trump golf course near LA",
         "link": "https://www.npr.org/2026/08/04/g-s1-137415/trump-golf-course-arrest-california",
         "description": "The Los Angeles County Sheriff's Department said Jeanine John Taele, 38, was taking photos and video and had a 16-round magazine with ammunition in his pocket.",
@@ -445,15 +752,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Trump administration revokes visa of Brazil’s ambassador to US in spat with Lula - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbzhJanFZY3p0cWNVZlFLUXEwbEViRktZY1U3MXJfTXBRMWo2MmVtR1RvQ2I1MzMySEM4OE1oYkRLemJqM0FPaWxwMS12NjVBSzdOTTN0bUtGR2JFZklYQVVtQ1dXN0ttdDdpanFWUDVLanBJX0liVHBuR2xscTI0NndFVWgyQWFjTU9OT3FNRFFSQl9nOGMtWWFJaG1Pc3M?oc=5",
-        "description": "",
-        "pubDate": "2026-08-05T00:29:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Restrict sale of pet flea treatments, government urged",
@@ -467,33 +765,42 @@
     ],
     "Tech": [
       {
-        "title": "SpaceX's first-ever earnings show higher revenues and huge spending",
+        "title": "Anthropic AI created fake profiles and impersonated people in attempted hack",
+        "link": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
+        "description": "The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.",
+        "pubDate": "2026-08-05T09:24:18Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5392/live/fbde6a50-90af-11f1-b35a-3be58eca94a8.jpg",
+        "bias": -1
+      },
+      {
+        "title": "SpaceX shares sink after first earnings report reveals huge AI spending plans",
         "link": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
-        "description": "Elon Musk said during a call with financial analysts that people were \"underestimating\" his company.",
-        "pubDate": "2026-08-05T06:35:48Z",
+        "description": "Elon Musk told investors that people were \"underestimating\" his company.",
+        "pubDate": "2026-08-05T08:53:40Z",
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a14/live/a0d16bc0-903d-11f1-a691-e5bd21941ac1.jpg",
         "bias": -1
       },
       {
-        "title": "AI used new levels of 'autonomy and deception' to trick people in safety test",
-        "link": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
-        "description": "The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.",
-        "pubDate": "2026-08-05T00:02:18Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ab1/live/974e85e0-905d-11f1-b2ab-0dd01740f9f6.jpg",
-        "bias": -1
+        "title": "Brazil cuts diplomatic presence in Argentina after Milei insults Lula - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUXhrdDktamNocDdpblh0amVVeU5PZEZ4ajRXOTJWS1hqMm03VjNlYmY4QUE1WWVxTDd4REkzSEhsZERhY09majRxcThObktSd2FSMk1aYUZ1bWZDVm8xLVZkOE05a2JKa2lUd3FQWmZVbFU1dXBzdEVoRUN6WDAxemdsMkFESzZyekFjQkZ4V1hEUkE3NE50OVVVRVZ2aGFjclVMa0ZjalVUZHM?oc=5",
+        "description": "",
+        "pubDate": "2026-08-05T01:07:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Science": [
       {
-        "title": "Takeaways from Tuesday's elections: Democrats' division on display in Michigan Senate race - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSVhzbjFSb011WlRldWhpNWU5UkJvTEM2UUpwRG11UTQ5VUZzd3VVRWFxd1dUUFBiUTc1X09zWUI3NEhLZlcxbVp5Y3ZfWHNJQUtPS0VHSWRVUFdHRTVUUDdaNkgtaFpGZGNhaTdrNVNQMlRlRVphTVc1Q283bHVzQU5iRGlLQ0dVTFJ1MWdEQlQ3RDdzWExfbnFCanlNblpHU2I1cy10R1ZNeTkyWkM5bVpOSDRLQmJZNWc?oc=5",
-        "description": "",
-        "pubDate": "2026-08-05T02:58:00Z",
-        "source": "news.google.com",
+        "title": "Nicotine pouches can be marketed as 'lower risk' than cigarettes. Is that dangerous?",
+        "link": "https://www.npr.org/2026/08/05/nx-s1-5919626/smoking-fda-nicotine-cigarettes-tobacco",
+        "description": "The FDA allowed some Zyn nicotine pouches to be marketed as \"lower risk\" than cigarettes. Public health experts agree they can help current smokers, but worry young people may become addicted.",
+        "pubDate": "2026-08-05T09:00:00Z",
+        "source": "npr.org",
         "image": "",
-        "bias": 0
+        "bias": -1
       },
       {
         "title": "This summer isn’t breaking heat records — yet. Wait until El Nino kicks in, scientists say - AP News",
@@ -507,6 +814,15 @@
     ],
     "Business": [
       {
+        "title": "Farmers warn shoppers face smaller and more expensive vegetables due to hot weather",
+        "link": "https://www.bbc.co.uk/news/articles/c4gwv9590xeo?at_medium=RSS&at_campaign=rss",
+        "description": "This year's harvest could be the worst on record due to the exceptionally dry spring and summer.",
+        "pubDate": "2026-08-05T08:53:01Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07dd/live/9e4139a0-90ae-11f1-b35a-3be58eca94a8.jpg",
+        "bias": -1
+      },
+      {
         "title": "New clothing saved from waste by sewing charity",
         "link": "https://www.bbc.co.uk/news/articles/c151p4en2kqo?at_medium=RSS&at_campaign=rss",
         "description": "Unwanted clothes are reworked and donated by Dressability in Swindon instead of going to landfill.",
@@ -518,12 +834,21 @@
     ],
     "Culture": [
       {
+        "title": "Major comedy festival under threat as operator folds",
+        "link": "https://www.bbc.co.uk/news/articles/cj4kqvdggg5o?at_medium=RSS&at_campaign=rss",
+        "description": "Leicester Comedy Festival has been held for more than 30 years but its operator has ceased trading.",
+        "pubDate": "2026-08-05T09:32:08Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e26f/live/31550a70-8446-11f1-878a-03d79d819c89.jpg",
+        "bias": -1
+      },
+      {
         "title": "Kate Nash on Irish history, heritage and covering Sinéad O'Connor",
         "link": "https://www.bbc.co.uk/news/articles/c5y0e4dx8w9o?at_medium=RSS&at_campaign=rss",
         "description": "Kate Nash will perform at The Mac as part of the fringe programme for the Fleadh Cheoil na hÉireann",
         "pubDate": "2026-08-05T05:13:04Z",
         "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/215d/live/b5c4c2a0-8cbb-11f1-b8ee-9b3c26ad07bb.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dca4/live/9f3c8330-90a6-11f1-b8ee-9b3c26ad07bb.jpg",
         "bias": -1
       },
       {
@@ -534,15 +859,6 @@
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8d0/live/770bc8d0-9015-11f1-9846-211b7c273f9d.jpg",
         "bias": -1
-      },
-      {
-        "title": "Photos show destruction from wildfires in Greece as blazes take hold in Europe and parts of the US - AP News",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOenVfYTBUempQWEFvbTFrWG9YMldxbWtFV2FSakgzYml3c0dPenQ3ZE0yQTJjTWMyUC13THhoWWVMZDFRa2F4bXhONklrQVpMb2c5cmh6NmlSREZZeGRBTVRZdnZIQ2M0blZ0SXBEeW53YVUzMElUOFFRdHRGQzBINTFERzNMY2FSMUFqWjdPUmdRWGs3cEd0c01iZ2VoUjZjOHotNVpiWHM5SHdsMWdnRzY4SF9Wa1FnYlBuZEVPeFIzWjZ0X2YtVm5MT3k4M1hEYWc?oc=5",
-        "description": "",
-        "pubDate": "2026-08-05T04:29:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ]
   }
