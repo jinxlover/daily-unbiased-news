@@ -1,290 +1,37 @@
 {
-  "lastUpdate": "2026-08-09T04:45:39.458456Z",
+  "lastUpdate": "2026-08-09T05:36:03.571818Z",
   "news": {
-    "Gaming": [
-      {
-        "title": "Rock Clicker [Free] [Other]",
-        "link": "https://joemama-1.itch.io/rock-clicker",
-        "description": "",
-        "pubDate": "2026-08-09T04:31:27Z",
-        "source": "joemama-1.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTQ5NDc3LnBuZw==/315x250%23c/thZuGa.png",
-        "bias": 0
-      },
-      {
-        "title": "THREE MILES [Free] [Other] [Windows]",
-        "link": "https://threealdi.itch.io/three-miles",
-        "description": "i have no words for this",
-        "pubDate": "2026-08-09T04:30:18Z",
-        "source": "threealdi.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTQ5NDA4LnBuZw==/315x250%23c/Mri6vp.png",
-        "bias": 0
-      },
-      {
-        "title": "Curb Hound [Free] [Racing]",
-        "link": "https://mdawg74.itch.io/curb-hound",
-        "description": "Bomb the hill in a soapbox cart, win the race, then outrun the spiked-collar bulldog.",
-        "pubDate": "2026-08-09T04:23:27Z",
-        "source": "mdawg74.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTQ5Mzk3LmdpZg==/original/YU0zHu.gif",
-        "bias": 0
-      },
-      {
-        "title": "Soul Reviewer Stories [Free] [Simulation]",
-        "link": "https://lilithguild.itch.io/soul-reviewer-stories",
-        "description": "Narrative game entry for 3h game jam",
-        "pubDate": "2026-08-09T04:22:27Z",
-        "source": "lilithguild.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTQ5Mzc2LnBuZw==/315x250%23c/UdnZ4R.png",
-        "bias": 0
-      },
-      {
-        "title": "Card Idle [Free] [Simulation]",
-        "link": "https://muskel.itch.io/card-idle",
-        "description": "",
-        "pubDate": "2026-08-09T04:17:44Z",
-        "source": "muskel.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTQ5MzU2LnBuZw==/315x250%23c/VTByq4.png",
-        "bias": 0
-      },
-      {
-        "title": "Backrooms - Shoot The Entities [Free] [Shooter]",
-        "link": "https://thehandprint.itch.io/backrooms-shoot-the-entities",
-        "description": "Gun",
-        "pubDate": "2026-08-09T04:15:22Z",
-        "source": "thehandprint.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTQ5Mzk4LnBuZw==/315x250%23c/0eF0yS.png",
-        "bias": 0
-      },
-      {
-        "title": "Dragons vs Robots [Free] [Simulation]",
-        "link": "https://ryancoder.itch.io/dragons-vs-robots",
-        "description": "Don't let the robots take your fantasy and dreams",
-        "pubDate": "2026-08-09T03:59:50Z",
-        "source": "ryancoder.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTQ5MjY4LnBuZw==/315x250%23c/7uXiuh.png",
-        "bias": 0
-      },
-      {
-        "title": "GOOFY AHH GAME V0.1 [Free] [Other] [Windows]",
-        "link": "https://toasti-odie.itch.io/goofy-ahh-game-v01",
-        "description": "just so you know this has like absaloutly nothing in it and its my first game.",
-        "pubDate": "2026-08-09T03:57:19Z",
-        "source": "toasti-odie.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTQ5MTQ2LnBuZw==/315x250%23c/XjfBTP.png",
-        "bias": 0
-      },
-      {
-        "title": "Mouse Drift City (with bouncing Yaris) [Free] [Racing]",
-        "link": "https://azq2337.itch.io/mouse-drift-city-with-bouncing-yaris",
-        "description": "Mouse only racing - inspired by old Java phone games",
-        "pubDate": "2026-08-09T03:55:16Z",
-        "source": "azq2337.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTQ5MDY2LnBuZw==/315x250%23c/0tpY66.png",
-        "bias": 0
-      },
-      {
-        "title": "Mini Taggers V5 [Free] [Strategy] [Android]",
-        "link": "https://mini-taggers.itch.io/mini-taggers-v5",
-        "description": "",
-        "pubDate": "2026-08-09T03:55:06Z",
-        "source": "mini-taggers.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTQ5MDE5LmpwZw==/315x250%23c/IM3IUX.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Robot Parkour [Free] [Platformer] [Windows]",
-        "link": "https://willyharr.itch.io/robot-parkour",
-        "description": "3D game that I'm working on",
-        "pubDate": "2026-08-09T03:50:59Z",
-        "source": "willyharr.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTQ4Njk0LnBuZw==/315x250%23c/runtj8.png",
-        "bias": 0
-      },
-      {
-        "title": "STRATA [$2.99] [Simulation] [Windows]",
-        "link": "https://zerrfeit.itch.io/strata",
-        "description": "Watch civilizations live, die, and become archaeology.",
-        "pubDate": "2026-08-09T03:49:57Z",
-        "source": "zerrfeit.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTQ5MjQ1LnBuZw==/315x250%23c/GopEN2.png",
-        "bias": 0
-      },
-      {
-        "title": "Moist Tag [Free] [Action] [Android]",
-        "link": "https://x3ro67.itch.io/moist-tag",
-        "description": "Gtag Copy",
-        "pubDate": "2026-08-09T03:47:06Z",
-        "source": "x3ro67.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTQ4OTUzLnBuZw==/315x250%23c/DCyDlZ.png",
-        "bias": 0
-      },
-      {
-        "title": "AI CRASH TETRIS [Free] [Puzzle]",
-        "link": "https://diffinity.itch.io/ai-crash-tetris",
-        "description": "The AI plays perfect Tetris. Your job is to sabotage it and make it crash.",
-        "pubDate": "2026-08-09T03:46:50Z",
-        "source": "diffinity.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTQ5MTQyLnBuZw==/315x250%23c/qozivh.png",
-        "bias": 0
-      },
-      {
-        "title": "Nebula Survivors [Free] [Action]",
-        "link": "https://rafaelcortez.itch.io/nebula-survivors",
-        "description": "Pilot your ship, auto-fire at the swarm, evolve forever. How long can you survive?",
-        "pubDate": "2026-08-09T03:46:21Z",
-        "source": "rafaelcortez.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTQ5MDc4LnBuZw==/315x250%23c/G9N0%2FI.png",
-        "bias": 0
-      },
-      {
-        "title": "Elemental Defense: Survivors [Free] [Strategy] [Windows]",
-        "link": "https://ichiby.itch.io/elemental-defense-survivors",
-        "description": "Um survivors-like em 3D dentro de um santuário elemental em ruínas",
-        "pubDate": "2026-08-09T03:43:09Z",
-        "source": "ichiby.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTQ5MDMzLnBuZw==/315x250%23c/Jqm0hh.png",
-        "bias": 0
-      },
-      {
-        "title": "Missing OS [Free] [Adventure]",
-        "link": "https://techsupportbros.itch.io/missing-os",
-        "description": "Explore through a computer that is missing an operating system.",
-        "pubDate": "2026-08-09T03:42:19Z",
-        "source": "techsupportbros.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTQ4NzYzLnBuZw==/315x250%23c/%2F8XVG1.png",
-        "bias": 0
-      },
-      {
-        "title": "The Backrooms #original Since 2010 [$1.00] [Adventure]",
-        "link": "https://projectpanda.itch.io/the-backrooms",
-        "description": "This is the first and original game of backrooms on itch where the cost will be low.",
-        "pubDate": "2026-08-09T03:42:11Z",
-        "source": "projectpanda.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTQ5MzYyLmpwZw==/315x250%23c/hW0l8t.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Space Mission X [Free] [Shooter]",
-        "link": "https://online-gamesx.itch.io/space-mission",
-        "description": "shooter, arcade, airplane, pixel",
-        "pubDate": "2026-08-09T03:38:36Z",
-        "source": "online-gamesx.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTQ4OTI5LnBuZw==/315x250%23c/i7ZFrT.png",
-        "bias": 0
-      },
-      {
-        "title": "zombie  survival desktop version [Free] [Action]",
-        "link": "https://funnyfools.itch.io/zombie-survival",
-        "description": "zombie survival top down shooter game.",
-        "pubDate": "2026-08-09T03:38:26Z",
-        "source": "funnyfools.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTQ5MTYzLmpwZWc=/315x250%23c/c%2BBayE.jpeg",
-        "bias": 0
-      },
-      {
-        "title": "Truco de Ley: Perico & Perica [Free] [Card Game]",
-        "link": "https://ardatgames.itch.io/truco-de-ley",
-        "description": "Truco venezolano con Vira, Perico, Perica, Envido, Flor, Copa Criolla, Pass & Play y mesas privadas online.",
-        "pubDate": "2026-08-09T03:38:12Z",
-        "source": "ardatgames.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTQ4Nzc3LnBuZw==/315x250%23c/fKsvne.png",
-        "bias": 0
-      },
-      {
-        "title": "XCape [Free] [Action]",
-        "link": "https://treehouse-inc.itch.io/xcape",
-        "description": "",
-        "pubDate": "2026-08-09T03:36:18Z",
-        "source": "treehouse-inc.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTQ4Nzg5LnBuZw==/315x250%23c/%2FqFvbp.png",
-        "bias": 0
-      },
-      {
-        "title": "Maca as a baby cron [Free] [Other]",
-        "link": "https://cheesygoats.itch.io/maca-as-a-baby-cron",
-        "description": "#saveOrdestroythebabycron",
-        "pubDate": "2026-08-09T03:23:34Z",
-        "source": "cheesygoats.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTQ4NjY3LnBuZw==/315x250%23c/W2ASEG.png",
-        "bias": 0
-      },
-      {
-        "title": "Galáxia Extinta [Free] [Survival]",
-        "link": "https://daviroque.itch.io/galaextint",
-        "description": "",
-        "pubDate": "2026-08-09T03:16:59Z",
-        "source": "daviroque.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTQ4ODU2LnBuZw==/315x250%23c/JD14SF.png",
-        "bias": 0
-      },
-      {
-        "title": "D.E.V.I.L.O.M.A.N.I.A.C [Free] [Other] [Windows]",
-        "link": "https://wavisshr.itch.io/devilomaniac",
-        "description": "",
-        "pubDate": "2026-08-09T03:07:30Z",
-        "source": "wavisshr.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTQ4NDU4LnBuZw==/315x250%23c/Y7IBZ5.png",
-        "bias": 0
-      },
-      {
-        "title": "Canicas Locas DEMO [Free]",
-        "link": "https://diegopena557.itch.io/canicas-locas-demo",
-        "description": "",
-        "pubDate": "2026-08-09T02:53:52Z",
-        "source": "diegopena557.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTQ4Mjg3LnBuZw==/315x250%23c/P4Ex8Z.png",
-        "bias": 0
-      },
-      {
-        "title": "game of caring for guy [Free] [Simulation]",
-        "link": "https://domushen.itch.io/game-of-caring-for-guy",
-        "description": "care",
-        "pubDate": "2026-08-09T02:53:46Z",
-        "source": "domushen.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTQ4MjE3LnBuZw==/315x250%23c/8qKZVd.png",
-        "bias": 0
-      },
-      {
-        "title": "Liliput Defence [Free] [Interactive Fiction]",
-        "link": "https://tempstuff90.itch.io/liliput-defence",
-        "description": "An alternative Gulliver's story — for adults.",
-        "pubDate": "2026-08-09T02:49:35Z",
-        "source": "tempstuff90.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTQ4NzgyLnBuZw==/315x250%23c/fnJI9r.png",
-        "bias": 0
-      },
-      {
-        "title": "Mayday: Into the Deep [Free] [Action]",
-        "link": "https://koguwara.itch.io/mayday-into-the-deep",
-        "description": "A story that dives into the heart.",
-        "pubDate": "2026-08-09T02:44:08Z",
-        "source": "koguwara.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTQ4Nzg2LnBuZw==/315x250%23c/0gAtoV.png",
-        "bias": 0
-      },
-      {
-        "title": "Plus Plus (Jam Version) [Free] [Educational] [Windows]",
-        "link": "https://frioneon.itch.io/plus-plus",
-        "description": "A tough-as-nails math game for people who can only count by ones",
-        "pubDate": "2026-08-09T01:56:56Z",
-        "source": "frioneon.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTQ4OTQwLnBuZw==/315x250%23c/YKMyWt.png",
-        "bias": 0
-      },
-      {
-        "title": "ChainFX [Free] [Action] [Windows]",
-        "link": "https://ay4m3.itch.io/chainfx",
-        "description": "Cair é necessário pra se reerguer",
-        "pubDate": "2026-08-09T00:59:25Z",
-        "source": "ay4m3.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTQ5Mzg2LmpwZWc=/315x250%23c/r07GBI.jpeg",
-        "bias": 0
-      }
-    ],
+    "Gaming": [],
     "World": [
       {
-        "title": "Perez Hilton faces long recovery after self-harm livestream",
+        "title": "Iran issues new demands as Pezeshkian seeks deal",
+        "link": "https://www.aljazeera.com/news/2026/8/9/iran-issues-new-demands-as-pezeshkian-seeks-deal?traffic_source=rss",
+        "description": "Senior Iranian security official sets broader conditions for reopening Hormuz.",
+        "pubDate": "2026-08-09T05:06:02Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "‘Very painful’: Joe Biden’s cancer has spread, son Hunter says",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-clip-biden-cancer-us?traffic_source=rss",
+        "description": "Joe Biden’s son, Hunter Biden, says his father’s prostate cancer has “metastasised into his bones and further”.",
+        "pubDate": "2026-08-09T05:01:54Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Car bomb hits Colombia highway day after new president sworn in",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-colombia-car-bomb-sv-mp4?traffic_source=rss",
+        "description": "A car bomb destroyed a toll booth on a highway in Colombia a day after President Abelardo de la Espriella was sworn in.",
+        "pubDate": "2026-08-09T04:32:32Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
         "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
         "description": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family.",
         "pubDate": "2026-08-09T04:32:06Z",
@@ -300,6 +47,15 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "As the world rediscovers ‘The Odyssey,’ disabled actors in Greece explore the pain of war - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTnE3eUU2V1pueXY5QUl3ZmNVX0lfLWpIYkNEQU9WNnlLVXNJWE0yRzZtSk5kR1J3VEEydWZkcUlpMHRac2l3cnJHeFhWUEVlZ25nZXZSYXk0WDVwWE1ScWZXTXpIdVEzblVPcWYwdU9saGg3WUhMXzlYbldoZmNZdkNKVGh0Xzk4aWx0WlVodjNfNkN4OGt5T2ZkdnpxZDZGTVZ5T2tlZXpUNnhFUUVn?oc=5",
+        "description": "",
+        "pubDate": "2026-08-09T04:08:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Ghana’s cashew apples get a second life",
@@ -423,6 +179,24 @@
     ],
     "Tech": [],
     "Science": [
+      {
+        "title": "Most of sun to be eclipsed across island of Ireland",
+        "link": "https://www.bbc.co.uk/news/articles/c39epmz7ex4o?at_medium=RSS&at_campaign=rss",
+        "description": "Skywatchers are set to witness two major celestial events next week, with a deep partial solar eclipse followed by the peak of the Perseid meteor shower.",
+        "pubDate": "2026-08-09T05:19:17Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/925f/live/5f6e90c0-91ac-11f1-9c12-47c0acd34ba6.png",
+        "bias": -1
+      },
+      {
+        "title": "'I am a woman in a man's rubbish world'",
+        "link": "https://www.bbc.co.uk/news/articles/c89n8vde8n3o?at_medium=RSS&at_campaign=rss",
+        "description": "A woman who runs a waste collection firm says she was warned not to get involved in the industry.",
+        "pubDate": "2026-08-09T05:09:47Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a21/live/6328d020-90dc-11f1-9bd2-e326e95c9722.jpg",
+        "bias": -1
+      },
       {
         "title": "What it's like to chase solar eclipses around the world",
         "link": "https://www.bbc.co.uk/news/articles/cd69wn5ny3eo?at_medium=RSS&at_campaign=rss",
