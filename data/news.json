@@ -1,234 +1,306 @@
 {
-  "lastUpdate": "2026-08-10T01:45:39.922877Z",
+  "lastUpdate": "2026-08-10T03:30:20.949590Z",
   "news": {
     "Gaming": [
       {
-        "title": "Golden Tag [Free] [Android]",
-        "link": "https://goldenvrcoolie.itch.io/golden-tag",
+        "title": "ShotgunShell [Free] [Action]",
+        "link": "https://liolemoto.itch.io/shotgunshell",
+        "description": "In the west, there are rumors that a certain shell can make your wildest dream come true.",
+        "pubDate": "2026-08-10T03:14:02Z",
+        "source": "liolemoto.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MTc1MDY0LnBuZw==/315x250%23c/9unvOX.png",
+        "bias": 0
+      },
+      {
+        "title": "Ryder's Runnin' Late [Free]",
+        "link": "https://rinimee.itch.io/ryders-runnin-late",
         "description": "",
-        "pubDate": "2026-08-10T01:36:46Z",
-        "source": "goldenvrcoolie.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTcyOTY3LnBuZw==/315x250%23c/ZAl4DM.png",
+        "pubDate": "2026-08-10T02:59:08Z",
+        "source": "rinimee.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MTc0NzA5LnBuZw==/315x250%23c/%2BhKIlP.png",
         "bias": 0
       },
       {
-        "title": "Firecracker [Free] [Platformer]",
-        "link": "https://blubbertheseal.itch.io/firecracker",
+        "title": "Mini-Game-boy collection [Free] [Other] [Windows]",
+        "link": "https://sr-hellokitty.itch.io/mini-game-boy-collection",
+        "description": "9 WHOLE MINIGAMES, ON 1 GAME??",
+        "pubDate": "2026-08-10T02:55:24Z",
+        "source": "sr-hellokitty.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MTc0OTYzLnBuZw==/315x250%23c/1%2BTn5v.png",
+        "bias": 0
+      },
+      {
+        "title": "株式投資トレーニングマスター [Free] [Educational]",
+        "link": "https://hardison0910.itch.io/stocks",
+        "description": "これは株式投資トレーニングゲームです。",
+        "pubDate": "2026-08-10T02:55:19Z",
+        "source": "hardison0910.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MTc0NDQwLnBuZw==/315x250%23c/Z4%2BTWY.png",
+        "bias": 0
+      },
+      {
+        "title": "ANT-i-Social [Free] [Puzzle]",
+        "link": "https://epsilon292.itch.io/ant-i-social",
+        "description": "An Ant colony puzzle about cooperation, crumbs, and cookies. Made with Godot",
+        "pubDate": "2026-08-10T02:54:42Z",
+        "source": "epsilon292.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MTczODc4LmpwZw==/315x250%23c/HIhcZ8.jpg",
+        "bias": 0
+      },
+      {
+        "title": "The Last Recipe [Free]",
+        "link": "https://oxavier.itch.io/the-last-recipe",
         "description": "",
-        "pubDate": "2026-08-10T01:22:53Z",
-        "source": "blubbertheseal.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTcyOTYyLmpwZw==/315x250%23c/ezE0lI.jpg",
+        "pubDate": "2026-08-10T02:54:40Z",
+        "source": "oxavier.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MTc0NTMxLnBuZw==/315x250%23c/rPDELd.png",
         "bias": 0
       },
       {
-        "title": "Concentric Trouble [Free] [Other] [Windows]",
-        "link": "https://jashjay17.itch.io/concentric-trouble",
+        "title": "Lethal Code Injection GBA [Free] [Shooter]",
+        "link": "https://enarkz.itch.io/lethal-code-injection-gba",
+        "description": "Procedural shmup for GBA",
+        "pubDate": "2026-08-10T02:53:19Z",
+        "source": "enarkz.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MTc0ODA1LnBuZw==/315x250%23c/TxmjaQ.png",
+        "bias": 0
+      },
+      {
+        "title": "Voltagious [Free] [Action] [Windows]",
+        "link": "https://nommuss.itch.io/voltagious",
+        "description": "Sobreviva nas profundezas: use bioluminescência para enxergar no escuro e elimine predadores com pulsos elétricos.",
+        "pubDate": "2026-08-10T02:51:10Z",
+        "source": "nommuss.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MTc1MDE1LnBuZw==/315x250%23c/%2FEgynq.png",
+        "bias": 0
+      },
+      {
+        "title": "O Fado Borboleto [Free]",
+        "link": "https://tales-art.itch.io/o-fado-borboleto",
+        "description": "Jogo da NoneJam",
+        "pubDate": "2026-08-10T02:50:00Z",
+        "source": "tales-art.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MTc0NTQ5LnBuZw==/315x250%23c/IqRrFW.png",
+        "bias": 0
+      },
+      {
+        "title": "Wolf Blacksmith Rebuilds Your Weapons [Free] [Survival] [Windows]",
+        "link": "https://icesidio.itch.io/wolf-blacksmith-rebuilds-your-weapons",
+        "description": "fast paced crafting game with a big wolf dude and too many tf2 assets",
+        "pubDate": "2026-08-10T02:48:34Z",
+        "source": "icesidio.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MTc0MzI4LnBuZw==/315x250%23c/LE%2BYnI.png",
+        "bias": 0
+      },
+      {
+        "title": "On The Road 3D (2020 Project) [Free] [Racing] [Windows]",
+        "link": "https://matthew-cc.itch.io/on-the-road-3d-2020-project",
+        "description": "On The Road 3D",
+        "pubDate": "2026-08-10T02:45:56Z",
+        "source": "matthew-cc.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MTc0MzkxLnBuZw==/315x250%23c/4NjdmH.png",
+        "bias": 0
+      },
+      {
+        "title": "Spell Dungeon [Free] [Other] [Windows]",
+        "link": "https://pac0303.itch.io/spell-dungeon",
+        "description": "Um jogo estilo RogueLike de dungeon de um mago que precisa derrotar seus inimigos",
+        "pubDate": "2026-08-10T02:45:12Z",
+        "source": "pac0303.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MTc0NzQyLnBuZw==/315x250%23c/Pu%2BqA5.png",
+        "bias": 0
+      },
+      {
+        "title": "Pizza Bunker [Free] [Action]",
+        "link": "https://valentimbrnd.itch.io/pizza-bunker",
+        "description": "Projeto NoNeJam13",
+        "pubDate": "2026-08-10T02:44:59Z",
+        "source": "valentimbrnd.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MTc0MjgzLnBuZw==/315x250%23c/ABY9uE.png",
+        "bias": 0
+      },
+      {
+        "title": "Fuga em Cadeia [Free] [Action]",
+        "link": "https://pelipx.itch.io/fuga-em-cadeia",
+        "description": "Jogo de fuga em cadeia para a Nonejam13",
+        "pubDate": "2026-08-10T02:44:55Z",
+        "source": "pelipx.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MTc0NTIxLnBuZw==/315x250%23c/uEIHEZ.png",
+        "bias": 0
+      },
+      {
+        "title": "Interactive Mandelbrot Visualizer [Free] [Educational]",
+        "link": "https://gamerdonkey.itch.io/interactive-mandelbrot-visualizer",
+        "description": "Vintage-style Mandelbrot with the TIC-80",
+        "pubDate": "2026-08-10T02:42:03Z",
+        "source": "gamerdonkey.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MTc0Mzk2LnBuZw==/315x250%23c/8XvlQ%2B.png",
+        "bias": 0
+      },
+      {
+        "title": "Boom And Dodge [Free] [Action]",
+        "link": "https://ottisdev.itch.io/boom-and-dodge",
+        "description": "Um jogo para a NoneJam13!",
+        "pubDate": "2026-08-10T02:40:12Z",
+        "source": "ottisdev.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MTc0Mjk1LnBuZw==/315x250%23c/OFrqIW.png",
+        "bias": 0
+      },
+      {
+        "title": "chuddiebox v1: ROCK OUT! [Free] [Rhythm]",
+        "link": "https://chuddiemusic67.itch.io/chuddiebox-v1-rock-out",
+        "description": "Absolute incredibox jamout!",
+        "pubDate": "2026-08-10T02:38:35Z",
+        "source": "chuddiemusic67.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MTc0MTQ3LnBuZw==/315x250%23c/Ii4c1j.png",
+        "bias": 0
+      },
+      {
+        "title": "SinKids: Farm of Sin [Free] [Visual Novel]",
+        "link": "https://thecrimsondm-vanillia.itch.io/sinkids-farm-of-sin",
+        "description": "Leaving his family was a disaster, but now he can restart on his own farm. It's okay... and then his sister shows up",
+        "pubDate": "2026-08-10T02:35:00Z",
+        "source": "thecrimsondm-vanillia.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MTc0MDg4LnBuZw==/315x250%23c/5Iwtb5.png",
+        "bias": 0
+      },
+      {
+        "title": "Guild Gourmet [Free] [Puzzle]",
+        "link": "https://maidmage.itch.io/guild-gourmet",
         "description": "",
-        "pubDate": "2026-08-10T01:21:59Z",
-        "source": "jashjay17.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTcyNjU1LnBuZw==/315x250%23c/h4Dfz3.png",
+        "pubDate": "2026-08-10T02:34:53Z",
+        "source": "maidmage.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MTcyNDU0LnBuZw==/315x250%23c/iupLQb.png",
         "bias": 0
       },
       {
-        "title": "انقاذ ماتبقى [Free] [Adventure] [Windows]",
-        "link": "https://rafdevdev35.itch.io/save-what-remains",
-        "description": "انقذ ماتبقى او اتبعهم",
-        "pubDate": "2026-08-10T01:18:39Z",
-        "source": "rafdevdev35.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTcyNjMyLnBuZw==/315x250%23c/XS4iGU.png",
-        "bias": 0
-      },
-      {
-        "title": "Super 2045 [Free] [Action]",
-        "link": "https://punksterfury.itch.io/super-2045",
-        "description": "Kill those nazis. Again.",
-        "pubDate": "2026-08-10T01:18:15Z",
-        "source": "punksterfury.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTcyNjQ5LnBuZw==/315x250%23c/Z8BI4g.png",
-        "bias": 0
-      },
-      {
-        "title": "🦊Space Fox: Uma Aventura Espacial🚀 [Free] [Android]",
-        "link": "https://news-studios.itch.io/space-fox-uma-aventura-espacial",
-        "description": "Space Fox: Uma Aventura Espacial é um jogo de tiro retro 2D em Pixel Art.",
-        "pubDate": "2026-08-10T01:17:34Z",
-        "source": "news-studios.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTcyNzk5LmpwZw==/315x250%23c/YVhRD9.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Chroma Key [Free] [Puzzle]",
-        "link": "https://zacharybarbanell.itch.io/chroma-key",
-        "description": "A very short puzzle game about colors.",
-        "pubDate": "2026-08-10T01:17:04Z",
-        "source": "zacharybarbanell.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTcyNjExLnBuZw==/315x250%23c/6E%2FzSO.png",
-        "bias": 0
-      },
-      {
-        "title": "Salve a princesa [Free] [Adventure]",
-        "link": "https://rek-zerepe.itch.io/salve-a-princesa-foque-no-objetivo",
-        "description": "Meu primeiro jogo",
-        "pubDate": "2026-08-10T01:16:52Z",
-        "source": "rek-zerepe.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTcyOTkyLnBuZw==/315x250%23c/5B%2Brmr.png",
-        "bias": 0
-      },
-      {
-        "title": "No one mirror [Free]",
-        "link": "https://c0ffeell.itch.io/no-one-mirror",
-        "description": "Um jogo feito para nonejam 13",
-        "pubDate": "2026-08-10T01:15:48Z",
-        "source": "c0ffeell.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTcyNjA1LnBuZw==/315x250%23c/o57Z1o.png",
-        "bias": 0
-      },
-      {
-        "title": "Sprunki after dark [Free] [Rhythm] [Windows] [macOS] [Linux] [Android]",
-        "link": "https://br3ak-panc4k3.itch.io/sprunkiafterdark",
+        "title": "Coil Rush [Free] [Survival]",
+        "link": "https://levithangamez.itch.io/coil-rush",
         "description": "",
-        "pubDate": "2026-08-10T01:15:23Z",
-        "source": "br3ak-panc4k3.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTcyNjAzLnBuZw==/315x250%23c/SbeiIq.png",
+        "pubDate": "2026-08-10T02:31:48Z",
+        "source": "levithangamez.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MTc0ODc2LnBuZw==/315x250%23c/cWsPcq.png",
         "bias": 0
       },
       {
-        "title": "ShellShocked [Free] [Platformer]",
-        "link": "https://jasonkinggamedev.itch.io/shellshocked",
-        "description": "Break Out of Your Shell!",
-        "pubDate": "2026-08-10T01:13:09Z",
-        "source": "jasonkinggamedev.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTcyNTI0LnBuZw==/315x250%23c/61m8PT.png",
+        "title": "かたしろバトル [Free] [Action]",
+        "link": "https://user2-moo.itch.io/katashiro",
+        "description": "謎バトル / Action Game",
+        "pubDate": "2026-08-10T02:28:29Z",
+        "source": "user2-moo.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MTc0MDAyLnBuZw==/315x250%23c/Nx8ru%2B.png",
         "bias": 0
       },
       {
-        "title": "Hydro Racer WR [Free] [Windows] [macOS] [Linux] [Android]",
-        "link": "https://aqua-gaming.itch.io/httpsairborne-hydro-pulse-driftbase44app",
+        "title": "That one night with Mr. Carrot: Collection [Free] [Survival]",
+        "link": "https://1stfool.itch.io/that-one-night-with-mr-carrot",
+        "description": "Mr. Carrot full collection",
+        "pubDate": "2026-08-10T02:25:45Z",
+        "source": "1stfool.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MTc0NTgwLmpwZWc=/315x250%23c/xy3W5C.jpeg",
+        "bias": 0
+      },
+      {
+        "title": "BOMBALETA [Free] [Strategy] [Windows]",
+        "link": "https://enzomunizz0.itch.io/bombaleta",
+        "description": "Precisa proteger suas memórias para que as criaturas não consigam consumi-las e apagar suas memórias mais importantes",
+        "pubDate": "2026-08-10T02:24:02Z",
+        "source": "enzomunizz0.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MTczMjE5LnBuZw==/315x250%23c/O90Ezh.png",
+        "bias": 0
+      },
+      {
+        "title": "Combinados Suikas [Free] [Other] [Windows]",
+        "link": "https://olegasxp.itch.io/combinados-suika",
+        "description": "Um Suika Like",
+        "pubDate": "2026-08-10T02:19:07Z",
+        "source": "olegasxp.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MTczODg2LnBuZw==/315x250%23c/QLdwwu.png",
+        "bias": 0
+      },
+      {
+        "title": "White Square Adventure [Free] [Platformer]",
+        "link": "https://whitesquare-d.itch.io/white-square-adventure",
+        "description": "A pretty difficult precision platformer about a white square.",
+        "pubDate": "2026-08-10T01:52:46Z",
+        "source": "whitesquare-d.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MTc0NzU3LnBuZw==/315x250%23c/B7ENGF.png",
+        "bias": 0
+      },
+      {
+        "title": "SHARDS [Free] [Adventure] [Windows] [Linux]",
+        "link": "https://cemetery0n0.itch.io/shards",
+        "description": "You're a ghost with a body trapped in a mirror. Sneak past spirits, collect shards, and reclaim it before it's taken.",
+        "pubDate": "2026-08-10T01:42:30Z",
+        "source": "cemetery0n0.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MTczMjg3LnBuZw==/315x250%23c/MwDiqH.png",
+        "bias": 0
+      },
+      {
+        "title": "Réquiem das Máscaras [Free] [Action]",
+        "link": "https://emperorzoldyck.itch.io/rquiem-das-mscaras",
         "description": "",
-        "pubDate": "2026-08-10T01:08:33Z",
-        "source": "aqua-gaming.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTcyODk5LmpwZWc=/315x250%23c/LAeFWX.jpeg",
+        "pubDate": "2026-08-10T01:24:58Z",
+        "source": "emperorzoldyck.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MTc0MTU4LnBuZw==/315x250%23c/rIcygZ.png",
         "bias": 0
       },
       {
-        "title": "Hit The Brakes! [Free] [Racing] [Windows]",
-        "link": "https://bubblewitch.itch.io/hit-the-brakes",
-        "description": "Watch ads in your truck to earn the brakes",
-        "pubDate": "2026-08-10T01:07:59Z",
-        "source": "bubblewitch.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTcyNTA1LnBuZw==/315x250%23c/YlxkyO.png",
-        "bias": 0
-      },
-      {
-        "title": "Sprunki Tunner Buqeau [Free]",
-        "link": "https://inari4862.itch.io/sprunki-tunner-buqeau",
-        "description": "",
-        "pubDate": "2026-08-10T01:06:11Z",
-        "source": "inari4862.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTcyNTI1LmpwZWc=/315x250%23c/9hMah8.jpeg",
-        "bias": 0
-      },
-      {
-        "title": "Shiping Shells [Free] [Other]",
-        "link": "https://notzavier888.itch.io/shiping-shells",
-        "description": "",
-        "pubDate": "2026-08-10T01:01:17Z",
-        "source": "notzavier888.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTcyMzg3LnBuZw==/315x250%23c/Osh1GR.png",
-        "bias": 0
-      },
-      {
-        "title": "Magic Meatball [$2.00] [Android]",
-        "link": "https://novus-lux.itch.io/magic-meatball",
-        "description": "",
-        "pubDate": "2026-08-10T01:01:03Z",
-        "source": "novus-lux.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTcyMzcyLnBuZw==/315x250%23c/ZxsLTx.png",
-        "bias": 0
-      },
-      {
-        "title": "Shell Maze [Free] [Other] [Windows]",
-        "link": "https://elsrmapache.itch.io/shell-maze",
-        "description": "Collect shells in this dark shipwreck to scape the evil crab",
-        "pubDate": "2026-08-10T01:00:38Z",
-        "source": "elsrmapache.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTcyNzI0LnBuZw==/315x250%23c/Csvk1z.png",
-        "bias": 0
-      },
-      {
-        "title": "Mini Taggers V7 [Free] [Android]",
-        "link": "https://mini-taggers.itch.io/mini-taggers-v7",
-        "description": "",
-        "pubDate": "2026-08-10T01:00:08Z",
-        "source": "mini-taggers.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTcyMzc2LmpwZw==/315x250%23c/7yMQ%2FH.jpg",
-        "bias": 0
-      },
-      {
-        "title": "That's not my shell! [Free] [Platformer]",
-        "link": "https://pandahkkj.itch.io/thats-not-my-shell",
-        "description": "",
-        "pubDate": "2026-08-10T00:54:55Z",
-        "source": "pandahkkj.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTcyMjQxLnBuZw==/315x250%23c/iwFYNn.png",
-        "bias": 0
-      },
-      {
-        "title": "Gorilla Jumpers [Free] [Android]",
-        "link": "https://breezegt.itch.io/gorilla-jumpers",
-        "description": "",
-        "pubDate": "2026-08-10T00:54:18Z",
-        "source": "breezegt.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTcyMjkyLnBuZw==/315x250%23c/bLY8%2Fu.png",
-        "bias": 0
-      },
-      {
-        "title": "Space Shooter [Free]",
-        "link": "https://ogzrealm.itch.io/space-shooter",
-        "description": "Endless Game",
-        "pubDate": "2026-08-10T00:44:01Z",
-        "source": "ogzrealm.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTcyNTM1LmpwZw==/315x250%23c/tGRgK6.jpg",
-        "bias": 0
-      },
-      {
-        "title": "O Lobisomem do Alvoredo [Free] [Role Playing] [Windows]",
-        "link": "https://havenoxdev.itch.io/o-lobisomem-do-alvoredo",
-        "description": "Action RPG 2D em tributo à cultura e história do Rio Grande do Sul. Explore os pampas gaúchos e enfrente o Lobisomem!",
-        "pubDate": "2026-08-10T00:38:25Z",
-        "source": "havenoxdev.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTcyNDUzLnBuZw==/315x250%23c/7ufaHY.png",
-        "bias": 0
-      },
-      {
-        "title": "鬼札-ONIFUDA [Free] [Card Game]",
-        "link": "https://horizon-swyng.itch.io/onifuda",
-        "description": "Hanafuda Koi-Koi × Roguelike. Buy charms at the Oni's shop and survive twelve months.",
-        "pubDate": "2026-08-10T00:34:02Z",
-        "source": "horizon-swyng.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTcyODc3LnBuZw==/315x250%23c/eFF3Ma.png",
-        "bias": 0
-      },
-      {
-        "title": "A Totally Realistic Rat Game: The Little (Big!) Rat that Couldn't! [Free] [Survival] [Windows]",
-        "link": "https://dinodrummer.itch.io/rat-game",
-        "description": "",
-        "pubDate": "2026-08-10T00:28:30Z",
-        "source": "dinodrummer.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTcyMzk3LmpwZw==/315x250%23c/%2FOKwqp.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Tá Sentindo Esse Cheirinho de Fumaça? [Free] [Puzzle] [Windows]",
-        "link": "https://pandinhaboladao.itch.io/ta-sentindo-esse-cheirinho-de-fumaca",
-        "description": "Ajude Joel a escapar do trem resolvendo seus mistérios antes que o tempo acabe mais uma vez!",
-        "pubDate": "2026-08-10T00:08:40Z",
-        "source": "pandinhaboladao.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MTcyMTIwLnBuZw==/315x250%23c/sEgjiy.png",
+        "title": "Forge Empire [Free] [Other]",
+        "link": "https://vitorarzuaq.itch.io/forge-empire",
+        "description": "An endless medieval siege — forge, arm, survive",
+        "pubDate": "2026-08-10T01:19:02Z",
+        "source": "vitorarzuaq.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5MTc0NTMyLnBuZw==/315x250%23c/IU6GG5.png",
         "bias": 0
       }
     ],
     "World": [
+      {
+        "title": "Clashes in Iraq’s Kut city during protests over power shortages",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/aje-onl-nf_kut-protests-escalate-over-iraqs-electricity-crisis-090826?traffic_source=rss",
+        "description": "Protests over power shortages escalated in Kut, Iraq, as demonstrators demanded more electricity amid soaring heat.",
+        "pubDate": "2026-08-10T03:03:59Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Israel confirms death of Palestinian detainee, nearly two years late",
+        "link": "https://www.aljazeera.com/news/2026/8/10/israel-confirms-death-of-palestinian-detainee-nearly-two-years-late?traffic_source=rss",
+        "description": "The family of Ihab Diab disputes Israeli claims of health issues, alleging torture was behind his prison death.",
+        "pubDate": "2026-08-10T02:59:45Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Malaysian PM Anwar Ibrahim undergoes medical procedure",
+        "link": "https://www.aljazeera.com/news/2026/8/10/malaysian-pm-anwar-ibrahim-undergoes-medical-procedure?traffic_source=rss",
+        "description": "Malaysia's government says Anwar, 79, is undergoing medical examinations and a procedure advised by his specialists.",
+        "pubDate": "2026-08-10T02:48:51Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Wildfires burn across western US and Canada as residents are evacuated - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMjJ5UUtGSnBqYXN1Zjh2aG5TM3RlaVMwbWNHeWk4ZDBwcW5XVVdzY3RjSWsyYzljWmhGYmlGXzZ3Xy1vRDFtRUM0RnIwTzRkQTVmNzBBSjBTYzJQeGE5emhKODdhT2t2aUFqZ0lKcDFCSlVkWnM5bGpUTWlpeGtqbkQ1UlBteEZhUmxXYVFhV1o?oc=5",
+        "description": "",
+        "pubDate": "2026-08-10T02:47:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Alleged Irish crime boss Daniel Kinahan in court after Dubai extradition",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/alleged-irish-crime-boss-daniel-kinahan-in-court-after-dubai-extradition?traffic_source=rss",
+        "description": "Suspected Irish crime boss Daniel Kinahan has appeared before a Dublin court after being extradited from Dubai.",
+        "pubDate": "2026-08-10T01:43:37Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Houthis launch fresh ballistic missile and drone attacks on al-Makha port",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/houthis-launch-fresh-ballistic-missile-and-drone-attacks-on-al-makha-port?traffic_source=rss",
@@ -257,7 +329,7 @@
         "bias": -1
       },
       {
-        "title": "Reaction to the death of Don Nelson, the NBA’s second-winningest coach - apnews.com",
+        "title": "Reaction to the death of Don Nelson, the NBA’s second-winningest coach - AP News",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOME1JN3h2VzBLcUl5OU5id09OWVA2WGRqd2hhcDZOb1ZnS0RjZXVMUTJ4QVE2djlBSnRveUttTDFET1NJeDA0eTdlTF80aHhrMDZFMkdvUlVCMkpTVEl5ZHpNeERyWFFXaFhZMEREdFRrVGFYdlV3VXltVmtQTUdaamdHei0tMjg5TTFlTGpR?oc=5",
         "description": "",
         "pubDate": "2026-08-10T00:19:00Z",
@@ -285,13 +357,23 @@
       }
     ],
     "Politics": [],
-    "Tech": [],
+    "Tech": [
+      {
+        "title": "Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news - AP News",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2psZVVzWDFLUWxaM0N2dTlwTXpyQUhLVXRUNzFMZ1hoWVpQQk1iUXlZQWNFRTJKeFRZSFdfOWZCU0VxenBzOExCUXJDZm9DM3FCMmpOYXc5Y1dkSHpPOUdUTDFYN09mc0d0NmV4ZEtDWEhuVDdMcjN3QWdpcmlXUy1KcGRXd1NuSmt6ZTNMX0hTanNQZF9DelRIMFQxUHJ3UUJEb3FhM3QzMFRrNnZ5ZW9n?oc=5",
+        "description": "",
+        "pubDate": "2026-08-10T00:31:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ],
     "Science": [
       {
         "title": "China evacuates one million from homes as massive storm arrives",
         "link": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
         "description": "Typhoon Dolphin made landfall on Sunday evening, affecting Shanghai and other parts of eastern China.",
-        "pubDate": "2026-08-10T01:44:05Z",
+        "pubDate": "2026-08-10T03:15:21Z",
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ce6/live/e2285ea0-945a-11f1-80f4-1baf774a4468.jpg",
         "bias": -1
