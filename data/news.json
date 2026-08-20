@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-20T11:34:19.025387Z",
+  "lastUpdate": "2026-08-20T11:58:06.686880Z",
   "news": {
     "Gaming": [
       {
@@ -9,6 +9,24 @@
         "pubDate": "2026-08-20T11:22:20Z",
         "source": "minityty.itch.io",
         "image": "https://img.itch.zone/aW1nLzI5MzkzNTU4LnBuZw==/315x250%23c/hBymr3.png",
+        "bias": 0
+      },
+      {
+        "title": "Unstable Snake Fighter [Free] [Survival]",
+        "link": "https://davethedev08.itch.io/unstable-snake-fighter",
+        "description": "",
+        "pubDate": "2026-08-20T11:21:29Z",
+        "source": "davethedev08.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5Mzk0NTQ1LnBuZw==/315x250%23c/UCoh%2FX.png",
+        "bias": 0
+      },
+      {
+        "title": "Distribution [Free] [Other] [Windows]",
+        "link": "https://skeleo98.itch.io/distribution",
+        "description": "",
+        "pubDate": "2026-08-20T11:21:14Z",
+        "source": "skeleo98.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5Mzk0MTcxLnBuZw==/315x250%23c/QzPQK%2B.png",
         "bias": 0
       },
       {
@@ -129,15 +147,6 @@
         "bias": 0
       },
       {
-        "title": "The Underboss [Free] [Strategy] [Windows] [Android]",
-        "link": "https://kontoradev.itch.io/the-underboss",
-        "description": "",
-        "pubDate": "2026-08-20T10:00:11Z",
-        "source": "kontoradev.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5MzkzMTU0LnBuZw==/315x250%23c/tSI2rC.png",
-        "bias": 0
-      },
-      {
         "title": "versus snake [Free] [Action] [Windows] [macOS]",
         "link": "https://gdmaster4567.itch.io/versus-snake",
         "description": "snake but you can play with 2 people",
@@ -194,11 +203,38 @@
     ],
     "World": [
       {
+        "title": "Max Verstappen extends contract with Red Bull to 2030 after he weighed up leaving F1 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObjYza3lmeTJva0JEaTZzME4yTDA2Z210SnFvNW5zNjA0bXhPSHdfVlpueHFPVndIRldibVF1eWhvSUZ2Zk5ZeHNqRlpINklmcUVEUlo3RVRXeFVuRWdmNTh1NURYeHFpSkhhcTg3ZkNTUnBEb0NyVmN0Uy1TR1BQci1rNjlkeVJkOW1YWDZUb2x5aFNHZGc?oc=5",
+        "description": "",
+        "pubDate": "2026-08-20T11:44:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Chinese court sentences founder of troubled property developer Evergrande to life in prison - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdmpPc0tFMWFFbVdNcHBFUnNjM2h4QjhCVkFNcXU5Tk5YcXNmZWIzNUhEOGRhRlpfZFFwZGN6SW4wUjQ2T1hhbHdzUmltRFNTYURYd3NncEF6R3gyQ3hhQWxLSFFqU3dRX3FQeWMtbTQ5eGNZekZldjlVVlNLeWpFV2FjRUVIazYwQmdGVjI5eXI0dHY3NVljWjhtLWtCYVZwZ2JYSA?oc=5",
+        "description": "",
+        "pubDate": "2026-08-20T11:31:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
         "link": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims",
         "description": "The U.S. debt has surpassed $40 trillion. And, a new census report on noncitizen voting that President Trump is touting has ties to a think tank aligned with him, raising concerns among experts.",
         "pubDate": "2026-08-20T11:30:18Z",
         "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "PSG forced to move opening league match as heatwave in France damages pitch",
+        "link": "https://www.aljazeera.com/sports/2026/8/20/psg-forced-to-move-opening-league-match-as-heatwave-in-france-damages-pitch?traffic_source=rss",
+        "description": "Paris Saint-Germain moves its opening league game to Rennes after heatwave causes damage to pitch at Parc des Princes.",
+        "pubDate": "2026-08-20T11:21:50Z",
+        "source": "aljazeera.com",
         "image": "",
         "bias": -1
       },
@@ -239,10 +275,10 @@
         "bias": -1
       },
       {
-        "title": "Chinese court sentences founder of troubled property developer Evergrande to life in prison - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdmpPc0tFMWFFbVdNcHBFUnNjM2h4QjhCVkFNcXU5Tk5YcXNmZWIzNUhEOGRhRlpfZFFwZGN6SW4wUjQ2T1hhbHdzUmltRFNTYURYd3NncEF6R3gyQ3hhQWxLSFFqU3dRX3FQeWMtbTQ5eGNZekZldjlVVlNLeWpFV2FjRUVIazYwQmdGVjI5eXI0dHY3NVljWjhtLWtCYVZwZ2JYSA?oc=5",
+        "title": "Soccer fans launch global petition urging FIFA boss Infantino to resign over World Cup 'betrayal' - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbkFFM2lkVkpZbktQVDhRcjlCd0xoU3VkNml3Z1cyb3RWdU9oWWV3Yk9DY3ktUU9CV0dha1hZME1RdVZaU0hyeXJzU0VjdDlLeGVEUjE2eVF4Z3RlMmluQ180WU1zNEYwMUpQSHBHOHZuOWlIeW9aZS1lSXpmc3NoX1JnQ2R5RC1SM19iWmp0Mk40ZkFrZ3gwZTRxUQ?oc=5",
         "description": "",
-        "pubDate": "2026-08-20T10:41:00Z",
+        "pubDate": "2026-08-20T10:39:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -275,12 +311,39 @@
         "bias": -1
       },
       {
+        "title": "Why Taiwan and the South China Sea matter to the US and the world - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQk1xaTMtNG9paFJkZC13NzlIYTZTZW52RlZiWWYxOGpqRDQ5T1JGRHIwMktjUEZZdVF1VklMUmtEVlFlbDhsN1Z3NElVWDEwbWtNc19hcG1sa2JSR0lOdEtZdF81c3p2ZTlxY3FSRXpyX0s3b1M0bEVXMGVPVy03R2VQbWJ1UUl5aVFEamNOWlRmOGVMN0hiRmNpcjY3eHRnVzJXSTNvMA?oc=5",
+        "description": "",
+        "pubDate": "2026-08-20T10:30:03Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Syrian official says ‘no plans’ to establish Turkish military presence",
         "link": "https://www.aljazeera.com/news/2026/8/20/syrian-official-says-no-plans-to-establish-turkish-military-presence?traffic_source=rss",
         "description": "The foreign minister says in an interview that Turkish military officials had visited the airbase as part of training.",
         "pubDate": "2026-08-20T10:16:08Z",
         "source": "aljazeera.com",
         "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Iran dismisses US economic threats and other developments in the Middle East - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZUo2YS1oV3h0ZEw3eTYxSExqYk1RUnpscEFodEZRaXNWeTRXd25BbGxXYlJlVFA3bzdMdVFiQmFzb0dhWnFyRFVjWlo5Rm9mVmhwY3lvUVZ0YmZTMmlkdnd1VUV3UUIwMERCSWNMWkFsVnotdTVOS0tpSHU5QkphbWs0R2VEMDY0T1Nv?oc=5",
+        "description": "",
+        "pubDate": "2026-08-20T10:15:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Belgian car salesman becomes prince after royal parentage confirmed",
+        "link": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
+        "description": "Clément Vandenkerckhove was quietly brought into Prince Laurent's family at a town hall ceremony.",
+        "pubDate": "2026-08-20T10:14:47Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc1c/live/a8086e60-9c69-11f1-827b-69a6492daae1.jpg",
         "bias": -1
       },
       {
@@ -300,6 +363,15 @@
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feda/live/20a4f320-9c6f-11f1-a291-b542ee92de7c.jpg",
         "bias": -1
+      },
+      {
+        "title": "States pour taxpayer dollars into college sports as athlete pay, soaring costs squeeze budgets - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSzBEalFtdkhRX1NnNHYxdUF4akZVM2NieERERXZyc0xwVFlRVm9NTDhlOVdWLWZQbmNCNzNQYVhFQ2VWR1ZyY0JvTVpWRzBRb0VsaGJCaG9yUXdYUDUtLUJYUnBtd3dqd19jQXh1TlRzZ2VPMnNhbEVHXzRnLW10S3hTSDVGR21oZmhPcW53SzhHOVRRajd3?oc=5",
+        "description": "",
+        "pubDate": "2026-08-20T10:01:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Democrats narrow their list of 2028 presidential convention sites to Boston, Denver and Philadelphia - AP News",
@@ -374,7 +446,7 @@
         "bias": 0
       },
       {
-        "title": "Are Hormuz ships more willing to defy Iran or the US? What the data shows",
+        "title": "Are ships through more willing to defy Iran or the US? What the data shows",
         "link": "https://www.aljazeera.com/news/2026/8/20/are-hormuz-ships-more-willing-to-defy-iran-or-the-us-what-data-shows?traffic_source=rss",
         "description": "Most ships are trying to mask identities while trying to cross the strait. But more seem scared of Iran than of the US.",
         "pubDate": "2026-08-20T08:43:17Z",
@@ -417,15 +489,6 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Max Verstappen extends F1 contract with Red Bull to 2030 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObjYza3lmeTJva0JEaTZzME4yTDA2Z210SnFvNW5zNjA0bXhPSHdfVlpueHFPVndIRldibVF1eWhvSUZ2Zk5ZeHNqRlpINklmcUVEUlo3RVRXeFVuRWdmNTh1NURYeHFpSkhhcTg3ZkNTUnBEb0NyVmN0Uy1TR1BQci1rNjlkeVJkOW1YWDZUb2x5aFNHZGc?oc=5",
-        "description": "",
-        "pubDate": "2026-08-20T07:53:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Netanyahu warns Israel will not tolerate Turkish military presence in Syria",
@@ -588,63 +651,18 @@
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Trump vows ‘economic warfare’ on countries helping Iran",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss",
-        "description": "US President Donald Trump has threatened ‘economic D-Day’ on any countries that help or do business with Iran.",
-        "pubDate": "2026-08-20T04:31:10Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Israeli military launches criminal probes into killings of Hind Rajab and Palestinian paramedics - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjh4SUp0a2ZhbFFhSGQzVERrREI3OFJQRXBVY3gyS2FQRkp4RTFyTUc4d3dJRDUzTzR5X1d1YkVCeU9nYTNyYnM5NmRjS25xXzVZWk03SksyVFlOWWdnM1dhQ0kyVFB3Vmt1RWZVeDlyNEZYMXpNbC1NdGNWbjZkSnBjM1ZqV1FrVjRpSmRNOThiT1d3OG5Ob3FQcHlTcnRNWWdqUktqa3FqLVRONmU1NmZWLURUV2lm?oc=5",
-        "description": "",
-        "pubDate": "2026-08-20T04:20:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Israel's military to investigate Gaza attacks, and other major developments in the Middle East - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYUowRjQycmRhdmV0Q1lNSlg2TlhaeUpwNmRDbUVWMHFIMmZ2cGdDb1c5N2FhdWhBUzcwZldpVXRmbGFGcHA5bExfT1gxUmNxR1VXbk12dTlYVVotWFYyUDRNU1lNZTlZMHo2YmJJWldwN1VJWEJlTThjQ3MwUG1tbWFzQ1VVc0tsaFNNLXRsR0JSb0FObTVR?oc=5",
-        "description": "",
-        "pubDate": "2026-08-20T04:18:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-        "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-        "description": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
-        "pubDate": "2026-08-20T04:17:53Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a318/live/339ec150-9bc9-11f1-98c6-93bfcdb08681.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Judge will consider new trial for Karmelo Anthony in Texas track meet killing - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdlJiODJ3MFR3ajBzX3ZHR1pCX09tbUlDaWQ1SWtjZy1oS0dPdUFWWndpV01DaHU2aExoYmxseDVMdHdnSjZJb3ZHUjFyb1ozN3l2aDhjUFJVNGVIdFltNVEzQ1JvRDFtbVdGc0EwT2FkZGdWblprRUFiQmJjTk1iLWdZLVNZWHY0RlJPNmJpXzBZNFlzTndPWFh0M0pGUk5aclE3c3VFU2czM3ZzY0d2dw?oc=5",
-        "description": "",
-        "pubDate": "2026-08-20T04:02:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "A quiet channel between ICE and Iran shaped deportation flights, newly released emails show - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPam1JbUZXYXVPcGVfYlBKZENPYmxSdG1TVGdjSDVwZ2NXMEhDNDVaUlZtMUN6MUVEcVFsSTJsQzY0bGlrdkVxNjNSN1VBVDBfbEN6VW9fYkE5QUgyQzBVSVVZcGdzRXM1N2NXeGZoYk9tNk8yRDJWd0tvVFg1R0hfVHdvalEyd3FVX3V6dWNsSl9PYzBSV2NScTBnaTJQUWgwandGOW5R?oc=5",
-        "description": "",
-        "pubDate": "2026-08-20T04:02:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
+      {
+        "title": "Asylum seekers told rape and harassment illegal in UK in new Home Office booklet",
+        "link": "https://www.bbc.co.uk/news/articles/ceqe3y34e9eo?at_medium=RSS&at_campaign=rss",
+        "description": "The nine-page booklet covers issues including respect in public, sex and consent, and gender equality.",
+        "pubDate": "2026-08-20T11:55:14Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4a0/live/b9488090-9c71-11f1-a291-b542ee92de7c.png",
+        "bias": -1
+      },
       {
         "title": "A Russian missile and drone barrage kills at least 16 in Ukraine’s Kyiv region - AP News",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEM2OWViY2VqbDVyZFBIWHk5T05RYzVwbDEzeUQxZmtlQk9BRzJqVzVwWXZmQ1pwVnZXUkt2eVJLb3RncnpLUTJzT2txYlBVakhMWXpSY3BzR0JwM3dJVmhDZ1JTX3AwQUtuc0VXdmljOHhFeWlzdjlXakYtUmc0ekhOalRSZWZ3VVVYMzg4MUI3bDJa?oc=5",
@@ -653,15 +671,6 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Asylum seekers told rape and harassment illegal in UK in new Home Office booklet",
-        "link": "https://www.bbc.co.uk/news/articles/ceqe3y34e9eo?at_medium=RSS&at_campaign=rss",
-        "description": "The nine-page booklet covers issues including respect in public, sex and consent, and gender equality.",
-        "pubDate": "2026-08-20T10:28:26Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4a0/live/b9488090-9c71-11f1-a291-b542ee92de7c.png",
-        "bias": -1
       },
       {
         "title": "Labour leadership: Marra says party must work for stronger Scotland",
@@ -801,15 +810,6 @@
     ],
     "Tech": [
       {
-        "title": "Soccer fans launch global petition urging FIFA boss Infantino to resign over World Cup 'betrayal' - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbkFFM2lkVkpZbktQVDhRcjlCd0xoU3VkNml3Z1cyb3RWdU9oWWV3Yk9DY3ktUU9CV0dha1hZME1RdVZaU0hyeXJzU0VjdDlLeGVEUjE2eVF4Z3RlMmluQ180WU1zNEYwMUpQSHBHOHZuOWlIeW9aZS1lSXpmc3NoX1JnQ2R5RC1SM19iWmp0Mk40ZkFrZ3gwZTRxUQ?oc=5",
-        "description": "",
-        "pubDate": "2026-08-20T10:39:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "UK business hit by 'daylight robbery' 1500% price hike for invoicing software",
         "link": "https://www.bbc.co.uk/news/articles/clyq011414eo?at_medium=RSS&at_campaign=rss",
         "description": "Richard Haldenby says his average monthly bill for Harvest had risen from $130 (£95.50) to $2,110.",
@@ -826,6 +826,15 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
+      },
+      {
+        "title": "Israel's military to investigate Gaza attacks, and other major developments in the Middle East - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYUowRjQycmRhdmV0Q1lNSlg2TlhaeUpwNmRDbUVWMHFIMmZ2cGdDb1c5N2FhdWhBUzcwZldpVXRmbGFGcHA5bExfT1gxUmNxR1VXbk12dTlYVVotWFYyUDRNU1lNZTlZMHo2YmJJWldwN1VJWEJlTThjQ3MwUG1tbWFzQ1VVc0tsaFNNLXRsR0JSb0FObTVR?oc=5",
+        "description": "",
+        "pubDate": "2026-08-20T04:18:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       }
     ],
     "Science": [
@@ -867,6 +876,15 @@
       }
     ],
     "Business": [
+      {
+        "title": "Danone €1bn takeover of Huel approved by watchdog",
+        "link": "https://www.bbc.co.uk/news/articles/crl7y671w8go?at_medium=RSS&at_campaign=rss",
+        "description": "French firm says the acquisition of Huel will help it grow in the nutritional sector.",
+        "pubDate": "2026-08-20T11:41:01Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/460d/live/b579d640-9c7a-11f1-8413-79a38c9f8909.jpg",
+        "bias": -1
+      },
       {
         "title": "Illegal 'drip pricing' could add thousands to the cost of your holiday",
         "link": "https://www.bbc.co.uk/news/videos/cn8ndd8eklmo?at_medium=RSS&at_campaign=rss",
