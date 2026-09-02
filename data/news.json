@@ -1,287 +1,656 @@
 {
-  "lastUpdate": "2026-09-02T14:44:14.286775Z",
+  "lastUpdate": "2026-09-02T18:07:58.143837Z",
   "news": {
     "Gaming": [
       {
-        "title": "Vine Taggers By CCCVine [Free] [Android]",
-        "link": "https://predzthemonke.itch.io/vine-taggers-by-cccvive",
+        "title": "Captain Gabriel (Atari 2600) [Free] [Action]",
+        "link": "https://neogames.itch.io/captain-gabriel-atari-2600",
+        "description": "Defend the base from an alien attack!",
+        "pubDate": "2026-09-02T18:04:53Z",
+        "source": "neogames.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5NzIzMzExLmpwZw==/315x250%23c/I8efAZ.jpg",
+        "bias": 0
+      },
+      {
+        "title": "ZonaJuega: Puzzle Battles [Free] [Puzzle]",
+        "link": "https://zonajuega.itch.io/zonajuega-puzzle-battles",
+        "description": "Puzzle competitivo de combos, superbloques y ataques. Juega contra la IA, en local o reta a un amigo por código.",
+        "pubDate": "2026-09-02T17:48:47Z",
+        "source": "zonajuega.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5NzIzMjcxLnBuZw==/315x250%23c/fIRn7s.png",
+        "bias": 0
+      },
+      {
+        "title": "Birthday Blast (Atari 2600) [Free] [Action]",
+        "link": "https://neogames.itch.io/happy-birthday-atari-atari-2600",
+        "description": "Blast the Alien candles!",
+        "pubDate": "2026-09-02T17:46:06Z",
+        "source": "neogames.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5NzIyOTk1LmpwZw==/315x250%23c/E7AniE.jpg",
+        "bias": 0
+      },
+      {
+        "title": "The End of the World [$1.00] [Adventure] [Android]",
+        "link": "https://wenham.itch.io/the-end-of-the-world",
+        "description": "An emotional side-scrolling exploration game for when you need a sad song",
+        "pubDate": "2026-09-02T17:42:49Z",
+        "source": "wenham.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5NzIzMTc5LmpwZw==/315x250%23c/GUbDL1.jpg",
+        "bias": 0
+      },
+      {
+        "title": "DayDream [Free] [Rhythm] [Windows]",
+        "link": "https://carsonli.itch.io/daydream",
+        "description": "A 3D Unreal Engine based Rhythm Game",
+        "pubDate": "2026-09-02T17:14:17Z",
+        "source": "carsonli.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5NzIyMzg0LnBuZw==/315x250%23c/HCYKei.png",
+        "bias": 0
+      },
+      {
+        "title": "Plants Vs Zombies TC [Free] [Platformer] [Windows]",
+        "link": "https://bvgone.itch.io/pvz-tc",
+        "description": "A Plants vs. Zombies fangame that combines Tower Defense and platforming into a single game.",
+        "pubDate": "2026-09-02T17:13:05Z",
+        "source": "bvgone.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5NzIyNDY5LmpwZw==/315x250%23c/s%2FcYBu.jpg",
+        "bias": 0
+      },
+      {
+        "title": "FIDS [$1.99] [Puzzle]",
+        "link": "https://zartan917.itch.io/fids",
+        "description": "Flight Information Disaster System",
+        "pubDate": "2026-09-02T17:12:14Z",
+        "source": "zartan917.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5NzIyMzczLnBuZw==/315x250%23c/UJrZuV.png",
+        "bias": 0
+      },
+      {
+        "title": "Sovereign [Free] [Strategy]",
+        "link": "https://maksim-mikhalev.itch.io/sovereign",
+        "description": "Sovereign — a turn-based strategy game with procedural map generation.",
+        "pubDate": "2026-09-02T17:09:17Z",
+        "source": "maksim-mikhalev.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5NzIyMzExLnBuZw==/315x250%23c/WzocQ%2F.png",
+        "bias": 0
+      },
+      {
+        "title": "The bus stop. [Free] [Simulation]",
+        "link": "https://skull-blast-games.itch.io/the-bus-stop",
+        "description": "Wait for the bus",
+        "pubDate": "2026-09-02T17:02:45Z",
+        "source": "skull-blast-games.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5NzIyMzQwLnBuZw==/315x250%23c/zyWQAp.png",
+        "bias": 0
+      },
+      {
+        "title": "Loot Shoot 2 [Free] [Adventure] [Windows] [macOS]",
+        "link": "https://salaj.itch.io/loot-shoot-2",
+        "description": "Loot Shoot 2 is an Adventure Parkour Type Game That You Can Play with Your Friends",
+        "pubDate": "2026-09-02T17:02:08Z",
+        "source": "salaj.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5NzIyMTUyLnBuZw==/315x250%23c/bh2tXz.png",
+        "bias": 0
+      },
+      {
+        "title": "The Pulverizer [Free] [Shooter] [Windows]",
+        "link": "https://nergui1453.itch.io/pulverizer",
+        "description": "2D Topdown shooter, similar to Hotline Miami",
+        "pubDate": "2026-09-02T16:55:54Z",
+        "source": "nergui1453.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5NzIyMDQ5LnBuZw==/315x250%23c/CA3DQy.png",
+        "bias": 0
+      },
+      {
+        "title": "DragonBurst [Free] [Shooter] [Windows]",
+        "link": "https://golducke.itch.io/dragonburst",
+        "description": "Roguelike de acción Elige tu linaje Sobrevive al caos Desata DragonBurst. Convierte cada vuelo en una nueva estrategia.",
+        "pubDate": "2026-09-02T16:51:27Z",
+        "source": "golducke.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5NzIxOTc3LnBuZw==/315x250%23c/g92r2r.png",
+        "bias": 0
+      },
+      {
+        "title": "BLEKSNAKE [Free] [Puzzle] [Windows] [Linux] [Android]",
+        "link": "https://felxgaming.itch.io/bleksnake",
+        "description": "FelX Gaming",
+        "pubDate": "2026-09-02T16:47:56Z",
+        "source": "felxgaming.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5NzIxOTQ2LnBuZw==/315x250%23c/7Bc8fR.png",
+        "bias": 0
+      },
+      {
+        "title": "Gettin' Dicey [Free]",
+        "link": "https://gossamer-games.itch.io/gettin-dicey",
+        "description": "Bankrupt the house in a corrupt casino with your dirty dice.",
+        "pubDate": "2026-09-02T16:47:50Z",
+        "source": "gossamer-games.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5NzIxOTg1LnBuZw==/315x250%23c/QIrkTp.png",
+        "bias": 0
+      },
+      {
+        "title": "PigeonRunner4K [Free] [Platformer]",
+        "link": "https://tobyleronee.itch.io/pigeonrunner4k",
+        "description": "The best video game, possibly ever.",
+        "pubDate": "2026-09-02T16:44:09Z",
+        "source": "tobyleronee.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5NzIxODkwLnBuZw==/315x250%23c/pX2rNI.png",
+        "bias": 0
+      },
+      {
+        "title": "My Little Running Flappy Bird [Free] [Survival] [Windows]",
+        "link": "https://shervin-htf.itch.io/my-little-rfb",
+        "description": "How long can you survive?",
+        "pubDate": "2026-09-02T16:38:02Z",
+        "source": "shervin-htf.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5NzIxNjk2LnBuZw==/315x250%23c/lMsIL%2F.png",
+        "bias": 0
+      },
+      {
+        "title": "Bope Take [Free] [Other]",
+        "link": "https://ikonhero.itch.io/bope-take",
+        "description": "An absurdistic experience in gaming.",
+        "pubDate": "2026-09-02T16:14:54Z",
+        "source": "ikonhero.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5NzIxNzA1LmpwZw==/315x250%23c/8F4%2FxU.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Eleven Thousand [Free] [Simulation]",
+        "link": "https://crewsignal.itch.io/eleven-thousand",
+        "description": "A deep-sea salvage rig, eleven kilometres of water, and one winch. Descend to the bottom of the ocean.",
+        "pubDate": "2026-09-02T16:12:35Z",
+        "source": "crewsignal.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5NzIxNDM1LnBuZw==/315x250%23c/X%2Bx4yl.png",
+        "bias": 0
+      },
+      {
+        "title": "HELION [Free] [Strategy]",
+        "link": "https://codexnes.itch.io/helion",
+        "description": "Command your expedition, explore unknown sectors and decide how far you're willing to risk going.",
+        "pubDate": "2026-09-02T16:11:38Z",
+        "source": "codexnes.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5NzIyNzA5LnBuZw==/315x250%23c/YEr50b.png",
+        "bias": 0
+      },
+      {
+        "title": "Patagonia Veloz [Free] [Other]",
+        "link": "https://pandeneitor.itch.io/patagonia-veloz",
         "description": "",
-        "pubDate": "2026-09-02T14:39:51Z",
-        "source": "predzthemonke.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5NzE5NjAzLnBuZw==/315x250%23c/nbr2WA.png",
+        "pubDate": "2026-09-02T15:41:54Z",
+        "source": "pandeneitor.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5NzIwNzc3LnBuZw==/315x250%23c/dvLZGJ.png",
         "bias": 0
       },
       {
-        "title": "NEGATIVE 69 [Free] [Android]",
-        "link": "https://pumpkin-nmk.itch.io/negative-69",
+        "title": "PotionsTidy [$2.00] [Simulation] [Windows]",
+        "link": "https://firewebo.itch.io/potionstidy",
         "description": "",
-        "pubDate": "2026-09-02T14:29:58Z",
-        "source": "pumpkin-nmk.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5NzE5NDQ4LnBuZw==/315x250%23c/SOuDkT.png",
+        "pubDate": "2026-09-02T15:39:04Z",
+        "source": "firewebo.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5NzIwNjg5LnBuZw==/315x250%23c/CP%2F6ZM.png",
         "bias": 0
       },
       {
-        "title": "world of the monsters [Free] [Platformer] [Windows] [Linux]",
-        "link": "https://kopasoft.itch.io/world-of-the-monsters",
-        "description": "A pretty short 2d pixel art metroidvania platformer.",
-        "pubDate": "2026-09-02T14:21:59Z",
-        "source": "kopasoft.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5NzE5NDEyLnBuZw==/315x250%23c/z2UrQh.png",
-        "bias": 0
-      },
-      {
-        "title": "BIT-BOY BUILDER [Free] [Adventure] [Windows]",
-        "link": "https://heya-marvin.itch.io/bit-boy-builder",
-        "description": "BIT-BOY but terraria",
-        "pubDate": "2026-09-02T14:21:15Z",
-        "source": "heya-marvin.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5NzE5NjI5LnBuZw==/315x250%23c/nApicO.png",
-        "bias": 0
-      },
-      {
-        "title": "Vampire Killer (Scorpio Gamesworld) [Free] [Adventure]",
-        "link": "https://wls-hu.itch.io/vampire-killer",
-        "description": "A remake of the original ZX Spectrum game",
-        "pubDate": "2026-09-02T14:18:28Z",
-        "source": "wls-hu.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5NzE5MTUzLnBuZw==/315x250%23c/veovkk.png",
-        "bias": 0
-      },
-      {
-        "title": "Space Hop: Cosmic Orbit Jump [Free] [Action]",
-        "link": "https://superlia.itch.io/space-hop-cosmic-orbit-jump",
-        "description": "Leap across glowing celestial orbits, collect cosmic gems, and unleash fever mode in Space Hop!",
-        "pubDate": "2026-09-02T14:09:16Z",
-        "source": "superlia.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5NzE5MTEwLnBuZw==/315x250%23c/7I5CUj.png",
-        "bias": 0
-      },
-      {
-        "title": "[Twine Game ] Krung Siam 1907 [Free]",
-        "link": "https://tonkeng-studio-th.itch.io/twine-game-krung-siam1907",
-        "description": "A day in Bangkok, Siam, 1907.",
-        "pubDate": "2026-09-02T14:06:52Z",
-        "source": "tonkeng-studio-th.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5NzE4OTM4LnBuZw==/315x250%23c/euT%2FRI.png",
-        "bias": 0
-      },
-      {
-        "title": "CryptoMinerGames [Free]",
-        "link": "https://julio-3475.itch.io/cryptominergames",
+        "title": "Hyperay [Free] [Shooter] [Windows]",
+        "link": "https://badtoast.itch.io/hyperay",
         "description": "",
-        "pubDate": "2026-09-02T13:58:00Z",
-        "source": "julio-3475.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5NzE5MzUxLnBuZw==/315x250%23c/6W5eMG.png",
+        "pubDate": "2026-09-02T15:35:34Z",
+        "source": "badtoast.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5NzIwNDgzLnBuZw==/315x250%23c/VUw8BL.png",
         "bias": 0
       },
       {
-        "title": "PURRLIAMENT [Free] [Simulation] [Windows] [Linux]",
-        "link": "https://kirinoyastudios.itch.io/purrliament",
-        "description": "A feline colony simulation game. Observe, study, interact.",
-        "pubDate": "2026-09-02T13:57:39Z",
-        "source": "kirinoyastudios.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5NzE3MzE0LnBuZw==/315x250%23c/XlQVxd.png",
+        "title": "Defcoon : Vaulted [Free] [Strategy]",
+        "link": "https://wesoundcool.itch.io/defcoon-vaulted",
+        "description": "3D 60 Seconds",
+        "pubDate": "2026-09-02T15:02:54Z",
+        "source": "wesoundcool.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5NzIxMDcwLnBuZw==/315x250%23c/8WfiNi.png",
         "bias": 0
       },
       {
-        "title": "CRUNCH [Free]",
-        "link": "https://illiakra.itch.io/crunch",
-        "description": "A one-thumb puzzle built around sound",
-        "pubDate": "2026-09-02T13:57:03Z",
-        "source": "illiakra.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5NzE4ODA4LnBuZw==/315x250%23c/ikJ3%2FU.png",
+        "title": "Last soul /Demo [Free] [Action] [Windows]",
+        "link": "https://omar-5566.itch.io/last-soul-demo",
+        "description": "last soul قاوم او اهلك",
+        "pubDate": "2026-09-02T14:47:41Z",
+        "source": "omar-5566.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5NzE5NzU1LnBuZw==/315x250%23c/463v0f.png",
         "bias": 0
       },
       {
-        "title": "BIT-BOY BRO'S [Free] [Fighting] [Windows]",
-        "link": "https://heya-marvin.itch.io/bit-boy-bros",
-        "description": "BIT-BOY but smash bro's",
-        "pubDate": "2026-09-02T13:56:49Z",
-        "source": "heya-marvin.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5NzE4ODAwLnBuZw==/315x250%23c/UanHiW.png",
-        "bias": 0
-      },
-      {
-        "title": "Decay Engine [$1.99] [Strategy] [Windows]",
-        "link": "https://nana4ever.itch.io/decay-engine",
-        "description": "A minimalist, terminal-style political simulator. Survive 12 cycles of state collapse.",
-        "pubDate": "2026-09-02T13:55:05Z",
-        "source": "nana4ever.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5NzE5NDUzLnBuZw==/315x250%23c/o1IsTe.png",
-        "bias": 0
-      },
-      {
-        "title": "Labirinto maluco demo [Free] [Puzzle]",
-        "link": "https://traposolto-13.itch.io/labirinto-maluco-demo",
+        "title": "P.S.Me - Alex & The Couch of Destiny (Demo) [Free] [Adventure]",
+        "link": "https://psme.itch.io/psme-demo",
         "description": "",
-        "pubDate": "2026-09-02T13:49:53Z",
-        "source": "traposolto-13.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5NzE4NjQ4LnBuZw==/315x250%23c/8TMiAX.png",
+        "pubDate": "2026-09-02T12:24:36Z",
+        "source": "psme.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5NzE3MjIyLnBuZw==/315x250%23c/7ek28L.png",
         "bias": 0
       },
       {
-        "title": "Birb [Free] [Other]",
-        "link": "https://drago-pl.itch.io/birb",
-        "description": "Flappy Bird Clone",
-        "pubDate": "2026-09-02T13:49:17Z",
-        "source": "drago-pl.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5NzE4NTI0LnBuZw==/315x250%23c/FQumHz.png",
+        "title": "Wings Over Dark Water [Free] [Interactive Fiction] [Windows] [macOS] [Linux]",
+        "link": "https://sparrowhawkflies.itch.io/wings-over-dark-water",
+        "description": "One duel can change...everything.",
+        "pubDate": "2026-09-02T09:44:02Z",
+        "source": "sparrowhawkflies.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5NzE1NzAzLnBuZw==/315x250%23c/gh1lBI.png",
         "bias": 0
       },
       {
-        "title": "UNKNOWN DUNGEON [Free] [Action]",
-        "link": "https://nizihuyu.itch.io/unknown-dungeon",
-        "description": "Can you clear this dungeon in under 30 minutes?",
-        "pubDate": "2026-09-02T13:36:49Z",
-        "source": "nizihuyu.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5NzE4OTQ2LmpwZw==/315x250%23c/WrfIRa.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Mythical Triad [Free] [Card Game]",
-        "link": "https://milochan.itch.io/mythical-triad",
-        "description": "Card game, similar to triple triad",
-        "pubDate": "2026-09-02T13:32:26Z",
-        "source": "milochan.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5NzE4NTUwLmpwZw==/315x250%23c/eW5rbX.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Qu33ph [Free] [Other]",
-        "link": "https://qu33pharcadegame.itch.io/qu33ph",
-        "description": "The original marker rolling game!",
-        "pubDate": "2026-09-02T13:30:26Z",
-        "source": "qu33pharcadegame.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5NzE5MjI2LmpwZw==/315x250%23c/oowZxN.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Cutie Cleaning Core :3 [Free] [Rhythm]",
-        "link": "https://aestardev.itch.io/cutie-cleaning-core-3",
+        "title": "The Amazing Digital You [Free] [Windows]",
+        "link": "https://boxycolin-games.itch.io/the-amazing-digital-you",
         "description": "",
-        "pubDate": "2026-09-02T13:30:06Z",
-        "source": "aestardev.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5NzE4MjY4LnBuZw==/315x250%23c/AGCLkq.png",
-        "bias": 0
-      },
-      {
-        "title": "Larpman [Free] [Other] [Windows]",
-        "link": "https://thomas-xbr.itch.io/larpman",
-        "description": "Collect all six pages to escape Larpman!",
-        "pubDate": "2026-09-02T13:29:39Z",
-        "source": "thomas-xbr.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5NzE4MTg5LmpwZw==/315x250%23c/swC43a.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Pixel Madness [Free] [Action]",
-        "link": "https://okiddy-games.itch.io/pixel-madness",
-        "description": "Pictures Destruction Sandbox",
-        "pubDate": "2026-09-02T13:22:14Z",
-        "source": "okiddy-games.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5NzE4NDczLnBuZw==/315x250%23c/uqR6Hh.png",
-        "bias": 0
-      },
-      {
-        "title": "Arsonists' Paradise [Free] [Puzzle]",
-        "link": "https://bucket-dpr.itch.io/arsonists-paradise",
-        "description": "",
-        "pubDate": "2026-09-02T13:07:51Z",
-        "source": "bucket-dpr.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5NzE4NzE1LnBuZw==/315x250%23c/NqDoJC.png",
-        "bias": 0
-      },
-      {
-        "title": "Flippy Slime Friends [Free] [Puzzle]",
-        "link": "https://pporter.itch.io/slime",
-        "description": "Isometric one-stroke slime puzzle. Flip tiles, reach the goal.",
-        "pubDate": "2026-09-02T12:58:38Z",
-        "source": "pporter.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5NzE4NTY0LnBuZw==/315x250%23c/SMmNYk.png",
-        "bias": 0
-      },
-      {
-        "title": "DREAM_TIDE_FIVE_SOFT_STARS [Free] [Windows]",
-        "link": "https://garakutaya.itch.io/dream-tide-five-soft-stars",
-        "description": "",
-        "pubDate": "2026-09-02T12:39:00Z",
-        "source": "garakutaya.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5NzE3NDE1LnBuZw==/315x250%23c/fUUFq3.png",
-        "bias": 0
-      },
-      {
-        "title": "Touhou ID [Free] [Strategy]",
-        "link": "https://sashastep04.itch.io/touhou-id",
-        "description": "Indirect Danmaku Shooter",
-        "pubDate": "2026-09-02T12:33:44Z",
-        "source": "sashastep04.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5NzE3NjE3LnBuZw==/315x250%23c/bWb79k.png",
-        "bias": 0
-      },
-      {
-        "title": "MAVIO: Entre Luz e Eco [Free] [Platformer]",
-        "link": "https://tiiiik.itch.io/mavio",
-        "description": "Drift between Light and Echo in a 2D platformer with Ether, fragments, upgrades, and bosses.",
-        "pubDate": "2026-09-02T12:26:17Z",
-        "source": "tiiiik.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5NzE3OTQ1LmpwZw==/315x250%23c/DRTqaH.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Cubey Survival [Free] [Survival] [Windows] [Android]",
-        "link": "https://mattxtra.itch.io/cubey-survival",
-        "description": "Survive from a big red ball as a cute cube!",
-        "pubDate": "2026-09-02T12:13:21Z",
-        "source": "mattxtra.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5NzE3MTk1LnBuZw==/315x250%23c/d3s2WN.png",
-        "bias": 0
-      },
-      {
-        "title": "The Roach Hotel [Free] [Survival] [Windows]",
-        "link": "https://hawtcombo.itch.io/the-roach-hotel",
-        "description": "A horror game about cockroaches",
-        "pubDate": "2026-09-02T12:02:19Z",
-        "source": "hawtcombo.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5NzE4NTkwLmdpZg==/original/%2BCY%2BD%2F.gif",
-        "bias": 0
-      },
-      {
-        "title": "The Last Hundred [Free] [Strategy] [Windows]",
-        "link": "https://diogoandrade.itch.io/the-last-hundred",
-        "description": "Lead a hundred soldiers through a war that gives none of them back.",
-        "pubDate": "2026-09-02T08:29:41Z",
-        "source": "diogoandrade.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5NzE5MjYxLnBuZw==/315x250%23c/OB6wGC.png",
-        "bias": 0
-      },
-      {
-        "title": "Ultimate Word Search [Free] [Puzzle]",
-        "link": "https://freshmeat911.itch.io/ultimate-word-search",
-        "description": "",
-        "pubDate": "2026-09-02T05:05:35Z",
-        "source": "freshmeat911.itch.io",
-        "image": "https://img.itch.zone/aW1nLzI5NzExMzkwLnBuZw==/315x250%23c/1hKltv.png",
+        "pubDate": "2026-09-02T00:23:46Z",
+        "source": "boxycolin-games.itch.io",
+        "image": "https://img.itch.zone/aW1nLzI5NzA4NzQ0LnBuZw==/315x250%23c/U5FOq4.png",
         "bias": 0
       }
     ],
     "World": [
       {
-        "title": "Tiger Woods gets five-year driving ban after reckless driving plea",
-        "link": "https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss",
-        "description": "The golfer will accept a five-year driving ban and $1,000 fine as part of a plea agreement.",
-        "pubDate": "2026-09-02T14:40:20Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0c8/live/b24f0110-a6cb-11f1-b0c9-07afcdd8053c.jpg",
+        "title": "Gunman in deadly Swiss rave attack ‘lone perpetrator’, police say",
+        "link": "https://www.aljazeera.com/news/2026/9/2/gunman-in-deadly-swiss-rave-attack-lone-perpetrator-police-say?traffic_source=rss",
+        "description": "Police say no indication anyone ​else involved in attack that killed 22-year-old Italian woman.",
+        "pubDate": "2026-09-02T17:43:01Z",
+        "source": "aljazeera.com",
+        "image": "",
         "bias": -1
+      },
+      {
+        "title": "Postal Service work to comply with Trump's executive order is rushed and sloppy, a whistleblower contends - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQkd4Zk5iSDQ5MEUwOWtZRm9aNlNmSTI5OUE1QnhxSmZvNE41MnJPUUtTWVcwbXVRbDZoSF9FaS1DTUJPbG8zZ1MxOFRuVlR3Z3dSWVFzZTVuWjk5dFRrNUJfVkdicUk1RUMyM29WSTVmSTNpZWlyZFNQWVVBOGJ0cHlVeE5YTDBlLUNwdk40OXQwVGtoV3FyWE93Q0gzbXZjWkJPb21LTQ?oc=5",
+        "description": "",
+        "pubDate": "2026-09-02T17:38:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Over 500 students hospitalised after eating state-supplied meals in Indones",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/over-500-students-hospitalised-after-eating-state-supplied-meals-in-indones?traffic_source=rss",
+        "description": "More than 500 students in Indonesia were hospitalised with food poisoning on Tuesday.",
+        "pubDate": "2026-09-02T17:37:29Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "A year into Trump’s boat strike campaign, families search for answers",
+        "link": "https://www.aljazeera.com/news/2026/9/2/a-year-into-trumps-boat-strike-campaign-families-search-for-answers?traffic_source=rss",
+        "description": "While the Trump administration claims it has killed 'narcoterrorists', families fear fishermen are among the victims.",
+        "pubDate": "2026-09-02T17:35:32Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
+        "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
+        "description": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
+        "pubDate": "2026-09-02T17:33:45Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7003/live/d674cf10-a6ef-11f1-9e4c-79c1c0e340c6.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Stocks rise on Wall Street as oil prices, bond yields hold relatively steady - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWpnZ3RKcXY5RDdJZlprM3VNZmtNemdGTVlvc2hhR2R4SmpFRTdMdy16bVd4TFEzTFlHdDc1emVDMVQ2cnpDcVRNZ1hlWUNLMzV0UG9DZ040TGlSclIwM1NsR2pkREdVYXJVVjZWc3Z2anJTaUQxYWxDYWhUOTRuc0pndl9mNTIxWW9HSzFTdlBHM1k?oc=5",
+        "description": "",
+        "pubDate": "2026-09-02T17:31:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Iran fires on its Gulf neighbors, retaliating for US strikes after a wedding was hit - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTQ5RWEwemszN1g0ZGdybDJrd0d4MW9sTk43M05welQ3WGZmeWgycERkU0NFck5vMDc4eXBjbmdQSzc0OTNodV9tMXhpTFg1WF9SR2JXOXp3aEVGVjBHSUlwVFR5QWpVdnJodmNfV1FmdEZBeDlhUHNJZVZPeHliVlBQU3hZTXJhNGgzNGZoNURLUWtqOW53OUF2TTJpSEpsNGVBTDVyOUI?oc=5",
+        "description": "",
+        "pubDate": "2026-09-02T17:31:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Raphael Warnock has done it. Adam Hamilton wants to follow as a pastor-US senator - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQTVmRkhQanpsMnRrN0F0SWFPRXlzbjBSc1NUMmFwWFdmUzNpd0MxOTQ5cDhhRjVvOEFGSHczR1AxZ1hwd3BFNFVHUWRqSmZGRnozQ2ZIdGpKSEpvNzNocjlRbVlLc29KbEZoWjJEeDYxWHk1cm9oS1JwYnZtMjQ4eUFGQ1JyU1pVTGVYMU5ETDIzbHpBWDNXXy15SUNZRjdOOU9KWXRWaXI?oc=5",
+        "description": "",
+        "pubDate": "2026-09-02T17:18:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Brazilian activist demands Tunisia release Sumud Flotilla organisers",
+        "link": "https://www.aljazeera.com/news/2026/9/2/brazilian-activist-demands-tunisia-release-sumud-flotilla-organisers?traffic_source=rss",
+        "description": "Activists say four organisers of flotilla that sought to break Gaza blockade have been held in Tunisia since March.",
+        "pubDate": "2026-09-02T17:10:17Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Judge questions Lindsay Clancy jury after a woman is accused of filming them - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcDR2aHlEa1YxemttTW9SQzE4cmFFMDlJS3lVNWw0dFU0R0IyTmNJcHRjTE9HM2F2V1RrY19qamNtSUQxekNXc3BqWjZZanpHbTQ1S0hZbmdFTFhLUmNfd1hWRGpCTU10R1BEWXpOTmVsN2FOaTh4bE5fak53R25XUV9Jc3R4dURYWDduWHhybk9nQ1lDLTdYTQ?oc=5",
+        "description": "",
+        "pubDate": "2026-09-02T17:09:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Iran targets US allies in Gulf after overnight attacks, and other Mideast news - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOTAxalBMekxHQmg5Z1UyMmlvNjNjZWJtc015S2dUNEdELTNJX0xCZzVKRHJqdVZsc0Z6eEJMUTIzSXk2SlMyajgwaklyT1g2clhDODBmWmlSQUZUWHlHTlN6TFhTeDZ0bUplZzVPdDFMN24yTTVpZWhJOWo1b1l1S2ljeFpXM0c3WUEtdHV2c3h6Z0hIdGVobFAzalFXRWYwU08wdEJkUXJyNHM?oc=5",
+        "description": "",
+        "pubDate": "2026-09-02T17:06:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Woman charged with juror intimidation in Lindsay Clancy trial",
+        "link": "https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&at_campaign=rss",
+        "description": "Dawn Light is accused of taking photos of jurors outside the Plymouth courthouse, a practice prohibited by the court.",
+        "pubDate": "2026-09-02T17:05:09Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0826/live/c1835830-a6e8-11f1-9e4c-79c1c0e340c6.jpg",
+        "bias": -1
+      },
+      {
+        "title": "George Lucas presents a galaxy of art that goes far, far past 'Star Wars' in new Los Angeles museum - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQckpoeGRLd1p6eXd2M1p6QlFJSUdMWUt5SUFEUUVjcXc4eGllY1dhR1JidHd6Si1OWEhtSC1WZUs1VmFqZmVBSHAxQ25OR1dnSEFEQ2xJVVRzSEpmQS11c3RESHZtenVRLTc1U1RnZlV1VmNSME5vTTZ5RFZ6UGhwN1ZCTVE4SHhSVVU3QjB0bnREZm1ZU004UTh6WXp2N0U?oc=5",
+        "description": "",
+        "pubDate": "2026-09-02T17:00:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "South African airline behind daring  stadium stunt cancels next flyby, regulator says",
+        "link": "https://www.bbc.co.uk/news/articles/c2e0r4nwg30o?at_medium=RSS&at_campaign=rss",
+        "description": "The civil aviation authority says it is also investigating last Saturday's aerial display.",
+        "pubDate": "2026-09-02T16:58:59Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b439/live/dda60120-a6ed-11f1-a291-b542ee92de7c.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Edouard, now a tropical depression, drenches Texas with flash flooding and downed trees - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTkZWM010U05DNldzYTNyNXFhRlp0WG9KTkYweFBvRHd6eHRtc0I0SjByUUVEME5yb20wb3NkWExRYzdTSFZDQnRiXzZxUlJUaFFxekgyYzJLa2ZBNE1RNVFFTTRuY0Q3WHZCS0Z1WmhvNXpyajVDUXk2eE51VE4taDkzNHVWQWxNYWZqNE9CWDY1Q0NVdDY4VjgxZlZQUUx2dzVUamctOFhJc1hzU0E?oc=5",
+        "description": "",
+        "pubDate": "2026-09-02T16:58:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "US oil giant Chevron to expand Venezuela operations",
+        "link": "https://www.aljazeera.com/economy/2026/9/2/us-oil-giant-chevron-to-expand-venezuela-operations?traffic_source=rss",
+        "description": "Chevron, the only US oil firm with major presence in Venezuela, said it has got extra acreage and will double output.",
+        "pubDate": "2026-09-02T16:57:22Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Uber lays off 3,300 employees in largest cuts since the pandemic",
+        "link": "https://www.aljazeera.com/economy/2026/9/2/uber-lays-off-3300-employees-in-largest-cuts-since-the-pandemic?traffic_source=rss",
+        "description": "The layoffs aim to streamline management layers and simplify team structures, says Uber’s CEO Dara Khosrowshahi.",
+        "pubDate": "2026-09-02T16:55:52Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Deadly bus crash in Egypt’s Sinai kills 22, injures 28",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/deadly-bus-crash-in-egypts-sinai-kills-22-injures-28?traffic_source=rss",
+        "description": "A deadly bus crash in Egypt’s South Sinai killed 22 people and injured 28",
+        "pubDate": "2026-09-02T16:52:52Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Lawmakers ask Army to explain why it told a military unit to stop specializing in drone warfare - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQzNFQjRyWFZWZVN0cFdTdHBxczZLZE9yMjU4anhoajQ1MkhyeE9IcXZ4OGlHclRnczlZMnNXcmQtN25tZFBxV1hQaFNPdFJGXzlHcTctN2FhUENRSHNtLUxJaUQ5VnZGWmlqX3E1bHFFakFJem5TWWRkS3ZRQm9pQmFPRTRVNkVKUU14TW1UdXF2MHZzYk9wb3V2NXI4Nkt6UXRWN2M0aw?oc=5",
+        "description": "",
+        "pubDate": "2026-09-02T16:51:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
         "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
         "description": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
-        "pubDate": "2026-09-02T14:34:22Z",
+        "pubDate": "2026-09-02T16:49:00Z",
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e37a/live/fe3f01b0-a6cb-11f1-b0c9-07afcdd8053c.jpg",
         "bias": -1
+      },
+      {
+        "title": "Zambia’s Hichilema begins second term amid disputed vote and arrests",
+        "link": "https://www.aljazeera.com/news/2026/9/2/zambias-hichilema-begins-second-term-amid-disputed-vote-and-arrests?traffic_source=rss",
+        "description": "Economic gains face growing scrutiny as political tensions deepen after the vote.",
+        "pubDate": "2026-09-02T16:47:47Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Xi visits Egypt as China seeks deeper influence across the Mideast - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS19jZzNyanZTMzZtcmtULXFoZ3o1S3YzTzNMcnRXVUt5Vlh1UUJ0LW5td1lQRkZTQlFld1VCbU5VS0FSTXdDV3JucGdUdnRFaWJneEVKLV9yMUZydmNOS3hDVFBjbHQ4VTM3TFhiNF84NVFOQTVJX1FKNGdMMFpGVFFqRzRvbjM2YnFvYmk5bjZ3RTc1RnlFNG4zaw?oc=5",
+        "description": "",
+        "pubDate": "2026-09-02T16:30:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "George Clooney: US government run by ‘least qualified people’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/george-clooney-us-government-run-by-least-qualified-people?traffic_source=rss",
+        "description": "US actor George Clooney has described US President Donald Trump’s administration as a ‘kakistocracy’.",
+        "pubDate": "2026-09-02T16:25:28Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "WHO chief warns Ebola response must ramp up to stem DRC outbreak",
+        "link": "https://www.aljazeera.com/news/2026/9/2/who-chief-warns-ebola-response-must-ramp-up-to-stem-drc-outbreak?traffic_source=rss",
+        "description": "Number of people killed in the Democratic Republic of Congo from disease exceeds 3,000 amid response funding gap.",
+        "pubDate": "2026-09-02T16:18:45Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
+        "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
+        "description": "Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine.",
+        "pubDate": "2026-09-02T16:12:43Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d1e/live/cba5ddd0-a6e6-11f1-9e4c-79c1c0e340c6.jpg",
+        "bias": -1
+      },
+      {
+        "title": "US oil giant Chevron confirms it will expand operations in Venezuela - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeUY5RDVMaG9WMTE1ZHVocE9lUWVQWXNiOFBGY3dUc3hOdTVIYzRtNkwyV0VJYTRPcnNSR2hoYkh6Q2JFQ3RYS2JQSTlVeXhrcF9XVzBVeVA5OEdxSVp1RHZ1QmhWX1FXM3lYVWdVeEF0T1V5TFh0cS1scmdZd2d2RVg2aE0wd3Z5T1gxRE5BbkI?oc=5",
+        "description": "",
+        "pubDate": "2026-09-02T16:07:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
+        "link": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
+        "description": "More than 1,200 people have died and thousands are missing, as rescue efforts continue and aid is airlifted to villages.",
+        "pubDate": "2026-09-02T15:57:13Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf1d/live/babee4c0-a6b5-11f1-bf9b-4185c128a665.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Virginia elementary school evacuated as police respond to emergency - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNTZtMEdHSU9jY2FSX2xjb094YVNlUEJwOTRlTlhBdGM4MVlmdl9sRG1ISXQ1Rm1PX0NXWW5zdlZVbWppQXliVnBHMkpwNHJoNmdNYWRTSTFYNWZuSmdwc3U0Unp5VktqbUhqYURoRXVWRDRGSVVVM0xRMTRQNHBsTi1IOW5WdVpVdktWMmF3OHdwZzFOMV9EeS1qaS0?oc=5",
+        "description": "",
+        "pubDate": "2026-09-02T15:54:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Dismissal of ex-US soldier Bergdahl’s conviction was invalid, court rules",
+        "link": "https://www.aljazeera.com/news/2026/9/2/dismissal-of-ex-us-soldier-bergdahls-conviction-was-invalid-court-rules?traffic_source=rss",
+        "description": "Appeals panel says only military tribunals may assess court-martial convictions in blow to former Afghan war prisoner.",
+        "pubDate": "2026-09-02T15:53:33Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Russian strikes kill 2 Ukrainian civilians as Moscow and Kyiv threaten to raise the stakes - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSzNQdXdOREo0QmNLQW9YeFJNYllJTXlTVXhRa3NZR3NrcHZNYTdLS2w5UVNZZVVCQnZTNnZmTnhEYUxDc2tRWkJKeU44eEVEa2JFOVdSVjhZNmFZQ3lXX00xZlNIWG0wRnVjM3hDS2ozUWFrczhUQmFjbndBVkdDMVUwak1zZHRzNHNvUjJHQkk5Zkd2YVNYd1ZsN1N1TXM1bDUxeldwMngxQzI5?oc=5",
+        "description": "",
+        "pubDate": "2026-09-02T15:52:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Israeli PM Netanyahu in Gaza, ‘we are not withdrawing’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-netanyahu-in-gaza-we-are-not?traffic_source=rss",
+        "description": "Israeli Prime Minister Benjamin Netanyahu has said Israel does not plan to withdraw from Gaza",
+        "pubDate": "2026-09-02T15:45:54Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "China’s Xi urges new Middle East security framework during rare Egypt visit",
+        "link": "https://www.aljazeera.com/news/2026/9/2/chinas-xi-urges-new-middle-east-security-framework-during-rare-egypt-visit?traffic_source=rss",
+        "description": "Chinese, Egyptian leaders discuss the US-Israel war on Iran, which has prompted regional powers to rethink defence.",
+        "pubDate": "2026-09-02T15:42:01Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
+        "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+        "description": "Iranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and drones at US targets in the Middle East.",
+        "pubDate": "2026-09-02T15:33:19Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f37/live/8eb97870-a6e4-11f1-9e4c-79c1c0e340c6.jpg",
+        "bias": -1
+      },
+      {
+        "title": "EU struggles to find an effective response after Germany blames Russia for a failed drone attack - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGRNWFdXclZxNGQxMGdIWFF3Q2E3UHdFM0lyU29mdnVqVGdKWFN1ZVZxVXFHNEl5dlRtbkxsa2FocHAwMFc4ME1MZndYUm9QSUVWelM4X2hLdWlRRUc2N18wd0FnelNDejNjSnl1bmZraVlDWXFvUWpHMThvZjc3ZU1KeFJVWlY3cTVFaWZ2RFJlN2UzMllBX1BVOEZBZHhqOTducWt3ZXo?oc=5",
+        "description": "",
+        "pubDate": "2026-09-02T15:30:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Judge lacked power to overturn ex-soldier Bowe Bergdahl's military conviction, appeals court rules - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM1NKbXdXemNDbUdCZmJBUmtSdUNHd1loUEFlUGhwWkozVFp2U2hqTk1vOTA2Y0FoQVByWi05MWFZMWZrT1VBbGhGeUt2NHRTNnBLX1R6UkVQWURFb3NqaThpZ25CZmdfSElPU2Q2SUdna2dLbUpyM3k4V0RaNnVOUlNpcWtTb3piWk9zU1pHX1BkU04yNDdjc0xR?oc=5",
+        "description": "",
+        "pubDate": "2026-09-02T15:24:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Aubameyang ‘humiliated’ as ex-Arsenal striker quits Gabon national team",
+        "link": "https://www.aljazeera.com/sports/2026/9/2/aubameyang-humiliated-as-ex-arsenal-striker-quits-gabon-national-team?traffic_source=rss",
+        "description": "Pierre-Emerick Aubameyang cites 2025 Africa Cup of Nations treatment as captain steps away from Gabon duty.",
+        "pubDate": "2026-09-02T15:21:43Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Lizzo 'grateful' after judge dismisses lawsuit against production company",
+        "link": "https://www.bbc.co.uk/news/articles/c8xk4rl904vo?at_medium=RSS&at_campaign=rss",
+        "description": "The About Damn Time singer says she is \"relieved\" at the outcome and will \"continue to fight\" every claim.",
+        "pubDate": "2026-09-02T15:20:19Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6112/live/6619c9d0-a6ba-11f1-ae1e-219da1d6451a.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a monthlong lull",
+        "link": "https://www.npr.org/2026/09/02/nx-s1-5954013/us-iran-war-latest-updates",
+        "description": "The six-month war has led to a spike in oil prices, roiled the global economy and posed increasing political problems for President Trump's Republican Party ahead of November midterm elections.",
+        "pubDate": "2026-09-02T15:18:09Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "'Nothing but mud and silt' - the village swept away by deadly floods in Nepal",
+        "link": "https://www.bbc.co.uk/news/videos/cn0j4k45z32o?at_medium=RSS&at_campaign=rss",
+        "description": "BBC South Asia correspondent Azadeh Moshiri spoke to a local, who is still waiting for his his wife's body to be retrieved, as rescue efforts continue.",
+        "pubDate": "2026-09-02T15:16:42Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f47/live/b3e56ca0-a6d8-11f1-aed2-8d6da8d75094.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Nepal PM links deadly floods to climate change",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/nepal-pm-links-deadly-floods-to-climate-change?traffic_source=rss",
+        "description": "Nepal PM links deadly floods to climate change",
+        "pubDate": "2026-09-02T15:11:19Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "China’s Xi visits Egypt’s el-Sisi: Why it matters",
+        "link": "https://www.aljazeera.com/news/2026/9/2/chinas-xi-visits-egypts-el-sisi-why-it-matters?traffic_source=rss",
+        "description": "Xi Jinping's historic Egypt visit aims to strengthen China-Egypt ties amid rising Middle East tensions.",
+        "pubDate": "2026-09-02T15:00:30Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Can Ukraine’s drones shut Russian airspace? What that means for airlines",
+        "link": "https://www.aljazeera.com/features/2026/9/2/can-ukraines-drones-shut-russian-airspace-what-that-means-for-airlines?traffic_source=rss",
+        "description": "What happens if the airspace of the world's largest country by land mass is out of bounds because of Ukrainian drones?",
+        "pubDate": "2026-09-02T14:55:16Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Gaza Civil Defence worker finds 21 relatives beneath rubble",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/gaza-civil-defence-worker-finds-21-relatives-beneath-rubble?traffic_source=rss",
+        "description": "A Gaza Civil Defence worker helped recover the bodies of 21 of his relatives from beneath the rubble.",
+        "pubDate": "2026-09-02T14:45:26Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Dutch central bank shifts billions in gold to London in ‘crisis preparedness’ move - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVlY5Z2ZjMl9EeUlFeHBPSy0zWVZoTHlVTHBXVTZTRjRoalp4U0tzRUo5RUpyNG9CemRuX256NE5odjBxeWtKVWExTGQ5RllYNW9hNkIycGx1ZHY3bkRrd1J6SUZjTk96bGtJVnZnOXN0dno5REhDVjlIQVBVSzJ1NVdNVnJrNkN1dXVfWnBn?oc=5",
+        "description": "",
+        "pubDate": "2026-09-02T14:43:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Pattaya, once Thailand’s ‘Sin City,’ beckons weary sailors from the USS Abraham Lincoln - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMXhickh3YUcxUmRLQWllZjRpUnZfcUFmLUN3dlNkaklRWmpfd3VFc0lrbnJ4Ry02TVJuSFFEVnBNME5weVo5ZmNQNHFTX2V5bnFNS21uLWJqNVJ4eUFISnJybVMxamx0OTUzckxla21waTdUbGhjQ0xtZW9QS1dEVFBhUGs4Nmx4V29jQTRMNFFsLXhLQlIyZ2YtZHlacnYtWGc4QU5HbG8?oc=5",
+        "description": "",
+        "pubDate": "2026-09-02T14:42:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Greetings from the Royal Pavilion, a stunning reminder of India in southern England",
@@ -291,15 +660,6 @@
         "source": "npr.org",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Iran fires on its Gulf neighbors, retaliating for US strikes after a monthlong lull - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTQ5RWEwemszN1g0ZGdybDJrd0d4MW9sTk43M05welQ3WGZmeWgycERkU0NFck5vMDc4eXBjbmdQSzc0OTNodV9tMXhpTFg1WF9SR2JXOXp3aEVGVjBHSUlwVFR5QWpVdnJodmNfV1FmdEZBeDlhUHNJZVZPeHliVlBQU3hZTXJhNGgzNGZoNURLUWtqOW53OUF2TTJpSEpsNGVBTDVyOUI?oc=5",
-        "description": "",
-        "pubDate": "2026-09-02T14:30:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "How Trumpism is changing the world",
@@ -320,403 +680,133 @@
         "bias": -1
       },
       {
-        "title": "Stocks drift on Wall Street amid jobs market updates, renewed fighting in US war with Iran - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWpnZ3RKcXY5RDdJZlprM3VNZmtNemdGTVlvc2hhR2R4SmpFRTdMdy16bVd4TFEzTFlHdDc1emVDMVQ2cnpDcVRNZ1hlWUNLMzV0UG9DZ040TGlSclIwM1NsR2pkREdVYXJVVjZWc3Z2anJTaUQxYWxDYWhUOTRuc0pndl9mNTIxWW9HSzFTdlBHM1k?oc=5",
-        "description": "",
-        "pubDate": "2026-09-02T14:07:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Summer transfers 2026: All to know as Premier League signings break records",
-        "link": "https://www.aljazeera.com/sports/2026/9/2/summer-transfers-2026-all-to-know-as-premier-league-signings-break-records?traffic_source=rss",
-        "description": "Premier League breaks its own record as four of its 11 most expensive signings have arrived this transfer window.",
-        "pubDate": "2026-09-02T13:58:49Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Argentina serves up a Messi-shaped schnitzel as fans say goodbye",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/argentina-serves-up-a-messi-shaped-schnitzel-as-fans-say-goodbye?traffic_source=rss",
-        "description": "A Messi-shaped schnitzel is on the menu in Buenos Aires, as fans across Argentina pay tribute.",
-        "pubDate": "2026-09-02T13:45:11Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Tiger Woods pleads guilty to reckless driving, forfeits driving licence",
-        "link": "https://www.aljazeera.com/sports/2026/9/2/tiger-woods-pleads-guilty-to-reckless-driving-in-florida-car-crash?traffic_source=rss",
-        "description": "Golfer's driving licence will be suspended for five years under the terms of a plea agreement that dropped DUI charges.",
-        "pubDate": "2026-09-02T13:44:00Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Lindsay Clancy trial jury deliberates for fifth day after telling judge they were deadlocked - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcDR2aHlEa1YxemttTW9SQzE4cmFFMDlJS3lVNWw0dFU0R0IyTmNJcHRjTE9HM2F2V1RrY19qamNtSUQxekNXc3BqWjZZanpHbTQ1S0hZbmdFTFhLUmNfd1hWRGpCTU10R1BEWXpOTmVsN2FOaTh4bE5fak53R25XUV9Jc3R4dURYWDduWHhybk9nQ1lDLTdYTQ?oc=5",
-        "description": "",
-        "pubDate": "2026-09-02T13:43:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "EU or Eurasia: Why Putin sparred with Armenia’s PM",
-        "link": "https://www.aljazeera.com/news/2026/9/2/eu-or-eeu-why-putin-sparred-with-armenias-pm?traffic_source=rss",
-        "description": "Relations between Russia and Armenia have reached historic lows as Yerevan pivots towards the West.",
-        "pubDate": "2026-09-02T13:36:36Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "In Yemen, dates provide lifeline for farmers with few economic options",
-        "link": "https://www.aljazeera.com/features/2026/9/2/in-yemen-dates-provide-lifeline-for-farmers-with-few-economic-options?traffic_source=rss",
-        "description": "Hindered by poor infrastructure and climate challenges, farmers in Yemen cling to traditional methods to harvest dates.",
-        "pubDate": "2026-09-02T13:29:51Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Iran targets US allies in Gulf after overnight attacks, and other Mideast news - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOTAxalBMekxHQmg5Z1UyMmlvNjNjZWJtc015S2dUNEdELTNJX0xCZzVKRHJqdVZsc0Z6eEJMUTIzSXk2SlMyajgwaklyT1g2clhDODBmWmlSQUZUWHlHTlN6TFhTeDZ0bUplZzVPdDFMN24yTTVpZWhJOWo1b1l1S2ljeFpXM0c3WUEtdHV2c3h6Z0hIdGVobFAzalFXRWYwU08wdEJkUXJyNHM?oc=5",
-        "description": "",
-        "pubDate": "2026-09-02T13:18:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
-        "link": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
-        "description": "More than 1,000 people have died and thousands are missing, as rescue efforts continue and aid is airlifted to villages.",
-        "pubDate": "2026-09-02T13:17:43Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf1d/live/babee4c0-a6b5-11f1-bf9b-4185c128a665.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
-        "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
-        "description": "Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine.",
-        "pubDate": "2026-09-02T13:16:26Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3a3/live/cb052080-a663-11f1-8e27-73ef28718a3e.jpg",
-        "bias": -1
-      },
-      {
-        "title": "US oil giant Chevron confirms it will expand operations in Venezuela - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeUY5RDVMaG9WMTE1ZHVocE9lUWVQWXNiOFBGY3dUc3hOdTVIYzRtNkwyV0VJYTRPcnNSR2hoYkh6Q2JFQ3RYS2JQSTlVeXhrcF9XVzBVeVA5OEdxSVp1RHZ1QmhWX1FXM3lYVWdVeEF0T1V5TFh0cS1scmdZd2d2RVg2aE0wd3Z5T1gxRE5BbkI?oc=5",
-        "description": "",
-        "pubDate": "2026-09-02T13:05:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Charlie Kirk murder suspect pleads not guilty to murder charge",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/charlie-kirk-murder-suspect-pleads-not-guilty-to-murder-charge?traffic_source=rss",
-        "description": "Charlie Kirk murder suspect pleads not guilty to murder charge",
-        "pubDate": "2026-09-02T12:57:45Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Putin and Zelenskyy issue threats as strikes rock Ukraine, Russia",
-        "link": "https://www.aljazeera.com/news/2026/9/2/putin-and-zelenskyy-issue-threats-as-strikes-rock-ukraine-russia?traffic_source=rss",
-        "description": "Putin accuses Zelenskyy of 'terrorism', while Ukraine warns foreign airlines against using Russian airspace.",
-        "pubDate": "2026-09-02T12:55:42Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Bodies excavated from worst flood-hit district near Nepal-China border",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/bodies-excavated-from-worst-flood-hit-district-near-nepal-china-border?traffic_source=rss",
-        "description": "Bodies are being excavated from the mud in Nepal's Rusawa district, which was devastated by the glacial flood.",
-        "pubDate": "2026-09-02T12:53:27Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Xi visits Egypt as China seeks deeper influence across the Mideast - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS19jZzNyanZTMzZtcmtULXFoZ3o1S3YzTzNMcnRXVUt5Vlh1UUJ0LW5td1lQRkZTQlFld1VCbU5VS0FSTXdDV3JucGdUdnRFaWJneEVKLV9yMUZydmNOS3hDVFBjbHQ4VTM3TFhiNF84NVFOQTVJX1FKNGdMMFpGVFFqRzRvbjM2YnFvYmk5bjZ3RTc1RnlFNG4zaw?oc=5",
-        "description": "",
-        "pubDate": "2026-09-02T12:50:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "What is Iran’s Castle Breaker missile, used against US bases?",
-        "link": "https://www.aljazeera.com/news/2026/9/2/what-is-irans-castle-breaker-missile-used-against-us-bases?traffic_source=rss",
-        "description": "Kheibar Shekan, Iran's medium-range missile, is said to play a pivotal role in escalating US-Israel tensions.",
-        "pubDate": "2026-09-02T12:38:39Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Lawmakers ask Army to explain why it told a military unit to stop specializing in drone warfare - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQzNFQjRyWFZWZVN0cFdTdHBxczZLZE9yMjU4anhoajQ1MkhyeE9IcXZ4OGlHclRnczlZMnNXcmQtN25tZFBxV1hQaFNPdFJGXzlHcTctN2FhUENRSHNtLUxJaUQ5VnZGWmlqX3E1bHFFakFJem5TWWRkS3ZRQm9pQmFPRTRVNkVKUU14TW1UdXF2MHZzYk9wb3V2NXI4Nkt6UXRWN2M0aw?oc=5",
-        "description": "",
-        "pubDate": "2026-09-02T12:22:38Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Palestinian landowners confront bulldozers using their hands",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/palestinian-landowners-confront-bulldozers-using-their-hands?traffic_source=rss",
-        "description": "Palestinian landowners confront bulldozers using their hands",
-        "pubDate": "2026-09-02T12:14:45Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Lizzo 'grateful' after judge dismisses lawsuit against production company",
-        "link": "https://www.bbc.co.uk/news/articles/c8xk4rl904vo?at_medium=RSS&at_campaign=rss",
-        "description": "The About Damn Time singer says she is \"relieved\" at the outcome and will \"continue to fight\" every claim.",
-        "pubDate": "2026-09-02T12:14:31Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6112/live/6619c9d0-a6ba-11f1-ae1e-219da1d6451a.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Could the man who murdered a Christian missionary and his sons walk free in India?",
-        "link": "https://www.bbc.co.uk/news/articles/cpd0x701qd9o?at_medium=RSS&at_campaign=rss",
-        "description": "Dara Singh is serving a life sentence for burning alive Graham Staines and his two sons in Odisha in 1999.",
-        "pubDate": "2026-09-02T12:09:11Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c814/live/0ee23980-a5d5-11f1-ae66-53604efd186f.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Russian strikes kill 2 Ukrainian civilians as Moscow and Kyiv threaten to raise the stakes - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSzNQdXdOREo0QmNLQW9YeFJNYllJTXlTVXhRa3NZR3NrcHZNYTdLS2w5UVNZZVVCQnZTNnZmTnhEYUxDc2tRWkJKeU44eEVEa2JFOVdSVjhZNmFZQ3lXX00xZlNIWG0wRnVjM3hDS2ozUWFrczhUQmFjbndBVkdDMVUwak1zZHRzNHNvUjJHQkk5Zkd2YVNYd1ZsN1N1TXM1bDUxeldwMngxQzI5?oc=5",
-        "description": "",
-        "pubDate": "2026-09-02T12:09:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Bus crash on Egypt's Red Sea coast kills 22",
-        "link": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss",
-        "description": "Reports say Jordanian nationals are among those killed in the accident in the South Sinai governorate.",
-        "pubDate": "2026-09-02T12:07:32Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72b3/live/2866cd30-a6c5-11f1-bebe-e75dba5c0b21.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Killing at Sea",
-        "link": "https://www.aljazeera.com/video/fault-lines/2026/9/2/killing-at-sea?traffic_source=rss",
-        "description": "Three families, two bombings and a hidden war: uncovering the lives behind Operation Southern Spear's dead.",
-        "pubDate": "2026-09-02T12:00:00Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
-        "link": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
-        "description": "The ministry says the total number of people killed in the Strip since 10 October is now more than 1,300, including 301 children.",
-        "pubDate": "2026-09-02T11:51:46Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bae6/live/70e46460-a6ba-11f1-b109-879e35c24276.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
-        "link": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
-        "description": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions.",
-        "pubDate": "2026-09-02T11:47:11Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f73a/live/e93452f0-a6c3-11f1-b109-879e35c24276.jpg",
-        "bias": -1
-      },
-      {
-        "title": "The US is gobbling up Venezuelan oil, but will it lower fuel prices?",
-        "link": "https://www.aljazeera.com/news/2026/9/2/the-us-is-gobbling-up-venezuelan-oil-but-will-it-lower-fuel-prices?traffic_source=rss",
-        "description": "Analysts say Venezuelan crude is hard to extract and refine, and likely can't replace oil stuck in the Strait of Hormuz.",
-        "pubDate": "2026-09-02T11:43:31Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "At least 22 have been killed in a bus crash in Egypt’s Sinai Peninsula - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOczB4eThzdE5kaDJTbldiejdNSDg2OUtBMWhvSHVBSUJWUTRPV093Q2JvbHhoOXNKSGktdDUzVmlKWmJwN010Y2xsUHNFWkxCaHV1OEVEa1dqUEIzNG5JN3BOYVJqdnIwNmxYVktBSmxfcjZwaTd0bmtaQ2RxRFMxZjFrTXRwRFZtWjRqVnFua3Q?oc=5",
-        "description": "",
-        "pubDate": "2026-09-02T11:39:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Madagascar ex-Senate chief sentenced  to hard labour over deadly Gen Z protest crackdown",
-        "link": "https://www.bbc.co.uk/news/articles/cz0z3x4n9ypo?at_medium=RSS&at_campaign=rss",
-        "description": "At least 22 people were killed and more than 100 injured during last year's unrest, according to the UN.",
-        "pubDate": "2026-09-02T11:34:23Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8878/live/480198d0-a6bd-11f1-ae1e-219da1d6451a.png",
-        "bias": -1
-      },
-      {
-        "title": "Symbolic funerals held in Nepal for those feared lost as some missing tourists make contact - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUVdRVkJTSmh6dDVnNk1rXzdHaDNSUGE1SU5xVUJkd2JPcjZubGh3Z1JsbHUwSGhPc01mSDhhVGhqbDdlZFFrRkh3VDVKS1hheHJrMW5uRmZCcUZ1eU5hVnlWZWpJUzVBZVRkTzYxRUM3bU5NdEVqWVhpMUtDdU1IX2dJZUdpN3JNLUotVg?oc=5",
-        "description": "",
-        "pubDate": "2026-09-02T11:26:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "India's prime minister is wooing the Gen Z while cracking down on them",
-        "link": "https://www.npr.org/2026/09/02/g-s1-141512/india-genz-protests",
-        "description": "Over two months, protesters, most who appeared to be digitally-savvy GenZ, used social media to organize. Government's efforts to respond spotlight how the ruling party appears to be playing catch-up.",
-        "pubDate": "2026-09-02T11:11:04Z",
+        "title": "Chevron to expand in Venezuela, days after the U.S. and Venezuela strike oil deal",
+        "link": "https://www.npr.org/2026/09/02/nx-s1-5952190/chevron-venezuela-oil-deal",
+        "description": "Chevron is the largest foreign oil operator in Venezuela. The deal will expand its footprint at a time of political and economic uncertainty for Venezuela.",
+        "pubDate": "2026-09-02T14:08:03Z",
         "source": "npr.org",
         "image": "",
         "bias": -1
       },
       {
-        "title": "He captivated millions on TV. Now Archbishop Fulton Sheen is one step closer to sainthood - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd014bm9GcUhwYlVWRjN3NHBtV090aWJwY2Y2cy1JbEVicjhsTnVZbmZ4X3hQTElaSzNRR0JSNVN0NFJKSExldFNlTXdfMUh6ZGpXX2J5aVM1amFldzhYcXJsRUM4M2VJQ0JZS0lWejdaMXFCZkMyR0FLRTNBcnNWc2lCVEMxVWlvb05ORFdJcksxMmZ1eS10NkN6V1NZYWFaYXg5aXhIazhiNTZwei1EVg?oc=5",
+        "title": "Menudo reunites for 50th anniversary tour: ‘We’re proud to be pioneers’ - AP News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbUNIdVU0VWF6VVlhWGNGS2FDbE5vWkhIX3JyUFBqM2hjM3pUR3E4Y0p5eS0xakZ2RUlLV1duWm5tc1YwRkdnLTBuQmR0Z01YZ250Y1hmNlRCZWR0UnVqTl81WEtlQllMdHlCWUd2SEJ4dTBBeENDN1UxM014T0RPbXFOY2J6MlM4djM3Qzd3bk5mWGNzSHY0Ri12LTg?oc=5",
         "description": "",
-        "pubDate": "2026-09-02T11:10:37Z",
+        "pubDate": "2026-09-02T14:01:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "ICE says it now has enough body cameras. And, Congress averts shutdown before midterms",
-        "link": "https://www.npr.org/2026/09/02/g-s1-141513/up-first-newsletter-iran-war-ice-body-cameras-massachusetts-ed-markey-government-shutdown",
-        "description": "Immigration and Customs Enforcement says it now has enough body cameras to equip all of its agents. And, Congress votes to fund the government, averting a government shutdown ahead of the midterms.",
-        "pubDate": "2026-09-02T11:08:04Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "No Democrat has won a Kansas Senate seat in a century. Can a megachurch pastor change that? - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcEoxRjRoYi1iZHUzemlQV2p5LTk2bVN0ZkpfOXpUdTQyYU1iemIzYVZXMk1iWld3eDdMTU9ZeUp0TUdSRUVxMzYzUWhKQkpvcU4ydkd2OW1hS3NRM1Q3bHpEUDlDbUY2dW9iemhLN1BfYjBieXM4N0JfYmhYMDFRb2N0TFQxaFFBTGt1UWo0T1I4cGlkSUdxYlF5S1d0TUNMRmxxUnZR?oc=5",
-        "description": "",
-        "pubDate": "2026-09-02T11:07:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Raphael Warnock has done it. Adam Hamilton wants to follow as a pastor-US senator - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQTVmRkhQanpsMnRrN0F0SWFPRXlzbjBSc1NUMmFwWFdmUzNpd0MxOTQ5cDhhRjVvOEFGSHczR1AxZ1hwd3BFNFVHUWRqSmZGRnozQ2ZIdGpKSEpvNzNocjlRbVlLc29KbEZoWjJEeDYxWHk1cm9oS1JwYnZtMjQ4eUFGQ1JyU1pVTGVYMU5ETDIzbHpBWDNXXy15SUNZRjdOOU9KWXRWaXI?oc=5",
-        "description": "",
-        "pubDate": "2026-09-02T11:05:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Nigerian anticorruption agency sacks 40 staff over misconduct allegations",
-        "link": "https://www.aljazeera.com/news/2026/9/2/nigerian-anticorruption-agency-sacks-40-staff-over-misconduct-allegations?traffic_source=rss",
-        "description": "Nigerian media outlets have reported that five of the dismissed staff are facing prosecution.",
-        "pubDate": "2026-09-02T11:00:57Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "What do we know about the fatal US bombing of a wedding in Iran’s Sirik?",
-        "link": "https://www.aljazeera.com/news/2026/9/2/what-do-we-know-about-the-fatal-us-bombing-of-a-wedding-in-irans-sirik?traffic_source=rss",
-        "description": "A residential building and a telecom tower were struck overnight, as Iran and the US launched more strikes over Hormuz.",
-        "pubDate": "2026-09-02T10:57:16Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Messi retirement and FIFA ban leave Paredes uncertain of Argentina future",
-        "link": "https://www.aljazeera.com/sports/2026/9/2/paredes-says-ban-by-fifa-messi-retirement-make-argentina-future-uncertain?traffic_source=rss",
-        "description": "Leandro ‌Paredes's 10-match ban, alongside Lionel Messi's Argentina retirement, leave former to ponder future.",
-        "pubDate": "2026-09-02T10:56:05Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Video: Chinese President Xi makes first visit to Egypt in a decade",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/video-chinese-president-xi-makes-first-visit-to-egypt-in-a-decade?traffic_source=rss",
-        "description": "Chinese President Xi Jinping has arrived in Egypt for the first time since 2016 in a state visit.",
-        "pubDate": "2026-09-02T10:54:52Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Pattaya, once Thailand’s ‘Sin City,’ beckons weary sailors from the USS Abraham Lincoln - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMXhickh3YUcxUmRLQWllZjRpUnZfcUFmLUN3dlNkaklRWmpfd3VFc0lrbnJ4Ry02TVJuSFFEVnBNME5weVo5ZmNQNHFTX2V5bnFNS21uLWJqNVJ4eUFISnJybVMxamx0OTUzckxla21waTdUbGhjQ0xtZW9QS1dEVFBhUGs4Nmx4V29jQTRMNFFsLXhLQlIyZ2YtZHlacnYtWGc4QU5HbG8?oc=5",
-        "description": "",
-        "pubDate": "2026-09-02T10:45:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "What happens next if the jury in the Lindsay Clancy murder trial can’t reach a verdict? - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON0podnNYZVZyMzRqdWZkOHctRzBYTGF6cDdhU1VIQ05RNy1qRnJvclE1MXZnNks5YmdhMDBENUFXcGFmRDA5NS1uZ01DUUN1ajRQdjdaWWVScXVpaU0zc1k5dGZNNTF6MWtxSmJfbm02N0pvdEVxVEUzMGRNX21fSEprN1A4dlJva3B0d2R2dUhHZTN3U01iX3djZ0hzS0ZxNDhN?oc=5",
-        "description": "",
-        "pubDate": "2026-09-02T10:25:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "EU struggles to find an effective response after Germany blames Russia for a foiled drone attack - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGRNWFdXclZxNGQxMGdIWFF3Q2E3UHdFM0lyU29mdnVqVGdKWFN1ZVZxVXFHNEl5dlRtbkxsa2FocHAwMFc4ME1MZndYUm9QSUVWelM4X2hLdWlRRUc2N18wd0FnelNDejNjSnl1bmZraVlDWXFvUWpHMThvZjc3ZU1KeFJVWlY3cTVFaWZ2RFJlN2UzMllBX1BVOEZBZHhqOTducWt3ZXo?oc=5",
-        "description": "",
-        "pubDate": "2026-09-02T10:24:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "How indie cinema is beating Hollywood in 2026",
-        "link": "https://www.aljazeera.com/video/money-works/2026/9/2/how-indie-cinema-is-beating-hollywood-in-2026?traffic_source=rss",
-        "description": "How indie cinema is beating Hollywood in 2026",
-        "pubDate": "2026-09-02T10:20:57Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "5,000 US sailors descend on Thailand as USS Abraham Lincoln docks",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/5000-us-sailors-descend-on-thailand-as-uss-abraham-lincoln-docks?traffic_source=rss",
-        "description": "Thailand’s Pattaya is expecting a business boost as 5,000 US sailors arrive aboard the USS Abraham Lincoln.",
-        "pubDate": "2026-09-02T10:08:44Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "US sailors arrive in Thailand's Pattaya after record 250 days at sea",
-        "link": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss",
-        "description": "The USS Abraham Lincoln is docking close to Pattaya, known for its neon-lit nightlife, and for sex tourism.",
-        "pubDate": "2026-09-02T10:04:28Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54f9/live/eb5af6f0-a6d8-11f1-a291-b542ee92de7c.jpg",
-        "bias": -1
       }
     ],
     "Politics": [
+      {
+        "title": "Reform up against 'complainants' society', Farage tells BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cd6857j2v1qo?at_medium=RSS&at_campaign=rss",
+        "description": "The Reform UK leader said a \"whole ecosystem\" didn't want \"new kids on the block succeeding\".",
+        "pubDate": "2026-09-02T17:43:48Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d290/live/bf3424f0-a6d0-11f1-aed2-8d6da8d75094.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Fatal crash police get £2m to tackle serious crime",
+        "link": "https://www.bbc.co.uk/news/articles/c24j15d0jj6o?at_medium=RSS&at_campaign=rss",
+        "description": "The home secretary says the money will help support Cleveland Police in the wake of the A66 crash.",
+        "pubDate": "2026-09-02T17:17:11Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68ab/live/93348dd0-9f24-11f1-b109-879e35c24276.png",
+        "bias": -1
+      },
+      {
+        "title": "NYC, the nation’s largest school district, bans AI for students through 8th grade - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUi11ZFlzRFhnU29Ba1BNRlFLU2lIOE5jTUVJWkgzek16MU5BaDV2WG5mcnFIMmZGOUJUZi14di1mRi1LRGwtck5rR0VDRnZSMkFUM0lweUhqWlFFaDlQYnltQVdxbm5UenRLeVlFbHgzZjRJSWhNQVNEek9LcWhRQk9OS253cXE4b1NRNlR4RlJCZl92NmloVw?oc=5",
+        "description": "",
+        "pubDate": "2026-09-02T16:54:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Burnham pressed on economy at first PMQs as UK borrowing costs rise",
+        "link": "https://www.bbc.co.uk/news/articles/cn9wv7pene2o?at_medium=RSS&at_campaign=rss",
+        "description": "Burnham said he had already cut taxes, including VAT on energy bills and hospitality business rates.",
+        "pubDate": "2026-09-02T16:27:03Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95c5/live/e8573cc0-a6ec-11f1-aed2-8d6da8d75094.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Nigel Farage insists he's 'broken no rules'",
+        "link": "https://www.bbc.co.uk/news/videos/czxzn7rzg22o?at_medium=RSS&at_campaign=rss",
+        "description": "The Reform leader has been dogged by questions over his finances after receiving a £5 million sum from Christopher Harborne.",
+        "pubDate": "2026-09-02T16:25:07Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffae/live/688e4840-a6e6-11f1-aed2-8d6da8d75094.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Driscoll offers no reason for his exit as Army secretary but says Wednesday is his last full day - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM0hCZ3lyMDQxcjRSWjFmdHhFVW5hY2FzQURXZXBQdDB2dExhV1NXLUxRYmx2Qk5DYUR0aTZLNDVKYjBwMGI3S0ctYjFzYXVoTW5pQ1JWbklUZzFDRl9WQzlmZXhwTVpPOEhKUTFUakJEd0tYMVVzcVNISTRmNE0yUnNxTUhKejNDamFZcEtGQno3YmxPaUxOUUZnb0hpQlpUdzF4aFJFeTN3czFmYkE?oc=5",
+        "description": "",
+        "pubDate": "2026-09-02T16:07:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Maine’s high court rules father can restrict daughter’s church attendance - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdDRNbTZjLURQNmJvak1OTlFVNXhRLXk4ME91R0xWNVRJZjhtSncwdWhnNE0xSmxkdlJ3M3kta3VxX0J6bHR4dHNsVm9PZDZRWWlEelJPTzZtUUdpUUs3WjZHVktNUUJOZWY2V1p6WjZRVWRYcFVuN3lpYWdqWkVWMnRCZ18xSEtILTB6eUh1X3BJZVJkeXJfU1gwTGFPRjhoejd2ODFWVHB1c3BRWXc?oc=5",
+        "description": "",
+        "pubDate": "2026-09-02T15:59:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Track UK's latest migration numbers - net migration, visas, asylum and small boats",
+        "link": "https://www.bbc.co.uk/news/articles/c70989jrdweo?at_medium=RSS&at_campaign=rss",
+        "description": "Use our interactive tracker to explore the latest migration statistics for the UK",
+        "pubDate": "2026-09-02T15:57:16Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a530/live/da608860-cb5a-11f0-a892-01d657345866.png",
+        "bias": -1
+      },
+      {
+        "title": "China presses the US for answers after a man dies hours after entering ICE custody - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR0w4YVFUXzY5UUJqcld2bU8xcWMycFBpVHVYbnFyUzJUU0w5TW1FWVRnVzl0OXBscTMycmdVOWtZMk15T0hUV20yN3VIR1NiUWFLVXJsRU9oaHR3dlF3eEUzazQ4bzZ4M0VBbU1aNm1PNDFVamJRblZEdW16MDBLWEJIaGNaNm10Ui1ENENxMjJOa21RaWZlTHp1TGgzSzV6eFhQQ1Z2eWlyUWFSbWc?oc=5",
+        "description": "",
+        "pubDate": "2026-09-02T15:04:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Visiting French president will join King Charles III and prime minister to see Bayeux Tapestry - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeHNaX2NqeFNDVUd6ZE5HSDR2R25BRFlXOXpWZnBhSDlDT01QTnlPLTJwNVJQRHB3TURvdjJXbFJJajNIdllnaGhTVmFSY1FSU2pXVWYwOWdSQTNJbmZoSXZzRWtpWEN5NWEwMkJ5d1I3TTdtSUxhUFBwaldFdXozR0ZKZ3VRSWdVcGtzTGtuQ0xRN1kzWkhNX3k2cmgzUFNvVjByVA?oc=5",
+        "description": "",
+        "pubDate": "2026-09-02T14:52:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Heads or tails? $1 coin with Trump’s face and gold finish to go on sale - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT2tTalBvaUh3dnZOMmRWVGczTHktWUlodUtrbHJMaXJsMjRhNC1uY0JXSVZHb1hDVjNNeHEtWXBJY2hfZ0pCQVZENlJPQkNNcHBtWUg3VmNQbi1zRzRzU1lGa2NzQU5wSVlaa00xV3hvblZGMTQzaXdsek92Z1lvYU5lc180ZWJRc0lLY3JpSE0?oc=5",
+        "description": "",
+        "pubDate": "2026-09-02T14:52:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Turkish cargo ship with 10 crew sinks after collision off Istanbul’s coast - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeGNqS3dScHJmRk12SEc5ZUpCY0RjeTFTWmpjYnpjSVJROEpmUGc2MWtXMjI3RHpXMXg3dHZGdVdmSm1sWnV5b0w1cDZQcU9KOU9LS1NhbTFGbVc5aW0wNGxLS0FrVWUzNkF4RXhxdFhUTE1BWGRxN3p2Ym5JVE1OODhxS0VNVmhVZmFkUGxMOXlranBEUGdpbHpDTHRJcE9Iazk2dHRVZ2JwSzNsNkE?oc=5",
+        "description": "",
+        "pubDate": "2026-09-02T14:50:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
       {
         "title": "Burnham's PMQs debut shows the challenge of delivering new style of politics",
         "link": "https://www.bbc.co.uk/news/articles/c0m3wpk7rdjo?at_medium=RSS&at_campaign=rss",
@@ -727,10 +817,19 @@
         "bias": -1
       },
       {
-        "title": "Congo’s Ebola outbreak shows no signs of slowing as deaths top 3,000 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRlh1SmNWYWRRMVhwNms0SXo0YlJkVTRobFM4WWl2c0h4QWhEYmo5a2YtUExuOE1JYm9rNVI2dnlZT25rdDFHR0VKUEd3TUlVendUYmZHQXdBb0ZrbWxtM1hTSTg2SlpyOTlYWUR4OWpsU3hYYXdGQ0w5Nm1GMW94YjRQeUxrcnYxX3U2LURqQ1BDRXdhZFBuT2paWQ?oc=5",
+        "title": "Symbolic funerals held in Nepal for those feared lost as some missing tourists make contact - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUVdRVkJTSmh6dDVnNk1rXzdHaDNSUGE1SU5xVUJkd2JPcjZubGh3Z1JsbHUwSGhPc01mSDhhVGhqbDdlZFFrRkh3VDVKS1hheHJrMW5uRmZCcUZ1eU5hVnlWZWpJUzVBZVRkTzYxRUM3bU5NdEVqWVhpMUtDdU1IX2dJZUdpN3JNLUotVg?oc=5",
         "description": "",
-        "pubDate": "2026-09-02T14:22:00Z",
+        "pubDate": "2026-09-02T14:03:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Turkey’s relations with Russia, China don’t mean turning its back on the West, Erdogan says - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOFlUMTRHUUpGeDR5QU1pUUp4NGUyTWYxczQzc1Z3VWUzem5RMGJQYnVLWVoyV3RMMWtRNHp1MWJoMmhOaXQxSm5CNDFISmY2d1ljekpaYmtSUnlFUzBsRVpMQU9FYXJVWmNHQ004OC1NZkxGNUtCdlMzVXN3Q1VLbmhrSE5ySVh6a1RjR0J6N3FnOVRubHZZMnBMWUViakRQZ2c2RldQS2Jmblhn?oc=5",
+        "description": "",
+        "pubDate": "2026-09-02T13:59:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -743,6 +842,15 @@
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11a6/live/4649cd50-a6d6-11f1-aed2-8d6da8d75094.jpg",
         "bias": -1
+      },
+      {
+        "title": "Venice Film Festival opens with Danny Boyle's Murdoch film, an award for Clooney and geopolitics - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUXc1X1YtczNQRmVwbHZsSnFwMi1uaDc2SzNiZnIweDBtSl9CbWl3STYyakN5Rk5kQ1JEOENKQUh3MjNVYTRYcjk4Z3RReWJhOEl6VkNNZklyYmdPcm5FVlVzSF96MHJvWDVGVkZVUWZoMC1RcXVJNm5tLWFFaHFobzJjbWgybllIcW5Oa0VqU2dld2hXQTNR?oc=5",
+        "description": "",
+        "pubDate": "2026-09-02T13:52:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "'Friendly fire' at Andy Burnham's first PMQs",
@@ -763,37 +871,10 @@
         "bias": -1
       },
       {
-        "title": "Reform up against 'complainants' society', Farage tells BBC",
-        "link": "https://www.bbc.co.uk/news/articles/cd6857j2v1qo?at_medium=RSS&at_campaign=rss",
-        "description": "The Reform UK leader said a \"whole ecosystem\" didn't want \"new kids on the block succeeding\".",
-        "pubDate": "2026-09-02T13:18:28Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d290/live/bf3424f0-a6d0-11f1-aed2-8d6da8d75094.jpg",
-        "bias": -1
-      },
-      {
         "title": "US extends ban on flights to Haiti’s capital as gang violence surges - AP News",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMldNTEZXNkJMS0k2eE9VMlVvQnJnVFZUMERYLTRpUDhZS3Z3M3ZNV0lrY0RUakhqVDd1U3p5ZjFPQ2VRcTVTWnBPQ3BKWURUNlY3V1hWX0NjQWFhZEg3SzA3c0RBSEstTElKVjA1S2w0TU5kOUhmM2ZzSTdaSmFLUHFYZGZDQ3pYOGsyakZQSkZETWltQ0VKcmlTQlZ4bTQ?oc=5",
         "description": "",
         "pubDate": "2026-09-02T12:48:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Visiting French president will join King Charles III and prime minister to see Bayeux Tapestry - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeHNaX2NqeFNDVUd6ZE5HSDR2R25BRFlXOXpWZnBhSDlDT01QTnlPLTJwNVJQRHB3TURvdjJXbFJJajNIdllnaGhTVmFSY1FSU2pXVWYwOWdSQTNJbmZoSXZzRWtpWEN5NWEwMkJ5d1I3TTdtSUxhUFBwaldFdXozR0ZKZ3VRSWdVcGtzTGtuQ0xRN1kzWkhNX3k2cmgzUFNvVjByVA?oc=5",
-        "description": "",
-        "pubDate": "2026-09-02T12:44:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "AI boom heats up Bay Area housing market as wealthy buyers drive demand for high-end homes across US - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU2tUdDkzeVE5Z1g4OWYxaExKaktQYUFPTC1QZ2dwQ3Q3R3dudE1ZblVyTVNvNVFETmxpbU9kZkIwR0FhREJpZ0IzZFBGUGhDSW9GQlNxWU9FX2hobjA3UDlVclRROHU3cTVFTExKakFHQ1hpWi1sdEFZdkRXQ3ZxNUhuRVN5UDAteDVLdUtKZndMcVYxaEpQTVFPZw?oc=5",
-        "description": "",
-        "pubDate": "2026-09-02T12:40:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -826,6 +907,15 @@
         "bias": 0
       },
       {
+        "title": "Tugboat sinks off South Korea’s southern coast, leaving 1 dead and 6 missing - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQODNrazQ5QUc1TVdZTktfdUJsX3RCTFlHc2NtX256WXdiSmFzSGpvUUFBYkFjWEl4eUxoU0ZCV29UblBTMzZMQmZ3TFVXaElKMEFGWl93SnRBRzVjVHZDdXV2YjRic2owY2VuTXRrZUhtdVVUSmp4ajFabElZVWRMNjRSeGZuMWVkblpvMG45bGVZa3hIbU8wQnVQNmlNbVhsQ1NNTkFR?oc=5",
+        "description": "",
+        "pubDate": "2026-09-02T09:38:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Watch: What to expect from Burnham's first PMQs",
         "link": "https://www.bbc.co.uk/news/videos/cz0z3ykeg03o?at_medium=RSS&at_campaign=rss",
         "description": "Political correspondent Henry Zeffman explains what we might see at Burnham's first PMQs on Wednesday.",
@@ -839,6 +929,15 @@
         "link": "https://www.npr.org/2026/09/02/nx-s1-5947963/tariffs-tariffs-voters-michigan-upper-peninsula-trump",
         "description": "The recent trade war between the U.S. and Canada has both economic and political implications for Michigan, given it's the state's top trade partner.",
         "pubDate": "2026-09-02T09:00:00Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Whistleblower's lawyer warns USPS plan for Trump's order could keep ballots from voters",
+        "link": "https://www.npr.org/2026/09/02/nx-s1-5952211/usps-whistleblower-lawyer-reaction-mail-ballots",
+        "description": "A lawyer for an anonymous whistleblower says Postal Service plans for an unusual verification rule, combined with a hastily built online system, could delay mail ballots from reaching eligible voters.",
+        "pubDate": "2026-09-02T08:43:19Z",
         "source": "npr.org",
         "image": "",
         "bias": -1
@@ -889,6 +988,15 @@
         "bias": 0
       },
       {
+        "title": "AP Exclusive: Nurse who saved baby from Pakistan hospital fire wishes she could have saved the rest - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVTJ5NC0zMW5hS2p2cno2MERLUVlNSldqTENEMlZIeFQ1dDVROWZiZzNHMEt3anhfQzV4a3h5cTFHdWdCVkJxM01saGVvdGhibmlrZDVwT2hBeUZFYjNfRTc2UXJDMWdHVTlPT2I5QUZHUFgxV2cxY2pfM1RZTkk0ZG1TbzlyZGdSeEVRN0FXUTF0Rm8tQTYyUGxEdndPbDZ6UFJDQ3k5OWtoc3dGTnJv?oc=5",
+        "description": "",
+        "pubDate": "2026-09-02T04:53:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Chris Mason: Will Burnham find PMQs as 'nail biting' and 'nerve wracking' as Blair did?",
         "link": "https://www.bbc.co.uk/news/articles/c7507z4enq6o?at_medium=RSS&at_campaign=rss",
         "description": "Curiously, the questions at lunchtime may well feel like a minor extension of what he faced on Tuesday, the BBC's political editor writes.",
@@ -898,37 +1006,10 @@
         "bias": -1
       },
       {
-        "title": "The Venice Film Festival opens with a Rupert Murdoch film, George Clooney and plenty of geopolitics - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUXc1X1YtczNQRmVwbHZsSnFwMi1uaDc2SzNiZnIweDBtSl9CbWl3STYyakN5Rk5kQ1JEOENKQUh3MjNVYTRYcjk4Z3RReWJhOEl6VkNNZklyYmdPcm5FVlVzSF96MHJvWDVGVkZVUWZoMC1RcXVJNm5tLWFFaHFobzJjbWgybllIcW5Oa0VqU2dld2hXQTNR?oc=5",
-        "description": "",
-        "pubDate": "2026-09-02T04:04:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "‘Aura farming': The video game-inspired youth trend sweeping Latin America - AP News",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWmVHOGMxZzEzbVQ1VlpOSUhyeGszWVdDeFljZ3NZRy1RWm5DU0ViMFlDTG5jWFlJQ3J0TFdXUHRZc09Ia2VlTjctRGxiX0JVUGZQcTZyclJwRkpEakJBNlFPNERXSXJwaGR4VmVINl9PUzlkVmFRYzlnYlg0YjVOMWpWVjlmbjNDb1hZbFZaQjl3YjBZd3Rpd1ByU0hocmYtakFYd05NUlp1Wnc?oc=5",
         "description": "",
         "pubDate": "2026-09-02T01:40:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Postal Service work to comply with Trump's executive order is rushed and sloppy, a whistleblower contends - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQkd4Zk5iSDQ5MEUwOWtZRm9aNlNmSTI5OUE1QnhxSmZvNE41MnJPUUtTWVcwbXVRbDZoSF9FaS1DTUJPbG8zZ1MxOFRuVlR3Z3dSWVFzZTVuWjk5dFRrNUJfVkdicUk1RUMyM29WSTVmSTNpZWlyZFNQWVVBOGJ0cHlVeE5YTDBlLUNwdk40OXQwVGtoV3FyWE93Q0gzbXZjWkJPb21LTQ?oc=5",
-        "description": "",
-        "pubDate": "2026-09-02T01:32:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "India’s power demand is surging, but some solar energy is going to waste - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa2VranBLNEYyS2hGdW1jYU5GSXMzM2U0Rm00WE5NSkxVSWNtTUtwRW81S1BDeE5EVG1GT0pTUzN4ZlZHYmNwd2NXNFZ6bm81bVM0NkpMUkFmY2FLR1BfRXRjc1BrS0Jqam5UdTE5cTZlbWVkX1RDb2dvTE1lX250Q0cyNmRIUXhzVzRvQWJIczJBbFNacl93YVJ0R0JYRTZDZ1Fv?oc=5",
-        "description": "",
-        "pubDate": "2026-09-02T01:31:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
@@ -941,6 +1022,15 @@
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d389/live/9e6500a0-a62b-11f1-aed2-8d6da8d75094.jpg",
         "bias": -1
+      },
+      {
+        "title": "Venezuela’s main airport partially resumes commercial flights after deadly earthquakes - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbno5N29DUWRKTHlTT2dlSjZvd3NJSzJZblNoVnF1U3Y2aURMODdaTFlYamp4d05PZXdCZ1ZER3FEMGUtOTF5V1lac3dJdEJoVjRhMVRkYTZLUnlMQm5KUkl2cVc1dVNUZWdQUU1lZHhCYjZUdTJ2Zk42NXYzTzNXMU9LcmstZW15NS14dlhHZWs4cVhQM3hnZHlwM2xxbTZIcHpDOUhyN1RHczlacWlnU2JFdVpLMDhQQkE?oc=5",
+        "description": "",
+        "pubDate": "2026-09-02T00:47:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
       },
       {
         "title": "Incumbent Sen. Ed Markey wins Massachusetts' Democratic primary for U.S. Senate",
@@ -959,18 +1049,27 @@
         "source": "news.google.com",
         "image": "",
         "bias": 0
-      },
-      {
-        "title": "Trump says he’s nominating acting Navy Secretary Hung Cao for the permanent job - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ3RQQnh5cGtPd1lYRzNzMm1CN2l2elotOGJwZlk5NjNiVmJzNUJyQVhuMWxDZWZTNHF5ZU1TakkxTElydUJMbExWazh6UEFIdzRZQjlSNnpEVVo5Nlk3VWNaYV9ETlVscjM1c1lKT1NpV1JJV2V4VThqbG16SzJTMVQ2VFNvSFNjTDhQUA?oc=5",
-        "description": "",
-        "pubDate": "2026-09-02T00:06:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Tech": [
+      {
+        "title": "Uber to cut over 3,000 jobs in major global restructuring",
+        "link": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no?at_medium=RSS&at_campaign=rss",
+        "description": "The company says cutting roles would make its operations \"simpler and faster\".",
+        "pubDate": "2026-09-02T16:51:49Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4149/live/2053ede0-a6ec-11f1-9e4c-79c1c0e340c6.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Understanding the tech giants' oversized influence in American schools",
+        "link": "https://www.npr.org/2026/09/02/nx-s1-5953878/understanding-the-tech-giants-oversized-influence-in-american-schools",
+        "description": "Big tech companies like Apple and Microsoft use devices, training and conferences for teachers and students to embed in schools.",
+        "pubDate": "2026-09-02T16:08:31Z",
+        "source": "npr.org",
+        "image": "",
+        "bias": -1
+      },
       {
         "title": "Lords call for AI 'kill switch' powers in UK",
         "link": "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o?at_medium=RSS&at_campaign=rss",
@@ -981,18 +1080,9 @@
         "bias": -1
       },
       {
-        "title": "Apple changes Lake Ontario name to 'Lake America' for US users of its Maps, following Trump's order - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNVJ0RkRHTzB3ODJBRjdmS1ZJTXNmVUhUWHZyMVZGYnpXY0JWQjJwZVZ4dk1NeGJVQ1UybnNQcG5KbFcxWGlfLU02dFhTZTBjU25reDY2TjlPdkZHY0FIYTVxUlFkT0N1MkswdnlURi1OM1lXWUdibmxVLUNONXViTWlUVm9oMGl0QnRPQVZ2M2VVT0E0YUxUNQ?oc=5",
-        "description": "",
-        "pubDate": "2026-09-02T14:12:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "New lawsuits claim OpenAI execs put image ahead of safety in Canadian mass shooting",
         "link": "https://www.npr.org/2026/09/02/nx-s1-5953021/openai-tumbler-ridge-mass-shooting",
-        "description": "The suits say that recommendations to alert police about the alleged shooter were nixed by the OpenAI's global affairs team, led by veteran political strategist Chris Lehane. OpenAI denies the claims.",
+        "description": "The suits say that recommendations to alert police about the alleged shooter were nixed by OpenAI's global affairs team, led by veteran political strategist Chris Lehane. OpenAI denies the claims.",
         "pubDate": "2026-09-02T12:22:42Z",
         "source": "npr.org",
         "image": "",
@@ -1008,15 +1098,6 @@
         "bias": -1
       },
       {
-        "title": "Turkish cargo ship sinks after collision off Istanbul’s coast and 10 crew are feared dead - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeGNqS3dScHJmRk12SEc5ZUpCY0RjeTFTWmpjYnpjSVJROEpmUGc2MWtXMjI3RHpXMXg3dHZGdVdmSm1sWnV5b0w1cDZQcU9KOU9LS1NhbTFGbVc5aW0wNGxLS0FrVWUzNkF4RXhxdFhUTE1BWGRxN3p2Ym5JVE1OODhxS0VNVmhVZmFkUGxMOXlranBEUGdpbHpDTHRJcE9Iazk2dHRVZ2JwSzNsNkE?oc=5",
-        "description": "",
-        "pubDate": "2026-09-02T10:36:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
         "title": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
         "link": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&at_campaign=rss",
         "description": "Booking.com said the \"limited test\" was \"not a true reflection of the experience of millions of listings or reviews\".",
@@ -1024,18 +1105,18 @@
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f10/live/ff12f590-a5f1-11f1-8348-fb0cb1cd9761.jpg",
         "bias": -1
-      },
-      {
-        "title": "Venezuela’s main airport partially resumes commercial flights after deadly earthquakes - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbno5N29DUWRKTHlTT2dlSjZvd3NJSzJZblNoVnF1U3Y2aURMODdaTFlYamp4d05PZXdCZ1ZER3FEMGUtOTF5V1lac3dJdEJoVjRhMVRkYTZLUnlMQm5KUkl2cVc1dVNUZWdQUU1lZHhCYjZUdTJ2Zk42NXYzTzNXMU9LcmstZW15NS14dlhHZWs4cVhQM3hnZHlwM2xxbTZIcHpDOUhyN1RHczlacWlnU2JFdVpLMDhQQkE?oc=5",
-        "description": "",
-        "pubDate": "2026-09-02T00:47:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Science": [
+      {
+        "title": "Scientists may have found first hint of dark matter",
+        "link": "https://www.bbc.co.uk/news/articles/cvgypvnx1jgo?at_medium=RSS&at_campaign=rss",
+        "description": "The mysterious material has eluded scientists for nearly a century.",
+        "pubDate": "2026-09-02T15:54:03Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37fa/live/0d899630-a6b8-11f1-ae1e-219da1d6451a.jpg",
+        "bias": -1
+      },
       {
         "title": "Astronauts set out on rare all-female spacewalk",
         "link": "https://www.bbc.co.uk/news/videos/c5ylm5yj20go?at_medium=RSS&at_campaign=rss",
@@ -1046,6 +1127,15 @@
         "bias": -1
       },
       {
+        "title": "German companies under pressure to adapt as China challenges them at their own game - AP News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcVgwLUhzNUdOSThrbUl5TDNBVWQ5TjVuYXNlLUFTV2kwLWR5cWw3YnVCdnpFZzhiLWtnOUhicy1KWWo3bDNlSFU4TWtqa2Q2em1UZ1NpcTkwZ3lRWHM0Q3dnZG9IZ05Sc0Z3NVdsOFBRajI1ZHJ2ajBDWDhrYmxPbl91bm96Q1lQSDd4Zlc1OUJSeWtZenZNWEJHQQ?oc=5",
+        "description": "",
+        "pubDate": "2026-09-02T10:40:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
         "title": "Will your name be the next UK storm?",
         "link": "https://www.bbc.co.uk/news/videos/ckgxzyrk7x7o?at_medium=RSS&at_campaign=rss",
         "description": "The storm name list for the next year is out. Will your name be on it?",
@@ -1053,15 +1143,6 @@
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93e3/live/a9a7ef50-a6b6-11f1-b109-879e35c24276.jpg",
         "bias": -1
-      },
-      {
-        "title": "Prominent Hong Kong activist Joshua Wong pleads guilty in second national security case - AP News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVEowSndQM0hmd2FXYjc5eEJ1a3dTUGRwZTZzazFnT1ZhMzh3RzY2VnN2YVNsYUt3WlZteTFuOHFaN1VobmdhcF95MkVhaWtGTWxJRWs4dHZXZ1F5ZGs5a1BXOC04Rmx3YkVmemlmYnhWajN6bU1nZXRqbWV6SmozSTRnR2NkMUsxbVhMUGNYaFA4bnlTeF8xamxKM092M3BR?oc=5",
-        "description": "",
-        "pubDate": "2026-09-02T10:12:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       },
       {
         "title": "Is Donald Trump 'supplying all that money' to Nasa?",
@@ -1099,15 +1180,6 @@
         "pubDate": "2026-09-02T14:23:01Z",
         "source": "bbc.co.uk",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9615/live/00a52b50-a613-11f1-9a0e-e95c171695e2.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Chevron to expand in Venezuela, days after the U.S. and Venezuela strike oil deal",
-        "link": "https://www.npr.org/2026/09/02/nx-s1-5952190/chevron-venezuela-oil-deal",
-        "description": "Chevron is the largest foreign oil operator in Venezuela. The deal will expand its footprint at a time of political and economic uncertainty for Venezuela.",
-        "pubDate": "2026-09-02T14:08:03Z",
-        "source": "npr.org",
-        "image": "",
         "bias": -1
       },
       {
@@ -1185,12 +1257,21 @@
     ],
     "Culture": [
       {
-        "title": "King Charles, Macron and Burnham to preview Bayeux Tapestry display",
+        "title": "King and Macron view historic Bayeux Tapestry exhibition in London",
         "link": "https://www.bbc.co.uk/news/articles/cy7zx6k404go?at_medium=RSS&at_campaign=rss",
         "description": "British and French leaders will be at the British Museum to see the exhibition of the historic Bayeux Tapestry.",
-        "pubDate": "2026-09-02T11:08:19Z",
+        "pubDate": "2026-09-02T17:49:57Z",
         "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0af0/live/5f19e850-a6b9-11f1-ae1e-219da1d6451a.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7baf/live/46099ef0-a6f5-11f1-97e2-55b9ef1865bd.jpg",
+        "bias": -1
+      },
+      {
+        "title": "The Other Bennet Sister wraps filming Christmas special",
+        "link": "https://www.bbc.co.uk/news/articles/c3v4wz946wdo?at_medium=RSS&at_campaign=rss",
+        "description": "The producer of the show tells fans online that filming has finished for three special episodes.",
+        "pubDate": "2026-09-02T17:02:52Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a71b/live/6c6f8380-1d51-11f1-a00b-6f91831af046.png",
         "bias": -1
       },
       {
