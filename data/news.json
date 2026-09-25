@@ -1,22 +1,593 @@
 {
-  "lastUpdate": "2026-09-25T00:03:21.656660Z",
+  "lastUpdate": "2026-09-25T04:50:17.725940Z",
   "news": {
     "Gaming": [
       {
-        "title": "Toucan Twist [Free]",
-        "link": "https://kaydenament.itch.io/toucan-twist",
+        "title": "Mp1b the room [Free]",
+        "link": "https://mgray06.itch.io/mp1b-the-room",
         "description": "",
-        "pubDate": "2026-09-25T00:00:36Z",
-        "source": "kaydenament.itch.io",
-        "image": "https://img.itch.zone/aW1nLzMwMjM1MTk3LnBuZw==/315x250%23c/w8B9Yi.png",
+        "pubDate": "2026-09-25T04:28:45Z",
+        "source": "mgray06.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMwMjM4NjAyLnBuZw==/315x250%23c/jOs07u.png",
+        "bias": 0
+      },
+      {
+        "title": "Stickman Adventure [Free]",
+        "link": "https://amiaxoom.itch.io/stickman-adventure",
+        "description": "My first (very short) game.",
+        "pubDate": "2026-09-25T04:20:31Z",
+        "source": "amiaxoom.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMwMjM4NTI2LnBuZw==/315x250%23c/U7Vws%2B.png",
+        "bias": 0
+      },
+      {
+        "title": "Spellcasting [Free] [Shooter]",
+        "link": "https://shw3935.itch.io/spellcasting",
+        "description": "",
+        "pubDate": "2026-09-25T04:16:49Z",
+        "source": "shw3935.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMwMjM4NDU3LnBuZw==/315x250%23c/hiDMFk.png",
+        "bias": 0
+      },
+      {
+        "title": "Pawzzle [Free] [Puzzle] [Windows]",
+        "link": "https://cn8726.itch.io/pawzzle",
+        "description": "A little sudoku, with a fluffy friend beside you. Free demo of the first 10 levels.",
+        "pubDate": "2026-09-25T04:02:58Z",
+        "source": "cn8726.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMwMjM4MzY1LnBuZw==/315x250%23c/pSc0tT.png",
+        "bias": 0
+      },
+      {
+        "title": "Silly guy doing Silly things [Free] [Adventure]",
+        "link": "https://riinni.itch.io/silly-guy-doing-silly-things",
+        "description": "A guy peacefully jumps collecting coins",
+        "pubDate": "2026-09-25T04:02:39Z",
+        "source": "riinni.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMwMjM4MzMwLnBuZw==/315x250%23c/w4FwKg.png",
+        "bias": 0
+      },
+      {
+        "title": "Satomi Hakkenden: The Eight Beads [$2.00] [Role Playing] [Windows]",
+        "link": "https://mahjong-kawasaki.itch.io/satomi-hakkenden-eight-beads",
+        "description": "Gather the Eight Dog Warriors in a Famicom-style samurai RPG",
+        "pubDate": "2026-09-25T04:00:50Z",
+        "source": "mahjong-kawasaki.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMwMjM4Mjk5LnBuZw==/315x250%23c/Uf7RcJ.png",
+        "bias": 0
+      },
+      {
+        "title": "Shelf Control [Free] [Puzzle]",
+        "link": "https://ajcdrift.itch.io/shelf-control",
+        "description": "Stack the cats, build the picture! A tidy little puzzle with a new picture every day.",
+        "pubDate": "2026-09-25T04:00:30Z",
+        "source": "ajcdrift.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMwMjM4MzQ3LnBuZw==/315x250%23c/uIx%2Bfy.png",
+        "bias": 0
+      },
+      {
+        "title": "A game (Made by tiktok) [Free]",
+        "link": "https://slopdev0.itch.io/a-game-made-by-tiktok",
+        "description": "This game was made with the top comments from Slopdev0 on TikTok.",
+        "pubDate": "2026-09-25T03:59:39Z",
+        "source": "slopdev0.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMwMjM4MTQwLnBuZw==/315x250%23c/6149Eq.png",
+        "bias": 0
+      },
+      {
+        "title": "Mediocre Maria 64 - Murderous Molten Maelstrom [Free]",
+        "link": "https://hobbezriel.itch.io/mm64",
+        "description": "You alread know.",
+        "pubDate": "2026-09-25T03:59:31Z",
+        "source": "hobbezriel.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMwMjM4Mjk0LmpwZw==/315x250%23c/lFn8XC.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Super Poderes [Free] [Platformer] [Windows]",
+        "link": "https://avartegames.itch.io/super-poderes",
+        "description": "",
+        "pubDate": "2026-09-25T03:58:13Z",
+        "source": "avartegames.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMwMjM4MTgzLnBuZw==/315x250%23c/dHQlv4.png",
+        "bias": 0
+      },
+      {
+        "title": "PROJECT VEX TAG V2.4 [Free] [Action] [Android]",
+        "link": "https://top-cat-taggers-dev.itch.io/project-vex-tag-v24",
+        "description": "",
+        "pubDate": "2026-09-25T03:55:05Z",
+        "source": "top-cat-taggers-dev.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMwMjM4MTI5LnBuZw==/315x250%23c/Kc33N6.png",
+        "bias": 0
+      },
+      {
+        "title": "Bodyguard Remake [Free] [Survival] [Windows]",
+        "link": "https://avartegames.itch.io/bodyguard-remake",
+        "description": "",
+        "pubDate": "2026-09-25T03:47:47Z",
+        "source": "avartegames.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMwMjM4MDU5LnBuZw==/315x250%23c/Lobl4P.png",
+        "bias": 0
+      },
+      {
+        "title": "Commander-in-Chief [Free] [Simulation]",
+        "link": "https://3failstudios.itch.io/commander-in-chief",
+        "description": "A Presidential Simulator",
+        "pubDate": "2026-09-25T03:47:08Z",
+        "source": "3failstudios.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMwMjM4MTMzLnBuZw==/315x250%23c/6xRh0B.png",
+        "bias": 0
+      },
+      {
+        "title": "3 TETRIS [Free] [Puzzle]",
+        "link": "https://barneythebrown.itch.io/tetris",
+        "description": "",
+        "pubDate": "2026-09-25T03:46:17Z",
+        "source": "barneythebrown.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMwMjM4MDcxLmpwZw==/315x250%23c/%2BOkoej.jpg",
+        "bias": 0
+      },
+      {
+        "title": "NikuDangeon Tileset [$9.99]",
+        "link": "https://zitanezitane.itch.io/meatdangion",
+        "description": "",
+        "pubDate": "2026-09-25T03:45:05Z",
+        "source": "zitanezitane.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMwMjM4Nzg5LnBuZw==/315x250%23c/gKn7lK.png",
+        "bias": 0
+      },
+      {
+        "title": "Secret Council [Free] [Card Game]",
+        "link": "https://movep.itch.io/secret-council",
+        "description": "Include both English and Chinese version",
+        "pubDate": "2026-09-25T03:44:17Z",
+        "source": "movep.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMwMjM4MDE0LmpwZw==/315x250%23c/KbaKce.jpg",
+        "bias": 0
+      },
+      {
+        "title": "MINUS ONEONE Android Port [Free]",
+        "link": "https://kukitothecoloredclover.itch.io/minus-oneone-android-port",
+        "description": "",
+        "pubDate": "2026-09-25T03:40:14Z",
+        "source": "kukitothecoloredclover.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMwMjM4MDAzLnBuZw==/315x250%23c/SEbSPW.png",
+        "bias": 0
+      },
+      {
+        "title": "PANCHO Atropella [Free] [Adventure] [Windows]",
+        "link": "https://avartegames.itch.io/pancho-atropella",
+        "description": "",
+        "pubDate": "2026-09-25T03:29:57Z",
+        "source": "avartegames.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMwMjM4Mzk5LnBuZw==/315x250%23c/bNO3ex.png",
+        "bias": 0
+      },
+      {
+        "title": "Training Day [Free] [Sports]",
+        "link": "https://huertadelimones.itch.io/training-day",
+        "description": "gym simulator",
+        "pubDate": "2026-09-25T03:26:12Z",
+        "source": "huertadelimones.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMwMjM3NjQ1LnBuZw==/315x250%23c/4lf%2BmM.png",
+        "bias": 0
+      },
+      {
+        "title": "Silicon Slime Rush: World Tour [Free] [Racing]",
+        "link": "https://guigulaoshi.itch.io/silicon-slime-rush-world-tour",
+        "description": "Your daily commute, around the world. Now with slime.",
+        "pubDate": "2026-09-25T03:21:19Z",
+        "source": "guigulaoshi.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMwMjM3NzY5LnBuZw==/315x250%23c/UUwQRz.png",
+        "bias": 0
+      },
+      {
+        "title": "THE SHADOWS OF YOUR ABYSS (DEMO) [Free] [Windows]",
+        "link": "https://ksnreboot.itch.io/the-shadows-of-your-abyss",
+        "description": "TSOYA",
+        "pubDate": "2026-09-25T03:21:02Z",
+        "source": "ksnreboot.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMwMjM3NzI5LnBuZw==/315x250%23c/weFXNy.png",
+        "bias": 0
+      },
+      {
+        "title": "TOKYO LOOP [Free] [Simulation]",
+        "link": "https://haruka-apps-games.itch.io/tokyo-loop",
+        "description": "Drive the real Tokyo — 20,000 buildings from OpenStreetMap, rendered in Pyxel.",
+        "pubDate": "2026-09-25T03:18:00Z",
+        "source": "haruka-apps-games.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMwMjM3ODg4LnBuZw==/315x250%23c/U1KxNO.png",
+        "bias": 0
+      },
+      {
+        "title": "CODE CRUSH for Mobile [Free] [Puzzle]",
+        "link": "https://joe1223k.itch.io/code-crush-for-mobile",
+        "description": "",
+        "pubDate": "2026-09-25T03:12:14Z",
+        "source": "joe1223k.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMwMjM4MzIzLnBuZw==/315x250%23c/fYdsMa.png",
+        "bias": 0
+      },
+      {
+        "title": "Tearra — Os Fios das Ânimas [Free] [Adventure] [Windows]",
+        "link": "https://zayakada1.itch.io/tearra-os-fios-das-nimas",
+        "description": "Capture, crie vínculos e evolua Ânimas num RPG em pixel art onde tudo é ligado por fios.",
+        "pubDate": "2026-09-25T02:56:40Z",
+        "source": "zayakada1.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMwMjM3NTcyLnBuZw==/315x250%23c/5%2FC7Fw.png",
+        "bias": 0
+      },
+      {
+        "title": "Last Card Aotearoa (newzealand) [Free] [Card Game]",
+        "link": "https://jasaacc.itch.io/last-car-aotearoa-newzealand",
+        "description": "Last Card",
+        "pubDate": "2026-09-25T02:44:51Z",
+        "source": "jasaacc.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMwMjM3MjMzLnBuZw==/315x250%23c/3Q8rof.png",
+        "bias": 0
+      },
+      {
+        "title": "operation breakout [Free]",
+        "link": "https://arealis.itch.io/operation-breakout",
+        "description": "operation breakout",
+        "pubDate": "2026-09-25T02:33:15Z",
+        "source": "arealis.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMwMjM3MTAzLnBuZw==/315x250%23c/6gCByB.png",
+        "bias": 0
+      },
+      {
+        "title": "NEBORA [Free] [Action] [Windows]",
+        "link": "https://joellandix.itch.io/nebora",
+        "description": "Sobreviví oleadas , subí de nivel y armá tu build definitivo.",
+        "pubDate": "2026-09-25T02:26:29Z",
+        "source": "joellandix.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMwMjM4MDA0LnBuZw==/315x250%23c/GhYSUM.png",
+        "bias": 0
+      },
+      {
+        "title": "Holdout on Char VR [Free] [Shooter] [Android]",
+        "link": "https://danielvpe.itch.io/holdout-on-char-vr",
+        "description": "A StarCraft fan project. Can you hold out until the medevac arrives?",
+        "pubDate": "2026-09-25T01:34:42Z",
+        "source": "danielvpe.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMwMjM2NjEwLmpwZw==/315x250%23c/24dn3x.jpg",
+        "bias": 0
+      },
+      {
+        "title": "pumpParty [Free] [Action]",
+        "link": "https://hotstinkingarbage.itch.io/pumpparty",
+        "description": "",
+        "pubDate": "2026-09-25T01:30:46Z",
+        "source": "hotstinkingarbage.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMwMjM2MzE1LnBuZw==/315x250%23c/cVym6M.png",
         "bias": 0
       }
     ],
-    "World": [],
-    "Politics": [],
-    "Tech": [],
+    "World": [
+      {
+        "title": "Pakistani forces kill Afghan Taliban fighters in border escalation",
+        "link": "https://www.aljazeera.com/news/2026/9/25/pakistani-forces-kill-afghan-taliban-fighters-in-border-escalation?traffic_source=rss",
+        "description": "Pakistan's security forces report ongoing cross-border fire in latest fighting with Afghanistan.",
+        "pubDate": "2026-09-25T04:22:10Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+        "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
+        "description": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
+        "pubDate": "2026-09-25T03:57:09Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b040/live/c2a19a30-b893-11f1-bc1f-3f186ca4140c.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Jewish protestors join Free Palestine march to denounce Netanyahu",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/jewish-protestors-join-free-palestine-march-to-denounce-netanyahu?traffic_source=rss",
+        "description": "Al Jazeera’s Emma Withrow reports from a Free Palestine march, where Jewish demonstrators rejected Netanyahu.",
+        "pubDate": "2026-09-25T03:49:43Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Young men flee Tigray amid fears of forced recruitment",
+        "link": "https://www.aljazeera.com/news/2026/9/25/young-men-flee-tigray-amid-fears-of-forced-recruitment?traffic_source=rss",
+        "description": "Years after the war, unresolved tensions are again leaving young people fearful of being drawn into fighting.",
+        "pubDate": "2026-09-25T03:45:06Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Oil prices jump after Yemen’s Houthis claim attacks on Saudi facilities",
+        "link": "https://www.aljazeera.com/economy/2026/9/25/oil-prices-jump-after-yemens-houthis-claim-attacks-on-saudi-facilities?traffic_source=rss",
+        "description": "Brent crude tops $106 a barrel after Iran-aligned rebel group claims to have successfully attacked Aramco facilities.",
+        "pubDate": "2026-09-25T03:41:25Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Saudi, Turkish, Pakistani chiefs plan urgent talks amid Yemen fighting",
+        "link": "https://www.aljazeera.com/news/2026/9/25/saudi-turkish-pakistani-chiefs-plan-urgent-talks-amid-yemen-fighting?traffic_source=rss",
+        "description": "Saudi Arabia, Turkiye and Pakistan move to deepen defence coordination as Houthi attacks and Yemen fighting intensify.",
+        "pubDate": "2026-09-25T03:35:22Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "When AI’s moving this fast, who’s protecting us?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/when-ais-moving-this-fast-whos-protecting-us?traffic_source=rss",
+        "description": "The people building the world’s most powerful AI systems are now warning governments about losing control.",
+        "pubDate": "2026-09-25T03:34:54Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "NYC police arrest Susan Sarandon, other celebrities protesting Netanyahu",
+        "link": "https://www.aljazeera.com/news/2026/9/25/nyc-police-arrest-susan-sarandon-other-celebrities-protesting-netanyahu?traffic_source=rss",
+        "description": "Rights groups accuse UN of hosting a 'war criminal' as delegations walk out during Israeli prime minister's speech.",
+        "pubDate": "2026-09-25T02:35:53Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Contrasting treatment of Israel and Palestine on display at the UN",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/contrasting-treatment-of-israel-and-palestine-on-display-at-the-un?traffic_source=rss",
+        "description": "Israel’s Prime Minister addressed the UN General Assembly in person, despite having an ICC arrest warrant.",
+        "pubDate": "2026-09-25T02:26:16Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "More than 100 arrested as New Yorkers protest Netanyahu’s UN visit",
+        "link": "https://www.aljazeera.com/news/2026/9/25/more-than-100-arrested-as-new-yorkers-protest-netanyahus-un-visit?traffic_source=rss",
+        "description": "Demonstrators blocked streets and marched towards UN headquarters as the Israeli PM addressed world leaders at UNGA.",
+        "pubDate": "2026-09-25T02:24:16Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Trump’s state dinner for Xi features sea bass and a long list of tech titans - apnews.com",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTHRNd1RUc2NaeXMxMXZsbnBkZkM0dEJiQ1lRNEMxM29RdWlBeTc2V1B5dGhHN0NodlJSaGhBZTY3UGVCRk1KM2xpeFR6czB1SUxob3RPN244NFVDSkktVWxtSzduTzhmSHNxUXRKVVlSRU95VXJ6dHJ5NnF4b2ZkQzh6ZUZLYmo2VHFMMVBQem1jeVg0bWpoRzFR?oc=5",
+        "description": "",
+        "pubDate": "2026-09-25T02:10:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Meloni government bans burqas, caps foreign students in Italian schools",
+        "link": "https://www.aljazeera.com/news/2026/9/25/meloni-government-bans-burqas-caps-foreign-students-in-italian-schools?traffic_source=rss",
+        "description": "Italy is a front-line country for migration, with integration a hot campaign issue ahead of its 2027 election.",
+        "pubDate": "2026-09-25T02:07:29Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Trump praises US-China friendship at state dinner with Xi Jinping",
+        "link": "https://www.aljazeera.com/news/2026/9/25/trump-praises-us-china-friendship-at-state-dinner-with-xi-jinping?traffic_source=rss",
+        "description": "The two superpowers seek greater dialogue despite differences over issues such as Iran, Taiwan, AI and trade.",
+        "pubDate": "2026-09-25T02:00:16Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Protesters of Xi’s policies push for change in earshot of White House visit with Trump - apnews.com",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRGdRQldtTHhNdGRXSXV6NlhNWWV0QUlvM0lacGpNeWVFbmdjdmRsM3hLUFpYczYzZGx5YzQ0UnhDZjBaeldlcThjWE14UEdiM3F2N2VwdHkyQlJKa0duMWNOeW9PMWZrRlJ4Vm1FX0RTQ1VKRHFCWXZzS1JEdUVlWFE3Z2g3cGd3WExXbUNZMGVDVWs?oc=5",
+        "description": "",
+        "pubDate": "2026-09-25T01:35:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "The world’s two most powerful men just met. How did it go?",
+        "link": "https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss",
+        "description": "The BBC’s China correspondent Laura Bicker unpacks how the trip panned out for Beijing and Washington.",
+        "pubDate": "2026-09-25T01:27:10Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0694/live/bcd32e70-b87f-11f1-b1d1-571ed4d7ff2c.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Trump administration turns to Supreme Court as third-country deportations are thrown into question - apnews.com",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdXFCanBmb1VsdDg0SDF2b0ktRTRPcDJaYmdQM1RWZFNQeEtIeGhLOFF2RVZpdUlnUGRhY3hnUWZycEp5NXZKQnJDd2xhSFZ4MUNzTWcxbjBtOE1WcWUtcXExR21tbVZrN2JTekVJM0puR0F5UFZmYkxRcWxCMklPRUlNUlRZR29aRVQ3a1lmeDJPTzEzQ0hKSWh2Nlp3UzNhSTQtbG1PSUdZOVEyRk4yRW05QVZsS3FJaW1F?oc=5",
+        "description": "",
+        "pubDate": "2026-09-25T01:22:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
+        "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+        "description": "CNN and MS NOW said reporters were denied access to covering White House arrivals for a state dinner, despite a judge ruling their passes must be restored.",
+        "pubDate": "2026-09-25T01:10:35Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afff/live/c8cd8880-b855-11f1-a430-4d16ee157c41.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Energy Department will spend $2 billion to squeeze more electricity from the aging power grid - apnews.com",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYnpMREtYc0hMdHJBLTY2Z1d1R2pkakxJNDltVGdLOEJYajd5SDhjdmI5RG5FNEpBaHNvQlduUXM4MlBCQ3A0dWFsTjNaNDhBMG5Ibk04cmM3MlE4eU1MWDRhSGtNdHBOVy1sb0JQU01GeVRac1NaVW9nSU9IaHFNbXdzRVRJd3pyRXdsVWxHRU9sbnNwZkxLNFB1OG5kU2FLMzB0NQ?oc=5",
+        "description": "",
+        "pubDate": "2026-09-25T00:49:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Trump lays out the pomp for Xi but says little about the significant tensions in US-China relations - apnews.com",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdUlSSmFoWUZsM1V4WlJhUkNONDJwUVRNMEpacHR2ckJUT1ltenVUc2JoSUJMejVtR2g1RkNWZTlpNTFDM1ZTZUhQb0RSbEFTNm40c0Nsc3g0X01ySTZOYWxXT1FUR1FvUmlVV3B4dGhpbDVfcG1FNjNMeXdjSW9BZG9aa1d2c1lMQkhCRDRncw?oc=5",
+        "description": "",
+        "pubDate": "2026-09-25T00:46:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+        "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+        "description": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
+        "pubDate": "2026-09-25T00:44:04Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef68/live/531a99b0-b851-11f1-b1d1-571ed4d7ff2c.jpg",
+        "bias": -1
+      },
+      {
+        "title": "At least 41 die as boat capsizes in DRC’s Lake Tanganyika",
+        "link": "https://www.aljazeera.com/news/2026/9/25/at-least-41-die-as-boat-capsizes-in-drcs-lake-tanganyika?traffic_source=rss",
+        "description": "Forty-nine passengers have been rescued and a search is under way for the missing.",
+        "pubDate": "2026-09-25T00:38:13Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Brazil’s Lula and Flavio Bolsonaro still essentially tied in new poll",
+        "link": "https://www.aljazeera.com/news/2026/9/25/brazils-lula-and-flavio-bolsonaro-still-essentially-tied-in-new-poll?traffic_source=rss",
+        "description": "Luiz Inacio Lula da Silva is up two points, but that's still within the poll's margin of error.",
+        "pubDate": "2026-09-25T00:35:51Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector",
+        "link": "https://www.aljazeera.com/economy/2026/9/25/uae-bars-iranian-airlines-as-us-sanctions-squeeze-irans-aviation-sector?traffic_source=rss",
+        "description": "UAE joins Oman, Iraq, Azerbaijan, Georgia and Turkmenistan in restricting access to Iranian airlines.",
+        "pubDate": "2026-09-25T00:24:47Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Argentina’s poverty rises to 32 percent under Milei with more pain forecast",
+        "link": "https://www.aljazeera.com/news/2026/9/25/argentinas-poverty-rises-to-32-percent-under-milei-with-more-pain-forecast?traffic_source=rss",
+        "description": "A 4.1-percentage-point rise in poverty in the first half of 2026 could be bad news for Milei's re-election bid.",
+        "pubDate": "2026-09-25T00:23:24Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "Who was invited to China state dinner: White House releases guest list for celebration - apnews.com",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaDZ1TUNfTVYycDJrVUt5MGZ2bkxvX2ZUajJWZkZILWtBcWpJVU1meFhPZ19jd085bU5XODg0X045em5wRFlxV1pTS09hYjg3TG1ZZG8yQ0FkVjhNd0xGUk5rQkZSbDAxbGpPZ0lJc0NCRVd3OUVsRW9kTDFYelZOUVNxSHRmUzBCa0NMMzdsTEVGaUJVLVdDRmhwc2FwQjM2UHhv?oc=5",
+        "description": "",
+        "pubDate": "2026-09-25T00:20:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Iran war live: Saudi, Turkish and Pakistani army chiefs plan urgent meeting",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/9/25/iran-war-live-tehran-wants-washington-to-re-enter-mou-before-us-midterms?traffic_source=rss",
+        "description": "Saudi, Turkish, Pakistani army chiefs invoke Mecca pact for urgent talks over Houthi attacks.",
+        "pubDate": "2026-09-25T00:00:00Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      }
+    ],
+    "Politics": [
+      {
+        "title": "It’s been an intense hurricane season in the Pacific and there’s still a long way to go - apnews.com",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONEJuLVJfZW5PenR0enk5akl1MUwxUm5LNUhaR3hVcmg4S2NVdXBidHc0emtCYVNVcVhUSndTbzA2R2M5TUtxQnREX3A1SVRLZlBzcGdWYjZrN1Z0TTgxZDYtQjdLaUtHM0tpMUNSZHZTczAzZnZXSGZETWcwSkliRGVvQTFsbWtmZFU5X1VZTQ?oc=5",
+        "description": "",
+        "pubDate": "2026-09-25T04:18:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "A month after Nepal-China floods, families await answers about more than 50 missing Ukrainians - apnews.com",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMmtuNEtzTzVXN1JHTERjM2thaXZ4SlBoUG4zV3NKbk5DdW55Z1hNOW0tektoTFNYdlNhRTFNS2RMdW02TzZQX0VPQnBTUlpESC1OaGp1eTZIZUN6ZnhzVHdDeGpaUmRmVXk2Y2o2TTMzOWhoaFNlZXRZMDBKUVlDUHZVa2huamRhSFpVZy14UmNXWjJ2RUpuWmRyYnQ?oc=5",
+        "description": "",
+        "pubDate": "2026-09-25T03:15:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "New Jersey governor asks her No. 2 to resign over ethics and sexual harassment violations - apnews.com",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMHo1dDBhZkliV3RaZ1lHVUlpaExHakVDZ2xYX1NqNDZGLUJWdGJQd2Qydmtlem42RFF3Q2ltcE03b0NGTmJTRHhmc29XdkV5YjZrSFNCNDVvanprWWJIY2dyVmN6ODdwY3FfZnRuT2FxeWxZZm14RFE2TGprSWVsekI1cWU5WTNYZ2hSdzB4QXR0T09P?oc=5",
+        "description": "",
+        "pubDate": "2026-09-25T02:35:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Fifteen new members in Isle of Man general election",
+        "link": "https://www.bbc.co.uk/news/articles/cvzezk60z65do?at_medium=RSS&at_campaign=rss",
+        "description": "Three ministers lose their seats and Peel and Glenfaba elects the Isle of Man's youngest MHK.",
+        "pubDate": "2026-09-25T02:09:40Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fb9/live/106d72a0-b887-11f1-a247-25f3451230d5.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Famed radio and TV priest Fulton Sheen is beatified in St. Louis, putting him a step from sainthood - apnews.com",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSmVqMGFkZkplZTZWVFhUMnRmalRsTDNVblJjY0VHTjdwN1BKOTIyMFpjMHptcnVJVEthVklXd3RNU2NGVmhwNjZHRmQ4X0NKazJJeHZLdFF0blR3Nk5kZFU5NkN4WmlFQTNSTWJRMzdFUDR4Zm05T0VDLVdzYzNtdEhpLUlCcktxVF9LSnRHRjdaNjRxa3Vkc0pubTUtZml3LW1wQlJGblM5eVBHZkRQS0JhTQ?oc=5",
+        "description": "",
+        "pubDate": "2026-09-25T00:58:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "3 US news outlets return to White House after judge orders Trump to lift ban - apnews.com",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNFNUM3VIUEdwTndqbnFYUjk4OUYzUHNvQ0syOVNEQmNNSUxvd1FzNWdDYnpZcjJyV0xKU1BWUzc0eFVqeFRka3VNU05MeGRIT1ppWDJnbE1xMjZDbVVIc0hZT0pfUDBfNGZLUzhIOVRfU1h2N0I3SjJTajNuYUFrSFVONEVxYlpLa0F1TjcyT3diOU9nNWhhVU1zQW1XeTNSNWw1ekdMdXdQeEk?oc=5",
+        "description": "",
+        "pubDate": "2026-09-25T00:50:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      },
+      {
+        "title": "Melania Trump takes China's first lady on a museum outing that's watched for diplomacy and style - apnews.com",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRTdhNkNqMDZqbWJ4Zmp4RUtuS0dFaFN0bTVnaGVuaW5lNi1jckhHQ0VobWJYRFlOd1FObi1VUmZtNTd5RnpFMERQQVktWWQ3M0dNUmNDdGE0T3FHenZxdjZsMENiXzhCbS1Jcm11NWMtT3hCZldFRGhHU2FFU1cwN2dvUjVwa3NvTzhET0hjMFNtOWU5QzhQZzlFSnFENmpOUUdhQVlEZw?oc=5",
+        "description": "",
+        "pubDate": "2026-09-25T00:20:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ],
+    "Tech": [
+      {
+        "title": "US weighs new limits on Cuban travel at the UN as Havana decries Trump's economic squeeze - apnews.com",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTVFNVEppNmhvcGVKSXlCWTVNbF9paWJGTmJ6WEEtQXFlcDJjS25GZnROSEVMY1IzRjZ4MVEyZXU3YnJaaHhiSHhGTENrRTV4a1FzcWZqOEtuRFpLUXdsN0VPMVdkYngxYXdOT2YxODlJTGkydGUxcWt0M3dFcTNsOUttZE54SFNfRWllREt6dGZfRWxyckEtbW5ZNExKUQ?oc=5",
+        "description": "",
+        "pubDate": "2026-09-25T01:42:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ],
     "Science": [],
     "Business": [],
-    "Culture": []
+    "Culture": [
+      {
+        "title": "Italy decrees limits on non-Italian speakers and veils in school classrooms - apnews.com",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR2xMNWE5R1FIbWo2LU1vRkJtQ2dtbkxPcVYyeDcxc0c3MVZUekxLaW51SmJnS2d1UHRDTmIzdk5XNm5iQXFpMUNOLWg2OUU0R08tZnBDWnhMdFdvM21kYWt6dEhFQVJVR0tvMEh1Wnc0Q1p1Yk1YeUowbkVtVEliQW02czJwcVNrdE51RXpMdUczaHJUM1dFcjdtZTdwMDRiUENFZXJCOGFXMzE2VElMc2JxVlZ5aGZzNWcxR1RWTG9wUQ?oc=5",
+        "description": "",
+        "pubDate": "2026-09-25T01:52:00Z",
+        "source": "news.google.com",
+        "image": "",
+        "bias": 0
+      }
+    ]
   }
 }
