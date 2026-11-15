@@ -1,1043 +1,366 @@
 {
-  "lastUpdate": "2026-11-14T21:06:59.858480Z",
+  "lastUpdate": "2026-11-15T00:59:31.912306Z",
   "news": {
     "Gaming": [
       {
-        "title": "Retro Video Game [Free]",
-        "link": "https://rolo-01.itch.io/retro-video-game",
+        "title": "Kittiwake [Free] [Interactive Fiction]",
+        "link": "https://kittiwakeship.itch.io/kittiwake",
+        "description": "You wake on a ship with no memory. One of five sleeping crew is a murderer. Three wakings to find out which.",
+        "pubDate": "2026-11-15T00:51:30Z",
+        "source": "kittiwakeship.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMyMjY4Njg0LnBuZw==/315x250%23c/3xEE6B.png",
+        "bias": 0
+      },
+      {
+        "title": "Wattle Street Nursery [Free] [Simulation]",
+        "link": "https://jensenhuangaming.itch.io/wattle-street-nursery",
         "description": "",
-        "pubDate": "2026-11-14T21:01:44Z",
-        "source": "rolo-01.itch.io",
-        "image": "https://img.itch.zone/aW1nLzMyMjY5OTU3LnBuZw==/315x250%23c/au8LyI.png",
+        "pubDate": "2026-11-15T00:47:26Z",
+        "source": "jensenhuangaming.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMyMjc5Mzg3LnBuZw==/315x250%23c/CJvO15.png",
         "bias": 0
       },
       {
-        "title": "Fusball: Football and foosbal [Free] [Sports] [Android]",
-        "link": "https://shubh228.itch.io/fusball-football-and-foosbal",
+        "title": "MachoMan: RocketWala [Free] [Simulation]",
+        "link": "https://king-nas.itch.io/machoman-rocketwala",
+        "description": "Build, mix, and launch your own fireworks using any element from the Periodic Table.",
+        "pubDate": "2026-11-15T00:46:07Z",
+        "source": "king-nas.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMyMjc5MzAzLnBuZw==/315x250%23c/TC1UwE.png",
+        "bias": 0
+      },
+      {
+        "title": "ブロック崩しゲーム [Free] [Puzzle]",
+        "link": "https://tokei123.itch.io/arkanoid",
+        "description": "ブロックを壊すほど、ひなたとの距離が縮まっていくブロック崩しです",
+        "pubDate": "2026-11-15T00:46:05Z",
+        "source": "tokei123.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMyMjc5MzI4LmpwZWc=/315x250%23c/2FGR5%2B.jpeg",
+        "bias": 0
+      },
+      {
+        "title": "Penguin64™ [Free]",
+        "link": "https://katariso.itch.io/penguin64",
         "description": "",
-        "pubDate": "2026-11-14T20:58:05Z",
-        "source": "shubh228.itch.io",
-        "image": "https://img.itch.zone/aW1nLzMyMjY5OTk2LnBuZw==/315x250%23c/34ZeX1.png",
+        "pubDate": "2026-11-15T00:45:19Z",
+        "source": "katariso.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMyMjc5MDcxLnBuZw==/315x250%23c/mJh46l.png",
         "bias": 0
       },
       {
-        "title": "Acoustic World [Free] [Windows]",
-        "link": "https://mr444-dev.itch.io/acoustic-world",
-        "description": "A playable Unreal Engine 5.8 C++ showcase of sound propagation, acoustic portals, and AI perception.",
-        "pubDate": "2026-11-14T20:57:58Z",
-        "source": "mr444-dev.itch.io",
-        "image": "https://img.itch.zone/aW1nLzMyMjcwMzI0LnBuZw==/315x250%23c/3H2hJI.png",
+        "title": "forge PVPVE [Free]",
+        "link": "https://manskage.itch.io/forge-pvpve",
+        "description": "forgePVPVE",
+        "pubDate": "2026-11-15T00:44:24Z",
+        "source": "manskage.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMyMjc5MjcwLnBuZw==/315x250%23c/te%2FBB0.png",
         "bias": 0
       },
       {
-        "title": "Inverse Kinematics [Free]",
-        "link": "https://wolfcipher.itch.io/inverse-kinematics",
+        "title": "Minigame 6 - Midnight Pantry [Free]",
+        "link": "https://wanqiliang.itch.io/minigame-6-midnight-pantry",
+        "description": "A tiny pantry platformer. Every kick makes five more problems.",
+        "pubDate": "2026-11-15T00:42:42Z",
+        "source": "wanqiliang.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMyMjc5MDMxLmpwZw==/315x250%23c/TS70No.jpg",
+        "bias": 0
+      },
+      {
+        "title": "Slime Core [Free] [Platformer]",
+        "link": "https://kushcool.itch.io/slime-core",
+        "description": "#slime",
+        "pubDate": "2026-11-15T00:42:24Z",
+        "source": "kushcool.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMyMjc4NTY1LnBuZw==/315x250%23c/AhmVU8.png",
+        "bias": 0
+      },
+      {
+        "title": "Pilot Party [Free] [Action] [Windows] [Linux]",
+        "link": "https://mahou-eu.itch.io/pilot-party",
+        "description": "A chaotic WW2 pixel-art party game for 1–10 pilots",
+        "pubDate": "2026-11-15T00:41:26Z",
+        "source": "mahou-eu.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMyMjc5MjUyLnBuZw==/315x250%23c/rzGMVf.png",
+        "bias": 0
+      },
+      {
+        "title": "MARS COMMAND: RETURN HOME [Free] [Adventure]",
+        "link": "https://mjvargasc.itch.io/mars-command-return-home",
+        "description": "A cinematic space adventure about survival, exploration, and rebuilding humanity's future.",
+        "pubDate": "2026-11-15T00:39:42Z",
+        "source": "mjvargasc.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMyMjc5MTU1LnBuZw==/315x250%23c/YrK2lr.png",
+        "bias": 0
+      },
+      {
+        "title": "havendc - leah + eva [Free] [Adventure]",
+        "link": "https://evarizz.itch.io/havendc-leah-eva",
+        "description": "really awesome art",
+        "pubDate": "2026-11-15T00:39:40Z",
+        "source": "evarizz.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMyMjc4NDkyLnBuZw==/315x250%23c/FNVKCJ.png",
+        "bias": 0
+      },
+      {
+        "title": "BRASA [Free]",
+        "link": "https://fzf-dev.itch.io/brasa",
+        "description": "Um jogo de sobrevivência criado pelo Claude Fable 5.2 em um desafio de 24 horas.",
+        "pubDate": "2026-11-15T00:39:04Z",
+        "source": "fzf-dev.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMyMjc5MDgyLnBuZw==/315x250%23c/nZrXaO.png",
+        "bias": 0
+      },
+      {
+        "title": "The Strongest Battlegrounds V2 [Free] [Action] [Windows] [Linux]",
+        "link": "https://le-gamer0001.itch.io/the-strongest-battlegrounds-v2",
         "description": "",
-        "pubDate": "2026-11-14T20:57:17Z",
-        "source": "wolfcipher.itch.io",
-        "image": "https://img.itch.zone/aW1nLzMyMjcwMTg0LnBuZw==/315x250%23c/TIwUOs.png",
+        "pubDate": "2026-11-15T00:38:55Z",
+        "source": "le-gamer0001.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMyMjc4ODcyLnBuZw==/315x250%23c/ReE8RE.png",
         "bias": 0
       },
       {
-        "title": "Gang Beasts VR [Free] [Fighting] [Android]",
-        "link": "https://vrgames132.itch.io/gang-beasts-vr",
-        "description": "For VR",
-        "pubDate": "2026-11-14T20:56:04Z",
-        "source": "vrgames132.itch.io",
-        "image": "https://img.itch.zone/aW1nLzMyMjcwMDEwLmpwZWc=/315x250%23c/lVNRb7.jpeg",
-        "bias": 0
-      },
-      {
-        "title": "Basketpong [Free]",
-        "link": "https://capperg.itch.io/basketpong",
+        "title": "Prototype2 [Free]",
+        "link": "https://finnmayberry.itch.io/prototype2",
         "description": "",
-        "pubDate": "2026-11-14T20:50:33Z",
-        "source": "capperg.itch.io",
-        "image": "https://img.itch.zone/aW1nLzMyMjY5Njg5LnBuZw==/315x250%23c/N5rlm3.png",
+        "pubDate": "2026-11-15T00:38:05Z",
+        "source": "finnmayberry.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMyMjc4ODI0LnBuZw==/315x250%23c/jtk9bJ.png",
         "bias": 0
       },
       {
-        "title": "Physix Lab VR [Free] [Simulation] [Android]",
-        "link": "https://vrgames132.itch.io/phy",
-        "description": "For VR",
-        "pubDate": "2026-11-14T20:48:32Z",
-        "source": "vrgames132.itch.io",
-        "image": "https://img.itch.zone/aW1nLzMyMjY5NTg3LnBuZw==/315x250%23c/6Er%2BgW.png",
+        "title": "Stars en délire - Édition  Parodie [Free] [Card Game]",
+        "link": "https://stars-en-delire.itch.io/stars-en-dlire-dition-parodie",
+        "description": "Jeu de carte à collectionner gratuit ; 573 stars parodiques, des boosters, du grading et DU FUN !",
+        "pubDate": "2026-11-15T00:37:28Z",
+        "source": "stars-en-delire.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMyMjc4ODE4LnBuZw==/315x250%23c/hUn5Pk.png",
         "bias": 0
       },
       {
-        "title": "My Wonderful Gorgeous Little Flower [Free] [Action]",
-        "link": "https://bearsboi.itch.io/my-wonderful-gorgeous-little-flower",
-        "description": "MWGL flower",
-        "pubDate": "2026-11-14T20:48:07Z",
-        "source": "bearsboi.itch.io",
-        "image": "https://img.itch.zone/aW1nLzMyMjY5NTgwLnBuZw==/315x250%23c/BFl5pc.png",
+        "title": "Aux Tap [Free] [Rhythm]",
+        "link": "https://altygamer.itch.io/auxtap",
+        "description": "Tap Tap/Guitar Hero style game for Music by Fbe Cleve",
+        "pubDate": "2026-11-15T00:37:18Z",
+        "source": "altygamer.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMyMjc5Mjc2LnBuZw==/315x250%23c/OMQ5Sz.png",
         "bias": 0
       },
       {
-        "title": "Aurora Isle [Free] [Adventure]",
-        "link": "https://symptom999.itch.io/aurora-isle",
-        "description": "A living island in a single file — swim a turquoise sea, dive under caustics, and walk rivers through stone mountains.",
-        "pubDate": "2026-11-14T20:48:06Z",
-        "source": "symptom999.itch.io",
-        "image": "https://img.itch.zone/aW1nLzMyMjY5OTMxLnBuZw==/315x250%23c/TyKwv0.png",
-        "bias": 0
-      },
-      {
-        "title": "Anglers [Free] [Simulation] [Windows] [macOS] [Linux]",
-        "link": "https://conkayyan.itch.io/anglers",
+        "title": "Rec Claude [Free] [Action] [Windows] [Linux] [Android]",
+        "link": "https://slatfan.itch.io/rec-claude",
         "description": "",
-        "pubDate": "2026-11-14T20:45:37Z",
-        "source": "conkayyan.itch.io",
-        "image": "https://img.itch.zone/aW1nLzMyMjY5MDY1LnBuZw==/315x250%23c/OPpzr8.png",
+        "pubDate": "2026-11-15T00:37:06Z",
+        "source": "slatfan.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMyMjc4ODE3LnBuZw==/315x250%23c/jmT8Xg.png",
         "bias": 0
       },
       {
-        "title": "Booster Rush [Free] [Card Game]",
-        "link": "https://charonxxi.itch.io/booster-rush",
+        "title": "Bounce Lab [Free] [Puzzle]",
+        "link": "https://koldynovski.itch.io/bounce-lab",
+        "description": "Физическая аркада: собери монеты, отбивай шарик, крути кейсы!",
+        "pubDate": "2026-11-15T00:35:43Z",
+        "source": "koldynovski.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMyMjc4ODk4LnBuZw==/315x250%23c/m2CzUZ.png",
+        "bias": 0
+      },
+      {
+        "title": "slendytubbies 3 re worked cap 1 parte 1 [Free]",
+        "link": "https://dummy1333.itch.io/slendytubbies-3-re-worked-cap-1-parte-1",
+        "description": "losiento por el retraso la pc abia muerto",
+        "pubDate": "2026-11-15T00:35:22Z",
+        "source": "dummy1333.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMyMjc4NzI2LmpwZw==/315x250%23c/ZnKryC.jpg",
+        "bias": 0
+      },
+      {
+        "title": "john pumpkin murder man [Free] [Educational]",
+        "link": "https://bob-boy-big.itch.io/john-pumpkin-murder-man",
+        "description": "this is my first ever game, its really bad",
+        "pubDate": "2026-11-15T00:31:19Z",
+        "source": "bob-boy-big.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMyMjc4Njc5LnBuZw==/315x250%23c/eBwBhG.png",
+        "bias": 0
+      },
+      {
+        "title": "Remake Dino trial version [Free]",
+        "link": "https://obgarmastar.itch.io/remake-dino",
         "description": "",
-        "pubDate": "2026-11-14T20:45:14Z",
-        "source": "charonxxi.itch.io",
-        "image": "https://img.itch.zone/aW1nLzMyMjY5NDk5LnBuZw==/315x250%23c/jm38yI.png",
+        "pubDate": "2026-11-15T00:31:11Z",
+        "source": "obgarmastar.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMyMjc4NDgyLmpwZWc=/315x250%23c/y3cr%2FX.jpeg",
         "bias": 0
       },
       {
-        "title": "Trivial 1 vs 1 [Free] [Educational]",
-        "link": "https://davekhull.itch.io/trivial-1-vs-1",
-        "description": "El Trivial de toda la vida — 2 jugadores, cada uno en su móvil, conectados por código de sala. 168 preguntas.",
-        "pubDate": "2026-11-14T20:45:13Z",
-        "source": "davekhull.itch.io",
-        "image": "https://img.itch.zone/aW1nLzMyMjY5MjMxLmpwZw==/315x250%23c/EVGZ5y.jpg",
+        "title": "Monsters [Free]",
+        "link": "https://gkdeol.itch.io/monsters",
+        "description": "Just a beginner bringing monsters to life.... and watching them die one by one. Be kind, it's my first game!",
+        "pubDate": "2026-11-15T00:30:37Z",
+        "source": "gkdeol.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMyMjc4MTk1LnBuZw==/315x250%23c/adwrHk.png",
         "bias": 0
       },
       {
-        "title": "Little Peace [Free] [Rhythm]",
-        "link": "https://miuni.itch.io/little-peace",
-        "description": "rhythm",
-        "pubDate": "2026-11-14T20:45:05Z",
-        "source": "miuni.itch.io",
-        "image": "https://img.itch.zone/aW1nLzMyMjY5NDAyLnBuZw==/315x250%23c/yp6Y%2FG.png",
+        "title": "Confia! [Free] [Platformer]",
+        "link": "https://renansimmoesgmailcom.itch.io/confia",
+        "description": "Um jogo de plataforma em que nada é o que parece. Chegue ao portal… se conseguir.",
+        "pubDate": "2026-11-15T00:28:26Z",
+        "source": "renansimmoesgmailcom.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMyMjc5MDE4LnBuZw==/315x250%23c/j7IXBP.png",
         "bias": 0
       },
       {
-        "title": "Punch A Politician [$1.00] [Fighting]",
-        "link": "https://usa-games.itch.io/punch-a-politician",
-        "description": "They stalled your bill. Ring the bell! A cartoon boxing satire featuring 100 global political figures.",
-        "pubDate": "2026-11-14T20:43:39Z",
-        "source": "usa-games.itch.io",
-        "image": "https://img.itch.zone/aW1nLzMyMjY5NTUwLnBuZw==/315x250%23c/QIh%2Ful.png",
+        "title": "Nöbetçi Memur (Duty Clerk) [Free] [Simulation]",
+        "link": "https://xaena53.itch.io/nobetci-memur",
+        "description": "Check papers at a small-town registry office in 1984 Turkey. Seven working days, seven endings.",
+        "pubDate": "2026-11-15T00:27:29Z",
+        "source": "xaena53.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMyMjc4OTcwLnBuZw==/315x250%23c/jCanZx.png",
         "bias": 0
       },
       {
-        "title": "haven drift [Free]",
-        "link": "https://ak0130.itch.io/haven-drift",
-        "description": "",
-        "pubDate": "2026-11-14T20:42:57Z",
-        "source": "ak0130.itch.io",
-        "image": "https://img.itch.zone/aW1nLzMyMjY5Mjk0LnBuZw==/315x250%23c/nZtl%2Fj.png",
+        "title": "Max's First Adventure [Free] [Adventure]",
+        "link": "https://marvwolverine.itch.io/maxs-first-adevture",
+        "description": "Platformer",
+        "pubDate": "2026-11-15T00:25:01Z",
+        "source": "marvwolverine.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMyMjc4Njc4LnBuZw==/315x250%23c/LzOeyI.png",
         "bias": 0
       },
       {
-        "title": "Ghost World : Fall of Life [Free] [Adventure]",
-        "link": "https://edensss129.itch.io/ghost-world-fall-of-life",
-        "description": "",
-        "pubDate": "2026-11-14T20:38:34Z",
-        "source": "edensss129.itch.io",
-        "image": "https://img.itch.zone/aW1nLzMyMjY5MDkwLnBuZw==/315x250%23c/drVTmY.png",
+        "title": "On Your Wing [Free] [Action]",
+        "link": "https://utilipal.itch.io/on-your-wing",
+        "description": "One button. Three rookies copy your every move. Bring them home.",
+        "pubDate": "2026-11-15T00:19:53Z",
+        "source": "utilipal.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMyMjc4OTYzLnBuZw==/315x250%23c/t80JcN.png",
         "bias": 0
       },
       {
-        "title": "DOS Galaxy: Arcade Invasion [Free] [Shooter]",
-        "link": "https://densastudio.itch.io/dos-galaxy",
-        "description": "Offline fixed-screen space shooter: 50 stages, 5 worlds, 5 bosses.",
-        "pubDate": "2026-11-14T20:38:15Z",
-        "source": "densastudio.itch.io",
-        "image": "https://img.itch.zone/aW1nLzMyMjY5MzAwLnBuZw==/315x250%23c/ZHCu4N.png",
+        "title": "Hack to the Past [Free] [Action]",
+        "link": "https://dev-ananta.itch.io/hack-to-the-past",
+        "description": "Haven Elgin Submission",
+        "pubDate": "2026-11-15T00:19:09Z",
+        "source": "dev-ananta.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMyMjc4MjkzLnBuZw==/315x250%23c/dDhZyw.png",
         "bias": 0
       },
       {
-        "title": "SurethLingo [$1.00] [Educational]",
-        "link": "https://surethlingo.itch.io/surethlingo",
-        "description": "English-to-Sureth word-matching games 🇮🇶",
-        "pubDate": "2026-11-14T20:30:25Z",
-        "source": "surethlingo.itch.io",
-        "image": "https://img.itch.zone/aW1nLzMyMjcwMTYxLmpwZw==/315x250%23c/7NT7tW.jpg",
+        "title": "Tower Z-Fense [$2.99] [Strategy] [Android]",
+        "link": "https://stonksstudios.itch.io/tower-z-fense",
+        "description": "Hold the last bunker against the zombie horde. 3D tower defense, now with Outbreak Zero.",
+        "pubDate": "2026-11-15T00:12:57Z",
+        "source": "stonksstudios.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMyMjc4MzQ0LnBuZw==/315x250%23c/laoMBo.png",
         "bias": 0
       },
       {
-        "title": "Night Street Racer [Free] [Racing]",
-        "link": "https://grushka-offic1.itch.io/night-street-racer",
-        "description": "Drift through neon nights, tune your car and beat the AI rivals.",
-        "pubDate": "2026-11-14T20:21:21Z",
-        "source": "grushka-offic1.itch.io",
-        "image": "https://img.itch.zone/aW1nLzMyMjY3OTY1LnBuZw==/315x250%23c/H8TrWV.png",
-        "bias": 0
-      },
-      {
-        "title": "Debtypo [Free] [Other]",
-        "link": "https://kibbita.itch.io/debtypo",
-        "description": "",
-        "pubDate": "2026-11-14T20:20:11Z",
-        "source": "kibbita.itch.io",
-        "image": "https://img.itch.zone/aW1nLzMyMjcwMDI1LnBuZw==/315x250%23c/kUgOni.png",
-        "bias": 0
-      },
-      {
-        "title": "The Usher Below [60% Off] [$1.99] [Survival] [Windows]",
-        "link": "https://drozd-studios.itch.io/the-usher-below",
-        "description": "The lift is dead. Something is walking below reception. A first-person stealth horror game set in Hotel Veyr.",
-        "pubDate": "2026-11-14T20:02:11Z",
-        "source": "drozd-studios.itch.io",
-        "image": "https://img.itch.zone/aW1nLzMyMjY3NTU0LmdpZg==/original/%2FRDqp0.gif",
-        "bias": 0
-      },
-      {
-        "title": "GEAR LAB — Brass & Steam [Free] [Simulation] [Windows]",
-        "link": "https://alfonsmr82.itch.io/gear-lab-brass-steam",
-        "description": "Build gears, engines and mechanical machines in a brass-and-steam sandbox.",
-        "pubDate": "2026-11-14T20:01:45Z",
-        "source": "alfonsmr82.itch.io",
-        "image": "https://img.itch.zone/aW1nLzMyMjY4MzYzLnBuZw==/315x250%23c/Zlh97E.png",
-        "bias": 0
-      },
-      {
-        "title": "RunDash [Free] [Other] [Windows] [macOS] [Linux] [Android]",
-        "link": "https://nsb-developers.itch.io/rundash10",
-        "description": "Very fun game to play!",
-        "pubDate": "2026-11-14T19:54:40Z",
-        "source": "nsb-developers.itch.io",
-        "image": "https://img.itch.zone/aW1nLzMyMjY3ODQ1LmpwZWc=/315x250%23c/d9nnSg.jpeg",
-        "bias": 0
-      },
-      {
-        "title": "One-Room Heist [Free] [Puzzle]",
-        "link": "https://juggalizzle.itch.io/one-room-heist",
-        "description": "Read the guard, steal the jewel, and escape a tiny 3D museum. A turn-based stealth puzzle.",
-        "pubDate": "2026-11-14T19:13:17Z",
-        "source": "juggalizzle.itch.io",
-        "image": "https://img.itch.zone/aW1nLzMyMjY1NTE2LmpwZw==/315x250%23c/nv2WMb.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Mi piso de 11 m² [Free] [Puzzle] [Windows]",
-        "link": "https://sacerdotex.itch.io/mi-piso-de-11-m2",
-        "description": "Loft diáfano de 11 m². Muy luminoso (tiene bombilla). El alquiler sube mientras lees esto.",
-        "pubDate": "2026-11-14T19:06:27Z",
-        "source": "sacerdotex.itch.io",
-        "image": "https://img.itch.zone/aW1nLzMyMjY5MzEzLnBuZw==/315x250%23c/DqPwzK.png",
-        "bias": 0
-      },
-      {
-        "title": "Lil Dicky's Freaky Friday [Free] [Action]",
-        "link": "https://mariom-glasc.itch.io/lil-dickys-freaky-friday",
-        "description": "Lil Dicky's Freaky Friday",
-        "pubDate": "2026-11-14T19:06:10Z",
-        "source": "mariom-glasc.itch.io",
-        "image": "https://img.itch.zone/aW1nLzMyMjY1MjEzLmpwZw==/315x250%23c/v9oRal.jpg",
-        "bias": 0
-      },
-      {
-        "title": "Fista Complete NES Collection [Free] [Action]",
-        "link": "https://5kids2feed.itch.io/fista-complete-nes-collection",
-        "description": "The complete Fista NES collection! Original games, horror demakes & three editions of All Hell Unleashed in one ROM.",
-        "pubDate": "2026-11-14T18:11:36Z",
-        "source": "5kids2feed.itch.io",
-        "image": "https://img.itch.zone/aW1nLzMyMjY5NjQzLnBuZw==/315x250%23c/WUFqDN.png",
-        "bias": 0
-      },
-      {
-        "title": "TetRun [Free] [Windows] [macOS] [Android]",
-        "link": "https://tonoui.itch.io/tetrun",
-        "description": "",
-        "pubDate": "2026-11-14T17:48:46Z",
-        "source": "tonoui.itch.io",
-        "image": "https://img.itch.zone/aW1nLzMyMjYxNzI4LnBuZw==/315x250%23c/Rg7OHK.png",
-        "bias": 0
-      },
-      {
-        "title": "Multara [$4.99] [Strategy] [Windows] [Linux] [Android]",
-        "link": "https://multaragames.itch.io/multara",
-        "description": "Small board. Big combos.",
-        "pubDate": "2026-11-14T16:00:52Z",
-        "source": "multaragames.itch.io",
-        "image": "https://img.itch.zone/aW1nLzMyMjU2Mzc1LnBuZw==/315x250%23c/Lv5gq8.png",
-        "bias": 0
-      },
-      {
-        "title": "Cinematographer Simulator [Free] [Simulation] [Windows]",
-        "link": "https://lorevoon.itch.io/cinematographer-simulator",
-        "description": "Work as a cinematographer for a bossy director with a vision!",
-        "pubDate": "2026-11-14T07:34:35Z",
-        "source": "lorevoon.itch.io",
-        "image": "https://img.itch.zone/aW1nLzMyMjYzMDkwLnBuZw==/315x250%23c/71TnD%2F.png",
-        "bias": 0
-      },
-      {
-        "title": "Tank Tactics [Free]",
-        "link": "https://breamco.itch.io/tank-tactics",
-        "description": "",
-        "pubDate": "2026-11-14T00:05:43Z",
-        "source": "breamco.itch.io",
-        "image": "https://img.itch.zone/aW1nLzMyMjIzNzUzLnBuZw==/315x250%23c/VQU8V%2B.png",
+        "title": "FLING CYCLE [Free] [Action]",
+        "link": "https://beefsupremelatteking.itch.io/fling-cycle",
+        "description": "The dryer ate his twin. Get flung after him: bounce, STOMP, tear down five walls.",
+        "pubDate": "2026-11-15T00:07:00Z",
+        "source": "beefsupremelatteking.itch.io",
+        "image": "https://img.itch.zone/aW1nLzMyMjc5MTc4LnBuZw==/315x250%23c/DnrWPC.png",
         "bias": 0
       }
     ],
     "World": [
       {
-        "title": "Second catch attempt as SpaceX Starship rocket heads back to Earth",
-        "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-        "description": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
-        "pubDate": "2026-11-14T21:05:14Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e6d/live/64bc2ef0-e03c-11f1-b441-2b33b063138f.jpg",
-        "bias": -1
-      },
-      {
-        "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-        "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-        "description": "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin.",
-        "pubDate": "2026-11-14T20:41:45Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Police lift evacuation after bomb found near ethanol plant in central Illinois - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQREM5bzlpMHFTVDBhTU14TWxjU0xRcEd6bWNGSzlRd1VJVWdKV3p3NEdyWTRHZ2QxaDhkb0NtTlNmSXZCRU9VSDhtR3V4QWVXVms4NFFzaWpxRmhrbVI1RC1nNjJzbG82Ykx6by1ZbHBac2FoTGdQQ0xDd3ByNjFLLV9TYV9iZEpOcHo2bFlBUlE?oc=5",
-        "description": "",
-        "pubDate": "2026-11-14T20:37:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "What to know about flights after the US nationwide ground stop - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaF96ME41YXAwZ1N4NUJ3dDMwVkRlQi1QSzhhRWFBWk9iYWpNQ1daSzZlcGFOSnBoejRfZnZhSHJzMXdjQU95ZnNmYUMtQXdaWEwwQTdFT2M3UU9pbGdhR3BmeHVfTHRfX2RYWU5lLS1hUF9LSFRzdW5ETlpxQS0yazJWbWh5M3lOYk1iTWJxaTFrYmJ5NG5rZXpn?oc=5",
-        "description": "",
-        "pubDate": "2026-11-14T20:34:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "US air travel should normalize by Sunday after ground stop triggers mass cancellations, FAA says - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzlDRHBLSTNHTHRtbnpudnNXdXZpYnpEQ1hhLVNrU3ZRM0xRNm9NcUx2NjRIVFVOQVJKWXZGZzZCZ0hTcEdjd1ppTkFIelBlc282aU05SS1YYU45WTNwRUx1RzBCX3hwNW9Ed20wQ1JmQ3hHVmFSUktDSjM1eklkYTFPN3FkWUR0V1pUSjRIMHk3MjJjX0VrSm8zaFJ6a2paSnRwNzVrQlZpZw?oc=5",
-        "description": "",
-        "pubDate": "2026-11-14T20:26:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-        "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-        "description": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
-        "pubDate": "2026-11-14T20:23:06Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg",
-        "bias": -1
-      },
-      {
-        "title": "India’s Assam state demolishes homes of 132 Muslim families",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/14-11-sv-assam-muslim-families-evicted-demolition-drive?traffic_source=rss",
-        "description": "Authorities in India’s Assam have demolished the homes of 132 Muslim families.",
-        "pubDate": "2026-11-14T20:14:10Z",
+        "title": "Hundreds of men march in Switzerland to protest violence against women",
+        "link": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss",
+        "description": "Organisers say men must speak out, as Swiss study finds half of men aged 18 to 24 hold restrictive view of masculinity.",
+        "pubDate": "2026-11-15T00:27:14Z",
         "source": "aljazeera.com",
         "image": "",
+        "bias": -1
+      },
+      {
+        "title": "SpaceX’s Starship captured by launchpad arms in dramatic first",
+        "link": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss",
+        "description": "SpaceX officials say catch by mechanical arms shows Starship's full reusability, crucial for rapid, low-cost recycling.",
+        "pubDate": "2026-11-15T00:14:22Z",
+        "source": "aljazeera.com",
+        "image": "",
+        "bias": -1
+      },
+      {
+        "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+        "link": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss",
+        "description": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune.",
+        "pubDate": "2026-11-15T00:06:55Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94d8/live/8fe15d90-df82-11f1-b441-2b33b063138f.jpg",
+        "bias": -1
+      },
+      {
+        "title": "Judo champion shakes up French  presidential race with surprise candidacy",
+        "link": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
+        "description": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
+        "pubDate": "2026-11-15T00:06:51Z",
+        "source": "bbc.co.uk",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1901/live/c7db8b90-df5e-11f1-a8af-15d7a25dc0d1.jpg",
         "bias": -1
       },
       {
         "title": "Why a problem on the ground can affect flights thousands of miles away among other issues - AP News",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ25pVldyXzVjS25jYTBVUTVXVkY2Rkdfa2Z5UHFVbzQ2VXBEWFp1bGZLU1RWTWRPNGFiRWdUeVlzZ1lfVkViRlpWYjczY0FuSHJ5MGkyRjM1Y1Z4UGpsUGZ0NENXcHZJbUJzWlpISzFjUnpJeTFPNTVrOHJXN3lVMFlFaWlabEo3czNDdTB2TFlXYWRmOHc?oc=5",
         "description": "",
-        "pubDate": "2026-11-14T20:05:00Z",
+        "pubDate": "2026-11-15T00:03:00Z",
         "source": "news.google.com",
         "image": "",
         "bias": 0
       },
       {
-        "title": "How telecoms upgrade work sparked US flight chaos",
-        "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-        "description": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-        "pubDate": "2026-11-14T20:03:48Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Can being ‘non-Western’ cost you your home in Denmark?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/adlern-can_non-westren_cost_home_denmark-141126?traffic_source=rss",
-        "description": "Denmark’s Supreme Court is set to rule on whether families can be forced from their homes under a law.",
-        "pubDate": "2026-11-14T19:52:49Z",
+        "title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
+        "description": "Israel has pledged to continue its 'offensive policy' on Gaza, as fighting in Yemen grips the region.",
+        "pubDate": "2026-11-15T00:00:08Z",
         "source": "aljazeera.com",
         "image": "",
         "bias": -1
-      },
-      {
-        "title": "Deadly car bomb blast kills two near Syria’s capital",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital?traffic_source=rss",
-        "description": "At least two people, a man and a girl, have been killed in a car bomb blast in Jaramana, near Syria's capital Damascus.",
-        "pubDate": "2026-11-14T19:46:36Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "More than 100,000 rally across France in new Yellow Vest protests",
-        "link": "https://www.aljazeera.com/news/2026/11/14/more-than-100000-rally-across-france-in-new-yellow-vest-protests?traffic_source=rss",
-        "description": "Protesters chanted against declining affordability, the Macron government, police violence and poor school conditions.",
-        "pubDate": "2026-11-14T19:46:24Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Tens of thousands march in latest Portugal housing protests",
-        "link": "https://www.aljazeera.com/news/2026/11/14/tens-of-thousands-march-in-latest-portugal-housing-protests?traffic_source=rss",
-        "description": "These were the biggest protests against rising housing costs in Portugal since the social movement began weeks ago.",
-        "pubDate": "2026-11-14T19:27:55Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Pope Leo urges end to violence in Peru during visit to remote Andes town",
-        "link": "https://www.aljazeera.com/news/2026/11/14/pope-leo-urges-end-to-violence-in-peru-during-visit-to-remote-andes-town?traffic_source=rss",
-        "description": "In Santa Cruz de Succhabamba, the pope told people not to respond to injustice with brutality.",
-        "pubDate": "2026-11-14T19:20:11Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
-        "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
-        "description": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans,  Louisiana on Friday.",
-        "pubDate": "2026-11-14T19:14:33Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3089/live/3bf0cfe0-e027-11f1-a701-fddedf244c16.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-        "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-        "description": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-        "pubDate": "2026-11-14T19:12:25Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea11/live/3adfb390-e05f-11f1-9e26-b3b65586122f.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Tens of thousands march in Portuguese cities against surging home prices - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUS1FaVplM2tzTFN1dlhQeEZJeV9TenlabFM3b3RQdFMtaXhPbTJGdnZTdmlQNDRvOWlmTHh5WWFQbWRaZFFsYTNjSTRNczRIQUp1VmtQSzVYR1F2TTJpLVpsTlMwUHdscEpJNFVGQmdsUTZWQ1Bua1FWNWJMODc3MXhlNGFPWFozYWlSWg?oc=5",
-        "description": "",
-        "pubDate": "2026-11-14T18:47:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Israeli drone strike kills 2 Palestinians in Gaza, and other Mideast news - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLVJHTEpnR0lwRmdFbHVCNEQ5YWRiTXcyRy1HcTczUHVMaDdyUjBIWlVpOW9xTnBFUGZnVXhMSk53WXFuLWtoeEp0RTkwVVZjbDBvd2E3bVplY2tPZnJaY2xhNzFta1kxUEZtMFhTYzZvYWlCeGs1X0ZVT2xvMHJDbEphYjJoQVlvZkJQdlN6VXBwZG9kQnpPMHNWYlA5aDF4Z3BF?oc=5",
-        "description": "",
-        "pubDate": "2026-11-14T18:46:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "A bomb rips through a Damascus suburb killing 2 including a child - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMGI0LUs2ZHhTRmxJSTdMQzBKdV9FVkstVzBZRGh4RDN5WXI4Q2VYUXNWX19KemtyZlVHQmRHd20zM09GTjRFSGlyVk1wMW00bkRiWFVWRXR1ajlvek4zYjVPbC1aZXdMOGdNelc5TjZ4c2V4TzUxclZ5QTMxU05oeFp3b3FRZFItZTU3Y21JbWQ0aVdsb1hibGVIV3FhZw?oc=5",
-        "description": "",
-        "pubDate": "2026-11-14T18:43:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "US blames outdated technology for nationwide flight disruption",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-blames-outdated-technology-for-nationwide-flight-disruption?traffic_source=rss",
-        "description": "US blames outdated technology for nationwide flight disruption",
-        "pubDate": "2026-11-14T18:32:40Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Italy fines Meta €805m over accessing users' photos",
-        "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-        "description": "The social media giant is accused of not informing 20 million users it had access to their photos.",
-        "pubDate": "2026-11-14T18:28:06Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Philippines wins first Eurovision Song Contest Asia",
-        "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
-        "description": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
-        "pubDate": "2026-11-14T18:17:58Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/965c/live/69643890-e04f-11f1-8d5a-49633fbae59d.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Savannah Guthrie, popular and enduring face of morning TV, renews NBC contract after 15 years - AP News",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbUlBUklfbHBLbUU0emtDOXpUd3FnMTBVZHdPT0JGTnVWR1dOWjVsbUJ3ZVF2SDNHQTUteDZZWndRcnpDalJiUWVoVXRXUldyZG53TmxrSmUtMlNuRW5keUJIX1MtN0NCRlRGdVdNQmFPMmk0RHY5aUhhRnZYN2dSbDZGWHU2UXFUQi14eDVITQ?oc=5",
-        "description": "",
-        "pubDate": "2026-11-14T18:03:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "US blames system upgrade for longest nationwide FAA ground stop since 9/11",
-        "link": "https://www.aljazeera.com/news/2026/11/14/us-blames-system-upgrade-for-longest-nationwide-faa-ground-stop-since-9?traffic_source=rss",
-        "description": "Sean Duffy, the country's transportation secretary, said his agency is 'going to hold people accountable'.",
-        "pubDate": "2026-11-14T18:02:53Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
-        "link": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
-        "description": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
-        "pubDate": "2026-11-14T18:00:10Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bff/live/0bb4d910-e046-11f1-88e1-eb4e155225b3.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Rising costs and arrests fuel protests in Central African Republic",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/rising-costs-and-arrests-fuel-protests-in-central-african-republic?traffic_source=rss",
-        "description": "Hundreds take to the streets of Bangui to protest rising fuel prices and arrests in the Central African Republic.",
-        "pubDate": "2026-11-14T17:50:28Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "With shifting Iran rhetoric following US elections, Trump leaves Mideast in limbo about path ahead - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOElJSFBrTXp0cHBzTy1LMFh6T1lRM0NPNU9UMUNUaUNnc1pMNVdFQmdlQ2pjNFdGRjJFSGdwbzNnWDJSV1NMdEJ0MUVYS3d0N182Vjd3UzhyQlNzWGhvOW5PZzNIOVBmOGc2QlhFRmZGQmtncVFPa0lqOGNSVWxJRUstTnJGaGZod1BYTURWYkgwUXdT?oc=5",
-        "description": "",
-        "pubDate": "2026-11-14T17:29:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Trump, Xi and Putin plan unprecedented joint meeting on APEC sidelines, White House and Kremlin say - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUd4MWZqTjdxYkRUaW55bWxuNy1BX1FaZVNYZHRtNEg4NWdzTENNMlVLOUt6QlptMzd1cUtLanJ0U1pPNVVrbjZDRXo0UWszZjV6d09hRy1GaUFFWE9PUmtzRnFxOUxJdW1OTy0zT21LbnU3RGlhQUUtNHlnRW9nUjhJRmQ0QUFDME9oelNZTVQ?oc=5",
-        "description": "",
-        "pubDate": "2026-11-14T17:04:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
-        "link": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss",
-        "description": "Zelenskyy rejected the possibility of Ukraine committing to neutrality and said he refused to cede territory to Russia.",
-        "pubDate": "2026-11-14T16:53:39Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Portugal vs Denmark LIVE: UEFA Nations League",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/11/14/portugal-vs-denmark-live-uefa-nations-league?traffic_source=rss",
-        "description": "Follow updates from the Group A4 clash, including the build-up, analysis and live text commentary of the game.",
-        "pubDate": "2026-11-14T16:45:00Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Italy fines Meta $880m over photo privacy",
-        "link": "https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss",
-        "description": "Regulator said Meta's 'lack of cooperation' and the large number of people affected contributed to size of the fine.",
-        "pubDate": "2026-11-14T16:16:15Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Pope’s visit to hub of Afro-Peruvian community casts spotlight on African slave trade to Peru - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbldQc0RVYVEyM2ozT01IUE1MUENQZl9sdXJDQVhZUUdUbEpEZHFwVVVDLUVKS2ZTQld4QUM1UVc1dWZwNG56WVQ0X3VENnVKTmtJLXZIUlkweUZHU1R4OXJTY0R4RmVadmozLWltdEVFMlh3VGlUM0V6U293Sk9mWjBwbWNLS25yVC1KZlRUbWEyOTk5dEFpRHd2WUw?oc=5",
-        "description": "",
-        "pubDate": "2026-11-14T16:16:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Myanmar airstrike kills 12 at displacement camp in Rakhine state",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss",
-        "description": "A Myanmar military airstrike on a displacement camp in Rakhine state killed 12 people.",
-        "pubDate": "2026-11-14T16:13:43Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "FAA grounds flights nationwide, disrupting NBA, NHL and college football travel for the weekend - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVUkzUkUtOXFKRWc1dS14cHgwQzhLclZFZjNzZFJkb3R2X0JDSlJaYnR5bE1QbHhtZjhtWDZVN3VaNkNISUtqdkFtUktDMHJ3RHdEajZFLUF4RFdfTm5MaXZzRjJFRXR6UTBYcXVndGtwOGlVbHlLYXd5eFc0THc2d0ZWSUhSaGVjekE?oc=5",
-        "description": "",
-        "pubDate": "2026-11-14T16:10:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Fuel crisis and protests pressure Chile's far-right president",
-        "link": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
-        "description": "Chile's far-right President José Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country.",
-        "pubDate": "2026-11-14T16:05:12Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "EU calls for immediate humanitarian access to Gaza",
-        "link": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
-        "description": "The EU said that “Israel must enable the work of the UN and its agencies\" after the group was blocked access into Gaza.",
-        "pubDate": "2026-11-14T15:57:22Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-        "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-        "description": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-        "pubDate": "2026-11-14T15:53:55Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
-        "link": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
-        "description": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
-        "pubDate": "2026-11-14T15:42:54Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/103b/live/ed70d6c0-e040-11f1-88e1-eb4e155225b3.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss",
-        "description": "Israeli forces occupied a Palestinian-American’s home in the occupied West Bank for 17 days.",
-        "pubDate": "2026-11-14T15:36:37Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "NASA’s Voyager 1 to hit new space distance record of one light-day",
-        "link": "https://www.aljazeera.com/news/2026/11/14/nasas-voyager-1-to-hit-new-space-distance-record-of-one-light-day?traffic_source=rss",
-        "description": "The probe was launched in 1977, and it continues to relay space-related data back to a team of NASA scientists.",
-        "pubDate": "2026-11-14T15:14:54Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Canada’s Stelco to recall 175 workers after government pressure",
-        "link": "https://www.aljazeera.com/economy/2026/11/14/canadas-stelco-to-recall-175-workers-after-government-pressure?traffic_source=rss",
-        "description": "Steelmaker promises back pay for workers whose layoffs its US owner blamed on tariffs, weak demand and imports.",
-        "pubDate": "2026-11-14T15:06:52Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Why US Democrats are expected to keep Schumer and Jeffries in power",
-        "link": "https://www.aljazeera.com/news-analysis/2026/11/14/why-us-democrats-are-expected-to-keep-schumer-and-jeffries-in-power?traffic_source=rss",
-        "description": "The prospect of keeping the Congressional leaders in power is exposing long-running tensions in the party.",
-        "pubDate": "2026-11-14T14:57:04Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Empower conference: officials and youth discuss peace and security",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/empower-conference-officials-and-youth-discuss-peace-and-security?traffic_source=rss",
-        "description": "At the Empower Conference in Doha, officials gathered with youth to discuss initiatives for global peace and security.",
-        "pubDate": "2026-11-14T14:49:37Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "College football scrambles, adjusts kickoffs after FAA groundings, Ole Miss-Sooners pushed to Sunday - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWnVrVXZYZzBRaGxzS0JJTGpkekY2d283LURfNU9KV0xzNmMyRm9ocTBKYUpmUGdmSFp4Ukk1U052TnVUV0xvNGJLcm5Od1JuakZWYk9naFUzLV9ia280MnNrX1FJYmw4WjFOT213ajhqNjJmRUk0bmdQU3RWMEMxUl8tUmg4RmFURXFtci1DV3VGckVHcEhr?oc=5",
-        "description": "",
-        "pubDate": "2026-11-14T14:32:29Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "When tech founders leave, what happens to their companies?",
-        "link": "https://www.aljazeera.com/economy/2026/11/14/when-tech-founders-leave-what-happens-to-their-companies?traffic_source=rss",
-        "description": "Nvidia could lose 30 percent of its value following cofounder Jensen Huang's decision to step down, analysts warns.",
-        "pubDate": "2026-11-14T14:24:36Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Deb Haaland breaks political barriers as Native women in her home community face hurdles - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeE5kckZPcUgta3NLNmttQ0JJTi13elNzVUNNc0hGek10WFpYUURWR3N0NU9nVVJIR1FiQ2JpNXhEYkU3VjNvTC1lM3pJWHdtVE5wd1M2eGFoRkt6TF9xdk96U1kxUldZVzA1bkNKRmVIV2hTUUhfb0hDOVpNcU9yb1hPTWZRbkxpbTNOWFhuNkxxeU9tSi1JMk5zQXYxaWUxSVMxdQ?oc=5",
-        "description": "",
-        "pubDate": "2026-11-14T14:01:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Young musicians connect a community across the Line of Control",
-        "link": "https://www.aljazeera.com/editorial/longform/2026/11/14/young-musicians-connect-a-community-across-the-line-of-control?traffic_source=rss",
-        "description": "Sharing Shina songs online, musicians in Kashmir, Ladakh and Gilgit-Baltistan renew ties across the divide.",
-        "pubDate": "2026-11-14T13:56:07Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "How does Iran view shift in US approach after JD Vance ordered away?",
-        "link": "https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away?traffic_source=rss",
-        "description": "Washington believes maritime blockade, overland border disruptions, air restrictions and isolating sanctions are working",
-        "pubDate": "2026-11-14T13:24:44Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Spain vs England: UEFA Nations League – predictions, how to watch, teams",
-        "link": "https://www.aljazeera.com/sports/2026/11/14/spain-england-uefa-nations-league-predictions-how-to-watch-teams?traffic_source=rss",
-        "description": "Spain, who are unbeaten in their last 43 competitive meetings, host England in Madrid on Sunday.",
-        "pubDate": "2026-11-14T13:03:06Z",
-        "source": "aljazeera.com",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Trailblazing film producers Christine Vachon and Pamela Koffler make Governors Awards history - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTWRERThTNkE2eHZMeWFOYUlNVDV5OHJ1WHNZVTlOcTlfa3Vic2E1ZVJodmpreEhpWU1kTHVBRFlmQmQwc2xZRUhhcWhZZWEtSk56empDYjQ5V01LUGJyaExmVzdlQVRzZG5EdUp1bGtkWWJGa1pvNl9mYUtlUWpiVmFwWnYtSzB0cEI0bFVQbW9rZ3BOcHJjLWFkTmJnMkk?oc=5",
-        "description": "",
-        "pubDate": "2026-11-14T13:02:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
       }
     ],
     "Politics": [
       {
-        "title": "UK ethics watchdog chief steps back from role over sexual misconduct claims",
-        "link": "https://www.bbc.co.uk/news/articles/cmewv2kzq2e5o?at_medium=RSS&at_campaign=rss",
-        "description": "The government says Stuart Sterling has stepped back from his role after claims made during the early 2000s emerged.",
-        "pubDate": "2026-11-14T20:47:02Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6404/live/de282290-e04a-11f1-88e1-eb4e155225b3.jpg",
-        "bias": -1
-      },
-      {
-        "title": "'We can't let them down' -- After midterm wins, Democrats turn to charting path ahead",
-        "link": "https://www.npr.org/2026/11/14/nx-s1-6037777/democrats-midterms-whats-next-conference",
-        "description": "Democrats from across the country descended on Denver for a two-day conference to chart the course of their party after sweeping victories in the midterm elections.",
-        "pubDate": "2026-11-14T19:13:54Z",
+        "title": "Florida city cancels St. Patrick's Day parade, citing new anti-DEI law",
+        "link": "https://www.npr.org/2026/11/14/nx-s1-6041093/st-patricks-day-parade-canceled-florida-dei",
+        "description": "A new Florida law that prohibits taxpayer dollars from going toward diversity initiatives has prompted Delray Beach to cancel its St. Patrick's Day parade after a nearly 60-year run.",
+        "pubDate": "2026-11-15T00:03:52Z",
         "source": "npr.org",
         "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Welsh Labour 'didn't focus on improving people's lives'",
-        "link": "https://www.bbc.co.uk/news/videos/c8e39y006qx1o?at_medium=RSS&at_campaign=rss",
-        "description": "He was speaking at the first Welsh Labour conference since May's Senedd election.",
-        "pubDate": "2026-11-14T16:41:53Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0387/live/4865c6a0-e049-11f1-b441-2b33b063138f.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Welsh Labour leader says party has focused too much on powers for Senedd",
-        "link": "https://www.bbc.co.uk/news/articles/c6jre3q9jjwro?at_medium=RSS&at_campaign=rss",
-        "description": "Ken Skates apologises to voters after May's historic election defeat.",
-        "pubDate": "2026-11-14T14:56:05Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fee/live/d8461de0-e02d-11f1-9ca9-b3b288fceb81.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Young people should have legal guarantee of job or training, Milburn tells BBC",
-        "link": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss",
-        "description": "The author of a major review on youth unemployment, due next week, acknowledges the change would mean some young people losing out on benefits.",
-        "pubDate": "2026-11-14T13:48:37Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee34/live/00e38c90-dfea-11f1-93e1-3b657b665bcf.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
-        "link": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
-        "description": "This is the second time Alaskans voted down an effort to repeal the state's unique election system, which voters first approved in 2020. A repeal effort in 2024 also failed narrowly.",
-        "pubDate": "2026-11-14T13:08:05Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Week in Politics: Battle for Senate leader; young and independent midterm turnout",
-        "link": "https://www.npr.org/2026/11/14/nx-s1-6040156/week-in-politics-battle-for-senate-leader-young-and-independent-midterm-turnout",
-        "description": "The battle over the next majority leader in the U.S. Senate reflects the turnout by younger and independent voters in the midterm elections.",
-        "pubDate": "2026-11-14T12:40:26Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Legal scholar Stephen Vladeck on Texas' new Democratic AG and federal litigation",
-        "link": "https://www.npr.org/2026/11/14/nx-s1-6039286/legal-scholar-stephen-vladeck-on-texas-new-democratic-ag-and-federal-litigation",
-        "description": "NPR's Scott Simon speaks with legal scholar and Georgetown professor Stephen Vladeck about Texas Attorney General-elect Nathan Johnson, a Democrat, and what that could mean for federal litigation.",
-        "pubDate": "2026-11-14T12:40:25Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Trump faces bipartisan backlash over plan to sell public lands to states and tribes",
-        "link": "https://www.npr.org/2026/11/14/nx-s1-6039155/trump-faces-bipartisan-backlash-over-plan-to-sell-public-lands-to-states-and-tribes",
-        "description": "The Trump administration wants to sell some federal public lands to states, local governments and tribes, a plan that's once again drawing swift bi-partisan opposition.",
-        "pubDate": "2026-11-14T12:40:22Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
-        "link": "https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss",
-        "description": "Milburn is not the first to try and fix the Neets problem - so what’s different this time round, asks Laura Kuenssberg.",
-        "pubDate": "2026-11-14T12:22:43Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51fc/live/6c07bc50-df75-11f1-a701-fddedf244c16.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
-        "link": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
-        "description": "Democrats have been given a huge opportunity with majorities in both the House and Senate — but the balance of priorities, timing, messaging and discipline are all going to be major tests.",
-        "pubDate": "2026-11-14T10:00:00Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "As Democrats win big, thirst traps of male candidates take social media by storm",
-        "link": "https://www.npr.org/2026/11/14/nx-s1-6040507/democrats-male-candidates-masculinity-trump",
-        "description": "It's everywhere on social media: Democrats celebrating the attractive men voters elected in the midterms. But it's bigger than a meme and says a lot about politics of masculinity in the age of Trump.",
-        "pubDate": "2026-11-14T10:00:00Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
-        "link": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins",
-        "description": "Kreiss-Tomkins, a former state legislator, ran a campaign emphasizing bipartisanship in the the state that usually votes Republican. At 37, he'll be the youngest governor in the state's history.",
-        "pubDate": "2026-11-14T05:12:43Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Rubio says further US military action is not needed against economically weakened Iran - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMXJTcEdfVGdOV1VrbGpYTy1hMlkybS1IbjZGS0piS01yNWY5RnVsMi16ZHBMTFVIajNzcFoydFZXWmhEQXJuVXBHNFBic2JSRlJLZ05TNGlmclRmMlppOExmc2ttem1zVnhQV0ppcnVaUkd2Q29fVVNXUzJpUFEwUE1WSHVkc0tZQXpmaHBSZ0YxVWpoOGNkMmZnbw?oc=5",
-        "description": "",
-        "pubDate": "2026-11-14T00:45:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      }
-    ],
-    "Tech": [
-      {
-        "title": "Asia Society's Lizzi C. Lee on big tech restrictions after Nvidia espionage claims",
-        "link": "https://www.npr.org/2026/11/14/nx-s1-6040188/asia-societys-lizzi-c-lee-on-big-tech-restrictions-after-nvidia-espionage-claims",
-        "description": "NPR's Scott Simon asks Lizzi C. Lee of the Asia Society about restrictions on big tech in the wake of allegations of espionage against Nvidia.",
-        "pubDate": "2026-11-14T12:40:27Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Violent attacks on critics of China in Taiwan raise concern over transnational repression - AP News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQXNjTFJrc09meU8zeTJJMFAtRms5YzFGa0FETzlqZTZrNzFSZno4bGVzRnNvRkxpSGZMVV9hYld2WHBhcUpNRmNOVVdfenhreGh1TU5UeGdXVHZBSDZ3V3RtUURtcUl3NThfazNoUjdwdDFManBEdzU5ekhPQUwyZklPZE1nd0JiWFFEUWlOVlE5WTZMWXdtS1BfQWtKQQ?oc=5",
-        "description": "",
-        "pubDate": "2026-11-14T03:01:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Tech Now",
-        "link": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss",
-        "description": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.",
-        "pubDate": "2026-11-14T01:00:00Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pmwlpj.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
-        "link": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
-        "description": "The next title in the series is expected to be the biggest video game release ever.",
-        "pubDate": "2026-11-14T00:37:01Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05c7/live/ef232fd0-df7e-11f1-a701-fddedf244c16.jpg",
         "bias": -1
       }
     ],
-    "Science": [
-      {
-        "title": "How to spot November's planetary parade in the pre-dawn sky",
-        "link": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss",
-        "description": "The planets of Mercury, Venus, Mars and Jupiter will align in pre-dawn sky throughout November.",
-        "pubDate": "2026-11-14T11:07:51Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1a4/live/8fa21860-daa5-11f1-9da2-b11e4d68c08e.jpg",
-        "bias": -1
-      },
-      {
-        "title": "A new policy could help solve the U.S. organ shortage. Critics say it's unethical",
-        "link": "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics",
-        "description": "New guidelines are supposed to protect organ donors in a retrieval procedure that keeps blood flowing through livers, kidneys, lungs and hearts. But bioethicists have troubling questions.",
-        "pubDate": "2026-11-14T10:00:00Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Extreme weather leaves gardeners hedging their bets",
-        "link": "https://www.bbc.co.uk/news/articles/c6qj5r2qzqpwo?at_medium=RSS&at_campaign=rss",
-        "description": "Gardeners across Sussex are changing their planting strategies after this year's unprecedented heat.",
-        "pubDate": "2026-11-14T07:12:14Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c069/live/24132d40-df6a-11f1-a8af-15d7a25dc0d1.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Bluetongue virus confirmed on County Down farm",
-        "link": "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo?at_medium=RSS&at_campaign=rss",
-        "description": "Officials from the Department of Agriculture, Environment and Rural Affairs said the virus had been detected in three sheep.",
-        "pubDate": "2026-11-14T06:56:58Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4084/live/7a74d700-d03f-11f0-a224-bf3cbaf1e70d.jpg",
-        "bias": -1
-      }
-    ],
+    "Tech": [],
+    "Science": [],
     "Business": [
       {
-        "title": "These economists say in-person work boosts creativity, but office mandates fall short",
-        "link": "https://www.npr.org/2026/11/14/nx-s1-6040158/these-economists-say-in-person-work-boosts-creativity-but-office-mandates-fall-short",
-        "description": "A pair economists argue in a new book that people are more creative and productive when they work together in person. But it's not enough for employers to simply order workers back to the office.",
-        "pubDate": "2026-11-14T12:40:28Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Football kit giveaway aims to boost participation",
-        "link": "https://www.bbc.co.uk/news/articles/ck20v651473qo?at_medium=RSS&at_campaign=rss",
-        "description": "Millie Bright helps hand out free kit to young girls to help them keep playing in spite of costs.",
-        "pubDate": "2026-11-14T08:13:40Z",
+        "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+        "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
+        "description": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
+        "pubDate": "2026-11-15T00:01:07Z",
         "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ff1/live/39ee3da0-df6d-11f1-8112-6b9154c79b48.jpg",
-        "bias": -1
-      },
-      {
-        "title": "The rise of 'housefishing' by estate agents",
-        "link": "https://www.bbc.co.uk/news/videos/cmx295lz17wzo?at_medium=RSS&at_campaign=rss",
-        "description": "The rise of 'housefishing' by estate agents.",
-        "pubDate": "2026-11-14T07:45:50Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d858/live/cd1b7ec0-dec9-11f1-b441-2b33b063138f.jpg",
-        "bias": -1
-      },
-      {
-        "title": "What do Christmas market traders say about rising prices?",
-        "link": "https://www.bbc.co.uk/news/articles/c95y152k8erpo?at_medium=RSS&at_campaign=rss",
-        "description": "From £8 bratwursts to £11 Yorkshire pudding wraps, why is the cost of the markets rising year on year?",
-        "pubDate": "2026-11-14T07:11:26Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e35a/live/9818c800-deaf-11f1-8fb5-a771a656a227.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Food bank sees donations drop by 10% each year",
-        "link": "https://www.bbc.co.uk/news/articles/c6702j7e48eno?at_medium=RSS&at_campaign=rss",
-        "description": "Staff fear the government stockpiling advice will have an impact on donations as Christmas looms.",
-        "pubDate": "2026-11-14T06:33:06Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce7b/live/8c0a50d0-2ce3-11f0-b9d2-ffe9aa23cdd0.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b5f/live/f688f9b0-df6c-11f1-8112-6b9154c79b48.jpg",
         "bias": -1
       }
     ],
     "Culture": [
       {
-        "title": "Noel Fielding 'appalled' by jokes he made with Russell Brand",
-        "link": "https://www.bbc.co.uk/news/articles/cw808ll7x093o?at_medium=RSS&at_campaign=rss",
-        "description": "The Great British Bake Off presenter says he has not been in contact with the convicted rapist \"for many years\".",
-        "pubDate": "2026-11-14T14:46:26Z",
+        "title": "Hannah Fry feels 'unbelievably lucky' after cervical cancer treatment",
+        "link": "https://www.bbc.co.uk/news/articles/cw62p4n3n1xyo?at_medium=RSS&at_campaign=rss",
+        "description": "The presenter says she has received a 'five-year clear' after having a hysterectomy in her thirties.",
+        "pubDate": "2026-11-15T00:09:29Z",
         "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e601/live/a305b450-e033-11f1-9ca9-b3b288fceb81.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36ca/live/a5a42090-e06d-11f1-99e6-531f8829f5a3.jpg",
         "bias": -1
       },
       {
-        "title": "Brazil loses 3-2 to Japan despite Vinicius brace with red cards for Ancelotti and Raphinha - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU2llZmpqblV2SmdmLXJtV2dFdGNDa2ZJbUExMlVla3V6Wl80YkFzWWM2RTFLUXdOQVNtU0VQVWk2WGptSFV5NUZlSDUzekxLVnRyME9YSzg3UjJDTWNCajhFNXFBUTJ6TWwxcGxJUTFXdEE5akZfbXNSbnk5Z1pZbG1EQ19BeFB0SjFha3R0SUZ3ZVc4anc?oc=5",
-        "description": "",
-        "pubDate": "2026-11-14T14:25:00Z",
-        "source": "news.google.com",
-        "image": "",
-        "bias": 0
-      },
-      {
-        "title": "Bonnie Tyler remembers loved ones in posthumous Christmas single",
-        "link": "https://www.bbc.co.uk/news/articles/c6y493wzkxgko?at_medium=RSS&at_campaign=rss",
-        "description": "Christmas single Love, Light and Peace was Bonnie Tyler's last studio recording, and was released on Friday.",
-        "pubDate": "2026-11-14T13:33:46Z",
+        "title": "Holly Humberstone: People can't connect to a pop star who's 'too polished'",
+        "link": "https://www.bbc.co.uk/news/articles/cw77p7yj42k5o?at_medium=RSS&at_campaign=rss",
+        "description": "The singer felt forced to compete with her female peers, until she realised the power of longevity.",
+        "pubDate": "2026-11-15T00:07:29Z",
         "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a135/live/c8585270-d6a7-11f1-b441-2b33b063138f.jpg",
-        "bias": -1
-      },
-      {
-        "title": "In 'Possible Love,' a power struggle goes beyond class — it's also about story",
-        "link": "https://www.npr.org/2026/11/14/nx-s1-6036754/possible-love-review",
-        "description": "A wealthy documentarian visits a community devastated by job loss in Korean director Lee Chang-dong's latest feature.",
-        "pubDate": "2026-11-14T12:00:00Z",
-        "source": "npr.org",
-        "image": "",
-        "bias": -1
-      },
-      {
-        "title": "Why so much love between Ireland and Garth Brooks?",
-        "link": "https://www.bbc.co.uk/news/articles/c65y1jjlq1qjo?at_medium=RSS&at_campaign=rss",
-        "description": "Country music superstar Garth Brooks will perform a multi-city tour of Ireland in 2027.",
-        "pubDate": "2026-11-14T06:48:14Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f29/live/e2059b00-df72-11f1-b844-3146c4983677.jpg",
-        "bias": -1
-      },
-      {
-        "title": "Brand, Walliams and MAFS: Is this a reckoning for the entertainment industry?",
-        "link": "https://www.bbc.co.uk/news/articles/cqn70lz71lg8o?at_medium=RSS&at_campaign=rss",
-        "description": "Noor Nanji, culture correspondent, explores how these stories represent the consequences of changes that began years ago, rather than being a sudden cultural shift.",
-        "pubDate": "2026-11-14T00:29:38Z",
-        "source": "bbc.co.uk",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c24/live/0b3d63c0-dfc5-11f1-81d0-51c2d6384bd2.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e68f/live/3aa58e70-dcf6-11f1-9ef0-4b5930e2f80e.jpg",
         "bias": -1
       }
     ]
